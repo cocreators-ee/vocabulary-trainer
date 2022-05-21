@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "data_processing"
+version = "0.1.0"
+description = "Data processing utilities for vocabulary-trainer"
+authors = []
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pydantic = "^1.9.1"
+loguru = "^0.6.0"
+orjson = "^3.6.8"
+requests = "^2.27.1"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+translate = "data_processing.translate:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
