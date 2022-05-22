@@ -21,6 +21,11 @@ After checking out locally, run in the folder:
 pre-commit install
 ```
 
+## Data processing (optional)
+
+When you add new languages or words and need them automatically processed via the 
+Translation API, you can use the data processing tooling.
+
 To run the language data processing you will need the following environment variables
 set:
 
