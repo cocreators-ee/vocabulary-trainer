@@ -28,3 +28,17 @@ set:
 
 To get the key set up your resource as per the guidance at
 https://docs.microsoft.com/en-us/azure/cognitive-services/translator/quickstart-translator?tabs=python#prerequisites
+
+Once that is set up, you can run it:
+
+```bash
+poetry install
+poetry run translate
+```
+
+This will generate `frontend/src/languages/languages.json` and
+`frontend/src/languages/*/words.json` for configured languages.
+
+Language configuration is stored in `data_processing/settings.py` and source word lists
+in `data_processing/languages/*/words.txt` - the word lists must be in UTF-8 encoding,
+one word / phrase per line.

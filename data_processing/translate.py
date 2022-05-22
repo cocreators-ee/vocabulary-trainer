@@ -11,13 +11,15 @@ from pydantic import BaseModel
 from data_processing.settings import conf
 
 CWD = Path(".")
-LOOKUP_URL = conf.TRANSLATOR_ENDPOINT + "/dictionary/lookup"
+LANGUAGES_DST = CWD / "frontend" / "src" / "languages"
+LANGUAGES_SRC = CWD / "data_processing" / "languages"
 LOOKUP_HEADERS = {
     "Ocp-Apim-Subscription-Key": conf.TRANSLATOR_KEY,
     "Ocp-Apim-Subscription-Region": conf.TRANSLATOR_LOCATION,
     "Content-Type": "application/json",
 }
-_SESSION = requests.Session()
+LOOKUP_URL = conf.TRANSLATOR_ENDPOINT + "/dictionary/lookup"
+SESSION = requests.Session()
 
 
 class Language(BaseModel):
@@ -49,7 +51,7 @@ def get_translation(code, source) -> dict:
 
     body = [{"text": source}]
 
-    response = _SESSION.post(LOOKUP_URL, params=params, headers=headers, json=body)
+    response = SESSION.post(LOOKUP_URL, params=params, headers=headers, json=body)
     result = response.json()
     # See https://docs.microsoft.com/en-us/azure/cognitive-services/translator/quickstart-translator?tabs=python#dictionary-lookup-alternate-translations
     return result
@@ -58,13 +60,17 @@ def get_translation(code, source) -> dict:
 def detect_languages() -> list[Language]:
     languages = []
 
+    # Check configuration entries
     for code, name in conf.LANGUAGES.items():
-        word_file = CWD / "data_processing" / "languages" / code / "words.txt"
-        dst_file = CWD / "frontend" / "src" / "languages" / code / "words.json"
+        word_file = LANGUAGES_SRC / code / "words.txt"
+        dst_file = LANGUAGES_DST / code / "words.json"
 
         if not word_file.exists():
             logger.warning(
-                "Failed to find {path} for language {code}", path=word_file, code=code
+                "Failed to find {path} for language {lang} ({code})",
+                path=word_file,
+                lang=name,
+                code=code,
             )
             continue
 
@@ -77,7 +83,8 @@ def detect_languages() -> list[Language]:
             )
         )
 
-    language_paths = os.listdir(str(CWD / "data_processing" / "languages"))
+    # Check for any missing from configuration
+    language_paths = os.listdir(str(LANGUAGES_SRC))
     for code in language_paths:
         if conf.LANGUAGES.get(code, None) is None:
             logger.warning(
@@ -88,6 +95,10 @@ def detect_languages() -> list[Language]:
 
 
 def is_translated(source, translations):
+    """
+    Attempt to filter out words that were not correctly translated
+    """
+
     if not translations:
         return False
 
@@ -100,11 +111,18 @@ def is_translated(source, translations):
 
 
 def process_language(language: Language):
-    logger.info("Processing language {code}", code=language.code)
+    """
+    Load the word list for the language, and existing translations.
+    Put every word not yet translated through the Translation API,
+    and update the word data file for frontend.
+    """
+
     word_data: list[dict] = []
     translated_words: list[str] = []
+    logger.info("Processing {lang}", lang=language.name)
 
     if language.dst_file.exists():
+        # Read previous translations
         _word_data = orjson.loads(language.dst_file.read_bytes())
         logger.info("Found existing translations at {path}", path=language.dst_file)
 
@@ -119,10 +137,16 @@ def process_language(language: Language):
         language.dst_file.parent.mkdir(parents=True, exist_ok=True)
 
     def _write_data():
+        """
+        Write the word data file for this language
+        """
         data = orjson.dumps(word_data, option=orjson.OPT_INDENT_2)
         language.dst_file.write_bytes(data)
 
-    def _add_word(source, translate_results):
+    def _add_translation(source, translate_results):
+        """
+        Process translation result to a word
+        """
         translations = []
         for translate_result in translate_results:
             for translation in translate_result["translations"]:
@@ -135,15 +159,15 @@ def process_language(language: Language):
 
         if not is_translated(source, translations):
             logger.warning(
-                "Failed to translate {code} word {source}",
-                code=language.code,
+                "Failed to translate {lang} word {source}",
+                lang=language.name,
                 source=source,
             )
             return
 
         logger.info(
-            "{code} word {source} is {translations}",
-            code=language.code,
+            "{lang} word {source} is {translations}",
+            lang=language.name,
             source=source,
             translations=translations,
         )
@@ -162,12 +186,15 @@ def process_language(language: Language):
             ).dict()
         )
 
+        # A bit excessive, but this way we save time and API calls while developing
         _write_data()
 
+    # Loop through every word
     with language.word_file.open(encoding="utf-8") as file:
         for word in file.readlines():
             word = word.strip()
             if word == "":
+                # Skip empty lines
                 continue
 
             if word in translated_words:
@@ -181,12 +208,29 @@ def process_language(language: Language):
                 source=word,
             )
 
-            _add_word(word, response)
+            _add_translation(word, response)
 
+    # Just in case we optimize the saves later
     _write_data()
 
 
 def main():
+    LANGUAGES_DST.mkdir(parents=True, exist_ok=True)
+
     languages = detect_languages()
     for lang in languages:
         process_language(lang)
+
+    language_conf_data = orjson.dumps(
+        [
+            {
+                "code": lang.code,
+                "name": lang.name,
+            }
+            for lang in languages
+        ],
+        option=orjson.OPT_INDENT_2,
+    )
+
+    language_conf = LANGUAGES_DST / "languages.json"
+    language_conf.write_bytes(language_conf_data)

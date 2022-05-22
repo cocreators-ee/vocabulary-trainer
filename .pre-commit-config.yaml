@@ -46,6 +46,7 @@ repos:
       # Run prettier to format non-Python files
       - id: prettier
         additional_dependencies:
+          - prettier@2.6.2
           - prettier-plugin-svelte@2.7.0
         exclude: |
           (?x)^(
