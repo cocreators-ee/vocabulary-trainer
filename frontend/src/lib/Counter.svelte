@@ -1,13 +1,15 @@
 <script>
+  import { Button } from 'carbon-components-svelte'
+
   let count = 0
   const increment = () => {
     count += 1
   }
 </script>
 
-<button on:click={increment}>
+<Button on:click={increment}>
   Clicks: {count}
-</button>
+</Button>
 
 <style>
   button {
