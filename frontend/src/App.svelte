@@ -1,6 +1,7 @@
 <script>
   import logo from './assets/svelte.png'
   import Counter from './lib/Counter.svelte'
+  import 'carbon-components-svelte/css/g10.css'
 </script>
 
 <main>
