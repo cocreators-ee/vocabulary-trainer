@@ -1,23 +1,28 @@
 <script>
   import logo from './assets/svelte.png'
   import Counter from './lib/Counter.svelte'
+  import { Grid, Row, Column } from 'carbon-components-svelte'
+  import { Link } from 'carbon-components-svelte'
+  import { Select, SelectItem } from 'carbon-components-svelte'
+  import { Loading } from 'carbon-components-svelte'
+  import { SkeletonPlaceholder } from 'carbon-components-svelte'
 
   import 'carbon-components-svelte/css/g10.css'
+  import 'carbon-components-svelte/css/all.css'
 </script>
 
 <main>
-  <img src={logo} alt="Svelte Logo" />
-  <h1>Hello world!</h1>
+  <h2><strong>Tere!</strong></h2>
+
+  <script>
+    import { SkeletonPlaceholder } from 'carbon-components-svelte'
+  </script>
+
+  <SkeletonPlaceholder />
 
   <Counter />
-
-  <p>
-    Visit <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte apps.
-  </p>
-  <p>
-    Check out <a href="https://github.com/sveltejs/kit#readme">SvelteKit</a> for the officially
-    supported framework, also powered by Vite!
-  </p>
+  <p>Vocabulary trainer</p>
+  <p>Copyright @ 2022</p>
 </main>
 
 <style>
