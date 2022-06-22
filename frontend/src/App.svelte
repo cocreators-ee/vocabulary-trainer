@@ -1,5 +1,4 @@
 <script>
-  import logo from './assets/svelte.png'
   import Counter from './lib/Counter.svelte'
   import { Grid, Row, Column } from 'carbon-components-svelte'
   import { Link } from 'carbon-components-svelte'
