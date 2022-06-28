@@ -2,7 +2,7 @@
   <nav><u> Estonian </u></nav>
 
   <div class="content">
-    <main />
+    <slot />
   </div>
   <footer>
     <p>Vocabulary trainer</p>
