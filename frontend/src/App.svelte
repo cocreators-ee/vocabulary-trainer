@@ -1,15 +1,18 @@
+<script>
+  import Main from './lib/Main.svelte'
+  import { Link } from 'carbon-components-svelte'
+</script>
+
 <div class="container">
   <nav><u> Estonian </u></nav>
 
   <div class="content">
-    <main />
+    <Main />
   </div>
   <footer>
     <p>Vocabulary trainer</p>
     <p>Copyright @ 2022 Henry Elmest</p>
-    <a href="https://github.com/cocreators-ee/vocabulary-trainer" target="_blank"
-      ><p>github</p></a
-    >
+    <Link href="https://github.com/cocreators-ee/vocabulary-trainer">Github</Link>
   </footer>
 </div>
 

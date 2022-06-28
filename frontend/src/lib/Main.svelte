@@ -1,26 +1,19 @@
 <script>
-  import Counter from './lib/Counter.svelte'
-  import { Grid, Row, Column } from 'carbon-components-svelte'
-  import { Link } from 'carbon-components-svelte'
-  import { Select, SelectItem } from 'carbon-components-svelte'
-  import { Loading } from 'carbon-components-svelte'
+  import Counter from './Counter.svelte'
   import { SkeletonPlaceholder } from 'carbon-components-svelte'
-  import Layout from './lib/Layout.svelte'
 
   import 'carbon-components-svelte/css/g10.css'
   import 'carbon-components-svelte/css/all.css'
 </script>
 
-<Layout>
-  <main>
-    <h1><strong>Tere!</strong></h1>
-    <div class="placeholder">
-      <SkeletonPlaceholder />
-    </div>
+<main>
+  <h2><strong>Tere!</strong></h2>
+  <div class="placeholder">
+    <SkeletonPlaceholder />
+  </div>
 
-    <Counter />
-  </main>
-</Layout>
+  <Counter />
+</main>
 
 <style>
   h2 {
