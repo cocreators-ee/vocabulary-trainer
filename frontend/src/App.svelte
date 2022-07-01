@@ -12,7 +12,9 @@
   <footer>
     <p>Vocabulary trainer</p>
     <p>Copyright @ 2022 Henry Elmest</p>
-    <Link href="https://github.com/cocreators-ee/vocabulary-trainer">Github</Link>
+    <Link href="https://github.com/cocreators-ee/vocabulary-trainer"
+      ><h4>Github</h4></Link
+    >
   </footer>
 </div>
 
@@ -20,13 +22,13 @@
   footer {
     text-align: center;
   }
-
   :global(html, body, #app) {
     display: flex;
     flex: 1;
     flex-direction: column;
     width: 100%;
     height: 100%;
+    background-color: white;
   }
   :root {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
@@ -36,12 +38,16 @@
     flex: 1;
   }
 
+  @media only screen and (min-width: 900px) {
+    .container {
+      max-width: 768px;
+      margin: 0 auto;
+    }
+  }
   .container {
     display: flex;
     flex: 1;
     flex-direction: column;
-    max-width: 768px;
-    margin: 0 auto;
     text-align: right;
   }
 </style>

@@ -1,18 +1,11 @@
 <script>
   import { Button } from 'carbon-components-svelte'
-
-  let count = 0
-  const increment = () => {
-    count += 1
-  }
 </script>
 
-<Button on:click={increment}>
-  Clicks: {count}
-</Button>
+<center><Button>Show translation</Button></center>
 
 <style>
-  button {
+  Button {
     font-family: inherit;
     font-size: inherit;
     padding: 1em 2em;
@@ -24,13 +17,6 @@
     width: 200px;
     font-variant-numeric: tabular-nums;
     cursor: pointer;
-  }
-
-  button:focus {
-    border: 2px solid #ff3e00;
-  }
-
-  button:active {
-    background-color: rgba(255, 62, 0, 0.2);
+    display: flex;
   }
 </style>

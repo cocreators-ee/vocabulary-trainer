@@ -7,16 +7,18 @@
 </script>
 
 <main>
-  <h2><strong>Tere!</strong></h2>
+  <h1><strong>Tere</strong></h1>
   <div class="placeholder">
-    <SkeletonPlaceholder />
+    <SkeletonPlaceholder
+      style="height: 8em;  width: 14rem; margin-bottom: 25px; margin-top: 145px"
+    />
   </div>
 
   <Counter />
 </main>
 
 <style>
-  h2 {
+  h1 {
     margin: 3rem 0;
   }
   .placeholder {
@@ -29,10 +31,5 @@
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-  }
-
-  img {
-    height: 16rem;
-    width: 16rem;
   }
 </style>
