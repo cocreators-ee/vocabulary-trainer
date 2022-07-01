@@ -4,7 +4,7 @@
 </script>
 
 <div class="container">
-  <nav><u> Estonian </u></nav>
+  <nav><Link class="lang">Estonian</Link></nav>
 
   <div class="content">
     <Main />
@@ -12,15 +12,17 @@
   <footer>
     <p>Vocabulary trainer</p>
     <p>Copyright @ 2022 Henry Elmest</p>
-    <Link href="https://github.com/cocreators-ee/vocabulary-trainer"
-      ><h4>Github</h4></Link
+    <Link href="https://github.com/cocreators-ee/vocabulary-trainer"><p>Github</p></Link
     >
   </footer>
 </div>
 
 <style>
   footer {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: auto;
   }
   :global(html, body, #app) {
     display: flex;
@@ -36,18 +38,34 @@
   }
   .content {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 
-  @media only screen and (min-width: 900px) {
-    .container {
-      max-width: 768px;
-      margin: 0 auto;
-    }
-  }
   .container {
     display: flex;
     flex: 1;
     flex-direction: column;
-    text-align: right;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+
+  nav {
+    display: flex;
+    margin-left: auto;
+  }
+
+  :global(.lang) {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  @media only screen and (min-width: 60rem) {
+    .container {
+      min-width: 45rem;
+      margin: 0 auto;
+    }
   }
 </style>

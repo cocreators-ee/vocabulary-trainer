@@ -1,5 +1,5 @@
 <script>
-  import Counter from './Counter.svelte'
+  import Button from './Button.svelte'
   import { SkeletonPlaceholder } from 'carbon-components-svelte'
 
   import 'carbon-components-svelte/css/g10.css'
@@ -7,29 +7,33 @@
 </script>
 
 <main>
-  <h1><strong>Tere</strong></h1>
+  <h1>Tere</h1>
   <div class="placeholder">
-    <SkeletonPlaceholder
-      style="height: 8em;  width: 14rem; margin-bottom: 25px; margin-top: 145px"
-    />
+    <SkeletonPlaceholder style="height: 8em;  width: 14rem;" />
   </div>
 
-  <Counter />
+  <Button />
 </main>
 
 <style>
   h1 {
-    margin: 3rem 0;
+    font-weight: bold;
+    font-size: 3rem;
   }
+
   .placeholder {
     margin: 0 auto;
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
   }
 
   main {
-    text-align: center;
     padding: 1em;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 </style>
