@@ -12,18 +12,18 @@
   <footer>
     <p>Vocabulary trainer</p>
     <p>Copyright @ 2022 Henry Elmest</p>
-    <Link href="https://github.com/cocreators-ee/vocabulary-trainer"><p>Github</p></Link
-    >
+    <p>
+      <Link href="https://github.com/cocreators-ee/vocabulary-trainer">Github</Link>
+    </p>
   </footer>
 </div>
 
 <style>
-  footer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: auto;
+  :root {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+      Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   }
+
   :global(html, body, #app) {
     display: flex;
     flex: 1;
@@ -32,15 +32,10 @@
     height: 100%;
     background-color: white;
   }
-  :root {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
-      Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  }
-  .content {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+
+  :global(.lang) {
+    color: #000;
+    text-decoration: underline;
   }
 
   .container {
@@ -52,14 +47,23 @@
     padding: 1rem;
   }
 
+  .content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: auto;
+  }
+
   nav {
     display: flex;
     margin-left: auto;
-  }
-
-  :global(.lang) {
-    color: #000;
-    text-decoration: underline;
   }
 
   @media only screen and (min-width: 60rem) {

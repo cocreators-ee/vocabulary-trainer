@@ -7,17 +7,17 @@
 </script>
 
 <main>
-  <h1>Tere</h1>
+  <h2 class="heading">Tere</h2>
   <div class="placeholder">
-    <SkeletonPlaceholder style="height: 8em;  width: 14rem;" />
+    <SkeletonPlaceholder style="height: 8rem;  width: 14rem;" />
   </div>
 
   <Button />
 </main>
 
 <style>
-  h1 {
-    font-weight: bold;
+  .heading {
+    font-weight: 700;
     font-size: 3rem;
   }
 
@@ -29,7 +29,7 @@
   }
 
   main {
-    padding: 1em;
+    padding: 1rem;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
