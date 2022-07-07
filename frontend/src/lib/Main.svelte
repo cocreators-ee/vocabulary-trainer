@@ -7,7 +7,7 @@
 </script>
 
 <main>
-  <h2 class="heading">Tere</h2>
+  <h2>Tere</h2>
   <div class="placeholder">
     <SkeletonPlaceholder style="height: 8rem;  width: 14rem;" />
   </div>
@@ -16,7 +16,7 @@
 </main>
 
 <style>
-  .heading {
+  h2 {
     font-weight: 700;
     font-size: 3rem;
   }
