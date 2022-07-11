@@ -1,63 +1,52 @@
 <script>
   import { Button } from 'carbon-components-svelte'
   import { SkeletonPlaceholder } from 'carbon-components-svelte'
-  import { currentWord, skipNext } from './stores'
-  import { onDestroy } from 'svelte'
+  import { currentWord, randomize } from './stores'
 
   import 'carbon-components-svelte/css/g10.css'
   import 'carbon-components-svelte/css/all.css'
 
-  let skeleton = { show: false }
+  let makeVisible = false
 
-  function toggleTranslation() {
-    skeleton.show = !skeleton.show
+  function showTranslation() {
+    makeVisible = !makeVisible
   }
 
-  function nextWords() {
-    skipNext()
-    skeleton.show = !skeleton.show
+  function nextWord() {
+    randomize($currentWord.source)
+    showTranslation()
   }
 
   function handleKeydown(event) {
-    if (skeleton.show) {
-      nextWords()
-    } else {
-      if (event.key === 'Enter' || event.code === 'Space') {
-        skeleton.show = !skeleton.show
+    if (event.key === 'Enter' || event.code === 'Space') {
+      if (makeVisible) {
+        nextWord()
+      } else {
+        showTranslation()
       }
     }
   }
-
-  let word
-  let translation
-
-  const unsubscribe = currentWord.subscribe((value) => {
-    word = value.source
-    translation = value.translations[0].word
-  })
-
-  onDestroy(unsubscribe)
 </script>
 
 <svelte:window on:keydown={handleKeydown} />
 <main>
-  <h2 class="heading">{word}</h2>
+  <h2>{$currentWord.source}</h2>
   <div class="placeholder">
-    {#if skeleton.show}
-      <p>{translation}</p>
+    {#if makeVisible}
+      <p>{$currentWord.translations[0].word}</p>
     {:else}
-      <button on:click={toggleTranslation}>
+      <button on:click={showTranslation}>
         <SkeletonPlaceholder style="height: 8rem;  width: 14rem;" />
       </button>
     {/if}
   </div>
 
-  {#if skeleton.show}
-    <Button kind="primary" class="translate-button" on:click={nextWords}
+  {#if makeVisible}
+    <Button kind="primary" class="translate-button" on:click={nextWord}
       >Next word
     </Button>
   {:else}
-    <Button kind="primary" class="translate-button" on:click={toggleTranslation}
+    <Button kind="primary" class="translate-button" on:click={showTranslation}
       >Show translation
     </Button>
   {/if}
@@ -72,7 +61,7 @@
     border: none;
   }
 
-  .heading {
+  h2 {
     font-weight: 700;
     font-size: 3rem;
   }

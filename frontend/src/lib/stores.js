@@ -11,6 +11,10 @@ function getRandomWord() {
 
 export const currentWord = writable(getRandomWord())
 
-export function skipNext() {
-  currentWord.set(getRandomWord())
+export function randomize(word) {
+  let nextWord = getRandomWord()
+  while (nextWord === word) {
+    nextWord = getRandomWord()
+  }
+  currentWord.set(nextWord)
 }
