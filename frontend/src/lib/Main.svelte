@@ -1,21 +1,66 @@
 <script>
-  import Button from './Button.svelte'
+  import { Button } from 'carbon-components-svelte'
   import { SkeletonPlaceholder } from 'carbon-components-svelte'
+  import { currentWord, randomize } from './stores'
 
   import 'carbon-components-svelte/css/g10.css'
   import 'carbon-components-svelte/css/all.css'
+
+  let isTranslationVisible = false
+
+  function showTranslation() {
+    isTranslationVisible = true
+  }
+
+  function nextWord() {
+    randomize($currentWord.source)
+    isTranslationVisible = false
+  }
+
+  function handleKeydown(event) {
+    if (event.key === 'Enter' || event.code === 'Space') {
+      if (isTranslationVisible) {
+        nextWord()
+      } else {
+        showTranslation()
+      }
+    }
+  }
 </script>
 
+<svelte:window on:keydown={handleKeydown} />
 <main>
-  <h2>Tere</h2>
+  <h2>{$currentWord.source}</h2>
   <div class="placeholder">
-    <SkeletonPlaceholder style="height: 8rem;  width: 14rem;" />
+    {#if isTranslationVisible}
+      <p>{$currentWord.translations[0].word}</p>
+    {:else}
+      <button on:click={showTranslation}>
+        <SkeletonPlaceholder style="height: 8rem;  width: 14rem;" />
+      </button>
+    {/if}
   </div>
 
-  <Button />
+  {#if isTranslationVisible}
+    <Button kind="primary" class="translate-button" on:click={nextWord}>
+      Next word
+    </Button>
+  {:else}
+    <Button kind="primary" class="translate-button" on:click={showTranslation}>
+      Show translation
+    </Button>
+  {/if}
 </main>
 
 <style>
+  :global(.translate-button) {
+    padding: 1rem 2.5rem;
+  }
+
+  button {
+    border: none;
+  }
+
   h2 {
     font-weight: 700;
     font-size: 3rem;
