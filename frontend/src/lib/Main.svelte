@@ -6,20 +6,20 @@
   import 'carbon-components-svelte/css/g10.css'
   import 'carbon-components-svelte/css/all.css'
 
-  let isVisible = false
+  let isTranslationVisible = false
 
   function showTranslation() {
-    isVisible = !isVisible
+    isTranslationVisible = true
   }
 
   function nextWord() {
     randomize($currentWord.source)
-    showTranslation()
+    isTranslationVisible = false
   }
 
   function handleKeydown(event) {
     if (event.key === 'Enter' || event.code === 'Space') {
-      if (isVisible) {
+      if (isTranslationVisible) {
         nextWord()
       } else {
         showTranslation()
@@ -32,7 +32,7 @@
 <main>
   <h2>{$currentWord.source}</h2>
   <div class="placeholder">
-    {#if isVisible}
+    {#if isTranslationVisible}
       <p>{$currentWord.translations[0].word}</p>
     {:else}
       <button on:click={showTranslation}>
@@ -41,13 +41,13 @@
     {/if}
   </div>
 
-  {#if isVisible}
-    <Button kind="primary" class="translate-button" on:click={nextWord}
-      >Next word
+  {#if isTranslationVisible}
+    <Button kind="primary" class="translate-button" on:click={nextWord}>
+      Next word
     </Button>
   {:else}
-    <Button kind="primary" class="translate-button" on:click={showTranslation}
-      >Show translation
+    <Button kind="primary" class="translate-button" on:click={showTranslation}>
+      Show translation
     </Button>
   {/if}
 </main>

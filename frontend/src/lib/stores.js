@@ -11,9 +11,9 @@ function getRandomWord() {
 
 export const currentWord = writable(getRandomWord())
 
-export function randomize(word) {
+export function randomize(previousWord) {
   let nextWord = getRandomWord()
-  while (nextWord === word) {
+  while (nextWord === previousWord) {
     nextWord = getRandomWord()
   }
   currentWord.set(nextWord)
