@@ -1,11 +1,11 @@
 <script>
   import Main from './lib/Main.svelte'
   import { Link } from 'carbon-components-svelte'
+  import LanguageSelector from './lib/LanguageSelector.svelte'
 </script>
 
 <div class="container">
-  <nav><Link class="lang">Estonian</Link></nav>
-
+  <LanguageSelector />
   <div class="content">
     <Main />
   </div>
@@ -23,7 +23,6 @@
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
       Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   }
-
   :global(html, body, #app) {
     display: flex;
     flex: 1;
@@ -32,12 +31,6 @@
     height: 100%;
     background-color: white;
   }
-
-  :global(.lang) {
-    color: #000;
-    text-decoration: underline;
-  }
-
   .container {
     display: flex;
     flex: 1;
@@ -46,26 +39,18 @@
     justify-content: center;
     padding: 1rem;
   }
-
   .content {
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
-
   footer {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: auto;
   }
-
-  nav {
-    display: flex;
-    margin-left: auto;
-  }
-
   @media only screen and (min-width: 60rem) {
     .container {
       min-width: 45rem;
