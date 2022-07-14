@@ -8,14 +8,18 @@ const words = {
   fi,
 }
 
-const currentLanguage = languages[0]
+export const currentLanguage = writable(languages[0])
+let _currentLanguage
+currentLanguage.subscribe((value) => (_currentLanguage = value))
 
 function randInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min
 }
 
 function getRandomWord() {
-  return words[currentLanguage.code][randInt(0, words[currentLanguage.code].length - 1)]
+  return words[_currentLanguage.code][
+    randInt(0, words[_currentLanguage.code].length - 1)
+  ]
 }
 
 export const currentWord = writable(getRandomWord())
