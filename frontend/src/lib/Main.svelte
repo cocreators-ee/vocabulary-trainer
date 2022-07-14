@@ -33,9 +33,11 @@
   <h2>{$currentWord.source}</h2>
   <div class="placeholder">
     {#if isTranslationVisible}
-      {#each $currentWord.translations as { word }}
-        <span>{word}</span>&nbsp;
-      {/each}
+      <div>
+        {#each $currentWord.translations as { word }}
+          <span class="word">{word}</span><span class="separator">, </span>
+        {/each}
+      </div>
     {:else}
       <button on:click={showTranslation}>
         <SkeletonPlaceholder style="height: 8rem;  width: 14rem;" />
@@ -87,9 +89,15 @@
 
   span {
     text-transform: capitalize;
+    font-size: 1.35rem;
   }
 
-  span:not(:last-of-type)::after {
-    content: ',';
+  span.separator:last-of-type {
+    display: none;
+  }
+
+  span.word {
+    background-color: #eeeeee;
+    padding: 0 8px;
   }
 </style>
