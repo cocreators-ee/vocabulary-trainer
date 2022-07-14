@@ -31,3 +31,12 @@ export function randomize(previousWord) {
   }
   currentWord.set(nextWord)
 }
+
+export function setLanguage(languageCode) {
+  languages.forEach((value) => {
+    if (value.code === languageCode) {
+      currentLanguage.set(value)
+    }
+  })
+  currentWord.set(getRandomWord())
+}
