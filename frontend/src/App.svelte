@@ -1,13 +1,14 @@
 <script>
-  import Main from './lib/Main.svelte'
+  import Router from 'svelte-spa-router'
   import { Link } from 'carbon-components-svelte'
+  import { routes } from './routes'
 </script>
 
 <div class="container">
   <nav><Link class="lang">Estonian</Link></nav>
 
   <div class="content">
-    <Main />
+    <Router {routes} />
   </div>
   <footer>
     <p>Vocabulary trainer</p>
@@ -19,11 +20,6 @@
 </div>
 
 <style>
-  :root {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
-      Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  }
-
   :global(html, body, #app) {
     display: flex;
     flex: 1;
