@@ -24,25 +24,26 @@ function randInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min
 }
 
-function getRandomWord() {
-  return wordCache[randInt(0, wordCache.length - 1)]
+async function getRandomWord() {
+  let words = await getWords()
+  return words[randInt(0, words.length - 1)]
 }
 
-export const currentWord = writable(getRandomWord())
+export const currentWord = writable(await getRandomWord())
 
-export function randomize(previousWord) {
-  let nextWord = getRandomWord()
+export async function randomize(previousWord) {
+  let nextWord = await getRandomWord()
   while (nextWord === previousWord) {
-    nextWord = getRandomWord()
+    nextWord = await getRandomWord()
   }
   currentWord.set(nextWord)
 }
 
-export function setLanguage(languageCode) {
+export async function setLanguage(languageCode) {
   languages.forEach((value) => {
     if (value.code === languageCode) {
       currentLanguage.set(value)
     }
   })
-  currentWord.set(getRandomWord())
+  currentWord.set(await getRandomWord())
 }
