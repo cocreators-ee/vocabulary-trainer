@@ -4,6 +4,13 @@ import languages from '../languages/languages.json'
 let wordCache
 let cachedLanguage
 
+export const currentLanguage = writable(languages[0])
+let _currentLanguage
+currentLanguage.subscribe(async (value) => {
+  _currentLanguage = value
+  await getWords()
+})
+
 async function getWords() {
   if (cachedLanguage !== _currentLanguage.code) {
     wordCache = (await import(`../languages/${_currentLanguage.code}/words.json`))
@@ -12,13 +19,6 @@ async function getWords() {
   }
   return wordCache
 }
-
-export const currentLanguage = writable(languages[0])
-let _currentLanguage
-currentLanguage.subscribe(async (value) => {
-  _currentLanguage = value
-  await getWords()
-})
 
 function randInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min
