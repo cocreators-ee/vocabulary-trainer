@@ -1,27 +1,41 @@
 import { writable } from 'svelte/store'
 import languages from '../languages/languages.json'
 
+let words = [
+  {
+    source: 'tere',
+    translations: [
+      {
+        word: 'Hi',
+        tag: 'NOUN',
+      },
+    ],
+  },
+]
+
+async function loadWords() {
+  return (await import(`../languages/${_currentLanguage.code}/words.json`)).default
+}
+
 export const currentLanguage = writable(languages[0])
 let _currentLanguage
-currentLanguage.subscribe((value) => (_currentLanguage = value))
-
-async function loadWords(code) {
-  return (await import(`../languages/${code}/words.json`)).default
-}
+currentLanguage.subscribe(async (value) => {
+  _currentLanguage = value
+  words = await loadWords()
+})
 
 function randInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min
 }
 
-async function getRandomWord() {
-  let words = await loadWords(_currentLanguage.code)
+function getRandomWord() {
   return words[randInt(0, words.length - 1)]
 }
 
-export const currentWord = writable(await getRandomWord())
+export const currentWord = writable(getRandomWord())
 
-export async function randomize(previousWord) {
-  let nextWord = await getRandomWord()
+export function randomize(previousWord) {
+  let nextWord = getRandomWord()
   while (nextWord === previousWord) {
     nextWord = getRandomWord()
   }
@@ -34,5 +48,5 @@ export async function setLanguage(languageCode) {
       currentLanguage.set(value)
     }
   })
-  currentWord.set(await getRandomWord())
+  currentWord.set(getRandomWord())
 }
