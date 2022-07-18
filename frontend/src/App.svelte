@@ -23,6 +23,7 @@
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
       Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   }
+
   :global(html, body, #app) {
     display: flex;
     flex: 1;
@@ -31,6 +32,7 @@
     height: 100%;
     background-color: white;
   }
+
   .container {
     display: flex;
     flex: 1;
@@ -39,18 +41,21 @@
     justify-content: center;
     padding: 1rem;
   }
+
   .content {
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
+
   footer {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: auto;
   }
+
   @media only screen and (min-width: 60rem) {
     .container {
       min-width: 45rem;
