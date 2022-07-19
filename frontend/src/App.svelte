@@ -2,11 +2,11 @@
   import Router from 'svelte-spa-router'
   import { Link } from 'carbon-components-svelte'
   import { routes } from './routes'
+  import LanguageSelector from './lib/LanguageSelector.svelte'
 </script>
 
 <div class="container">
-  <nav><Link class="lang">Estonian</Link></nav>
-
+  <LanguageSelector />
   <div class="content">
     <Router {routes} />
   </div>
@@ -27,11 +27,6 @@
     width: 100%;
     height: 100%;
     background-color: white;
-  }
-
-  :global(.lang) {
-    color: #000;
-    text-decoration: underline;
   }
 
   .container {
@@ -55,11 +50,6 @@
     flex-direction: column;
     align-items: center;
     margin-top: auto;
-  }
-
-  nav {
-    display: flex;
-    margin-left: auto;
   }
 
   @media only screen and (min-width: 60rem) {
