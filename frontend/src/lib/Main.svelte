@@ -1,10 +1,19 @@
 <script>
+  import { onMount } from 'svelte'
+  import { push, location } from 'svelte-spa-router'
   import { Button } from 'carbon-components-svelte'
   import { SkeletonPlaceholder } from 'carbon-components-svelte'
   import { currentWord, randomize } from './stores'
+  import languages from '../languages/languages.json'
 
   import 'carbon-components-svelte/css/g10.css'
   import 'carbon-components-svelte/css/all.css'
+
+  onMount(() => {
+    if ($location === '/') {
+      push(`/${languages[0].code}`)
+    }
+  })
 
   let isTranslationVisible = false
 
