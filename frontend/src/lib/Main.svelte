@@ -2,7 +2,6 @@
   import { Button } from 'carbon-components-svelte'
   import { SkeletonPlaceholder } from 'carbon-components-svelte'
   import { currentWord, randomize } from './stores'
-
   import 'carbon-components-svelte/css/g10.css'
   import 'carbon-components-svelte/css/all.css'
 

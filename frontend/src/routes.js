@@ -1,5 +1,6 @@
 import Main from './lib/Main.svelte'
-
+import Home from './lib/Home.svelte'
 export const routes = {
-  '/': Main,
+  '/': Home,
+  '/:lang/': Main,
 }
