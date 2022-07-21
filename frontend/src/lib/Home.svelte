@@ -2,5 +2,5 @@
   import { replace } from 'svelte-spa-router'
   import languages from '../languages/languages.json'
 
-  replace('/et/')
+  replace(`/${languages[0].code}/`)
 </script>
