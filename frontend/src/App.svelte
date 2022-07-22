@@ -3,12 +3,17 @@
   import { Link } from 'carbon-components-svelte'
   import { routes } from './routes'
   import LanguageSelector from './lib/LanguageSelector.svelte'
+  import { setLanguage } from './lib/stores'
+
+  function routeLoading(event) {
+    setLanguage(event.detail.params.lang)
+  }
 </script>
 
 <div class="container">
   <LanguageSelector />
   <div class="content">
-    <Router {routes} />
+    <Router {routes} on:routeLoading={routeLoading} />
   </div>
   <footer>
     <p>Vocabulary trainer</p>

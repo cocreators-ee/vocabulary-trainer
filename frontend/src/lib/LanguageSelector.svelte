@@ -1,7 +1,7 @@
 <script>
-  import { Button, Link, Modal, Select, SelectItem } from 'carbon-components-svelte'
-  import { each } from 'svelte/internal'
-  import { currentLanguage, setLanguage } from './stores'
+  import { push } from 'svelte-spa-router'
+  import { Link, Modal, Select, SelectItem } from 'carbon-components-svelte'
+  import { currentLanguage } from './stores'
   import languages from '../languages/languages.json'
   import 'carbon-components-svelte/css/g10.css'
   import 'carbon-components-svelte/css/all.css'
@@ -25,10 +25,9 @@
   function onSecondaryClick() {
     closeModal()
   }
-
   function onPrimaryClick() {
     closeModal()
-    setLanguage(selected)
+    push(`/${selected}/`)
   }
 </script>
 
