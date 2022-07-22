@@ -1,10 +1,15 @@
 <script>
   import { Button } from 'carbon-components-svelte'
   import { SkeletonPlaceholder } from 'carbon-components-svelte'
-  import { currentWord, randomize } from './stores'
+  import { currentWord, randomize, setLanguage } from './stores'
+
   import 'carbon-components-svelte/css/g10.css'
   import 'carbon-components-svelte/css/all.css'
 
+  export let params
+  $: {
+    setLanguage(params.lang)
+  }
   let isTranslationVisible = false
 
   function showTranslation() {
