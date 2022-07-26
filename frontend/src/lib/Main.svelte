@@ -10,6 +10,7 @@
 
   export let params
   const isValidLanguage = languages.some((lang) => lang.code === params.lang)
+
   $: {
     setLanguage(params.lang)
   }

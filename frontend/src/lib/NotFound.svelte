@@ -1,8 +1,5 @@
 <script>
   import { Link } from 'carbon-components-svelte'
-
-  import 'carbon-components-svelte/css/g10.css'
-  import 'carbon-components-svelte/css/all.css'
 </script>
 
 <main>
@@ -13,10 +10,6 @@
 </main>
 
 <style>
-  :global(.translate-button) {
-    padding: 1rem 2.5rem;
-  }
-
   h2 {
     font-weight: 700;
     font-size: 2.5rem;

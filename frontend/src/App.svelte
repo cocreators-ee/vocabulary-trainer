@@ -3,6 +3,9 @@
   import { Link } from 'carbon-components-svelte'
   import { routes } from './routes'
   import LanguageSelector from './lib/LanguageSelector.svelte'
+
+  import 'carbon-components-svelte/css/all.css'
+  import 'carbon-components-svelte/css/g10.css'
 </script>
 
 <div class="container">
