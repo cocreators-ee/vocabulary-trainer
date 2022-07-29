@@ -5,9 +5,6 @@
   import languages from '../languages/languages.json'
   import NotFound from './NotFound.svelte'
 
-  import 'carbon-components-svelte/css/g10.css'
-  import 'carbon-components-svelte/css/all.css'
-
   export let params
   const isValidLanguage = languages.some((lang) => lang.code === params.lang)
 
