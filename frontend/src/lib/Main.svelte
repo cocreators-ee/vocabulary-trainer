@@ -2,11 +2,12 @@
   import { Button } from 'carbon-components-svelte'
   import { SkeletonPlaceholder } from 'carbon-components-svelte'
   import { currentWord, randomize, setLanguage } from './stores'
-
-  import 'carbon-components-svelte/css/g10.css'
-  import 'carbon-components-svelte/css/all.css'
+  import languages from '../languages/languages.json'
+  import NotFound from './NotFound.svelte'
 
   export let params
+  const isValidLanguage = languages.some((lang) => lang.code === params.lang)
+
   $: {
     setLanguage(params.lang)
   }
@@ -33,32 +34,36 @@
 </script>
 
 <svelte:window on:keydown={handleKeydown} />
-<main>
-  <h2>{$currentWord.source}</h2>
-  <div class="placeholder">
-    {#if isTranslationVisible}
-      <div>
-        {#each $currentWord.translations as { word }}
-          <span class="word">{word}</span><span class="separator">, </span>
-        {/each}
-      </div>
-    {:else}
-      <button on:click={showTranslation}>
-        <SkeletonPlaceholder style="height: 8rem;  width: 14rem;" />
-      </button>
-    {/if}
-  </div>
+{#if isValidLanguage}
+  <main>
+    <h2>{$currentWord.source}</h2>
+    <div class="placeholder">
+      {#if isTranslationVisible}
+        <div>
+          {#each $currentWord.translations as { word }}
+            <span class="word">{word}</span><span class="separator">, </span>
+          {/each}
+        </div>
+      {:else}
+        <button on:click={showTranslation}>
+          <SkeletonPlaceholder style="height: 8rem;  width: 14rem;" />
+        </button>
+      {/if}
+    </div>
 
-  {#if isTranslationVisible}
-    <Button kind="primary" class="translate-button" on:click={nextWord}>
-      Next word
-    </Button>
-  {:else}
-    <Button kind="primary" class="translate-button" on:click={showTranslation}>
-      Show translation
-    </Button>
-  {/if}
-</main>
+    {#if isTranslationVisible}
+      <Button kind="primary" class="translate-button" on:click={nextWord}>
+        Next word
+      </Button>
+    {:else}
+      <Button kind="primary" class="translate-button" on:click={showTranslation}>
+        Show translation
+      </Button>
+    {/if}
+  </main>
+{:else}
+  <NotFound />
+{/if}
 
 <style>
   :global(.translate-button) {
