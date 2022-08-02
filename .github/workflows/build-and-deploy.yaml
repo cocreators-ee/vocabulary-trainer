@@ -11,8 +11,8 @@ jobs:
       - name: Install Pnpm
         run: npm install -g pnpm
 
-      - name: Install dependencies
-        run: poetry install
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3.4.1
 
       - name: Build frontend
         run: |
