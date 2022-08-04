@@ -16,8 +16,6 @@ jobs:
 
       - name: Build frontend
         run: |
-          ls
-          cd vocabulary-trainer
           cd frontend
           pnpm run build
 
