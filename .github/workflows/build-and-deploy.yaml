@@ -17,9 +17,7 @@ jobs:
       - name: Build frontend
         run: |
 
-          cd vocabulary-trainer
-          cd frontend
-          pnpm run build
+          ls
 
       - name: Deploy to GitHub Pages
         if: success()
