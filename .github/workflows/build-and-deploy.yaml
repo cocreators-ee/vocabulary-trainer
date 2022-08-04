@@ -21,12 +21,6 @@ jobs:
           pnpm install
           pnpm run build
 
-      - name: Check the folder
-        run: |
-
-          cd frontend
-          ls
-
       - name: Deploy to GitHub Pages
         if: success()
         run: |
