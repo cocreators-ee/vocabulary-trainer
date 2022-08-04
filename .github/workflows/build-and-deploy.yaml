@@ -20,9 +20,9 @@ jobs:
           cd frontend
           pnpm run build
 
+      - name: Check the folder
+        run: |
 
-          - name: Check the folder
-          run: |
           ls
 
       - name: Deploy to GitHub Pages
