@@ -21,6 +21,16 @@ After checking out locally, run in the folder:
 pre-commit install
 ```
 
+## Frontend
+
+To work on the frontend, you will need to install the dependencies and then run the `dev` script:
+
+```bash
+cd frontend
+pnpm install
+pnpm run dev
+```
+
 ## Data processing (optional)
 
 When you add new languages or words and need them automatically processed via the
