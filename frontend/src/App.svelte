@@ -17,7 +17,7 @@
     <p>Vocabulary trainer</p>
     <p>Copyright @ 2022 Henry Elmest</p>
     <p>
-      <Link href="https://github.com/cocreators-ee/vocabulary-trainer">Github</Link>
+      <Link href="https://github.com/cocreators-ee/vocabulary-trainer">GitHub</Link>
     </p>
   </footer>
 </div>
