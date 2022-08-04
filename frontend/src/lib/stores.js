@@ -29,7 +29,14 @@ async function getRandomWord() {
   return words[randInt(0, words.length - 1)]
 }
 
-export const currentWord = writable(await getRandomWord())
+const NO_WORD = { source: '', translations: [] }
+export const currentWord = writable(NO_WORD)
+
+async function init() {
+  currentWord.set(await getRandomWord())
+}
+
+init()
 
 export async function randomize(previousWord) {
   let nextWord = await getRandomWord()
