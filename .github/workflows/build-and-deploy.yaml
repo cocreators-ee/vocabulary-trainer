@@ -35,7 +35,7 @@ jobs:
           git push -f -q "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "${BRANCH}"
         env:
           DEPLOY_DIR: frontend/dist
-          #FQDN: vocabluary-trainer.cocreators.ee
+          FQDN: vocabulary-trainer.cocreators.ee
           MESSAGE: Deploy to GitHub Pages
           BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
