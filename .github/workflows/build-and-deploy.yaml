@@ -18,7 +18,8 @@ jobs:
         run: |
 
           cd frontend
-          pnpm run build
+          pnpm install
+          pnpm run dev
 
       - name: Check the folder
         run: |
