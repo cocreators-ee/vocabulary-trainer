@@ -40,7 +40,7 @@ jobs:
           git add . && git status && git commit --message "${MESSAGE}"
           git push -f -q "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "${BRANCH}"
         env:
-          #DEPLOY_DIR: frontend/dist
+          DEPLOY_DIR: frontend/dist
           #FQDN: vocabluary-trainer.cocreators.ee
           MESSAGE: Deploy to GitHub Pages
           BRANCH: gh-pages
