@@ -23,7 +23,8 @@ pre-commit install
 
 ## Frontend
 
-To work on the frontend, you will need to install the dependencies and then run the `dev` script:
+To work on the frontend, you will need to install the dependencies and then run the
+`dev` script:
 
 ```bash
 cd frontend

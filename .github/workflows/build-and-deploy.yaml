@@ -1,0 +1,41 @@
+name: Build and deploy
+
+on: [push]
+
+jobs:
+  Deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3.4.1
+
+      - name: Install Pnpm
+        run: npm install -g pnpm
+
+      - name: Build frontend
+        run: |
+
+          cd frontend
+          pnpm install
+          pnpm run build
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        run: |
+          git config --global user.name "GitHub"
+          git config --global user.email "<noreply@github.com>"
+          SRC="$(pwd)"
+          mkdir /tmp/github-pages && cd /tmp/github-pages
+          git init . && git checkout --orphan "${BRANCH}"
+          cp -r "${SRC}/${DEPLOY_DIR}"/* .
+          [[ ! -z "${FQDN}" ]] && echo "${FQDN}" > CNAME
+          git add . && git status && git commit --message "${MESSAGE}"
+          git push -f -q "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "${BRANCH}"
+        env:
+          DEPLOY_DIR: frontend/dist
+          #FQDN: vocabluary-trainer.cocreators.ee
+          MESSAGE: Deploy to GitHub Pages
+          BRANCH: gh-pages
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
