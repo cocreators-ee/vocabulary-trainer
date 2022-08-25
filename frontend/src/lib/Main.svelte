@@ -52,13 +52,9 @@
     </div>
 
     {#if isTranslationVisible}
-      <Button kind="primary" class="translate-button" on:click={nextWord}>
-        Next word
-      </Button>
+      <Button on:click={nextWord}>Next word</Button>
     {:else}
-      <Button kind="primary" class="translate-button" on:click={showTranslation}>
-        Show translation
-      </Button>
+      <Button on:click={showTranslation}>Show translation</Button>
     {/if}
   </main>
 {:else}
@@ -66,7 +62,7 @@
 {/if}
 
 <style>
-  :global(.translate-button) {
+  :global(.bx--btn.bx--btn--primary) {
     padding: 1rem 2.5rem;
   }
 
@@ -81,10 +77,12 @@
   }
 
   .placeholder {
-    margin: 0 auto;
-    margin: 2rem 0;
+    height: 8rem;
+    max-width: 40rem;
+    margin: 2rem auto;
     display: flex;
     justify-content: center;
+    align-items: center;
   }
 
   main {
@@ -108,5 +106,7 @@
   span.word {
     background-color: #eeeeee;
     padding: 0 8px;
+    display: inline-block;
+    margin-bottom: 8px;
   }
 </style>
