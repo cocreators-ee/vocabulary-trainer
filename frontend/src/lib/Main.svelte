@@ -39,7 +39,7 @@
     <h2>{$currentWord.source}</h2>
     <div class="placeholder">
       {#if isTranslationVisible}
-        <div>
+        <div class="translations">
           {#each $currentWord.translations as { word }}
             <span class="word">{word}</span><span class="separator">, </span>
           {/each}
@@ -83,6 +83,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  .translations {
+    text-align: center;
   }
 
   main {
