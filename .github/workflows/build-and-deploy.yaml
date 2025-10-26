@@ -31,6 +31,7 @@ jobs:
           git init . && git checkout --orphan "${BRANCH}"
           cp -r "${SRC}/${DEPLOY_DIR}"/* .
           [[ ! -z "${FQDN}" ]] && echo "${FQDN}" > CNAME
+          touch .nojekyll
           git add . && git status && git commit --message "${MESSAGE}"
           git push -f -q "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "${BRANCH}"
         env:
