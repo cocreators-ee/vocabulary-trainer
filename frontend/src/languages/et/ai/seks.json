@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen seksikümmend aastat vana",
-    "Ta on väga seks ja see ei meeldi mulle",
-    "Seks on üks tähtis osa inimese elus"
+    "Ta rääkis seksist väga avameelselt.",
+    "See film sisaldab seksuaalseid stseene.",
+    "Seksuaalne ahastus on tugev tunne."
   ],
   "translation": [
-    "six",
-    "sex"
+    "sex",
+    "sexual intercourse",
+    "coitus"
   ],
-  "context": "The word 'seks' in Estonian has two distinct meanings, one being the number six and the other referring to sexual activities or sex, depending on the context in which it is used."
+  "context": "The word 'seks' in Estonian directly translates to 'sex' in English. It refers to sexual activity or the biological differences between males and females. It is used in similar contexts as its English counterpart, discussing relationships, biology, or explicit content."
 }

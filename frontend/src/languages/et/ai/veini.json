@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen veini",
-    "Veini on mu sõber",
-    "Ta on minu veini"
+    "Ma armastan veini juua.",
+    "See vein on väga hea.",
+    "Nad tellisid veini restoranis."
   ],
   "translation": [
-    "friend",
-    "buddy",
-    "mate"
+    "wine"
   ],
-  "context": "The word veini is used to refer to a close friend or companion in an informal setting."
+  "context": "The word 'veini' in Estonian directly translates to 'wine' in English. It is commonly used to refer to the alcoholic beverage made from fermented grapes, and can be used in contexts related to dining, celebrations, or simply enjoying a drink."
 }

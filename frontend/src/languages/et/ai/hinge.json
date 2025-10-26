@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan hinge muusikat",
-    "Hinge laulud on väga ilusad",
-    "Ta tõid hinge toiduks leiba"
+    "Mina ei saa hinge kinni pidada.",
+    "Ta võttis sügava hinge.",
+    "Hinge läheb välja."
   ],
   "translation": [
-    "soul",
-    "spirit"
+    "breath",
+    "respiration",
+    "life force"
   ],
-  "context": "The word 'hinge' in Estonian generally refers to a person's spiritual or immaterial being, and is often used in contexts where English would use the word 'soul'."
+  "context": "The word 'hinge' in Estonian primarily refers to breath or the act of breathing, but can also carry a metaphorical meaning related to life force or spirit. It is commonly used when discussing physical exertion, emotional states, or even spiritual concepts."
 }

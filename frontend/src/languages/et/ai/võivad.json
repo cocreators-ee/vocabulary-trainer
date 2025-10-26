@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võivad seda teha",
-    "Nad võivad mind aidata",
-    "Sa võid olla õige"
+    "Nad võivad tulla homme.",
+    "Sa võid seda proovida.",
+    "Me võime kaotada."
   ],
   "translation": [
-    "can",
     "may",
+    "can",
     "might"
   ],
-  "context": "The word \"võivad\" is a verb in Estonian that means to be able to do something or to have the possibility of doing it, and it is commonly used in sentences to express ability or permission."
+  "context": "The word 'võivad' is a form of the Estonian verb 'võima', meaning 'to be able to' or 'to may'. It expresses possibility, permission, or ability. It’s often used similarly to ‘may’ or ‘can’ in English."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa seda teha no",
-    "Ta on väga no",
-    "No tuleb meile appi"
+    "Ma tean seda noort meest.",
+    "See on väga noor inimene.",
+    "Noored peaksid rohkem õppima."
   ],
   "translation": [
-    "yes",
-    "well",
-    "so"
+    "young",
+    "youthful"
   ],
-  "context": "The word 'no' in Estonian has multiple meanings depending on the context, including agreement or confirmation, similar to the English word 'yes', but also as an adverb meaning 'well' or 'so'."
+  "context": "The Estonian word 'no' primarily means 'young'. It is used to describe people or things that are not old, and can also refer to youth in general. In English, 'young' is a common adjective used to indicate age."
 }

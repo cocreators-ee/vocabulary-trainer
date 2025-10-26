@@ -1,15 +1,17 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma jube sinuga abielluda",
-    "Jube mulle ütelda, mida sa mõtled",
-    "Ta on jube hea inimene"
+    "Ma olin jube õnnelik, et sind näha.",
+    "See oli lihtsalt jubedalt hea kontsert!",
+    "Ära ole jube!."
   ],
   "translation": [
-    "I dare",
-    "I presume",
-    "how dare you"
+    "terrible",
+    "awful",
+    "horrible",
+    "amazing",
+    "great"
   ],
-  "context": "The word 'jube' in Estonian is used to express a sense of daring or presuming to do something, and can be translated to English as 'I dare' or 'I presume', often depending on the context of the sentence."
+  "context": "The word 'jube' in Estonian can have two main meanings: it can express something very bad or terrible, similar to 'awful' or 'horrible'. However, it can also be used colloquially to mean 'amazing' or 'great', especially when expressing strong positive emotion. The meaning is often determined by context and intonation."
 }

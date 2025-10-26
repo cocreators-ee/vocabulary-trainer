@@ -1,11 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma emaga lähen kinno"
+    "Ma tegin selle emaga tuttavaks.",
+    "Emaga on raske suhelda, kui ta on pahane.",
+    "See emaga seotud lugu oli väga liigutav."
   ],
   "translation": [
-    "with my mom"
+    "with mother",
+    "by mother",
+    "mother's"
   ],
-  "context": "The word emaga is a postposition meaning with my mother."
+  "context": "The word 'emaga' is a case form of the Estonian word 'ema', meaning 'mother'. It’s used in conjunction with the genitive or instrumental case to indicate accompaniment, agency, or association *with* the mother. It can be translated as 'with mother,' 'by mother,' or possessively as 'mother's', depending on the context."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võinud olla sinuga",
-    "Ta võinud mind armastada",
-    "Me võinud teineteist tundnud"
+    "Ma võisin sind aidata, kui sa oleksid varem öelnud.",
+    "Ta on võinud olla õnnelik oma uue tööga.",
+    "Kas sa oled võinud seda näha?"
   ],
   "translation": [
-    "could",
-    "was able to",
-    "had the ability to"
+    "could have",
+    "might have",
+    "was able to"
   ],
-  "context": "The word võinud is the past tense of the Estonian verb võima, which means to be able to or can do something, and it is commonly used in sentences to express ability or capability in the past."
+  "context": "The word 'võinud' is a past modal verb in Estonian, expressing possibility or ability in the past. It translates to 'could have', 'might have', or 'was able to' in English and indicates something that was possible but not necessarily realized."
 }

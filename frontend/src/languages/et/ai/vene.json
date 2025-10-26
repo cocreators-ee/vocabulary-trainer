@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen vene ehitamise vastu.",
-    "Tal on väga ilus vene.",
-    "Vene sõidab järvel."
+    "Ma lähen venega kalastama.",
+    "See on vene keel.",
+    "Vene laev sõitis mööda."
   ],
   "translation": [
-    "boat"
+    "Russian",
+    "Russia",
+    "Russian language"
   ],
-  "context": "The word 'vene' in Estonian generally refers to a boat, which is a common mode of transportation or recreation on water."
+  "context": "The word 'vene' in Estonian primarily refers to a person or something originating from Russia. It can also refer to the Russian language itself. In everyday conversation, it’s used similarly to how ‘Russian’ is used in English – to denote nationality, origin, or the language spoken."
 }

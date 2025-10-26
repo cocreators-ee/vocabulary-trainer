@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen üht arvamus",
-    "Ta on üht meelest",
-    "Me oleme ühiselt üht"
+    "Ma ei tea, mis üht sa mõtled.",
+    "See on üht väga hea idee!",
+    "Üht hetkeks ma unustasin."
   ],
   "translation": [
-    "same",
-    "one"
+    "a",
+    "one",
+    "some"
   ],
-  "context": "The word \"üht\" in Estonian is used to convey unity or sameness, and it is commonly translated to English as \"same\" or \"one\"."
+  "context": "The word 'üht' is a form of the indefinite article in Estonian. It functions similarly to 'a' or 'an' in English, but its usage depends on the grammatical case and number of the following noun. It can also mean 'one' or 'some' depending on context."
 }

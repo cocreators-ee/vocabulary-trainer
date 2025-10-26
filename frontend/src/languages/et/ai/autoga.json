@@ -1,0 +1,15 @@
+{
+  "confidence": 0.95,
+  "understood": true,
+  "sentences": [
+    "Ta sõitis autoga töölle.",
+    "Me läksime autoga rannale.",
+    "Kas sa saad autoga mind peale võtta?"
+  ],
+  "translation": [
+    "by car",
+    "in a car",
+    "with the car"
+  ],
+  "context": "The word 'autoga' in Estonian means 'by car' or 'in a car'. It is formed by adding the adessive case ending '-ga' to the noun 'auto' (car), indicating the means of transportation. It’s commonly used when describing how someone travels somewhere."
+}

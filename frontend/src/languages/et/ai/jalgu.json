@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei käinud jalgu.",
-    "Ta on hea jalgu hoidja.",
-    "Jalgu peab olema puhas."
+    "Ta jooksis jalgu ees.",
+    "Mul on valus jalgu.",
+    "Jalgu hakkas krampi tõmbama."
   ],
   "translation": [
-    "track",
-    "footprint"
+    "foot",
+    "leg",
+    "feet"
   ],
-  "context": "The word 'jalgu' in Estonian refers to a track or footprint, often used in the context of following or finding something by tracing the path it has taken."
+  "context": "The word 'jalgu' in Estonian refers to the lower extremities of the body, encompassing both the foot and the leg. It is commonly used when discussing movement, pain, or physical activity involving these parts of the body."
 }

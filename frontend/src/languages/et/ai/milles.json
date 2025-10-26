@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei tea, milles see koosneb",
-    "Ta on väga hea milles tahes",
-    "Milles ma seda teha saan"
+    "Ma ei tea, milles probleem on.",
+    "Milles sa nii vihastad?",
+    "See oli küll imelik juhtum, ma ei saa aru, milles asi on."
   ],
   "translation": [
-    "in what",
-    "what kind of"
+    "why",
+    "what...is the matter",
+    "for what reason"
   ],
-  "context": "The word 'milles' in Estonian is used to ask about the nature or type of something, and it is commonly used in questions to seek more information about a particular topic."
+  "context": "The Estonian word 'milles' is an interrogative adverb used to ask for the reason or cause of something. It’s similar to asking ‘why’ or ‘on what grounds?’ in English, and often appears in questions seeking explanation."
 }

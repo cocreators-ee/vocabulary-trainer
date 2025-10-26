@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta ütles, et ärme läheb kooli.",
-    "Ärme on hea õpilane.",
-    "Ma olen ärme rahul."
+    "Ta on väga ärme mees.",
+    "Ärme poiss jooksis üle tee.",
+    "Ärme käitumine oli täiesti vastuvõetamatu."
   ],
   "translation": [
-    "poor thing",
-    "alas"
+    "angry",
+    "irritable",
+    "bad-tempered"
   ],
-  "context": "The word ärme is an interjection used to express sympathy or regret, similar to the English phrase poor thing."
+  "context": "The word 'ärme' in Estonian describes a state of anger or irritability. It is commonly used to describe someone who is easily provoked or has a bad temper, similar to the English words 'angry', 'grumpy', or 'short-tempered'."
 }

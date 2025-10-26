@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võtsid raamatu laualt.",
-    "Ta võtsid autot ja sõitis linna.",
-    "Nad võtsid kohtumist ja rääkisid tulevikuplaanidest."
+    "Nad võtsid mind kaasa.",
+    "Ta võttis raamatu riiulilt.",
+    "Võtke see arvesse."
   ],
   "translation": [
     "took",
-    "grabbed",
-    "caught"
+    "accepted",
+    "captured"
   ],
-  "context": "The word võtsid is the second person singular past tense form of the verb võtta, which means to take or grab something. It is commonly used in Estonian language to describe an action of taking or seizing something."
+  "context": "The word 'võtsid' is the past tense plural form of the verb 'võtma', which means 'to take', 'to accept', or 'to capture' in Estonian. It’s a very common and versatile verb used in many contexts."
 }

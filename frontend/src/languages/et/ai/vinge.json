@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta vingib kiiresti",
-    "Vinge on hea sõber",
-    "Ma ei vingi kunagi"
+    "Ta on väga vingelt joonistanud.",
+    "See auto sõitis vingelt kiiresti.",
+    "Vinge lugu!"
   ],
   "translation": [
-    "to trick",
-    "to deceive"
+    "cool",
+    "awesome",
+    "amazing"
   ],
-  "context": "The word 'vinge' in Estonian means to trick or deceive someone, often in a clever or sneaky way. It is commonly used in everyday conversations to describe situations where someone is being misled or cheated."
+  "context": "The word 'vinge' in Estonian is a slang term used to express something is cool, awesome, or amazing. It’s commonly used by younger generations and can be applied to various situations, objects, or performances."
 }

@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma sõidad autoga Tallinna.",
+    "Ta sõidab bussiga tööle.",
+    "Nad sõitsid rongiga Pärnusse."
+  ],
+  "translation": [
+    "drive",
+    "ride",
+    "travel"
+  ],
+  "context": "The word 'sõidad' is a verb in Estonian that means to drive or ride something, often used in the context of operating a vehicle or traveling from one place to another."
+}

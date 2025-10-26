@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen lood",
-    "Lood on hea",
-    "Ta teab loodu"
+    "Mulle meeldib lood lugeda.",
+    "See on väga ilus lood.",
+    "Lood on täis fantastilisi tegelasi."
   ],
   "translation": [
-    "customs",
-    "mores"
+    "nature",
+    "story",
+    "tale"
   ],
-  "context": "The word lood refers to customs or mores in Estonian, and it is commonly used to describe traditional practices or social norms."
+  "context": "The Estonian word 'lood' can have multiple meanings depending on the context. It most commonly translates to 'nature' as in the natural world, but it can also mean 'story' or 'tale', especially folklore or narratives."
 }

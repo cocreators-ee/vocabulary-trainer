@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma ootan järgmist bussi.",
+    "Järgmine peatus on Tallinna börs.",
+    "Ta ei oodanud järgmist päeva."
+  ],
+  "translation": [
+    "next",
+    "following"
+  ],
+  "context": "The word 'järgmist' is used in Estonian to indicate something that comes after something else, often referring to time or sequence, and its meaning is similar to the English word 'next'."
+}

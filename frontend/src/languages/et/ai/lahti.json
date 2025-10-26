@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen lahti.",
-    "Lahti on ilus linn.",
-    "Ta tuli tagasi lahtist."
+    "Politsei leidis lahtis surnud mehe.",
+    "Lahti oli täidetud veega.",
+    "See on ohtlik laht."
   ],
   "translation": [
-    "apart",
-    "away"
+    "bay",
+    "cove",
+    "inlet",
+    "opening",
+    "gap"
   ],
-  "context": "The word 'lahti' in Estonian can be translated to English as 'apart' or 'away', and it is commonly used to describe something that is separate or distant from something else."
+  "context": "The Estonian word 'lahti' commonly refers to a body of water, such as a bay, cove or inlet. It can also describe an opening or gap in something."
 }

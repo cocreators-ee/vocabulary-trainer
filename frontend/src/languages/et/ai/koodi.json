@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma olen kirjutanud koodi C++ keeles.",
+    "Koodi võib olla keeruline.",
+    "Ta on väga osav programmeerimiskeelte koodi loomisel."
+  ],
+  "translation": [
+    "code",
+    "program"
+  ],
+  "context": "The word 'koodi' in Estonian generally refers to a set of instructions or a program written in a specific programming language, and it is commonly used in the context of computer science and software development."
+}

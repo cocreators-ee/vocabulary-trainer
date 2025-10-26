@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on jäänud haigeks",
-    "Jäänud tähed on võimelised elama",
-    "Meie oleme jäänud teisele korrusele"
+    "Ta oli jäänud üksi oma mõtetega.",
+    "Me jäime hiljaks rongile.",
+    "See on alles jäänud probleem."
   ],
   "translation": [
-    "remained",
+    "remaining",
+    "left",
     "stayed",
-    "left"
+    "abandoned"
   ],
-  "context": "The word 'jäänud' is a verb in Estonian that means to remain or stay in a place, and it can also be used to describe something that has been left behind."
+  "context": "The word 'jäänud' is the past participle of the verb 'jääma', meaning 'to remain' or 'to stay'. It often implies a state of being left behind, or something that has not disappeared. In English, it can be translated as 'remaining', 'left', or 'stayed', depending on the context."
 }

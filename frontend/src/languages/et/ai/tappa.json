@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tapan sind",
-    "Ta tapab kuradi",
-    "Tappisid te kala?"
+    "Ta tappis oma lemmikraamatu.",
+    "Ära tappa mind!",
+    "Politsei uurib tapmist."
   ],
   "translation": [
-    "kill",
-    "murder"
+    "to lose",
+    "to kill",
+    "loss"
   ],
-  "context": "The word 'tappa' in Estonian means to kill or murder something or someone, it is commonly used in a literal sense, but can also be used figuratively."
+  "context": "The Estonian word 'tappa' can have multiple meanings depending on the context. It commonly means 'to kill', but it can also mean 'to lose' something, or refer to a loss itself. It is a versatile verb with both literal and figurative applications."
 }

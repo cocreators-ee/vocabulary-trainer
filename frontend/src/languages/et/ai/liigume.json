@@ -1,0 +1,15 @@
+{
+  "confidence": 1.0,
+  "understood": true,
+  "sentences": [
+    "This is a sentence.",
+    "Another sentence here.",
+    "And finally, a third."
+  ],
+  "translation": [
+    "translation1",
+    "translation2",
+    "translation3"
+  ],
+  "context": "A short explanation of the meaning."
+}

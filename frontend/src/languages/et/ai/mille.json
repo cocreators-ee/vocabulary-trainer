@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen väga tänulik selle eest, et sa mulle mille annad.",
-    "Ta oli nõus minu mille vastu võtma.",
-    "Mulle meeldib tema mille jaoks valmis olemine."
+    "Ma ei tea, mille pärast sa vihased oled.",
+    "See on raske millelegi otsustada.",
+    "Milleks sa seda teed?"
   ],
   "translation": [
-    "thanks",
-    "to thank"
+    "why",
+    "what for",
+    "for what reason"
   ],
-  "context": "The word 'mille' is used to express gratitude or appreciation in Estonian, and it is commonly used in various forms to convey different levels of thanks."
+  "context": "The Estonian word 'mille' is a versatile interrogative pronoun used to ask 'why' or 'for what reason'. It can also be used in relative clauses, similar to 'which' or 'that' when referring to a reason. It’s commonly found at the beginning of questions seeking explanations."
 }

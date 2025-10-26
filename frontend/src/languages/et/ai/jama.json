@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen jama.",
-    "Ta on minu jama.",
-    "Me oleme ühes jamas."
+    "Ma tegin jämada,",
+    "See on väga jäme viga.",
+    "Jämedad juured ulatuvad sügavale."
   ],
   "translation": [
-    "trap",
-    "snare"
+    "jam",
+    "thick",
+    "coarse",
+    "rough"
   ],
-  "context": "The word 'jama' in Estonian generally refers to a trap or snare, often used in the context of catching animals or falling into a difficult situation."
+  "context": "The word 'jama' in Estonian can refer to a jam or preserve, but more commonly it means something is wrong, messed up, or problematic. It can also describe something as thick or coarse."
 }

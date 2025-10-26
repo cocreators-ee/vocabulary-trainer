@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on pask!",
-    "Pask on väga halb.",
-    "Ma ei ole pask."
+    "See on lihtsalt pask.",
+    "Ära räägi mulle seda paskat!",
+    "Mis sa paskat teed?"
   ],
   "translation": [
     "shit",
-    "crap"
+    "crap",
+    "poop"
   ],
-  "context": "The word 'pask' is a slang term in Estonian that refers to feces or something of very poor quality, and it is commonly used in informal settings to express strong dissatisfaction or annoyance."
+  "context": "This is a vulgar Estonian word equivalent to the English words 'shit', 'crap' or 'poop'. It’s used as an intensifier, expressing strong disapproval or frustration, and can also refer literally to excrement."
 }

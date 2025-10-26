@@ -2,16 +2,16 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa seda taluda, see on nii mind ületav! (I can't stand it, it’s so overwhelming!), ",
-    "Ta oli väga mind lähedane sõber. (He was a very close friend to me.), ",
-    "See mõte on mulle kogu aeg mind."
+    "Ma ei saa seda taluda, see on nii mind ületav! (I can't stand it, it's so overwhelming!), ",
+    "Ta oli väga mind täis mures. (He was very worried about me.), ",
+    "See mõte on mul mind kogu aeg kummitamas. (This thought haunts me all the time.)"
   ],
   "translation": [
     "mind",
     "spirit",
     "thought",
-    "intellect",
-    "memory"
+    "feeling",
+    "worry"
   ],
-  "context": "The Estonian word 'mind' can have several meanings similar to the English 'mind', including intellect, thought, spirit, or memory. It can also be used reflexively to indicate a state of being overwhelmed or preoccupied with something."
+  "context": "The Estonian word 'mind' can have several meanings depending on context, similar to its English counterpart. It can refer to one’s thoughts or mental state ('in mind'), but also to a feeling of being affected by something, or even simply ‘me’. It is often used to express emotional states."
 }

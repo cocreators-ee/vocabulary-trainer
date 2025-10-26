@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ta väidab, et tema kirjutatud on tõde.",
+    "Väidab, et see on hea mõte.",
+    "Ma väidan, et see pole õige."
+  ],
+  "translation": [
+    "claims",
+    "asserts",
+    "alleges"
+  ],
+  "context": "The word 'väidab' is a verb in Estonian that means to claim or assert something, often used in formal or written contexts to express a strong statement or opinion."
+}

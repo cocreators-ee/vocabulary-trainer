@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lõpetan enda töö",
-    "End on hea sõber",
-    "Ta tegi endale uue auto"
+    "Ma tean seda lugu otsast lõpuni.",
+    "See on lõpp!",
+    "Lõpetame selle nüüd."
   ],
   "translation": [
     "end",
-    "self",
-    "oneself"
+    "finish",
+    "conclusion"
   ],
-  "context": "The word 'end' in Estonian can be translated to English as 'end', 'self', or 'oneself', and is commonly used to refer to something that is related to oneself or is a part of oneself."
+  "context": "The Estonian word 'end' (lõpp) is used similarly to the English word 'end', indicating the final part of something, a conclusion, or to stop an action. It can also refer to a purpose or goal."
 }

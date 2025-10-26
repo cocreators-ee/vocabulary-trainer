@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Üksus on väike üksikasja",
+    "See üksus on eraldatud",
+    "Üksused on liidetud"
+  ],
+  "translation": [
+    "unit",
+    "entity"
+  ],
+  "context": "The word üksus in Estonian generally refers to a unit or entity, which can be used in various contexts such as mathematics, physics, or even organizational structures."
+}

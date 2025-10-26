@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen olite.",
-    "Sa olid olite.",
-    "Me oleme olite."
+    "Meie peres oli teel.",
+    "Nad olid väsinud.",
+    "Olime hiljaks jäänud."
   ],
   "translation": [
-    "you were",
-    "you have been"
+    "were",
+    "was",
+    "had"
   ],
-  "context": "The word 'olite' in Estonian is a form of the verb 'olema', which means 'to be'. In this context, it is used to express the past tense of 'you are' or 'you were'."
+  "context": "The verb 'oli' is a past tense form of the verb 'olema' (to be) in Estonian. It’s used to express states or conditions that existed in the past, similar to ‘was’ and ‘were’ in English."
 }

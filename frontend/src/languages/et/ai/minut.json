@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen minut.",
-    "Ta on iseendaga rahul.",
-    "Meie peame mõistma minu"
+    "Ma ootan sind minut aega.",
+    "Palun andke mulle veel üks minut.",
+    "See võttis ainult paar minutit."
   ],
   "translation": [
-    "myself",
-    "me"
+    "minute",
+    "moment"
   ],
-  "context": "The word 'minut' is a reflexive pronoun in Estonian that refers to the object or person affected by an action, similar to the English words 'myself' or 'me'."
+  "context": "The Estonian word 'minut' directly translates to 'minute' in English. It is used to measure time, similar to how it’s used in English – for example, ‘a few minutes’, ‘wait a minute’, or referring to a specific point in time."
 }

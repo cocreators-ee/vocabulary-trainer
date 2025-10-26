@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võisid seda teha",
-    "Sa võisid mind aidata",
-    "Ta võisid olla õige"
+    "Sa võisid mind aidata.",
+    "Ma võisin sind paremini mõista.",
+    "Nad võisid tulla homme."
   ],
   "translation": [
     "could",
-    "was able to"
+    "might"
   ],
-  "context": "The word võisid is the second person plural form of the verb võima, which means to be able to or can in English. It is commonly used to express ability or permission in the past tense."
+  "context": "The word 'võisid' is the past tense conditional form of the verb 'võima', meaning 'to be able to'. It expresses possibility or what someone could have done. In English, it translates to 'could' or 'might' and is used to indicate a potential action in the past."
 }

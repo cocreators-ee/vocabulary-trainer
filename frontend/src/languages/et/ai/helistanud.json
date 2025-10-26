@@ -1,0 +1,15 @@
+{
+  "confidence": 0.95,
+  "understood": true,
+  "sentences": [
+    "Ta helistanud mulle eile õhtul.",
+    "Kas sa oled teda juba helistanud?",
+    "Ma ei saa sind helistada praegu."
+  ],
+  "translation": [
+    "called",
+    "phoned",
+    "rang"
+  ],
+  "context": "The word 'helistanud' is the past tense of the verb 'helistama', which means to call someone on the phone. It’s commonly used in everyday conversation when referring to a completed phone call."
+}

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen valmis jahuks",
-    "Ta on hea juhuks",
-    "See on ilus juhuks"
+    "Ma tegin seda juhuks, et sa ei peaks ootama.",
+    "See oli lihtsalt juhuks, kui midagi läheb valesti.",
+    "Ära muretse, ma võtsin kaasa varuaku juhuks."
   ],
   "translation": [
-    "by chance",
-    "accidentally"
+    "in case",
+    "just in case",
+    "for the sake of"
   ],
-  "context": "The word juhuks is an adverb in Estonian that means by chance or accidentally, it is commonly used to describe an event that happens unexpectedly."
+  "context": "The word 'juhuks' is used to express contingency or possibility. It indicates that something is done as a precaution or preparation for a potential event. It’s similar to saying ‘in case’ or ‘just in case’ in English, and often introduces a conditional clause."
 }

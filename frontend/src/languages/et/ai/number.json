@@ -1,0 +1,15 @@
+{
+  "confidence": 0.95,
+  "understood": true,
+  "sentences": [
+    "Minu number on viis null kaks kolm seitse.",
+    "Palun kirjutage oma number siia.",
+    "See number ei vasta."
+  ],
+  "translation": [
+    "number",
+    "digit",
+    "figure"
+  ],
+  "context": "The Estonian word 'number' is directly equivalent to the English word 'number'. It refers to a numerical digit or a sequence of digits used for counting, identification, or measurement. It can also refer to a telephone number."
+}

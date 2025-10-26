@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ta on tegija, kes teeb tööd.",
+    "Tegijad on need, kes midagi saavutavad.",
+    "Olen tegija, mitte vaatleja."
+  ],
+  "translation": [
+    "doer",
+    "actor"
+  ],
+  "context": "The word 'tegija' in Estonian refers to a person who performs or accomplishes something, similar to the English word 'doer' or 'actor'."
+}

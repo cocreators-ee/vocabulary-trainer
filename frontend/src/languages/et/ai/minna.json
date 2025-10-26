@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minna on hea inimene.",
-    "Ta tunneb minna väga hästi.",
-    "Me kõik minna kauplusse."
+    "Ma lähen minema.",
+    "Ta hakkas minema.",
+    "Nad on juba minemas."
   ],
   "translation": [
-    "everybody",
-    "everyone"
+    "to go",
+    "going"
   ],
-  "context": "The word 'minna' is used to refer to everyone or everybody in Estonian, often used as a subject or object in sentences, and its usage can vary depending on the context of the sentence."
+  "context": "The verb 'minna' in Estonian means 'to go'. It is a very common and fundamental verb used to express movement or progression from one place to another. It can also be used figuratively to indicate passing of time or entering a state."
 }

@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen saagi jaoks valmis.",
-    "Ta on hea saagi eest.",
-    "Saagi on meie pere traditsioon."
+    "Me saame selle tööga saagi.",
+    "Põllumees lootis suurt saaki.",
+    "Saak oli tänavu kehv."
   ],
   "translation": [
-    "hunter",
-    "gamer"
+    "harvest",
+    "yield",
+    "crop",
+    "catch (as in fishing)"
   ],
-  "context": "The word saagi refers to a person who hunts or plays games, and it is commonly used in Estonian language to describe someone who engages in these activities."
+  "context": "The word 'saagi' in Estonian refers to the result of effort, whether it be a harvest from farming, the yield from work, or a catch from fishing. It generally implies something gained or obtained through labor or activity."
 }

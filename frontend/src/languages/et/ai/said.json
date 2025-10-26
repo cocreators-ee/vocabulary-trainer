@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ütlesin talle, et see on hea mõte.",
-    "Ta ütles, et ta ei tea seda.",
-    "Said on väga populaarne nimi."
+    "Ta ütles mulle, et ta on õnnelik.",
+    "Sa ei saa seda öelda kellelegi!",
+    "Mis sa selle kohta ütled?"
   ],
   "translation": [
     "said",
-    "uttered",
-    "spoken"
+    "stated",
+    "mentioned",
+    "told"
   ],
-  "context": "The word 'said' in Estonian means to express an opinion or comment, and it is commonly used in sentences to convey what someone has uttered or spoken."
+  "context": "The Estonian word 'ütles' is the past tense of the verb 'ütlema', meaning 'to say'. It’s commonly used to report what someone has said, similar to the English words ‘said’, ‘stated’, or ‘told’. It indicates a completed action of speaking."
 }

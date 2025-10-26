@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma teen seda tööd",
-    "Ta teeb oma parima",
-    "Nad teevad koostööd"
+    "Ma tegin talle hommikuks kohvi.",
+    "Ta teenis riigis palju aastaid.",
+    "See töö on mulle teenida."
   ],
   "translation": [
     "do",
-    "make"
+    "make",
+    "perform",
+    "serve"
   ],
-  "context": "The word 'teen' in Estonian means to do or make something, and it is commonly used in everyday conversations to express actions or tasks."
+  "context": "The Estonian word 'teen' is a versatile verb that can mean to do, make, or perform an action. It also carries the meaning of serving in a military context or earning something through work."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen juurest Estonian.",
-    "Ta on juurest tugev.",
-    "See on juurest hea."
+    "Ta tuli juurest lahkuma.",
+    "See on raske juurest alata.",
+    "Nad said juurest abi."
   ],
   "translation": [
-    "from the root",
-    "by nature"
+    "from",
+    "at",
+    "by"
   ],
-  "context": "The word 'juurest' in Estonian means something that is inherent or natural, and it is commonly used to describe characteristics or traits that are fundamental to someone or something."
+  "context": "The Estonian word 'juurest' is a case form (genitive or partitive) of the noun 'juur', meaning root. It commonly translates to 'from,' 'at,' or 'by' depending on context, indicating origin, location, or agency. It often appears in connection with verbs expressing movement or obtaining something."
 }

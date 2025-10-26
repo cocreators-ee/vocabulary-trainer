@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen teeks",
-    "Ta on mulle teeks",
-    "Me oleme teinud teeks"
+    "Ma teeksin hea meelega sulle kooki.",
+    "Ta tegi suure vea.",
+    "See tee viib otse randa."
   ],
   "translation": [
-    "thanks",
-    "thank you"
+    "do",
+    "make",
+    "road"
   ],
-  "context": "The word teeks is commonly used in Estonian to express gratitude or appreciation, similar to the English phrase thank you."
+  "context": "The Estonian word 'teeks' is a versatile verb that can mean 'to do', 'to make', or even 'road/way' depending on the context. It’s commonly used in everyday conversation for expressing actions and intentions."
 }

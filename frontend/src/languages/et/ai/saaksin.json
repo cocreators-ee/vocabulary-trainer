@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma saaksin seda teha.",
-    "Sa saaksid mind aidata.",
-    "Ta sai meile head uudist."
+    "Ma saaksin aru, kui sa mulle selgitaksid.",
+    "Saaksin ma paluda sind abi?",
+    "Kui saaksin valida, ma läheks kohe puhkusele."
   ],
   "translation": [
     "could",
-    "would be able to"
+    "would be able to",
+    "might"
   ],
-  "context": "The word 'saaksin' is the first person singular form of the verb 'saama', which means 'to get' or 'to obtain', but in this context, it is used to express ability or possibility in the past tense."
+  "context": "The word 'saaksin' is a conditional form of the verb 's saada', meaning 'to get' or 'to receive'. It expresses possibility or polite request. In English, it translates to 'could' or 'would be able to', often used in hypothetical situations or when asking for something politely."
 }

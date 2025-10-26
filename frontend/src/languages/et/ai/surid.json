@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen surid inimene",
-    "Ta on väga surid homme",
-    "Surid päevad on läbi"
+    "Ta on väga surutud inimene.",
+    "Ma tunnen end täna suruna.",
+    "Suru peale tekitab valu."
   ],
   "translation": [
-    "sad",
-    "unhappy",
-    "depressed"
+    "pressed",
+    "under pressure",
+    "burdened",
+    "oppressed"
   ],
-  "context": "The word 'surid' is an Estonian adjective that means feeling or showing sadness, and it is commonly used to describe someone's emotional state."
+  "context": "The Estonian word 'surid' generally refers to a feeling of being pressured, burdened, or oppressed. It can describe both physical and emotional weight or stress. In English, it’s often used to convey a sense of heaviness or difficulty."
 }

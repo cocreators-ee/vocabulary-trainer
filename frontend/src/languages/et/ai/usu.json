@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma usu küsisin tema numbrit.",
-    "Ta usu ei olnud selles asjas.",
-    "Usu on see, mida me kõik vajame."
+    "Ma usun sind.",
+    "Ta ei usu kedagi.",
+    "Usu on oluline."
   ],
   "translation": [
-    "habit",
-    "custom"
+    "believe",
+    "trust",
+    "faith"
   ],
-  "context": "The word usu refers to a usual practice or tradition in Estonian, and it is commonly used to describe something that people are accustomed to doing."
+  "context": "The Estonian word 'usu' translates to 'believe', 'trust', or 'faith' in English. It is commonly used to express a conviction about something being true, or to indicate reliance on someone or something."
 }

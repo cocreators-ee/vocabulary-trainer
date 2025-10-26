@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lasen raamatu lauale.",
-    "Ta laskis kogu aeg.', "
+    "Ta laske oma koti ümber ringi.",
+    "Ma ei saa aru, miks sa seda teed, laske mind rahule!",
+    "Laske see vesi välja."
   ],
   "translation": [
-    "calculate",
-    "count"
+    "let",
+    "allow",
+    "release"
   ],
-  "context": "The word 'laske' in Estonian means to calculate or count something, and it is commonly used in mathematical contexts."
+  "context": "The Estonian word 'laske' is a versatile verb that can mean 'to let', 'to allow', or 'to release' something. It’s often used in the imperative mood, giving a command or permission."
 }

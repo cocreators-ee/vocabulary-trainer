@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma teilen selle raamatu sinuga",
-    "Ta teile seda ülesannet",
-    "Teile on vaja teil olla"
+    "Ma tegin talle pai, et saaksime seda koos süüa.",
+    "Sa võid mulle selle kohta rohkem teile rääkida.",
+    "Kas sa tead, millal ta tagasi tuleb?"
   ],
   "translation": [
-    "to share",
-    "to divide"
+    "tell",
+    "say",
+    "inform"
   ],
-  "context": "The word 'teile' is commonly used in Estonian to mean sharing or dividing something among people, and it can be seen as a way of distributing resources or tasks."
+  "context": "The Estonian word 'teile' is a dative plural pronoun meaning 'to you (plural)' or 'for you (plural)'. It’s used when something is being given or said to multiple people. In English, it functions similarly to saying ‘to all of you’."
 }

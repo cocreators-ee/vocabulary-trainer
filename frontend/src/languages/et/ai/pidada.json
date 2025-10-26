@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma pidada seda raamatut hästi kirjutatud.",
-    "Pidada tuleb alati oma sõnu.",
-    "Ta on hea inimene, kuid ei pidada mind"
+    "Ma pidan sind armastama.",
+    "Ta peab seda tegema.",
+    "Me pidime talle aitäh ütlema."
   ],
   "translation": [
-    "to keep",
     "to hold",
-    "to consider"
+    "must",
+    "should",
+    "to keep"
   ],
-  "context": "The word 'pidada' in Estonian generally means to keep or hold something, but it can also mean to consider or regard someone or something in a certain way."
+  "context": "The Estonian verb 'pidada' is versatile and can express obligation ('must', 'have to'), possession ('to hold'), or continued existence ('to keep'). It often implies a degree of necessity or expectation."
 }

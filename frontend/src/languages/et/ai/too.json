@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen too külla.",
-    "Too on minu lemmikkoht.",
-    "Kas too on avatud?"
+    "Ma tean seda juba ammu.",
+    "See on väga tore!",
+    "Ta on lihtsalt too."
   ],
   "translation": [
-    "garden",
-    "yard"
+    "room",
+    "space",
+    "chamber",
+    "occasionally: thing"
   ],
-  "context": "The word 'too' in Estonian generally refers to a garden or yard, which is an outdoor space surrounding a building, and it is commonly used when talking about one's home or a place to relax."
+  "context": "The word 'too' in Estonian can have multiple meanings. It most commonly translates to 'room', but it can also mean 'space' or even be used informally as a general placeholder like 'thing'. The usage depends heavily on the context of the sentence."
 }

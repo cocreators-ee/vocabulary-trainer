@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei ole kunagi olnud all",
-    "Ta on minust all",
-    "See on all võimalikest variantidest"
+    "Minu all on sinuga.",
+    "See on minu kõige kallim all.",
+    "Ta elas väikeses majas all mäe."
   ],
   "translation": [
-    "lower",
-    "below"
+    "wave",
+    "under",
+    "bottom"
   ],
-  "context": "The word 'all' in Estonian generally means something that is located below or at a lower position than something else, and it can be used as an adverb, adjective, or preposition to describe the relationship between objects or locations."
+  "context": "The word 'all' in Estonian can have multiple meanings depending on the context. It commonly translates to 'wave' (like a sea wave), 'under', or 'bottom'. It is used to describe physical locations, emotional states, or as part of various expressions."
 }

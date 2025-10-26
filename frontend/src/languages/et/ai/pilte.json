@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan pilte.",
-    "Tal on palju pilte.",
-    "Pilte on väga ilus."
+    "Ma armastan pilte vaadata.",
+    "See on ilus pilte loodusest.",
+    "Pilte saab salvestada arvutisse."
   ],
   "translation": [
-    "pictures"
+    "picture",
+    "image",
+    "photo"
   ],
-  "context": "The word 'pilte' in Estonian means pictures or images, and it is commonly used to refer to photographs, paintings, or other forms of visual art."
+  "context": "The word 'pilte' in Estonian translates to 'picture', 'image', or 'photo' in English. It is commonly used to refer to visual representations, whether they are photographs, paintings, drawings, or digital images."
 }

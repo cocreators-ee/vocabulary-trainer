@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta esindab äsja kohtus olnud meest.",
-    "Äsja tehtud uuring leiab, et see on tõesti nii.",
-    "Äsja võetud pildid on juba internetis."
+    "Ta tuli äsja koju.",
+    "Äsja lõpetatud film oli väga hea.",
+    "Me saime teada sellest asjast alles äsja."
   ],
   "translation": [
-    "thing",
-    "matter",
-    "affair"
+    "just now",
+    "recently",
+    "a moment ago"
   ],
-  "context": "The word äsja is used in Estonian to refer to a thing, matter, or affair, and it is commonly used in sentences to describe something that has happened or been done recently."
+  "context": "The Estonian word 'äsja' is an adverb that means 'just now', 'recently', or 'a moment ago'. It indicates something happened very recently in the past and is still relevant to the present."
 }

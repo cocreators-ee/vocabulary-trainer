@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ta andis käsu alanud ülesande täitmiseks.",
+    "Käsk tuli pealikult.",
+    "Ta võttis vastu käsku ja asus kohe tööle."
+  ],
+  "translation": [
+    "command",
+    "order",
+    "instruction"
+  ],
+  "context": "The word käsku refers to a command or order given by someone in authority, and it is commonly used in formal or official contexts to convey a sense of direction or instruction."
+}

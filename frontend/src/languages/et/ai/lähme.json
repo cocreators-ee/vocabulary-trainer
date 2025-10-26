@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen lähme.",
-    "Ta on lähme inimene.",
-    "Lähmed ei ole hea omadus."
+    "Me lähme kinosse.",
+    "Lähme siis homme?",
+    "Sa võid minna, aga mina ei lähe."
   ],
   "translation": [
-    "paralytic",
-    "weak"
+    "let's go",
+    "go away",
+    "we go"
   ],
-  "context": "The word 'lähme' is used to describe someone or something that is weak or paralyzed, often in a physical sense."
+  "context": "The word 'lähme' is the first-person plural imperative form of the verb 'lähema', meaning 'to go'. It’s commonly used as an invitation or suggestion – ‘Let’s go!’ or simply ‘Go!’ when addressing a group including oneself."
 }

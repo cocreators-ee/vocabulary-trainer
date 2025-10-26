@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma oleksid võinud seda teha",
-    "Sa oleksid pidanud mind kuulama",
-    "Ta oleksid võinud meile aidata"
+    "Sa oleksid pidanud mind teavitama.,",
+    "Ma arvan, et sa oleksid võinud paremini käituda.",
+    "Kui ma oleksin rikkam, siis ma oleksid reisinud rohkem."
   ],
   "translation": [
     "would have",
-    "could have",
+    "would be (conditional)",
     "should have"
   ],
-  "context": "The word 'oleksid' is the conditional form of the verb 'olema', which means 'to be'. It is used to express hypothetical or uncertain situations in the past, and is commonly used in Estonian grammar to convey a sense of possibility or potentiality."
+  "context": "The word 'oleksid' is a conditional form of the verb 'olema' (to be) in Estonian. It expresses what would have been or should have been, often used to indicate regret, possibility, or hypothetical situations."
 }

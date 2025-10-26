@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen õnnelik minust.",
-    "Ta on rahul minust.",
-    "Nad on üsna huvitatud minust."
+    "Ma arvan, et see on minust väga tore.",
+    "See oli minust palju nõuab.",
+    "Ta küsis minult, kas ma olen temast vanem."
   ],
   "translation": [
-    "about me",
     "from me",
-    "of me"
+    "of me",
+    "about me"
   ],
-  "context": "The word minust is a postposition in Estonian that indicates the object or person being referred to, often translated to English as 'about me', 'from me', or 'of me' depending on the context of the sentence."
+  "context": "The word 'minust' is a case form of the personal pronoun 'mina' (I) in Estonian. It generally translates to 'from me', 'of me', or 'about me' depending on the context, and indicates possession, origin, or reference to the speaker."
 }

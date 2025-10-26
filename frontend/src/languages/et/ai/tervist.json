@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ütlen tervist.",
-    "Tervist mind ile!",
-    "Ta on tervisega"
+    "Tere päevast!",
+    "Tervist sulle!",
+    "Ma soovin tervist."
   ],
   "translation": [
-    "goodbye",
-    "farewell"
+    "Hello",
+    "Greetings",
+    "Good health"
   ],
-  "context": "The word 'tervist' is used in Estonian as a way to bid farewell or say goodbye, similar to the English word 'goodbye'."
+  "context": "The word 'tervist' is a common greeting in Estonian, similar to 'hello' or 'greetings' in English. It can also be used as a wish for good health."
 }

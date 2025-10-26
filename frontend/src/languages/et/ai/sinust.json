@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan sinust",
-    "Sa oled ilus sinust",
-    "Ta räägib sinust"
+    "Ma arvan, et sa oled väga tore inimene.",
+    "Kas sa tead, mida ma sinust tahan?",
+    "Mida sa minult soovid sinust kuulda?"
   ],
   "translation": [
-    "from you",
     "of you",
-    "about you"
+    "from you"
   ],
-  "context": "The word sinust is a pronoun in Estonian that means from you, of you or about you, it is commonly used to indicate the person being talked to or referred to."
+  "context": "The word 'sinust' is the genitive or partitive case of the personal pronoun 'sina', meaning 'you'. It translates to 'of you' or 'from you' in English and indicates possession, origin, or separation related to the person being addressed."
 }

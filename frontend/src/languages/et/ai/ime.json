@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on hea inimene.",
-    "Inimesed elavad linnas.",
-    "See ime tegi mind õnneliku."
+    "Minu nimi on Kaja.",
+    "Kas sa tead tema nime?",
+    "See on ilus ime."
   ],
   "translation": [
     "name",
-    "person"
+    "wonder",
+    "miracle"
   ],
-  "context": "The word 'ime' is used to refer to a person or a name, and it is commonly used in Estonian language to identify someone or something."
+  "context": "The Estonian word 'ime' can translate to 'name', but also carries the meaning of 'wonder' or 'miracle'. It is a common noun used when introducing oneself or asking for someone’s name, and can also be used figuratively to describe something amazing or unexpected."
 }
