@@ -296,6 +296,8 @@
       width: 100%;
       margin: 0;
       padding: 0.75rem;
+      height: unset;
+      min-height: unset;
     }
 
     main {
