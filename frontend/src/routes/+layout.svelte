@@ -1,15 +1,14 @@
 <script>
-  import { Link } from 'carbon-components-svelte'
+  import {Link} from 'carbon-components-svelte'
   import LanguageSelector from '../lib/LanguageSelector.svelte'
-
-  let {children} = $props()
-
   import 'carbon-components-svelte/css/all.css'
   import 'carbon-components-svelte/css/g10.css'
+
+  let {children} = $props()
 </script>
 
 <div class="container">
-  <LanguageSelector />
+  <LanguageSelector/>
   <div class="content">
     {@render children()}
   </div>
@@ -18,6 +17,10 @@
     <p>Copyright @ 2022 Henry Elmest, 2025 Cocreators OÜ</p>
     <p>
       <Link href="https://github.com/cocreators-ee/vocabulary-trainer">GitHub</Link>
+    </p>
+    <p>
+      We use the privacy-respecting <a href="https://plausible.io/privacy" target="_blank" rel="noopener">Plausible
+      Analytics</a> to measure usage of this site. You can view the <a href="/stats">statistics</a> yourself.
     </p>
   </footer>
 </div>

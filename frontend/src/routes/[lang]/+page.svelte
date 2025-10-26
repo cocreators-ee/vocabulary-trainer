@@ -29,6 +29,11 @@
 
   function showTranslation() {
     isTranslationVisible = true
+
+    // Track word reveals in Plausible analytics when possible
+    if (typeof plausible !== "undefined") {
+      plausible('reveal')
+    }
   }
 
   function nextWord() {
