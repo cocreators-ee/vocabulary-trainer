@@ -6,17 +6,17 @@ jobs:
   Deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v5
 
       - name: Setup Node.js environment
-        uses: actions/setup-node@v3.4.1
+        uses: actions/setup-node@v6
 
-      - name: Install Pnpm
-        run: npm install -g pnpm
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
 
       - name: Build frontend
         run: |
-
           cd frontend
           pnpm install
           pnpm run build
@@ -34,7 +34,7 @@ jobs:
           git add . && git status && git commit --message "${MESSAGE}"
           git push -f -q "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "${BRANCH}"
         env:
-          DEPLOY_DIR: frontend/dist
+          DEPLOY_DIR: frontend/build
           FQDN: vocabulary-trainer.cocreators.ee
           MESSAGE: Deploy to GitHub Pages
           BRANCH: gh-pages
