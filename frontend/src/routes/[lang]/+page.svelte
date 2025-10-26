@@ -285,4 +285,22 @@
   a.report {
     margin-top: 1rem;
   }
+
+  @media (max-width: 1080px) {
+    .info-container {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .placeholder, .ai-info {
+      width: 100%;
+      margin: 0;
+      padding: 0.75rem;
+    }
+
+    main {
+      margin-bottom: 5rem;
+      padding: 0;
+    }
+  }
 </style>
