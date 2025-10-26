@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma valin välja parima võimaliku lahendi",
-    "Välja valimine on oluline samm edasi",
-    "Ta väljus koos tüdrukuga"
+    "Ta läks välja.",
+    "Meie peame selle välja mõtlema.",
+    "Välja on ilus."
   ],
   "translation": [
-    "to choose",
-    "to select",
-    "to pick out"
+    "out",
+    "outside",
+    "to take out",
+    "to figure out"
   ],
-  "context": "The word välja is commonly used in Estonian to mean to choose or select something, and it can be used in various contexts such as choosing an option, selecting a product, or picking out a solution."
+  "context": "The Estonian word 'välja' is a versatile preposition and adverb that generally indicates movement or direction outwards, or the act of bringing something out. It can also mean ‘to figure something out’ or simply ‘out’ as in ‘going out’. It frequently appears in compound words and phrases."
 }

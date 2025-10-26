@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean sellest.",
-    "Ta ei räägi sellest.",
-    "Me arutasime seda sellest."
+    "Ma arvan, et see on oluline sellest põhjuse tõttu.",
+    "See oli väga halb ja ma ei taha sellest rääkida.",
+    "Kas sa tead midagi sellest asjast?"
   ],
   "translation": [
-    "about this",
-    "from this"
+    "from this",
+    "of this",
+    "about this"
   ],
-  "context": "The word 'sellest' in Estonian is used to indicate something is related to or derived from something else, often translated to English as 'about this' or 'from this'."
+  "context": "The word 'sellest' is a versatile Estonian word that translates to 'from this', 'of this', or 'about this' in English. It’s commonly used as a genitive or ablative case form of the pronoun 'see' (this), indicating origin, possession, or topic."
 }

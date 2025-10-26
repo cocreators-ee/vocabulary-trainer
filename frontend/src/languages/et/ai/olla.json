@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen olla koos temaga.",
-    "Ta on olnud siin enne.",
-    "Kui ta oli noorem, ta käis tihti kinosaalis."
+    "Ta oli väga õnnelik.",
+    "Meie oleme sõbrad.",
+    "Kas sa olid valmis?"
   ],
   "translation": [
-    "pot",
-    "jar"
+    "to be",
+    "is",
+    "are",
+    "was",
+    "were"
   ],
-  "context": "The word 'olla' in Estonian can refer to a type of container, similar to a pot or jar, and is commonly used in everyday conversations to describe household items."
+  "context": "The Estonian verb 'olla' is the equivalent of 'to be' in English. It’s a highly irregular verb and essential for forming many grammatical structures, similar to how 'to be' functions in English."
 }

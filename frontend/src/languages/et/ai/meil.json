@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meil on kaunis ilm.",
-    "Ta saatis meile kiri.",
-    "Meil oli võitlus."
+    "Meil on plaanid tehtud.",
+    "Neil oli raske aeg.",
+    "See meil ei õnnestunud."
   ],
   "translation": [
-    "we have",
-    "to us",
-    "we were"
+    "we",
+    "us",
+    "with us"
   ],
-  "context": "The word 'meil' in Estonian is a pronoun meaning 'we have' or 'to us', and it is commonly used in sentences to indicate possession or direction towards the speaker and others."
+  "context": "The Estonian word 'meil' is a form of the personal pronoun 'mina' (I) and functions as 'we', 'to us', or 'with us' depending on the context. It’s commonly used to indicate possession, inclusion, or shared experience."
 }

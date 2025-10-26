@@ -97,3 +97,12 @@ Keep in mind all the AI tools are likely to run fairly slowly on a local machine
 and model. They might take a minute or two per word, or maybe just 10 seconds, and we have about 10,000 words
 to process in total. With a model that does not run well on your hardware you may be committing to many days
 of execution time.
+
+
+# Financial support
+
+This project has been made possible thanks to [Cocreators](https://cocreators.ee) and [Lietu](https://lietu.net). You
+can help us continue our open source work by supporting us
+on [Buy me a coffee](https://www.buymeacoffee.com/cocreators).
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cocreators)

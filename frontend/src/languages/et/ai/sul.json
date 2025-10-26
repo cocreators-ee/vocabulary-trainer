@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan sulle",
-    "Sa oled minu sul",
-    "Ta on sulle väga sarnane"
+    "Ma panen sule kotti.",
+    "Ta kirjutas selle sulega.",
+    "Sulega kirjutamine on ilus."
   ],
   "translation": [
-    "you",
-    "to you",
-    "for you"
+    "lock",
+    "feather",
+    "pen"
   ],
-  "context": "The word 'sul' in Estonian is a pronoun that means 'you' as an object, and it is commonly used in sentences to indicate the person or people being addressed or referred to."
+  "context": "The word 'sulg' in Estonian can have multiple meanings depending on the context. It most commonly translates to 'lock' as in a mechanism for securing something, but it also means 'feather' and historically referred to 'pen' (specifically a quill pen)."
 }

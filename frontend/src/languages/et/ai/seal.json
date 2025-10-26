@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Taevasel on sinine tiivik ja valge taevalaevukas.",
-    "Laeva kere oli kaetud tiheda halli voldiga.",
-    "Ta silitas müüri külge kleebi ja tõstis põrandale müürseali."
+    "Ma tean seda lugu.",
+    "See on väga hea seal.",
+    "Kas sa oled kunagi käinud seal?"
   ],
   "translation": [
-    "stamp",
-    "seal"
+    "there",
+    "at that place"
   ],
-  "context": "The word 'seal' in Estonian, also known as 'tiivik', generally refers to a device or instrument used for stamping or sealing, but can also refer to the animal. In this context it likely means something that stamps or seals."
+  "context": "The Estonian word 'seal' translates to 'there' or 'at that place' in English. It is used to indicate a location, similar to how 'there' functions in English sentences."
 }

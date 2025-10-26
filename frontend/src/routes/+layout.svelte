@@ -16,11 +16,26 @@
     <p>Vocabulary trainer</p>
     <p>Copyright @ 2022 Henry Elmest, 2025 Cocreators OÜ</p>
     <p>
-      <Link href="https://github.com/cocreators-ee/vocabulary-trainer">GitHub</Link>
+      <Link target="_blank" rel="noopener" href="https://github.com/cocreators-ee/vocabulary-trainer">
+        GitHub
+      </Link>
     </p>
     <p>
-      We use the privacy-respecting <a href="https://plausible.io/privacy" target="_blank" rel="noopener">Plausible
-      Analytics</a> to measure usage of this site. You can view the <a href="https://plausible.io/vocabulary-trainer.cocreators.ee" target="_blank" rel="noopener">statistics</a> yourself.
+      We use the privacy-respecting
+      <Link href="https://plausible.io/privacy" target="_blank" rel="noopener">
+        Plausible Analytics
+      </Link>
+      to measure usage of this site. You can view the
+      <Link href="https://plausible.io/vocabulary-trainer.cocreators.ee" target="_blank" rel="noopener">
+        statistics
+      </Link>
+      yourself.
+    </p>
+    <p>
+      This project has been made possible thanks to support from
+      <Link href="https://cocreators.ee" target="_blank" rel="noopener">Cocreators OÜ</Link>.
+      You can help us continue our open source work by supporting us on
+      <Link href="https://www.buymeacoffee.com/cocreators" target="_blank" rel="noopener">Buy me a coffee</Link>.
     </p>
   </footer>
 </div>
@@ -56,6 +71,10 @@
     flex-direction: column;
     align-items: center;
     margin-top: auto;
+  }
+
+  footer p {
+    font-size: var(--cds-body-short-01-font-size, 0.875rem);
   }
 
   @media only screen and (min-width: 60rem) {

@@ -1,15 +1,17 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen meeleldi sulle abiks.",
-    "Ta on väga hea meelne inimene.",
-    "Meeldiv kohtumine!"
+    "Ma ei saa seda taluda, see on nii mind ületav! (I can't stand it, it’s so overwhelming!), ",
+    "Ta oli väga mind lähedane sõber. (He was a very close friend to me.), ",
+    "See mõte on mulle kogu aeg mind."
   ],
   "translation": [
     "mind",
-    "opinion",
-    "attitude"
+    "spirit",
+    "thought",
+    "intellect",
+    "memory"
   ],
-  "context": "The word 'meel' generally refers to a person's mind or attitude in Estonian, and is commonly used in various contexts such as opinions, emotions, and thoughts."
+  "context": "The Estonian word 'mind' can have several meanings similar to the English 'mind', including intellect, thought, spirit, or memory. It can also be used reflexively to indicate a state of being overwhelmed or preoccupied with something."
 }

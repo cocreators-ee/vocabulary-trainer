@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mul on kodu.",
-    "See on minu mul.",
-    "Ta tuli mulle appi."
+    "Mul on hea meel sind näha.",
+    "See mulle ei meeldi.",
+    "Tal on palju probleeme."
   ],
   "translation": [
-    "to me",
-    "my yard"
+    "I have",
+    "me",
+    "mine"
   ],
-  "context": "The word 'mul' in Estonian generally means something that belongs to the speaker or is related to them, and can be translated to English as 'to me' or 'my yard', depending on the context in which it is used."
+  "context": "The word 'mul' is a short form of the pronoun 'minul', meaning 'I have' or simply 'me/mine'. It’s commonly used as a possessive pronoun in Estonian, similar to how ‘my’ is used in English. It often appears at the beginning of sentences expressing possession or feeling."
 }
