@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ta sõidab töölisse.",
+    "Ma sõitsin eile Tallinnas.",
+    "Nad sõidavad koos autoega."
+  ],
+  "translation": [
+    "drives",
+    "is driving",
+    "ride"
+  ],
+  "context": "The word 'sõidab' is a verb in Estonian that means to drive or ride, and it is commonly used to describe the act of operating a vehicle or moving from one place to another."
+}

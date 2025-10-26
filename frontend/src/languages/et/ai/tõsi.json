@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma ütlen tõsi.",
+    "Tõsi on see, et ma armastan Eestit.",
+    "Ta rääkis tõsi, kui ta ütles, et ilm on ilus."
+  ],
+  "translation": [
+    "true",
+    "truth"
+  ],
+  "context": "The word 'tõsi' in Estonian means truth or true, and it is commonly used to express the authenticity or accuracy of something."
+}

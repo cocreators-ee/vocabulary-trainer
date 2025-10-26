@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma võtsin telefoni ja helistasin emale.",
+    "Telefoni number on 123456.",
+    "Ta ei vastanud telefoni."
+  ],
+  "translation": [
+    "phone",
+    "telephone"
+  ],
+  "context": "The word 'telefoni' is the Estonian word for phone or telephone, and it refers to a device used for communication over long distances."
+}

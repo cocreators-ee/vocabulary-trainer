@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Me sõidame autos",
+    "Nad sõidavad jalgrattaga",
+    "Ta sõidab bussiga"
+  ],
+  "translation": [
+    "we drive",
+    "they are driving",
+    "he drives"
+  ],
+  "context": "The word sõidame is a verb in Estonian that means to drive, and it is commonly used in sentences to describe the act of operating a vehicle."
+}

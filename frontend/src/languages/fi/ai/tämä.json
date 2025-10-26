@@ -1,0 +1,14 @@
+{
+  "confidence": 0.95,
+  "understood": true,
+  "sentences": [
+    "Tämä on hyvä kirja.",
+    "En pidä tästä autosta.",
+    "Onko tämä sinun takki?"
+  ],
+  "translation": [
+    "this",
+    "these"
+  ],
+  "context": "The word 'tämä' is a demonstrative pronoun in Finnish meaning 'this' or 'these'. It is used to indicate something specific that is nearby in space or time. It declines based on case and number, but this represents the basic nominative singular form."
+}

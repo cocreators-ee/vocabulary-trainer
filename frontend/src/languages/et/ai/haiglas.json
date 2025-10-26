@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ta töötab haiglas",
+    "Haigla on suletud",
+    "Arstega kohtumine haiglas on täna"
+  ],
+  "translation": [
+    "hospital",
+    "sickbed",
+    "infirmary"
+  ],
+  "context": "The word 'haiglas' generally refers to a place where people receive medical care and treatment, often in an institutional setting."
+}

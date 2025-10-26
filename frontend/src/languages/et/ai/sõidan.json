@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma sõidan autoga Tallinna.",
+    "Ta sõidab bussiga tööle.",
+    "Nad sõitsid rongiga Pärnusse."
+  ],
+  "translation": [
+    "travel",
+    "drive",
+    "ride"
+  ],
+  "context": "The word 'sõidan' is a verb in Estonian that means to travel or drive, and it is commonly used to describe moving from one place to another by vehicle."
+}

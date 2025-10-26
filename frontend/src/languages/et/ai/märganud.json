@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma olen märganud, et see on hea film.",
+    "Ta oli märganud, et auto oli vigane.",
+    "Me oleme kõik märganud, et ilm on soeja."
+  ],
+  "translation": [
+    "noticed",
+    "observed",
+    "perceived"
+  ],
+  "context": "The word 'märganud' is the first person singular form of the verb 'märkama', which means to notice or observe something. It is commonly used in sentences where someone has become aware of a fact, situation, or object."
+}

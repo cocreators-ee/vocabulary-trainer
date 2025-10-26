@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma ostan udus lisatud juuksuriga.",
+    "Lisaks talle on üks lisa.",
+    "Ta ei saanud oma lisatasu."
+  ],
+  "translation": [
+    "addition",
+    "supplement",
+    "attachment"
+  ],
+  "context": "The word 'lisa' in Estonian generally refers to something that is added or attached to something else, and it can be translated to English as 'addition', 'supplement', or 'attachment', depending on the context in which it is used."
+}

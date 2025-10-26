@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma panen seda raamatu siia lauale.",
+    "Ta pani oma käed taskusse.",
+    "Nad panid kõik oma allkirjad dokumendile."
+  ],
+  "translation": [
+    "puts",
+    "place",
+    "set"
+  ],
+  "context": "The word 'paneb' is the third person singular form of the Estonian verb 'panema', which means to put or place something somewhere."
+}

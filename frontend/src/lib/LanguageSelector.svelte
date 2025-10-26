@@ -1,37 +1,35 @@
 <script>
-  import { push } from 'svelte-spa-router'
   import { Link, Modal, Select, SelectItem } from 'carbon-components-svelte'
   import { currentLanguage } from './stores'
-  import languages from '../languages/languages.json'
+  import languages from '$languages/languages.json'
   import 'carbon-components-svelte/css/g10.css'
   import 'carbon-components-svelte/css/all.css'
+  import {goto} from "$app/navigation";
 
   let selected
-  let _currentLanguage
-  $: {
-    _currentLanguage = $currentLanguage.code
-  }
 
   export let modalOpen = false
 
   function openModal() {
     modalOpen = true
-    selected = _currentLanguage
+    selected = $currentLanguage.code
   }
 
   function closeModal() {
     modalOpen = false
   }
+
   function onSecondaryClick() {
     closeModal()
   }
+
   function onPrimaryClick() {
     closeModal()
-    push(`/${selected}/`)
+    goto(`/${selected}/`)
   }
 </script>
 
-<nav><Link on:click={openModal} class="lang">{$currentLanguage.name}</Link></nav>
+<nav><Link onclick={openModal} class="lang">{$currentLanguage.name}</Link></nav>
 
 <Modal
   modalHeading="Choose language"

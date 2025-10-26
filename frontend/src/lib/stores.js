@@ -1,5 +1,5 @@
-import { writable } from 'svelte/store'
-import languages from '../languages/languages.json'
+import { writable } from "svelte/store"
+import languages from "$languages/languages.json"
 
 let wordCache
 let cachedLanguage
@@ -13,8 +13,7 @@ currentLanguage.subscribe(async (value) => {
 
 async function getWords() {
   if (cachedLanguage !== _currentLanguage.code) {
-    wordCache = (await import(`../languages/${_currentLanguage.code}/words.json`))
-      .default
+    wordCache = (await import(`$languages/${_currentLanguage.code}/words.json`)).default
     cachedLanguage = _currentLanguage.code
   }
   return wordCache
@@ -29,8 +28,9 @@ async function getRandomWord() {
   return words[randInt(0, words.length - 1)]
 }
 
-const NO_WORD = { source: '', translations: [] }
+const NO_WORD = { source: "", translations: [] }
 export const currentWord = writable(NO_WORD)
+export const aiInfo = writable(undefined)
 
 async function init() {
   currentWord.set(await getRandomWord())
@@ -38,19 +38,49 @@ async function init() {
 
 init()
 
+async function tryLoadAIInfo(sourceWord) {
+  aiInfo.set(undefined)
+  try {
+    const aiInfoContents = (await import(`$languages/${_currentLanguage.code}/ai/${sourceWord}.json`)).default
+    aiInfo.set(aiInfoContents)
+  } catch (e) {
+    console.log(`Failed to load AI info for word ${sourceWord}`)
+  }
+}
+
+async function setCurrentWord(word) {
+  currentWord.set(word)
+  await tryLoadAIInfo(word.source)
+}
+
+async function getWord(sourceWord) {
+  const words = await getWords()
+  for (const word of words) {
+    if (word.source === sourceWord) {
+      return word
+    }
+  }
+
+  throw new Error(`Failed to find source word ${sourceWord}`)
+}
+
 export async function randomize(previousWord) {
   let nextWord = await getRandomWord()
   while (nextWord === previousWord) {
     nextWord = await getRandomWord()
   }
-  currentWord.set(nextWord)
+  await setCurrentWord(nextWord)
 }
 
-export async function setLanguage(languageCode) {
+export async function setLanguage(languageCode, word) {
   languages.forEach((value) => {
     if (value.code === languageCode) {
       currentLanguage.set(value)
     }
   })
-  currentWord.set(await getRandomWord())
+  if (word !== undefined) {
+    await setCurrentWord(await getWord(word))
+  } else {
+    await setCurrentWord(await getRandomWord())
+  }
 }

@@ -1,20 +1,26 @@
 [tool.poetry]
-name = "data_processing"
-version = "0.1.0"
+name = "data-processing"
+version = "0.2.0"
 description = "Data processing utilities for vocabulary-trainer"
 authors = []
 
 [tool.poetry.dependencies]
-python = "^3.8"
-pydantic = "^1.9.1"
-loguru = "^0.6.0"
-orjson = "^3.6.8"
-requests = "^2.27.1"
+python = "^3.13,<4"
+pydantic = "^2.12.3"
+loguru = "^0.7.3"
+orjson = "^3.11.4"
+requests = "^2.32.5"
+pydantic-ai = {extras = ["openai"], version = "^1.6.0"}
+rich = "^14.2.0"
+pydantic-settings = "^2.11.0"
 
 [tool.poetry.dev-dependencies]
 
 [tool.poetry.scripts]
 translate = "data_processing.translate:main"
+ai_analyze = "data_processing.ai_analyze:main"
+ai_generate = "data_processing.ai_generate:main"
+review_ai = "data_processing.review_ai:main"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

@@ -1,0 +1,14 @@
+{
+  "confidence": 0.95,
+  "understood": true,
+  "sentences": [
+    "Minä haluan mennä, mutta en voi.",
+    "Hän oli vihainen, mutta hän ei sanonut mitään.",
+    "Se on hyvä idea, mutta se on kallis."
+  ],
+  "translation": [
+    "but",
+    "however"
+  ],
+  "context": "The word 'mutta' is a conjunction used to introduce a contrast or exception. It’s equivalent to ‘but’ or ‘however’ in English and commonly used to connect two opposing ideas."
+}

@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma sai teate, et olen valitud.",
+    "Teade tuli homme.",
+    "Ta saatis mulle teate, et ta on haige."
+  ],
+  "translation": [
+    "message",
+    "notice",
+    "notification"
+  ],
+  "context": "The word 'teade' in Estonian generally refers to a message, notice, or notification that is conveyed to someone, often formally or officially."
+}

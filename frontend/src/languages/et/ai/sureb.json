@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ta sureb iga päev.",
+    "Ma olen küsinud, kas ta sureb?",
+    "Kui ta sureb, siis..."
+  ],
+  "translation": [
+    "dies",
+    "is dying",
+    "will die"
+  ],
+  "context": "The word 'sureb' is a verb in Estonian that means to die, and it is commonly used to describe the act of passing away or deceasing."
+}

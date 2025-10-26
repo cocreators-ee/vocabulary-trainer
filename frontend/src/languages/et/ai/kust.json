@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma küsin, kust sa tulid.",
+    "Kust sa oled?",
+    "Ta ei teadnud, kust tulla."
+  ],
+  "translation": [
+    "from where",
+    "where from"
+  ],
+  "context": "The word 'kust' in Estonian is used to ask about the origin or source of something, similar to the English phrase 'from where' or 'where from'."
+}

@@ -1,0 +1,15 @@
+{
+  "confidence": 0.95,
+  "understood": true,
+  "sentences": [
+    "Kas sa oled nõus?",
+    "Ma ei tea, kas ta tuleb.",
+    "Kas see on tõsi?"
+  ],
+  "translation": [
+    "whether",
+    "if",
+    "is it that"
+  ],
+  "context": "The Estonian word 'kas' is a particle used to introduce yes/no questions or express uncertainty. It’s similar to ‘if’ or ‘whether’ in English, often placed at the beginning of a question."
+}

@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ta suhu on väga kõrgel.",
+    "Suhu tõusis äkki.",
+    "Temperatuuri ja suhu vahel on suur erinevus."
+  ],
+  "translation": [
+    "body temperature",
+    "temperature"
+  ],
+  "context": "The word 'suhu' in Estonian refers to body temperature or temperature in general, and it is commonly used in medical contexts to describe a person's physical condition."
+}
