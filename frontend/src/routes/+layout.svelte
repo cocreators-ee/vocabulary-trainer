@@ -20,7 +20,7 @@
     </p>
     <p>
       We use the privacy-respecting <a href="https://plausible.io/privacy" target="_blank" rel="noopener">Plausible
-      Analytics</a> to measure usage of this site. You can view the <a href="/stats">statistics</a> yourself.
+      Analytics</a> to measure usage of this site. You can view the <a href="https://plausible.io/vocabulary-trainer.cocreators.ee" target="_blank" rel="noopener">statistics</a> yourself.
     </p>
   </footer>
 </div>
