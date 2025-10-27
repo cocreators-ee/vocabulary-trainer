@@ -51,6 +51,12 @@
     }
   }
 
+  function kielitoimistoUrl(word) {
+    const url = new URL("https://www.kielitoimistonsanakirja.fi/")
+    url.hash = `#/${word}`
+    return url.toString()
+  }
+
   function ekssUrl(word) {
     const url = new URL("https://arhiiv.eki.ee/dict/ekss/index.cgi?F=M")
     url.searchParams.set("Q", word)
@@ -85,6 +91,9 @@
         </div>
         {#if params.lang === "et"}
           <a target="_blank" rel="noopener" href={ekssUrl($currentWord.source)}>EKSS dictionary</a>
+        {/if}
+        {#if params.lang === "fi"}
+          <a target="_blank" rel="noopener" href={kielitoimistoUrl($currentWord.source)}>Kielitoimiston sanakirja</a>
         {/if}
         <a target="_blank" rel="noopener" href={wiktionaryUrl($currentWord.source)}>Wiktionary</a>
 
