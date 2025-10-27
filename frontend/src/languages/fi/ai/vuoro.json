@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Minun on nyt vuoroni",
+    "Hänellä oli vuoro nousta lavalle",
+    "Meillä on vuoro tehdä siivous"
+  ],
+  "translation": [
+    "turn",
+    "shift",
+    "round"
+  ],
+  "context": "The word 'vuoro' in Finnish refers to a turn or shift, often used in contexts where people take turns doing something, such as working, speaking, or performing."
+}

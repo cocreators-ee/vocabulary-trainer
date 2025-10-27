@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Kun minä menen kauppaan, ostan leipää.",
+    "Hän tuli kotiin kun ovi oli jo kiinni.",
+    "Kun talo on valmis, se on kaunis."
+  ],
+  "translation": [
+    "when",
+    "as"
+  ],
+  "context": "The word 'kun' in Finnish is a conjunction used to indicate time or condition, similar to the English word 'when' or 'as'."
+}

@@ -1,0 +1,14 @@
+{
+  "confidence": 0.9,
+  "understood": true,
+  "sentences": [
+    "Minä menen kauppaan, jos sinä haluat tulla mukaan.",
+    "Hän on sairaana, jos hänellä on kuume.",
+    "On sateinen päivä, jos ulkona sataa."
+  ],
+  "translation": [
+    "if",
+    "in case"
+  ],
+  "context": "The word 'jos' is a conjunction used to indicate a condition or hypothesis in Finnish, similar to the English word 'if' or 'in case', and it is commonly used to express a potential situation or consequence."
+}

@@ -1,0 +1,15 @@
+{
+  "confidence": 0.9,
+  "understood": true,
+  "sentences": [
+    "Hän maksaa laskunsa aina ajallaan.",
+    "Maksatko sinä ruoan?",
+    "Onko hänelle maksettu palkka?"
+  ],
+  "translation": [
+    "pay",
+    "cost",
+    "spend"
+  ],
+  "context": "The word 'maksaa' in Finnish means to pay or cost something, and it is commonly used in sentences related to financial transactions or expenses."
+}

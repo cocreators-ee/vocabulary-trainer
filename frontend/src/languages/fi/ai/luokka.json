@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Tämä on yksi luokasta.",
+    "Luokat ovat jaettu kategorioihin.",
+    "Hän opettaa luokkaa"
+  ],
+  "translation": [
+    "class",
+    "category",
+    "group"
+  ],
+  "context": "The word 'luokka' generally refers to a class or category, often used in the context of education or grouping similar things together."
+}

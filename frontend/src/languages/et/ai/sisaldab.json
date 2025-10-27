@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "See raamat sisaldab palju pilte.",
+    "Tootekirjeldus sisaldab olulisi andmeid.",
+    "Kursuse materjal sisaldab ülesandeid ja näiteid."
+  ],
+  "translation": [
+    "contains",
+    "includes",
+    "comprises"
+  ],
+  "context": "The word 'sisaldab' in Estonian means to contain or include something, it is commonly used to describe the content of a product, document or any other entity."
+}

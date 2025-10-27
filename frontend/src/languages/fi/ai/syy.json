@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Hän antoi syynä olevansa väsynyt.",
+    "Syy miksi hän ei pystynyt osallistumaan oli hänen sairautensa.",
+    "Tämä johtuu syystä, joka liittyy taloudelliseen tilanteeseen."
+  ],
+  "translation": [
+    "reason",
+    "cause",
+    "guilt"
+  ],
+  "context": "The word 'syy' in Finnish generally refers to a reason or cause for something, but it can also imply guilt or blame in certain contexts."
+}

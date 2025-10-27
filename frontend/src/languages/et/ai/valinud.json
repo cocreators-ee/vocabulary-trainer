@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma olen valinud tema oma parima sõbraks.",
+    "Ta on valinud selle raamatu oma lemmikuks.",
+    "Nad on valinud Eesti oma sihtkohaks."
+  ],
+  "translation": [
+    "chosen",
+    "selected",
+    "elected"
+  ],
+  "context": "The word 'valinud' is the past tense of the verb 'valima', which means to choose or select something. It is commonly used in Estonian language to express the idea that someone has made a decision or picked an option."
+}

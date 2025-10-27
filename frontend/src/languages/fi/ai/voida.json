@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Minulla on voida syödä",
+    "Hänellä ei ole voidaa ostaa autoa",
+    "Meillä ei ole tarpeeksi voidaa matkustaa"
+  ],
+  "translation": [
+    "can",
+    "be able to",
+    "have the opportunity to"
+  ],
+  "context": "The word 'voida' in Finnish is used to express ability or permission to do something, and it is commonly translated to English as 'can' or 'be able to'."
+}

@@ -1,0 +1,14 @@
+{
+  "confidence": 0.9,
+  "understood": true,
+  "sentences": [
+    "Koska hän on sairas, hän ei voi tulla kouluun.",
+    "Emme voi mennä sinne koska se on liian kaukana.",
+    "Hän sanoo aina koska hän on väsynyt."
+  ],
+  "translation": [
+    "because",
+    "since"
+  ],
+  "context": "The word 'koska' in Finnish is used to indicate a reason or explanation for something, and it is commonly translated to English as 'because' or 'since'."
+}

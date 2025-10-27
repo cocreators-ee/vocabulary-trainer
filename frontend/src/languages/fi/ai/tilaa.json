@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Hän tilasi uuden puhelimen.",
+    "Tilaa ruokaa ravintolasta!",
+    "Tilaamme usein kirjoja netistä."
+  ],
+  "translation": [
+    "order",
+    "book",
+    "reserve"
+  ],
+  "context": "The word 'tilaa' in Finnish generally means to order or book something, such as a product, service, or table at a restaurant. It is commonly used in everyday situations like shopping online, making reservations, or requesting something."
+}

@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Minun on löydettävä kello.",
+    "Kello on hänen seinällään.",
+    "Hän antaa kellon veljelleen."
+  ],
+  "translation": [
+    "clock",
+    "bell",
+    "watch"
+  ],
+  "context": "The word 'kello' in Finnish can refer to a clock, a bell, or a watch, and is commonly used in everyday conversations to talk about time or scheduling."
+}

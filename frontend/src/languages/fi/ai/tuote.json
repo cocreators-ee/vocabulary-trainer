@@ -1,0 +1,15 @@
+{
+  "confidence": 0.9,
+  "understood": true,
+  "sentences": [
+    "Tämä tuote on laadukas.",
+    "Tuotteen hinta on edullinen.",
+    "Tuotteet ovat hyvin suunniteltuja."
+  ],
+  "translation": [
+    "product",
+    "commodity",
+    "goods"
+  ],
+  "context": "The word 'tuote' in Finnish refers to a product or commodity, and it is commonly used in business and marketing contexts to describe a good or service being offered for sale."
+}

@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ta võttis ravimeid ja tundis end paremini.",
+    "Ravimeid on võimalik osta apteegist.",
+    "Arst kirjutas talle ravimeid."
+  ],
+  "translation": [
+    "medicines",
+    "medications",
+    "drugs"
+  ],
+  "context": "The word 'ravimeid' refers to substances used for medical treatment, and it is commonly used in Estonian to talk about prescription or over-the-counter drugs."
+}

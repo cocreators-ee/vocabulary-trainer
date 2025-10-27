@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Minä olen noin kuusi",
+    "Hän on noin metrin pituinen",
+    "Tämä on noin viisi euroa"
+  ],
+  "translation": [
+    "about",
+    "around",
+    "approximately"
+  ],
+  "context": "The word 'noin' in Finnish is used to indicate an approximation or a rough estimate of something, similar to how 'about' or 'around' are used in English."
+}

@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Hän seisoi oven edessä.",
+    "Seisoi siinä hiljaa ja odotti.",
+    "Auto seisoi tiellä."
+  ],
+  "translation": [
+    "stood",
+    "was standing",
+    "stopped"
+  ],
+  "context": "The word 'seisoi' is the third person singular form of the verb 'seisoa', which means to stand or be in a standing position, and it can also imply stopping or halting, depending on the context."
+}

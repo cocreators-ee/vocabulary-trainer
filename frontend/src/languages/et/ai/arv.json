@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma arvan, et see on hea mõte.",
+    "Arvuti on väga kiire.",
+    "Ta oskab arvu teha."
+  ],
+  "translation": [
+    "opinion",
+    "guess",
+    "number"
+  ],
+  "context": "The word 'arv' in Estonian can be translated to English as 'opinion', 'guess', or 'number', depending on the context in which it is used. It is commonly used to express a personal viewpoint or estimation."
+}

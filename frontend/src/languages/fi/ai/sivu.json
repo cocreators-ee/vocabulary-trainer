@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Minulla on uusi sivu avoinna",
+    "Hän käänsi sivun ylöspäin",
+    "Tämä kirja koostuu useasta sivusta"
+  ],
+  "translation": [
+    "page",
+    "side"
+  ],
+  "context": "The word 'sivu' in Finnish generally refers to a page, such as in a book or on the internet, but it can also refer to the side of something."
+}

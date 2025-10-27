@@ -1,0 +1,16 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Minä itse tein sen",
+    "Hän on itse vastuussa tästä",
+    "He itse päättivät lähtee"
+  ],
+  "translation": [
+    "myself",
+    "himself",
+    "herself",
+    "itself"
+  ],
+  "context": "The word 'itse' in Finnish is a reflexive pronoun used to indicate that the subject of the sentence is performing the action on themselves, similar to how 'myself', 'himself', and 'herself' are used in English."
+}

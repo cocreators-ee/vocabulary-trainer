@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Tämä on testi.",
+    "Hän teki hyvin testissä.",
+    "Testit tuloksia odotellessa."
+  ],
+  "translation": [
+    "test",
+    "exam",
+    "trial"
+  ],
+  "context": "The word 'testi' in Finnish refers to a test or examination, and it is commonly used in various contexts such as education, science, and quality control."
+}

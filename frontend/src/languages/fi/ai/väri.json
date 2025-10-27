@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Tämä väri on kaunis.",
+    "Värin sävy on hieman tummempi.",
+    "Hänellä on monia eri värejä taiteensa aiheissa."
+  ],
+  "translation": [
+    "color",
+    "hue",
+    "shade"
+  ],
+  "context": "The word \"väri\" in Finnish refers to a color or hue, and it is commonly used to describe the visual properties of an object or artwork."
+}

@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma kuulsin käikust.",
+    "Käigu pealt võib aru saada.",
+    "Ta tegi ühe käigu."
+  ],
+  "translation": [
+    "echo",
+    "report",
+    "message"
+  ],
+  "context": "The word käiku refers to a message or report that is heard or received, often implying that the information is indirect or second-hand."
+}

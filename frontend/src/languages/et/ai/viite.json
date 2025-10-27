@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Ma viitan sellele, et see on hea raamat.",
+    "Ta viitas ajalehele, mis rääkis sündmusest.",
+    "Viited uuringutele on toodud allikates."
+  ],
+  "translation": [
+    "reference",
+    "hint",
+    "allusion"
+  ],
+  "context": "The word 'viite' in Estonian generally means a reference or hint to something, often used in academic or formal contexts to point to a source or idea."
+}

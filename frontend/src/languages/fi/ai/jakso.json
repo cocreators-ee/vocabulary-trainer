@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Tämä on uusi jakso sarjassa.",
+    "Olen katsonut jo useita jaksoja tätä ohjelmaa.",
+    "Jakso oli erittäin mielenkiintoinen."
+  ],
+  "translation": [
+    "episode",
+    "period",
+    "stage"
+  ],
+  "context": "The word 'jakso' in Finnish generally refers to a part of a series or a sequence of events, similar to an episode in English, but it can also be used to describe a period or stage in a process or development."
+}

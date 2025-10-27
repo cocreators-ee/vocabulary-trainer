@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Minä olen tehnyt tämän",
+    "Hän on tehnyt sen",
+    "He ovat tehneet sen"
+  ],
+  "translation": [
+    "done",
+    "made",
+    "created"
+  ],
+  "context": "The word 'tehty' is the past participle form of the verb 'tehdä', which means to do or make something, and it is commonly used in Finnish to describe an action that has been completed."
+}

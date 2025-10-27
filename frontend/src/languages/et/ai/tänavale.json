@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Maja asub tänavale",
+    "Ta läks tänavale jalutama",
+    "Autod sõitsid mööda tänavale"
+  ],
+  "translation": [
+    "to the street",
+    "on the street"
+  ],
+  "context": "The word 'tänavale' is an allative case of the noun 'tänav', which means 'street'. It indicates movement towards something, in this case, moving towards the street."
+}

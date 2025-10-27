@@ -1,0 +1,15 @@
+{
+  "confidence": 0.9,
+  "understood": true,
+  "sentences": [
+    "Minulla on yksi kysymys",
+    "Tämä on hyvä kysymys",
+    "Kysymykset ovat tärkeitä"
+  ],
+  "translation": [
+    "question",
+    "issue",
+    "matter"
+  ],
+  "context": "The word 'kysymys' is commonly used in Finnish to refer to a question or an issue that needs to be addressed, and it can be used in various contexts such as in conversations, discussions, or problem-solving situations."
+}

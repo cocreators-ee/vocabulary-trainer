@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Minun on pestava auto",
+    "Hän pesi vaatteensa",
+    "Vaatteet ovat vielä pesemättä"
+  ],
+  "translation": [
+    "wash",
+    "laundry",
+    "cleaning"
+  ],
+  "context": "The word 'pesu' in Finnish generally refers to the act of washing or cleaning something, and it can be used in various contexts such as washing clothes, a car, or any other object."
+}

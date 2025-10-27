@@ -1,0 +1,14 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Maja müüakse hinnaga 200 000 eurot.",
+    "Ta ostis selle hinnaga 500 euros.",
+    "Hinnaga ei olnud võimalik ühitada."
+  ],
+  "translation": [
+    "with the price",
+    "at a price"
+  ],
+  "context": "The word 'hinnaga' is used in Estonian to indicate that something is being done at a certain price or value, often in the context of buying or selling something."
+}

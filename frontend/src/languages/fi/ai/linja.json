@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Bussi ajaa linjaa numero 14.",
+    "Linja on pitkä ja mutkitteleva.",
+    "Hän piirsi kuvan linjalla."
+  ],
+  "translation": [
+    "line",
+    "route",
+    "row"
+  ],
+  "context": "The word 'linja' in Finnish generally refers to a line, route, or row, and it is commonly used in various contexts such as transportation, geography, and design."
+}

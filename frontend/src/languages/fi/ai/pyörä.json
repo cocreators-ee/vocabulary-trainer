@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Minulla on pyörä.",
+    "Pyörä on rikki.",
+    "Hänellä on uusi pyörä."
+  ],
+  "translation": [
+    "wheel",
+    "bike",
+    "cycle"
+  ],
+  "context": "The word pyörä refers to a wheel or a bike in Finnish, and it is commonly used in everyday conversations to talk about vehicles or machinery."
+}

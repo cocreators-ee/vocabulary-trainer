@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Minulla on alle kuusi euroa.",
+    "Hän on alle kuudentoista.",
+    "Tämä kirja maksaa alle kaksikymmentä euroa."
+  ],
+  "translation": [
+    "under",
+    "below",
+    "less than"
+  ],
+  "context": "The word 'alle' in Finnish is commonly used as a preposition or an adverb to indicate something is below or less than something else, often used to describe quantities, ages, or spatial relationships."
+}
