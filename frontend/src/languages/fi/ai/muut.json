@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tällä kertaa muut pystyvät nauramaan",
-    "Muissa maissa muut ovat jo löytäneet ratkaisun tähän ongelmaan.",
-    "Hänen muut kirjansa ovat myös hyvin menestyneitä."
+    "Muut eivät tiedä tästä.",
+    "Muiden mielestä se on hyvä idea.",
+    "Me olemme eri mieltä muista."
   ],
   "translation": [
     "others",
-    "the rest"
+    "the rest",
+    "other (comparative form)"
   ],
-  "context": "The word 'muut' in Finnish means others or the rest, and it is commonly used to refer to a group of people or things that are not specifically named or identified."
+  "context": "'muut' means other people or things in general, and it is often used to refer to a group of people not including the speaker or subject. 'Muut' can also be a comparative adjective meaning 'more', similar to the English word 'other'. It is commonly found in everyday conversations when talking about different groups of people."
 }

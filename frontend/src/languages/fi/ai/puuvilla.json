@@ -1,13 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Puuvillaa käytetään usein vaatteiden valmistuksessa.",
-    "Hän osti uuden puuvillaisen paitansa kesäksi.",
-    "Puuvillatehtaan tuotteita vietiin ulkomaille."
+    "Puuvillaa käytetään usein keittiöissä hyytyjen poistamiseen.",
+    "Hänellä oli puuvillassa tehtyjä ranteita keittiön pöydälle.",
+    "Villa on erittäin hyvä materiaali, ja puuvillan laadullinen tarkkuus on huippu.",
+    "Kun haluat poistaa hyytyjen jäljet lasilista, voit käyttää pehmeää puuvillaa."
   ],
   "translation": [
-    "cotton"
+    "cotton wool",
+    "flannel"
   ],
-  "context": "The word 'puuvilla' refers to cotton, a natural fiber used to make clothing and other textile products. It is commonly used in Finnish to describe clothes or fabrics made from this material."
+  "context": "Refers to a type of soft, absorbent cloth made from cotton or similar materials. It is commonly used for wiping surfaces, in kitchens, and for general cleaning purposes."
 }

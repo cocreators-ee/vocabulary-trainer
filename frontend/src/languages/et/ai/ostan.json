@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ostan raamatu.",
-    "Ta ostis uue telefoni.",
-    "Nad ostan maja."
+    "Ma ostsin uue telefoni.",
+    "Ta ostis tänaseks oma vaimu rahulikuse hoidmiseks kohvi.",
+    "Meie ostame alati toitu poodist."
   ],
   "translation": [
-    "buy"
+    "buy",
+    "purchase"
   ],
-  "context": "The word 'ostan' in Estonian means to buy something, and it is commonly used in sentences related to purchasing or acquiring goods or services."
+  "context": "Ostan is a verb form meaning 'to buy'. It is commonly used in daily conversations when referring to the act of purchasing goods or services. The example sentences show its use in different tenses and contexts."
 }

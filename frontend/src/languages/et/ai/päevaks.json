@@ -2,14 +2,14 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Homme on ilus päevaks.",
-    "Ma lähen täna päeval välja.",
-    "Päevaks oli palju tööd tehtud."
+    "Oma mõtted kirjutas ta oma päevakirja.",
+    "Tema viimane artikkel ilmus kuu aastat enne tema surma ja see oli kõige lühem ja kõige lihtsam tänu sellele, et tal ei olnud aega sellesse midagi sügavat panustada.",
+    "Päevakirja saates saab teada, et perekond tuleb kodusse juba homme õhtul."
   ],
   "translation": [
     "for the day",
-    "during the day",
-    "by the day"
+    "daily",
+    "in daily life"
   ],
-  "context": "The word 'päevaks' is an Estonian adverbial form derived from the word 'päev' (day). It indicates a time frame related to a day, often meaning 'for the day', 'during the day', or 'by the day'. It can also imply completion by a certain day."
+  "context": "'päevaks' in Estonian is commonly used to refer to something that happens or is done on a daily basis. It can also mean 'by day' or 'for the day'. This word often modifies verbs and adjectives to indicate frequency."
 }

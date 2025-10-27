@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta otsib kättemaksu",
-    "Kättemaks on kurjuse või ülekohtu vastu",
-    "Kättemaks ei ole õigustatud"
+    "Kättemaksu on mõistatud kahjukohtu andmiseks.",
+    "Ta vabastati kättemaksu andmata.",
+    "Kättemaksuga seoses peetakse kohtusid palju aega."
   ],
   "translation": [
-    "revenge",
-    "retaliation"
+    "compensation",
+    "restitution",
+    "indemnification"
   ],
-  "context": "The word kättemaksu refers to the act of taking revenge or retaliating against someone for a past wrongdoing, and it is commonly used in Estonian language to describe a situation where someone seeks to punish or harm others in response to a perceived injury or injustice."
+  "context": "Kättemaksu refers to compensation or restitution provided in legal contexts, often as part of a settlement for damages or losses incurred. It is commonly used in judicial proceedings where someone is required to pay another party to make up for harm suffered."
 }

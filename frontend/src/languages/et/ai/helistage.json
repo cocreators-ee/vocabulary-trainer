@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta helistas mulle eile õhtul.",
-    "Palun helistage politseile!",
-    "Helistage mind homme."
+    "Helistage minu vanematele!",
+    "Juht said: \"Helistage meile kui vajate abi\".",
+    "Ei saa helistada? Helistage!"
   ],
   "translation": [
-    "ring",
-    "call",
-    "phone"
+    "call (imperative)",
+    "phone call (imperative)"
   ],
-  "context": "The Estonian word 'helistage' is an imperative form of the verb meaning 'to ring' or 'to call', often used when asking someone to make a phone call. It’s similar in usage to ‘call’ in English, but can also refer to the sound of a bell ringing."
+  "context": "It is the imperative form of 'to call' or 'to phone', used to tell someone (plural) to make a telephone call."
 }

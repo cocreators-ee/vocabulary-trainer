@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma minagi lähen sinna.",
-    "Ta ütles, et minagi võin kaasa tulla.",
-    "Minagi olen selle filmi fänn."
+    "Mina ka soovin heada õhtut.",
+    "Kas sa tahad minagi sealt kõrvale?",
+    "Minagi olen nii väikestel asjadel erinev."
   ],
   "translation": [
     "me too",
-    "I too",
-    "myself as well"
+    "also me"
   ],
-  "context": "The word minagi is used to indicate that the speaker is also included in a group or action, similar to the English phrase 'me too'."
+  "context": "'minagi' translates to 'me too' or 'also me'. It's used to express agreement with something someone else said, similar to how one might use 'me neither' depending on context."
 }

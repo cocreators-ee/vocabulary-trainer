@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Nad toovad meile uusi teadmisi.",
-    "Toovad meidagi uude ajastusse.",
-    "Ta toob mulle iga päev lehti."
+    "Ne meeldib rohelised õied, kuid need toovad mulle alati valusid."
   ],
   "translation": [
     "bring",
+    "take",
     "carry"
   ],
-  "context": "The word 'toovad' is a verb in Estonian that means to bring or carry something, and it is commonly used in everyday conversations to describe the act of moving or transporting objects from one place to another."
+  "context": "'Toovad' in Estonian is the third person plural form of the verb 'tõsta', which means to bring, take or carry something. It can be used in a variety of contexts such as physically carrying an object from one place to another, taking someone somewhere, or metaphorically 'bringing' qualities or consequences."
 }

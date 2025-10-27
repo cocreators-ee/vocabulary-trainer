@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma olen eks",
-    "Ta on eksinud",
-    "Eks ma võin seda teha"
+    "Eks ma just pidi kodusse minema.",
+    "Miks sa muidu eksid?",
+    "Ta eksis oma soovide vastu."
   ],
   "translation": [
     "perhaps",
-    "maybe",
-    "possibly"
+    "may"
   ],
-  "context": "The word 'eks' in Estonian is used to express uncertainty or possibility, similar to the English words 'perhaps', 'maybe', or 'possibly'."
+  "context": "The Estonian word 'eks' is used to express uncertainty or possibility, similar to the English words 'perhaps' or 'maybe'. It's often used when suggesting an idea that isn't certain, showing hesitation, doubt, or a conditional thought process."
 }

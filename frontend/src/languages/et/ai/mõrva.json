@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta süüdistas mind mõrvas.",
-    "Mõrvamine on keelatud.",
-    "Politsei uurib mõrva juhtumit."
+    "Mõrva neid!",
+    "See on tõeline mõrv.",
+    "Ta soovis mõrva teha."
   ],
   "translation": [
-    "murder",
-    "to murder"
+    "kill",
+    "murder"
   ],
-  "context": "The word 'mõrva' is a noun in Estonian that refers to the act of killing someone, typically in a violent or intentional manner. It can also be used as a verb, 'mõrvama', which means to commit murder."
+  "context": "The word 'mõrva' primarily means to kill or commit murder in Estonian. It is commonly used as a verb in contexts involving violence, such as in the sentences provided where it's part of commands and descriptions related to violent actions."
 }

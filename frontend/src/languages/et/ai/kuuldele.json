@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.5,
   "understood": true,
   "sentences": [
-    "Ma kuulen seda häält",
-    "Kuuldele mind",
-    "Ta kuuldele muusikat"
+    "Ma teen kuuldele.",
+    "Ta kõlas kuuldele",
+    "Kuuldele tegemine oli tema suurim vigu."
   ],
   "translation": [
-    "listen",
-    "hear"
+    "a sound",
+    "to make a noise",
+    "noisy"
   ],
-  "context": "The word 'kuuldele' is used in Estonian to mean listening to something or someone, and it can be translated to English as 'listen' or 'hear'."
+  "context": "The word 'kuuldele' is used to describe something that makes a loud or unpleasant sound. It can be used as a noun meaning 'noise', as an adjective, and in verbs related to making sounds."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on tuntud kui hulgast.",
-    "Hulgast ei ole see mees.",
-    "Hulgasti käitumine on lubamatu."
+    "Minu kõik huvide hulgast.",
+    "Ta valis selle esinemise hulgast parima variandi.",
+    "Pilt puhub hulgast."
   ],
   "translation": [
-    "bully",
-    "rowdy",
-    "ruffian"
+    "from the collection",
+    "from among them",
+    "out of a group"
   ],
-  "context": "The word 'hulgast' in Estonian refers to a person who behaves in a rough and intimidating manner, often using physical strength or aggression to assert themselves."
+  "context": "Hulgast is used to indicate something taken from a larger set or group. It often implies selection or exclusion within a defined collection, such as picking an item from a group or referring to it in context."
 }

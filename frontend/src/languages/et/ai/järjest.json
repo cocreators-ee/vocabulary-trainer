@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma järjestan partei järgmine nädal",
-    "Ta on hea korraldaja ja järjestab üritusi",
-    "Järjestikusel võidul on suur mõju meie elule"
+    "Ma teen tööd järjest.",
+    "Tema mõtted olid järjesta ja selged.",
+    "Plekk kerkis järjest üles."
   ],
   "translation": [
-    "arrange",
-    "organize",
-    "manage"
+    "order",
+    "in order",
+    "gradually",
+    "progressively"
   ],
-  "context": "The word järjest means to arrange or organize something in Estonian, and it is commonly used to describe the act of planning and coordinating events or activities."
+  "context": "'Järjest' in Estonian can mean 'in order' or 'gradually,' depending on context. It is commonly used to describe things arranged systematically or progressing step by step."
 }

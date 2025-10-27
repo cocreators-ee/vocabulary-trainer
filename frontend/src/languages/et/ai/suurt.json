@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen suurt kasu sellest saanud",
-    "Ta on väga suur mees",
-    "See on suurepärane võimalus"
+    "Minu suurt sõbra kohtumiseks tuleb.",
+    "Oled sa liiga väikene selle suurt ülesandega tegelemiseks.",
+    "Suurt elamust!"
   ],
   "translation": [
     "big",
-    "great",
-    "large"
+    "large",
+    "great"
   ],
-  "context": "The word 'suurt' in Estonian means something or someone that is of a great size, amount or degree, and it is commonly used to describe physical objects, abstract concepts or people."
+  "context": "'suurt' is the partitive singular form of 'suur,' which means big, large, or great. It is used to indicate a non-specific quantity or portion of something, and it's commonly used in both casual and formal contexts."
 }

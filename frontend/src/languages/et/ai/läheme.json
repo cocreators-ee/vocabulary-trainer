@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma läheme kinno.",
-    "Meie läheme täna õhtul koos.",
-    "Kas sa lähed homme ka?"
+    "Läheme poodi.",
+    "Kas me läheme koju?",
+    "Poliisid ei lähe mõrva juurde."
   ],
   "translation": [
-    "let's go",
-    "we are going"
+    "we go",
+    "to go"
   ],
-  "context": "The word 'läheme' is the first person plural form of the verb 'lähen' or 'minema', meaning to go, and is used to suggest or agree on going somewhere together."
+  "context": "Used to indicate the action of going somewhere or moving towards something, often in a conversation where plans are being made about movement from one place to another."
 }

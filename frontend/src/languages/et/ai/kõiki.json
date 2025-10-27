@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan kõiki",
-    "Ta tundis kõike",
-    "Kõik on hea"
+    "Kõik on hästi.",
+    "Mina olen kõigi poole peale.",
+    "Tema meelsus käsib kõiki."
   ],
   "translation": [
-    "everyone",
     "all",
+    "everyone",
     "everything"
   ],
-  "context": "The word kõiki is a pronoun in Estonian that means everyone or all, and it is commonly used to refer to a group of people or things in a general sense."
+  "context": "The Estonian word 'kõiki' is a form of the pronoun 'kõik', which means 'all', and can be used to refer to everyone, everything or all in general. It often appears as an object in sentences."
 }

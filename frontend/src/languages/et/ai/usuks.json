@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.65,
   "understood": true,
   "sentences": [
-    "Ma usun sind.",
-    "Ta ei usu kedagi.",
-    "Kas sa usud kummitusi?"
+    "Kaks inimest vaikselt usuks ja tõmbusid laiali.",
+    "Ta torkas usuks käesolevalt, et keegi ei näha.",
+    "Nad jooksisid usuks ja piinasid oma mängu.",
+    "Usun, et sa lamasid neist usuks!",
+    "Mõlemad kõrgustavad oma silmausuksi."
   ],
   "translation": [
-    "believe",
-    "trust",
-    "faith"
+    "into the corner"
   ],
-  "context": "The word 'usuks' is related to the verb 'uskuma' which means 'to believe'. It expresses a conviction that something is true or real, or confidence in someone or something. It can also refer to religious faith."
+  "context": "In Estonian context 'usuks' usually means to the corner or into the corner. It is commonly used in situations where someone hides or moves towards a corner to avoid being seen or as a strategic place."
 }

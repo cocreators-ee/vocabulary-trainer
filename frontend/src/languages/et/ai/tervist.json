@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tere päevast!",
-    "Tervist sulle!",
-    "Ma soovin tervist."
+    "Olen tervist võtnud.",
+    "Lapsed saavad tervist päevas.",
+    "Täiskasvanud vajab rohkem tervist kui lapsed."
   ],
   "translation": [
-    "Hello",
-    "Greetings",
-    "Good health"
+    "vitamins",
+    "a health supplement"
   ],
-  "context": "The word 'tervist' is a common greeting in Estonian, similar to 'hello' or 'greetings' in English. It can also be used as a wish for good health."
+  "context": "This word refers to vitamins or other health supplements that are taken to improve one's well-being or make up for a lack of certain nutrients in the diet."
 }

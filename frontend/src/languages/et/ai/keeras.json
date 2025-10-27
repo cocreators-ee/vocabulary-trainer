@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta keerab oma juukseid.",
-    "Palun keera valgust välja.",
-    "See tee keerab vasakule."
+    "Ta keeras juustu.",
+    "Keera seda sõrme järgi!",
+    "Mina keerasin õmblemisele sobiva narvi."
   ],
   "translation": [
-    "to turn",
-    "to twist",
-    "to rotate"
+    "twisted",
+    "wound",
+    "spun"
   ],
-  "context": "The Estonian word 'keeras' is a versatile verb meaning to turn, twist, or rotate something. It can be used literally for physical actions like turning a key or twisting hair, but also figuratively to describe changes in direction or situations."
+  "context": "The word 'keeras' is the past tense form of the Estonian verb 'keerama', which means to twist, to wind or to spin something. It's commonly used when describing physical actions like twisting a rope, winding yarn around a spool or spinning threads together."
 }

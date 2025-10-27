@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minä jatkan opiskelua",
-    "Hän jatkoi työtään",
-    "He jatkavat matkaa"
+    "Hänellä on tapana jatkaa puheensa keskelleen, vaikka kukaan ei kuuntele",
+    "Jätin kirjan lukematta ja päätin jatkaa seuraavana päivänä",
+    "Työntekijät saivat käskyn jatkaa työtä ilman taukoja"
   ],
   "translation": [
-    "continue",
-    "proceed",
-    "carry on"
+    "to continue"
   ],
-  "context": "The word jatkaa is a verb in Finnish that means to continue or proceed with something, and it is commonly used in everyday conversations to describe the act of keeping something going or resuming an activity after a pause."
+  "context": "The verb 'jatkaa' is used to express continuing an action or a process that was already in progress. It can be used both literally and metaphorically."
 }

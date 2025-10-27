@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen mingis mõttes õnnelik",
-    "Ta on mingis asi hea inimene",
-    "See on mingis suhtes võimalik"
+    "Mingis lõunatseb oma maja.",
+    "Tema perekonnas on mingisega seotud probleemid.",
+    "Eile kohtusin mingise ja tema sõbra."
   ],
   "translation": [
-    "somehow",
-    "in some way",
-    "to some extent"
+    "A man",
+    "Some man",
+    "He"
   ],
-  "context": "The word 'mingis' is used to indicate a certain degree or extent of something, similar to the English phrase 'to some extent' or 'in some way'. It can be used in various contexts to convey that something is true or possible, but not entirely or completely."
+  "context": "The word 'mingis' refers to a male person, often used when the name is unknown or not specified. It can be translated as 'a man', 'some man', or just 'he'. It's commonly used in conversational Estonian to refer to men without using their actual names."
 }

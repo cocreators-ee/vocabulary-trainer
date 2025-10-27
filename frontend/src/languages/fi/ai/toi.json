@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Toi on hyvä auto.",
-    "Toi ei ole kallis.",
-    "Toi on minun"
+    "Toi tämä tänne.",
+    "Hän toi puhelinkoneen mukaan.",
+    "Koska toimit varat?"
   ],
   "translation": [
-    "that",
-    "it"
+    "to carry/brought",
+    "to bring/takes",
+    "to deliver/delivers"
   ],
-  "context": "The word 'toi' is a demonstrative pronoun in Finnish, used to point out something specific, similar to the English words 'that' or 'it'."
+  "context": "The Finnish word 'toi' is the third person singular past tense of the verb 'täyttää', meaning to fill, or more commonly in this form, it's used as a variant of the verb 'tuoda' which means to carry, bring, or deliver. It often appears in contexts where someone has carried something over from one place to another."
 }

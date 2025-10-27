@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minun veloitetaan tästä työstä.",
-    "Häneltä veloitetiin korkeat kustannukset.",
-    "Tämä tuote veloittaa nopeasti"
+    "Hän veloitti häneltä paljon rahaa.",
+    "Meidän tuli veloitaa työntekijöiltän lisäpalkkioita.",
+    "Hänen ei pitänyt veloittaa meiltä enempää kuin säännöissä on määritelty."
   ],
   "translation": [
     "to charge",
     "to bill"
   ],
-  "context": "The word 'veloittaa' is commonly used in Finnish to mean charging or billing someone for a service or product, and it can be used in different contexts such as business or everyday life."
+  "context": "Veloittaa is used when charging or billing someone for a service, product, or debt. It can be used in both formal and informal contexts, such as paying bills, demanding money owed, or setting prices."
 }

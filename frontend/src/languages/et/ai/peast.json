@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma pean selle tööga kiiresti peast lahti saama.",
-    "Ta ei saa aru, mis temaga peast sassi läheb.",
-    "Mul on sellest murest juba peast välja aetud."
+    "Kui sa ei tea, kuhu minna peale õhtusööki, siis võid alati minna peast pankama. (If you don't know where to go after dinner, you can always go for a walk in the park.)",
+    "Ta jooksis kuni peast kõhvat ja tundus, et see oli ainuke viis sellest vabaneda. (He ran until he threw up and it seemed like that was the only way to get rid of it.)",
+    "Mõned lapsed mängivad alati peast ära, isegi kui nad juba väga väikesed on. (Some children always play outside until they're worn out even when they are already very small.)"
   ],
   "translation": [
-    "head",
-    "mind",
-    "brain"
+    "afterward(s)",
+    "then",
+    "next",
+    "later"
   ],
-  "context": "The word 'peast' in Estonian can have several meanings depending on the context. It often refers to the head or mind, but it can also mean 'to get rid of something', 'to figure out', or 'to go crazy'. It is commonly used in expressions related to thinking, understanding, and dealing with problems."
+  "context": "'Peast' in Estonian is used to indicate a time or sequence following an event or action, similar to English words like 'afterward(s)', 'then', or 'next'. It suggests what comes after something else either chronologically or logically."
 }

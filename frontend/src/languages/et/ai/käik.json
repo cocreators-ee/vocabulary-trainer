@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen käiku",
-    "Käik on hea koht",
-    "Tal on ilus käik"
+    "Mina käin koolis igasoojas. (I go to school every day.)",
+    "Ta tõi käigu oma mängu läbi. (He carried out his game through movement.)",
+    "Rohevad jühid käes. (The rough edges are in motion.)"
   ],
   "translation": [
+    "go",
     "walk",
-    "gait",
-    "stride"
+    "movement"
   ],
-  "context": "The word käik in Estonian generally refers to the act of walking or a person's gait, which is the way they walk."
+  "context": "The Estonian word 'käik' primarily translates to 'movement', especially in the context of physical motion such as walking or any kind of movement."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen vedanud auto garažisse.",
-    "Ta on vedanud lapse ämma juurde.",
-    "Vedanud koer on kooli toel."
+    "Ta juba kogu päeva vedanud see riiul üle lõunamaale.",
+    "Rohkem kui aastakümne jooksul on ta pidevalt vedanud meie firmat edasi.",
+    "Mees läks taga, et veeta oma last hooajalikult kooli."
   ],
   "translation": [
-    "have brought",
-    "brought"
+    "to pull",
+    "dragging",
+    "to tow"
   ],
-  "context": "The word 'vedanud' is the first person singular form of the verb 'viima', which means 'to bring'. It is commonly used in Estonian to describe an action where someone or something has been transported from one place to another."
+  "context": "'Vedanud' is the past participle of 'vedada', which means to pull or drag something. It can be used literally when moving objects by force, figuratively in contexts like leading a company forward, or in specific uses such as towing vehicles."
 }

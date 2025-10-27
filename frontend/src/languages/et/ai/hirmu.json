@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen hirmu külm",
-    "Hirmu ilus päev täna",
-    "See on hirmu raske töö"
+    "Tema silmadesse tõusis hirmu heledus.",
+    "Korrumpeerunud vald on täis tervise hirmu.",
+    "Häda ja hirmu kinnitasid taljuke.]}, {"
   ],
   "translation": [
-    "terrible",
-    "awful",
-    "frightful"
+    "fear",
+    "terror"
   ],
-  "context": "The word hirmu is used in Estonian to describe something that is terrible, awful or frightful, and it can be used in various contexts to express a strong negative emotion."
+  "context": "Hirmu is a noun derived from 'hirm' (fear/terror) and typically refers to the emotion of fear or terror. It can also be used metaphorically in contexts like 'kliima muutused põhjustavad hirmu' (climate changes cause fear)."
 }

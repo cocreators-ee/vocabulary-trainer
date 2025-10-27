@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Maal on üks olulisemaid asju elus.",
-    "Ta tegi maali oma aiast.",
-    "Meie meeskond võitis maalis."
+    "Minu kodus on maalide kogu.",
+    "Ta õnnitles teda maali.",
+    "Maal oli väga ilus tänava lõuna.",
+    "Maal pani ta oma ema portreedi."
   ],
   "translation": [
-    "paint",
-    "color"
+    "painting",
+    "to flatter"
   ],
-  "context": "The word 'maal' in Estonian generally refers to paint or color, and it is commonly used in the context of art or decoration."
+  "context": "The word 'maal' primarily means a painting, often used in the context of art. It can also mean to flatter someone, as in complimenting excessively or insincerely."
 }

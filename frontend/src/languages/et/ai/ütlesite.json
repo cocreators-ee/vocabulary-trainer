@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ütlesite mulle eile midagi väga olulist.",
-    "Kas te ütlesite seda tõsiselt?",
-    "Nad ütlesite, et nad tulevad homme."
+    "Ta ütlesite mulle tõhusalt oma teada. (He told me efficiently what he knows.)",
+    "Rohkem ei ütlesite midagi. (You didn't say anything more.)",
+    "Pean täpsustama: nad ei ütlesite maale midagi. (I have to clarify: they said nothing to the police.)"
   ],
   "translation": [
     "said",
-    "stated",
     "told"
   ],
-  "context": "The verb 'ütelda' means 'to say' or 'to tell' in Estonian. The form 'ütlesite' is the past tense, second-person singular (you said). It’s used to indicate that someone told something to another person."
+  "context": "'ütlesite' is the past tense, plural form of 'to say/tell'. It's used when referring to a group or formal address."
 }

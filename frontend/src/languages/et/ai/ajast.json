@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen ajast maha jäätud.",
-    "See on üks ajast sõltumata head raamatud.",
-    "Ta oli alati ajast pisut ees"
+    "Ma tahan ajast olla õnnelik.",
+    "Ta tegi kõik selle ajast kohta.",
+    "Kell oli suurepärane ajast üles püsimiseks."
   ],
   "translation": [
-    "from time",
-    "over time",
-    "in time"
+    "time"
   ],
-  "context": "The word 'ajast' in Estonian generally means something related to or dependent on time, and it is often used to describe events, actions or states that are influenced by the passage of time."
+  "context": "Ajast means time in Estonian. It is commonly used to refer to a point or period in time."
 }

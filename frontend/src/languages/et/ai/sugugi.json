@@ -1,15 +1,15 @@
 {
-  "confidence": 0.6,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei saa aru, mis sa sugugi räägid.",
-    "See on väga sugugi asi.",
-    "Ära ole nii sugugi."
+    "Ei, ma ei usu sugugi.",
+    "See pole sugugi tõsi.",
+    "Ta tegevus oli sugugi ebaefektiivne."
   ],
   "translation": [
-    "completely",
-    "totally",
-    "absolutely"
+    "Not at all",
+    "Not even a little bit",
+    "Hardly"
   ],
-  "context": "The word 'sugugi' is an Estonian adverb that intensifies a statement or expresses the degree to which something is true. It can be translated as 'at all', 'completely', 'totally', or 'absolutely'. It often appears in negative constructions, meaning 'not at all'."
+  "context": "The word 'sugugi' is used to express strong negation or denial. It can be translated as 'not at all', 'not even a little bit', or 'hardly'. It's commonly used in response to questions where the expected answer might be positive, but the speaker wants to emphasize that the opposite is true."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mul on ilusad mälestused suvest.",
-    "Ta jagas meile oma lapsepõlve mälestusi.",
-    "Mälestused sellest reisist on mul väga positiivsed."
+    "Mõned mälestused jäävad mind alati nüansiga.",
+    "Ta tundus, et need kurbad mälestused pani teda tagasil.\n",
+    "Mälestused on sarnased võlule - sa pead neid rahulikult maksma."
   ],
   "translation": [
-    "memories",
-    "recollections"
+    "memories"
   ],
-  "context": "The word 'mälestused' in Estonian refers to memories or recollections, which are experiences or events that someone remembers from the past. It is commonly used to describe fond or nostalgic memories, and can be used in various contexts such as sharing childhood memories or recalling a memorable event."
+  "context": "Mälestused means memories in Estonian. It is commonly used to refer to personal recollections or significant past events."
 }

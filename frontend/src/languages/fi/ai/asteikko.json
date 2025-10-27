@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Asteikko on tärkeä osa mittauslaitteissa.",
-    "Hänen asteikkonsa oli erilainen kuin meidän.",
-    "Asteikot voivat olla hyvin monimutkaisia ja vaihtelevia."
+    "Hänellä on kipua asteikolla yhdestä kahteentoista.",
+    "Mittari mittaa lämpötilaa -20-astetta ja +100-asteen välillä.",
+    "Kyselyyn vastattiin viisiportaisella asteikkolla."
   ],
   "translation": [
     "scale",
-    "gauge",
-    "range"
+    "graduation",
+    "rating scale"
   ],
-  "context": "The word 'asteikko' in Finnish refers to a scale or gauge, which is commonly used in measurement instruments or devices to indicate the range or level of something."
+  "context": "'Asteikko' is commonly used to describe scales, whether numerical (like 1-5), temperature-related (e.g., Celsius), or any system of classification or measurement where items are ordered in steps. It's often seen on surveys and scientific measurements."
 }

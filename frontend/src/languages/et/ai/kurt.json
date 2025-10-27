@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on väga kurt.",
-    "Kurt tüdruk ei kuulnud mind.",
-    "Ma kardan, et ma lähen kurdiks vanadusega."
+    "Kuradil on nüanssid.",
+    "See on lihtne kurbus.",
+    "Kurad sõnad. Mina ei tohi neid öelda."
   ],
   "translation": [
-    "deaf",
-    "hard of hearing"
+    "sadness",
+    "grief",
+    "sorrow"
   ],
-  "context": "The word 'kurt' in Estonian means deaf or hard of hearing. It is used to describe someone who has a significant loss of hearing and cannot hear sounds normally. It can also be used figuratively to mean unresponsive or unwilling to listen."
+  "context": "Kurt refers to a feeling of deep sadness or sorrow, often used to describe emotional states or expressions that are somber or mournful."
 }

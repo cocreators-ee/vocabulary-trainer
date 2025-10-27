@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Pidä kiinni!",
-    "Hän piti kirjaa kädestään.",
-    "He pidättivät hänet poliisiasemalla."
+    "Pidä huolta siitä.",
+    "Hänellä on pidättäytyminen.",
+    "Et voi pitää omaa mieltäsi?"
   ],
   "translation": [
-    "hold",
-    "keep",
-    "hold on"
+    "take care of it",
+    "reticence (in speaking)",
+    "can you hold your own opinion? (literally 'to keep one's own opinion')"
   ],
-  "context": "The word 'pidä' is a verb in Finnish that means to hold or keep something, and it can be used in various contexts such as holding an object, keeping a promise, or maintaining a position."
+  "context": "The word 'pidä' is a verb meaning to 'hold', 'keep', or 'maintain'. It can also be used in various contexts such as caring for something, refraining from speaking, and maintaining an opinion."
 }

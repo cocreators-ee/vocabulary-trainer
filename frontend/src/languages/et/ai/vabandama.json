@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma vabandama sind",
-    "Ta vabandas mind",
-    "Me vabandame teineteist"
+    "Ta vabandas tõsiseks väsimuse pärast.",
+    "Vabandan, et ma ei saa täna õhtul kohal olla.",
+    "Minu lugu on valmis, aga ma vabandaksin siiski."
   ],
   "translation": [
     "to apologize",
-    "to excuse",
-    "to forgive"
+    "to excuse oneself"
   ],
-  "context": "The word 'vabandama' in Estonian means to apologize or to excuse, and it is commonly used in formal and informal settings to express regret for something."
+  "context": "'vabandama' is the infinitive form of the verb 'to apologize' or 'to excuse oneself'. It's used when someone regrets something they've done and wants to express their remorse."
 }

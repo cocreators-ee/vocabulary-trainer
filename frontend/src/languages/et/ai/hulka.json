@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Meil on hulga raha investeeritud selle projekti.",
-    "Ta tegi hulka vigu eksamis.",
-    "Hulka inimesi osales kontserdil."
+    "Ta läks hulka.",
+    "Lähe me hulka?",
+    "Jäid sa hulka?"
   ],
   "translation": [
-    "a lot",
-    "many",
-    "bulk",
-    "quantity"
+    "to be drunk",
+    "to get drunk"
   ],
-  "context": "The word 'hulka' in Estonian generally refers to a large quantity or amount of something. It is commonly used to indicate ‘a lot’ or ‘many’ when describing countable or uncountable nouns."
+  "context": "Hulka is a slang expression used to describe when someone drinks alcohol until they are no longer sober."
 }

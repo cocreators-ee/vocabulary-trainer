@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olge valmis.",
-    "Ma olgen tänan.",
-    "Olge täna homme"
+    "Olge ausad! Palun, olge ausad!",
+    "Mina olen teie kallimaks juba vähemalt nii kaua, et see kestaks teie elu pikkusega. See ei saa olla tõsi. Olete lihtsalt liiga noor, et arusaada.",
+    "Ma pean tagasi minema ja öelda neile, et nad ei tohi seda midagi teha, kuid nad on väga väikesed poeg, olge hea koos teda!"
   ],
   "translation": [
     "be",
-    "exist"
+    "you are (plural)"
   ],
-  "context": "The word 'olge' is the second person plural form of the verb 'olema', which means to be or exist in Estonian. It is commonly used in various contexts, including formal and informal writing, as well as spoken language."
+  "context": "'Olge' is the second person plural form of 'to be' in Estonian. It's used to say 'you all are' or as a polite imperative 'please be'. In sentences, it can translate to commands like 'be', requests such as 'please be', or describe states for multiple people."
 }

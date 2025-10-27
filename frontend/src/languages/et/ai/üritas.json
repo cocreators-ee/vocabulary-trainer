@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Ta üritas mind veenda.",
-    "Ma üritan aru saada, mis juhtus.",
-    "Ära ürita seda teha!"
+    "Ta üritas avada ukse, kuid see oli lukus.",
+    "Mind jälitasid, ma aga otsisin maha ja üritasin põgene."
   ],
   "translation": [
-    "tries",
-    "attempt",
-    "endeavors"
+    "tried",
+    "attempted"
   ],
-  "context": "The word 'üritas' is the past tense form of the verb 'üritada', which means 'to try' or 'to attempt'. It describes an action someone made an effort to do, but doesn’t necessarily indicate success. In English it is commonly used when describing a past action where someone attempted something."
+  "context": "'Üritas' is the past tense form of 'to try' in Estonian and is used when referring to an action that was attempted but may not have been successful."
 }

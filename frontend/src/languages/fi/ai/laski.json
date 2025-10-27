@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Laski putosi pöydältä.",
-    "On laskettu, että tämä kestää kolme tuntia.",
-    "Hän laski rahaa taskustaan."
+    "Hän laski kynän paperille.",
+    "Poika laski lennonvuoroon.",
+    "Neuvos laski hänelle tarkan hinnan."
   ],
   "translation": [
-    "broke",
-    "fell",
-    "counted"
+    "wrote",
+    "landed (airplane)",
+    "quoted"
   ],
-  "context": "The word 'laski' in Finnish can be translated to English as 'broke', 'fell', or 'counted', depending on the context, and is commonly used to describe something that has fallen down or been counted."
+  "context": "'Laski' is the past tense of 'ladata', which means to land or write in Finnish. It can also mean quoted in a business context when giving prices."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta maksis selle eest dollari.",
-    "Dollari väärtus tõusis.",
-    "Tema taskus oli üks dollari."
+    "Minu dollari kuluks saidi.",
+    "Ta saab aastas palju dollari.",
+    "Mitu dollari sul on?"
   ],
   "translation": [
     "dollar"
   ],
-  "context": "The word 'dollari' refers to the dollar currency in English, commonly used in financial transactions and economic discussions."
+  "context": "Used to refer to the dollar as currency or in contexts involving money."
 }

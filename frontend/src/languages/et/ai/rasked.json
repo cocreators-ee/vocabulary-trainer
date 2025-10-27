@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See oli raske päev.",
-    "Ta on raske mees.",
-    "Rasked ajad on möödunud."
+    "Rasedusega seotud raskeused on kõige sagedamini põhjustatud vitamiinide ja mikroelementide puudujäägist.",
+    "Vastava tarkvara ja vajalike osade ostmine võib olla rasked ja aeganõudev.",
+    "Kui su raskeused on seotud liigse vereruhmaga, siis saad lisainfot sellest siin."
   ],
   "translation": [
     "difficult",
-    "hard",
-    "heavy"
+    "hard"
   ],
-  "context": "The word 'rasked' in Estonian generally translates to 'difficult', 'hard', or 'heavy' in English. It can describe a challenging situation, a physically strong person, or something with significant weight. It is commonly used to express the degree of effort required for a task or the severity of a circumstance."
+  "context": "The word 'rasked' in Estonian is an adjective meaning difficult or hard. It's used to describe situations or tasks that require a lot of effort or are not easy to accomplish."
 }

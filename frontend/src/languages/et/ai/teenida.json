@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma teenin seda tööd juba kaua.",
-    "Ta teenerdas väga osavalt.",
-    "Nende tööde teenimiseks on vaja palju aega."
+    "Ta teenib sündinud privileegi tõttu palju raha",
+    "Kas sa arvad, et ta teenib oma töö kvaliteedi tõttu auhinda?",
+    "Ma ei mõista, miks see inimene midagi teenib?"
   ],
   "translation": [
-    "to serve",
-    "to work",
-    "to earn"
+    "to earn",
+    "to deserve"
   ],
-  "context": "The word 'teenida' in Estonian means to serve, work or earn something, often implying a sense of obligation or duty, and is commonly used in various contexts such as employment, customer service, or achieving a goal."
+  "context": "The verb 'teenida' in Estonian can mean either 'to earn' as in money or rewards for work, effort, or achievements; or 'to deserve' something based on one’s actions or qualities."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tuleman kohe.",
-    "Ta on tulemas.",
-    "Nad on tulemased."
+    "Olen juba kaks päeva tulemas.",
+    "Ei tea, kas ta tulema hakkab.",
+    "Ta sõi pärast tulemist."
   ],
   "translation": [
     "to come",
     "coming"
   ],
-  "context": "The word 'tulema' in Estonian means to come or to arrive, and it is commonly used in sentences to indicate the act of approaching or reaching a destination."
+  "context": "'Tulema' means 'to come' in Estonian and is used as a verb. It can be used to describe physical movement towards something or someone, or metaphorically for events such as the arrival of spring or new opportunities."
 }

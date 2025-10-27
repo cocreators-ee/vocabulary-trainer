@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on sügav mõtleja.",
-    "Sügava veega järvel on raske ujuda.",
-    "Sügavale sügisesele õhtule läksime jalutama."
+    "Sügav mere ala on täis huvipunkte.",
+    "Ta on tõesti sügava mõttevaimu inimene.",
+    "Meeldiv on sõita läbi sügavad valed."
   ],
   "translation": [
     "deep",
     "profound"
   ],
-  "context": "The word 'sügav' in Estonian means deep or profound, and it is commonly used to describe something that has a great extent or intensity, such as a deep ocean or a profound thought."
+  "context": "The word 'sügav' means deep. It can describe physical depth, such as a deep sea area, or metaphorical depth like a profound mind. Commonly used to describe something with significant depth in either literal or figurative contexts."
 }

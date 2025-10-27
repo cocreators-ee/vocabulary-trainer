@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän on takana kulissaystävällisyyden",
-    "Takana oleva talo on vanha",
-    "Kävellessäni katua pitkin näin hänet takana"
+    "Poika seisoo taksinkuljettajan takana.",
+    "Auton takaosassa on pieni renkaan vahinko.",
+    "Hän asustelee aina isänsä takana."
   ],
   "translation": [
-    "behind",
-    "at the back of"
+    "behind"
   ],
-  "context": "The word 'takana' in Finnish is commonly used to describe something or someone that is located at the back or behind something else, and it can be used as an adverb or a postposition."
+  "context": "Takana is an adverb meaning 'behind'. It can be used to indicate something being located at the back of another thing or following someone/something."
 }

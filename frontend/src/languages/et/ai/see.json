@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma näen sind",
-    "Ta tahab mind näha",
-    "Me näeme teineteist homme"
+    "See on minu kodu.",
+    "Seal on suur viktoriiniakula.",
+    "Mina hoolitan sellest lõunast."
   ],
   "translation": [
-    "see",
-    "look",
-    "watch"
+    "this"
   ],
-  "context": "The word is commonly used to indicate the act of perceiving with one's eyes or to notice something."
+  "context": "A common word to indicate something close at hand or previously mentioned. Used in both singular and plural contexts depending on the situation, but always refers to concrete objects or concepts that are clear from context."
 }

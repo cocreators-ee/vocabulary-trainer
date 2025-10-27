@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma ostan kaardi.",
-    "Kaart on väga kasulik.",
-    "Ta tegi kaardi ise."
+    "Tema käes olid mustad kaardi.",
+    "Mangija keeldus andmast enda kaartidest.",
+    "Pakige mängimine nõuab tähelepanu ja strateegiat kui kasutada õiged kaardi."
   ],
   "translation": [
-    "map",
-    "card"
+    "cards"
   ],
-  "context": "The word 'kaarti' in Estonian generally refers to a map or card, and is commonly used when asking for or giving directions."
+  "context": "The word \"kaarti\" in Estonian translates to \"cards\", often referring to playing cards or similar items used in games. It is commonly used in contexts related to card games, such as strategy and tactics."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen hullemaks läinud",
-    "Ta on hullemaks muutunud",
-    "See oli hullemaks minemas"
+    "Mõistatus saab hullemaks.",
+    "Ei tea midagi, mis on hullemaks kui see.",
+    "Tunne muutub hullemaks."
   ],
   "translation": [
     "worse",
-    "to make something worse"
+    "more bad"
   ],
-  "context": "The word 'hullemaks' is an adverb in Estonian that means 'worse' or 'to a greater extent'. It can be used in various contexts to indicate a negative progression or deterioration of something."
+  "context": "Used to describe something becoming worse or more severe. It is the comparative form of 'hull', meaning bad in Estonian"
 }

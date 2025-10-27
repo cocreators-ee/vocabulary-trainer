@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "See valve on laeval lekkis.",
-    "Palun kontrolli valve tihendust.",
-    "Mehaanik parandas valve kiiresti."
+    "Valve avas laualt pugendatud õlitäie purki.",
+    "Kui südamlik valve on teada, et see tõeline sõbrusse,"
   ],
   "translation": [
-    "valve",
     "tap",
-    "cock"
+    "valve"
   ],
-  "context": "In Estonian, 'valve' generally refers to a mechanical device used to control the flow of fluids or gases. It is similar in meaning to the English word 'valve', and can also refer to a tap or cock."
+  "context": "The word 'valve' in Estonian refers to a device for controlling the passage of liquid or gas through a pipe. It can also mean a tap used to control the flow of liquid, such as water."
 }

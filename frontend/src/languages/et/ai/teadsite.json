@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean sind väga hästi.",
-    "Ta ei tea midagi sellest.",
-    "Kas sa tead, kus on rongijaam?"
+    "Olete juba teanud, et see on ohtlik?",
+    "Kuidas saite teada sellest?",
+    "Ma ei tea, mida teadsite."
   ],
   "translation": [
-    "know",
-    "be aware of",
-    "have knowledge of"
+    "you knew"
   ],
-  "context": "The Estonian word 'teadsite' is a form of the verb 'teada', which means 'to know'. It’s used to express awareness of facts, information, or people. In English, it functions similarly to 'to know' – indicating possession of knowledge."
+  "context": "The Estonian word 'teadsite' is the second person plural past tense of the verb 'tahksida', meaning to know. It is commonly used in sentences where a group of people is being addressed and it is stated or asked that they had prior knowledge about something."
 }

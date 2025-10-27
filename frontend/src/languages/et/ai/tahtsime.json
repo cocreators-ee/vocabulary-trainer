@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Me tahtsime seda filmi vaadata.",
-    "Nad tahtsime koos süüa.",
-    "Te olete need, keda me tahtsime."
+    "Tahtsime teda siin jääta.",
+    "Me tahtsime kõige rohkem sellest kaitsta.",
+    "Neil tundus, et nad tahtsid meid kaitsta."
   ],
   "translation": [
-    "we wanted",
-    "wanted to"
+    "wanted",
+    "desired"
   ],
-  "context": "The word 'tahtsime' is the first person plural past tense form of the Estonian verb 'tahma', which means 'to want'. It is used in sentences where the subject is 'we' and expresses a desire or intention that was held by the speaker and others in the past."
+  "context": "The verb 'tahtma' in Estonian means to want or desire something. It is used to express one's wishes or intentions."
 }

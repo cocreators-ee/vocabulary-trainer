@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen saanud kutsuse kohtuma ministeeriumi esindajatega.",
-    "Ta on saatnud mulle kutsu tulla temaga jalutama.",
-    "Kutsus talle osutus üllatavaks."
+    "Ta kutsus mind koju.",
+    "Ma kutsin teda uuele tööle.",
+    "Kurvid kutsid mind enda poole."
   ],
   "translation": [
-    "invitation",
-    "call"
+    "called"
   ],
-  "context": "The word 'kutsus' in Estonian generally refers to an invitation or a call to something, such as an event or a meeting, and is commonly used in formal and informal settings to extend or receive an offer to participate in some activity."
+  "context": "The verb 'kutsus' means 'called' or 'invited' in Estonian, often used to describe inviting someone somewhere"
 }

@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta taltis raamatut.",
-    "Politsei talletas kõik tõendid.",
-    "See programm salvestab heli ja video."
+    "Tal oli suur kulu.",
+    "Ta sõi mind talt.",
+    "Ma usun talusse."
   ],
   "translation": [
-    "record",
-    "save",
-    "store",
-    "capture"
+    "from him/her/them",
+    "from there"
   ],
-  "context": "The word 'talt' in Estonian generally refers to the act of recording or saving something, be it information, audio, video, or physical objects. It is commonly used when preserving data or evidence."
+  "context": "'talt' is a preposition in Estonian meaning 'from him', 'her', or 'them'. It is used to indicate the source or origin of something. For example, if someone gave you a gift and you wanted to say it came from their place, you could use 'talt'. Additionally, it can also mean 'from there' when referring to a location."
 }

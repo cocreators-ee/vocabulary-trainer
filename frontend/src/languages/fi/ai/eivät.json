@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "He eivät tule tänne",
-    "Eivät he ole kotona",
-    "Minä eivät ymmärrä"
+    "He eivät mitään tekemisenä.",
+    "Eivät voi olla totta!",
+    "Ei, he eivät sitä kuulemanakaan."
   ],
   "translation": [
     "do not",
-    "does not"
+    "cannot",
+    "don't"
   ],
-  "context": "The word eivät is a negation verb in Finnish, used to indicate the negative form of a sentence, and it is commonly used in everyday conversations to express denial or refusal."
+  "context": "The Finnish word 'eivät' is a negative form of the verb 'to be' used to indicate that something or someone does not exist, is not true, or is not happening. It commonly negates statements about people's actions and beliefs."
 }

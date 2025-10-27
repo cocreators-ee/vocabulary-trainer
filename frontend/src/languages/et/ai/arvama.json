@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma arvama, et see on hea mõte.",
-    "Ta ei osanud arvama, mis edasi toimub.",
-    "Nende arvama järgi peaks see tööma"
+    "Ma arvan et tean.",
+    "Ta ei tea, mida ma arvan.",
+    "Sa ei tohi seda arvata."
   ],
   "translation": [
-    "guess",
-    "suppose",
-    "think"
+    "to think"
   ],
-  "context": "The word 'arvama' is commonly used in Estonian to express a guess or supposition about something, and it can be translated to English as 'to guess', 'to suppose', or 'to think'."
+  "context": "'arvama' is an Estonian verb meaning 'to think.' It is often used in expressing one's beliefs or guesses about a situation. The word appears in various sentences where someone might be stating their opinion, making assumptions, or discussing others' thoughts and feelings."
 }

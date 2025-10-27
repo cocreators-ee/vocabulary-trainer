@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tunnen enda emakeelt",
-    "Ta tunneb hästi eesti keelt",
-    "Nad tunnevad üksteist juba kaua"
+    "Olen kindel, et mul on õigus ja oled sa valel teed.",
+    "Nad ütlesid mind pahaks hingeks, kuid ma näha tõde!",
+    "Ma tunnen, et midagi on valesti."
   ],
   "translation": [
-    "feel",
-    "know",
-    "be aware of"
+    "feelings",
+    "emotions",
+    "sentiments"
   ],
-  "context": "The word 'tunnete' is the plural form of the verb 'tunne', which means to feel or know something, and it is commonly used in Estonian to express emotions or awareness of something."
+  "context": "Tunnete refers to a plural form of 'tune,' which translates to feelings or emotions in English. It is commonly used when expressing emotional states, reactions, or sentiments towards something."
 }

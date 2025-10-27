@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ütles, et õnnitlused on vaid mõni päev tagasi.",
-    "Õnnitlused sulle uue töökoha pärast!",
-    "Mul on hea meel teile õnnitlused avaldada."
+    "Tänan sind õnnitluste eest.",
+    "Oleme saadamas pühadeks erinevaid õnnitlusi.",
+    "Kui palju sa tõesti sellest kogu aeg õnnitluseks kasutad?"
   ],
   "translation": [
-    "congratulations"
+    "congratulations",
+    "greetings"
   ],
-  "context": "The word õnnitlused is commonly used in Estonian to express good wishes or praise for someone's achievement, similar to the English word congratulations."
+  "context": "The word 'õnnitlused' refers to expressions of good wishes or congratulations, commonly used on special occasions like birthdays, weddings, and holidays."
 }

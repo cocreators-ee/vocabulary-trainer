@@ -2,15 +2,14 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma näen tuledega linna.",
-    "Tulesid on palju.",
-    "Ta tuli hilja."
+    "tuled on rohelised",
+    "ta panus tule pahane",
+    "me armastame vaadata tuld"
   ],
   "translation": [
-    "fires",
     "lights",
-    "coming",
-    "arrivals"
+    "fires",
+    "fireworks"
   ],
-  "context": "The word 'tuled' is the plural nominative or accusative form of the Estonian noun 'tuli', which can mean 'fire' or 'light'. It also functions as the second-person singular present tense form of the verb 'tulla', meaning 'to come'."
+  "context": "Tuled is Estonian for lights or fireworks, commonly used to refer to decorative lights like fireworks or Christmas lights."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma joon lasin vett.",
-    "Ta lõi klaasi vastu lauda.",
-    "Lasin on täis õlut."
+    "Lasin sisse külalised.",
+    "Ta lasi end tagasi jõuda.",
+    "Ma lasin filmis näha."
   ],
   "translation": [
-    "glass",
-    "cup",
-    "drinking glass"
+    "let",
+    "allowed",
+    "to see"
   ],
-  "context": "The word 'lasin' in Estonian refers to a glass or cup, typically used for drinking. It can also refer to the material glass itself, depending on the context. It is commonly used when talking about beverages or fragile objects made of glass."
+  "context": "'Lasin' means to let or allow in Estonian. It is commonly used to describe permitting an action or allowing someone into a place."
 }

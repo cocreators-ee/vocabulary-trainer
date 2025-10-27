@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ma tean seda undist.",
-    "See on väga ilus und.",
-    "Nad said aru undist."
+    "Und tean ma seda.",
+    "Ta jääb und sellest aru.",
+    "Oled sa kindel, et see on und?"
   ],
   "translation": [
-    "wave",
-    "ripple",
-    "surge"
+    "and"
   ],
-  "context": "The word 'und' in Estonian refers to a wave or ripple, often used to describe water movements. It can also be used metaphorically to represent a surge of emotion or feeling."
+  "context": "The word 'und' is a conjunction used to mean 'and'. It is commonly used to connect words or clauses in Estonian."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma vaatasin end peeglist ja nägin oma kannad.",
-    "Kannad on oluline osa minu garderoobist.",
-    "Ta kandis kõrgeid kannad."
+    "Mina kordan kaasa: see on minu ülesanne sind kannatada",
+    "Sul pole vaja seda kannata - palun ärkamaa ja andke mulle oma osad tagasi!",
+    "Kas sa tean et mul on endiselt jäänud 50% võimsusest? Kui mitte, siis kuidas saab see olla? Minu südamevõime peaks olema täiesti normaalne... Ei, ma kannata neid tunde!"
   ],
   "translation": [
-    "mirrors",
-    "heels"
+    "you carry"
   ],
-  "context": "The word 'kannad' in Estonian can refer to both mirrors (reflective surfaces) and heels (of shoes). The context will usually clarify which meaning is intended. As heels, it refers to the raised part of a shoe that elevates the heel of the foot."
+  "context": "\"kannad\" is the second person singular form of the verb \"kanne\", which means 'to carry'. It is commonly used in everyday conversation to indicate that someone is carrying an object or a load."
 }

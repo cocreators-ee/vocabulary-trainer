@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma elan alal",
-    "Ala on suur",
-    "Ta läks alla"
+    "Ala on väga tähtis arenguks.",
+    "See ala on kõige tundlikum.",
+    "Mina töötan teaduse ja tehniliste arenduste erialal."
   ],
   "translation": [
-    "bottom",
-    "lower part"
+    "area",
+    "region",
+    "field"
   ],
-  "context": "The word 'ala' in Estonian generally refers to the lower or bottom part of something, and it is commonly used in various contexts to describe a location or position."
+  "context": "This word is commonly used to refer to a specific area, region or field of study and activity in Estonian language. It can also be used metaphorically to describe areas of expertise or interest."
 }

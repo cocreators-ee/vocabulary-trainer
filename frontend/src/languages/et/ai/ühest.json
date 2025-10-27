@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen ühest kohast tulnud.",
-    "Ta on ühest asjast kindel.",
-    "Ühest küljest on see hea, teisest küljest halb."
+    "Ta läks sõbra ühest kodu.",
+    "Meist kaks inimest tean ühest linnast.",
+    "Raamat räägib sündmusest ühest persoonast."
   ],
   "translation": [
-    "from one place",
-    "in one thing",
-    "on the one hand"
+    "from one",
+    "from the one",
+    "from a single (context-dependent)"
   ],
-  "context": "The word ühest is a postposition in Estonian that indicates the origin or starting point of something, and it can also be used to indicate a specific aspect or thing."
+  "context": "'ühest' is an Estonian prepositional form of 'one', commonly used with the preposition 'from'. It can indicate origin, source, or derivation from a singular entity. In sentences, it often appears in expressions like 'from one person/place/thing', and its exact translation might vary depending on context."
 }

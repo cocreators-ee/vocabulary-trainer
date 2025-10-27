@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on väga pista."
+    "Pista see kasti!",
+    "Pistame suveni järve.",
+    "Mu õde alati piste oma mõtteid minu otsa."
   ],
   "translation": [
-    "pistol",
-    "gun",
-    "firearm"
+    "put"
   ],
-  "context": "The Estonian word 'pista' primarily refers to a handgun or pistol. It can also be used more generally to mean 'to shoot' or 'to fire a weapon'. In colloquial speech, it might carry a slightly aggressive connotation."
+  "context": "'pista' means to put or place something somewhere. It is an imperative form, often used in giving direct commands or instructions on where to place an object."
 }

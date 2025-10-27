@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Veneen omistaja on iloinen.",
-    "Hän osti veneen viime kesänä.",
-    "Me rakennamme veneen talvella."
+    "Minua pyydettiin odottamaan veneen vieressä.",
+    "Kuljettaja juoksi kiertelemään veneen ympäri.",
+    "Hänen mielellensä hän ajaa veneen aina itse."
   ],
   "translation": [
-    "boat's",
-    "of the boat"
+    "to a car",
+    "into the vehicle"
   ],
-  "context": "The word 'veneen' is a genitive form of the Finnish word 'vene', which means 'boat'. It is commonly used to describe something that belongs to or is related to a boat."
+  "context": "'veneen' is the third person singular form of the verb 'venetä', which means 'to approach or to move towards something'. In these examples, it can be translated as 'approach the car', 'circle around the vehicle', and 'he would rather drive the car himself.'"
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän antoi äänensä asialle.",
-    "Ääneni on heikko.",
-    "Kaupungin ääni on meluisa."
+    "Hänellä on hyvä ääni laulussa.",
+    "Äänen voi olla ylellistä tai huonossa muodossa olevalta henkilöltä.",
+    "Musiikin ääni tuli selkeästi puhelimesta."
   ],
   "translation": [
-    "voice",
     "sound",
-    "vote"
+    "voice"
   ],
-  "context": "The word \"ääni\" in Finnish can refer to a person's voice, a sound, or a vote, and is commonly used in various contexts such as music, politics, and everyday conversation."
+  "context": "Ääni refers to a person's voice, as in singing or speaking. It can also mean the general sound something makes."
 }

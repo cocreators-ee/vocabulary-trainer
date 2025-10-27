@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta istus sellele kohale ja ütles seda.",
-    "Seda on öeldud paljudes kontekstides.",
-    "Kui see oli tehtud, siis seda enam ei mainitud."
+    "Seda ma ei tea.",
+    "Kas sa annad mulle seda?",
+    "Ma arvan, et see on parem kui seda."
   ],
   "translation": [
-    "this",
-    "it"
+    "this"
   ],
-  "context": "The word 'seda' is a pronoun in Estonian that refers to a previously mentioned thing or concept, similar to the English words 'this' or 'it'."
+  "context": "'seda' refers to a thing or situation previously mentioned and is used in both spoken and written language."
 }

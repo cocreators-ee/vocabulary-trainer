@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen vähk.",
-    "Ta on väga vähk.",
-    "Vähid ei ole populaarsed."
+    "Mõned väikest vähki tõid põhja.",
+    "Ta jättis oma vähke kodus ja läks tööle.",
+    "Kui sa vähkelähe peale aitad, siis see on vaba."
   ],
   "translation": [
-    "weakling",
-    "wimp"
+    "crab",
+    "crawfish",
+    "lobster"
   ],
-  "context": "The word 'vähk' in Estonian refers to a person who is weak or a pushover, often used in an informal setting to describe someone who is not strong-willed or courageous."
+  "context": "The Estonian word 'vähk' primarily translates to 'crab'. It can also refer to other crustaceans like crawfish or lobster depending on the context. It is commonly used in everyday conversation when talking about seafood or cooking."
 }

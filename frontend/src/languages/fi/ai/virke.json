@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hänellä on virkeä luonne.",
-    "Virkeät ihmiset ovat usein menestyneitä.",
-    "Tämä ruoka antaa virkeää energiaa."
+    "Tässä virkessä on monta virhettä.",
+    "Virkkaus tehdään pienellä virkkeellä.",
+    "Kirjoita yksi virke kerrallaan."
   ],
   "translation": [
-    "alert",
-    "energetic",
-    "lively"
+    "sentence",
+    "clause"
   ],
-  "context": "The word 'virke' in Finnish refers to being full of energy and life, often used to describe someone's personality or the effect of something, like food, on a person's vitality."
+  "context": "'Virke' refers to a sentence or clause in writing, commonly used when discussing grammar, writing instructions, or analyzing text structure. It is often used in educational contexts where students are asked to write one 'virke' at a time."
 }

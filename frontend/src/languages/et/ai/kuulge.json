@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kuulen sind hästi.",
-    "Kuule mind!",
-    "Ta ei kuulnud mind."
+    "Kuula mind!",
+    "Kuula, mida ütleme.",
+    "Kas sa kuulad?"
   ],
   "translation": [
-    "listen",
-    "hear"
+    "listen"
   ],
-  "context": "The word 'kuulge' is the imperative form of the verb 'kuulma', which means to listen or hear, and it is commonly used in Estonian to ask someone to pay attention to what is being said."
+  "context": "The word 'kuulge' is used to tell someone to listen. It can be a command or a request for attention."
 }

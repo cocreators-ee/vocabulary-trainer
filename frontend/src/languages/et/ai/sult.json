@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma annan sult sulle kõik, mis mul on.",
-    "Sult oled väga ilus.",
-    "Sa ei ole sult minu meelest piisavalt hea."
+    "Sul on õnne!",
+    "Kas sul on kodus vaba aeg?",
+    "Sul on minu number."
   ],
   "translation": [
-    "from you",
-    "you"
+    "you (plural)",
+    "your (plural)"
   ],
-  "context": "The word 'sult' in Estonian is a postposition that indicates the origin or source of something, often translated to English as 'from you' or simply 'you' depending on the context."
+  "context": "'sul' is a possessive pronoun in Estonian that means 'your (plural)' when used as a possessive form and refers to the plural form of 'you'. It can also be part of phrases indicating possession or belonging. For example, it can be used to describe something belonging to a group of people addressed."
 }

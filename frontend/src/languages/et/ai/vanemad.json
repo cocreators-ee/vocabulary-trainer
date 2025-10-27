@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Vanemad ei saa lastega koos elada",
-    "Ta on vanematega väga lähedane suhe",
-    "Vanematel oli palju õnnestunud lapsi"
+    "Vanemad peaksid last hoolikalt jälgima.",
+    "Vanemad ja õed olid kõik koos perepidusel.",
+    "Laste vanemad ei saa olla alati nõus teineteisega."
   ],
   "translation": [
     "parents",
-    "elders",
-    "adults"
+    "elders"
   ],
-  "context": "The word 'vanemad' refers to parents or guardians in Estonian, and is commonly used to describe the relationship between adults and their children."
+  "context": "'Vanemad' most commonly translates to 'parents', especially referring to both the mother and father. It can also mean 'elders' in a more general sense, such as older people within a community or family. The word is often used when discussing family responsibilities or intergenerational relationships."
 }

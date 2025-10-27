@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma püüame seda teha.",
-    "Ta püüab meid aidata.",
-    "Nad püüavad seda küsida."
+    "Püüame kalu.",
+    "Soome suveks püüame kala.",
+    "Kas meie peaksime hommikul mängima või püüama?"
   ],
   "translation": [
-    "try",
-    "attempt"
+    "we fish",
+    "let's fish"
   ],
-  "context": "The word 'püüame' is a verb in Estonian that means to try or attempt something, and it is commonly used in everyday conversations to express effort or intention to do something."
+  "context": "The verb 'püdma' means to fish. The form 'püüame' is first person plural indicative present tense, used when the subject is \"we\"."
 }

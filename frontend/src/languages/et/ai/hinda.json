@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma hindan seda raamatu väga kõrgelt.",
-    "Hinna sõidab autoga Tallinnasse.",
-    "Ta hinda selle toote kvaliteeti."
+    "Ta hindab alati enne otsustamist.",
+    "Muidu, hindan ma seda nii, et...",
+    "Hindan sinu soovi läbimõtestatud olla."
   ],
   "translation": [
-    "price",
-    "evaluate"
+    "assess",
+    "evaluate",
+    "estimate"
   ],
-  "context": "The word 'hinda' in Estonian can be translated to 'price' or 'evaluate' in English, and it is commonly used to express the value or worth of something."
+  "context": "In Estonian, 'hinda' is commonly used to assess or evaluate something before making a decision. It can be applied in various contexts such as personal opinions, academic assessments, and business decisions."
 }

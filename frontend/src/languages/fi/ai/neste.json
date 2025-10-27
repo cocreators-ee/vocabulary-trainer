@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Neste on suuri öljy-yhtiö",
-    "Bensiini hankitaan Nesteeltä",
-    "Nesteellä on monia työntekijöitä"
+    "Nesteen lämpötila on hyvin tärkeä.",
+    "Vesineste kiehuu nopeasti.",
+    "Liian paljon nestettä saattaa aiheuttaa vauriota."
   ],
   "translation": [
-    "oil",
-    "fuel",
-    "next"
+    "fluid",
+    "liquid"
   ],
-  "context": "The word neste generally refers to oil or fuel in Finnish, and it is also the name of a major Finnish oil company."
+  "context": "The term 'neste' refers to a substance that is in liquid form and can flow easily. It is commonly used in scientific contexts or when describing the properties of materials, such as water or oil."
 }

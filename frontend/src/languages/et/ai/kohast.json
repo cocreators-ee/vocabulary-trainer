@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen kohast pärit.",
-    "Kohast on võimalik edasi liikuda.",
-    "Ta tuli kohast tagasi."
+    "See kohast on väga rahulik.",
+    "Meie linna keskus asub täpselt sellel kohal.",
+    "Tema kodu asus teadaolevalt kaugel sellest kohast."
   ],
   "translation": [
-    "from the place",
-    "starting from here"
+    "area"
   ],
-  "context": "The word 'kohast' in Estonian is used to indicate the starting point or location of something, similar to the English phrase 'from the place' or 'starting from here'."
+  "context": "kohast is a noun meaning 'an area' or 'a region'. It refers to a particular location or part of something."
 }

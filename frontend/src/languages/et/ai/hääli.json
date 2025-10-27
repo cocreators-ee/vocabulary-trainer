@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta häälis selle poolt",
-    "Häälis võeti vastu uus seadus",
-    "Kõik liikmed häälsid"
+    "Muudab oma hääli, et kuuluda mehelise.",
+    "Temal on ilus lauluhääli.",
+    "Ära raiska oma hääli sellel projektial."
   ],
   "translation": [
-    "voted",
-    "vote",
-    "ballot"
+    "voice",
+    "vote"
   ],
-  "context": "The word 'hääli' in Estonian is used to describe the act of voting or casting a ballot, and it is commonly used in political contexts to refer to the process of making decisions through voting."
+  "context": "Hääli refers to a voice or a vote. It is commonly used in both literal and political contexts, such as casting a vote or expressing an opinion verbally."
 }

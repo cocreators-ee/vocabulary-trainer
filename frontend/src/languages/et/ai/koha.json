@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma otsin koha, kus istuda.",
-    "See koht on hea koha leidmiseks.",
-    "Ta sai koha ülikoolis."
+    "Minu koha on su kõrval.",
+    "Kohtalik kohta!",
+    "Tema asetab end kindlalt oma kohas.",
+    "Oled sa nii oluline minu elus kui see koht siin."
   ],
   "translation": [
     "place",
     "spot",
-    "location"
+    "position"
   ],
-  "context": "The word 'koha' in Estonian generally refers to a location or a spot where something is situated, and it is commonly used in various contexts such as describing a place to sit, a location for an event, or a position in a sequence."
+  "context": "'koha' in Estonian commonly refers to a physical or metaphorical place or position. It can be used to describe literal locations, roles in life, or even emotional positioning within relationships."
 }

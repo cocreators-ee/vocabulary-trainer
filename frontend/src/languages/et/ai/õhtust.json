@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Õhtust nägemist",
-    "Tere õhtust",
-    "Õhtust sööma"
+    "Ma jään õhtul koju.",
+    "Meet meid öösel kodusse.",
+    "Ta tõi õhtusalt uue idee ette."
   ],
   "translation": [
-    "good evening",
-    "evening"
+    "evening",
+    "night time"
   ],
-  "context": "The word õhtust is used as a greeting in Estonian, similar to 'good evening' in English, and is commonly used when meeting someone in the evening or at night."
+  "context": "'Õhtust' refers to the evening or night time in Estonian. It's commonly used to denote the latter part of the day, often associated with settling down for rest or leisure activities at home."
 }

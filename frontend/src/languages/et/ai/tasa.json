@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma panin tasa ise.",
-    "Tasa on hea sõna.",
-    "Ta rääkis tasast ja selgelt."
+    "Ta ostis tasa.",
+    "Tal on raske olla tasas.",
+    "Neil vahetab mõnedel hetkedel tasakaalu."
   ],
   "translation": [
-    "evenly",
-    "flat",
-    "level"
+    "Balance",
+    "Equilibrium"
   ],
-  "context": "The word 'tasa' in Estonian means something that is even, flat, or level, and it can be used to describe various things such as a surface, a situation, or an action."
+  "context": "The word 'tasa' in Estonian refers to a state of balance or equilibrium, commonly used when describing physical objects being balanced or metaphorically referring to mental and emotional stability. It can be part of compound words like 'tasakaal' meaning 'balance' or 'equilibrium.'"
 }

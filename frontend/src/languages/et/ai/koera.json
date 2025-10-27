@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Koera on koer",
-    "See koer on väga ilus",
-    "Tal on üks koer"
+    "Minu koer on musta värvi.",
+    "Koeratega tuleb olla ettevaatlik.",
+    "Tema lemmikkoera surnud."
   ],
   "translation": [
-    "dog",
-    "canine"
+    "dog's",
+    "of a dog"
   ],
-  "context": "The word 'koera' in Estonian refers to a dog, which is a common domesticated animal known for its loyalty and affection towards humans."
+  "context": "The word 'koera' refers to something belonging to or related to a dog. It is used as the genitive form of the noun 'koer,' which means 'dog.' Commonly appears in phrases describing possessions, characteristics, or associations with dogs."
 }

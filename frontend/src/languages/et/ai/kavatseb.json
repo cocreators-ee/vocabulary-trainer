@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta kavatseb minna koju.",
-    "Kavatsen aidata sul.",
-    "Ma kavatseb õppida uusi keeli."
+    "Ta kavatseb teha seda järjemisi.",
+    "Mina kavatsen põgeneda.",
+    "Oled sa kindel, et sina ei kavatsa tagasi minna?"
   ],
   "translation": [
     "intends",
-    "plans"
+    "plans to (do something)"
   ],
-  "context": "The word 'kavatseb' is commonly used in Estonian to express intention or planning to do something in the future."
+  "context": "The word 'kavatseb' is used in Estonian to express someone's intention or plan to do something. It is often used when talking about future actions that are decided upon."
 }

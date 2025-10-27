@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ometi ei tea seda.",
-    "Kas sa ometi mõistad?",
-    "Ma ometi loodan, et see on õige."
+    "Ometi ei saanud ta kaasa.",
+    "Ta jättis ometi meist kõike märklemata.",
+    "Siiski, ometi peab meelde pidades, et..."
   ],
   "translation": [
-    "finally",
-    "at last"
+    "after all",
+    "still",
+    "nevertheless"
   ],
-  "context": "The word 'ometi' in Estonian is used to express that something is happening or has happened at last, after a period of waiting or expectation. It can be translated to English as 'finally' or 'at last' and is often used in sentences to convey a sense of relief or conclusion."
+  "context": "The word 'ometi' is used to emphasize a point despite previous contradictions or expectations. It can mean 'after all', 'still', or 'nevertheless'. Commonly used in discussions where there's an opposing viewpoint."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
+  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ta on väga staažikas arst.",
-    "Staaži lõppedes sain ma diplomi.",
-    "See näitleja on juba päris staažikas."
+    "Kui saab nii, et nad lasevad sind sealt välja, siis st. pargi.",
+    "St. Mõisa valla kogukondade ühisrada on valmis.",
+    "St. Pärnu tantsuhotell - meie eesmärk on teha teid tantsuarmastajaid rõõmustama!"
   ],
   "translation": [
-    "experienced",
-    "seasoned",
-    "veteran"
+    "Saint",
+    "St."
   ],
-  "context": "The Estonian word 'staaž' refers to a long period of experience or service in a particular field. In English, it is often translated as 'experienced', 'seasoned', or 'veteran'. It implies a level of skill and knowledge gained over time."
+  "context": "'st' is an abbreviation for 'Saint' in Estonian, commonly used in place names and proper nouns. It refers to a holy or revered person, typically from Christian tradition, associated with places like St. Catherine's Church or St. Nicholas Cathedral."
 }

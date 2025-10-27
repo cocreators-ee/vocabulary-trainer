@@ -1,14 +1,18 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta sattus õnne",
-    "Sattusin koolis valesse klassi",
-    "Me sattusime trepil kokku"
+    "Ta jäi sattusse.",
+    "Sattus on nii keeruline!",
+    "Neil oli suur sattus.",
+    "Võib õigupoolest olla hea sattus.",
+    "Kas sa tead, kuidas minu sattus algas?"
   ],
   "translation": [
-    "happened",
-    "occurred"
+    "misfortunes",
+    "setback",
+    "bad luck",
+    "hard times"
   ],
-  "context": "The word sattus is a verb in Estonian that means something happened or occurred by chance, often used to describe an unexpected event."
+  "context": "The term 'sattus' in Estonian often refers to unfortunate situations or hard times someone is going through. It can denote a period of bad luck, misfortune, or challenging circumstances."
 }

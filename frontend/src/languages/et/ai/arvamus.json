@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen hea arvamusega",
-    "Tema arvamus on väga oluline",
-    "Arvamused võivad olla erinevad"
+    "Olen kindel oma arvamus.",
+    "Ta ei kuula mind ning jääb oma arvamus.",
+    "Teeme siin valiku vastavalt meie arvamus."
   ],
   "translation": [
     "opinion",
-    "view",
-    "estimation"
+    "viewpoint",
+    "belief"
   ],
-  "context": "The word 'arvamus' in Estonian generally refers to a person's opinion or point of view on a particular matter, and it is commonly used in various contexts to express one's thoughts or beliefs."
+  "context": "'Arvamus' is used to express a personal opinion or belief about something. It can be used in both formal and informal contexts, such as discussing politics, giving feedback, or expressing preferences."
 }

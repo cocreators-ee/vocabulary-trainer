@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei tea, mil legenda algab",
-    "Ta oli kindel, et see juhtus mil mälestusesemetal",
-    "Mil põhjusel see siis toimus"
+    "Mil palju see maksab?",
+    "Mil kallis on selle ostmine?",
+    "Mil inimest saab see ruum hoida?"
   ],
   "translation": [
-    "why",
-    "for what reason"
+    "how much",
+    "how many"
   ],
-  "context": "The word 'mil' in Estonian is commonly used to ask for the reason or purpose behind something, similar to how 'why' is used in English."
+  "context": "'Mil' is used to ask about the quantity of something in a question form."
 }

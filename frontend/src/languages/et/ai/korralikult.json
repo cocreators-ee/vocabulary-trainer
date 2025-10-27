@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tegutses korralikult.",
-    "Korralikult öeldud, see on tõesti nii.",
-    "Me käisime seal korralikult ja vaatasime ringi."
+    "Ta tegi kõik korralikult.",
+    "Kui korralikult hoolitseksid iseendest!",
+    "Mina ei tea, miks pead see nii korralikult tegema."
   ],
   "translation": [
-    "properly",
-    "correctly",
-    "appropriately"
+    "neatly",
+    "orderly"
   ],
-  "context": "The word korralikult is an adverb in Estonian that means doing something properly or correctly, it is used to describe an action that is performed in a suitable or acceptable manner."
+  "context": "'korralikult' is an adverb meaning 'in an orderly or neat manner'. It describes how something is done with tidiness and proper arrangement."
 }

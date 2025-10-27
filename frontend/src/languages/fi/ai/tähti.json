@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Se on kaunis tähti.",
-    "Tähdet ovat kauniita.",
-    "Hän on ollut tähti jo vuosia."
+    "Tähti on taivaalla.",
+    "Hän on tähdistössään tähti.",
+    "Romaanissa hahmo tuli esiin tähtinä."
   ],
   "translation": [
-    "star"
+    "star",
+    "celebrity",
+    "prominent person"
   ],
-  "context": "The word tähti refers to a star in the sky or a famous person, and it is commonly used in Finnish to describe something or someone that shines brightly."
+  "context": "The Finnish word 'tähti' primarily means 'star,' but it can also refer to a celebrity or someone prominent in their field. The term is used both literally and metaphorically."
 }

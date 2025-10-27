@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean seda lugu.",
-    "See on väga hea mõte.",
-    "Kas sa näed mind?"
+    "Sees on minu kodu.",
+    "Minu nimi on sees.",
+    "Kass liigutus seest."
   ],
   "translation": [
-    "this",
-    "it",
-    "see"
+    "here"
   ],
-  "context": "The Estonian word 'sees' is a demonstrative pronoun and can translate to 'this', 'that', or 'it' in English. It’s commonly used to refer to something specific, either near or far from the speaker."
+  "context": "'sees' is a demonstrative pronoun and an adverb meaning 'here'. It can also be used as a personal pronoun referring to oneself, similar to 'I/me', in some contexts."
 }

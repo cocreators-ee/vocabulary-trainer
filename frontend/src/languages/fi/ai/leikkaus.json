@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Leikkaus on tehty taitavasti.",
-    "Hänellä on leikkauksen jälkeen pitkä toipumisaika.",
-    "Leikkauksella voidaan hoitaa monia sairauksia."
+    "Hänellä oli leikkaus viime viikolla.",
+    "Leikkaus kesti vain kymmenen minuutin ajan.",
+    "Lääkäri varmisti, että leikkaus sujui onnistuneesti."
   ],
   "translation": [
     "surgery",
-    "operation",
-    "cutting"
+    "operation"
   ],
-  "context": "The word 'leikkaus' generally refers to a surgical operation where a medical professional performs an incision or excision to repair or remove damaged or diseased tissues and organs in the body. It is often used in a hospital setting by trained professionals."
+  "context": "The word 'leikkaus' refers to a medical procedure involving the cutting or opening of a body part to treat an injury, disease, or deformity. It is commonly used in contexts related to hospital procedures and can also refer to cosmetic surgeries."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ostin uuden setti",
-    "Setti on hyvin suosittu",
-    "Hänellä on useita settejä"
+    "Hänellä on uusi setti.",
+    "Kotisetti rikkui itsensä.",
+    "Setti laski tölkeen."
   ],
   "translation": [
-    "set",
-    "suite",
-    "setting"
+    "a doll (child's toy)",
+    "a doll",
+    "doll"
   ],
-  "context": "The word 'setti' in Finnish generally refers to a set or collection of items, and it is commonly used in various contexts such as sports equipment, furniture, or even a group of people."
+  "context": "A 'setti' in Finnish typically refers to a child's doll, often used by young children as a plaything. It can also be part of the name for certain types of dolls or characters."
 }

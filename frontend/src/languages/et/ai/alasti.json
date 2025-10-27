@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oli alasti.",
-    "Alastioleku on loomulik.",
-    "Laps sai alasti pildistatud."
+    "Minu vend tegi pärast jalgpallimänge alasti basseini.",
+    "Tema poeg on alasti jäänud kodus, kui nad läksid rannale.",
+    "Ta soovis, et nad peaksid alasti jäma, et saaksid paremini sõita."
   ],
   "translation": [
     "naked",
-    "bare"
+    "to be naked",
+    "uncovered"
   ],
-  "context": "The word 'alasti' in Estonian means being without clothes or uncovered, and it is commonly used to describe someone or something that is not wearing any clothing."
+  "context": "'alasti' in Estonian describes a state of being without clothes. It is commonly used to describe someone who is not wearing any clothing or parts of the body that are exposed and not covered, such as after swimming or playing sports."
 }

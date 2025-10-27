@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen kinno sellepärast, et mulle meeldib film",
-    "Ta ei saanud tööd sellepärast, et tal pole piisavalt kogemust",
-    "Sellepärast, et ilm on halb, jäime koju"
+    "Sellepärast ma ei suutnud tulema.",
+    "Ta jättis tööd sellepärast, et tunda kodusolekut.",
+    "Sellepärast otsustasin minna kuninglikesse armeedesse."
   ],
   "translation": [
-    "therefore",
     "because of that"
   ],
-  "context": "The word 'sellepärast' is a conjunction used to indicate the reason or explanation for something. It can be translated to English as 'therefore' or 'because of that', and it is commonly used in sentences to provide a logical connection between ideas."
+  "context": "Used to indicate a reason for an action or situation that is directly caused by something previously mentioned. It's similar to 'because of that' in English and links the consequence with its cause."
 }

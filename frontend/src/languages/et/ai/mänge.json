@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma mängin klaveril.",
-    "Ta armastab videomänge.",
-    "Laps ei saa piisavalt aega mänge mängida."
+    "Ta ostis endale uusi mänge.",
+    "Lapsed mängivad mänge.",
+    "Mänge meelitab see suurepärane graafika."
   ],
   "translation": [
-    "games"
+    "games",
+    "to play games"
   ],
-  "context": "The word 'mänge' is the plural form of 'mäng', which means game in English. It is commonly used to refer to activities or contests with rules, often for entertainment purposes."
+  "context": "'mänge' refers to games in general or the act of playing games. It is a plural form commonly used when talking about video games, board games, or sports."
 }

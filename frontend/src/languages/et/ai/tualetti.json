@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu tualetti on väga ilus",
-    "Tualetti on üks olulisemaid asju hotellis",
-    "Ma ei tea, kus tualetti asub"
+    "Tahan minna tualetti.",
+    "Toas on vaja puhastada tualetti.",
+    "Ta ei jõua tühja käega tualetti."
   ],
   "translation": [
-    "toilet",
-    "bathroom"
+    "bathroom",
+    "toilet"
   ],
-  "context": "The word tualetti refers to a toilet or bathroom, and it is commonly used in Estonian to ask for the location of such facilities or to describe their cleanliness or quality."
+  "context": "Refers to a bathroom or toilet, commonly used in everyday language when talking about the room where you can wash and use the toilet."
 }

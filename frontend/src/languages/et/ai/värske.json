@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on värske mees.",
-    "Värske õhk on tervislik.",
-    "Külm värske vesi on hea janekustutaja."
+    "Mind ei tea värskeid häirete kohta.",
+    "Värske sõrmeline on eriline kaubamärk.",
+    "Tema mõtlemine oli värske ja originaalne."
   ],
   "translation": [
     "fresh",
-    "cool"
+    "new",
+    "original (thoughts)"
   ],
-  "context": "The word värske is an adjective in Estonian that means something is fresh or cool, often used to describe people, air, water, or other things that are new or have a refreshing quality."
+  "context": "The Estonian word 'värske' primarily means 'fresh', often used to describe food or ideas. It can also mean 'new' in contexts like new products, and when referring to thoughts or approaches, it can imply something original."
 }

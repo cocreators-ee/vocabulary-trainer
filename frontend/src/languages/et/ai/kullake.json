@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma armastan sind, kullake!",
-    "See on tõeline kullake, väärtuslik ja haruldane.",
-    "Kullake, kas sa saad mulle aidata?"
+    "Minu venna naine aitab mul kodus kullake.",
+    "Rohkem puhtust ja seejärel saab kaks tükki kullake panna?",
+    "Ma olen väga müüd ja ma ei suuda rohkem küsida, et saada teada kas minu vennad on siis siin või mitte - nad lihtsalt ei taha rohkem kullake.",
+    "Mina olen juba kaheksa korda sinu nime maininud ja üldse kunagi ei räägi teie ema, et see oleks midagi rohkem kulutada."
   ],
   "translation": [
-    "sweetheart",
-    "darling",
-    "honey"
+    "to spend",
+    "spending (money)",
+    "expense"
   ],
-  "context": "The word 'kullake' is a term of endearment in Estonian, similar to 'sweetheart', 'darling', or 'honey' in English. It literally translates to 'golden one' and is used to express affection towards someone."
+  "context": "The verb 'kullake' in Estonian means to use or expend money. It is commonly used when talking about spending money on various things like groceries, gifts, or other purchases. The word can be part of phrases such as 'kulutada raha,' which translates directly to 'to spend money.'"
 }

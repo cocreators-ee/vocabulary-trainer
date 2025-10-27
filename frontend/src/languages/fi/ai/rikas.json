@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän on rikas mies.",
-    "Rikkaat ihmiset asuvat usein suurissa taloissa.",
-    "Tämä ruoka on erittäin rikas ja herkullinen."
+    "Hän on rikkava ja elää luksusessa.",
+    "Rikkaat ihmiset usein antavat lahjoituksia hyväntekevyyteen.",
+    "Tämä yritys on erittäin menestyksekäs ja siellä työskentelee paljon rikkaita ihmisiä."
   ],
   "translation": [
     "rich",
     "wealthy"
   ],
-  "context": "The word 'rikas' in Finnish means having a lot of money, resources, or assets, and is commonly used to describe someone who is wealthy or prosperous."
+  "context": "'rikas' is an adjective in Finnish, commonly used to describe someone who has a lot of money or material possessions. It can be applied in both formal and informal contexts when referring to individuals or groups with high levels of wealth."
 }

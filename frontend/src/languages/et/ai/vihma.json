@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Vihm tuli öösel.",
-    "Ta läks vihmaga jalutama.",
-    "Vihmad olid suured."
+    "Ma ei armasta vihma.",
+    "Vihm on käes.",
+    "Mu nahk hakkas rannaliiva all vihmaks."
   ],
   "translation": [
     "rain"
   ],
-  "context": "The word 'vihma' in Estonian refers to rain, and it is commonly used to describe weather conditions."
+  "context": "'vihma' is the singular form of 'vihm', which translates to 'rain'. It refers to water droplets falling from clouds in the atmosphere, commonly associated with weather conditions. The word can be used both literally and metaphorically."
 }

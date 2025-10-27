@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on kehv mängija",
-    "Kehvad tulemused ei ole lubatud",
-    "Kehva kohtlemise tõttu lahkus ta firma"
+    "Kehv toit.",
+    "Minu kehv suhtlemine teda ärritas.",
+    "Selle filmi kvaliteet on üsna kehv."
   ],
   "translation": [
-    "poor",
     "bad",
-    "weak"
+    "poor"
   ],
-  "context": "The word 'kehv' in Estonian generally means something or someone that is of poor quality, weak, or bad, and it is often used to express disapproval or dissatisfaction with a person, thing, or situation."
+  "context": "Used to describe something that is of low quality or not good. It can refer to things like food, behavior, or the quality of a movie."
 }

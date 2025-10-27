@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen õigel pool",
-    "Ta on õigel teel",
-    "Me oleme õiged sõbrad"
+    "Kas sa teed see õigel?",
+    "Tema vald kantselis on alati õigel hoidud.",
+    "Rohkemal õpilane õppides keele õigel viisil, saavutavad paremaid tulemusi."
   ],
   "translation": [
-    "right",
-    "correct",
-    "proper"
+    "correctly",
+    "in a correct way"
   ],
-  "context": "The word õigel is an adjective in Estonian that means right, correct, or proper, and it is commonly used to describe something that is accurate or appropriate."
+  "context": "'Õigel' means doing something correctly or in the right manner. It can describe how an action is performed, indicating that it meets certain standards or expectations."
 }

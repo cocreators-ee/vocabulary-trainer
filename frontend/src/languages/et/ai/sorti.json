@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen kauplusse osta sorti leiba",
-    "Sorti sai müügile pandud",
-    "Talle meeldib sorti kohvi"
+    "See sord on liiga sorte.",
+    "Ta ostis endale uue sorti kohvikus.",
+    "Mulle meeldib see musta sorti."
   ],
   "translation": [
-    "batch",
-    "lot"
+    "type",
+    "kind",
+    "sort"
   ],
-  "context": "The word 'sorti' in Estonian refers to a batch or lot of something, often used in the context of production, sales, or quantity."
+  "context": "'Sorti' refers to a type or kind of something, often used when categorizing objects or concepts."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma hoiatan sind ohtlikest olukorrast.",
-    "Ta hoiatas mind valetu ulatuse eest.",
-    "Nende hoiatus oli liiga hiljaks jäänud."
+    "Hoiatan sind ohtu eest!",
+    "Ta hoiatas meid valedest andmetest.",
+    "Ära lähe sinna, ma hoiatan sind!"
   ],
   "translation": [
-    "I warn you",
-    "to warn"
+    "I warn",
+    "I caution"
   ],
-  "context": "The word 'hoiatan' in Estonian means to warn someone of a potential danger, and it is commonly used in sentences where the speaker wants to alert or caution the listener about something."
+  "context": "Used to express that one is giving a warning or caution to someone else."
 }

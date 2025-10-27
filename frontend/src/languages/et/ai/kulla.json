@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta kallis kulla ei saa mind enam kallistama",
-    "Kullale on antud hea hinnang",
-    "Kulla on üks kalleimaid metalle"
+    "Olen oma eestlasest kulla kõrgel silmapaistev.",
+    "Tema õde oli tark kulla luku käitamisel.",
+    "Kullakasvataja on suurepärane tervisliku toidu valik."
   ],
   "translation": [
     "gold",
-    "darling"
+    "golden",
+    "to grow gold (idiom for gaining wealth through investments)"
   ],
-  "context": "The word kulla is commonly used to refer to gold or something valuable, but it can also be used as a term of endearment similar to darling."
+  "context": "The word 'kulla' can mean the precious metal, describe something golden in color, or refer to growing wealth. It is commonly used in financial and descriptive contexts."
 }

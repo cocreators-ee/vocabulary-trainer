@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Ma arvan, et sa peate lahkuma.",
-    "Peate oma asjad kokku pakkima.",
-    "Kas te saate mulle öelda, kas peate abi?"
+    "Ma olen peates kodus.",
+    "Jah, ta jääb peatuseks.",
+    "Peatus on vajalik enne jätkamist."
   ],
   "translation": [
-    "head",
-    "chief",
-    "you must"
+    "pause",
+    "halt",
+    "standstill"
   ],
-  "context": "The word 'peate' can have multiple meanings in Estonian. It can refer to a person's head, but more commonly it is used as the second-person plural imperative of the verb 'pea', meaning 'must' or 'have to'. Therefore, it translates to 'you must' when addressing multiple people."
+  "context": "Peate refers to a temporary stop or pause in an activity. It is commonly used for actions that are halted momentarily, such as stopping work to rest or pausing during physical activities like running."
 }

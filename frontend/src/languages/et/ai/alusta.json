@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma alustan uut projektid.",
-    "Ta alustas tööd varakult.",
-    "Nad alustavad koostööd homme."
+    "Alusta siin!",
+    "Palun alusta uuesti.",
+    "Kui soovid, saad alustada hetkel."
   ],
   "translation": [
-    "to start",
+    "start",
     "begin"
   ],
-  "context": "The word 'alusta' in Estonian means to start or begin something, and it is commonly used in various contexts such as starting a new project, beginning a task, or commencing a cooperation."
+  "context": "'alusta' is a verb in Estonian that means 'to start' or 'to begin.' It is commonly used to indicate the beginning of an action, process, or event. For example, it might be used when initiating a task, starting a conversation, or commencing a journey."
 }

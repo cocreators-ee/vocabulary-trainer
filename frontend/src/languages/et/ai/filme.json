@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ma armastan filme",
-    "Filme on minu lemmik",
-    "Ta vaatas filme öösel"
+    "Ma vaatasin uut filmi.",
+    "Filmide kogumine on mind alati paelnud.",
+    "Meie kino ilusaim filmi esile asetseb täna õhtu."
   ],
   "translation": [
-    "movies",
-    "films"
+    "movie",
+    "film",
+    "cinema"
   ],
-  "context": "The word 'filme' in Estonian refers to movies or films, and it is commonly used in everyday conversations to discuss cinema or television shows."
+  "context": "'Filme' is an Estonian word that refers to motion pictures, commonly used in the context of movies watched in theaters or at home. It can also refer to a collection of films."
 }

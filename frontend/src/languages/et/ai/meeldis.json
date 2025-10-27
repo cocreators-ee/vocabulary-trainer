@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mulle meeldis see film",
-    "Meeldis tema laulud",
-    "Ta ütles, et talle meeldib jalgpall"
+    "Meeldib mulle see lugu.",
+    "Ei meeldiva midagi sellest.",
+    "Meeldivad mulle kaunid laulud."
   ],
   "translation": [
-    "liked",
-    "pleased"
+    "likes",
+    "like",
+    "is pleasing to"
   ],
-  "context": "The word meeldis is a verb in Estonian that means to like or be pleased with something, often used to express enjoyment or satisfaction."
+  "context": "The word 'meeldis' is used in Estonian to express that someone or something is liked, enjoyed or appreciated by the speaker. It can also be used to describe an emotional response of pleasure when referring to objects, events, or people."
 }

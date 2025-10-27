@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen nimel nimega Mari.",
-    "Tema nimi on peidetud nimel.",
-    "See toode müüakse kaubamärgi nimel."
+    "Minu nimi on Jüri.",
+    "Ta ei maininud oma tantsunimed.",
+    "Võtame kasutusele uue mängunime."
   ],
   "translation": [
-    "by name",
-    "named"
+    "name",
+    "nick name"
   ],
-  "context": "The word 'nimel' in Estonian is used to indicate that something is done or referred to by name, often in a formal or official context."
+  "context": "This word is used to refer to a person's identity or stage name, commonly in situations where one has an alias or a performance name rather than their real name."
 }

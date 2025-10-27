@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mul on palju riideid.",
-    "Ta tegi riideid pesu.",
-    "Riideid tuleb pesta sageli."
+    "Ta ostis rohkem riideid kaubamajas.",
+    "Riideid pole lubatud tuua sisse paljudesse läbi siirdamise toimuvasse kohtusse.",
+    "Riideid puhuvad kaks erinevat eetikakódet."
   ],
   "translation": [
     "clothes",
-    "laundry"
+    "garments",
+    "apparel"
   ],
-  "context": "The word 'riideid' is a noun in Estonian that refers to clothes or laundry, and it is commonly used in everyday conversations about cleaning or fashion."
+  "context": "This is the plural form of 'riidi', which means clothing or garments. It's commonly used when referring to items worn on the body for covering and protection, as well as fashion purposes."
 }

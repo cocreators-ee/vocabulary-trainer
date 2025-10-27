@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tappis endale uue kleidi.",
-    "Nad tapsid kokku juhuslikult poes.",
-    "See tappis mulle väga meeldima."
+    "Kui oled mu tõrva kõrvale, vajutab see tapsid.",
+    "Tema eestlase põnevused tapsid alati täpselt sinna, kuhu ta tahaks.",
+    "Oma õppija järelejätmised tapsid siis siia, siis sinna."
   ],
   "translation": [
-    "bought",
-    "acquired",
-    "got"
+    "hits",
+    "strikes"
   ],
-  "context": "The Estonian word 'tapsid' is the past tense of the verb 'tappa', which generally means to buy, acquire or get something. It can also imply obtaining something through effort or chance."
+  "context": "The verb 'tapsida' means to hit or strike something. In the examples given, it is used in contexts involving hitting a target, such as shooting an arrow or making a mark."
 }

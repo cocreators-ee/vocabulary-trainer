@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen tegude mees",
-    "Tegude inimene on alati valmis",
-    "Ta on tuntud oma tegude poolest"
+    "See on tegu tegevus.",
+    "Tegudega teeme palju.",
+    "Rohkem tegude tuleb järgmisel nädalal."
   ],
   "translation": [
-    "deeds",
-    "actions"
+    "Deeds",
+    "Actions",
+    "Acts"
   ],
-  "context": "The word 'tegude' refers to actions or deeds, and is commonly used in Estonian to describe something that someone has done."
+  "context": "The word 'tegude' refers to deeds or actions taken by someone. It is commonly used in contexts discussing activities, behaviors, or specific tasks performed."
 }

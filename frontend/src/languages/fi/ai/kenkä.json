@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minulla on uusi kenkä",
-    "Hän osti itselleen kaksi kenkää",
-    "Kenkä on hyvälaatuinen"
+    "Hänellä on uudet kenkät.",
+    "Kenkiä ei saa käyttää ulkona.",
+    "Osta kenkä suosittuun tyyliin."
   ],
   "translation": [
     "shoe",
-    "boot"
+    "boots"
   ],
-  "context": "The word kenkä refers to a type of footwear in Finnish, and it is commonly used in everyday conversations to talk about shoes or boots."
+  "context": "The word 'kenkä' refers to a type of footwear, commonly used for shoes or boots. It is often used in daily conversations when talking about different kinds of shoes people wear."
 }

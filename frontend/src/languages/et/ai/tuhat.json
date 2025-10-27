@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen lugenud tuhat raamatut.",
-    "Tuhat inimest osales festivalil.",
-    "Ta on surnud tuhat korda."
+    "Ma kogusin tuhane eurot kuu jooksul.",
+    "Ta ostis paksu raamatu, mis koosnes tuhat lehest.",
+    "See film on löutsitud tuhate inimestega osalemas."
   ],
   "translation": [
-    "thousand"
+    "thousand",
+    "a thousand"
   ],
-  "context": "The word 'tuhat' is a noun in Estonian that refers to the number one thousand, and it can be used in various contexts, such as counting or measuring quantities."
+  "context": "Tuhad is a number word that represents 1,000. It can be used both as a cardinal number and to indicate large quantities of something."
 }

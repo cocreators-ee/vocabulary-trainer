@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa saatanat tegema",
-    "Saatan on kuratult halb",
-    "Ta on nagu saatan endine"
+    "Saatan on pahane vaimske.",
+    "Tema elu algas saatana suutel.",
+    "Uskmine kõneles saatanast nagu tegija mida tuleb vältida."
   ],
   "translation": [
-    "devil",
-    "satan"
+    "devil"
   ],
-  "context": "The word saatan in Estonian refers to the devil or satan in English, and is commonly used in a religious or metaphorical sense to describe something or someone evil or malevolent."
+  "context": "Refers to the Devil or Satan in a religious context, often used metaphorically for evil or temptation."
 }

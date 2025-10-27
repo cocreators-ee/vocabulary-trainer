@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Toivottavasti hän tulee",
-    "Olen toivottavasti valmis",
-    "Toivottavasti säät ovat hyvät"
+    "Toivottavasti tämä toimii.",
+    "Toivottavasti noudatamme sääntöjä.",
+    "Toivottavasti joku kuulee minua."
   ],
   "translation": [
     "Hopefully",
-    "I hope so"
+    "I hope that...",
+    "It is hoped that..."
   ],
-  "context": "The word Toivottavasti is an adverb in Finnish that is used to express a hopeful or wishful attitude towards something, similar to the English word 'hopefully'."
+  "context": "'Toivottavasti' expresses a wish or hope for something to happen. It's commonly used in Finnish to introduce optimistic expectations about the future or desired outcomes of actions."
 }

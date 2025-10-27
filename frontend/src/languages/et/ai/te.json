@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ma tean seda.",
-    "Sa tead seda.",
-    "Ta teab seda."
+    "Te teate seda juba.",
+    "Kas tean ma seda?",
+    "Ma tean, et see on tõsi."
   ],
   "translation": [
-    "know"
+    "to know",
+    "knowing"
   ],
-  "context": "The word 'te' is a verb in Estonian that means to know something."
+  "context": "'te' is the second person plural form of 'teada', meaning to know. It can also be used in different forms like 'tea' for third person singular and 'tean' for first person singular, depending on context."
 }

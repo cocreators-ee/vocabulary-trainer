@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta ütleb, et tahab minuga abielluda.",
-    "Ma ütlen, et olen nõus.",
-    "Ütleb tema sõber, et see on hea mõte."
+    "Ta ütleb tõtt.",
+    "Ma ütlen sind vandenõusse.",
+    "Kas sa küsids, kui see on tõsi?",
+    "Ta ei ütle midagi."
   ],
   "translation": [
-    "says",
-    "tell",
-    "speaks"
+    "says"
   ],
-  "context": "The word \"ütleb\" is a verb in Estonian that means to say or tell something, and it is commonly used in sentences to express what someone is saying or communicating."
+  "context": "This is the third person singular form of 'to say' in present tense. It can be used to describe what someone says directly or indirectly."
 }

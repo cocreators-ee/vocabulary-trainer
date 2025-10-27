@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Yksinkertainen ratkaisu on usein paras.",
-    "Hän puhui yksinkertaisesti ja selkeästi.",
-    "Yksinkertaisuus on tärkeää suunnittelussa."
+    "Hän on yksinkertainen ihmisiin nähden.",
+    "Tämä tehtävä näyttää olevan melko yksinkertainen.",
+    "Yksinkertaisella toiminnalla voi olla suuri merkitys."
   ],
   "translation": [
     "simple",
-    "uncomplicated",
-    "straightforward"
+    "plain"
   ],
-  "context": "The word yksinkertainen is an adjective in Finnish that means something is easy to understand or not complex, it is commonly used to describe solutions, ideas or designs that are uncomplicated and straightforward."
+  "context": "Used to describe something that is not complex or difficult to understand. It can be used for objects, tasks, behaviors etc., implying straightforwardness and ease of use or comprehension."
 }

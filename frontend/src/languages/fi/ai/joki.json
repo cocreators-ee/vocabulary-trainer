@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.98,
   "understood": true,
   "sentences": [
-    "Joki virtaa kaupungin läpi.",
-    "Jokien vesi on puhdasta.",
-    "Joen rannalla on paljon puistoja."
+    "Joki virtaa rauhallisesti.",
+    "Lapset leikkivät joen rannalla.",
+    "Kylä sijaitsee suoran jokilaaksossa."
   ],
   "translation": [
-    "river",
-    "stream"
+    "river"
   ],
-  "context": "The word joki refers to a natural flowing body of water, typically smaller than a river, and is commonly used in Finnish geography and everyday conversation."
+  "context": "'joki' refers to a river. It is commonly used in geographical contexts and can also be part of compound words like 'joenranta' (riverbank) or 'jokilaakso' (river valley)."
 }

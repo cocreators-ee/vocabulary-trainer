@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen minuga rahul.",
-    "Ta on minuga üks meeltpildis.",
-    "Kas sa oled minuga nõus?"
+    "Tema tundis sind paremini kui minuga.",
+    "Kas sa tõesti usaldad mind rohkem kui minuga?",
+    "Mina jään siia koos sinu ja minuga."
   ],
   "translation": [
     "with me",
-    "I"
+    "me",
+    "myself"
   ],
-  "context": "The word 'minuga' is a pronoun in Estonian that means 'with me', it can be used to indicate accompaniment or agreement."
+  "context": "Minuga is an Estonian word that translates to 'with me' in English. It is used to indicate the presence or inclusion of oneself, often showing companionship or a personal connection in various contexts such as conversations and relationships."
 }

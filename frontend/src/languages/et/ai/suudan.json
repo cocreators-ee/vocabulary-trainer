@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma suudan seda teha",
-    "Ta suudab väga hästi klaveril mängida",
-    "Nad suudavad inglise keelt rääkida"
+    "Olen veidi suuanu ja minu suuanus on väga kurb.",
+    "Tema suuanus oli nii jõuline, et kõik olid rahulolevad.",
+    "Kui sa ei suua seda teha, siis palun mitte proovida."
   ],
   "translation": [
-    "I can do it",
-    "He can play the piano very well",
-    "They can speak English"
+    "sigh",
+    "exhalation"
   ],
-  "context": "The word 'suudan' in Estonian means 'to be able to' or 'can', and it is commonly used in sentences to express ability or capability."
+  "context": "The word 'suudan' in Estonian translates to 'to sigh' or 'exhale'. It is commonly used to express a deep breath as a reaction to emotions such as sadness, relief, or frustration. In context, it can indicate someone letting out a long breath due to tiredness or emotional weight."
 }

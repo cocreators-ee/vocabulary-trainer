@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta oli täielikult temasse armunud.",
-    "Ma ei saa aru, miks sa oled temasse nii vihane.",
-    "See film on mulle väga temasse meeldinud."
+    "Tema jõuab alati esimesena temasse.",
+    "Rohkem kui lihtne sõbruse seos - meie tervislik suhe pöörab end ainult ümber temasse.",
+    "Sul on mulle midagi, mida alati teanud oled. See jääb mulle temasse."
   ],
   "translation": [
-    "him",
-    "her",
-    "it"
+    "into her",
+    "into him"
   ],
-  "context": "The Estonian word 'temasse' is a personal pronoun meaning 'into him', 'into her', or 'into it'. It’s used to indicate direction *towards* a person or thing, often implying emotional involvement or action directed at that person/thing. It functions similarly to the English prepositions ‘to’ or ‘into’ when referring to feelings or actions towards someone."
+  "context": "The word 'temasse' is used to indicate direction or focus towards a specific person (her or him). It can be translated as 'into her' or 'into him', depending on the context, and is often used in sentences where something is directed at or absorbed by someone."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minulla on vapaa ilta.",
-    "Hän on vapaa mies.",
-    "Vapaa-aika on tärkeää."
+    "Tämä työpaikka on vapaa.",
+    "Ratkaisu tuli yllättäen ja koko järjestelmä oli vapaa.",
+    "Hänellä on vapaa aika nyt."
   ],
   "translation": [
     "free",
-    "liberal",
-    "unrestricted"
+    "liberated"
   ],
-  "context": "The word 'vapaa' in Finnish generally means being free from obligations or restrictions, and it can also refer to something that is liberal or unrestricted in nature."
+  "context": "Used to describe something that is not restricted, available without cost, or unoccupied. It can also mean liberated in some contexts."
 }

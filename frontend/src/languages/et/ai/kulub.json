@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta kulub iga päev autosse.",
-    "Kulub see mulle?",
-    "Ma ei tea, kas see kulub sinu arvamisse."
+    "Muutud olukord ei kuluta midagi meie plaanimise efektiivsusest.",
+    "See meetod vähendab kulusid märkimisväärselt.",
+    "Kas saab nii suurt kasvu saavutada väikeste kulusid?"
   ],
   "translation": [
-    "belongs to",
-    "fits"
+    "cost",
+    "expense",
+    "spending"
   ],
-  "context": "The word 'kulub' in Estonian generally means something belongs to someone or something, or fits into a particular category or context."
+  "context": "'kulub' refers to the cost or expense associated with an activity, project, or item. It is commonly used in financial and everyday contexts to discuss what something costs."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Vaatamata sellele, et ta oli haige, läks ta tööle.",
-    "Ma ei lähe sinna vaatamata sellele, et see on minu sünnipäev.",
-    "Ta tegi seda vaatamata sellele, et tal oli väga palju tööd."
+    "Vaatamata külge.",
+    "Ta nägi vaatamata oma tujale.",
+    "Olen vaatamata sind juba päevaks."
   ],
   "translation": [
-    "despite",
-    "in spite of"
+    "look",
+    "glance"
   ],
-  "context": "The word 'vaatamata' is a preposition in Estonian that indicates a contrast or an exception, similar to the English phrases 'despite' or 'in spite of'."
+  "context": "Used to describe the action of looking or glancing at something. It can be used in different forms depending on the context, such as 'looking' in a continuous action or 'glance' for a brief look."
 }

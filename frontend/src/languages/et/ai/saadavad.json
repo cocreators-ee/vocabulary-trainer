@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma saan selleks ajaks kõik saadavad ülesanded valmis.",
-    "Ta on väga hea inimene ja tema saadavad omadused on talle väga kasulikud.",
-    "Need saadavad oskused on tema elu parimad omandid."
+    "Need on saadavad sõbrad.",
+    "Ta pakkus mulle saadavat abistust.",
+    "Minu käsitled pole saadavad."
   ],
   "translation": [
-    "achievable",
-    "accessible"
+    "available",
+    "accessible",
+    "reachable"
   ],
-  "context": "The word 'saadavad' in Estonian means something that can be reached or achieved, and it is commonly used to describe goals or tasks that are possible to complete."
+  "context": "'Saadavad' refers to something that can be obtained, accessed or reached. It is commonly used in a variety of contexts including availability of people for communication and accessibility of resources or information."
 }

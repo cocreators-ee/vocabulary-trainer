@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei taha tapma kedagi.",
-    "Ta otsustas tapma enda elu.",
-    "Kogu rahvas on hirmul, et keegi tahab neid tapma."
+    "Ta tapas tõra peale ja see lahkus.",
+    "Ärge tappige lähele rasvast!",
+    "Tema üli tapas oma vend."
   ],
   "translation": [
-    "to kill",
-    "murder"
+    "to hit",
+    "to beat",
+    "to punch"
   ],
-  "context": "The word 'tapma' in Estonian means to kill or murder someone, and it is commonly used in sentences to express the act of taking someone's life."
+  "context": "The verb 'tapma' is used to describe physically striking someone or something with a hand or object."
 }

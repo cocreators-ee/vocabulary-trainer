@@ -1,14 +1,11 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Poisi on hea mees.",
-    "Ta poisi ei ole küllaltki hea.",
-    "See poisi on minu sõber."
+    "See on poisi sõnum."
   ],
   "translation": [
-    "boy",
-    "guy"
+    "boy's"
   ],
-  "context": "The word 'poisi' is commonly used in Estonian to refer to a boy or a young man, similar to how 'guy' is used in English."
+  "context": "The word 'poisi' is the genitive singular form of 'poiss,' meaning 'boy.' It is commonly used to show possession or relation by a boy."
 }

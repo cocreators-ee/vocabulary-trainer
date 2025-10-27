@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma panin tähele, et ta ei olnud siin.",
-    "Ta oli väga tähelepanuväärne.",
-    "Tähele tuleb panna, kui tahad edasi pääseda."
+    "Pea tähele kõrvale!",
+    "Soojendage tähele.",
+    "Tähele tuleb sujuvalt."
   ],
   "translation": [
-    "attention",
-    "carefully"
+    "letter 'A'",
+    "to the letter 'A'"
   ],
-  "context": "The word 'tähele' in Estonian means to pay attention or notice something, it is commonly used in sentences to describe the act of being mindful or aware of one's surroundings."
+  "context": "'Tähele' refers to the letter 'A' in Estonian. It is used when directing attention to a specific point, such as in instructions or labeling."
 }

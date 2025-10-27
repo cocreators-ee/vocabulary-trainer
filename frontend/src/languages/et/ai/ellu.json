@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei saa ellu ilma sinuta.",
-    "Tahtsin ellu jääda.",
-    "Ellu oleks võinud jääda ainult üks inimene."
+    "Ta jättis ellu oma ema.",
+    "Mõned mardid pääsesid ellu.",
+    "Loomad on ohvriteks ja saavad ellu."
   ],
   "translation": [
     "alive",
-    "survive"
+    "living"
   ],
-  "context": "The word 'ellu' in Estonian means to be or stay alive, and it is commonly used in sentences related to survival or staying alive in different situations."
+  "context": "'Ellu' in Estonian means alive or living. It is commonly used to describe something that is still alive, not dead. Can be used as a part of compound words or expressions as well."
 }

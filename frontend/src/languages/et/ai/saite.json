@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma saisin aru, et see on raske.",
-    "Saite seda lauset ümber.",
-    "Ära saite mind."
+    "Saite täna koju?",
+    "Kas saite meiega õhtä?",
+    "Saime teada saitete kavatsustest."
   ],
   "translation": [
-    "understand",
-    "get",
-    "realize"
+    "will you come (plural)?"
   ],
-  "context": "The Estonian word 'saite' is a versatile verb that generally means to understand or get something. It can also imply realizing or perceiving information, and it’s often used in the context of comprehending a situation or message."
+  "context": "This is a question used to ask if a group of people will come. The word 'saite' comes from the verb 'sõita', which means 'to come'. It's commonly used in situations where someone wants to know if a group of people will join them, for example at an event or meeting."
 }

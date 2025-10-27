@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta silmad on ilusad.",
-    "Ma nägin tema silmi.",
-    "Tema silmad olid suletud."
+    "Tema silmad olid rohelised.",
+    "Roheliste silmadega naiskujul oli põnev väljanäha.",
+    "Ma nägin tema ilusaid kollaseid silmi kino ekraanil."
   ],
   "translation": [
     "eyes"
   ],
-  "context": "The word 'silmad' in Estonian refers to the eyes, which are the organs of sight. It is commonly used in sentences to describe someone's eyes or to refer to the act of seeing something."
+  "context": "silmad refers to the physical eyes of a person or animal. It is commonly used in describing someone's eye color, appearance, or in expressions related to seeing or vision."
 }

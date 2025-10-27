@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kahtlen, et see on õige.",
-    "Ta ütles, et ta kahtleb selle võimalikkuses.",
-    "Kahtlemata on see hea mõte."
+    "Ta lõi väravat kahtlemata.",
+    "Kahtlemata olen nende meeskonnaga rahul.",
+    "Mängija valiti kindlasti kahtlemata parimaks."
   ],
   "translation": [
-    "doubtless",
+    "certainly",
     "undoubtedly",
     "without a doubt"
   ],
-  "context": "The word kahtlemata is an adverb in Estonian that means without a doubt or undoubtedly, used to express certainty or confidence in something."
+  "context": "Used to express strong certainty or confidence about something, similar to 'definitely' in English."
 }

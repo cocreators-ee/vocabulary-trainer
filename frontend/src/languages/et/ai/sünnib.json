@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta sünnib homme.",
-    "See sündmus sünnib harva.",
-    "Kui see sünnib, siis on võimalik, et see on tõesti hea."
+    "Tema uus kogupõlvkond sünnib igas mängu seansis.",
+    "Kokkulepitud aeg sünib täna õhtul kell viis.",
+    "Eile sünnis meie esimese tütarlaps."
   ],
   "translation": [
-    "will be born",
-    "happens"
+    "is born",
+    "gives birth",
+    "births"
   ],
-  "context": "The word 'sünnib' is the third person singular form of the verb 'sündima', which means to be born or to happen. It is commonly used in Estonian language to describe events that are going to occur or have occurred."
+  "context": "The word 'sünnib' translates to 'is born', 'gives birth', or 'births' in English. It is commonly used to describe the act of being born or giving birth, and can be both a transitive and intransitive verb depending on context."
 }

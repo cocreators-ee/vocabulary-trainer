@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma nägin teda eile.",
-    "Kas sa nägid seda filmi?",
-    "Ta on väga hea nägija."
+    "Kui me kõik näha, et see ei toimi.",
+    "Ta näha midagi, mida teised ei vaata.",
+    "Ma tahan näha, kas sa oled valmis."
   ],
   "translation": [
-    "saw",
-    "to see",
-    "visionary"
+    "see",
+    "you see",
+    "I see"
   ],
-  "context": "The Estonian word 'nägite' is a past tense form of the verb 'näha', which means 'to see'. It’s commonly used to describe an action that happened in the past, similar to the English ‘saw’. The third example uses a derivative meaning 'seer' or 'visionary'."
+  "context": "The Estonian word 'nägite' is a form of the verb 'to see,' commonly used in sentences to express seeing something or understanding a situation visually."
 }

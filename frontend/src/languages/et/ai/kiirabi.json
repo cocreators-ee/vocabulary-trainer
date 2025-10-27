@@ -1,15 +1,12 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kiirabi tuli kiiresti haiglasse.",
-    "Ta vajas kiirabi arsti abi.",
-    "Kiirabimeeskond päästis mehe elu."
+    "Kiirabi saabus paugutusega.",
+    "Ta helistas kiirabile, kui märkas, et lastel on kuumne."
   ],
   "translation": [
-    "emergency medical service",
-    "first aid",
     "ambulance"
   ],
-  "context": "The word kiirabi refers to emergency medical services or first aid, and is commonly used in situations where immediate medical attention is required."
+  "context": "A vehicle and team that provides emergency medical care to people who are injured or ill. Used when someone is in urgent need of help."
 }

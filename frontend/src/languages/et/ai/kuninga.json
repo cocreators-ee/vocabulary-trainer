@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kuninga otsus oli õige.",
-    "Kuningas istus troonil.",
-    "Kuninganna külastas linna."
+    "Mina olen kuninga poeg.",
+    "Tema tervis oli kuninga tugevama kui tema isa tervis.",
+    "Kuninga juures pealiskaudne kuulsus."
   ],
   "translation": [
-    "king's",
-    "of the king"
+    "king",
+    "kingship"
   ],
-  "context": "The word 'kuninga' is a genitive form of the Estonian word for 'king', used to indicate possession or relationship, and it is commonly used in phrases to describe something belonging to or related to a king."
+  "context": "The word 'kuninga' in Estonian is a noun meaning king or kingship. It refers to the monarch in a monarchy system of government."
 }

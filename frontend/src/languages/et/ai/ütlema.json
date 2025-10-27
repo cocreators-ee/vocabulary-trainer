@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ütlen sulle tõtt",
-    "Ta ütles mulle midagi",
-    "Ütleme talle kohe"
+    "Ma tahan ütlema õppida.",
+    "Ta juba kõik teab, mida sa soovid ütlema hakata.",
+    "Tema eesmärk on oma soovide puhul kõrvale juhtumist, et kellegi teisele midagi rohkem ütlema. Selleks pean ma seda juba nüüd tegema."
   ],
   "translation": [
-    "to say",
     "to tell"
   ],
-  "context": "The word ütlema is a verb in Estonian that means to say or to tell something to someone, and it is commonly used in everyday conversations to express thoughts or opinions."
+  "context": "'Ütlema' means 'to tell'. It is commonly used in the context of expressing something verbally to someone else."
 }

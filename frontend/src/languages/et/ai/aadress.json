@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma elan aadressil Tallinn",
-    "Tema aadress on musta nimekirjas",
-    "Aadressi muutmine võtab aega"
+    "Minu aadress on Tallinna tänav 5.",
+    "Ta vahetas oma e-posti aadressi.",
+    "Aadressis peab olema postcode."
   ],
   "translation": [
-    "address",
-    "location"
+    "address"
   ],
-  "context": "The word 'aadress' in Estonian refers to a physical or mailing address, and is commonly used when providing contact information or navigating to a specific location."
+  "context": "'aadress' refers to an address in Estonian. It is commonly used when providing one's home or postal address, email address, etc., and it can be part of forms or communications where location details are needed."
 }

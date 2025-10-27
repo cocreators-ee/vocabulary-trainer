@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tahab õppida.",
-    "Ta tahab minuga rääkida.",
-    "Nad tahavad koos käia."
+    "Ta tahab sõita koolis.",
+    "Ma tahan see ostada.",
+    "Kas sa tahad abi?"
   ],
   "translation": [
-    "want",
-    "wants",
-    "to want"
+    "wants to",
+    "want to",
+    "would like to"
   ],
-  "context": "The word 'tahab' is a verb in Estonian that means to want or wish for something, and it is commonly used in sentences to express desire or intention."
+  "context": "The verb \"tahab\" is used to express desire or intention to do something. It can be translated as \"wants to\", \"want to\", or \"would like to\" in English, depending on context and subject."
 }

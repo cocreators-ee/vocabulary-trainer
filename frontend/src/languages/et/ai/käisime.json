@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Me käisime kaupas.",
-    "Käisime vanaema juures.",
-    "Ta käisime täna aiast."
+    "Käisime koos kooli.",
+    "Eile käisime kinno minema.",
+    "Me käisime seal suveks."
   ],
   "translation": [
-    "we went",
-    "went"
+    "we went"
   ],
-  "context": "The word käisime is the first person plural form of the verb käima, which means to go or to visit in English. It is commonly used to describe past actions where the subject went somewhere."
+  "context": "The word is the past tense of 'to go', used to describe that a group including the speaker went somewhere. Commonly used in everyday situations, e.g., 'We went to school together' or 'Yesterday we went to the movies.'"
 }

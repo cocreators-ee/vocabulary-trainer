@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Viirus on väga ohtlik haiguse tekitaja",
-    "Ta püsis viirusega mitu nädalat",
-    "Viirused on üsna tavalised inimeste seas"
+    "Viiruse tõttu peab kool sulgemisele.",
+    "Arst usub, et haigus on viiruse poolt põhjustatud.",
+    "See arusaam on juba saanud piisavalt palju tähelepanu sotsiaalmeediasse."
   ],
   "translation": [
-    "virus",
-    "viruses"
+    "virus"
   ],
-  "context": "The word viirus refers to a virus, which is a type of microorganism that can cause disease in humans, animals, and plants. It is commonly used in Estonian to describe a viral infection or a computer virus."
+  "context": "Viirus refers to a biological virus that can cause disease. It is commonly used in contexts related to health, biology, and computer security."
 }

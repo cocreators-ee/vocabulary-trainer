@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma mäletan seda päeva hästi.",
-    "Ta ei mäleta enam tema nime.",
-    "Mäleta, et sul on homme kohting."
+    "Mäletad sa mind?",
+    "Ma ei mäleta seda.",
+    "Kas sa mälled kellegi?"
   ],
   "translation": [
     "remember",
     "recall"
   ],
-  "context": "The word 'mäleta' in Estonian means to remember or recall something, and it is commonly used in the context of remembering past events, people, or things."
+  "context": "Used to express the act of remembering or recalling something. Common in both spoken and written Estonian."
 }

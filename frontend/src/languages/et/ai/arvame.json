@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma arvame, et see on hea mõte.",
-    "Meie arvame, et ta on õige mees selle jaoks.",
-    "Nad arvavad, et me pole piisavalt head."
+    "Ma arvan, et see on tõenäoline.",
+    "Ta ei tea, kuidas meie arvame.",
+    "Meil on erinevad arvamised selle kohta."
   ],
   "translation": [
     "we think",
-    "we suppose",
-    "we believe"
+    "think",
+    "opinion"
   ],
-  "context": "The word 'arvame' is the first person plural form of the verb 'arvama', which means to think or suppose something. It is commonly used in Estonian to express a thought or opinion about something."
+  "context": "Arvame is used to express an opinion or a thought about something. It can be used in both singular and plural forms depending on the subject, commonly seen in discussions and debates where people share their views."
 }

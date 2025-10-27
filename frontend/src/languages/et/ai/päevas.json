@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma töötan päevas kaks tundi.",
-    "Päevas on võimalik teha palju asju.",
-    "Ta käib päevas mitmel korral ujumas."
+    "Mina töötan väga palju päevas ja vähem ööd.",
+    "Päevase valguse all näha on paremini, kui õhtu.",
+    "Ta elas päevas üksinda, aga öis käis klubides."
   ],
   "translation": [
-    "day",
-    "daily",
-    "every day"
+    "in the daytime",
+    "during the day"
   ],
-  "context": "The word päevas is used to describe something that happens or is done every day, and it is commonly used in Estonian to talk about daily routines or activities."
+  "context": "'päevas' refers to 'in the daytime' or 'during the day'. It is commonly used in sentences that describe actions taking place during daylight hours."
 }

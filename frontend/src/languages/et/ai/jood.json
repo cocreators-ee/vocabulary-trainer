@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma joon teele",
-    "Jooma ei tohi enne sõitu",
-    "Ta jõi kogu õlle"
+    "Mina nägin juudeid täna päeval linnas.",
+    "Tema lugu on juudi maailma põnevusest ja usust.",
+    "Kuidas nad meie suhtes käituvad, ei pruugi midagi öelda juude kohta."
   ],
   "translation": [
-    "to drink",
-    "drinking"
+    "Jew",
+    "Jewish person"
   ],
-  "context": "The word 'jood' is a verb in Estonian that means to drink, and it is commonly used in sentences to describe the act of consuming liquids."
+  "context": "This is an ethnic or religious term referring to people of Jewish descent. It can be used in a neutral context but may also have negative connotations if used as an insult."
 }

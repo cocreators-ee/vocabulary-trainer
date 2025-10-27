@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma armastan kamat.",
-    "Kama on hea toit.",
-    "Talvel võib kama segada ka piimaga."
+    "Ta pani kama maale ja nõudis vastust.",
+    "Kama hoiab mängu elavaks kaheksa aastat kestnud konfliktis.",
+    "Jälgijad tõid esile, et võim on jäänud kama juhise alusel."
   ],
   "translation": [
-    "groats",
-    "grits"
+    "coup",
+    "takeover",
+    "seizure of power"
   ],
-  "context": "The word 'kama' in Estonian refers to a type of fermented grain product, often used as an ingredient in traditional dishes."
+  "context": "'Kama' refers to a sudden and often illegal or unconstitutional seizure of power by force or threat, typically involving military intervention. It is used in political contexts to describe actions that overthrow an existing government or authority structure."
 }

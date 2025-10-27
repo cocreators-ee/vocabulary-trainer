@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen asjale tagasi.",
-    "Ta on väga hea asjale.",
-    "Me peame olema asjale"
+    "Teeme asjalisele.",
+    "Asjalikul on õigus.",
+    "Mine täneme, et asjalik aitas."
   ],
   "translation": [
-    "about the matter",
-    "to the point"
+    "the matter",
+    "the thing",
+    "affair"
   ],
-  "context": "The word 'asjale' is commonly used in Estonian to refer to something being relevant or related to the matter at hand."
+  "context": "'asjale' is the illative (into) form of 'asja', which means 'a matter' or 'thing'. It can be used in various contexts to refer to something that is being discussed, considered, or dealt with."
 }

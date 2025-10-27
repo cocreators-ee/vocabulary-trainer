@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma jään koju",
-    "Jää sulab kiiresti",
-    "Ta on jääb külmas"
+    "Ma jään kodusse.",
+    "Jäi auto lõunas.",
+    "Kas sa jäät mineviku juurde?"
   ],
   "translation": [
-    "ice",
-    "remain",
-    "stay"
+    "to stay",
+    "remained"
   ],
-  "context": "The word 'jaa' in Estonian has multiple meanings depending on the context, including 'ice', 'to remain', or 'to stay', and is commonly used in various forms to convey these different meanings."
+  "context": "'jaa' in Estonian means 'to stay' or 'remain'. It is used to express staying in a place, remaining in a state, or not moving from somewhere. The examples show different forms of the verb being used in sentences."
 }

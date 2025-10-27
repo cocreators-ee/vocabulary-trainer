@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on poes.",
-    "Minu kass on väga armas poes.",
-    "Poes müüakse palju erinevaid kaubamärke."
+    "Olen poodis.",
+    "Poes müüakse erinevaid asju.",
+    "Minu poiss käib igapäevaselt poodides."
   ],
   "translation": [
-    "shop",
-    "store"
+    "in the store",
+    "at the shop",
+    "at stores"
   ],
-  "context": "The word 'poes' in Estonian refers to a commercial establishment where goods or services are sold, similar to the English words 'shop' or 'store'. It is commonly used to describe retail locations."
+  "context": "'Poes' is an inessive form of 'pood,' which means 'store.' It translates to 'in the store,' and it indicates that someone or something is located inside a retail establishment. This form can also be used more generally, such as when referring to shopping at different stores."
 }

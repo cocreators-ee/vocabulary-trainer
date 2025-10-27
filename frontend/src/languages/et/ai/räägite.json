@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma räägin inglise keelt.",
-    "Sa räägid inglise keelt.",
-    "Ta räägib inglise keelt."
+    "Räägite suve keele?",
+    "Miks rääkisid sa nii kaugele rääkida?",
+    "Kas nad räägivad prantsuse keelt?"
   ],
   "translation": [
-    "speak",
-    "talk"
+    "you speak"
   ],
-  "context": "The word 'räägite' is the second person plural form of the verb 'rääkima', which means to speak or talk in Estonian. It is commonly used when addressing a group of people and asking them to speak or talk."
+  "context": "The word 'räägite' is the second person plural form of the Estonian verb for 'to speak'. It is commonly used in formal or general situations to address a group of people, similar to how one would say 'you all speak' in English. This form can appear in various contexts such as conversations, instructions, or questions involving multiple individuals."
 }

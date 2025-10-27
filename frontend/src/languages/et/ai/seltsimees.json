@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on seltsimees ja osaleb sageli ühiskondlikus elus.",
-    "Seltsimehed said kokku, et arutada projekti edasiarendamist.",
-    "Kui seltsimees, peab ta olema valmis koostööle."
+    "Ta on su sõber ja seltsimees.",
+    "Minu parim sõber on ka minu seltsimees.",
+    "Toa tühjaks jätmine oli suur vigu - teie seltsimehele meeldivad rohelised värvilahendused."
   ],
   "translation": [
-    "gentleman",
-    "companion"
+    "companion",
+    "partner",
+    "accompanying person"
   ],
-  "context": "The word 'seltsimees' in Estonian refers to a gentleman or companion, and is commonly used to describe someone who is respectful, polite, and courteous in social interactions."
+  "context": "The word 'seltsimees' refers to someone who accompanies another person, often in a formal or specific context such as in business, politics, or social events. It can mean a companion, partner, or accompanying person."
 }

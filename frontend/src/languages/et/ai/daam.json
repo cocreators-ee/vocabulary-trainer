@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on ilus daam.",
-    "Daami käitumine oli väga elegantne.",
-    "Daamidele meeldib tihti luksus"
+    "Minu daam on täna õhtul koos minuga.",
+    "Ta leidis oma daami nukkudega kaasates.",
+    "Daam, andmeid, mida sa mulle viimane kord andsid, olid valed."
   ],
   "translation": [
-    "lady",
-    "queen",
-    "dame"
+    "girlfriend",
+    "woman"
   ],
-  "context": "The word 'daam' in Estonian refers to a woman of high social status or a queen, and is commonly used as a title of respect."
+  "context": "A 'daam' is a girlfriend or romantic partner. It can also refer to any woman in some contexts."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma nägin teda filmis.",
-    "See on hea filmis.",
-    "Ta on olnud paljudes filmis."
+    "Jah, see juhtus filmis.",
+    "Filmis oli palju tegutsemist.",
+    "Tema esimene roll filmis jäi meelde."
   ],
   "translation": [
     "in the movie",
-    "on film"
+    "in a movie",
+    "in (the) cinema"
   ],
-  "context": "The word 'filmis' is an Estonian adjective meaning 'on film' or 'in the movie', used to describe something that is related to a film or movie, such as an actor's performance or a scene."
+  "context": "'filmis' is an inessive case form of 'film', meaning it is used to express that something happens within or as part of a movie. It is commonly used to describe events, characters, actions taking place in a film."
 }

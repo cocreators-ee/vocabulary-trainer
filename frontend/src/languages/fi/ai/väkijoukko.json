@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Väkijoukko oli raivostunut poliisin toimista.",
-    "Väkijoukon kasvot olivat täynnä vihaa.",
-    "Poliisi yritti hallita väkijoukkoa."
+    "Väkijoukossa oli monia eri maista tulevia matkailijoita.",
+    "Häneltä kieltää väkijoukon käyttö yleisön edessä.",
+    "Kaupungissa asuu jopa miljoona väkijoukko."
   ],
   "translation": [
     "crowd",
-    "mob"
+    "multitude",
+    "masses"
   ],
-  "context": "The word \"väkijoukko\" refers to a large group of people, often in a public place, and can have either a neutral or negative connotation depending on the context. In English, it is commonly translated as 'crowd' or 'mob', with the latter implying a more aggressive or unruly group."
+  "context": "Väkijoukko refers to a large group of people, often in contexts such as crowds at events or the general public. It can also be used metaphorically for a large number of people with similar characteristics."
 }

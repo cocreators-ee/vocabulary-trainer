@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen hea tahega.",
-    "Tahe on oluline osa inimese isiksusest.",
-    "Hea tahe aitab ületada raskusi."
+    "Tema esimese tahe oli \"A\".",
+    "Uurija leidis märkuse, kus jutti käis kahtlasest tahest.",
+    "Antud keele tähed on erinevad teistest keeltest."
   ],
   "translation": [
-    "desire",
-    "will",
-    "intention"
+    "letter",
+    "character"
   ],
-  "context": "The word 'tahe' refers to a person's desire, will, or intention to do something, and it is commonly used in Estonian to express someone's motivation or determination."
+  "context": "„tahe“ tõldub tähte sümboli või kirjavea asjakohaselt. See võib viidata ainult ühele tähele, mida kasutatakse nimes, vormis jne või kahtlastele sündmustele."
 }

@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen kuskile.",
-    "Ta oli kuskile väga üllatunud.",
-    "Kuskile ei ole see meeldinud."
+    "Kuskile saad puhkuseks?",
+    "Minu lõunaostus on kuskile.",
+    "Ära mine kuskile!",
+    "Ta ei tea, kuskile minna."
   ],
   "translation": [
+    "anywhere",
     "somewhere",
-    "to someone"
+    "to anywhere",
+    "to somewhere"
   ],
-  "context": "The word 'kuskile' in Estonian is used to indicate a direction or movement towards an unspecified location or person, similar to the English phrase 'somewhere' or 'to someone'."
+  "context": "'Kuskile' is used to indicate a destination or direction without specifying exactly where. It can mean 'anywhere,' 'somewhere,' or 'to any place.' In Estonian, it's commonly used when the exact location isn't known or specified."
 }

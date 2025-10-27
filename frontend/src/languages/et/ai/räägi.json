@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma räägin inglise keelt.",
-    "Ta räägib häält.",
-    "Nad räägivad võõrkeeli."
+    "Räägi mulle rohkem selle kohta.",
+    "Ei räägu kunagi oma privaasest elust keisegagi.",
+    "Ta algatavad alati rahulikud dialoogid ja kuuluvad hästi, kuid vähe räägi.",
+    "Rändurite suhtes kasutatakse sageli seeptiivset keelt, kuid nad räägi ka oma vabaduse ja õiguste kohta."
   ],
   "translation": [
     "speak",
-    "talk",
-    "say"
+    "talk"
   ],
-  "context": "The word 'räägi' is a verb in Estonian that means to speak or talk, and it is commonly used in everyday conversations to refer to the act of communicating verbally."
+  "context": "'räägi' is the first person singular form of 'to speak/talk', commonly used in conversational contexts. It indicates an ongoing or habitual action of speaking, such as in daily conversations or discussions on various topics."
 }

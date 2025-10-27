@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta lebas laipa ümber kaela",
-    "Laipa on tal silmade all",
-    "Ta tegi endale uue laiba"
+    "Tema laip oli teada, et meist keegi ei hoolitse.",
+    "Põhitõeline laipa kinnitas tugevalt oma panga seisu.",
+    "Laipa, keda kõik toetasid, kaotas valimised."
   ],
   "translation": [
-    "bruise",
-    "bluish discoloration of the skin"
+    "Statement",
+    "Declaration",
+    "Proclamation"
   ],
-  "context": "The word laipa in Estonian refers to a bruise or bluish discoloration of the skin, often caused by an injury. It is commonly used in medical and everyday contexts to describe such marks on the body."
+  "context": "'laipa' refers to a formal statement or declaration made publicly, often in a political or official context. It can also mean an announcement or proclamation."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tunneb seda meest",
-    "Ta tunneb mind väga hästi",
-    "Nad tunnevad üksteist juba aastaid"
+    "Ta tunneb mind.",
+    "Ma tundsin rõõmu selle pärast.",
+    "Ta toimunud sündmusega tutvustab meid."
   ],
   "translation": [
-    "know",
-    "recognize",
-    "be familiar with"
+    "knows",
+    "felt (emotion)",
+    "introduces (in context of events)"
   ],
-  "context": "The word 'tunneb' is commonly used in Estonian to describe the act of knowing or recognizing someone or something, often implying a sense of familiarity or acquaintance."
+  "context": "Tunneb can mean 'knows' in a personal or factual sense, 'felt' when referring to emotions, and can also mean 'introduces' when used with events. Commonly used in daily conversation."
 }

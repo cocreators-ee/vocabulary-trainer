@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on omal maal",
-    "See on tema enda omal asi",
-    "Omal jõudlal ei ole piiri"
+    "Ma teen seda oma valdusel.",
+    "See on tehtud oma soovi järgi.",
+    "Omal ajal läheb see valmiks."
   ],
   "translation": [
-    "own",
-    "personal",
-    "private"
+    "on one's own",
+    "by oneself",
+    "for oneself"
   ],
-  "context": "The word 'omal' in Estonian generally refers to something that belongs to oneself or is personal, often used to describe things like one's own property, private matters, or individual characteristics."
+  "context": "'omal' is a preposition in Estonian meaning 'on one's own,' often used to indicate that an action is done for or by oneself, expressing autonomy and self-direction."
 }

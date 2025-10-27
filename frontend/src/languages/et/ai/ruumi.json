@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Politsei leidis ruumi metsast.",
-    "Ruumi oli külmas ja jäigas.",
-    "Arstid püüdsid ruumil elu päästa."
+    "Minu ruumi kõrval on muusikat",
+    "See on minu õe jaoks parim ruumi,",
+    "Kuhu sa see ruumi viia?"
   ],
   "translation": [
-    "corpse",
-    "body",
-    "remains"
+    "room"
   ],
-  "context": "The word 'ruumi' in Estonian refers to a dead body, often used in forensic or medical contexts. It can also simply mean 'body', but frequently implies that the person is deceased."
+  "context": "This is the genitive form of 'tuba' which means room in Estonian. The genitive case is used to show possession or association."
 }

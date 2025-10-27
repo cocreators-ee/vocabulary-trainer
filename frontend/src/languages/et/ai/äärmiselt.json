@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen äärmiselt vaikne.",
-    "Ta on äärmiselt osavõtlik.",
-    "See on äärmiselt oluline."
+    "Oleksin väga õnnelik, kui see toimiks äärmiselt hästi.",
+    "Ta ei saa ära teha seda äärmiselt keerulist pilti.",
+    "Äärmiselt suur münt tõusis järsku esile,"
   ],
   "translation": [
-    "extremely",
-    "utterly"
+    "Extremely",
+    "Very much"
   ],
-  "context": "The word \"äärmiselt\" is an adverb in Estonian that means to a very great degree or extremely, it is commonly used to emphasize the extent of something."
+  "context": "The Estonian word 'äärmiselt' is an adverb that means 'extremely' in English. It is used to emphasize the degree or intensity of something, typically modifying adjectives and other adverbs."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tõesti teeb seda.",
     "Ta teeb tööd.",
-    "Nad teevad koostööd."
+    "Tahad, et see teeks kiiremini?",
+    "See toatemat kõik tühjaks teeaks."
   ],
   "translation": [
     "does",
-    "makes",
-    "performs"
+    "to do"
   ],
-  "context": "The word 'teeb' is a verb in Estonian that means to do or make something, and it is commonly used in everyday conversations to describe actions or tasks."
+  "context": "'Teeb' means 'does' or 'to do' in Estonian. It's the third person singular of the verb 'teha,' commonly used for actions performed by someone or something, like tasks and activities."
 }

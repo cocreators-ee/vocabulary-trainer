@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma tegin laibaid.",
-    "Nad said laibadest võileibu.",
-    "See on väga hea laibad."
+    "Ma ostsin laiba kohviga.",
+    "Laiba on naise käes.",
+    "Tema mõte said laibaks."
   ],
   "translation": [
-    "bread",
-    "loaf",
-    "baking"
+    "Bread",
+    "Loaf (of bread)",
+    "Slice (of bread)"
   ],
-  "context": "The word 'laibad' in Estonian refers to bread or a loaf of bread. It is a staple food and commonly used in everyday meals, similar to how 'bread' is used in English."
+  "context": "'Laibad' is the plural form of 'laib,' which can mean 'bread' in general, a specific 'loaf of bread,' or a 'slice of bread.' It's commonly used when referring to eating or buying bread."
 }

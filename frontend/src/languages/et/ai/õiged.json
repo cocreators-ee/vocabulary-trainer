@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen õiged inimene",
-    "Õiged vastused on olulised",
-    "Ta on üks õiged sõber"
+    "Need on õiged vastused.",
+    "Oled sa kindel, et see on õige?",
+    "Ma ei tea, mis on õiged sõnad."
   ],
   "translation": [
-    "right",
     "correct",
-    "true"
+    "right"
   ],
-  "context": "The word õiged is an adjective in Estonian that means right, correct or true, and it is commonly used to describe something that is accurate or just."
+  "context": "'Õiged' means correct or right. It is used to describe something that is accurate, true, or morally acceptable in a given context."
 }

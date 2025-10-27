@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta rikkusid seadust.",
-    "Nad rikkusid lubadust.",
-    "Sa rikkusid mu südant."
+    "Ta rikkusid oma plaani.",
+    "Rohkemal rikkust ja rahulolu!",
+    "Oma vabaduse eest pidi ta maksma kallist hinda – rikkusid sõbrad, elupaigad.",
+    "Pärast rikkusi saab mõned aastad kohe kodus istuda."
   ],
   "translation": [
-    "broke",
-    "violated",
-    "infringed"
+    "to spoil",
+    "spoilage",
+    "ruin"
   ],
-  "context": "The verb 'rikkusid' means to break or violate something, such as a law, promise, or rule. It can also be used metaphorically, like breaking someone’s heart."
+  "context": "The word usually refers to spoiling or ruining something. It can be used literally, such as in the context of food going bad, but is more commonly used figuratively, for example when someone's actions ruin a situation."
 }

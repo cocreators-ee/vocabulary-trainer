@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma armastan jäätist.",
-    "Jäätis on magus.",
-    "Ta ostis mulle jäätist."
+    "Need kõik on jäätisest randa.",
+    "Jäätistel tõi lumi peale.",
+    "Mälestad ka sellest, et jäätistel on kergem liigutuda."
   ],
   "translation": [
-    "ice cream"
+    "ice"
   ],
-  "context": "The word 'jäätist' refers to a sweet frozen food in Estonian, commonly used to describe a popular dessert."
+  "context": "The term 'jäätist' refers to ice in Estonian. It is commonly used to describe frozen water or any icy condition."
 }

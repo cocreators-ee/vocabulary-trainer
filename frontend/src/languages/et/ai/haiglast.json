@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta töötab haiglas.",
-    "Haiglast sai ta kiiresti võimas.",
-    "Arst ei suutnud haiglast kohe lahku minna."
+    "Haigla on kallis.",
+    "Haiglas saab teada uusi asju.",
+    "Ta külastas haiglat."
   ],
   "translation": [
-    "from the hospital",
     "hospital"
   ],
-  "context": "The word haiglast is an adessive form of the Estonian noun haigla, meaning hospital, and it translates to from the hospital or a place related to a hospital in English."
+  "context": "This word refers to a hospital in English. It is commonly used when talking about medical institutions where people receive treatment and care."
 }

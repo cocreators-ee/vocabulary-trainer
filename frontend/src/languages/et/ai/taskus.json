@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma panin tasku pesula",
-    "Ta võttis taskust raha",
-    "Taskus oli üks käteratt"
+    "Ta tõi tasku sisse kaks tukki.",
+    "Minu taskusse maasin rahakotti.",
+    "Püüa see kumm maha ja pani järjekorda taskuses."
   ],
   "translation": [
     "pocket",
-    "purse"
+    "pockets",
+    "the pocket area"
   ],
-  "context": "The word 'taskus' generally refers to a pocket or pouch, often used for carrying small items."
+  "context": "'Taskus' refers to a pocket in clothing. It is commonly used when talking about putting something into one's pocket or describing where an item is located on the body."
 }

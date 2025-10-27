@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on vali.",
-    "Vali on hea mees.",
-    "Ma ei tea, mis vali tahab."
+    "Palun vali oma sündmuspäevad.",
+    "Valige oma låbipäsuekraani kujundus",
+    "Tema lemmikfilmide nimekirja vahemik on piiramatu."
   ],
   "translation": [
-    "fool",
-    "stupid"
+    "choose"
   ],
-  "context": "The word 'vali' in Estonian is commonly used to describe someone who is foolish or stupid, and it can be used in different forms to convey varying levels of intensity or seriousness."
+  "context": "The Estonian word 'vali' means 'choose' in English. It is commonly used as an imperative form and can be part of phrases asking someone to choose or select something."
 }

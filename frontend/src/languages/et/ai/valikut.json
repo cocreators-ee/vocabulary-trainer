@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Ta tegi õige valiku.",
-    "Mul ei olnud muud valikut kui lahkuda.",
-    "See on raske valik."
+    "Ta teeb oma valiku.",
+    "Mina otsisin selle valiku eest.",
+    "Valikuid tehakse igas elu valdkonnas."
   ],
   "translation": [
-    "choice",
-    "selection",
-    "option"
+    "choice"
   ],
-  "context": "The word 'valikut' in Estonian refers to the act of choosing between two or more possibilities. It is often used when discussing decisions, preferences, or alternatives. In English, it translates directly to 'choice', 'selection', or 'option' and can be used in similar contexts."
+  "context": "'valikut' is the partitive singular form of 'valik', which means 'choice'. It can refer to a specific option selected from multiple options, or more generally to the act of making choices. Commonly used in everyday language when discussing decision-making."
 }

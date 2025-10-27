@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on mingisugune inimene.",
-    "Mingisugune asi on toimunud.",
-    "Ma olen mingisugune olukorras."
+    "Minu kodus on mingisugune musta värvi kass, mida tõenäoliselt ei suuda keegi leida.",
+    "Sellest filmist oli mingisugune huvipakkuva tegelasega draama",
+    "Mingisugune väikesed püksid olid kõige parem kui midagi muud, millel on liiga palju õla."
   ],
   "translation": [
     "some kind of",
-    "something like",
-    "a sort of"
+    "somewhat",
+    "sort of"
   ],
-  "context": "The word 'mingisugune' is used in Estonian to describe something that is vague or unspecified, similar to the English phrase 'some kind of' or 'something like'."
+  "context": "The Estonian term 'mingisugune' can mean 'some kind of', and is used to express uncertainty or vagueness about a specific type, nature, or identity. It could be translated as 'somewhat' when describing something with an approximate degree."
 }

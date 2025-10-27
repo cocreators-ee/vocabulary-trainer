@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma saan aru, mida saama on võimalik.",
-    "Saama on oluline osa meie igapäevaelus.",
-    "Ta sai saama head tulemused."
+    "Ma saan sõita koolis.",
+    "Ta said järele tulla.",
+    "Kas sa saad minna?"
   ],
   "translation": [
-    "get",
-    "receive",
-    "obtain"
+    "to get",
+    "to obtain"
   ],
-  "context": "The word saama is commonly used in Estonian to mean getting or receiving something, and it can be used in various contexts such as getting a gift, receiving information, or obtaining a result."
+  "context": "The word 'saama' is an infinitive verb in Estonian meaning 'to get' or 'to obtain'. It is used to express the action of acquiring something, receiving something, or achieving a result. The verb can be conjugated for different persons and tenses."
 }

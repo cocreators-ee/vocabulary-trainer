@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Maja asub tänavale",
-    "Ta läks tänavale jalutama",
-    "Autod sõitsid mööda tänavale"
+    "Mingit ei jõua lihtsalt pöörata ja sammata tänava peale.",
+    "Olen saabunud tänava peale.",
+    "Ta vaatas tänavale mängivate lapsedes."
   ],
   "translation": [
-    "to the street",
-    "on the street"
+    "onto the street",
+    "on the street",
+    "into the street"
   ],
-  "context": "The word 'tänavale' is an allative case of the noun 'tänav', which means 'street'. It indicates movement towards something, in this case, moving towards the street."
+  "context": "Tänavale is an Estonian prepositional case form used to indicate movement or direction onto a street. It is commonly used in contexts where someone arrives at or enters a street."
 }

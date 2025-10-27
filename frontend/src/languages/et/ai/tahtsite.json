@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tahtsin seda filmi näha",
-    "Sa tahtsid mind petta",
-    "Meie ei tahtnud sinna minna"
+    "Muidugi, ma tahtsin sind aidata.",
+    "Ta tundus, et ta tahtsib seda teha.",
+    "Kas sa tõesti tahtsid mind kallutada?"
   ],
   "translation": [
     "wanted",
-    "wished"
+    "intended"
   ],
-  "context": "The word 'tahtsite' is the second person plural form of the verb 'tahtma', which means to want or wish something in English, and it is commonly used to express desire or intention in the past tense."
+  "context": "'tahtsite' is the past tense form of 'tahta', which means to want or intend. It's commonly used in everyday speech to express that someone wanted or intended to do something in the past."
 }

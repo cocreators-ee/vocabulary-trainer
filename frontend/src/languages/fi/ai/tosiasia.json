@@ -2,13 +2,14 @@
   "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tosiasia on, että hän on ollut poissauseissa viime aikoina.",
-    "Hänen puheensa perustui tosiasioiden tarkasteluun.",
-    "Tosiasiassa kaikki ei mene aina suunnitelmien mukaan."
+    "Tosiasia on, että hän ei ollut paikalla.",
+    "Poliisi selvitti tosiasioiden perusteella tapauksen.",
+    "Et voi kiistää näitä tosiasiastoja."
   ],
   "translation": [
-    "fact",
-    "reality"
+    "The fact",
+    "A fact",
+    "Facts"
   ],
-  "context": "The word tosiasia refers to a fact or reality, and it is commonly used in Finnish to describe an actual state of affairs or a true situation."
+  "context": "Tosiasia refers to a real or actual fact that is true and can be proven. It is commonly used in discussions, legal contexts, or when stating undeniable truths based on evidence."
 }

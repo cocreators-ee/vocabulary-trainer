@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän yrittää parantaa suoritustaan.",
-    "Yritän opetella uutta kieltä.",
-    "He yrittävät ratkaista ongelman."
+    "Yritän oppia suomea.",
+    "Hän yrittää saada töitä.",
+    "Meidän tulee yrittää parempaa."
   ],
   "translation": [
-    "try",
-    "attempt",
-    "endeavor"
+    "to try",
+    "to attempt"
   ],
-  "context": "The word 'yrittää' is commonly used in Finnish to mean making an effort or attempting to do something, and it can be translated to English as 'try', 'attempt', or 'endeavor' depending on the context."
+  "context": "The verb 'yrittää' is used to express the action of trying or attempting to do something. It's commonly used in situations where effort is being made towards achieving a goal, even if success isn't guaranteed."
 }

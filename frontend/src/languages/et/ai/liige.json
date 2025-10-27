@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on ühingu liige",
-    "Liikmed valisid uue esimehe",
-    "Olen olnud seltsi liige alates 2010"
+    "Ma olen klubi liige.",
+    "Ta on meie tiimi tugevaim liige.",
+    "Igal liigjal peaks olema häälesoo."
   ],
   "translation": [
     "member",
-    "associate"
+    "memberof"
   ],
-  "context": "The word liige is commonly used in Estonian to refer to a member of an organization, association, or team."
+  "context": "'liige' means a member of an organization, group or family. It can refer to any individual that is part of a larger whole."
 }

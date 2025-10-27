@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma riskin tänavaid mööda jalutada.",
-    "Ta otsustas riskida ja sõita kiiremini.",
-    "Kui ma riskin palju raha kaotada."
+    "Ma ei saa riskida oma tulevikku selleks.",
+    "Tema tegevus riskis oma elu ära.",
+    "Raskustega treenimine võib riskida oma lihaste ära."
   ],
   "translation": [
-    "to risk",
-    "to dare"
+    "to risk"
   ],
-  "context": "The word 'riskida' in Estonian means to take a chance or put something at stake, and it is commonly used in situations where someone is deciding whether to do something that involves uncertainty or potential danger."
+  "context": "Used to express the act of taking a chance or endangering something, often followed by 'et' when specifying what is at stake. The base form is an infinitive verb that is used in various contexts like gambling, investing, or making bold decisions with potential negative consequences."
 }

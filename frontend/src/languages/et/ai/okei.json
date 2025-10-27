@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ütlen okei",
-    "Okei, ma tulen",
-    "Ta ütles lihtsalt okei"
+    "Okei!",
+    "Ma ütlen okei.",
+    "See pole okei!"
   ],
   "translation": [
-    "okay",
-    "alright",
-    "yes"
+    "Okay",
+    "O.K."
   ],
-  "context": "The word 'okei' in Estonian is commonly used as an expression of agreement or confirmation, similar to the English word 'okay'."
+  "context": "Used to express agreement or approval, similar to 'okay' in English."
 }

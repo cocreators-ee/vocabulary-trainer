@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Meie meeskond on väga hea.",
-    "Meeskonna liikmed said auhinnad.",
-    "Meeskondadevaheline võistlus oli väga põnev."
+    "Meeskonnale anti uus ülesanne.",
+    "Jäid tänaseks meeskonda.",
+    "Meie meeskond võitis mängu."
   ],
   "translation": [
-    "team",
-    "crew",
-    "squad"
+    "team"
   ],
-  "context": "The word meeskond refers to a group of people working or playing together, often in a sports or professional setting."
+  "context": "In Estonian language the word meeskond means 'team'. It can refer to a sports team or any group of people working together towards a common goal."
 }

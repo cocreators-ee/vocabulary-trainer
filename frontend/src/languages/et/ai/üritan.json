@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma üritan seda teha",
-    "Ta üritas mind aidata",
-    "Nad üritavad meid abistada"
+    "Ma üritan midagi uut õppida.",
+    "Ta üritab lahendada keerulist pilti.",
+    "Meil on alati vaja pidevalt püsielamiseks midagi uuet ürita."
   ],
   "translation": [
     "I try",
-    "He tried",
-    "They are trying"
+    "I am trying"
   ],
-  "context": "The word üritan is the first person singular form of the verb üritama, which means to try or attempt something in Estonian. It is commonly used in everyday conversations to express an effort or intention to do something."
+  "context": "Used to express the ongoing action of making an effort or attempt to do something"
 }

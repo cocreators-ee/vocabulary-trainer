@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma meeldin seda filmi",
-    "Meeldis mulle see raamat",
-    "Mulle meeldib selle muusika"
+    "Ma öeln, et ma meeldin sellele ideedele.",
+    "Ta küsis, kas mina meeldin selle töö kohta.",
+    "Kas tean, miks nad mulle meeldid?"
   ],
   "translation": [
-    "I liked it",
-    "it pleased me",
-    "I enjoy"
+    "I like (formal)",
+    "I am suitable for"
   ],
-  "context": "The word meeldin is a verb in Estonian that means to like or please someone, and it is commonly used in sentences to express enjoyment or satisfaction with something."
+  "context": "'Meeldin' is the first person singular form of the verb 'meeldiv', meaning to be agreeable or pleasant. It's commonly used in formal situations where someone expresses their preference or suitability."
 }

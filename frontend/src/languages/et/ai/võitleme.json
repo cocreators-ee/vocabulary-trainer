@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Me võitleme selle eest.",
-    "Nad võitlesid kogu elu.",
-    "Võitleme koos!"
+    "Võitleme sellepärast iga päev.",
+    "Me võitleme oma õiguste eest.",
+    "Ruttu, meil on vaja vaimselt võitleda."
   ],
   "translation": [
-    "let's fight",
-    "we will fight"
+    "we fight",
+    "we are fighting",
+    "we must fight"
   ],
-  "context": "The word 'võitleme' is a verb that means to fight or struggle, and it is commonly used in Estonian to express determination or encouragement to take action against something."
+  "context": "The verb 'võitleme' is derived from the Estonian word 'võitlakse,' meaning to fight or contend. It's commonly used in contexts where there is a struggle, whether literal (such as in sports) or metaphorical (like fighting for rights)."
 }

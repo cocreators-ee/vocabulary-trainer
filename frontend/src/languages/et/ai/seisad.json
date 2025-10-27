@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Meie seisad on kindlad.",
-    "Ta seisad ei muutnud midagi.",
-    "Poliitikud seisavad oma lubaduste juures."
+    "Kas oled sa seisad ja tähendad midagi?",
+    "Mina seisad, et teha seda.",
+    "Seisad siin, kuidas nad sind aidata võiksid."
   ],
   "translation": [
-    "stands",
-    "positions",
-    "views"
+    "you are",
+    "you stand",
+    "stand"
   ],
-  "context": "The word 'seisad' in Estonian refers to someone’s stance, position or views on a particular matter. It can also refer to the act of standing or being positioned somewhere."
+  "context": "\"Seisad\" is the second person plural form of the verb \"to stand\" in Estonian. It can be used literally to describe physical standing or metaphorically in expressions."
 }

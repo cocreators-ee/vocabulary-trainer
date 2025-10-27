@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen vastu selle eest.",
-    "Ta on võtnud vastu uue rolli.",
-    "Vastu olek on oluline."
+    "Ma ei tea, kas mul on selle vastu või mitte.",
+    "Ta pani oma arvamuse kirja vastu hääletusele.",
+    "Märkasin, et tal oli tugev vastu see meetod."
   ],
   "translation": [
     "against",
-    "opposite",
-    "facing"
+    "opposition",
+    "resistance"
   ],
-  "context": "The word 'vastu' in Estonian generally means 'against' or 'opposite', and it is commonly used to indicate direction or position, for example, something being opposite or facing something else."
+  "context": "In Estonian language, 'vastu' can mean against or resistance. It is commonly used to express disagreement, opposition, or something that resists another action."
 }

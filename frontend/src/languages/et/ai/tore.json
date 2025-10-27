@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tore oli suur",
-    "Ma ei tea, mis tore on",
-    "Tore inimene on alati tore"
+    "Tema uus kodus on väga tore. (Her new house is very nice.)",
+    "Ma ostsin endale tore põllu. (I bought myself a nice dress.)",
+    "Need lapsed on tore. (Those children are nice.)"
   ],
   "translation": [
-    "fine",
-    "good",
-    "nice"
+    "nice",
+    "pleasant",
+    "fine"
   ],
-  "context": "The word 'tore' is an adjective that means something or someone is fine, good, or nice, and it can be used to describe a person, thing, or situation."
+  "context": "The word 'tole' in Estonian describes something that is nice, good, or pleasant. It is commonly used to describe people and objects."
 }

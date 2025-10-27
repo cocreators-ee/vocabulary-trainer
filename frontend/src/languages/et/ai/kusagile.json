@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen kusagile puhkama.",
-    "Kas sa oled kunagi käinud kusagil välismaal?",
-    "Ta kadus lihtsalt kusagile."
+    "Kusagile sul on lihtne minna.",
+    "Ma kavatsen puhkuseks kusagile rannaliiva peale.",
+    "Ta läheb kusagile mujale ja jääb seal ööd läbi."
   ],
   "translation": [
-    "somewhere",
-    "anywhere",
-    "nowhere"
+    "somewhere"
   ],
-  "context": "The word 'kusagile' in Estonian is an adverb that indicates a place or destination, but it’s indefinite. It translates to ‘somewhere’, ‘anywhere’, or even ‘nowhere’ depending on the context. It implies movement to an unspecified location."
+  "context": "Used to indicate an unspecified destination or location. It is often used in the context of going somewhere, but the exact place is not mentioned."
 }

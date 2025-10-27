@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen alal",
-    "Ta on alal",
-    "Nad on alal"
+    "Tema arvates on see alal kehtiv.",
+    "Päikeseloojanguks jääb alal valdavalt külmaks.",
+    "See ehitusmeetod kasutatakse alat metsades."
   ],
   "translation": [
-    "on the ground",
-    "down"
+    "still",
+    "continuing",
+    "ongoing"
   ],
-  "context": "The word 'alal' in Estonian means something or someone is located on the ground or at a lower position."
+  "context": "'Alal' is used in Estonian to express something that remains the same, continues without change, or is ongoing. It can function as an adverb indicating continuity."
 }

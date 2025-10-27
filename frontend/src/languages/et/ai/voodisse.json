@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen voodisse",
-    "Ta on juba voodisse minemas",
-    "Voodisse minek on hea idee"
+    "Minu naine tõi bändi voodisse.",
+    "Tema õde teadis, et ta ei saa unta enne kui sulgeda silmad ja minna voodisse.",
+    "Ta naeratus oli kuuldav maha minnes ja voodisse minemise ajaks."
   ],
   "translation": [
     "to bed",
-    "into bed"
+    "into the bed",
+    "bedtime"
   ],
-  "context": "The word 'voodisse' is a prepositional phrase that means 'to bed' or 'into bed', and it is commonly used in Estonian to indicate the act of going to sleep or getting into bed."
+  "context": "The word 'voodisse' in Estonian translates to 'to bed,' 'into the bed,' or 'bedtime.' It is commonly used when referring to going to bed, either as an action of physically entering the bed or as a time-related term for bedtime. The context often involves sleep routines or instructions."
 }

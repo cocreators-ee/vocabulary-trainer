@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ei saanud rohtu leida.",
-    "Rohtude hulgas kasvasid erinevad taimed.",
-    "Arst kirjutas talle rohtu."
+    "Rohtu jääb siia.",
+    "Tema kõikjal tuleb rohtu esile.",
+    "Kodus peab olema rohtu vaba aega."
   ],
   "translation": [
-    "medicine",
-    "medication"
+    "weed",
+    "overgrowth",
+    "freedom"
   ],
-  "context": "The word 'rohtu' in Estonian refers to medicine or medication, and it is commonly used in contexts where someone is taking or looking for medication to treat an illness or injury."
+  "context": "'Rohtu' can mean 'weed' or refer to something overgrown. It also metaphorically means freedom when talking about having free time."
 }

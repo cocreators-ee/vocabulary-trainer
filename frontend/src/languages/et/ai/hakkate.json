@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta hakkas joonistama.",
-    "Nad hakkasid tantsima.",
-    "Ma hakkan kohe tööle."
+    "Ma hakkasin teha oma kodutõó.",
+    "Ta hakkab juba tundma koolis.",
+    "Hakkate juba trenni tegema?"
   ],
   "translation": [
-    "began",
-    "started",
-    "commenced"
+    "start to do",
+    "begin to"
   ],
-  "context": "The word 'hakkate' is the third-person plural past tense form of the verb 'hakkama', which means to begin or start doing something. It indicates that a group of people started an action."
+  "context": "The verb 'hakkata' means to start or begin doing something. It is often used in the second person plural form 'hakkate', which translates to 'you all are starting/beginning'."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on suur mees.",
-    "Suured koerad on tema lemmikud.",
-    "Suurepärane päev!"
+    "Suur mees astus sisse.",
+    "See on suur pere.",
+    "Meil on suur kodu."
   ],
   "translation": [
-    "big",
     "large",
-    "great"
+    "big"
   ],
-  "context": "The word 'suur' in Estonian means big or large in size, and is commonly used to describe objects, people, or ideas that are greater than others."
+  "context": "'suur' is an adjective in Estonian that means 'large' or 'big'. It's commonly used to describe size."
 }

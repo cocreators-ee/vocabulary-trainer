@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen abiellud.",
-    "Ta on abiellunud mehega.",
-    "Nad said abielluvad homme."
+    "Tema abiellud on väga sõbralikud.",
+    "Meil on plaanis abielluda järgmisel aastal.",
+    "Ta otsib oma abiellu, kellega ta saab kohe kohama jääda."
   ],
   "translation": [
-    "married"
+    "married",
+    "spouses"
   ],
-  "context": "The word 'abiellud' in Estonian means to be married or to have gotten married, it is commonly used to describe someone's marital status."
+  "context": "In Estonian, 'abiellud' means married and can also refer to spouses. It is used to describe a person who is in a married relationship or to refer to the married couple themselves."
 }

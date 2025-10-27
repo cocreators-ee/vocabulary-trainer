@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Odottaminen on pitkä taulo tauko.",
-    "Tällä kertaa tauko kestää kolme kuukautta.",
-    "Hän tekee tauon työstään."
+    "Meillä on viikonloppuna tauko.",
+    "Hän teki tauon keskellä puhettaan.",
+    "Lunasti aamutauston sitten kun jäi pois leiriksi."
   ],
   "translation": [
-    "break",
-    "pause",
-    "recess"
+    "Break",
+    "Pause"
   ],
-  "context": "The word 'tauko' in Finnish generally refers to a pause or break from an activity, which is commonly used in various contexts such as work, school, or conversations."
+  "context": "'Tauko' means a break or pause, such as from work, study, or an activity. It can refer to short rest periods during the day or scheduled pauses in processes and events."
 }

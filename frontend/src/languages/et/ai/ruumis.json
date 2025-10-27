@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ruumis lebas haudades",
-    "Ta tundis end ruumina",
-    "Ruumid olid juba mattunud"
+    "Tema ei tea midagi sellest ruumis.",
+    "Meil tuleb olla täpsus mõtlemises sees ruumis.",
+    "Ta kihistab järjekindlalt kogu aeg ümber ruumis."
   ],
   "translation": [
-    "body",
-    "corpse"
+    "in the room",
+    "in space",
+    "within"
   ],
-  "context": "The word 'ruumis' in Estonian refers to a dead body or corpse, and it is commonly used in contexts related to death, mourning, or funeral rites."
+  "context": "'ruumis' is an Estonian word meaning 'in the room,' 'in space,' or 'within.' It is commonly used to describe something located inside a specific area, such as a physical room or abstract space."
 }

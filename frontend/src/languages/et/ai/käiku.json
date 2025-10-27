@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kuulsin käikust.",
-    "Käigu pealt võib aru saada.",
-    "Ta tegi ühe käigu."
+    "Minema käiku, mitte järsku.",
+    "Pakutage asjaarendusega käiku.",
+    "Ta tegi sammu käiku edasi."
   ],
   "translation": [
-    "echo",
-    "report",
-    "message"
+    "step by step",
+    "gradually"
   ],
-  "context": "The word käiku refers to a message or report that is heard or received, often implying that the information is indirect or second-hand."
+  "context": "'käiku' is an adverb in Estonian meaning to proceed step-by-step or gradually. It often follows verbs and indicates a slow progression toward something."
 }

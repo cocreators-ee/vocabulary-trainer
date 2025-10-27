@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma näen mõnda uut",
-    "Ta ütles mõnda nalja",
-    "Mõndagi on veel öelda"
+    "Tema on mõnda tänu.",
+    "Mõnda tätu meelde puhuvad ära käesolevad.",
+    "Mõnda aega kulutatakse vähe.",
+    "Pidi mõnda väga tüttama, et see jäi meelde."
   ],
   "translation": [
-    "something",
-    "anything"
+    "someone's",
+    "somebody's"
   ],
-  "context": "The word mõnda is used in Estonian to refer to something or anything, often in a general or vague sense."
+  "context": "The word 'mõnda' is used in Estonian to refer to someone's possession or relationship. It often comes before a noun indicating what belongs to that person."
 }

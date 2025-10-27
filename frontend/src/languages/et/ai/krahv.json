@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Krahv tuli koju.",
-    "Ta on krahvi poeg.",
-    "Krahvid olid võimukad."
+    "Minu kõrval on oma krahv.",
+    "Tema sõbranna oli püksipagas krahv.",
+    "Krahv, sa pead lokaalidega suhtlemise oskust. "
   ],
   "translation": [
-    "count",
-    "earl"
+    "baron",
+    "crab"
   ],
-  "context": "The word 'krahv' refers to a nobleman of high rank, equivalent to an earl or count in English, and is commonly used in Estonian to denote a title of nobility."
+  "context": "A 'krahv' in Estonian is primarily a title used to refer to nobility such as barons or counts. It can be also playfully used for someone who resembles the crustacean due to their appearance or behavior."
 }

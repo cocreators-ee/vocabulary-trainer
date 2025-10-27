@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Elavad inimesed on õnnelikud.",
-    "Ta elab südamest.",
-    "Nende elavad esivanemad olid talupojad."
+    "Neid elab kõikjal mujal kui siin.",
+    "Kuidas nad ikka elavad ilma raha jätta?",
+    "Meie koos elavad sõbrad."
   ],
   "translation": [
-    "living",
-    "alive"
+    "are living",
+    "live"
   ],
-  "context": "The word 'elavad' in Estonian means being alive or having life, and it is commonly used to describe people, animals, or plants that are currently living."
+  "context": "It is commonly used to describe people living in a place, or continuing to live despite challenges."
 }

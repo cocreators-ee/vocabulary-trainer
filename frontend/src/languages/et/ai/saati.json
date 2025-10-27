@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma saati oma esimese auto.",
-    "Ta ei saati seda ülesanne valmis.",
-    "Meie saati selle töö tehtud."
+    "Ma saadsin ta pärast kella 8.",
+    "Ta said sõbra kodus jääma.",
+    "Pakett jõudis kaasa saadud aja tõttu hiljemal."
   ],
   "translation": [
-    "got",
-    "received",
-    "obtained"
+    "to send",
+    "sent",
+    "dispatch"
   ],
-  "context": "The word 'saati' in Estonian means to get or receive something, and it is commonly used in sentences to indicate that someone has obtained or acquired something."
+  "context": "'saati' is the infinitive form of the verb meaning to send. It's commonly used in contexts like sending messages, people, or packages. The past tense 'said' appears in sentences as well."
 }

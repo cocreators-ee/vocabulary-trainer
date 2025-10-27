@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma lähen kohale.",
-    "Ta tuli kohale.",
-    "Kohale jõudmiseks tuleb sõita bussiga."
+    "Mind puhkama kohale.",
+    "Mingi heleda kohale asuda.",
+    "See on oma kohale juba mõeldud."
   ],
   "translation": [
-    "to the place",
-    "on site"
+    "place",
+    "location",
+    "to place"
   ],
-  "context": "The word 'kohale' is used in Estonian to indicate movement or direction towards a specific location or place, similar to the English phrase 'to the place' or 'on site'."
+  "context": "The word 'kohale' in Estonian is commonly used to refer to a specific place, location or the act of placing something somewhere. It can be used both literally and figuratively depending on context."
 }

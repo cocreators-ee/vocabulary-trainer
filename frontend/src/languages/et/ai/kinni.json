@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta võttis kinni oma kätega.",
-    "Kinni püüdma on raske.",
-    "Käsi oli kinni"
+    "Kinni peale, mu väike sõber! (Close it up, my little friend!)",
+    "Uksed kinni. (Doors closed.)",
+    "Broneerimisele on jäänud vaid paar kohta. Palun sulge enda maha. (Only a few seats are left for booking. Please book yourself in.)"
   ],
   "translation": [
-    "catch",
-    "grip",
-    "hold"
+    "tight",
+    "closed",
+    "fastened"
   ],
-  "context": "The word kinni is commonly used in Estonian to mean catching or holding onto something, and can be seen in various forms such as a verb or an adverb."
+  "context": "Kinni is used to describe something being tightly shut or fastened, such as doors, windows, or other objects that can be opened and closed."
 }

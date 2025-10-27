@@ -2,14 +2,13 @@
   "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tundnud endale häbi",
-    "Ta tunneb ennast võõra keele keskel",
-    "Tal on hea tunde"
+    "See film kulus mulle ühe tundi.",
+    "Ma olen sellest huvipakkuvast teemast juba kaks nädalat järjest tundideks kirgutanud.",
+    "Kooliõhtu algas ja kestis kolm tundi."
   ],
   "translation": [
-    "feels",
-    "sense",
-    "notion"
+    "hour",
+    "hours"
   ],
-  "context": "The word 'tundi' is a verb in Estonian that means to feel or sense something, and it is commonly used to describe emotions or physical sensations."
+  "context": "Tundi is the partitive plural form of 'tund' meaning hour. It's commonly used to denote a period or duration, often with verbs like spend, take, last."
 }

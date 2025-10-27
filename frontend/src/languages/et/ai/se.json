@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.5,
   "understood": true,
   "sentences": [
-    "Ma nägin teda seal",
-    "Ta on seal",
-    "Me ei ole seal"
+    "Ta kutsus mind koju. Se oli väga näljane.",
+    "Mõttetu, se nägi see välja nagu tavaline sõbruskohtumine.",
+    "Tema jaoks olid need ühed parimad suvepäevad. Muidugi, kuna se on alati rõõmus inimene."
   ],
   "translation": [
-    "this",
-    "here",
-    "it"
+    "he",
+    "she"
   ],
-  "context": "The word 'se' in Estonian is a demonstrative pronoun used to point out something specific, similar to the English word 'this' or 'that', often used to indicate location or direction."
+  "context": "'se' is a third person singular pronoun used to refer to 'he' or 'she'. It's less common than the gender-specific forms and can be considered informal."
 }

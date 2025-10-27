@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Ma leian sind oma kodust.",
-    "Ta leiab alati uue lahenduse probleemile.",
-    "Kas sa leidnud juba oma võtmed?"
+    "Ma otsisin ja leidsin lahenduse.",
+    "Ta leidis oma kassilapse metsas.",
+    "Leiaksite parema tahu."
   ],
   "translation": [
-    "find",
-    "discover",
-    "locate"
+    "would find"
   ],
-  "context": "The verb 'leiaks' is the conditional form of the Estonian verb 'leidma', meaning 'to find'. It expresses what someone would find or be able to find under certain circumstances. In English, it’s used to express possibility or a hypothetical situation involving finding something."
+  "context": "The word 'leiaks' is the conditional form of the verb 'leida,' meaning 'to find.' It is used to express a hypothetical situation or a polite request, often in sentences like 'I would find...'"
 }

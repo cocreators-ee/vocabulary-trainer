@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.4,
   "understood": true,
   "sentences": [
-    "Minu all on sinuga.",
-    "See all on väga vana.",
-    "Ta elas selles majas aasta all."
+    "All kus on minu rasestumisperiood?",
+    "Milline all on parim veele juurde?",
+    "Kuidas all määrata?",
+    "Tuleb olla all nii kaugele, kui saab."
   ],
   "translation": [
-    "under",
-    "below",
-    "beneath"
+    "Term",
+    "Period",
+    "Time"
   ],
-  "context": "The Estonian word 'all' primarily translates to 'under' in English. It indicates a position lower than something else, or a state of being subject to someone or something. It can also be used figuratively to mean 'during' or 'in the course of'."
+  "context": "The word 'all' in Estonian is used to refer to a term or period of time. It can mean a specific duration, like the term of an office or a school year."
 }

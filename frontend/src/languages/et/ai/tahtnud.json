@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen tahtnud seda küsimust juba ammu",
-    "Ta on alati tahtnud olla õpetaja",
-    "Nad on tahtnud mind aidata"
+    "Ta tahtis mulle headust.",
+    "Ma ei tahtnud seda öelda.",
+    "Mis tuleb teha, kui sa ei tahtnud midagi rohkem osta?"
   ],
   "translation": [
-    "wanted",
-    "wished"
+    "meant (to do something)"
   ],
-  "context": "The word 'tahtnud' is the past tense of the verb 'tahma', which means to want or wish for something in English. It is commonly used in Estonian language to express a desire or intention that was not fulfilled."
+  "context": "The past participle of 'tahta', which means to mean or intend. It is used in sentences where someone had the intention or purpose to do something."
 }

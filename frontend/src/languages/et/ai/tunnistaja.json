@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tunnistaja oli politseikomissar.",
-    "Ta on tunnistatud kui üks silmapaistvamaid teadlasi.",
-    "Tunnistajad olid kohtus avaldanud oma arvamusi."
+    "Tunnistaja toob välja olulised asjakohased tõendid kohtu ette.",
+    "Prokurör küsis tunnistajalt, kas ta oli kriminaaljuhtumiga seotud. ",
+    "Kui sa pead esimese klassi tunnistajana deklareerima ükskõik millise sündmuse, siis sul peaks olema kindlad tõendid."
   ],
   "translation": [
-    "witness",
-    "identifier"
+    "witness"
   ],
-  "context": "The word 'tunnistaja' generally refers to a person who has identified or recognized someone or something, often used in the context of law enforcement or legal proceedings."
+  "context": "In Estonian legal context, 'tunnistaja' is someone who provides evidence under oath in a court case. It refers to an eyewitness or person with relevant information about the case. The term is commonly used in judicial proceedings and law-related discussions."
 }

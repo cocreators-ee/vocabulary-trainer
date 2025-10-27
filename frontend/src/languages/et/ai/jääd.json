@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Jääl on hea uisutada.",
-    "Tee jäätunud.",
-    "Autod sõidavad jää peal ettevaatlikult."
+    "Tema suve lõppedes jäid ränikese maha.",
+    "Jääd kodus ja tean ma sinu sõbra!",
+    "Ta jättis oma jääd tühja toa sees."
   ],
   "translation": [
-    "ice",
-    "frost",
-    "icing"
+    "traces",
+    "remains",
+    "residue"
   ],
-  "context": "The word 'jääd' in Estonian refers to frozen water, or ice. It can describe a surface covered in ice, or the substance itself. In English, it is commonly used to refer to frozen precipitation, slippery surfaces, or as a component of cold drinks."
+  "context": "'jääd' refers to the physical remnants or traces left behind after something has been used, consumed, or removed. It is often used in contexts involving leftovers from food, marks from an event, or objects abandoned by someone."
 }

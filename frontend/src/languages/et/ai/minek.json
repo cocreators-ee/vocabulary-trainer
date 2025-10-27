@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei tea mineku",
-    "Minek on see?",
-    "Ta ei mõistnud mineku"
+    "Ta juba mineku peal. Kas sa ta tunda?",
+    "Tuleb vahetada kõrgtakseminek.",
+    "Jäta see mineguseks.",
+    "Minu esimese minek oli kaugel sinistest kaladest."
   ],
   "translation": [
-    "meaning",
-    "purpose"
+    "mine",
+    "mining"
   ],
-  "context": "The word 'minek' in Estonian generally refers to the purpose or meaning of something, and is often used in questions to ask about the reason or intention behind an action."
+  "context": "A 'minek' in Estonian can refer to a 'mine', such as a place where minerals are extracted, or it can mean 'mining' as an activity. It is commonly used in geological and industrial contexts."
 }

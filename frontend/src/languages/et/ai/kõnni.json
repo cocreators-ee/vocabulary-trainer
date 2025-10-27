@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta kõnnib aeglaselt mööda teed.",
-    "Me kõnnime homse kohtumise kohta läbi.",
-    "Kõnni ja vaata ringi!"
+    "Tema kõnnes oli rõõmus hääletoon.",
+    "Ta õppis kõnni lugeda enne kui ta saab teha eksami.",
+    "See raamat selgitab hästi kõnni ja kirja vahet."
   ],
   "translation": [
-    "walk",
-    "to walk",
-    "walking"
+    "speech",
+    "reading (in the context of learning to read)"
   ],
-  "context": "The word 'kõnni' in Estonian primarily means 'to walk' or 'walk'. It can be used as a verb describing the action of walking, or as an imperative – a command to walk. It is a very common and basic verb in everyday conversation."
+  "context": "'kõnni' primarily refers to speech or spoken language. In educational contexts, especially for children, it can also refer to reading aloud or the act of reading. It is commonly used in phrases related to speaking and literacy development."
 }

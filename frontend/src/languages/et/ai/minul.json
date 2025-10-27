@@ -1,16 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minul on koer.",
-    "See raamat kuulub mulle.",
-    "Mul pole aega."
+    "Minul on raha.",
+    "Minul ei ole aega.",
+    "Minul on hea meel."
   ],
   "translation": [
-    "I have",
-    "mine",
-    "me",
-    "my"
+    "on me (my)"
   ],
-  "context": "The word 'minul' is a personal pronoun in Estonian. It translates to 'I have', 'of me', or 'mine' in English, and indicates possession or association with the speaker. It’s often used similarly to possessive pronouns like ‘my’ or as part of constructions expressing what someone has."
+  "context": "'Minul' is the possessive form of 'ma' (I/me) in Estonian, used to indicate something belongs to the speaker. It's commonly used before nouns or with verbs like 'olema' (to be) to express possession."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on suureks kasvanud.",
-    "Ma tahaksin suureks saada.",
-    "See linn on suureks kasvanud."
+    "Ma kasvan suureks pärast kooli.",
+    "Ta soovib saada arstiks ja see on tema eesmärk suureks saada.",
+    "Lapsed otsivad alati midagi uut, mida saaksid suureks teha."
   ],
   "translation": [
-    "great",
+    "big",
     "large"
   ],
-  "context": "The word 'suureks' in Estonian means to become great or large in size or amount, it is often used to describe growth or development into something bigger or more significant."
+  "context": "'Suureks' is the illative form of 'suur,' meaning 'into big.' It is commonly used to describe something growing or becoming large, such as a child growing up or achieving a goal that requires becoming more significant in some way."
 }

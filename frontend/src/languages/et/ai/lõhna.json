@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta võttis lõhna ja kuulutas, et see on hea.",
-    "Lõhn on väga tähtis meie igapäevaelus.",
-    "Mõned linnud tunnevad lõhna erinevalt kui inimesed."
+    "Lõhn oli tühja maja jaoks eriti ilus.",
+    "Tema sõbranna jäänud lõhna jäi alati meelde.",
+    "Mina ei ahistaks sind oma lõhnaga."
   ],
   "translation": [
-    "smell",
     "scent",
-    "odor"
+    "fragrance",
+    "smell"
   ],
-  "context": "The word 'lõhna' in Estonian refers to the sense of smell or a particular odor, and is commonly used to describe something that has a strong or distinctive scent."
+  "context": "Lõhna refers to the sense of smell, commonly used when describing pleasant or unpleasant odors. It can also be used in the context of someone's personal scent or fragrance."
 }

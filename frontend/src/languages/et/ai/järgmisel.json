@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen järgmisel nädalal Londonisse",
-    "Järgmisel aastal tahame minna Pariisi",
-    "Järgmisel päeval tuleme tagasi"
+    "Järgmisel nädalal külastame oma vanemaid.",
+    "Ta lõpetas õpingud järgmisel aastal.",
+    "Järgmisel päeval oli suvi."
   ],
   "translation": [
     "next",
     "following"
   ],
-  "context": "The word järgmisel is an adverb in Estonian that means next or following, and it is commonly used to indicate something that will happen at a later time."
+  "context": "'järgmisel' is used in Estonian to refer to the next or following instance of something, such as a day, week, year, etc. It is commonly used when scheduling events or talking about sequences."
 }

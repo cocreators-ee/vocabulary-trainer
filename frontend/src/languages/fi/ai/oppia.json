@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minä haluan oppia uusia kieli.",
-    "Hän on oppinut paljon matkustamalla.",
-    "Lapsi oppii nopeasti uusia asioita."
+    "Oppiminen on hauskaa.",
+    "Hän oppii kieleen nopeasti.",
+    "Lapsi alkaa jo oppia puhumaan."
   ],
   "translation": [
     "to learn",
-    "study"
+    "learning"
   ],
-  "context": "The word 'oppia' is a verb in Finnish that means to learn or study something, and it is commonly used in everyday conversations when talking about acquiring new knowledge or skills."
+  "context": "'Oppia' means to learn something new. It can be used as a verb (e.g., 'I am learning Finnish') or in its noun form referring to the process of gaining knowledge."
 }

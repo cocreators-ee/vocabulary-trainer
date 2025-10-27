@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.4,
   "understood": true,
   "sentences": [
-    "Ma ajama selle auto",
-    "Ta on hea ajama",
-    "Nad õpivad ajama"
+    "Ajate mehele kaks tundi.",
+    "Ta aitas mul ajada oma mõisa.",
+    "Ma eeldasin rohkemat aja.",
+    "Neil on piisavalt aja vaid üks kord täna läbi minna."
   ],
   "translation": [
-    "to drive",
-    "driving"
+    "to spend time",
+    "to take up time"
   ],
-  "context": "The word 'ajama' in Estonian means to drive, and it is commonly used in the context of operating a vehicle."
+  "context": "The verb 'ajama' in Estonian generally refers to spending or taking up time, often with an implication of occupying oneself with something for a duration."
 }

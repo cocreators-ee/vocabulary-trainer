@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma pettan teda.",
-    "Ta on petnud mind.",
-    "Petta mind ei saa."
+    "Ta pettab mind oma valetusega.",
+    "Mulle tundus, et nad pettasid mind raiskamatult.",
+    "Ei tohi kedagi petta – see on vale."
   ],
   "translation": [
-    "deceive",
-    "cheat",
-    "betray"
+    "to deceive"
   ],
-  "context": "The word 'petta' in Estonian means to deceive or cheat someone, and it is commonly used in situations where someone is being dishonest or unfaithful."
+  "context": "This is the present tense of the verb 'pettama' which means to deceive or disappoint someone."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ta on väga sunni inimene.",
-    "Nad said sunnitud lahkuma.",
-    "Sunnitud töötingimused olid talumatud."
+    "Oma suuniga jõuavad nad pargi.",
+    "Ta sunnis mind ostma maja.",
+    "Mind sassis üks sunni.",
+    "Ta soovib sundida mind tegema seda."
   ],
   "translation": [
-    "sunny",
-    "forced",
-    "compelled"
+    "sun",
+    "to force"
   ],
-  "context": "The Estonian word 'sunni' has multiple meanings depending on the context. It can mean 'sunny' as in bright weather, or it can mean 'forced' or 'compelled', indicating that someone is made to do something against their will."
+  "context": "The Estonian word 'sunni' is used to express the idea of forcing someone to do something, or causing them to act against their will. It can also be part of compound words such as 'sundida', which means to coerce."
 }

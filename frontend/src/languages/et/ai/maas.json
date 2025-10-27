@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma elan maas.",
-    "Ta on maast.",
-    "Me elame maal."
+    "Maal on ilus aed.",
+    "Me elame maas, mitte linnas.",
+    "Mees viibis kaks nädala maas."
   ],
   "translation": [
-    "land",
-    "earth",
-    "soil"
+    "country"
   ],
-  "context": "The word 'maas' in Estonian generally refers to land or earth, and is often used in contexts related to geography, nature, or property."
+  "context": "'maas' refers to the rural countryside as opposed to urban areas. It is used to describe living in or being located in a non-urban area with more open space and agriculture."
 }

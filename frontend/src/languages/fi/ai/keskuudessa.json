@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Talo on kaupungin keskuudessa.",
-    "Hän asuu perheensä keskuudessa.",
-    "Tapaus sai paljon huomiota yleisön keskuudessa."
+    "Oli hyvin hiljaa keskuudessa.",
+    "Hän odotti paikallaan keskuudessa.",
+    "Keskuudessa oli kova ääni."
   ],
   "translation": [
-    "among",
-    "amidst"
+    "in the middle",
+    "at the center",
+    "in the core"
   ],
-  "context": "The word 'keskuudessa' is a Finnish inessive case suffix indicating a location within something, often translated to English as 'among', 'amidst', or 'in the middle of'."
+  "context": "The word 'keskuudessa' refers to a central point or position, commonly used in both physical and metaphorical contexts such as being in the middle of something or at the heart of an issue."
 }

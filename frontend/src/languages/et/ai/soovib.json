@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma soovin sulle õnne",
-    "Ta on alati soovinud reisida",
-    "Soovib mind tervitada"
+    "Ta soovib minu sõbra.",
+    "Minu ema soovib kohvile pihlakaid.",
+    "Kas sa soovid tänast koos mind?"
   ],
   "translation": [
-    "wishes",
-    "desires",
-    "longs for"
+    "wants",
+    "desires"
   ],
-  "context": "The word 'soovib' is a verb in Estonian that means to wish or desire something, and it is commonly used in sentences to express someone's wants or needs."
+  "context": "'soovib' means 'wants' or 'desires'. It is commonly used to express a wish for something, whether it be an object, activity, or outcome. The verb can take different forms in sentences depending on the subject and context."
 }

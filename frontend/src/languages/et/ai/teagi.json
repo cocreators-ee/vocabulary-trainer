@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean, et sa oled õige.",
-    "Ta ei tea midagi sellest asjast.",
-    "Kas sa tead, kus on lähim bussipeatus?"
+    "Teagi mulle, mida sa tean.",
+    "Mina ei tea, mis see tähendab; aitagi mind, teagi mulle!",
+    "Tema põhjustas kriisi ja ei soovi midagi teada; jahutan, et teagi midagi."
   ],
   "translation": [
-    "know",
-    "be aware of",
-    "have knowledge of"
+    "Tell",
+    "Inform"
   ],
-  "context": "The Estonian word 'teagi' is a form of the verb 'teada', which means 'to know'. It’s used to express awareness of facts, information, or skills. In English, it functions similarly to ‘know’, ‘be aware of’, or ‘understand’."
+  "context": "The word 'teagi' is the second person singular imperative form of the verb 'teha,' which means 'to do.' However, in this context and in everyday usage, it can be more accurately translated as 'tell' or 'inform.' It is used to instruct someone to convey information. The imperative form implies a request or command."
 }

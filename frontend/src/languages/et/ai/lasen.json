@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lasen raamatut.",
-    "Ta lasi kirja lauale.",
-    "Lase mind korrata."
+    "Ma lasen sind minema.",
+    "Ta laseb meil jääda.",
+    "Lased sa mind lihtsalt öelda?"
   ],
   "translation": [
-    "read",
-    "let",
-    "allow"
+    "I let you go",
+    "He lets us stay",
+    "Are you letting me just say?"
   ],
-  "context": "The Estonian word 'lasen' has multiple meanings depending on the context. It can mean 'to read', but also 'to let' or 'to allow'. The verb is often used in everyday conversation and appears in various grammatical forms."
+  "context": "'Lasen' is the first person singular form of 'lasma', meaning to allow or let in Estonian. It's used to indicate giving permission or allowing someone to do something."
 }

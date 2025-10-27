@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tegi seda endalt küsida.",
-    "Ma ei saa aru, miks sa käitud endalt nii.",
-    "See oli tema endalt ootamatu."
+    "Tema arvates tõestab see endalt.",
+    "Ma ei tea, kuidas tean, aga ma tean seda endalt.",
+    "See tundus minu eneseastmest, mitte endalt."
   ],
   "translation": [
-    "from himself/herself",
-    "on his/her own",
+    "from oneself",
     "by oneself"
   ],
-  "context": "The Estonian word 'endalt' is a reflexive pronoun indicating that the action of the verb is performed by the subject on themselves. It’s similar to ‘himself’, ‘herself’, ‘itself’, or ‘ourselves’ in English, but it can also indicate doing something independently or spontaneously."
+  "context": "The word 'endalt' is a pronoun form used in Estonian to indicate something comes from oneself or is done by oneself. It often appears in reflexive constructions and emphasizes the source of an action or feeling as internal rather than external."
 }

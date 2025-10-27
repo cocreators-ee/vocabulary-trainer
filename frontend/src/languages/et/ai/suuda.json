@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma suudan seda teha",
-    "Ta suutis mind aidata",
-    "Nad suudavad meid hõlpsasti jagada"
+    "Ta ei suuda pidada külma peale.",
+    "Ma ei suuda uskuda oma kõradeni.",
+    "Kas sa suudad seda teha?"
   ],
   "translation": [
-    "manage to",
-    "succeed in doing something"
+    "can",
+    "be able to",
+    "manage"
   ],
-  "context": "The word 'suuda' is commonly used in Estonian to express the ability or capacity to accomplish something, and it can be translated to English as 'to manage to' or 'to succeed in doing something'."
+  "context": "'Suuda' refers to the ability or capacity to do something. It is commonly used in everyday speech when talking about one's capabilities or the possibility of an action being performed."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Veli tuli meille käymään.",
-    "Hänen veljensä on lääkäri.",
-    "Olen iloinen voidessani auttaa veljeäni."
+    "Velini tuli eilen kotiin.",
+    "Minulla on yksi veli.",
+    "Oletko veli?"
   ],
   "translation": [
-    "brother",
-    "sibling"
+    "brother"
   ],
-  "context": "The word 'veli' in Finnish refers to a male sibling, and it is commonly used to address or refer to one's brother."
+  "context": "The word 'veli' refers to a male sibling. It is commonly used in everyday Finnish to talk about brothers."
 }

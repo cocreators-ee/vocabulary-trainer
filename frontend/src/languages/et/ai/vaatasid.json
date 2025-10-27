@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma vaatasin teda.",
-    "Sa vaatasid mind.",
-    "Me vaatasime filme."
+    "Ta vaatasid filmi koos oma sõbra.",
+    "Kas sa vaatasid uut teleseriaali?",
+    "Ma ei ole veel vaatasid see sait."
   ],
   "translation": [
     "watched",
-    "looked"
+    "saw"
   ],
-  "context": "The word 'vaatasid' is the second person plural past tense form of the Estonian verb 'vaatama', which means to watch or look at something."
+  "context": "'vaatasid' is the past tense second person singular form of 'to watch' in Estonian. It's commonly used when talking about watching movies, TV shows or videos. The same verb can mean both 'watched' and 'saw', depending on context."
 }

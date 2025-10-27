@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minä ei syö kalaa",
-    "Hän ei ole kotona",
-    "Me emme voi tulla"
+    "Ei kiitos.",
+    "Ehkä ei ole ikinä liian vanhaa nauttimaan elämästä.",
+    "Tätä ei voi unohtaa."
   ],
   "translation": [
     "no",
-    "not"
+    "not",
+    "do not"
   ],
-  "context": "The word 'ei' is commonly used in Finnish as a negation, similar to 'no' or 'not' in English, and it is often used to indicate the absence or negation of something."
+  "context": "The word 'ei' is used in Finnish to express negation. It corresponds to the English words 'no', 'not', or 'do not'. Commonly, it appears before verbs to negate sentences and phrases."
 }

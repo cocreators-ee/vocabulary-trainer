@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen selliseks kasvanud",
-    "Ta on selliseks muutunud",
-    "See on selliseks jäänud"
+    "Miks sa see selliseks tegid?",
+    "See pole mitte midagi selliseks.",
+    "Ma ei soovi seda selliseks muuta."
   ],
   "translation": [
     "such",
-    "like this"
+    "like that",
+    "in this way"
   ],
-  "context": "The word 'selliseks' is an Estonian adverb that means 'such' or 'like this', used to describe a state or condition."
+  "context": "The word 'selliseks' in Estonian is used to describe something as being of a particular kind or in a specific manner. It can be translated to English as 'such', 'like that', or 'in this way'. This term is commonly used when referring to characteristics, states, or methods."
 }

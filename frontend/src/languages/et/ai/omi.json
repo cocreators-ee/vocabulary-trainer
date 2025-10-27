@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on minu omi",
-    "Omi tuli meile külla",
-    "Minu vanaomi elab Pärnus"
+    "Tema ja muu omad asjad läksid kaotusse.",
+    "Mina ja tema meeldivad koos teiega oma omandega.",
+    "Kas sa tean, et sul on su omandega see mõte?"
   ],
   "translation": [
-    "grandma",
-    "granny"
+    "our"
   ],
-  "context": "The word 'omi' is used to refer to one's grandmother in Estonian, similar to how 'grandma' or 'granny' would be used in English."
+  "context": "'omi' is a possessive pronoun in Estonian meaning 'our'. It's used to show possession when referring to something that belongs to the speaker and others."
 }

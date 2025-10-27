@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Se koskettaa sydäntäni",
-    "Hän kosketti minua kädestä",
-    "Tämä asia koskee meitä kaikkia"
+    "Tämä ei ole koskaan ollut tarkoitettu sinun ympärilleen.",
+    "Hänellä on erityinen kyky koskettaa ihmisiä syvällisesti.",
+    "Älä kokeile rikkoa sääntöjä. Se koskettaa meitä kaikkia."
   ],
   "translation": [
-    "touches",
-    "concerns",
-    "affects"
+    "touch",
+    "affect"
   ],
-  "context": "The word koskettaa is a verb that means to touch or affect something, and it can be used in different contexts to convey the idea of physical or emotional contact."
+  "context": "The Finnish verb 'koskettaa' is commonly used to mean 'to touch' physically, but it can also be used in a figurative sense to imply that something affects or touches someone emotionally. In the first example sentence, it's used metaphorically to express that something has never been meant for a person. The second shows how it's used to describe someone who deeply connects with people. The third uses it to indicate that breaking rules impacts everyone."
 }

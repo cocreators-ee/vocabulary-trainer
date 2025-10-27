@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean nendest asjadest.",
-    "Nendest raamatutest on võib-olla kümme head.",
-    "Ta räägib nendest oma sõpradega."
+    "Mina ladin poodist nendest kõrgedest laudadelt.",
+    "Näha on nendest aegade tähemärke.",
+    "Ostsin need kingitused, kuid ma ei saa mõista nendest."
   ],
   "translation": [
-    "of these",
-    "from these",
-    "about these things"
+    "these",
+    "from these (things)",
+    "of these"
   ],
-  "context": "The word nendest is a pronoun in Estonian that means of these or from these, used to refer to a group of people or things previously mentioned."
+  "context": "'nendest' is the Estonian word for 'these,' used to refer to specific things that are near in space or time. It can also be used as a prepositional form meaning 'from these.' The examples show different contexts where it's commonly used."
 }

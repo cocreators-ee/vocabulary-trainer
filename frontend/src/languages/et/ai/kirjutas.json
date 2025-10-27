@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kirjutasin kirja.",
-    "Ta kirjutas artikli.",
-    "Nad kirjutasid meile."
+    "Ta kirjutas laulule disainitud sõnade esimese versiooni.",
+    "Tema eestimaalne tantsuansambel on kirjutas üsna hästi.",
+    "Ma tundsin, et kui ma tean keele grammatikat ja ma tunnen mu mune ja olen valmis kirjutas vajadusel."
   ],
   "translation": [
     "wrote"
   ],
-  "context": "The word 'kirjutas' is the simple past tense of the Estonian verb 'kirjutama', which means to write. It is commonly used in sentences to describe the act of writing something, such as a book or an article."
+  "context": "is the past tense of the verb 'kirjutama', meaning to write"
 }

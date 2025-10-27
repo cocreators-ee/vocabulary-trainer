@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma proovin seda küsimust vastata.",
-    "Proovida tähendab eesti keeles midagi katsetada.",
-    "Ta proovib uut toitu."
+    "Ta proovis uut retsepti.",
+    "Me peame selle seadme eel esmalt proovima.",
+    "Kas sa soovid mõnda teed kohviga proovida?"
   ],
   "translation": [
     "to try",
     "to test"
   ],
-  "context": "The word 'proovida' in Estonian means to try or test something, and it is commonly used in everyday conversations to describe the act of attempting or experimenting with something new."
+  "context": "'Proovida' means to try or test something. It is commonly used when trying out new foods, testing devices, or experimenting with different methods."
 }

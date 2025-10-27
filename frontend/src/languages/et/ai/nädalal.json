@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma töötan nädalal kuus päeva.",
-    "Ta on olnud haigeks terve nädalal.",
-    "Nädalal enne seda oli ilm välja löönud."
+    "Tema pere tõusis varem kui ta nädalal üldse.",
+    "Minu lemmikfilm on alati erinev, sõltub millest ma just kinni jään näha nädalal.",
+    "Ta tegelikult elas nädalal inimese elus."
   ],
   "translation": [
-    "week",
-    "during the week"
+    "during the week",
+    "in the course of a week",
+    "on weekdays"
   ],
-  "context": "The word nädalal is a postposition meaning during the week or for a week, often used to describe actions or events happening at some point within a seven-day period."
+  "context": "The Estonian word 'nädalal' is used to express time frames related to a week. It can mean during the week, or on weekdays depending on context, and is commonly used in daily conversations regarding schedules, events, or habitual actions."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Laevale tuleb oodata.",
-    "Laeva peab valmistama laevale.",
-    "Me ei saa laevale minna."
+    "Minu ema on laevale kohal.",
+    "Päikeseloojanguks me kavandame laevale minemist.",
+    "Kas saate pakkuda laevale jõudmise meetodeid?"
   ],
   "translation": [
-    "to the ship",
-    "for the ship"
+    "on board the ship",
+    "by sea / to travel by sea"
   ],
-  "context": "The word 'laevale' is a prepositional phrase in Estonian that indicates something is intended for or directed towards a ship, often used to describe actions or objects related to a vessel."
+  "context": "'laevale' is used as a prepositional case indicating being on or traveling via a ship. It's commonly seen in phrases like 'minema laevale' (to go on/aboard a ship) and often follows certain verbs related to movement."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta valis roosa kleidi",
-    "Roosad lilled on ilusad",
-    "Roosa on minu lemmikvärvi variant"
+    "Tema lemmikvärv on roosa.",
+    "Ta kandis roosast sõrmust.",
+    "Roosad õied olid türkide käes."
   ],
   "translation": [
     "pink",
-    "rose"
+    "rose (flower)",
+    "rose-colored"
   ],
-  "context": "The word roosa refers to the color pink in English and is commonly used to describe objects or clothing that have a pink hue."
+  "context": "'roosa' refers to the color pink or the flower rose. It can also be used in phrases like 'rose-colored glasses' meaning having an overly optimistic view of something."
 }

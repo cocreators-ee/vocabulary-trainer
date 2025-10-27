@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Päästsid meid!",
-    "Nad päästsid tüdruku tulekahjust.",
-    "Politsei päästis lapse liiklusõnnest."
+    "Päeval päästsid lemmikloomu kui ta oli piinatud taevas all.",
+    "See inimene usub, et ta päästis oma elu juhul, kus ta said olla surmavalt haigustada.",
+    "Rohkem kui 100 inimest päästsid põlengu järgselt. (More than 100 people were saved following the fire.)"
   ],
   "translation": [
+    "you saved",
     "saved",
-    "rescued",
-    "delivered"
+    "to save"
   ],
-  "context": "The Estonian word 'päästsid' is the past tense, third-person plural form of the verb 'päästa', which means 'to save' or 'to rescue'. It’s commonly used to describe an action where someone or something is saved from a dangerous situation."
+  "context": "The word 'päästsid' is a past tense verb meaning you saved, or someone else saved. It comes from the Estonian verb 'päästa', which means to save or rescue. The form here is used when addressing someone directly (you saved) or describing an action completed by another person or people in the past."
 }

@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma arvan, et taevas on sinine.",
-    "Nad arvasid, et see oli hea mõte.",
-    "Kas sa arvad, et me võidame?"
+    "Ma usun, et arvad see on õiglane.",
+    "Ta ei tea, kuidas meie arvame.",
+    "Meil on erinevad arvad."
   ],
   "translation": [
-    "think",
-    "believe",
-    "guess",
-    "suppose"
+    "opinion",
+    "view",
+    "belief"
   ],
-  "context": "The verb 'arvate' in Estonian translates to 'think', 'believe', or 'guess' in English. It expresses an opinion or assumption about something and is commonly used when someone isn't certain about a fact."
+  "context": "The word 'arvate' in Estonian refers to a person's opinion or belief about something. It is commonly used in discussions and debates where people express their views."
 }

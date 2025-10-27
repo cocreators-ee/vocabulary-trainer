@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin talle pai, et ta ei oleks nii halb meel.",
-    "Sa pead oma asjad korda seadma, muidu on teil kõigil raske.",
-    "Neil oli palju probleeme."
+    "Teile on aitab.",
+    "Kas saad teile soovi?",
+    "Olen teie pank tellinud."
   ],
   "translation": [
-    "to him",
     "you (plural)",
-    "them"
+    "to you (plural)"
   ],
-  "context": "The word 'teile' is a dative plural pronoun in Estonian. It can mean 'to you (plural)' or 'to them', depending on the context. It indicates that something is being given or done *for* a group of people."
+  "context": "Used to refer to 'you' when addressing multiple people or one person formally. It can also mean 'to you' in certain contexts."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Nad annavad mulle head võimalused.",
-    "Ta annab õpetusi, kuidas seda teha.",
-    "Meie anname talle abi."
+    "Mina olen inimene, kes annab.",
+    "Tema perekond alati annavad midagi nende sõpradele.",
+    "Kas sa tõesti tahad, et nad peaksid mind annavateks?"
   ],
   "translation": [
     "give",
-    "offers",
-    "provide"
+    "grants",
+    "donate"
   ],
-  "context": "The word 'annavad' is a verb in Estonian that means to give or offer something to someone. It is commonly used in sentences to describe the act of providing or offering something, whether it be physical objects, help, or opportunities."
+  "context": "The verb 'annavad' in Estonian is used to denote the act of giving something. It can be applied in various contexts such as donating items, granting privileges, or simply offering something to someone else."
 }

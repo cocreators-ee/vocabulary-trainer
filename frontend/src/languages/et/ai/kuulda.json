@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kuulen muusikat.",
-    "Kuule mind!",
-    "Ta kuulis seda eile."
+    "Olen alati valmis kuulama.",
+    "Ta soovib midagi kuulda.",
+    "Plekid vajavad end kuulda."
   ],
   "translation": [
     "to hear",
+    "sound",
     "listen"
   ],
-  "context": "The word kuulda is commonly used in Estonian to mean hearing or listening to something, and it can be used in different forms such as kuulen, kuule, and kuulis to convey the same meaning."
+  "context": "Kuulda can mean to listen, to hear or sound depending on context. It's primarily used in the sense of hearing something or someone attentively."
 }

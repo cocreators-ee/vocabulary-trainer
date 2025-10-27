@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tähendan seda väga tõsiselt.",
-    "Tähendama on see, et me peame olema kannatad.",
-    "Selle lause tähendama on selgelt öeldud."
+    "See tähendab, et ta jääb siia.",
+    "Ma olen kindel, et see tähendama seda, mida sa öeldud.",
+    "Kas sa tead, mida see sõna tähendama?"
   ],
   "translation": [
     "to mean",
-    "meaning"
+    "mean"
   ],
-  "context": "The word 'tähendama' in Estonian means to signify or convey a meaning, and it is commonly used in sentences to express the intention or interpretation of something."
+  "context": "'Tähendama' is the infinitive form of the verb 'to mean' in Estonian. It's used to express that something has a certain meaning or signifies something else."
 }

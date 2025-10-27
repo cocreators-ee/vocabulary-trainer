@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta räägib eesti keelt.",
-    "Ma olen kuulnud, et ta räägib hästi inglise keelt.",
-    "Räägib tema sõber praegu temaga?"
+    "Ta räägib palju.",
+    "Räägi vaiksemalt!",
+    "Kas sa räägid soome keelt?"
   ],
   "translation": [
-    "speaks",
-    "talks",
-    "says"
+    "speaks"
   ],
-  "context": "The word 'räägib' is a verb in Estonian that means to speak or talk, and it is commonly used in sentences to describe someone communicating in a language."
+  "context": "Used to describe the act of speaking or talking in Estonian."
 }

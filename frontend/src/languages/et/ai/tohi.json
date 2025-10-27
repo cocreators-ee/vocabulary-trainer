@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tohin seda teha.",
-    "Ta on hea inimene, kellele tohi usaldada.",
-    "See on asi, millele ma ei tohi vaadelda."
+    "Tohikin teada.",
+    "Sinu tohis on ebaõiglane.",
+    "Mulle tundub, et ta lihtsalt ei mõista sind ja väidab oma tohit."
   ],
   "translation": [
-    "may",
-    "can",
-    "allowed to"
+    "right",
+    "opinion",
+    "view"
   ],
-  "context": "The word 'tohi' is commonly used in Estonian to express permission or allowance, similar to the English words 'may' or 'can'."
+  "context": "In Estonian, 'tohi' refers to a person's right or opinion on something. It can also mean one's personal view or belief about an issue."
 }

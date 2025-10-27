@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on hea pede.",
-    "Pede on tore mees.",
-    "Ma ei tea, mis pede teeb."
+    "Tema jalad hakkasid peda.",
+    "Ta pedas kui jõul saabas.",
+    "Pidev voolikas teekond sunnib mind pedama."
   ],
   "translation": [
-    "boy",
-    "guy"
+    "to walk with difficulty, to stumble"
   ],
-  "context": "The word 'pede' in Estonian generally refers to a boy or a young man, and it is commonly used in informal settings."
+  "context": "The word 'peda' in Estonian is a verb meaning to walk with difficulty, as if one's feet are not cooperating. It describes the act of stumbling or shuffling along, often due to tiredness, illness, or intoxication."
 }

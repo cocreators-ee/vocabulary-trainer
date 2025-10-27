@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen dušši alla.",
-    "Ta armastas kuuma dušši võtta.",
-    "Dušši vesi oli liiga külm."
+    "Maja sees on väike dušši mustvalge mustriga.",
+    "Ta paneks raamatu peale dušši, et see ei jääks külma põhja kinni.",
+    "Duššid aitavad meeldivat õhkkonda luua sõltumata ruumi suurusest."
   ],
   "translation": [
-    "shower",
-    "to shower"
+    "cushion"
   ],
-  "context": "The word 'dušši' in Estonian refers to a shower, both the act of showering and the fixture itself. It is commonly used when talking about personal hygiene or cleaning oneself."
+  "context": "'Dušši' refers to a cushion or a small pillow used for comfort or decoration."
 }

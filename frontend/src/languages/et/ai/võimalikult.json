@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma proovin seda võimalikult kiiresti teha",
-    "Ta ütleb, et see on võimalikult hea variant",
-    "Me peame selle võimalikult palju kordi tegema"
+    "Tema õppimiseks on antud võimalikult palju aega.",
+    "Meil on vaja teha sellest ülesanne võimalikult lihtne.",
+    "Ta tahtis lõpetada projekti võimalikult kiiresti."
   ],
   "translation": [
-    "as soon as possible",
-    "as much as possible"
+    "as much as possible",
+    "as easy as possible",
+    "as quickly as possible"
   ],
-  "context": "The word võimalikult is an adverb in Estonian that means to the greatest extent possible or as soon as possible, often used to indicate that something should be done quickly or to a high degree."
+  "context": "The Estonian word 'võimalikult' is used to emphasize the degree or extent of something, similar to phrases like 'as...as possible' in English. It modifies adjectives and adverbs."
 }

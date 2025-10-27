@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on ehtne nahk.",
-    "Ta on ehtne kunstnik.",
-    "Ehtne sõprus on haruldane."
+    "Kui see on ehtne, siis kõik jääb rahulikuks.",
+    "Ta pidi andma ehtne vastuse.",
+    "Ei saa teada, kas info on tõeselt ehtne."
   ],
   "translation": [
-    "genuine",
-    "authentic",
-    "real"
+    "valid",
+    "legitimate",
+    "bona fide"
   ],
-  "context": "The word 'ehtne' in Estonian is used to describe something that is genuine, authentic, or real. It implies a lack of artificiality or pretense and can be applied to objects, people, emotions, or experiences."
+  "context": "'ehtne' in Estonian describes something that is legally valid or legitimate. It often refers to documents, processes, or reasons being officially recognized as correct and acceptable within the law or established rules."
 }

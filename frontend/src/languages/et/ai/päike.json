@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Päike tõuseb idast.",
-    "Ta armastab päikesepaistet.",
-    "Päikesevalgus on väga soe."
+    "Päike tõusis taevasse.",
+    "Päikeseloojanguks said meie kodu külalisteks.",
+    "Päikesevalguses leidis ta teed oma südames."
   ],
   "translation": [
-    "sun",
-    "sunlight"
+    "sun"
   ],
-  "context": "The word 'päike' refers to the sun, commonly used to describe the star at the center of our solar system or sunlight in general."
+  "context": "Päike refers to the sun in Estonian. It is commonly used in everyday language and can also appear in poetic or metaphorical contexts."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma käin koju",
-    "Sa käid üksi",
-    "Me käime kinno"
+    "Olen juba päris palju käinud.",
+    "Ta käis juurde tulemas vaid kolm korda.",
+    "Kas sa oled kunagi selle linnaga käinud?"
   ],
   "translation": [
-    "I went",
-    "you go",
-    "we are going"
+    "to be going",
+    "went (past tense)",
+    "have you been to"
   ],
-  "context": "The word käin is the first person singular form of the verb käima, which means to go or to walk in Estonian. It is commonly used to describe the act of moving from one place to another on foot."
+  "context": "'käin' is a form of the verb 'kanda,' which means 'to carry.' In these examples, it is used in different contexts such as 'to go somewhere by walking or traveling,' particularly when indicating past experiences or actions."
 }

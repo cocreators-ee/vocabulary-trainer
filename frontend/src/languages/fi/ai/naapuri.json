@@ -1,13 +1,11 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Naapuri oli ystävällinen.",
-    "Hän meni naapurin luokse.",
-    "Meidän naapureita ovat englantilaisia."
+    "Naapurini kutsui minut pihalle juhlimaan hänen pojansa syntymäpäivää."
   ],
   "translation": [
-    "neighbor"
+    "neighbour"
   ],
-  "context": "The word naapuri refers to a person living nearby, often in an adjacent house or apartment, and is commonly used to describe someone with whom one has a close relationship due to their physical proximity."
+  "context": "'naapuri' means 'neighbour'. It refers to a person who lives near you."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Välitön tuki on tarpeen",
-    "Hänellä on välitön vaikutus ihmisin",
-    "Tämä on välitön seuraus"
+    "Kyllä, välittömästi.",
+    "Vähän veden kanssa ja välitön maun tuntuu kevyemmältä.",
+    "Tämä on varmasti yksi tärkeimmistä asioista, joiden kanssa olet välittömästi perehtynyt."
   ],
   "translation": [
     "immediate",
     "direct"
   ],
-  "context": "The word välitön is commonly used in Finnish to describe something that is immediate or direct, often referring to a prompt or instant action or effect."
+  "context": "The word 'välitön' is used to describe something that happens without delay or in a direct manner. It can refer to actions, communications, or effects that are prompt and straightforward."
 }

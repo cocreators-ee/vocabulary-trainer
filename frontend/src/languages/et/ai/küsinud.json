@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma küsinud talt abi.",
-    "Kas sa oled teda kunagi küsinud?",
-    "Ta on palju kordi seda küsinud."
+    "Ma olen küsinud teda juba mitu korda.",
+    "Temagi on varem küsitud sarnast küsimust.",
+    "Kas keegi on sulle kunagi midagi sellist küsinud?"
   ],
   "translation": [
-    "asked",
-    "inquired",
-    "questioned"
+    "asked"
   ],
-  "context": "The word 'küsinud' is the past active participle of the verb 'küsima', which means 'to ask'. It’s used to indicate that someone has asked a question or made an inquiry. In English, it translates directly to ‘asked’, but can also be expressed as ‘inquired’ or ‘questioned’ depending on the nuance."
+  "context": "The past participle of 'küsa', meaning to ask. It is used in forming the present perfect tense and can also function as an adjective."
 }

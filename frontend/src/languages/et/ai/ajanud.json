@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen ajanud autoga Tallinnast Tartusse.",
-    "Ta on ajanud palju võidusõite.",
-    "Ajad oli tihedalt pakitud."
+    "Olen juba kaks päeva ajanud kodus ja nüüd ma olen väga nukk.",
+    "Ta on pidevalt treeninud, kuid pole kunagi ajaanud tulemuste selgust.",
+    "Mina olin eile seal, kus nad juba kaks aastat ajanud selle projektiga tegutsid."
   ],
   "translation": [
-    "driven",
-    "drove"
+    "had"
   ],
-  "context": "The word 'ajanud' is the past participle form of the Estonian verb 'ajama', which means to drive, and it is commonly used in sentences to describe someone's experience or skill in driving vehicles."
+  "context": "The word 'ajanud' is the past participle form of the verb 'aja,' which means 'to have.' It is used in compound tenses to indicate that an action was completed before another time reference. For example, it appears in phrases like 'olen ajanud' (I have had) or 'on ajanud' (has had)."
 }

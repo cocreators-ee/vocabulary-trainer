@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen ühendust võtnud tema vanematega.",
-    "Ühendust ei saadud kunagi sisse seada.",
-    "Ta on hea ühendust looma."
+    "Ma vajutan nuppule, et saada ühendust.",
+    "Ta püüab alati suhinda kõigega, kellega ühendust võtab.",
+    "Kui sul on küsimusi, saad ühendust minuga."
   ],
   "translation": [
-    "connection",
-    "contact"
+    "contact",
+    "communication"
   ],
-  "context": "The word ühendust is a noun in Estonian that refers to a connection or contact between people, organizations, or systems, and it is commonly used in the context of communication, relationships, or networking."
+  "context": "The word 'ühendust' refers to establishing communication or contact with someone. It can be used in both literal and metaphorical contexts, such as making a phone call, sending an email, or engaging in conversation."
 }

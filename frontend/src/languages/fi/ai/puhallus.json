@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän antoi puhalluksen lasin reunalle.",
-    "Puhallus sai kiven liikkeelle.",
-    "Pieni puhallus riitti palon syttymiseen."
+    "Hänellä on iloinen puhallus äänestään.",
+    "Pian hän kuuli puhalluksen tuulesta.",
+    "Puhallus tuntui vahvalta käskyksi."
   ],
   "translation": [
-    "blow",
-    "gust",
-    "puff"
+    "breath",
+    "whisper"
   ],
-  "context": "The word 'puhallus' in Finnish refers to a gentle or soft blow of air, and it is commonly used to describe a small amount of air being blown on something, such as to extinguish a flame or to shape glass."
+  "context": "Puhallus typically means 'breath' in Finnish, as in the air that one exhales. It can also refer to a 'whisper,' especially when something is said very quietly or softly."
 }

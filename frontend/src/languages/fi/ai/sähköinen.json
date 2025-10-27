@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Sähköinen posti on nopeampi kuin perinteinen posti.",
-    "Hän on sähköinen insinööri.",
-    "Sähköinen musiikki on suosittua nuorten keskuudessa."
+    "Se on sähköinen kirja.",
+    "Sähköinen jännite oli liian korkea.",
+    "Hän osti sähköisen ajoneuvon."
   ],
   "translation": [
     "electronic",
-    "digital"
+    "electric"
   ],
-  "context": "The word sähköinen is an adjective in Finnish that means electronic or digital, and it is commonly used to describe things related to technology, such as electronic mail or digital music."
+  "context": "This word is an adjective used to describe something related to electricity or electronics. It can refer to devices, systems, or processes that use electric power or are based on electronic technology."
 }

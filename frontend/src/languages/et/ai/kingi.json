@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma kingin talle",
-    "Kingis on hea maitse",
-    "Ta tegi mulle kingi"
+    "Miks ta kingi siia?",
+    "Ta kartsis kinga jäle.",
+    "Ära kingi!"
   ],
   "translation": [
-    "gift",
-    "present"
+    "come here",
+    "to come here",
+    "here"
   ],
-  "context": "The word 'kingi' in Estonian refers to a gift or present that is given to someone, often as an act of kindness or appreciation."
+  "context": "The word 'kingi' is used to indicate coming to a specific place, often with an imperative or question form."
 }

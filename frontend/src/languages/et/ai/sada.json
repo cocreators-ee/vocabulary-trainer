@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen sada aastat vanem kui sina",
-    "Ta sai sada eurot",
-    "Sadaline on hea"
+    "Sada inimest tõid kodusse kaasa sörkimisega.",
+    "Ta tegi sadasid silmapiiril.",
+    "Kaks sada tühja boksi olid ladustatud laua alla."
   ],
   "translation": [
-    "hundred",
-    "one hundred"
+    "a hundred"
   ],
-  "context": "The word 'sada' is commonly used in Estonian to refer to the number one hundred, similar to how it is used in English."
+  "context": "Used to denote the quantity of 100."
 }

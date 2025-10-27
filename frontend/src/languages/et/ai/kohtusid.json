@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Nad kohtusid esimest korda koolis.",
-    "Kaks vanemat kohtusid jälle.",
-    "Meie kohtusime suvel."
+    "Kohtusin oma ema teel kooli.",
+    "Meie meeskond kohtus vastaste meeskonnaga turniiril.",
+    "Ta kohtusid oma vana sõbraga pärast aastakümneid."
   ],
   "translation": [
     "met",
+    "met with",
     "encountered"
   ],
-  "context": "The word kohtusid is the plural past tense form of the Estonian verb kohtuma, which means to meet or encounter someone. It is commonly used in sentences to describe when two or more people met each other."
+  "context": "The word 'kohtusid' is the past tense second person singular form of the verb 'kohtuda', which means to meet or encounter. It is commonly used in everyday situations, such as meeting someone by chance or arranging a meeting."
 }

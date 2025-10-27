@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tunnevad end väga hästi.",
-    "Ta tunneb sind väga hästi.",
-    "Nende inimeste vahel valitsevad head tunded."
+    "Minu sõbrad tunnevad imeliselt täna õhtul.",
+    "Ta tundub väga rahulik täna, kuid ma ei tea, kas ta tegelikult midagi tunneb.",
+    "Kui sa seda mõnda aega teed, saab see olla väga meeldiv tunne."
   ],
   "translation": [
     "feel",
+    "sense",
     "perceive"
   ],
-  "context": "The word \"tunnevad\" is a verb that means to feel or perceive something, and it is commonly used in Estonian language to describe emotions or sensations."
+  "context": "The word 'tunnevad' is the third person plural form of the verb 'tunda,' meaning to feel or sense something physically or emotionally. It is commonly used in everyday language when talking about physical sensations, emotions, and even abstract concepts like understanding."
 }

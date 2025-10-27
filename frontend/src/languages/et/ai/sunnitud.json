@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tundis end sunnitud tegema seda.",
-    "Nad olid sunnitud loobuma oma plaanidest.",
-    "Sunnitud naeratus ei varja valu."
+    "Olen sunnitud tegema seda.",
+    "Ta oli sunnitud tagasi tulema.",
+    "Mina olin sunnitud valikuga lepitama."
   ],
   "translation": [
-    "forced",
     "compelled",
+    "forced",
     "obliged"
   ],
-  "context": "The word 'sunnitud' in Estonian describes a situation where someone is forced or compelled to do something against their will. It implies a lack of freedom or choice, and can be used in various contexts such as being forced to take action, give up something, or even display a false emotion."
+  "context": "'Sunnitud' is used in Estonian to express being forced or compelled into an action by circumstances, someone else's will, or moral duty. It often implies a sense of inevitability or pressure applied from outside the person."
 }

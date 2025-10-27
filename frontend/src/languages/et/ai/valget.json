@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta võttis valge kleidi selga",
-    "Valged lilled on ilusad",
-    "Tal on valgete juustega koer"
+    "Ta soovis rohelist ja valget kohvi, ilma magususest arusaamata.",
+    "Tema juuksed olid kihistunud valget ja need vajasid pühkida.",
+    "Ma näha teda valget jaloga, aga ei saanud midagi teha."
   ],
   "translation": [
     "white"
   ],
-  "context": "The word valget is an adjective in Estonian that means white, and it is commonly used to describe objects or people that have a white color."
+  "context": "Valget is the partitive form of 'valge', meaning white in Estonian. It's used after verbs like need (to want), see (to see), and other prepositions that require partitive cases."
 }

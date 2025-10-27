@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.1,
   "understood": true,
   "sentences": [
-    "Ta on ausus mees.",
-    "Aususega võidab üldiselt armastus.",
-    "Ausus on hea omadus."
+    "\"Auses on\", ütles ta.",
+    "\"Ausust ei saa teha,\" tõestas nad.",
+    "Ta ausus oli tundlikkuse märk."
   ],
   "translation": [
-    "courage",
-    "bravery"
+    "Truthfulness",
+    "Honesty"
   ],
-  "context": "The word 'ausus' in Estonian refers to the quality of being brave or courageous, and is commonly used to describe someone who is willing to take risks or face challenges head-on."
+  "context": "This word refers to the quality of being honest and straightforward in one's dealings with others. It is often used to describe a person who does not deceive or hide things, and speaks clearly about their thoughts and feelings."
 }

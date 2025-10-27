@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Päikese kiirtab põhja.",
-    "Ta võttis päikeseprillid jalga.",
-    "Päikesepaisteliste ilmad on tavalised suvel."
+    "Päikese käes läheb kõik valgeks.",
+    "Kui sul on päikese kirdus silmadesse, siis vajuta oma saapaid.",
+    "Lumetada järgi tõuseb päikese tagune."
   ],
   "translation": [
-    "sun",
-    "sunlight"
+    "of the sun",
+    "sun's"
   ],
-  "context": "The word refers to the star around which the Earth orbits, and is commonly used to describe a source of light or warmth in Estonian."
+  "context": "This word is a genitive form of 'päike', meaning 'sun'. It translates to either 'of the sun' or 'sun's' in English and is used in contexts relating to light, weather, or celestial references."
 }

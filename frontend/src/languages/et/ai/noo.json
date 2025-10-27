@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ma tean seda noo.",
-    "See on väga noo idee.",
-    "Noo, mis sa teed?"
+    "Mulle tundub, et see noo ei sobi seal.",
+    "Ta pani suvalt noo oma käes ja lahkus.",
+    "Need nood on väga halvasti paigutatud."
   ],
   "translation": [
-    "know",
-    "new",
-    "well"
+    "stick",
+    "rod"
   ],
-  "context": "The word 'noo' in Estonian can have multiple meanings depending on the context. It commonly translates to 'know', but it can also mean 'new' or be used as an interjection similar to 'well'. It is a versatile word with frequent usage in everyday conversation."
+  "context": "The word 'noo' in Estonian translates to 'stick' or 'rod'. It is commonly used to refer to a long, thin piece of wood or similar material. The examples show different contexts where the stick might be mentioned as an object."
 }

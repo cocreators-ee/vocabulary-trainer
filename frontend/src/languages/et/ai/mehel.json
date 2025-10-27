@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen mehel",
-    "Ta on hea mees",
-    "Mehed on tööl"
+    "Jäin mehel ööd läbi.",
+    "Kui ma jään mehli nendama?",
+    "Mehl elab lõuna poolt."
   ],
   "translation": [
-    "husband",
-    "man"
+    "at the man's place",
+    "in the man's house",
+    "with a/the man"
   ],
-  "context": "The word 'mehel' in Estonian refers to a husband or a man, and it is commonly used in various contexts to denote a male person or a spouse."
+  "context": "'mehel' is an Estonian word meaning 'at the man's place', 'in the man's house', or 'with a/the man'. It can be used to indicate presence, location, or association with a male person."
 }

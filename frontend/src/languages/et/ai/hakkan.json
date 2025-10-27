@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma hakkan arukat, et see on hea mõte.",
-    "Ta hakkas joonistama pilti.",
-    "Nad hakkavad homme reisi peale."
+    "Olen hakkanud õppima uusi keeli.",
+    "Ta hakkas tööle varakult homsest päeva.",
+    "Järgmisel nädalal planeerime hakama uue projekti."
   ],
   "translation": [
     "begin",
-    "start",
-    "commence"
+    "start"
   ],
-  "context": "The Estonian word 'hakkan' is a verb that expresses the beginning of an action or state. It’s similar to ‘to begin’ or ‘to start’ in English, and often implies initiating something new."
+  "context": "This word is commonly used as a past tense form in Estonian, often seen in the context of having started or begun to do something. It's typically part of a compound verb form indicating the beginning of an action."
 }

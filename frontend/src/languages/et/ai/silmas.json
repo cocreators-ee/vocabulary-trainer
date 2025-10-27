@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on silmas peidetud",
-    "Ma ei näe teda silmaga",
-    "See on silmas peitetud"
+    "Ma pean silmas, et kõik on korras.",
+    "Tema silmas näha muret.",
+    "Ära vaata vaid silma-silma."
   ],
   "translation": [
-    "in sight",
+    "eyes",
     "in mind",
-    "at a glance"
+    "mind"
   ],
-  "context": "The word 'silmas' in Estonian generally refers to something being within one's sight or mind, and it is often used in expressions related to visibility, attention, or consideration."
+  "context": "The word 'silmas' in Estonian can refer to the physical eyes, as well as figurative expressions like having something in mind or looking directly into someone's eyes."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta vaatas mulle silmade",
-    "Ma tundsin end silmade all",
-    "Nad olid muutunud tema silmade"
+    "Ta pani silmadel selle peale.",
+    "Mina näha kõikjal silmadega.",
+    "Silmade avamine oli teda valvas."
   ],
   "translation": [
     "eyes",
-    "with eyes",
-    "in the eyes of"
+    "with eyes"
   ],
-  "context": "The word 'silmade' is a genitive plural form of the Estonian word for 'eye', and it is commonly used to refer to something that is seen or perceived through the eyes."
+  "context": "'silmade' is the illative form of 'silmad,' meaning 'eyes.' It is used to indicate using one's eyes for an action, as in seeing something or observing someone."
 }

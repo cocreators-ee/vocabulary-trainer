@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen maale.",
-    "Ta elab maal.",
-    "Meie oleme maalt."
+    "Minema maale.",
+    "Ta siis läheb kooli ja seejärel maale.",
+    "Ma tahan minna maale."
   ],
   "translation": [
-    "to the countryside",
-    "rural area"
+    "home"
   ],
-  "context": "The word 'maale' in Estonian generally refers to moving or going to a rural area or the countryside, often implying a change of location from an urban setting to a more natural or serene environment."
+  "context": "This word is commonly used to refer to 'home' in the sense of returning home or going home, as well as in compound expressions such as hometown."
 }

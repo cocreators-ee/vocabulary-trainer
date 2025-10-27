@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on kinnitatud ametisse.",
-    "Kinnitatud dokument on saadetud.",
-    "See on kinnitatud tõde."
+    "Minu meel on kinnitatud sind suunas.",
+    "Aktsia hind on jäänud kinnitatud samale tasemele.",
+    "Mingi asja toatemperatuur peab olema kinnitatud."
   ],
   "translation": [
     "confirmed",
-    "verified",
-    "certified"
+    "secured",
+    "fixed"
   ],
-  "context": "The word kinnitatud in Estonian means confirmed or verified, and it is commonly used to describe something that has been officially approved or validated."
+  "context": "'kinnitatud' is commonly used in Estonian to describe something that has been confirmed, secured, or fixed into place. It can refer to both physical objects and abstract concepts such as decisions or prices."
 }

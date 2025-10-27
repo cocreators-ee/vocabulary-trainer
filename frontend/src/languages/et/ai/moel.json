@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on väga moel tundlik.",
-    "Moel muutuvad asjad pidevalt.",
-    "See moel käitumine ei ole vastuvõetav."
+    "Minu lemmiklugu kuulasin oma vanema moel.",
+    "Ta liigub kõrval, nagu oleks ta arusaamatu luge mõlul voolav",
+    "Kas sa oled kunstnik ja loodad mõlel oma teoses?"
   ],
   "translation": [
-    "fashion",
-    "style",
+    "way",
     "manner",
-    "way"
+    "mode"
   ],
-  "context": "The Estonian word 'moel' is commonly used to refer to fashion or style, but can also mean a manner of doing something. It’s similar in usage to the English words ‘fashionably’ or ‘in style’, and sometimes simply ‘way’."
+  "context": "The word 'moel' in Estonian means 'in a way' or 'by the manner of'. It is used to describe how an action is performed, similar to saying 'in a certain way'."
 }

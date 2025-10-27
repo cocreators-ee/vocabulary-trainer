@@ -1,15 +1,13 @@
 {
-  "confidence": 0.6,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen kuramusele vaatama näitust.",
-    "Kuramuse külastamine on alati põnev kogemus.",
-    "See kuramuse maja on väga vana."
+    "Mäletad mind, ma olin see tüdruk, kes saalis sind kuu aega enne sinu kuramuse seisu.",
+    "Avalik mõistmine ja kuramused olid tavapärane relv täna päeval.",
+    "Kuramustepalverid jäävad siiani mälestusmärgiks sellest ajast."
   ],
   "translation": [
-    "museum",
-    "art gallery",
-    "exhibition hall"
+    "curse"
   ],
-  "context": "The word 'kuramuse' in Estonian refers to a museum or an art gallery. It is commonly used to describe a place where artistic or historical artifacts are displayed and preserved for public viewing."
+  "context": "This is a noun referring to a curse or an imprecation. It can be used in the context of historical events, religious practices, or even modern expressions when someone wishes misfortune upon another person"
 }

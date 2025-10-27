@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen kell kuue juures.",
-    "Kella helin ärgitas mind.",
-    "Ta müügikella tagasi."
+    "Kui kell läheb?",
+    "Minu kella on murdunud.",
+    "Pole lihtne öelda, millal see toimub, aga arvan, et umbes kell üks."
   ],
   "translation": [
     "clock",
-    "bell"
+    "o'clock"
   ],
-  "context": "The word 'kell' in Estonian generally refers to a clock or a bell, and it is commonly used in various contexts such as time-telling, alarms, or notifications."
+  "context": "“kell” refers to a clock or the time indicated by it. It can be used in phrases like 'kell kolm' meaning three o’clock. The word is also part of expressions describing specific times, such as appointments or events."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta teeksid seda kohe, kui sa paluksid.",
-    "Ma teeksin sulle hea meelega tee, aga mul pole vett.",
-    "Kui ma oleksin sina, ma teeksin kõik teisiti."
+    "Kui sa teaksid kõik selle kohta, mida ma teen... siis tean, et sulle tunduks see lihtne.",
+    "Ma usun, et nad juba teaksid, et see ei ole õiguslik.",
+    "Ta soovib, et me teaksime, kuidas sellesse pääseda."
   ],
   "translation": [
-    "would do",
-    "would make"
+    "would know",
+    "know (past tense)",
+    "knew"
   ],
-  "context": "The verb 'teeksid' is the conditional form of the verb 'tegema' (to do/make) in Estonian. It expresses what someone *would* do under certain circumstances or as a hypothetical action. It’s commonly used to express politeness, offers, or possibilities."
+  "context": "The word 'teaksid' is a conditional form of the verb 'teha' meaning 'to know.' It translates to 'would know' in English and is used in hypothetical or conditional sentences. It often appears when discussing what someone would do if certain conditions were met."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta andestas mulle oma raamatu.",
-    "Ma ei saa sind andestust.",
-    "Andestuse saamine on raske."
+    "Ta vajus andestust tema ees.",
+    "Mõtle sellest andestusest täna õhtul.",
+    "Andestuse pakkumine oli teda segadusse viinud."
   ],
   "translation": [
-    "forgive",
-    "pardon",
-    "absolution"
+    "mercy",
+    "forgiveness",
+    "grace"
   ],
-  "context": "The word 'andestust' in Estonian refers to the act of forgiving someone or seeking forgiveness. It is commonly used when expressing remorse or offering pardon for a wrongdoing."
+  "context": "Refers to the act of showing mercy, forgiveness or grace. Commonly used in contexts involving moral or spiritual redemption, such as religious discussions, personal conflicts resolution, or legal situations where someone is given a second chance."
 }

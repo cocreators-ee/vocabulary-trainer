@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta elas pimedas toa.",
-    "Pimedas oli väga külm.",
-    "Kui ma lähen pimedas tuppa, siis ei näe midagi."
+    "Pimedas tühisuses ei saanud ta midagi näha.",
+    "Ta tegi seda pimedas mõttes, et keegi ei tea.",
+    "Rohkeliikmes pimedas valguses tundus kõik muljetavaldav."
   ],
   "translation": [
-    "darkness",
-    "in the dark"
+    "in darkness",
+    "darkly",
+    "blindly"
   ],
-  "context": "The word 'pimedas' in Estonian means being in a place without light or being unable to see, and it is commonly used to describe a situation where someone is in a dark environment."
+  "context": "Pimedas refers to a state of darkness, whether literal or metaphorical, and is commonly used in contexts involving obscurity, lack of light, or ignorance."
 }

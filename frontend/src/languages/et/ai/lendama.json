@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen lendama Londoni.",
-    "Ta on lendamas New Yorki.",
-    "Nad on lennud Pariisi."
+    "Lindud lendavad tuledes külma.",
+    "Ta õppis lennu- ja kiirmehedust.",
+    "Miks nad siia ei lendaks?"
   ],
   "translation": [
     "to fly",
     "flying"
   ],
-  "context": "The word 'lendama' is the infinitive form of the verb 'lennama', which means to fly. It is commonly used in Estonian to express the act of flying or traveling by air."
+  "context": "'lendama' means 'to fly'. It is commonly used in the context of birds flying, airplanes, or even people traveling by air. In Estonian it can be used to describe both physical flight and metaphorically."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tietokoneen näytöllä on useita sarakkeita.",
-    "Hän istui etummaisessa sarakkeessa.",
-    "Sarake auton renkaita oli vahingoittunut."
+    "Viimeinen sarake kertoo tarkkuuden yksiköt.",
+    "Rivi ja sarake ovat erilaisia asioita taulukossa.",
+    "Sarakkeessa on otsikko ja alla olevat tiedot."
   ],
   "translation": [
-    "column",
-    "row"
+    "column"
   ],
-  "context": "The word 'sarake' in Finnish generally refers to a column or row of objects, and it is commonly used when describing the layout or arrangement of items."
+  "context": "A 'sarake' is a vertical division in a table or text layout."
 }

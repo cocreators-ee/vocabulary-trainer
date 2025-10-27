@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen just selle peale tulnud.",
-    "Ta on lihtsalt üks meie parimaid sõpru.",
-    "Just sel ajal tuli uksest sisse mees."
+    "Ma sain just teada, et ta on saabunud.",
+    "Ta tegi see vaid üks kord ja jättis meid kõik läbi.",
+    "Just oled sa mulle asjakohane."
   ],
   "translation": [
-    "just",
-    "exactly"
+    "just"
   ],
-  "context": "The word 'just' in Estonian is used to indicate something that is exact or precise, similar to its usage in English."
+  "context": "The Estonian word 'just' means exactly the same thing as it does in English: \"just\" meaning only, barely, or recently."
 }

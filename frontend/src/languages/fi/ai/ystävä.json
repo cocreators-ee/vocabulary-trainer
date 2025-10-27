@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minun ystäväni tulee täältä.",
-    "Hän on hyvä ystävä.",
-    "Ystävällinen palvelu oli plussaa."
+    "Hei ystävä!",
+    "Olet hyvä ystävä.",
+    "Hän on vanha ystävä."
   ],
   "translation": [
     "friend"
   ],
-  "context": "The word ystävä is commonly used in Finnish to refer to a person with whom one has a strong bond of affection or loyalty, similar to the English concept of a friend."
+  "context": "Ystävä means 'friend' and is commonly used to refer to a close acquaintance or companion in Finnish. It can be both informal and formal depending on context."
 }

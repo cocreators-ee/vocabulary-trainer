@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma annan sulle raamatuid.",
-    "Annan endale veel ühe võimaluse.",
-    "Ta on alati nõus annama abi."
+    "Ma olen naine ja see on minu poeg.",
+    "Meie vanemad olid tõeline mustikas.",
+    "Mina ei taha seda kuulda."
   ],
   "translation": [
-    "give",
-    "offer",
-    "donate"
+    "I am a woman and this is my son.",
+    "Our parents were a real bear.",
+    "I don't want to hear that."
   ],
-  "context": "The word 'annan' is commonly used in Estonian to mean giving something to someone, whether it be a physical object or an opportunity, and it can also imply a sense of willingness or agreement to provide something."
+  "context": "The word 'see' means 'this' in Estonian. It is commonly used as a demonstrative pronoun or adjective to refer to something close at hand or recently mentioned."
 }

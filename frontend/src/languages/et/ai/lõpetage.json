@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Lõpetage töö varakult.",
-    "Ma lõpetan selle ülesande homme.",
-    "Ta on juba korduvalt koolit lõpetanud."
+    "Lõpetage oma riiulid ja visake need lauale.",
+    "Ei saa lõpetada - see ei saa olla tõsi!",
+    "Ma usun, et peame siin juba lõpetama."
   ],
   "translation": [
-    "finish",
-    "complete",
-    "conclude"
+    "end",
+    "stop",
+    "finish"
   ],
-  "context": "The word 'lõpetage' is a verb in Estonian that means to finish or complete something, and it is commonly used in various contexts such as work, education, or projects."
+  "context": "The verb 'lõpetage' means to end or stop an action. It is commonly used in situations where one must conclude a task, activity, or even a conversation."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minä katson elokuvan tänään",
-    "Hän katseli merelle",
-    "He katsovat televisiota"
+    "Katso tätä!",
+    "Katsokaa töissä!",
+    "Kaipaatte varoja tai voitte katsoa nyt joitakin taitavasti valmisteltuja tarinoita!"
   ],
   "translation": [
-    "look",
-    "watch",
-    "gaze"
+    "look"
   ],
-  "context": "The word 'katso' is commonly used in Finnish to mean looking or watching something, and it can be used in different forms such as 'katson' (I look), 'katsot' (you look), 'katsella' (to watch), etc."
+  "context": "Imperative form of 'to look'"
 }

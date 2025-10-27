@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma võin näha kuusi aknast.",
-    "Kuused on ümmargused puud.",
-    "Talvel on kuus kaetud lumega."
+    "Ma sain kuusest lemmikuks.",
+    "Ta istutas aedadesse mitu kuust.",
+    "Kuused on tänapäeval väga väärtuslikud."
   ],
   "translation": [
-    "six",
-    "spruce"
+    "birch",
+    "birches",
+    "birch tree"
   ],
-  "context": "The word 'kuus' in Estonian can refer to either the number six or a spruce tree, depending on the context in which it is used."
+  "context": "The word \"kuus\" translates to birch in English. It is commonly used to refer to the birch tree or its plural form when describing multiple trees. It can also be part of expressions involving actions with or related to birch trees."
 }

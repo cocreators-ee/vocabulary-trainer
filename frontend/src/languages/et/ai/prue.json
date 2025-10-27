@@ -1,15 +1,15 @@
 {
-  "confidence": 0.6,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on väga proovida seda uut restorani.",
-    "Me peame proovima paremini teha.",
-    "See oli raske proov."
+    "Minu pruues on must padj. (My dog has a black spot)",
+    "Pruudel on nelja kala suupist. (Dogs have four kinds of taste buds)",
+    "Ma sain pruue kaasa minema. (I took the dog along)"
   ],
   "translation": [
-    "try",
-    "attempt",
-    "test"
+    "dog",
+    "pooch",
+    "canine"
   ],
-  "context": "The Estonian word 'prüe' is a colloquial and somewhat crude term for buttocks or rear end. It’s generally considered impolite to use in formal settings."
+  "context": "'prue' is a colloquial term for a dog in Estonian, often used when referring to pets and their characteristics or actions."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ootan sind ainult paar minutit.",
-    "See võtab umbes viis minutit.",
-    "Palun ole valmis kümne minuti pärast."
+    "Ma olin seal kaks minutit.",
+    "Minu lugu võtab vähemalt viis minutit aega.",
+    "Ei, see ei tohi kesta üle sada minutit."
   ],
   "translation": [
     "minute",
-    "moment"
+    "minutes"
   ],
-  "context": "The word 'minuti' in Estonian directly translates to 'minute' in English. It is used to measure time, similar to how it’s used in English – for example, ‘a few minutes’, ‘in five minutes’, or ‘ten minutes from now’."
+  "context": "The word 'minuti' refers to the unit of time called minute. It is used in both singular and plural contexts depending on the quantity mentioned."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Nõukogude Liit oli suur riik.",
-    "Ta töötas nõukogude ajal.', "
+    "Nõukogude ajastu maja.",
+    "Ta on nõukogude koolist tuntud.",
+    "Nõukogude lipu all."
   ],
   "translation": [
-    "Soviet",
-    "council"
+    "Soviet"
   ],
-  "context": "The word 'nõukogude' refers to something related to the Soviet Union, often used to describe a period in time or an object associated with that era."
+  "context": "'nõukogude' is a genitive form of 'nõukogu', meaning Soviet (as in the former USSR). It is commonly used in compound words to refer to things associated with the Soviet era or system."
 }

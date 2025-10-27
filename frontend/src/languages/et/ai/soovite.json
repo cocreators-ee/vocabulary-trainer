@@ -2,14 +2,14 @@
   "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma soovite seda raamatut.",
-    "Teie soovite minu abikaasat?",
-    "Nad soovite lihtsalt raha."
+    "Soovitan teha seda oma enda jaoks.",
+    "Minu soovi ei kuulata.",
+    "Tema soovide põhjal valmistatakse järjekorda."
   ],
   "translation": [
-    "wish",
-    "desire",
-    "want"
+    "you want",
+    "want",
+    "wish"
   ],
-  "context": "The word 'soovite' is a verb in Estonian that means to wish or want something, and it is commonly used in sentences to express desire or preference."
+  "context": "Used to express a desire or intention. It can be used in both the singular and plural form depending on context, commonly seen in phrases like 'soovi póhjal' meaning 'based on wishes.'"
 }

@@ -2,14 +2,12 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta mainis oma autot parkkiin.",
-    "Mainitsen tässä vielä kerran tärkeän asian.",
-    "Älä mainitse sitä kellekään!"
+    "Ta mainis, et see oli väga oluline.",
+    "Mainisime meie eesmärke kohtus.",
+    "Ruttu mainis oma kavasid enne lahkumist."
   ],
   "translation": [
-    "mention",
-    "state",
-    "point out"
+    "mentioned"
   ],
-  "context": "The Estonian word 'mainis' translates to 'mention' in English. It is commonly used when bringing something up briefly or drawing attention to a specific detail."
+  "context": "Used to indicate that something or someone has been mentioned. It is commonly used in sentences where a person refers to another topic, idea, or individual."
 }

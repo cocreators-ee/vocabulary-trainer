@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma sain miili kaela.",
-    "Ta tegi miilide kaupa tööd.",
-    "Miilis on palju süsi."
+    "See teeküsimärk näitab, et kuni linnaniidi jaamani on veel miili pikkust.",
+    "Meil on vaja läbida veerandmiil, enne kui jõuame järvele.",
+    "Igal tühinevad ridadel peate sõita teise suunda, et kaotada viimased paar miili."
   ],
   "translation": [
-    "mile"
+    "mile",
+    "miles"
   ],
-  "context": "The word miili refers to a unit of distance in Estonian, equivalent to the English word mile."
+  "context": "'Miil' is a unit of distance equal to 1760 yards or approximately 1.609 kilometers. It is commonly used in Estonia for measuring distances in road signs, travel, and historical contexts."
 }

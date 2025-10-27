@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Lapsel on ilus nagu lapse ema.",
-    "See on lapse mänguväli.",
-    "Ta oli lapsevanemate nõukogu liige."
+    "Tema lapse nime on Anna.",
+    "Lapse eest vajub pilt.",
+    "Mina jagan oma lapsega raamatut."
   ],
   "translation": [
-    "child",
-    "kid"
+    "child"
   ],
-  "context": "The word 'lapse' is a genitive form of the Estonian word for child, and it is commonly used in various contexts to refer to a young human being."
+  "context": "The word 'lapse' means 'child' in English. It is commonly used to refer to a young person, typically under the age of 18, especially one who is being raised by parents or guardians."
 }

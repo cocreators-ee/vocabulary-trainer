@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma läksin kauppa",
-    "Ta läksin ära",
-    "Me läksime kinno"
+    "Olen juba läksin.",
+    "Kas sa ütlesid et sa läksin?",
+    "Ma ei läksin sinna."
   ],
   "translation": [
-    "I went",
-    "I have gone"
+    "went"
   ],
-  "context": "The word läksin is the first person singular form of the verb läksima, which means to go or to leave in English, it is commonly used to describe the act of moving away from a place or departing."
+  "context": "Läksin is the first person past tense of 'to go' in Estonian. It describes when someone went somewhere and it's often used in everyday contexts like leaving a place or arriving at a destination."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olin nagunii kohal.",
-    "Nad said nagunii peale vihased.",
-    "See oli nagunii töö."
+    "Ma ei tea, kas see on tõsi, aga ma usun sina nagunii.",
+    "Ta jättis mind ootama ja läks maha, kuid ma ootasin teda alati nagunii.",
+    "Ma sain teada, et sul oli õhtu ja pühendus nagunii."
   ],
   "translation": [
-    "naked",
-    "bare",
-    "unclothed"
+    "anyway",
+    "nevertheless"
   ],
-  "context": "The word 'nagunii' in Estonian directly translates to 'naked' or 'bare' in English. It is commonly used to describe someone without clothes, or a situation where something is exposed and vulnerable."
+  "context": "'nagunii' is an Estonian adverb meaning 'anyway' or 'nevertheless'. It's used to express that something happens despite expectations or contrary circumstances, similar to English phrases like 'all the same' or 'just the same'."
 }

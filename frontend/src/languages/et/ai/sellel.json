@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen sellel päeval koolis.",
-    "Ta on sellel ajal tööl.",
-    "Nad olid sellel ööl koos."
+    "Sellel pole õhukeseid.",
+    "Sellel on hea suvitus.",
+    "Kas sellel on vaja hooldust?"
   ],
   "translation": [
-    "on that day",
-    "at that time"
+    "on this (one)"
   ],
-  "context": "The word 'sellel' in Estonian is a pronoun meaning 'on that' or 'at that', used to indicate a specific point in time or day, often referring to a previously mentioned event or period."
+  "context": "'sellel' is a form of the pronoun 'see' in Estonian, which means 'this (one)'. The form used here is typically used after prepositions or when indicating possession. Commonly used to refer to something mentioned earlier or present and emphasize it."
 }

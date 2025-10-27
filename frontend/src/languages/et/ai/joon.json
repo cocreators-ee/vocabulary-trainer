@@ -2,14 +2,12 @@
   "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma joon sinuga koos.",
-    "Joon on minu parim sõber.",
-    "Ta ei joon enam kunagi."
+    "Joon on joonistatud papierile.",
+    "Ta tõmbas pikka horisontaalset joont.",
+    "Märkasin väikest musta joont kui lind märjaks käes."
   ],
   "translation": [
-    "I'm drawing with you.",
-    "Drawing is my best friend.",
-    "He doesn't draw anymore."
+    "line"
   ],
-  "context": "The word 'joon' in Estonian means 'I am drawing' or 'to draw', and it is commonly used to describe the act of creating something artistic."
+  "context": "The word refers to a physical or imaginary mark on a surface. It is commonly used in geometry and drawing contexts."
 }

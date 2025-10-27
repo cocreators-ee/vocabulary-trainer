@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta abiellub homme",
-    "Nad abiellusid viis aastat tagasi",
-    "Ma olen kindel, et nad abielluvad"
+    "Ta abiellub homme õhtul.",
+    "Meie poeg abiellub järgmisel nädalal.",
+    "Riikliku ühistranspordipõegade puhul jäävad avariiabiellunud pühapäevad vabadeks."
   ],
   "translation": [
-    "gets married",
-    "marries",
-    "to marry"
+    "will marry",
+    "is going to get married"
   ],
-  "context": "The word 'abiellub' in Estonian means to get married or to marry someone, and it is commonly used in the context of wedding ceremonies or relationships."
+  "context": "'abiellub' is the third person singular form of the verb 'abiella', meaning 'to marry'. It's commonly used in sentences where someone is about to or planning to marry another person."
 }

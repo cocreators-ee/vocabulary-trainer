@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma polnud kunagi varem Eestis.",
-    "Ta polnud siin eile.",
-    "Me polnud valmis nii kiireks alguseks."
+    "Ma pole nende vahel midagi kuulnud.",
+    "Ta polnud sellest teadlik.",
+    "Neil ei olnud aega rääkida."
   ],
   "translation": [
     "was not",
-    "did not exist"
+    "did not have",
+    "had not"
   ],
-  "context": "The word 'polnud' is the past tense of the Estonian verb 'polema', which means 'to not be' or 'to not exist'. It is commonly used in sentences to indicate the absence or non-existence of something in the past."
+  "context": "'polnud' is the past tense negative form of 'to be' or 'have' in Estonian, commonly used to indicate something was not the case in the past. It often translates to 'was not', 'did not have', or similar phrases depending on context."
 }

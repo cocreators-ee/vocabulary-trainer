@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei saanud tulla, sest mul oli põhjusel haigus.",
-    "Ta otsustas mitte minna, põhjusel et ta polnud valmis.",
-    "Põhjusel, et ta armastas mind, ta otsustas jääda."
+    "Riigieelne valimine toimus põhjusel, et väärtused olid kõrgenenud.",
+    "Ta tegevust hindas põhjusel vähe tähelepanu.",
+    "Sündmused toimusid sellepärase põhjusel, mida ei olnud nähtavaks."
   ],
   "translation": [
-    "because of",
-    "due to"
+    "on the grounds that",
+    "for the reason that",
+    "because of"
   ],
-  "context": "The word põhjusel in Estonian is used to indicate a reason or cause for something, and it is often translated to English as 'because of' or 'due to'."
+  "context": "'Põhjusel' is used in Estonian to introduce a reason or cause for an action or event. It functions similarly to 'because,' but more formally, and is typically followed by a clause explaining the reason."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Useat ihmiset ovat menettäneet työnsä.",
-    "Hän on usein myöhässä.",
-    "Useita vaihtoehtoja on tarjolla."
+    "Useat ihmiset oli kuollut.",
+    "Kylpyhuoneessa on useita erilaisia hankausvahakkeita.",
+    "Merkittävin vaikutuksista oli se, että useat suomalaiset menettivät luottamuksensa hallituksen toimintaan."
   ],
   "translation": [
     "several",
-    "many",
-    "a number of"
+    "a few"
   ],
-  "context": "The word 'useat' is a determiner in Finnish that means several or many, and it is commonly used to indicate a small but indefinite number of something."
+  "context": "'Useat' is used in Finnish to denote more than one but not many. It can be translated as 'several' or 'a few,' depending on the context, and it typically refers to multiple instances without specifying an exact number."
 }

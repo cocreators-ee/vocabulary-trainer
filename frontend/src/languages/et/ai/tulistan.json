@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tulistan talle.",
-    "Ta tulistas mind.",
-    "Nad tulistavad üksteise pihta."
+    "Mina tulistan tõesti väga head maitset.",
+    "Ta pakkus mulle teadlikult ja täpselt tulistatud lahendust.",
+    "Tulistusega seotud sündmused algasid õhtul."
   ],
   "translation": [
-    "I shot at him.",
-    "He shot me.",
-    "They are shooting at each other."
+    "to shoot (a gun)",
+    "to fire",
+    "shooting"
   ],
-  "context": "The word 'tulistan' is the first person singular form of the verb 'tulistama', which means to shoot or fire a gun in Estonian. It is commonly used in sentences to describe the act of shooting something or someone."
+  "context": "The word 'tulistan' means to shoot or fire a gun. It is commonly used in contexts related to using firearms, hunting, or shooting events. The root 'tulist-' comes from the verb 'tuldma,' which historically relates to shooting with projectiles."
 }

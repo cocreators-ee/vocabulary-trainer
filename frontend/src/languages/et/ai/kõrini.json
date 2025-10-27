@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen väsinud kõrini",
-    "Ta on tööga kõrini",
-    "Kõrini on see üks võimas sõna"
+    "Mees rääkis kõrini.",
+    "Kõrini ei kuulnud keegi.",
+    "Ta laulgas kõrini."
   ],
   "translation": [
-    "fed up to the teeth",
-    "sick and tired of something"
+    "shouting"
   ],
-  "context": "The word kõrini in Estonian means being completely fed up or sick and tired of something, often used to express frustration or exhaustion."
+  "context": "A loud, aggressive way of speaking or calling out to someone"
 }

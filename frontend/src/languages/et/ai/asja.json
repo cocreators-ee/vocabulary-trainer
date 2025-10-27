@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on hea asja",
-    "Ta teeb asju väga kiiresti",
-    "Asjad ei lähe enam nii"
+    "Mis asjaga sa pole nõustumas?",
+    "Tema suhtlemise asjal oli see väga keeruline.",
+    "Ei tea, kuidas see asja seotud on."
   ],
   "translation": [
-    "thing",
     "matter",
-    "issue"
+    "thing",
+    "affair"
   ],
-  "context": "The word 'asja' is commonly used in Estonian to refer to a thing, matter, or issue, and it can be used in various contexts, such as talking about an object, a problem, or a topic of discussion."
+  "context": "'Asja' is commonly used to refer to a particular matter or issue that needs attention or discussion."
 }

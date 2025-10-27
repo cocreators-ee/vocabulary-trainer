@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on ilus naist.",
-    "Mul on üks naist sõber.",
-    "Naist ei tundnud end hästi."
+    "Ma kipasin naiste vahel.",
+    "Naiste suhtes peaksid mehed olema austuslikud.",
+    "Koolis toimub naiste ja meeste eraldatud treeningud."
   ],
   "translation": [
-    "woman"
+    "women",
+    "female"
   ],
-  "context": "The word 'naist' is the genitive form of the Estonian word for woman, and it is commonly used to indicate possession or relation to a female person."
+  "context": "The word 'naist' refers to women or the female gender. It is commonly used in contexts discussing groups of women, gender-related topics, or when specifying something exclusive to females."
 }

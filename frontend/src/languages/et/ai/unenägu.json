@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mul on olnud hea unenägu",
-    "Unenägu oli väga selge",
-    "Ta rääkis unenäos"
+    "Minu unenägu jääb alati kogukogusse.",
+    "Ta unenägud on muutunud viimased nädalad.",
+    "Kas sa näed hästi sõprade ümber unenägu?",
+    "Unenägu tõi tal suveks ilusama tooniga."
   ],
   "translation": [
     "dream",
     "vision"
   ],
-  "context": "The word unenägu refers to a dream or vision that a person has while they are sleeping, and it is commonly used in Estonian to describe a vivid or memorable experience during sleep."
+  "context": "Used to describe a dream or vision, typically in the context of sleep. Can also be used metaphorically for unrealistic ideas."
 }

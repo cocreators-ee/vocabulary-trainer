@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma usun, et see on hea mõte",
-    "Ta usub, et jumal eksisteerib",
-    "Usun, et ma võin seda teha"
+    "Usun, et see on tõeline.",
+    "Tema usub kõrvalt.",
+    "Usid sa mind?",
+    "Ma usin kaasa, kuidas tal see tekkis."
   ],
   "translation": [
     "believe",
-    "think",
-    "suppose"
+    "trust",
+    "faith"
   ],
-  "context": "The word 'usun' in Estonian means to believe or think something is true, often used in the context of having faith or being convinced about a particular idea or situation."
+  "context": "'usun' is a form of the verb 'usada', meaning to believe or trust. It is commonly used in sentences expressing personal belief, faith in something, or trusting someone/something."
 }

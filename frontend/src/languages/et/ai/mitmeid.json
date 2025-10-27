@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta võitis mitmeid auhindu.",
-    "Meil on mitmeid võimalusi valida.",
-    "Mitmeid inimesi olid kohal."
+    "Mitmeid inimesi saabus pidule.",
+    "Kodus oli mitmeid asju, mida ei kasutatud kunagi.",
+    "Ta ostis mitmeid raamatuid kooliks."
   ],
   "translation": [
     "several",
-    "a number of",
-    "multiple"
+    "a few"
   ],
-  "context": "The word 'mitmeid' is used to indicate an indefinite quantity of something, more than one but not a specific number. It’s similar to ‘several’, ‘a number of’, or ‘multiple’ in English and often implies there are at least a few."
+  "context": "Used to indicate an unspecified small number of things or people."
 }

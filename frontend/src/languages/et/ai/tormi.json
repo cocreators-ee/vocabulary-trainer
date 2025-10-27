@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta tuli tormiga koju.",
-    "Tormiga mindi koolist jalgpalli mängima.",
-    "Tormi polnud nii väga suur."
+    "Tormi teekond on pikk ja keeruline.",
+    "Ta tundus, et vaimu tormis taastumiseks on aega.",
+    "Loomulikult tõi see kaasa raskust ja tormi."
   ],
   "translation": [
     "storm",
     "tempest"
   ],
-  "context": "The word 'torm' in Estonian refers to a severe weather condition characterized by strong winds and often heavy rain or thunder, similar to the English term 'storm'."
+  "context": "The word 'tormi' translates to 'storm' or 'tempest' in English. It is commonly used to describe intense weather events involving strong winds and heavy rain, often with a sense of chaos or turmoil."
 }

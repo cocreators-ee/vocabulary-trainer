@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen laseks homme.",
-    "Laseks on tore tegevus suvel.",
-    "Nad said laseksist palju nalja."
+    "Ta laseks veele teada, et tal on see võimalus.",
+    "Ma ei saa aru, miks ta selleks laseks.",
+    "Laseks teda minna oma rahulikku elu edasi."
   ],
   "translation": [
-    "for fun",
-    "just for laughs",
-    "as a joke"
+    "would allow",
+    "would let",
+    "would permit"
   ],
-  "context": "The word 'laseks' in Estonian is often used to indicate doing something purely for enjoyment or amusement, without any serious purpose. It can be translated as 'for fun', 'just for laughs', or 'as a joke'. It implies a lighthearted and playful intention."
+  "context": "'laseks' is the conditional form of 'lase,' which means 'to let' or 'to allow.' It's commonly used in hypothetical situations to express what someone would allow or permit."
 }

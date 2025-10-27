@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma otsin tõelise sõpra",
-    "Tõelise armastuse kohtamine on raske",
-    "Ta on tõeliselt kannatada"
+    "Kas sa tead, kui raske on leida tõeline sõber?",
+    "Usun, et meil on tõelised mured.",
+    "Tema oli mulle alati tõeline sõber."
   ],
   "translation": [
     "real",
-    "true",
-    "genuine"
+    "true"
   ],
-  "context": "The word tõelise is an adjective in Estonian that means real or true, and it is commonly used to describe something or someone that is authentic or genuine."
+  "context": "Used to describe something that is genuine or authentic"
 }

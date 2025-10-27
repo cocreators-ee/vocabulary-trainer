@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta valis rohelise autoversiooni.",
-    "Rohelised taimed kasvavad aeglaselt.",
-    "Rohelisele tangole on võetud palju pilte."
+    "Rohelised tuled on piiratud.",
+    "Meie roheline kool on tuntud oma loodusläheduse poolest.",
+    "Ta valis rohelise riieta, et sobima ümbruskonda."
   ],
   "translation": [
     "green",
-    "eco-friendly"
+    "eco-friendly",
+    "verdant"
   ],
-  "context": "The word 'roheline' in Estonian means something that is green in color, or related to the environment and eco-friendliness, and it is commonly used to describe objects, ideas, or concepts that have a connection to nature or sustainability."
+  "context": "Used to describe the color green or environmentally friendly practices. Commonly used in contexts related to nature, ecology, and colors."
 }

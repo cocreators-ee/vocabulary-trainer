@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tapan seda iga päev",
-    "Ta tapanud mind juba kord",
-    "Tapan see homme"
+    "Tapan teda, et teha seda mitte.",
+    "Ta väitis, et ta tõesti tapas mehe mullu novembris.",
+    "Miks sa mind nii kord tapad?"
   ],
   "translation": [
-    "I kill",
-    "he has killed me already",
-    "kill that tomorrow"
+    "kill",
+    "I killed you",
+    "you killed"
   ],
-  "context": "The word 'tapan' is the first person singular form of the verb 'tappama', which means to kill in English. It is commonly used in Estonian language to express the act of killing something or someone."
+  "context": "The word 'tapan' in Estonian means to kill. It is commonly used as a verb in sentences where someone causes the death of another person or thing."
 }

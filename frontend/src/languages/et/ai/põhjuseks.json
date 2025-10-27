@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on põhjuseks, miks ma siia tulin.",
-    "Ta ütles, et põhjuseks oli raha puudus.",
-    "Põhjuseks oli ilmselt tema süü."
+    "Mõiste \"vabadus\" tekkis põhjuseks muutused poliitilises süsteemis.",
+    "Teadlase sünd ümbruskonda mõjuvate tegurite otsimine põhjuseks tulemusel.",
+    "Kas võid tuua näite, kus teadmine on põhjuseks eduliku äri juhtimiseks?"
   ],
   "translation": [
-    "for the reason that",
-    "due to"
+    "reason",
+    "cause"
   ],
-  "context": "The word põhjuseks is a postposition in Estonian that indicates the reason or cause of something, and it is commonly used in sentences to provide an explanation or justification for a particular action or event."
+  "context": "Põhjuseks is a prepositional form of the noun 'põhjus' meaning reason or cause. It's used after verbs and adjectives to indicate the cause or explanation for something."
 }

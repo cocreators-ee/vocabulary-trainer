@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta müüs kogu kraami.",
-    "Kraam on müüdud.",
-    "Kraami hind oli liiga kõrge."
+    "Sulge kraami kotti.",
+    "Kas sa soovid kraami koos teega?",
+    "Ma valmistasin maitsevaid kraamisoojendisi."
   ],
   "translation": [
-    "junk",
-    "rubbish"
+    "cream"
   ],
-  "context": "The word 'kraami' in Estonian refers to worthless or disposable material, similar to the English words 'junk' or 'rubbish', and is commonly used to describe something that is no longer needed or is of poor quality."
+  "context": "The word 'kraami' in Estonian refers to cream, commonly used in cooking and everyday language for various dairy products containing cream."
 }

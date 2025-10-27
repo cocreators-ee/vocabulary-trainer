@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Isast tuli talumaale tagasi.",
-    "Mu isast oli väga hea inimene.",
-    "Ta rääkis isa kohta."
+    "Mina olen oma isa suurendaja isast.",
+    "Ta õppis isast kõrgkoolis.",
+    "Isast on üliheled kummitused."
   ],
   "translation": [
-    "father"
+    "father",
+    "daddy",
+    "pops"
   ],
-  "context": "The word 'isast' is the genitive form of the Estonian word for father, referring to something belonging to or related to one's father."
+  "context": "Isast refers to one's father in Estonian, commonly used as a noun in various contexts. It can be part of compound words and is often seen in expressions relating to paternal relationships."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on võimeline mees.",
-    "Võimalikud tulemused on hea ja halb.",
-    "Kui oled võimeline, siis saad selle teha."
+    "Ta võimeline seda tegema.",
+    "Kas oled sa kindel, et on võimeline?",
+    "Võimaline, et see tõesti toimib."
   ],
   "translation": [
-    "capable",
-    "able"
+    "able",
+    "capable"
   ],
-  "context": "The word 'võimeline' in Estonian means being capable or able to do something, it is commonly used to describe someone's ability or skill in a particular area."
+  "context": "The word 'võimeline' is used in Estonian to describe someone's ability or capacity to do something. It often follows a verb and can be used both as an adjective and adverb. This term is commonly found in contexts where one assesses the capability of doing tasks, making decisions, etc."
 }

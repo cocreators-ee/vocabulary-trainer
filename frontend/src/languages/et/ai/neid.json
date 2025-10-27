@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Mul on neid võõraskeelte õppimisel",
-    "Neist on kaks tüdrukut ja üks poiss",
-    "Klassis on palju neid"
+    "Neid keegi ei mõista.",
+    "Olen neid näha saanud.",
+    "Praegu neid kuulan."
   ],
   "translation": [
-    "girls",
-    "these ones"
+    "them (plural object)",
+    "they/them (in some contexts)"
   ],
-  "context": "The word 'neid' in Estonian is a pronoun used to refer to a group of female people or objects, similar to the English word 'these ones' when referring to females."
+  "context": "'Neid' is the plural form of 'ta/teid' in the partitive case, used mainly as an object pronoun. It typically means 'them' when referring to a group previously mentioned or understood from context."
 }

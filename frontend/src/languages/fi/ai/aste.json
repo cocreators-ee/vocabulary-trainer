@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hnen asteensa on insinori.",
-    "Aste on yksikkö kulman mittaukseen.",
-    "Lämpötila mitataan asteina."
+    "Kun meillä on kaksi asteetta vedenkäsittelyyn.",
+    "Hänen asemaansa ei tullut ymmärtämän ilman viidettä eri asteisiin.",
+    "Erilaiset asteet voivat johtaa erilaisiin tuloksiin."
   ],
   "translation": [
     "degree",
-    "level",
-    "grade"
+    "stage",
+    "level"
   ],
-  "context": "The word 'aste' in Finnish refers to a unit of measurement, such as a degree in temperature or a level of education, and it is commonly used in various contexts to indicate a specific amount or stage of something."
+  "context": "'aste' translates to degree, stage, or level in English. It is commonly used in contexts discussing education (degrees), processes (stages), and rankings or measurements (levels)."
 }

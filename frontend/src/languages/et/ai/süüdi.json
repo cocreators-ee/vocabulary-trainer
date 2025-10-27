@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta võttis süüdi endale",
-    "Süüdi oli selge",
-    "Kohus mõistis ta süüdi"
+    "Tema süüdistus põhines vägedel tõenditel.",
+    "Süüdi tunnitanud kaks inimest.",
+    "Nad usaldavad, et tal on suur süüd.",
+    "Kohtus esitasid süüdi andmeid."
   ],
   "translation": [
-    "guilt",
-    "blame",
-    "culpability"
+    "guilty",
+    "culprit"
   ],
-  "context": "The word 'süüdi' in Estonian generally refers to the state of being guilty or blameworthy, often used in legal contexts to describe someone who has been found responsible for a crime or wrongdoing."
+  "context": "'süüdi' is commonly used to refer to someone who has been found guilty of a crime or offense. It can also mean culpable in a general sense, not necessarily legal."
 }

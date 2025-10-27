@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema kõrgeausus on väga sarmikas.",
-    "Kõrgeaususega mees astus toaletist välja.",
-    "Ta rääkis tema kõrgeausust nagu ta oleks vanem."
+    "Tema kõrgeausust toetavad kogu linna kodanikud.",
+    "Presidendivalimiste võitjale antakse erilist kõrgeausust.",
+    "Kõrgeaususega peaks inimene käituma igas olukorras."
   ],
   "translation": [
-    "Your Highness",
-    "His Excellency"
+    "high honor",
+    "great respect",
+    "dignity"
   ],
-  "context": "The word kõrgeausus is a formal title used to address high-ranking officials or members of royalty, and it is commonly translated to English as 'Your Highness' or 'His Excellency'."
+  "context": "This term is used to describe a high level of respect, dignity or honor, often given to someone for their achievements or status. It can refer to ceremonial honors or the moral quality of behaving with respect and integrity."
 }

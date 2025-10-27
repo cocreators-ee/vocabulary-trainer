@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma enam ei saa seda teha",
-    "Ta on enam kui korralik inimene",
-    "See oli enam kui lihtne ülesanne"
+    "Ma ei tea enamat.",
+    "See film on juba liiga kaua kestnud - lõpetage see nüüd! Või te ei tea neid tähti? Enama neist filmides pole näha.",
+    "Ta ei saa enam tunda, et tal on vigu."
   ],
   "translation": [
     "more",
-    "longer",
-    "anymore"
+    "any more"
   ],
-  "context": "The word 'enam' in Estonian generally means 'more' or 'longer', but it can also be used to indicate something that is no longer happening or is not possible anymore, similar to the English word 'anymore'."
+  "context": "'Enam' is used to express that something has increased beyond a previous level or continued for an extended period. It often implies excessiveness or reaching a limit in contexts like time, quantity, or repetition."
 }

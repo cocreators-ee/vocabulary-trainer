@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Nad võtavad meiega ühendust.",
-    "Võtavad nad meid?",
-    "Ta võtab mind kaasa."
+    "Ne nad võtavad mind kodusse.",
+    "Mäletad sa, et need väiksed rohelised võtavad sulle igatsuse?",
+    "Ei tean, miks nad see nii võtavad."
   ],
   "translation": [
     "take",
-    "catch"
+    "get",
+    "catch (in a figurative sense)"
   ],
-  "context": "The word võtavad is a verb in Estonian that means to take or catch something, and it is commonly used in sentences to describe the act of taking or seizing control of an object or a person."
+  "context": "The word 'võtavad' is the third person plural form of the Estonian verb 'võtma', which means to take or get. It is commonly used in everyday language for actions like taking something physically, accepting an offer, or catching a feeling."
 }

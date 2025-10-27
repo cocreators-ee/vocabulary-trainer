@@ -2,13 +2,14 @@
   "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saanud tõttu vihma tööle minna",
-    "Tema õnnetus tuli tõttu tema enda eksimusest",
-    "Kool suleti tõttu üldisele streigile"
+    "Tahaksin, et sa tõestaksid minu sõbra väsimust.",
+    "Tema tõestused ei olnud usaldusväärsed.",
+    "Juhtunut tõestasid mässulased."
   ],
   "translation": [
-    "because of",
-    "due to"
+    "to prove",
+    "evidence",
+    "proof"
   ],
-  "context": "The word 'tõttu' in Estonian is a preposition that indicates the reason or cause of something, similar to the English phrases 'because of' or 'due to'."
+  "context": "In Estonian, 'tõttu' is derived from the verb 'tõestama', meaning to prove or demonstrate something. It can be used in legal contexts as evidence or proof, and generally refers to showing something clearly with supporting facts or arguments."
 }

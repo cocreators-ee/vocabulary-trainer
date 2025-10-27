@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kuusi on puulaji",
-    "Talossa on kuusi ikkunaa",
-    "Kuusella on useita merkityksiä"
+    "Kuusille ei ole aikuisen kuume.",
+    "Metsässä kasvaa vanha kuusi.",
+    "Kuusi on suosittu maa- ja rakennusaine."
   ],
   "translation": [
-    "six",
-    "spruce"
+    "Yew tree",
+    "yew"
   ],
-  "context": "The word kuusi can have different meanings in Finnish, such as the number six or the type of tree spruce, and it is commonly used in various contexts."
+  "context": "The Finnish word 'kuusi' translates to English as 'yew'. It's a type of evergreen coniferous tree known for its needle-like leaves and red berries. Commonly found in forests, it is also used in construction due to its durability."
 }

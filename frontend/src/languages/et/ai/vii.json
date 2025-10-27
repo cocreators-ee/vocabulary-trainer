@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ma armastan vii pilte",
-    "Vii värvid on ilusad",
-    "Ta tegi vii joonistuse"
+    "Ma viin kodusse.",
+    "Ta oli juba vinnud.",
+    "Vasakpoolselt tõusis viin."
   ],
   "translation": [
-    "pretty",
-    "beautiful",
-    "lovely"
+    "go",
+    "went",
+    "gone"
   ],
-  "context": "The word 'vii' in Estonian is used to describe something that is pleasing to the eye or attractive, and it is commonly used in everyday conversations to express admiration for someone's appearance or something's aesthetic value."
+  "context": "'vii' is a form of 'minna', which means to go or move in Estonian. It represents different tenses like past and present participle."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei leia sellest asi mõtet.",
-    "Ta pole kuulnud selles väga suurt mõtet.",
-    "Oled sa kindel, et see on hea mõte?"
+    "Mõte on lihtne: peate saadamas pangaarvest raha.",
+    "Ta andis mulle hea mõte.",
+    "Loomulikult, see mõte võib olla suureks edukaks."
   ],
   "translation": [
     "idea",
-    "sense",
-    "point"
+    "thought",
+    "notion"
   ],
-  "context": "The word 'mõtet' in Estonian generally refers to an idea or a point, and is commonly used in sentences to convey the notion of having a thought or concept about something."
+  "context": "Mõte is commonly used to express an idea or concept. It can also mean a thought or notion in certain contexts."
 }

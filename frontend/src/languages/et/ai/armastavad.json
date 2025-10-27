@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Nad armastavad üksteist.",
-    "Armastavad inimesed on alati õnnelikud.",
-    "Ma armastan seda raamatut."
+    "Ma armastan sind.",
+    "Ta armastab mu teekonda.",
+    "Meil on väga hea suhted ja me armastame üksteist."
   ],
   "translation": [
     "love",
-    "are in love",
-    "lovers"
+    "cherish",
+    "adore"
   ],
-  "context": "The word 'armastavad' is a verb that means to love or be in love with someone, and it is commonly used in Estonian to express strong feelings of affection or attachment towards another person."
+  "context": "The word 'armastavad' is the third person plural form of the verb 'to love.' It means that a group or two individuals are expressing deep affection for each other. The word comes from 'armastama,' which can mean to love, cherish, or adore someone or something."
 }

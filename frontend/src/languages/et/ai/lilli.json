@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Aias õitsesid kaunid lilled.",
-    "Ta kinkis mulle lille."
+    "Tema nimi on Lilli.",
+    "Lilli jooksis tänava kallal.",
+    "Minu venna nimeks on Lilli."
   ],
   "translation": [
-    "flower",
-    "blossom"
+    "Flower (name)"
   ],
-  "context": "The word 'lilli' in Estonian directly translates to 'flower' or 'blossom' in English. It is commonly used to refer to any flowering plant and can be used both literally and figuratively, for example, to describe a beautiful person."
+  "context": "'lilli' is a name, possibly derived from the Estonian word for 'flower'. It can be used as a girl's name and sometimes refers to someone who is lively or cheerful. In this context, it is primarily a proper noun."
 }

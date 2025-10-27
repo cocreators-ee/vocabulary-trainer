@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean, et sa tahad midagi.",
-    "Ta ei taha seda teha.",
-    "Kas sa tahad minuga kaasa tulla?"
+    "Ta teadis, et ta ei saa meelt tahes.",
+    "Mina olen kindel, et nad tulevad siia mõne aja jooksul, kas see on soovitud või mitte tahes.",
+    "See on pidevalt korduv ja ebatõhus, aga teeme seda ikkagi, sest meie peavad seda tegema, isegi kui meil ei ole selle kohta mingeid tunde või soovi."
   ],
   "translation": [
-    "want",
-    "wish",
-    "desire"
+    "despite knowing",
+    "regardless of desire/will",
+    "in spite of will or intention"
   ],
-  "context": "The word 'tahes' in Estonian is a versatile verb meaning 'to want', 'to wish', or 'to desire'. It expresses a need or inclination towards something. It’s commonly used to express preferences, requests, and intentions."
+  "context": "'tahes' in Estonian is often used to express actions taken despite one's knowledge, desires, or intentions. It shows going against what is wanted or known."
 }

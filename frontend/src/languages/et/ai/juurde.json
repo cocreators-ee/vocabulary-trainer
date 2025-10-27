@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen juurde kauppoja.",
-    "Ta tuli minu juurde ja küsis nime.",
-    "Juurde võib olla raske ligi pääseda."
+    "Minu aed on juurde kasvanud üheksa meetri ruutmeetrist kaheksakümne kolmanda hinnaga.",
+    "Juurde tulevad veel kaks inimest pärastlõunal.",
+    "Mees lisas oma sõbrade nimi jaotusele juurde."
   ],
   "translation": [
-    "next to",
-    "beside"
+    "addition",
+    "added to",
+    "in addition"
   ],
-  "context": "The word 'juurde' in Estonian is used to indicate proximity or closeness to something, often translated as 'next to' or 'beside' in English."
+  "context": "'Juurde' is commonly used to indicate something being added or additional. It can function as a noun meaning 'addition,' as an adverbial phrase 'added to,' and in the sense of 'in addition.' The word often appears in contexts where items, people, or elements are added to an existing group or quantity."
 }

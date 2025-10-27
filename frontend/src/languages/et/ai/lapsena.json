@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma mäletan seda lapsest peale.",
-    "Ta on olnud lapsena väga vaikne.",
-    "Lapsena oli tal palju sõpru."
+    "Olen alati lapsena olnud rahulik.",
+    "Ta tegi valmis meesest jäämiseks kõik, mida vajalik oli, kuid lapsena jäi see talle alati liiga raske.",
+    "Ma ei taanastanud oma poega kunagi, sest ma ei soovinud, et ta lapsena tunneks end ohvrina."
   ],
   "translation": [
     "as a child",
-    "in childhood"
+    "while being a child"
   ],
-  "context": "The word 'lapsena' is an adverb in Estonian that means 'as a child' or 'in childhood', and it is commonly used to describe something that happened or was true during someone's childhood."
+  "context": "This word is commonly used to express the meaning of 'as a child' or 'while being a child'. It's often used in contexts where describing someone's experiences, behavior, or characteristics during their childhood. The adverbial form allows for smooth integration into sentences that reflect on past actions through the lens of one's younger self."
 }

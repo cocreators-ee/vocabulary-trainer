@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma tundsin tema häält",
-    "Sa tundsid mind kogu aeg",
-    "Meie tundime üksteist"
+    "Oled sa tundnud värtsit? Kas see oli kurb või pahane?",
+    "Kui sul on väike lapsukene, siis sageli tundsid vere ja teatavate raseduse hormonite muutused.",
+    "Mina ei tundsid midagi. Kui sa tundsid midagi, siis see oli hoopis teistsugune."
   ],
   "translation": [
-    "knew",
-    "recognized"
+    "felt",
+    "felt"
   ],
-  "context": "The word 'tundsid' is the second person plural past tense form of the verb 'tunne', which means to know or recognize someone or something, and it is commonly used in sentences to express that the subject was familiar with something or someone in the past."
+  "context": "Tundsid is the past tense of 'tunda,' meaning to feel or to sense something physically or emotionally."
 }

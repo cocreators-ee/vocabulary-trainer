@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minun silmäni ovat siniset.",
-    "Hänellä on kaunis silmä väriset hiukset.",
-    "Silmät ovat ainoita, jotka eivät vanhene."
+    "Hänellä on kivaa silmä.",
+    "Silmäsini tulee esiin otsassa.",
+    "Poika nousi ja hänen silmiensä olivat auki."
   ],
   "translation": [
-    "eye"
+    "eye",
+    "optical sense"
   ],
-  "context": "The word silmä refers to the organ of sight or the eye in English, and it is commonly used to describe the physical attributes of a person or an object."
+  "context": "'silma' refers to the physical eye or eyes in general, and is used when talking about seeing, vision, or parts of the face. It can be used literally as well as metaphorically."
 }

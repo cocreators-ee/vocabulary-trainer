@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta oli tulistati öösel.",
-    "Tulistati talle mitu korda.",
-    "Politsei ütles, et meest tulistati."
+    "Teda tulistati silda kõrval.",
+    "Mehele tulistati jalga.",
+    "Naise ära tundnud tüdruks tulistati."
   ],
   "translation": [
     "was shot",
-    "shot at"
+    "got shot"
   ],
-  "context": "The word 'tulistati' is the passive voice of the verb 'tulistama', which means to shoot or fire a gun. In this context, it is used to describe an action where someone or something is being shot at."
+  "context": "Used to indicate when someone was shot. The verb indicates the action of shooting and is in past passive tense."
 }

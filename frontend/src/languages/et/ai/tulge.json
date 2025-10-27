@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tulge meiega!",
-    "Ma ootan teid tulge.",
-    "Kas te tulge homme?"
+    "Tulge siia!",
+    "Ei, tulge ära!",
+    "Kas sa tahad tulla?"
   ],
   "translation": [
     "come",
-    "arrive"
+    "come on"
   ],
-  "context": "The word 'tulge' is an Estonian verb that means to come or arrive, and it is commonly used in informal settings to invite someone to join or meet somewhere."
+  "context": "The Estonian word 'tulge' translates to 'come' or 'come on' in English. It is commonly used as a verb meaning to move toward someone/something."
 }

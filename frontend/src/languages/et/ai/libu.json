@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on väga libu inimene.",
-    "Ära usalda teda, ta on libu tüüp.",
-    "Libu käitumine tekitab kahtlusi."
+    "Tema õde sai libuse pärast oma esimese koolipäeva.",
+    "Ta tõi endale meelde, et lapsed saavad libusid kaitsesse.",
+    "Minu isa ei usinud midagi sellega teha ning andis mulle libu tagasi."
   ],
   "translation": [
-    "slippery",
-    "crafty",
-    "devious",
-    "untrustworthy"
+    "lollipop",
+    "hard candy"
   ],
-  "context": "The word 'libu' in Estonian describes someone who is untrustworthy, sly, or deceitful. It implies a lack of integrity and suggests that the person cannot be relied upon. It can also refer to something being slippery or difficult to grasp."
+  "context": "Libu is a type of sweet confectionery typically made from sugar or syrup, and it's often shaped into a stick form which one licks to consume it. It is commonly given as a treat to children or used in social contexts."
 }

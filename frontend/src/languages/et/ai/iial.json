@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on iialt noor selleks.",
-    "Iial ei ole hilja õppida.",
-    "See oli iial varem nägemata."
+    "Ma ei tea iial midagi selle kohta.",
+    "Ta ei hooli iial teistest inimestest.",
+    "Iialgi pole see oluline."
   ],
   "translation": [
-    "always",
-    "ever",
-    "perpetually"
+    "anywhere",
+    "at all"
   ],
-  "context": "The word 'iial' in Estonian is an adverb that expresses the idea of 'always', 'ever', or 'at any time'. It’s often used to emphasize a continuous state or a timeless truth, similar to ‘always’ in English."
+  "context": "'Iial' is used to emphasize the absence or negation of something, often translated as 'anywhere' or 'at all'. It typically follows negative verbs and implies that something does not exist or occur in any place or situation."
 }

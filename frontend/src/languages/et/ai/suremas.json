@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen surnud",
-    "Ta sureb kiiresti",
-    "Nad on juba surnud"
+    "Mama oli suremas.",
+    "Kui ma olen suremas?",
+    "Tema lugu on kindlasti suremas."
   ],
   "translation": [
-    "to die",
-    "dying",
-    "dead"
+    "dying"
   ],
-  "context": "The word 'suremas' in Estonian means to die or be dying, and it is commonly used in sentences to describe the act of passing away or being in a state of death."
+  "context": "'suremas' is a form of the verb 'sünnitada', which means to die. It is used in both literal and figurative contexts, such as describing someone close to death or something that is dying out or losing significance."
 }

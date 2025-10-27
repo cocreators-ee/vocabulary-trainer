@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen kauppa",
-    "Ta läheb koju",
-    "Me läheneme ühiselt"
+    "Mina lähen poodi.",
+    "Ta läheb oma meeldejätmisele järk-järgult lähenema.",
+    "Kui sul on küsimus, siis lähen daamile."
   ],
   "translation": [
-    "I go",
-    "I am going",
-    "to go"
+    "I approach",
+    "I get closer"
   ],
-  "context": "The word lähen is the first person singular form of the verb lähem, which means to go or to move towards something, it is commonly used in Estonian language to express movement or direction."
+  "context": "The verb 'lähen' means 'to approach' or 'to come closer'. It is used to describe physically moving toward something or metaphorically getting nearer to a situation, idea, or deadline."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma leidun endale uue töökoha",
-    "Ta leidub sageli öösiti võõras linnas",
-    "Kui sa otsid tööd, siis leidub palju võimalusi"
+    "Need leidub ka väikeses koguses sõbras.",
+    "Neid leidub laialdaselt kasutuses.",
+    "Loomulikult leidub see ka seal."
   ],
   "translation": [
     "is found",
-    "can be found",
-    "exists"
+    "can be found"
   ],
-  "context": "The word 'leidub' is a verb in Estonian that means something or someone can be found or exists in a certain place or situation. It is commonly used to describe the availability or presence of something."
+  "context": "The word 'leidub' in Estonian is used to indicate that something can or does exist, be present or be located somewhere. It's commonly used when talking about the availability or presence of objects, people, or phenomena."
 }

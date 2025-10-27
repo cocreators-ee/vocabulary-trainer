@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Teie olete minu sõber.",
-    "Ma tean, et teie armastate mind.",
-    "Teie võite tulla minuga."
+    "Teie nimi on Liis?",
+    "Miks Teie mind siia kutsite?",
+    "Tänan Teid paljus eest!"
   ],
   "translation": [
-    "you",
-    "your"
+    "your (formal)",
+    "yours",
+    "(possessive form for respectful address)"
   ],
-  "context": "The word 'teie' is a pronoun in Estonian that is used as a polite form of address, similar to the English word 'you' when referring to someone in a formal or respectful manner."
+  "context": "'teie' is a formal possessive pronoun used when addressing someone respectfully, often in professional or older generations contexts. It corresponds to 'your' in English but with the specific nuance of formality."
 }

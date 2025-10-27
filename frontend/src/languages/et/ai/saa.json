@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei saa aru.",
-    "Ta saab seda teha.",
-    "Meil on võimalus selleks."
+    "Ma saan seda teha.",
+    "Ta on saanud uue töö.",
+    "Kas sa saad mulle aita?"
   ],
   "translation": [
-    "get",
-    "can",
-    "be able to"
+    "to get",
+    "to receive",
+    "can"
   ],
-  "context": "The word 'saa' in Estonian is commonly used as a verb that means to be able to do something, or to get something."
+  "context": "'Saa' in Estonian means to receive or obtain something, and it can also be used as 'can' or 'may' when expressing permission or ability."
 }

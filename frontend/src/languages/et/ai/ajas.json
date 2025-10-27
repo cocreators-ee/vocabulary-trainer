@@ -1,16 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ajasin talle oma muredest.",
-    "Ära aja tühja juttu!",
-    "Ta ajas mind segi."
+    "Ta aitas mind ajas.",
+    "Kui kaua see kestis?",
+    "Minu isa tõusis vara ajas."
   ],
   "translation": [
-    "drive",
-    "spend (time)",
-    "chase",
-    "stir up"
+    "time"
   ],
-  "context": "The Estonian word 'ajas' is derived from the verb 'ajama', which has a broad range of meanings in English. It can mean to drive or chase something, but also to spend time doing something, or even to stir someone up emotionally or confuse them. The specific meaning depends heavily on context."
+  "context": "Ajad refers to the concept of time in general. It can be used when discussing past, present or future events and it is often used in phrases such as 'ajad tagasi' meaning 'back in time'. In everyday language, it might appear in sentences like 'kuidas kulu aja?' which means 'how does time pass?'."
 }

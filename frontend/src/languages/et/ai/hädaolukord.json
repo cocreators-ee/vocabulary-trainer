@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hädaolukord on kuulutatud maal",
-    "Ta abiellus hädaolukorras",
-    "Hädaolukord tuli sisse"
+    "Hädaolukord toimus möödunud öös.",
+    "Meil tuleb valmistada ette hädaolukorral.",
+    "See on tõsine kriitiline hädaolukord."
   ],
   "translation": [
     "emergency situation",
-    "state of emergency",
-    "crisis"
+    "crisis",
+    "emergency"
   ],
-  "context": "The word hädaolukord refers to a state of emergency or crisis, and is commonly used in Estonian to describe situations where immediate action is required to prevent harm or damage."
+  "context": "'hädaolukord' is used to describe an emergency or crisis situation, often involving a sudden event that requires immediate action. It can refer to natural disasters, accidents, or other urgent scenarios."
 }

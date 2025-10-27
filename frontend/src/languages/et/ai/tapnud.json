@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen tapnud.",
-    "Ta on tapnud.",
-    "Nad on tapnud."
+    "Ta on tapnud minu meelde.",
+    "Laps tapas kõrvale asja.",
+    "Kass tapus pead."
   ],
   "translation": [
-    "died",
-    "deceased",
-    "passed away"
+    "hit",
+    "struck",
+    "knocked"
   ],
-  "context": "The word 'tapnud' is the past tense of the Estonian verb 'tapma', which means to die or pass away. It is commonly used in sentences to describe someone who has deceased."
+  "context": "'tapnud' is the past participle of 'tapev' which means to hit or strike in Estonian. It can also be used metaphorically for knocking something over."
 }

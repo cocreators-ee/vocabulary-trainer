@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Temperatuur on minus kolm kraadi.",
-    "Ta võttis minust laenu.",
-    "Minusmärk näitab miinust."
+    "Ma teen seda minus soovi kohaselt.",
+    "Toode on saadaval ainult interneti liidese kaudu koos vajaliku minus toega.",
+    "Kui sul on minus sümboolne väärtus arvutuses, siis pead lisama märki '-'.",
+    "Ta lubas aidata mulle ilma midagi eest maksmata - see tähendab, et tegelesin kogu tööga eneseheadusest.",
+    "Mäletan alati oma vanude nõu antud minus sõnade kaudu."
   ],
   "translation": [
-    "minus sign",
-    "negative"
+    "minus",
+    "without"
   ],
-  "context": "The word 'minus' in Estonian is used to refer to a negative number or a subtraction operation, similar to its usage in English."
+  "context": "'Minus' in Estonian is primarily used as a preposition meaning 'without'. It can also be used in mathematical contexts to denote the negative sign or subtraction operation. Additionally, it might function as an adverbial particle indicating absence or negation."
 }

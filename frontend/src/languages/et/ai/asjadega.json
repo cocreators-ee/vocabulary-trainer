@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen rahul asjadega.",
-    "Asjadega on kõik korras.",
-    "Ta on väga rahul asjadega."
+    "Ma olen harjun asjade käsitsemisega.",
+    "Ta tegelikult ei tea, kuidas lõpetada asjadega.",
+    "Asjadega hoolitsemine on oluline selleks, et neil pikaajaline kasu oleks."
   ],
   "translation": [
     "with things",
-    "things"
+    "in dealing with things"
   ],
-  "context": "The word 'asjadega' in Estonian means 'with things' and is used to describe a situation where someone is satisfied or content with the way things are."
+  "context": "'asjadega' is an Estonian phrase meaning 'with things'. It's commonly used in contexts involving handling or managing matters. The phrase can also be part of more specific expressions like 'asjade käsitsemine', which translates to the management or handling of affairs."
 }

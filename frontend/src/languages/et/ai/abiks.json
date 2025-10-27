@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on hea abiks",
-    "Abiks tuli võõras mees",
-    "Ma vajan abiks keegi"
+    "Tema sõbrad olid alati abiks.",
+    "Mina võin olla sulle suur abiks.",
+    "Ta pakkus oma nõu abiks."
   ],
   "translation": [
-    "helper",
-    "assistant"
+    "help",
+    "assistant",
+    "aid"
   ],
-  "context": "The word abiks refers to a person who provides assistance or support to someone, often in a specific task or situation."
+  "context": "'Abiks' is used in Estonian to denote something or someone that provides help, aid, or serves as an assistant. It can be used both literally and metaphorically for support."
 }

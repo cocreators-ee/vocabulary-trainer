@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä kasvaa täältä.",
-    "Hän kasvaa nopeasti.",
-    "He kasvavat kauniiksi."
+    "Hänelle on tärkeää kasvaa vahvana ihmisenä.",
+    "Kuusi kasvaa nopeasti hiekkaan maahan.",
+    "Kasvoa, morsiameni!"
   ],
   "translation": [
     "grow",
-    "increase"
+    "increase",
+    "flourish (figuratively)"
   ],
-  "context": "The word 'kasvaa' is a verb in Finnish that means to grow or increase, and it is commonly used to describe the process of something becoming bigger or more mature."
+  "context": "The verb 'kasvaa' is commonly used to describe natural or personal growth and can be applied both literally for living organisms such as plants and figuratively in human development contexts."
 }

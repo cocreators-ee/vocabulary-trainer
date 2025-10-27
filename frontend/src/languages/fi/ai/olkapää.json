@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hänellä on olkapäänsä yläpuolella haava",
-    "Olkapään liike on tärkeää",
-    "Olkapäät ovat vahvat"
+    "Hänellä on kivinen olkapää.",
+    "Olkapäänsä hän näyttää vahvalta.",
+    "Tämä olkapäävaali vaivaa häntä jo pitkään."
   ],
   "translation": [
     "shoulder",
-    "back of the shoulder"
+    "shoulder area"
   ],
-  "context": "The word olkapää refers to the back or upper part of the shoulder, and it is commonly used in Finnish to describe the area where the arm meets the body."
+  "context": "The term 'olkapää' refers to the shoulder in Finnish. It is commonly used in medical contexts or when talking about physical parts of the body, such as injuries, pain, or anatomy."
 }

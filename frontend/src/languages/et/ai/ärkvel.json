@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta oli ärkvel ja vihaselt.",
-    "Ärkvel mees karjus tänaval.",
-    "Nad said ärkvel pärast tülli."
+    "Olen alati õhtul ära puhata ja siis olen liiga ärkvel, et und saada.",
+    "Kui ma ei joo kohvi, jään liiga vähe ärkvel.",
+    "Ta tegi nii palju hommikust peale, et ta läks soojendusele ja jäi äärmiselt äriklikuks."
   ],
   "translation": [
-    "angry",
-    "irate",
-    "enraged"
+    "awake",
+    "alert"
   ],
-  "context": "The word 'ärkvel' in Estonian describes a state of being very angry or enraged. It is stronger than simply 'viha' (anger) and implies a loss of control due to anger."
+  "context": "'ärkvel' means being awake or alert. It's commonly used to describe someone who is not asleep and mentally alert."
 }

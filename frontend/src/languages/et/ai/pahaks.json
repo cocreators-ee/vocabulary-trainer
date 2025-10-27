@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Ta ütles, et see on pahaks",
-    "Mida pahaks minna?",
-    "Pahaks tuleb"
+    "Olen pahaks saanud.",
+    "Määrat pidades teda pahaks silmas",
+    "Ta teeb kõik selleks et pahaks saada."
   ],
   "translation": [
-    "for worse",
-    "to make something bad"
+    "Angry",
+    "Annoying",
+    "Offended"
   ],
-  "context": "The word 'pahaks' in Estonian generally means for the worse or to make something bad, and is often used in expressions to convey a negative outcome."
+  "context": "The word 'pahaks' is often used to express being angry, annoyed or feeling offended. It can be used in different contexts when someone feels upset about a situation."
 }

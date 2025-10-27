@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma saavutan selle eesmärgiga, et teha seda tööd.",
-    "Ta saavutas edu oma elus.",
-    "See on võimalik saavutada ainult siis, kui me koostame ühiselt."
+    "Tema eesmärk oli saavutada edu.",
+    "Meil tuleb selleks aega otsida.",
+    "Rakenduse arendamise eesmärgiks on saavutada kasutajasooju."
   ],
   "translation": [
     "to achieve",
-    "attain"
+    "to reach",
+    "to accomplish"
   ],
-  "context": "The word 'saavutada' in Estonian means to achieve or attain something, and it is commonly used in the context of reaching a goal or accomplishing a task."
+  "context": "'saavutada' is used to express achieving or reaching something, often a goal or result. Commonly used in contexts such as business objectives, personal goals, and project outcomes."
 }

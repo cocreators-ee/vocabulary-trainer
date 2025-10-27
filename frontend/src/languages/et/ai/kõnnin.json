@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kõnnin tänaval.",
-    "Ta kõndis aeglaselt mööda rada.",
-    "Kõnnime koos pargis."
+    "Kõnnin lõunani päikeseloojanguks.",
+    "Ta kõnnis huviorbiidi juurde põgenemiseks.",
+    "Neid ei jäänud kunsti mõista, et nad alahindavad kõnnet."
   ],
   "translation": [
-    "walked",
-    "was walking",
     "to walk"
   ],
-  "context": "The word 'kõnnin' is the past tense first-person singular form of the verb 'kõnnikma', which means 'to walk'. It indicates that someone (specifically, 'I') walked somewhere. It’s a common verb used to describe locomotion on foot."
+  "context": "'kõnnin' means to walk or go somewhere on foot. It's commonly used in describing movements through places like streets, forests, or during daily routines."
 }

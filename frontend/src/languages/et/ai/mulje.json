@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mulje on hea.",
-    "Ta jättis muljet, et ta on võimeline.",
-    "See annab mulje, et see on tõesti nii."
+    "Mulje tundus kurbalt enda asjast.",
+    "Oma muljega pani ta lõpu oma elule.",
+    "Mulje tehti maha.",
+    "Ta andis mulje valmis olla."
   ],
   "translation": [
     "impression",
-    "feeling"
+    "feel"
   ],
-  "context": "The word 'mulje' in Estonian refers to an impression or feeling that someone or something gives, and it is commonly used to describe a vague or general sense of something."
+  "context": "Used in the sense of a feeling or impression. It can also mean to commit suicide, in which case it is often used with prepositions."
 }

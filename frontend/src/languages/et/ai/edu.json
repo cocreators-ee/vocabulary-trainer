@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen edu saavutanud.",
-    "Ta on edu nimel hinnaline.",
-    "Meil oli edu meie katsega."
+    "Ta tõi kooli ja sai edu.",
+    "Ôiselt ei tea keegi, kas ta saidi endale eduga toime.",
+    "Edu peab alati kinni oma sünniaastast."
   ],
   "translation": [
-    "success",
-    "advantage"
+    "Success",
+    "Ability",
+    "Luck"
   ],
-  "context": "The word 'edu' in Estonian generally refers to a positive outcome or benefit, and is commonly used to describe achieving something desirable or having an upper hand in a situation."
+  "context": "The Estonian word \"edu\" translates primarily to 'success', but it can also mean 'ability' or 'luck'. It is used in contexts where achieving a goal, having the capability, or being fortunate is discussed."
 }

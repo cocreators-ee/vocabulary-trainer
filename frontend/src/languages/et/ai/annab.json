@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
     "Ta annab mulle raamatu.",
-    "Annab see talle rõõmu?",
-    "Ma annan talle kingituse."
+    "Mees annab oma ema käest rahamael."
   ],
   "translation": [
     "gives",
-    "offers",
-    "provides"
+    "is giving"
   ],
-  "context": "The word 'annab' is a verb in Estonian that means to give something to someone, and it is commonly used in sentences to describe the act of giving or providing something."
+  "context": "Annab is the third person singular form of 'annama', which means to give. It is commonly used in sentences where someone is giving something physically or metaphorically, like sharing an opinion or information."
 }

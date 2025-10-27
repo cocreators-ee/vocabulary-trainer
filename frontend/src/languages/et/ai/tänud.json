@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen tänud sulle",
-    "Ta oli väga tänud tema abiga",
-    "Nad on tänud heade sõnadega"
+    "Tänan sind väga.",
+    "Palun tänada mind.",
+    "Ma olen tänulik sinu toele."
   ],
   "translation": [
-    "thankful",
-    "grateful"
+    "thank you",
+    "thanks"
   ],
-  "context": "The word 'tänud' in Estonian means being thankful or grateful for something, and it is commonly used to express appreciation."
+  "context": "'tänud' is a past form of 'tänu,' which means 'thank.' It is used to express gratitude in both formal and informal situations, such as saying thank you for something or being thankful."
 }

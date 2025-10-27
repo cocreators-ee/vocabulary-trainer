@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kilpailu oli tiukka.",
-    "Hän osallistui kilpailuihin useita kertoja.",
-    "Kilpailun voittaja sai palkinnon."
+    "Kilpailussa mukaan osallistui yli tuhat juoksijaa.",
+    "Tämä kilpailu on tulevaisuudessa järjestettävä joka toinen vuosi.",
+    "Hän voitti kilpailun helposti."
   ],
   "translation": [
     "competition",
     "contest",
     "race"
   ],
-  "context": "The word 'kilpailu' generally refers to a competition or contest where individuals or teams compete against each other to achieve a goal or win a prize, and it is commonly used in various contexts such as sports, business, or education."
+  "context": "Kilpailu refers to a competition or contest. It can also mean race, as in a running or swimming event where participants compete against each other."
 }

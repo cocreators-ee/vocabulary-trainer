@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta muretses pidevalt oma laste pärast.",
-    "Ära muretse nii palju, kõik läheb hästi.",
-    "Ma ei saa aru, mille pärast sa muretsed."
+    "Ta ei muretse oma vaba aja eest.",
+    "Mina alati muretsen enne eksamit.",
+    "Ära muretseda selle pärast.",
+    "Ta hakkas muretsema kui kuulis uusi uudiseid."
   ],
   "translation": [
-    "to worry",
-    "to be concerned",
-    "to fret"
+    "worry",
+    "be anxious"
   ],
-  "context": "The verb 'muretseda' in Estonian is used to express concern or anxiety about something. It’s similar to ‘to worry’ in English and implies a feeling of unease about a potential problem or negative outcome. It can also mean to care deeply about someone."
+  "context": "Expresses concern or anxiety about something, can be used both as a verb and in different tenses"
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma jäid Tallinnas.",
-    "Ta jäid tööl.",
-    "Nad jäid koos."
+    "Ta jäi rahulikult ootama.",
+    "Jäid siis maha?",
+    "Mina jään tänane kodusse."
   ],
   "translation": [
-    "stayed",
     "remained"
   ],
-  "context": "The word 'jäid' is the second person singular past tense form of the Estonian verb 'jääma', which means to stay or remain in a place."
+  "context": "'jäid' means 'remained' or 'stayed behind'. It's used to indicate that something or someone stayed in a place, remained unchanged, or was left behind after movement. The root verb is 'jääda', which can have slightly different nuances based on context."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei saa aru, mis sa tahad.",
-    "Kas sa tahad teed või kohvi?",
-    "Tahtis olla aus."
+    "Minu tahtis sain täidetuks.",
+    "Tahtis saab mõju oma tegevusest.",
+    "Oled sa mind siiski tahtnud?",
+    "Mulle on see väga tahtis."
   ],
   "translation": [
-    "want",
-    "wish",
-    "desire"
+    "important",
+    "intention"
   ],
-  "context": "The Estonian word 'tahtis' is a verb that expresses wanting or desiring something. It’s similar to ‘to want’ in English and can be used to express needs, wishes, or intentions."
+  "context": "'tahtis' is used to describe something that is important or an intention. It can be used as a noun referring to an intention, or an adjective describing the importance of something."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta jalutas mööda tänavat.",
-    "Jalad on väga väsinud.",
-    "Käin udas jalakas"
+    "Minu jalg on ruttis.",
+    "Ta kandis erakordselt suurt jalga.",
+    "Jalgsil on tugev lõhn."
   ],
   "translation": [
-    "foot",
-    "leg"
+    "foot"
   ],
-  "context": "The word 'jalg' generally refers to a part of the human body, specifically the lower extremity, and is commonly used in contexts related to movement or anatomy."
+  "context": "The word 'jalg' in Estonian translates to 'foot'. It is commonly used when referring to the body part, as well as for footwear or measuring units related to feet. The examples demonstrate singular and plural forms (jalgu), along with possessive usage."
 }

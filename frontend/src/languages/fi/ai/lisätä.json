@@ -1,15 +1,11 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minun täytyy lisätä rahaa tililleni.",
-    "Hän lisää aina suolan ruokiinsa.",
-    "Lisätäänkö hänestä muistiinpanoja?"
+    "Hän lisäsii ruokaa lautaselle."
   ],
   "translation": [
-    "add",
-    "increase",
-    "supplement"
+    "He added food onto the plate."
   ],
-  "context": "The word 'lisätä' is commonly used in Finnish to mean adding or increasing something, and it can be translated to English as 'add', 'increase', or 'supplement' depending on the context."
+  "context": "'Lisätä' means to add something to a collection, quantity, or location. It is commonly used in everyday situations when adding items or increasing amounts."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma panin risti peale.",
-    "Risti all ei olnud kedagi.",
-    "Ta tegi risti enda kohal."
+    "Mõtle peale, et vahel lükkad oma sündmuste risti vastu.",
+    "Tema kärv puhus talle ristile.",
+    "Risti sees olevad inimesed ei saa määrata oma tugevust või heakskiitu.",
+    "See on väga kallis, kuigi see ei ole päris ristis,"
   ],
   "translation": [
     "cross",
     "crucifix"
   ],
-  "context": "The word 'risti' in Estonian generally refers to a cross, often in the context of Christianity or as a symbol, and is commonly used in various forms to convey this meaning."
+  "context": "'risti' refers to a cross or crucifix. It is commonly used in religious contexts."
 }

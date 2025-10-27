@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on lõbus inimene.",
-    "Lõbus päev!",
-    "Ma armastan lõbust majas."
+    "See lõbus film meenutab mulle alati õhtu koos perekonnaga.",
+    "Ta tegelane oli nii väga lõbus ja tundus, et kõik saalis jahuti temast.",
+    "Meil on sümmeetriline komediatööd teha - see on väga lõbus."
   ],
   "translation": [
     "funny",
-    "amusing"
+    "amusing",
+    "humorous"
   ],
-  "context": "The word 'lõbus' is commonly used to describe someone or something that is amusing or entertaining."
+  "context": "'lõbus' is commonly used to describe something amusing or humorous. It can refer to things like a funny movie, an amusing character, or the general feeling of being entertained in a light-hearted way."
 }

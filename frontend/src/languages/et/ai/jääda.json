@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma jään koju.",
-    "Ta jäi haigeks.",
-    "Nad on üsna hämmastunud, et see ei jää selguni."
+    "Mina jään.",
+    "Ta ei jää.",
+    "Neil valdub jääda.?"
   ],
   "translation": [
     "to stay",
-    "to remain",
-    "to stay behind"
+    "stay"
   ],
-  "context": "The word 'jääda' is commonly used in Estonian to mean staying or remaining in a place, whether it be physically or metaphorically. It can also imply being left behind or staying back from something."
+  "context": "The verb 'jääda' is used to express the action of remaining in a place or continuing in a state."
 }

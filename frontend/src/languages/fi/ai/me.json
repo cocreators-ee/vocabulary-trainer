@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.5,
   "understood": true,
   "sentences": [
-    "Minä olen hänen ystävänsä",
-    "Me olemme menossa kauppaan",
-    "Meillä on auto"
+    "Minä olen meijerimaitoa.",
+    "He ovat meijereissä.",
+    "Mehilliä on hyvä juoda talvella."
   ],
   "translation": [
-    "I",
-    "we",
-    "us"
+    "milk"
   ],
-  "context": "The word 'me' is a pronoun in Finnish that is used to refer to the speaker, and it can be translated to English as 'I', 'we', or 'us' depending on the context in which it is used."
+  "context": "The word 'me' translates to 'milk' in English. It is commonly used to refer to the white liquid produced by mammals, typically cows or goats for consumption."
 }

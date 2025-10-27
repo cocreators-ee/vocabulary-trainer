@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma samuti armastan seda kohta.",
-    "Ta samuti ei tea, mis toimub.",
-    "Samuti on see hea küsimus."
+    "Ma õpin eesti keelt ja samuti lisan ma sellele rohkemat teadmisi.",
+    "Lisan sinna ka kõikjal mujal samuti midagi väärtlikku.",
+    "Samuti on see väga kasulik näiteks õppimisel."
   ],
   "translation": [
     "also",
-    "too"
+    "as well"
   ],
-  "context": "The word 'samuti' is used in Estonian to indicate that something is also true or happening, similar to the English words 'also' and 'too'."
+  "context": "'samuti' is used to add additional information or items, similar to 'also' in English. It can be translated as 'also' or 'as well', and it often follows what was just mentioned, indicating that there's more to the statement."
 }

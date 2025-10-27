@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ootan teie tulemast.",
-    "Tulemast Eestisse!",
-    "Olen rõõmus teie tulekust."
+    "Tema elu oli tulemust.",
+    "Kõikjal mujal tuleb meie kätte, aga pole siin tulemast.",
+    "Jääge tulemast!",
+    "See film on kindlasti tulemas."
   ],
   "translation": [
-    "welcome",
-    "arrival"
+    "coming",
+    "arriving",
+    "due"
   ],
-  "context": "The word 'tulemast' in Estonian means 'welcome' or 'arrival', and it is commonly used to express a positive greeting when someone arrives at a place."
+  "context": "In Estonian, 'tulemast' is the fourth infinitive form of 'tulla', which means to come. It can describe something as being about to arrive or happen, often used in contexts like people arriving, events happening soon, or things becoming available."
 }

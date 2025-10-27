@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta tõmbas sabaks.",
-    "Saba on pikem kui pea.",
-    "Koer keerab end sabaga."
+    "Saba oli väike ja kollane.",
+    "Pildistasin saba ära enne kui see kadus tuledes.",
+    "Sabanäha teki inimestel rõõmu."
   ],
   "translation": [
-    "tail"
+    "squirrel",
+    "a squirrel"
   ],
-  "context": "The word saba refers to the back part of an animal's body, typically extending from the base of the backbone to the end of the spine."
+  "context": "The word 'saba' refers to a small, furry rodent with a bushy tail commonly found in forests and parks. It is often depicted in cartoons and nature documentaries as a quick and nimble animal that climbs trees and stores nuts."
 }

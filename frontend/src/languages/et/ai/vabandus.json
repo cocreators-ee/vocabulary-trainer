@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ütles, et vabandus on vajalik.",
-    "Vabanduseks tuleb alati oodata.",
-    "Vabandus ei ole kunagi liiga hilja."
+    "Vabandus, kuidas sa nimi tänapäeval lõpetad?",
+    "Vabandus, kas see on õiglane hind?",
+    "Vabandus, ma ei kuula."
   ],
   "translation": [
-    "apology",
-    "excuse"
+    "excuse me"
   ],
-  "context": "The word 'vabandus' in Estonian refers to an expression of regret or remorse for something one has done, and is commonly used in situations where someone needs to make amends or acknowledge their wrongdoing."
+  "context": "A common phrase used to get someone's attention or express that you didn't hear something clearly."
 }

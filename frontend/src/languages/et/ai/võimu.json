@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Võim on suur võimu",
-    "Ta tahab võimul olla",
-    "Võim kuulub rahvale"
+    "Tema isal oli suur võimu.",
+    "See seadus andis valdavalt võimu vandenõu alluvusele.",
+    "Võimu jagunemine on demokraatia alustala."
   ],
   "translation": [
     "power",
-    "authority",
-    "control"
+    "authority"
   ],
-  "context": "The word võimu refers to the state of having power or control over something, and is commonly used in Estonian to describe a situation where someone has dominance or influence."
+  "context": "The word 'võimu' refers to power or authority in Estonian. It is commonly used in political, legal, and social contexts to denote control, influence, or command over people or situations."
 }

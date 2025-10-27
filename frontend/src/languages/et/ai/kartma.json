@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta kartis oma sõbraga pargis.",
-    "Meie lapsed armastavad kartma.",
-    "Sa pead kartma ainult head."
+    "Ma kartn oäkki.",
+    "Tõesti ei kartsid sa seda teha?",
+    "Üli siis väheke kartuse heledus."
   ],
   "translation": [
     "to fear",
-    "to be afraid",
-    "to dread"
+    "to be afraid of"
   ],
-  "context": "The verb 'kartma' in Estonian is used to express the feeling of fear or apprehension towards something. It’s similar to ‘to fear’ or ‘to be afraid’ in English, and can describe a general state of being fearful or a specific instance of fearing something."
+  "context": "'Kartma' means to fear or be afraid of something. It is commonly used in describing emotions, fears, anxieties."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Meest on võimalik kohata tänaval.",
-    "Ta on üks meest, kes on väga osav.",
-    "Meeste hulgas on palju erinevaid isiksusi."
+    "Minu mees on saabunud.",
+    "See mees jättis oma kassidele toitu.",
+    "Temaga tegutsus hea mees."
   ],
   "translation": [
     "man",
-    "men",
-    "guy"
+    "husband"
   ],
-  "context": "The word 'meest' in Estonian refers to a man or men, and it is commonly used to describe an adult male human being."
+  "context": "'meest' is the genitive singular form of 'mee' which means man or husband. It's commonly used in sentences where a male person is referenced, often indicating ownership or relationship such as my man, his husband etc."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
     "Hän oli sairas.",
-    "Me olimme myöhässä.",
-    "Oli kiva tavata sinut."
+    "Tämä oli yllättävä.",
+    "Oli jo aika menna."
   ],
   "translation": [
-    "was",
-    "were",
-    "used to be"
+    "was"
   ],
-  "context": "The word 'oli' is the third-person singular past tense of the verb 'olla', which means 'to be'. It’s a very common auxiliary verb used to form perfect and pluperfect tenses, as well as simply stating something *was* or *were* in the past."
+  "context": "'oli' is the past tense form of 'olla', meaning 'to be'. It's used to describe states or conditions in the past, such as being sick, surprised, or it was time to go."
 }

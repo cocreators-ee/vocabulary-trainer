@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta laske oma koti ümber ringi.",
-    "Ma ei saa aru, miks sa seda teed, laske mind rahule!",
-    "Laske see vesi välja."
+    "Laske, et mind kodusse jõuaks.",
+    "Tema pidi lasma selle juurde minna.",
+    "Ma tahan teada, et nad see lasid teha."
   ],
   "translation": [
-    "let",
     "allow",
-    "release"
+    "let",
+    "permit"
   ],
-  "context": "The Estonian word 'laske' is a versatile verb that can mean 'to let', 'to allow', or 'to release' something. It’s often used in the imperative mood, giving a command or permission."
+  "context": "'Laske' is a verb in Estonian that means to allow or let someone do something. It's commonly used when expressing permission or allowing an action to happen."
 }

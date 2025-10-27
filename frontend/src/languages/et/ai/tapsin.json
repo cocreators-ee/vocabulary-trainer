@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tapsin kohe, et see on hea film.",
-    "Ta tapsis mind juba ammu.",
-    "Tapsime, et see on parim valik."
+    "Tapsin teda nöämlikult.",
+    "Ta tapsid mind vahetult põle peale.",
+    "Ei tea, kas ma olen kaugusel piisavalt hea, et tapsida siin midagi."
   ],
   "translation": [
-    "guess",
-    "suppose"
+    "shot",
+    "killed"
   ],
-  "context": "The word 'tapsin' is the first person singular form of the verb 'tapsma', which means to guess or suppose something. It is commonly used in informal conversations to express a hunch or an assumption about something."
+  "context": "This verb is used to describe shooting someone or something with a gun. It can also be used metaphorically in some contexts to mean getting rid of something."
 }

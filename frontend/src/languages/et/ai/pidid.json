@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta pidid mulle abi.",
-    "Ma pidin talle helistama.",
-    "Pidage meeles seda teavet."
+    "Ta pidas oma lugu alati meelde.",
+    "Meil on kohustus aidata teineteisele.",
+    "Pidi tõestama oma väiteid dokumentidega."
   ],
   "translation": [
-    "asked",
-    "had to",
-    "remember"
+    "to have to",
+    "duty",
+    "must"
   ],
-  "context": "The Estonian word 'pidid' is a versatile verb that can mean 'to ask', 'to have to', or 'to remember', depending on the context. It often implies obligation or request."
+  "context": "Expresses necessity or obligation in Estonian, often used similarly to 'have to' or 'must' in English"
 }

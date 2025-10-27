@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen kellegi sõber",
-    "See on kellelgi kodu",
-    "Ta on kel"
+    "Kel on põnevamad suvevaated?",
+    "Minu sõbrad kel usuvad.",
+    "Kas kel neil on mõni küsimus?"
   ],
   "translation": [
-    "someone",
-    "somebody"
+    "who",
+    "whom",
+    "to whom"
   ],
-  "context": "The word 'kel' is a pronoun in Estonian that means someone or somebody, it is commonly used to refer to an unspecified person."
+  "context": "'kel' is used in Estonian to ask or refer to 'who' or 'whom', often depending on the grammatical case required by the sentence structure."
 }

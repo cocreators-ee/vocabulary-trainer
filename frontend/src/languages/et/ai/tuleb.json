@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma tuleb koju",
-    "Ta tuleb homme",
-    "Nad tulevad täna"
+    "Ta tuleb homme kooli.",
+    "Kus sa oled, et ma tahan tuleb?",
+    "Ma tean, et ta jällegi ei tuleb."
   ],
   "translation": [
     "comes",
-    "is coming",
     "will come"
   ],
-  "context": "The word 'tuleb' is a verb in Estonian that means to come or arrive, and it is commonly used to describe the act of moving towards a place or person."
+  "context": "The word 'túleb' is the third person singular form of the verb 'to come'. It is used to describe someone or something coming in the present tense."
 }

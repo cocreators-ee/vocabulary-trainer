@@ -1,16 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tegin jämada,",
-    "See on väga jäme viga.",
-    "Jämedad juured ulatuvad sügavale."
+    "Jama tekkis siis järele.",
+    "Kui sul tuleb jama, helista mulle.",
+    "Sul on vaid minut aega enne kui jama tekkib."
   ],
   "translation": [
-    "jam",
-    "thick",
-    "coarse",
-    "rough"
+    "trouble"
   ],
-  "context": "The word 'jama' in Estonian can refer to a jam or preserve, but more commonly it means something is wrong, messed up, or problematic. It can also describe something as thick or coarse."
+  "context": "A problem or trouble that arises unexpectedly"
 }

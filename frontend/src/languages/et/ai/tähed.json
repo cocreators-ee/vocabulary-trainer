@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tõlkis selle raamatu tähed ümber.",
-    "Tähed olid tema elus väga olulised.",
-    "Ma ei saa aru, mida need tähed tähendavad."
+    "Tähed on tumedad öösel.",
+    "Ta luges tähed vahetult eesmärgiks pidades.",
+    "Klassi ülemine tõus tähed teki."
   ],
   "translation": [
     "stars",
-    "signs",
-    "characters"
+    "letters"
   ],
-  "context": "The word 'tähed' in Estonian can refer to stars in the sky, signs or symbols, or characters in a story or play, depending on the context in which it is used."
+  "context": "The word 'tähed' primarily means 'stars' in Estonian, but it can also refer to 'letters', especially in the context of the alphabet or written characters. It is commonly used in both literal and metaphorical contexts."
 }

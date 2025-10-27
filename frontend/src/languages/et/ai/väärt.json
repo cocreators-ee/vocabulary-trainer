@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on väga väärt raamat.",
-    "Väärtuslik aeg kulub koos perega.",
-    "Ta ei osanud seda väärtustada."
+    "See on väga väärt teave.",
+    "Minu soovitus on alati väärtuslik.",
+    "Väärta oma aega ja energia."
   ],
   "translation": [
     "valuable",
     "worthwhile",
-    "precious"
+    "to value"
   ],
-  "context": "The Estonian word 'väärt' translates to 'valuable', 'worthwhile', or 'precious' in English. It is commonly used to describe something that holds significant importance, either material or emotional."
+  "context": "'väärt' in Estonian is commonly used to describe something as valuable, worthwhile, or the act of valuing. It can be an adjective describing worth or importance and also appear as part of verbs expressing appreciation or respect."
 }

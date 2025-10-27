@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma küütin koera",
-    "Koer on küütitud",
-    "Küütida tähendab karvade lõikamist"
+    "Ta on väga head küüti.",
+    "Kas saad päriselt küüdida?",
+    "Mässajad küütidid presidendit."
   ],
   "translation": [
-    "to groom",
-    "grooming"
+    "to shoot",
+    "shooting"
   ],
-  "context": "The word küüti is commonly used in Estonian to refer to the act of grooming, particularly for animals like dogs."
+  "context": "'küüti' is a verb meaning 'to shoot' in Estonian. It can refer to shooting with firearms, taking photographs, or even launching something like fireworks depending on context."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sidus mu käega.",
-    "Sid on tugev ja vastupidav.",
-    "Kõik sidemed said katki."
+    "Tema vaim aitas tal sidu.",
+    "Neid sidus tugev sõprus.",
+    "See meel on liiga sidav."
   ],
   "translation": [
-    "glue",
     "bond",
-    "tie"
+    "tie",
+    "bind"
   ],
-  "context": "The word 'sid' in Estonian primarily refers to a glue or adhesive substance. It can also metaphorically mean a bond or tie between people, or a connection. In some contexts it can refer to lacing or tying something up."
+  "context": "'Sid' is commonly used to refer to something that physically or metaphorically connects two things together, such as a bond between friends or a legal binding contract."
 }

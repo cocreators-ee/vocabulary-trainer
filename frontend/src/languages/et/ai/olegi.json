@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olin väga õnnelik, et sa olid seal.",
-    "Kas sa oleksid võinud mind aidata?",
-    "Ta oleks pidanud varem tulema."
+    "Ole see kodus.",
+    "Kas on sulgi kodus?",
+    "Sul ei ole midagi."
   ],
   "translation": [
-    "would be",
-    "were",
-    "should"
+    "there is/are",
+    "here is/are"
   ],
-  "context": "The word 'olegi' is a form of the verb 'olema' (to be) and expresses conditional or potential states. It’s used to indicate what would be, could be, or should be, often in hypothetical situations or expressing possibilities."
+  "context": "'olegi' functions as a phrase to confirm the existence or presence of something/someone, both in present and past tenses depending on context."
 }

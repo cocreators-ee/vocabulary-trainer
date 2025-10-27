@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma andestan sind südamest.",
-    "Ta ei suuda kedagi andestada.",
-    "Andestage mulle mu patud."
+    "Kas te andestage mulle aega eksami sooritamiseks?",
+    "Praegu pole mul raha, et maksta, aga ma loodan, et nad andestavad minu laenusid.",
+    "Minister ütles, et valdavad isikud peaksid saama kõrgemat palka ja riik peab palgad andestama."
   ],
   "translation": [
     "forgive",
     "pardon",
-    "absolution"
+    "grant"
   ],
-  "context": "The word 'andestage' in Estonian means 'to forgive' or 'to pardon'. It is commonly used to express the act of letting go of resentment or blame towards someone who has done something wrong. It can also be used in a religious context, asking for forgiveness from a higher power."
+  "context": "Used to express forgiving or granting something such as time, money, or rights."
 }

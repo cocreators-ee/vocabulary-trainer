@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen mängin palju aegu",
-    "Mängin väga hästi jalgpalli",
-    "Ta on mängin klaverit"
+    "Ma mängin tänas ööd kodu.",
+    "Ta on suurepärane, kui ta õnnelikult mängib.",
+    "Rohkem mängimist aitab sind arengus edasi."
   ],
   "translation": [
-    "I have played",
-    "played very well",
-    "has been playing"
+    "to play",
+    "to gamble"
   ],
-  "context": "The word 'mängin' is the first person singular form of the verb 'mängima', which means to play, and it is commonly used in Estonian to describe participation in games, sports or music."
+  "context": "'mängin' is the first person singular form of 'to play'. It commonly refers to playing games, music, sports, or gambling. The context often determines which meaning is intended."
 }

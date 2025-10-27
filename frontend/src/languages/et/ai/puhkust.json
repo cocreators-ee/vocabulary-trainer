@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta võttis puhkust.",
-    "Puhkus oli väga meeldiv.",
-    "Mul on vaja puhkust."
+    "Ma vajan rohkem puhkust.",
+    "Tema eesmärk on leida rahulikku puhkust.",
+    "Puhkusel saab inimesed taas nautida loodusest."
   ],
   "translation": [
-    "vacation",
-    "rest"
+    "rest",
+    "relaxation"
   ],
-  "context": "The word 'puhkust' in Estonian means a period of time spent away from work or daily activities for rest and relaxation, similar to the concept of vacation in English."
+  "context": "'puhkust' refers to rest or relaxation, often used in contexts related to taking time off work, vacationing, or simply unwinding from daily activities."
 }

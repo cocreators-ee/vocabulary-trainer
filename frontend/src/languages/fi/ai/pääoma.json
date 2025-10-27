@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Pääoma on yrityksen omistajien omistama pääoma.",
-    "Hänellä on paljon pääomaa sijoitettavaksi.",
-    "Pääoman jakaminen omistajien kesken voi olla haastavaa."
+    "Käytämme pääomaa ostamalla uusia koneita.",
+    "Pääomasijoituksella yrittäjät tavoittelevat pitkän aikavälin kasvua.",
+    "Yrityksen arvo perustuu sen liiketilanteeseen ja pääomaan."
   ],
   "translation": [
-    "equity",
-    "capital"
+    "capital (in financial context)",
+    "capital (as in capital assets)"
   ],
-  "context": "The word pääoma refers to the ownership capital or equity of a company, which is the amount of money invested by the owners or shareholders."
+  "context": "The term 'pääoma' refers to capital in a financial or business context. It can denote the total amount of money invested in a company by its shareholders or the assets that are used for production."
 }

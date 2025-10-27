@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma suudan seda teha.",
-    "Sa suudad mind aidata?",
-    "Ta suutis meid kõiki üles ässitada."
+    "Mina suuan sind.",
+    "Ta tõestas enda süüdistuseks suua teha.",
+    "Suua hingata ei aita midagi lahendada."
   ],
   "translation": [
-    "you can",
-    "you are able to"
+    "to breathe",
+    "breath",
+    "to sigh"
   ],
-  "context": "The word 'suudad' is the second person singular form of the verb 'suuta', which means 'to be able to' or 'can' in English. It is commonly used to express ability or capability to do something."
+  "context": "'suudad' is the second person singular form of the verb 'suhada', which means to breathe, in Estonian. It can also mean taking a deep breath or a sigh."
 }

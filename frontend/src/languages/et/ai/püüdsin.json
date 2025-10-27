@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma püüdsin teda aidata.",
-    "Ta püüdis mind veenda.",
-    "Me püüdsime koos lahendust leida."
+    "Olin väga näljane ja püüdsin haigla kõrvalt toitu.",
+    "Ta püüdsin saada minu tähelepanu oma ilusate sõnadega.",
+    "Püüdsin tunda end hästi, kuid mul olid ära jäänud meeleolu mälestused."
   ],
   "translation": [
-    "tried",
-    "attempted"
+    "tried to",
+    "attempted to",
+    "struggled to"
   ],
-  "context": "The word 'püüdsin' is the first person singular past tense form of the verb 'püüdama', which means to try or attempt something in English. It is commonly used to describe an effort or endeavor to accomplish a task or achieve a goal."
+  "context": "'püüdsin' is the past tense form of 'to try to' or 'to attempt to'. It is commonly used in Estonian to express that someone made an effort to do something but did not necessarily succeed."
 }

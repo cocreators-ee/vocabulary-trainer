@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta kutsub mind iga päev.",
-    "Kutsub mind üles juba tunde.",
-    "Ma ootan, kuni ta mind kutsub."
+    "Tema nimi kuttab meelde tema eestlaseid.",
+    "Ta on alati valmis sõbra abiks kutsuma.",
+    "Ära kutsa teda lihtsalt enda meelde."
   ],
   "translation": [
     "calls",
     "invites"
   ],
-  "context": "The word 'kutsub' is a verb that means to call or invite someone, often used in formal or polite situations."
+  "context": "'kuttab' means to call or invite someone, usually implying a request for the person to come. It is often used in social contexts where one individual summons another to join them either physically or metaphorically."
 }

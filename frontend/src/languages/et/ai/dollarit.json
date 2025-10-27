@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ostan selle eest dollarit.",
-    "Tal on palju dollarit.",
-    "Dollarid on Ameerika Ühendriikide rahaühik."
+    "Kas saad maksma ainult dollaritega?",
+    "Minu suurem osa sääst on dollarites.",
+    "Tema tulus kattus peaaegu täielikult dollari müügist."
   ],
   "translation": [
-    "dollars"
+    "dollar"
   ],
-  "context": "The word 'dollarit' is the plural form of 'dollar' in Estonian, referring to the currency used in the United States of America. It is commonly used when talking about money or financial transactions involving US dollars."
+  "context": "'Dollarit' is the partitive singular form of 'dollar' in Estonian and it refers to an unspecified amount or portion of dollars."
 }

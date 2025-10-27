@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen käitud inimesi näinud",
-    "Käitud koer on rahulikum",
-    "Ta on väga käitud ja oskab palju"
+    "Tema kõne oli väga lühike ja käitu.",
+    "Ta ei mõista seda filmi käitut järku.",
+    "Sellel lugu on hämav käitu tähendus."
   ],
   "translation": [
-    "treated",
-    "handled",
-    "dealt with"
+    "meaning",
+    "sense"
   ],
-  "context": "The word käitud is commonly used to describe something or someone that has been handled or treated in a certain way, often implying a sense of care or management."
+  "context": "'käitud' refers to the meaning or sense of something, often used in the context of understanding or interpreting a message, story, film, etc. It can also refer to the overall gist or intention behind words or actions."
 }

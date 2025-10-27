@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma soovin sulle paremat.",
-    "Paremat aegu!",
-    "Ta oli paremat sorti inimene."
+    "Ma soovin sulle heada ja paremat.",
+    "Igas eluvald on eesmärgiks saavutada paremat.",
+    "Tema töö kvaliteet jääb alati kõrgele ja ta püüab saavutada paremat."
   ],
   "translation": [
     "better",
-    "best"
+    "improvement"
   ],
-  "context": "The word \"paremat\" is an adjective in Estonian that means better or best, it is commonly used to express a desire for something to be of higher quality or to wish someone all the best."
+  "context": "Paremat is the partitive singular form of 'paremini,' which means 'better' or 'for the better.' It is commonly used in wishes and goals to express striving for improvement or a more positive outcome."
 }

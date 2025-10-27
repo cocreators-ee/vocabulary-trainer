@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma suutsin aru saada, mis ta mõtles.",
-    "Ta ei suutnud oma viha kontrollida.",
-    "Kas sa suutsid selle ülesandega hakkama saada?"
+    "Suutsin lahendada probleemi.",
+    "Ta suutis jõuda aja jooksul.",
+    "Kas sa suudad mõista seda lauset?"
   ],
   "translation": [
-    "to manage",
-    "to be able to",
-    "can"
+    "I managed to",
+    "I succeeded in"
   ],
-  "context": "The verb 'suuta' in Estonian means 'to be able to', 'to manage to', or 'to succeed in doing something'. It expresses capability or the achievement of a goal. It is often used when describing someone’s ability to perform an action or overcome a challenge."
+  "context": "'suutsin' is the first-person past tense of 'succead' in Estonian, which means to manage or succeed. It's commonly used when explaining that you managed to do something successfully."
 }

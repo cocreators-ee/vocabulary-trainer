@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on ilmselt üks neist naistest, kes oskavad head naisi olla.",
-    "Naisi peab olema kaunis ja vooruslik.",
-    "Kui palju naisi on siin koos?"
+    "Meil on vaja rohkem naiseõde koolis.",
+    "Naisi tundus huvitatud uue projektist.",
+    "Ta tegutses alati naisi ja lapsed tagasi panna turvalisse kohta."
   ],
   "translation": [
-    "woman",
-    "lady"
+    "women"
   ],
-  "context": "The word 'naisi' is the genitive singular form of the Estonian noun 'naine', which refers to a woman or lady, and is commonly used in various contexts to describe females."
+  "context": "naisi is the plural form of 'naine' which means woman in Estonian. It refers to female adults."
 }

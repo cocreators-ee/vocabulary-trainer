@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta teeks kohe, kui saab.",
-    "Ma teeksin sulle hea meelega tee.",
-    "Ära tee nii!"
+    "Teaks, et sa tuleks pärast lõunat.",
+    "Ma tean, et ta on õigus, kuid teaks ta seda?",
+    "Rohkem võis ta ei teaks."
   ],
   "translation": [
-    "does",
-    "makes",
-    "do"
+    "(he/she/it) knows",
+    "(one) would know"
   ],
-  "context": "The Estonian word 'teeks' is a conditional form of the verb 'tegema', meaning 'to do' or 'to make'. It’s used to express what someone would do under certain circumstances, or as a polite request. It can also be used in the past tense with a conditional meaning."
+  "context": "'teaks' is the third person conditional form of 'teha', meaning to know. It is used in hypothetical or polite situations, such as suggestions or conditions that are not certain."
 }

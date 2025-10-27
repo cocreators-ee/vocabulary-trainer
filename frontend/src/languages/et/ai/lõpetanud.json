@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen lõpetanud ülikooli",
-    "Ta on lõpetanud kooli",
-    "Nad on lõpetanud töö"
+    "Ta on lõpetanud kooli.",
+    "Ma olen juba treeningu lõpetanud.",
+    "Isa ütleb tihti: „Kui sa pole midagi lõpetanud, siis seda ei arvestata.“"
   ],
   "translation": [
     "finished",
-    "completed",
-    "graduated"
+    "completed"
   ],
-  "context": "The word 'lõpetanud' is a verb in Estonian that means to have finished or completed something, such as a task, education, or a project. It is commonly used to describe the completion of a degree or a course of study."
+  "context": "The word 'lõpetanud' means something has been finished or completed. It is the past participle of the verb 'to finish' in Estonian and is commonly used to describe completing tasks, education, training, etc."
 }

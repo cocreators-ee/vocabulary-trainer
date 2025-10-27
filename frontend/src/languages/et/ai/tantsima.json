@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tantsin väga hästi tantsima",
-    "Tantsima minu lemmiklaul oli tore",
-    "Kõik said tantsima ja nalja tegema"
+    "Olen alati tantsinud oma vanema juurde.",
+    "Tantsima jääb mulle hingus.",
+    "Ta on hästi lahke ja juba nii, et ta teab, kuidas tantsida."
   ],
   "translation": [
-    "to dance",
-    "dancing"
+    "to dance"
   ],
-  "context": "The word 'tantsima' in Estonian means to dance, and it is commonly used in sentences to describe the act of dancing or the ability to dance."
+  "context": "The word 'tantsima' in Estonian translates to 'to dance'. It is commonly used when referring to the act of dancing or expressing the desire to do so. In conversational contexts, it might appear in phrases like 'I want to dance' or 'Let's go dancing', indicating an action one wishes to perform."
 }

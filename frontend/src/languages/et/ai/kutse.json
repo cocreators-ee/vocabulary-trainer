@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen kutsealane.",
-    "Ta võttis mind kutse peale kaasa.",
-    "See on minu esimene kutse."
+    "Ma saanin kutse tantsueelamisse.",
+    "Tema süda oli valmis vastama kõrgliigale oleva kutsele.",
+    "Päikeseloojanguks antakse alati suuline kutse."
   ],
   "translation": [
     "invitation",
-    "call",
-    "vocation"
+    "call"
   ],
-  "context": "The word 'kutse' generally refers to an invitation, call, or vocation, and is commonly used in Estonian to describe a formal or informal request to participate in an event or activity."
+  "context": "A 'kutse' is a formal or informal invitation to an event or gathering. It can also refer to a call to action, such as receiving a divine calling."
 }

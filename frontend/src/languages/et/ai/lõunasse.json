@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma sõidan lõunasse suvel.",
-    "Ta läks lõunasse elama.",
-    "Lõunasse minek on tema unistus."
+    "Minu eesmärk on jõuda lõunasse.",
+    "Lõunasse tuli uus restoran.",
+    "Ma olen pööratud lõunasse."
   ],
   "translation": [
-    "southward",
-    "to the south"
+    "south",
+    "to the south",
+    "southerly"
   ],
-  "context": "The word 'lõunasse' is a directive adjective in Estonian, meaning towards or in the direction of the south, and it is commonly used when describing movement or travel in that direction."
+  "context": "'lõunasse' is an Estonian preposition meaning 'to the south'. It indicates direction or movement towards the southern part of a country or region, and can also be used more generally to indicate something happening in the southern area."
 }

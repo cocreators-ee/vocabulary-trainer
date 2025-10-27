@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma loodan, et saad tänaseks aru.",
-    "Ta on tänaseks juba korduvalt abi käinud.",
-    "Tänaseks oleme saavutanud suurepäraseid tulemusi."
+    "Mõtle pärast tänaseks.",
+    "Ei tea, kuidas sa tänaseks hakkad said.",
+    "Tunne, et see on su tänaseks parim valik."
   ],
   "translation": [
-    "for now",
-    "so far",
-    "up to now"
+    "for today"
   ],
-  "context": "The word tänaseks is used in Estonian to indicate a point in time up to the present moment, similar to the English phrase 'for now' or 'so far'."
+  "context": "The word 'tänaseks' means 'for today'. It is used to refer to an action or decision made with reference to the current day only. Commonly appears in contexts where decisions are limited to a specific timeframe, particularly when talking about what one will do on that particular day."
 }

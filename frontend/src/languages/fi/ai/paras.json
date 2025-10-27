@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän on paras ystävämme.",
-    "Paras tapa oppia uusi kieli on puhua sitä.",
-    "Olen lukenut parhaan kirjan."
+    "Paras on se.",
+    "Se on paras tapa.",
+    "Hän on paras ystävä."
   ],
   "translation": [
     "best",
-    "better"
+    "good"
   ],
-  "context": "The word 'paras' in Finnish means the best or of the highest quality, it is commonly used to describe something that is superior to others."
+  "context": "Paras is used to describe something that is the best or very good. It can be used in various contexts such as describing a person, method, or situation."
 }

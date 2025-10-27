@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma pidin seda üles kirjutama",
-    "Ta pidi homme tööle minema",
-    "Meil pidime kohe abi kutsuma"
+    "Ma pidin tulema kell üheksa.",
+    "Ta pidis aega kinni pidades.",
+    "Meil pidi olema selge teade sündmusest."
   ],
   "translation": [
-    "had to",
-    "must"
+    "had to"
   ],
-  "context": "The word 'pidin' is the first person singular past tense form of the verb 'pidama', which means 'to have to' or 'must'. It is commonly used in Estonian to express obligation, necessity, or requirement."
+  "context": "'pidin' is a past tense form of the verb 'pida,' which means 'to have to' or 'must.' It's used to express obligation or necessity in the past."
 }

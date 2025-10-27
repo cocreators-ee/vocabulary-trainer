@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ei taha minuga enam rääkida, ta on lihtsalt pahane ja vihane.",
-    "Ma tean, et sa oled endiselt õnnelik, aga ma olen murelik sinu pärast.",
-    "See oli väga halb uudis."
+    "Mina olen väga müüd, ent ma pean tegema tööd.",
+    "Kõik liigne, ent see ei tähista midagi.",
+    "Ta lubas mind, ent ta ei tehtud seda."
   ],
   "translation": [
-    "angry",
-    "mad",
-    "furious"
+    "and yet"
   ],
-  "context": "The word 'ent' in Estonian is used to describe a state of anger or being upset. It’s similar to the English words ‘angry’, ‘mad’, or ‘furious’. It can be used to express temporary irritation or deep-seated rage."
+  "context": "'Ent' is used in Estonian to express a contrast or contradiction between two clauses; it can be translated as 'but', 'yet', or 'however'. It functions similarly to its English counterparts by introducing an opposing idea."
 }

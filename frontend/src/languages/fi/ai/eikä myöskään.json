@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minulla ei ole autoa eikä myöskään taloa.",
-    "Hänellä ei ole veljeä eikä myöskään siskoa.",
-    "Heillä ei ole rahaa eikä myöskään ruokaa."
+    "Minä en pidä siitä eikä myöskään teidän mielipiteestänne.",
+    "Hän ei ollut viisaampi eikä myöskään paremmin asemoitunut.",
+    "Kukaan ei voittanut ja eikä myöskään hävinnyt."
   ],
   "translation": [
-    "nor either",
-    "neither"
+    "either",
+    "nor"
   ],
-  "context": "The word 'eikä myöskään' is a Finnish conjunction used to indicate that two or more things are not present or true, similar to the English words 'nor' or 'neither'."
+  "context": "'eikä myöskään' is used to introduce a negative clause that adds another item or idea to an already negative statement, similar to 'either' or 'nor' in English."
 }

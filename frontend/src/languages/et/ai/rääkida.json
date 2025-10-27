@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma rääkin inglise keelt",
-    "Ta rääkis mulle eesti keelt",
-    "Nad rääkivad omavahel"
+    "Ta räägib prantsuse keelt.",
+    "Minu ema alati rääkis eesti keeles.",
+    "Räägin hästi saksa keelt."
   ],
   "translation": [
     "to speak",
     "to talk"
   ],
-  "context": "The word rääkida is commonly used in Estonian to mean speaking or talking, and it can be used in various forms such as rääkin, rääkis, and rääkivad to indicate the subject of the sentence."
+  "context": "'rääkida' is a verb in Estonian that means 'to speak' or 'to talk'. It can be used in both formal and informal contexts. The base form of the verb is 'raa-git', so different conjugations will have it in different forms such as 'raägib', 'raägin', etc."
 }

@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta hakkas laulma.",
-    "Nad hakkasid tantsima.",
-    "Ma ei hakanud seda tegema."
+    "Ta hakkas tööle kell kuu ja neli.",
+    "Neil hakkas ilm näha rohelisena.",
+    "Tema raha hakkas kaduma."
   ],
   "translation": [
-    "began",
-    "started",
-    "commenced"
+    "started to (do something)",
+    "began"
   ],
-  "context": "The word 'hakkaks' is the third-person singular past tense of the verb 'hakkama', which means to begin or start doing something. It indicates the commencement of an action or state."
+  "context": "'Hakkaks' is the past tense form of the verb 'hakata', which means 'to start doing something'. It's used in contexts where someone begins an action or a process."
 }

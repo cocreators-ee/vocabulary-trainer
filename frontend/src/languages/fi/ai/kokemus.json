@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minulla on paljon kokemusta tietokoneiden parissa.",
-    "Hänellä on laaja kokemus liiketoiminnasta.",
-    "Kokemuksensa puolesta hän on erittäin arvostettu asiantuntija."
+    "Hänellä on paljon kokemusta tiettyjen asioiden käsittelyssä.",
+    "Lapsi sai mielikuvituksellaan vahvan kokemuksen luonnosta.",
+    "Tutkimus antoi tiedemiehille arvokkaan kokemuksen avaruuksista."
   ],
   "translation": [
-    "experience",
-    "expertise"
+    "experience"
   ],
-  "context": "The word 'kokemus' in Finnish refers to the knowledge or skill gained from experience, and it is commonly used to describe someone's background or proficiency in a particular field."
+  "context": "Kokemus refers to a personal experience or an instance of something happening to someone. It can also mean 'experience' in the sense of professional expertise."
 }

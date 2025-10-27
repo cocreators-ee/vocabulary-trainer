@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Anna teile tühja lubaduse.",
-    "Ma ei anna sulle aega.",
-    "Ta annab mulle raamatuid."
+    "Olen kindel, et saadate mulle tagasi.",
+    "Kas nad said teada sellest uudist?",
+    "Ta sai sõbralt tugeva toekanda."
   ],
   "translation": [
-    "give",
-    "donate",
-    "grant"
+    "you give",
+    "you all give"
   ],
-  "context": "The Estonian word 'annate' is the second-person singular present tense form of the verb 'anda', which means 'to give'. It’s commonly used when directly offering something to someone, or stating that one will provide assistance or a resource. It can also mean ‘donate’ or ‘grant’ depending on the context."
+  "context": "The word 'annate' is the second person plural form of the verb 'anna', meaning 'to give'. It's used when addressing a group or making a formal statement about giving something."
 }

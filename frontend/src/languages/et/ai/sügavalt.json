@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan sind sügavalt",
-    "Ta vaatas sügavalt tema silmadest",
-    "Sügavalt sisse võetud"
+    "Ta tundus sügavalt kurb.",
+    "Me peame mõtlema sügavalt ja kriitiliselt.",
+    "Rohke lumi ulatus vaid poolmeetri sügavalt."
   ],
   "translation": [
     "deeply",
+    "deep",
     "profoundly"
   ],
-  "context": "The word sügavalt is an adverb in Estonian that means deeply or profoundly, often used to describe strong emotions or intense actions."
+  "context": "The adverb 'sügavalt' is commonly used to describe something that is done or felt deeply, either physically deep in space or metaphorically as a strong emotion."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma sain ajaga kohale.",
-    "Ajaga tuleb tööd teha.",
-    "Ta on ajaga harjunud."
+    "Ta õppis ajaga kõik vastu.",
+    "Minu mure jääb ajaga tagasi.",
+    "Kui kvaliteet on hea, siis see püsib ajaga."
   ],
   "translation": [
-    "on time",
-    "in time"
+    "with time",
+    "over time",
+    "in the long run"
   ],
-  "context": "The word 'ajaga' in Estonian means being on time or punctual, and is commonly used to describe someone's ability to arrive or complete tasks by the scheduled deadline."
+  "context": "'Ajaga' is a phrase in Estonian meaning 'with time,' used to express that something happens gradually or over the course of time. It often precedes the result of such changes being observed."
 }

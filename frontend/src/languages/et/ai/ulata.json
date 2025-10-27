@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta ulatas mulle käe.",
-    "Ulata mindale!",
-    "Ma ei ulatanud talle abi."
+    "Ta ulatas käsi poole maad, et aidata."
   ],
   "translation": [
-    "reach out",
-    "extend",
-    "offer"
+    "to reach out",
+    "to extend",
+    "to stretch"
   ],
-  "context": "The word 'ulata' in Estonian means to extend or reach out something, often a hand, to someone or something, and it is commonly used in situations where someone is offering help or assistance."
+  "context": "'Ulata' is a verb in Estonian meaning to extend or stretch something, often used metaphorically for reaching out physically or figuratively."
 }

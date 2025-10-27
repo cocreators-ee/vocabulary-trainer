@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Aamu aurinko paistaa.",
-    "Olen aamukahviini tottunut.",
-    "Aamulla heräsin varhain."
+    "Aamu heräsi aamulla.",
+    "Aaminen on hänelle tärkeää.",
+    "Hänellä on hyvä aamunurmia."
   ],
   "translation": [
     "morning",
+    "dawn",
     "daybreak"
   ],
-  "context": "The word 'aamu' refers to the morning or daybreak, and is commonly used in Finnish to describe the time of day when the sun rises."
+  "context": "The word 'aamu' in Finnish is most commonly translated as 'morning'. It refers to the early part of the day following night and before noon. In sentences, it can be used both literally to denote time (e.g., 'in the morning') or metaphorically for a fresh start (e.g., 'beginning', 'dawn' in certain contexts)."
 }

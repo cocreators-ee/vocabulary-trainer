@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta uskus jumalasse.",
-    "Jumala on armuline.",
-    "Me palume jumalat meie eest."
+    "Jumala on armas.",
+    "See on Jumala tugevus.",
+    "Jumala kätte jõudmine on keeruline."
   ],
   "translation": [
-    "god",
-    "deity"
+    "God's",
+    "of God"
   ],
-  "context": "The word 'jumala' refers to a supernatural being or deity, often used in religious contexts to denote a higher power or divine entity."
+  "context": "'jumala' is the genitive form of 'Jumal', meaning 'God'. It is commonly used to express possession or relation to God, such as 'God's' in English. The word can be found in religious contexts and expressions related to divinity."
 }

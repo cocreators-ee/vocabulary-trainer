@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on üks kokkusattumus.",
-    "Kokkusattumused võivad olla kasulikud.",
-    "Ta usub, et see ei olnud lihtsalt kokkusattumus."
+    "Sõidukite kokkusattumuses said vigastada.",
+    "Kokkusattumus toimus teemeistri juures.",
+    "Auto kokkusattumuses hävis sõbra auto."
   ],
   "translation": [
-    "coincidence",
-    "chance"
+    "collision",
+    "crash"
   ],
-  "context": "The word kokkusattumus refers to an event or situation that occurs without being planned or caused by anything, often used to describe a surprising or unexpected turn of events."
+  "context": "Refers to a collision or crash between objects, commonly used in the context of vehicle accidents. It describes an unexpected and often damaging event where two or more things come together forcefully."
 }

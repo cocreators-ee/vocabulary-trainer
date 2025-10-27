@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta läks kohe tööle.",
-    "Nad läksid kinno.",
-    "Kas sa lähed minuga?"
+    "Läkikas teel.",
+    "Kass läks kõrvalt ära.",
+    "Mürgi jäid maale, sest neil oli palju tööd."
   ],
   "translation": [
-    "went",
-    "gone",
-    "to go"
+    "to run"
   ],
-  "context": "The verb 'läki' is the past tense third-person singular form of the Estonian verb 'minema', meaning 'to go'. It indicates that someone went somewhere or left a place. It’s a very common and fundamental verb in everyday Estonian conversation."
+  "context": "The Estonian word 'läki' means 'to run'. It is commonly used to describe the action of running or moving quickly from one place to another. The example sentences show different contexts: someone running along a road, a cat running away, and people rushing home because they have work to do."
 }

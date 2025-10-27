@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tämä kuiva leipä on syötävä.",
-    "Kuivat omenat ovat hyviä terveydellesi.",
-    "Ilma on kuiva ja kylmä."
+    "Hänellä on kuivat hiukset.",
+    "Kuivaa sadekansi.",
+    "Pyydämme että lait kastetaan ja kuivataan ennen asennusta."
   ],
   "translation": [
-    "dry",
-    "arid"
+    "dry"
   ],
-  "context": "The word 'kuiva' in Finnish means dry or arid, and it is commonly used to describe something that lacks moisture, such as dry food or a dry climate."
+  "context": "The Finnish word 'kuiva' is an adjective meaning dry. It is used to describe something without moisture or aridity, such as the weather being dry or a piece of cloth that has been dried."
 }

@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän lähti mukaan retkelle.",
-    "Olen täysin samaa mieltä mukaan.",
-    "Mukaan lukien kaikki verot, hinta on korkea."
+    "Minua pyydettiin mukaan.",
+    "Hän kutsui meidät mukaan juhlaan.",
+    "Lähditkö ilman minua vai myöntäisit vaikka vain yhteen johonkin?"
   ],
   "translation": [
-    "with",
-    "according to",
+    "into",
     "along with",
-    "included"
+    "with"
   ],
-  "context": "The Finnish word 'mukaan' is a versatile adverb and preposition that generally means 'with', 'according to', or 'included'. It indicates accompaniment, agreement, or addition. It can be used to express being part of something, agreeing with an idea, or including something in a calculation or list."
+  "context": "'mukaan' is a versatile word in Finnish used to express inclusion or accompaniment. It can mean 'into', 'with', or 'along with', depending on the context and sentence structure."
 }

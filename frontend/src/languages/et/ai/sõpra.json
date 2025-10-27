@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kohtasin sõpra tänaval",
-    "Sõpradega veedame aegagi koos",
-    "Ta on minu vanim sõber"
+    "Minu sõbra ütles, et tuleb homseks.",
+    "Ta on suurepärane sõber ja toetab mind alati.",
+    "Meie sõbralikku suhtumist hindavad kõik headustena."
   ],
   "translation": [
     "friend",
-    "buddy",
-    "mate"
+    "comrade",
+    "fellow"
   ],
-  "context": "The word sõpra refers to a friend or buddy, and is commonly used in informal settings to address or refer to someone with whom one has a close relationship."
+  "context": "The word 'sõbra' in Estonian refers to a close friend or companion. It is commonly used to describe someone you trust and spend time with."
 }

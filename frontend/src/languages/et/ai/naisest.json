@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta rääkis naisest.",
-    "Naisest oli väga ilus.",
-    "Meil on teade naisest."
+    "Naisest sai parim perekondlikkuses olla.",
+    "Tema sõbranna oli naisest saanud suurepärane juht."
   ],
   "translation": [
-    "woman",
-    "about a woman"
+    "from a woman"
   ],
-  "context": "The word 'naisest' is the genitive or elative form of the Estonian word for woman, used to indicate the woman is being described or talked about."
+  "context": "The word 'naisest' in Estonian is used to denote something originating from a woman, typically indicating the source or origin. It is commonly seen in expressions where one refers back to female origins, achievements, or characteristics attributed to women."
 }

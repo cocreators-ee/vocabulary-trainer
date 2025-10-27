@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Taevast sajab vihma",
-    "Taeva all ei ole midagi",
-    "Taevane muusika on ilus"
+    "Taeva all käespidi rahva vaatamas",
+    "Poiss näha tähed taeva peal",
+    "Laine jäädi taeva sisse"
   ],
   "translation": [
-    "heavenly",
-    "sky",
-    "heaven"
+    "sky"
   ],
-  "context": "The word 'taeva' in Estonian generally refers to something related to the sky or heaven, and it is commonly used to describe things that are beautiful or divine."
+  "context": "The word 'taeva' is the genitive form of 'taev' which means sky. It is used to show possession or association with the sky."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ütlen ausalt, et see on hea film.",
-    "Ta rääkis ausalt, et ta ei tea midagi.",
-    "Ausalt öeldud, siis ma pole väga kindel."
+    "Ta rääkis ausalt oma sõbra probleemidest.",
+    "Ausalt öeldes, ma ei jahutan seda toitu.",
+    "Kas sa tead, mis sind kurbaks teeb? Ausalt – mul on selles kohta kahtlemata arvamus."
   ],
   "translation": [
-    "honestly",
-    "sincerely",
-    "frankly"
+    "truthfully",
+    "sincerely"
   ],
-  "context": "The word 'ausalt' in Estonian means speaking or acting honestly and sincerely, without hiding one's true thoughts or feelings."
+  "context": "The adverb 'ausalt' is used to describe speaking or acting truthfully and sincerely. It is often used in conversational contexts where honesty is emphasized."
 }

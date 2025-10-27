@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta paned oma raamatud lauale.",
-    "Ma panen talle kirja.",
-    "Sa pead selle kohe panema."
+    "Tea paned paberile sõbra nime.",
+    "Ta paned oma asjad juba kassoni.",
+    "Ma panen endasi kohe magama, et hommikul väga vara unistada."
   ],
   "translation": [
-    "put",
-    "place",
-    "set"
+    "put (down)",
+    "placed"
   ],
-  "context": "The Estonian verb 'paned' is a versatile word meaning to put, place, or set something somewhere. It’s commonly used in everyday conversation to describe the action of positioning an object."
+  "context": "'Paned' is the past tense of 'pandma', which means to put or place something somewhere."
 }

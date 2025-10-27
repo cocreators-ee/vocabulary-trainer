@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Maksad on kallid.",
-    "Ta maksab palju maksud.",
-    "Firmadele võivad makside muutused olla kulukad."
+    "Mina maksin taas kinnispanna.",
+    "Ta peab maksma endale tervisekindlustust.",
+    "Kui sa ei maksa aega, siis nad võtavad sul alt asjad."
   ],
   "translation": [
-    "taxes",
-    "fees"
+    "you pay",
+    "you would pay"
   ],
-  "context": "The word 'maksad' in Estonian refers to taxes or fees that are paid by individuals or organizations, and is commonly used in financial contexts to describe the costs associated with various transactions or activities."
+  "context": "The word 'maksad' is the second person singular form of the verb 'maksta,' which means to pay. It can be used in both present and conditional contexts, such as 'you pay' or 'you would pay.' In everyday usage, it often appears in situations involving money transactions or obligations."
 }

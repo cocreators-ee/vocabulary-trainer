@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Neil peab nendel päevadel palju tööd tegema.",
-    "Nendel inimestel on raske elu.",
-    "Kas sa mäletad neid aegu?"
+    "Ta tegi kõik nendel, mida ta õnnitses.",
+    "Need vabadused on garanteeritud meie kodanikele nendel põhivabadustel põhinedvalt konstruktil.",
+    "Loomulikult ei pruugi see olla lihtne, kuid see on asjakohane nendel juhtudel."
   ],
   "translation": [
-    "these",
-    "those"
+    "this/these"
   ],
-  "context": "The word 'nendel' is the plural partitive case of the demonstrative pronoun 'need', meaning 'these' or 'those'. It indicates that you are referring to multiple items or people, and it’s used when those things aren't specifically identified or are partially defined. It often translates to 'on these/those' in English."
+  "context": "'nendel' is the locative plural form of 'see', which means 'this'. It refers to objects that are near both the speaker and listener in location or time."
 }

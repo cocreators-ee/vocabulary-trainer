@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma aitame sulle.",
-    "Meie aitame teile.",
-    "Nad aitavad meid."
+    "Aitame neil kodusse jõuda.",
+    "Mina, sa ja ta aitame koos ülesannete lahendamisel.",
+    "Aitame sinu õnnetusjuhtumit arhiividokumentide põhjal kindlaks teha."
   ],
   "translation": [
     "we help",
-    "helps"
+    "let's help"
   ],
-  "context": "The word 'aitame' is the first person plural form of the verb 'aitama', which means to help. It is commonly used in sentences where the subject is 'we' or 'us'."
+  "context": "The word 'aitame' is the first person plural form of the verb 'aita', which means to help. It can be used in both indicative and imperative mood depending on context."
 }

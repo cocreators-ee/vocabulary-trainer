@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta istus tooli",
-    "Istusin eile kinos",
-    "Istume koos ja räägime"
+    "Minu isa istus pargis kaks tundi.",
+    "Istusid lauale?",
+    "Rohkem ei jää, see on lõpuistus."
   ],
   "translation": [
-    "sat",
-    "was sitting"
+    "seat",
+    "sitting (present participle)",
+    "sit (imperative form)"
   ],
-  "context": "The word 'istus' is the third person singular form of the verb 'istuma', which means to sit in Estonian. It is commonly used to describe someone sitting down or being seated."
+  "context": "The Estonian word 'istus' is a versatile verb that can mean different forms of sitting. It is used to describe the action of seating or being seated, as well as commands to sit down."
 }

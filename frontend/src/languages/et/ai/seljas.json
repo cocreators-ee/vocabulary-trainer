@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta istus seljas hobusele",
-    "Seljas oli palju inimesi",
-    "Me istusime kõik seljas bussis"
+    "Mees jättis kirja seljas.",
+    "Tema teekond läbib saari seljaga.",
+    "Kas oled sind kuula seljas?"
   ],
   "translation": [
-    "on top of",
-    "above",
-    "over"
+    "back",
+    "with the back of (something)",
+    "in (someone's) mind"
   ],
-  "context": "The word 'seljas' is used to describe something or someone being physically above or on top of something else."
+  "context": "'seljas' primarily means 'back' as a noun. It can also be part of phrases meaning something is in one's mind or thought about. The form varies based on grammatical context."
 }

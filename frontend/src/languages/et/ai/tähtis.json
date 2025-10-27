@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen tähtis inimene.",
-    "Ta on väga tähtis isik.",
-    "Tähtis on see, et me oleme koos."
+    "See on väga tähtis.",
+    "Tema roll filmis oli suurepärane ja väga tähtsate ülesannete tegemisel.",
+    "Ära unustada tähtsa teabe kinnitamine enne esitamist."
   ],
   "translation": [
-    "important",
-    "famous",
-    "star"
+    "important"
   ],
-  "context": "The word tähtis in Estonian generally means something or someone that has great importance or significance, but it can also mean famous or star, depending on the context in which it is used."
+  "context": "'tähtis' means 'important.' It is used to describe something that has significant importance or relevance in a given context. Commonly used when discussing matters of significance, urgency, or value."
 }

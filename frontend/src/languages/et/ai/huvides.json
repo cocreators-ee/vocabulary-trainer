@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tegutseb riigi huvides.",
-    "Meie peame töötama ühiselt avalikkuse huvides.",
-    "Firma tegevus on suunatud klientide huvides."
+    "Minu huvides on muusika ja spordi.",
+    "Ta tegevused ei vasta oma huvidesse.",
+    "See projekti eesmärk on arendada iseseisva elamist oskust ning toetada noorte kvaliteeti nende huvides."
   ],
   "translation": [
-    "in the interests of",
-    "for the benefit of"
+    "interests"
   ],
-  "context": "The word 'huvides' is a postposition in Estonian that indicates something is being done for the benefit or in the interest of someone or something."
+  "context": "Huvides refers to a person's interests or areas of interest. It can be used to describe hobbies, professional fields one cares about, or any personal concerns and preferences."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on väga eales,",
-    "Ma ei ole kunagi sellist eales näinud.",
-    "See oli tõeliselt eales."
+    "Ta eales said puhkuseks.",
+    "Eales on vaja rohkem sportida.",
+    "Minu eales ei saa kunagi piisavalt und."
   ],
   "translation": [
-    "bitter",
-    "sour",
-    "tart"
+    "Food",
+    "Meal"
   ],
-  "context": "The word 'eales' in Estonian generally describes a sharp, acidic taste. It can refer to food or drink that is not sweet, and often has an unpleasant flavor. In some contexts it can also be used metaphorically to describe someone who is grumpy or ill-tempered."
+  "context": "The word 'eales' refers to food or a meal. It is commonly used in everyday conversation when talking about eating habits, preferences, or preparing meals."
 }

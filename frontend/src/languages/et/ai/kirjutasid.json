@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Sa kirjutasid mulle kirja.",
-    "Ta kirjutas selle raamatu.",
-    "Meie kirjutasime kõik alla"
+    "Oled sa muu poole kirjutasid?",
+    "Tema viimane romaan on juba kolm aastat tagasi kirjutasid.",
+    "Ta ei ole kunagi midagi tõhusa mängida - lihtsalt kirjutasid oma kogemused."
   ],
   "translation": [
-    "wrote",
-    "written"
+    "you wrote",
+    "he/she wrote",
+    "they wrote"
   ],
-  "context": "The word 'kirjutasid' is the second person singular past tense form of the verb 'kirjutama', which means to write. It is commonly used in Estonian to describe the act of writing something, such as a letter or a book."
+  "context": "The word 'kirjutasid' is the past tense form of the verb 'kirjutama' which means to write in Estonian. It can be used for singular or plural subjects, depending on context and conjugation."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen hea sõber.",
-    "Sõbrad on alati koos.",
-    "Ta on minu sõbrake."
+    "Ma olen sõbrakene sinuga.",
+    "Meil on palju sõbru.",
+    "Ta ei ole minu sõber."
   ],
   "translation": [
-    "friend"
+    "friend",
+    "friends"
   ],
-  "context": "The word sõber refers to a person with whom one has a strong bond of affection, loyalty, or sympathy, and is commonly used in Estonian language to describe close relationships."
+  "context": "The word 'sõbrake' refers to friends or being friendly. It is commonly used in conversations about relationships and social interactions."
 }

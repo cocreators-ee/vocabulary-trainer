@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minun näyttää siltä, että hän on väsynyt.",
-    "Hän näytti minulle kaupan osoitteen.",
-    "Näyttää siltä, että meillä on ongelma."
+    "Näyttää sateen tulevan.",
+    "Hän näyttää iloiseelta.",
+    "Tämä näyttää kivulta."
   ],
   "translation": [
-    "looks",
     "seems",
-    "appears"
+    "looks"
   ],
-  "context": "The word 'näyttää' is commonly used in Finnish to describe something that appears or seems to be a certain way, often used to express an observation or impression."
+  "context": "'näyttää' is used to express that something appears or seems a certain way, often based on observation or perception. It can be followed by an adjective or another verb form indicating what the subject looks like or how it appears."
 }

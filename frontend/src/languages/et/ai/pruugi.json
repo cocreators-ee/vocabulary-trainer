@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei pruugi sind aidata.",
-    "Sa võid proovida, aga ma ei pruugi olla vaba.",
-    "Ta ei pruugi tulla."
+    "Pruugileht eesmärgiks on leida pruutkandidaat.",
+    "Tema meelest vajub pruugiloo ettevõtja alati naisi oma tootmiseks.",
+    "Eestis peavad pruugitavad inimesed neid otsima isikulise pruugi kaudu."
   ],
   "translation": [
-    "might",
-    "may",
-    "could"
+    "spouse",
+    "bride"
   ],
-  "context": "The word 'pruugi' expresses possibility or uncertainty. It is similar to saying 'might', 'may', or 'could' in English and indicates that something is not definite but potentially true."
+  "context": "Pruugi refers to the act of searching for a spouse or bride, often in the context of traditional practices. It can also refer directly to a spouse or a bride in certain contexts."
 }

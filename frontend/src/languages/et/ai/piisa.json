@@ -2,14 +2,12 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei tea, kas sellest piisab.",
-    "Kas see on piisav?",
-    "Mul pole enam piisa."
+    "Kas sul on piisa kodus? (Do you have enough at home?)",
+    "Minu meelest jääb siin veel piisa teha. (In my opinion, there is still plenty to do here.)",
+    "Tema elus oli alati piisa rahalist tugevust. (There was always sufficient financial strength in their life.)"
   ],
   "translation": [
-    "enough",
-    "sufficient",
-    "adequate"
+    "a sufficient amount of something"
   ],
-  "context": "The word 'piisa' in Estonian translates to 'enough' or 'sufficient' in English. It is commonly used to express whether a quantity, amount, or quality is adequate for a particular purpose."
+  "context": "The word 'piisa' refers to a quantity that is enough or adequate for the situation at hand."
 }

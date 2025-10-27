@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma armastasin teda armastusest.",
-    "Armastusest ei saa iialgi küllalt.",
-    "Armastus on võimas jõud."
+    "Tema kõikjal on armastusest pärssiv atmosfäär.",
+    "Armastusest sündib muusika, kirjandus ja mälestused aja kohta.",
+    "Mõned inimesed tunduvad olla armastusest vaba."
   ],
   "translation": [
     "from love",
-    "love"
+    "of love",
+    "in love"
   ],
-  "context": "The word 'armastusest' is an Estonian adjective meaning 'from love' or 'out of love', often used to describe actions or feelings that are motivated by love or affection."
+  "context": "'armastusest' is the elative (exiting from) form of 'armastus', meaning love. It's used to express something that comes from, involves or is characteristic of love."
 }

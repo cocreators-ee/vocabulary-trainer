@@ -2,14 +2,13 @@
   "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Haluan lisää vettä juomaan.",
-    "Lisäämönä pöytää tarjolla olevia ruokia.",
-    "Voit lisätä rahaa tilille siirtämällä."
+    "Anna lisää!",
+    "Hän piti kertakaikkisesti lisäämättä mitään.",
+    "Kauppias tarjoi asiakkaalle vähemmän kuin hän oli pyytänyt ja sanoi, että 'lisää' vaaditaan erikseen."
   ],
   "translation": [
-    "add",
-    "increase",
-    "put more"
+    "more",
+    "add"
   ],
-  "context": "The word \"lisää\" is commonly used in Finnish to mean adding or increasing something, and it can be used in various contexts such as adding water to a drink, putting more food on the table, or depositing money into an account."
+  "context": "The word 'lisää' is used to indicate an increase or addition in quantity, often used when requesting more of something."
 }

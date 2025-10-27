@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen homme teele Tallinna.",
-    "Nad on juba teel kodupoole.",
-    "See tee oli pikk ja raske."
+    "Tule tee peale!",
+    "Ta tõi kaasa enda teadega metsatiiulise teele.",
+    "Minu jutud viisid ta õige tee peale."
   ],
   "translation": [
-    "on the way",
-    "to go",
-    "road"
+    "on the path",
+    "to the way",
+    "onto the road"
   ],
-  "context": "The word 'teele' in Estonian can have a few meanings depending on context. It commonly translates to 'on the way', indicating movement towards a destination, or it can mean 'to go'. It can also refer to a road or path, but less frequently than the other two meanings."
+  "context": "'Teele' translates to 'on the path', 'to the way', or 'onto the road'. It is commonly used in Estonian expressions and sentences that describe physical movement along a route, or metaphorically for guidance towards achieving something."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on rumal inimene",
-    "Rumal mees ei saa tööd",
-    "Rumal laps ei õpi kiiresti"
+    "Tema rumal sõna mängis hästi läbi.",
+    "Rumal ja nõmm käituvad sageli üksteise vastu.",
+    "Ole tähelepanu: neil on väga rumal suhtumine asjade peale."
   ],
   "translation": [
-    "stupid",
-    "foolish",
-    "silly"
+    "tricky",
+    "cunning",
+    "sly"
   ],
-  "context": "The word 'rumal' is commonly used to describe someone or something as foolish or lacking intelligence, similar to how the English word 'stupid' can be used in a variety of contexts to convey a lack of sense or wisdom."
+  "context": "The Estonian word 'rumal' describes someone or something that is clever in a deceitful or tricky way, often implying cunning behavior."
 }

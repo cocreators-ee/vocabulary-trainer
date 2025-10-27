@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta oli väga temalt.",
-    "Ma ei saa aru, miks ta käitub nii temalt.",
-    "See on lihtsalt tema temalt."
+    "Ma saan temalt kirja.",
+    "Tema sõbrad külastasid teda kodu temalt.",
+    "Pakutud kätt, mille sai järelejälgida, leiti tema voodist, temalt kolm meetrit kaugusel."
   ],
   "translation": [
     "from him",
-    "by him",
-    "of him"
+    "from her"
   ],
-  "context": "The word 'temalt' is a form of the personal pronoun in Estonian, specifically the adessive case of the third-person singular pronoun ('tema' - he/she/it). It indicates origin or source – ‘from’, ‘by’ or ‘of’ someone. It's used to show that something originates with or belongs to him/her/it."
+  "context": "Temalt is a prepositional form of 'ta' (he/she). It's used to indicate something coming from him or her."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.65,
   "understood": true,
   "sentences": [
-    "Sherif saabus linna.",
-    "Nad kutsusid sherifi appi.",
-    "See oli nagu vana sherififilm."
+    "Oma tegevuses peab sherif järgima kindlat seadust.",
+    "Sherif tõusis varasti selleks, et takistada rünnakut.",
+    "Rahu tagasimaksuks pidasid nad sherifi käest kinni."
   ],
   "translation": [
     "sheriff",
-    "lawman",
-    "police officer"
+    "county sheriff"
   ],
-  "context": "The word 'sherif' in Estonian is a direct borrowing from English and refers to a law enforcement officer, typically in the American West. It’s used similarly to how it is in English-language contexts – denoting an authority figure responsible for maintaining order."
+  "context": "This is a loanword from English meaning 'sheriff', referring to a law enforcement official, typically in a county or rural area. It's used similarly to the English term but may carry specific local connotations depending on Estonia's legal system."
 }

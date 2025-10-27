@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean vahest sellest.",
-    "Ta rääkis vahest oma elust.",
-    "Vahest võib see tõesti olla."
+    "Ma tahan sinu vahest.",
+    "Tema eesmärk on vaheste võita mäng.",
+    "Riigikogus valib nad vahest.",
+    "Vähemalt vahest mulle sellest kinnituse."
   ],
   "translation": [
-    "at least",
-    "a little"
+    "Sometimes",
+    "At times",
+    "From time to time"
   ],
-  "context": "The word 'vahest' in Estonian is used to express a small amount or degree of something, and it can be translated to English as 'at least' or 'a little'. It is commonly used in sentences to convey that something is present or true to a limited extent."
+  "context": "'vahest' is used in Estonian to indicate that something happens occasionally, not regularly. It can modify verbs to show the frequency with which an action is performed or a situation occurs. In sentences, it's usually placed before the verb it modifies."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on kiirustanud kõik äried?",
-    "Kiirustage põgenema!",
-    "Kui palju kiirust on sul vaja?"
+    "Ta kiirendas kiirust, et jõuda siia aegsasti.",
+    "Mäletasin, kuidas ta liikus suurt kiirust tagasipööratud.",
+    "Rohe sõrmel puhub kaasa ja kiirust läbib."
   ],
   "translation": [
-    "hurry",
-    "rush",
-    "speed"
+    "speed",
+    "velocity"
   ],
-  "context": "The word kiirust in Estonian generally refers to the act of moving or doing something quickly, often due to a sense of urgency or importance."
+  "context": "Kiirust refers to speed or velocity in Estonian. It is commonly used in contexts related to motion, such as driving, running, or any form of movement where the rate of progress is important."
 }

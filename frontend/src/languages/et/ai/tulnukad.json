@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tulnukad on üks populaarseimaid telesarju.",
-    "Taevatud tulnukate vastu on tõsine probleem.",
-    "Tulnukad võivad olla väga ohtlikud."
+    "Tema vanemad olid Aafrikast tulnukad.",
+    "Ta koolis õppib kaasaegse kehakestuse ja eluviisi edendamise puhul koostöös tulnukatega.",
+    "Meie lähedal asuvates vallaosas on palju rikkaid talusid, mille omanikud on Venemaalt pärit tulnukad."
   ],
   "translation": [
-    "aliens",
-    "immigrants"
+    "foreigners"
   ],
-  "context": "The word 'tulnukad' in Estonian generally refers to aliens or immigrants, and it is commonly used in the context of science fiction or discussions about immigration."
+  "context": "Tulnukad is a plural form meaning foreigners. It's commonly used to refer to people from another country or region who have immigrated or arrived in a new place. The term can sometimes carry neutral, positive, or negative connotations depending on the context."
 }

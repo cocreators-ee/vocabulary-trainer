@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kohtusin tüdruksõbraga koolis.",
-    "Tüdruksõber on väga ilus.",
-    "Ta on mu parim tüdruksõber."
+    "Minu tüdruksõber on väga sõbralik.",
+    "Tema uus tüdruksõber käib samas koolis.",
+    "Ta leidis oma tüdruksõbra internedi."
   ],
   "translation": [
-    "girlfriend"
+    "girlfriend",
+    "female friend"
   ],
-  "context": "The word tüdruksõber in Estonian refers to a girlfriend, which is a female partner in a romantic relationship. It is commonly used in informal settings to describe someone's significant other."
+  "context": "A 'tüdruksõber' is a female romantic partner or girlfriend. It can also refer to any close female friend, similar to the English terms 'girlfriend' and 'female friend'. The term is commonly used in everyday conversation among Estonians."
 }

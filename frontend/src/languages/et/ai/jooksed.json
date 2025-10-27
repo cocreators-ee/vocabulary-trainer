@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen jooksed mööda mereääre.",
-    "Jooksed olid väga raskeid.",
-    "Ta teeb igal hommikul jooksed."
+    "Ma käin jooksma igal päeval rannaliiva peal.",
+    "Jõuluvanemad on alati väga juba ja teevad palju rõhku jooksude peale.",
+    "Mees pani jalgratta kasti ja alustas kiiret jooksu."
   ],
   "translation": [
-    "runs",
-    "jogs"
+    "running",
+    "jogging"
   ],
-  "context": "The word 'jooksed' in Estonian refers to the act of running or jogging, and it is commonly used to describe physical activity or exercise."
+  "context": "The word 'jooksed' is the second person plural form of the verb 'jooksema,' which means to run or jog in Estonian. It typically refers to physical activity where a person moves quickly on foot, often for exercise, sport, or recreation."
 }

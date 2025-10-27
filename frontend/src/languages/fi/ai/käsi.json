@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minun on antaa käsi avulla.",
-    "Hän otti hänen kädestään.",
-    "Käteni ovat kylmät."
+    "Hänellä on kivaa käyttää käskyään.",
+    "Pyöräillessä sormenjälki jalkaan ja käsi polkseen.",
+    "He hylkäsivät hänet ja otivat käsiensä takaisin."
   ],
   "translation": [
-    "hand"
+    "hand",
+    "hands",
+    "the hand (as in a clock hand)"
   ],
-  "context": "The word käsi refers to a person's hand in English."
+  "context": "The word 'käsi' translates to 'hand' and is commonly used in various contexts such as physical hands, gestures, or parts of objects like the hand on a clock. The example sentences demonstrate different uses including literal references and more metaphorical expressions."
 }

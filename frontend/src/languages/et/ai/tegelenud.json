@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen tegelenud sellega juba mitu aastat.",
-    "Ta on tegelenud muusikaga alates lapsepõlvest.",
-    "Nad on tegelenud selle küsimusega juba kaua."
+    "Olen tegelenud selle ülesandega kaks tundi.",
+    "Ta on aastaid tegelenud eesti noortekirjandusega.",
+    "Meil pole aega sellega tegelemata jääda."
   ],
   "translation": [
     "dealt with",
-    "coped with",
-    "handled"
+    "handled",
+    "occupied oneself with"
   ],
-  "context": "The word 'tegelenud' is the past participle form of the Estonian verb 'tegelema', which means to deal with or cope with something, and it is commonly used in sentences to describe a person's experience or involvement with an activity or situation."
+  "context": "The verb 'tegema' in Estonian is used to describe taking action or dealing with something. In past participle form, 'tegelenud', it signifies that the action of dealing with or handling a matter has been completed."
 }

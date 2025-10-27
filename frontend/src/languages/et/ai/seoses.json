@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen tema suhtes üsna kriitiline.",
-    "Ta on selle küsimuse suhtes väga avatud.",
-    "See on seotud minu tööga."
+    "Kas sa tead, mis see tähendab seoses selle filmi kriitikaga?",
+    "Ta on seoses oma ema ja isa juurde puhkuseks.",
+    "Pank vajub seoses rahaliste raskustega."
   ],
   "translation": [
+    "in relation to",
     "in connection with",
-    "regarding",
     "concerning"
   ],
-  "context": "The word 'seoses' is used in Estonian to indicate a relationship or connection between two things, often translated to English as 'in connection with', 'regarding', or 'concerning'."
+  "context": "'seoses' is used in Estonian to introduce a topic or issue that is related to something else. It can be translated as 'in relation to', 'regarding', or 'concerning'. The word often comes at the beginning of a sentence and is followed by a noun phrase."
 }

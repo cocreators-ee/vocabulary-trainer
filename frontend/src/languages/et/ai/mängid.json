@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma mängid palli.",
-    "Ta on hea mängija.",
-    "Lapsed armastavad videomänge."
+    "Oled sa kunst mänginud kord?",
+    "Mina tahan, et sa mängid su väikeste kätega.",
+    "Sa ei tohi siin mängida."
   ],
   "translation": [
-    "play",
-    "game",
-    "games"
+    "you played"
   ],
-  "context": "The word 'mängid' is the second person plural form of the verb 'mängima', which means to play, and it is commonly used in sentences to describe people engaging in playful activities or competing in games."
+  "context": "The word 'mängid' is the second person singular past tense of the verb 'to play'. It is commonly used in everyday conversation when referring to playing a game or engaging in playful behavior."
 }

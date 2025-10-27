@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma laenatan raamatu.",
-    "Ta laenatas auto.",
-    "Nad laenatasid raha."
+    "Minu eesmärk on laenata rohkem teadmisi.",
+    "Kas saab see raamat olla laenatav?",
+    "Ta pidi laenama rahaliidu."
   ],
   "translation": [
     "to borrow",
-    "to lend"
+    "borrowed"
   ],
-  "context": "The word 'laenata' in Estonian means to borrow or lend something, and it is commonly used in everyday conversations when asking for or giving something temporarily."
+  "context": "'Laenata' is the infinitive form of the Estonian verb meaning 'to borrow'. It can also be used as a past tense particle when combined with another verb. In everyday language, it often appears in sentences where someone has taken something temporarily from another person or an institution."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Seda võtmevalikut kasutatakse krüpteerimiseks.",
-    "Kasutatakse mitmesuguseid materjale.",
-    "Tööstuses kasutatakse erinevaid masinaid."
+    "See programmi funktsioon kasutatakse vähe.",
+    "Kas sa tead, kuidas see seade kasutatakse?",
+    "Toote kirjeldus selgitab, et toodet võib kasutatakse erinevates asjakohastes olukordades."
   ],
   "translation": [
     "is used",
-    "are used",
-    "being used"
+    "it is used"
   ],
-  "context": "The word 'kasutatakse' is a verb form in Estonian, which translates to 'is used' or 'are used' in English, and it is commonly used to describe the usage or application of something."
+  "context": "The word 'kasutatakse' means 'is used' or 'it is used'. It is often used in sentences that describe the use of an object, method, or process. For example, it can be found when explaining how a device works, or what function something has."
 }

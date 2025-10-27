@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma vaatan telerit",
-    "Ta vaatas akna välja",
-    "Vaat oli suur"
+    "Vaat siia!",
+    "Mina vaatan täna filmi.",
+    "Ta ei saa midagi näha."
   ],
   "translation": [
-    "look",
-    "watch",
-    "gaze"
+    "Look"
   ],
-  "context": "The word 'vaat' in Estonian means to look or watch something, and it is commonly used in sentences to describe the act of observing or paying attention to something."
+  "context": "The word 'vaat' is a form of the verb 'to look'. It can be used in different contexts, such as directing someone to look at something or expressing an action of looking in general."
 }

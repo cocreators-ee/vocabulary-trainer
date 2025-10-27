@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma paku kohe kohvri.",
-    "Paku on hea tööriist.",
-    "Ta pakub mulle abi."
+    "Olen kindel, et paku suvaline külastaja.",
+    "Ta pakus mulle tühja käe kohta.",
+    "Pakuge kõik koos nende poole."
   ],
   "translation": [
-    "pack",
-    "package",
-    "to pack"
+    "offer",
+    "propose",
+    "suggest"
   ],
-  "context": "The word 'paku' in Estonian means to pack something, and it is commonly used in everyday conversations when referring to preparing luggage or wrapping gifts."
+  "context": "'paku' is the first person singular form of the verb 'pakkuda', which means to offer, propose or suggest something. It's commonly used when someone presents an idea, item, or service to another person in a polite and professional manner."
 }

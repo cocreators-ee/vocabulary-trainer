@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma viskan selle ära",
-    "Viska see võtme täna ära",
-    "Kas sa võid viskata selle akna läbi?"
+    "Viska see kõrvale!",
+    "Neil oli viskanud jäänud.",
+    "Ta vaatas, kuidas viskasin mündi järve."
   ],
   "translation": [
     "throw",
-    "cast away"
+    "thrown"
   ],
-  "context": "The word 'viska' in Estonian means to throw something, often in a forceful or violent manner, and is commonly used in everyday conversation to describe the act of tossing or hurling an object."
+  "context": "The verb 'viska' means to throw or cast something. It is commonly used in everyday language when referring to tossing objects away or hurling them."
 }

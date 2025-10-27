@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta vaatas mind silmi.",
-    "Ma panin silmad kinni.",
-    "Silmi all oli vere"
+    "Mina teen palju silme.",
+    "Tema silm oli roheline.",
+    "Silmad olid tumedad."
   ],
   "translation": [
-    "eye",
     "eyes"
   ],
-  "context": "The word 'silmi' is the genitive form of the Estonian word for 'eye' or 'eyes', often used to refer to the physical eyes or as a metaphor for something that sees or observes."
+  "context": "Used to refer to the eyes in singular and plural forms. In Estonian, 'silm' is singular for eye, while 'silma' can mean an eye or be part of a phrase like 'pea ja silm', which translates to 'head over heels'. The form 'silmi' usually comes up as part of expressions such as in idioms, but it's most commonly known as the plural accusative case for eyes."
 }

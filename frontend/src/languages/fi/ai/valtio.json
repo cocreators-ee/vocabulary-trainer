@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Valtio omistaa useita yrityksiä.",
-    "Hän on valtion virkamies.",
-    "Valtiota edustaa pääministeri."
+    "Valtion velka kasvoi viime vuonna.",
+    "Valtion tulot tulevat pääosin verotuloista.",
+    "Valtio tarjoaa paljon julkisia palveluita kansalaisille."
   ],
   "translation": [
     "state",
-    "government",
-    "country"
+    "nation",
+    "country (government)"
   ],
-  "context": "The word 'valtio' generally refers to a state or a country, and it can also be used to describe the government of a country, depending on the context in which it is being used."
+  "context": "The term 'valtio' refers to a political entity with sovereignty, often used to denote the government or nation-state. It is commonly used in contexts related to governance, public services, and national policies."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen kuna see on hea.",
-    "Kuna sa ei oska estone keelt, siis ma aitan sind.",
-    "Tahtsin kuna seda asja, aga mul polnud raha."
+    "Kuna ma olen väike, pean end taga.",
+    "Tema eestlaseks kuna, kes pani teda raha andma.",
+    "Ei tea, miks nad neid laiali hoiavad – kuna need on vahel suured?"
   ],
   "translation": [
-    "because",
-    "since"
+    "as long as",
+    "since",
+    "because"
   ],
-  "context": "The word 'kuna' in Estonian is used to indicate a reason or explanation for something, similar to the English words 'because' or 'since'."
+  "context": "'Kuna' is used to introduce a reason or condition in a sentence, similar to 'because', 'since', or 'as long as' in English."
 }

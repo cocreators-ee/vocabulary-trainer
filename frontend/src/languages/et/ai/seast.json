@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta seisis seal ja seastas.",
-    "Me seastame uue valitsuse.",
-    "See on seastatud inimeste poolt."
+    "Minu kodu on seast kaugel.",
+    "Märtsikas päikeseloojangu öö puhuvad meie suvega seast pärinevad tähed.",
+    "Ta jääb tööle kuni seast."
   ],
   "translation": [
-    "stands",
-    "to stand",
-    "established"
+    "sea",
+    "from the sea"
   ],
-  "context": "The word 'seasta' and its various forms ('seisan', 'seastama', 'seastatud') relate to the action of standing or being placed, but also carries the meaning of establishing or constituting something. It can be used literally for physical standing, or figuratively to mean setting up a government or organization."
+  "context": "'Seast' is an Estonian prepositional phrase meaning 'from the sea' or simply indicating a location in relation to the sea. It's commonly used to describe something being far from the sea, originating from the sea, or associated with seashore activities."
 }

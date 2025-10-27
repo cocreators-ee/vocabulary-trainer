@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on seis koht",
-    "Seis on hea asi",
-    "Ma olen seis"
+    "Toate ootavad määratud seis.",
+    "See nukk on hooletusse seisus.",
+    "Maa väärtused muutuvad sõltuvalt kliimavaldkonnast ja seisu vanusest."
   ],
   "translation": [
-    "position",
     "state",
     "condition"
   ],
-  "context": "The word 'seis' in Estonian generally refers to a state or position of something, and it is commonly used in various contexts to describe the status or situation of an object or a person."
+  "context": "'Seis' refers to a state or condition of something, often used in formal or technical contexts."
 }

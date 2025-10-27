@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen saanud head arvamust selle kohta.",
-    "Ta on saanud palju kiitust oma töö eest.",
-    "Nad on saanud teada, et see on hea võimalus."
+    "Ta on saanud märksa palju eelmisel aastal.",
+    "Ma olin saanud selle raamatu nädala lõpus.",
+    "Riik on saanud uue presidendi valimisedel."
   ],
   "translation": [
-    "gotten",
     "received",
-    "obtained"
+    "got"
   ],
-  "context": "The word 'saanud' is the past tense of the Estonian verb 'saama', which means to get or receive something. It is commonly used in sentences to indicate that someone has obtained or gotten something, such as an object, information, or a result."
+  "context": "'Saanud' is the past participle of 'saada', meaning to receive or obtain something. It's commonly used in describing actions that have been completed and has a direct object."
 }

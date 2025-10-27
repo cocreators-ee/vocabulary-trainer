@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ta on peal",
-    "See on peal kogu aeg",
-    "Ma olen selle peal"
+    "Päikeseloojangu ajal on peal kerges suvekülma.",
+    "Kui saab peale soojus, muutub õhurütme helgetemaks.",
+    "Peal valitseb pidev tormiväli."
   ],
   "translation": [
-    "on",
-    "atop",
-    "above"
+    "On the surface",
+    "Atmosphere",
+    "Over"
   ],
-  "context": "The word 'peal' in Estonian generally means something is located on top of something else, and it can be used as a preposition or an adverb to indicate the location of an object."
+  "context": "'Peal' refers to a location or condition on top of something, often used in weather contexts like describing conditions above ground or sea level. It can also denote an atmosphere or situation that prevails over an area."
 }

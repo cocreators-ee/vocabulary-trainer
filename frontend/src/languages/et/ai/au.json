@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean seda au-d!",
-    "Ta väärib suuremat au.",
-    "See on suur au mulle."
+    "Ta andis talle oma eestlaste au.",
+    "Ma pidi andma talle au eest tehtud töö jaoks.",
+    "Temal on palju auid sellel alal."
   ],
   "translation": [
-    "hole",
-    "pit",
     "honor",
-    "respect"
+    "credit"
   ],
-  "context": "The word 'au' in Estonian can have multiple meanings. It most commonly translates to 'hole' or 'pit', but it can also mean 'honor' or 'respect', depending on the context. When referring to honor, it often implies a sense of prestige or recognition."
+  "context": "'Au' is used to refer to honor or credit given for something someone has done. It can be given between people, organizations, countries or in other contexts where it makes sense to give recognition for achievements or good behavior."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma annan sulle kingituse.",
-    "Ta annab mulle raamatu.",
-    "Nad annavad meile abi."
+    "Ma usaldan sind ja annaksin sulle kõik oma raha.",
+    "Ta palus mulle rahuliku häälega, et ma saaks teenida mässu, kuid mind veeldas hoopis see, et ta annaks selle tulemuseks olevat eest vastu.",
+    "Võid jätta oma vabaduse ja vaata, kas ta siis annaks sind oma lemmiklapseks."
   ],
   "translation": [
-    "gives",
-    "give"
+    "would give",
+    "give",
+    "grants"
   ],
-  "context": "The word 'annaks' is the third person singular form of the verb 'anna', which means to give something to someone. It is commonly used in Estonian language to express the act of giving or providing something."
+  "context": "The Estonian word 'annaks' is the conditional form of 'anna', which means to give. It translates to 'would give' in English, and it's commonly used in sentences that describe hypothetical situations or polite requests."
 }

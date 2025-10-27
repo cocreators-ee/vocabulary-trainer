@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Lehmä on iso eläin.",
-    "Lehmät laiduntavat pellolla.",
-    "Lehmiä on paljon maatiloilla."
+    "Lehmä laulaa.",
+    "Osta lehmästä maita.",
+    "Lehmät paastavat syöpelimunia."
   ],
   "translation": [
-    "cow",
-    "ox"
+    "cow"
   ],
-  "context": "The word lehmä refers to a large domesticated mammal commonly found on farms, known for producing milk and being used as a source of meat."
+  "context": "'lehmä' refers to a cow and is commonly used in Finnish to refer to the animal, as well as in related contexts like buying milk from a cow or cows laying eggs (in the case of dairy farms)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "He tapaavat kaupassa.",
-    "Olen tavannut hänet ennen.",
-    "Tavataan huomenna!"
+    "Tapaan sinut kahvissa huomenna.",
+    "Heidän tavoillaan kävi yhdessä.",
+    "Kuka tavattiin tapaamisen jälkeen? Tiedustelin, mutta en saanut vastausta."
   ],
   "translation": [
-    "to meet",
-    "encounter"
+    "to meet (someone)",
+    "to meet"
   ],
-  "context": "The word 'tavata' is commonly used in Finnish to describe meeting someone, whether it be by chance or intentionally."
+  "context": "Used to express the action of meeting someone in person. The verb is used both transitively (with a direct object) when meeting a specific person and intransitively for the general concept of meeting."
 }

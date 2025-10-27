@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen ajaloos hämmastunud.",
-    "Ta on ajaloos õppinud.",
-    "Meile anti ülesanne ajaloost."
+    "See on üks väga tähtsadest sündmustest ajaloos.",
+    "Ajaloos toimub palju erinevaid asju.",
+    "Ajaloolased kirjutavad raamatuid ajaloos."
   ],
   "translation": [
-    "history"
+    "in history",
+    "historically"
   ],
-  "context": "The word 'ajaloos' is the Estonian word for 'in history' or 'of history', and it refers to events, situations, or studies related to past times, particularly those that have been recorded or documented in some way."
+  "context": "The word 'ajaloos' is used in Estonian to refer to events or things that are part of history, often in a general sense. It can mean 'in history' or be used adverbially as 'historically'. Commonly found in discussions about past events, historical facts, or when referring to something's place within the broader context of history."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma olen tegu sellega, et see on hea mõte.",
-    "Tegu on väga oluline.",
-    "Ta on teinud palju head tegu."
+    "Tegu on käes.",
+    "Mina olen tegu teinud oma kodutööga.",
+    "Need pildid näitavad, et tegu on tõesti kurb."
   ],
   "translation": [
-    "deed",
-    "act"
+    "job",
+    "task",
+    "business"
   ],
-  "context": "The word 'tegu' in Estonian generally refers to an act or deed, which can be either good or bad, and is commonly used to describe something that has been done."
+  "context": "'tegu' translates to 'job', 'task', or 'business'. It can refer to a specific assignment or something that needs to be done. For example, 'Tegu on käes.' means 'The job is at hand.'"
 }

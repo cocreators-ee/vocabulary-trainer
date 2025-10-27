@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on võitnud ühe miljoni euro",
-    "Miljonid inimesed elavad vaesuses",
-    "See on miljoni sekundi jagu"
+    "Ta tõestab olla rikkalik, kuid tegelikult ei oma ta isegi üht saja miljoni dollari väärtuses panka.",
+    "Ma külastasin Pekingust pärit naise lugu, kellega jõudsin kokku 100 miljoni dollari suuruse selle aasta müüdud tervisekaitseseadmete kaudu.",
+    "See ettevõte hindab eestis tootmiseks vajalikku investeeringut ligikaudu 50 miljoni eurosuurusel."
   ],
   "translation": [
     "million",
-    "one million"
+    "a million",
+    "millions"
   ],
-  "context": "The word miljoni is a noun that refers to the numerical value of one million, often used in Estonian to express large quantities or amounts."
+  "context": "Used in the same way as 'million' in English - it is a numerical quantity meaning one thousand thousands (1,000,000). When used before specific numbers like 5 or 2.34, it represents that amount of millions."
 }

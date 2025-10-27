@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen kasutades seda programmiga",
-    "Kasutades selleid funktsioone saab teha palju asju",
-    "Ta on kasutades arvuti kiiresti"
+    "Tema tööd on loodud kasutades ainulaadset stiili.",
+    "Rakendus töötleb andmeid kasutades keerulist algoritme.",
+    "Ta õppis keelt kasutades mänguviisi."
   ],
   "translation": [
     "using",
-    "by using",
-    "with the help of"
+    "by using"
   ],
-  "context": "The word 'kasutades' in Estonian means 'using' or 'by using', it is a preposition that indicates the means by which something is done."
+  "context": "'Kasutades' means 'using' or 'by using'. It is used to indicate the method or means by which something is done. For example, if you use a tool to fix something, in Estonian you would say 'kasutades [tool]'."
 }

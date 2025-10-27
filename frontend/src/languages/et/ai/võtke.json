@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Võtke see võti.",
-    "Ma võtan raamatu.",
-    "Ta võttis mu käe."
+    "Võta see kiri!",
+    "Ma võtan sind alati oma meeleks.",
+    "Kas sa võtad endale vea?"
   ],
   "translation": [
-    "take"
+    "take",
+    "accept (emotionally)",
+    "take blame"
   ],
-  "context": "The word \"võtke\" is an imperative form of the verb \"võtma\", which means to take something in one's hands or to seize something. It is commonly used in Estonian language to instruct someone to take an object."
+  "context": "'võtke' is the second person plural form of the verb 'võta', meaning to take, accept or bear. It can be used in physical actions like taking an object, accepting something emotionally, or taking responsibility."
 }

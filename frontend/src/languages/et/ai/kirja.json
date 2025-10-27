@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Ma kirjutasin kirja",
-    "Kirjas on palju pilti",
-    "Ta võttis kirja taskust"
+    "Tema viimane kirja jääb mulle alati meelde.",
+    "Päeva lõpus kogut palju kirja.",
+    "Ta saadab igal nädalal kirja oma ema."
   ],
   "translation": [
-    "book",
-    "letter"
+    "letter",
+    "mail"
   ],
-  "context": "The word 'kirja' in Estonian can refer to a book or a letter, and is commonly used in everyday conversation to discuss written materials."
+  "context": "Used to refer to written letters or postal mail, both as a noun and in compound words."
 }

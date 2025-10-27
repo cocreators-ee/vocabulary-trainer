@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on hea võrra.",
-    "See on võrra suurem kui eile.",
-    "Võrra rohkem inimesi tuleb täna."
+    "Kui kaua saad olla koos tema võrra?",
+    "Ta on väga tark, aga mitte su võrra.",
+    "Me peame tegutsema tema võrra ettevaatlikult."
   ],
   "translation": [
-    "rather",
-    "fairly",
-    "quite"
+    "equally",
+    "to the same extent",
+    "as much as"
   ],
-  "context": "The word værra is an adverb in Estonian that is used to express a moderate degree of something, similar to the English words rather, fairly, or quite."
+  "context": "The word 'võrra' is used to indicate equivalence or comparison in terms of amount, degree, or intensity. It can be used in both literal and figurative contexts when comparing two things."
 }

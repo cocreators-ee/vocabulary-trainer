@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minä luotan häneen",
-    "Hän luotti ystäviinsä",
-    "He luottavat toisiinsa"
+    "Luotaan sinuun.",
+    "Sinun kannattaa luottaa hänelle.",
+    "Et voitakaan luottaa siihen."
   ],
   "translation": [
-    "to trust",
-    "have confidence in"
+    "to trust"
   ],
-  "context": "The word 'luottaa' is a verb that means to have trust or confidence in someone or something, and it is commonly used in Finnish to describe a sense of reliance or faith in a person, relationship, or institution."
+  "context": "The verb 'luottaa' means to trust. It is commonly used in the context of placing confidence or faith in someone, and can be used with different objects like people or situations."
 }

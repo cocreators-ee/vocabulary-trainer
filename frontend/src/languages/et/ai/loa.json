@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta laulis väga ilusat laulu.",
-    "Lood on tema lemmikteema.",
-    "See lugu räägib armastusest."
+    "Ma teen loa.",
+    "Ta andis mulle loa.",
+    "Loa antakse ainult pärast heakskiitu."
   ],
   "translation": [
-    "song",
-    "story",
-    "tale"
+    "Permission",
+    "License"
   ],
-  "context": "The word 'loa' in Estonian commonly translates to 'song', 'story', or 'tale' in English. It can refer to a musical composition, a narrative, or an account of events. The context determines the precise meaning."
+  "context": "'Loa' refers to permission or a license granted for an activity. It can be used in contexts like official permits, driving licenses, or permissions for specific actions."
 }

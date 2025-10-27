@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Valitsus kabinetti istungil avaldas ühisavalduse",
-    "Kabinetti liikmed olid lepingu allkirjastanud",
-    "Uus kabinetti koosseis sai kiituse"
+    "Ta tööabiks on väike ja erinev kabinett.",
+    "Pealinnapea peab oma kabinetti.",
+    "Minu arst soovitas mind oma kabinettis ootama."
   ],
   "translation": [
-    "cabinet",
-    "ministry"
+    "cabinet"
   ],
-  "context": "The word kabinetti refers to a council or committee, often used in the context of government, where it denotes a group of high-ranking officials who advise and decide on important matters."
+  "context": "The word 'kabinett' is used in Estonian to refer to a cabinet, both as an office room and as a group of officials such as the president's cabinet. It can also be used informally for individual workspaces."
 }

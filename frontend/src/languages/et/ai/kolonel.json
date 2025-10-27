@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kolonel Smith on USA armee ohvitser.",
-    "Ta sai koloneli auastme alles viimase aasta kohta.",
-    "Koloneli abikaasa on väga ilus."
+    "Koloniaalvõimude ajast kolonelid olid kõrgeima tähendusega.",
+    "Uurija lahkus siiani koloniaalse teadusse sõna kandmas.",
+    "Lugemisraha saabumisele juba ootamas olnud koloonia on rahulikult edasi liikunud."
   ],
   "translation": [
-    "colonel"
+    "colonel",
+    "colonial"
   ],
-  "context": "The word 'kolonel' refers to a military rank, equivalent to the English term 'colonel', and is used in Estonian to denote an officer of high rank."
+  "context": "The Estonian word 'kolonel' translates to English as 'colonel', and its related form 'kolloniaalne' refers to something associated with colonialism or colonies. It is commonly used in historical contexts, particularly when discussing military ranks (like a colonel) or the period of European colonization."
 }

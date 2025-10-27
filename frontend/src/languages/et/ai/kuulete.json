@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kuulete mind?",
-    "Ma kuulen teid hästi.",
-    "Te peate mind kuulma."
+    "Kuulete, kuidas see töötleb erinevaid helitugevusi?",
+    "Täna õhtul kuulete hästi mõistetava keelekasutuse näidiseks.",
+    "Esiteks kuulete sümfoonia esimese osa alustamisest."
   ],
   "translation": [
     "you hear",
-    "listen"
+    "you will hear"
   ],
-  "context": "The word 'kuulete' is a form of the verb 'kuulma', which means to hear or listen, and in this case, it is used as a polite way to get someone's attention."
+  "context": "'kuulete' is the second person plural form of the verb 'kuulama', meaning 'to listen' or 'to hear'. It translates to 'you hear' when referring to a group being addressed, and can also mean 'you will hear' in future contexts."
 }

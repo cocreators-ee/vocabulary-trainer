@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minulla on niitä kolme.",
-    "Hänellä ei ole niitä tarpeeksi.",
-    "Heillä on niitä useita."
+    "Niitä ei ole enää saatavilla.",
+    "He pitävät niitä erittäin arvossa.",
+    "Onko sinulla vielä niitä jäljellä?"
   ],
   "translation": [
-    "those",
-    "them",
-    "these"
+    "them (partitive plural)",
+    "those things",
+    "those items"
   ],
-  "context": "The word 'niitä' is a pronoun in Finnish that refers to a group of things or people, and it is commonly used as an object pronoun in sentences."
+  "context": "'niitä' is the partitive plural form of 'ne', meaning 'they/them/they'. It commonly refers to objects or abstract concepts and is used in situations where the quantity, availability, or relevance of those things is being discussed."
 }

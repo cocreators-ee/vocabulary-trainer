@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta kooris kraadi selga.",
-    "Kraadid on väga soojad.",
-    "Mul on hea kraadiga sutt."
+    "Kui palju kraadi on täna?",
+    "Neid kraade ei saa jätta vahele.",
+    "Soovitan sind, et vahetult pärast kraadide saamist alustaksid oma uue karjääri otsingutega."
   ],
   "translation": [
     "degree",
     "grade"
   ],
-  "context": "The word kraadi is commonly used in Estonian to refer to a degree or grade, often in the context of temperature or academic achievement."
+  "context": "The word 'kraadi' in Estonian refers to a degree or grade. It is commonly used in the context of academic degrees and temperature measurements, as well as grades in school subjects."
 }

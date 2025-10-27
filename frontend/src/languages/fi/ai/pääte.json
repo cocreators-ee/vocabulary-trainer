@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tietokoneen pääte on yhteydessä keskusyksikköön.",
-    "Pääte on tärkeä osa verkkoa.",
-    "Pääte laitteiston with liittyy usein keskusyksiköhön."
+    "Elämme odotellen tilanteen päättä.",
+    "Tutkimuksen tuloksena saatettiin erittäin selkeä pääte.",
+    "Peli päättyy voittoon, jos keräät kaikki neuvokkaat tähden."
   ],
   "translation": [
-    "endpoint",
-    "terminal"
+    "end",
+    "conclusion",
+    "outcome"
   ],
-  "context": "The word pääte in Finnish refers to a terminal or endpoint, often used in the context of computer networks and technology."
+  "context": "'Pääte' refers to the end or conclusion of a process, event, or narrative in Finnish. It is commonly used in both literal and metaphorical contexts."
 }

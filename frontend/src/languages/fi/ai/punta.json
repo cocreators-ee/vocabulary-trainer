@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän meni puntaan.",
-    "Puntakaupassa on tarjolla monia tuotteita.",
-    "Tuotteen hinta on viisi puntaa."
+    "Hänellä on paksu punta.",
+    "Punalla oli aina hieno kynsirulla.",
+    "Tämä on ihan oikea kruunupunta."
   ],
   "translation": [
-    "point",
-    "tip"
+    "nail"
   ],
-  "context": "The word 'punta' is commonly used in Finnish to refer to a point or tip of something, such as the tip of a pencil or a point on a map. It can also be used to describe a small amount or a subtle difference."
+  "context": "A 'punta' is a fingernail or toenail, and can also refer to any small sharp point. The word is commonly used in everyday Finnish to describe nails on hands and feet as well as other pointed objects."
 }

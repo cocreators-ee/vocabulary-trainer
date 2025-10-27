@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean alles.",
-    "Ta oli alles noor.",
-    "Alles oli hästi."
+    "Kui sa ei tea midagi teha, siis alles las püksid peale!",
+    "Kõikjal mujal ei jää sellest vaimustus enne kui just siin, alles siin.",
+    "Jäta alles ja oled kaotaja."
   ],
   "translation": [
-    "everything",
-    "all"
+    "still",
+    "only",
+    "just"
   ],
-  "context": "The word 'alles' in Estonian means all or everything, and it is commonly used to refer to the entirety of something."
+  "context": "'Alles' is used to emphasize that something remains or continues unchanged. It can also mean 'only' or 'just' when used in a sentence to limit the scope of an action or situation."
 }

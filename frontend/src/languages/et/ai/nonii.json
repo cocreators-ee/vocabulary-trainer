@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Nonii, lähme juba! (\"Okay, let's go already!\")",
-    "Noh, nonii, mis sa teed? (\"Well, what are you doing?\")",
-    "Nonii, kõik on klaar. (\"Okay, everything is clear.\")"
+    "Nonii kui mõistatuslikud sümbrid.",
+    "Tema käitumine oli alati veidi nonii.",
+    "Need nonii sõnad tähendavad palju."
   ],
   "translation": [
-    "okay",
-    "well",
-    "right",
-    "so"
+    "cryptic",
+    "enigmatic",
+    "mysterious"
   ],
-  "context": "The word 'nonii' is an interjection used to express agreement, acknowledgement, or to initiate something. It’s similar to saying ‘okay’, ‘well’, ‘right’, or ‘so’ in English and often functions as a conversational filler."
+  "context": "The word 'nonii' is used in Estonian to describe something or someone that is mysterious, enigmatic, or cryptic. It often refers to people or things whose behavior or nature is not easily understood by others."
 }

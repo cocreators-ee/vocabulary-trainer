@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta valutab kogu aeg.",
-    "Ma olen väsinud, sest ma valutan öösi.",
-    "Kas sa valutad?"
+    "Mulle valub kõhuvalu.",
+    "Ta kätt on valuv.",
+    "Mis valutab rohkem?"
   ],
   "translation": [
-    "hurt",
-    "ache",
-    "be sore"
+    "hurts",
+    "achieves pain"
   ],
-  "context": "The word 'valutab' is commonly used in Estonian to describe physical or emotional pain."
+  "context": "Valutab is used to describe something causing physical or emotional pain. It can be used in medical contexts for pain, and also more generally for things that hurt feelings or cause discomfort."
 }

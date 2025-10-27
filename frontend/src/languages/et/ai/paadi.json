@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen paadi juures.",
-    "Ta on paadil.",
-    "Paadid on järve ääres."
+    "Kui tõeline paadi.",
+    "Minu isiklik paadi.",
+    "Paadist kandis kergesti."
   ],
   "translation": [
-    "boat"
+    "a small boat",
+    "small ship"
   ],
-  "context": "The word 'paadi' refers to a small boat, typically used for recreation or fishing, and is commonly used in Estonian to describe such vessels."
+  "context": "The term refers to a type of watercraft that's smaller in size, often used for leisure or fishing activities."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Detektiiv uuris kuriteost",
-    "Ta on tuntud kui hea detektiiv",
-    "Detektiivid töötavad politseiga koos"
+    "detektiiv kasvatab muusikat",
+    "detektiivfilmis peategi jääb viimasele leheküljele",
+    "kõnealuse detektiivi tulemused ilmusid eile ajakirjas"
   ],
   "translation": [
-    "detective",
-    "investigator"
+    "detective"
   ],
-  "context": "A person who investigates crimes or solves puzzles, often working with the police."
+  "context": "A person who investigates crimes and solves mysteries."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kohtusin vennaga täna.",
-    "Vennad said head kuulata.",
-    "On tore, et sa oled mu vend."
+    "Mina sõidan vennaga koju.",
+    "Vennal on rohkem küsimusi kui mul.",
+    "Ta tundub olevat saanud venna toetuse."
   ],
   "translation": [
-    "brother"
+    "brother",
+    "sibling"
   ],
-  "context": "The word 'vennas' generally refers to the male sibling of one's parent, but in this context it seems to be used as a term of endearment or camaraderie among close friends."
+  "context": "A male sibling or a close friend. It can also be used metaphorically for someone who shares common goals or interests."
 }

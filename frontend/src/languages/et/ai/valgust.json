@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tuli valgust pakkuma.",
-    "Valgust on vaja kogu aeg.",
-    "Kõik vajavad valgust."
+    "Rohelised valgustid teevõrgus on häirivad.",
+    "Kodus ei jää kordagi piisavalt valgust akendest.",
+    "Valgust oli liiga palju sellest pildist."
   ],
   "translation": [
-    "light"
+    "light",
+    "illumination"
   ],
-  "context": "The word 'valgust' is the Estonian word for 'of light', it is commonly used when talking about something that gives off or emits light."
+  "context": "The Estonian word 'valgust' means light, such as natural or artificial illumination. It is commonly used to describe the brightness in a room from windows or lamps and can refer to the amount of light present."
 }

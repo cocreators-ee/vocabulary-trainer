@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Maja asus toome all",
-    "Toome on ilus koht",
-    "Toome kohal on palju puid"
+    "Toome see kass koju.",
+    "Ma toon meile sõida.",
+    "Toome lõpuks sinna juurde."
   ],
   "translation": [
-    "bird cherry",
-    "pad"
+    "bring"
   ],
-  "context": "The word 'toome' in Estonian refers to a type of tree or shrub, specifically the bird cherry, and is commonly used in descriptions of natural scenery."
+  "context": "used when referring to bringing something or someone somewhere"
 }

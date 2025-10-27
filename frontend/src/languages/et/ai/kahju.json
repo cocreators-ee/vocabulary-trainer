@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mul on kahju",
-    "Kahju oli suur",
-    "Ta pole kahjuks müügis"
+    "Olen kahetut üle selle otsuse.",
+    "Sellest muudatusest on palju kahju.",
+    "Tema surm oli suur kahju."
   ],
   "translation": [
-    "harm",
-    "damage",
-    "pity"
+    "regret",
+    "shame",
+    "harm"
   ],
-  "context": "The word 'kahju' in Estonian generally means harm or damage, but it can also be used to express pity or regret."
+  "context": "Kahju can mean regret, shame, or harm depending on context. It is commonly used to express disappointment in an outcome or negative consequences."
 }

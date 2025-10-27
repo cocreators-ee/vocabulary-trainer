@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tegeleb muusikaga",
-    "Ta on tegeelnud palju aastaid käsitööga",
-    "Nad tegelevad äriega"
+    "Ta tegeleb oma kodu juures.",
+    "Mina ei tea, miks ta tegeleks selliste asjadega.",
+    "Tegeled kindlasti väga hästi selle ülesandega."
   ],
   "translation": [
-    "deal with",
-    "engage in",
-    "be involved in"
+    "manages",
+    "handles",
+    "deals with"
   ],
-  "context": "The word 'tegeleb' is commonly used in Estonian to describe engaging or being involved in an activity, and it can be translated to English as 'deal with', 'engage in', or 'be involved in', depending on the context of the sentence."
+  "context": "'tegeleb' is used to indicate someone managing or handling a situation, task, or aspect of their life. It can also mean dealing with something in a practical way. The verb often implies taking responsibility for something."
 }

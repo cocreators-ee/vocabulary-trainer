@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Politsei lastakse kurjategijaid taga.",
-    "Pärast lõunat lastakse lapsed välja mängima.",
-    "See film lastakse kinodesse oktoobris."
+    "See tõde lastakse ruttu kaduma.",
+    "Usk lastakse lihtsalt kaduma.",
+    "Väärtus lastakse aja jooksul kaduma."
   ],
   "translation": [
-    "chased",
-    "released",
-    "shot"
+    "is lost",
+    "is let go",
+    "is given up"
   ],
-  "context": "The Estonian word 'lastakse' is a form of the verb 'lasta', which has multiple meanings depending on context. It can mean 'to chase', 'to release', or 'to shoot'. The specific meaning depends heavily on the surrounding words and situation."
+  "context": "'Lastakse' is the third person singular form of 'lastma käes', meaning to lose or give up something. It's commonly used in contexts where something intangible like a truth, belief, or value is gradually being lost over time."
 }

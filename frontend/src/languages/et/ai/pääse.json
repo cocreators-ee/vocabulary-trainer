@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma pääsen tööle kell 9",
-    "Ta pääses kooli õnnelikult",
-    "Me pääseme koju varakult"
+    "Kui sina pääsed selle kaudu, saab mina ka endale tee teha.",
+    "Ta otsustas, et ei pääse eksamit läbi ilma õppimata",
+    "Ma ei saa sind lubada, et sa pääseksid läbi igavalt"
   ],
   "translation": [
-    "get to",
-    "reach",
-    "arrive at"
+    "to pass",
+    "pass"
   ],
-  "context": "The word 'pääse' is commonly used in Estonian to describe the act of arriving or getting to a place, often with connotations of success or achievement."
+  "context": "The word 'pääse' is the first person singular form of the verb 'to pass'. It can refer to moving forward through something or successfully completing a task such as an exam."
 }

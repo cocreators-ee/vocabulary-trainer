@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma hoiatan teda ohtlikest olukordadest.",
-    "Ta on hea hoiatama lapsi vaaras.",
-    "Hoiatame teidagi selle ebaolu kohta."
+    "Tuletage meelde, et sellel juhul tuleb hoiatama jääda.",
+    "Meil peab olema pidev kontroll ja hoiatussüsteem, et saaksime mõne aja enne hoiatama hakata.",
+    "Kui see toiming ebaõnnestub, siis saad meid ainult hoiatama juba allesjäänud andmeid kustutada."
   ],
   "translation": [
     "to warn",
-    "warning"
+    "to alarm"
   ],
-  "context": "The word 'hoiatama' is used to advise or notify someone of potential danger or risk, and it can be translated to English as 'to warn' or 'warning', commonly used in situations where caution is necessary."
+  "context": "The word 'hoiatama' in Estonian means 'to warn' or 'to alarm'. It is commonly used to describe the act of giving a warning, either verbally or through signals, to alert someone about a potential danger or important information."
 }

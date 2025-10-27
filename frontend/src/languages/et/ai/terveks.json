@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen terveks jäädavalt",
-    "Ta on terveks ja terved",
-    "See toiduaine hoiab mind terveks"
+    "Oled sa terveks? Kas midagi ei juhtu?",
+    "Ta puhub juba terviks.",
+    "Ei tea, miks see nii lihtne tundus ja ma kujutasin seda endale hoopis teistsuguseks. Võib-olla pean ma siiski veel terveks puhuma."
   ],
   "translation": [
-    "healthy",
-    "in good health"
+    "well",
+    "healthy"
   ],
-  "context": "The word terveks is an adverb in Estonian that means being in good health or having recovered from an illness, and it is commonly used to describe someone's physical condition."
+  "context": "The word 'terveks' is the adverb form of 'terve', meaning well or healthy, and it's used to describe someone's state of health. It can be part of an expression like 'ole terveks' which means 'be well'."
 }

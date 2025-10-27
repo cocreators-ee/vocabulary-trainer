@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on väga kallike tüdruk.",
-    "See kleit on liiga kallike minu jaoks.",
-    "Kallike hind ei vasta kvaliteedile."
+    "Ostsin kallike mustmuste kaljude ja nöeltega välja sügisest.",
+    "Tema eesmärk on pakkuda kallikele elamutele lihtsad lahendused.",
+    "Kesklinnas on palju kallikke restoranit."
   ],
   "translation": [
-    "expensive",
-    "dear",
-    "costly"
+    "expensive"
   ],
-  "context": "The word 'kallike' in Estonian is commonly used to describe something that has a high price or is considered valuable. It can also be used affectionately, similar to 'darling' or 'sweetheart', though this usage is less common."
+  "context": "'kallike' refers to the partitive plural form of 'kallis', meaning expensive. It is used when referring to multiple items that are costly and in a negative context."
 }

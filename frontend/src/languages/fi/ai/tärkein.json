@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tärkein asia on se, että olet täällä.",
-    "Hän korosti, että tärkein tekijä oli taloudellinen tilanne.",
-    "Tärkeimmät kysymykset koskevat tulevaisuuden suunnitelmia."
+    "Tämä on tärkeimpien asioiden lista.",
+    "Hän on yhtiön tärkein henkilö päätöksenteossa.",
+    "Ehkäpä tärkeintä kaikessa on luottamus."
   ],
   "translation": [
-    "most important",
-    "main"
+    "most important"
   ],
-  "context": "The word 'tärkein' is a superlative form of the adjective 'tärkeä', which means 'important'. It is commonly used to describe something that has the most significance or priority, and it can be translated to English as 'most important' or 'main'."
+  "context": "'Tärkein' means 'the most important' and is the superlative form of 'tärkeä'. It's commonly used to emphasize significance or priority among others, often in contexts like decisions, goals, or values."
 }

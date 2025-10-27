@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei tea, kumbki neist on parem.",
-    "Kumbki meist sai auhinna.",
-    "Kumbki neist võib olla õige."
+    "Kumbki tõusis kõrgemale?",
+    "Mina ei tea, kas nad saavad koos elada - kumbki ongi nende suhte põhiline probleem.",
+    "Otsid kumbki?"
   ],
   "translation": [
-    "either",
-    "which one"
+    "Either (of two)",
+    "Neither",
+    "(interrogative) Which of the two"
   ],
-  "context": "The word 'kumbki' is used in Estonian to indicate a choice between two options, similar to the English words 'either' or 'which one'."
+  "context": "In Estonian 'kumbki' is used in different contexts. When asking a question, it can mean 'which of the two'. In negative sentences, it means 'neither', and when used positively without negation, it can mean 'either'. It's important to consider sentence structure to understand its meaning."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei ole sügaval metsas",
-    "Ta on sügavalt haigusest mujal",
-    "Sügaval merel on palju kalu"
+    "Tema mõtlemine ulatub sügavalt.",
+    "Rohkude sügaval on palju kalleid kalu.",
+    "Ta tundus sygaval rahulolev."
   ],
   "translation": [
     "deeply",
-    "far away",
-    "in the distance"
+    "in the deep (of)",
+    "deep"
   ],
-  "context": "The word 'sügaval' is an adverb in Estonian that can be translated to English as 'deeply', 'far away', or 'in the distance', and it is commonly used to describe a location or a feeling that is intense or remote."
+  "context": "'sügaval' is the inessive form of 'sügav', meaning deep. It's used to describe something that is deeply felt or done, often appears in expressions about emotions, thinking, or physical depth."
 }

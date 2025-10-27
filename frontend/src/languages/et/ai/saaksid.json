@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma saaksid seda teha.",
-    "Nad saaksid abi kuskilt.",
-    "Kas sa saaksid mulle aidata?"
+    "Sa saaksid midagi rohkem teada.",
+    "Ta võib saaksid aru.",
+    "Mina saaksin sulle aitada."
   ],
   "translation": [
-    "could",
-    "would be able to"
+    "you would get",
+    "you could",
+    "you might"
   ],
-  "context": "The word 'saaksid' is the conditional form of the verb 'saama', which means 'to get' or 'to receive', but in this context, it is used to express ability or possibility in the past or future."
+  "context": "'saaksid' is the second person singular conditional form of the verb 'to get' or 'can', commonly used in hypothetical situations to express possibility or outcome. It's used after verbs like 'võtma' (to take) or 'võib-olla' (maybe) to suggest what could happen under certain conditions."
 }

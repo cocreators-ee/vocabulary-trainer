@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Me tõmbame ühiselt kaheksa tuhat tonni kalu aastas.",
-    "Tõmbame terve öö läbi!",
-    "Ta tõmbab kogu aeg nalja."
+    "Mina tõmban sind oma poole.",
+    "Me tõmbame täiendavaid kliente.",
+    "Ta ei tõmba mingit tähelepanu.",
+    "Auto tõmbas teise sõbra kõrvalt."
   ],
   "translation": [
-    "pull",
-    "draw"
+    "to pull",
+    "to attract"
   ],
-  "context": "The word 'tõmbame' is the first person plural form of the verb 'tõmmama', which means to pull or draw something towards oneself, and it is commonly used in Estonian language to describe physical actions of pulling or drawing."
+  "context": "The verb 'tõmbama' means to pull or to draw something towards oneself. It can be used literally, such as pulling an object, or figuratively, like attracting attention or customers."
 }

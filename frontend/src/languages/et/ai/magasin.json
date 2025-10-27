@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma lähen poodi, et osta mõned toidud magasinist.",
-    "See on suur magasin täis erinevaid kaubamärke.",
-    "Nad avasid uue magazini kesklinnas."
+    "Ta töötleb magasinsid ära.",
+    "Magasini kasti lõpuks tuvastatakse surnu keha.",
+    "Mina jagan üldiselt magasini artikleid."
   ],
   "translation": [
-    "shop",
-    "store",
-    "boutique"
+    "magazine",
+    "periodical"
   ],
-  "context": "The word 'magasin' in Estonian refers to a shop or store, similar to the English words 'shop', 'store', or sometimes 'boutique'. It is used to describe a place where goods are sold."
+  "context": "A publication with articles and pictures, typically published monthly or quarterly. It can also refer to a periodical in general."
 }

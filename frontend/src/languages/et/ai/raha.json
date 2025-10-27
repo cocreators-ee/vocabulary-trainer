@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen raha panku",
-    "Rahaga saab kõike osta",
-    "Tal on palju raha"
+    "Mulle ei jäa raha sõbranna kohvikusse.",
+    "Raha on su eesmärk.",
+    "Ta panustab raha lotoga."
   ],
   "translation": [
     "money",
-    "funds",
     "cash"
   ],
-  "context": "The word 'raha' in Estonian refers to money or financial resources, and it is commonly used in everyday conversations when discussing purchases, salaries, or savings."
+  "context": "The word refers to money or cash in general. It is used for talking about having, needing, or managing financial resources."
 }

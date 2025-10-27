@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tänan sind",
-    "Tänan väga",
-    "Ta tänab meid"
+    "Täname sind väga!",
+    "Tänus sõna.",
+    "Ma tahan sulle tänada."
   ],
   "translation": [
-    "thank you",
-    "thanks"
+    "thank you"
   ],
-  "context": "The word is commonly used as a polite expression to show appreciation for something or someone."
+  "context": "'tänan' is used to express gratitude in Estonian."
 }

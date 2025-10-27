@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tuleme sinuga koos.",
-    "Me tuleme homme tagasi.",
-    "Nad tulevad meiega koos."
+    "Me tuleme koju pärast õhtusööki.",
+    "Tuleme nendega koos sinna.",
+    "Kas nad on juba tulemas?"
   ],
   "translation": [
-    "we are coming",
-    "we will come"
+    "come",
+    "are coming"
   ],
-  "context": "The word 'tuleme' is the first person plural form of the Estonian verb 'tulema', which means to come. It is commonly used in sentences to indicate that the speaker and others are arriving or will arrive at a place."
+  "context": "'tuleme' is the first person plural form of the verb 'to come'. It means that a group including the speaker(s) are arriving or moving toward a place."
 }

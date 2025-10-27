@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen kohal",
-    "Ta on kohal",
-    "Nad on kohal"
+    "Tema kodus on väga ilus aed.",
+    "Ma teen oma õhtuomanusid igal päeval.",
+    "Oma tervise ja sujuvuse tagamiseks pead pidevalt oma toitu jälgima."
   ],
   "translation": [
-    "present",
-    "here",
-    "available"
+    "at home",
+    "at one's place"
   ],
-  "context": "The word 'kohal' in Estonian means being present or available in a certain location."
+  "context": "'Kohal' translates to 'at (one’s) home' or more literally, 'at the place.' It is commonly used in Estonian to denote being at a person's residence, whether their own or someone else's. For example, you might say 'Olen kodus kohal,' which means 'I am at home.'"
 }

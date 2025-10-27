@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mõtlesin, et see on hea mõte.",
-    "Ta mõtlesin, et ma olen õige.",
-    "Me mõtlesime, et see on tore."
+    "Olen mõtlesin pärast seda alati kurbaks. ",
+    "Ma ei mõtlesid, et see kestaks nii kaua. ",
+    "Mina siis mõtlesin, et ta on tark ruttu."
   ],
   "translation": [
-    "thought",
-    "considered"
+    "I thought",
+    "I was thinking"
   ],
-  "context": "The word 'mõtlesin' is the first person singular past tense form of the verb 'mõtlema', which means to think or consider something. It is commonly used in Estonian to express thoughts or opinions about a particular topic."
+  "context": "'mõtlesin' is the past tense first person singular of 'to think'. It's used to express that someone was thinking about something in the past. Commonly appears in narratives and personal reflections when recounting thoughts or decisions made previously."
 }

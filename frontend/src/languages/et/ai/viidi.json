@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta viis mind koju.",
-    "Ma viisin lapse arsti juurde.",
-    "Saate viia tellimuse postkontorisse."
+    "Mees viidi haiglasse pärast õnnetust.",
+    "Ta viidi kodusse vahetult pärast operatsiooni.",
+    "Lapsed said viidud ülevalt alla."
   ],
   "translation": [
-    "took",
-    "carried",
-    "brought",
-    "led"
+    "was taken",
+    "were brought",
+    "children got brought"
   ],
-  "context": "The Estonian word 'viidi' is the past tense of the verb 'viima', which means to take, carry, or bring someone or something somewhere. It implies a completed action of transporting something or leading someone."
+  "context": "The word 'viidi' is used to indicate that someone or something was moved, transported or conveyed from one place to another. In English this would be translated as 'was taken', 'were brought', etc., depending on the context and conjugation of other verbs in the sentence."
 }

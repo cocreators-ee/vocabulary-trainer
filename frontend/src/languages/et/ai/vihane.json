@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen vihane",
-    "Ta on väga vihane",
-    "Vihane inimene ei saa rahulikult magada"
+    "Vihanega nad said tagasi põhja.",
+    "Nad ei ära vihaneda meist.",
+    "Ma kardan, et vahel oled sa liialt vihane."
   ],
   "translation": [
     "angry",
-    "furious",
-    "enraged"
+    "annoyed",
+    "irked"
   ],
-  "context": "The word vihane is an adjective in Estonian that means feeling or showing anger, and it is commonly used to describe someone who is annoyed or irritated."
+  "context": "Vihane is an adjective in Estonian that describes a feeling of anger or irritation. It can be used to describe someone who is angry (e.g., 'He was very vihane after the argument') or something that causes annoyance (e.g., 'The vihane weather ruined our plans')."
 }

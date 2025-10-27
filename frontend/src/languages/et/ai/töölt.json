@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen töölt koju.",
-    "Ta tuli töölt väsinuna.",
-    "Nad rääkisid töölt saadud uudistest."
+    "Tule ta töölt.",
+    "Minu isa on siin, kuna tuleb töölt.",
+    "Kui saabate sealt töölt, palun hoestage oma kingituse ette."
   ],
   "translation": [
     "from work",
-    "off work",
-    "at work"
+    "at/from work"
   ],
-  "context": "The word 'töölt' is used to indicate a location or state related to one’s job or workplace. It typically translates to ‘from work’ or ‘off work’ in English, indicating movement away from the place of employment or a status after finishing work."
+  "context": "'töölt' is the elative form of 'töö', meaning 'work'. It translates to 'from work' or 'at work' depending on context. Commonly used in sentences to indicate someone coming from work, being at work, or something related to leaving/arriving from a workplace."
 }

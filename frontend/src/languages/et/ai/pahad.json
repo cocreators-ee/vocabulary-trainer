@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on üks pahade inimeste hulgast",
-    "Pahad mehed tulid linna",
-    "Pahad uudised said teatavaks"
+    "Pahad sõnad! Minu õde on väga viisakas.",
+    "Neil tundus, et pahad juhused olid märk rahu eest.",
+    "Tema pahad hinged kattusid ühe teise üle."
   ],
   "translation": [
-    "bad people",
-    "evil men",
-    "wrongdoers"
+    "bad",
+    "evil",
+    "wicked"
   ],
-  "context": "The word 'pahad' is an adjective in Estonian that means bad or evil, and it is commonly used to describe people with malicious intentions."
+  "context": "'Pahad' is an adjective in Estonian used to describe something negative, morally wrong, or harmful. It commonly describes bad behavior, evil intentions, or wicked actions and can modify nouns like words, deeds, or people."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma otsin teda järele.",
-    "Järele küsisin, mis temaga juhtus.",
-    "Ta läks minu järele."
+    "Ta läks filmi järele.",
+    "Parem jätta see kõik järel.",
+    "Minu sõbranna räägib alati naise järele."
   ],
   "translation": [
     "after",
-    "behind"
+    "leave it (all) behind",
+    "to someone's liking"
   ],
-  "context": "The word 'järele' is commonly used in Estonian to indicate something that is located behind or after something else, and can also be used to describe following or pursuing someone or something."
+  "context": "'järele' is a versatile word in Estonian. It primarily means 'after' in time or sequence, but can also mean to leave something behind or to like someone/something."
 }

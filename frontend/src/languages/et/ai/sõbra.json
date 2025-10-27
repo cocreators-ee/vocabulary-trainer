@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kohtusin sõbraga kohvikus.",
-    "Sõbralik inimene on alati abivalmis.",
-    "Tema sõbrad ei olnud sugulased."
+    "Minu sõbrad on alati minu tugevaima toekeskuseks.",
+    "Tema ühed vahetult kõrvale hoiavad temast oma sõbra kaugel.",
+    "Oma kodu eest hoolitsemine on hästi, kuid isegi parimate sõbradele peaks andma ruumi."
   ],
   "translation": [
-    "friend",
-    "buddy"
+    "friend"
   ],
-  "context": "The word sõbra refers to a person with whom one has a strong bond of affection or loyalty, and is commonly used in Estonian to describe a close companion or associate."
+  "context": "Sõbra means 'friend' in Estonian. It refers to a person with whom one has a relationship of mutual trust, support, and affection. The word is used both in singular (sõber) and plural form here as the example sentences show."
 }

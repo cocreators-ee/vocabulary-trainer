@@ -1,15 +1,17 @@
 {
-  "confidence": 0.6,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga valetas.",
-    "Ma ei tea, kas see on valetas või mitte.",
-    "See väide on täiesti valetas."
+    "Ta väldas oma vanema juurde minemist.",
+    "Meil tundus, et ta lihtsalt valetas.",
+    "Ära valeta mind!",
+    "Ta tegi valed vastused eksamitel."
   ],
   "translation": [
-    "false",
-    "lie",
-    "untrue"
+    "To lie",
+    "Lie(s)",
+    "False",
+    "Lying"
   ],
-  "context": "The word 'valetas' in Estonian means false or a lie. It is commonly used to describe something that is not true or an untruthful statement."
+  "context": "'Valetada' is the Estonian verb meaning 'to lie', both in the sense of to tell lies, and as an adjective meaning false. It can be used as a verb or in compound words."
 }

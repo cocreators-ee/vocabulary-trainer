@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on magus.",
-    "Magusad asjad on kergesti levivad.",
-    "Ma armastan magusat maiustisi"
+    "Magus on mind. (The cat is cute.)",
+    "See magus tüdruks tõi mulle sörkimise kriisini. (That cute girl brought me to tears of laughter.)",
+    "Mida teeme nüüd? Magus mäng. (What do we do now? A cute game.)"
   ],
   "translation": [
+    "cute",
     "sweet",
-    "cute"
+    "charming"
   ],
-  "context": "The word 'magus' in Estonian is commonly used to describe something or someone that is sweet, cute or charming."
+  "context": "'Magus' is commonly used to describe something or someone that is perceived as adorable, pleasant to look at, or endearing in a way that evokes positive emotions."
 }

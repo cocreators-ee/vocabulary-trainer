@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma käisin kaupassa.",
-    "Sinä käisit kirjastossa.",
-    "Me käisime teatterissa."
+    "Käisid sa siin juba?",
+    "Ma olen käinud sinu kodus.",
+    "Kas tead, et ta pole kunagi seal käinud?"
   ],
   "translation": [
-    "you went",
-    "you have been"
+    "were (you)",
+    "went",
+    "have been"
   ],
-  "context": "The word käisid is the second person plural past tense form of the Estonian verb käia, which means to go or to visit. It is commonly used in sentences to describe someone's actions in the past."
+  "context": "The Estonian word 'käisid' is a past tense form of the verb 'to go'. It can mean 'were (you)' when referring to being somewhere, or 'went' when talking about moving from one place to another. Commonly used in everyday situations like asking if someone has already been somewhere or describing where they went."
 }

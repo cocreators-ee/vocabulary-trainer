@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tuleb homme tagasi.",
-    "Tule mulle külastusi tegema.",
-    "Tuli tuul, mis puud riivas."
+    "Tule maale!",
+    "Kust tuleb see rasv?",
+    "Mina olen su tulest."
   ],
   "translation": [
-    "come",
-    "fire"
+    "fire",
+    "come (imperative)",
+    "come from"
   ],
-  "context": "The word 'tule' in Estonian can be translated to English as 'come' or 'fire', and it is commonly used in different forms to indicate the act of coming or the presence of fire, depending on the context in which it is used."
+  "context": "'Tule' primarily means 'fire'. It can also be used as an imperative verb meaning 'come!' and in the partitive form to indicate origin, like 'I am from your fire'"
 }

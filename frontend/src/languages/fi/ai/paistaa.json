@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Paistaa aurinko taivaalla.",
-    "Koko paikka paistaa vihreää valoa.",
-    "Hän paistaa olevan onnellinen."
+    "Paistaa munat aamiaiseen.",
+    "Kissa katseli paistavaa aurinkoa ikkunasta.",
+    "Hän paisti uuniss"
   ],
   "translation": [
-    "to shine",
-    "glow"
+    "To fry",
+    "Gleaming / shining / glowing",
+    "Bake (context-dependent)"
   ],
-  "context": "The word 'paistaa' in Finnish means to shine or glow, and it is commonly used to describe something that is emitting light or warmth."
+  "context": "'Paistaa' primarily means 'to fry', often in the context of cooking food like eggs. It can also mean 'gleaming/shining/glaring' when referring to light or objects reflecting it, especially sunlight. In specific contexts, particularly baking with an oven, it might be translated as 'bake'."
 }

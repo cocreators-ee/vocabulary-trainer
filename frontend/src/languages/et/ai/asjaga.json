@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen asjaga",
-    "Ta on asjaga",
-    "Me oleme asjaga"
+    "Mina toon töóle igapäeval asjaga seotud väli.",
+    "Ta pani käia asjaga seoses esimese lüpsusega, mis sai taustaks uuele filmile.",
+    "Kui sa ei tea, milline on su asjaga seotud roll, siis tuleb sulle jõuda."
   ],
   "translation": [
-    "with the thing",
-    "on the subject",
-    "about the matter"
+    "with the matter",
+    "regarding the issue",
+    "concerning the affair"
   ],
-  "context": "The word 'asjaga' in Estonian is used to refer to being involved or concerned with something, and it can be translated to English as 'with the thing' or 'on the subject'. It is commonly used in sentences to indicate that someone is dealing with a particular issue or topic."
+  "context": "Asjaga is an Estonian word meaning 'with the matter' or 'regarding the issue.' It is commonly used in formal contexts to refer to a specific subject or problem that is being discussed."
 }

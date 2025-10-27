@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma panin kätte tasku",
-    "Ta võttis kätte raamatu",
-    "Kätte on antud mitmeid auhindade"
+    "Ma teen see kätte sule tänasööd.",
+    "Käe kätte pidi nad neid teadma.",
+    "Sul on sõbrad, kellega sa kõik kätte tohid?",
+    "Vaatad kätte ja tunned, et midagi on läbi mässanud."
   ],
   "translation": [
-    "into hands",
-    "by hand",
-    "hand in hand"
+    "hand",
+    "in hand",
+    "by hand"
   ],
-  "context": "The word kätte is a preposition or adverb in Estonian that generally means something is done by hand, with one's own hands, or into someone's hands."
+  "context": "The Estonian word 'kätte' primarily translates to 'hand', 'in hand', or 'by hand'. It is commonly used in phrases like 'teha kätte' which means 'to do by hand'"
 }

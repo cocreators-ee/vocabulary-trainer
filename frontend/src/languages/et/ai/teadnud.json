@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma teadnud tema nime",
-    "Ta teadnud mind juba ammu",
-    "Nad teadsid teadnud"
+    "Ma tean seda.",
+    "Ta teab seda juba kaks nädalat.",
+    "Meil on teada, et see toiming ei ole soovitatav."
   ],
   "translation": [
-    "known",
-    "been aware of"
+    "know",
+    "be aware"
   ],
-  "context": "The word 'teadnud' is the past participle form of the verb 'teadma', which means to know or be aware of something. It is commonly used in sentences to describe a state of knowing or being familiar with someone or something."
+  "context": "Teadnud is a past participle of the verb \"teha\" meaning 'to do' but in context when used as part of verbs like 'tean', it actually comes from 'tunnetama' meaning to know or be aware."
 }

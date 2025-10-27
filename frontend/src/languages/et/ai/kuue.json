@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen kuue aastat vana",
-    "Ta on kuue meetri pikk",
-    "Kuue töötajaga firma on suurem kui viietöötajaga"
+    "Kuue kord kuus.",
+    "Ma ostsin kuue teekettaast.",
+    "Tema nimi on Kuue."
   ],
   "translation": [
-    "six",
-    "half a dozen"
+    "sixth",
+    "six"
   ],
-  "context": "The word kuue is an Estonian adjective and numeral that translates to six in English, commonly used for counting objects or describing quantities."
+  "context": "The word 'kuue' is the Estonian ordinal number for sixth. It can also be used as a cardinal number in some contexts but primarily functions as an ordinal to describe something that comes after the fifth position or item in a sequence, such as dates, rankings, and positions."
 }

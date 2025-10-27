@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on külge jäänud.",
-    "Külgedel on ilusad maalid.",
-    "Ta tõmbas külge jalga."
+    "Kõikjal mujal kui saabuvasse sünkimisest külge peale ei lähe.",
+    "Meeleldi külge ja anna minu värvida!",
+    "Oma tõekspidamise eest külge tehtud toiminguid ei saa tagasi maksja."
   ],
   "translation": [
-    "aside",
-    "on the side"
+    "alongside",
+    "with",
+    "including"
   ],
-  "context": "The word külge in Estonian generally refers to something being located at the side of something else or something being put aside, and is often used in contexts where something is placed or situated adjacent to another thing."
+  "context": "'külge' is used in Estonian to indicate something accompanying or adding to another thing. It can mean 'together with', 'along with', or 'including'. It's commonly used in various contexts, such as describing someone coming along with another person, items being included together, or actions performed alongside others."
 }

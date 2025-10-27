@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta töötas pidevalt ööd läbi.",
-    "Pidevalt kasvav turism on mõjutanud kohalikku elu.",
-    "Need sündmused toimuvad pidevalt."
+    "Olen pidevalt olnud vahelikulises kohtus.",
+    "Pidevalt mõtlema ei saa.",
+    "Ei ole säästlikkuse tähenduses pidevalt tegev."
   ],
   "translation": [
-    "continuously",
-    "constantly"
+    "constantly",
+    "continuously"
   ],
-  "context": "The word 'pidevalt' in Estonian means continuously or constantly, and it is commonly used to describe an action that is happening without interruption or pause."
+  "context": "The Estonian word 'pidevalt' translates to 'constantly' or 'continuously' in English. It is used to describe something that happens without interruption, such as an ongoing action or a state that persists over time."
 }

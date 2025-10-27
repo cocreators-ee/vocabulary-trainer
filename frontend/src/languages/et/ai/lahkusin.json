@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen ja lahkusin kohe.",
-    "Ta lahkus eile.', "
+    "Ma lahkusin kodusse pärast tööd.",
+    "Ta lahkusist rahuliku meheliselt, et jätta talle meelde.",
+    "Lähme koos koju - see on mu viimane hetk siin enne lahkusmist."
   ],
   "translation": [
-    "I left",
+    "left",
     "departed"
   ],
-  "context": "The word 'lahkusin' is the first person singular past tense form of the Estonian verb 'lahkuma', which means to leave or depart."
+  "context": "Used to indicate the action of leaving a place or situation. Commonly used in everyday conversation when someone is departing from somewhere, such as work, home, or an event."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tahaksin külastada Eestit.",
-    "Ta tahaksin õppida estooni keelt.",
-    "Meie tahaksime minna Tallinna."
+    "Tahaksin sõita oma emale.",
+    "Ma tahaksin vajadusel abi pakkuda.",
+    "Kas sa tahaksid koos minu juurde tulla?"
   ],
   "translation": [
-    "would like to",
-    "wish to"
+    "I would like",
+    "I want to",
+    "I'd be interested in"
   ],
-  "context": "The word 'tahaksin' is a verb form in Estonian that expresses a desire or wish to do something, similar to the English phrase 'would like to' or 'wish to'."
+  "context": "Used to express a polite or tentative desire to do something, often used in the conditional form."
 }

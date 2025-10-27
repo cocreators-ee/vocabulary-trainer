@@ -2,13 +2,13 @@
   "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen maganud terve öö",
-    "Ta on maganud liiga palju",
-    "Nad on maganud kogu päeva"
+    "Tema magusalt maganud kaks tõu.",
+    "Ta ei suutnud maganud jäta kahtlemata.",
+    "Maganud oli ta juba enne teada saamist."
   ],
   "translation": [
-    "slept",
-    "been sleeping"
+    "asleep",
+    "sleeping"
   ],
-  "context": "The word 'maganud' is the past tense of the Estonian verb 'magama', which means to sleep, and it is commonly used to describe a state of having slept or rested."
+  "context": "The past participle form of the verb 'magama' which means to sleep. It is commonly used to describe someone or something that has fallen asleep or is in a state of being asleep."
 }

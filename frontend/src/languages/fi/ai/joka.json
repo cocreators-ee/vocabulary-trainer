@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Se on joka paikassa",
-    "Hän on joka päivä töissä",
-    "Jokainen ihminen on erilainen"
+    "Tämä on se mies joka puhui tänään.",
+    "Kirja, joka sijaitsi pöydällä oli hukassa.",
+    "Autot, jotka olivat sinisiä, olivat kaikki uusia."
   ],
   "translation": [
-    "each",
-    "every",
-    "any"
+    "who",
+    "which",
+    "that"
   ],
-  "context": "The word \"joka\" is a pronoun in Finnish that means \"each\", \"every\", or \"any\", and it is commonly used to refer to something that happens or is true for all members of a group."
+  "context": "'joka' is a relative pronoun used to introduce a clause that provides more information about something previously mentioned. It can refer to both people and things."
 }

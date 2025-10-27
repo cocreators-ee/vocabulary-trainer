@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei taha surra",
-    "Ta suri äkki",
-    "Surra on halb"
+    "Ta surrb probleemidest ära.",
+    "Jäta see vabanemiseks, mitte surra ees.",
+    "Ma ei suuda seda igaks juhul surra."
   ],
   "translation": [
-    "to die",
-    "dying",
-    "death"
+    "to run away (from a problem, etc.)",
+    "to avoid something"
   ],
-  "context": "The word 'surra' in Estonian means to die or dying, and it is commonly used in sentences to express the act of passing away or meeting one's end."
+  "context": "'Sorra' is an Estonian verb meaning to run away from problems or situations one doesn't want to face. It's often used in contexts where someone avoids responsibilities or difficult issues."
 }

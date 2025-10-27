@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma jalutan öösel",
-    "Jalutades läbi metsa",
-    "Ta on hea jalutaja"
+    "Mind jalutama.",
+    "Tahad jalutama minna?",
+    "Jalutame koos tänaval."
   ],
   "translation": [
-    "to walk",
-    "walker",
-    "hike"
+    "To walk",
+    "Walking (gerund form)"
   ],
-  "context": "The word 'jalutama' in Estonian means to walk or go for a walk, and it is commonly used to describe the act of walking as a form of exercise or recreation."
+  "context": "'jalutama' refers to the act of walking, especially for leisure or exercise. It is commonly used in phrases like 'jalguda jalgu' meaning 'to take a walk'. Often seen in daily conversation when suggesting or planning to go out and walk."
 }

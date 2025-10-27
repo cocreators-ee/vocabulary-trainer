@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kirjutasin tema nime papelile.",
-    "Ta kirjutas kirja oma sõbrale.",
-    "Kirjutasin võlahaldurile, et ma olen valmis võlga tasama."
+    "Olen mõtisklenud ja lõpuks kirjutasin oma arvamusu lehekülge.",
+    "Mina kirjutasin oma nime paberile.",
+    "Ta ei saa teada, et ma olin just juhusjuhtumitest kirjutasin."
   ],
   "translation": [
+    "I wrote",
     "wrote",
-    "written"
+    "I have written"
   ],
-  "context": "The word 'kirjutasin' is the first person singular past tense form of the verb 'kirjutama', which means to write. It is commonly used in Estonian language to express that someone has written something, such as a letter or a message."
+  "context": "'kirjutasin' is the past tense form of the verb 'to write'. It indicates an action completed in the past by the speaker. Commonly used when narrating events, sharing personal experiences or documenting information."
 }

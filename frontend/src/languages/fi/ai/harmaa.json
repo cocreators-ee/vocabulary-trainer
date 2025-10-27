@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Koira on harmaa.",
-    "Harmaat hiukset ovat merkki vanhuudesta.",
-    "Talo on maalattu harmaaksi."
+    "Harmaa on voinut kerryttää kaiken sen kanssa.",
+    "Harmaan tyyli on erottua julkisuudesta.",
+    "Tässä harmaassa olevat ne jotka ovat aina mukana."
   ],
   "translation": [
-    "grey",
-    "gray"
+    "gray",
+    "grey"
   ],
-  "context": "The word 'harmaa' is commonly used in Finnish to describe something that is grey in color, and it can be used as an adjective to describe objects, hair, or other things."
+  "context": "'harmaa' is the Finnish word for 'gray' or 'grey'. It can be used to describe colors as well as metaphorically to refer to something in-between or ambiguous, such as moral gray areas. In example sentences, it's seen describing color, style, and people."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma usaldan tema oskusi.",
-    "Ta on usaldatud inimene.",
-    "Usaldada tuleb ainult neid, kellest sa tead."
+    "Ma usaldan sind.",
+    "Ta ei suuda keegi usaldada.",
+    "Usaldad sa mind? "
   ],
   "translation": [
-    "to trust",
-    "rely on"
+    "to trust"
   ],
-  "context": "The word 'usaldada' means to have confidence or faith in someone or something, and it is commonly used in Estonian to describe a situation where one person has trust in another."
+  "context": "This verb is used to express trust in someone or something."
 }

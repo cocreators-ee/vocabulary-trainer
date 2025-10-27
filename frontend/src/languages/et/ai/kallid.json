@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kallid hinnad võivad olla takistuseks turul.",
-    "Ta on kallid kingad jalas.",
-    "Kallid tooted on müügil luksuspoes."
+    "Need kallid sõiad tõesti üldavad!",
+    "Minu uus kallis auto on liiga kallis.",
+    "Kas tead, et need kallid kingitused maksid rohkem kui 100 dúo?"
   ],
   "translation": [
-    "expensive",
-    "dear",
-    "costly"
+    "pricey",
+    "expensive"
   ],
-  "context": "The word 'kallid' in Estonian means expensive or costly, and it is commonly used to describe something that has a high price or value."
+  "context": "Kallid is used to describe something that costs a lot of money or is considered expensive in price."
 }

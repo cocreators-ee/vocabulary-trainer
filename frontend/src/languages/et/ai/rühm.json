@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Rühm inimesi tuli koos.",
-    "Ta kuulub rühma.",
-    "Rühm tudengeid läks kinno."
+    "Olete eriti suurepärased rühmas.",
+    "Rühma töö tulemuseks oli hästi tehtud projekt.",
+    "Kolmanda rühma esimeheks valitsi Marta."
   ],
   "translation": [
     "group",
-    "team",
-    "gang"
+    "team"
   ],
-  "context": "The word 'rühm' is commonly used to refer to a group of people, often in an informal setting. It can also be translated as 'team' or 'gang', depending on the context."
+  "context": "The word 'rùhm' refers to a group or team of people working together towards a common goal. It is commonly used in both formal and informal contexts, such as in school projects, workplace teams, or social groups."
 }

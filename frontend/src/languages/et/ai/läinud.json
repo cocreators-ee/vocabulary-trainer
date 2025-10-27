@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen läinud koju",
-    "Ta on läinud tööle",
-    "Nad on läinud ära"
+    "Olen juba läinud.",
+    "Läinud kuu oli väga sammuline.",
+    "Kas sa oled tõesti läinud?"
   ],
   "translation": [
-    "gone",
     "left",
-    "departed"
+    "past"
   ],
-  "context": "The word läinud is the past tense of the Estonian verb lähen, which means to go or leave a place, and it is commonly used to describe someone or something that has moved away from a location."
+  "context": "The word 'läinud' in Estonian is primarily a past participle of the verb 'lnnu' meaning 'to go away' or 'to leave', and can also mean 'past' when referring to time. It commonly indicates that someone has left a place, or something occurred previously."
 }

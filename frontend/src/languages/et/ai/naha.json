@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa naha alla käia",
-    "Ta võttis nahka maha",
-    "Nahk on väga peen"
+    "Tema naha on väga valge.",
+    "Ta lõi endale uue naha katta.",
+    "Nahakarumid jäävad peale isegi pärast hoolduse kasutamist."
   ],
   "translation": [
     "skin",
-    "leather",
-    "hide"
+    "skin covering (as in artificial skin)",
+    "dermatitis"
   ],
-  "context": "The word 'naha' in Estonian generally refers to the skin of an animal, but it can also be used to describe human skin, and is commonly used in contexts related to clothing or anatomy."
+  "context": "'naha' primarily refers to 'skin', as in the outer layer of a person or animal. It can also refer to dermatological conditions, and 'skin coverings' such as prosthetics"
 }

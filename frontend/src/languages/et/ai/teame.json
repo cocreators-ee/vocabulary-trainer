@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meie teame seda.",
-    "Teame, et see on võimalik.",
-    "Nad teavad, et meie teame."
+    "Teame, et see on vahetut oluline.",
+    "Me teame seda juba aastate kestel.",
+    "Kas sa tead, et me teame vastust?"
   ],
   "translation": [
-    "we know",
-    "we are aware"
+    "know",
+    "are aware"
   ],
-  "context": "The word 'teame' is the first person plural form of the verb 'teadma', which means 'to know' in English. It is commonly used to express knowledge or awareness of something."
+  "context": "'Teame' is the first person plural form of 'teha' in Estonian meaning 'to know'. It is used to indicate that a group including the speaker knows something."
 }

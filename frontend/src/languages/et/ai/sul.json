@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma panen sule kotti.",
-    "Ta kirjutas selle sulega.",
-    "Sulega kirjutamine on ilus."
+    "Kas sul on aeg öösel õppida?",
+    "Sul saab olla suur karistus.",
+    "Sul on tõesti vaja raha?"
   ],
   "translation": [
-    "lock",
-    "feather",
-    "pen"
+    "you",
+    "your",
+    "yours"
   ],
-  "context": "The word 'sulg' in Estonian can have multiple meanings depending on the context. It most commonly translates to 'lock' as in a mechanism for securing something, but it also means 'feather' and historically referred to 'pen' (specifically a quill pen)."
+  "context": "'sul' is the genitive form of 'sa', which means 'you'. It is used to show possession and usually translates as 'your' or 'yours'. For example, in phrases like 'sul on' (you have) it functions similarly to English possessive pronouns."
 }

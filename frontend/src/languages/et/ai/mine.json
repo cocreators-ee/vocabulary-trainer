@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "See on minu om",
-    "Ma olen selle omanik",
-    "Ta on minu sõber"
+    "Minu nimi on Anna.",
+    "Minu kodukodu on Tallinnas.",
+    "Minu lemmikvärv on roheline."
   ],
   "translation": [
-    "mine",
-    "my",
-    "belonging to me"
+    "my"
   ],
-  "context": "The word is used to describe something that belongs to the speaker, similar to the English word 'mine'."
+  "context": "'mine' translates to 'my' in English. It is a possessive pronoun used before a noun to indicate ownership or possession by the speaker."
 }

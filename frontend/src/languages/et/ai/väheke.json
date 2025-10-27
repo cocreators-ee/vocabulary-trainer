@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta ei hooli väheke oma tervisest.",
-    "Väheke vihma ei tee kahju.",
-    "Ma aitan sind väheke."
+    "Mina olen väheke tüdruk.",
+    "See on väike asi.",
+    "Vähe kõneleb tänapäeval neil teemadel."
   ],
   "translation": [
-    "a little",
-    "slightly",
-    "somewhat"
+    "little",
+    "few"
   ],
-  "context": "The word 'väheke' in Estonian is an adverb that means 'a little', 'slightly', or 'somewhat'. It indicates a small degree or quantity of something. It’s commonly used to modify verbs, adjectives, or other adverbs."
+  "context": "The word 'väheke' in Estonian translates to 'little' or 'few' and is commonly used as an adjective to describe small quantities, sizes, or age. For example, it can mean a little girl, something small, or a few people."
 }

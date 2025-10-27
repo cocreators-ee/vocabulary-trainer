@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kinnitan seda",
-    "Ta kinnitas oma sõnu",
-    "Kinnitada tuleb kiiresti"
+    "Ma kinnitan oma soovi.",
+    "Ta juba on kinnitatud sündmusele.",
+    "Juhtumiselt kinnitab see ka teise hüpoteesi."
   ],
   "translation": [
-    "confirm",
-    "validate",
-    "verify"
+    "to confirm",
+    "confirm"
   ],
-  "context": "The word kinnitada in Estonian means to confirm or validate something, and it is commonly used in formal and informal settings to express agreement or acknowledgment."
+  "context": "The verb 'kinnitada' means to confirm or affirm something. It's used when someone wants to make sure that a statement, event, or plan is certain and agreed upon. In different contexts it can be translated as to verify, ratify, or establish."
 }

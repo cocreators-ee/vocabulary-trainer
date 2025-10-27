@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta lugesid raamatut.",
-    "Lugege palun ette!",
-    "Ma ei suuda seda teksti lugeda."
+    "Ta tegi huvitavaid lugusid.",
+    "Pärast lõunat rääkis ta mulle mõnedest lugusid.",
+    "Minu lapsel on sõbrad, kes jutustavad talle imelisi lugusid."
   ],
   "translation": [
-    "reading",
-    "to read"
+    "stories",
+    "tales"
   ],
-  "context": "The word 'lugusid' is the accusative plural form of the noun 'lugu', meaning story or tale. In this context, it refers to the act of reading stories or tales. The verb 'lugema' means 'to read'. It’s commonly used when discussing literature, news, or any written material."
+  "context": "The word 'lugusid' refers to stories or tales. It is commonly used in the context of storytelling, such as when someone tells a story or a tale."
 }

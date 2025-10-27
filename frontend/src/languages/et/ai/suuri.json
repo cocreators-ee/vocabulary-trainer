@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on suuri mees.",
-    "Suuri osa inimestest armastab koeri.",
-    "See on väga suuri kodu."
+    "Mina näha suuri lumihiide.",
+    "Neil oli suuri kulusid kogutud.",
+    "Suuri asju on juhuslikult sündinud."
   ],
   "translation": [
     "big",
-    "great",
     "large"
   ],
-  "context": "The word 'suuri' in Estonian means big or great in size, amount, or degree, and it is commonly used to describe something that is impressive or considerable in English."
+  "context": "`Suuri` is the plural form of `suur`, meaning big or large in size."
 }

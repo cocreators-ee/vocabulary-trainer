@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta müüs oma auto.",
-    "Müüs oli täis inimesi.",
-    "Ma müüsin enda jaoks uue telefoni."
+    "Ta müüs auto ära.",
+    "Müüs kõik oma asjad poisile.",
+    "Minu naine on hea müüja."
   ],
   "translation": [
     "sold",
-    "store"
+    "seller"
   ],
-  "context": "The word müüs can be translated to English as sold or store, and it is commonly used in Estonian to describe the act of selling something or a place where goods are sold."
+  "context": "The word 'müís' in Estonian can be translated to English as 'sold' or 'seller'. It is commonly used to describe the action of selling something, like a seller at a store, or when someone has sold an item."
 }

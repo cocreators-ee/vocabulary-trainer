@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta targemud oma sõnu.",
-    "Ma ei targu seda teada.",
-    "Targem mees oleks varem mõelnud."
+    "Olen targem kui sina.",
+    "Ta õppis ja muutus veelgi targemaks.",
+    "Targema tõestusega saab kindlamalt kahtlustatud vabadusest hoida."
   ],
   "translation": [
-    "to think",
-    "think",
-    "clever"
+    "smarter",
+    "cleverer"
   ],
-  "context": "The Estonian word 'targem' is the comparative form of 'tark', meaning 'wise' or 'clever'. It’s used to express that someone thinks, considers, or is more intelligent than another. In English, it often translates to 'to think' or describes someone as being clever."
+  "context": "'targem' means 'smarter' or 'cleverer'. It is the comparative form of 'tark', which means 'smart'. This term can be used in everyday contexts to describe someone who is more intelligent than another person, and it can also appear in legal or argumentative contexts where a smarter strategy or evidence is involved."
 }

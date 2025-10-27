@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean sind id.",
-    "See on väga hea id!",
-    "Ta oli suur id."
+    "Minu isad on väga tänulikud sulle.",
+    "Ta isad tegi kõnealuse projektide elluviimiseks.",
+    "Kas sa tean, miks tema isad kannatavad?"
   ],
   "translation": [
-    "idea",
-    "mind",
-    "spirit"
+    "fathers",
+    "father did (in a general sense)",
+    "dads'"
   ],
-  "context": "The Estonian word 'id' can have multiple meanings depending on the context. It most commonly translates to 'idea' or 'thought' in English, but it can also refer to one’s ‘mind’ or ‘spirit’. It is a relatively simple and common word used in everyday conversation."
+  "context": "'id' refers to fathers or dads in plural form. It's used when talking about more than one father figure."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma elan Tallinnas.",
-    "Ta elab Tartus.",
-    "Nad elavad Viljandis."
+    "Tema elud olid pühendatud teadusele.",
+    "Meil on alles kolm elu jäänud mängus.",
+    "Elud on kallis, tänu ettevaatlikkusele."
   ],
   "translation": [
-    "live",
-    "reside",
-    "dwell"
+    "lives"
   ],
-  "context": "The word 'elud' is the second person singular form of the verb 'elama', which means to live or reside in a place, and it is commonly used in Estonian to describe where someone lives or stays."
+  "context": "'elud' is the plural form of 'elu', meaning 'life'. It can refer to living beings, stages of life, or symbolic representations in games and literature. Context determines literal vs. metaphorical usage."
 }

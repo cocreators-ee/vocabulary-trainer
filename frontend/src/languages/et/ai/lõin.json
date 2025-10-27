@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lõin talle kiiresti uksed lahti",
-    "Lõin tema juurde tagasi ja ütlesin, et olen valmis minema",
-    "Ta lõinas mind kogu aeg"
+    "Ta pani lõina ja jättis raha otsima.",
+    "Minu suurim lõin oli selleks, et laskea töölt vabatahtlikult.",
+    "Rahvariiulil oli musta kohvi ja lõna mieldiv märjumine."
   ],
   "translation": [
-    "hit",
-    "beat",
-    "strike"
+    "deed",
+    "act",
+    "feat"
   ],
-  "context": "The word 'lõin' in Estonian means to hit or strike something or someone, and it is commonly used in sentences to describe physical contact or impact."
+  "context": "'lõin' refers to an action or deed, often implying something significant that a person has done. It can be used in both literal and metaphorical senses, describing accomplishments or notable acts."
 }

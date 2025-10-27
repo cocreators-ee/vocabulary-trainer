@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.5,
   "understood": true,
   "sentences": [
-    "Ta pistis mind täiega.",
-    "Ma ei taha sinuga pistmist.",
-    "Neil on omavahel halb pistmine."
+    "Ta rõõmustas mind oma pistmiste üle.",
+    "Minu sõbrad alahindavad mind, aga ma olen tegelikult väga pistmist mees.",
+    "Tema pistmised jutud on sageli keerulised mõista."
   ],
   "translation": [
-    "connection",
-    "relationship",
-    "dealing",
-    "interaction"
+    "flippant",
+    "careless"
   ],
-  "context": "The word 'pistmist' in Estonian refers to having a connection or relationship with someone, often implying involvement or dealings. It can also describe the nature of that interaction – whether it’s good or bad. It is frequently used when discussing interpersonal relationships or conflicts."
+  "context": "The word 'pistmist' in Estonian is used to describe someone or something that shows a lack of concern, seriousness, or care. It can mean flippant or careless and often has a negative connotation when describing attitudes or actions."
 }

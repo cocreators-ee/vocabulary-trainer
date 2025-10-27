@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kutsuman sind täna õhtul.",
-    "Ta on alati nõus mind kutsuma.",
-    "Kutsuma tähendab eesti keeles kutsuda või kutsumist."
+    "Ma kutsin teda eile üle.",
+    "Ta kutti mind koju.",
+    "Kutsume neid jõulupühal."
   ],
   "translation": [
     "to call",
-    "to invite",
-    "to summon"
+    "to invite"
   ],
-  "context": "The word 'kutsuma' in Estonian means to call or invite someone, and it is commonly used in everyday conversations to refer to the act of calling or inviting someone to do something."
+  "context": "Kutsuma is used to express the act of calling or inviting someone for a social gathering, event, or to one's home. It implies an invitation in both literal and figurative senses."
 }

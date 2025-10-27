@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen ajad möödas",
-    "Ta on ajad üles",
-    "Meil on palju ajad"
+    "Mine ajad pole nii head kui varem.",
+    "Need uued ajad on põnevad!",
+    "Muutuvad ajad pakuvad uusi võimalusi."
   ],
   "translation": [
     "times",
-    "periods"
+    "ages"
   ],
-  "context": "The word 'ajad' in Estonian generally refers to times or periods, and is often used to describe a point or period in time."
+  "context": "'ajad' refers to times or ages in Estonian and is often used in contexts discussing historical periods or eras."
 }

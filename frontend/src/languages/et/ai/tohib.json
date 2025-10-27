@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tohib seda koera",
-    "Ta on hea inimene, kellele tohib usaldada",
-    "See koer on sõbralik ja tohib lastega mängida"
+    "See tohib homme.",
+    "Midagi ei tohi juhtuda.",
+    "Kas see tohib täna õhtul?"
   ],
   "translation": [
-    "is allowed to",
-    "may"
+    "will happen",
+    "happens",
+    "is happening"
   ],
-  "context": "The word 'tohib' is used in Estonian to express permission or allowance, similar to the English phrase 'is allowed to' or 'may'."
+  "context": "'Tohib' is the third person form of the verb 'toha', which means 'to happen'. It is commonly used in Estonian when talking about events that will or do happen."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Nad tulistage kohe.",
-    "Me tulistame homme.",
-    "Tulistage need inimesed eile."
+    "Tuletage nõutavalt!",
+    "Vale peatus, tuleb tülistage.",
+    "Päikeseloojangu puhul tuld tuleb vaheldust taolistada ja tulistada."
   ],
   "translation": [
-    "shot",
-    "fired"
+    "shoot"
   ],
-  "context": "The word 'tulistage' is the third person plural form of the verb 'tulistama', which means to shoot or fire something, often referring to a gun or other projectile."
+  "context": "The imperative form used to command someone (or a group) to shoot something"
 }

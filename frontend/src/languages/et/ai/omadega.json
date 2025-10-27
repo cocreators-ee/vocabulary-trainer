@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta läks oma majja omadega.",
-    "Meil on kõik omadega korras.",
-    "Ära muretse, me saame selle omadega tehtud."
+    "Toote vormistamisel tuleb arvestada ka selle omadega.",
+    "See toode on mõeldud spetsiaalselt materjalide ja nende omadega töötamiseks.",
+    "Kui tean asja omadega, saan paremini hindama olukorda."
   ],
   "translation": [
-    "with his/her own",
-    "on one's own",
-    "by oneself"
+    "with properties",
+    "with features",
+    "with characteristics"
   ],
-  "context": "The Estonian word 'omadega' is often used to indicate doing something independently or managing things on your own. It can also imply a sense of personal responsibility or ownership over a situation. It’s similar to saying ‘with one’s own means’ or ‘on one’s own terms’ in English."
+  "context": "'omadega' is the inessive form of 'omadus', meaning 'property' or 'feature'. It translates to 'with properties/features/characteristics'. Commonly used when referring to characteristics inherent to a thing or person."
 }

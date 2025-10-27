@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta kannab prille",
-    "Ma olen kannanud selle kohvri kogu päeva",
-    "Kannab tavaliselt vihmavari"
+    "Ma kannan sind.",
+    "Kas sina kannad seda?",
+    "Ta kannab jääta."
   ],
   "translation": [
-    "carries",
-    "wears",
-    "bears"
+    "carry",
+    "bear"
   ],
-  "context": "The word 'kannab' is a verb in Estonian that means to carry or wear something, and it is commonly used in everyday conversations to describe the act of holding or transporting an object."
+  "context": "'kannab' is the third person singular form of 'to carry' in Estonian. It's used to express physical carrying, as well as metaphorical or moral responsibilities."
 }

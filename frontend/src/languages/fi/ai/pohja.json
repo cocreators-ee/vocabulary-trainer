@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Pohja on Pohjanmaan maakunnan keskus.",
-    "Tämä pohja on hyvin sakea.",
-    "Pohjan suurin kaupunki on Vaasa."
+    "Kansi oli liitostavaran pohjasta tehty.",
+    "Ammunut kirkkaan pohjaan.",
+    "Hänellä on ystävät jopa maailman pohjalta."
   ],
   "translation": [
-    "bottom",
-    "base",
-    "floor"
+    "bottom"
   ],
-  "context": "The word 'pohja' in Finnish generally refers to the bottom or base of something, and it can also be used to describe a location or region, such as Pohja, which is a municipality in Finland."
+  "context": "Pohja refers to the bottom part of something, like the base or foundation. It can be used for physical objects, geographical directions (south), or metaphorically as a basis for ideas."
 }

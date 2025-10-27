@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen uskunud, et see on hea mõte.",
-    "Ta on uskunud, et tema lapsevanemad on õiged.",
-    "Nende uskunud liikmed osalevad sageli kirikuteenistustel."
+    "Olen uskunud oma luguja kogu elu.",
+    "Tema uskus oli tugev ja kindel.",
+    "Mina ei uskunud tema sõnu."
   ],
   "translation": [
     "believed",
-    "thought"
+    "trusted"
   ],
-  "context": "The word 'uskunud' is the past tense of the Estonian verb 'uskmama', which means to believe or think something. It is commonly used in sentences to express that someone has believed or thought something in the past."
+  "context": "The word 'uskunud' is the past singular form of the verb 'usko', which means to believe or trust. It can be used in a religious context, but it also has everyday meanings such as trusting someone's words or believing in something."
 }

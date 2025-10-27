@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean seda",
-    "Ta teab teada",
-    "Nad teavad teada"
+    "Ma tean seda juba kaks nädalat.",
+    "Tema ei tea, et ma tõen tulema.",
+    "Teada saamiseks pead küsima."
   ],
   "translation": [
-    "know",
-    "be aware of"
+    "to know",
+    "knowing"
   ],
-  "context": "The word 'teada' is commonly used in Estonian to convey the idea of being aware or having knowledge of something."
+  "context": "'Teada' is used to express knowledge or awareness of something in Estonian. It can be used as a verb meaning 'to know'. In some contexts it might also mean 'awareness', 'knowledge', 'information'."
 }

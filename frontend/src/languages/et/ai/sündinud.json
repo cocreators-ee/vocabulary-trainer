@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen sündinud Tallinnas.",
-    "Ta on sündinud 1990. aastal.",
-    "Nad on sündinud erinevatel aastatel."
+    "Ta oli sündinud Väike-Mere kaluriperekonnas.",
+    "Kõik sündinud lasted saavad tervishoiu tasuta.",
+    "See lugu on üks kõige sündinud tänapäevaste loodest."
   ],
   "translation": [
-    "born"
+    "born",
+    "native"
   ],
-  "context": "The word 'sündinud' is the past participle of the verb 'sündima', which means to be born, and it is commonly used in Estonian to describe someone's birthplace or year of birth."
+  "context": "'Sündinud' means 'born' or 'native.' It refers to the place or time of a person's birth and can also describe someone originating from a specific region or background."
 }

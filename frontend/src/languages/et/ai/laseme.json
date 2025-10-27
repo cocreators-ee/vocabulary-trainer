@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta laseme mind öödsel ajal.",
-    "Laseme on väga hea sõber.",
-    "See laseme tegi mulle head."
+    "Ma lasen sulle minna.",
+    "Laseme talle juba teada.",
+    "Ära laseme neil siis midagi teha."
   ],
   "translation": [
     "allow",
-    "let",
+    "let (someone do something)",
     "permit"
   ],
-  "context": "The word 'laseme' is a form of the verb 'lasta', which means to allow, let or permit something happen. It can also imply releasing or sending something."
+  "context": "'Laseme' is the first person plural form of 'lasma', which means to allow or let someone do something. It is used in situations where a group allows another individual or group to perform an action, often implying permission or tolerance."
 }

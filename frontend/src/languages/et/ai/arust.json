@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.5,
   "understood": true,
   "sentences": [
-    "Ta arustas oma viga.",
-    "Arust on halb tunne.",
-    "Ma ei saa aru, miks sa oled nii arust."
+    "Olen arust, et see on õige.",
+    "Ta arvab, et jah, see tundub tõsi.",
+    "Mulle tundub arust, et sul on õigus."
   ],
   "translation": [
-    "angry",
-    "annoyed",
-    "irritated"
+    "I think",
+    "He thinks",
+    "It seems to me"
   ],
-  "context": "The word 'arust' in Estonian describes a state of being angry or irritated. It is commonly used to express frustration or displeasure about something."
+  "context": "'arust' is a form of the verb 'arvata,' meaning 'to think.' It's used in sentences expressing personal belief or opinion, commonly seen in conversational contexts where someone states their view on a matter."
 }

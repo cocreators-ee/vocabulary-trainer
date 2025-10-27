@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Naised on võimelised.",
-    "Tallinnas elab palju naisi.",
-    "Ta on üks ilusaim naine maailmas."
+    "Mina olen naine.",
+    "Tema ei tea, kuidas kohtlemine peaks toimuma naisega.",
+    "Kolm neist oli naiseid."
   ],
   "translation": [
     "women",
-    "ladies"
+    "female person"
   ],
-  "context": "The word 'naised' is the plural form of 'naine', which means woman, and it is commonly used to refer to adult human females in Estonian language."
+  "context": "Naised is a plural form of 'naine' which means women or female persons. It refers to adult human females collectively, similar to the English term 'women'. Used in general contexts when talking about group of females."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on viimasel ajal väga haige olnud.",
-    "Viimasel kuul olid tema sõnad talle eriti tähtsad.",
-    "On üsna tavaline, et inimesed viimasel eluaastal palju kaaluvad."
+    "Viimasel aastal läks meie kooli arvutite arv kahekordseks.",
+    "Ta sündis viimasel sajandil.",
+    "Minu õde tõusis viimase laine korral."
   ],
   "translation": [
-    "last",
-    "latest",
-    "recent"
+    "last"
   ],
-  "context": "The word viimasel is an adjective in Estonian that means last or latest, and it is commonly used to describe something that has happened recently or is the most recent in a series of events."
+  "context": "'Viimasel' is used to indicate the last in a sequence, such as the last year, century or wave. It is commonly used in temporal contexts to denote something that happened most recently before now."
 }

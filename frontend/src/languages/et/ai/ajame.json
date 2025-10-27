@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Meie perekonnal on ajame autoga reisida.",
-    "Ta läheb ajame rattaga tööle.",
-    "Nad veetsid ajame aias."
+    "Ajame pärast lõunat.",
+    "Kui kaua ajame?",
+    "Meie sõbrad juba ajavad."
   ],
   "translation": [
-    "drive",
-    "ride",
-    "spend time"
+    "to wait"
   ],
-  "context": "The Estonian word 'ajame' is often used to describe spending time doing an activity, or traveling by vehicle. It can be translated as 'drive', 'ride', or 'spend time' depending on the context."
+  "context": "'Ajama' is a verb in Estonian meaning to wait. It's commonly used when someone is waiting for another person, an event, or something to happen."
 }

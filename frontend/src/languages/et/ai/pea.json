@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta võttis peaaegu kogu pea",
-    "Pealael oli suur haav",
-    "Inimese peas on aju"
+    "Minu pea valitseb.",
+    "Pea kõrvale!",
+    "Ta tegi peaga märku."
   ],
   "translation": [
-    "head",
-    "chief",
-    "main"
+    "Head",
+    "Head (as in part of the body)",
+    "Head (as in direction)"
   ],
-  "context": "The word 'pea' in Estonian generally refers to the head or a leader, and it is commonly used in various contexts such as anatomy, leadership positions, or as an adjective to describe something primary."
+  "context": "The Estonian word 'pea' can mean different things depending on context: it is most commonly used to refer to the head as a body part, but may also be used more figuratively or metaphorically."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on kaunis tüdruk.",
-    "Kaunis ilm oli täna hommikul.",
-    "Kaunid lilled olid toas."
+    "Olen kaunistatud!",
+    "See tundus väga kaunilt.",
+    "Pean lihtsalt öeldes, et see on suunaga kaunis."
   ],
   "translation": [
-    "beautiful",
-    "lovely",
-    "pretty"
+    "shameful",
+    "embarrassing",
+    "disgraceful"
   ],
-  "context": "The word 'kaunis' in Estonian means something or someone that is pleasing to the eye or mind, and is commonly used to describe people, places, or things that are aesthetically appealing."
+  "context": "Kad describes something that is considered to be shameful or brings disrepute. It can refer to behavior, situations, or objects and conveys a sense of disgrace or embarrassment in social contexts."
 }

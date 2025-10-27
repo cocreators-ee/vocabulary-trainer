@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minun on löydettävä kello.",
-    "Kello on hänen seinällään.",
-    "Hän antaa kellon veljelleen."
+    "Kello on kymmenen.",
+    "Hänellä on uusi kello.",
+    "Kello soi kolmesta."
   ],
   "translation": [
     "clock",
-    "bell",
     "watch"
   ],
-  "context": "The word 'kello' in Finnish can refer to a clock, a bell, or a watch, and is commonly used in everyday conversations to talk about time or scheduling."
+  "context": "'kello' means a time-keeping device or bell. It can refer to a wall clock, wrist watch, or even the sound of a bell in some contexts."
 }

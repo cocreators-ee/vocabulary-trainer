@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma usun sind.",
-    "Ära usu teda!",
-    "Usalda mind."
+    "Usud sa mind?",
+    "Mina usun sind.",
+    "Proua ei usu teda."
   ],
   "translation": [
     "believe",
     "trust"
   ],
-  "context": "The Estonian word 'usud' is a verb meaning 'to believe' or 'to trust'. It’s commonly used to express faith in someone or something, or to indicate reliance on another person."
+  "context": "The verb 'usuda' in Estonian means to believe or trust someone. It can be used in different contexts, such as expressing faith in a person's statement (e.g., 'Usud sa mind?' meaning 'Do you believe me?') or showing trust towards someone (e.g., 'Mina usun sind.' meaning 'I trust you.') The word appears in various conjugated forms depending on the subject and tense."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Turvalisuse tagamine on riigi ülesanne.",
-    "Ta oli turvalisuse ekspert.",
-    "Turvalisus on esimene ja peamine asi."
+    "Tema eesmärksel on tagada turvalisuse tüta pakkuda.",
+    "Turvalisuse tähtsus majapidamises ei saa alahindada.",
+    "Pank pakub oma kliendi andmetele turvalisuse garantii."
   ],
   "translation": [
     "security",
     "safety"
   ],
-  "context": "The word turvalisuse refers to the state of being safe or secure, and is commonly used in contexts related to personal or national security."
+  "context": "Refers to the state of being protected or safe from harm, danger, or risk. It is commonly used in contexts involving safety measures, security systems, and protection against threats."
 }

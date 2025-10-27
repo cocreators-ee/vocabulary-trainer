@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tegema oma kodutööd",
-    "Ta tahab seda tegema",
-    "Nad on selleks valmis tegema"
+    "Ma olen tegema kodutóäö.",
+    "Tegema on vaja palju jõudu.",
+    "Kas sa oled tegema midagi?"
   ],
   "translation": [
-    "to do",
-    "make",
-    "create"
+    "doing",
+    "making"
   ],
-  "context": "The word 'tegema' is a verb in Estonian that means to do, make or create something. It is commonly used in various contexts such as work, hobbies or everyday activities."
+  "context": "The word 'tegema' is an Estonian verb that translates to either 'doing' or 'making' in English. It denotes the performance of an action or the creation of something. In example sentences, it can be used to describe activities such as homework ('I am doing my homework'), physical effort ('Doing requires a lot of strength'), and asking about someone's activity ('Are you doing something?')."
 }

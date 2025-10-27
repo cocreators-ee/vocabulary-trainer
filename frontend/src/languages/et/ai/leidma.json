@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma otsin leidma oma võti.",
-    "Ta üritas leidma lahendust sellele probleemile.",
-    "Leidma õigeid sõnu on sageli väga raske."
+    "Ma leian midagi uut.",
+    "Toiming leitakse siin.",
+    "Mina leian selle asja.",
+    "Neil on raskusi leidma tööd."
   ],
   "translation": [
     "to find",
     "finding"
   ],
-  "context": "The word 'leidma' is the infinitive form of the Estonian verb 'leidma', which means to find something. It is commonly used in sentences where someone is searching for an object, a solution, or the right words to express themselves."
+  "context": "'Leidma' is an Estonian verb meaning 'to find.' It is used in both literal and figurative contexts, such as finding objects or solutions to problems. The verb can also appear in different grammatical forms like the partitive form."
 }

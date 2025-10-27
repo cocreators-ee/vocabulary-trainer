@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta murdsid mind",
-    "Murdsin tema",
-    "Nad murdsid politseikoeri"
+    "Ma murdin klaasi.",
+    "Ta murdas kätt oma õe käega.",
+    "Need väikesed sammud aitasid mind siirduda edasi ja seejärel lõpuks isegi su isa kodu tagasi sinna, kust sa ega keegi muu juba ei suutnud teda mureda."
   ],
   "translation": [
-    "killed",
-    "murdered"
+    "broke",
+    "cracked",
+    "damaged"
   ],
-  "context": "The word 'murdsid' is the second person singular past tense form of the Estonian verb 'tappma', which means to kill or murder someone. It is commonly used in sentences to describe an action where someone has taken another person's life."
+  "context": "'Murdsid' means 'you broke' or similar past tense in Estonian. It is used to indicate something has been broken, either physically or metaphorically."
 }

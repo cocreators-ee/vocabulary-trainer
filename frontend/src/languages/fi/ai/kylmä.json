@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tänään on kylmä ilma.",
-    "Hänellä oli kylmä ja hikki.",
-    "Kylmässä säällä tulisi olla lämmin ja tuulensuoja."
+    "Hän on kylmä ja välinen.",
+    "Kylmä sade alkaa päästää.",
+    "Rakkaus ei ole ollut kylmä, mutta se on ainoa mahdollisuus."
   ],
   "translation": [
-    "cold"
+    "cold",
+    "frosty",
+    "unfeeling"
   ],
-  "context": "The word 'kylmä' is commonly used in Finnish to describe something that has a low temperature, and it can also be used to describe someone who is unfriendly or distant."
+  "context": "'kylmä' translates to 'cold' in English and is used both literally to describe low temperatures or something chilly, and figuratively to depict someone who is emotionally distant, indifferent, or unemotional. It can also be part of compound words that convey specific meanings like frosty weather conditions."
 }

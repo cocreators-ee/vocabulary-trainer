@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan sinusse.",
-    "Ta on alati sinusse kiindel.",
-    "Sinusse vaatamine on minu lemmiktegevus."
+    "Ma tahan sind sinusse.",
+    "Tema ei uskunud sinu väitele, kuid sa küpistasid ta sinusse.",
+    "Kas nad tõesti suutsid leida teekonna sellest mäestikust välja ja siirduda teisele küljele? Võib-olla olid need sinusse jäänud."
   ],
   "translation": [
     "into you",
-    "to you"
+    "in your direction",
+    "on the other side"
   ],
-  "context": "The word 'sinusse' in Estonian is a pronoun that means 'into you' or 'to you', it is used as an object of a verb or preposition, indicating the direction or target of an action."
+  "context": "The word 'sinusse' is an Estonian preposition meaning 'into' or 'toward,' used to indicate movement toward a person or object, as in 'into you.' It can also be part of expressions suggesting being on the opposite side. Common usage includes directing actions towards someone."
 }

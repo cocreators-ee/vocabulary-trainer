@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen tegeleda aiaga",
-    "Ta tegeleb teiste inimestega",
-    "Nad tegelevad ühiselt"
+    "Ta tegeleb suurtel rahvusvahelistel konverentsidel.",
+    "Mitu korda päevas tegeled mõistatustega?",
+    "Tegeleda nii kõnealusega kui ka vaba aegade jaoks."
   ],
   "translation": [
-    "to deal with",
     "to engage in",
-    "to be involved in"
+    "deal with",
+    "occupy oneself with"
   ],
-  "context": "The word 'tegeleda' is commonly used in Estonian to describe being engaged or involved in an activity, situation, or relationship. It can also imply taking care of something or someone."
+  "context": "The word 'tegeleda' means to actively involve or occupy oneself with something, often used when discussing tasks, activities, or issues that one is handling or working on. It implies taking a direct part or responsibility for it."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma võtan kotti ja lähen kinno.",
-    "Kotti on mu lemmikasend.",
-    "Ta tegi kotti ja tõstis selle üles."
+    "Tema kott on suur.",
+    "Kotis oli midagi kahtlustatavat.",
+    "Ta paneksinu kotti kõik oma asjad."
   ],
   "translation": [
     "bag",
-    "sack"
+    "case",
+    "container"
   ],
-  "context": "The word 'kotti' in Estonian generally refers to a bag or sack, and it is commonly used in everyday conversations to describe carrying or storing items in a bag."
+  "context": "'kotti' refers to a bag or container used for carrying items. It can also mean case in some contexts, such as a situation or legal case."
 }

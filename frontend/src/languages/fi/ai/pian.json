@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minä tulen pian takaisin.",
-    "Hän on pian valmis.",
-    "Meillä on pian juhlat."
+    "Minüt puhutaan pian.",
+    "Mennään sinne pian.",
+    "Pian saapuu apua."
   ],
   "translation": [
     "soon",
-    "almost"
+    "shortly"
   ],
-  "context": "The word 'pian' in Finnish is commonly used to indicate that something will happen soon or almost, and it can be translated to English as 'soon' or 'almost'."
+  "context": "'pian' is commonly used in Finnish to express that an event will happen soon or shortly. It can be translated as 'soon' when referring to the near future, and as 'shortly' when indicating a brief amount of time before something happens."
 }

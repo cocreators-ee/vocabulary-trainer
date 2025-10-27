@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen toimi",
-    "Toimi on avatud",
-    "Ta ei saanud toimist"
+    "Silmad ei toimi.",
+    "Ära tungi mind, et ma peaksin ise sellest aru saama, kas see toimi või mitte.",
+    "Mu aju toimib raskejalgavalt."
   ],
   "translation": [
-    "store",
-    "office",
-    "agency"
+    "act",
+    "function",
+    "work"
   ],
-  "context": "The word 'toimi' in Estonian generally refers to a place where something is done or an organization that performs specific tasks, and it can be translated to English as store, office, or agency depending on the context."
+  "context": "'toimi' is the third person form of 'toimida', meaning 'to work', and may also mean something functions as expected or someone acts in a certain way. In context, it can mean act (as in perform an action) or function/work (as in operate correctly)."
 }

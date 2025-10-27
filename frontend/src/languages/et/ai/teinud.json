@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen teinud kõik tööd ära.",
-    "Ta on teinud hea töö.",
-    "Me oleme teinud suurepärast tööd."
+    "Ta on teinud oma kodutöö.",
+    "Ma olen teinud vea.",
+    "Olete teinud hästi."
   ],
   "translation": [
     "done",
-    "made",
-    "completed"
+    "made"
   ],
-  "context": "The word 'teinud' is the past tense of the verb 'tegelema', which means to do or make something. In English, it can be translated to 'done', 'made', or 'completed', and is commonly used to describe an action that has been finished or accomplished."
+  "context": "The word 'teinud' is the past participle of the verb 'teha', which means 'to do' or 'to make'. It is used with auxiliary verbs to form compound tenses, such as perfect and pluperfect. Commonly appears in sentences like 'I have done my homework' (Ma olen teinud oma kodutöö) or 'He has made a mistake' (Ta on teinud vea)."
 }

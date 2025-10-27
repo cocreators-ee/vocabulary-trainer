@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ega ole kindel",
-    "Ega see ei ole hea mõte",
-    "Ta ütles, et ega ta seda ei tehta"
+    "Ta ei tea seda ega nad.",
+    "Ma ei saa seda teha, ka mitte sina ega kellegi teisi.",
+    "Ega kõikjal mujal maailmas pole nii musta nagu siin."
   ],
   "translation": [
-    "but",
-    "though",
-    "however"
+    "nor"
   ],
-  "context": "The word 'ega' is a conjunction in Estonian that is commonly used to indicate a contrast or unexpected turn of events, similar to the English words 'but' or 'however'."
+  "context": "The Estonian word 'ega' translates to the English coordinating conjunction 'nor,' used to join two or more negative clauses together. It is commonly employed in formal and informal speech when negation has already been introduced by a negative particle such as 'ei.'"
 }

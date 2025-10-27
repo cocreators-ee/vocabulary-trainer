@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tegin selle ise.",
-    "See on minu asi.",
-    "Meil on palju tööd."
+    "Me juba teeme seda.",
+    "Meie vanemad ei tea.",
+    "Kas me saame jõuda?"
   ],
   "translation": [
-    "I",
-    "me",
-    "my",
-    "mine"
+    "we",
+    "us",
+    "our"
   ],
-  "context": "The word 'me' in Estonian is a personal pronoun that can translate to 'I', 'me', 'my', or 'mine' in English. It functions similarly to its English counterparts, indicating the speaker as the subject or possessor."
+  "context": "'me' is a personal pronoun in Estonian used to refer to 'we', 'us', or 'our'. It can be used as the subject or object of a sentence and changes form depending on grammatical case."
 }

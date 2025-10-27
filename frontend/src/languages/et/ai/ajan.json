@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma aian sind oma südamesse.",
-    "Ta ajas mind maru viha sisse.",
-    "Aja seda asja edasi!"
+    "Ma ajan kodus toime.",
+    "Aja koos sõbra jaoks aega.",
+    "Ajalikult tuleb mulle aita."
   ],
   "translation": [
-    "drive",
-    "chase",
-    "spend (time)",
-    "push"
+    "manage",
+    "arrange",
+    "handle"
   ],
-  "context": "The Estonian word 'ajan' is versatile and can mean to drive, chase, or spend time doing something. It often implies a sense of forward motion or exertion. In some contexts it can also mean to push someone into a state of anger."
+  "context": "'ajan' refers to managing or handling situations, often used in the context of taking care of something efficiently or dealing with tasks"
 }

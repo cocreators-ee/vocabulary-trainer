@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma nägin teda nähes.",
-    "Ta on hea inimene, kuid ta ei ole nähes sarnane.",
-    "Nähes tema tööd, saab aru, et ta on andekas."
+    "Mulle meelis, et teda näha on väga raske. Näha jääb pidev ja erilise kujuga kõikjal.",
+    "Ta ei nähes midagi, sest tema nukker oli katki.",
+    "Ma nähes neid, kes mind tundsid."
   ],
   "translation": [
     "seeing",
-    "in view of"
+    "to see",
+    "vision"
   ],
-  "context": "The word 'nähes' is used to indicate that something is being observed or noticed, often implying a visual observation."
+  "context": "The word 'näha' in Estonian is commonly used as a verb meaning to see or seeing. It can be used in various contexts such as literal sight, understanding, or perception."
 }

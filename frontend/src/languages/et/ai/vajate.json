@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma vajate abi.",
-    "Kas sa vajate midagi?",
-    "Neil on vaja rohkem aega."
+    "Ma vajane koolitust.",
+    "Ta vaikis ja seejärel ütles: \"Vaanke, aga ma ei tea.\" ",
+    "Mulle puudub teadmiste tasem... või olen lihtsalt pigem rahulik."
   ],
   "translation": [
-    "need",
-    "require",
+    "I need",
+    "lack",
     "want"
   ],
-  "context": "The Estonian word 'vajate' is a verb that expresses the need or requirement for something. It’s commonly used to ask if someone needs assistance, or to state what someone requires."
+  "context": "'vajane' is used to express a need or lack of something, commonly in contexts like requiring assistance, missing knowledge, or desiring an object. It can be translated as 'need', 'lack', or 'want', depending on context."
 }

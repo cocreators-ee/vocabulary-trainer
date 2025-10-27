@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta hakkas naerma.",
-    "Me peame hakata tööd tegema.",
-    "Lapsed hakkasid mängima."
+    "Olen alati valmis hakakama sõita.",
+    "Ta hakkas kohe tegelema probleemiga.",
+    "Ära hakka midagi tegema ilma nõusolekuta."
   ],
   "translation": [
-    "to begin",
-    "to start",
-    "to commence"
+    "to start doing something",
+    "beginning to do",
+    "starting"
   ],
-  "context": "The Estonian verb 'hakake' is used to express the beginning of an action or state. It’s similar to ‘begin’ or ‘start’ in English, but often implies a process rather than a single event."
+  "context": "The word 'hakake' in Estonian is a verb meaning to begin or start an action. It is commonly used in everyday situations where someone starts performing a task or engaging in an activity."
 }

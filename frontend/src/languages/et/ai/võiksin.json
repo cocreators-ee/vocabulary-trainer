@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võiksin seda teha",
-    "Sa võiksid mind aidata",
-    "Ta võiks meile ütelda"
+    "Ma võiksin sulle aita.",
+    "Ta võiksid öelda tõtt.",
+    "Võiksite te minu kätt hoida?"
   ],
   "translation": [
     "could",
-    "can"
+    "might"
   ],
-  "context": "The word võiksin is the first person singular form of the verb võima, which means to be able to or can do something, and it is commonly used in Estonian to express ability or possibility."
+  "context": "'võiksin' is the first person singular form of 'võia' which means 'can' or 'to be able to'. It's used in hypothetical situations where someone is expressing that they have the ability, permission, or it might be possible to do something."
 }

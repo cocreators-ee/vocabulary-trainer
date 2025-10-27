@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta hakkas mind petma.",
-    "Ma ei taha sind valetada.",
-    "Ära valeta mulle!"
+    "Kas sa valetad mind?",
+    "Tean, et sa valetad.",
+    "Sa alati valetad."
   ],
   "translation": [
-    "to lie",
-    "lie",
-    "falsehood"
+    "you are lying"
   ],
-  "context": "The verb 'valetad' in Estonian means 'to lie' or 'to tell a falsehood'. It is commonly used to describe intentionally misleading someone with untrue statements. The word can also be used as a noun, referring to the act of lying itself."
+  "context": "Expresses that someone is not telling the truth and is intentionally deceiving others through false statements or omissions."
 }

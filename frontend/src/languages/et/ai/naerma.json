@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta naeris`, `Mul on hea meel, kui ma naeran",
-    "Laps naeris ema nalja"
+    "Ma naeran palju, kui kuulen selle.",
+    "Tema naersu on liiga kõrgealune.",
+    "Mina ei suuda teda kontrollima jätta, isegi kui ta naerab."
   ],
   "translation": [
     "laugh",
-    "laughter"
+    "laughter",
+    "to laugh"
   ],
-  "context": "The word naerma is commonly used in Estonian to refer to the act of laughing or smiling, and can be used in various contexts such as describing someone's reaction to a joke or a funny situation."
+  "context": "The word 'naerma' in Estonian refers to the act of laughing or laughter itself. It can be used both as a verb meaning 'to laugh' and as a noun for 'laughter'. In sentences, it might describe someone's action when they find something funny, like 'I laugh a lot when I hear that.'"
 }

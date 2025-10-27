@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta ütles hoo.",
-    "Hoopis on hea meel.",
-    "Kui ma kuulen hoo, siis tean, et see on mõni vanameelne inimene."
+    "See tants on hoo peale püsis kogu elu.",
+    "Ta jättis hoo ja lõpetas oma karjääri.",
+    "Võistlusvorm on sellel murdmaajahejal tugevalt alla hoob. Vastupidi, see mees tõusis vormi üles."
   ],
   "translation": [
-    "hello",
-    "hi"
+    "momentum",
+    "in form",
+    "the right moment"
   ],
-  "context": "The word 'hoo' is a casual greeting in Estonian, used to acknowledge someone's presence or to say hello, similar to 'hello' or 'hi' in English."
+  "context": "'hoo' refers to a period or state of being in momentum, often used in the context of sports or activities where performance is at its peak. It can mean that someone is doing well and things are going their way."
 }

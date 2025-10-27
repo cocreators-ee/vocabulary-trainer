@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ilusad inimesed elavad seal.",
-    "Ta on ilus ja armas.",
-    "Need ilusad majad on kallid."
+    "Ta on ilus naine.",
+    "Ilusal päikeseloojas on meie vist selles küljes.",
+    "Kas sa tead sellest ilusa asjast rohkem?"
   ],
   "translation": [
     "beautiful",
-    "pretty",
     "lovely"
   ],
-  "context": "The word 'ilusad' is an adjective in Estonian that means beautiful or pretty, and it is commonly used to describe people, places, or things that are aesthetically pleasing."
+  "context": "'Ilus' is an adjective used to describe something that is visually pleasing or attractive. Commonly used to refer to people, places, or things."
 }

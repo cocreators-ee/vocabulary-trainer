@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta võtab omavahel vastu suhtleb inimestega.",
-    "Need kaks inimest on omavahel väga sarnased.",
-    "Nende kahe inimese vahel on omavahel suur sõprus."
+    "Neist kaks meest olid omavahel suhtes vandenõus",
+    "Vaatad, mis sa olid ja mis nad on? Meil ei ole sellest midagi selget... aga nad ei lähe omavahel kokku",
+    "Ma olen kindel, et see aitab meie kogukonnal tugevneda omavahel"
   ],
   "translation": [
-    "among themselves",
-    "between each other",
-    "mutually"
+    "mutually",
+    "each other"
   ],
-  "context": "The word 'omavahel' is used in Estonian to describe a mutual or reciprocal relationship between two or more people or things, indicating that they are interacting or connected with each other."
+  "context": "'Omavahel' refers to a relationship or interaction between two or more entities where the action is mutual and reciprocal. It's used in contexts implying that something affects both sides equally."
 }

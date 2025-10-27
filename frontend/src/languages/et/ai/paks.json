@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on paks mees.",
-    "Pakse inimese elu on raske.",
-    "Paksud jalad ei ole ilusad."
+    "Paks vili tõi külma sisse.",
+    "Paks karusoo on mugav talvel.",
+    "Ta on paks ja rahulik mees."
   ],
   "translation": [
+    "thick",
     "fat",
-    "thick"
+    "stout"
   ],
-  "context": "The word 'paks' is used to describe something or someone that is thick or fat, and it can be used in various contexts to convey different meanings, such as physical appearance or size."
+  "context": "The word 'paks' in Estonian is used to describe something or someone that is thick, fat, or stout. It can be applied both literally, such as a thick carpet, and metaphorically, like describing a person's build."
 }

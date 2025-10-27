@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta abi elas Pariisis.",
-    "Minu abi on vajalik.",
-    "See oli suur abi."
+    "Ma teen seda oma õe abil.",
+    "Kui sa annad mulle sinu toeksus ja abil, olen sõber sind kogu elu läbi.",
+    "Tema vanemad olid alati tal abil."
   ],
   "translation": [
     "help",
-    "assistance",
-    "aid"
+    "with the help of"
   ],
-  "context": "The word 'abil' in Estonian commonly translates to 'help' or 'assistance' in English. It can refer to providing support, aid, or being helpful to someone."
+  "context": "Able to provide example sentences using different forms (abil)"
 }

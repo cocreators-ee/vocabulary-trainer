@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meiega on hea suhe.",
-    "Ta on üks meiega.",
-    "Meiega pole võimalik rääkida."
+    "Ma jagan teiega oma probleeme.",
+    "Ta rääkis meiega väga rahulikult.",
+    "Me kavatsime teda külastada, aga meiega pidi midagi juhtuma."
   ],
   "translation": [
-    "with us",
-    "among us"
+    "with us"
   ],
-  "context": "The word 'meiega' is a postposition in Estonian that indicates a relationship or association with the speaker and others, similar to the English phrase 'with us' or 'among us'."
+  "context": "The word 'meiega' is an Estonian word meaning 'with us'. It is the illative form of 'meie', which means 'we' or 'us', and it denotes that someone is with the speaker and possibly another person(s)."
 }

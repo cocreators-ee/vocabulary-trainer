@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Höyryjunalla pääsee asemalle.",
-    "Höyryä tuli ulos kukkulan takaa.",
-    "Laitteisto tuottaa höyryä."
+    "Hänellä on paha höyryn haju huulillaan.",
+    "Kylpyhuoneen ovi oli auki, ja siitä kattoi kuuma höyry.",
+    "Riihinauhan tuuletus helpotti lämmintä höyryn paineetta."
   ],
   "translation": [
     "steam",
     "vapor"
   ],
-  "context": "The word höyry refers to water vapor, often produced by heating water, and is commonly used in contexts related to steam engines or evaporation processes."
+  "context": "'Höyry' refers to steam or vapor in Finnish. It is commonly used to describe the visible water vapor that rises from hot surfaces such as boiling water, showers, or saunas."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Lapsi kasvoi nopeasti.",
-    "Kasvoni ovat pehmeät.",
-    "Hän on kasvonpiirteiltään kaunis."
+    "Kasvoi säännöllisesti yli viisi metriä.",
+    "Hän on kasvanut siitä alkaen.",
+    "Rakkaus ei ole ikinä kasvanut keskenämme."
   ],
   "translation": [
     "grew",
-    "face"
+    "increased",
+    "developed"
   ],
-  "context": "The word 'kasvoi' is the past tense of the Finnish verb 'kasvaa', which means to grow, and it can also be related to the noun 'kasvo', meaning face."
+  "context": "Kasvoi is the past tense of 'kasvaa', meaning to grow. Commonly used in contexts referring to biological growth, emotional development, or increase in amount or intensity."
 }

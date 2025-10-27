@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minun on nousta aikaisin.",
-    "Hän nousi jo ogeliin.",
-    "Lentokone nousi ilmaan."
+    "Hänestä tuntui, että hän ei ymmärrä, miten saa henkilöstön nousemaan.",
+    "Sairaalassa käytetään erilaisia keinuja työntekijöiden noustamiseksi asemaansa parantamaan.",
+    "Kolmelle kuolemanrangaistuspuukalle ei ollut annettu mahdollisuutta nousta."
   ],
   "translation": [
-    "get up",
-    "rise",
-    "stand"
+    "to arise",
+    "to rise up, to ascend",
+    "to stand up"
   ],
-  "context": "The word 'nousta' in Finnish means to rise or get up, and it is commonly used in sentences related to waking up, standing up, or ascending to a higher position."
+  "context": "In Finnish, 'nousta' is a verb that primarily means to rise or to get up. It can be used in various contexts such as physical movement (like getting up from sitting), metaphorical situations (such as rising in status or position), and even in legal terms (as in being given the opportunity to stand in court)."
 }

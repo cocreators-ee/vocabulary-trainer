@@ -2,13 +2,14 @@
   "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tere, päevaga!",
-    "Päevaga, kuidas sul läheb?",
-    "Ta ütles päevaga ja lahkus."
+    "Tänan sind päevaga.",
+    "Ma olen harjunud töötama kogu päevaga.",
+    "Sul on aega selleks üheks päevaga."
   ],
   "translation": [
-    "goodbye",
-    "good day"
+    "by day",
+    "with the day",
+    "daily"
   ],
-  "context": "The word päevaga is a formal way of saying goodbye in Estonian, similar to the English phrase good day, and it is commonly used during the day when parting ways with someone."
+  "context": "'päevaga' is an Estonian adverb or preposition meaning 'by day', 'with the day', or 'daily'. It can be used to indicate that something happens throughout the day, occurs daily, or is related to daytime."
 }

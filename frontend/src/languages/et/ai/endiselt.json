@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma endiselt ei saa aru.",
-    "Ta on endiselt haige.",
-    "Me endiselt ootame."
+    "Olen endiselt kindel, et ta tuleb.",
+    "Tema lugu on endiselt tänapäeva tegevuskava peategur.",
+    "Ma usun, et see on endiselt kehtiv."
   ],
   "translation": [
-    "still",
-    "yet"
+    "still"
   ],
-  "context": "The word 'endiselt' is an adverb in Estonian that means 'still' or 'yet', indicating a continuation of a state or action."
+  "context": "The word 'endiselt' means 'still' in English. It is used to indicate that a situation remains the same or continues from the past up to now."
 }

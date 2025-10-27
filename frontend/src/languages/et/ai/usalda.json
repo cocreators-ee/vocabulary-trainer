@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma usalda tema sellega.",
-    "Ta on usaldanud mulle oma saladuse.",
-    "Usalda mind, see on parem nii."
+    "Usaldan sind.",
+    "Ta ei usalda enda meist.",
+    "Ei usu sinu sõnu."
   ],
   "translation": [
-    "trust",
-    "confide in"
+    "trust"
   ],
-  "context": "The word 'usalda' is commonly used in Estonian to convey the idea of having trust or confidence in someone or something, often in the context of sharing secrets or relying on someone."
+  "context": "Used to express faith or reliance in someone's reliability or truthfulness."
 }

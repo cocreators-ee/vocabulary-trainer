@@ -2,14 +2,14 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta elas oma vanematelt raha.",
-    "Ma elan Tallinnas.",
-    "Kuidas sa elad?"
+    "Ta elab Tallinnas.",
+    "Meil on väike kodu, kus me elame.",
+    "Kas sa oled kunst elanud seal?"
   ],
   "translation": [
+    "lives",
     "live",
-    "to live",
-    "life"
+    "have lived"
   ],
-  "context": "The Estonian word 'elab' is a verb meaning 'to live'. It can refer to the act of being alive, residing in a place, or sustaining oneself. It’s commonly used when discussing where someone lives, how they live their life, or financial support."
+  "context": "'Elab' means 'lives' in Estonian. It is the third person singular form of the verb 'to live.' It is commonly used to describe where someone resides."
 }

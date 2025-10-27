@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun on haavoittunut jalka.",
-    "Hänellä on pitkät jalat.",
-    "Jalasta tuli kipeä."
+    "Minulla on jalkapeli huudotuksia koko ajan.",
+    "He puhuvat paljon siitä, kuinka hän on mahtava jalkavankka.",
+    "Jalkaa tarvitaan hyvin paljon tällä elämäntavalla."
   ],
   "translation": [
+    "leg",
     "foot",
-    "leg"
+    "legs (pl.)"
   ],
-  "context": "The word jalka refers to the lower extremity of the human body, from the knee to the toes, and is commonly used in Finnish to describe this part of the body."
+  "context": "The word 'jalka' primarily means a leg or foot in Finnish. It is commonly used to refer to the lower limbs of humans and animals, such as when describing someone's legs or feet, activities involving them like walking or running, and physical characteristics."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta elas külg eesti külas.",
-    "Külg on kodu osa.",
-    "Külgedel olid ilusad aknad."
+    "Tema elamused asuvad linna küljel.",
+    "Pitsa on jagatud nelja külgmiseni.",
+    "Külm ja soe sildid rõhutavad erinevuse külge."
   ],
   "translation": [
     "side",
-    "edge"
+    "edge",
+    "side (of something)"
   ],
-  "context": "The word 'külg' in Estonian generally refers to the side or edge of something, and it is commonly used in various contexts to describe physical locations or positions."
+  "context": "'külg' tavaliselt viitab midagi pool, servaks, või osana midast. See kasutatakse kirjeldades asju nagu geomeetrilised kujud, füüsikalised objektid või isegi metafoorselt oluline osa."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on kasvanud suureks meheks.",
-    "Kasvanud inimene peaks olema täiskasvanud.",
-    "Laps on kasvanud ja läinud tööle."
+    "Olen juba kasvanud kõrgemaks.",
+    "Kasvasid sulle peale?",
+    "Tema tänased õied on eriti ilusalt kasvanud."
   ],
   "translation": [
     "grown",
-    "adult",
-    "mature"
+    "increased",
+    "developed"
   ],
-  "context": "The word 'kasvanud' is an adjective in Estonian that means grown or mature, and it is commonly used to describe someone who has reached adulthood or a high level of physical or mental development."
+  "context": "'kasvanud' is the past participle of 'kasvatama', which means to grow, increase or develop. It can be used in physical growth contexts like height, as well as metaphorical development such as skills or plants blooming beautifully."
 }

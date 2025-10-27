@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei ole nõus.",
-    "Sa oled väga lahe!",
-    "Nad ei ole kodus."
+    "Ole lihtne.!",
+    "Mina olen siin.",
+    "Sa oled tore!"
   ],
   "translation": [
-    "am",
-    "is",
-    "are",
-    "not"
+    "be (infinitive)",
+    "am/are/is",
+    "are"
   ],
-  "context": "The word 'ole' is a form of the verb 'to be' in Estonian. It functions similarly to 'am', 'is', and 'are' when negated, meaning 'not'. It’s used to express states of being or conditions."
+  "context": "'ole' is the infinitive form of 'to be' in Estonian, used as a command or instruction to be something. In spoken language it's often replaced by 'siin on'. The third person forms are commonly used as 'on', meaning 'is'."
 }

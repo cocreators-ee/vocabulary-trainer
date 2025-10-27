@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta elab kõrgel mäel.",
-    "Kõrgel tasemel kohtusid poliitikud.",
-    "Kõrgel merepinna kohal lendas lennuk."
+    "Ta elab kõrgel mäe peal. ",
+    "Rohe sildas kõrgel häälel. ",
+    "Meie kodu asub saarte kõrgel. "
   ],
   "translation": [
     "high",
-    "tall",
-    "above"
+    "at a high place",
+    "at the top"
   ],
-  "context": "The word kõrgel in Estonian means high or tall, and is often used to describe something that is located at a great height or has a high status."
+  "context": "'kõrgel' indicates being in an elevated position or at a higher level, commonly used to describe physical locations or conditions of things being up high."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen ees",
-    "Ta on ees",
-    "Nad on ees"
+    "Ees on rohkem ruumi kui taga.",
+    "Meie ees seisab suur väljakanal.",
+    "Ta tõusis oma eest kaitsele."
   ],
   "translation": [
-    "ahead",
-    "before",
-    "in front of"
+    "front",
+    "before"
   ],
-  "context": "The word 'ees' in Estonian generally means something or someone is located in front of something else, often implying a position of precedence or priority."
+  "context": "'ees' is a preposition or adjective in Estonian meaning 'in front of,' 'at the front,' or 'before.' It's commonly used to indicate position, time, or priority."
 }

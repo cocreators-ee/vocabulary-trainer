@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kartsin talle oma armastuse.",
-    "Ta kartis väga eksida.",
-    "Kartsin, et ta ei tule."
+    "Olen kartsinud tunde, et ma ei saa seda teha.",
+    "Tema kartsis oli märkamatult meeleolu muutus.",
+    "Ma arvasin, et ta kartsis muu sõbraga kohtuda."
   ],
   "translation": [
-    "I feared",
-    "He/She/It fears",
-    "To fear"
+    "fear",
+    "dread",
+    "anxiety"
   ],
-  "context": "The verb 'kartsin' in Estonian translates to 'to fear' or 'to be afraid of' in English. It expresses a feeling of apprehension or worry about something that might happen. It can also indicate being scared of someone or something specific."
+  "context": "The word 'kartsin' refers to a feeling of fear or anxiety about something that is anticipated but not yet happening. It often conveys apprehension."
 }

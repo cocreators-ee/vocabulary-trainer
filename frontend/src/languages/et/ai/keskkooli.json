@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lõpetasin keskkooli viis aastat tagasi.",
-    "Keskkoolis õppisime matemaatikat ja keemiad.",
-    "Ta läheb keskkooli homme."
+    "Minu vanemad saatsid mind keskkooli.",
+    "Keskkoolis õpitakse mitmeid erinevaid asju.",
+    "Ta eelistab teisi koolipäevi keskkooli."
   ],
   "translation": [
     "high school",
     "secondary school"
   ],
-  "context": "The word 'keskkooli' refers to a secondary educational institution in Estonia, similar to a high school in the United States, where students typically attend from the age of 13 to 18 or 19."
+  "context": "Refers to secondary education institutions in Estonia, typically for students aged 14-18. It is used both as a noun and part of compound words or phrases."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tekkisin kiiresti uue sõbra.",
-    "Ta tekkis mu kõrval istuma.",
-    "Me tekkisime suurepärane meeskond."
+    "Probleem tekkis hiljemalt.",
+    "Uus viga tekkis.",
+    "Mõte tekkis tundmatust."
   ],
   "translation": [
     "arose",
+    "came into existence",
     "emerged"
   ],
-  "context": "The word 'tekkis' is a verb in Estonian that means to arise or emerge, often used to describe something that comes into existence or becomes apparent."
+  "context": "'Teejis' is the past tense of 'tekib', which means to arise or come into existence. It can be used for events, problems, feelings, etc."
 }

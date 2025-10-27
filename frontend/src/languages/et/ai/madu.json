@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma nägin madu metsas.",
-    "Madudega võitlemine on ohtlik.",
-    "Ta tappis madu"
+    "Ma teen madu.",
+    "Madus kallis kaunis tüdruk.",
+    "Mässu juurde tõi taadik ja madu."
   ],
   "translation": [
-    "snake"
+    "honey",
+    "sweetheart"
   ],
-  "context": "The word 'madu' in Estonian refers to a snake, which is a legless reptile. It is commonly used in sentences to describe an encounter with a snake or to talk about the animal in general."
+  "context": "'madu' is a term of endearment used in romantic relationships, similar to 'honey' or 'darling'. It can be used both as a noun and an adjective."
 }

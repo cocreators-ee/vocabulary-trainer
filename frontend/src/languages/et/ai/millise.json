@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Milline ilm on täna?",
-    "Millised on sinu plaanid?",
-    "See on millise kuju?"
+    "Millise värvi taksot sa iialgi ei näha?",
+    "Kus see millise lõuna peal asub?",
+    "Oled sa millise sündinud aastaga? Mis kuu?"
   ],
   "translation": [
     "which",
-    "what kind of"
+    "what"
   ],
-  "context": "The word 'millise' is an interrogative pronoun in Estonian, used to ask about the type or quality of something. It translates to 'which' or 'what kind of' in English and is often followed by a noun."
+  "context": "'millise' is an Estonian interrogative pronoun used to ask questions about selection or specific information. It's commonly used in sentences where the speaker is asking for clarification on options or details."
 }

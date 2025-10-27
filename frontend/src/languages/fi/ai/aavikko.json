@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Aavikko on kuiva ja kylmä paikka",
-    "Hän asuu aavikkoseudulla",
-    "Aavikon läpi kulkeva tie on pitkä"
+    "Aavikon hiljaisuus oli täydellinen rauha.",
+    "Hän kävi vuosien mittaan aavikolla.",
+    "Ajatuksena ei ollut mitään tekemistä aavikkoon liittyvän kanssa."
   ],
   "translation": [
-    "desert",
-    "wasteland"
+    "wilderness",
+    "untamed land"
   ],
-  "context": "The word 'aavikko' refers to a desert or wasteland, often characterized by dry and cold conditions, and is commonly used in Finnish to describe such environments."
+  "context": "'aavikko' refers to a large, uncultivated and undeveloped natural area, often with little or no human presence. It is typically used in the context of remote wilderness regions."
 }

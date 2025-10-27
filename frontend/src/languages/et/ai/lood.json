@@ -1,15 +1,17 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mulle meeldib lood lugeda.",
-    "See on väga ilus lood.",
-    "Lood on täis fantastilisi tegelasi."
+    "Uskuge lood, et ta tõesti teanud, mida tegi.",
+    "Looda, et nad saabuvad homme.",
+    "Ma lootn, et see töötab välja.",
+    "Päris hämar, kui palju inimesi ikkagi loovad üksmeelsete arvamuste olevusest."
   ],
   "translation": [
-    "nature",
-    "story",
-    "tale"
+    "believe",
+    "hope",
+    "trust",
+    "expect"
   ],
-  "context": "The Estonian word 'lood' can have multiple meanings depending on the context. It most commonly translates to 'nature' as in the natural world, but it can also mean 'story' or 'tale', especially folklore or narratives."
+  "context": "Lood is a form of the verb 'to believe' or 'to hope.' It can express faith in something, an expectation that something will happen, or wishing for a desired outcome. Commonly used to talk about hopes and expectations."
 }

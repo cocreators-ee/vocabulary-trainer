@@ -1,15 +1,17 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta oli väga tara mees.",
-    "Ära ole nii tara!",
-    "Tara poiss jooksis mängida."
+    "Tara tulemast!",
+    "Su tara ei ole pahane, aga see võib olla valvav.",
+    "Mina saan sinna minna, aga tara on see, et mul peab olema aega.",
+    "Ta tõusis koju, kuid tema tara oli napp."
   ],
   "translation": [
-    "clever",
-    "smart",
-    "wise"
+    "welcome",
+    "condition",
+    "fact",
+    "state"
   ],
-  "context": "The Estonian word 'tara' generally translates to clever or smart in English. It is used to describe someone who is intelligent and quick-witted, but can also be used sarcastically to mean the opposite."
+  "context": "'Tara' is primarily used to mean 'welcome' in Estonian. It can also refer to someone's physical or emotional condition, a fact, or a state of something depending on the context."
 }

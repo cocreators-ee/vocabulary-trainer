@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa sellest aru, see on mulle meelest",
-    "Tahtsin meelega seda teha",
-    "Mul on hea meeletu tunne"
+    "Ma hoolitan sellest küsimusest kindlasti meeles.",
+    "Ta läks minu mõtteid meeles pidades.",
+    "Palun pidage seda arvesse, et ma ei suuda tänasööda. Meelest, kuidas ma tean."
   ],
   "translation": [
-    "in mind",
-    "on purpose",
-    "good feeling"
+    "Memory",
+    "Mind (in the sense of thinking about something)",
+    "Remember"
   ],
-  "context": "The word 'meelest' in Estonian generally refers to something being in one's mind or consciousness, and can also be used to describe doing something intentionally."
+  "context": "'Meelest' in Estonian is used to indicate remembering or keeping something in mind. It can be part of phrases that mean 'remembering that,' often seen in expressions where someone recalls a past event or keeps information in their memory."
 }

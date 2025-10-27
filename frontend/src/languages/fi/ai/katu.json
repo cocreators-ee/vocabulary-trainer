@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Katua pitkin kulki paljon autoja.",
-    "Hän asuu katun toisella puolella.",
-    "Katu on tänään tyhjä."
+    "Hänellä on katu.",
+    "Kadulla oli paljon ihmisiä.",
+    "Menimme kadulle kävelemään."
   ],
   "translation": [
-    "street",
-    "road"
+    "street"
   ],
-  "context": "The word 'katu' in Finnish refers to a street or road, and it is commonly used when describing locations or giving directions."
+  "context": "The word 'katu' in Finnish refers to a street or road. It is commonly used when talking about locations, urban areas, and movement within cities."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma nägin teda eile üksteist korda.",
-    "Üksteist inimest osales konverentsil.",
-    "Ta on loetud üksteist korda"
+    "Ma usun, et nad on uksteist.",
+    "Uksteist ei tohi üksteise olla.",
+    "Kas sa uslid, et nad ei suhtle üksteisega?"
   ],
   "translation": [
-    "eleven",
     "one another",
     "each other"
   ],
-  "context": "The word \"üksteist\" is used to denote the number eleven or to indicate a reciprocal relationship between two or more people or things, similar to the English phrases 'one another' or 'each other'."
+  "context": "The word 'üksteist' is used in Estonian to denote reciprocal actions or relationships between two or more people, similar to the English phrases 'one another' and 'each other'. It is commonly used in sentences where mutual interaction is implied."
 }

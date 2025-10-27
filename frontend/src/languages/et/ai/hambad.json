@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tal on valge hambad",
-    "Hambad on väga olulised inimese terviseks",
-    "Hambaarst kontrollib hambaid"
+    "Tema hambaid ei näha üldse.",
+    "Hambad peaksid olema tervetel inimestel alati puhastatud.",
+    "Ta nägu oli täis hammasvärskade suupinna värvi."
   ],
   "translation": [
     "teeth",
-    "tooth"
+    "choppers (colloquial)"
   ],
-  "context": "The word 'hambad' refers to teeth, which are an essential part of the human body, and is commonly used in Estonian language to describe dental health or oral hygiene."
+  "context": "Refers to the teeth, commonly used in everyday language. Can also be part of expressions or phrases describing appearance or dental care habits."
 }

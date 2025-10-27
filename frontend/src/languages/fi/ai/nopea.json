@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän on nopea juoksija",
-    "Autoni on melko nopea",
-    "Tämä nopeus vaatii taituruutta"
+    "Hänellä on nopea ajattelu.",
+    "Nopea autolla sinne.",
+    "Se oli nopeampi kuin en uskonut."
   ],
   "translation": [
-    "fast",
     "quick",
-    "swift"
+    "fast"
   ],
-  "context": "The word 'nopea' in Finnish means something or someone that is able to move or happen quickly, and it is commonly used to describe people, vehicles, or processes that have a high speed."
+  "context": "Describes something that happens or moves rapidly; used to indicate speed in actions, movements, or responses."
 }

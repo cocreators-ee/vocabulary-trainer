@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta algustas lugu rääkida.",
-    "Alguses oli sõna.",
-    "See on alles algust."
+    "Minu algusest on palju aastaid läbi.",
+    "Tema algust algas kogu selle probleemi põhjus.",
+    "Selle linna algust võib leida ajaloolistest allikatest."
   ],
   "translation": [
     "beginning",
-    "start",
-    "commencement"
+    "origin"
   ],
-  "context": "The Estonian word 'algust' refers to the beginning or start of something. It is often used to indicate an initial phase, origin, or commencement of an action, event, or story. In English, it’s commonly used in phrases like ‘in the beginning’ or ‘at the start’."
+  "context": "The word 'algusest' is the elative (from/out of) form of 'algus,' which means 'beginning.' It's used to indicate something coming from or relating to a beginning, origin, or start. Commonly seen in phrases like 'from the beginning' or 'originating from the start.'"
 }

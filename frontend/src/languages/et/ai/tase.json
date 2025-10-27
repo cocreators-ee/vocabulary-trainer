@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tase on hea.",
-    "Ta on tase võrku.",
-    "See on tavaline tase."
+    "Minu tase ajaloo testis oli väga kõrge.",
+    "Tema eestike else on keskmine tase.",
+    "Vee raskusvalduses muutub vee tase."
   ],
   "translation": [
-    "level",
-    "standard"
+    "level"
   ],
-  "context": "The word 'tase' in Estonian generally refers to a level or standard of something, and it is commonly used to describe the quality or degree of something."
+  "context": "Refers to a degree or standard of something, such as proficiency level in a skill, academic level, or physical height."
 }

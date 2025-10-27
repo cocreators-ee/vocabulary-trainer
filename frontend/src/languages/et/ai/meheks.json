@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on hea meheks",
-    "Meheks olemine nõuab palju vastutusest",
-    "Mul on hea mees"
+    "Ta kasvas meheks vanema poja juhendamisel.",
+    "Meheks saamine on tõeline üleminekuperiood paljude jaoks.",
+    "Kokku jäänud oli vaid tema meeleoluline isiklikkusega meheks tehtud kampaania."
   ],
   "translation": [
-    "man",
-    "male",
-    "husband"
+    "as a man",
+    "into a man",
+    "manlike"
   ],
-  "context": "The word meheks is used in Estonian to refer to a male person, and it can be translated to English as man, male, or husband depending on the context in which it is used."
+  "context": "'meheks' refers to the process or state of becoming a man, often used in contexts discussing personal growth, maturity, and transition from boyhood to manhood. It can function as an adverb indicating transformation into a male person."
 }

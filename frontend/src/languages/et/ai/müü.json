@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.4,
   "understood": true,
   "sentences": [
-    "Maja müü on suur.",
-    "Ta müüs oma auto.",
-    "Müü on hea võimalus raha teenida."
+    "Mõni müük oli väga kallis.",
+    "Tema esimene müük oli üllatavalt edukas.",
+    "See on parimate müüde kogumik."
   ],
   "translation": [
     "sale",
-    "trade"
+    "selling"
   ],
-  "context": "The word müü refers to the act of selling or trading something, often in exchange for money or other goods."
+  "context": "The word 'müü' refers to the act of selling something or a sale. It is commonly used in business contexts, such as discussing sales performance, individual transactions, or marketing efforts."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma panen kohe kirja üles.",
-    "Ta on alati nõus midagi uut proovima ja panema.",
-    "Nad ei pane tähele, kui palju aega see võtab."
+    "Ma ei suuda seda panema.",
+    "Teda tuleb õhutada panema kõik selguseks.",
+    "Püsi siin panema kuni lõpuni."
   ],
   "translation": [
     "to put",
-    "place"
+    "to place",
+    "to lay"
   ],
-  "context": "The word 'panema' is commonly used in Estonian to describe the act of placing or putting something somewhere, and it can be used in various contexts such as setting something down or positioning it in a certain way."
+  "context": "The word 'panema' in Estonian is commonly used to denote the action of placing or putting something somewhere. It is often used in everyday contexts, such as organizing items, arranging things, or even metaphorically in expressions."
 }

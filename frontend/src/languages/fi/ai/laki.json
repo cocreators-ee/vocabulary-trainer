@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Laki on voimassa jo tänään",
-    "Lait ovat muuttuneet viime vuosina",
-    "Hänen lakimensä oli oikeassa"
+    "Lakia ei saa koskaan ylittää.",
+    "Tuomari piti lain mukaista oikeutta.",
+    "He halusivat muuttaa lakiä viimeistään tänä vuonna."
   ],
   "translation": [
     "law",
-    "act",
-    "legislation"
+    "law's",
+    "the law"
   ],
-  "context": "The word 'laki' in Finnish refers to a law or act that is enforced by the government, and it is commonly used in formal and informal settings to discuss legal matters."
+  "context": "'Laki' refers to a legal statute or principle that must be followed. It is commonly used in discussions about governance, rights, and justice, indicating rules established by authority figures or institutions."
 }

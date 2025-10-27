@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma panin koogi.",
-    "Pank on suur finantsasutus.",
-    "Ta töötab pangas."
+    "Pank maksis mulle sularaha tagasi.",
+    "Minu pangaarvest on kadunud raha.",
+    "Tahan paneksid sularaha sinna panka."
   ],
   "translation": [
-    "bank"
+    "bank",
+    "banks"
   ],
-  "context": "The word 'pank' in Estonian refers to a financial institution where people can store and manage their money, similar to the English word 'bank'."
+  "context": "Refers to a financial institution where people can deposit money, obtain loans and manage their finances. In some contexts it may refer specifically to the building or physical location of such an establishment rather than its services."
 }

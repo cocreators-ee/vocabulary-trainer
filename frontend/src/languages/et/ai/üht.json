@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma ei tea, mis üht sa mõtled.",
-    "See on üht väga hea idee!",
-    "Üht hetkeks ma unustasin."
+    "Minu kooli sõbrad on ühed.",
+    "Meie peres ei tohi olla ühtki erinevust.",
+    "Ta ei tea, kas minu õnneks see on üks või mitmed."
   ],
   "translation": [
-    "a",
     "one",
-    "some"
+    "a single"
   ],
-  "context": "The word 'üht' is a form of the indefinite article in Estonian. It functions similarly to 'a' or 'an' in English, but its usage depends on the grammatical case and number of the following noun. It can also mean 'one' or 'some' depending on context."
+  "context": "'Üht' is the partitive form of 'üks', meaning 'one'. It is used after negation and questions to indicate a singular quantity. Common in contexts where specifying a count, especially when contrasting with multiple or none."
 }

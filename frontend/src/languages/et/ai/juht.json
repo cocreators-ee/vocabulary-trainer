@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on meeskonna juht.",
-    "Juhti roll on oluline.",
-    "Juhtimisstiil on väga oluline."
+    "See juht on väga kogemustega.",
+    "Juht ja sõbraidu olid juba varasti ootamas.",
+    "Ta õppis koolis juhtima."
   ],
   "translation": [
+    "driver",
     "leader",
-    "head",
-    "chief"
+    "instructor"
   ],
-  "context": "The word 'juht' in Estonian refers to a person who leads or directs a group, organization, or team, and is commonly used in contexts such as business, politics, or social movements."
+  "context": "The word 'juht' in Estonian is commonly used to denote someone who controls or directs something, such as a vehicle (driver), an organization (leader), or an educational activity (instructor)."
 }

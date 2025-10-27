@@ -1,17 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei saa seda taluda, see on nii mind ületav! (I can't stand it, it's so overwhelming!), ",
-    "Ta oli väga mind täis mures. (He was very worried about me.), ",
-    "See mõte on mul mind kogu aeg kummitamas. (This thought haunts me all the time.)"
+    "Mind meelub, et see pole hea mõte.",
+    "Mind kõlatab see lihtsalt sarnaselt inglise keelele.",
+    "Mind see jääb teada ainult mulle."
   ],
   "translation": [
-    "mind",
-    "spirit",
-    "thought",
-    "feeling",
-    "worry"
+    "I think",
+    "It seems"
   ],
-  "context": "The Estonian word 'mind' can have several meanings depending on context, similar to its English counterpart. It can refer to one’s thoughts or mental state ('in mind'), but also to a feeling of being affected by something, or even simply ‘me’. It is often used to express emotional states."
+  "context": "'mind' is a first person singular form of the verb 'ma pean', which means to think. It can be used in various sentences when expressing one's opinion or thought process. The word has different meanings depending on the context it's being used in, including thinking about something, considering something important, or indicating ownership."
 }

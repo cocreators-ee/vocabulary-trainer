@@ -1,12 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma armastasin teda"
+    "Ma armastasin sinu varem.",
+    "Ta ei armastanud seda rohkem.",
+    "Oled sa alati armastanud kedagi?"
   ],
   "translation": [
-    "I loved him",
-    "I have loved"
+    "loved",
+    "was in love with",
+    "had feelings for"
   ],
-  "context": "The word 'armastasin' is the first person singular past tense form of the verb 'armastama', which means to love"
+  "context": "\"Armastasin\" is the past tense of \"armastama\", meaning to love. It is used to express romantic or deep affection towards someone."
 }

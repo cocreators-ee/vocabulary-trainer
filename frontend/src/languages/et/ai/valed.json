@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei ole valed.",
-    "Ta rääkis valed asju.",
-    "Valed teadmised on ohtlikud."
+    "Ma tean, et nad on valed.",
+    "Sinu arvamus on täielikult vales.",
+    "See ei ole tõsi, see on väga vales."
   ],
   "translation": [
-    "lie",
-    "falsehood"
+    "wrong",
+    "incorrect"
   ],
-  "context": "The word 'valed' in Estonian means a lie or falsehood, and it is commonly used to describe something that is untrue or deceptive."
+  "context": "'Valed' is the plural form of 'vale' in Estonian, which means wrong or incorrect. It is commonly used to describe something that is not correct, such as an answer, a belief, or a statement."
 }

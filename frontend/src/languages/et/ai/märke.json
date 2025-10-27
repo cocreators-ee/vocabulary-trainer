@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta märkas ühel peol.",
-    "See märk on väga oluline.",
-    "Ma ei märka midagi."
+    "Ta nägi tähelit vaid märke.",
+    "Märkide andmine on väga oluline.",
+    "See sõna pole korrektne, kuid see sisaldab õiget märgendit."
   ],
   "translation": [
-    "notice",
+    "sign",
     "mark",
-    "sign"
+    "character"
   ],
-  "context": "The Estonian word 'märke' can have multiple meanings depending on the context. It can mean 'to notice' something, or it can refer to a 'mark', 'sign', or 'symbol'. It is commonly used in everyday conversation and written text."
+  "context": "The word 'märke' in Estonian refers to a sign, mark, or character. It can be used both literally and metaphorically, such as signs in everyday life, marks on objects, or characters in writing systems."
 }

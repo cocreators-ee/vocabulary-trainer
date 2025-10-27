@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen paljude inimeste seas.",
-    "Paljudel on sarnased huvid.",
-    "Ta on üks paljudest.),"
+    "Mõistatusega on seotud paljude teadlaste tööd.",
+    "Paljude inimeste arvates on see puhkepaus vajalik.",
+    "Ta tundus, et tema arvamus jääb paljude jaoks mõistetuks."
   ],
   "translation": [
-    "many",
-    "a lot of people",
-    "numerous"
+    "of many",
+    "many"
   ],
-  "context": "The word 'paljude' is a form of the Estonian word 'palju', which means many or a lot of, and it is commonly used to describe a large quantity of something."
+  "context": "'paljude' is the genitive form of 'palju', meaning 'many'. It's commonly used to describe possession or association with a large number of people, things, or instances. For example, 'of many people' or 'by many.'"
 }

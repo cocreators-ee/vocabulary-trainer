@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on minu klassi parim sõber.",
-    "Klassi juhataja on õpetaja.",
-    "Meie klassi koolireisi läheb Tallinna."
+    "Tema klassi õpetaja on väga karm.",
+    "Ma liitusin uue klassiga eelmisel nädalal.",
+    "See lugu meenutab mulle minu vanaisa klassimärke."
   ],
   "translation": [
     "class",
-    "grade"
+    "grade (school)",
+    "classy, elegant"
   ],
-  "context": "The word 'klassi' in Estonian generally refers to a class or grade in school, similar to how it is used in English, where students are divided into groups based on their level of education."
+  "context": "Klassi refers to a group of students in the same class or grade at school. It can also describe something as 'classy' or 'elegant' when used informally."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Maitse on hea.",
-    "Ta armastab sülti, sest tal on hea maitse.",
-    "Maitse on väga oluline toidus."
+    "Sul on suurepärane maitse!",
+    "Maitsetundlikkus arendab kogu aega.",
+    "Ta hindab maitset juba lapsepõlvest."
   ],
   "translation": [
     "taste",
-    "flavor"
+    "taste perception"
   ],
-  "context": "The word 'maitse' in Estonian refers to the sense of taste or a flavor, and is commonly used when describing food or drinks."
+  "context": "“maitse” refers to the sense of taste, including the ability to perceive different flavors. It can also describe someone's ability or sensitivity in experiencing and distinguishing various tastes, often used when discussing food but also metaphorically about style or preferences."
 }

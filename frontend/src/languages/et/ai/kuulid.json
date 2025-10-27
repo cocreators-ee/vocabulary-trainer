@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kuulsin seda öelda.",
-    "Kuulid inimesed on haruldased.",
-    "Ta on väga kuul."
+    "Kuula mind!",
+    "Tema kuulis su hääle.",
+    "Rohkem kuulamist aitab paremini mõista."
   ],
   "translation": [
-    "heard",
-    "listened"
+    "hearing",
+    "to hear",
+    "listen"
   ],
-  "context": "The word 'kuulid' is the plural form of 'kuul', which means to hear or listen, and it is commonly used in Estonian language to describe the act of perceiving sound."
+  "context": "The Estonian word 'kuulid' is the second person singular imperative form of 'kuula', which means to listen. It is used when telling someone to listen, and is a common way to request attention in everyday speech."
 }

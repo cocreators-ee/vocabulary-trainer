@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lastan teda.",
-    "Ta on hea lastaja.",
-    "Laps ei taha lasta."
+    "Olen kindel, et sa lasta mind kodusse.",
+    "See lumi lasta mind lihtsalt hingata.",
+    "Ta ei tohi midagi, mida ta ei lasta meie teha."
   ],
   "translation": [
-    "to let go",
-    "to release"
+    "to allow",
+    "to let",
+    "to permit"
   ],
-  "context": "The word 'lasta' in Estonian means to let something or someone go, often used in the context of releasing or freeing something from one's grasp."
+  "context": "'Lasta' in Estonian means 'to let,' and is often used in the context of allowing someone to do something."
 }

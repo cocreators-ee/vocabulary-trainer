@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen suur fänn.",
-    "Ta on tema muusika suurim fänn.",
-    "Fännid ootavad kontserdi algust."
+    "Tema parim fänn on tõeline entusiast.",
+    "Fännide sildid olid kõikjal, ka pargis.",
+    "Ta ei olnud vaid laulja, vaid ka suur fänn."
   ],
   "translation": [
-    "fan"
+    "fan",
+    "supporter"
   ],
-  "context": "The word fänn refers to a person who is enthusiastic about something or someone, such as a sports team, musician, or celebrity, and is commonly used in Estonian language to describe an admirer or supporter."
+  "context": "Used to describe a person who is very enthusiastic about something or someone, like sports teams, music bands, etc. It can be used in both singular and plural forms."
 }

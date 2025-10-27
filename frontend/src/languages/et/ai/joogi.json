@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma jooin teele",
-    "Ta joob kohvi",
-    "Me joome veini"
+    "Ta ostis joogi ja leiba.",
+    "Joo lillejooki – see aitab sind ravida.",
+    "Lõuna koosneb kaksikust ja sellest joogist."
   ],
   "translation": [
-    "to drink",
-    "drinking"
+    "juice"
   ],
-  "context": "The word 'joogi' is a verb in Estonian that means to drink, and it is commonly used in everyday conversations to describe the act of consuming liquids."
+  "context": "Joo is used with the meaning of 'juice' in contexts where someone is drinking something, usually non-alcoholic. The word can also be part of compound words indicating specific types of drinks or beverages, such as flower nectar (lillejook)."
 }

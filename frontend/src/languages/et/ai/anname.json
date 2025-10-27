@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma anname, et see on hea mõte.",
-    "Anname talle võimaluse.",
-    "Kui anname neile šansi?"
+    "Ma olen anname pärast kogukondlikku arutelu.",
+    "Ta ei tea, et me anname ta käest midagi ära.",
+    "Kas sa mõtlesid juba sellele, mida nad tulevad anname?"
   ],
   "translation": [
-    "let's give",
-    "give"
+    "to give",
+    "give away (something)",
+    "present"
   ],
-  "context": "The word 'anname' is the first person plural form of the verb 'andma', which means to give. It is commonly used in Estonian to suggest or agree on doing something together."
+  "context": "'Anname' is the first person plural form of the verb 'anna', meaning to give. It's commonly used in situations where a group gives something voluntarily or officially."
 }

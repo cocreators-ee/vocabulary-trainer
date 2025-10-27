@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta kirjutab raamatut.",
-    "Kirjutanud kõik, mis ta teada oli.",
-    "Ma kirjutan sellest homme."
+    "Ta kirjutab koolis.",
+    "Ma olen kirjutanud kirja oma vennaile.",
+    "Kui sa ei tea midagi, siis lihtsalt lase see ja kirjuta midagi paremat."
   ],
   "translation": [
     "writes",
-    "is writing"
+    "has written"
   ],
-  "context": "The word 'kirjutab' is a verb in Estonian that means to write something, and it is commonly used in everyday conversations to describe the act of creating written content."
+  "context": "The verb 'kirjutab' is in the third person singular form meaning 'he/she/it writes'. In past tense, it becomes 'on kirjutanud', which means 'has written'. The word can be used both literally and metaphorically to describe writing actions."
 }

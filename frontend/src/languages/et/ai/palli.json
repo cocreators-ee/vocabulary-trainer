@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on väga palli peal.",
-    "Ära ole nii palli otsija!",
-    "See oli täielik pall."
+    "Pallime jalgpalli hommikul parkides.",
+    "Tema lemmikpallimisala on vaba maa.",
+    "Me pakkusime talle pallida koos meiega."
   ],
   "translation": [
-    "on the ball",
-    "nosy",
-    "mess"
+    "to play ball"
   ],
-  "context": "The word 'palli' in Estonian can have multiple meanings depending on the context. It can refer to being alert and competent ('on the ball'), being overly curious or nosy, or a chaotic situation ('a mess')."
+  "context": "The verb 'palli' in Estonian translates to 'to play ball.' It is commonly used in the context of playing various types of ball games, such as football or basketball. The word can also be used more generally for any activity involving a ball."
 }

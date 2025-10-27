@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma hindan seda raamatu väga.",
-    "Ta hindas selle võimaluse.",
-    "Nende arvamus on, et see on hea hind."
+    "Ma hindan seda ebaseaduslikuks.",
+    "Ta hindab oma võimalusi.",
+    "Mina hindan, et see on lihtne."
   ],
   "translation": [
-    "evaluate",
-    "assess",
-    "estimate"
+    "I assess",
+    "I evaluate",
+    "I estimate"
   ],
-  "context": "The word 'hindan' in Estonian means to evaluate or assess something, and it is commonly used in the context of forming an opinion or judgment about something."
+  "context": "'Hindan' is the first person singular form of 'hinnata', meaning to assess or evaluate. It is commonly used in both formal and informal contexts when someone is judging or determining the value of something."
 }

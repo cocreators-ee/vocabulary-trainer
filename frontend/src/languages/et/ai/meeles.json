@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma panin selle meelest.",
-    "Ta on hea meelelaadiga.",
-    "Meeles pidamine on oluline."
+    "Ma ei unustan seda kõigest meeles.",
+    "Tema nimi jääb alati meeles.",
+    "Rohkem kui see, et asjad on oma kohas, jäävad nad ka inimeste meelde."
   ],
   "translation": [
     "in mind",
-    "memory",
-    "remind"
+    "remembered",
+    "memorable"
   ],
-  "context": "The word 'meeles' generally refers to something being in one's mind or memory, and is often used in contexts related to remembering or reminding."
+  "context": "'Meeles' commonly means 'in mind', often used to indicate something is remembered or should not be forgotten. It can also mean being memorable or leaving an impression on someone's memory."
 }

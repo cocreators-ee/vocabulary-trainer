@@ -2,12 +2,14 @@
   "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma joodan tassi teed",
-    "Tea on minu lemmikjook",
-    "Kui soovid teed, siis vali tai teesort"
+    "Tea, et see on väga oluline.",
+    "Ma ei tea, mida sa siin teed.",
+    "Kas sul on midagi koos teega?"
   ],
   "translation": [
-    "tea"
+    "Know",
+    "I know",
+    "Do you know"
   ],
-  "context": "The word refers to a popular hot beverage made from the leaves of the tea plant, commonly consumed in Estonia."
+  "context": "The word 'tea' in Estonian translates to 'know' in English. It is commonly used as a verb to indicate knowledge or awareness of something."
 }

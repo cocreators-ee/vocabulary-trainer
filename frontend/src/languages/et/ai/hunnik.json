@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta ehitab hunnikut.",
-    "Hunnikud on hea viis puidugi salvestamiseks.",
-    "Ma olen näinud palju hunnikuid talvel."
+    "Tema toas on hunnik riike, mida tuleb puhastada.",
+    "Pank said hunniku rahale, et teha see kättesaadavamaks.",
+    "Oled sa oma probleemide hunnikust üle?"
   ],
   "translation": [
-    "stack",
-    "pile"
+    "heap",
+    "pile",
+    "bunch"
   ],
-  "context": "A stack or pile, often referring to a collection of objects, such as wood, placed on top of each other in a neat and orderly fashion."
+  "context": "A 'hunnik' in Estonian refers to a collection or accumulation of objects or items placed on top of each other. It can be used both literally (e.g., a pile of clothes) and metaphorically (e.g., a bunch of responsibilities). The word is commonly encountered in everyday situations where things are grouped together."
 }

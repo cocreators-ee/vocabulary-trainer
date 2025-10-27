@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän on sentti ja hänellä on paljon rahaa.",
-    "Sentin omistaja on todella rikas.",
-    "Sentti on hyvä esimerkki rikkautensa kasvusta."
+    "Kylpyhuoneen kylmä valasui sentti kaipuu.",
+    "Lompakossani on vielä muutama sentti rahaa.",
+    "Kahvin hinta koostuu euroista ja senttejä."
   ],
   "translation": [
-    "cent",
-    "hundredth"
+    "cent (as in cents)"
   ],
-  "context": "The word 'sentti' in Finnish refers to a cent, which is one hundredth of a unit of currency, and it is commonly used when discussing financial transactions or prices."
+  "context": "The word 'sentti' refers to a cent, typically as in the monetary unit of one-hundredth part of a euro."
 }

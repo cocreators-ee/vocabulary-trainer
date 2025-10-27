@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Ma sai homme kaasa",
-    "Ta sai minu sõnumi",
-    "Me saime head uudised"
+    "Minu nimi on Sai.",
+    "Tema lemmiktoit on sai.",
+    "Oled sa siis ega tead, et see on sai?"
   ],
   "translation": [
-    "got",
-    "received",
-    "obtained"
+    "sai",
+    "dumplings"
   ],
-  "context": "The word 'sai' is commonly used in Estonian to mean getting or receiving something, and it can be used in different contexts such as getting an object, receiving a message, or obtaining information."
+  "context": "The word 'sai' can refer to the person's name Sai or the Chinese dumpling."
 }

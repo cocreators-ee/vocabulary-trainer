@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän on vahva urheilija.",
-    "Vahva tuuli puhaltaa ulkona.",
-    "Hänen vahva luonteenpiirteensä on reipas ja rohkea olemus."
+    "Hän on vahva nainen.",
+    "Vahva kahvia vaatii useampia mäntyjä.",
+    "Liian vahvaa musiikkia en usko kykeneväni kuuntelemaan."
   ],
   "translation": [
-    "strong",
-    "powerful"
+    "Strong",
+    "Powerful"
   ],
-  "context": "The word 'vahva' in Finnish means strong or powerful, and it is commonly used to describe a person's physical or mental abilities, as well as things like winds or materials."
+  "context": "The word 'vahva' is commonly used to describe physical strength, intensity, or robustness. It can refer to a strong person, something that is physically powerful (like coffee), or metaphorically strong feelings."
 }

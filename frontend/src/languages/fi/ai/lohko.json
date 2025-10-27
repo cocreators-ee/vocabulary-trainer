@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minulla on lohko kylmässä",
-    "Lohkot ovat yleensä viileitä ja kosteita",
-    "Hänellä oli suuri lohko hänen päässään"
+    "Lohkot kovalevyllä ovat yksittäisiä tietoja tallennettuja pylväitä.",
+    "Hän järjesti tehtävät lohkoihin tyypin mukaan.",
+    "Tämä ohjelma käyttää lohkojen kokoja muodostaa nopeamman latauksen."
   ],
   "translation": [
-    "block",
-    "lump"
+    "block"
   ],
-  "context": "The word lohko in Finnish generally refers to a block or lump of something, often used to describe a cold or a sore throat, but it can also be used in other contexts such as a block of wood or a lump of clay."
+  "context": "The term 'lohko' refers to a block or a segment, commonly used in computing contexts for data blocks or organizational segments."
 }

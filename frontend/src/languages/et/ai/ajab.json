@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ta ajab autosid kiiresti.",
-    "Ajaga mind lennujaama.",
-    "Auto ajab täna õhtul."
+    "Minu kaks nädalat kestnud ajab muudab mind ikka ümber.",
+    "Ajab on mõistlikum hoida eesmärke silmas pidades.",
+    "Ta õppis oma isiklikku aja ruumi paremini hallata, et võita tema kontrollimatu aja jaga."
   ],
   "translation": [
-    "drives",
-    "ride"
+    "Time management",
+    "Time planning",
+    "Management of time"
   ],
-  "context": "The word 'ajab' in Estonian means to drive or ride something, often used in the context of operating a vehicle."
+  "context": "The term 'ajab' refers to the concept of managing or organizing one's time effectively. It is commonly used in contexts related to personal productivity, work schedules, and daily routines where efficient use of time is essential."
 }

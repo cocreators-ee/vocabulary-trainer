@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei saa aru, miks see on pluss.",
-    "See on kindel pluss selles olukorras.",
-    "Kõik need asjad on suured plused."
+    "Minu tulemus oli pluss kaheksa.",
+    "Tema meel on alati pluss.",
+    "Kui lisa sellele veel ühe plussi."
   ],
   "translation": [
     "plus",
-    "advantage"
+    "+"
   ],
-  "context": "The word 'pluss' in Estonian refers to something that is an advantage or a positive aspect, and it is commonly used to describe a situation or circumstance that has a favorable outcome."
+  "context": "'pluss' means 'plus' in Estonian and is used in the context of addition, positive scores or approvals. It can be used as a noun or part of an expression indicating something added or positive."
 }

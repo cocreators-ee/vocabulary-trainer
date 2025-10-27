@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma seadan arvuti käima.",
-    "Ta on heal seadal.",
-    "Seadame homme kohtumise."
+    "Ta seadis kaasa enda perele, et nad peaksid siirduma teise linnale.",
+    "Meil tuleb seada kindlad eesmärgid enne algust.",
+    "Kohtusse andis ta sõna, et seada asjad kindlaks."
   ],
   "translation": [
     "to put",
-    "to place"
+    "to set"
   ],
-  "context": "The word 'seada' in Estonian means to put or place something in a specific position or location, and it is commonly used in various contexts such as setting up equipment, placing objects, or establishing rules."
+  "context": "'Seada' is a verb in Estonian meaning to place or to set something into position; it's commonly used in various contexts such as arranging objects, setting goals, or installing equipment."
 }

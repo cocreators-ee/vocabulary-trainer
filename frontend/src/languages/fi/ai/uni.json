@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän nukkuu unta.",
-    "Unessa hän näki outoja asioita.",
-    "Uni on tärkeää terveydellemme."
+    "Kun uni herää aamulla, hän on valmis alkuun.",
+    "Unista tuli tosi elämään, kun hänen isänsä osti uuden auton.",
+    "Hän unelmoi täydellisestä elämästä."
   ],
   "translation": [
-    "dream",
-    "sleep"
+    "dream"
   ],
-  "context": "The word 'uni' in Finnish generally refers to sleep or a dream, and it is commonly used in sentences related to resting or having dreams."
+  "context": "The word 'uni' in Finnish primarily refers to a dream or something that one dreams about. It can be used both literally and metaphorically, such as when talking about aspirations or desires one hopes will come true, similar to how English might use the phrase 'dream big.'"
 }

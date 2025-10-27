@@ -1,14 +1,11 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on rahule.",
-    "Ma olen rahule, kui sa oled rahule.",
-    "Rahule ei ole kerge saavutada."
+    "Ta tegi sammu rahule."
   ],
   "translation": [
-    "at peace",
-    "peaceful"
+    "peacefully"
   ],
-  "context": "The word 'rahule' in Estonian means being in a state of peace or tranquility, and is commonly used to describe a person's emotional state or a desirable condition."
+  "context": "The word 'rahule' is a form of an Estonian adjective meaning 'peaceful.' It can be used to describe something that is done in peace or with peaceful intentions."
 }

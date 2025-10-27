@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tekitadin talle kuulsuse.",
-    "Ta tekitas endale palju vaenlasi.",
-    "Nende tegevus tekitab meile suuri probleeme."
+    "Ma tean, et nad üritavad pidevalt midagi uut tekitada.",
+    "Temaga koos saab alati hästi käesoleva atmosfääri tekitada.",
+    "Kui me ei suuda head tervist tekitada, jääme tagapidi."
   ],
   "translation": [
-    "to cause",
-    "to bring about"
+    "to create",
+    "to make",
+    "to generate"
   ],
-  "context": "The word 'tekitada' in Estonian means to cause or bring about something, often used in the context of creating a situation or problem."
+  "context": "'tekitada' is an Estonian verb meaning 'to create', commonly used in contexts like making something new, generating a feeling or situation, and can be both physical actions or abstract concepts. It's often paired with objects to specify what is being created."
 }

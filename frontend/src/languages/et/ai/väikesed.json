@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Väikesed lapsed armastavad mänge.",
-    "Ta võttis väikese kohvi.",
-    "Väikesed koerad on kergekäigulised."
+    "Väikesed lilled kasvasid taimestikul.",
+    "Ta ostis väikesed õunad jaoks.",
+    "Minu väikesed vend ja ema käisid parkis."
   ],
   "translation": [
-    "small",
+    "Small",
     "little"
   ],
-  "context": "The word 'väikesed' is an adjective in Estonian that means small or little, and it is commonly used to describe something that has a limited size or amount."
+  "context": "'väikesed' means 'small' or 'little'. It is commonly used to describe something that is not large in size, quantity, or importance. For example, it can be used to refer to small objects, small amounts, or young children."
 }

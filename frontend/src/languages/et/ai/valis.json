@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on valis pilvede taga.",
-    "Valis võib olla üsna tugev.",
-    "Kui valis on suur, siis tuleb vihm."
+    "Ta valis parima lahenduse.",
+    "Ma otsisin ja valisin selle raamatu.",
+    "Valige oma eelistuslik kuulutustyyli."
   ],
   "translation": [
-    "outer",
-    "external"
+    "chose",
+    "selected"
   ],
-  "context": "The word 'valis' in Estonian generally refers to something that is located outside or external to something else, and it can be used as an adjective to describe the location or origin of an object or concept."
+  "context": "The word 'valis' means to choose or select something in Estonian. It is often used when making a decision between different options, such as choosing a solution, picking a book, or selecting a notification style. It can be used for both concrete and abstract choices."
 }

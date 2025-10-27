@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma pesen end vannis.",
-    "Vann on täis vett.",
-    "Ta armastas vanni võtta."
+    "Mõelge pärast vannit soojust.",
+    "Sul on erinevad voodid ja vannit paksuhallid.",
+    "Vanne oli nii väike et kui sa istud siis sulle tuleb jalga loka."
   ],
   "translation": [
-    "bath",
-    "tub"
+    "bathroom"
   ],
-  "context": "The word 'vanni' in Estonian refers to a bath or bathtub. It is commonly used to describe the act of bathing or the container itself."
+  "context": "'vanni' refers to a bathroom, typically in the context of personal hygiene or as part of a house. It may be used in describing where one goes to take a bath or shower."
 }

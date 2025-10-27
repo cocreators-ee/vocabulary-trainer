@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hotellid rööviti öösel.",
-    "Ta röövis muuseumi.",
-    "Linnakeres rööviti pank."
+    "Tema maailm hingas rööviti.",
+    "Võim ja rikkus said kätte rööviti.",
+    "Mälestab teie tühjendada vormi enne selle taaskasutamist, muidu jääb sinna eelmise kasutaja andmed röövitult."
   ],
   "translation": [
-    "robbed",
-    "stolen from"
+    "by force",
+    "forcibly"
   ],
-  "context": "The word 'rööviti' is the past tense form of the verb 'röövima', which means to rob or plunder something, and is commonly used in Estonian language to describe a situation where someone has taken something without permission."
+  "context": "Rööv is a verb meaning to take by force or seize. Rööviti is the adverb form meaning 'by force' or 'forcibly'. It's commonly used in contexts involving coercion, theft, or violent taking of something"
 }

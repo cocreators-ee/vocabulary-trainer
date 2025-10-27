@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän polttaa tupakkaa.",
-    "Tuli polttaa puun.",
-    "Polttaa kaiken"
+    "Hänellä on tapana polttaa pyyhit.",
+    "Hän rypisti silmiään ja poltti viheltämällä häntä.",
+    "Polttaa täytyy olla suosikkiurheilusi?"
   ],
   "translation": [
-    "to burn",
-    "burns",
-    "burning"
+    "to burn"
   ],
-  "context": "The word 'polttaa' in Finnish means to burn something, and it is commonly used in the context of fires, smoking, or destroying things by burning them."
+  "context": "The Finnish word 'polttaa' translates to 'to burn' in English. It is commonly used when referring to the act of setting something on fire or causing it to burn, such as burning wood in a fireplace."
 }

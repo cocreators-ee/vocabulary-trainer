@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta segas mind väga.",
-    "Ära sega mind tööga!",
-    "Ma ei taha kedagi segada."
+    "Ma segasin sõna tähega.",
+    "Ta jäi segaduseks.",
+    "Segaduse pärase tegevus viis vigale."
   ],
   "translation": [
-    "to bother",
-    "to disturb",
-    "to interfere with"
+    "to confuse"
   ],
-  "context": "The verb 'segada' in Estonian generally means to bother or disturb someone, or to interfere with something. It can also imply mixing things together, but in the context of movie subtitles it usually refers to causing annoyance or disruption."
+  "context": "Segada is a verb meaning to confuse or mix up something."
 }

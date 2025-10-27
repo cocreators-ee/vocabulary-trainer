@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on üleval kõrgel",
-    "Ülevalt näeb maastik ilus välja",
-    "Ülevaade on üleval"
+    "Kus sa oled üleval?",
+    "Poiss tõi raami üleval.",
+    "See on väga kallim üleval."
   ],
   "translation": [
-    "above",
     "upstairs",
-    "overhead"
+    "above"
   ],
-  "context": "The word üleval is used in Estonian to describe something that is located above or higher than something else, often referring to a physical location or position."
+  "context": "The word 'üleval' in Estonian typically means 'upstairs' or 'above.' It can refer to a higher physical location, like upstairs in a building, or something that is above another object. It may also be used metaphorically for being superior or more elevated in status."
 }

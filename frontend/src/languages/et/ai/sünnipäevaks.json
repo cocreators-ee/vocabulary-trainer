@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen sünnipäevaks valmis.",
-    "Tal on tänasel päeval sünnipäev.",
-    "Sünnipäevaks ootab mind üllatus."
+    "Tema jahele helisid sünnipäevaks kaks tükki vanu jutte, mida ta olgu nii kaugele ega üldse ei unustanud.",
+    "Ma olen teinud selle filmi sinu sünnipäevaks!",
+    "Ootad sünnipäevaks üllatust? Võibolla ma seda tahan andma hakata."
   ],
   "translation": [
-    "for birthday",
-    "on birthday"
+    "as a birthday gift",
+    "for one's birthday"
   ],
-  "context": "The word sünnipäevaks is used in Estonian to refer to something that is done or happens on someone's birthday, it can also mean for or at the birthday, and is often used in sentences to describe preparations or events related to birthdays."
+  "context": "The word 'sünnipäevaks' is used to express giving something as a birthday gift or for the purpose of celebrating someone's birthday."
 }

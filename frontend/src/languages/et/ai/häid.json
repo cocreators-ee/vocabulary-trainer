@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen häid inimesed.",
-    "Ta on häid sõber.",
-    "Nemad on häid töölised."
+    "Häid külalisi! Tere kõikjale!",
+    "Kas sa oled häid?",
+    "Olen väga häid."
   ],
   "translation": [
-    "good people",
-    "kind persons"
+    "good"
   ],
-  "context": "The word häid is an Estonian adjective that means good or kind, and it is commonly used to describe people or things that are pleasant or agreeable."
+  "context": "This is the informal form of 'you are good' or 'are you good?'"
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma saadan sulle kirja",
-    "Ta saadab mulle pildi",
-    "Nad saadavad meile abi"
+    "Ma saadan sõnumi.",
+    "Ta saadab meile toetust.",
+    "Palun saada vastus esimese kuu jooksul."
   ],
   "translation": [
-    "I send",
+    "send",
     "to send",
-    "sender"
+    "am sending"
   ],
-  "context": "The word 'saadan' is the first person singular form of the verb 'saama', which means to send something or someone to another place, and it is commonly used in everyday conversations when referring to sending emails, letters, or packages."
+  "context": "'saadan' is the first person singular form of 'saata', which means 'to send'. It can be used in both literal and figurative contexts, such as sending a message or providing support. Commonly followed by an object indicating what is being sent."
 }

@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta otsustas lahhkuda tööst.",
-    "Neil oli raske lahkuda üksteisest.",
-    "Pärast tšeki saabumist pidi ta kohast lahkuma."
+    "Ta lahkus majast kella ühe järele.",
+    "Meie perekond lahkus meeldivalt.",
+    "Riigid lahutavad alad vastavalt leppimisele."
   ],
   "translation": [
     "to leave",
-    "to depart",
-    "to split up",
-    "to resign"
+    "to depart"
   ],
-  "context": "The verb 'lahkuma' in Estonian means to leave a place, situation, or person. It can also imply resignation from a job or breaking up with someone. It is often used when the departure is somewhat final or significant."
+  "context": "Lahkuma is the first infinitive form of the verb 'lahutada', meaning to separate or divide. It can be used in contexts such as leaving a place, separating from someone/something, or dividing something into parts."
 }

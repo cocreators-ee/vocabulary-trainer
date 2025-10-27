@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Sävy on tärkeä elementti maalauksessa.",
-    "Hänellä on erinomainen sävykorva.",
-    "Kappaleen sävy muuttuu kokonaisuuden mukana."
+    "Tässä sävy on epänormaali.",
+    "Kuorin sävy sai kaikki kuuntelemaan tarkasti.",
+    "Musiikissa sävy voi olla sekä vahva että heikko."
   ],
   "translation": [
     "tone",
-    "nuance",
-    "shade"
+    "key (in music)"
   ],
-  "context": "The word sävy in Finnish refers to a tone, nuance, or shade of something, often used in the context of art, music, or color to describe a subtle difference or variation in expression or meaning."
+  "context": "Sävy in Finnish refers to the tone or key of something, especially in a musical context. It can describe the tonal quality of sound and is also used metaphorically in non-musical contexts to indicate a particular mood or aspect."
 }

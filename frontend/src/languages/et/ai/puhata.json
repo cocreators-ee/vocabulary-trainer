@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma pean oma tuba puhastama.",
-    "Puhata on hea tervisliku eluviisi jaoks.",
-    "Ta armastas puhastada aeda."
+    "Ta puhatab õhukonks näiteks enne, kui ta tervitab keegi.",
+    "Ma pean oma mõtlema veidi aega ja minu mõtled on juba väga selged.",
+    "Puhata õhukonkse sõrmel pärast iga lauset."
   ],
   "translation": [
-    "to clean",
-    "to rest",
-    "to wipe"
+    "to clear"
   ],
-  "context": "The Estonian word 'puhata' has multiple meanings, most commonly referring to the act of cleaning or tidying up. It can also mean 'to rest' or 'to wipe', depending on the context. In everyday conversation, it’s used when talking about household chores, personal hygiene, or taking a break."
+  "context": "The verb 'puhata' means to clear or to clean, often used in the context of clearing one's throat. It can also be used metaphorically for clarifying thoughts or making something clear."
 }

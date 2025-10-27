@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Sa võiksid mulle aidata.",
-    "Ma võiksin seda teha.",
-    "Nad võiksid tulla homme."
+    "Võiksid sa mind kuula?",
+    "Ma võin nende kätt otsida ja võiksid nad aidata.",
+    "Mina ei tea, et tead, aga võiksid ka midagi teha."
   ],
   "translation": [
-    "you could",
-    "I could",
-    "they could"
+    "you should",
+    "you ought to"
   ],
-  "context": "The word võiksid is the second person plural form of the verb võima, which means to be able to or can in English. It is commonly used to express possibility or ability in a sentence."
+  "context": "'võiksid' is the second person singular form of 'võia', which means to take or seize. In this case it is used in a modal sense meaning 'should' or 'ought to', as in advising someone what they should do."
 }

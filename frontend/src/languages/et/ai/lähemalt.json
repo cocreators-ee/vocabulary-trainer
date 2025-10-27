@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Vaatasin seda lähemalt",
-    "Lähemalt vaadates oli see väga ilus",
-    "Ta vaatas mind lähemalt"
+    "Palun selgita lähemalt.",
+    "Vaata asja lähemalt.",
+    "Tohib küsida, kuidas see töötab vormistamisel lähemalt?"
   ],
   "translation": [
+    "more",
     "closer",
-    "more closely"
+    "in more detail"
   ],
-  "context": "The word 'lähemalt' in Estonian means to look at something more closely or from a closer distance, and it is commonly used to describe the act of examining or observing something in greater detail."
+  "context": "'Lähemalt' is used to indicate something in greater detail or closer proximity."
 }

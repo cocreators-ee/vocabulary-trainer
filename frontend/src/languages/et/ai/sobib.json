@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See sobib mulle hästi.",
-    "Ma olen leidnud ühe sobiva lahenduse.",
-    "Sobib, ma tahan seda."
+    "See riietuse sobib sule hästi.",
+    "Kodu ja selle mööbel sobivad täna.",
+    "Mees ja naine sobis üksteise."
   ],
   "translation": [
-    "suit",
-    "fit"
+    "fits",
+    "is suitable",
+    "matches"
   ],
-  "context": "The word 'sobib' in Estonian generally means something that is suitable or fits for a particular purpose or situation."
+  "context": "'sobib' is used to indicate that something fits well together or is appropriate in a particular context, commonly used when describing compatibility between items or situations."
 }

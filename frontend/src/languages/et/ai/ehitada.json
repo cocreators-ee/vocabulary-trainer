@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Maja on ehitada viimsi",
-    "Tal on plaan ehitada uus maja",
-    "Ehitada silla üle jõe"
+    "Ta ehitab uue maja.",
+    "Meil on plaan ehitada uus paberfabriik.",
+    "Mina ehitasin oma isa abiga kodus toa."
   ],
   "translation": [
-    "to build",
-    "construct"
+    "to build"
   ],
-  "context": "The word 'ehitada' is commonly used in Estonian to mean the act of constructing or building something, such as a house, bridge, or other structure."
+  "context": "'ehitada' means 'to build' and is commonly used in the context of constructing buildings or structures."
 }

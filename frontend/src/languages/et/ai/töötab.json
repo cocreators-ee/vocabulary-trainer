@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta töötab haiglas arstina.",
-    "Keskõnapeal töötab ta koolis õpetajana.",
-    "Töötab firma juhatajana."
+    "Ta töötab majas.",
+    "Mees töötab koolis õpetaja.",
+    "Kõik meie seadmed töötavad hästi."
   ],
   "translation": [
     "works",
-    "is working"
+    "is working",
+    "functions"
   ],
-  "context": "The word töötab is a verb in Estonian that means to work or be working, it is commonly used to describe someone's job or activity."
+  "context": "'töötab' is the third person singular form of the verb 'to work'. It can mean that a device or system is functioning properly, or that someone has a job. For example: 'The computer is not working.' or 'She works at the bank.'"
 }

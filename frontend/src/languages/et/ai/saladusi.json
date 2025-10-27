@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta hoidis oma saladusi hoolikalt.",
-    "See on vana maja täis saladusi.",
-    "Ma ei taha teada su saladusi."
+    "Ta teab palju saladusi.",
+    "See tõi esile uued saladusi.",
+    "Neil on midagi koos - mõned saladused jäävad alati välja."
   ],
   "translation": [
     "secrets",
-    "mysteries",
-    "confidences"
+    "secret"
   ],
-  "context": "The word 'saladusi' in Estonian refers to things kept hidden or confidential. It is commonly used to describe secrets, mysteries, or private information that someone does not want others to know."
+  "context": "'Saladusi' refers to information kept hidden or confidential by someone. It can mean 'secrets' in plural, indicating multiple pieces of undisclosed information."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta oli alguses väga reserveeritud.",
-    "Alguses tundus see hea mõte olevat.",
-    "Kõik alguses hästi läks."
+    "Algasel polnud tal midagi teha.",
+    "Projekt algas hästi alguses.",
+    "Ma ei olnud rahul algnises."
   ],
   "translation": [
-    "in the beginning",
-    "at first"
+    "at the beginning",
+    "in the beginning"
   ],
-  "context": "The word 'alguses' is an adverbial phrase in Estonian that means 'in the beginning' or 'at first', used to describe something that happens or is true at the start of a period or situation."
+  "context": "'alguses' is an Estonian word meaning 'at/in the beginning'. It refers to the start or the initial phase of something, such as a process, event, or period. Commonly used to describe how things were at the outset."
 }

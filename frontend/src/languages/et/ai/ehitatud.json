@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Maja on ehitatud puidust.",
-    "Ehitatud meeste jalgpallimeeskond võitis mänge.",
-    "Ta on ehitatud kehaliselt tugevaks."
+    "Maja oli tugevalt ehitatud.",
+    "Ta on hästi ehitatud kujul.",
+    "Uus linnake ehitatud 20 aastat tagasi."
   ],
   "translation": [
-    "built"
+    "built",
+    "well-built",
+    "constructed"
   ],
-  "context": "The word 'ehitatud' is the past tense of the verb 'ehitama', which means to build. It can be used in various contexts, such as describing a building or structure that has been constructed, or referring to something that has been developed or established over time."
+  "context": "The word 'ehitatud' is the past participle of the verb 'ehitama,' meaning to build. It is commonly used to describe something that has been constructed or built, such as buildings, structures, or even people in terms of their physical build."
 }

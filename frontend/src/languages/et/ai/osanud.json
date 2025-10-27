@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma osanud tema nime",
-    "Ta on osanud seda teha kogu elu",
-    "Nad oskavad ja osanud"
+    "Ta osas kõnelema inglise keeles.",
+    "Meil on vaja enamat oskust selle ülesande lahendamisel.",
+    "Osa õpilasi suutsid kaasa saada projekti elluviimisel."
   ],
   "translation": [
-    "have known",
-    "knew"
+    "been able to",
+    "had the skill to",
+    "participated in"
   ],
-  "context": "The word 'osanud' is the past perfect tense of the verb 'oskama' or 'to know', and it is commonly used in Estonian to express that someone has known something or someone at some point in the past."
+  "context": "The Estonian word 'osanud' is a past participle form used with auxiliary verbs, typically meaning 'been able to', 'had the capability for', or indicating participation in an activity. It's commonly used in contexts where someone performed an action due to having the skill, opportunity, or was involved in something."
 }

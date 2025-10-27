@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tegin talle sega.",
-    "See oli väga segane päev.",
-    "Ära sega mind!"
+    "See on sega nende kahest sõnadest.",
+    "Ta tõi endale sega veega kaasa.",
+    "Miks sa mind alati segaks teed?"
   ],
   "translation": [
-    "pig",
-    "mess",
-    "disturb"
+    "mix",
+    "mixture",
+    "confuse"
   ],
-  "context": "The word 'sega' in Estonian can have multiple meanings depending on the context. It commonly translates to 'pig', but it can also mean 'mess' or 'to disturb/bother' someone. The verb form is used when asking someone not to interfere."
+  "context": "'sega' can refer to a physical mixture, like blending substances together. It also means 'to confuse' or 'to mix up.' The word is used in both abstract and literal contexts."
 }

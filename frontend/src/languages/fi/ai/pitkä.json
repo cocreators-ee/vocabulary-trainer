@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän on pitkä mies.",
-    "Pitkät hiukset ovat kauniit.",
-    "Tämä talo on ollut pitkään myynnissä."
+    "Tämä on pitkä päivä.",
+    "Hänellä oli pitkä matka kotoa työhön.",
+    "Pitkä lista virheistä sai meidät tarkistamaan kaiken uudelleen."
   ],
   "translation": [
-    "long",
-    "tall"
+    "Long",
+    "Lengthy",
+    "Extended"
   ],
-  "context": "The word 'pitkä' is commonly used in Finnish to describe something or someone that has a great extent or duration from end to end, either physically or temporally."
+  "context": "'pitkä' is an adjective in Finnish, commonly used to describe something that has great length or duration. It can refer to physical objects being long or time periods feeling lengthy."
 }

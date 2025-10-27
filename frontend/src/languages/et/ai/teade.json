@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma sai teate, et olen valitud.",
-    "Teade tuli homme.",
-    "Ta saatis mulle teate, et ta on haige."
+    "Mina olen teadlik kõne tähendusest.",
+    "Tema teadmine matkab mind oma kindluse ja selguse poolest.",
+    "Teada andmete sisu on vajalik enne nende töötlemist."
   ],
   "translation": [
-    "message",
-    "notice",
-    "notification"
+    "knowledge",
+    "awareness",
+    "information"
   ],
-  "context": "The word 'teade' in Estonian generally refers to a message, notice, or notification that is conveyed to someone, often formally or officially."
+  "context": "The word 'teade' in Estonian is commonly used to refer to knowledge, awareness or information. It can be used in academic contexts when talking about understanding a concept, or in general situations to express being informed or aware of something."
 }

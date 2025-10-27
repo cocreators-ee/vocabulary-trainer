@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen ööd oli ongi",
-    "Ongi ei ole enam siin",
-    "Kas see ongi õige?"
+    "See on juba tehtud, kuidas ka tõestada.",
+    "Miks otsid sind ikka ja jälle?",
+    "Kui see ei tööta, siis peame tegema midagi mujad."
   ],
   "translation": [
-    "really",
-    "indeed"
+    "indeed",
+    "in fact",
+    "after all"
   ],
-  "context": "The word ongi is used in Estonian to emphasize the truth or authenticity of something, similar to the English words really or indeed."
+  "context": "The word 'ongi' in Estonian is used to express emphasis or confirmation of a statement. It can mean 'indeed', 'in fact', or 'after all'. It's commonly used to add clarity or stress the truth of what has been said."
 }

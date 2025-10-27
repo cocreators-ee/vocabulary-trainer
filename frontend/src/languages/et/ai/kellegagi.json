@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean kellegagi, kes oskab seda teha.",
-    "Ta on kellegagi tuttav, kuid ma ei tea, kes see on.",
-    "Kellegagi peab olema valmis seda ülesandega tegelema."
+    "Olen kellegagi sõbrlikum kui kellegagi.",
+    "Kellegagi sa silmapaistvalt suheldes?",
+    "Tema ei tea kellegagi tegelikult rääkida."
   ],
   "translation": [
-    "someone",
-    "somebody"
+    "with whom",
+    "to who"
   ],
-  "context": "The word 'kellegagi' is used in Estonian to refer to an unspecified person or someone, similar to the English words 'someone' or 'somebody'. It is often used in sentences where the identity of the person is not important or is unknown."
+  "context": "The Estonian word 'kellegagi' is a question word used in sentences to ask about the person involved with an action, similar to 'with whom' or 'to who' in English. It's typically used in formal contexts and requires conjugation based on sentence structure."
 }

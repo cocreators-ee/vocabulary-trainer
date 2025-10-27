@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän hymyili minulle.",
-    "Hymyilevä tyttö on kaunein.",
-    "Hymyt ovat harvassa täällä."
+    "Hän hymyili iloisesti.",
+    "Ystävällinen hymyn himpun pihalla.",
+    "Kaikesta huolimatta hänellä oli lepoisa hymy kasvoillaan."
   ],
   "translation": [
-    "smile",
-    "grin"
+    "smile"
   ],
-  "context": "The word hymy refers to a facial expression characterized by an upward curving of the corners of the mouth, often indicating happiness, amusement, or friendliness, and is commonly used in everyday conversations to describe someone's emotional state."
+  "context": "A 'hymy' refers to the act of smiling or a smile itself in Finnish. It is commonly used when describing someone's expression."
 }

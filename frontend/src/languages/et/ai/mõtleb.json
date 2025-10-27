@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta mõtleb, et see on hea idee.",
-    "Ma olen mõelnud selle üle ja otsustanud, et see ei ole mulle sobiv.",
-    "Mõtlen, et see on vale"
+    "Ta tõesti mõtleb sinu soovituse peale.",
+    "Mäletad, et sa ei tohi siin koju mõtlema jätta?",
+    "Kui tean, et teie lugu kuulamisel kah justkui sarnane mõtlemine on oluline."
   ],
   "translation": [
     "thinks",
-    "believes",
-    "considers"
+    "is thinking"
   ],
-  "context": "The word 'mõtleb' is a verb in Estonian that means to think or consider something. It is commonly used in sentences to express someone's thoughts or opinions about a particular topic."
+  "context": "The word 'mõtleb' is the third person singular form of the verb 'to think'. It's commonly used in daily conversation to describe someone who is considering something or processing information mentally."
 }

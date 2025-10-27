@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma näen lootust homses päeva.",
-    "Ära kaota lootust, isegi kui kõik tundub võimatu.",
-    "Tema silmis oli veel lootust."
+    "Ma kipisin lootusest, et ta jõuaks ajale.",
+    "Tema suurim lootus oli saada medal mängudel.",
+    "Loomulikult ei tohi kunagi raiskata lootust."
   ],
   "translation": [
     "hope",
-    "expectation",
-    "prospect"
+    "expectation"
   ],
-  "context": "The word 'lootust' in Estonian translates to 'hope' in English. It refers to a feeling of expectation and desire for a certain thing to happen, or a feeling of trust in the future."
+  "context": "Hope refers to the feeling or act of wanting something to happen, especially for a good result. In Estonian sentences it is used commonly in expressions like 'järgida midagi lootusega' (to follow something with hope)"
 }

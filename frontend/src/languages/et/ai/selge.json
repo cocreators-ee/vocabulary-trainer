@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta oli selge, et see oli hea mõte",
-    "Selge ja lihtne lahendus oli vajalik",
-    "Kõik olid selged, et see ei ole hea"
+    "See on selge.",
+    "Tema mõtete sissevool oli suvaliselt selge ja kooskõlas.",
+    "Ma ei saa seda selgete sõnadega öelda."
   ],
   "translation": [
     "clear",
     "obvious"
   ],
-  "context": "The word 'selge' in Estonian means something that is easy to understand or obvious, it can be used to describe a situation, idea or solution that is straightforward and uncomplicated."
+  "context": "Used to describe something that is easy to understand or obvious."
 }

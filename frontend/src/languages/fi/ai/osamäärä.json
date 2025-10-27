@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Osamäärä on tärkeä tekijä yrityksen menestyksessä.",
-    "Tämä osamäärä on suurempi kuin odotettiin.",
-    "Hänen osamääränsä tässä asiassa on merkittävä."
+    "Jakolaskun osamäärä kertoo kuinka monta kertaa jakaja mahtuu jaettavaan.",
+    "Osamäärä lasketaan jakolaskussa.",
+    "Jos osamäärä on desimaaliluku, se voi olla pyöristettävy."
   ],
   "translation": [
-    "share",
-    "portion",
-    "part"
+    "quotient",
+    "result of division"
   ],
-  "context": "The word 'osamäärä' refers to a part or share of something, often used in financial or business contexts to describe a portion of ownership or responsibility."
+  "context": "In mathematics, 'osamäärä' refers to the result obtained when one number is divided by another. It's commonly used in arithmetic and algebra contexts."
 }

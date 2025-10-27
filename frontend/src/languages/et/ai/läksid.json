@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma läksin kinno",
-    "Ta läksid koju",
-    "Nad läksid ära"
+    "Ta sõi, et ta läksid kodusse.",
+    "Ma ei tea, miks nad läksid rahulikumaks.",
+    "Kas sa tead, kus nad läksid?"
   ],
   "translation": [
     "went",
+    "became calmer",
     "left"
   ],
-  "context": "The word 'läksid' is the third person plural form of the Estonian verb 'läksima', which means to go or leave. It is commonly used in sentences to describe the action of going or leaving a place."
+  "context": "The word 'läksid' is the past tense form of the verb 'minna', which means to go. It can also have derived meanings like becoming something in context."
 }

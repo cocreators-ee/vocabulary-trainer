@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minun pitää mennä kauppaan",
-    "Hän piti kirjaa kädestään",
-    "He pitävät hauskaa"
+    "Minun pitää mennä.",
+    "Hänellä on hyvä muisti, joten hän muistaa aina mitä tuli sanoa, vaikka hänelle sanotaan \"Sinun pitää muistaa tämä\".",
+    "Jos et tiedä mihin menet, sinun pitää kysyä apua."
   ],
   "translation": [
-    "to hold",
-    "to keep",
-    "to think"
+    "must",
+    "have to",
+    "ought to"
   ],
-  "context": "The word 'pitää' in Finnish is a versatile verb that can be translated to English as 'to hold', 'to keep', or 'to think', depending on the context in which it is used. It is commonly used in various situations, such as holding something physically, keeping something in a certain state, or thinking in a particular way."
+  "context": "The Finnish verb 'pitää' is used to express necessity or obligation. It often translates to English as 'must', 'have to,' or 'ought to.' The phrase typically follows the structure where it is conjugated according to the subject, followed by an infinitive verb."
 }

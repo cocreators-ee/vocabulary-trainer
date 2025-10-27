@@ -2,14 +2,12 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks poodi päästikule ostma.",
-    "Kas sa võtad päästikule kaasa?",
-    "Päästikule on vaja uut patareid."
+    "Soovitan helistada päästikule ja öelda neile, et see ei ole hädaolek."
   ],
   "translation": [
-    "trigger",
-    "lever",
-    "release"
+    "to the emergency services",
+    "for emergencies",
+    "emergency"
   ],
-  "context": "The word 'päästikule' refers to a trigger, lever or release mechanism. It is commonly used in the context of firearms, but can also refer to any device that initiates an action when activated."
+  "context": "'päästikule' is an Estonian prepositional phrase meaning 'to the emergency services', typically used when calling for help during a crisis or accident. It can also be interpreted as referring to emergency equipment."
 }

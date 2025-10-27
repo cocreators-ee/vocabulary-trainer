@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun on oma auto",
-    "Hänellä on omat ajatuksensa",
-    "Oma tieto on vähän"
+    "Tämä on oma taloni.",
+    "Oma maku vaikuttaa ruoanlaiton tulokseen.",
+    "En usko sairauteen ilman omaa lääkärin suositusta."
   ],
   "translation": [
     "own",
-    "personal"
+    "personal",
+    "self-"
   ],
-  "context": "The word 'oma' in Finnish means something that belongs to oneself or is related to oneself, and it is commonly used to describe possession or relationship."
+  "context": "'oma' means 'one's own', used to indicate possession or belonging, often emphasizing that something is personal and not shared with others"
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
     "Ma elan Tallinnas.",
-    "Elama on ilus.",
-    "Ta elab üksi."
+    "Ta ei elanud kunagi Harju maakonnas.",
+    "Elad sa siin juba kaks aastat?"
   ],
   "translation": [
-    "life",
-    "to live"
+    "to live",
+    "living",
+    "reside"
   ],
-  "context": "The word 'elama' in Estonian generally means 'life' or 'to live', and it is commonly used in various contexts to describe the state of being alive or residing somewhere."
+  "context": "The word 'elama' is the infinitive form of the verb meaning 'to live' in Estonian. It is commonly used to describe someone's current residence or their way of living life."
 }

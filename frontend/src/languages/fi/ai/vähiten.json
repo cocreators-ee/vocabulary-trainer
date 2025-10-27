@@ -1,15 +1,11 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän on vähiten iloinen tästä tilanteesta.",
-    "Vähiten kaikista hän haluaa menettää työnsä.",
-    "Tämä vaihtoehto on vähiten sopiva meidän tarpeisiimme."
+    "Tämä on yllättävää, mutta näyttää siltä että vähiten taitavaa on olla täysin välinpitämätön."
   ],
   "translation": [
-    "least",
-    "the least",
-    "at least"
+    "This is surprising, but it seems like the least skilful thing is to be completely indifferent."
   ],
-  "context": "The word 'vähiten' in Finnish is an adverb that means the least or to the smallest extent, and it is commonly used to express a comparison or a limitation, often in negative sentences."
+  "context": "Vähiten is the inessive form of 'vähiten', which means 'in the smallest quantity' or 'to the smallest degree'. It can be used to describe something that has been done minimally."
 }

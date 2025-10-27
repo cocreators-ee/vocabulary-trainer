@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma tean teda tunneks.",
-    "Nad said mulle seda tunneks.",
-    "Sa võid mind usaldada tunneks."
+    "Ma tunneks mu kõrvalt rõõmu.",
+    "Ta jättis tunde, et see oli viga.",
+    "Miks nad ei anna mulle mingeid tunde?"
   ],
   "translation": [
-    "for a moment",
-    "for a while",
-    "momentarily"
+    "would feel",
+    "feeling",
+    "feelings"
   ],
-  "context": "The word 'tunneks' is derived from the Estonian word 'tund', meaning hour or time. It indicates a short duration, similar to 'for a moment' or 'briefly' in English. It can also imply doing something on behalf of someone else."
+  "context": "The word 'tunneks' in Estonian is a verb form meaning 'would feel'. It's often used in hypothetical situations to express how someone might emotionally respond. In other contexts, especially as part of the noun 'tunde', it relates to emotions or sensations generally."
 }

@@ -1,16 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Me töötame ööd läbi.",
-    "Töötame koos, et saavutada eesmärk.",
-    "Kui palju te töötate?",
-    "Ma olen töötanud kaua"
+    "Töötame sama hästi kodus kui kontoris.",
+    "Meie meeskond töötame koos juba mitu aastat.",
+    "Kui sa tõesti soovid, siis võime alates homme alustada ja hakata töötame."
   ],
   "translation": [
     "we work",
-    "I work",
-    "to work"
+    "we are working"
   ],
-  "context": "The word töötame is the first person plural form of the verb tööta, which means to work. It is commonly used in Estonian language to express that a group of people are working together."
+  "context": "'töötame' is the first person plural form of 'to work'. It can be used in both present simple and present continuous tenses. Commonly used to describe current work situations, job activities or professional collaborations between multiple people."
 }

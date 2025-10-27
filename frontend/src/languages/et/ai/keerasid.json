@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta keerasid end ümber.",
-    "Nad keerasid kurvi.",
-    "Me keerasime ringi."
+    "Kas keerasid oma kodusse?",
+    "Ta keeras kõik lahtivoolavad tuled pärast tööd.",
+    "Miks sa ei keeras midagi sellest filmist?"
   ],
   "translation": [
-    "turned"
+    "locked",
+    "shut down"
   ],
-  "context": "The word 'keerasid' is the third person plural past tense form of the Estonian verb 'keerduma', which means to turn. It is commonly used in sentences to describe a change in direction or orientation."
+  "context": "'Keerasid' is the past tense of 'keerama,' which means to lock or to shut. It can refer to locking a door, turning off something like lights or electronics, or more metaphorically closing off emotionally."
 }

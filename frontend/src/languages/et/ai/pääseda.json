@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma pääsen sinna homme",
-    "Ta pääseb ülikooli",
-    "Nad pääsesid kontserdile"
+    "Tema tõus pääsema kõrvalt.",
+    "Kui sa soovid pääseda, siis sul on vaja raha.",
+    "Pääsemiseks pead sa järjekorda seisma."
   ],
   "translation": [
-    "to get to",
-    "to reach",
-    "to arrive at"
+    "to run",
+    "to escape",
+    "to pass by"
   ],
-  "context": "The word pääseda is commonly used in Estonian to describe the act of getting to or arriving at a place, and it can be used in different forms such as pääsen, pääseb, and pääsesid."
+  "context": "The Estonian word 'pääseda' is primarily used to mean 'to run' or 'to escape'. It can also be used in contexts of avoiding something, such as passing by without entering a situation."
 }

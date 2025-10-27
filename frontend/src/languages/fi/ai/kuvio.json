@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kuvio on kaunis.",
-    "Tämä kuvio on mielenkiintoinen.",
-    "Hänellä on uusi kuvio"
+    "Mikä on tämän sähkökentän kuvio?",
+    "Kuvion tulisi olla symmetrinen akselin suhteen.",
+    "Hän piirsi pöytään kauniin kuvion."
   ],
   "translation": [
     "pattern",
     "figure",
-    "design"
+    "configuration"
   ],
-  "context": "The word kuvio refers to a pattern or design, often used in art, fashion, or other creative fields."
+  "context": "The Finnish word 'kuvio' commonly refers to a pattern, figure, or configuration. It is often used in contexts such as describing visual patterns, mathematical figures, or the arrangement of elements."
 }

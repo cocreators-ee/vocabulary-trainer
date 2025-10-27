@@ -1,15 +1,11 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mul ei meeldi see film",
-    "Meeldimas võib olla erinev",
-    "Ta ütles, et talle meeldib jalgpall"
+    "Mul meeldib see film."
   ],
   "translation": [
-    "to like",
-    "not to like",
-    "dislike"
+    "I like this movie."
   ],
-  "context": "The word meeldima is commonly used in Estonian to express liking or disliking something, with the prefix 'meel' relating to one's mind or opinion."
+  "context": "'Meeldima' is the first singular form of the verb 'meeldiv', which means to be pleasing or agreeable. It is commonly used in its infinitive form and can also function as a gerund when attached to other verbs."
 }

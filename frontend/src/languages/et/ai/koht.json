@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kohtasin teda eile.",
-    "Koht on üks võimalik lahendus.",
-    "Meie kohtame homme."
+    "Mina olen oma kohas.",
+    "Tema ei tea oma kohta.",
+    "Sinu kohad on alati suvalised."
   ],
   "translation": [
     "place",
-    "court"
+    "position",
+    "spot"
   ],
-  "context": "The word 'koht' in Estonian can be translated to English as 'place' or 'court', and it is commonly used to refer to a location or a legal institution."
+  "context": "The word 'koht' in Estonian refers to a location or position, either physical or metaphorical. It can mean where someone is supposed to be, an actual spot, or even an opportunity in some contexts."
 }

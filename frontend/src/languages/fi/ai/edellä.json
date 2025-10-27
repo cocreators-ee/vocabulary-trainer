@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Auto oli edelläni.",
-    "Hän oli edelläni kunnes tuli bussipysäkki.",
-    "Edellä oleva talo on vanha."
+    "Hän oli edellä menestynyt yrittäjä.",
+    "Kirjan alussa kerrotaan hahmon taustasta, ja sittemmin siihen palataan usein viitaten 'edellä' annettuihin tietoihin.",
+    "Edellä mainittu tarkoittaa samaa kuin aiemmin sanottu."
   ],
   "translation": [
-    "in front of",
-    "before"
+    "before",
+    "formerly"
   ],
-  "context": "The word 'edellä' is used to describe something that is located in front of something else, or something that happens before something else."
+  "context": "'Edellä' is used to indicate something that was mentioned or happened earlier in the text or conversation."
 }

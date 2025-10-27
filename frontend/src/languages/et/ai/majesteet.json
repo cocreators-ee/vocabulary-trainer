@@ -1,11 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kuningas on riigipea majesteet"
+    "Ta tegi koomikalist majesteeti.",
+    "Majesteet on üks põnevaimaid osisi filmis.",
+    "Kuidas saaksite näita oma majesteeti?",
+    "Ta üritas oma isegi mõjusat majesteeti nii, et me kõik naerda hakatasime."
   ],
   "translation": [
+    "dignity",
     "majesty"
   ],
-  "context": "The word 'majesteet' in Estonian refers to a high-ranking person of royal blood or a sovereign, and it is commonly used as a title of respect for monarchs."
+  "context": "In Estonian, 'majesteet' typically refers to a regal or noble bearing and dignity. It can also be used in the context of majesty as an attribute of a king or queen. In modern usage, it may carry a more humorous or theatrical connotation."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean viisi võimalikku lahendust.",
-    "Ta oskas mitut viisi seda ülesannet lahendada.",
-    "Selle probleemi lahendamiseks on mitu viisi."
+    "Viisi kivi ja viisik veebruarist on tunduvalt erinevad.",
+    "Ma jagan su enda ja teise mõjusel viisi osaks.",
+    "Ta saab nii palju raha, et ma arvan, et ta saab viisi aastat ilma töötamiseta toime."
   ],
   "translation": [
-    "way",
-    "manner"
+    "five"
   ],
-  "context": "The word 'viisi' in Estonian generally refers to a way or manner of doing something, and it is commonly used in sentences to describe different approaches or methods."
+  "context": "A cardinal number used in counting. 'Viisi' is the Estonian word for 5 and it is commonly used when counting items or measuring time."
 }

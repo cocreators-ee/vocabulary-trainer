@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tundis süütunnet.",
-    "Ma ei tunne sind hästi.",
-    "Seda senti on palju."
+    "Tema suurt senti me kõik ei arva.",
+    "Ta tõusis ja jättis kindla sõna, et lähenevad sentid.",
+    "Meil oli ainult üks pikk samm, enne kui sentide hauad alistasid meie kogu väe."
   ],
   "translation": [
-    "feel",
-    "sense",
-    "cents"
+    "arrow",
+    "shaft"
   ],
-  "context": "The Estonian word 'senti' has multiple meanings depending on the context. It can mean to feel an emotion, to sense something, or it can refer to cents as a unit of currency. It is related to the verb 'tunda', meaning 'to know' or 'to feel'."
+  "context": "The word 'senti' in Estonian is a noun and refers to an arrow or its shaft. It often appears in historical or military contexts when describing weapons or combat situations."
 }

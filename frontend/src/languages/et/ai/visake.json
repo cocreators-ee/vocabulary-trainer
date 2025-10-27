@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta viskas oma käed üles.",
-    "Viska see prügikasti.",
-    "Sa võid selle palli visata."
+    "Minu lõpptulemus oli visake.",
+    "Ta andis vastuseks lihtsa visakese.",
+    "See küsimus pani ta mõtlema ja viimaks tõestas ta oma visake."
   ],
   "translation": [
-    "throw",
-    "cast",
-    "toss"
+    "nonchalant",
+    "casual"
   ],
-  "context": "The Estonian word 'visake' is a verb meaning to throw or cast something. It’s commonly used when physically propelling an object through the air, or discarding something."
+  "context": "The word 'visake' in Estonian describes something done or said in a relaxed and indifferent manner. It is commonly used to depict a person's attitude toward situations where they show little concern or effort, suggesting an easygoing but possibly careless approach."
 }

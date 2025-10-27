@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean niipalju, et see on hea film.",
-    "Ta rääkis niipalju, et ma ei saanud midagi aru.",
-    "Niipalju kui ma mäletan, oli see päev ilus."
+    "Ma ostsin niipalju toitu, et seda piisab kolmeks päevaks.",
+    "Tema sõrmel ei olnud niipalju raha kui sinul.",
+    "See film on niipalju naeruväärne, et saab põnevuseks."
   ],
   "translation": [
-    "as far as I know",
-    "as much as I know"
+    "so much",
+    "that much"
   ],
-  "context": "The word niipalju is used in Estonian to express the extent of one's knowledge or understanding about something, similar to the English phrase 'as far as I know'."
+  "context": "'Niipalju' is used to emphasize a large quantity or extent. It can mean 'so much' when expressing intensity or degree in both literal and figurative contexts."
 }

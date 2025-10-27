@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma leppisime tema plaaniga.",
-    "Meie ei leppinud selles küsimuses.",
-    "Nad leppisid oma erimeelsuste üle."
+    "Ma leppisin selle üle.",
+    "Leppisime meie vahepealse teega.",
+    "Me leppisime erinevustes."
   ],
   "translation": [
     "agreed",
-    "compromised"
+    "reached an agreement",
+    "settled"
   ],
-  "context": "The word 'leppisime' in Estonian means to agree or come to a compromise, and it is commonly used in situations where people find a mutual understanding or settle their differences."
+  "context": "The word 'leppisime' is past tense first person plural of the verb 'leppida', which means to agree or settle on something. It is commonly used in situations where a mutual understanding or resolution is reached between people."
 }

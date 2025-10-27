@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän on todella outo loki.",
-    "Loki oli aina ongelmissa.",
-    "Tämä loki näyttää olevan rikki."
+    "Kun loki rikkoi veden, sä liko kipsi.",
+    "Loki hyyty sai me kaikki tanssimaan.",
+    "Tässä sotkussa ei ole mitään lokeutta."
   ],
   "translation": [
-    "log",
-    "record",
-    "entry"
+    "trick",
+    "cheat",
+    "deceit"
   ],
-  "context": "The Finnish word 'loki' can refer to a log as in a piece of wood, but more commonly it refers to a record or entry, like a ship’s log or a computer log. It can also be used informally to describe someone who is odd or strange."
+  "context": "The word 'loki' in Finnish refers to a trick or deception, often used in the context of someone trying to outsmart another person. It can be used as both a noun and an adjective."
 }

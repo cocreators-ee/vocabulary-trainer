@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on hea hulgas.",
-    "Hulgad on suured.",
-    "Kolm hulga käis koos."
+    "Oskar ja Mart saabusid koos hulgas teiste lastega parki.",
+    "Ta oli meist kõigis hulgas surnud.",
+    "Minu plaanides on see paika panna, hulgas uue toa ehitamiseks."
   ],
   "translation": [
-    "among",
-    "in the crowd"
+    "including"
   ],
-  "context": "The word 'hulgas' is used to describe being part of a group or among others, often in an informal setting."
+  "context": "Used to indicate inclusion of something within a group or set."
 }

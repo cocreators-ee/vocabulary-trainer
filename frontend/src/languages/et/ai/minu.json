@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen minu ema",
-    "Minu kodu on valge",
-    "See on minu raamat"
+    "Minu nimi on Anna.",
+    "Minu lemmikvärv on roheline.",
+    "See raamat kuulub minu õigale."
   ],
   "translation": [
-    "my",
-    "mine"
+    "my"
   ],
-  "context": "The word 'minu' in Estonian is used to express possession or relationship, similar to the English words 'my' or 'mine', and it is commonly used in various contexts to indicate that something belongs to the speaker."
+  "context": "'minu' is a possessive pronoun used to indicate ownership or personal connection. It can be used before nouns to show that something belongs to the speaker, such as in 'Minu auto' (My car)"
 }

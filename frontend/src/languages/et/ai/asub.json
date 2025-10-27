@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Maja asub linna keskel.",
-    "See asub Tallinnas.",
-    "Asub see siin või seal?"
+    "Kool asub linna keskuses.",
+    "Toatemperatuur asub kõrvalt.",
+    "Ta asub minu juures."
   ],
   "translation": [
-    "is located",
-    "lies"
+    "is located"
   ],
-  "context": "The word 'asub' is commonly used in Estonian to indicate the location of something, similar to the English phrase 'is located'."
+  "context": "Asub is a verb meaning 'to be located' or 'to lie.' It's commonly used to describe where something is situated. For example, you might say 'The school is located in the city center' using this word."
 }

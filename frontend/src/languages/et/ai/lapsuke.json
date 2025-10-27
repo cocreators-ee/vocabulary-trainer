@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga lapsuke.",
-    "Lapsukelt võiks oodata rohkem täiskasvanuks olemist.",
-    "Lapsukesed oskavad sageli paremini nalja teha."
+    "lapsuke hõivas oma täiskasvanu tähelepanu",
+    "lapsukel oli väike haigus",
+    "lapsuke leidis oma esimese sõbra"
   ],
   "translation": [
-    "childish",
-    "immature"
+    "baby",
+    "infant"
   ],
-  "context": "The word 'lapsuke' in Estonian is used to describe someone or something that is immature or childish, often in a negative sense, implying a lack of seriousness or responsibility."
+  "context": "A very young child, typically an infant or toddler. Commonly used to refer to a baby in a caring or affectionate manner."
 }

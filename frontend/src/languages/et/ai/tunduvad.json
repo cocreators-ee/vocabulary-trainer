@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tunduvad väga haiged",
-    "Need tunduvad olevat head sõbrad",
-    "Tunduvad, et see on tõsi"
+    "Need tunduvad kindlad olla.",
+    "Neil tundub, et nad saavad hakkama.",
+    "Mulle tundub see väga raske."
   ],
   "translation": [
     "seem",
-    "appear",
-    "look"
+    "appear"
   ],
-  "context": "The word 'tunduvad' is a verb in Estonian that means to seem or appear, and it is commonly used to describe how something looks or feels."
+  "context": "'Tunduvad' is the third person plural form of 'tundma,' meaning to seem or appear. It's used when people have an impression or opinion about something without definite proof."
 }

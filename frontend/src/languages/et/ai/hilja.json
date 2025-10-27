@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on hilja.",
-    "Hilja oli hea laps.",
-    "Hilja tuli koolist."
+    "Hilja, et mina pole siin.",
+    "See on liiga hilja.",
+    "Kas see on veel aeg?",
+    "Neid inimesi ei saa enam tagasi hiljaks."
   ],
   "translation": [
     "late",
-    "quiet"
+    "too late",
+    "still time?",
+    "to be too late"
   ],
-  "context": "The word 'hilja' in Estonian can be translated to English as 'late' or 'quiet', and it is commonly used to describe a situation where someone is running behind schedule or to characterize a peaceful environment."
+  "context": "'Hilja' means to be or become late, as in running behind schedule or past the deadline. It is often used when indicating something happened later than expected."
 }

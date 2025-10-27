@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen väsinud ja lähen magama.",
-    "Ta on juba magamas.",
-    "Laps ei saa magama."
+    "Olen väga nukker ja lihtsalt tahan juba magama minna.",
+    "Ta peab vist magama jääma, sest tema koolitused algavad varakalt homseks.",
+    "Eile õhtul magasin vahetult pärast süüa järele."
   ],
   "translation": [
-    "to go to sleep",
-    "to fall asleep"
+    "to sleep",
+    "sleeping",
+    "asleep"
   ],
-  "context": "The word 'magama' in Estonian means to go to sleep or to fall asleep, and it is commonly used in everyday conversations when talking about sleeping or going to bed."
+  "context": "Magama refers to the act of sleeping. It is commonly used in everyday conversations to describe when someone goes to bed, is asleep, or needs rest."
 }

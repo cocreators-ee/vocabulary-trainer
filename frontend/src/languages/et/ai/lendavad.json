@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Lennukid lendavad üle mere.",
-    "Ta armastab lendavaid hobuseid.",
-    "Lendavad olendid on tuntud nende värvilisest sulestikust."
+    "Lindud lendavad kohvikusse.",
+    "Ta on nii õnnele, et ta alati lennuvad.",
+    "Mõned linnud ei oska isegi lentama.",
+    "Tihti peetakse jahutajaid kodus, et nad ei saaks lendama."
   ],
   "translation": [
-    "flying",
-    "flight"
+    "fly",
+    "flap (wings)",
+    "soar"
   ],
-  "context": "The word 'lendavad' is commonly used in Estonian to describe something that is flying or in the act of flight, and it can be used as an adjective or a verb depending on the context."
+  "context": "'lendavad' refers to the action of flying or gliding through air. It is commonly used for birds and aircrafts but can also be metaphorically applied to describe something that moves quickly or easily."
 }

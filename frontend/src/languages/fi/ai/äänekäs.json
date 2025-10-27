@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän on aina ollut äänekäs mielipiteittensä suhteen.",
-    "Äänekäs yleisö vaati pääministerin eroa.",
-    "Äänekkäät protestoijat marssivat kaduilla."
+    "Hän on äänekäs puheenjohtaja.",
+    "Äänekkäästi keskustelivat asiasta.",
+    "Lapset olivat äänekkään aamuisin."
   ],
   "translation": [
-    "vocal",
-    "outspoken",
-    "loud"
+    "loud",
+    "noisy"
   ],
-  "context": "The word äänekäs is commonly used in Finnish to describe someone who openly expresses their opinions or feelings, often in a loud or forceful manner."
+  "context": "'äänekäs' refers to someone or something that is loud in terms of sound. It can describe people being talkative, or situations where there's excessive noise."
 }

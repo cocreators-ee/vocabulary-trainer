@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on õige inimene",
-    "Õiged sõbrad on haruldased",
-    "See on õige koht"
+    "See on õige lahendus.",
+    "Kas see vastus on õige?",
+    "Ta tegi õigesti märke."
   ],
   "translation": [
-    "right",
     "correct",
-    "true"
+    "right"
   ],
-  "context": "The word õige is commonly used in Estonian to express something that is correct, right or true."
+  "context": "'õige' means correct or right. It is commonly used to describe something that is accurate, morally good, or appropriate."
 }

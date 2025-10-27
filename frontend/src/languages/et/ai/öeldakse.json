@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Öeldakse, et ta on hea inimene",
-    "Ma öeldan seda sageli",
-    "Ta ütles, et öeldakse talle"
+    "See öeldakse, et ta on parim mängija oma ajastus.",
+    "Mõne korda öeldakse sellistest inimestest, et nad lihtsalt ei tea, mis neil õigus teha.",
+    "Tema nimetatakse tihti just seepärast, et öeldakse tema käitumise kohta nii palju."
   ],
   "translation": [
+    "is said",
     "it is said",
-    "they say",
-    "allegedly"
+    "one says"
   ],
-  "context": "The word \"öeldakse\" is a verb form of \"öelda\", which means to say or tell, and in this context it is used to convey that something is being said or rumored about someone or something."
+  "context": "'Öeldakse' comes from the verb 'öelda', which means to say. It's in the passive voice, so it translates to something like 'It is said.' This form is often used for general statements or proverbs."
 }

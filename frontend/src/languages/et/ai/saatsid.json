@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma saatsin talle kirja.",
-    "Saatsid paki kohe!",
-    "Ära saatsid mind ära."
+    "Oled sa saatsinud tänaseks oma last kooli?",
+    "Ta saatsid mind kindlustama, et olen hästi.",
+    "Kas sa saatsid selle meile juba eelmisel nädalal?"
   ],
   "translation": [
     "send",
-    "dispatch",
-    "transmit"
+    "sent (past tense)"
   ],
-  "context": "The verb 'saatsid' in Estonian means 'to send' or 'to dispatch' something to someone. It is commonly used when referring to sending letters, packages, or even people somewhere."
+  "context": "'saatsid' is the second person singular past tense of 'saata', which means to send. It can refer to sending a message, an email, or even a person somewhere."
 }

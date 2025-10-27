@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on kole inimene",
-    "Kole ilm ei meeldi",
-    "Kole koer ei ole hea selts"
+    "Tema suu oli kergesti kohutud ja tema ilme oli kole.",
+    "Ma tunnen end väga kole selle tõsukohta pärast.",
+    "Selle filmi lõpp oli nii kole, et ma lähen juba mõne hetke pärast."
   ],
   "translation": [
-    "bad",
-    "evil",
-    "wicked"
+    "sad",
+    "unhappy"
   ],
-  "context": "The word kole is commonly used to describe something or someone as bad or evil, and it can be used in various contexts to convey a negative meaning."
+  "context": "The word 'kole' in Estonian is an adjective used to describe a feeling of sadness or unhappiness. It can be applied both to people's emotions and situations that evoke these feelings."
 }

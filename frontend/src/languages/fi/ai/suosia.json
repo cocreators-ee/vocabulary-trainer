@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Hän suosii uutta ravintolaa.",
-    "Suosin häntä tehtävään.",
-    "Tämä tuote on suositumpi kuin kilpailijansa."
+    "Hänellä on suosiaa koko kerhossa.",
+    "En usko sinun saavan paljon suosiota tästä päätöksestänne.",
+    "Suosio kasvoi hänen näyttelystään."
   ],
   "translation": [
-    "to prefer",
-    "to favor",
-    "to recommend"
+    "popularity",
+    "favor",
+    "preference"
   ],
-  "context": "The word 'suosia' in Finnish means to prefer or favor something, and it is commonly used in sentences where someone is expressing their preference for one thing over another."
+  "context": "The word 'suosia' in Finnish can mean popularity, favor, or preference. It is commonly used to describe someone's widespread appeal or the level of support they receive from others. For example, a popular person might be said to have suosia among their peers."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma küsin tema nime.",
-    "Ta küsis mind oma tervise kohta.",
-    "Küsimus on liiga keeruline."
+    "Ta küsib mind, miks ma ei taha rääkida.",
+    "Minu vanaema alati küsib, kas minu elus on midagi uut.",
+    "Mina ei saa aru, mis neil meelde jääb – see, et nad kusivad mind, või see, et ma vastan?"
   ],
   "translation": [
     "to ask",
-    "question"
+    "asking"
   ],
-  "context": "The word 'küsida' is commonly used in Estonian to mean 'to ask' or 'to question', and it can be used in various forms such as 'küsin' (I ask), 'küsis' (he/she/it asked), and 'küsimus' (question)."
+  "context": "'Küsida' is an Estonian verb meaning 'to ask.' It is commonly used to express the act of inquiring or seeking information from someone."
 }

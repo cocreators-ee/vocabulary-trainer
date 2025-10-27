@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta võttis lehmade juurde",
-    "Lehm on suur loom",
-    "Tal on üks lehm"
+    "Mulle meeldib piima joomine koos lehmi toatemaga.",
+    "Leiutasime uue lehmakasvataja, kellel on 50 lehma.",
+    "Läksin vallafoorumi juurde ja kuulsin lemmiklehmat esinema."
   ],
   "translation": [
     "cow",
-    "ox"
+    "bull"
   ],
-  "context": "The word 'lehm' refers to a large domesticated mammal commonly found on farms, known for producing milk and being used as a source of meat."
+  "context": "The word 'lehm' refers to female bovine animals commonly raised for their milk and meat. It is often used in contexts related to dairy farming, livestock management, or rural life in Estonia."
 }

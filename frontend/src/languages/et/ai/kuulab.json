@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kuulan muusikat.",
-    "Ta kuulasin enda emakeelt.",
-    "Kuulab häält trepil"
+    "Ta kuulab mu.",
+    "Minu ema alati kuulab mind.",
+    "Ei, ei - kuula!"
   ],
   "translation": [
-    "listen",
-    "hear",
-    "obey"
+    "hears",
+    "listens to"
   ],
-  "context": "The word 'kuulab' in Estonian generally means to listen or hear something, but it can also imply obedience in certain contexts."
+  "context": "'Kuulab' is the third person singular form of 'kuulama', which means to hear or listen. It is used when referring to hearing something physically or attentively listening to someone."
 }

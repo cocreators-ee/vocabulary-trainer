@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma heitan palli.",
-    "Ta heitas mind üles.",
-    "Heidad alla"
+    "Heida heitis oma poeg kodusse.",
+    "Ma hein tantsija vastu seina.",
+    "Ära heita mind ära!",
+    "Ta heis mänguneid maale."
   ],
   "translation": [
     "throw",
-    "toss",
-    "fling"
+    "to throw"
   ],
-  "context": "The word 'heita' in Estonian means to throw or toss something, often with a sense of force or energy, and is commonly used in various contexts such as sports, everyday activities, or even emotions."
+  "context": "Used to describe the action of throwing an object. Can be used in both physical contexts like sports or casual situations, and metaphorical contexts such as 'he threw his son out of the house'."
 }

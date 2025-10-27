@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tulen linnast.",
-    "Linnast saadavad tooted on kvaliteetsed.",
-    "Ta läks tagasi linna."
+    "Ma tulin linnast.",
+    "Linnast läheb buss kella kolmeks.",
+    "Ta pani asja juurde ja läks linnast välja."
   ],
   "translation": [
-    "from the city",
-    "city"
+    "from the city"
   ],
-  "context": "The word 'linnast' is an adessive form of the Estonian word 'linn', which means city, and it is used to indicate something that comes from or belongs to a city."
+  "context": "'linnast' is a prepositional form of 'linn', meaning city, used with verbs to indicate origin from the city. It's commonly used in sentences where someone or something comes from a city context."
 }

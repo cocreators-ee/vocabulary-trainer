@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta on ilus näoga.",
-    "Tema näoga on väga ilus.",
-    "Näoga on ta väga kenake."
+    "Tema sõbrad mängisid mängu näoga.",
+    "Pildistamisel pead hoidma näoa suvalt.",
+    "Ta naeratas tühja näogaga."
   ],
   "translation": [
-    "beautiful face",
-    "good looking"
+    "with face"
   ],
-  "context": "The word näoga is an Estonian adjective that means having a beautiful or good-looking face, it is commonly used to describe someone's physical appearance in a positive way."
+  "context": "'näoga' is an Estonian word that means 'with face'. It can be used in contexts involving facial expressions or physical appearance, such as describing someone's expression during a game, taking photos where one needs to keep the face still, or describing someone who smiles with an empty expression."
 }

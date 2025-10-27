@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Need on tõelised sõbrad.",
-    "Ta on tõeline kunstnik.",
-    "Tõelised probleemid on alles ees."
+    "Tema tõeline nimi on Anna.",
+    "Ma olen kindel, et tema väited ei ole tõesed.",
+    "See pole tõeline lahendus."
   ],
   "translation": [
     "real",
     "true",
-    "genuine"
+    "actual"
   ],
-  "context": "The word 'tõelised' in Estonian means real or true, and it is commonly used to describe something that is authentic or genuine."
+  "context": "'tõelised' is the plural form of 'tõeline' in Estonian. It means something that is real, true, or actual. The word can be used to describe facts, names, solutions etc., emphasizing their authenticity and accuracy."
 }

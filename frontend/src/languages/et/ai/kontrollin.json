@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võtan kontrolli üle.",
-    "Ta on kontrollinud kogu süsteemi.",
-    "Kontrollin ei ole lihtne."
+    "Ma olen koolis kontrolli andmas.",
+    "Ta vaatab alati kaks korda enne, et midagi esitada.",
+    "Selle ülesande puhul on vaja tähelepanuväärset täpsust."
   ],
   "translation": [
-    "control",
-    "check"
+    "controlling",
+    "checking",
+    "supervising"
   ],
-  "context": "The word 'kontrollin' in Estonian means to have control over something or someone, and it is commonly used in contexts where authority or power is being exercised."
+  "context": "The word 'kontrollin' translates to actions such as controlling, checking, or supervising. It is commonly used in contexts where ensuring correctness or oversight is required."
 }

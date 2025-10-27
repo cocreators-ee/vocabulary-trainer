@@ -1,17 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hänellä on hyvä neuvonantaja.",
-    "Minulla ei ole aavistustakaan siitä, mitä hän tekee.",
-    "Ne ovat kaikki samoja.",
-    "Mitä ne tarkoittavat?"
+    "Tämä ei ole ne.",
+    "Ne ovat kaunisia.",
+    "Minkä väreisiin ne tulevat?"
   ],
   "translation": [
     "they",
     "those",
-    "them",
-    "it (referring to things)"
+    "them"
   ],
-  "context": "The word 'ne' is a pronoun in Finnish. It functions similarly to 'they', 'them', or 'those' in English, but can also refer to inanimate objects using 'it'. Its usage depends heavily on the context of the sentence."
+  "context": "The word 'ne' in Finnish is a pronoun used to refer to objects or people previously mentioned or easily identified. It can mean 'they', 'those', or 'them' depending on the context."
 }

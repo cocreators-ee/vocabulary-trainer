@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma pean toitu ostma.",
-    "See toit on väga maitsev.",
-    "Lapsed said toitu."
+    "Ma ei toita looma.",
+    "Toit on valmis",
+    "Toitu pärast tegevust"
   ],
   "translation": [
-    "food",
-    "meal",
-    "nourishment"
+    "food"
   ],
-  "context": "The word 'toitu' in Estonian refers to food or nourishment. It is a general term used for what people and animals eat, similar to the English words 'food', 'meal', or 'sustenance'. It can refer to both prepared meals and raw ingredients."
+  "context": "Word 'toitu' refers to food or eating in Estonian language."
 }

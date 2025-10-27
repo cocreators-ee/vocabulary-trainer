@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kuulen sind.",
-    "Kuule mind!",
-    "Ta ei kuule meid."
+    "Kuule maale! Kõikjal mujal ma ei saa seda kogeda.",
+    "Ma kuulen hästi, aga ma ei kuula sind ikka.",
+    "Tema isegi ei märka, et ta keegagi suhtlemiseks ei kuula."
   ],
   "translation": [
-    "listen",
-    "hear"
+    "to hear",
+    "hearing",
+    "listen"
   ],
-  "context": "The word 'kuule' is used in Estonian to mean 'listen' or 'hear', and it can be used as a verb in different forms, such as 'kuulen' (I hear) or 'kuule' (you hear)."
+  "context": "The word 'kuule' in Estonian translates to 'to hear', 'hearing', or 'listen'. It is commonly used in the context of perception through sound, and can also be used as a polite way to request someone's attention."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta oli väikest kasvu.",
-    "Väikest maakera on meie kodu.",
-    "Väikest kivi langeb alla."
+    "Väikest tüdrukut ei kuuldu koolis.",
+    "Väikest tähepanekut palutakse teha esimeses peatükis.",
+    "Tema väikest elu oli rikas ja tähenduslik."
   ],
   "translation": [
     "small",
     "little"
   ],
-  "context": "The word väikest is an adjective in Estonian that means small or little, often used to describe something that is not large in size or amount."
+  "context": "'Väikest' is the genitive form of 'väike,' meaning small or little in Estonian. It's commonly used to describe something of lesser size, extent, or importance and functions as an adjective before a noun when indicating diminutive characteristics."
 }

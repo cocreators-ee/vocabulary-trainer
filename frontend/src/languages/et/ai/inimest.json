@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma näen inimest.",
-    "Inimesed elavad linnas.",
-    "Inimene on üksik isik."
+    "Inimesed elavad erinevates maailmades.",
+    "Minu lemmikinimes on musta kilkviini.",
+    "Ta inimese teekond oli pikk ja raskene."
   ],
   "translation": [
-    "person",
     "people",
-    "human being"
+    "person",
+    "human"
   ],
-  "context": "The word 'inimest' refers to a person or people in general, and it is commonly used in Estonian language to denote an individual or a group of individuals."
+  "context": "'Inimest' is the illative plural form of 'inimene' which means person or human. It is used to indicate people in general, a group of individuals, or humanity as a whole."
 }

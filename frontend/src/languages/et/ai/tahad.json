@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tahad seda filmi vaadata",
-    "Ta tahab minuga koos käia",
-    "Me tahame seda küsimust arutada"
+    "Tahad mulle abi?",
+    "Mina tahen sinu abi.",
+    "Ta tahan minna kooli."
   ],
   "translation": [
-    "want",
-    "wish",
-    "desire"
+    "you want (sg.)",
+    "I want (formal)",
+    "he/she/it wants"
   ],
-  "context": "The word 'tahad' in Estonian means to want or wish for something, and it is commonly used in sentences to express desire or intention."
+  "context": "The word 'tahad' is the second person singular form of the Estonian verb 'tahta', which means 'to want'. It is used to ask or state what someone (the listener) desires."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta peatus hotelli ees.",
-    "Peatu siin hetkeks!",
-    "Buss peatus järgmises linnas."
+    "Mina peatun alati enne kui lähen parkimisseisu.",
+    "Ta teadis teda juba siis, kui ta oli ainult peatuses.",
+    "Järgmiseks tuleb see põnev peatuvahemaa."
   ],
   "translation": [
-    "stop",
-    "halt",
-    "pause"
+    "to stop",
+    "stopping",
+    "a stop"
   ],
-  "context": "The Estonian word 'peatu' commonly translates to 'stop' in English. It can refer to physically stopping movement, pausing an action, or a designated place where transportation halts (like a bus stop)."
+  "context": "'Peatuda' means to stop in Estonian. It can refer to stopping a vehicle, halting an action or coming to rest."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta võttis vereproovile",
-    "Vererõhk on kõrge",
-    "Verekaaslane on hea inimene"
+    "Vere sattus teda silma alla.",
+    "Ta vere on väga kõrge.",
+    "Sellel lapsedel on sama veregrupp."
   ],
   "translation": [
-    "blood",
-    "relative"
+    "blood"
   ],
-  "context": "The word 'vere' in Estonian can be translated to English as 'blood' or 'relative', depending on the context in which it is used. It is commonly used to refer to a family member or a close relation."
+  "context": "A common word for blood in Estonian; used in both literal and figurative contexts."
 }

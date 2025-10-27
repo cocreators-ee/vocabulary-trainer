@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma esmalt lähen kinno.",
-    "Esmalt tuli ema ja siis isa.",
-    "Esmalt pean valmistama toidu."
+    "Esmalt tuleb osta pilet.",
+    "Mõista esmalt, et see on väga oluline.",
+    "Esimese sündi esmalt oli lumi."
   ],
   "translation": [
-    "firstly",
-    "at first",
-    "initially"
+    "first (in order of time)",
+    "beforehand",
+    "primarily"
   ],
-  "context": "The word 'esmalt' in Estonian is used to indicate that something happens or is done before anything else, and it can be translated to English as 'firstly', 'at first', or 'initially'."
+  "context": "'esmalt' is an Estonian adverb meaning 'first (in order of time)', 'beforehand', or 'primarily'. It's used to indicate the initial occurrence of something, a prior action, or as an introductory statement."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minge koju!",
-    "Ma palun sind, mine saanud.",
-    "Nad käskisid meil minna."
+    "Teie jaoks minemegi ei ole midagi.",
+    "Minge mehed vahetult välja!",
+    "Jäid mind ootama? Minu mõttemängud on alati lühikesed ning ma teen kindlasti pika pausa enne, kui minge nendele järele."
   ],
   "translation": [
-    "go",
-    "leave",
-    "depart"
+    "to go",
+    "go away"
   ],
-  "context": "The word 'minge' is the imperative plural form of the verb 'minema', meaning 'to go'. It’s used to tell multiple people to go or leave. In English, it corresponds to saying 'Go!' or 'Leave!' to a group."
+  "context": "The word 'minge' in Estonian is a verb meaning to go. It can be used in different contexts such as indicating movement from one place to another or telling someone to leave."
 }

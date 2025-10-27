@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei tea millest räägid.",
-    "Ta võis arvata millest see kõik algas.",
-    "See on üks asi, millest ma ei saa aru."
+    "Mulle kinnitasid, et tean, millest on jutustamisest küsimust.",
+    "Ma ei tea isegi, millest sa rääkid.",
+    "Kas saate öelda mulle, millest see arvestus koosneb?"
   ],
   "translation": [
     "about what",
-    "what it's about"
+    "from what",
+    "in respect to what"
   ],
-  "context": "The word 'millest' is a pronoun in Estonian that roughly translates to 'about what' or 'what it's about', and is commonly used in sentences to ask for clarification or to specify the topic of discussion."
+  "context": "The word 'millest' in Estonian is a question word or relative pronoun used to ask about the source, cause, topic, or aspect of something. It is often translated as 'about what,' 'from what,' or 'in respect to what.' Commonly used when asking for clarification on topics, origins, or reasons."
 }

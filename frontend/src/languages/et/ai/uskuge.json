@@ -1,11 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma uskuge seda"
+    "Uskuge, mis ma leidsin!",
+    "Uskuge see siia!",
+    "Pole midagi väga erilist - uskuge siis tuletan."
   ],
   "translation": [
-    "believe me"
+    "look"
   ],
-  "context": "The word uskuge is used to convey trust or faith in someone or something, similar to the English phrase believe me."
+  "context": "Implies asking someone to look in a specific direction."
 }

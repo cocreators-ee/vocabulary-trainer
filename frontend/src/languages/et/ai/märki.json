@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ei märkinud midagi",
-    "Märkide abil sai ta kergesti aru",
-    "Märgid olid tema jaoks selged"
+    "Tema käe on märki.",
+    "Pildil on näha ka kollast märgi.",
+    "Sünnipuudeks oli valmis süda ja märki."
   ],
   "translation": [
     "sign",
-    "mark",
-    "token"
+    "mark"
   ],
-  "context": "The word 'märki' in Estonian generally refers to a sign or mark that conveys meaning, and it is commonly used to describe symbols, indicators, or tokens that provide information or serve as evidence of something."
+  "context": "'märki' refers to a sign or mark that indicates something. It can be used both literally and metaphorically."
 }

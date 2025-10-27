@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on võluv mees.",
-    "Võlva naine on tema abikaasa.",
-    "Võlvalapsed on koolis"
+    "Minu ema on väga võluv.",
+    "Ta näeb välja väga võluvalt.",
+    "Ole võluv!"
   ],
   "translation": [
-    "charming",
-    "lovely"
+    "happy"
   ],
-  "context": "The word võluv is an Estonian adjective that means charming or lovely, and it is commonly used to describe someone or something that is pleasant and attractive."
+  "context": "The word 'võluv' in Estonian means happy. It is commonly used to describe someone's emotional state or to express joy."
 }

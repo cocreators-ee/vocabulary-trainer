@@ -1,15 +1,13 @@
 {
-  "confidence": 0.6,
+  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen kaome peole täna õhtul.",
-    "Nad said kaome pärast tantsu võistlust.",
-    "See oli väga kaome hetk."
+    "Olen siis kaome eestlane. (I am then a proud Estonian.)",
+    "Kas sa oled kaome ja tänaseks? (Are you proud and for today?)",
+    "Tema oli alati kaome oma tegude üle. (He was always proud of his actions.)"
   ],
   "translation": [
-    "gone",
-    "lost",
-    "vanished"
+    "proud"
   ],
-  "context": "The word 'kaome' in Estonian generally refers to being gone, lost or vanished. It can describe a physical disappearance or a loss of something intangible like hope or a feeling. It is often used informally."
+  "context": "The word 'kaome' in Estonian translates to 'proud' in English. It is used to describe a feeling of pride, either about oneself or something one is associated with."
 }

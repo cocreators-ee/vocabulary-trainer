@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma ei tea mingit lahendust.",
-    "See on mingi imelik tunne.",
-    "Kas sa tead mingit head kohta?"
+    "Mingit ei tohi kasutada siin.",
+    "Tema mingit käib üle mõtlema.",
+    "Räägi mulle rohkem sellest mingist."
   ],
   "translation": [
-    "any",
-    "some",
-    "a certain"
+    "Something",
+    "Some",
+    "Any"
   ],
-  "context": "The Estonian word 'mingit' is a partitive form of the indefinite pronoun 'midagi', which translates to 'anything,' 'something,' or 'any' in English. It’s used to indicate an unspecified quantity or amount, often implying uncertainty or lack of definition. In English, it's commonly used in negative sentences ('I don't know anything') or with verbs suggesting a limited scope ('Do you have any idea?')."
+  "context": "'Mingit' is an Estonian word that can mean 'something', 'some', or 'any'. It's a pronoun used in different contexts to refer to unspecified things or people, similar to how 'something' is used in English."
 }

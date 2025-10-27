@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma arvan, et see on hea mõte.",
-    "Ta arvas, et kõik oli korras.",
-    "Arvatud hinnangul on see väga raske."
+    "See tulemus oli arvatud.",
+    "Olin kindel, et see juhtuks, kuid see polnud arvatud.",
+    "Kas sa said sellest midagi arvatud?"
   ],
   "translation": [
-    "assumed",
-    "supposed",
-    "presumed"
+    "Expected",
+    "Predicted"
   ],
-  "context": "The word 'arvatud' in Estonian generally means something that is assumed or supposed to be true, often based on incomplete information or uncertain circumstances."
+  "context": "The word 'arvatud' is the past passive participle of the verb 'arvata', which means to guess or to assume in Estonian. It is commonly used to indicate something that has been anticipated or foreseen."
 }

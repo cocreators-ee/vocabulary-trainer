@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän antoi syynä olevansa väsynyt.",
-    "Syy miksi hän ei pystynyt osallistumaan oli hänen sairautensa.",
-    "Tämä johtuu syystä, joka liittyy taloudelliseen tilanteeseen."
+    "Syy rikokseen oli rahapula.",
+    "Hän ei ollut syyntönä tapahtumiin.",
+    "Tiedemiehen syy selittää hänen päätöksensä."
   ],
   "translation": [
     "reason",
-    "cause",
-    "guilt"
+    "cause"
   ],
-  "context": "The word 'syy' in Finnish generally refers to a reason or cause for something, but it can also imply guilt or blame in certain contexts."
+  "context": "The word 'syy' in Finnish refers to a reason or cause behind an action or event. It is commonly used in both formal and informal contexts to explain motivations or origins of something, often in discussions about responsibilities or events."
 }

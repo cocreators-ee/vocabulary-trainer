@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta paistab olevat hea inimene",
-    "Paista päike läbi pilvede",
-    "Ma paistan ära koolist"
+    "Päike paistab kuldne õhtu taevasse.",
+    "Ta valas vahemaalt helgete sõnade järgi, et tähel pärast paista.",
+    "Soo sadamas paistas musta taeva all suvi ilus mõmm."
   ],
   "translation": [
-    "to seem",
-    "to appear",
-    "to shine through"
+    "shine",
+    "glow"
   ],
-  "context": "The word 'paista' is commonly used in Estonian to describe something that seems or appears to be a certain way, often in relation to emotions or physical phenomena like the sun shining through clouds."
+  "context": "The word 'paista' is used to describe the action of shining or glowing light, typically from a source like the sun, a lamp, or fire."
 }

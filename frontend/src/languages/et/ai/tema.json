@@ -1,15 +1,17 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on minu lemmikteema.",
-    "Ta rääkis sellest teemast tunde.",
-    "Mis on järgmise loengu teema?"
+    "Olen teadlik, et tema ei tohi minu hingedest kõnelema hakata.",
+    "Mulle meeldib su suurepärane suhtumine ja see, mida sa temaga tehaksid.",
+    "Jäta endale selle asemel tema."
   ],
   "translation": [
-    "theme",
-    "topic",
-    "subject"
+    "her",
+    "his",
+    "their",
+    "him",
+    "her"
   ],
-  "context": "The word 'tema' in Estonian translates to 'theme', 'topic', or 'subject' in English. It is commonly used when discussing the main idea or focus of something, such as a conversation, book, movie, or lecture."
+  "context": "Tema is a pronoun in Estonian that can mean 'his', 'her' or 'their' depending on the context of the sentence."
 }

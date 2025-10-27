@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma olen raske olukorras",
-    "Raske töö nõuab palju aega",
-    "Ta on raske haigus"
+    "See on raske kivi.",
+    "Tööd tegemine nende olukordadega on väga raske.",
+    "Raskes jutus ei tohi õiget teed järgida."
   ],
   "translation": [
-    "difficult",
     "heavy",
-    "hard"
+    "difficult",
+    "serious"
   ],
-  "context": "The word 'raske' in Estonian generally means something that is difficult, heavy, or hard, and it is commonly used to describe situations, tasks, or objects that require significant effort or pose a challenge."
+  "context": "In Estonian, 'raske' is commonly used to describe something physically heavy or a task that is difficult to accomplish. It can also refer to serious situations."
 }

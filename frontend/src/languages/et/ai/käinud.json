@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen käinud Pariisis.",
-    "Ta on käinud Itaalias.",
-    "Nad on käinud paljudes riikides."
+    "Ma olen käinud seal juba mitu korda.",
+    "Ta on viimased paar päeva haiglas käinud.",
+    "Kui sa käid nii palju toiduga mängima, siis saad vaid kannatada."
   ],
   "translation": [
     "been",
-    "visited",
-    "gone"
+    "to be in a place",
+    "to play with food"
   ],
-  "context": "The word käinud is the past tense of the Estonian verb minema, which means to go. It is commonly used to describe a completed action of visiting or going somewhere."
+  "context": "The word 'käinud' is the past participle form of the Estonian verb 'kanda', which means to go or to be. It can also mean to carry, but in this context it's more commonly used as been/to go/be. The usage depends on the sentence and other words around it."
 }

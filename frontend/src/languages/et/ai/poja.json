@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Poja on mehe poeg",
-    "Tema poja elab Londonis",
-    "Meil on üks poja"
+    "See on poja eest.",
+    "Poja koolitaja on väga suur.",
+    "Olen kindel, et poja nõusolek oli vajalik."
   ],
   "translation": [
-    "son",
-    "boy"
+    "son's"
   ],
-  "context": "The word 'poja' in Estonian generally means a male child or a boy, it is commonly used to refer to a son or a young male."
+  "context": "'poja' is the genitive form of 'poeg', meaning son. It is used to show possession or relation in sentences such as 'son's school'. The word commonly appears after nouns or prepositions indicating ownership."
 }

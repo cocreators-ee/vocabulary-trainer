@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen terve",
-    "Ta on terve inimene",
-    "Terve ellu!"
+    "Tere teanu!",
+    "Tere, mis sul on uut?",
+    "Palun öel tere emale."
   ],
   "translation": [
-    "hello",
-    "hi",
-    "healthy"
+    "hello"
   ],
-  "context": "The word 'terve' is commonly used as a greeting in Estonian, similar to 'hello' or 'hi' in English, but it can also mean 'healthy' depending on the context."
+  "context": "A common greeting used when meeting someone or starting a conversation."
 }

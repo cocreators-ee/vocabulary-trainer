@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tüdrukust sai ilus tüdruk.",
-    "Ta on väga ilus tüdrukust.",
-    "Tüdrukust on kõige rohkem huvitav."
+    "Tema tüdruku sõbrad tegid meelelahutuse puhkepäeval.",
+    "Mina elasin koos oma vanema tüdruku ja tema sugulastega.",
+    "Ta soovis leida endale uusi naiste sõpru, aga kõik tüdrukud olid juba teada."
   ],
   "translation": [
     "girl",
-    "young girl"
+    "young woman"
   ],
-  "context": "The word 'tüdrukust' is used in Estonian to refer to a young or adolescent girl, and it is commonly used in various contexts to describe someone who is female and in their youth or teenage years."
+  "context": "refers to a young female person"
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Algul oli see raske.",
-    "Ta läks algul Londonisse.",
-    "Algul meeldis mulle see film."
+    "Algu tundus, et kõik läheb hästi.",
+    "Olen algul murelik, aga allesamaal.",
+    "Algu ei mõistan midagi."
   ],
   "translation": [
     "at first",
-    "initially",
     "in the beginning"
   ],
-  "context": "The word 'algul' is used to indicate something that happens or is true at the start of a period of time or a process, and it is commonly translated to English as 'at first', 'initially', or 'in the beginning'."
+  "context": "Algu is used to denote something happening at the start or in the early stage of an event, action or period."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ootan bussi.",
-    "Ta ootas mind koolis.",
-    "Me ootame head ilmaga."
+    "Oot, ma tahan mõelda.",
+    "Ära ootada liiga kaua!",
+    "Ta juba ootas meid üle poole tundi."
   ],
   "translation": [
-    "wait",
-    "expect"
+    "Wait."
   ],
-  "context": "The word 'oot' in Estonian means to wait for something or someone, and it is commonly used in everyday conversations to express anticipation or expectation."
+  "context": "'oot' is an imperative form of the verb 'to wait'. It is commonly used to tell someone to wait for a short period, either in person or by phone. The word can also be part of other expressions related to waiting, such as 'järgmisel kord' (next time) and 'ei jää' (does not remain)."
 }

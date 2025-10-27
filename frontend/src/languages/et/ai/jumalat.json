@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma usun jumalat",
-    "Jumalad on vägevad",
-    "Ta palvetab jumalat"
+    "Jumalat ei eksisteeri.",
+    "Tema jumalat ei tunnusta keegi.",
+    "Ma usun oma jumalat."
   ],
   "translation": [
+    "God",
     "gods",
-    "deity"
+    "the divine"
   ],
-  "context": "The word 'jumalat' is the plural form of 'jumal', which refers to a god or deity in Estonian mythology and religion, it is commonly used to express reverence or worship."
+  "context": "The word 'jumalat' is the partitive case singular form of 'jumal', which means 'god'. It can refer to a deity, gods in general, or be used as an expression of surprise similar to 'oh my God'. Commonly appears in religious contexts but may also be used idiomatically."
 }

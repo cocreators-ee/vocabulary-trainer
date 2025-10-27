@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tulete koju?",
-    "Nad tulete homme?",
-    "Te olete tulete juba"
+    "Uurimise tulete näitavad, et see vähk sündib rohkem kui ühes geenis.",
+    "Võrdleme kahte erinevat tüüpi tulete või nende kombinatsioone.",
+    "Tulete muutused aitasid selgitada, miks teatud inimesed põnevad südamerahu haigustele."
   ],
   "translation": [
-    "you come",
-    "are coming"
+    "findings",
+    "results",
+    "outcomes"
   ],
-  "context": "The word 'tulete' in Estonian is the second person plural form of the verb 'tulema', which means to come. It is commonly used when inviting or asking someone to come somewhere."
+  "context": "The word 'tulete' refers to findings or results from research, studies, or experiments. It is commonly used in scientific and academic contexts to discuss the outcomes of investigations."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minun on pakko palvella asiakkaita.",
-    "He palvelevat kaikkia ravintoloissa.",
-    "Palvelu on erittäin tärkeää."
+    "Annamme asiakkaille parhaat mahdolliset palvelut.",
+    "Häntä pyydettiin palvelemaan pääministerinä.",
+    "Kirkoissa järjestetään sunnuntaihin palvontaa."
   ],
   "translation": [
-    "serve",
-    "attend to"
+    "to serve"
   ],
-  "context": "The word 'palvella' in Finnish means to serve or attend to someone, often used in the context of customer service or hospitality."
+  "context": "means to serve or to be at someone's disposal; commonly used in contexts like customer service, religious services, or when offering help"
 }

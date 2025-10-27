@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on hea inimene.",
-    "Inimesed elavad maal ja linnas.",
-    "Kõik inimesed võivad teha vahet."
+    "Inimesed jäävad rahulikud.",
+    "See inimene on väga nutikas.",
+    "Isegi suur inimene võib teha vigu."
   ],
   "translation": [
-    "human being",
     "person"
   ],
-  "context": "The word 'inimene' refers to a human being or person, and it is commonly used in Estonian language to describe an individual or people in general."
+  "context": "The word 'inimene' means person. It is used to refer to a human being, typically an adult."
 }

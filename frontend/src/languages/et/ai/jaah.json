@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lähen jahti pärast tööd.",
-    "Kas sa oled kunagi käinud jahil?",
-    "Jahimehed said täna palju saaki."
+    "Minu nimi on Jaan ja ma elan Tallinnas.",
+    "Jaan tõusis varahommikul koos oma tüdruksõbraga sisse kooli.",
+    "Eile öelnud: 'Jaan, miks oled sa siin?'"
   ],
   "translation": [
-    "ice",
-    "hunt",
-    "chase"
+    "John/Johnny (a male given name)"
   ],
-  "context": "The word 'jaht' in Estonian primarily means 'ice', but it can also refer to the act of hunting or a chase, depending on the context. It is commonly used when discussing winter activities or describing pursuit."
+  "context": "'Jaah' is an Estonian male first name equivalent to the English names John or Johnny. It is commonly used in Estonia and often abbreviated as J. or Jaan."
 }

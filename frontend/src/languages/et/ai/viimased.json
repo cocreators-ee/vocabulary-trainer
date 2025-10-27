@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Viimased päevad olid väga külmad",
-    "Ta on üks viimastest, kes veel mäletab seda sündmust",
-    "Need on viimased uudised"
+    "Viimased uudised on omane vahel kaasa kõnealune teema.",
+    "Ta jättis viimased sõnad muljele, et teda pidades ei saa midagi täna öelda.",
+    "Kui nad laskusid koju, olid seejärel viimased inimesed, kellega nad suhtlesid."
   ],
   "translation": [
     "latest",
     "last",
-    "recent"
+    "final"
   ],
-  "context": "The word 'viimased' in Estonian is used to describe something that is the most recent or the last in a series, similar to how the word 'latest' or 'last' would be used in English."
+  "context": "The word 'viimased' is used to describe something that comes at the end of a series or sequence. It can mean 'latest', as in the most recent updates; 'last', such as final words before an event; and 'final', referring to the concluding part of something."
 }

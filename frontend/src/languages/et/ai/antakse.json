@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Antakse, et see on hea mõte",
-    "Ta antakse sellele ülesande vastu",
-    "Selle võimaluse antakse ainult harva"
+    "Kui kõik käib hästi, antakse sulle tagasi oma pass.",
+    "Antakse väärtus järgmise korrani.",
+    "Riigikogu otsustas, et antakse tugevama toetuse."
   ],
   "translation": [
-    "is given",
-    "will be given",
-    "are provided"
+    "is given"
   ],
-  "context": "The word 'antakse' is the third person singular form of the verb 'andma', which means to give. It is commonly used in Estonian to express that something is being provided or handed over to someone."
+  "context": "The word 'antakse' is used in Estonian to indicate that something is being given or granted. It often appears in formal contexts such as legal procedures, government decisions, or when referring to the granting of rights and privileges."
 }

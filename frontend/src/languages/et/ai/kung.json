@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ta on väga kung ja teeb palju tööd.",
-    "Kung oli väsinud pärast pikka päeva.",
-    "See kung ei taha midagi teha."
+    "Ma tõestan kuni teeme mängu.",
+    "Kung on lihtne ja tore mehe nimi.",
+    "Ta ei saa midagi teha - see on kuni tal."
   ],
   "translation": [
-    "strong",
-    "powerful",
-    "capable"
+    "king",
+    "until",
+    "(name) Kung"
   ],
-  "context": "The Estonian word 'kung' generally refers to someone who is strong, capable, or powerful. It can also describe a hardworking person. While not a formal term, it’s often used informally to express admiration for someone’s strength or abilities."
+  "context": "The word 'kung' in Estonian can have different meanings: as a noun it refers to the monarch, but more commonly it is used as a preposition meaning 'until'. Additionally, it may also function as part of personal names."
 }

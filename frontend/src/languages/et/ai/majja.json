@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma arvan, et see on väga majja!",
-    "See maja on ilus.",
-    "Nad ehitasid uue maja."
+    "Päikeseloojanguga tuleme majja.",
+    "Minu vanad on alati varem kui ma endine majja tulnud.",
+    "Kas sa oled juba enne eile öösel majja tulnud?"
   ],
   "translation": [
-    "cottage",
+    "home",
     "house",
-    "home"
+    "to go home"
   ],
-  "context": "The Estonian word 'maja' commonly translates to 'house', 'home', or 'cottage' in English. It refers to a building used as a dwelling and is a very common noun in everyday conversation."
+  "context": "The Estonian word 'majja' means to go home. It is often used in the context of returning from a place to one's residence."
 }

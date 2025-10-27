@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Istuin siinä tuntikausia.",
-    "Hän istui vuoteessa koko päivän.",
-    "Istuimme kaikki yhdessä sohvalle."
+    "Istuin siellä.",
+    "Istuin penkille.",
+    "Missä istuit?"
   ],
   "translation": [
-    "I sat",
-    "He sat",
-    "sat"
+    "I sat"
   ],
-  "context": "The word 'istuin' is the first person singular form of the verb 'istua', which means to sit. It is commonly used in Finnish language to describe the act of sitting down or being seated."
+  "context": "The word 'istuin' is the first-person singular past tense form of the verb 'istua,' which means 'to sit.' It is commonly used to describe someone sitting down, like in a chair or on a bench."
 }

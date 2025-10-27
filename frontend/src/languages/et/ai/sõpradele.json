@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kingin sõpradele sünnipäevaks kinke.",
-    "Sõpradele on see üllatus.",
-    "Ta on olnud hea sõber mulle."
+    "Annan raamat sõpradele.",
+    "Ta teatab oma sõpradele uudise.",
+    "Kutsun mind külla paljudel sõpradel."
   ],
   "translation": [
     "to friends",
-    "for friends"
+    "for friends",
+    "friends"
   ],
-  "context": "The word sõpradele is a dative plural form of the Estonian word sõber, which means friend. It is commonly used to indicate that something is done for or given to friends."
+  "context": "'sõpradele' is the dative plural form of 'sõbrad', meaning friends. It indicates that something is given or directed to friends in a sentence, common in both casual and formal contexts when addressing multiple people."
 }

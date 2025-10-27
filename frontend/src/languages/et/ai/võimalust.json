@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mul on hea võimalus edasi harjuks",
-    "Ta ei anna mulle võimalust öelda midagi",
-    "Võimalused on piiratud"
+    "Tema jaoks see olid hoopis teisi võimalusi.",
+    "Võimalused, et see peaks töötama, on väikesed.",
+    "Sul on alati võimalust kõrvaldada selle menüü."
   ],
   "translation": [
-    "opportunity",
-    "chance",
-    "possibility"
+    "chance"
   ],
-  "context": "The word 'võimalust' in Estonian refers to a situation or circumstance that makes it possible to do something, similar to the English concept of an opportunity or chance."
+  "context": "The word 'võimalust' is the partitive singular form of the noun 'võimalus', meaning 'chance' or 'possibility'. In English, it might appear similar to phrases like 'a chance for something', and in context may refer to opportunities, probabilities, or permissions depending on usage. In the first example sentence, it refers to different chances or opportunities; in the second, a low probability that something will work; and in the third, an option to eliminate or remove from the menu."
 }

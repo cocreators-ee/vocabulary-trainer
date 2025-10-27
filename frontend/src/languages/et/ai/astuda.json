@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta astus treppidest üles",
-    "Ma olen astunud selle teema juurde mitu korda",
-    "Astudes uksest sisse, nägin ma teda"
+    "Mina astun maja sisse.",
+    "Tema juba ei astu enam koju.",
+    "Kas sa astusid hoone sees?",
+    "Ära asta lahti kätt!"
   ],
   "translation": [
     "to step",
-    "to climb"
+    "to enter"
   ],
-  "context": "The word 'astuda' in Estonian means to step or climb, and it is commonly used in contexts where someone is moving up or down something, such as stairs."
+  "context": "The verb 'astuda' in Estonian means to step or to enter. It is commonly used when describing physical movement into a space, such as entering a room or stepping onto something."
 }

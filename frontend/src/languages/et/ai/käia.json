@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma käin koos temaga.",
-    "Ta on kõige rohkem käinud maailma pealinnades.",
-    "Käia tuli juurde ja ütles midagi."
+    "Ta käis koolis iga päev.",
+    "Meie lugu käib järsku edasi.",
+    "Kas sa käid juba suveks rannale?"
   ],
   "translation": [
-    "walk",
-    "go"
+    "to go",
+    "to walk",
+    "to happen / to proceed"
   ],
-  "context": "The word käia is commonly used in Estonian to describe the act of walking or going somewhere on foot, and can be used in various contexts such as talking about someone's daily routine or giving directions."
+  "context": "'käia' is an Estonian verb primarily meaning 'to go'. In different contexts, it can mean 'to walk', or be used figuratively for events proceeding. The example sentences show common usage in daily situations such as going somewhere, the progression of a story, and asking if someone has gone to the seaside."
 }

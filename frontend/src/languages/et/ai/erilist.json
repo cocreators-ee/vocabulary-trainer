@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on erilist tüüpi",
-    "See on eriline juhtum",
-    "Erilist asja ei ole"
+    "Ma soovin erilist tähelepanu oma esitlusele.",
+    "Ta palub meil olla eriti ettevaatlikud selles olukorras.",
+    "See on ainulaadne ja erinev erilise sellest, mida me tavaks saanud oleme."
   ],
   "translation": [
     "special",
     "particular",
-    "exceptional"
+    "specific"
   ],
-  "context": "The word 'erilist' in Estonian is an adjective that means something or someone is special, particular, or exceptional in some way."
+  "context": "Used to describe something that is unique, specific, or has a special quality in the context of being different from others."
 }

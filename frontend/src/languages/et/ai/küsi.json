@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma küsin tema nime.",
-    "Küsi tema käest.",
-    "Ta ei küsi mu arvamust."
+    "Küsi täna îlesannet.",
+    "Neiu küsis, mis väljundit ta peaks kasutama.",
+    "Vaatage, et nad ei küsiks midagi liiga palju."
   ],
   "translation": [
-    "to ask",
-    "asked"
+    "ask"
   ],
-  "context": "The word 'küsi' is commonly used in Estonian as a verb meaning to ask or inquire about something, and it can be used in different forms such as in the sentences provided."
+  "context": "The verb 'küsi' means to ask a question or request something. It is commonly used in daily conversations when seeking information or making requests."
 }

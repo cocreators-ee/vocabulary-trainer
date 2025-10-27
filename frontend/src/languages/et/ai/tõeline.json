@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on tõeline sõber.",
-    "Tõelise inimese käitumine on alati aus.",
-    "Ma otsin tõelist armastust."
+    "Tõeline, et nad lävivad.",
+    "Ta on tõeline meister oma alal.",
+    "Ei tea, kas see on tõeline või mitte."
   ],
   "translation": [
     "real",
-    "true",
-    "genuine"
+    "true"
   ],
-  "context": "The word 'tõeline' is an adjective that means something or someone is authentic, real, or true to its nature, often used to describe people, things, or feelings that are genuine and sincere."
+  "context": "In Estonian, 'tõeline' means real or true. It is used to describe something that is genuine and not fake, or something that accurately reflects reality."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lauldan oma lemmiklaulu.",
-    "Ta laulis väga ilusalt.",
-    "Laulda on mu tegelik hobide ja kui ma olen vaba, siis laulan."
+    "Laulda on lihtne kui leek.",
+    "Ta suudab lauldagi ilusalt.",
+    "Kas sa oskad laulda?"
   ],
   "translation": [
-    "to sing",
-    "sing"
+    "to sing"
   ],
-  "context": "The word 'laulda' in Estonian means to sing, and it is commonly used in various contexts such as singing a song, singing in a choir, or simply enjoying music by singing along."
+  "context": "The word 'laulda' in Estonian means 'to sing'. It is commonly used to describe the act of producing musical sounds with the voice, either alone or as part of a group."
 }

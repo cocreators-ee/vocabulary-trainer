@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on piiratud inimese võimetes.",
-    "Piiratud valik võimalusi.",
-    "See on piiratud koguses saadaval."
+    "Minu aeg on piiratud.",
+    "Pakutav summa oli piiratud.",
+    "Piiratud juurdepääs sellele teemale."
   ],
   "translation": [
-    "limited",
-    "restricted"
+    "limited"
   ],
-  "context": "The word 'piiratud' in Estonian generally means something that is limited or restricted in some way, often referring to a lack of resources, options, or availability."
+  "context": "The word 'piiratud' means limited. It is commonly used to describe something that has boundaries or restrictions placed upon it, such as time, access, quantity, etc."
 }

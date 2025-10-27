@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma joon kahvi iga hommik.",
-    "Kas sa tahad kah suhkrut?",
-    "See kohv on väga hea, ma võiksin juua veel kah."
+    "Tema ei tea seda, kah.",
+    "Seda lihtsalt ei juurde jõuaks teha, kah.",
+    "Jah, see on tõesti mul ja mitte kellegi mujal, kah."
   ],
   "translation": [
-    "coffee",
-    "also",
-    "too"
+    "but",
+    "unfortunately",
+    "regrettably"
   ],
-  "context": "The word 'kah' in Estonian is a versatile particle that can mean 'also', 'too', or be part of the word for coffee ('kohv'). It’s often added to sentences to indicate inclusion or addition."
+  "context": "'kah' is used to express a contrast or a wish that something were different. It functions similarly to 'but' in English and can be translated as 'but', 'unfortunately', or 'regrettably'. It typically conveys regret, disappointment, or contradiction."
 }

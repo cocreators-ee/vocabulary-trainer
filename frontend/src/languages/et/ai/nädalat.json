@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen oodanud nädalaid",
-    "Ta on töötanud mitmeid nädalaid",
-    "Nädalat on väga pikk aeg"
+    "Minu pere tuleb külastama järgmise nädala alguseks.",
+    "Ta jättis töölt vaba nädalavahetuseks.",
+    "See film on plenumi peatuses kaks nädalat."
   ],
   "translation": [
-    "weeks",
-    "several weeks"
+    "week"
   ],
-  "context": "The word nädalat is the plural form of nädal, which means week in English, and it is commonly used to express a period of time or duration."
+  "context": "'nädalat' refers to 'week' in Estonian and is commonly used in phrases denoting time periods or specific dates related to weekly schedules and events."
 }

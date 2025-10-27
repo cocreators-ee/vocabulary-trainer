@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma aitasin teda.",
-    "Sina aitsad mind alati.",
-    "Nad aitasid meid koos."
+    "Ma olen sind aidanud palju.",
+    "Mina aitasin teda eile.",
+    "Ta ei aita kellegi mitte."
   ],
   "translation": [
-    "helped"
+    "helped (2nd person plural)"
   ],
-  "context": "The word 'aitasid' is the second person plural past tense form of the Estonian verb 'aitama', which means to help. It is commonly used in sentences where the subject is 'you' and the action of helping has been completed in the past."
+  "context": "The Estonian word 'aitasid' is the past tense of the verb 'austa,' which means to help. It specifically indicates that the subject helped someone in second-person plural form, meaning you all or they."
 }

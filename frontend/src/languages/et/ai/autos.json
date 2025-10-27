@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ma ostan uue autos",
-    "Autos on hea sõiduvahend",
-    "Tal on punane autos"
+    "Minu autos on mõned erinevad asjad.",
+    "Tema autos oli väike lõik.",
+    "Kas sa soovid tulla minu autos?"
   ],
   "translation": [
     "car",
-    "automobile",
-    "vehicle"
+    "in the car"
   ],
-  "context": "The word 'autos' is commonly used in Estonian to refer to a car or automobile, and it is often used in everyday conversations to talk about transportation or vehicles."
+  "context": "'Autos' is an Estonian word meaning 'in the car'. It is commonly used to indicate location within a vehicle. The form 'autos' comes from the preposition 'autodes' (in cars) but when combined with singular or specific contexts it becomes 'autos'."
 }

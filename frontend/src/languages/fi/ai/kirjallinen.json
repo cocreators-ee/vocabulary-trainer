@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän on kirjallinen ihminen.",
-    "Kirjalliset taidot ovat tärkeitä.",
-    "Kirjallisuus on laaja aihe."
+    "Tämä on kirjallinen virhe.",
+    "Hänellä on erittäin kirjallinen tyyli.",
+    "Kirjallinen kielikokeus vaatii huolellista lukuunta."
   ],
   "translation": [
+    "written",
     "literary",
-    "written"
+    "formal"
   ],
-  "context": "The word 'kirjallinen' in Finnish refers to something related to writing or literature, and it is commonly used to describe a person's writing skills or the literary genre of a book."
+  "context": "'kirjallinen' is used to describe something that is written or formal in style, especially related to literature or official documents."
 }

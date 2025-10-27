@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lugen raamatu.",
-    "Raamat on minu lemmik.",
-    "Ta kirjutas raamatu ise."
+    "Ma otsin raamatu.",
+    "Raamatu autor on tuntud kirjanik.",
+    "Raamatus käsitletakse põhjalikult ajaloofakte."
   ],
   "translation": [
-    "book"
+    "book",
+    "literature"
   ],
-  "context": "The word 'raamat' refers to a written or printed work consisting of pages glued or sewn together, commonly used for reading or learning purposes."
+  "context": "Used to refer to a physical or written collection of pages bound together, containing stories, information, or other content. It is commonly used in academic and daily contexts."
 }

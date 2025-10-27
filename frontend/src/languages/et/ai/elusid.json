@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta elusid raskelt.",
-    "Nad elusid koos palju aastaid.",
-    "Elusid on ilus ja lühike."
+    "Tema elusid on põnevad ja rikkalikud.",
+    "Minu kallim külastas palju erinevaid elusid.",
+    "Ta õnnitab enda elusid kogu aeg."
   ],
   "translation": [
-    "lived",
-    "was alive",
-    "life"
+    "lives",
+    "life stories"
   ],
-  "context": "The word 'elusid' is the past tense of the verb 'elama', meaning 'to live'. It indicates that someone or something existed or was alive at a certain point in time. In English, it translates to 'lived' or 'was alive'."
+  "context": "In Estonian, 'elusid' is the plural form of 'elu', meaning lives or life experiences. It can refer to the existence or life story of individuals as well as multiple instances of living beings. The word is commonly used in contexts discussing personal histories and experiences."
 }

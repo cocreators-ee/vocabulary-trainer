@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma keeran selle paberile.",
-    "Ta keeras endale uue ülikonna.",
-    "Keerata võib olla raske."
+    "Mina olen juba keeratud oma mõtete lõkkeks.",
+    "Ta proovis laua maha keerata, kuid see ei tõestanud.",
+    "Keeratud sümme pole meie suunas."
   ],
   "translation": [
-    "to turn",
     "to twist",
-    "to spin"
+    "to spin",
+    "to baffle"
   ],
-  "context": "The word 'keerata' in Estonian means to turn or twist something, and it is commonly used in various contexts such as turning a page, twisting a thread, or spinning a wheel."
+  "context": "'keerata' in Estonian primarily means to twist or spin something physically. It can also be used metaphorically to mean confusing someone or making a situation complicated. Common usage includes describing the action of twisting objects, spinning things around, or situations where confusion arises."
 }

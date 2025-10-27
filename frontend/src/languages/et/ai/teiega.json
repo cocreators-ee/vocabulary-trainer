@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma räägin teiega homme.",
-    "Ta on juba korduvalt rääkinud teiega.",
-    "Kas sa tahad rääkida teiega?"
+    "Ma olen teiega rahul.",
+    "Lugege see raamat enne teiega rääkimist.",
+    "Tema meel on alati teiega."
   ],
   "translation": [
-    "with you",
-    "to you",
-    "you"
+    "with you"
   ],
-  "context": "The word 'teiega' is a pronoun in Estonian meaning 'with you' or 'to you', used to refer to a group of people being addressed, and is commonly used in formal or polite conversations."
+  "context": "The word 'teiega' is the partitive case form of the pronoun 'teie', which means 'you'. In English, it translates to 'with you'. It is used in sentences where someone is indicating an action taken or something associated with you."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta läks tagumikuga tantsima.",
-    "See on väga kena tagumikk.",
-    "Tagumiku vorm on oluline."
+    "Minu kodus on rohkem ruumi tagumikku.",
+    "Ta pani raamatu tagumikku kirja.",
+    "Tagumikku laiendati hoonet."
   ],
   "translation": [
-    "buttocks",
-    "rear",
-    "bottom"
+    "(in the) back",
+    "behind"
   ],
-  "context": "The word 'tagumikk' refers to the buttocks or rear end. It is a relatively informal term and can be used in everyday conversation, but may be considered vulgar depending on the context."
+  "context": "'tagumikku' is the illative case of 'tagumine', which means 'back'. It indicates movement into or towards the back. In English, this can be translated as '(in) the back' when referring to a location, and 'behind' when indicating position relative to something else."
 }

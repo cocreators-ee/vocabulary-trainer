@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minulla on kohta vapaa",
-    "Kohtaan sinua sydämeni avoinna",
-    "Hän ei ole kohta täällä"
+    "Tapaamme huomenna kahden ajan kohtaa.",
+    "Hän saapui paikalle noin yhden tunnin kohdalla.",
+    "Kohta tulee useasti käytössä kellonajan merkinnässä."
   ],
   "translation": [
-    "soon",
-    "towards",
-    "near"
+    "time",
+    "around (a time)",
+    "approximately"
   ],
-  "context": "The word 'kohta' in Finnish can be translated to English as 'soon', 'towards', or 'near', depending on the context in which it is used. It is commonly used to indicate a sense of closeness or proximity, either in terms of time or physical location."
+  "context": "'kohta' is used to indicate a specific point in time or approximately around a certain time, commonly seen in the context of scheduling or describing when something happens."
 }

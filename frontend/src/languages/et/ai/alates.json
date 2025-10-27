@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen alates hommikust ärgas",
-    "Alates järgmisest nädalast on uus graafik kehtima",
-    "Ta on alates lapsepõlvest huvitunud muusikast"
+    "Alates täna on kõik muutunud.",
+    "Ta alustab tööd alates homme.",
+    "Uus poliitika kehtib alates märtsist."
   ],
   "translation": [
     "from",
-    "since",
-    "starting from"
+    "since"
   ],
-  "context": "The word 'alates' in Estonian is commonly used to indicate the starting point of a period or action, similar to the English preposition 'from' or 'since'."
+  "context": "'alates' is used to indicate a starting point in time, often translated as 'from' when referring to beginnings or origins, and as 'since' when indicating something that has been ongoing from a past time up to the present. It typically follows a specific date, day, or event."
 }

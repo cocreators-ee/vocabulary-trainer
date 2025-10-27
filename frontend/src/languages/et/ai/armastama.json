@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma armastan sind",
-    "Ta armastab mind",
-    "Nad armastavad üksteist"
+    "Olen temaga kogu elu koos ja teda armastan.",
+    "Mõelid sa mind ikka veel armastama?",
+    "Läksime lõunale ja ta jutustas mulle uuesti oma armastusest."
   ],
   "translation": [
     "to love",
+    "loving",
     "love"
   ],
-  "context": "The word armastama is a verb in Estonian that means to love someone or something, and it is commonly used in sentences to express affection or fondness towards a person, place, or thing."
+  "context": "The word 'armastama' is a verb in Estonian that means to have deep affection for someone or something. It is commonly used in the context of romantic love but can also express strong feelings towards family, friends, or hobbies."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ostan varast vara",
-    "Ta on hea vara",
-    "Vajame vara selleks"
+    "Ta läks vara koju.",
+    "Ma olen vara õppinud see teema.",
+    "See linn oli vara teada tuntud."
   ],
   "translation": [
-    "ware",
-    "goods",
-    "merchandise"
+    "early",
+    "previously",
+    "formerly"
   ],
-  "context": "The word 'vara' in Estonian generally refers to goods or merchandise, and is commonly used in the context of trade, commerce, or storage."
+  "context": "'Väga' is used to indicate something happening early or before a certain time."
 }

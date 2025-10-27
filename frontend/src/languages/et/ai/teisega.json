@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
+  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ta läks teisega kohtuma.",
-    "Meie plaanis oli teisega reisida.",
-    "See tegevus on teisega seotud."
+    "Teisega kõik läheb hästi.",
+    "Ma räägin teisega.",
+    "Tema suhtes teisega midagi ei tea."
   ],
   "translation": [
-    "with someone",
-    "with another",
-    "together with"
+    "With them",
+    "To/for them"
   ],
-  "context": "The word 'teisega' in Estonian is used to indicate being with someone else or doing something together with another person. It implies accompaniment or association."
+  "context": "The word 'teisega' is a genitive form of the pronoun 'need', meaning with or for them. It's used to indicate that something is done in relation to others (them)"
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minulla on kolmas vuosikymmeneni",
-    "Hän on kolmannen polven suomalainen",
-    "Kolmas maailmansota oli vaikea aika"
+    "Kolmas tunti oli kaikista pahin.",
+    "Hänellä on kolmantena lapsena.",
+    "Se oli hänelle kolmannen kerran.",
+    "Minun täytyy käydä siellä kolmanteen kertaan."
   ],
   "translation": [
     "third",
-    "three"
+    "a third (of something)"
   ],
-  "context": "The word 'kolmas' is an ordinal number in Finnish, used to describe something that is in the third position or sequence, and it can be translated to English as 'third' or 'three' depending on the context."
+  "context": "'kolmas' is the ordinal number for three, used to denote position in a sequence or division into parts. It can also be used as 'a third of something', and has different forms depending on grammatical case and usage."
 }

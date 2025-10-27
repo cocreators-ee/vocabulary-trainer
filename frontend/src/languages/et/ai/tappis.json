@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mees tappis oma naise vihasest.",
-    "Politsei uurib tapmist põhjalikult.",
-    "See oli traagiline tapp."
+    "Tema suurtõrva oli tappa pankru.",
+    "Nad ei saa jätta midagi tappiseks oma õpetusest.",
+    "Ei tea, kas ma saan sellest kunsti tappiseks."
   ],
   "translation": [
-    "murder",
-    "killing",
-    "slaughter"
+    "bait",
+    "lure"
   ],
-  "context": "The word 'tappis' in Estonian refers to the act of intentionally taking someone’s life, or a killing. It is often used in legal contexts or when discussing violent crimes. In English, it translates directly to 'murder' or 'killing', but can also imply a more brutal or senseless act depending on context."
+  "context": "'tappis' refers to something set as bait or a lure meant to entice someone into a trap. It can be used both literally in the context of fishing and metaphorically for deceptive situations."
 }

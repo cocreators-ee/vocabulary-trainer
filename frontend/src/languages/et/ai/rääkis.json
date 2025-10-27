@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta rääkis mulle oma probleemidest.",
-    "Nad rääkisid tunde aega telefonis.",
-    "Kas sa rääkisid temaga eile?"
+    "Ta rääkis mulle oma kogemustest.",
+    "Rändur rääkis suveist kodusse tagasi pöörduda.",
+    "Mina räägin alati enne teisi."
   ],
   "translation": [
     "spoke",
-    "talked",
-    "said"
+    "talked"
   ],
-  "context": "The word 'rääkis' is the past tense of the verb 'rääkima', which means 'to speak' or 'to talk'. It indicates that someone communicated verbally at a specific point in the past. It’s commonly used to describe conversations, speeches, or any instance where someone expressed themselves through spoken language."
+  "context": "This is the past tense of 'räägima' which means to speak or talk. It can be used in a variety of situations such as having a conversation, giving information, etc."
 }

@@ -2,13 +2,14 @@
   "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on naiseliku ilmega.",
-    "Naiselikud inimesed on vastuvõetavad.",
-    "Tema naiselik kuju on hämmastav."
+    "Naisel on rohkem rahuldust kui mehel.",
+    "Tema naisel oli paks juuksed.",
+    "Naisel tõusis vererõhk."
   ],
   "translation": [
-    "feminine",
-    "womanly"
+    "on a woman",
+    "a woman's",
+    "to a woman"
   ],
-  "context": "The word 'naisel' is an Estonian adjective that means having qualities or characteristics traditionally associated with women, such as sensitivity, elegance, and nurturing nature."
+  "context": "The word 'naisel' is the illative case of 'naine', meaning 'woman'. It can translate to English as 'on a woman', 'a woman's', or 'to a woman', depending on context."
 }

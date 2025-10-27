@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ta lasi mind maha.",
-    "Ma ei saa sind lasida.",
-    "See on väga lastevaba."
+    "Ta lasi mängida oma last.",
+    "Rohkem kui 100 inimest lasid tänaseks hukku maavärinades.",
+    "Miks nad mind ei luba selle kohta otsuseid langetada? Ma lasin seda teha!"
   ],
   "translation": [
-    "to allow",
-    "to let",
-    "to permit"
+    "allowed",
+    "permitted",
+    "left (behind)"
   ],
-  "context": "The Estonian verb 'lasid' means to allow or permit someone to do something. It is often used in the context of granting permission or letting things happen. It can also imply a degree of negligence or carelessness, as in 'to let someone down'."
+  "context": "'Lasid' is the past tense form of 'lasi', meaning to allow, permit, or leave something behind. It's commonly used in situations where one person grants permission for an action by another person, or when describing how someone allowed something to happen."
 }

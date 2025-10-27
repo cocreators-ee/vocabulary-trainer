@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen alles alguses ja mõistma hakkan aegamööda.",
-    "Ta oskab väga hästi eesti keelt mõistma.",
-    "Mina ei suutnud teda mõistma."
+    "Ma mõistan seda.",
+    "Ta ei mõista mind.",
+    "Mõistad sa mulle?"
   ],
   "translation": [
-    "to understand",
-    "comprehend"
+    "to know",
+    "to understand"
   ],
-  "context": "The word 'mõistma' in Estonian means to understand or comprehend something, and it is commonly used in various contexts to convey the idea of grasping or interpreting information."
+  "context": "The verb 'mõistma' in Estonian translates to 'to know' or 'to understand' in English. It is used to express comprehension of information, someone's feelings, thoughts, or intentions."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Komandör ütleb, et see on hea mõte.",
-    "Komandöri käsk oli selg ja lühke.",
-    "Komandörile anti kõrge aunimetus."
+    "Komandör käskis kaptenil teha täiendavaid patrundeid.",
+    "Jaapani komandöri erinevad Eesti komandörid, kuna see on jäinud endisest Jaapani keelest.",
+    "Loodussoojus oli selleks ajaks juba olnud laialdaselt kasutuses Japandi imperia komandöris."
   ],
   "translation": [
-    "commander",
-    "captain"
+    "commander"
   ],
-  "context": "The word komandör refers to a high-ranking officer in the military or a person in charge of a ship, and it is commonly used in Estonian to convey a sense of authority and leadership."
+  "context": "A naval rank equivalent to a captain in the army."
 }

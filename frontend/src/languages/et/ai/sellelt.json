@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen sellelt üks meinest.",
-    "Sellelt on hea mees.",
-    "Ta tuli sellelt poolt."
+    "Sellelt mälestab jääma.",
+    "Kurvi sellelt kinni pidi maailm.",
+    "Päikeseloojangu õhtul tõid nad sellelt rannaliiva."
   ],
   "translation": [
     "from this",
-    "of this"
+    "of this",
+    "in this (context)"
   ],
-  "context": "The word 'sellelt' is used in Estonian to indicate the origin or source of something, and it can be translated to English as 'from this' or 'of this'."
+  "context": "'Sellelt' is an Estonian preposition meaning 'from this.' It can be used in both physical and metaphorical contexts to indicate something coming from or originating in a specific source. In sentences, it often conveys the idea of origin or derivation."
 }

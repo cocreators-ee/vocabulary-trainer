@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on parema käitumisega.",
-    "Parema tulemuse saavutamiseks tuleb rohkem harjutada.",
-    "Parematest kavatsustest hoolimata läks kõik valesti."
+    "Ma soovin paremat tulemust.",
+    "Ta valis parema variandi.",
+    "Minu arvates on see parema küljel oluline."
   ],
   "translation": [
+    "right (as in direction)",
     "better",
-    "best"
+    "more right"
   ],
-  "context": "The word 'parema' is the genitive singular form of the Estonian adjective 'parim', which means 'best'. It is commonly used to describe something or someone that is of higher quality or more excellent than others."
+  "context": "'Parema' is the partitive form of 'parem', which means better or right (direction). It's commonly used to indicate a preference for something more optimal or correct."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "He tunsivat niiden nimet",
-    "Niiden autojen väri on sininen",
-    "Tiedän niiden osoitteen"
+    "Niiden talo on kaunis.",
+    "Hänellä ovat niiden kirjat.",
+    "Anteeksi, mutta en tiedä niiden nimet."
   ],
   "translation": [
-    "their",
-    "of them",
-    "those"
+    "their"
   ],
-  "context": "The word 'niiden' is a genitive plural pronoun in Finnish, used to indicate possession or relation to multiple objects or people, and it is commonly translated to English as 'their' or 'of them'."
+  "context": "The word 'niiden' is a plural possessive pronoun used to indicate that something belongs to them (plural). It's commonly used in sentences where the subject refers to possession or ownership by multiple people or things."
 }

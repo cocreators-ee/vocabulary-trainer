@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei ole veel arvet maksnud.",
-    "Ta maksnud mulle võlga tagasi.",
-    "Kas sa oled juba selle eest maksnud?"
+    "Ta on maksnud kõik oma võlad tagasi.",
+    "Kas sa oled juba maksnud elektroonika puhul?",
+    "Maksnud meie arvestus tõi meile raskeust kevadkäes."
   ],
   "translation": [
     "paid",
-    "settled",
-    "covered"
+    "to have paid"
   ],
-  "context": "The word 'maksnud' is the past tense of the verb 'maksta', which means 'to pay'. It indicates that someone has already completed a payment for something. In English, it’s commonly used to confirm if a bill or debt has been settled."
+  "context": "The word 'maksnud' is the past participle of the Estonian verb 'maksta', which means to pay. It is commonly used in sentences to indicate that a payment has been made or completed."
 }

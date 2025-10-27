@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma armastan superfilme",
-    "Super oli hea film",
-    "See superfilm on minu lemmik"
+    "Minu õde on supermehelik.",
+    "See film on lihtsalt superõnnelik.",
+    "Super, et oled siin."
   ],
   "translation": [
     "super",
-    "great",
-    "excellent"
+    "supremely",
+    "very"
   ],
-  "context": "The word 'super' in Estonian is used to describe something that is great or excellent, similar to its usage in English."
+  "context": "'Super' in Estonian is used similarly to English as an informal expression or adjective to emphasize something positively. It can describe a movie, person, situation, etc., indicating it's great or excellent."
 }

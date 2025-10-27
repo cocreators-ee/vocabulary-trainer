@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean numbreid",
-    "Numbrid on matemaatika alus",
-    "Tallinna numbrid näitavad kasvu"
+    "Ma olen väga heades numbrites.",
+    "Tasub alati kontrollida numbreid enne allkirjastamist lepingut.",
+    "Kui tean kõik need numbrid siis ma saan juba märkama et..."
   ],
   "translation": [
     "numbers",
-    "digits",
-    "figures"
+    "figures (in a context of statistics or data)"
   ],
-  "context": "The word 'numbrid' is a noun in Estonian that refers to numbers or digits, and it is commonly used in mathematical and everyday contexts."
+  "context": "'Numbrit' is the illative singular form of 'numbrid', which means numbers. It is commonly used when referring to numerical data in contexts like statistics, mathematics, and financial matters."
 }

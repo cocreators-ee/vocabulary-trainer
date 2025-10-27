@@ -1,16 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta jättis oma lapse hooleks vanaemalle.",
-    "Politsei uurib juhtumit hoolega.",
-    "Hoolin on oluline osa headest suhetest."
+    "Ma hoolin sellest.",
+    "Ta ei hooli mingist probleemist.",
+    "Miks sa pole hoolis sinu eest?"
   ],
   "translation": [
-    "care",
-    "custody",
-    "attention",
-    "concern"
+    "I care (about) / I am concerned"
   ],
-  "context": "The word 'hoolin' in Estonian generally refers to care, custody, or attention given to someone or something. It can also imply a sense of concern or responsibility. In English, it is commonly used when discussing childcare, legal guardianship, or simply showing attentiveness towards others."
+  "context": "The verb 'hoolin' is used in the first person form to express concern or care about something. It can be translated as 'I care (about)' or 'I am concerned'."
 }

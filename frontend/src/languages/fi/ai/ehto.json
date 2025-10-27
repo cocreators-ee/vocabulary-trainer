@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tämä on ehto, jonka tulee toteutua.",
-    "Hän asetti ehdot kaupalle.",
-    "Ehdoissa mainitaan, että tuotteet tulee toimittaa viikon kuluessa."
+    "Toimiivat ehdot olivat kovia.",
+    "Sääntöjen muuttaminen vaati vähintään kolmen jäsenvaltion äänestyskatteen oikein.",
+    "Kansainväliset sopimukset voivat sisältää erilaisia ehtoja."
   ],
   "translation": [
     "condition",
-    "term",
-    "provision"
+    "requirement"
   ],
-  "context": "The word 'ehto' in Finnish refers to a condition or requirement that needs to be met, often used in formal or official contexts such as business agreements or contracts."
+  "context": "Ehto is commonly used to describe a condition or requirement that must be met for something else to happen. It can refer to terms in agreements, rules in games, or conditions set by authorities."
 }

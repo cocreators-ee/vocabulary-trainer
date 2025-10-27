@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Vaade aknast oli ilus.",
-    "Maailmavaade on tänapäeval väga erinev.",
-    "Kõrge vaade andis mulle turvalisuse tunde."
+    "Tema vaade on mulle väga oluline.",
+    "Olen alati tänulik erinevate vaadete eest.",
+    "See vahel peab silma hoidma oma enda vaadet."
   ],
   "translation": [
     "view",
-    "outlook",
-    "prospect"
+    "opinion",
+    "outlook"
   ],
-  "context": "The word 'vaade' in Estonian generally refers to a view or outlook, which can be used to describe what one sees from a particular vantage point, or it can also refer to a person's perspective or worldview."
+  "context": "The word \"vaade\" in Estonian is commonly used to express a view, opinion or outlook. It refers to one's perspective on something and can be both literal and metaphorical."
 }

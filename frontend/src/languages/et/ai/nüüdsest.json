@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma olen nüüdsest selle vastu",
-    "Ta on nüüdsest kindel selles",
-    "Nüüdsest peab ta olema ettevaatlik"
+    "Ma teen nüüdsest alates midagi erilist."
   ],
   "translation": [
-    "from now on",
-    "now onwards"
+    "since now",
+    "from now on"
   ],
-  "context": "The word nüüdsest is used to indicate a starting point in time from which something will happen or be true, and it is commonly used in Estonian to express a sense of continuity or progression."
+  "context": "This word is used to indicate that something will happen or has happened from the current moment onward."
 }

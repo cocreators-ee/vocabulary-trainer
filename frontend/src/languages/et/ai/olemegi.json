@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen temaga lepingu sõlminud, aga ta ei ole sellest teadlik, oleme juba ammu lahku läinud, kuid tema on endiselt minuga koos, olemegi tema juures.",
-    "Ta oli väga hea inimene ja meie koolis oli temaga hästi suhtlemine võimalik, sest ta oskas kuulata ja mõista, oleme tänulikud tema abile.",
-    "Me ei saanud sellest asjast rääkida ega arutanud selle üle, kuid me teadsime, et see on vajalik, ning nüüd oleme sellega nõus, olemegi."
+    "Ta teadis et ma poleme siin olemegi.",
+    "Ehk ma olen siin vaid üks päev, aga olemegi mitte rohkem",
+    "Tema ei uskunud mulle, kuidas ma poleme olemegi."
   ],
   "translation": [
-    "alright",
-    "fine",
-    "okay"
+    "I won't be here / I'm not going to be here"
   ],
-  "context": "The word 'olemegi' is used in Estonian to express agreement or confirmation. It can be translated to English as 'alright', 'fine', or 'okay'. The sentences provided show the usage of this word in different contexts, such as agreeing with someone or confirming a situation."
+  "context": "The word 'olemegi' is used to express that the speaker will definitely not be in a certain place at all. It can translate into English as 'I won't be here' or similar phrases depending on context."
 }

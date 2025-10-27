@@ -1,16 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta keris raudselt oma eesmärgi poole.",
-    "Meie koer kerib pidevalt põranda all.",
-    "Keri on ilus ja keerukas ornament."
+    "Kera lõikus teda.",
+    "Tema käsi oli keritud.",
+    "Ta pidi meditsiinikeskusele minema, sest kera kinni saanud oli raske keri."
   ],
   "translation": [
-    "aim",
-    "strive",
-    "curl",
-    "coil"
+    "wound (past tense)"
   ],
-  "context": "The Estonian word 'keri' can have multiple meanings, including to aim for something with determination, to curl or coil (like a dog rolling around), or it can refer to an ornamental swirl or curl. It often implies movement towards a goal or a physical winding shape."
+  "context": "The Estonian word 'keri' is the past tense form of the verb meaning to wound. It's commonly used in contexts where someone or something has been injured physically as a result of an attack or accident."
 }

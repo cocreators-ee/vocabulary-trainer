@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kardan äikest.",
-    "Ta kardab kõrgust.",
-    "Nad ei karda tööd."
+    "Ma ei karda midagi.",
+    "Ta alustas kardamata oma eesmärki.",
+    "Ära karda oma soovi sellest jutuks läbi mõelda."
   ],
   "translation": [
     "fear",
-    "be afraid",
-    "dread"
+    "be afraid of"
   ],
-  "context": "The verb 'karda' in Estonian means 'to fear' or 'to be afraid of' something. It is a common verb used to express feelings of apprehension or anxiety about potential dangers, unpleasant experiences, or specific objects/situations."
+  "context": "'Karda' means to fear or be afraid of something. It can also mean to avoid doing something out of fear."
 }

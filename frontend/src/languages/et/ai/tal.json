@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tegin talle kooki.",
-    "See tal on väga vana.",
-    "Tal on palju õnne."
+    "Tal on kodus uus kuuluv.",
+    "Tal tundub, et see on õige teekond.",
+    "Ma näha, et tal on hea meel."
   ],
   "translation": [
-    "have",
-    "possess",
-    "own"
+    "has",
+    "seems",
+    "is in good spirits"
   ],
-  "context": "The Estonian word 'tal' is a third-person singular present tense form of the verb 'to have'. It indicates possession or ownership, similar to 'he/she/it has' in English. It can also function as a particle indicating possession when used with nouns."
+  "context": "'tal' is used to indicate possession or a state of being. It can mean 'has', 'seems', or be used in expressions like 'is in good spirits'. The form changes based on the context, typically following the verb structure in Estonian."
 }

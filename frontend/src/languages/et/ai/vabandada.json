@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma vabandan seda teid",
-    "Ta vabandas selle eest, et ei tulnud kohtumisele",
-    "Vabandage mind"
+    "Ma vabandasin teda eile.",
+    "Vahel on raske teada, mida vabandadagi.",
+    "Ta ei soovi midagi vabandada."
   ],
   "translation": [
-    "to apologize",
-    "excuse"
+    "to apologize"
   ],
-  "context": "The word vabandada is commonly used in Estonian to express regret or remorse for something, similar to the English phrase 'to apologize' or 'excuse'."
+  "context": "This is the verb 'to apologize' in Estonian.  It's used to express regret for something you did wrong and ask for forgiveness."
 }

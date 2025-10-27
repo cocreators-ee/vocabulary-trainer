@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean kasu selle kohta.",
-    "Kasu on hea asi.",
-    "Ta ei olnud kasulik."
+    "See raamat pakub palju teadmisi ja kasuõpet.",
+    "Mitu kasu sul on sellest projektist?",
+    "Sul on suur kasu õppimisel, kui saad juhendit."
   ],
   "translation": [
-    "benefit",
-    "use"
+    "use",
+    "benefit"
   ],
-  "context": "The word 'kasu' in Estonian generally means something that is useful or beneficial, and it is commonly used to describe an advantage or a positive outcome."
+  "context": "'Kasu' refers to the advantage or benefit gained from something. It can be used in both concrete and abstract contexts."
 }

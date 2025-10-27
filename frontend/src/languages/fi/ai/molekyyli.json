@@ -2,12 +2,13 @@
   "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Molekyyli on yhdiste joka koostuu useista atomeista.",
-    "Kemian laboratoriossa tutkitaan molekyylien ominaisuuksia.",
-    "Molekyylirakenteen selvittäminen on tärkeää uusien lääkeaineiden kehityksessä."
+    "Kemiallisen reaktion nopeus riippuu molekyylien liikkeestä.",
+    "Molekyyli koostuu atomiytimestä ja elektroneista.",
+    "Tämä yhdiste koostuu monimutkaisista orgaanisista molekyyleistä."
   ],
   "translation": [
-    "molecule"
+    "molecule",
+    "molecular"
   ],
-  "context": "The word 'molekyyli' refers to a molecule, which is a group of atoms bonded together, and it is commonly used in chemistry and science to describe the basic units of a substance."
+  "context": "The word refers to a group of atoms bonded together, representing the smallest fundamental unit of a chemical compound. It is commonly used in chemistry and biology contexts."
 }

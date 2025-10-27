@@ -2,15 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin proovi jaoks kooki.",
-    "See on ainult prooviversioon.",
-    "Proovisime uut retsepti."
+    "Ta tegeles selle proovi puhul tõhusalt.",
+    "See pole ainus proovis esitatud vorm.",
+    "Proovis saab näha ka muid samme."
   ],
   "translation": [
-    "sample",
-    "test",
-    "trial",
-    "attempt"
+    "in the test",
+    "in the sample"
   ],
-  "context": "The word 'proov' in Estonian refers to a sample, test, or trial. It is commonly used to indicate something being tested or experienced for the first time, or a small portion of something larger."
+  "context": "The word 'proovis' is used to indicate that something is taking place within a test or trial setting, or it can refer to being part of a sample. It commonly appears in academic contexts such as exams and scientific samples."
 }

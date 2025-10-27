@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Liikuge edasi",
-    "Ta liigub kiiresti",
-    "Me liiguime koos"
+    "Liikuge ettevalmistusse!",
+    "Olete liialt aeglane, liikuge kiiremini.",
+    "Kui ei suuda liikuge, siis palun annage teada."
   ],
   "translation": [
     "move",
-    "proceed",
-    "advance"
+    "go",
+    "proceed"
   ],
-  "context": "The word 'liikuge' is a verb that means to move or proceed in Estonian, often used to encourage someone to take action or continue with something."
+  "context": "'liikuge' is the second person plural imperative form of 'liikma', which means to move. It is commonly used in instructions or commands where multiple people are addressed to take action, such as moving forward, going somewhere, or proceeding with a task."
 }

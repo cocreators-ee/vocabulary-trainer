@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta võttis elusalt kaasa",
-    "Elusalt jääda on parem kui surnuna surra",
-    "Me ei saa elusalt põgeneda"
+    "Olen elusalt kurb.",
+    "Tema elusalt ei olnud lihtne.",
+    "Elusalt vaimustus on tõeline rõõmudes."
   ],
   "translation": [
-    "alive",
-    "live",
-    "living being"
+    "Alively",
+    "In life",
+    "Alive"
   ],
-  "context": "The word 'elusalt' in Estonian means to be alive or living, and it is commonly used in sentences to describe something that is happening to a living being."
+  "context": "'Elusalt' is used to refer to something related to being alive or the state of living. It can be used in expressions about life, vitality, or physical presence. Common contexts include describing someone's lively personality or referring to experiences that are vividly felt."
 }

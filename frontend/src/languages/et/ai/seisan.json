@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta seisan oma jalal.",
-    "Seisab suurepäraselt.",
-    "Kõik on hea, kui sa seisad."
+    "Ta seisan taevasse vaatamas.",
+    "Minu ema alati seib vastu helistamisele kell 7, see on ta kaks tundi juba seisan.",
+    "Ta jõi, et mässas teekond ja saab seisan sisse."
   ],
   "translation": [
-    "stand",
-    "standing"
+    "I stood",
+    "I was standing"
   ],
-  "context": "The word 'seisan' is used to describe the act of standing or being in an upright position, and it is commonly used in Estonian language to convey a sense of stability or balance."
+  "context": "'Seisan' is the first person past tense of 'seisa,' meaning to stand. It is commonly used in narration or recounting events where someone has been in a standing position."
 }

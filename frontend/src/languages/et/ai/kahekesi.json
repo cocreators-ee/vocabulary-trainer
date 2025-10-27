@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen kahekesi koju tulnud.",
-    "Kahekesi oleme meie alati rahul.",
-    "Ta tuli üksi, mitte kahekesi."
+    "Ma jagan oma aega kaheksis.",
+    "Meie suhted olid alati kahekesi.",
+    "Ta õppis sellest kahekesi."
   ],
   "translation": [
-    "together",
-    "both"
+    "in pairs",
+    "together in pairs",
+    "bilateral"
   ],
-  "context": "The word 'kahekesi' in Estonian means being together or both, often used to describe two people doing something as a pair or unit."
+  "context": "The word 'kahekesi' is commonly used to describe actions or situations involving two people or entities interacting with each other, often implying cooperation or mutual involvement."
 }

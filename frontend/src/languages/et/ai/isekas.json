@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta on iseñasinud isekeelega.",
-    "Isekas ei ole hea.",
-    "Isegi kui ta ise teab, siis ikkagi."
+    "Ma teen selle ise.",
+    "See on kõik tühiasj, mida ta teeb ise.",
+    "Ta palus mulle midagi teha ise."
   ],
   "translation": [
-    "foolish",
-    "silly"
+    "oneself",
+    "alone",
+    "by oneself"
   ],
-  "context": "The word 'isekas' in Estonian refers to someone or something that is foolish or silly, often used to describe a person's actions or behavior that lack sense or wisdom."
+  "context": "The word 'isekas' in Estonian is used to indicate doing something by oneself or alone without help. It can be used both reflexively and as an adverb."
 }

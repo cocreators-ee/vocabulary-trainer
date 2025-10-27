@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen üksi kodus.",
-    "Üksildased inimesed vajavad sõpru.",
-    "Ta tundis end üksi suures linnas."
+    "Ta elab üksi.",
+    "Rohkem kui kaks tundi öösel oled sa üksi.",
+    "Olen alati kahtlenud, et keegi oleks saanud eksistentsiaalselt rahulolev üksi."
   ],
   "translation": [
     "alone",
+    "solitary",
     "lonely"
   ],
-  "context": "The word üksi is commonly used to describe someone or something that is alone, without others, and can also convey a sense of loneliness or isolation."
+  "context": "'üksi' is an adverb in Estonian meaning alone or solitary. It can also describe a feeling of loneliness when used contextually and often refers to being by oneself without company, whether physically or emotionally."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Se on kova paikka.",
-    "Hän on kovin väsynyt.",
-    "Kovan onnen vuoksi hän löysi sen."
+    "Kova ääni herätti minut.",
+    "Tällä radiolla on kova kuuluvuus.",
+    "Kevyt soittaa melkein kovaa."
   ],
   "translation": [
-    "hard",
-    "tough",
-    "severe"
+    "loud"
   ],
-  "context": "The word 'kova' in Finnish means something that is hard or tough, and it can be used to describe a difficult situation or a person's character."
+  "context": "Used to describe something loud or having a strong sound."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei ole kindel kas see on riista või mitte",
-    "Riista jaoks on vaja erilist luba",
-    "Ta on väga osav riista jahtimisel"
+    "Ta on kogu riistadega varustatud.",
+    "Möödus mehe käest ja tõi endale kätt üks riist.",
+    "Riistadega töötamine nõuab tähelepanu."
   ],
   "translation": [
-    "game",
-    "wild game"
+    "tool",
+    "instrument"
   ],
-  "context": "In Estonian, the word 'riista' generally refers to wild game, which are animals that are hunted for food or sport, and it is commonly used in the context of hunting and wildlife management."
+  "context": "Riista refers to a tool or an instrument, commonly used in the context of working with objects, fixing things, or using specific equipment for tasks."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma proovin seda kohe.",
-    "Ta proovis uut retsepti.",
-    "Proovile see kleit."
+    "Toide viidi proovioks laborisse.",
+    "Pakkunud näidist saadakse tagasi ainult siis, kui see on mõeldud ainuks proovile ja testi tegemiseks.",
+    "Uus toote versioon antakse klientidele proovi ja parandamiseks."
   ],
   "translation": [
-    "try",
-    "test",
-    "sample"
+    "for the test",
+    "as a sample"
   ],
-  "context": "The Estonian word 'proovile' relates to the act of trying or testing something. It can refer to attempting an action, sampling a product, or even putting something on trial (like clothing). In English, it is commonly used when someone attempts something new or assesses its quality."
+  "context": "'Proovile' is used to indicate that something is given or taken for testing, sampling, or evaluation purposes."
 }

@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen avaldanud oma arvamuse.",
-    "Ta on avaldanud kahtlusid selle kohta.",
-    "Firma on avaldanud survetöötaja vastu."
+    "Tema põhjendused ei olnud piisava tugevaks, et avaldada mõju asja käsitlemisele.",
+    "Ta soovis oma arvamust välja anda ja selleks kasutas tema õigust avastada.",
+    "Kolledži taotlemiseks on vaja avastada mitmes erinevas osas.",
+    "Mõned neist olid juba pärast esimest aastat suutnud oma kvalifikatsiooni välja anda."
   ],
   "translation": [
-    "to express",
-    "to declare"
+    "to declare",
+    "to state openly",
+    "to express"
   ],
-  "context": "The word 'avaldada' is commonly used in Estonian to convey the act of expressing or declaring one's thoughts, opinions, or feelings."
+  "context": "Avaldada is often used in the context of expressing, declaring, or stating something formally. It can be used both literally and metaphorically to show one's position, opinion, or intention clearly."
 }

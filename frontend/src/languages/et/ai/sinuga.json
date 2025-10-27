@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen sinuga koos",
-    "Ta on sinuga rahul",
-    "Nad on sinuga ühel nõul"
+    "Sinuga kõik hästi?",
+    "Minu sõbraga saab sinuga suurepalki läbi teha!",
+    "Kas sinuga on midagi küsitavat?"
   ],
   "translation": [
-    "with you",
-    "together with you"
+    "with you"
   ],
-  "context": "The word 'sinuga' is a postposition in Estonian that means 'with you', it is commonly used to indicate being together or accompanied by someone."
+  "context": "A phrase used to talk about being with or accompanying someone. It is the illative case of 'sina' (you) in Estonian, often translating directly as 'with you'. Commonly seen in everyday conversation."
 }

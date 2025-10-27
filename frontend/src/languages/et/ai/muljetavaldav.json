@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See oli muljetavaldav etendus.",
-    "Muljetavaldav vaade avanes mäe otsast.",
-    "Ta tegi muljetavaldava karjääri."
+    "Muljetavaldav pilt.",
+    "Ta tegi muljele väga muljetavaldava lõõgastuslausega.",
+    "Sellest filmist on saanud tõesti muljetavaldav."
   ],
   "translation": [
     "impressive",
-    "remarkable",
-    "stunning"
+    "striking"
   ],
-  "context": "The word 'muljetavaldav' in Estonian translates to 'impressive' or 'remarkable' in English. It is commonly used to describe something that evokes admiration due to its scale, quality, or effect."
+  "context": "Used to describe something that leaves a strong impression, whether positive or negative. Common in both formal and informal contexts when referring to appearances, performances, or events."
 }

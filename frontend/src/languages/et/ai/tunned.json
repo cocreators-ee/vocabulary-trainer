@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on väga tundlik isik.",
-    "See film tekitas temas tugevaid tundeid.",
-    "Ma tunnen su valu."
+    "Tunnen, et mul on õigus.",
+    "Tunded juba hirmu?",
+    "Ta tundis oma viga."
   ],
   "translation": [
-    "sensitive",
-    "feelings",
-    "to feel"
+    "feel",
+    "felt (past tense)",
+    "feeling"
   ],
-  "context": "The word 'tunned' comes from the Estonian verb 'tunda', which means 'to feel' or 'to sense'. It can also describe someone who is sensitive or emotional. In English, it’s commonly used to express emotions, physical sensations, or a general awareness of something."
+  "context": "'tunned' means 'felt' in English. It is the past tense form of 'to feel'. Commonly used to describe a person's emotional or physical sensation in the past, such as felt pain, felt happy, etc."
 }

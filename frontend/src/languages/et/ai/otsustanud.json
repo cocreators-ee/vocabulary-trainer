@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen otsustanud minna kinno.",
-    "Ta oli juba otsustanud , et läheb tööle.",
-    "Nad olid otsustanud koos ära kolida."
+    "Ta on otsustanud lahkuda oma kodu linna.",
+    "Meie meeskond on juba otsustanud uue treeneri valimise üle.",
+    "Ma tundsin, et ma olen väga kindel ja otsustanud selle tegevuse alustamiseks."
   ],
   "translation": [
     "decided",
-    "made up one's mind"
+    "determined"
   ],
-  "context": "The word 'otsustanud' in Estonian means to have made a decision or come to a conclusion, and it is commonly used in sentences to express that someone has reached a decision or resolved something."
+  "context": "'Otsustanud' means that someone has made a decision about something and is committed to it. It can be used to describe personal decisions, group choices or conclusions reached after consideration."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on minu isand.",
-    "Isand ei olnud rahul.",
-    "Ta oli hea isand."
+    "Tema isand pidi tõestama raha omandamise illegaalsuseks.",
+    "Isadast saab kasu ainult siis, kui see on hea juhendaja.",
+    "Poiss ei julge end oma isanda ees väga hästi tundma."
   ],
   "translation": [
-    "lord",
-    "master",
-    "owner"
+    "father",
+    "daddy"
   ],
-  "context": "The word 'isand' in Estonian refers to a master or lord, and is commonly used to describe someone of high social status or authority."
+  "context": "The word 'isand' refers to a father or daddy. It's commonly used in family contexts and can also be used more formally or affectionately depending on the situation."
 }

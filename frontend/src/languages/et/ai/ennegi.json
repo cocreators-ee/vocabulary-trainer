@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa ennegi süüa",
-    "Ta on ennegi kordi käinud",
-    "Negatiivne mõju ilmub ennegi"
+    "See ei juhtunud ennegi.",
+    "Ma ei usknda seda ennegi.",
+    "Kas sa arhi mõista mind? - Etnegi mitte."
   ],
   "translation": [
-    "too much",
-    "excessive",
-    "overly"
+    "not at all",
+    "by no means"
   ],
-  "context": "The word ennegi is used in Estonian to convey the idea of something being excessive or too much, often used to express a negative connotation."
+  "context": "'en' is a negative particle in Estonian while 'egi' is a form of the word 'ei' (which also can be used as a negation). The word 'ennegi' is an emphatic expression for total denial or negation and literally translates to 'not at all'. It emphasizes that something did not happen, cannot happen or should not happen."
 }

@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on väga surutud inimene.",
-    "Ma tunnen end täna suruna.",
-    "Suru peale tekitab valu."
+    "Ma ei mõista, miks sulle neil surid teada anda.",
+    "Kas sa üldse kuulad? Ma olen juba siin kolm korda küsinud ja sul on jäävastuseks ainult need sama surid vastused.",
+    "Ära mulle rohkem neid samu surida jutte ruttuda!"
   ],
   "translation": [
-    "pressed",
-    "under pressure",
-    "burdened",
-    "oppressed"
+    "lies",
+    "falsehoods"
   ],
-  "context": "The Estonian word 'surid' generally refers to a feeling of being pressured, burdened, or oppressed. It can describe both physical and emotional weight or stress. In English, it’s often used to convey a sense of heaviness or difficulty."
+  "context": "The word 'surid' is Estonian for 'lies'. It refers to false statements or deceptions, often used in the context of someone being dishonest."
 }

@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma panen kuulake peas ja lähen jooksma.",
-    "Palun seadista mu kuulake helitugevus.",
-    "See kuulake on mulle kingitud."
+    "Kuula, mida ma ütlen!",
+    "Ma ei kuula sind, kui sa peatusid rääkimast.",
+    "Tema suurim probleem oli see, et ta lihtsalt ei osanud kuulata."
   ],
   "translation": [
-    "earphone",
-    "headphones",
-    "headset"
+    "listen",
+    "hear"
   ],
-  "context": "Kuulake refers to earphones or headphones in Estonian. It is a device worn over or in the ears to listen to audio privately, commonly used with personal music players, phones, and computers."
+  "context": "'Kuulake' is primarily used as a command to 'listen'. It can also mean 'to hear' in the sense of perceiving sound. The base form is 'kuula', and it's commonly used in everyday communication when someone wants another person to pay attention."
 }

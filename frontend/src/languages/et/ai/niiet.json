@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen niiet väsinud",
-    "Ta on niiet kange",
-    "Niiet ei ole võimalik"
+    "Ma ei tea, miks sa nüüd nii ettevalmistuseta siia tuleksid.",
+    "Ta jättis oma arvamuse kõrvale ja lubas nii ette valmistada.",
+    "See on nii ette antud, et ma pean seda tegema."
   ],
   "translation": [
+    "thus",
     "so",
-    "then",
-    "in that case"
+    "therefore"
   ],
-  "context": "The word 'niiet' is used in Estonian to indicate a consequence or a conclusion based on previous information, similar to the English words 'so', 'then', or 'in that case'."
+  "context": "In Estonian, 'niiet' is used to indicate a conclusion or result based on previous statements. It can be translated as 'thus', 'so', or 'therefore'. It connects ideas logically in sentences, showing that one thing follows from another."
 }

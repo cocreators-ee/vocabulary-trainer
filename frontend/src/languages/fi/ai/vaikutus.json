@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Vaikutus oli odotettu.",
-    "Hänellä on suuri vaikutus yhteisöön.",
-    "Tämä asia voi vaikuttaa meidän elämään."
+    "Hänellä on suuri vaikutus tällä alalla.",
+    "Valtiohallituksen päätös teki selkeyttävän vaikutuksen kansan mielipiteisiin.",
+    "Kokeilumme antoi vahvan vaikutelman tutkijoiden mukaan."
   ],
   "translation": [
-    "influence",
-    "effect"
+    "effect",
+    "impact"
   ],
-  "context": "The word 'vaikutus' in Finnish generally refers to the power to affect or influence someone or something, and it is commonly used in contexts where discussing the impact or consequence of an action or decision."
+  "context": "'vaikutus' refers to the effect or influence that an action, event, or object has on something else. It is commonly used in both literal and figurative contexts, such as scientific effects or social impacts."
 }

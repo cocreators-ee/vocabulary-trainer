@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on täiuslik inimene.",
-    "See on täiuslik koht, et puhata.",
-    "Täiuslikud inimesed ei ole olemas."
+    "See oli täiuslik plaan.",
+    "Ma ei saa uskuda, et see on päriselt täiuslik.",
+    "Ta tundus olevat väga täiuslik mees."
   ],
   "translation": [
     "perfect",
-    "ideal",
     "flawless"
   ],
-  "context": "The word täiuslik is an Estonian adjective that means something or someone is perfect or flawless, having no defects or shortcomings."
+  "context": "The word 'täiuslik' is used to describe something that is perfect or flawless. It can be applied in various contexts such as describing a plan, an object, or even a person's behavior when it meets all expectations without any flaws."
 }

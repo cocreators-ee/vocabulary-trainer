@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Maha on suur",
-    "Mahaks nimetatakse seda kohta",
-    "Ta on maha läinud"
+    "Olen juba maha tõusnud.",
+    "Ta ei lähe kunagi maha.",
+    "Maha jäämine oli vajalik."
   ],
   "translation": [
-    "great",
-    "large"
+    "down",
+    "off",
+    "away"
   ],
-  "context": "The word 'maha' in Estonian means something or someone that is great or large in size or amount."
+  "context": "'maha' is an Estonian word used to indicate movement in a downward or away direction, often used in phrases like going down somewhere or removing something from above. It can also be part of compound verbs indicating actions related to lowering or taking off."
 }

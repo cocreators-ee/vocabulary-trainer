@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma ostan toodet poest.",
-    "Tooded on laual.",
-    "Tema tood oli väga suur."
+    "Ma olen tood aastaks.",
+    "Ta on väga toad inimese.",
+    "Toadus ei ole alati kasulik.",
+    "Tema suhtumine on liiga toadlik."
   ],
   "translation": [
-    "thing",
-    "item",
-    "object"
+    "prickly",
+    "spiny",
+    "thorny"
   ],
-  "context": "The word 'tood' in Estonian generally refers to an object or item, and it is commonly used in everyday conversations to talk about things or products."
+  "context": "The word 'tood' in Estonian is used as an adjective to describe something or someone that is difficult to approach, often due to being defensive, having a bad temper, or showing sharpness. It can be used both literally and metaphorically."
 }

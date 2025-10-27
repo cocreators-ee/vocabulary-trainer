@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma ei ole kindel ohtu kohta.",
-    "Ohtu on üks mu lemmikkohti.",
-    "Ta võttis perega pildi ohtu juures."
+    "Ma ei mõista, kus oht on.",
+    "See tegevus on väga ohtlik.",
+    "Ohtude vähendamine on oluline."
   ],
   "translation": [
     "danger",
-    "hazard",
     "risk"
   ],
-  "context": "The word 'ohtu' generally refers to a source of potential harm or something that can cause damage, and it is often used in the context of warning about possible threats."
+  "context": "Ohtu refers to danger or risk. It is commonly used to describe situations that could potentially cause harm or loss."
 }

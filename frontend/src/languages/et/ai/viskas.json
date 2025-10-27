@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta viskas mind kohe ära.",
-    "Ma ei ole kunagi vistki võimetu.",
-    "Kui ta viskas mu kaela ümber"
+    "Ta viskas palli laiali.",
+    "Lapsed viskasid kivid järve.",
+    "Mees viskas paberit prutti."
   ],
   "translation": [
     "threw",
-    "flung"
+    "tossed",
+    "cast"
   ],
-  "context": "The word 'viskas' is a verb in Estonian that means to throw or fling something, often with a sense of force or sudden movement."
+  "context": "'Viskas' means 'he/she/it threw' or 'they threw'. It is the past tense of the verb 'visata', which means to throw. Common in sentences describing actions involving throwing objects."
 }

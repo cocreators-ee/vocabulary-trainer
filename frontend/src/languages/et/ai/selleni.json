@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina läksin poodi ja ostsin selle kohvri.",
-    "See mees kandis suurt selleni õlal.",
-    "Kas sa võid mulle selle raamatu anda?"
+    "Selleni ei mõista keegi.",
+    "Ma tõi selle sõna selleni kirja.",
+    "Ei tohi jätta sellest midagi sellel sõbral selleni."
   ],
   "translation": [
-    "this",
-    "it"
+    "that word",
+    "this word"
   ],
-  "context": "The Estonian word 'selleni' is a demonstrative pronoun meaning 'this' or 'it', often used to indicate something specific being referred to. It can also function as an adjective."
+  "context": "Söna 'selleni' viitab mingile sõnale või asjale, mida on varem mainitud või teada. See võib tulla kasutusse arutlustel, kirjutamisel või selgituses."
 }

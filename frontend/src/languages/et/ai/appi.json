@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen appi vajanud.",
-    "Ta on hea appi.",
-    "Appi tuli kiiresti."
+    "Kutsin sind appi.",
+    "Jään sulle appi.",
+    "Minu sõber tuli mulle appi."
   ],
   "translation": [
     "help",
-    "assistance"
+    "support"
   ],
-  "context": "The word 'appi' in Estonian generally means help or assistance, and it is commonly used to describe a situation where someone needs support or aid."
+  "context": "'Appi' in Estonian is a noun commonly used to refer to help or support, often implying someone coming to assist another person. It can be used both literally and metaphorically."
 }

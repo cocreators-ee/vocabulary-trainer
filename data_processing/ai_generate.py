@@ -49,12 +49,18 @@ def main():
 
     verbose = False
     check = False
-    if "--check" in sys.argv[1]:
+    skip = 0
+
+    if "--check" in sys.argv:
         check = True
         analysis_agent = get_ai_analyze_agent()
 
-    if "--verbose" in sys.argv[1]:
+    if "--verbose" in sys.argv:
         verbose = True
+
+    if "--skip" in sys.argv:
+        skip_idx = sys.argv.index("--skip") + 1
+        skip = int(sys.argv[skip_idx])
 
     total_start = perf_counter()
     total_words = 0
@@ -66,11 +72,18 @@ def main():
             language = conf.LANGUAGES[language_id]
             print(f" ----- {language} -----")
             print("")
-            word_progress = tqdm(list(list_words(language_id)), colour="green")
+
+            word_list = list(list_words(language_id))
+            skip_words = min(len(word_list), skip)
+            word_list = word_list[skip_words:]
+            skip -= skip_words
+
+            word_progress = tqdm(word_list, colour="green", smoothing=0.05)
             for word in word_progress:
                 word_progress.set_description(f"{word:<24}")
                 reprocessing = False
                 total_words += 1
+
                 while True:
                     try:
                         word_prop = "word_in_" + language.lower()
@@ -122,9 +135,12 @@ def main():
 
     total_elapsed = perf_counter() - total_start
     per_word = total_elapsed / max(processed_words, 1)
+    processed_pct = processed_words / max(total_words, 1)
 
     print(
-        f"Processed {processed_words:,} words in {total_elapsed:.1f}s, took on average {per_word:.1f}s per word."
+        f"Processed {processed_words:,} ({processed_pct:.1f}%) words "
+        f"in {total_elapsed:.1f}s, "
+        f"took on average {per_word:.1f}s per word."
     )
 
     if check:

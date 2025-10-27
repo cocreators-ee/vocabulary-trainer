@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on südames hea inimene",
-    "Südames tunnen end ikka noorena",
-    "Kui sa oled südames õnnelik, siis ei ole sul midagi puudus"
+    "Tema tõeline südames on julgus.",
+    "Loomulikult meie suure perekonnakodu südames seisab ema.",
+    "Minu südames elavad head mälud."
   ],
   "translation": [
     "in the heart",
-    "at heart",
-    "heartfelt"
+    "in the center",
+    "at the heart of"
   ],
-  "context": "The word 'südames' is used in Estonian to describe something that is located or felt in the heart, either physically or emotionally. It can be used to convey a sense of sincerity or genuine feeling."
+  "context": "'südames' is the inessive case form of 'süda', which means heart or center. It indicates something being inside the heart, as a literal organ, metaphorically (central part), or emotionally."
 }

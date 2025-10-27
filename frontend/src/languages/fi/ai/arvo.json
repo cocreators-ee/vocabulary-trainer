@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Arvonlisävero on korkea.",
-    "Hän arvostaa ystäviään.",
-    "Arvo on asia, joka voi muuttua."
+    "Tämä on arvonnut koko elämän.",
+    "Hänellä on erinomainen arvovalmius.",
+    "Ettei meillä ole arvoa toisiamme kohtaan?"
   ],
   "translation": [
     "value",
-    "worth",
-    "esteem"
+    "worth"
   ],
-  "context": "The word 'arvo' in Finnish can be translated to English as 'value', 'worth', or 'esteem', and it is commonly used to describe the importance or significance of something or someone."
+  "context": "'Arvo' refers to the value or worth of something, either in a monetary sense, or more abstractly as in moral worth. It can also be used about people's respect for each other."
 }

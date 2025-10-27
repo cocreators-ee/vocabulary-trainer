@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma vaatasin teda näha.",
-    "Ta vaatasin mind.",
-    "Me vaatasime filmi."
+    "Ma vaatasin täna filmi.",
+    "Ta vaataski vahel raamatuid.",
+    "Pere pidi väga palju filmidesse vaatama."
   ],
   "translation": [
     "looked",
     "watched"
   ],
-  "context": "The word 'vaatasin' is the first person singular past tense form of the verb 'vaatama', which means to look or watch something."
+  "context": "The word 'vaatasin' is the past tense form of 'to look' or 'to watch', typically used for watching films, shows, or reading books. It implies that someone spent time observing something with interest or attention."
 }

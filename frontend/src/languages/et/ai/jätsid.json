@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma armastan jäätist.",
-    "Kas sa tahad jätsid?",
-    "Lapsed said jätsid."
+    "Oled sa juba kõik oma asjad jätnud?",
+    "Kas soovid mind endale jäada või oled juba keegagi seotud?",
+    "Ära jätka seda rohkem!"
   ],
   "translation": [
-    "ice cream",
-    "sorbet",
-    "gelato"
+    "left",
+    "stay with",
+    "continue doing"
   ],
-  "context": "The word 'jätsid' in Estonian refers to ice cream or frozen desserts. It is commonly used when talking about enjoying a sweet treat, especially during warmer months."
+  "context": "The word 'jätsid' is the second person past tense form of the Estonian verb 'jätta', meaning to leave, abandon or stop. It is used when someone has left something behind, stopped an action, or let go in different contexts."
 }

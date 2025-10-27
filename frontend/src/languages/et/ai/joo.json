@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ütlen joo",
-    "Ta vastas jah, mitte joo",
-    "Kas sa ütled joo või ei?"
+    "Joo siis midagi teist.",
+    "Ta jahutab, et sa joo täna üli.",
+    "Ei tea, miks sa ei joo teat käes."
   ],
   "translation": [
-    "yes",
-    "yeah",
-    "yup"
+    "you drink"
   ],
-  "context": "The word 'joo' is a casual way of saying yes in Estonian, often used in informal conversations among friends or in everyday situations."
+  "context": "Used to describe the action of drinking a beverage. It can be used in both literal and figurative contexts."
 }

@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Lintu lensi siivillään.",
-    "Siivet ovat olennaisia linnun lentokyvyssä.",
-    "Hän otti siiven ystäväänsä auttaakseen häntä."
+    "Kissa päätti kaivaa siippejä pitkin.",
+    "Hän on saanut yhden siiven ja hän ei pysty tai etää.",
+    "Siiven sylissä.",
+    "Kyllön rintasiivessä tõkkee.",
+    "Hän laski siiveksen täysin."
   ],
   "translation": [
-    "wing",
-    "fin"
+    "side",
+    "flank",
+    "ribcage"
   ],
-  "context": "The word siipi refers to a wing or a fin, and it is commonly used in Finnish to describe the appendage of an animal or machine that produces lift or thrust."
+  "context": "In Finnish, 'siipi' primarily means a side or flank in military terms. It can also refer to the ribcage as body part."
 }

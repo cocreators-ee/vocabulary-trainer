@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
+  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma ei saa aega raisata.",
-    "See võtab palju aega.",
-    "Aeg on raha."
+    "Mingil aegu ma tean.",
+    "Ta tegi midagi väga aegu.",
+    "Aegu läbi järve."
   ],
   "translation": [
-    "time",
-    "era",
-    "age"
+    "slowly"
   ],
-  "context": "The word 'aegu' in Estonian primarily translates to 'time' in English. It is used to refer to the concept of duration, a point in time, or the passing of moments. It can also sometimes be used more broadly to mean an era or age."
+  "context": "Used to describe something being done slowly or moving at a slow pace"
 }

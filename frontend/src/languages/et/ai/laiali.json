@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta laiali läks",
-    "Me käisime laiali",
-    "Nad on laiali löönud"
+    "Härra Vassiljev tõestas, et ta ei suutnud teisiti käia laiali,",
+    "Võtke need männersed asjad laiali, ma ei soovi neid näha.",
+    "Tema silmades kinnis pääs ja jäi sinna ikka, kuigi meie keerasime juba laiali."
   ],
   "translation": [
     "apart",
-    "asunder",
-    "in different directions"
+    "away"
   ],
-  "context": "The word 'laiali' in Estonian means to move or go in different directions, often implying a sense of separation or dispersal."
+  "context": "'Laiali' is used to indicate separation or distance, either physically moving something away or separating things from each other."
 }

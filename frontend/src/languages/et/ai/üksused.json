@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Üksused on väikesed.",
-    "Ta oskab üksusi kasutada.",
-    "Üksustest koosneb kogu organisatsioon."
+    "Ma olen teadlik üksuste vajadusest.",
+    "Ta õpetab last arvutada erinevaid üksusi.",
+    "Üksused on olulised täpse mõõtmise jaoks."
   ],
   "translation": [
     "units",
-    "modules"
+    "elements"
   ],
-  "context": "The word \"üksused\" refers to units or modules, and it is commonly used in Estonian to describe smaller parts of a larger system or organization."
+  "context": "'üksused' refers to 'units' or 'elements', commonly used in contexts like mathematics (units of measurement), sets, or individual items in a collection. It can also imply the basic components that form part of a larger system."
 }
