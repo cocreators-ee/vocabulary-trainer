@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on armukade inimene.",
-    "Armukade laps on rõõmsa meelega.",
-    "Armukadest inimestest ei piisa."
+    "Ta armukade oli täielik katastroof.",
+    "Nad said armukade pärast tüdrukut.",
+    "Armukade lõppes politseikonkurssiga."
   ],
   "translation": [
-    "lovely",
-    "dear"
+    "love triangle",
+    "affair",
+    "romantic entanglement"
   ],
-  "context": "The word 'armukade' is an adjective used to describe someone or something that is lovely, dear, or charming, often conveying a sense of affection or fondness."
+  "context": "The word 'armukade' in Estonian refers to a love triangle or an affair, typically involving emotional complications and often infidelity. It describes a situation where romantic feelings are divided between more than two people, leading to conflict and drama."
 }

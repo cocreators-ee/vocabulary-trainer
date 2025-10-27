@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tegi mulle pilgu.",
-    "Pilgud olid suunatud tema poole.",
-    "Ma ei saa pilku pealt tähelepanu."
+    "Ta viskas pilgustavalt oma poja peale.",
+    "Pilk läks üle ja ta hakkas nutma.",
+    "See oli lihtsalt pilguhetk."
   ],
   "translation": [
     "glance",
-    "look"
+    "look",
+    "peek",
+    "flash"
   ],
-  "context": "The word 'pilk' in Estonian generally refers to a quick or brief look at something or someone, often implying a sense of subtlety or discretion in the act of looking."
+  "context": "The Estonian word 'pilk' refers to a quick look or glance. It can also imply a fleeting moment or a flash of something, and is commonly used to describe someone looking at another person or thing briefly."
 }

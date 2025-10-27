@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on tapetud.",
-    "Tapetud inimene ei saa enam elada.",
-    "Politsei otsib tapetud mehe mõrvari."
+    "Meie tuba on tapetud lillemustriga.",
+    "Ta on tapetud murede pärast.",
+    "See sein on juba tapetud."
   ],
   "translation": [
-    "killed",
-    "murdered",
-    "slain"
+    "wallpapered",
+    "covered",
+    "decorated"
   ],
-  "context": "The word 'tapetud' is a past participle adjective in Estonian, which means someone or something has been killed or murdered, and it is commonly used to describe a person who has died as a result of violence or an attack."
+  "context": "The word 'tapetud' comes from the verb 'tapeetima', meaning to wallpaper or cover a surface with wallpaper. It can also be used figuratively to mean someone is overwhelmed or burdened by something, as if covered in worries. In this context it means 'covered' or 'decorated'."
 }

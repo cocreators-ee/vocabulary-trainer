@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma valetan endale uued kingad.",
-    "Ta valetas jalga mustad saapad.",
-    "Valetamine on hea viis riiete puhtana hoidmiseks."
+    "Ta hakkas mind valetama.",
+    "Ma ei taha sind enam valida.",
+    "Valetamine on halb."
   ],
   "translation": [
-    "to iron",
-    "ironing"
+    "to lie",
+    "lying",
+    "falsehood"
   ],
-  "context": "The word 'valetama' in Estonian means to iron something, like clothes, and is commonly used when talking about household chores or laundry."
+  "context": "The verb 'valetama' in Estonian means 'to lie' or 'to tell a falsehood'. It is commonly used to describe the act of intentionally misleading someone with untrue statements. The word can be conjugated into different tenses and forms, similar to 'to lie' in English."
 }

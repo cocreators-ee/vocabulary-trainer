@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oli hea kohaselt.",
-    "Kohaselt on see hea.",
-    "Ma olen rahul kohaselt."
+    "Vastavalt seadusele peab ettevõte maksma trahvi.",
+    "Kohaselt tema soovile telliti uus laud.",
+    "Me tegutseme kohaselt juhistele."
   ],
   "translation": [
-    "apparently",
-    "seemingly",
-    "by all accounts"
+    "according to",
+    "in accordance with",
+    "based on"
   ],
-  "context": "The word kohaselt is used in Estonian to express that something is apparent or seems to be the case, often based on available information or evidence."
+  "context": "The word 'kohaselt' in Estonian is an adverb that means 'according to', 'in accordance with', or 'based on'. It indicates that something is done or determined following a specific rule, instruction, desire, or standard. It’s commonly used to show compliance or alignment with something else."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa seksida",
-    "Seksida on raske",
-    "Ta üritas seksida"
+    "Ta seksib oma naist.",
+    "Nad seksivad peaaegu iga päev.",
+    "Ma ei tea, kas nad seksisid."
   ],
   "translation": [
-    "to succeed",
-    "to manage"
+    "to have sex",
+    "sexual intercourse",
+    "copulate"
   ],
-  "context": "The word seksida in Estonian means to succeed or manage to do something, and it is commonly used in sentences to describe achieving a goal or accomplishing a task."
+  "context": "The word 'seksida' is a verb in Estonian that directly translates to 'to have sex' or 'to engage in sexual intercourse'. It’s a fairly direct and commonly used term, though potentially considered vulgar depending on the context. It can be used in both formal and informal settings, but generally carries a strong connotation."
 }

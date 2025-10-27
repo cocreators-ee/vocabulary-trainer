@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on tapab.",
-    "See tapab võib olla ohtlik.",
-    "Tapab ei ole hea"
+    "Ta tapab ennast voodisse.",
+    "Mõned inimesed tapavad loomi toidu jaoks.",
+    "Politsei uurib tapmist."
   ],
   "translation": [
-    "killer",
-    "murderer"
+    "kills",
+    "slays",
+    "murders"
   ],
-  "context": "The word 'tapab' in Estonian refers to a person who commits murder or kills someone, and it is commonly used in criminal contexts to describe an individual who has taken someone's life."
+  "context": "The word 'tapab' in Estonian means 'to kill' or 'kills'. It is a verb used to describe the act of ending a life, whether intentionally (murder) or for sustenance (killing animals for food). It can also be used figuratively."
 }

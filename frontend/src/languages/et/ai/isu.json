@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on minu isu.",
-    "Isu oli väga paha.",
-    "Mu isu on teises riigis."
+    "Ta on väga isukas.",
+    "Mul ei ole isu midagi süüa.",
+    "See toit tekitab mulle isu."
   ],
   "translation": [
-    "father",
-    "dad"
+    "appetite",
+    "desire (for food)",
+    "hunger"
   ],
-  "context": "The word 'isu' in Estonian refers to one's male parent or a male ancestor, and it is commonly used in everyday conversations to talk about family relationships."
+  "context": "The word 'isu' in Estonian refers to a feeling of wanting to eat, or generally, a desire for something. It is commonly used when talking about hunger or appetite, but can also be used metaphorically to express a longing for something else."
 }

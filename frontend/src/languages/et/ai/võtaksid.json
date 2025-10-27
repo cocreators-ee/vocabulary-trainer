@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võtaksid suure kohvi.",
-    "Ta võtaksid meie auto juhi istmele.",
-    "Nad võtaksid kõige suurema koogi."
+    "Ma võtaksin selle kohe vastu.",
+    "Sa võtaksid vist ka midagi süüa?",
+    "Kui sa võtaksid aega, siis saaksime rääkida."
   ],
   "translation": [
     "would take",
-    "took"
+    "would accept",
+    "would have"
   ],
-  "context": "The word võtaksid is the conditional mood of the verb võtta, which means to take. It is commonly used in Estonian to express a hypothetical or uncertain situation where someone would take something."
+  "context": "The verb 'võtaksid' is the conditional form of 'võtta', meaning 'to take' or 'to accept'. It expresses what someone *would* do under certain circumstances. It’s often used to express a polite request, suggestion, or hypothetical situation."
 }

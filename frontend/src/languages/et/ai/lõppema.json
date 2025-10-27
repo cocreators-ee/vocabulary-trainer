@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen lõppema ära",
-    "Ta on lõppenud",
-    "See võib lõppema minna"
+    "Film lõppes äkki.",
+    "Pidu lõppes alles hommikul.",
+    "Ma ei tea, kuidas see lugu lõppema peaks."
   ],
   "translation": [
     "to end",
     "to finish",
-    "to terminate"
+    "to cease"
   ],
-  "context": "The word 'lõppema' in Estonian is used to describe something that is coming to an end or finishing, and it can be translated to English as 'to end', 'to finish', or 'to terminate', often used in the context of a process, activity, or period of time."
+  "context": "The verb 'lõppema' in Estonian means 'to end' or 'to finish'. It is used to describe the conclusion of an event, activity, or process. It can also refer to the termination of a relationship or situation."
 }

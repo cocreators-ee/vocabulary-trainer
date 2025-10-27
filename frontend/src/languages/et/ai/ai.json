@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan aiaviina",
-    "Ai on hea jook",
-    "Ait juues"
+    "Ma aitan sind hea meelega.",
+    "Ta ei saa mind aidata.",
+    "Kas sa võid mulle abi teha?"
   ],
   "translation": [
-    "cherry juice",
-    "fruit juice"
+    "help",
+    "assist",
+    "aid"
   ],
-  "context": "The word 'ai' in Estonian refers to a type of fruit, specifically cherry, and is commonly used in the context of food and drink."
+  "context": "The Estonian word 'ai' is a versatile verb meaning 'to help' or 'to assist'. It’s commonly used when offering or requesting assistance, and can be conjugated to fit various sentence structures."
 }

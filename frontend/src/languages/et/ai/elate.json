@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma elan koera.",
-    "Elate on hea meeleolu.",
-    "Tema elatuks on täna väga hea."
+    "Ta elas oma elu täiel rinnal.",
+    "Nad elavad linnas.",
+    "Elu on ilus."
   ],
   "translation": [
-    "mood",
-    "humor"
+    "life",
+    "to live"
   ],
-  "context": "The word 'elate' in Estonian generally refers to a person's mood or humor, and is commonly used to describe someone's emotional state or attitude."
+  "context": "The word 'elate' in Estonian means 'life' or 'to live'. It is a fundamental noun and verb used to describe existence, livelihood, and the state of being alive. It’s commonly used in everyday conversations and literature."
 }

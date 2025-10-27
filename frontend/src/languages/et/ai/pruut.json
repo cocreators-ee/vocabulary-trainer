@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen pruut",
-    "Pruudid tantsivad pulmas",
-    "Tema pruut on väga ilus"
+    "Ta on kaunis pruut.",
+    "Pruudil oli ilus kleit.",
+    "Nad tähistasid oma pulmi ja pruuti."
   ],
   "translation": [
-    "groom",
-    "bridegroom"
+    "bride",
+    "newlywed"
   ],
-  "context": "The word 'pruut' in Estonian refers to the man who is getting married, equivalent to the English word 'groom'."
+  "context": "The word 'pruut' in Estonian refers to a bride or newlywed. It is commonly used in the context of weddings and celebrations surrounding marriage."
 }

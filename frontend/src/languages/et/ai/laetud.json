@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on laetud tööga.",
-    "Laetud mees tuli koju.",
-    "Kui ma olin laetud, siis läksin magama."
+    "Ta oli laetud energiast.",
+    "Aku on laetud ja valmis kasutamiseks.",
+    "See tekitas temas laetud tunde."
   ],
   "translation": [
-    "tired",
-    "exhausted"
+    "loaded",
+    "charged",
+    "full of energy"
   ],
-  "context": "The word 'laetud' in Estonian means being physically or mentally exhausted, and it is commonly used to describe a state of fatigue after a long period of work or activity."
+  "context": "The word 'laetud' in Estonian generally means 'loaded' or 'charged', often referring to batteries or devices being filled with power. It can also be used figuratively to describe someone feeling full of energy or enthusiasm."
 }

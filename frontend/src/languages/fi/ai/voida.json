@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minulla on voida syödä",
-    "Hänellä ei ole voidaa ostaa autoa",
-    "Meillä ei ole tarpeeksi voidaa matkustaa"
+    "Hän ei voi hyvin.",
+    "Voitko auttaa minua?",
+    "Meidän täytyy voida luottaa toisiimme."
   ],
   "translation": [
     "can",
-    "be able to",
-    "have the opportunity to"
+    "to be able to",
+    "may"
   ],
-  "context": "The word 'voida' in Finnish is used to express ability or permission to do something, and it is commonly translated to English as 'can' or 'be able to'."
+  "context": "The Finnish verb 'voida' is a modal verb that expresses ability, possibility, or permission. It’s similar to ‘can,’ ‘could,’ or ‘may’ in English and often indicates what someone is capable of doing or what is allowed."
 }

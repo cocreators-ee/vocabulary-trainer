@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta armastab lollidega mängida.",
-    "Lollid on väga populaarsed laste seas.",
-    "Tallinnas on palju poode, kus müüakse lollisid."
+    "Ma armastan lollisid.",
+    "Lapsed said lollisid sünnipäevaks.",
+    "See pood müüb palju erinevaid lollisid."
   ],
   "translation": [
-    "dolls"
+    "candies",
+    "sweets",
+    "lollipops"
   ],
-  "context": "The word 'lollid' refers to dolls or toys in the shape of human figures, and it is commonly used in Estonian to describe playthings for children."
+  "context": "The word 'lollid' in Estonian refers to small, sweet confectionery items like candies or lollipops. It is commonly used when talking about treats given to children or enjoyed as a snack."
 }

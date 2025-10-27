@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võtate seda raamatu.",
-    "Ta võtab selle raamatu.",
-    "Nad võtavad neid raamatuid."
+    "Ma võtan selle vastu.",
+    "Kas sa võtad mind kaasa?",
+    "Ta võtab oma töö tõsiselt."
   ],
   "translation": [
-    "you take",
-    "to take"
+    "take",
+    "accept",
+    "receive"
   ],
-  "context": "The word võtate is the second person plural form of the verb võtta, which means to take something. It is commonly used in Estonian language to indicate the action of taking or grasping something."
+  "context": "The verb 'võtate' is a second-person plural imperative form of the verb 'võtta', meaning 'to take'. It can also mean 'to accept' or 'to receive' depending on the context. In everyday conversation, it’s used when asking someone to do something involving taking an object or accepting an offer."
 }

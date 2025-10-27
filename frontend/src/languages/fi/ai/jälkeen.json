@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tulen sinne jälkeen",
-    "Hän tuli juuri jälkeen",
-    "Olemme menneet kauppaan jälkeen"
+    "Hän lähti kotiin elokuvan jälkeen.",
+    "Juhlien jälkeen olin todella väsynyt.",
+    "Mitä tapahtui sen jälkeen?"
   ],
   "translation": [
     "after",
-    "following",
-    "subsequent to"
+    "behind",
+    "following"
   ],
-  "context": "The word jälkeen in Finnish is commonly used to indicate a time or place after something has happened, similar to the English preposition 'after'."
+  "context": "The word 'jälkeen' in Finnish primarily translates to 'after' in English. It indicates a point in time or event that occurs following another. It can also, less commonly, mean 'behind', but this usage is context-dependent."
 }

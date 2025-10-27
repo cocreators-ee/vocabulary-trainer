@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Häntä on minun ystäväni.",
-    "Hänen vanhempansa ovat hyvin rikkaita.",
-    "Hän ei ole kovin korkeassa asemassa."
+    "Hänellä on pitkä häntä.",
+    "Koira heilutti häntäänsä iloisesti.",
+    "Kissa jahtasi omaa häntäänsä."
   ],
   "translation": [
-    "her",
-    "she"
+    "tail",
+    "rear"
   ],
-  "context": "The word häntä is a pronoun in Finnish that refers to a female person or animal, similar to the English word 'her'."
+  "context": "The word 'häntä' in Finnish most commonly refers to the tail of an animal. It can also, less frequently, refer to a queue or line of people."
 }

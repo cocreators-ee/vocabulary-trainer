@@ -1,11 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen jahile"
+    "Mulle meeldib hunt.",
+    "See on väga ohtlik hunt.",
+    "Hundid elavad metsas."
   ],
   "translation": [
-    "dog"
+    "dog",
+    "wolf",
+    "hound"
   ],
-  "context": "In Estonian, the word 'hunt' is used to refer to a dog, particularly one that is used for hunting."
+  "context": "The Estonian word 'hunt' primarily translates to 'wolf' in English. It can also refer to a dog or hound, but the most common usage is for the wild animal. In broader contexts, it can sometimes carry negative connotations, similar to how 'wolf' is used metaphorically in English (e.g., a predatory person)."
 }

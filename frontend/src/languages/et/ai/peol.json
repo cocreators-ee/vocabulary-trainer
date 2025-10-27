@@ -1,11 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tantsis peol"
+    "Me läksime peole.",
+    "See oli väga hea peo!",
+    "Ta armastas peol tantsida."
   ],
   "translation": [
-    "at the party"
+    "party",
+    "celebration",
+    "gathering"
   ],
-  "context": "The word peol is used to describe something that happens at a party or celebration in Estonian."
+  "context": "The word 'peo' in Estonian refers to a social gathering or celebration, similar to the English words 'party', 'celebration', or 'festivity'. It is commonly used to describe events with music, dancing, and socializing."
 }

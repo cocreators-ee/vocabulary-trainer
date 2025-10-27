@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen endal kindel, et see on õige.",
-    "Ta oli endal veendunud, et tema plaan õnnestub.",
-    "Meil on endal kogemusi selle kohta."
+    "Ta ei taha endal olla.",
+    "Ma pean endal otsustama.",
+    "Nad said endal hakkama."
   ],
   "translation": [
-    "finally",
-    "at last"
+    "oneself",
+    "by oneself",
+    "on one's own"
   ],
-  "context": "The word 'endal' in Estonian means finally or at last, and it is used to indicate that something has happened after a long wait or at the end of a process."
+  "context": "The Estonian word 'endal' is a reflexive pronoun meaning 'oneself' or 'by oneself'. It indicates that the action of the verb reflects back on the subject. It’s commonly used to express doing something independently or for oneself."
 }

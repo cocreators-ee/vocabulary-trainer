@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen minutiga kindel, et see on õige.",
-    "Ta on minutiga üksildane inimene.",
-    "Me oleme minutiga valmis selleks."
+    "Ta tuli minutiga kohale.",
+    "See töö tehti minutiga.",
+    "Ma ei saa seda minutiga aru."
   ],
   "translation": [
-    "with me",
-    "by myself",
-    "on my own"
+    "in a minute",
+    "within a minute",
+    "instantly"
   ],
-  "context": "The word 'minutiga' is used to indicate that something is done alone or by oneself, and it is commonly used in Estonian language to express independence or self-sufficiency."
+  "context": "The Estonian word 'minutiga' is an adverbial form derived from the word 'minut', meaning 'minute'. It indicates that something happens or can be completed very quickly, within a short amount of time – essentially, ‘in a minute’ or ‘instantaneously’. It's used to express speed or immediacy."
 }

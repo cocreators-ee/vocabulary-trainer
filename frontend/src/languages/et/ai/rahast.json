@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma saan rahast selle eest",
-    "Ta on rahast tulnud",
-    "See on tehtud rahast"
+    "Ma panen raha rahast välja.",
+    "Rahast saab laenu võtta.",
+    "See on hea võimalus investeerida rahast."
   ],
   "translation": [
-    "from money",
-    "made of money"
+    "fund",
+    "capital",
+    "money"
   ],
-  "context": "The word 'rahast' is an Estonian preposition meaning 'from' or 'out of', often used in the context of finances, indicating that something originates from or is derived from a source of money."
+  "context": "The Estonian word 'rahast' commonly refers to a financial fund or capital, but can also simply mean money depending on the context. It is used in discussions about investments, loans, and general finances."
 }

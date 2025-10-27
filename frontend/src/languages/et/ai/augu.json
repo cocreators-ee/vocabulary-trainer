@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma istun augu taga.",
-    "Ta on augu ees.",
-    "Laps mängis augu juures."
+    "Ta auku läheb lahti.",
+    "Auk on seinas.",
+    "Palun sulge aken ja auk."
   ],
   "translation": [
-    "in front of",
-    "before"
+    "hole",
+    "opening",
+    "gap"
   ],
-  "context": "The word 'augu' in Estonian generally refers to a location or position, often translated to English as 'in front of' or 'before', and is commonly used to describe spatial relationships between objects or people."
+  "context": "The word 'augu' in Estonian refers to a physical opening or hole. It can be used literally, like a hole in the wall, or figuratively to describe an opening or gap in something else."
 }

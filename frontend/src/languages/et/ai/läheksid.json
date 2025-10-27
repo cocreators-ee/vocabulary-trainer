@@ -1,0 +1,15 @@
+{
+  "confidence": 0.95,
+  "understood": true,
+  "sentences": [
+    "Ma lähen sinna homme.",
+    "Kas sa läheksid minuga?",
+    "Ta ei läinudki."
+  ],
+  "translation": [
+    "go",
+    "would go",
+    "to go"
+  ],
+  "context": "The verb 'läheksid' is a conditional form of the Estonian verb 'minema', meaning 'to go'. It expresses what someone *would* do, or a polite request/suggestion. It’s often used in questions like ‘Would you go with me?’ or to express hypothetical situations."
+}

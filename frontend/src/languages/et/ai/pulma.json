@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mul on suur pulma, kuidas seda lahendada.",
-    "Ta võttis pulma rahuga.",
-    "Pulma tõttu ei saanud ta tööle minna."
+    "Meil oli pulmas palju lõbusat tantsu.",
+    "Ta unistas ilusast pulmast oma lapsepõlvesõbraga.",
+    "Pulmad olid suurejoonelised ja kõik külalised said hästi."
   ],
   "translation": [
-    "problem",
-    "trouble"
+    "wedding",
+    "marriage",
+    "nuptials"
   ],
-  "context": "The word 'pulma' in Estonian generally refers to a problem or trouble that someone is experiencing, and it is often used in the context of describing a difficult situation or challenge that needs to be overcome."
+  "context": "The word 'pulma' in Estonian refers to a wedding or marriage ceremony. It is commonly used to describe the event itself, as well as preparations for it."
 }

@@ -1,0 +1,15 @@
+{
+  "confidence": 0.95,
+  "understood": true,
+  "sentences": [
+    "Ta tõi lauale palju raamatuid.",
+    "Me sõime lauale kõik toidud.",
+    "Lauale on vaja panna ilus kangas."
+  ],
+  "translation": [
+    "on the table",
+    "to the table",
+    "onto the table"
+  ],
+  "context": "The word 'lauale' is a case form of the Estonian word 'laud', meaning 'table'. The addition of '-le' indicates direction or location *onto* the table, or that something is being brought *to* the table. It’s commonly used to describe placing items on a table or moving them towards it."
+}

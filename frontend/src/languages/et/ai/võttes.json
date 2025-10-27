@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võttes raamatu laualt.",
-    "Ta võttes kohe uue töö.",
-    "Nad võttes puhkeaja."
+    "Ta võttis raamatu riiulilt.",
+    "Võttes arvesse ilmateadet, otsustasime jääda koju.",
+    "Politsei võttis kurjategija kinni."
   ],
   "translation": [
     "taking",
-    "while taking"
+    "receiving",
+    "considering"
   ],
-  "context": "The word 'võttes' is a gerund form of the verb 'võtma', which means to take or to capture, and it is commonly used in Estonian to indicate an action that is happening simultaneously with another action."
+  "context": "The word 'võttes' is the short form (participle) of the verb 'võtma', which means 'to take', 'to receive', or 'to consider'. It’s often used as part of a longer phrase to indicate an action being performed while something else happens, or a condition that is being taken into account."
 }

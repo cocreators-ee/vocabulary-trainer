@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän on opettanut arkki ja muita aiheita.",
-    "Arkki on tärkeä osa suomen kieltä.",
-    "Opiskelija ei ymmärtänyt arkkia."
+    "Hänellä on arkku vintillä.",
+    "Laiva upposi arkin kanssa.",
+    "Arkki avattiin varovasti."
   ],
   "translation": [
-    "archbishop",
-    "chief"
+    "chest",
+    "ark (as in Noah's Ark)",
+    "coffin"
   ],
-  "context": "The word 'arkki' in Finnish generally refers to a high-ranking official or chief, often used in religious contexts as 'arkkipiispa' meaning archbishop."
+  "context": "The Finnish word 'arkki' can refer to a chest, a coffin, or an ark. It is commonly used to describe a container for storing items, but also has historical and religious connotations depending on the context."
 }

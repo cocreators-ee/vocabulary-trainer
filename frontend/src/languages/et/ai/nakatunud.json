@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen väga nakatunud.",
-    "Ta on nakatunud inimene.",
-    "Nakatunud laps vajab kohe arsti abi."
+    "Ta oli nakatunud haigusega.",
+    "Nakatunud vesi võib põhjustada kõhuvalu.",
+    "Arstid hoiatasid nakatunud inimeste eest."
   ],
   "translation": [
-    "exhausted",
-    "tired"
+    "infected",
+    "contaminated",
+    "affected"
   ],
-  "context": "The word nakatunud is an adjective in Estonian that means being extremely tired or exhausted, often due to lack of sleep or physical activity."
+  "context": "The word 'nakatunud' in Estonian generally means infected or contaminated, often referring to a disease or harmful substance. It is commonly used in medical contexts or when discussing environmental hazards."
 }

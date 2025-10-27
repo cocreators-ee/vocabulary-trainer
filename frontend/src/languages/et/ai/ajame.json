@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ajame selle üles",
-    "Meie ajame seda edasi",
-    "Nad ajasid mind ära"
+    "Meie perekonnal on ajame autoga reisida.",
+    "Ta läheb ajame rattaga tööle.",
+    "Nad veetsid ajame aias."
   ],
   "translation": [
-    "we drive",
-    "to drive",
-    "drove"
+    "drive",
+    "ride",
+    "spend time"
   ],
-  "context": "The word 'ajame' is the first person plural form of the verb 'ajama', which means to drive. It is commonly used in Estonian language to describe the act of operating a vehicle."
+  "context": "The Estonian word 'ajame' is often used to describe spending time doing an activity, or traveling by vehicle. It can be translated as 'drive', 'ride', or 'spend time' depending on the context."
 }

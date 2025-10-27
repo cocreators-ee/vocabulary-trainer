@@ -1,0 +1,15 @@
+{
+  "confidence": 0.6,
+  "understood": true,
+  "sentences": [
+    "Ta on väga valetas.",
+    "Ma ei tea, kas see on valetas või mitte.",
+    "See väide on täiesti valetas."
+  ],
+  "translation": [
+    "false",
+    "lie",
+    "untrue"
+  ],
+  "context": "The word 'valetas' in Estonian means false or a lie. It is commonly used to describe something that is not true or an untruthful statement."
+}

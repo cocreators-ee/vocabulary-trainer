@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks koju",
-    "Läkilapsed olid väga vaos",
-    "Tema läkidest sai arst"
+    "Ta läks kohe tööle.",
+    "Nad läksid kinno.",
+    "Kas sa lähed minuga?"
   ],
   "translation": [
-    "swill",
-    "slops",
-    "wash"
+    "went",
+    "gone",
+    "to go"
   ],
-  "context": "The word läki in Estonian typically refers to something that has been left over or is considered worthless, and is often used to describe food waste or other types of refuse."
+  "context": "The verb 'läki' is the past tense third-person singular form of the Estonian verb 'minema', meaning 'to go'. It indicates that someone went somewhere or left a place. It’s a very common and fundamental verb in everyday Estonian conversation."
 }

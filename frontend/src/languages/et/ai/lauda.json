@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Lauda on hea koht süüa.",
-    "Ta laudas mind väga.",
-    "Lauda ei olnud piisavalt suur."
+    "Ta lauda on väga vana.",
+    "Me ehitasime uue laua kööki.",
+    "Laua peal oli palju raamatuid."
   ],
   "translation": [
-    "praise",
-    "table"
+    "board",
+    "table",
+    "plank"
   ],
-  "context": "The word 'lauda' can be used in different contexts, such as praising someone or referring to a piece of furniture, like a table."
+  "context": "The Estonian word 'lauda' commonly translates to 'board', 'table', or 'plank' in English. It refers to a flat piece of material, often wood, used for various purposes such as construction, furniture, or surfaces."
 }

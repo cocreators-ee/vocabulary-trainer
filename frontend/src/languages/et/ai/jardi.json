@@ -1,0 +1,15 @@
+{
+  "confidence": 0.95,
+  "understood": true,
+  "sentences": [
+    "Ta jardi väga head õpetajat.",
+    "Jardi on raske töö, aga see on vajalik.",
+    "Nad said jardi eest tasu."
+  ],
+  "translation": [
+    "reward",
+    "pay",
+    "compensation"
+  ],
+  "context": "The Estonian word 'jardi' generally refers to a reward or payment for services rendered. It can also imply compensation for work done or damages incurred. In everyday conversation, it’s used similarly to ‘payment’ or ‘fee’, but sometimes carries the connotation of something earned through effort."
+}

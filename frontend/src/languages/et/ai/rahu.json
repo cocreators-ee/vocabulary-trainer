@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen rahus.",
-    "Rahu on ilus asi.",
-    "Ta võitis rahu auhinna."
+    "Ma tahan rahu.",
+    "Rahuga on kõik korras.",
+    "See koht on täielikus rahus."
   ],
   "translation": [
-    "peace"
+    "peace",
+    "calm",
+    "rest"
   ],
-  "context": "The word 'rahu' in Estonian generally refers to a state of tranquility or lack of conflict, and is commonly used in contexts where someone is describing a calm or serene environment."
+  "context": "The Estonian word 'rahu' translates to peace or calm in English. It is commonly used to express a state of tranquility, agreement, or the absence of conflict. It can also refer to inner peace or a peaceful resolution."
 }

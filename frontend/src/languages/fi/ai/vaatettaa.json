@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Vaatettaa häntä usein",
-    "Hän vaatettaa paljon huomiota",
-    "Tämä asia vaatettaa lisää tutkimusta"
+    "Hän vaatettaa lapsensa lämpimästi.",
+    "Vaatetetaan nukke uusiin asuihin.",
+    "Pitäisi vaatettaa koko perhe talven varalle."
   ],
   "translation": [
-    "demand",
-    "require",
-    "claim"
+    "to clothe",
+    "to dress (someone)",
+    "to outfit"
   ],
-  "context": "The word vaatettaa is commonly used in Finnish to mean demanding or requiring something, often in a formal or official sense."
+  "context": "The verb 'vaatettaa' means to provide someone with clothes, or to dress them. It is a causative form of the verb 'vaatetus', which refers to clothing itself. It implies an action done *to* someone else – you clothe *them*, rather than dressing yourself."
 }

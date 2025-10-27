@@ -1,11 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen väga kitt], "
+    "Minu kass on väga armas.",
+    "Kass magas päikese käes.",
+    "Nad said uue kassi."
   ],
   "translation": [
-    "glad"
+    "cat",
+    "feline"
   ],
-  "context": "The word kitt is used to express happiness or joy in Estonian."
+  "context": "The word 'kitt' in Estonian directly translates to 'cat' in English. It is a common domestic animal and the term is used in everyday conversation."
 }

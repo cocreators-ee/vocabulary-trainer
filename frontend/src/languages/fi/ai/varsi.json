@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Koiran häntä on pitkä ja karvainen.",
-    "Linnun varsi on hyvin kevyt.",
-    "Hänen varsiansa on melko pitkä."
+    "Hän mursi kätensä varren.",
+    "Puuhahti varsi poikki.",
+    "Tämä on ruusun varsi."
   ],
   "translation": [
-    "shaft",
-    "rod",
-    "stem"
+    "stem",
+    "shank",
+    "handle",
+    "arm"
   ],
-  "context": "The word 'varsi' in Finnish generally refers to a long, thin, often cylindrical object or part of an object, such as the shaft of a tool or the stem of a plant. It can also be used to describe a rod-like structure, like the tail of an animal."
+  "context": "The Finnish word 'varsi' commonly refers to the stem of a plant, but can also mean the handle of an object or even the arm (of a person or chair). It describes something long and relatively thin that connects parts together."
 }

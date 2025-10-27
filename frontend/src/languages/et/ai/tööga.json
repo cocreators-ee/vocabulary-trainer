@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen tööga.",
-    "Tööga inimene on alati hoolikas.",
-    "Tööga või mitte, see on küsimus."
+    "Ma tegin tööd kogu päeva.",
+    "Neil on palju tööd teha.",
+    "Ta otsib uut tööga seotud väljakutset."
   ],
   "translation": [
     "with work",
+    "at work",
     "working"
   ],
-  "context": "The word 'tööga' in Estonian means having a job or being employed, it is commonly used to describe someone who is working or has a profession."
+  "context": "The word 'tööga' is derived from the Estonian word 'töö', meaning 'work'. It’s often used as a prepositional phrase indicating being engaged in work, or relating to work. It can also imply ‘being at work’ or ‘with work’ in terms of having tasks to complete."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen lastud raamatut.",
-    "Ta on lastud muusikat.",
-    "Nad on lastud filmi."
+    "Ta lastud mind täiega.",
+    "Ära lase end lasta!",
+    "Ma ei taha sind lasta."
   ],
   "translation": [
-    "read",
-    "studied"
+    "to yell at",
+    "to scold",
+    "to shout at"
   ],
-  "context": "The word 'lastud' is the past participle form of the Estonian verb 'lugu', which means to read or study something, and it is commonly used in sentences to indicate that someone has read or studied a particular thing."
+  "context": "The Estonian word 'lastud' is a verb that means to yell at someone, or to scold them. It implies a harsh and often angry reprimand."
 }

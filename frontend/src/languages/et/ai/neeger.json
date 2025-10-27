@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on neeger.",
-    "Neeger ei ole valge.",
-    "Neegrite õigused on olulised."
+    "Ta on lihtsalt neeger, kes ei tea midagi.",
+    "Ma ei taha olla neeger sinu silmis.",
+    "Neegrid tegid seda tööd päevi."
   ],
   "translation": [
-    "negro",
-    "black person"
+    "nigger",
+    "black person (offensive)",
+    "Negro (historical and offensive)"
   ],
-  "context": "The word 'neeger' in Estonian refers to a black person or someone of African descent, and it is commonly used in a neutral or objective sense, although it can be considered offensive or derogatory in certain contexts, similar to the English word 'negro'."
+  "context": "This word is a deeply offensive racial slur used to denigrate Black people. It originated as a derogatory term during slavery and continues to be highly problematic and hurtful. While it has been reclaimed by some within the Black community, its use by non-Black individuals is almost universally considered unacceptable."
 }

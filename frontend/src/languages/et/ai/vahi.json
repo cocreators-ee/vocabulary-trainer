@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on vahi.",
-    "Vahisid olid kõikjal.",
-    "See on hea vahi."
+    "Ma panen asjad vahi.",
+    "Vahi on täis vanu pabereid.",
+    "Ta ei oska oma asju vahi sättida."
   ],
   "translation": [
-    "guard",
-    "watchman"
+    "place",
+    "box",
+    "order",
+    "condition"
   ],
-  "context": "A person who watches or guards something, often in a protective or defensive manner, commonly used to refer to security personnel or someone responsible for monitoring a particular area or object."
+  "context": "The Estonian word 'vahi' can refer to a place where things are kept, like a box or storage area. It also describes being in order or good condition, and can be used to mean 'to put something away'. It’s often related to organization and tidiness."
 }

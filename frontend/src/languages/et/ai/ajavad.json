@@ -1,15 +1,17 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ajavad auto juures.",
-    "Nad ajavad jalgpalli.",
-    "Ta ajab mööda teed."
+    "Ta ajas mind segi.",
+    "Me ajame asju täiega.",
+    "Ära aja tühja."
   ],
   "translation": [
-    "they drive",
-    "are driving",
-    "drive"
+    "drive",
+    "chase",
+    "spend (time)",
+    "stir up",
+    "confuse"
   ],
-  "context": "The word 'ajavad' in Estonian is a verb that means to drive, and it is commonly used in sentences to describe the act of operating a vehicle or moving something forward."
+  "context": "The Estonian verb 'ajama' is versatile and can mean to drive, chase, spend time, or even stir something up. It often implies a sense of movement or causing something to happen. The form 'ajavad' is the third-person plural present tense."
 }

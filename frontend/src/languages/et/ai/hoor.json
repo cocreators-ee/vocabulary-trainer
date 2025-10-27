@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on hoor",
-    "Hoor oli uhke mees",
-    "Hoored elasid rikkusega"
+    "Ta hooras käis laulmas.",
+    "Hoor on ilus ja vaba.",
+    "Meie hoor tantsib ringi."
   ],
   "translation": [
-    "whore",
-    "prostitute"
+    "cheer",
+    "joy",
+    "delight"
   ],
-  "context": "The word is commonly used to refer to a sex worker or someone who engages in prostitution."
+  "context": "The Estonian word 'hoor' generally refers to a cheer or joyful expression, often associated with singing or dancing. It can also denote a feeling of happiness and freedom."
 }

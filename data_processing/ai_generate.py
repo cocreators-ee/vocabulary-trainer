@@ -61,63 +61,67 @@ def main():
     processed_words = 0
     reprocessed = 0
 
-    for language_id in conf.LANGUAGES:
-        language = conf.LANGUAGES[language_id]
-        print(f" ----- {language} -----")
-        print("")
-        word_progress = tqdm(list(list_words(language_id)), colour="green")
-        for word in word_progress:
-            word_progress.set_description(f"{word:<24}")
-            reprocessing = False
-            total_words += 1
-            while True:
-                try:
-                    word_prop = "word_in_" + language.lower()
-                    request = {
-                        "source_language": language,
-                        "source_language_id": language_id,
-                        word_prop: word,
-                    }
+    try:
+        for language_id in conf.LANGUAGES:
+            language = conf.LANGUAGES[language_id]
+            print(f" ----- {language} -----")
+            print("")
+            word_progress = tqdm(list(list_words(language_id)), colour="green")
+            for word in word_progress:
+                word_progress.set_description(f"{word:<24}")
+                reprocessing = False
+                total_words += 1
+                while True:
+                    try:
+                        word_prop = "word_in_" + language.lower()
+                        request = {
+                            "source_language": language,
+                            "source_language_id": language_id,
+                            word_prop: word,
+                        }
 
-                    prompt = format_as_xml(request, root_tag="user")
+                        prompt = format_as_xml(request, root_tag="user")
 
-                    if verbose:
-                        print(f"{word} ", end="")
+                        if verbose:
+                            print(f"{word} ", end="")
 
-                    if is_word_defined(language_id, word):
-                        if not check:
-                            if verbose:
-                                print("... skipping")
-                            break
+                        if is_word_defined(language_id, word):
+                            if not check:
+                                if verbose:
+                                    print("... skipping")
+                                break
 
-                        if has_good_analysis(language_id, word, analysis_agent):
-                            if verbose:
-                                print("... skipping")
-                            break
-                        else:
-                            reprocessing = True
+                            if has_good_analysis(language_id, word, analysis_agent):
+                                if verbose:
+                                    print("... skipping")
+                                break
+                            else:
+                                reprocessing = True
 
-                    start = perf_counter()
-                    result = agent.run_sync(prompt)
-                    elapsed = perf_counter() - start
+                        start = perf_counter()
+                        result = agent.run_sync(prompt)
+                        elapsed = perf_counter() - start
 
-                    if verbose:
-                        print_output(elapsed, result.output)
-                    if result.output.understood:
-                        write_result(language_id, word, result.output)
+                        if verbose:
+                            print_output(elapsed, result.output)
+                        if result.output.understood:
+                            write_result(language_id, word, result.output)
 
-                    processed_words += 1
-                    if reprocessing:
-                        reprocessed += 1
-                    break
-                except UnexpectedModelBehavior:
-                    if verbose:
-                        print("Error, retrying...")
+                        processed_words += 1
+                        if reprocessing:
+                            reprocessed += 1
+                        break
+                    except UnexpectedModelBehavior:
+                        if verbose:
+                            print("Error, retrying...")
 
-        print("")
+            print("")
+    except KeyboardInterrupt:
+        print("Aborting...")
+        pass
 
     total_elapsed = perf_counter() - total_start
-    per_word = total_elapsed / processed_words
+    per_word = total_elapsed / max(processed_words, 1)
 
     print(
         f"Processed {processed_words:,} words in {total_elapsed:.1f}s, took on average {per_word:.1f}s per word."

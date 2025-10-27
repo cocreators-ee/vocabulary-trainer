@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma küsisin sinult nime.",
-    "Sa võid küsida sinult millegi kohta.",
-    "Ta rääkis sinult igasuguseid asju."
+    "Ma küsisin sinult midagi."
   ],
   "translation": [
     "from you",
-    "you"
+    "of you"
   ],
-  "context": "The word sinult is a pronoun in Estonian that means from you or you, and it is commonly used to indicate the person being addressed or referred to in a sentence."
+  "context": "The word 'sinult' is a personal pronoun in Estonian, indicating possession or direction *from* someone. It’s used to express that something is taken, received, or asked *from* the person being addressed. In English it corresponds to ‘from you’ or ‘of you’, depending on the context."
 }

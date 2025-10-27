@@ -1,0 +1,15 @@
+{
+  "confidence": 0.95,
+  "understood": true,
+  "sentences": [
+    "Ta läks poodi päästikule ostma.",
+    "Kas sa võtad päästikule kaasa?",
+    "Päästikule on vaja uut patareid."
+  ],
+  "translation": [
+    "trigger",
+    "lever",
+    "release"
+  ],
+  "context": "The word 'päästikule' refers to a trigger, lever or release mechanism. It is commonly used in the context of firearms, but can also refer to any device that initiates an action when activated."
+}

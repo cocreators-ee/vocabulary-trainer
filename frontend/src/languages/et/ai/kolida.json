@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta kolib paberit",
-    "Kolida tähendab ümber paigutamist",
-    "Kolimine on aeganõudva tegevuse"
+    "Ma pean kolima oma asjad juba homme.",
+    "Nad olid sunnitud kolima uude linna.",
+    "See oli raske otsus, aga me pidime kolima."
   ],
   "translation": [
-    "to shuffle",
-    "to move around"
+    "to move",
+    "to relocate",
+    "to transfer"
   ],
-  "context": "The word kolida is commonly used in Estonian to describe the act of shuffling or moving things around, often in a careless or disorganized manner."
+  "context": "The verb 'kolida' in Estonian means to move or relocate from one place to another. It is commonly used when discussing changing residences or locations."
 }

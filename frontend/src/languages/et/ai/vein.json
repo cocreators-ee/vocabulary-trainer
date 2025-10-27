@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen vein.",
-    "Veini ei ole.",
-    "Kas sa oled vein?"
+    "Ta veetis aega oma sõpradega.",
+    "Ma tegin vea otsustamisel.",
+    "See on väga hea vein!"
   ],
   "translation": [
-    "fool",
-    "idiot"
+    "time",
+    "mistake",
+    "wine"
   ],
-  "context": "The word 'vein' in Estonian is a noun that refers to a person who lacks good sense or judgment, and is commonly used in informal settings to express frustration or disappointment with someone's actions."
+  "context": "The Estonian word 'vein' is versatile and can mean 'time', 'mistake', or 'wine'. It’s important to understand the context to determine the correct meaning. The word is commonly used in everyday conversation, similar to its English counterparts."
 }

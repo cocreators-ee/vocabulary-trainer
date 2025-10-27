@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta kandis valgeid kingi.",
-    "Kingad olid väga pehmed.",
-    "Ma ei saa kingi seljast."
+    "Ma kannan uusi kingad.",
+    "Need kingad on mugavad.",
+    "Ta ostis endale ilusad kingad."
   ],
   "translation": [
-    "socks"
+    "shoes",
+    "footwear"
   ],
-  "context": "The word 'kingad' refers to a type of clothing that people wear on their feet, typically made of fabric or synthetic materials, and is commonly used in everyday conversation in Estonia."
+  "context": "The word 'kingad' in Estonian directly translates to 'shoes' in English. It is a common noun used to refer to footwear of any kind, and can be used in various contexts such as describing what someone is wearing, buying new shoes, or talking about the comfort of shoes."
 }

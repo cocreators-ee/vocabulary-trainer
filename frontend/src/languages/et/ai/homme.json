@@ -2,14 +2,13 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Homme läheb tööle.",
-    "Minu mees on väga tubli homme.",
-    "Homne päev tuleb ilus."
+    "Homme läheb poodi.",
+    "Minu vend on väga tugev homme.",
+    "Homne ilm on päikseline."
   ],
   "translation": [
     "man",
-    "husband",
     "tomorrow"
   ],
-  "context": "The word 'homme' in Estonian can mean 'man', 'husband', or 'tomorrow'. It is a common word used in everyday conversation. When referring to a person, it generally means an adult male. As 'tomorrow', it functions as an adverb of time."
+  "context": "The word 'homme' in Estonian can mean either 'man' or 'tomorrow', depending on the context. When referring to a person, it simply means 'man'. As an adverb of time, it indicates the day after today."
 }

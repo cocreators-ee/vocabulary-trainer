@@ -12,24 +12,30 @@ def main():
     total_start = perf_counter()
     processed_words = 0
 
-    for language_id in conf.LANGUAGES:
-        language = conf.LANGUAGES[language_id]
-        print(f" ----- {language} -----")
-        print("")
+    try:
+        for language_id in conf.LANGUAGES:
+            language = conf.LANGUAGES[language_id]
+            print(f" ----- {language} -----")
+            print("")
 
-        for word in list_words(language_id):
-            start = perf_counter()
-            print(f"{word} ", end="")
+            for word in list_words(language_id):
+                start = perf_counter()
+                print(f"{word} ", end="")
 
-            valid = has_good_analysis(language_id, word, agent)
-            elapsed = perf_counter() - start
+                valid = has_good_analysis(language_id, word, agent)
+                elapsed = perf_counter() - start
 
-            if valid:
-                print(f"is valid ({elapsed:.3f}s)")
-            else:
-                print(f"is BAD! 😢 ({elapsed:.3f}s)")
+                if valid:
+                    print(f"is valid ({elapsed:.3f}s)")
+                else:
+                    print(f"is BAD! 😢 ({elapsed:.3f}s)")
 
-        print("")
+                processed_words += 1
+
+            print("")
+    except KeyboardInterrupt:
+        print("Aborting...")
+        pass
 
     total_elapsed = perf_counter() - total_start
     per_word = total_elapsed / processed_words

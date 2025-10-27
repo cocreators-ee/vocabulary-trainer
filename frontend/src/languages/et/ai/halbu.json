@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen halbu sellega.",
-    "Ta on halbu selle plaaniga.",
-    "Me oleme halbu sellesse"
+    "See oli halbu ilma.",
+    "Ta tegi halbu otsuseid.",
+    "Halb uudis on see, et me peame lahkuma."
   ],
   "translation": [
-    "okay with that",
-    "agree with that",
-    "accept that"
+    "bad",
+    "evil",
+    "poor"
   ],
-  "context": "The word 'halbu' in Estonian is used to express agreement or acceptance of something."
+  "context": "The word 'halbu' is the partitive singular form of the adjective 'halb', meaning 'bad' or 'poor'. It’s used to describe something negative in quality or character. In English, it functions similarly to 'bad' when describing a situation, person, or thing."
 }

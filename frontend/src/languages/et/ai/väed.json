@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen väga väsinud",
-    "Ta on väga hea väädimees",
-    "Väed on suured"
+    "Väed läksid lahingusse.",
+    "Ta juhtis vägesid edukalt.",
+    "Meie väed on tugevamad kui vaenlase omad."
   ],
   "translation": [
+    "troops",
     "forces",
-    "powers",
-    "hosts"
+    "army"
   ],
-  "context": "The word väed in Estonian generally refers to large groups of people, such as armies or forces, and is commonly used in a military or historical context."
+  "context": "The word 'väed' in Estonian refers to a body of soldiers or military forces. It is commonly used in contexts related to war, defense, and military operations."
 }

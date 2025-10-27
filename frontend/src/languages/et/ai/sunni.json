@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen sunni taga.",
-    "Ta on väga sunni.",
-    "Sunni on hea omadus."
+    "Ta on väga sunni inimene.",
+    "Nad said sunnitud lahkuma.",
+    "Sunnitud töötingimused olid talumatud."
   ],
   "translation": [
-    "diligent",
-    "industrious",
-    "hardworking"
+    "sunny",
+    "forced",
+    "compelled"
   ],
-  "context": "The word 'sunni' in Estonian refers to someone who is diligent and hardworking, often used to describe a person's positive attitude towards work or responsibilities."
+  "context": "The Estonian word 'sunni' has multiple meanings depending on the context. It can mean 'sunny' as in bright weather, or it can mean 'forced' or 'compelled', indicating that someone is made to do something against their will."
 }

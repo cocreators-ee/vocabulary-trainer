@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta ütles, et see on perele hea film.",
-    "Ma olen perele kindel, et ta on õige.",
-    "Perele ilusilmne inimene!"
+    "Minu perele on väga armas.",
+    "Ta on mu perele kõige olulisem inimene.",
+    "Perele kuulub see maja."
   ],
   "translation": [
-    "damn it",
-    "hell"
+    "butterfly"
   ],
-  "context": "The word perele is an interjection used to express frustration or disappointment in Estonian."
+  "context": "The word 'perele' in Estonian translates to 'butterfly' in English. It is commonly used to refer to the insect known for its colorful wings and graceful flight."
 }

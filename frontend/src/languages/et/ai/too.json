@@ -2,15 +2,14 @@
   "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean seda juba ammu.",
-    "See on väga tore!",
-    "Ta on lihtsalt too."
+    "Ma tean, et see on nii, aga ma ei tea, miks.",
+    "See oli väga tore koht, kus käia.",
+    "Ta ütles, et ta tahab rohkem."
   ],
   "translation": [
-    "room",
-    "space",
-    "chamber",
-    "occasionally: thing"
+    "yes",
+    "too",
+    "also"
   ],
-  "context": "The word 'too' in Estonian can have multiple meanings. It most commonly translates to 'room', but it can also mean 'space' or even be used informally as a general placeholder like 'thing'. The usage depends heavily on the context of the sentence."
+  "context": "The Estonian word 'too' is a versatile adverb and particle with multiple meanings. It can function similarly to ‘yes’, ‘also’ or ‘too’ in English, indicating agreement, addition, or emphasis."
 }

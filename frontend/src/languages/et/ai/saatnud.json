@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
+  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen saatnud kirja.",
-    "Ta oli saatnud meile sõnumi.",
-    "Nad on saatnud talle pakki."
+    "Ma olen sellele mehele juba kirja saatnud.",
+    "Saatnud on palju aega selle projekti kallal.",
+    "Ta oli mulle pildi saatnud."
   ],
   "translation": [
-    "received",
-    "got",
-    "obtained"
+    "sent",
+    "forwarded",
+    "dispatched"
   ],
-  "context": "The word 'saatnud' is the past tense of the Estonian verb 'saama', which means to receive or get something. It is commonly used in sentences to indicate that someone has obtained or received something, such as a letter, message, or package."
+  "context": "The word 'saatnud' is the past active participle of the verb 'saata', meaning 'to send'. It indicates that someone has already sent something. In English, it’s commonly used to describe actions completed in the past, like ‘I have sent the email’ or ‘He had dispatched the package’."
 }
