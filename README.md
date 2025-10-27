@@ -2,6 +2,8 @@
 
 Tool to practice the vocabulary in a foreign language.
 
+Looking to use the software? https://vocabulary-trainer.cocreators.ee/
+
 - [User Interface design](https://miro.com/app/board/uXjVO0rdlRk=/?share_link_id=630009358943)
 - [Overall architecture](https://miro.com/app/board/uXjVO0r-ICc=/?share_link_id=733906777704)
 
