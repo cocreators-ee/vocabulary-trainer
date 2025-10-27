@@ -1,0 +1,14 @@
+{
+  "confidence": 0.9,
+  "understood": true,
+  "sentences": [
+    "Minulla ei ole autoa eikä myöskään taloa.",
+    "Hänellä ei ole veljeä eikä myöskään siskoa.",
+    "Heillä ei ole rahaa eikä myöskään ruokaa."
+  ],
+  "translation": [
+    "nor either",
+    "neither"
+  ],
+  "context": "The word 'eikä myöskään' is a Finnish conjunction used to indicate that two or more things are not present or true, similar to the English words 'nor' or 'neither'."
+}

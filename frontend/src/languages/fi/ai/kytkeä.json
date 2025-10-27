@@ -1,0 +1,15 @@
+{
+  "confidence": 0.8,
+  "understood": true,
+  "sentences": [
+    "Hän kytkee television.",
+    "Autoa ei voi kytkeä ilman avainkaulusta.",
+    "Käsittelyssä on mahdollisuus kytkeä se toimintaan."
+  ],
+  "translation": [
+    "switch on",
+    "turn on",
+    "connect"
+  ],
+  "context": "The word 'kytkeä' is commonly used in Finnish to mean switching something on, turning it on, or connecting it, often referring to electronic devices or machinery."
+}
