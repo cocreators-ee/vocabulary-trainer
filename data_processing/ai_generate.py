@@ -3,6 +3,7 @@ from time import perf_counter
 
 from pydantic_ai import UnexpectedModelBehavior, format_as_xml
 from rich import print
+from tqdm import tqdm
 
 from data_processing.ai import (
     get_ai_analyze_agent,
@@ -46,10 +47,14 @@ def main():
     agent = get_ai_generate_agent()
     analysis_agent = None
 
+    verbose = False
     check = False
-    if len(sys.argv) > 1 and sys.argv[1] == "--check":
+    if "--check" in sys.argv[1]:
         check = True
         analysis_agent = get_ai_analyze_agent()
+
+    if "--verbose" in sys.argv[1]:
+        verbose = True
 
     total_start = perf_counter()
     total_words = 0
@@ -60,7 +65,9 @@ def main():
         language = conf.LANGUAGES[language_id]
         print(f" ----- {language} -----")
         print("")
-        for word in list_words(language_id):
+        word_progress = tqdm(list(list_words(language_id)), colour="green")
+        for word in word_progress:
+            word_progress.set_description(f"{word:<24}")
             reprocessing = False
             total_words += 1
             while True:
@@ -74,15 +81,18 @@ def main():
 
                     prompt = format_as_xml(request, root_tag="user")
 
-                    print(f"{word} ", end="")
+                    if verbose:
+                        print(f"{word} ", end="")
 
                     if is_word_defined(language_id, word):
                         if not check:
-                            print("... skipping")
+                            if verbose:
+                                print("... skipping")
                             break
 
                         if has_good_analysis(language_id, word, analysis_agent):
-                            print("... skipping")
+                            if verbose:
+                                print("... skipping")
                             break
                         else:
                             reprocessing = True
@@ -91,7 +101,8 @@ def main():
                     result = agent.run_sync(prompt)
                     elapsed = perf_counter() - start
 
-                    print_output(elapsed, result.output)
+                    if verbose:
+                        print_output(elapsed, result.output)
                     if result.output.understood:
                         write_result(language_id, word, result.output)
 
@@ -100,7 +111,8 @@ def main():
                         reprocessed += 1
                     break
                 except UnexpectedModelBehavior:
-                    print("Error, retrying...")
+                    if verbose:
+                        print("Error, retrying...")
 
         print("")
 
