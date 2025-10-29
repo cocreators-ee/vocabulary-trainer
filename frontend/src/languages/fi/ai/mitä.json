@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mitä kuuluu?",
-    "En tiedä mitä tarkoitat.",
-    "Mitä sinä haluat?"
+    "Mikä sinun nimesi on?",
+    "Mitä haluat syödä?",
+    "Mitenkösin tämä sana?"
   ],
   "translation": [
-    "what"
+    "what",
+    "which"
   ],
-  "context": "\"Mitä\" is a Finnish interrogative pronoun meaning \"what\". It's used to ask questions about things or actions. It’s a very common word in everyday conversation."
+  "context": "The Finnish word 'mitä' is the partitive form of 'mikä', meaning 'what' or 'which'. It's commonly used in questions to inquire about objects, concepts, or information. In Finnish grammar, the partitive case often indicates an incomplete action or ongoing process, but in questions like this, it functions as the standard interrogative pronoun for asking about things."
 }

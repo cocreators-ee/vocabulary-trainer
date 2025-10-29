@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Teile on aitab.",
-    "Kas saad teile soovi?",
-    "Olen teie pank tellinud."
+    "Teile on täna vaba päev.",
+    "Mida teile meeldib?",
+    "Töötajatele anti auhind."
   ],
   "translation": [
-    "you (plural)",
-    "to you (plural)"
+    "to you (plural/formal)",
+    "for you (plural/formal)",
+    "to them",
+    "for them"
   ],
-  "context": "Used to refer to 'you' when addressing multiple people or one person formally. It can also mean 'to you' in certain contexts."
+  "context": "The Estonian word 'teile' is a dative case form used when addressing multiple people or showing respect to someone. It functions as both 'to you' and 'for you' in the plural/formal sense, similar to how French uses 'vous'. In some contexts, it can also mean 'to them' depending on the sentence structure."
 }

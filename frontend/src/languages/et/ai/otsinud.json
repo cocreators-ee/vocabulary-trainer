@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsinud teda kogu öö",
-    "Ta on otsinud uut töökohta",
-    "Nad otsinud kohta, kus saaksid puhata"
+    "Ma otsisin raamatu kõrvalt.",
+    "Ta on juba otsinud oma võtmeid.",
+    "Me otsisime head restorani linnas."
   ],
   "translation": [
-    "searched",
-    "looked for"
+    "looked for",
+    "searched for"
   ],
-  "context": "The word 'otsinud' is the past tense of the Estonian verb 'otsima', which means to search or look for something. It is commonly used in sentences to describe an action of searching or looking for someone or something."
+  "context": "The word 'otsinud' is the past tense (perfect form) of the Estonian verb 'otsima', which means 'to look for' or 'to search for'. It indicates a completed action in the past. The root 'ots-' relates to searching or looking, and '-inud' is the typical ending for perfect tense forms in Estonian."
 }

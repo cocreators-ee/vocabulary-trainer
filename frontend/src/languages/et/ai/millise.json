@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Millise värvi taksot sa iialgi ei näha?",
-    "Kus see millise lõuna peal asub?",
-    "Oled sa millise sündinud aastaga? Mis kuu?"
+    "Millise meie tulevik on?",
+    "Milliseid otsuseid sa teed?",
+    "Milliseid unenäos nägid?"
   ],
   "translation": [
-    "which",
-    "what"
+    "what kind of",
+    "which type of",
+    "sort of"
   ],
-  "context": "'millise' is an Estonian interrogative pronoun used to ask questions about selection or specific information. It's commonly used in sentences where the speaker is asking for clarification on options or details."
+  "context": "The Estonian word 'millise' is the illative case form of 'milline', meaning 'what kind of' or 'which type of'. It's used to ask about the quality, type, or category of something. In Estonian grammar, the illative case indicates movement into a place or, in this context, selection from a group. When asking questions about what kind of things someone has, wants, or is experiencing, 'millise' would be appropriate."
 }

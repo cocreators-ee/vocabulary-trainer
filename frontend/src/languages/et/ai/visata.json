@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma visatan talle.",
-    "Ta on visanud mind.",
-    "Me visatame koos."
+    "Ei visanud midagi.",
+    "Visa see pilt mulle üles!",
+    "Kas sa jälle visad?"
   ],
   "translation": [
-    "to visit",
-    "visit"
+    "to throw",
+    "to cast",
+    "to glance",
+    "to look quickly"
   ],
-  "context": "The word 'visata' in Estonian means to visit someone or someplace, and it is commonly used in the context of meeting or seeing someone, similar to how the word 'visit' is used in English."
+  "context": "The Estonian word 'visata' is a verb that can have several related meanings depending on context. It most commonly means 'to throw' or 'to cast' something physically. In some contexts, it can also mean 'to glance' or 'look at something quickly'. The word belongs to the first conjugation group in Estonian and follows regular conjugation patterns."
 }

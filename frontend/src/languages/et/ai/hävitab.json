@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta hävitab kiiresti",
-    "Hävitusprotsess on alanud",
-    "Hävitamiseks vajalikud vahendid puuduvad"
+    "Tema hävitab vanad dokumendid.",
+    "Metsa põleng hävitab kogu elustiku.",
+    "Selle protseduuriga hävitatakse ebavajalikud materjalid."
   ],
   "translation": [
-    "destroy",
-    "annihilate",
-    "wipe out"
+    "destroys",
+    "erases",
+    "eliminates",
+    "annihilates",
+    "wipes out"
   ],
-  "context": "The word hävitab is commonly used in Estonian to mean destroy or annihilate something, and it is often used in the context of getting rid of or eliminating something."
+  "context": "The word 'hävitab' is the 3rd person singular present form of the Estonian verb 'hävitama', which means to destroy, eliminate, or wipe something completely. It's used when someone or something causes complete destruction or elimination of another thing."
 }

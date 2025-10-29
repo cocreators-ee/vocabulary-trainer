@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta peaksite oma tööd tegema.",
-    "Me peaksime kohe lahkuma.",
-    "Sa peaksid rohkem magama."
+    " peaksin tegema tööd kodus",
+    " peaksin minema koju varakult",
+    " peaksin õppima rohkem"
   ],
   "translation": [
     "should",
     "ought to",
-    "is expected to"
+    "need to",
+    "have to"
   ],
-  "context": "The word 'peaksite' is a form of the verb 'peakma', which expresses obligation or expectation. It translates to 'should' or 'ought to' in English and indicates what someone is expected or advised to do."
+  "context": "The Estonian word 'peaksite' is a conditional form of the verb 'pidama', which means 'to must/should/have to'. It's in the first person singular conditional mood, equivalent to English 'I should' or 'I ought to'. This form indicates obligation or necessity but with less force than simple 'peaks' (must), suggesting something you are expected to do rather than absolutely required."
 }

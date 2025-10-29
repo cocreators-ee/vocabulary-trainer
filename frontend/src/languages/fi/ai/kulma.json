@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kulman takana oli piilo.",
-    "Kulmassa on pöytä ja tuoli.",
-    "Kulmasta avautuu näkymä puistoon."
+    "Kuinka monta kulmaa tässä muodostelmassa on?",
+    "Tämä huoneen kulma on terävä.",
+    "Kulmasta katsoen näkyi kaunis maisema."
   ],
   "translation": [
-    "corner",
-    "angle"
+    "angle",
+    "corner"
   ],
-  "context": "The word kulma refers to the corner or angle of something, such as a room or an object, and is commonly used in Finnish to describe spatial relationships or locations."
+  "context": "In Finnish, 'kulma' has two primary meanings: 1) an angle in geometry or mathematics, referring to the space between two intersecting lines; 2) a corner of a room, building, or object. It's a common noun that can be used in both geometric contexts and everyday descriptions of physical spaces."
 }

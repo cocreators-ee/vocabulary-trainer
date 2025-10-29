@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Nad hakkasid tantsima.",
-    "Ta hakkas lugema raamatut.",
-    "Me hakkasime hiljaks."
+    "Ta hakkas tööle kella kaheksa.",
+    "Meie lapsed hakkadid kooli minema.",
+    "Tema hakkas uue raamatu lugema."
   ],
   "translation": [
+    "started to begin",
     "began",
-    "started",
     "commenced"
   ],
-  "context": "The word 'hakkasid' is the past tense, third-person plural form of the verb 'hakkama', which means to begin or start doing something. It indicates that multiple subjects initiated an action."
+  "context": "The word 'hakkasid' is the second person plural past tense form of the Estonian verb 'hakata', which means 'to start' or 'to begin'. It specifically refers to what 'you all' (plural) started doing in the past. The '-sid' ending indicates it's past tense and plural, referring to multiple people."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kanna seda koormat",
-    "Ta kannab raskusi",
-    "Kannake mind üle silla"
+    "Kanna see kott koju.",
+    "Ta kannab kõrget kinga.",
+    "Meie kanname oma iseenda süütlust."
   ],
   "translation": [
-    "to carry",
-    "to bear"
+    "carry",
+    "wear (clothing)",
+    "bear",
+    "take"
   ],
-  "context": "The word 'kanna' in Estonian means to carry or bear something, often referring to physical objects or weights, and is commonly used in everyday conversations to describe the act of lifting or transporting things from one place to another."
+  "context": "In Estonian, 'kanna' is a verb that primarily means to carry something physically or wear clothing. It can also mean to bear responsibility or take something somewhere. The word belongs to the -ma infinitive conjugation class and follows regular Estonian verb conjugation patterns."
 }

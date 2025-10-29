@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga lukus peaga.",
-    "Ma ei saa aru, miks sa oled nii lukus.",
-    "Ära ole lukus, me saame sellega hakkama."
+    "Tolmuimeja on lukus.",
+    "Uks oli lukus.",
+    "Ta jooksis ukse juurest ära, sest see oli lukus."
   ],
   "translation": [
-    "stubborn",
-    "headstrong",
-    "inflexible"
+    "locked",
+    "sealed",
+    "closed with a lock"
   ],
-  "context": "The Estonian word 'lukus' describes someone who is stubborn, inflexible, or set in their ways. It can also imply a closed-minded attitude or an unwillingness to compromise."
+  "context": "The word 'lukus' is the partitive case form of the Estonian adjective 'lukkis', which means locked or sealed. It indicates that something is in a state of being secured with a lock, typically referring to doors, containers, or access points being closed and unable to be opened without a key."
 }

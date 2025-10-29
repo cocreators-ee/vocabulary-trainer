@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän nostaa painoa",
-    "Nostaa käsi ylös",
-    "Auto nostaa lastia"
+    "Minun pitäisi nostaa painoa.",
+    "Hän nosti käsivartensa ylös.",
+    "Ensin meidän täytyy nostaa lasta."
   ],
   "translation": [
     "to lift",
-    "to raise"
+    "to raise",
+    "to pick up"
   ],
-  "context": "The word 'nostaa' is commonly used in Finnish to describe the act of lifting or raising something, and it can be used in various contexts such as physical movement or figurative expressions."
+  "context": "The Finnish verb 'nostaa' means to lift, raise, or pick something up. It's used when bringing something from a lower position to a higher position, either physically (like lifting an object) or figuratively (like raising one's voice). The word can be conjugated in various tenses and forms depending on the subject and context."
 }

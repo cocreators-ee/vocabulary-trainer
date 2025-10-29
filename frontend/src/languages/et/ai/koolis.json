@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma käisin koolis",
-    "Koolis õpetatakse matemaatikat",
-    "Ta on koolis üks paremaid õpilasi"
+    "Koolis on tore õppida.",
+    "Mina käin koolis igapäevasti.",
+    "Lapsed jooksid koolis mängima."
   ],
   "translation": [
-    "in school",
-    "at school"
+    "at school",
+    "in school"
   ],
-  "context": "The word 'koolis' is used to indicate that something happens or is located in a school, and it is commonly used in Estonian to describe the location of an event or activity."
+  "context": "The word 'koolis' is the inessive case form of 'kool', which means 'school'. In Estonian, the inessive case (-s ending) indicates location within a place. So 'koolis' specifically means 'at school' or 'in school', indicating that someone is inside the school building or on school premises."
 }

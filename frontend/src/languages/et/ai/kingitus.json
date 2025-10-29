@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kingitin talle kingituse.",
-    "Kingitus oli väga ilus.",
-    "Ta tegi mulle üllatava kingituse."
+    "Tema kingitus oli väga ilus.",
+    "Sa oled mulle suurepärane kingitus.",
+    "Me ostasime teistele kingitusi jõuludeks."
   ],
   "translation": [
     "gift",
     "present"
   ],
-  "context": "The word 'kingitus' in Estonian refers to a gift or present that is given to someone, often as a sign of appreciation or celebration."
+  "context": "The word 'kingitus' is a noun in Estonian that means 'gift' or 'present'. It refers to something given voluntarily without payment, typically on the occasion of a birthday, wedding, holiday like Christmas (jõulud), or other special occasions. In its basic form, it's a singular nominative case word. The word can be declined in different cases and used in plural as well (kingitused)."
 }

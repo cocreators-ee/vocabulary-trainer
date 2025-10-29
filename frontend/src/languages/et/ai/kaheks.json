@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu isiklik kogukond on kaheks.",
-    "Jäid maha ja see põhjustas kaheksa probleemi.",
-    "Ta jagab end kaheks osaks."
+    "Tema on kaheks aastat vana.",
+    "Lapsed läksid metsa kaheks päevaks.",
+    "Meie pere koosneb kaheksast liikmest."
   ],
   "translation": [
     "eight",
-    "caused eight problems",
-    "into eight parts"
+    "into eight",
+    "to eight"
   ],
-  "context": "The word 'kaheks' in Estonian primarily means the number 'eight'. It can also be used to express division into eight parts or indicate something that causes multiple issues, typically related to quantity and segmentation."
+  "context": "The word 'kaheks' is the Estonian partitive case form of the number 'kaks', meaning 'two'. In this case, it's specifically 'eight' in different cases. However, looking at the context more carefully, 'kaheks' appears to be a numeral form that can function as both an ordinal and cardinal number depending on usage. It typically means 'eight' when referring to quantity or position."
 }

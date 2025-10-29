@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Menemme sisään kauppaan.",
-    "Hän tuli sisään ovesta.",
-    "Sisäänkäynti on suljettu."
+    "Tule sisään!",
+    "Ovi on auki tule sisään.",
+    "Mene suoraan sisään vasemmasta ovesta."
   ],
   "translation": [
     "inside",
-    "in"
+    "in",
+    "into"
   ],
-  "context": "The word 'sisään' is a Finnish adverb that means 'into' or 'inside', it is commonly used to indicate movement into a place or space."
+  "context": "\"Sisään\" is a Finnish adverb that means 'inside', 'in', or 'into'. It indicates movement towards the interior of something or being inside. This word is commonly used to invite someone to enter a place, like saying \"come in\" in English. It's one of the basic directional words in Finnish and often appears with verbs of motion."
 }

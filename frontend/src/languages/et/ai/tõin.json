@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tõin raamatu kaasa.",
-    "Ta tõinud mulle kohvi.",
-    "Nad tõid meile uudised."
+    "Ma tõisin kodu poole.",
+    "Ta tõi kaasa head meeleolu.",
+    "Meie tõime kohti palju."
   ],
   "translation": [
-    "brought"
+    "brought",
+    "carried",
+    "took"
   ],
-  "context": "The word 'tõin' is the first person singular form of the past tense of the Estonian verb 'tooma', which means to bring. It is commonly used in sentences where the subject brings something or someone to a place."
+  "context": "Tõin is the first person singular past tense form of the Estonian verb 'tulla', which means to come, arrive, or bring. In this case, it specifically refers to bringing or carrying something somewhere in the past."
 }

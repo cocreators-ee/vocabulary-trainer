@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jõuan homme koju",
-    "Ta jõudis õigeaegselt kooli",
-    "Jõuame sinna ühiselt"
+    "Jõuame siirdekiiresti.",
+    "Ta ei jõudnud ajaga kohale.",
+    "Me peame veel jõudma linna."
   ],
   "translation": [
     "to reach",
-    "to arrive"
+    "to arrive",
+    "to succeed",
+    "to make it"
   ],
-  "context": "The word jõuda is commonly used in Estonian to indicate the act of arriving at a destination, whether physical or metaphorical."
+  "context": "The Estonian word 'jõuda' is a verb meaning to reach, arrive, or successfully get somewhere. It can refer to physical arrival (like reaching a destination) as well as achieving success in something. The verb appears in different conjugated forms depending on the subject and tense - for example, 'jõuame' means we will arrive/reach, 'ei jõudnud' means did not reach/arrive, and 'jõudma' can be used with other words to express the concept of needing or having to reach somewhere."
 }

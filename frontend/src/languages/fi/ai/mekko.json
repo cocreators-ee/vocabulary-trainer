@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hänellä on punainen mekko.",
-    "Mekot ovat naisten suosiossa.",
-    "Minulla on uusi mekko."
+    "Minulla on uusi mekka.",
+    "Tytöt pukeutuivat kauniisiin mekkoihin juhliin.",
+    "Mekko sopii hyvin tähän tilaisuuteen."
   ],
   "translation": [
-    "dress"
+    "dress",
+    "gown"
   ],
-  "context": "The word 'mekko' refers to a type of clothing, specifically a dress, and is commonly used in Finnish to describe women's garments."
+  "context": "The Finnish word 'mekko' means 'dress' or 'gown' in English. It refers to a garment worn by women and girls that typically has a bodice and a skirt, often worn for formal occasions or everyday wear depending on the style."
 }

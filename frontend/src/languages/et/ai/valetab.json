@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta valetab mind.",
-    "Ma olen teda valetanud.",
-    "Kui ta valetab, siis ta ei ole aus."
+    "Ei valeta, ta on alati aus.",
+    "Ta valetas mulle eile.",
+    "Keskiöllä laps valetab oma vanematele."
   ],
   "translation": [
     "lies",
-    "deceives"
+    "tells a lie",
+    "is lying"
   ],
-  "context": "The word 'valetab' is a verb in Estonian that means to lie or deceive someone, and it is commonly used in situations where someone is intentionally providing false information."
+  "context": "The word 'valetab' is the third person singular present form of the Estonian verb 'valema', which means 'to lie'. It refers to the act of saying something that is not true, typically with intent to deceive or mislead. In Estonian grammar, this follows regular conjugation patterns for -ma verbs in the present tense."
 }

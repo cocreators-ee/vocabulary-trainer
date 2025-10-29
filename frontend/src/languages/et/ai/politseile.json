@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta andis sõnumi politseile.",
-    "Rünnak tõttis hädaabinumber politseile.",
-    "Usaldage politseile igasuguseid kahtlaseid asju."
+    "Politseile tuli palju küsimusi.",
+    "Ta läks politseile abipalvega.",
+    "Kõik andmed anti üle politseile."
   ],
   "translation": [
     "to the police",
+    "toward the police",
     "for the police"
   ],
-  "context": "The word 'politseile' in Estonian means 'to/for the police'. It is the illative plural form of 'politsei', which means 'police'. This form is used when indicating something being given or directed to a group (the police) in sentences such as 'I gave a report to the police' or 'The order was issued for the police.'"
+  "context": "The word 'politseile' is an Estonian directional case form (allative) that indicates movement toward or destination to the police. It's formed by adding '-le' suffix to the base word 'politsei' (police), showing directionality rather than location. This case is used when someone goes to visit, approach, send something to, or direct attention toward the police. The allative case in Estonian answers the questions 'where to?' or 'toward whom/what?'."
 }

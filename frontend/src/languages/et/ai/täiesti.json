@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen täiesti kindel, et see on õige.",
-    "Ta oli täiesti üksi.",
-    "Täiesti selge, et ta ei tule enam tagasi."
+    "Tema on täiesti eriline.",
+    "Ma olen täiesti kindel oma otsuses.",
+    "See asi on täiesti mõttetu."
   ],
   "translation": [
     "completely",
+    "totally",
     "entirely",
-    "totally"
+    "absolutely"
   ],
-  "context": "The word 'täiesti' is an adverb in Estonian that means to the fullest extent or degree, often used to emphasize a statement or action."
+  "context": "The word 'täiesti' is an Estonian adverb that means completely, totally, entirely, or absolutely. It's used to emphasize the totality or completeness of something. This word modifies adjectives and other adverbs to indicate a full degree or extent. For example, in 'Tema on täiesti eriline' (He/she is completely unique), it emphasizes the total uniqueness rather than just partial."
 }

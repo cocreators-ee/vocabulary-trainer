@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen siitkaudu koju.",
-    "Palun vabandust, kas ma saan siitkaudu minna?",
-    "Ta tuli siitkaudu eile."
+    "Siitkaudu palun!",
+    "Saage siitkaudu kohe minema.",
+    "Kas teate kuidas läheb siitkaudu?"
   ],
   "translation": [
-    "through here",
-    "via this route",
-    "by way of here"
+    "this way",
+    "from here",
+    "via this path"
   ],
-  "context": "The word 'siitkaudu' in Estonian means 'through here' or 'this way'. It indicates movement or passage happening via a specific location. It is commonly used for directions or describing how someone traveled from one place to another."
+  "context": "The word 'siitkaudu' is a directional adverb in Estonian that indicates direction starting from the current location. It combines 'siit' (from here) and 'kaudu' (way/path), meaning literally 'from here way'. It's used to indicate someone should move or look in a particular direction originating from where they are currently positioned."
 }

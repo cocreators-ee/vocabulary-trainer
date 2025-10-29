@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta ilmus äkki ajateel.",
-    "Uus film ilmus täna kinodes.",
-    "Pärast pausi ilmus ta taas avalikkuse ette."
+    "Ilmus uus raamat.",
+    "Ta ilmus ootamatult kohtumisele.",
+    "Päike ilmus pilvede taha."
   ],
   "translation": [
     "appeared",
     "emerged",
-    "came out",
-    "showed up"
+    "came into view"
   ],
-  "context": "The word 'ilmus' in Estonian generally means to appear, emerge, or come out. It describes something becoming visible or known, often unexpectedly. It can be used for physical appearances, the release of new things (like films), or a return after an absence."
+  "context": "The Estonian word 'ilmus' is the past tense of the verb 'ilmuda', which means to appear, emerge, or come into view. It describes something that has suddenly become visible or manifested itself."
 }

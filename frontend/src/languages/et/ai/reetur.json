@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on reetur ja teda ei saa usaldada.",
-    "Nad süüdistasid teda reeturluses.",
-    "Reetur andis vaenlasele meie saladused."
+    "Ta on reetur.",
+    "Reetis ta oma sõpru.",
+    "Reetmise eest saab karistuse."
   ],
   "translation": [
     "traitor",
     "betrayer",
-    "defector"
+    "deserter"
   ],
-  "context": "The word 'reetur' in Estonian refers to someone who betrays a person, group, or principle. It is commonly used to describe someone disloyal or treacherous."
+  "context": "The Estonian word 'reetur' is a noun that refers to someone who betrays their country, organization, friends, or principles. It comes from the verb 'reetama' (to betray). The word carries strong negative connotations and is used to describe people who have broken trust through disloyalty."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Mind puhkama kohale.",
-    "Mingi heleda kohale asuda.",
-    "See on oma kohale juba mõeldud."
+    "Kõik on kohale jõudnud.",
+    "Palun tulete meie juurde kohale.",
+    "Lapsed ootavad sind kohale."
   ],
   "translation": [
-    "place",
-    "location",
-    "to place"
+    "here",
+    "to arrive",
+    "to come",
+    "to show up"
   ],
-  "context": "The word 'kohale' in Estonian is commonly used to refer to a specific place, location or the act of placing something somewhere. It can be used both literally and figuratively depending on context."
+  "context": "The Estonian word 'kohale' is an adverb that indicates arrival or presence at a location. It's formed from the word 'koht' (place, location) with the '-le' suffix indicating direction towards a place. When used in sentences, it typically shows that someone has arrived at or come to a specific location."
 }

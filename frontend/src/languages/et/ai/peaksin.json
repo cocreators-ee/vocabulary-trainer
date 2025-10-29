@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma pean peaksin oma asju.",
-    "Ta ei peaks sind petma.",
-    "Me peaksime kohe lahkuma."
+    "Peaksin homme tööle minema.",
+    "Ma peaksin rohkem aega veetma perega.",
+    "Kas peaksin võtma kaasa oma taskulambi?"
   ],
   "translation": [
-    "must",
     "should",
-    "ought to"
+    "ought to",
+    "have to"
   ],
-  "context": "The word 'peaksin' is a form of the verb 'peema', which expresses obligation or necessity. It translates to 'must', 'should', or 'ought to' in English and indicates what someone is expected or required to do."
+  "context": "'Peaksin' is the conditional form of the verb 'pidama' (to have/should) in Estonian, specifically the first person singular present conditional. It expresses obligation, necessity or what one should do. The word combines the stem 'pea-' with the conditional suffix '-ksin' and indicates a speaker's sense of duty or recommendation about an action that is advisable but not absolutely required."
 }

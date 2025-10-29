@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minua odottaa iloista yllätystä.",
-    "Hän katsoi minua merkitsevästi.",
-    "Minua pelottaa pimeä."
+    "Minä rakastan sinua.",
+    "Hän auttaa minua.",
+    "Kuka on minua?"
   ],
   "translation": [
     "me",
-    "I",
     "myself"
   ],
-  "context": "The word minua is a form of the Finnish personal pronoun minä, which means me or I, and is used as an object in sentences, often to refer to the speaker themselves."
+  "context": "'Minua' is the partitive case form of the Finnish pronoun 'minä', which means 'I'. The partitive case is used in Finnish to indicate partial action, incomplete states, or as an object in certain contexts. When used with verbs like 'rakastan' (love), 'auttaa' (help), it shows who is being loved or helped. It's also used after prepositions and with some verbs that take a partitive object."
 }

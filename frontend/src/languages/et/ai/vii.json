@@ -1,15 +1,14 @@
 {
-  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ma viin kodusse.",
-    "Ta oli juba vinnud.",
-    "Vasakpoolselt tõusis viin."
+    "Tahan vii koju.",
+    "Meil on vaja vii palju asju.",
+    "Kas sa suudad vii need raamatud?"
   ],
   "translation": [
-    "go",
-    "went",
-    "gone"
+    "take",
+    "carry",
+    "bring"
   ],
-  "context": "'vii' is a form of 'minna', which means to go or move in Estonian. It represents different tenses like past and present participle."
+  "context": "The Estonian word 'vii' is a verb that means to take, carry, or bring something from one place to another. It's in its basic form (infinitive) and is used when talking about the action of transporting objects or people."
 }

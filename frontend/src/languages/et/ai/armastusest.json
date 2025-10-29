@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema kõikjal on armastusest pärssiv atmosfäär.",
-    "Armastusest sündib muusika, kirjandus ja mälestused aja kohta.",
-    "Mõned inimesed tunduvad olla armastusest vaba."
+    "Armastus on ilus tunne.",
+    "Ma olen armastuses sinuga.",
+    "Tema laulis armastusest laule."
   ],
   "translation": [
-    "from love",
     "of love",
-    "in love"
+    "about love",
+    "from love"
   ],
-  "context": "'armastusest' is the elative (exiting from) form of 'armastus', meaning love. It's used to express something that comes from, involves or is characteristic of love."
+  "context": "The word 'armastusest' is the elative case form of the Estonian noun 'armastus', meaning 'love'. The elative case indicates movement from or separation, so this form means 'out of love', 'from love', or 'about love'. It's used when something originates from love or is expressed in relation to love. For example, if someone sings songs about love, they sing 'laule armastusest' (songs of/about love)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Talon lämpö on kohtuullinen.",
-    "Lämpö tulee kesäkuussa.",
-    "Jääkaapin lämpö oli liian korkea."
+    "Lämmön suuri on tänään.",
+    "Miten paljon lämpöä tämä laite tuottaa?",
+    "Kylmässä ilmassa on vähemmän lämpöä kuin kuumassa."
   ],
   "translation": [
     "heat",
-    "warmth"
+    "warmth",
+    "temperature"
   ],
-  "context": "The word lämpö refers to heat or warmth in a general sense, and it is commonly used to describe the temperature of a room, object, or environment."
+  "context": "The Finnish word 'lämpö' means heat or warmth and refers to the thermal energy of a system. It is commonly used in everyday language to describe how hot something is, similar to how we use 'heat' or 'temperature' in English. The word can be found in various contexts such as weather descriptions ('lämmin ilma' - warm air), technical discussions about heat transfer, and expressions concerning physical warmth."
 }

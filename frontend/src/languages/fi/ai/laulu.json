@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulle on vaikea kuunnella laulua.",
-    "Hän järjestää konsertin tulevaisuudessa ja laulu on ensimmäinen kappale.",
-    "He hakevat kilpailuun jokaisen laulun eri ympyröissä."
+    "Minä rakastan laulua.",
+    "Tämä on kaunis laulu.",
+    "Kuinka monta laulua tässä albumissa on?"
   ],
   "translation": [
-    "song"
+    "song",
+    "singing",
+    "tune"
   ],
-  "context": "Laulu refers to a musical composition or song, often associated with singing and music performance. It can also refer to the act of singing itself in certain contexts."
+  "context": "The Finnish word 'laulu' means song or singing in English. It is a noun that refers to a musical composition with lyrics or the act of singing itself. In Finnish, it can appear in different forms such as 'laulua' (partitive case) meaning 'a song' or 'songs', and 'laulut' (plural nominative) meaning 'songs'."
 }

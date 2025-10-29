@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtaksin suure joogi.",
-    "Ta võtaks kõige rohkem maiust.",
-    "Nad võtaksid kõik, mis nemad vajavad."
+    "Kas sa võtaksid mulle palun kohvi?",
+    "Ta võtaks oma taskust raha välja.",
+    "Ma ei tea kas ta võtaks sellise pakkumuse vastu."
   ],
   "translation": [
     "would take",
-    "takes"
+    "might take",
+    "could take"
   ],
-  "context": "The word võtaks is the conditional form of the Estonian verb võtta, which means to take. It is commonly used in sentences to express what someone would do in a hypothetical situation."
+  "context": "The Estonian word 'võtaks' is the conditional mood form of the verb 'võtta', meaning 'to take'. It's used in hypothetical or conditional situations, similar to how we use 'would take', 'might take', or 'could take' in English. This form typically appears in if-clauses or when expressing a possibility that hasn't been realized yet."
 }

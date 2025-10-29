@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on poolel teel.",
-    "Me oleme poolel.",
-    "See on poolel valmis."
+    "Ta oli poolel teel kodusse.",
+    "Me oleme pool aastat abielus.",
+    "Poolel päevast hakkas vihma sadama."
   ],
   "translation": [
-    "halfway",
-    "in the middle"
+    "in the middle of",
+    "halfway through",
+    "at half past",
+    "on one side"
   ],
-  "context": "The word 'poolel' in Estonian means being in the middle of something, either physically or in terms of progress, similar to the English phrase 'halfway'."
+  "context": "The Estonian word 'poolel' is an adessive case form that indicates being in the middle of something or at a halfway point. It's commonly used with time expressions (like 'poolel öösel' - at midnight) and to describe physical position between two points. The word derives from 'pool' meaning half, so 'poolel' essentially means 'in/at/on the half'."
 }

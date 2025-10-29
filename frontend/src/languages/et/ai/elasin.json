@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elasin Tallinnas kümme aastat.",
-    "Ta elas Londonis üheksa aastat.",
-    "Me elasime Pariisis kolm kuud."
+    "Elasin Tallinnas kaks aastat.",
+    "Ma elasin lapsena väikeses külas.",
+    "Ta ei elanud linnas, vaid maal."
   ],
   "translation": [
     "lived",
-    "was living"
+    "dwelled",
+    "resided"
   ],
-  "context": "The word 'elasin' is the first person singular past tense form of the verb 'elama', which means to live or reside in a place. It is commonly used to describe someone's past experiences or where they have lived."
+  "context": "The word 'elasin' is the first-person singular past tense form of the verb 'elama', which means 'to live' or 'to reside'. It indicates that someone lived somewhere in the past. The word is formed by adding the past tense suffix '-i-' to the stem 'ela-' and then the personal ending '-n' for first person singular."
 }

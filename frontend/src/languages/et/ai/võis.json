@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võisin seda teha",
-    "Ta võis olla õige",
-    "Me võisime minna kinno"
+    "Tööl olime aega võtta ja see oli hea võis.",
+    "Temaga oli väga hea võis nädalavahetuseks lõpetada.",
+    "See oli parim võis, mida meil kunagi olnud."
   ],
   "translation": [
-    "could",
-    "was able to"
+    "time",
+    "period",
+    "spell",
+    "stint"
   ],
-  "context": "The word võis is the past tense of the Estonian verb võima, which means to be able to or can, and it is commonly used to express ability or possibility in the past."
+  "context": "The Estonian word 'võis' is a noun that refers to a period of time, duration, or spell. It can be used to describe a specific timeframe when something happened or lasted. The word is in the genitive singular form (possessive case) of the root word 'või', which means 'time'. In context, it would typically appear with prepositions like 'aega' (of time) as in 'aega võtta' (to take time/period)."
 }

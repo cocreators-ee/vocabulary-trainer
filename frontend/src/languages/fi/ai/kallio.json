@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Talo on rakennettu kalliota vasten",
-    "Kallio on suosittu retkikohde",
-    "Kallion laella on upea näkymä"
+    "Kalliot ovat korkeita ja jyrkkiä.",
+    "Rakennus on rakennettu kallion päälle.",
+    "Pääsimme helposti yli kallon, koska se oli loivempi kuin muut kohdat."
   ],
   "translation": [
     "rock",
     "cliff",
-    "hill"
+    "boulder",
+    "stone"
   ],
-  "context": "The word kallio refers to a rock or cliff, often used in Finnish geography and nature descriptions"
+  "context": "In Finnish, 'kallio' refers to a large rock formation or cliff. It can be used to describe natural rock formations in the landscape, rocky outcrops, or steep cliffs. The word is often used in geographical descriptions and outdoor contexts."
 }

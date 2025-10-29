@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meie keldris on palju vanu asju.",
-    "Ta lukkus end keldrisse.",
-    "Keldri ukse taga oli midagi kummalist."
+    "Minu kelder on kuiv.",
+    "Me peame puhastama keldrit.",
+    "Keldris elab üks hiir."
   ],
   "translation": [
-    "cellar",
-    "basement"
+    "basement",
+    "cellar"
   ],
-  "context": "The word 'keldris' in Estonian refers to a cellar or basement, typically an underground room used for storage. It is often associated with older buildings and can sometimes carry a slightly mysterious or eerie connotation."
+  "context": "The word 'keldris' is the Estonian noun meaning 'basement' or 'cellar'. It refers to the underground floor of a building, typically used for storage. The word can be modified with case endings in Estonian - for example, 'keldris' is in the inessive case (meaning 'in'), while 'kelder' would be the nominative form (meaning 'a basement')."
 }

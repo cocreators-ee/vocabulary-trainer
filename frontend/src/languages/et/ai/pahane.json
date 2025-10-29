@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen pahane selle pärast.",
-    "Ta on väga pahane inimene.",
-    "Pahane mees ei tule siia tagasi."
+    "Ta on pahane poiss.",
+    "See on pahane ilm.",
+    "Tema käitumine oli täiesti pahane."
   ],
   "translation": [
-    "angry",
-    "furious"
+    "bad",
+    "evil",
+    "mean",
+    "nasty"
   ],
-  "context": "The word 'pahane' in Estonian means being angry or furious, it is commonly used to describe someone who is feeling or showing strong displeasure or hostility."
+  "context": "The Estonian word 'pahane' is an adjective that describes something as bad, evil, mean, or nasty. It can be used to describe a person's character (a bad/mean person), the quality of things (bad weather), or someone's behavior (bad/nasty conduct). The word doesn't change form in these examples as it's in the nominative singular form."
 }

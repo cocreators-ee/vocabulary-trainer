@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Varustus on hea.",
-    "Ta ostis varustuse reisi jaoks.",
-    "Varustuses oli kõik vajalik."
+    "Tegelikult on tegemist nende varustusega.",
+    "Lisaks sellele võib kaasa tuua täiendavat varustust.",
+    "Vajalik on piisavalt hea ja sobiv varustus."
   ],
   "translation": [
     "equipment",
-    "outfit",
-    "gear"
+    "gear",
+    "supplies",
+    "provisions"
   ],
-  "context": "The word 'varustus' in Estonian refers to the equipment, outfit, or gear that someone has, often for a specific purpose such as travel or an activity."
+  "context": "The word 'varustus' in Estonian is a noun that refers to equipment, gear, supplies, or provisions. It typically denotes the physical items, tools, materials, or resources needed for a particular purpose, activity, or situation. This could include camping gear, office equipment, military supplies, or any other type of necessary items."
 }

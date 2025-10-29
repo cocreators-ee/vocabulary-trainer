@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tõuseb hommikul varakult.",
-    "Temperatuur tõuseb järgmisel nädalal.",
-    "Tööstuse tootlikkus tõuseb aasta aastalt."
+    "Tõuseb päike hommikul.",
+    "Temperatuur tõuseb kevadel.",
+    "Merevee tase tõuseb aeglaselt."
   ],
   "translation": [
     "rises",
-    "grows",
-    "increases"
+    "goes up",
+    "increases",
+    "grows"
   ],
-  "context": "The word 'tõuseb' is a verb in Estonian that means to rise or increase, and it is commonly used to describe something that is getting higher or more intense, such as the sun rising, temperatures increasing, or productivity growing."
+  "context": "The word 'tõuseb' is the third-person singular present tense form of the Estonian verb 'tõusma', which means to rise, go up, increase, or grow. It describes something that is currently rising or increasing in value, position, quantity, or intensity at this moment."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tahab tatti.",
-    "Ma tegin tatti.",
-    "Nad said tatti."
+    "Tast on hea meel.",
+    "Ma tast ei arva nii.",
+    "Kas sa tast mõtled?"
   ],
   "translation": [
-    "taste",
-    "flavor",
-    "savor"
+    "from it",
+    "about it",
+    "of it"
   ],
-  "context": "The Estonian word 'tast' refers to the sensation of flavor or taste perceived by the tongue. It is commonly used when describing food or drinks, and can also be used metaphorically to describe experiences."
+  "context": "The word 'tast' is an Estonian adessive case form of the demonstrative pronoun 'see', meaning 'it'. It functions as a postposition indicating origin or source, similar to English prepositions like 'from', 'about', or 'of'. In grammar terms, it's used with nouns and pronouns to show where something comes from or what it relates to."
 }

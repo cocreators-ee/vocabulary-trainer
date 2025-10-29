@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vähemalt suljendamisel kõikjal, vahetult pärast kliki.",
-    "Kui sa ei tea midagi paremat, siis vähemalt proovi."
+    "Vähemalt kolm tundi kodus olen.",
+    "See on vähemalt hea mõte.",
+    "Ta oli vähemalt viis minutit hilja."
   ],
   "translation": [
     "at least",
-    "at the very least"
+    "minimum",
+    "no less than"
   ],
-  "context": "The word 'vähemalt' is used to indicate a minimum amount or degree of something, often in contexts where there's an expectation that more could be possible but at least this much is certain."
+  "context": "The Estonian word 'vähemalt' is an adverb that means 'at least'. It's used to indicate a minimum amount or level. For example, when saying 'Vähemalt kolm tundi kodus olen', it means 'I am at home for at least three hours'. The word can be modified by adding suffixes like '-gi' (vähemaltgi - also at least) or used in comparative constructions."
 }

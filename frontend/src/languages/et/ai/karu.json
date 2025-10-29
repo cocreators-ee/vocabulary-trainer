@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Karu on suur loom",
-    "Ta võttis karu käest kinni",
-    "Karud elavad metsas"
+    "Karus on suur ja tume karu.",
+    "Väike poeet nägi metsas suurt karu.",
+    "Karu magas sügavalt talveunes."
   ],
   "translation": [
-    "bear",
-    "large animal"
+    "bear"
   ],
-  "context": "The word 'karu' in Estonian refers to a large, carnivorous mammal that lives in forests and is commonly known as a bear in English."
+  "context": "The word 'karu' is the Estonian noun for 'bear', referring to the large mammal. It's typically used in its nominative singular form when talking about a bear, but can appear in other cases depending on grammatical context - like 'karud' (nominative plural) for multiple bears or 'karu' appearing in different cases with appropriate endings when modified by prepositions or as objects in sentences."
 }

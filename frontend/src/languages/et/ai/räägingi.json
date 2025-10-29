@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma räägin talle oma muredest.",
-    "Ta räägib palju, aga teeb vähe.",
-    "Nad räägivad juba tund aega."
+    "Ma ei tea räägingit.",
+    "Kas te teate seda räägingit?",
+    "Rääging on huvitav sõna."
   ],
   "translation": [
-    "speak",
-    "talking",
-    "conversation"
+    "word",
+    "term",
+    "expression"
   ],
-  "context": "The word 'räägingi' is related to the verb 'rääkima', which means 'to speak' or 'to talk'. It can refer to the act of speaking, having a conversation, or simply talking about something. In English, it’s commonly used when describing someone expressing their thoughts or engaging in dialogue."
+  "context": "The word 'räägingi' appears to be an Estonian noun, likely related to 'räägima' (to speak/talk). It seems to refer to a word, term, or expression. The '-ing' suffix suggests it could be related to verbal nouns or action words. In context, it would typically be used when referring to specific words or terms in conversation."
 }

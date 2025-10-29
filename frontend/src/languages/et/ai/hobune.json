@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hobune on ilus loom.",
-    "Ta hobustel jalutab.",
-    "Hobused on väga tugevad."
+    "Hobune sööb heina.",
+    "Vana hobune ei õpi uusi trikke.",
+    "Meil on kaks hobust."
   ],
   "translation": [
-    "horse"
+    "horse",
+    "horses"
   ],
-  "context": "The word 'hobune' refers to a large, hoofed, herbivorous mammal in English, and it is commonly used to describe the animal itself or activities related to it, such as horse riding."
+  "context": "The Estonian word 'hobune' means 'horse'. It is a singular noun referring to the animal. In plural form it becomes 'hobused'. This word is commonly used when talking about domesticated horses, working animals, or in general equine contexts."
 }

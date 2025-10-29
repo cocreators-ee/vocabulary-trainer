@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei karda midagi.",
-    "Ta alustas kardamata oma eesmärki.",
-    "Ära karda oma soovi sellest jutuks läbi mõelda."
+    "Ta kardab koera.",
+    "Meie kardame öiseid jõude.",
+    "Kas sa kardad kõrget?",
+    "Ma ei karda midagi."
   ],
   "translation": [
-    "fear",
-    "be afraid of"
+    "to fear",
+    "to be afraid of",
+    "to dread"
   ],
-  "context": "'Karda' means to fear or be afraid of something. It can also mean to avoid doing something out of fear."
+  "context": "The Estonian verb 'karda' is used to express fear or being afraid of something. It's a regular -a verb that conjugates with personal endings. In the present tense, it drops the final -d and adds personal endings (e.g., kardan, kardad, kardab). The negative form uses 'ei + karda' (e.g., ei karda). This word is commonly used in everyday language to express various degrees of fear, from mild apprehension to strong dread."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tantsin hästi",
-    "Ta tantsib balletti",
-    "Nad tantsivad koos"
+    "Ma tantsin hea muusika all.",
+    "Tema tantsib ilusat valssi.",
+    "Me tantsisime kogu õhtu."
   ],
   "translation": [
     "dance",
-    "dancing"
+    "dancing",
+    "to dance"
   ],
-  "context": "The word 'tantsi' is a verb in Estonian that means to dance, and it is commonly used in various forms to describe different styles or situations of dancing."
+  "context": "The word 'tantsi' is the partitive form of the Estonian noun 'tantsumine', which means dance or dancing. It can also be the singular imperative form of the verb 'tantsima' (to dance). The form depends on context - as a noun it refers to an instance of dancing, and as a verb it's a command meaning 'dance!'."
 }

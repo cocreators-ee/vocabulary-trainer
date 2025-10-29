@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on kortti kassin alla.",
-    "Hän antoi mulle kortin.",
-    "Kortit ovat pöydällä."
+    "Minulla on pankkikortti.",
+    "Otan kortin lompakostani.",
+    "Hän maksaa luottokortilla."
   ],
   "translation": [
-    "card"
+    "card",
+    "ticket",
+    "pass"
   ],
-  "context": "The word 'kortti' is commonly used in Finnish to refer to a card, such as a playing card, a gift card, or an identity card."
+  "context": "The Finnish word 'kortti' is a general term for various types of flat, rectangular paper or plastic cards. It can refer to bank cards (debit/credit cards), business cards, playing cards, ID cards, tickets, passes, or other similar items. The specific meaning depends on the context in which it's used - e.g., 'pankkikortti' means bank card, 'luottokortti' means credit card, 'pelikortti' means playing card."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks põrgusse.",
-    "See on tõeline põrgut!",
-    "Ma ei taha lõpetada põrgus."
+    "Ei taha minna põrgusse.",
+    "Kas sa usud põrgu olemisesse?",
+    "Põrgu on müütiline koht."
   ],
   "translation": [
     "hell",
     "inferno",
-    "damnation"
+    "hell",
+    "netherworld"
   ],
-  "context": "The word 'põrgut' in Estonian refers to hell or a very unpleasant, difficult situation. It is often used as an exclamation expressing frustration or anger, similar to saying 'damn!' or 'this is awful!' in English."
+  "context": "The word 'põrgut' appears to be related to the concept of hell or inferno in Estonian. It can refer to a place of punishment, torment, or fire. In religious contexts, it often refers to the underworld or afterlife destination for sinners. The term carries strong connotations of suffering and divine retribution."
 }

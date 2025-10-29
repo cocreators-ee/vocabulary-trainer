@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen mitmeid tüüpe näinud.",
-    "Tüüpide valik on piiratud.",
-    "Mõned inimesed on tuntud erinevate tüüpide poolest."
+    "Mul on head tüübid.",
+    "Tema on heade tüüpidega mees.",
+    "Need inimesed on head tüübid."
   ],
   "translation": [
     "types",
-    "kinds"
+    "kinds",
+    "sorts"
   ],
-  "context": "The word 'tüübid' is the plural form of 'tüüp', which means type or kind, and it is commonly used to refer to different categories or classifications of things in Estonian."
+  "context": "The word 'tüübid' is the plural form of the Estonian noun 'tüüp', which means 'type' or 'kind'. In English, this would correspond to words like 'types', 'kinds', or 'sorts'. It's used when referring to multiple categories or classifications of things. For example, in the sentence 'Mul on head tüübid,' it could mean 'I have good types/kinds.'"
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta rikkus klaasi.",
-    "Ära riku reegleid!",
-    "Politsei teatas, et keegi on seadust rikkunud."
+    "Ta rikkus kella.",
+    "Meie lapse käitumine rikkus reegleid.",
+    "Kes on teinud viga ja riknus ühiskonna norme?"
   ],
   "translation": [
     "broke",
     "violated",
-    "infringed"
+    "transgressed"
   ],
-  "context": "The word 'rikkus' in Estonian generally means to break something physically, or to violate a rule, law, or agreement. It implies an action that damages or goes against established norms."
+  "context": "The Estonian word 'rikkus' is the past tense singular form of the verb 'rikuda', which means to break, violate, or transgress. It can refer to physically breaking something (like a clock), violating rules or norms, or committing some kind of offense."
 }

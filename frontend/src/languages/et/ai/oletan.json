@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma oletan, et see on tõsi.",
-    "Oletame, et ta on õige.",
-    "Ta oletas, et see on vale."
+    "Oletan, et ta tuleb homme.",
+    "Ma ei tea täpselt, kuid ma oletan, et see on nii.",
+    "Kas sa oled seda küsinud? Ma olen seda veel mitte küsinud, kuid ma oletan, et vastus peaks olema jah."
   ],
   "translation": [
-    "assume",
-    "suppose",
-    "presume"
+    "I assume",
+    "I guess",
+    "I suppose",
+    "I think"
   ],
-  "context": "The word 'oletan' in Estonian means to assume or suppose something, and it is commonly used in sentences where the speaker is making an educated guess or hypothesis about a situation."
+  "context": "The Estonian word 'oletan' is the first person singular present indicative form of the verb 'olla' (to be) with a prefix meaning 'assume' or 'suppose'. It expresses that the speaker believes something to be true but doesn't have definite knowledge. The word is commonly used when making educated guesses, speculations, or expressing opinions about uncertain matters."
 }

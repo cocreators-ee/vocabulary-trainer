@@ -1,12 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä tulen nyt.",
-    "Hän tuli jo nyt.', 'Se on nyt tapahtunut."
+    "Nyt on aika lähteä.",
+    "Menimme nyt kotiin.",
+    "Mitä sinä teet nyt?"
   ],
   "translation": [
-    "now"
+    "now",
+    "right now",
+    "at this moment"
   ],
-  "context": "The word 'nyt' is commonly used in Finnish to indicate that something is happening at the present moment, similar to how 'now' is used in English."
+  "context": "The Finnish word 'nyt' is an adverb that means 'now' in English. It is used to indicate the present moment or immediate time, similar to how 'now' functions in English. The word is short and commonly used in everyday conversation. It can be placed at different positions within a sentence depending on emphasis needs."
 }

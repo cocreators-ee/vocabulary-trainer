@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Meestest on palju tähelepanu",
-    "Ta rääkis meestest, kes on tõelised sõbrad",
-    "Meeste puhul on see väga oluline"
+    "Kaks meestest mehest said sõpradeks.",
+    "Ülemus küsis kõikidest meestest aruannet.",
+    "Meestest kolmest olid pärit samast linnast."
   ],
   "translation": [
-    "of men",
-    "men"
+    "from among the men",
+    "from among the guys",
+    "from among the males"
   ],
-  "context": "The word 'meestest' is the genitive plural form of the Estonian word 'mees', which means 'man'. It is commonly used to refer to a group of men or to indicate possession or origin."
+  "context": "The Estonian word 'meestest' is the elative case (third case) plural form of 'mees' (man/male). It indicates motion or origin from among a group of men, meaning 'from among the men/guys/males'. This case answers questions like 'kellest?' (from whom?) when referring to multiple males. The word shows Estonian's case system where the same root can take different suffixes to indicate grammatical relationships."
 }

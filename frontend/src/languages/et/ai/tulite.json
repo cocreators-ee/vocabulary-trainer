@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tulite koju",
-    "Nad on tulnud juba mitu korda",
-    "Tulite homme uuesti"
+    "Tule homme kell seitse.",
+    "Me lähme koos tulema.",
+    "Kas sa tulid eile?"
   ],
   "translation": [
-    "you came",
-    "came"
+    "come",
+    "arrive",
+    "approach"
   ],
-  "context": "The word 'tulite' is the second person plural past tense form of the Estonian verb 'tulema', which means to come."
+  "context": "The word 'tulite' appears to be a form of the Estonian verb 'tulla', which means 'to come'. The '-te' suffix typically indicates plural imperative or present tense in Estonian. So 'tulite' would mean 'you (plural) come' or 'you are coming'. It's used when addressing multiple people and telling them to come now, or describing that a group of people are currently arriving."
 }

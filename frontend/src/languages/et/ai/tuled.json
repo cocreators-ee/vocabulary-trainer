@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "tuled on rohelised",
-    "ta panus tule pahane",
-    "me armastame vaadata tuld"
+    "Tuled siia kohe!",
+    "Kus tuled ära?",
+    "Meie tuled homme."
   ],
   "translation": [
-    "lights",
-    "fires",
-    "fireworks"
+    "you come",
+    "you arrive",
+    "you will come"
   ],
-  "context": "Tuled is Estonian for lights or fireworks, commonly used to refer to decorative lights like fireworks or Christmas lights."
+  "context": "The word 'tuled' is the 2nd person plural present tense form of the verb 'tulla' meaning 'to come' or 'to arrive'. It indicates that a group of people are coming/arriving now or in the near future. The subject 'te' (you plural) is often omitted in Estonian as it's implied by the verb conjugation."
 }

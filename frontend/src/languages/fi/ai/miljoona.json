@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän on ansainnut miljoona euroa.",
-    "Miljoonalla ihmisellä on sama ongelma.",
-    "Tämä firma työllistää yli miljoona ihmistä."
+    "Minulla on miljoona euroa.",
+    "Tämä auto maksaa miljoona dollaria.",
+    "Suomessa asuu noin viisi miljoonaa ihmistä."
   ],
   "translation": [
     "million"
   ],
-  "context": "The word miljoona is a Finnish noun that refers to the number one million, and it is commonly used in various contexts such as finance, population, and large quantities."
+  "context": "The Finnish word 'miljoona' means 'million' in English. It is a numeral that represents the number 1,000,000. In Finnish grammar, it's a noun but functions similarly to other numerals. When counting people or things (like in the third example), it typically takes partitive case: 'viisi miljoonaa ihmistä' (five million people)."
 }

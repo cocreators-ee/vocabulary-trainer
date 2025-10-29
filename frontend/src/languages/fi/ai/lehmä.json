@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Lehmä laulaa.",
-    "Osta lehmästä maita.",
-    "Lehmät paastavat syöpelimunia."
+    "Lehmät ovat maaseudulla.",
+    "Minun lehmäni on hyvin kesy.",
+    "Lehmä tuottaa maitoa ja voi."
   ],
   "translation": [
-    "cow"
+    "cow",
+    "cattle",
+    "bovine"
   ],
-  "context": "'lehmä' refers to a cow and is commonly used in Finnish to refer to the animal, as well as in related contexts like buying milk from a cow or cows laying eggs (in the case of dairy farms)."
+  "context": "The Finnish word 'lehmä' refers to a female cow, typically one that is kept for milk production. It can refer to both an individual animal and in some contexts may be used more generally to mean cattle or bovines. The word follows the standard declension pattern for feminine nouns in Finnish."
 }

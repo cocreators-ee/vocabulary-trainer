@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kompanii on palju ülesanneid.",
-    "Ta töötab suures kompaniis.",
-    "Kompaniid juhivad erinevad inimesed."
+    "Kompanii läks täna hommikul linna.",
+    "Meie kompanii on väga hea meeskond.",
+    "Selles kompaniis töötab tuhandeid inimesi."
   ],
   "translation": [
     "company",
-    "firm"
+    "firm",
+    "corporation"
   ],
-  "context": "The word 'kompanii' in Estonian refers to a company or firm, which is an organization that provides goods or services, and it is commonly used in business contexts to describe a corporate entity."
+  "context": "In Estonian, 'kompanii' is a loanword from English/French that refers to a business organization or company. It's commonly used to describe commercial enterprises and can refer to both small businesses and large corporations. The word maintains its spelling similar to the original but follows Estonian grammatical rules when used in sentences."
 }

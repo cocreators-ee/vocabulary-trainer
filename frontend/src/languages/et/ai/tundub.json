@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul tundub, et see on hea mõte.",
-    "Tundub, nagu ta oleks rahul.",
-    "Ma arvan, et see tundub tore."
+    "Tundub, et ta on meeldiv isik.",
+    "See tundus väga huvitav.",
+    "Mis sulle tundub?"
   ],
   "translation": [
     "seems",
     "appears",
-    "looks like"
+    "looks like",
+    "feels like"
   ],
-  "context": "The word 'tundub' in Estonian is used to express a tentative or uncertain opinion about something, similar to how 'seems' or 'appears' would be used in English to convey that something is likely or probable but not definitively known."
+  "context": "The Estonian word 'tundub' is the 3rd person singular present form of the verb 'tuma', which means to seem or appear. It's commonly used to express that something appears a certain way or seems true from someone's perspective. For example, 'Tundub, et ta on meeldiv isik' means 'It seems that he/she is a nice person'. The word can be conjugated into different forms depending on the subject and tense."
 }

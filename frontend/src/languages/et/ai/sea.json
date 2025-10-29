@@ -1,15 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Olen kindel, et saab põnevaks.",
-    "Tema soov oli saada tantsija.",
-    "Kas saad see laulda?"
+    "Tema on meie sea.",
+    "Sea lõi ukse vastu.",
+    "Väike sea jooksis farmis."
   ],
   "translation": [
-    "will",
-    "can",
-    "shall"
+    "pig"
   ],
-  "context": "'Sea' is the second person form of 'saa,' which means to become or get. It's used in situations where someone becomes something new, gets an item, or a future action is going to happen."
+  "context": "The word 'sea' in Estonian means 'pig'. It's a common noun referring to the domesticated farm animal. In Estonian, 'sea' is in the nominative case (singular form). The plural would be 'sead', and other forms include 'sea' (genitive singular) meaning 'of the pig', etc."
 }

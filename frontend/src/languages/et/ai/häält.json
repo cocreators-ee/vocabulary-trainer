@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on andnud häält selle poolt.",
-    "Ma olen valinud häält vastu.",
-    "Kõik võivad anda häält."
+    "Kas sa kuuled häält?",
+    "Ta kutsus häält.",
+    "Mina ei kuule häält."
   ],
   "translation": [
+    "sound",
     "voice",
-    "vote"
+    "call"
   ],
-  "context": "The word häält in Estonian can be translated to English as voice or vote, and it is commonly used in the context of giving an opinion or making a choice."
+  "context": "The word 'häält' is the partitive case form of the Estonian noun 'hääl', which means 'sound' or 'voice'. In this form, it typically appears after verbs that take a partitive object, such as 'kuulema' (to hear). The partitive case in Estonian often indicates an incomplete action or what is being heard. For example, 'Kas sa kuuled häält?' means 'Do you hear sound/voice?' where the focus is on the perception of the voice/sound rather than a complete action."
 }

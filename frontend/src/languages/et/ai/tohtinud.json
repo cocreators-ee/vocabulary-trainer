@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tohtinud seda teha",
-    "Ta on tohtinud mind abitu",
-    "Me oleme tohtinud neid aidata"
+    "Tohtisin ise teha seda tööd.",
+    "Ta tohtis öelda oma arvamust avalikult.",
+    "Lapsed ei tohtinud mängida peaaegu nädalavahetusest."
   ],
   "translation": [
-    "been allowed to",
-    "had permission to",
-    "was permitted to"
+    "was allowed",
+    "had permission",
+    "were permitted"
   ],
-  "context": "The word 'tohtinud' is the past participle form of the Estonian verb 'tohtima', which means 'to be allowed to' or 'to have permission to' do something. It is commonly used in sentences to express that someone had the right or permission to perform a certain action."
+  "context": "The word 'tohtinud' is the past participle form of the Estonian modal verb 'tõma', which means 'to allow' or 'to give permission'. As a past participle, it indicates an action that was allowed or had permission in the past. It's often used with auxiliary verbs to form perfect tenses, such as 'on tohtinud' (has been allowed) or 'oli tohtinud' (had been allowed). The word follows Estonian grammar rules for participles and is commonly used in formal and informal contexts when discussing permissions or allowances that occurred in the past."
 }

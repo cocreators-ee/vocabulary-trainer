@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma takistan sind",
-    "Ta takistas mind",
-    "Me takistame neid"
+    "Ei takista mind minema.",
+    "Ta ei taha teid takistada.",
+    "Mehhanism võib takistada protsessi.",
+    "Takistused on eemaldatud."
   ],
   "translation": [
-    "to resist",
-    "to oppose",
-    "to hinder"
+    "to hinder",
+    "to obstruct",
+    "to prevent",
+    "to block"
   ],
-  "context": "The word 'takistada' in Estonian means to resist or oppose something, and it is commonly used in the context of refusing to do something or fighting against an idea or a person."
+  "context": "The word 'takistada' is an Estonian verb that means to hinder, obstruct, prevent, or block something or someone from proceeding with their actions. It's commonly used when referring to obstacles in physical movement, progress, or execution of plans. The root form 'takistada' can be conjugated into different tenses and forms depending on the context - for example, present negative uses 'ei takista', past tense would use 'takistas', etc."
 }

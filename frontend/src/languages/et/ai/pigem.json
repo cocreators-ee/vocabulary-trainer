@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pigem oleksin koju jäänud",
-    "Ta pigem läheb kinno",
-    "Pigem tuleks homme uuesti proovida"
+    "Ma pigem jään kodus.",
+    "Pigem võiksime minna varakult.",
+    "Ta eelistab pigem üksinda töötada."
   ],
   "translation": [
     "rather",
     "preferably",
-    "sooner"
+    "instead"
   ],
-  "context": "The word 'pigem' in Estonian is used to express a preference or a more desirable option, similar to the English words 'rather' or 'preferably'."
+  "context": "The Estonian word 'pigem' is an adverb that expresses preference or choice. It's used to indicate what someone would rather do, prefers, or chooses as an alternative. The word often appears in comparative constructions and can be translated into English as 'rather', 'preferably', or 'instead'. It typically modifies a verb or entire clause to show a preferred option over another."
 }

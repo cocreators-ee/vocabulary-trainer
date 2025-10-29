@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ei suutnud raskelt haiget olla",
-    "Raskelt on keeruline sõna",
-    "Ma olen raskelt vaevatud"
+    "Töö oli raskelt tehtav.",
+    "Ta tegi seda raskelt.",
+    "See on raskelt mõistetav."
   ],
   "translation": [
-    "heavily",
-    "hard",
-    "severely"
+    "difficultly",
+    "hardly",
+    "with difficulty"
   ],
-  "context": "The word 'raskelt' in Estonian is an adverb that means to a great degree or severely, often used to describe something that is difficult or challenging."
+  "context": "The Estonian word 'raskelt' is an adverb that means 'in a difficult manner' or 'with difficulty'. It modifies verbs to indicate that something was done with considerable effort, struggle, or hardship. The word comes from the adjective 'raske' (difficult, heavy) and the '-lt' suffix forms the adverbial form."
 }

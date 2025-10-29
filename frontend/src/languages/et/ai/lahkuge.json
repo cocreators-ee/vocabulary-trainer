@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen nõus, et lahkuime.",
-    "Lahkugu meie tee siin lõpeb.",
-    "Ta ütles, et ta tahab lahkguda."
+    "Lahkuge hea meelega.",
+    "Palun lahkuge kiiresti!",
+    "Me peame lahkuma, me lahkuge nüüd."
   ],
   "translation": [
-    "let's go",
-    "to depart"
+    "leave",
+    "depart",
+    "go away",
+    "exit"
   ],
-  "context": "The word 'lahkuge' is an imperative form of the verb 'lahkuma', which means to leave or depart. It is commonly used in Estonian to suggest or instruct someone to go somewhere."
+  "context": "The word 'lahkuge' is the formal plural imperative form of the verb 'lahkuma', meaning to leave or depart. It is used when addressing multiple people formally, telling them to leave a place. The '-ge' ending indicates it's in the second person plural (you all) imperative mood."
 }

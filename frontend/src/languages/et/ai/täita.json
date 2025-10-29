@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahan täita seda vormi.",
-    "Ta tahab täita kogu ruumi.",
-    "Täida see ankurdus õhuga."
+    "Täida palun vorm.",
+    "Tema täitis kõik ülesanded edukalt.",
+    "Ma pean veel mitmeid dokumente täitma."
   ],
   "translation": [
-    "fill",
-    "fulfill"
+    "to fill in",
+    "to fulfill",
+    "to complete",
+    "to satisfy"
   ],
-  "context": "The word täita generally means to fill something, like a container or a space, but it can also be used in the sense of fulfilling a task or an obligation."
+  "context": "The Estonian verb 'täita' has multiple related meanings depending on context. It can mean 'to fill in' (like forms or documents), 'to fulfill' (obligations, promises), 'to complete' (tasks, requirements), or 'to satisfy' (needs, conditions). The word is commonly used in administrative contexts when completing paperwork, but also more generally to describe completing tasks or meeting obligations. It belongs to the -ida verb group and can be conjugated with different suffixes depending on tense and subject."
 }

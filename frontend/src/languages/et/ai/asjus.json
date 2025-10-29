@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea asjus.",
-    "Asjus ei ole liiga suur.",
-    "See asjus on minu omadus."
+    "Tule asjadesse!",
+    "Selles asjas peaksid abi küsima.",
+    "Asjad on korras."
   ],
   "translation": [
-    "thing",
-    "stuff"
+    "about",
+    "in regard to",
+    "concerning",
+    "regarding"
   ],
-  "context": "The word 'asjus' in Estonian generally refers to a thing or an object, and it is commonly used in everyday conversations to talk about something without specifying what it is."
+  "context": "The word 'asjus' is the inessive case (locative case indicating location within something) of the Estonian noun 'asi', which means 'matter', 'thing', or 'affair'. In this form, it functions as a prepositional phrase meaning 'about', 'in regard to', or 'concerning' when used at the beginning of a sentence. It indicates that the following content is related to the matter being discussed."
 }

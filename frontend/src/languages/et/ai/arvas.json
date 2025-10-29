@@ -1,13 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta arvas, et see on tõeline.",
-    "Ma arvasin, et tean vastust.",
-    "Kas sa arvad, et see on hea idee?"
+    "Arvasin, et ta tuleb täna.",
+    "Ta arvas, et kõik on okei.",
+    "Meie isa alati arvab, et me teame kõiki vastuseid."
   ],
   "translation": [
-    "believed / thought (past tense)"
+    "thought",
+    "believed",
+    "assumed",
+    "reckoned"
   ],
-  "context": "'Arvas' is the past tense form of 'arvata', meaning to believe or think. It's commonly used in describing someone's previous belief or opinion."
+  "context": "The word 'arvas' is the past tense form of the Estonian verb 'arvama', which means to think, believe, assume, or reckon. It indicates that someone had a thought or made an assumption in the past."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lennuk tõusis õhku.",
-    "Ta oli lennuki piloot.",
-    "Lennukid lendasid kõrgel"
+    "Lennuk lendab õhus.",
+    "Väike lennuk maandus lennuväljal.",
+    "Meil on uus lennuk firmale."
   ],
   "translation": [
     "airplane",
-    "plane",
-    "aircraft"
+    "aeroplane",
+    "plane"
   ],
-  "context": "The word 'lennuk' refers to a vehicle that can fly through the air, typically with wings and engines, used for transporting people or goods."
+  "context": "The word 'lennuk' in Estonian is a noun meaning airplane or aeroplane. It refers to a powered flying vehicle with fixed wings that is heavier than air. The word comes from the verb 'lendama' which means 'to fly'. In Estonian, this would be used similarly to how we say 'airplane' in English when referring to any type of powered aircraft for transportation."
 }

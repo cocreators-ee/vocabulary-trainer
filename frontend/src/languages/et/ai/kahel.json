@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kahel pool käsi all",
-    "Kahel korral on ta seda teinud",
-    "Ma olen kahel päeval töölt puusa"
+    "Me oleme kahel mehel koos.",
+    "Tema käis kahel jalal kuni lõpuni.",
+    "Kaks meest olid kahel pool teineteist."
   ],
   "translation": [
-    "twice",
-    "two times"
+    "two people",
+    "a couple (of people)",
+    "both"
   ],
-  "context": "The word 'kahel' in Estonian means twice or two times, it is commonly used to describe the number of occurrences of an event."
+  "context": "The Estonian word 'kahel' is the adessive case form of the number 'kaks' meaning 'two'. It indicates location on or with two entities, functioning similarly to English phrases like 'on two', 'with two', or 'at two'. This form is used when something exists or happens in relation to two people or things."
 }

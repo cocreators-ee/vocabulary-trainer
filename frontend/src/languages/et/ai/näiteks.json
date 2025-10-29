@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma võin näiteks minna kinno.",
-    "Ta rääkis näiteks oma sünnilinnast.",
-    "Näiteks talveolümpial võideti kaks medalit."
+    "Näiteks ma tegin selle töö ära.",
+    "Võiksime näiteks minna kinno.",
+    "Tema on näiteks hea matemaatikas."
   ],
   "translation": [
     "for example",
-    "for instance"
+    "such as",
+    "e.g."
   ],
-  "context": "The word näiteks is used to provide an example or illustrate a point, similar to the English phrase for example."
+  "context": "The Estonian word 'näiteks' is a common conjunction used to introduce examples or illustrations. It functions similarly to English words like 'for example', 'such as', or the abbreviation 'e.g.'. It's typically used when providing specific instances to clarify or illustrate a more general statement or idea."
 }

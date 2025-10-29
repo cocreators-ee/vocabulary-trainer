@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ikkagi lähen sinna.",
-    "Ta ikkagi ei saanud head õhtut.",
-    "Ikkagi oli hea, et me läksime."
+    "Olen ikkagi väga hea matemaatikas.",
+    "Ta tuleb ikkagi homme kell 18:00.",
+    "Ma peaksin ikkagi tegema kodutööd."
   ],
   "translation": [
+    "still",
+    "nevertheless",
     "anyway",
-    "after all"
+    "regardless"
   ],
-  "context": "The word 'ikkagi' is an adverb in Estonian that is commonly used to indicate a contrast or a concession, similar to the English words 'anyway' or 'after all'."
+  "context": "The Estonian word 'ikkagi' is an adverb that expresses persistence, continuation, or insistence despite contrary circumstances. It can be translated to English as 'still', 'nevertheless', 'anyway', or 'regardless'. The word emphasizes that something happens or remains true in spite of other factors that might suggest otherwise."
 }

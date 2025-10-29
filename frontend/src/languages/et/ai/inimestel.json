@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Inimestel on erinevad huvid.",
-    "Ta rääkis inimestega.",
-    "Kõik inimestel on ühiselt see, et nad elavad."
+    "Inimestel on hea meel.",
+    "Paljud inimestel arvavad sedasi.",
+    "Inimeste seas oli palju rõõmu."
   ],
   "translation": [
-    "people",
-    "humans",
-    "individuals"
+    "people have",
+    "for people",
+    "among people"
   ],
-  "context": "The word 'inimestel' is a plural form of the Estonian word for people or humans, and it is commonly used to refer to individuals or a group of persons in general."
+  "context": "The word 'inimestel' is the adessive case plural form of 'inimene', which means 'person' or 'human being'. The adessive case typically indicates location, possession, or instrument. In this case, 'inimestel' can be translated as 'people have', 'for people', or 'among people' depending on the context."
 }

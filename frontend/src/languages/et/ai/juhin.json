@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta juhin mind hommikusöögile.",
-    "Juhin on hea viis alustada päeva.",
-    "Nad juhivad sageli koos."
+    "Juhtisin meie gruppi. (I led our group.)",
+    "Ta juhiti hästi. (He/She was led well.)",
+    "Juhin teid nüüd. (I will lead you now.)"
   ],
   "translation": [
-    "lead",
-    "guide",
-    "direct"
+    "to lead",
+    "to guide",
+    "to direct"
   ],
-  "context": "The Estonian word 'juhin' is a verb meaning to lead, guide or direct someone or something. It can also refer to conducting or managing something, like an orchestra or a meeting. In English, it’s commonly used when talking about taking someone somewhere, showing them the way, or being in charge of a group."
+  "context": "'Juhin' is the first person singular indicative form of the Estonian verb 'juhtima', meaning 'to lead'. It specifically means 'I lead' in present tense. The word comes from the same root as English words like 'lead' and 'leader', indicating guidance or direction."
 }

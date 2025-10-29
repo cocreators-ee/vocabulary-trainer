@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on musta koira",
-    "Musta kahvi on hyvaa",
-    "Mustat pilvet tulevat"
+    "Musta kissa juoksi puun taakse.",
+    "Tämä auto on musta.",
+    "Minulla on mustat kengät."
   ],
   "translation": [
-    "black",
-    "dark"
+    "black"
   ],
-  "context": "The word 'musta' in Finnish means black or dark, and it is commonly used to describe colors or the absence of light."
+  "context": "The Finnish word 'musta' means black and is the singular nominative form of the adjective. It's used to describe something that is black in color. In grammar, it's a basic color adjective that follows standard Finnish adjective inflection patterns. For example: 'musta kissa' (black cat), 'musta auto' (black car)."
 }

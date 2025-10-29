@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on omanik.",
-    "Omanikud said kohtus.",
-    "See on minu enda omaniku auto."
+    "Omanik on kohal.",
+    "See maja kuulub omanikule.",
+    "Milline on uue auto omanik?"
   ],
   "translation": [
-    "owner"
+    "owner",
+    "proprietor",
+    "holder"
   ],
-  "context": "The word 'omanik' refers to a person who has legal ownership of something, such as a property, business, or object."
+  "context": "The Estonian word 'omanik' means owner or proprietor. It refers to the person who has legal ownership of something, such as property, a business, an object, or any item. The word is in nominative case here (subject form) and would change form depending on its grammatical role in a sentence. For example, it might become 'omanikku' (partitive case), 'omaniku' (genitive case), etc."
 }

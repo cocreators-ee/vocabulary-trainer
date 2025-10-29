@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõtted on vabad.",
-    "Ta mõtles oma elu üle.",
-    "Need mõtted on terved."
+    "Mõtted on keerulised.",
+    "Tal oli palju mõtteid selle kohta.",
+    "Mõttedes ei saa teha midagi."
   ],
   "translation": [
-    "thoughts"
+    "thoughts",
+    "ideas",
+    "considerations"
   ],
-  "context": "The word 'mõtted' in Estonian refers to thoughts or ideas in one's mind, and it is commonly used in sentences to describe what someone is thinking about."
+  "context": "The word 'mõtted' is the plural form of the Estonian noun 'mõte', which means 'thought' or 'idea'. In English, this can be translated as 'thoughts', 'ideas', or 'considerations'. The word refers to the contents of one's mind - what a person thinks about or considers. It's commonly used in everyday conversation to refer to someone's thoughts on various matters, plans they're considering, or ideas they have."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen algusest peale selle vastu võidelnud.",
-    "Alguses oli see väga raske.",
-    "Ta on alati olnud algusest peale üks meie parimaid töötajaid."
+    "Kõik algusega on raske.",
+    "See sündmus alguse sai tähistada uue ajastu algust.",
+    "Telli meilt igakuine uudiskiri ja alusta oma päeva hea teadmisega."
   ],
   "translation": [
     "beginning",
-    "start"
+    "start",
+    "origin"
   ],
-  "context": "The word 'alguse' in Estonian generally refers to the starting point or initial phase of something, and is commonly used to describe the commencement of an event, process, or activity."
+  "context": "The word 'alguse' is the genitive singular form of the Estonian noun 'algus', which means 'beginning' or 'start'. It indicates possession, origin, or association with a beginning. In English, it would typically be translated as 'of the beginning' or 'from the start'. This grammatical case shows what belongs to or comes from the beginning."
 }

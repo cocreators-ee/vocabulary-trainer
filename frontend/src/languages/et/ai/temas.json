@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on väga armas teema.",
-    "Me arutasime seda teemat eile.",
-    "Ta on sellel teemal ekspert."
+    "Tema on meie kodus.",
+    "Temaga kohtume homme kell viis.",
+    "Tema lõi hästi töö."
   ],
   "translation": [
-    "theme",
-    "topic",
-    "subject"
+    "he",
+    "she",
+    "him",
+    "her"
   ],
-  "context": "The word 'teema' in Estonian refers to a subject or topic of discussion, similar to how 'theme' or 'topic' are used in English. It can be applied to various contexts like conversations, studies, or artistic works."
+  "context": "The word 'temas' appears to be in the Estonian language. In Estonian, 'tema' means 'he/she', and adding '-s' typically indicates a possessive form or case ending. However, based on standard Estonian grammar, 'temas' is not a commonly used word. The more common forms would be 'tema' (he/she) for nominative case, 'temaga' (with him/her) for instrumental case, or 'temal' (on him/her) for locative case. Without additional context from the source material, I can provide a general analysis based on Estonian linguistic patterns."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma teen seda oma õe abil.",
-    "Kui sa annad mulle sinu toeksus ja abil, olen sõber sind kogu elu läbi.",
-    "Tema vanemad olid alati tal abil."
+    "Mul on abi tööga.",
+    "Saab mind abil?",
+    "Ta võttis appi oma sõbra abil."
   ],
   "translation": [
-    "help",
-    "with the help of"
+    "with the help of",
+    "by means of",
+    "using"
   ],
-  "context": "Able to provide example sentences using different forms (abil)"
+  "context": "The Estonian word 'abil' is an adessive case form used to indicate that something was done with the help or assistance of someone or something. It functions as a postposition and typically follows the noun it modifies, similar to English expressions like 'with the help of' or 'by means of'. The base form would be 'abi' (help), and 'abil' indicates the adessive case, meaning 'on/with help'."
 }

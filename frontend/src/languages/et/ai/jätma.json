@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsustasin jätta see töö",
-    "Ta ütles, et ta ei jäta mind",
-    "Jätma võti lauale"
+    "Ta jättis kodusse oma raamatud.",
+    "Me jätsime selle asja ära.",
+    "Jäta mind rahu!"
   ],
   "translation": [
-    "to leave",
-    "to quit",
-    "to abandon"
+    "to leave behind",
+    "to abandon",
+    "to omit",
+    "to let be"
   ],
-  "context": "The word 'jätma' is commonly used in Estonian to mean leaving something or someone behind, quitting a job or activity, or abandoning a place or situation."
+  "context": "The Estonian verb 'jätma' means to leave something behind, to abandon, or to omit. It's the transitive form of the verb that indicates someone causes something to be left in a particular state or place. The infinitive form is used when talking about the action itself."
 }

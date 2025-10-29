@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kuritegu oli tapetuks",
-    "Politsei uurib kuritegu",
-    "Kohtu all olev kuritegu"
+    "Kuritegude ennetamine on oluline ühiskonna kaitseks.",
+    "Politsei uuris seda kuritegu pikalt.",
+    "Tal oli seotud mitme kuriteoga."
   ],
   "translation": [
     "crime",
-    "offense",
+    "criminal offense",
     "felony"
   ],
-  "context": "The word 'kuritegu' in Estonian refers to a crime or an offense, which is an act that breaks the law and can result in punishment."
+  "context": "Kuritegu is an Estonian noun meaning 'crime' or 'criminal offense'. It refers to an act that violates criminal law. The word is formed from 'kuri' (evil, bad) + 'tegu' (act/deed). In legal contexts in Estonia, it would be used to describe various offenses from minor crimes to serious felonies. The plural form 'kuritegud' indicates multiple acts."
 }

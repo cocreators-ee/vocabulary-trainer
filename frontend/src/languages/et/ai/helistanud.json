@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olen juba mitmele kordu helistanud!",
-    "Tema viimane helistus oli eile õhtul.",
-    "Helista mind siis mõne tunni pärast uuesti."
+    "Ma helistasin sõbrale.",
+    "Ta on helistanud mitu korda.",
+    "Kas sa oled juba helistanud?"
   ],
   "translation": [
-    "called"
+    "called (by phone)",
+    "phoned",
+    "rang up"
   ],
-  "context": "The past participle of the verb 'helistama' which means to call someone on the phone. It is used to indicate that a person has made a phone call in the past, often with the intention of communicating something or reaching out for assistance, information or social interaction."
+  "context": "The word 'helistanud' is the past tense of the verb 'helistada', which means to call someone by phone. It's commonly used in Estonian when referring to making telephone calls, similar to how we say 'I called' or 'he phoned' in English."
 }

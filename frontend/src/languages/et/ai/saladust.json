@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on saladus.",
-    "See on üks saladust.",
-    "Ma ei tea saladust."
+    "Saladused peidavad end varjupaikadesse.",
+    "Ta jagas saladusi oma lähedastega.",
+    "Meie saladused jäävad meiega kaasa."
   ],
   "translation": [
-    "secret",
-    "mystery"
+    "secrets",
+    "mysteries",
+    "hidden things"
   ],
-  "context": "The word 'saladust' in Estonian means something that is kept hidden or unknown to others, often referring to a secret or mysterious information."
+  "context": "The word 'saladust' is the partitive singular form of the Estonian noun 'saladus', which means 'secret' or 'mystery'. In this case, it represents 'some secrets' or 'some mysteries'. The word can refer to concealed information, private matters, or hidden truths that are not meant to be shared with everyone."
 }

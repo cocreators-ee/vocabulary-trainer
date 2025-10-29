@@ -1,16 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma teen tööd järjest.",
-    "Tema mõtted olid järjesta ja selged.",
-    "Plekk kerkis järjest üles."
+    "Tegime kõik järjest.",
+    "Pead tegema ülesanded järjest.",
+    "Ta rääkis järjest kolm tundi."
   ],
   "translation": [
-    "order",
     "in order",
-    "gradually",
-    "progressively"
+    "sequentially",
+    "one after another"
   ],
-  "context": "'Järjest' in Estonian can mean 'in order' or 'gradually,' depending on context. It is commonly used to describe things arranged systematically or progressing step by step."
+  "context": "The word 'järjest' is an Estonian adverb that indicates sequential or orderly progression. It means something should be done in a specific sequence, one item following another, rather than randomly or simultaneously. This word is commonly used when giving instructions about the order of tasks, describing events happening consecutively, or emphasizing systematic organization."
 }

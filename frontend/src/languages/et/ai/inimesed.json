@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Inimesed elavad linnas.",
-    "Inimeste arv on suur.",
-    "Ta tunneb palju inimesi."
+    "Inimesed on meie kõige väärtuslikam ressurss.",
+    "Kõik inimesed peaksid olema võrdsed seaduse ees.",
+    "Need inimesed tulid kontorisse kohtumisele."
   ],
   "translation": [
     "people",
-    "humans",
+    "human beings",
     "persons"
   ],
-  "context": "The word 'inimesed' is a noun that refers to humans or people in general, and it is commonly used in Estonian language to talk about individuals or groups of people."
+  "context": "The word 'inimesed' is the plural form of 'inimene' (human being/person) in Estonian. It refers to people or human beings in general, and can be used to refer to a group of individuals. The '-d' ending at the end indicates that it's in the plural form."
 }

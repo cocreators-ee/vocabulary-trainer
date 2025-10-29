@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Lämpötila on tärkeä ilmastopoliitiikassa.",
-    "Hänen lämpötilansa oli korkea.",
-    "Lämpötilan muutokset vaikuttavat merkittävästi ympäristöön"
+    "Huoneen lämpötila on 20 astetta.",
+    "Lämpötila laskee yöllä.",
+    "Mitkä ovat huomisen lämpötilat?"
   ],
   "translation": [
     "temperature",
-    "heat level"
+    "heat level",
+    "thermal condition"
   ],
-  "context": "The word lämpötila refers to the degree of heat or warmth in a given environment or situation, and it is commonly used in discussions about weather, climate, and health."
+  "context": "The Finnish word 'lämpötila' is a compound noun formed from 'lämpi-' (warmth/heat) and '-tila' (condition/state), meaning literally 'heat condition'. It refers to the degree of hotness or coldness of something, most commonly used for air temperature. The word follows standard Finnish grammar rules and can be modified with adjectives and numbers."
 }

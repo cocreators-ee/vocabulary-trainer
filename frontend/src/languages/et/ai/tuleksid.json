@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tuleksid siia",
-    "Sa tuleksid homme tagasi",
-    "Nad tuleksid meie juurde"
+    "Tuleksid homme koju kell 6.",
+    "Kui sa tuleksid varakult, me peaksime juba kodus olema.",
+    "Miks sa ei tuleksid täna õhtul?"
   ],
   "translation": [
-    "would come",
-    "came"
+    "you should come",
+    "you ought to come",
+    "it would be good if you came"
   ],
-  "context": "The word 'tuleksid' is the conditional mood of the verb 'tulema', which means to come. It is used in Estonian to express a hypothetical or uncertain situation, where the subject would come if a certain condition were met."
+  "context": "The word 'tuleksid' is the conditional form of the verb 'tulema' (to come). It's formed by adding the '-ksid' ending to the root, indicating a suggestion or recommendation. In English, it translates to 'you should come,' 'you ought to come,' or 'it would be good if you came.' This is used when someone is making a polite suggestion or expressing what would be appropriate behavior."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä päättän mitä tehdään.",
-    "Hän päätti lähteä kotiin.",
-    "He päättivät mennä elokuviin."
+    "Minä päätän mitä teen.",
+    "Hän päätti lähteä aikaisin.",
+    "He päättivät kokouksen myöhään."
   ],
   "translation": [
     "to decide",
-    "to determine"
+    "to conclude",
+    "to finish"
   ],
-  "context": "The word päättää is commonly used in Finnish to mean making a decision or determining the course of action, and it can be translated to English as 'to decide' or 'to determine'."
+  "context": "The Finnish verb 'päättää' has multiple related meanings. It can mean 'to make a decision or choice,' as in deciding what to do. It can also mean 'to bring something to an end or conclusion,' like finishing a meeting or discussion. The form changes depending on the subject and tense - for example, 'päätän' (I decide), 'päätti' (he/she decided), 'päättivät' (they decided)."
 }

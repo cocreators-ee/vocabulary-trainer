@@ -1,17 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hilja, et mina pole siin.",
-    "See on liiga hilja.",
-    "Kas see on veel aeg?",
-    "Neid inimesi ei saa enam tagasi hiljaks."
+    "Ta saabus hilja.",
+    "Me peame hiljaks jõudma.",
+    "Hilja hommikul tuli ta kodusse."
   ],
   "translation": [
     "late",
-    "too late",
-    "still time?",
-    "to be too late"
+    "belatedly",
+    "tardily"
   ],
-  "context": "'Hilja' means to be or become late, as in running behind schedule or past the deadline. It is often used when indicating something happened later than expected."
+  "context": "The Estonian word 'hilja' is an adverb that means 'late' or 'belatedly'. It describes the state of arriving, happening, or occurring after the expected or scheduled time. In some contexts, it can also be used as a verb form meaning 'to make late' when in the Hilj-form (past tense)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Oled sa terveks? Kas midagi ei juhtu?",
-    "Ta puhub juba terviks.",
-    "Ei tea, miks see nii lihtne tundus ja ma kujutasin seda endale hoopis teistsuguseks. Võib-olla pean ma siiski veel terveks puhuma."
+    "Tere hommikust! Kuidas sa terveks sai?",
+    "Pärast haigust ta naasis terveks kodusse.",
+    "Lapsele öeldi, et ta peab olema terveks pärasti operatsiooni."
   ],
   "translation": [
+    "healthy",
     "well",
-    "healthy"
+    "recovered"
   ],
-  "context": "The word 'terveks' is the adverb form of 'terve', meaning well or healthy, and it's used to describe someone's state of health. It can be part of an expression like 'ole terveks' which means 'be well'."
+  "context": "The Estonian word 'terveks' is the illative case form of the adjective 'terve', which means healthy or well. It's used to indicate movement toward a state of being healthy, recovery, or becoming well. This grammatical case shows direction or purpose - something/someone becoming healthy or heading toward health."
 }

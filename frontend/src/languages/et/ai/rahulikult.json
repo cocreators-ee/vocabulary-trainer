@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta rääkis rahulikult ja selgelt.",
-    "Rahulikult elati võimalusi.",
-    "Rahulikult võttis ta tooli ja istus."
+    "Ta tegi kõiki oma kodutöid rahulikult.",
+    "Lapsed mängisid rahulikult pargis.",
+    "Me arutasime asju rahulikult ilma kriitikata."
   ],
   "translation": [
     "calmly",
-    "peacefully"
+    "peacefully",
+    "quietly",
+    "tranquilly"
   ],
-  "context": "The word 'rahulikult' is an adverb in Estonian that means to do something calmly or peacefully, often used to describe a tranquil or serene manner of doing something."
+  "context": "The Estonian adverb 'rahulikult' is formed from the adjective 'rahulik' (calm, peaceful) with the typical adverbial ending '-t'. It describes someone acting in a calm, composed, and peaceful manner without agitation or disturbance. This word can be used to describe both physical actions being performed quietly as well as emotional states of remaining calm under pressure."
 }

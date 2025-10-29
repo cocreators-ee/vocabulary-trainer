@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on küsimused vastuse otsinguks.",
-    "Ta esitas mitmeid küsimusi.",
-    "Küsimused olid väga keerulised."
+    "Kas sa vastad küsimustele?",
+    "Tal on palju küsimusi praegu.",
+    "Eks me vaatame mõned küsimused üle."
   ],
   "translation": [
-    "questions"
+    "questions",
+    "inquiries",
+    "queries"
   ],
-  "context": "The word \"küsimused\" refers to a set of inquiries or interrogations, and is commonly used in Estonian to ask for clarification or seek information on a particular topic."
+  "context": "The word 'küsimused' is the plural form of the Estonian noun 'küsimus', which means 'question'. In English, it translates to questions, inquiries, or queries. The '-d' ending at the end of the word indicates that it's in the plural form, meaning multiple questions rather than just one."
 }

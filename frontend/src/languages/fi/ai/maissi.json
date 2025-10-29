@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maissi on hyvä ruoka",
-    "Olen syönyt maissia ennen",
-    "Hänellä on paljon maissia pellossa"
+    "Leivän teossa käytetään maissijauhoa.",
+    "Maissia kasvatetaan laajalti maailmanlaajuisesti.",
+    "Tämä ruoka sisältää paljon maissia."
   ],
   "translation": [
-    "corn"
+    "corn",
+    "maize"
   ],
-  "context": "The word 'maissi' in Finnish refers to corn, which is a type of cereal grain commonly used as food for humans and animals."
+  "context": "The Finnish word 'maissi' refers to corn or maize, which is a cereal grain crop. It's commonly used in food production and can be found in many dishes around the world. The word specifically denotes the plant itself as well as its grains that are used for cooking."
 }

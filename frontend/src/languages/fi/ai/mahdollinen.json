@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mahdollinen ratkaisu onnistui.",
-    "Hän oli mahdollisesti oikeassa.",
-    "Tämä on mahdollinen vaihtoehto."
+    "Tämä on mahdollinen ratkaisu ongelmaan.",
+    "Hän teki kaiken mahdollisen auttaakseen minua.",
+    "Onko tämä sinulle mahdollista?",
+    "Mahdollisuudet ovat pienet mutta olemassa."
   ],
   "translation": [
     "possible",
-    "potential"
+    "feasible",
+    "practicable"
   ],
-  "context": "The word mahdollinen is an adjective in Finnish that means possible or potential, and it is commonly used to describe a situation or outcome that may occur or is likely to happen."
+  "context": "The Finnish word 'mahdollinen' is an adjective that means 'possible' or 'feasible'. It describes something that can exist, happen, or be done. The word comes from the root 'mahdollisuus' (possibility) and the adjectival suffix '-inen'. In Finnish grammar, it follows the usual inflection patterns for adjectives of type 2. When used in negative contexts with 'ei', it becomes 'mahdoton' (impossible)."
 }

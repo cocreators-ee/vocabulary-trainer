@@ -1,15 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta tegi mõisa eetris.",
-    "Meie põhimõtted on eetris ja õiglase korduvkasutusel põhinevad.",
-    "Kas tean, et see toiming eetris?"
+    "Tuleb eetris kell seitse.",
+    "Saame homme eetris uudiseid.",
+    "See saade oli juba eetris."
   ],
   "translation": [
-    "ethical",
-    "morally",
-    "in an ethical manner"
+    "on air",
+    "broadcasting",
+    "transmitted"
   ],
-  "context": "The word 'eetris' in Estonian is used as a preposition meaning 'ethically' or 'in a moral way'. It indicates actions that are guided by ethical principles."
+  "context": "The word 'eetris' is the Estonian adessive case form of 'eeter', meaning it indicates location or state in/on/with something. It's commonly used to refer to when a program, show, or broadcast is currently being transmitted or aired on television or radio."
 }

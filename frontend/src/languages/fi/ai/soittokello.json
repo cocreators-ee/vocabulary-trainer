@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän soitti ovikelloa.",
-    "Soittokello sanoi ding-dong.",
-    "Kun ovi avattiin, soittokello vaikeni."
+    "Minulla on vanha soittokello.",
+    "Soittokello soi kolmesti päivässä.",
+    "Ostin uuden soittokellon torilta."
   ],
   "translation": [
-    "doorbell"
+    "bell ringer",
+    "chime mechanism",
+    "striking mechanism"
   ],
-  "context": "A doorbell is a device that makes a sound when someone presses it to signal that they are at the door, and in Finnish, soittokello refers to this same concept."
+  "context": "The Finnish word 'soittokello' refers to a bell ringing mechanism or device that produces sound through bell-like tones. It typically describes the mechanical system in clocks or other devices that creates ringing sounds at specific times, such as church bells, clock chimes, or doorbells with a distinctive ring."
 }

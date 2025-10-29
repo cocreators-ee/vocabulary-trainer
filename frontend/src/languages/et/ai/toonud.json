@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen toonud suveniirid",
-    "Ta on toonud koju uue mängu",
-    "Nad on toonud esile huvitava küsimuse"
+    "Ta on toonud õunu.",
+    "Ma olen toonud raamatud koju.",
+    "Kes on seda toonud?"
   ],
   "translation": [
     "brought",
-    "introduced"
+    "has brought",
+    "have brought"
   ],
-  "context": "The word 'toonud' is the past participle form of the verb 'tooma', which means to bring or introduce something, and it is commonly used in Estonian language to express that someone has brought or introduced an object, idea, or person."
+  "context": "The word 'toonud' is the past participle form of the Estonian verb 'tulema' (to come) in the positive perfective aspect. It indicates that an action of bringing something has been completed in the past and relates to the present moment. In English, it corresponds to 'brought' or 'has brought'. This form is typically used with auxiliary verbs like 'on' (is/has) or 'olen' (am/have)."
 }

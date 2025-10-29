@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta muretses selle pärast.",
-    "Mul on palju muret.",
-    "Ära muretu."
+    "Ta ei muret väga väikeste asjade pärast.",
+    "Tema muret on alati ülekaaluline.",
+    "Kuidas sa suudad nii palju muret kanda?"
   ],
   "translation": [
     "worry",
-    "concern",
-    "care"
+    "anxiety",
+    "concern"
   ],
-  "context": "The Estonian word 'muret' refers to a feeling of anxiety or concern about something. It can also refer to the thing that causes worry itself. In English, it is commonly used when expressing anxieties or troubles."
+  "context": "The word 'muret' is the partitive case of 'mure', which means worry, anxiety or concern in English. It refers to a state of unease or mental distress about actual or potential problems. In Estonian, the partitive case often indicates an unspecified amount or partial nature of something, so 'muret' can translate to 'some worry' or 'a bit of worry' depending on context."
 }

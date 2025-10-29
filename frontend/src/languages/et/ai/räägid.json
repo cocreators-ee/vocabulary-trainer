@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Räägid mu õe peale!",
-    "Miks sa mind räägid?",
-    "Ära räägi mind!"
+    "Kas sa räägid eesti keelt?",
+    "Ta räägib hästi inglise keelt.",
+    "Meie lapsed räägivad palju keeli."
   ],
   "translation": [
-    "to hit",
-    "to strike",
-    "to beat up"
+    "speak",
+    "talk",
+    "say"
   ],
-  "context": "'Räägid' is a form of 'räägida', meaning to hit or strike. Commonly used in the context of physically hitting someone, like during an argument."
+  "context": "The word 'räägid' is the second person singular form of the Estonian verb 'rääkima', which means to speak or talk. It specifically translates to 'you speak' in English and is used when addressing one person informally."
 }

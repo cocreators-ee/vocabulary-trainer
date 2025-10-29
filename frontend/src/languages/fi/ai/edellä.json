@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän oli edellä menestynyt yrittäjä.",
-    "Kirjan alussa kerrotaan hahmon taustasta, ja sittemmin siihen palataan usein viitaten 'edellä' annettuihin tietoihin.",
-    "Edellä mainittu tarkoittaa samaa kuin aiemmin sanottu."
+    "Hän käveli edelleni.",
+    "Minä tulen edelleen huomenna.",
+    "Opiskelija seisoi edellä opettajaa."
   ],
   "translation": [
     "before",
-    "formerly"
+    "in front of",
+    "ahead",
+    "previously"
   ],
-  "context": "'Edellä' is used to indicate something that was mentioned or happened earlier in the text or conversation."
+  "context": "The Finnish word 'edellä' is an adverb that means 'before', 'in front of', or 'ahead'. It indicates position in space (being physically before someone/something) or time (happening earlier). It's formed from the root 'edell-' which relates to being forward/frontward. In spatial contexts, it shows one person/object is positioned before another; in temporal contexts, it means something happens at an earlier time than reference point."
 }

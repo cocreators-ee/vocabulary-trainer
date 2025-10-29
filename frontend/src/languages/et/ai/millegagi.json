@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea millegagi vastata.",
-    "Millegagi mind häirib?",
-    "Ta on millegagi üllatunud."
+    "Mul on millegagi raha.",
+    "Ta saatis mulle kirja millegaki põhjusel.",
+    "Ma ei tea millegagi teha seda tööd."
   ],
   "translation": [
     "with something",
-    "by something",
-    "to something"
+    "for some reason",
+    "because of something"
   ],
-  "context": "The word 'millegagi' in Estonian is used to indicate a relationship or connection between two things, often translated to English as 'with something', 'by something', or 'to something', depending on the context of the sentence."
+  "context": "The Estonian word 'millegagi' is a combined form that means 'with something' or 'for some reason'. It's composed of 'mille-' (which indicates the case and number, essentially meaning 'of what/which') + '-gagi' (a suffix indicating accompaniment or instrumentality similar to English 'with'). This construction is often used when talking about having or using something, doing something for a particular reason, or indicating an unspecified cause or means. It's typically found in the adessive case and expresses association or accompaniment with some unspecified thing or reason."
 }

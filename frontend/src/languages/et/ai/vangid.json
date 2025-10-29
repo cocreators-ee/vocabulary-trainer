@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vangid saidavad vabadusse.",
-    "Ta on olnud vangis mitu aastat.",
-    "Vangidele pakutakse õigust"
+    "Vangid viidi ümber teisesse vanglasse.",
+    "Kõik vangid said hommikusöögiks leiba ja suppi.",
+    "Politsei vahistas kolm venda kui kurjategijaid."
   ],
   "translation": [
     "prisoners",
-    "inmates",
-    "detainees"
+    "inmates"
   ],
-  "context": "The word 'vangid' refers to people who are being held in prison or detention, often as a result of criminal activity."
+  "context": "The word 'vangid' is the plural form of 'vangi', which means 'prisoner' in English. It refers to people who have been imprisoned or incarcerated as punishment for crimes they've committed. In Estonian, this word follows standard plural formation rules where the singular ending '-i' becomes '-id' in plural."
 }

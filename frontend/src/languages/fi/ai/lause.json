@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lause on kieliopillisesti täydellinen lause.",
-    "Hän lausui lauseen ääneen.",
-    "Lauseet ovat yksinkertaisia ja helppoja."
+    "Tämä on hyvä lause.",
+    "Kirjoitin pitkän lauseen.",
+    "Lauseiden ymmärtäminen tärkeää."
   ],
   "translation": [
     "sentence",
-    "phrase",
     "clause"
   ],
-  "context": "The word 'lause' in Finnish refers to a sentence or a phrase, and it is commonly used in linguistic contexts to describe a unit of language that expresses a complete thought."
+  "context": "In Finnish, 'lause' means a sentence in grammar - a grammatical unit that expresses a complete thought. It can also refer to a clause when discussing sentence structure. The word is used similarly to English 'sentence' but with specific grammatical connotations in linguistic contexts."
 }

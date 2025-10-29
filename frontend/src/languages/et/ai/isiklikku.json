@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole isiklikku suhtega temaiga.",
-    "Tema isiklikku areng on olnud väga kiire.",
-    "Isiklikku küsimused ei kuulu siia."
+    "Ta vajab isiklikku ruumi.",
+    "Palun ärge segage isiklikke asju.",
+    "Isikliku info kaitse on oluline."
   ],
   "translation": [
     "personal",
-    "private"
+    "private",
+    "confidential"
   ],
-  "context": "The word isiklikku refers to something that is related to a person's private life or personal matters, and it is commonly used in Estonian to describe things that are not meant to be shared publicly."
+  "context": "The word 'isiklikku' is the partitive case of the Estonian adjective 'isiklik', meaning 'personal' or 'private'. It indicates that something belongs to a specific person or should not be shared with others. In this form, it's typically used as an object in sentences where the subject does something personal or private."
 }

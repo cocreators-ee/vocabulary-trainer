@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Need kõik on jäätisest randa.",
-    "Jäätistel tõi lumi peale.",
-    "Mälestad ka sellest, et jäätistel on kergem liigutuda."
+    "Ma söön jäätist.",
+    "Laps armastab jäätist.",
+    "Me ostisime jäätist poest."
   ],
   "translation": [
-    "ice"
+    "ice cream",
+    "frozen dessert"
   ],
-  "context": "The term 'jäätist' refers to ice in Estonian. It is commonly used to describe frozen water or any icy condition."
+  "context": "The word 'jäätist' is the partitive case form of the Estonian noun 'jäätis', which means ice cream. In Estonian, the partitive case is often used to express indefinite quantity or when an action affects only a portion of something. So 'jäätist' specifically refers to some amount of ice cream - you could be eating it, buying it, or having some of it."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on vajalik dokument",
-    "Ta leiutas vajaliku võtmestiku",
-    "Vajalikud dokumendid on juba saatnud"
+    "See on vajalik dokument.",
+    "Mul on vaja midagi vajalikku ostma minna.",
+    "Kas teil on mõned vajalikud asjad kaasa võtta?"
   ],
   "translation": [
     "necessary",
     "required",
-    "essential"
+    "essential",
+    "needed"
   ],
-  "context": "The word 'vajalik' in Estonian means something that is necessary or required to be done, it is commonly used in formal and informal contexts to express the need for something."
+  "context": "The Estonian word 'vajalik' is an adjective that means 'necessary', 'required', or 'essential'. It's used to describe something that is needed, required, or essential for a particular purpose. The word can be modified with suffixes to indicate different cases and numbers - in the examples shown, it appears in nominative singular form ('vajalik'), partitive plural form ('midagi vajalikku'), and nominative plural form ('vajalikud asjad')."
 }

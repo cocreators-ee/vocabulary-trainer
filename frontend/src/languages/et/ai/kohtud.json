@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta kohtus oma vana sõbraga.",
-    "Nad kohtusid juhuslikult poes.",
-    "Kohtud toimuvad reedel."
+    "Kohtud on tähtsad institutsioonid.",
+    "Mehed kohtusid tänaval.",
+    "Tuleme kohtu tagasi."
   ],
   "translation": [
-    "meeting",
-    "court",
-    "encounter"
+    "courts",
+    "meetings",
+    "gatherings"
   ],
-  "context": "The Estonian word 'kohtud' can have multiple meanings depending on the context. It commonly refers to a meeting or encounter with someone, but it can also refer to a court of law (as in a legal setting)."
+  "context": "The word 'kohtud' is the plural form of 'koht' in Estonian. It can mean 'courts' (as in judicial courts), but it's also commonly used to refer to gatherings, meetings, or assemblies where people come together for a specific purpose. The meaning depends heavily on context - it could be referring to actual court proceedings or simply social/business meetings."
 }

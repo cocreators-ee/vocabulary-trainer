@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tahaksin teada, kas see on tõsi.",
-    "Toetan sind ka siis, kui see on vastu tõsile.",
-    "Ta juba varem selle kohta vale tõsi pakkunud."
+    "See on tõsi.",
+    "Tõesti, see oli hea päev.",
+    "Kas see on tõsi või vales?"
   ],
   "translation": [
-    "truth",
-    "true"
+    "true",
+    "real",
+    "truthful",
+    "actual"
   ],
-  "context": "Tõsi refers to something that is true or factual. It can be used as a noun meaning 'truth' or an adjective meaning 'true'. Commonly used in discussions, statements, and arguments where verifying facts is important."
+  "context": "The Estonian word 'tõsi' is an adjective that means 'true', 'real', or 'actual'. It can be used in various contexts to describe something as being factual, genuine, or authentic. In its basic form 'tõsi', it often appears with the copula verb 'on' (is) to make statements about truthfulness or reality."
 }

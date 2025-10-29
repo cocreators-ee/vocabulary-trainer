@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen kirikusse pühapäeval.",
-    "Pühapäeval on tore jalutada.",
-    "Ta käis pühapäeval koos sõpradega kinos."
+    "Me kohtume pühapäeval kell kaks.",
+    "Tema meeldib minu lastele pühapäeval.",
+    "Pühapäeval on linnas alati palju inimesi."
   ],
   "translation": [
     "on Sunday",
-    "Sunday"
+    "at Sunday"
   ],
-  "context": "The word pühapäeval is an adverb in Estonian that means on Sunday or Sunday, and it is commonly used to refer to something that happens or is done on Sundays."
+  "context": "The word 'pühapäeval' is the elative case of 'pühapäev', which means 'Sunday'. In Estonian, the elative case (-l ending) indicates movement away from something or location in/on something. Here it functions as an adverbial expression meaning 'on Sunday' or 'at Sunday', indicating when something happens."
 }

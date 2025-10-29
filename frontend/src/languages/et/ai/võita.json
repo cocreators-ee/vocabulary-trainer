@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võitsin selle mängu",
-    "Ta võidab alati maleturniiril",
-    "Meie meeskond võitis finaalis"
+    "Ma võin kergekaalulise mängu.",
+    "Ta võitis kõik matši sel seasoonil.",
+    "Meie võideti sellel turniiril."
   ],
   "translation": [
     "to win",
-    "victory",
+    "defeat",
     "conquer"
   ],
-  "context": "The word võita is commonly used in Estonian to mean achieving success or emerging victorious in a contest, competition, or challenge."
+  "context": "The Estonian word 'võita' is a verb that means 'to win'. It can be used in various contexts such as winning games, competitions, battles, or overcoming obstacles. The root form 'võita' indicates the infinitive, while conjugated forms like võivad (they can), võis (he/she/it was able to/won), and võideti (we were defeated) show different tenses and aspects of the verb."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Raha on rahulikult kogutud rahast.",
-    "Ta sai rahast suurt summat.",
-    "Meie projekti toetuseks kasutati rahast."
+    "Ei saa rahast oma äri alustada.",
+    "Pidi laenama rahast selleks projektiks.",
+    "Kas sa oled võimeline maksma rahast?"
   ],
   "translation": [
-    "money",
-    "funds"
+    "from money",
+    "with money",
+    "of money"
   ],
-  "context": "The word 'rahast' in Estonian refers to money or funds, often used in the context of financial resources allocated for a specific purpose such as projects or grants."
+  "context": "The Estonian word 'rahast' is the elative case form of 'raha' (money). The elative case indicates movement away from, or separation from something. So 'rahast' means 'from money' and is used to express that something comes out of or originates from a source of money. It can be translated as 'from money', 'with money', or 'of money' depending on the context."
 }

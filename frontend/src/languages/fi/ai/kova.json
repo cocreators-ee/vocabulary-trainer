@@ -1,13 +1,16 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kova ääni herätti minut.",
-    "Tällä radiolla on kova kuuluvuus.",
-    "Kevyt soittaa melkein kovaa."
+    "Tämä on kova työ.",
+    "Kova tuuli puhaltaa.",
+    "Hänellä on kova päänsärky."
   ],
   "translation": [
-    "loud"
+    "hard",
+    "tough",
+    "difficult",
+    "strong",
+    "severe"
   ],
-  "context": "Used to describe something loud or having a strong sound."
+  "context": "The Finnish word 'kova' is an adjective that means hard, tough, difficult, strong, or severe. It can be used to describe physical hardness (like a hard surface), difficulty of tasks (hard work), strength (strong wind), or severity (a severe headache). The word changes form depending on the case and number in Finnish grammar."
 }

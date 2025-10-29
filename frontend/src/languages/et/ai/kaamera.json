@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kaamera pildistas mind.",
-    "Ta võttis kaamera ja tegi pildi.",
-    "Kaameraga saab teha väga ilusaid pilte."
+    "Kaamera on töös.",
+    "Mul on uus kaamera.",
+    "Fotograaf seadis kaameral üles."
   ],
   "translation": [
-    "camera"
+    "camera",
+    "camcorder"
   ],
-  "context": "The word 'kaamera' refers to a device used for taking photographs or recording video, and it is commonly used in everyday language when discussing photography or videography."
+  "context": "The word 'kaamera' is Estonian for camera. It refers to a device used for capturing photographs or videos. In Estonian, it's a common loanword from European languages that entered the language through technological adoption. The word can be used in various contexts including photography equipment, video recording devices, and surveillance systems."
 }

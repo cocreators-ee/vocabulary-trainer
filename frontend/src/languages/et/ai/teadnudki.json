@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma teadnudki, et sa tuled.",
-    "Ta teadnudki, mis juhtus.",
-    "Nad teadnudki, kuidas seda teha."
+    "Ma tean seda juba, ma ei ole teadnudki.",
+    "Ta oli üllatunud, et ma olin teadnudki vastuse.",
+    "Kas sa oled kunagi teadnudki sellist asja?"
   ],
   "translation": [
-    "already knew",
-    "knew it all along",
-    "had known"
+    "even knew",
+    "knew at all",
+    "actually knew"
   ],
-  "context": "This Estonian word expresses that someone already knew something, often implying a sense of prior awareness or realization. It's similar to saying 'I already knew that' or 'I had known all along' in English."
+  "context": "The word 'teadnudki' is a compound form in Estonian combining the past tense participle 'teanud' (known) with the particle 'ki'. The 'ki' adds emphasis and can be translated as 'even', 'at all', or actually depending on context. It suggests that knowing something was noteworthy or unexpected. In English, this would correspond to constructions like 'even knew', 'knew at all', or 'actually knew' when emphasizing the fact of knowing something."
 }

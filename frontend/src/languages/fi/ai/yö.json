@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Yö on pimeää.",
-    "Öisin on usein kylmä.",
-    "Koko yö meni pieleen."
+    "Tänään on yö.",
+    "Yön aikana satoi vettä.",
+    "Odotan tulevaa yötä."
   ],
   "translation": [
-    "night"
+    "night",
+    "evening"
   ],
-  "context": "The word 'yö' refers to the period of darkness between sunset and sunrise, commonly used to describe the time of day or a period of rest."
+  "context": "The Finnish word 'yö' means 'night'. It refers to the period of darkness between sunset and sunrise. It's a common noun in Finnish and can be used in various contexts, such as describing the time when it's dark outside or referring to nighttime activities."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läheb kohtusse kaebama.",
-    "Politsei viis ta kohtusse tunnistusi andma.",
-    "Kohus otsustas saata ta kohtusse."
+    "Tööandja saadeti kohtusse seoses töövõtjaga tekkinud vaidluste tõttu.",
+    "Pärast pikka uurimist läks advokaat kohtusse oma kliendi kaitsmiseks.",
+    "Lapsed said viimaks võimaluse minna kohtusse ja öelda oma arvamust."
   ],
   "translation": [
     "to court",
-    "in court",
+    "into court",
     "before the court"
   ],
-  "context": "The word 'kohtusse' relates to legal proceedings and signifies going to or being present in a court of law. It can refer to either bringing someone *to* court as a plaintiff or defendant, or simply being *in* court for hearings or trials."
+  "context": "The Estonian word 'kohtusse' is in the illative case, meaning it indicates movement toward or into a location. It comes from the noun 'kohus' (court) and means to go to court, to enter the courtroom, or to appear before a judicial body. This form shows action directed toward the court system, such as when someone files a lawsuit or appears in court."
 }

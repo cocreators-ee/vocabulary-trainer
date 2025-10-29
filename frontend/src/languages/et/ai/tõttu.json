@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tahaksin, et sa tõestaksid minu sõbra väsimust.",
-    "Tema tõestused ei olnud usaldusväärsed.",
-    "Juhtunut tõestasid mässulased."
+    "Mul on head tervist tänu heale toidule.",
+    "Tema edu tulenes paljastest pingutustest.",
+    "Meie koosolek tühistati tormi tõttu."
   ],
   "translation": [
-    "to prove",
-    "evidence",
-    "proof"
+    "thanks to",
+    "due to",
+    "because of",
+    "on account of"
   ],
-  "context": "In Estonian, 'tõttu' is derived from the verb 'tõestama', meaning to prove or demonstrate something. It can be used in legal contexts as evidence or proof, and generally refers to showing something clearly with supporting facts or arguments."
+  "context": "The Estonian word 'tõttu' is a postposition that expresses causation or reason, similar to English prepositions like 'because of', 'due to', or 'thanks to'. It typically follows the noun phrase indicating the cause and precedes the main clause. For example, in 'Tema edu tulenes paljastest pingutustest' (His success stemmed from hard work), 'paljastest pingutustest' expresses the reason for his success."
 }

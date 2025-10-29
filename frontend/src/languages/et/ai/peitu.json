@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta peitis põõsasse.",
-    "Peitus on hea mäng lastele.",
-    "Nad said peitu ja otsisid."
+    "Ta peitus puude taha.",
+    "Lapsed peituvad mängimiseks.",
+    "Mina ei pea end peitma."
   ],
   "translation": [
     "hide",
-    "hiding place",
-    "to hide"
+    "conceal",
+    "take cover"
   ],
-  "context": "The Estonian word 'peitu' relates to the act of concealing oneself or something from observation. It can function as a verb meaning 'to hide', or as a noun referring to a hiding place or the state of being hidden. In English, it is commonly used in games like hide-and-seek, or when describing someone attempting to avoid detection."
+  "context": "The Estonian word 'peitu' is a verb that means to hide or conceal oneself. It's in the imperative mood, giving a command to hide. The root form is 'peida' (to hide), and 'peitu' specifically commands someone to hide themselves."
 }

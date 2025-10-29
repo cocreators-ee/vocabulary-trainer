@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma panin kaardi taskusse.",
-    "Ta võttis kaardi ja luges selle nimetähe.",
-    "Kaardid olid laual ja me mängisime neid."
+    "Kas sa võtad kaarti?",
+    "Meil on üks kaart sellest piirkonnast.",
+    "Mina tegin kaardi teie jaoks."
   ],
   "translation": [
-    "card"
+    "card",
+    "map"
   ],
-  "context": "The word 'kaardi' is the genitive form of 'kaart', which means a card, such as a playing card or a greeting card. In Estonian, it is commonly used to refer to various types of cards."
+  "context": "The word 'kaardi' is the genitive singular form of the Estonian noun 'kaar' in the context of 'kaar+d'. In this case, it functions as an object marker meaning 'of a card' or 'for a card'. It can refer to either playing cards or maps depending on context. The base form 'kaar' (card/map) becomes 'kaardi' when used with possessive structures or when indicating the direction/movement toward something."
 }

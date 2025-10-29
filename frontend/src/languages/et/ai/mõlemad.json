@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõlemad mehed on võidukad.",
-    "Ta teab, et mõlemad naised armastavad teda.",
-    "Mõlemad pojad on hea arvamus."
+    "Mõlemad mehed said haigesti.",
+    "Mõlemad lapsed käisid koolis.",
+    "Mõlemad variandid on head."
   ],
   "translation": [
-    "both",
-    "each"
+    "both"
   ],
-  "context": "The word 'mõlemad' in Estonian means both or each and is used to refer to two things or people that are being considered together."
+  "context": "The Estonian word 'mõlemad' is the plural form of 'mõlema', meaning 'both'. It's used to refer to two people, things, or options that are being considered together. In Estonian grammar, this form follows the partitive case pattern and agrees with plural nouns."
 }

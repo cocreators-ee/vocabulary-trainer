@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen siinsamas.",
-    "Ta on siinsamas ja valmis.",
-    "Siinsamas on kõik vajalik."
+    "Siinsamas on meie kodu.",
+    "Tule siinsamas ära!",
+    "Kas sa näed seda siinsamas asuvat maja?"
   ],
   "translation": [
     "right here",
-    "here"
+    "in this very place",
+    "precisely here"
   ],
-  "context": "The word 'siinsamas' in Estonian means being located at the current place or position, similar to the English phrase 'right here'."
+  "context": "The word 'siinsamas' is an Estonian adverb that means 'right here' or 'in this very place'. It's composed of 'siin' (here) and 'samas' (just/precisely), emphasizing the exact location where something is located. The word reinforces immediacy and proximity to both speaker and listener."
 }

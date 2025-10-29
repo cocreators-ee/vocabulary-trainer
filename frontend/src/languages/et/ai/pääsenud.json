@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen pääsenud koolist.",
-    "Ta on pääsenud töölt.",
-    "Nad on pääsenud linnast."
+    "Ma olen pääsenud eksamist.",
+    "Tema on pääsenud edasi järgmasele voorule.",
+    "Meie oleme pääsenud lõppu."
   ],
   "translation": [
-    "escaped",
-    "got away",
-    "managed to get out"
+    "passed (test/exam)",
+    "advanced",
+    "made it through"
   ],
-  "context": "The word 'pääsenud' is a verb in Estonian that means to have escaped or gotten away from somewhere, often used to describe someone who has managed to leave a place or situation safely."
+  "context": "The word 'pääsenud' is the past participle form of the Estonian verb 'pääsma', which means 'to pass' or 'to get through'. It typically refers to successfully completing something like an exam, test, round of competition, or some other hurdle. The word can be used in various contexts such as education (passing exams), competitions (advancing to the next round), or general accomplishments (making it through a difficult situation)."
 }

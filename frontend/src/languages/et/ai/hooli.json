@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei hooli sellest.",
-    "Ära muretse, ma hoolin sinust.",
-    "Ta ei hoolinud mu sõnadest."
+    "Ma hoolin sinust.",
+    "Ta ei hooli oma tervisest.",
+    "Me peame rohkem hoolima keskkonnast."
   ],
   "translation": [
-    "care",
-    "worry",
-    "bother"
+    "to care about",
+    "to take care of",
+    "to mind",
+    "to be concerned about"
   ],
-  "context": "The Estonian word 'hooli' generally translates to 'care' or 'to care about' in English. It expresses concern or a lack thereof for something or someone, and is used in situations where one might say 'I don’t care' or 'I am concerned'."
+  "context": "In Estonian, 'hooli' is the singular imperative form of the verb 'hooldama', which means to care for or look after. It's used when giving a command or request to one person. The base verb 'hooldama' can mean various things related to caring - from physical care and maintenance to emotional concern. In its imperative form, it's often used as advice or instruction: 'Hooli!' (Take care!) or 'Hooli endast!' (Take care of yourself!)."
 }

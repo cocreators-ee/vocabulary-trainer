@@ -1,13 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Lohkot kovalevyllä ovat yksittäisiä tietoja tallennettuja pylväitä.",
-    "Hän järjesti tehtävät lohkoihin tyypin mukaan.",
-    "Tämä ohjelma käyttää lohkojen kokoja muodostaa nopeamman latauksen."
+    "Tämä on erillinen lohko.",
+    "Talossa on neljä lohkoa.",
+    "Lohkojen järjestely vaati aikaa."
   ],
   "translation": [
-    "block"
+    "block",
+    "section",
+    "unit",
+    "division"
   ],
-  "context": "The term 'lohko' refers to a block or a segment, commonly used in computing contexts for data blocks or organizational segments."
+  "context": "The Finnish word 'lohko' can be translated as 'block', 'section', 'unit', or 'division'. It refers to a separate part, section, or division of something larger. The noun can appear in different forms: singular form 'lohko', plural form 'lohkot', and partitive case 'lohkoa' when referring to some blocks/sections."
 }

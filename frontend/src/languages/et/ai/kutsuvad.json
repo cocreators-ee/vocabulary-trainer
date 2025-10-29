@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nad kutsuvad mind iga päev.",
-    "Ta kutsus mind öösel.",
-    "Me kutsuvad teda homme koosolekule."
+    "Kõik lapsed kutsuvad mind oma juubeliks.",
+    "Tüdrukud kutsuvad sind homme kohtumisele.",
+    "Naised kutsuvad meid peole."
   ],
   "translation": [
     "invite",
     "call"
   ],
-  "context": "The word 'kutsuvad' is a verb that means to invite or call someone, and it is commonly used in Estonian language to express the act of asking someone to come or join something."
+  "context": "The word 'kutsuvad' is the third person plural present tense form of the Estonian verb 'kutsuma', which means 'to invite' or 'to call'. It indicates that a group of people (they) are performing the action of inviting someone to an event or place. The form shows subject-verb agreement with multiple agents doing the inviting."
 }

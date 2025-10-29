@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kuue kord kuus.",
-    "Ma ostsin kuue teekettaast.",
-    "Tema nimi on Kuue."
+    "Kuue kuu viimane päev on juuni kuues.",
+    "Meie kuue aasta plaan valmis.",
+    "Ta töötab kuue tunni päevas."
   ],
   "translation": [
-    "sixth",
-    "six"
+    "six",
+    "6"
   ],
-  "context": "The word 'kuue' is the Estonian ordinal number for sixth. It can also be used as a cardinal number in some contexts but primarily functions as an ordinal to describe something that comes after the fifth position or item in a sequence, such as dates, rankings, and positions."
+  "context": "The word 'kuue' is the Estonian ordinal form of the number six, used to indicate position or order as in the sixth month (June) or the sixth day. It's the partitive/genitive case form of 'kuus' (the cardinal number six). In Estonian grammar, numbers change their endings depending on grammatical case and context."
 }

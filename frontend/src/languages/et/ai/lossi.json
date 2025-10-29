@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lossi taga.",
-    "Lossid on võimsad.",
-    "Tema loss on suur."
+    "Lossi on ehitatud kivist.",
+    "Lossis elab lossivalitseja.",
+    "Mees läks lossi üle."
   ],
   "translation": [
     "castle",
-    "fortress"
+    "palace",
+    "manor house"
   ],
-  "context": "The word 'loss' in Estonian generally refers to a castle or fortress, often used to describe historical buildings or structures that served as strongholds for rulers or nobility."
+  "context": "The word 'lossi' is the illative case form of the Estonian noun 'loss', which means 'castle' or 'palace'. In Estonian grammar, the illative case indicates movement into a place. So 'lossi' specifically means 'into the castle/palace' and would be used when describing someone entering or going to a castle or palace."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tulen siia tänavaid mööda.",
-    "Siia on võrdlemisi lähedal.",
-    "Ta läks siia ja naasis homme."
+    "Tule siia!",
+    "Siia tuleme meie.",
+    "Lähme siia kohta."
   ],
   "translation": [
     "here",
-    "to here"
+    "to here",
+    "hither"
   ],
-  "context": "The word 'siia' is commonly used in Estonian to indicate a direction or location, similar to the English word 'here', and can be seen in various forms such as 'siia' and 'siia'"
+  "context": "The Estonian word 'siia' is an adverb that means 'here' or 'to here'. It indicates direction toward the speaker's location. In Estonian grammar, it's part of a system showing motion toward vs away from the speaker (cf. 'sinna' - there/to there). It can be used independently as in commands ('Tule siia!' - Come here!) or as part of phrases indicating destination."
 }

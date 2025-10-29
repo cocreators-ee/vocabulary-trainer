@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maaperä on tärkeä osa ympäristöämme.",
-    "Hän tutki maaperän koostumusta.",
-    "Maaperän laatu vaikuttaa kasvien kasvuun."
+    "Maaperä on tärkeä osa luontoa.",
+    "Suomen maaperä on hyvin hedelmällistä.",
+    "Tutkijat analysoivat maaperän koostumusta."
   ],
   "translation": [
     "soil",
-    "ground",
-    "earth"
+    "earth",
+    "ground"
   ],
-  "context": "The word 'maaperä' refers to the soil or ground, and is commonly used in Finnish to discuss environmental issues, geology, or agriculture."
+  "context": "The Finnish word 'maaperä' refers to the soil or upper layer of the earth's surface. It's a compound word where 'maa' means 'land' or 'earth' and '-perä' can indicate depth or the deepest part. In Finnish, this term specifically denotes the fertile upper layer of soil that supports plant growth, differentiating it from deeper layers of earth."
 }

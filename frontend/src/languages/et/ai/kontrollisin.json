@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kontrollisin seda kohe.",
-    "Ta kontrollis arvuteid.",
-    "Kontrollige oma töö."
+    "Kontrollisin kella kahteksa.",
+    "Kas sa kontrollisid oma dokumente?",
+    "Me kontrollisime kogu õpilaskonna nimesid."
   ],
   "translation": [
-    "check",
-    "control",
-    "inspect"
+    "checked",
+    "verified",
+    "examined"
   ],
-  "context": "The word kontrollisin is a verb in Estonian that means to check or control something, and it is commonly used in various contexts such as checking the quality of work or controlling a machine."
+  "context": "The word 'kontrollisin' is the past tense first person singular form of the Estonian verb 'kontrollima', which means to check, verify, or examine. It indicates that the speaker performed an action of checking something in the past."
 }

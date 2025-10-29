@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Puu on puulaji.",
-    "Hän istui puun alla.",
-    "Puuta käytetään usein rakennusmateriaalina."
+    "Tämä on iso puu.",
+    "Puut kasvavat hitaasti.",
+    "Metsässä oli useita puita."
   ],
   "translation": [
     "tree",
     "wood"
   ],
-  "context": "The word 'puu' in Finnish can refer to a tree or wood as a material, and it is commonly used in everyday language to describe objects made of wood or to talk about trees in nature."
+  "context": "The Finnish word 'puu' means both 'tree' (the living plant) and 'wood' (the material). It's a common noun in Finnish. When used to refer to the tree as a living organism, it typically has the article 'puu'. When referring to wood as material, it can also be called 'puutavara' or just 'puu' depending on context."
 }

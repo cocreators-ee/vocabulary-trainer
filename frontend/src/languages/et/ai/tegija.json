@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on tegija, kes teeb tööd.",
-    "Tegijad on need, kes midagi saavutavad.",
-    "Olen tegija, mitte vaatleja."
+    "Tegijad on vastutavad selle eest.",
+    "Ta oli tegelane, kes tegi seda teo.",
+    "Mida sa selles teos tegijaks pead?"
   ],
   "translation": [
     "doer",
-    "actor"
+    "actor",
+    "maker",
+    "perpetrator"
   ],
-  "context": "The word 'tegija' in Estonian refers to a person who performs or accomplishes something, similar to the English word 'doer' or 'actor'."
+  "context": "The Estonian word 'tegija' is a noun that means 'doer' or 'one who does'. It refers to someone who performs an action or makes something happen. In different contexts, it can be translated as 'doer', 'actor', 'maker', or even 'perpetrator' depending on the nature of the action being performed. The word is derived from the verb 'tegema' (to do/to make) with the suffix '-ja' which forms agent nouns indicating someone who performs an action."
 }

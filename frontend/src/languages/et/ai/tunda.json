@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tundsin end väga üksikuks",
-    "Ta tunneb end kergemana",
-    "Tunda saab ainult ise"
+    "Mul tundub, et see on hea idee.",
+    "Ta tunneb headu kõige väiksemast asjast.",
+    "Meie lapsele ei tundu midagi huvitavat."
   ],
   "translation": [
     "to feel",
-    "to sense",
-    "to perceive"
+    "to seem",
+    "to appear"
   ],
-  "context": "The word 'tunda' in Estonian means to experience or have a sensation, and it is commonly used in various contexts such as emotions, physical sensations, or perceptions."
+  "context": "The Estonian word 'tunda' is a versatile verb that primarily means 'to feel' or 'to seem/appear'. It can be used to express personal sensations (like feeling something) as well as subjective perceptions about situations (how things seem to someone). In its reflexive form 'tunduda', it specifically expresses how something appears to someone. The conjugation varies depending on the subject and tense, but it maintains this core meaning of sensory perception or appearance."
 }

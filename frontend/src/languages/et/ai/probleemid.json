@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on palju probleeme",
-    "Ta võtab kõik probleemid rahulikult",
-    "Meil on ühine probleem"
+    "Mul on palju probleeme tööga.",
+    "See projekt tekitas mõned keerulised probleemid.",
+    "Lahendame need probleemid koos."
   ],
   "translation": [
     "problems",
-    "issues"
+    "issues",
+    "difficulties"
   ],
-  "context": "The word 'probleemid' in Estonian refers to problems or issues that someone is facing, and it is commonly used in everyday conversations to describe difficulties or challenges."
+  "context": "The Estonian word 'probleemid' is the plural form of 'probleem', which means 'problem'. It refers to multiple issues, difficulties, or challenges that someone is facing. The '-id' ending indicates this is a plural noun in Estonian."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Inimesed tapetakse igal päeval.",
-    "Ta arvas, et ta ei tapetake.",
-    "Tapetakse alati sama viisil."
+    "Politsei tapetakse kurjategijaid.",
+    "Metsas tapetakse palju linde.",
+    "Sõdurid tapetakse lahingus."
   ],
   "translation": [
-    "are killed",
-    "will be killed",
-    "one is killed"
+    "is killed",
+    "are killed"
   ],
-  "context": "Estonian word 'tapetakse' comes from the verb 'tappa', which means to kill. It is used to describe someone being killed, either in a literal or figurative sense. The form used here indicates that it's happening generally or as an ongoing situation."
+  "context": "The word 'tapetakse' is the 3rd person plural present indicative passive form of the verb 'tappama', which means 'to kill'. The passive voice indicates that someone or something receives the action rather than performs it. So 'tapetakse' specifically means 'is killed/are killed' - referring to multiple people or things being killed by someone else."
 }

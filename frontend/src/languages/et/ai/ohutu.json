@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on ohutu inimene.",
-    "Ohutud võivad olla üsna erinevad.",
-    "Tema ohutus ei ole kindel."
+    "See on ohutu toode.",
+    "Kas see ravim on ohutu?",
+    "Me tagame kõigi jaoks ohutuse."
   ],
   "translation": [
-    "harmless",
-    "innoxious"
+    "safe",
+    "secure",
+    "harmless"
   ],
-  "context": "The word ohutu is an Estonian adjective that means harmless or not causing any damage, and it is commonly used to describe a person or thing that does not pose any threat or danger."
+  "context": "The word 'ohutu' is an adjective in Estonian that means safe, secure, or harmless. It describes something that poses no danger or risk to people's health, well-being, or security. In comparative form it would be 'ohutum' (safer), and superlative 'ohutaim' (safest)."
 }

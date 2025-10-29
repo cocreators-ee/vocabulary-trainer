@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen teise koha saanud.",
-    "Teise päeva hommikul läksin tööle.",
-    "Ta on teise klassi õpilane."
+    "Teise koha saavutas noor sportlane.",
+    "Mõlemad pojad said teised kohti võistlusel.",
+    "Ta otsis teisi lahendusi probleemile."
   ],
   "translation": [
     "second",
+    "other (plural)",
     "another"
   ],
-  "context": "The word 'teise' in Estonian is used to indicate something that comes after the first, such as a second item or another option. It can be used as an adjective or adverb to provide more information about the context of a situation."
+  "context": "The Estonian word 'teise' is the partitive case form of 'teine', meaning 'second' or 'other'. In its plural form, it can mean 'others' or 'additional ones'. It's commonly used when referring to second place in competitions or as a determiner for additional/alternative items."
 }

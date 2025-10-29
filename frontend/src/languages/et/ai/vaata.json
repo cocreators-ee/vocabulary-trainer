@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vaatan telekat.",
-    "Ta vaatas aknast välja.",
-    "Nad vaatavad filmi."
+    "Vaata seda pilti!",
+    "Me vaatasime filmi eile õhtul.",
+    "Sa peaksid alati vastutavad inimesi vaatama."
   ],
   "translation": [
     "look",
+    "see",
     "watch"
   ],
-  "context": "The word 'vaata' is commonly used in Estonian to mean looking or watching something, and it can be used in different forms such as 'vaatan', 'vaatas', and 'vaatavad' to indicate the subject of the sentence."
+  "context": "The Estonian word 'vaata' is the imperative form of the verb 'vaatama', which means 'to look' or 'to watch'. It's used as an informal command telling someone to look at something. The infinitive form is 'vaatama', and in past tense it would be 'vaatasin' (I looked/watched) or 'vaatasime' (we watched)."
 }

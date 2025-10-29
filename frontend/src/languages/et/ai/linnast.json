@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tulin linnast.",
-    "Linnast läheb buss kella kolmeks.",
-    "Ta pani asja juurde ja läks linnast välja."
+    "Tulin linna linnast.",
+    "Möödusime linna linnast.",
+    "Ta kolis linna linnast."
   ],
   "translation": [
-    "from the city"
+    "from the city",
+    "out of the city"
   ],
-  "context": "'linnast' is a prepositional form of 'linn', meaning city, used with verbs to indicate origin from the city. It's commonly used in sentences where someone or something comes from a city context."
+  "context": "The word 'linnast' is an Estonian postposition that means 'from the city' or 'out of the city'. It indicates movement away from a city or originating from a city. In Estonian grammar, this form shows elative case - motion out from something. The base word 'linn' means 'city', and '-st' is a suffix indicating source or origin."
 }

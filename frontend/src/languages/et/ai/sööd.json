@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma söön hommikust putru.",
-    "Ta sõi terve tordi üksi.",
-    "Kas sa sööd liha?"
+    "Sööd on valmis nüüd.",
+    "Ma olen söömises kaks tundi.",
+    "Kas sa sööd või mitte?"
   ],
   "translation": [
     "eat",
-    "to eat",
-    "eating"
+    "food",
+    "meal"
   ],
-  "context": "The verb 'sööd' in Estonian means 'to eat'. It is a very common and essential verb used to describe the act of consuming food. It can be conjugated into different tenses and forms depending on who is eating and when."
+  "context": "The word 'sööd' is the partitive case form of the verb 'sööma' (to eat) in Estonian. It can also refer to food or meals in general, especially when talking about consuming them. The partitive case often indicates an incomplete action or object being acted upon."
 }

@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tegi suure tööga korda oma maja.",
-    "Me tegime koos nalja ja mängisime.",
-    "Ära tee nii! See on ohtlik."
+    "Tegid head tööd.",
+    "Mida tegite eile?",
+    "Nad tegid koostööd."
   ],
   "translation": [
-    "did",
     "made",
-    "done",
+    "did",
     "performed"
   ],
-  "context": "The word 'tegid' is the past tense, third-person plural form of the verb 'tegema', which means 'to do' or 'to make'. It indicates an action that was completed by multiple subjects. In English, it’s commonly used to describe actions already finished and can often be translated as ‘did’, ‘made’ or ‘done’."
+  "context": "The word 'tegid' is the past tense plural form of the Estonian verb 'tegema', which means 'to do' or 'to make'. It corresponds to English verbs like 'made', 'did', or 'performed' in their past tense forms. This verb form would be used when referring to multiple people performing actions in the past."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tõmbas mind käest.",
-    "Ma tõmbasin enda üles.",
-    "Me tõmbasime koos selle pika tee."
+    "Tõmbas ukse kinni.",
+    "Ta tõmbas kätega.",
+    "Me tõmbame koos."
   ],
   "translation": [
     "pulled",
-    "dragged",
-    "tugged"
+    "drew",
+    "dragged"
   ],
-  "context": "The word 'tõmbas' is a verb in Estonian that means to pull or drag something, often with a sense of force or effort, and it is commonly used in various contexts such as physical actions or describing movements."
+  "context": "The word 'tõmbas' is the past tense, third-person singular form of the Estonian verb 'tõmmata', which means 'to pull'. It describes an action where someone or something applies force to draw something toward oneself or in a particular direction. This could be physically pulling an object, a door, or even metaphorically pulling something like attention."
 }

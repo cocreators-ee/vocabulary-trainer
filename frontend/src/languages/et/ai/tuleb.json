@@ -1,14 +1,16 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta tuleb homme kooli.",
-    "Kus sa oled, et ma tahan tuleb?",
-    "Ma tean, et ta jällegi ei tuleb."
+    "Tuleb homme kohtumine.",
+    "Mis tuleb teha?",
+    "Ta tuleb varsti tagasi."
   ],
   "translation": [
     "comes",
-    "will come"
+    "arrives",
+    "is coming",
+    "must",
+    "has to"
   ],
-  "context": "The word 'túleb' is the third person singular form of the verb 'to come'. It is used to describe someone or something coming in the present tense."
+  "context": "The Estonian word 'tuleb' is the third-person singular present tense form of the verb 'tulla' meaning 'to come'. It can be used both literally to indicate arrival or movement toward a location, and also in an auxiliary sense to express obligation or necessity similar to English 'must' or 'has to'. The form depends on context - it may be followed by temporal expressions like 'homme' (tomorrow) for future arrangements, or interrogative structures asking what needs to be done."
 }

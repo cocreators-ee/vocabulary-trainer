@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä asiakirja on säilytettävä viideksi vuodeksi.",
-    "Säilytettävät tiedot ovat tallessa palvelimella.",
-    "Asiakkaan tietojen säilyttäminen on tärkeää."
+    "Tämä tuote on säilytettävä kuivassa paikassa.",
+    "Lääkkeitä tulee säilyttää lasten ulottumattomissa.",
+    "Säilytettävät elintarvikkeet on merkitty selkeästi."
   ],
   "translation": [
-    "storable",
-    "to be stored"
+    "must be preserved",
+    "should be stored",
+    "needs to be kept",
+    "to be maintained"
   ],
-  "context": "The word säilytettävä is commonly used in Finnish to describe something that needs to be stored or preserved, often in relation to documents or data."
+  "context": "The Finnish word 'säilytettävä' is a passive participle form of the verb 'säilyttää' (to preserve, store, keep). It describes something that needs to or should be preserved/stored/kept. The '-ettävä' suffix indicates possibility or necessity in the passive voice, similar to English words ending in '-able' or '-ible'. This word is commonly used for instructions on product labels, storage requirements, and preservation guidelines."
 }

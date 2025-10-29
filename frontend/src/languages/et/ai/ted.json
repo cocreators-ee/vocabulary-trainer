@@ -1,15 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tegi seda ted.",
-    "Ma nägin teda tegutsemas.",
-    "See on väga hea tegu."
+    "Ted on hea sõber.",
+    "Kus elab Ted?",
+    "Ted külastas meid eile."
   ],
   "translation": [
-    "did",
-    "act",
-    "deed"
+    "Ted"
   ],
-  "context": "The Estonian word 'ted' is a past tense form of the verb 'tegema', which means 'to do' or 'to act'. It can also refer to a deed or action as a noun. In everyday conversation, it’s used to describe completed actions."
+  "context": "The word 'ted' in Estonian is a name, specifically the English name 'Ted' used as-is in Estonian. It refers to a male person named Ted and functions as a proper noun in Estonian sentences. This is an example of how foreign names are often adopted directly into Estonian without translation."
 }

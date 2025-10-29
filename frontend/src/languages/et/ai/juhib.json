@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta juhib autot kiiresti.",
-    "Juhime meie firma.",
-    "Ta on hea juht."
+    "Ta juhib meeskonda.",
+    "Meeskond juhitud on tugev.",
+    "Kes juhindub?"
   ],
   "translation": [
     "leads",
-    "manages"
+    "guides",
+    "directs",
+    "conducts"
   ],
-  "context": "The word 'juhib' means to lead or manage something or someone in Estonian, and it is commonly used to describe a person who has control over a group of people or an organization."
+  "context": "The word 'juhib' is the 3rd person singular present tense form of the Estonian verb 'juhtima', which means to lead, guide, direct, or conduct. It is used when talking about someone currently leading a group, conducting an activity, or guiding something/someone."
 }

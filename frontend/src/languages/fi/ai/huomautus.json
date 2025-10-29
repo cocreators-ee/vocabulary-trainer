@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän teki huomautuksen virhemäärästä.",
-    "Huomautukset ovat tervetulleita.",
-    "Opettaja kirjoitti huomautuksensa kohtaan."
+    "Minulla on huomautus sinulle.",
+    "Hän teki tärkeän huomautuksen kokouksessa.",
+    "Virheellinen lasku vaati välitöntä huomautusta."
   ],
   "translation": [
     "remark",
     "comment",
+    "observation",
     "note"
   ],
-  "context": "The word huomautus refers to a remark, comment, or note, often made to express an opinion, criticism, or observation about something, and is commonly used in formal and informal settings in Finnish."
+  "context": "The Finnish word 'huomautus' is a noun that typically refers to a remark, comment, observation, or note made about something. It often implies pointing out something noteworthy, making an observation, or drawing attention to a particular detail. The word can be used in various contexts such as during discussions, meetings, when reviewing documents, or when providing feedback. In its different forms, it might appear as 'huomautuksia' (plural), 'huomautuksen' (genitive case), or 'huomautus' (nominative singular)."
 }

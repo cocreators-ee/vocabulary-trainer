@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on ollut auto",
-    "Hän ei ole ollut täällä",
-    "He ovat olleet jo monta kertaa Suomessa"
+    "Olla ollut on ollut.",
+    "Minä olen ollut siellä.",
+    "Hän oli ollut kouluun."
   ],
   "translation": [
-    "been",
-    "have been"
+    "has been",
+    "was",
+    "had been"
   ],
-  "context": "The word 'ollut' is the past participle form of the Finnish verb 'olla', which means 'to be'. It is commonly used in sentence constructions to indicate a completed action or state in the past, similar to the English verb 'have been'."
+  "context": "The Finnish word 'ollut' is the past participle form of the verb 'olla', which means 'to be'. It can function as an adjective meaning 'having been' or serve in various compound tenses. As a past participle, it's used to form perfect tenses with the auxiliary verb 'olla' (have/has been). The word appears in compound constructions like on ollut (has been), oli ollut (had been), and olleet ovat olleet (they have been)."
 }

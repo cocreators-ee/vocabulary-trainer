@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän ottää aamiaisensa kuudelta.",
-    "Otan yhden kupin kahvia, kiitos.",
-    "He ottavat osaa kilpailuun."
+    "Minun pitää ottaa lääke.",
+    "Hän otti kirjan hyllyltä.",
+    "Otan autoa huomenna."
   ],
   "translation": [
-    "takes",
-    "take"
+    "to take",
+    "to get",
+    "to receive",
+    "to accept"
   ],
-  "context": "The word 'ottaa' is a verb in Finnish that means to take or capture something, and it is commonly used in various contexts such as taking food, taking part in an event, or taking someone's picture."
+  "context": "The Finnish verb 'ottaa' is a very common and versatile word that means 'to take', 'to get', 'to receive', or 'to accept'. It's used in various contexts such as taking something physical (like taking a book from a shelf), receiving something (taking medicine), getting something (taking a car), or accepting an offer. As an -aa verb, it follows regular conjugation patterns in Finnish."
 }

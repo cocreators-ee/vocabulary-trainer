@@ -1,14 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma otsin raamatu.",
-    "Raamatu autor on tuntud kirjanik.",
-    "Raamatus käsitletakse põhjalikult ajaloofakte."
+    "Ma olen lugemas raamatu.",
+    "See on hea raamat.",
+    "Tema ostis uue raamatu."
   ],
   "translation": [
-    "book",
-    "literature"
+    "book"
   ],
-  "context": "Used to refer to a physical or written collection of pages bound together, containing stories, information, or other content. It is commonly used in academic and daily contexts."
+  "context": "The word 'raamat' is a singular noun in Estonian that means 'book'. It refers to a written or printed work consisting of pages bound together. In the examples, it's used in its basic form without any suffixes or modifications. The genitive form would be 'raamatu', and partitive form would be 'raamatut'."
 }

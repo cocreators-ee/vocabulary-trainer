@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei tea, milleski sa mõtled.",
-    "See on lihtsalt milleski selline tunne.",
-    "Milleski peab ju alustama."
+    "Milleski sa arvad, et see peaks toimuma?",
+    "Ta ei öelnud millisel põhjusel ta ei tulnud.",
+    "Selliseid asju ei juhtu milleski."
   ],
   "translation": [
-    "something",
-    "anything",
-    "in something"
+    "in some way",
+    "somehow",
+    "for some reason"
   ],
-  "context": "The Estonian word 'milleski' is a particle used to indicate an unspecified thing or matter. It’s similar to ‘something’ or ‘anything’ in English, often used in questions or to express uncertainty about what is being referred to. It can also be used as part of a prepositional phrase indicating involvement *in* something."
+  "context": "The word 'milleski' is an Estonian adverb that expresses uncertainty or vagueness. It's formed from the interrogative pronoun 'millal' (when) with the suffix '-ski', which indicates approximation or vagueness. The word suggests something happened without a clear reason or in an unspecified manner, similar to English expressions like 'somehow', 'in some way', or 'for some reason'. It often appears when the speaker cannot provide a specific explanation for an event or situation."
 }

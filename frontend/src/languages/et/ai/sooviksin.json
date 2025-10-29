@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma sooviksin tellida ühe õlle.",
-    "Ta sooviks reisida Aafrikasse.",
-    "Kas sa sooviksid mind aidata?"
+    "Sooviksin sinuga kohtuda.",
+    "Ma sooviksin lennata Pariisi.",
+    "Kas sa sooviksid aidata mulle?"
   ],
   "translation": [
-    "I would like",
-    "I wish",
-    "Would you like"
+    "I would like to",
+    "I would want to",
+    "I wish"
   ],
-  "context": "The verb 'sooviksin' is a conditional form of the Estonian verb 'soovida', meaning 'to want' or 'to desire'. It expresses a polite request, a wish, or a hypothetical situation. In English, it’s often translated as 'I would like' or 'would you like'."
+  "context": "The word 'sooviksin' is the conditional form of the verb 'soovima' (to wish, to want). It's used to express a desire or wish in the past tense or hypothetical situations. In English, it corresponds to 'I would like to', 'I would want to', or 'I wish'. This form is often used politely when making requests or expressing desires about what one might do."
 }

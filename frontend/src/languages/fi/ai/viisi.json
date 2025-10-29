@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on viisi euroa.",
-    "Hänellä on viisi koiraa.",
-    "Meillä on viisi lasta."
+    "Minulla on viisi appelsiinia.",
+    "Viisi lasta leikkivät puistossa.",
+    "Hän maksoi viisi euroa tuotteesta."
   ],
   "translation": [
-    "five"
+    "five",
+    "5"
   ],
-  "context": "The word viisi is a Finnish numeral that means five in English and is commonly used to count objects or quantities."
+  "context": "The Finnish word 'viisi' means the number five. It is used to count or indicate quantity, similar to how we use the number 5 in English. In sentences, it typically appears before the noun being counted when using the partitive case, as shown in the examples."
 }

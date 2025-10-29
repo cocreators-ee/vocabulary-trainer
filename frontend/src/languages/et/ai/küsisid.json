@@ -1,14 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Oled sa kunagi küsisid, miks ta nii tegi?",
-    "Ta küsisid mulle, et kas ma usaldan teda.",
-    "Kas sa küsisid neile, kus on su vahetult läheb?"
+    "Kas te küsisid mind?",
+    "Ta küsisid mulle palju küsimusi.",
+    "Mõlemad poisslapsed küsisid talt nime."
   ],
   "translation": [
-    "asked",
-    "you asked"
+    "asked"
   ],
-  "context": "The verb 'küsid' means to ask. It is commonly used in everyday conversation to express someone asking a question or seeking information."
+  "context": "The word 'küsisid' is the past tense plural form of the Estonian verb 'küsima', which means 'to ask'. It specifically indicates that multiple people did the asking in the past. The base form 'küsima' would be used for present tense or infinitive, while 'küsisid' shows that more than one person asked something at some time in the past."
 }

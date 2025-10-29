@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kahe võimaluse ees",
-    "Ta on kahe inimese vahel",
-    "Kahe nädala pärast"
+    "Ta ostis kahe kilo õunu",
+    "Meil on kahe tunni pikkune kohtumine",
+    "Lapsed mängivad kahe tunni jooksul"
   ],
   "translation": [
     "two",
-    "both"
+    "of two",
+    "dual"
   ],
-  "context": "The word 'kahe' is used to indicate the number two or both, and it is commonly used in Estonian language to express duality."
+  "context": "The word 'kahe' is the partitive form of the number 'kaks' (two) in Estonian. It's used when referring to a quantity of something, typically with mass nouns or when counting items. In these examples, it indicates 'two kilos', 'two hours', and shows duration over a two-hour period."
 }

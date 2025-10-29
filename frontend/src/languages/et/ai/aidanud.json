@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen aidanud teda mitu korda.",
-    "Ta on mulle palju kordi aidanud.",
-    "Nad on meile korduvalt aidanud."
+    "Ema aitab lastel koolis.",
+    "Ma aitan oma sõpru kodutöödes.",
+    "Ta aidanud meil eelmisel nädalal projektis."
   ],
   "translation": [
-    "helped"
+    "helped",
+    "assisted",
+    "aided"
   ],
-  "context": "The word 'aidanud' is the past participle form of the Estonian verb 'aitama', which means to help. It is commonly used in sentences to describe actions where someone has provided assistance or support to another person."
+  "context": "The word 'aidanud' is the past tense form of the Estonian verb 'aita', which means 'to help'. In this case, it's in the third person singular past tense. The '-nud' suffix indicates completed action in the past. This form would typically be used when someone has already performed the action of helping."
 }

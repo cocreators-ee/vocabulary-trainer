@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta toob mulle kohvi.",
-    "Toob tema sulle õuna?",
-    "See toob meile palju raha."
+    "Tema toob homme kingituse.",
+    "Mis ta toob?",
+    "Ta toob alati head meeleolu."
   ],
   "translation": [
     "brings",
-    "carry"
+    "takes",
+    "carries"
   ],
-  "context": "The word 'toob' is a verb in Estonian that means to bring or carry something, and it is commonly used in everyday conversations to describe the act of moving or transporting objects from one place to another."
+  "context": "The word 'toob' is the third-person singular present form of the Estonian verb 'tulema', which means 'to bring'. It is used when talking about what someone (he/she/it) brings or carries to a place. For example, when referring to what a person will bring as a gift or item somewhere."
 }

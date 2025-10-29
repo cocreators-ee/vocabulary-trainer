@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Junalla pääsee kaupungista toiseen pitkin kiskoa.",
-    "Kisko on rautatien osa, jota junat käyttävät liikkuessaan.",
-    "Veturin pyörät olivat kuluneet ja tarvitsivat uudet renkaat, jotta ne voisivat toimia oikein kiskolla."
+    "Kiskot olivat jäätävän kylmät.",
+    "Rautatie kiskoja kulkee kaupungin halki.",
+    "Minun täytyy vaihtaa vanha kisko uuteen."
   ],
   "translation": [
     "rail",
-    "track"
+    "track",
+    "bar",
+    "rod"
   ],
-  "context": "The word 'kisko' refers to a rail or track, typically in the context of a railway or train system. It is commonly used in Finnish to describe the path or route that trains follow."
+  "context": "The Finnish word 'kisko' translates to English as 'rail', 'track', or sometimes more generally as a rod or bar. It most commonly refers to railway tracks, the metal rails on which trains run. The word can also be used in other contexts where something has a long, narrow, straight shape similar to a rail or track."
 }

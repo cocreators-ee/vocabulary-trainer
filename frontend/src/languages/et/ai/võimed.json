@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võidab võimedega kõik vastased.",
-    "Võimed on inimese omadused, mis tema eristavad teistest.",
-    "Tema võimed olid hämmastavad."
+    "Mul on head võimed",
+    "Tema võidavad alati meeskonna võimed",
+    "Pead arendama oma võimed"
   ],
   "translation": [
-    "abilities",
     "powers",
-    "talents"
+    "abilities",
+    "skills",
+    "capacities"
   ],
-  "context": "The word 'võimed' refers to a person's natural abilities or talents that distinguish them from others."
+  "context": "\"Võimed\" is the plural form of \"võime\" in Estonian, which means power, ability, skill or capacity. The word refers to someone's capabilities or talents - their physical or mental abilities to perform certain actions. It can be used to describe both natural talents and developed skills."
 }

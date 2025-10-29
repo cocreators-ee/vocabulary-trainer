@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on reegel number üks.",
-    "Ma ei tea selle reegli tähendust.",
-    "Nad rikkusid kõiki reegleid."
+    "See on hea reegel järgida.",
+    "Töökohas peavad kõik järgima reegleid.",
+    "Milline on see reegel?"
   ],
   "translation": [
     "rule",
     "regulation",
-    "principle"
+    "guideline"
   ],
-  "context": "The word 'reegel' in Estonian translates to 'rule', 'regulation', or 'principle' in English. It is commonly used to describe a principle or instruction that should be followed, similar to how 'rule' is used in English."
+  "context": "The Estonian word 'reegel' is a noun that means 'rule', 'regulation', or 'guideline'. It refers to established principles or standards that should be followed in various contexts. In the examples provided, it's used in different contexts: 1) following a good rule, 2) all employees must follow rules at work, and 3) asking what a particular rule is. The word can appear in singular form as shown, and would change form for cases and number (like 'reeglid' in plural)."
 }

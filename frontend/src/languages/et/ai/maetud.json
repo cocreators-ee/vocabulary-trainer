@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on maetud Stockholmi.",
-    "Maetud inimesed ei ole enam elus.",
-    "Kõik surnud on maetud selle kalmistu peale."
+    "Tema on maetud kalmistule.",
+    "Eelmine päev oli maetud külm.",
+    "Lapsed olid maetud tuppa."
   ],
   "translation": [
     "buried",
-    "entombed",
-    "interred"
+    "interred",
+    "entombed"
   ],
-  "context": "The word 'maetud' is the past participle of the Estonian verb 'maetakse', which means to bury something or someone. It is commonly used in sentences related to funeral services, cemeteries and graves."
+  "context": "The word 'maetud' is the past participle form of the Estonian verb 'maetama', which means 'to bury'. It describes something that has been buried or interred. This can refer to a person who has been buried in a cemetery, or metaphorically to something that has been covered or embedded in something else, such as cold being 'buried' in a room."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tietokone muistaa jokaista bittiä.",
-    "Bitti on pienin tietoyksikkö tietokoneissa.",
-    "Jokainen merkki koostuu useasta bitistä."
+    "Tämä bitti on virheellinen.",
+    "Käytän bittiä tiedon tallentamiseen.",
+    "Mitkä ovat parhaat bitit ohjelmistokehityksessä?"
   ],
   "translation": [
-    "bit"
+    "bit",
+    "binary digit"
   ],
-  "context": "The word 'bitti' in Finnish refers to the smallest unit of information in computing, equivalent to the English term 'bit'."
+  "context": "The Finnish word 'bitti' is a loanword from English, meaning either the binary digit (0 or 1) in computing contexts or referring to a small piece/part of something. In technology discussions, it specifically refers to the fundamental unit of information in digital systems."
 }

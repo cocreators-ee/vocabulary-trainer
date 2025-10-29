@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Löytyi uusi työpaikka.",
-    "Tietokoneesta löytyi viruksia.",
-    "Kaupasta löytyi tarvittavat tuotteet."
+    "Löytykö avaimet?",
+    "Minun lompakkoni löytyi takaa.",
+    "Puhelimeni ei löytynyt."
   ],
   "translation": [
+    "found",
     "was found",
-    "found"
+    "located"
   ],
-  "context": "The word löytyi is the past tense of the Finnish verb löytää, which means to find something. It is commonly used in sentences where someone or something has discovered an object, a person, or a solution to a problem."
+  "context": "The word 'löytyi' is the past tense form of the Finnish verb 'löytää', which means 'to find'. It's commonly used when something has been discovered or located. This is a partitive singular form that indicates the action was completed in the past and the object was found."
 }

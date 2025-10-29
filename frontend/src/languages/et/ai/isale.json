@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu isale on 50 aastat.",
-    "Isale kingitus oli üllatus.",
-    "Ta räägib sageli oma isale."
+    "Tema isale meeldib jalgpall.",
+    "Ma lähen oma isale külastama homseks.",
+    "Isale kingiti uue auto."
   ],
   "translation": [
-    "father",
-    "dad"
+    "to father",
+    "for father"
   ],
-  "context": "The word isale refers to one's father, and it is commonly used in Estonian to address or talk about one's male parent."
+  "context": "The word 'isale' is an Estonian noun in the allative case, which means it indicates motion toward or direction to something. It's formed from the root word 'isa' (father) by adding the ending '-le'. This form would typically translate as 'to father' or 'for father' in English, indicating that someone/something is going to the father or intended for the father."
 }

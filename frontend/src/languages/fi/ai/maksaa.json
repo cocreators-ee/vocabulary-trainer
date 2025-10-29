@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän maksaa laskunsa aina ajallaan.",
-    "Maksatko sinä ruoan?",
-    "Onko hänelle maksettu palkka?"
+    "Minun täytyy maksaa lasku.",
+    "Hän maksoi ostoksensa luottokortilla.",
+    "Maksatko jääkaapin?"
   ],
   "translation": [
-    "pay",
-    "cost",
-    "spend"
+    "to pay",
+    "to cost",
+    "to be worth"
   ],
-  "context": "The word 'maksaa' in Finnish means to pay or cost something, and it is commonly used in sentences related to financial transactions or expenses."
+  "context": "The Finnish word 'maksaa' is a versatile verb that primarily means 'to pay' when referring to giving money for goods or services. It can also mean 'to cost' when describing the price of something, and in some contexts it can mean 'to be worth'. The verb changes form depending on the subject (conjugates) - for example, 'maksan' (I pay), 'maksetaan' (it is paid), 'maksoi' (he/she/it paid)."
 }

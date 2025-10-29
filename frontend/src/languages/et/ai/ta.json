@@ -1,14 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on mulle kallis.",
-    "Ma usun teda.",
-    "See pilt meenutab mind tema lapsepõlvest."
+    "Tule minu juurde ta.",
+    "Ta on hea naine.",
+    "Ma ei tea, kus ta elab."
   ],
   "translation": [
-    "he",
-    "she"
+    "he/she/it"
   ],
-  "context": "'ta' refers to a third person singular pronoun in Estonian, used for both 'he' and 'she'. The gender is often determined from context or other words in the sentence. It's commonly used when referring to someone already mentioned or known in the conversation."
+  "context": "The Estonian word 'ta' is a third-person singular pronoun that means 'he', 'she', or 'it'. It's used to refer to a male person (he), female person (she), or object/animal/plant (it) in the singular form. This is similar to how English uses different pronouns for gender, but Estonian uses just one word regardless of gender when referring to people."
 }

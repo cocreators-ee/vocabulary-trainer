@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kirikus.",
-    "Kirikus on ilus koht.",
-    "Me käisime kirikus."
+    "Me kohtume kirikus kell seitse.",
+    "Ta käis eelmisel nädalal kirikus.",
+    "Pühapäeviti käib kogudus kirikus palvetamas."
   ],
   "translation": [
     "in church",
-    "at church"
+    "at the church",
+    "inside a church building"
   ],
-  "context": "The word 'kirikus' is used to describe being inside a church or at a church, it is commonly used in Estonian to refer to the location or activity of attending church services or events."
+  "context": "The Estonian word 'kirikus' is an adessive case form of the noun 'kirik' (church), indicating location inside or at a church. The -s suffix at the end indicates the position where someone or something is located. It's used to express being inside a church building, typically for religious services, events, or activities."
 }

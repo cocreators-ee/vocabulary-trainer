@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen ainult üks neist.",
-    "Ta on ainult minu sõber.",
-    "Nad on ainult lapsed."
+    "Ta tuleb ainult kell üks.",
+    "Meie kodu on ainult kolmekorruseline.",
+    "Ainult lapsed võivad seda teha."
   ],
   "translation": [
     "only",
-    "just"
+    "just",
+    "merely"
   ],
-  "context": "The word 'ainult' in Estonian means 'only' or 'just', and it is used to indicate that something is limited or restricted to a certain extent or degree."
+  "context": "The word 'ainult' is an Estonian adverb that means 'only' or 'just'. It's used to indicate exclusivity or limitation, emphasizing that something is restricted to a specific person, thing, quantity, or condition. In the first sentence, it specifies when someone will come (only at 1 o'clock). In the second sentence, it restricts the height of the house (only three stories). In the third sentence, it limits who can do something (only children can do this)."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.5,
   "understood": true,
   "sentences": [
-    "Mina olen nõus.",
-    "Tema ei ole nõus.",
-    "Kas oled sa nõus?"
+    "Noh, mis sa tahad?",
+    "Tuli noh päike paistma.",
+    "Ei tea noh, kas see on hea idee."
   ],
   "translation": [
-    "agree",
-    "consent",
-    "approve"
+    "well",
+    "then",
+    "so",
+    "I mean"
   ],
-  "context": "'Noh' in Estonian is used to express agreement or approval. It can be translated as 'agree', 'consent', or 'approve'. The word appears in different forms such as 'nõus', and is commonly used in both formal and informal contexts."
+  "context": "The word 'noh' is a common discourse marker or interjection in Estonian. It's used to fill pauses, express hesitation, or introduce something new in conversation. Similar to English words like 'well', 'then', or 'so', it helps connect thoughts and makes speech more natural. It often appears at the beginning of sentences to indicate the speaker is thinking or about to say something."
 }

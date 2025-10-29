@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maja on kolme korrust.",
-    "Ta elab esimesel korrusel.",
-    "Kõrgeim korrus on viies."
+    "Maja on kolmekorruseline.",
+    "Elame teisel korrusel.",
+    "Korrused olid täis inimesi."
   ],
   "translation": [
     "floor",
-    "storey"
+    "story",
+    "level"
   ],
-  "context": "The word 'korrus' in Estonian refers to a floor or storey of a building, and is commonly used when describing the layout or architecture of a house or other structure."
+  "context": "The word 'korrus' is an Estonian noun meaning a level or story of a building. It refers to the horizontal division within a building, each floor being one korrus. For example, 'teine korrus' means second floor/story. The plural form would be 'korrused'. This is a fundamental architectural term used daily when referring to different levels in buildings."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tõstke tooli üles.",
-    "Ma tõstan selle ära.",
-    "Ta tõstab kaalud."
+    "Tõstke kast üles.",
+    "Palun tõstke seda tooli.",
+    "Kas teie võite tõsta?"
   ],
   "translation": [
-    "Lift",
-    "Raise"
+    "raise",
+    "lift",
+    "pick up"
   ],
-  "context": "The word 'tõstke' is an imperative form of the verb 'tõstma', which means to lift or raise something, and it is commonly used in Estonian to instruct someone to pick up an object."
+  "context": "The Estonian word 'tõstke' is the plural imperative form of the verb 'tõstma', which means 'to raise' or 'to lift'. It's used when addressing a group of people (formal plural) and instructs them to perform the action of lifting something up. The root verb comes from the Estonian word 'tõst-' meaning to elevate or move upward."
 }

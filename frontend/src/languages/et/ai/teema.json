@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Teema on muusikas üks põhiline elemendid.",
-    "Kursuse teema on arvutivõrkude turvalisus.",
-    "Ta ei saanud oma teemat lõpetada."
+    "Teema on huvitav.",
+    "Milline teeme me praegu arutame?",
+    "Kas sa tunned seda teemat?"
   ],
   "translation": [
-    "theme",
-    "topic"
+    "topic",
+    "subject",
+    "theme"
   ],
-  "context": "The word 'teema' in Estonian refers to a theme or topic, and is commonly used in academic, musical, and general contexts to describe the main subject or idea being discussed or explored."
+  "context": "In Estonian, 'teema' is a noun that refers to the main subject or topic being discussed. It can be used in various contexts such as classroom discussions, articles, conversations about specific subjects, or when introducing what will be talked about. The word remains the same regardless of case (nominative, genitive, etc.) but may change based on grammatical requirements within sentences."
 }

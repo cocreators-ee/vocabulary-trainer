@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta otsustas minna koju",
-    "Ma otsustasin ära minna",
-    "Nende peal otsustati kõik"
+    "Otsustasin uue töö vastu võtta.",
+    "Meie pere otsustas suvel Eestisse kolida.",
+    "Kes otsustab selle projekti eest vastutama?"
   ],
   "translation": [
     "decided",
-    "made up one's mind"
+    "chose",
+    "determined"
   ],
-  "context": "The word 'otsustas' is the third person singular form of the Estonian verb 'otsustama', which means to decide or make a decision. It is commonly used in sentences where someone has made a choice or come to a conclusion about something."
+  "context": "The word 'otsustas' is the past tense form of the Estonian verb 'otsustama', which means to decide or make a decision. It's commonly used when someone has made a choice about something important, such as accepting a job offer, moving to a new place, or taking responsibility for a project."
 }

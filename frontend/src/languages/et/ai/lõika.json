@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lõikan leiva",
-    "Lõika see paber",
-    "Ta lõikas hea nurga"
+    "Tule lõikame kooki koos.",
+    "Lõikasid leiba õigesti.",
+    "Me lõikaksime puitu terava saega."
   ],
   "translation": [
     "cut",
-    "slice"
+    "slice",
+    "chop"
   ],
-  "context": "The word 'lõika' is a verb in Estonian that means to cut or slice something, and it is commonly used in everyday conversations when referring to cutting food, paper, or other objects."
+  "context": "The Estonian word 'lõika' is an imperative form of the verb 'lõigama', which means to cut, slice, or chop. It's used when giving a command or request to someone else to perform the action of cutting something. This form addresses either a single person (informal) or multiple people depending on context."
 }

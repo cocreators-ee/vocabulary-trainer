@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen kindel, et paku suvaline külastaja.",
-    "Ta pakus mulle tühja käe kohta.",
-    "Pakuge kõik koos nende poole."
+    "Pake mulle oma telefon!",
+    "Ta pakub meile abi.",
+    "Ma pakkusin talle kohtumist."
   ],
   "translation": [
     "offer",
     "propose",
-    "suggest"
+    "present"
   ],
-  "context": "'paku' is the first person singular form of the verb 'pakkuda', which means to offer, propose or suggest something. It's commonly used when someone presents an idea, item, or service to another person in a polite and professional manner."
+  "context": "The word 'paku' is the imperative form of the Estonian verb 'pakuma', which means to offer, propose, or present. It's used when giving a direct command to someone to offer something, such as in 'Pake mulle oma telefon!' meaning 'Offer me your phone!'. The verb belongs to the -ma class of Estonian verbs and can be conjugated into different tenses and forms including past tense (pakusin), present tense (paku/pakub), future tense (pakan/pakad), etc."
 }

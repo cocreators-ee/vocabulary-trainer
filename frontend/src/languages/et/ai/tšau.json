@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütle tšau!",
-    "Ta lausus tšau ja läks minu juurest ära.",
-    "Tšaud teinud, pöörasin ringi."
+    "Tšau, näeme homme!",
+    "Tšau kõik!",
+    "Mul on tšau hommikul."
   ],
   "translation": [
-    "bye",
     "goodbye",
+    "bye",
     "see you later"
   ],
-  "context": "The word 'tšau' is a casual way of saying goodbye in Estonian, similar to 'bye' or 'see you later' in English."
+  "context": "The word 'tšau' is a borrowed word from Italian 'ciao' and is commonly used in Estonian as an informal greeting when parting. It can be used both when saying goodbye to one person or to multiple people. The word is versatile and can express casual farewell, see you later, or goodbyes between friends. In some contexts, it might also be used informally for 'hello' but its primary usage is as a farewell greeting."
 }

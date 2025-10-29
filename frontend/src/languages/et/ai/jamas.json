@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole kunagi vist jamas.",
-    "Jamas pole midagi.",
-    "Ta on lihtsalt jamas."
+    "Tule jamas koju!",
+    "Mis on jama selles?",
+    "Jamas on ilus päev."
   ],
   "translation": [
-    "never",
-    "nowhere"
+    "come here",
+    "what's the problem/trouble",
+    "it's a beautiful day"
   ],
-  "context": "The word 'jamas' is used in Estonian to convey the meaning of something being nonexistent or impossible, often translated to English as 'never' or 'nowhere'."
+  "context": "In Estonian, 'jamas' is an informal colloquial expression with different meanings depending on context. It can mean 'come here' as in a friendly invitation, refer to trouble or problems (similar to English 'what's the jam?' or what's the issue?), or be used to express that something is good/nice. The word is highly dependent on intonation and surrounding words for its precise meaning."
 }

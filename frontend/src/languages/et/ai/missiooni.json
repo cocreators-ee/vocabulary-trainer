@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Missioon on edukas.",
-    "Missiooni täitmiseks on vaja palju ressursse.",
-    "Missiooni juht on kindral."
+    "Missioon oli edukas.",
+    "Ta saatis missioonile.",
+    "Missiooni eesmärk oli tuua rõõmu."
   ],
   "translation": [
-    "mission"
+    "mission",
+    "task",
+    "purpose"
   ],
-  "context": "The word 'missioon' in Estonian refers to a task or assignment given to someone, often with a specific goal or objective, similar to the English word 'mission'."
+  "context": "The word 'missiooni' is the genitive case form of 'missioon', which means 'mission' in English. It indicates possession, origin, or relation - so it would translate to 'of mission', 'for mission', or related to mission contextually. This grammatical case is commonly used when something belongs to or is associated with a mission."
 }

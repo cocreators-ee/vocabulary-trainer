@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegutseb hetkest",
-    "Hetkest alates on see võimalik",
-    "Me peame arvestama igast hetkest"
+    "Ootan sind hetkest peale.",
+    "Sa tuleb hetkelt ära.",
+    "Ta on olnud nii hea hetkest alates."
   ],
   "translation": [
-    "at the moment",
-    "from this moment on",
-    "moment"
+    "from this moment",
+    "starting now",
+    "henceforth"
   ],
-  "context": "The word 'hetkest' in Estonian refers to a specific point in time or a moment, and is often used to indicate when something starts or happens."
+  "context": "The Estonian word 'hetkest' is an adverbial form derived from the noun 'hetk' (moment, instant). The '-est' suffix indicates the ablative case in Estonian, which typically shows separation or origin. Therefore, 'hetkest' means 'from this moment' or 'starting now'. It's used to indicate that something begins at the current point in time."
 }

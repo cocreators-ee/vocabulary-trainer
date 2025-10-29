@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuuled seda hästi.",
-    "Kuuled sa mind?",
-    "Ta ei kuule meid."
+    "Ma kuulen häält.",
+    "Sa kuuled mind.",
+    "Nad kuulevad meid."
   ],
   "translation": [
     "hear",
-    "listen"
+    "listen to"
   ],
-  "context": "The word 'kuuled' is the second person singular form of the verb 'kuulma', which means to hear or listen. It is commonly used in everyday conversations to ask if someone can hear something or someone."
+  "context": "The word 'kuuled' is the 2nd person singular present indicative form of the verb 'kulgema' (to hear/listen) in Estonian. It means 'you hear' or 'you listen'. This form specifically addresses someone directly and indicates an ongoing action in the present tense."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Minu nimi on Anna.",
-    "Minu kodukodu on Tallinnas.",
-    "Minu lemmikvärv on roheline."
+    "Mine koju nüüd.",
+    "Tule minuga koos.",
+    "Kus sa mine?"
   ],
   "translation": [
-    "my"
+    "I go",
+    "I am going",
+    "to go"
   ],
-  "context": "'mine' translates to 'my' in English. It is a possessive pronoun used before a noun to indicate ownership or possession by the speaker."
+  "context": "The word 'mine' is the 1st person singular present tense form of the Estonian verb 'minema', which means 'to go'. It indicates that the speaker is currently performing the action of going or will be going somewhere. In Estonian, verbs are conjugated based on person and number, so 'mine' specifically refers to 'I go' or 'I am going'. This form would be used when speaking about oneself in present tense."
 }

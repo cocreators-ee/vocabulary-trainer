@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Võõras tuli meile külla.",
-    "Ma olen võõras linnas.",
-    "Ta on võõras inimene."
+    "Ma sõitsin võõrasse linnas.",
+    "Ta on võõramees selles piirkonnas.",
+    "Võõrad inimesed ei tundu olevat soovitavad."
   ],
   "translation": [
-    "stranger",
-    "foreigner",
+    "strange",
+    "foreign",
+    "unknown",
     "alien"
   ],
-  "context": "The word võõras is commonly used to describe someone or something that is unfamiliar or from outside one's own group or country, and it can be translated to English as stranger, foreigner, or alien, depending on the context in which it is used."
+  "context": "The word 'võõras' is an adjective in Estonian. It can mean 'strange', 'foreign', or 'unknown'. When used to describe people, it means foreigner or stranger. The form shown is the nominative singular masculine form. In different contexts, it could refer to something unfamiliar (strange), someone from another country (foreign), or simply an unknown person (stranger)."
 }

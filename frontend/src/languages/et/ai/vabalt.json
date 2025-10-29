@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahan seda vabalt teha",
-    "Vabalt rääkida on hea",
-    "Ta võtab vabalt osa"
+    "Vabalt võite istuda siin.",
+    "Ta räägib vabalt kaheksa keelt.",
+    "Me oleme vabalt kodus."
   ],
   "translation": [
     "freely",
-    "voluntarily"
+    "without restriction",
+    "easily",
+    "confidently"
   ],
-  "context": "The word 'vabalt' in Estonian means to do something freely or voluntarily, without any restrictions or obligations."
+  "context": "The Estonian word 'vabalt' is an adverb that means freely, without restrictions, or easily. It can describe the manner in which someone does something - either with freedom from constraints (physically or figuratively), with confidence, or with ease. For example, one might sit vabalt (freely) in a chair, speak vabalt (confidently/easily) multiple languages, or feel vabalt (comfortable/at ease) at home."
 }

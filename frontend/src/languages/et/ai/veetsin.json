@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma veetsin suure osa oma ajast raamatute lugemisel.",
-    "Ta veetsis suve vanaema juures maal.",
-    "Nad veetsid õhtu tantsides ja muusikat kuulates."
+    "Ma veetsin terve päeva kodu läheduses.",
+    "Tüdruk veetsis aega raamatute lugemisega.",
+    "Nad veetsisid suve rannas."
   ],
   "translation": [
-    "spend",
-    "pass (time)",
-    "waste"
+    "spent",
+    "passed",
+    "wasted"
   ],
-  "context": "The verb 'veeta' in Estonian means to spend time doing something, or to pass time in a certain way. It is often used with activities or locations where time is occupied. In English, it’s similar to ‘to spend’, ‘to pass’, or sometimes even ‘to waste’ depending on the context."
+  "context": "The word 'veetsin' is the past tense first person singular form of the Estonian verb 'veeta', which means to spend or pass time. It specifically refers to how someone used their time, whether productively or not. In English, this translates to words like 'spent', 'passed', or 'wasted' depending on context."
 }

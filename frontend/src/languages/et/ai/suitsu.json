@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen suitsu tüdruks.",
-    "Tema nimi on Suitsu.",
-    "Sul on suitsud silmad."
+    "Suitsu läks aknast välja.",
+    "Tegid suitsupõhja.",
+    "Suitsetamine keelustati üle terve riigi."
   ],
   "translation": [
     "smoke",
-    "ash"
+    "fumes",
+    "cigarette smoke"
   ],
-  "context": "'suitsu' is the Estonian word for smoke, like from a fire or cigarette. It can also mean ash as in what remains after something burns. In example sentences 1 and 3 it's used to describe someone who smokes or who has smoky eyes."
+  "context": "The Estonian word 'suitsu' is the genitive case form of 'suits', which means smoke or fumes. It indicates possession or origin, similar to English 'of smoke' or 'belonging to smoke'. This form is commonly used in phrases like 'suitse suitsetada' (to emit smoke) or when describing something related to smoke."
 }

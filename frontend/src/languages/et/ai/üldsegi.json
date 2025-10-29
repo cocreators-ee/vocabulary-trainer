@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma üldsegi ei tea",
-    "Ta üldsegi ei vasta",
-    "Üldsegi pole vaja"
+    "Ta ei tule üldsegi homme.",
+    "Ma ei usu seda üldsegi.",
+    "See pole mingisugustes tingimustes üldsegi tõsi."
   ],
   "translation": [
-    "at all",
-    "altogether",
-    "entirely"
+    "not at all",
+    "absolutely not",
+    "in no way",
+    "by no means"
   ],
-  "context": "The word \"üldsegi\" is used to emphasize the completeness or entirety of something, often in a negative sense, such as not knowing or doing something at all."
+  "context": "Üldsegi is an Estonian adverb used to express strong negation or emphasis on the negative. It's typically placed after the verb in a sentence and functions to strengthen the negation, similar to how 'at all' works in English but with even stronger emphasis."
 }

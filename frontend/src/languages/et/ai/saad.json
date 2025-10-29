@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma saan selle tehtud.",
-    "Ta sai mind naerma.",
-    "Saime koos õnnelikult elada."
+    "Saad mind aidata?",
+    "Mina saan sulle aidata.",
+    "Ta saab alati oma töö teha."
   ],
   "translation": [
-    "get",
-    "obtain"
+    "you get",
+    "you receive",
+    "you can"
   ],
-  "context": "The word 'saad' is the second person singular form of the verb 'saama', which means to get or obtain something in English, and it is commonly used in Estonian language to express the action of receiving or achieving something."
+  "context": "The word 'saad' in Estonian is the second person singular form of the verb 'saa-' meaning 'to get' or 'to be able to'. It's commonly used when asking if someone gets/receives something or when stating what someone is able to do. In questions, it often asks about capability or permission (e.g., 'Can you help me?'), while in statements it indicates ability or the act of receiving."
 }

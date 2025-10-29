@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen väsinud, järelikult lähen magama",
-    "Ta on haige, järelikult peab olema kodusele ravile",
-    "Järelikult tuleb meil leida lahendus sellele probleemile"
+    "Järelikult me peaksime minema nüüd.",
+    "See on järelikult parim lahendus.",
+    "Ta tuleb järelikult homme hommikul."
   ],
   "translation": [
-    "consequently",
     "therefore",
-    "thus"
+    "thus",
+    "consequently",
+    "as a result"
   ],
-  "context": "The word järelikult is a conjunction used to indicate a logical conclusion or a result of something, similar to the English words consequently, therefore, or thus."
+  "context": "The Estonian word 'järelikult' is an adverb that functions as a discourse marker or connector to indicate logical consequence or conclusion. It corresponds to English words like 'therefore', 'thus', 'consequently', or 'as a result'. This word introduces conclusions based on previous statements or reasoning."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Naiste võrkpallimeeskond on võitnud mitu tiitlit.",
-    "Ta on üksi naiste hulgas.",
-    "Naiste jalgpalliklubi on väga populaarne."
+    "Naiste võistlus oli väga põnev.",
+    "Kaks naiste osalesid matkajooksul.",
+    "Seda tehti nii meestele kui ka naiste jaoks."
   ],
   "translation": [
     "women's",
-    "of women"
+    "of women",
+    "for women"
   ],
-  "context": "The word 'naiste' is a genitive plural form of the Estonian word for 'woman', used to indicate possession or relationship, and it is commonly used in phrases like 'naiste võrkpallimeeskond', which translates to 'women's volleyball team'."
+  "context": "The word 'naiste' is the genitive plural form of 'naine' (woman) in Estonian, meaning 'of women', 'belonging to women', or used in possessive constructions. It indicates that something belongs to or relates to women in a group context."
 }

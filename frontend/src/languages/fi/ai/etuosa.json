@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Eturistiriita aiheutti vakavan onnettomuuden.",
-    "Kolari tapahtui etuosan ja takaosan välissä.",
-    "Auto osui etuosaansa toisen auton sivupeiliin."
+    "Auton etuosa on vaurioitunut onnettomuudessa.",
+    "Talojen etuosissa on isot ikkunat.",
+    "Kiinteistön etuosa näkyy kadulta."
   ],
   "translation": [
-    "front section",
-    "forepart"
+    "front part",
+    "forepart",
+    "forward section"
   ],
-  "context": "The word etuosa refers to the front part or section of something, often used in contexts related to vehicles or objects with a clear front and back orientation."
+  "context": "The Finnish word 'etuosa' is a compound noun formed from 'etu' (meaning front or forward) and 'osa' (meaning part). It refers to the foremost or front portion of something, commonly used for vehicles, buildings, or objects. The word follows standard Finnish grammar rules where the first part indicates position/direction ('etu') and the second part defines what it is ('part')."
 }

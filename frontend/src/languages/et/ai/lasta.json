@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen kindel, et sa lasta mind kodusse.",
-    "See lumi lasta mind lihtsalt hingata.",
-    "Ta ei tohi midagi, mida ta ei lasta meie teha."
+    "Ei lasta meid sisse.",
+    "Tööl laske mind teie tööd teha.",
+    "Sa ei tohi lasta endale seda jätta."
   ],
   "translation": [
-    "to allow",
     "to let",
+    "to allow",
     "to permit"
   ],
-  "context": "'Lasta' in Estonian means 'to let,' and is often used in the context of allowing someone to do something."
+  "context": "The Estonian word 'lasta' is a verb meaning 'to let', 'to allow', or 'to permit'. It indicates giving permission or allowing someone to do something. In the examples, it's used in different contexts - preventing entry (not letting in), granting permission at work (let me do my job), and forbidding self-neglect (shouldn't let yourself leave this). The verb can be used in positive statements (lasta) or negated (ei lasta) to indicate prohibition."
 }

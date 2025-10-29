@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Rakas ystäväni on sairastunut",
-    "Hän on rakas lapsi",
-    "Rakkaat vanhempani ovat tulossa käymään"
+    "Rakas on ihminen, jota rakastan.",
+    "Minulla on rakas vaimo ja lapset.",
+    "Hän on minulle erityisen rakas."
   ],
   "translation": [
     "dear",
-    "beloved"
+    "beloved",
+    "precious",
+    "darling"
   ],
-  "context": "The word 'rakas' in Finnish is used to express affection or fondness towards someone, similar to the English words 'dear' or 'beloved'."
+  "context": "The Finnish word 'rakas' is an adjective that means 'dear' or 'beloved'. It's often used as a term of endearment for loved ones, partners, and family members. In its basic form it can stand alone as 'my dear', but it also appears in various forms depending on the context: 'rakasta' (partitive case), 'rakkaita' (plural nominative), etc. The word is commonly found in expressions of affection like 'rakas ystävä' (dear friend) or 'rakas vaimo' (dear wife)."
 }

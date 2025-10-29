@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Se alkaa huomenna",
-    "Kaikki alkoivat juhlia",
-    "Hän alkoi opiskella uutta kieltä"
+    "Kello kymmenen alkoi luento.",
+    "Uusi viikko alkaa huomenna.",
+    "Sade alkoi yhtäkkiä."
   ],
   "translation": [
-    "begins",
-    "starts",
-    "commence"
+    "to start",
+    "to begin",
+    "to commence"
   ],
-  "context": "The word 'alkaa' is a verb in Finnish that means to begin or start something, and it is commonly used in various contexts such as describing the start of an event, action, or process."
+  "context": "The Finnish word 'alkaa' is an intransitive verb that means 'to start' or 'to begin'. It indicates the commencement of something, such as an event, activity, period, or natural phenomenon. The word changes its form based on tense and subject, for example: 'alkaan' (he/she/it starts), 'aloimme' (we started), 'alkaa' (present tense), 'alkoi' (past tense). It is commonly used to describe when something begins - like a meeting starting at 10 o'clock ('Kello kymmenen alkoi luento'), a new week beginning tomorrow ('Uusi viikko alkaa huomenna'), or rain suddenly starting ('Sade alkoi yhtäkkiä')."
 }

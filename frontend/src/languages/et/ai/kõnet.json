@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta peab kõnet homme.",
-    "See oli väga hea kõnet.",
-    "Kõnet kestis tunni."
+    "Kes sa oled? Ma kuulen sinu kõnet.",
+    "Mul on hea kõne ja selgelt öelda.",
+    "Ta oli väga ebamugavaga oma esimese avaliku kõnega."
   ],
   "translation": [
     "speech",
-    "address",
-    "lecture"
+    "talk",
+    "address"
   ],
-  "context": "The word 'kõnet' in Estonian refers to a formal oral presentation or speech delivered to an audience. It can also refer to the act of speaking or delivering a message."
+  "context": "The Estonian word 'kõnet' is the partitive form of 'kõne', which means 'speech' or 'talk'. It indicates that the speech/talk is being addressed to someone or about something. This form would be used when you're talking about a specific instance of speech or address."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See toimus möödunud nädalal.",
-    "Toimus suur kokkulepe.",
-    "Sündmus toimus homme."
+    "Kontsert toimus kell kaheksa.",
+    "Tööde lõpetamine toimus plaanipäraselt.",
+    "Nad ei teadinud, et kohtumine toemas homseks."
   ],
   "translation": [
+    "took place",
     "happened",
     "occurred"
   ],
-  "context": "The word 'toimus' is a verb in Estonian that means something happened or occurred, often used to describe an event or action that took place in the past."
+  "context": "The word 'toimus' is the past tense third person singular form of the Estonian verb 'tulema', which means 'to take place', 'to happen', or 'to occur'. It describes an event that has already happened in the past. In the examples, it shows various contexts where events occurred - a concert taking place at 8 o'clock, work finishing as planned, and people not knowing about a meeting happening the next day."
 }

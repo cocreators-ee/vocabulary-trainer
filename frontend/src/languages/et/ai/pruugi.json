@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Pruugileht eesmärgiks on leida pruutkandidaat.",
-    "Tema meelest vajub pruugiloo ettevõtja alati naisi oma tootmiseks.",
-    "Eestis peavad pruugitavad inimesed neid otsima isikulise pruugi kaudu."
+    "Ma pruugi palju tööd tegema.",
+    "Tuleb meil praegu pruugi teha.",
+    "Kas sa pruugi homme jälle kooli käima?"
   ],
   "translation": [
-    "spouse",
-    "bride"
+    "need to",
+    "have to",
+    "must"
   ],
-  "context": "Pruugi refers to the act of searching for a spouse or bride, often in the context of traditional practices. It can also refer directly to a spouse or a bride in certain contexts."
+  "context": "In Estonian, 'pruugi' is a modal verb form that expresses obligation or necessity. It's the 3rd person singular present tense form of the verb 'pruukima', meaning 'to need to' or 'to have to'. The word indicates that someone must do something, similar to English modal verbs like 'must', 'need to', or 'have to'."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlesin ah, see on hea.",
-    "Ta lausus ah, ma ei saa aru.",
-    "Ah, mida te sellest arvate?"
+    "Ah, see on tore!",
+    "Ahh, mul oli pärast tööpäeva väga hea tuju.",
+    "Aha, nüüd aru sai!"
   ],
   "translation": [
-    "oh",
     "ah",
-    "huh"
+    "oh",
+    "aha"
   ],
-  "context": "The word 'ah' in Estonian is used as an interjection to express surprise or realization, similar to how 'oh' or 'ah' is used in English."
+  "context": "\"Ah\" is an interjection in Estonian used to express various emotions such as surprise, realization, or mild delight. It's similar to \"ah\" in English but can convey different nuances depending on context and pronunciation length - a short \"ah\" might indicate simple acknowledgment, while a longer \"ahh\" could show deeper emotion like relief or contentment."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta pööras vasakule.",
-    "Vasakule viib teine tänav.",
-    "Käsi tõstis sõrme vasakule."
+    "Tule vasakule poolele!",
+    "Pöörake vasakule siis.",
+    "Auto sõitis vasakule."
   ],
   "translation": [
     "to the left",
     "leftward"
   ],
-  "context": "The word vasakule is used in Estonian to indicate direction or movement towards the left side."
+  "context": "The word 'vasakule' is an adverb in Estonian that means 'to the left'. It's formed from the root 'vasak' (left) with the directional suffix '-ule', indicating movement towards or in a direction. This form shows motion to the left side."
 }

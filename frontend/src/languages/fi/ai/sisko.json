@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minulla on sisko nimeltä Kati.",
-    "Sisarlani ja minun välillä on iso ikäero.",
-    "Juhlallisuudessa oli mukana myös sisareni."
+    "Minun siskoni on koulussa.",
+    "Siskosi tulee käymään huomenna.",
+    "Meillä on kaksi sisarusta: vanhempi veli ja nuorempi sisko."
   ],
   "translation": [
     "sister",
     "female sibling"
   ],
-  "context": "'sisko' refers to a female sibling, specifically meaning 'sister'. It is used when talking about one's sisters or mentioning having siblings. The term can be used in both formal and informal contexts."
+  "context": "The Finnish word 'sisko' means 'sister' or 'female sibling'. It is the common term for a female sibling in contrast to 'veli' which means brother. The word is used similarly to English 'sister' and can be modified with possessive suffixes (like -ni, -si) to indicate possession ('my sister', 'your sister')."
 }

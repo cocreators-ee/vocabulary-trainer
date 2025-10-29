@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Joukkue voitti pelin.",
-    "Joukkueenjohtaja puhui joukkueelle.",
-    "Joukkueet kilpailevat finaaleissa."
+    "Joukkue voitti ottelun.",
+    "Meidän joukkueemme on hyvä.",
+    "Kuinka monen hengen joukkue sinulla on?"
   ],
   "translation": [
     "team",
     "squad",
-    "crew"
+    "group"
   ],
-  "context": "The word joukkue refers to a group of people working or playing together, often in a sports context, and is commonly used in Finnish to describe teams competing in various events or activities."
+  "context": "The Finnish word 'joukkue' means team or squad, referring to a group of people working together towards a common goal. It is commonly used in sports contexts but can also refer to any organized group of people with a shared purpose. The word follows standard Finnish grammar rules and can be inflected for different cases (like the partitive 'joukkuetta' meaning 'of/from/for a team') and possessive forms (like 'joukkueemme' meaning 'our team')."
 }

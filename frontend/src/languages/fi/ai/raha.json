@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on rahaa",
-    "Raha on välttämätöntä",
-    "Rahan kanssa on helppo elää"
+    "Raha on tärkeä osa taloutta.",
+    "Minulla ei ole rahaa tällä hetkellä.",
+    "Hän ansait paljon rahaa työssään."
   ],
   "translation": [
-    "money"
+    "money",
+    "cash",
+    "currency"
   ],
-  "context": "The word 'raha' refers to money or financial resources in Finnish, and it is commonly used in various contexts such as shopping, banking, and economics."
+  "context": "The Finnish word 'raha' means money in English. It is a common noun used to refer to currency or financial resources. The word can be used in various contexts such as personal finances, business transactions, and economic discussions. In Finnish grammar, 'raha' follows the standard noun inflection patterns - it becomes 'rahaa' in the partitive case (when talking about some money) and 'rahat' in the plural form when referring to multiple units of currency or money in general."
 }

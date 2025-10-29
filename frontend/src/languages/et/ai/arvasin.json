@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma arvasin, et see on hea mõte.",
-    "Ta arvas, et ma olen valesti aru saanud.",
-    "Nad arvasid, et see on tõsi."
+    "Ma arvasin, et ta tuleb homme.",
+    "Arvasime, et mäng algab kell 19:00.",
+    "Kas sa arvasid, et peaksin tulema?"
   ],
   "translation": [
-    "thought",
+    "I thought",
     "supposed",
+    "guessed",
     "assumed"
   ],
-  "context": "The word 'arvasin' is the first person singular past tense form of the Estonian verb 'arvama', which means to think or suppose something. It is commonly used in sentences to express a thought or assumption that the speaker had in the past."
+  "context": "The word 'arvasin' is the first person singular past tense form of the Estonian verb 'arvama', which means 'to think' or 'to suppose'. It's commonly used when expressing what someone believed or assumed in the past. The '-sin' ending indicates that this is the 'I' form (first person) and it's completed (past tense)."
 }

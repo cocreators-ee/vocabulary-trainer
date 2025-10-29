@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vastan tema küsimusele.",
-    "Ta ei vasta mulle.",
-    "Kui ma küsisin, siis ta vastas."
+    "Ma vastan sinu küsimusele.",
+    "Ta vastas meie kõigile päevaks.",
+    "Nad on vastama tulevad."
   ],
   "translation": [
     "to answer",
-    "to respond"
+    "to respond",
+    "to correspond",
+    "to be equivalent to"
   ],
-  "context": "The word 'vastama' is commonly used in Estonian to mean responding or replying to someone or something, often in the context of a question or a situation that requires a reaction."
+  "context": "The Estonian verb 'vastama' is used for responding, answering, or corresponding. It can refer to answering questions, replying to messages, or being equivalent/matching something. The root form 'vasta-' indicates a response action."
 }

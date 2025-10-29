@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maailm muutuvad kiiresti.",
-    "Inimesed muutuvad vanemaks.",
-    "Olukord muutuvad päevaste kaupa."
+    "Ilm muutub kevadel.",
+    "Tegelikud muutuvad nähtused.",
+    "Muutuvad tingimised nõuavad paindlikkust."
   ],
   "translation": [
-    "change",
-    "transform"
+    "changeable",
+    "variable",
+    "fluctuating"
   ],
-  "context": "The word 'muutuvad' is a verb in Estonian that means to change or transform, it is commonly used to describe something that is becoming different or altering in some way."
+  "context": "The word 'muutuvad' is the third-person plural present indicative form of the Estonian verb 'muutuma', meaning 'to change'. It describes things that are in a state of changing or becoming different. This form would typically be used with subjects like ilm (weather), nähtused (phenomena), or tingimised (conditions) - something that is undergoing transformation or variation."
 }

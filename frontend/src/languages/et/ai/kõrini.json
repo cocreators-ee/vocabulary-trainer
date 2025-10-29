@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mees rääkis kõrini.",
-    "Kõrini ei kuulnud keegi.",
-    "Ta laulgas kõrini."
+    "Mul on kõrini sinu naerust.",
+    "Lapsed said kõrini mängimisest ja tahavad kohe puhata.",
+    "Ta sai kõrini sellest piinlikkusest ja lahkus ruumist."
   ],
   "translation": [
-    "shouting"
+    "annoyed",
+    "fed up",
+    "tired of"
   ],
-  "context": "A loud, aggressive way of speaking or calling out to someone"
+  "context": "The Estonian word 'kõrini' is an adverb that expresses the feeling of being annoyed, fed up, or tired of something. It indicates a state where someone has had enough of a situation and wants it to stop. This word is commonly used in everyday language when expressing frustration with ongoing situations, repetitive behaviors, or excessive amounts of something."
 }

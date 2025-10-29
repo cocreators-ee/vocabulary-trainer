@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Relvade on keelatud.",
-    "Ta võttis relvadelt kaheksa lasku.",
-    "Relvadega on raske elada."
+    "Relvade kasutamine on keelitud selles piirkonnas.",
+    "Ta kogus relvade juurde ja läks lahingusse.",
+    "Poisid mängisid relvadega metsas."
   ],
   "translation": [
-    "weaponry",
-    "arms"
+    "weapons",
+    "arms",
+    "firearms"
   ],
-  "context": "The word 'relvade' refers to weapons or arms in general, and is commonly used in Estonian to discuss topics related to firearms, military equipment, or armed conflict."
+  "context": "\"Relvade\" is the plural form of the Estonian word \"relv\", which means \"weapon\" or \"arm\". The suffix \"-de\" indicates that this is the plural form, referring to multiple weapons or arms. In Estonian grammar, nouns ending in certain consonants often add \"-de\" in the plural case."
 }

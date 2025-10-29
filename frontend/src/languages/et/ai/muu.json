@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Muud asjad on tähtsamad.",
-    "Ta muutis oma meelt.",
-    "Muu hääletas vastu."
+    "See on muu asi.",
+    "Tema huvitusid on teistsugused sinust.",
+    "Meie peame otsima muid lahendusi."
   ],
   "translation": [
     "other",
-    "else"
+    "another",
+    "different"
   ],
-  "context": "The word 'muu' is commonly used in Estonian to mean something or someone that is different from the rest, or to refer to an alternative option."
+  "context": "The Estonian word 'muu' is an adjective that means 'other', 'another', or 'different'. It's used to refer to something that is not the one already mentioned or being discussed. In Estonian grammar, 'muu' can change form depending on case and number - for example, 'muud' in the nominative plural, or 'muid' when used as part of a numeral expression. It's commonly used when contrasting with previously mentioned items or introducing alternatives."
 }

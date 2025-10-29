@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Küll on see ilus päev.",
-    "Ma küll ei tea.",
-    "Ta on küll hea inimene."
+    "Kyll, ma tulen.",
+    "Kyll, see on tõsi.",
+    "Ta ütles küll."
   ],
   "translation": [
-    "certainly",
-    "indeed"
+    "yes",
+    "indeed",
+    "of course",
+    "certainly"
   ],
-  "context": "The word küll is an adverb in Estonian that is used to express certainty or agreement, similar to the English words certainly or indeed."
+  "context": "The Estonian word 'küll' is a common affirmative response that functions similarly to English words like 'yes', 'indeed', or 'of course'. It's used to confirm agreement, acknowledge truthfulness, or express certainty. In conversation, it often serves as a standalone response to questions or statements. The word can also appear in different positions within sentences and may be emphasized for stronger affirmation."
 }

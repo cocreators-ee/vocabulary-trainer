@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mehed ei saa sellest aru.",
-    "Toas istusid mõned mehed ja naised.",
-    "Meestel on erinevad huvide suundumused."
+    "Mehed on võimsad.",
+    "Kaks meest rääkisid keset tänavat.",
+    "Need mehed aitasid mulle kanda pakke."
   ],
   "translation": [
-    "men"
+    "men",
+    "males",
+    "gentlemen"
   ],
-  "context": "In Estonian, 'mehed' means men in the plural form. It is commonly used to refer to adult males when there are two or more of them."
+  "context": "The word 'mehed' is the plural form of the Estonian noun 'mees', which means 'man' or 'male'. In English, it translates to 'men' (plural) and refers to adult male human beings. It can also be used more broadly to refer to males in general."
 }

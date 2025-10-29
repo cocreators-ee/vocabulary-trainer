@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sanoin sen kerran",
-    "Hän on ollut siellä kerran ennen",
-    "Tämä tapahtuu vain kerran vuodessa"
+    "Käyn Suomessa kerran vuodessa.",
+    "Hän on käynyt siellä vain kerran.",
+    "Kerron hänelle tämän heti kun näen hänet."
   ],
   "translation": [
     "once",
-    "one time"
+    "one time",
+    "a single time"
   ],
-  "context": "The word kerran is an adverb in Finnish that means once or one time, it is commonly used to indicate that something happens or happened only one time."
+  "context": "The Finnish word 'kerran' is an adverb that means 'once' or 'one time'. It indicates a single occurrence of an action. This word can appear in different positions within sentences and is often used to specify how many times something has happened will happen, particularly when referring to a singular instance."
 }

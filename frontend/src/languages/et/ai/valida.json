@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See oli väga vali hääl.",
-    "Ta karjus valjult.",
-    "Valida on raske."
+    "Tema validas head reisi sihtkoha.",
+    "Me valisime parima variandi.",
+    "Valik oli väga raske teha."
   ],
   "translation": [
-    "loud",
-    "strong",
-    "valid"
+    "to choose",
+    "to select",
+    "to opt for"
   ],
-  "context": "The Estonian word 'valida' can have multiple meanings depending on the context. It can mean 'loud' or 'strong' when describing sounds or voices, but it also means 'to choose' or 'to elect'. The translation provided here focuses on its meaning as an adjective relating to sound intensity."
+  "context": "The Estonian word 'valida' is a verb that means to make a choice or selection from available options. It can be translated as 'to choose', 'to select', or 'to opt for'. The word appears in various contexts where decisions are made, such as selecting destinations, options, or alternatives. It's used similarly to English 'choose' but with the specific Estonian conjugation patterns."
 }

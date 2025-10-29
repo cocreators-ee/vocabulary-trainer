@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean ennast väga hästi.",
-    "Ta armastab enda saatusest ennast.",
-    "Kuidas sa ennast tunned?"
+    "Ma ennast ei tunne hästi.",
+    "Ta ennast näitab alati edukalt.",
+    "Lapsed ennast mängivad tihti."
   ],
   "translation": [
-    "myself",
-    "himself",
-    "herself"
+    "oneself",
+    "myself/himself/themselves/yourself",
+    "reflexive pronoun"
   ],
-  "context": "The word 'ennast' is a reflexive pronoun in Estonian, which means it is used to refer back to the subject of the sentence, similar to the English words 'myself', 'himself', or 'herself'."
+  "context": "\"Ennast\" is an Estonian reflexive pronoun that means \"oneself.\" It corresponds to English reflexive pronouns like myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. In Estonian, this word changes form based on the person and number (enne for 1st person singular, ennast for others). It is used when the subject and object of a sentence are the same entity, typically appearing in the accusative case after reflexive verbs or to emphasize self-reference."
 }

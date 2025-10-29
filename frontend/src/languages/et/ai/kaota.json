@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kaotas kiiresti kaalust.",
-    "Kaota see pilt oma telefonist.",
-    "Kui palju aega võtab, et kaotada üks kilo?"
+    "Kadunud koer kaotas kodust.",
+    "Me kaotasime mängu viimases minuti.",
+    "Ta kaotas oma töö majanduskriisi tõttu."
   ],
   "translation": [
-    "lose",
-    "disappear",
-    "vanish"
+    "to lose",
+    "to forfeit",
+    "to be defeated"
   ],
-  "context": "The word 'kaota' in Estonian generally means to lose something or for something to disappear, and it is commonly used in various contexts such as weight loss, misplacing objects, or something becoming invisible."
+  "context": "The Estonian word 'kaota' is a verb that means 'to lose' in English. It can refer to losing physical objects (like keys or a pet), losing games or competitions, or losing jobs/opportunities. This verb is used when someone experiences the absence or deprivation of something they previously had."
 }

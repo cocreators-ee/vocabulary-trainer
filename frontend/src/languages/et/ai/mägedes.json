@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mägedes on ilus vaade.",
-    "Ta elab mägedes.",
-    "Mägedes saab hiieda."
+    "Mägedes on väga külm.",
+    "Me lähime mägedesse suvel.",
+    "Tõusime mägedesse hommikul."
   ],
   "translation": [
     "in the mountains",
-    "mountainous"
+    "among the mountains"
   ],
-  "context": "The word 'mägedes' is used to describe something that is located in or related to mountains, and it is commonly used in Estonian to talk about geography or travel."
+  "context": "The Estonian word 'mägedes' is the inessive case (location where something is) of the plural form of 'mägi' meaning mountain. It indicates location within or among mountains, functioning similarly to English prepositions like 'in' or 'among' when referring to mountainous areas."
 }

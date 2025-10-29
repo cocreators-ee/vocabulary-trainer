@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minema käiku, mitte järsku.",
-    "Pakutage asjaarendusega käiku.",
-    "Ta tegi sammu käiku edasi."
+    "Tema käiguks oli minna poodi.",
+    "Kuidas käik läheb?",
+    "Meil on homsest alates uus käik."
   ],
   "translation": [
-    "step by step",
-    "gradually"
+    "movement",
+    "progress",
+    "procedure",
+    "step"
   ],
-  "context": "'käiku' is an adverb in Estonian meaning to proceed step-by-step or gradually. It often follows verbs and indicates a slow progression toward something."
+  "context": "The Estonian word 'käiku' is the inessive case (inessive -s) singular form of the noun 'käik', which means movement, progress, procedure, or step. It indicates being inside or within something related to movement or process. For example, 'tema käiguks oli minna poodi' uses it as part of a construction meaning 'his movement/goal was to go shopping'. The word can refer to physical movement, the way something is progressing, or a particular procedure or step in a process."
 }

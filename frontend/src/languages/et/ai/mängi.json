@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mängin jalgpalli eile.",
-    "Ta mängib tennist igal nädalal.",
-    "Nad mängisid päev otsa videomänge."
+    "Mängi muusikat!",
+    "Lapsed mängivad lossi.",
+    "Kas sa mängid pianot?"
   ],
   "translation": [
-    "played",
-    "was playing",
-    "plays"
+    "play (imperative)",
+    "to play",
+    "game"
   ],
-  "context": "The word 'mängi' is the first person singular past tense form of the verb 'mängima', which means to play in English. It is commonly used to describe engaging in a game or other activity for enjoyment."
+  "context": "The word 'mängi' is the imperative form of the verb 'mängima' in Estonian, which means 'to play'. It's used as a command or suggestion to someone to do something related to playing - either playing music, playing a game, or playing an instrument. In the examples shown, it can mean 'Play some music!', where children are playing (game), and asking if someone plays (instrument)."
 }

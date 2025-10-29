@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän meni kauppaan.",
-    "Menin kotiin kello kuusi.",
-    "Häntä ei meni mitään."
+    "Meni ohi.",
+    "Se meni pilalle.",
+    "Auto meni tieltä."
   ],
   "translation": [
     "went",
-    "was sent"
+    "passed",
+    "happened"
   ],
-  "context": "The Finnish word 'meni' is a verb meaning 'to go'. It can also mean 'was sent' in past tense depending on context. Commonly used to describe movement from one place to another or being assigned somewhere."
+  "context": "The Finnish word 'meni' is the third person singular past tense form of the verb 'mennä', which means 'to go'. It's commonly used to indicate that someone or something went, passed by, happened, or moved. This versatile verb can describe physical movement ('the car went down the road'), temporal progression ('time went by'), or events taking place ('something went wrong')."
 }

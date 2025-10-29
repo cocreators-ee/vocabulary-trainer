@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olin seal kaks minutit.",
-    "Minu lugu võtab vähemalt viis minutit aega.",
-    "Ei, see ei tohi kesta üle sada minutit."
+    "Minuti palun.",
+    "Kas sa oled siin minut?",
+    "See veebipood avab minut kell 10."
   ],
   "translation": [
     "minute",
-    "minutes"
+    "moment",
+    "a minute",
+    "for a moment"
   ],
-  "context": "The word 'minuti' refers to the unit of time called minute. It is used in both singular and plural contexts depending on the quantity mentioned."
+  "context": "The word 'minuti' is the partitive case of 'minut', which means 'minute'. In Estonian, it's commonly used to express duration or to refer to a brief period of time. It can be used in phrases like 'minuti palun' (please wait a moment) or when talking about something that takes 'a minute'."
 }

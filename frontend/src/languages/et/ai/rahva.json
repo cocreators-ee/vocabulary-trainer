@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Rahva seas levis kiiresti uudis.",
-    "Rahvastik on pidevalt kasvanud.",
-    "Rahva hulgas on palju erinevaid kultuure."
+    "Eesti rahvastik on väike.",
+    "See raamat räägib meie rahvast ajaloost.",
+    "Rahva seas oli palju inimesi."
   ],
   "translation": [
     "people",
-    "nation",
-    "population"
+    "population",
+    "folk"
   ],
-  "context": "The word 'rahva' generally refers to a group of people who share a common culture, language, or ethnicity, and is often used in contexts related to demographics, sociology, or national identity."
+  "context": "The word 'rahva' is the genitive plural form of the Estonian word 'rahvas', which means 'people' or 'population'. In Estonian grammar, this form is used to show possession or relationship - it indicates something belonging to or related to the people. For example, in the phrase 'Eesti rahvastik' (Estonian population), 'rahva' modifies 'rahvastik' to indicate whose population we're talking about."
 }

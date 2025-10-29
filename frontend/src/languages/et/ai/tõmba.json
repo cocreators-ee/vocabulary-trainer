@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tõmban selle jala alla",
-    "Ta tõmbas kardinad ette",
-    "Tõmba see võti käepidemest välja"
+    "Tõmba uks lahti.",
+    "Tõmban tooli lähemale.",
+    "Tõmbaks mind veidi edasi?"
   ],
   "translation": [
     "pull",
     "drag",
-    "tug"
+    "draw"
   ],
-  "context": "The word 'tõmba' in Estonian means to pull or drag something, often with a sense of force or effort, and is commonly used in various contexts such as physical actions or figurative expressions."
+  "context": "The Estonian word 'tõmba' is a verb that means to pull, drag, or draw something. It's the imperative form (command) of the verb 'tõmmata'. The root 'tõmb-' indicates movement toward oneself by applying force. In different contexts it can refer to pulling physical objects, drawing attention, or dragging along."
 }

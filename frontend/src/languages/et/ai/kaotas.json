@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kaotasin oma võtmed",
-    "Ta kaotas kõik oma raha",
-    "Nad kaotasid oma viimase mängu"
+    "Eesti meeskond kaotas mängu Soome vastu.",
+    "Ta kaotas oma telefonireisimisel.",
+    "Poisika kaotas oma kingad."
   ],
   "translation": [
-    "lost",
-    "missed"
+    "lost"
   ],
-  "context": "The word 'kaotas' is a verb in Estonian that means to lose something, whether it be a physical object, a game, or an opportunity."
+  "context": "The Estonian word 'kaotas' is the past tense third-person singular form of the verb 'kaoa', which means 'to lose'. It indicates that someone or something lost in a game, competition, or misplaced an object. The verb follows conjugation patterns for regular -da/-d verbs in Estonian."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
     "See on arusaadav.",
-    "Ta ütleb, et see ei ole arusaadav.",
-    "Arusaadav on see, mis on selge."
+    "Tema selgitus oli väga arusaadav.",
+    "Arusaadavad juhtumid võivad esineda igal ajal."
   ],
   "translation": [
     "comprehensible",
-    "intelligible",
-    "understandable"
+    "understandable",
+    "clear"
   ],
-  "context": "The word 'arusaadav' in Estonian means something that can be easily understood or comprehended, and it is commonly used to describe a concept, idea, or piece of information that is clear and simple to grasp."
+  "context": "The Estonian word 'arusaadav' is an adjective that means something can be easily understood or comprehended. It describes information, explanations, or situations that are clear and not difficult to grasp intellectually."
 }

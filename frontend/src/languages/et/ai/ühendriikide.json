@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ühendriikide president on Joe Biden.",
-    "Ta on ühendriikide kodanik.",
-    "Ühendriigid on suur riik."
+    "Ühendriigid on suur riik Põhja-Ameerikas.",
+    "Ma käisin eelmisel aastal Ühendriikides.",
+    "Ühendriikide pealinn on Washington."
   ],
   "translation": [
-    "United States"
+    "United States",
+    "USA"
   ],
-  "context": "The word \"ühendriikide\" refers to the United States of America, and it is commonly used in Estonian to denote the country or its citizens."
+  "context": "The word 'ühendriikide' is the genitive case form of 'ühendriigid' (United States) in Estonian. It means 'of the United States' or 'from the United States'. The root word 'ühendriigid' literally translates to 'united states', which directly corresponds to the English term for the country."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on omaenda elu peremees.",
-    "Omaenda kodu on parim koht.",
-    "Inimesed peavad olema omaenda elu otsustajad."
+    "Omaenda elu on alati parem kui teise oma.",
+    "Ta oli väga uhke omaenda edu eest.",
+    "Me peame ise olema vastutavad omaenda tegude eest."
   ],
   "translation": [
-    "own",
-    "one's own"
+    "one's own",
+    "personal",
+    "individual",
+    "self-made"
   ],
-  "context": "The word 'omaenda' in Estonian means something that belongs to oneself or is one's own, and it is commonly used to describe independence, autonomy, or self-reliance."
+  "context": "The word 'omaenda' is a compound Estonian word that means 'one's own' or 'personal'. It combines 'oma' (own) and 'enda' (oneself). This word emphasizes the concept of something being specifically one's personal possession, responsibility, or achievement. It's often used to distinguish from what belongs to others or to emphasize personal ownership or responsibility."
 }

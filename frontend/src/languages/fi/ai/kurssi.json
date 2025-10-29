@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kurssi on alkanut.",
-    "Hän opiskelee kurssilla.",
-    "Meidän täytyy suorittaa kurssi."
+    "Minulla on kurssi maanantaisin.",
+    "Olen ilmoittautunut tälle kurssille.",
+    "Kurssi päättyi viime perjantaina."
   ],
   "translation": [
     "course",
-    "class"
+    "lesson",
+    "class",
+    "lecture"
   ],
-  "context": "The word 'kurssi' generally refers to a series of lessons or classes taught in a school or university, similar to the English term 'course', but can also be used more broadly to refer to any kind of educational program or training session."
+  "context": "The Finnish word 'kurssi' means course, lesson, class or lecture. It refers to a structured program of study or instruction in a particular subject area, typically offered as part of an educational curriculum at a school, university, or other institution. The word can be used for both individual classes and complete courses of study."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See sõltub asjaoludest.",
-    "Tulemus sõltub mitmest tegurist.",
-    "Otsus sõltub juhatuselt."
+    "See sõltub sinust.",
+    "Kõik sõltub teie otsusest.",
+    "Tulemus sõltub paljude tegurite koosmõjust."
   ],
   "translation": [
-    "depends",
-    "is dependent on"
+    "depends on",
+    "is dependent on",
+    "relies on"
   ],
-  "context": "The word sõltub is a verb in Estonian that means to depend on something or someone, often used in contexts where the outcome or result relies on certain factors or decisions."
+  "context": "The Estonian word 'sõltub' is the third-person singular form of the verb 'sõltuma', which means to depend on or to rely on. It's used when something or someone depends on another factor, person, or circumstance."
 }

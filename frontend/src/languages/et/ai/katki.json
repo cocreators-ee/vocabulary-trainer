@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lõikasin katki niidi.",
-    "Katki läks pilt.",
-    "Ta teeb kikki."
+    "Tööriist läks katki.",
+    "Auto jooksis katki.",
+    "Poodi ei saa enam katki."
   ],
   "translation": [
-    "piece",
-    "cutting",
-    "break"
+    "broken",
+    "damaged",
+    "malfunctioning"
   ],
-  "context": "The word 'katki' in Estonian generally means a piece or a part of something that has been cut or broken off, and it is often used in contexts where something is being divided or separated into smaller parts."
+  "context": "The word 'katki' is an Estonian adverb meaning 'broken', 'damaged', or 'malfunctioning'. It describes something that has stopped working properly or is in a state of disrepair. The word can be used with various subjects such as tools, machinery, vehicles, or even abstract concepts to indicate they are not functioning correctly."
 }

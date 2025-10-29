@@ -1,13 +1,14 @@
 {
-  "confidence": 0.98,
   "understood": true,
   "sentences": [
-    "Joki virtaa rauhallisesti.",
-    "Lapset leikkivät joen rannalla.",
-    "Kylä sijaitsee suoran jokilaaksossa."
+    "Joki on pitkä ja kapea vesiväylä.",
+    "Suomen pisimmän joen nimi on Kemijoki.",
+    "Virtaus joessa oli nopeaa."
   ],
   "translation": [
-    "river"
+    "river",
+    "stream",
+    "watercourse"
   ],
-  "context": "'joki' refers to a river. It is commonly used in geographical contexts and can also be part of compound words like 'joenranta' (riverbank) or 'jokilaakso' (river valley)."
+  "context": "The Finnish word 'joki' means river. It is a common noun referring to a natural flowing watercourse that typically flows into another body of water like an ocean, sea, lake or another river. In Finnish grammar, 'joki' follows the basic consonant gradation rules where the nominative singular form is 'joki', but in partitive case it becomes 'jokea'. For example: 'Näen joen' (I see a river) vs. 'Katson jokea' (I watch the river)."
 }

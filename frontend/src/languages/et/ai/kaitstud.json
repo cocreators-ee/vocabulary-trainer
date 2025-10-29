@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kaitstud seadusega.",
-    "Need andmed on kaitstud parooliga.",
-    "Kaitstud ala on ainult lubatud isikutel."
+    "Kaitstud ala on metsloomade koduks.",
+    "See arhiiv on kaitstud parooliga.",
+    "Põllumaa tuleb kaitsta ja kaitstud pidada."
   ],
   "translation": [
     "protected",
-    "defended",
-    "guarded"
+    "guarded",
+    "shielded"
   ],
-  "context": "The word 'kaitstud' in Estonian means being protected or defended from something, often referring to a state of being safe or secure."
+  "context": "The word 'kaitstud' is the past participle form of the Estonian verb 'kaitma', which means to protect, defend or guard. It describes something that has been protected from harm or danger and is now in a safe state. This adjective can be used for people, places, objects, or information that needs security measures."
 }

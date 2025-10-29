@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen magasisse ostma.",
-    "See magasin on väga suur ja seal on palju kaupu.",
-    "Magasini ees oli pikk järg."
+    "Töölapsed magasid ööse süüa.",
+    "Ema magasil kõrge kuuma voodis.",
+    "Magasinime saavutasime kella üheksaks."
   ],
   "translation": [
-    "shop",
-    "store",
-    "boutique"
+    "slept",
+    "were sleeping",
+    "fell asleep"
   ],
-  "context": "The word 'magasin' in Estonian refers to a place where goods are sold, similar to the English words 'shop', 'store', or 'boutique'. It is commonly used to describe retail establishments of various sizes."
+  "context": "The word 'magasid' is the past tense plural form of the Estonian verb 'magama', which means 'to sleep'. It indicates that multiple people were sleeping in the past. This could refer to children sleeping, someone falling asleep at a particular time, or people being in a sleeping state."
 }

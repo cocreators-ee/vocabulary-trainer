@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tegemas tööd",
-    "Ta on tegemas head tööd",
-    "Nad on tegemas koostööd"
+    "Ma olen tegemas uut projekti.",
+    "Tuleb tegema head tööd.",
+    "Mis sa parasti tegemas oled?"
   ],
   "translation": [
-    "to do",
     "doing",
-    "make"
+    "making",
+    "working on"
   ],
-  "context": "The word 'tegemas' is a verb form in Estonian that means to do or make something, it is often used in the context of work or activities."
+  "context": "The Estonian word 'tegemas' is the partitive case form of the verb 'tegema', which means 'to do' or 'to make'. It's commonly used in constructions with the verb 'olema' (to be) to indicate what someone is currently doing, similar to the English structure 'is/are/am doing'. This form appears frequently in everyday conversations and writing when describing ongoing actions."
 }

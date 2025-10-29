@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on noorem kui mina.",
-    "Noorem õde on väga nutikas.",
-    "Nooremat vennast võib nimetada ka vendiks."
+    "Tema on noorem vend.",
+    "Olen noorem klassiõpilane.",
+    "Nooremad lapsed ei tohi mängida selles piirkonnas."
   ],
   "translation": [
     "younger",
     "junior"
   ],
-  "context": "The word noorem is used to describe someone who is younger in age, and it can be used in various contexts such as comparing ages or describing family relationships."
+  "context": "The word 'noorem' is an adjective in Estonian that means 'younger'. It's used to compare ages or positions, indicating someone is younger than another person. The word can be declined for gender and number (e.g., noorem = masculine singular, nooremad = plural)."
 }

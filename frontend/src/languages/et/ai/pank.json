@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Pank maksis mulle sularaha tagasi.",
-    "Minu pangaarvest on kadunud raha.",
-    "Tahan paneksid sularaha sinna panka."
+    "Pank asub kesklinnas.",
+    "Meie pank on avatud kell 9-17.",
+    "Ma läksin pangaga raha võtma."
   ],
   "translation": [
-    "bank",
-    "banks"
+    "bank (financial institution)",
+    "bench"
   ],
-  "context": "Refers to a financial institution where people can deposit money, obtain loans and manage their finances. In some contexts it may refer specifically to the building or physical location of such an establishment rather than its services."
+  "context": "The Estonian word 'pank' has two main meanings. It can refer to a financial institution/bank where people keep money, or it can mean a bench/seating furniture. The meaning depends on the context in which it is used."
 }

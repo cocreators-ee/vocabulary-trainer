@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minä haluan mennä, mutta en voi.",
-    "Hän oli vihainen, mutta hän ei sanonut mitään.",
-    "Se on hyvä idea, mutta se on kallis."
+    "Mutta hän ei tullut.",
+    "Minä haluan kahvia, mutta sinä et.",
+    "Hän oli väsynyt, mutta työskenteli silti."
   ],
   "translation": [
     "but",
     "however"
   ],
-  "context": "The word 'mutta' is a conjunction used to introduce a contrast or exception. It’s equivalent to ‘but’ or ‘however’ in English and commonly used to connect two opposing ideas."
+  "context": "The Finnish word 'mutta' is a conjunction used to connect contrasting ideas or clauses. It functions similarly to the English words 'but' and 'however'. In sentences, it often appears between two independent clauses where there's some contrast or opposition between them. The word doesn't change form based on context - it remains 'mutta' regardless of gender, number, or case."
 }

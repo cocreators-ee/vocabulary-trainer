@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on vaene ja ei saa endale uut riideid osta.",
-    "Vaenedel on palju rahva, kellel pole piisavalt toitu.",
-    "Vaene mees läks linna, et leida tööd."
+    "Vaene laps oli üksi kodust lahkunud.",
+    "Ta oli vaene ja ei saanud piisavalt toitu.",
+    "Kuidas võib olla nii vaene?"
   ],
   "translation": [
     "poor",
-    "needy"
+    "wretched",
+    "miserable",
+    "unfortunate"
   ],
-  "context": "The word 'vaene' in Estonian means someone who lacks material possessions or money and is often used to describe people who are struggling financially."
+  "context": "The word 'vaene' is an Estonian adjective that means poor, wretched, miserable, or unfortunate. It describes someone who is in a pitiful state, lacking basic necessities or suffering from misfortune. In the examples shown, it's used to describe a child who left home alone, someone who lacked sufficient food, and expressing surprise at how someone could be so unfortunate."
 }

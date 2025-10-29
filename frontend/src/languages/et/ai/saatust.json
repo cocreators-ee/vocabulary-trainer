@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on juba saanud oma saatuse vastu võtta.",
-    "Saatust ei saa muuta, aga sellega saab leppida.",
-    "Meie saatuste kohtumine oli ette määratud."
+    "Saatust on keeruline mõista.",
+    "Loodan head saatust.",
+    "Tema saatus oli traagiline."
   ],
   "translation": [
     "fate",
     "destiny",
     "fortune"
   ],
-  "context": "The word 'saatust' in Estonian refers to one’s fate or destiny. It is often used to describe a predetermined course of events, something inevitable that happens to a person. It can also imply acceptance of what is meant to be."
+  "context": "The word 'saatust' is the partitive case form of the Estonian noun 'saatus', which means fate or destiny. The partitive case in Estonian is typically used to indicate an object that is being acted upon, partialness, or indefiniteness. In this form, it could be translated as 'of fate' or 'concerning fate'."
 }

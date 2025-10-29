@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pöörin ringi.",
-    "Ta pööras selle ümber.",
-    "Nad pööravad seda korduvalt."
+    "Tule pöörata ringi",
+    "Ma pööran auto ära",
+    "Pööra end ümber"
   ],
   "translation": [
-    "to turn",
-    "to rotate",
-    "to spin"
+    "turn",
+    "rotate",
+    "twist",
+    "spin"
   ],
-  "context": "The word 'pööra' is commonly used in Estonian to describe the act of turning or rotating something, and it can be used in various contexts such as physical movement or changing direction."
+  "context": "The verb 'pööra' in Estonian means to turn, rotate, twist or spin. It can be used for physical movements like turning something around, rotating an object, spinning in a circle, or changing direction when moving. The word appears in various contexts from simple physical actions to more figurative uses of direction changes."
 }

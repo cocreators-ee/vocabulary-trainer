@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen armunud sinusse",
-    "Ta on armunud tema vaatusse",
-    "Nad on armunud üksteise"
+    "Olen armunud sinusse.",
+    "Ta oli armunud noormeheesse.",
+    "Lapsed olid armunud mängu."
   ],
   "translation": [
     "fallen in love",
-    "in love"
+    "in love with",
+    "smitten"
   ],
-  "context": "The word 'armunud' is the past tense of the Estonian verb 'armuma', which means to fall in love. It describes a strong feeling of affection or attachment towards someone."
+  "context": "The word 'armunud' is the past participle form of the verb 'armuda', which means 'to fall in love'. It describes someone who has fallen in love or is in a state of being in love. In Estonian, this adjective typically agrees with the subject it modifies (matching gender and number)."
 }

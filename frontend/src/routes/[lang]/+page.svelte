@@ -137,7 +137,6 @@
             <p class="note">
               As always with "AI", these answers are often wrong and it may e.g. have imagined the word was in English and gave answers based on the English word instead.
             </p>
-            <p>Claimed confidence: {$aiInfo.confidence}</p>
           </div>
         {:else}
           <div class="no-ai-info">

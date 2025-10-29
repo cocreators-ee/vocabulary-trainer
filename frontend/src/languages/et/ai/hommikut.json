@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hommikul tõusin varakult üles.",
-    "Ta võttis hommikut teed.",
-    "Hommikuid on tal harva vaba."
+    "Tere hommikut!",
+    "Hommikusöök on hea tava.",
+    "Olen hommiku jooksul palju tööd teinud."
   ],
   "translation": [
-    "breakfast",
-    "morning"
+    "good morning"
   ],
-  "context": "The word 'hommikut' is the genitive form of 'hommik', which generally refers to morning or breakfast in Estonian, and it's commonly used when talking about the time of day or meals."
+  "context": "The word 'hommikut' is the partitive case form of 'hommik', meaning 'morning'. It appears in greetings like 'Tere hommikut!' which means 'Good morning!'. The partitive case indicates a portion or aspect of something, so here it refers to the concept of morning as a greeting element."
 }

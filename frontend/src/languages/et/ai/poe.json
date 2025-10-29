@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Katus oli täis poe.",
-    "Ma leidsin palju poe oma juustest.",
-    "Poe tekitab mulle allergilisi reaktsioone."
+    "Tema käis poes.",
+    "Me ostame poes leiva.",
+    "Poes on avatud kell 9 kuni 21."
   ],
   "translation": [
-    "dust",
-    "pollen"
+    "store",
+    "shop",
+    "retail outlet"
   ],
-  "context": "The word 'poe' in Estonian translates to 'dust' or 'pollen' in English. It commonly refers to fine particles floating in the air, often causing allergies or settling on surfaces."
+  "context": "The Estonian word 'poe' is the partitive form of the noun 'pood', which means store or shop. It's used when referring to a store in a general sense or when talking about going to, being at, or doing something related to stores. The partitive case often indicates partialness or indefiniteness, so here it can mean '(a) store' or generally about the concept of shopping."
 }

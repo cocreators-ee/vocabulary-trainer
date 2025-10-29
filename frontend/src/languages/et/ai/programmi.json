@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Programmi kasutamine on lihtne.",
-    "Ma olen programmi loonud.",
-    "Programmi installimine võtab aega."
+    "Mul on palju programmeid arvutis.",
+    "Ta töötab programmeerijana ja kirjutab programmesid.",
+    "Me vaatlesime seda programmi eile."
   ],
   "translation": [
-    "program"
+    "programs",
+    "software applications",
+    "computer programs"
   ],
-  "context": "The word 'programmi' in Estonian refers to a set of instructions that a computer can execute, and it is commonly used in the context of computing and software development."
+  "context": "The Estonian word 'programmi' is the partitive case form of 'programm', which means 'program'. It's used when referring to some or multiple programs, or in contexts where the program is the object being acted upon. In English translations, it would typically be rendered as 'programs' or refer to software applications in general."
 }

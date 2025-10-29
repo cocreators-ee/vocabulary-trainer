@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tänapäeval on see väga levinud.",
-    "Ta elab tänapäeval Pariisis.",
-    "Tänapäeval pole see enam nii populaarne."
+    "Tänapäeval on ilus päev.",
+    "Inimesed kasutavad rohkem nutitelefone tänapäeval.",
+    "Mõtleme sellele, mis juhtub tänapäeval."
   ],
   "translation": [
-    "today",
-    "in these days",
-    "nowadays"
+    "nowadays",
+    "these days",
+    "in modern times"
   ],
-  "context": "The word tänapäeval is commonly used in Estonian to refer to the present day or modern times, and it is often translated to English as 'today' or 'nowadays'."
+  "context": "The Estonian word 'tänapäeval' is an adverb that means 'nowadays', 'these days', or 'in modern times'. It is formed from the words 'täna' (today) and 'päev' (day), literally meaning 'on today's day' or 'in today's time'. This word is used to refer to the current era or present day, contrasting with past times. It appears in various contexts when discussing contemporary life, modern practices, or current situations."
 }

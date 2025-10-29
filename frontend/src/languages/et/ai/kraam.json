@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kraam on avatud.",
-    "Käisin kraami juures.",
-    "Ta töötab kraamis."
+    "Kas sa võtad oma kraami kaasa?",
+    "Ta pani kõik oma kraami ühte kotti.",
+    "Meil oli palju kraami autost mahutada."
   ],
   "translation": [
-    "stall",
-    "shop",
-    "stand"
+    "stuff",
+    "things",
+    "belongings",
+    "gear",
+    "equipment"
   ],
-  "context": "A kraam is a small shop or stall, often selling food or goods, commonly used in Estonian to refer to a market stand or a small retail store."
+  "context": "The Estonian word 'kraam' is a common noun that refers to various types of items, belongings, or things. It's often used in everyday language to talk about personal possessions, luggage, miscellaneous objects, or equipment. The word can be used with different verb forms depending on context - it can be inflected for cases like genitive ('kraami'), partitive ('kraami'), and plural forms ('krammid'). It's a versatile word that covers a range of meanings similar to 'stuff' in English."
 }

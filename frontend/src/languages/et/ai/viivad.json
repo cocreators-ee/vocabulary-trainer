@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta joonistab viivad paberile.",
-    "Viivad on ümarad ja sirged.",
-    "Kunstnik kasutab eri laiuseid viivu joonistamiseks."
+    "Töölised viivad palju.",
+    "Naised viivad koos perega.",
+    "Lapsed viivad koolis."
   ],
   "translation": [
-    "lines",
-    "strokes"
+    "delay",
+    "postpone",
+    "wait"
   ],
-  "context": "The word 'viivad' in Estonian refers to lines or strokes, often used in the context of drawing or art."
+  "context": "The word 'viivad' is the third person plural form of the Estonian verb 'viia', which means to delay, postpone or wait. It describes when a group of people (they) are delaying something or waiting for something."
 }

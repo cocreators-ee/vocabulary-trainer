@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa kõri võimust",
-    "Kõri on väga oluline inimese kehal",
-    "Ta laulab ilusa häälega ja selge kõriga"
+    "Kael on kaela taga ja kael ees.",
+    "Tal oli valu kaelas pärast treeningut.",
+    "Kaelapõletik võib olla väga ebamugav."
   ],
   "translation": [
-    "throat",
-    "voice"
+    "neck",
+    "throat"
   ],
-  "context": "The word 'kõri' generally refers to the throat or voice, and is commonly used in contexts related to singing, speaking, or the physical body."
+  "context": "The Estonian word 'kael' primarily means 'neck', referring to the part of the body connecting the head and torso. It can also sometimes refer to 'throat' in certain contexts, though 'kurg' is more commonly used for throat specifically. The word is a common noun in Estonian and follows normal grammatical rules with different cases like 'kaela' (genitive) and 'kaelal' (locative)."
 }

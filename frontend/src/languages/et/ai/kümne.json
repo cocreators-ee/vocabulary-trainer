@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kümne aasta vanus.",
-    "Ta on üks kümnest.",
-    "Kümne esimese hulgas."
+    "Olen kümme aastat vana.",
+    "Meil on kümme õuna.",
+    "Kümme inimest tulles."
   ],
   "translation": [
     "ten",
-    "tenth"
+    "the numeral ten"
   ],
-  "context": "The word kümne is an Estonian adjective and noun that means ten or tenth, it can be used in various contexts to describe quantities or ordinal positions."
+  "context": "The word 'kümne' is the partitive case form of the Estonian number 'kümme' (ten). The partitive case is used to indicate an indefinite quantity or when talking about a subset of something. In this form, it would be used when saying phrases like 'ten (of something)' where you're referring to a portion or amount of ten items rather than just the number itself."
 }

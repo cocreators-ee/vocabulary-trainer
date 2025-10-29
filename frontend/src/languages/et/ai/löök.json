@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta andis talle löögi.",
-    "Löök oli nii tugev, et ta kukkus maha.",
-    "Löökide arv oli üle kahekümne."
+    "Ta tegi ootamatu löögi.",
+    "Löök oli nõrk ja ei kahjustanud kedagi.",
+    "Mängija sai karistuse halvast löögist."
   ],
   "translation": [
-    "blow",
     "hit",
-    "strike"
+    "strike",
+    "blow",
+    "beat",
+    "punch"
   ],
-  "context": "The word 'löök' in Estonian generally refers to a physical blow or hit, and is commonly used in the context of violence or impact."
+  "context": "In Estonian, 'löök' is a masculine noun that refers to a physical strike or blow with force. It can be used in various contexts such as sports (like boxing or hockey), everyday situations involving hitting something, and even metaphorically for sudden impacts or effects. The word specifically emphasizes the action of striking with force rather than just touching."
 }

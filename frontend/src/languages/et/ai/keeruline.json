@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "See on keeruline ülesanne",
-    "Ta võttis keerulise otsuse",
-    "Keerulised olukorrad nõuavad tarkusi"
+    "See on keeruline küsimus.",
+    "Keerulisemad olukorrad nõuavad tähelepanu.",
+    "Miks see töö on nii keeruline?"
   ],
   "translation": [
-    "complicated",
     "difficult",
+    "complicated",
     "complex"
   ],
-  "context": "The word 'keeruline' in Estonian means something that is complicated or difficult to understand or deal with, and it is commonly used to describe situations or tasks that require careful thought or effort."
+  "context": "The Estonian word 'keeruline' is an adjective that describes something as being difficult, complicated, or complex. It can be used to describe tasks, situations, problems, or concepts that require effort to understand or accomplish. The word changes form depending on case and number - for example, it becomes 'keerulisem' in comparative form (more difficult) and can have different endings based on grammatical gender and case."
 }

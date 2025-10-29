@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea, milline see on.",
-    "Ta on väga milline.",
-    "Milline ilm on täna?"
+    "Milline ilus päev!",
+    "Milline see mees on?",
+    "Millised head uudised!"
   ],
   "translation": [
     "what kind of",
-    "which",
-    "what type of"
+    "how",
+    "which type of"
   ],
-  "context": "The word 'milline' in Estonian is an interrogative pronoun used to ask about the type or kind of something, and it can be translated to English as 'what kind of', 'which', or 'what type of'."
+  "context": "The Estonian word 'milline' is an interrogative pronoun and adjective used to ask about the quality, nature, or characteristics of something. It corresponds to English words like 'what kind of', 'how', or 'which type of'. This word can be used in different forms depending on what it modifies - masculine/feminine/neuter singular, or plural form (millised)."
 }

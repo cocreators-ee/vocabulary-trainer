@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Onko hän täällä?",
-    "Onko sinulla rahaa?",
-    "En tiedä, onko se totta."
+    "Onko täällä vapaata pöytää?",
+    "Onko sinulla aikaa hetkeksi?",
+    "Onko hän tulossa tänään?"
   ],
   "translation": [
     "is it",
-    "are you"
+    "are there",
+    "do you have"
   ],
-  "context": "The word \"onko\" is used in Finnish to form questions and is often translated to English as \"is it\" or \"are you\", depending on the context of the sentence."
+  "context": "'Onko' is a Finnish interrogative verb form used to ask questions. It specifically means 'is it', 'are there', or 'do you have' when asking about existence, presence, or possession in present tense questions. This word is formed from the verb 'olla' (to be) and the question particle '-ko'."
 }

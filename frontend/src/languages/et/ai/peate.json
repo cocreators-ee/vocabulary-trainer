@@ -1,15 +1,14 @@
 {
-  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Ma olen peates kodus.",
-    "Jah, ta jääb peatuseks.",
-    "Peatus on vajalik enne jätkamist."
+    "Kas te peate minema?",
+    "Me peame kohtuma kell kolm.",
+    "Ta peab tulema homme."
   ],
   "translation": [
-    "pause",
-    "halt",
-    "standstill"
+    "must",
+    "have to",
+    "need to"
   ],
-  "context": "Peate refers to a temporary stop or pause in an activity. It is commonly used for actions that are halted momentarily, such as stopping work to rest or pausing during physical activities like running."
+  "context": "In Estonian, 'peate' is the 2nd person plural present form of the verb 'pidama', which means 'to have to', 'must', or 'need to'. It indicates obligation or necessity in formal address (plural you). This form is used when speaking to multiple people formally."
 }

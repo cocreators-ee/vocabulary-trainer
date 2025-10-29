@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Rauta on välttämätöntä terveydellemme.",
-    "Raudan puute voi aiheuttaa anemian.",
-    "Rautaa käytetään myös rakennusmateriaalina."
+    "Rauta on metallia.",
+    "Ostin raudasta valmistetun tuotteen.",
+    "Tämä työkalu on tehty raudasta."
   ],
   "translation": [
-    "iron"
+    "iron",
+    "steel"
   ],
-  "context": "The word 'rauta' refers to the chemical element iron, which is essential for human health and has various uses in construction and other industries."
+  "context": "The Finnish word 'rauta' is a noun that refers to iron, the metal element. It can also refer to steel or iron objects in general. In Finnish grammar, 'rauta' has different forms depending on case: nominative rauta, genitive raudan, partitive rautaa, etc."
 }

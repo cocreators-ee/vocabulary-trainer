@@ -1,14 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Mitmeid inimesi saabus pidule.",
-    "Kodus oli mitmeid asju, mida ei kasutatud kunagi.",
-    "Ta ostis mitmeid raamatuid kooliks."
+    "Mitmeid inimesi on kohal.",
+    "Ta nägi mitmeid lindu puude vahel.",
+    "Me leidsime mitmeid asju võõrastelt."
   ],
   "translation": [
     "several",
-    "a few"
+    "many",
+    "multiple"
   ],
-  "context": "Used to indicate an unspecified small number of things or people."
+  "context": "The word 'mitmeid' is the partitive plural form of the Estonian numeral/mitmus 'mitu', meaning 'how many' or 'some'. As a partitive plural, it indicates an unspecified quantity - several or multiple things. It's used when referring to multiple items without specifying the exact number, similar to English words like 'several', 'many', or 'multiple'. In Estonian grammar, partitive case is commonly used with numerals and indefinite quantities."
 }

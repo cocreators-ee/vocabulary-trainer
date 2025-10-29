@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen selle üle mõelnud",
-    "Ta on juba ammu selle peale mõelnud",
-    "Nad on sel teemal palju mõelnud"
+    "Ma ei ole veel mõelnud sellest teemast.",
+    "Oled sa juba mõelnud oma reisiplaane?",
+    "Ta oli pikalt mõelnud enne vastust andmist."
   ],
   "translation": [
-    "thought",
+    "thought about",
     "considered",
-    "reflected"
+    "pondered"
   ],
-  "context": "The word 'mõelnud' is the past participle form of the Estonian verb 'mõtlema', which means to think or consider something. It is commonly used in sentences to describe a person's thoughts or reflections on a particular topic."
+  "context": "The word 'mõelnud' is the past tense form of the Estonian verb 'mõelda', which means 'to think'. Specifically, it's the past participle or perfective form that indicates someone has thought about something. It can be translated as 'thought about', 'considered', or 'pondered' in English."
 }

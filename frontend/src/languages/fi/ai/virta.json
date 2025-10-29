@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Virta kulkee jokisuussa.",
-    "Joki virtaa hitaasti.",
-    "Lämpövirta leviää ilmassa."
+    "Virtaa jokeen.",
+    "Joki virtaa pohjoiseen.",
+    "Sähkövirta on heikko."
   ],
   "translation": [
-    "stream",
-    "current",
-    "flow"
+    "flow",
+    "current (of water/electricity)",
+    "stream"
   ],
-  "context": "The word 'virta' generally refers to the flow or movement of something, such as water in a stream, air, or electric current, and is commonly used to describe natural phenomena or technical concepts in Finnish."
+  "context": "The Finnish word 'virta' means flow or current and is commonly used to describe the movement of liquids like rivers flowing, or electricity in electrical circuits. It can refer to both natural flows of water and artificial flows of electricity."
 }

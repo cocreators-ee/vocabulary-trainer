@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võitis auhinna",
-    "Meie võitsime mängu",
-    "Nad võitsid kohtuvaidluse"
+    "Eesti võitis jalgpalli turniiri.",
+    "Tiina võitis matemaatikavõistluse.",
+    "Meie tiim võitis kuldmedali."
   ],
   "translation": [
     "won",
-    "conquered"
+    "defeated",
+    "triumphed"
   ],
-  "context": "The word võitis is the past tense of the Estonian verb võita, which means to win or conquer something, and it is commonly used to describe a situation where someone has achieved victory in a competition, conflict, or challenge."
+  "context": "The Estonian word 'võitis' is the past tense form of the verb 'võita', which means to win, defeat or triumph. It's a commonly used verb in Estonian and can refer to winning competitions, battles, games, or achieving victory in various contexts."
 }

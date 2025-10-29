@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kutsin poisiga randa kalapüsimiseks.",
-    "Ta tegeles poissi pärast, kuigi oli poisiga rahulik.",
-    "Minu venna pojaga me sõitsime parki mängida."
+    "Tule poisiga koju",
+    "Poisi käis poes",
+    "Laps poisiga"
   ],
   "translation": [
     "with the boy",
-    "with a boy"
+    "along with the boy",
+    "together with the boy"
   ],
-  "context": "In Estonian, 'poisiga' translates to either 'with the boy' or 'with a boy'. The word is commonly used in daily conversation and appears frequently in texts involving children or young individuals. It can be part of both formal and informal speech."
+  "context": "The word 'poisiga' is an Estonian word that uses the case ending '-ga', which indicates accompaniment or being together with someone. It's formed from the root word 'poiss' (boy) and the instrumental case suffix '-ga', meaning 'with'. This form shows how Estonian grammar uses case endings to express relationships between nouns."
 }

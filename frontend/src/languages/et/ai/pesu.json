@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen pesuma",
-    "Pesu on täna väga populaarne",
-    "Ta tegi oma pesu juba homme"
+    "Tema pesu on praegu pesumas.",
+    "Ma pean vajama uut pesu.",
+    "Lapse pesu oli märg."
   ],
   "translation": [
     "laundry",
-    "wash"
+    "washing",
+    "clothes to be washed"
   ],
-  "context": "The word 'pesu' in Estonian generally refers to the act of washing something, often used in the context of doing laundry."
+  "context": "In Estonian, 'pesu' is a noun that refers to laundry or clothes that need to be washed. It can also refer to the process of washing itself. The word comes from the verb 'pesta' meaning 'to wash'. In different contexts, it might be used for dirty laundry clean laundry waiting to be washed, or the general concept of laundry."
 }

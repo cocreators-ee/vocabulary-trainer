@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen nõus sinuga.",
-    "Ta on nõus meie ettepanekuga.",
-    "Nõus oleme, et see on hea mõte."
+    "Olen nõu teie ettepanekuga.",
+    "Ta oli nõus abistama.",
+    "Kas sa oled nõus sellega?"
   ],
   "translation": [
-    "agree",
-    "consent"
+    "agreed",
+    "consentient",
+    "willing"
   ],
-  "context": "The word nõus is commonly used in Estonian to express agreement or consent to a proposal or idea."
+  "context": "The Estonian word 'nõus' means agreed, willing, or consentient. It's used to express agreement or willingness to something. When describing a person, it indicates they are agreeable or compliant. The word can appear in different forms depending on the context and case structure of the sentence."
 }

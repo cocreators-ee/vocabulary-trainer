@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen kuskil puhkama.",
-    "Kas sa oled seda kuskil näinud?",
-    "Me peaksime leidma kuskil parema koha."
+    "Kuskil on hea restoran lähedal.",
+    "Me ei tea kuskil on parim kohvik.",
+    "Kuskil peaks olema postkontor."
   ],
   "translation": [
     "somewhere",
-    "anywhere",
-    "around"
+    "in some place"
   ],
-  "context": "The word 'kuskil' in Estonian is an indefinite pronoun meaning 'somewhere' or 'anywhere'. It indicates a place that is not specific, but exists. It’s commonly used to express location in a non-precise manner."
+  "context": "The Estonian word 'kuskil' is an adverb that means 'somewhere' or 'in some place'. It's formed from the root 'kus' (where) with the diminutive suffix '-kil', indicating an unspecified location. It's commonly used when referring to a general, unknown, or unimportant location in everyday conversation."
 }

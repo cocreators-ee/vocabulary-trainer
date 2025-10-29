@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kirjutan kirja",
-    "Ta sai kirja postiga",
-    "Kiri on hea viisiline"
+    "Sa oled saadnud kiri.",
+    "Me vahetame kirju regulaarselt.",
+    "Tema kirjutas pikima kiri ajaloos."
   ],
   "translation": [
     "letter",
-    "script"
+    "message",
+    "epistle"
   ],
-  "context": "The word 'kiri' in Estonian generally refers to a written message or character, similar to the English word 'letter', and can also mean script or handwriting."
+  "context": "The Estonian word 'kiri' is a noun that means letter or message. It refers to written correspondence, such as letters sent through the mail or electronic messages. In different contexts it can be used for formal letters (epistles) or informal communications."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kõigil on õigus vabale liikumisele.",
-    "Ta on kõigile meie hulgast tuttav.",
-    "Kõigil neist on üks asi ühis: nad on kõik väga populaarsed."
+    "Kõik kõigil on okei.",
+    "Meie planeedil kõigil on õigus vabadusele.",
+    "See tulemus oli imeline ja kõigile meeldis."
   ],
   "translation": [
-    "to all",
     "everyone",
-    "all people"
+    "all of them",
+    "to everyone"
   ],
-  "context": "The word kõigil is used in Estonian to refer to everyone or all people, and it is commonly used in sentences to convey a sense of inclusivity or universality."
+  "context": "The word 'kõigil' is the allative case form of the pronoun 'kõik', meaning 'all' or 'everyone'. In Estonian, the allative case indicates movement toward something or someone. So 'kõigil' specifically means 'to everyone' or 'toward all of them' - it indicates that action is directed toward every person in a group."
 }

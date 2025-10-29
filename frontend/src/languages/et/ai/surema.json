@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta soovib surema saada",
-    "Surema ei ole lihtne",
-    "Tema surema mineku põhjus oli ebateadus"
+    "Ei surema ega jääda.",
+    "Ta ei surema kohe, aga haigus on tõsine.",
+    "Kes peaks surema?"
   ],
   "translation": [
     "to die",
-    "death"
+    "to perish",
+    "to pass away"
   ],
-  "context": "The word 'surema' is an infinitive verb in Estonian that means to die, and it is commonly used in sentences to express the idea of dying or death."
+  "context": "Surema is the partitive case form of the Estonian verb 'surema', which means 'to die' or 'to perish'. This form typically appears in contexts where dying is being discussed as an ongoing action, possibility, or concept. In the provided examples, it's used in negative constructions and questions about dying."
 }

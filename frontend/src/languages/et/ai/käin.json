@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen juba päris palju käinud.",
-    "Ta käis juurde tulemas vaid kolm korda.",
-    "Kas sa oled kunagi selle linnaga käinud?"
+    "Käin kooli.",
+    "Tema käib poodi igapäevaselt.",
+    "Me käime koos"
   ],
   "translation": [
-    "to be going",
-    "went (past tense)",
-    "have you been to"
+    "go",
+    "walk",
+    "visit",
+    "attend"
   ],
-  "context": "'käin' is a form of the verb 'kanda,' which means 'to carry.' In these examples, it is used in different contexts such as 'to go somewhere by walking or traveling,' particularly when indicating past experiences or actions."
+  "context": "The Estonian word 'käin' is the first person singular present tense form of the verb 'kääma', which means to go, walk, visit or attend. It's used when talking about one's own actions in the present moment, such as going somewhere, walking around, visiting places, or attending events."
 }

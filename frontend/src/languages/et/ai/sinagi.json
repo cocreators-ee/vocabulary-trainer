@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sinagi olen selle kuulnud.",
-    "Ta sinagi on selle teinud.",
-    "Kõik sinagi saavad seda teha."
+    "Sinagi tule siia.",
+    "Kas sinagi sa tulid?",
+    "Meie kõik olime seal, ka sinagi."
   ],
   "translation": [
     "you too",
-    "even you"
+    "also you"
   ],
-  "context": "The word sinagi is used in Estonian to convey the idea that something also applies to the person being addressed, similar to the English phrase 'you too'."
+  "context": "In Estonian, 'sinagi' is a pronoun that combines 'sina' (you) with the particle '-gi' which means 'too', 'also', or 'as well'. It's used to include someone in a group or emphasize that they are also included. The word typically appears after the verb in sentences."
 }

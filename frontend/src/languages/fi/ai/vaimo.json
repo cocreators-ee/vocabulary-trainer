@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vaimo oli kotona.",
+    "Minun vaimo on opettaja.",
     "Hänellä on uusi vaimo.",
-    "Vaimonsa kanssa heillä on kaksi lasta."
+    "Heidän vaimonsa on ystävällinen."
   ],
   "translation": [
     "wife"
   ],
-  "context": "The word vaimo refers to a married woman, specifically the female partner in a marriage, and is commonly used in Finnish to address or refer to someone's spouse."
+  "context": "The Finnish word 'vaimo' means wife. It is a common noun referring to one's married female spouse in Finnish. The word can appear in different forms such as the nominative form shown ('vaimo'), possessive forms like 'heidän vaimonsa' (their wife), and other case endings depending on how it's used in a sentence."
 }

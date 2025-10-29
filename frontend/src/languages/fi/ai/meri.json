@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Meri on suuri.",
-    "Hän asuu meren rannalla.",
-    "Laiva kulki merellä."
+    "Meri on syvä ja sininen.",
+    "Suomen ympärillä on kolme merta: Itämeri, Pohjanlahti ja Selkämeri.",
+    "Lapset juoksivat merelle hiekkaleikkejä varten."
   ],
   "translation": [
-    "sea"
+    "sea",
+    "ocean"
   ],
-  "context": "The word 'meri' refers to a large body of saltwater, often used to describe the ocean or a sea in Finnish language and culture."
+  "context": "The Finnish word 'meri' means sea or ocean. It is a common noun referring to large bodies of saltwater, and can be used both for the open ocean (like Atlantic Ocean) and smaller semi-enclosed seas (like Baltic Sea). In Finnish geography, Finland is surrounded by several merti: the Baltic Sea, Bothnian Bay, and Bothnian Sea."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegi enesetapp",
-    "Enesetapp on tõsine probleem ühiskonnas",
-    "Enesetapud on sage nähtus noorte hulgas"
+    "Tema tegi enesetapu",
+    "Enesetapp on suur tragöödia",
+    "Paljud inimesed võivad mõelda enesetappe"
   ],
   "translation": [
     "suicide",
-    "self-murder"
+    "self-destruction",
+    "taking one's own life"
   ],
-  "context": "The word enesetapp refers to the act of intentionally taking one's own life, and it is a serious issue in society."
+  "context": "The word 'enesetapp' is a compound noun in Estonian composed of 'ene-' (from 'ene' meaning self) and '-tapp' (meaning killing or destruction). It refers to the act of intentionally taking one's own life. This is a serious term used when discussing suicide as a concept or occurrence."
 }

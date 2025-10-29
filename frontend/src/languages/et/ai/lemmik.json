@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on mu lemmikraamat.",
-    "Ta on minu lemmiklaulja.",
-    "Lemmiktoit on tema jaoks pizza."
+    "Lemmikloom on koer.",
+    "Mis on sinu lemmiktoit?",
+    "Mulle meeldib see lemmikfilm."
   ],
   "translation": [
     "favorite",
-    "beloved"
+    "beloved",
+    "cherished"
   ],
-  "context": "The word lemmik is used to describe something or someone that is cherished or preferred above others, similar to the English word favorite."
+  "context": "The word 'lemmik' is an Estonian adjective that means 'favorite', 'beloved', or 'cherished'. It's often used to describe something that someone likes the most out of all similar things. In Estonian grammar, it can be declined to match gender and number when modifying nouns. For example, with a masculine noun it might become 'lemmikis' in some cases, or remain as 'lemmik' for neuter or plural forms."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Taeva all käespidi rahva vaatamas",
-    "Poiss näha tähed taeva peal",
-    "Laine jäädi taeva sisse"
+    "Taevane ilm on ilus täna.",
+    "Kas sa näed taevast?",
+    "Taevas on sinine."
   ],
   "translation": [
-    "sky"
+    "sky",
+    "heaven"
   ],
-  "context": "The word 'taeva' is the genitive form of 'taev' which means sky. It is used to show possession or association with the sky."
+  "context": "The word 'taeva' is the genitive case of 'taevas', meaning 'sky' or 'heaven'. In Estonian, the genitive case often indicates possession or origin. When used in sentences, it can refer to either the physical sky above us or heaven as a spiritual concept."
 }

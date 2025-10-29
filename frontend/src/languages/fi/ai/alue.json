@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä alue on hyvin suosittu turistikohde.",
-    "Alueella asuu noin tuhat ihmistä.",
-    "Kaupungin keskusta-aluetta ei saa rakentaa korkeita taloja."
+    "Alue on kaunis.",
+    "Tämä alue sopii hyvin retkeilyyn.",
+    "Päätimme tutkia uutta aluetta."
   ],
   "translation": [
     "area",
-    "region"
+    "region",
+    "territory",
+    "zone"
   ],
-  "context": "The word 'alue' refers to a geographical area or region, and it is commonly used in Finnish to describe a specific part of a country, city, or landscape."
+  "context": "The Finnish word 'alue' is a noun that refers to an area, region, territory, or zone. It can be used in various contexts such as geographical areas, specific zones within a larger space, or territories designated for particular purposes. The word does not change form based on gender in Finnish grammar."
 }

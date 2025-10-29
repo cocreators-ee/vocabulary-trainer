@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul oli väga meeldiv pidu.",
-    "Ta tegi piduks suurejoonelise korralduse.",
-    "Pere pidu toimus pühapäeval."
+    "Meil on homme suur pidu.",
+    "Kas sa tuled meie peole?",
+    "Tüdrukud tegid ilusa pidu."
   ],
   "translation": [
     "party",
-    "feast",
-    "celebration"
+    "celebration",
+    "feast"
   ],
-  "context": "The word 'pidu' in Estonian generally refers to a social gathering or event where people come together to celebrate something, often with food, drinks, and entertainment, similar to the English words 'party', 'feast', or 'celebration'."
+  "context": "The word 'pidu' is a common Estonian noun that means 'party', 'celebration', or 'feast'. It refers to an event where people gather for social enjoyment, often with food, drinks, and entertainment. In Estonian grammar, this would typically be in the nominative case when referring to the general concept of a party."
 }

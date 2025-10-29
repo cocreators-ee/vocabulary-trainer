@@ -1,14 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän osti viisi gallonaa maalia.",
-    "Auton tankkiin mahtuu noin neljätoista gallonaa bensaa.",
-    "Tarvitsemme kaksi gallonaa vettä sammutukseen."
+    "Minulla on yksi gallona vettä.",
+    "Tarvitsen kaksi gallonaa maitoa.",
+    "Gallona on nestemäärän yksikkö."
   ],
   "translation": [
-    "gallon",
-    "US gallon"
+    "gallon"
   ],
-  "context": "Gallona is a unit of volume, equivalent to approximately 3.785 liters. It's commonly used in the United States to measure liquids like gasoline and paint."
+  "context": "The Finnish word 'gallona' is a loanword from English meaning 'gallon', which is a unit of volume measurement. It's commonly used to measure liquids like water, milk, or other beverages in Finland, particularly when referring to imperial gallons (approximately 4.546 liters) or US gallons (approximately 3.785 liters), depending on context."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta ei saa aru, misasja toimub.",
-    "Mis asja sa teed?",
-    "See on väga keeruline misasja."
+    "Mis asi?",
+    "Mis asi on see?",
+    "Tule ära ja ütle mulle, mis asi!"
   ],
   "translation": [
-    "what's happening",
-    "what are you doing",
-    "what's the matter"
+    "what is this thing/affair",
+    "what's going on",
+    "what the matter is"
   ],
-  "context": "The word 'misasja' in Estonian is an informal way of asking 'what's happening?' or 'what's going on?'. It can also be used to express confusion or ask what someone is doing. It’s a very common colloquial expression."
+  "context": "The word 'misasja' appears to be a typo or misspelling of the Estonian phrase 'mis asi', which means 'what thing' or 'what affair'. This is commonly used in questions to ask about something specific, what's happening, or what something is. The correct form would typically be written as two separate words: 'mis asi'."
 }

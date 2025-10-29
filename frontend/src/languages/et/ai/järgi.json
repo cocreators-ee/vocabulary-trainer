@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma järgin teda.",
-    "Ta tegutses minu järgi.",
-    "Järgi mind!"
+    "Ta järgis plaani.",
+    "Me saime teise järjekorra järgi.",
+    "Järgmise aasta suvel me lähem reisima."
   ],
   "translation": [
-    "after",
-    "along",
-    "behind"
+    "according to",
+    "following",
+    "after"
   ],
-  "context": "The word \"järgi\" is commonly used in Estonian to indicate a sense of movement or action that follows something or someone, often translated to English as \"after\", \"along\", or \"behind\"."
+  "context": "The Estonian word 'järgi' is primarily used as a postposition or adverb with several key meanings: 1) indicating accordance or agreement ('according to'), 2) expressing sequence or order ('following', 'in the order of'), and 3) indicating temporal succession ('after'). It often appears in phrases like 'kelle järgi' (according to whom), 'millise järjekorra järgi' (in what order), and can also function as part of comparative constructions. The word changes form depending on context but generally follows the pattern of being attached or positioned after the noun it modifies."
 }

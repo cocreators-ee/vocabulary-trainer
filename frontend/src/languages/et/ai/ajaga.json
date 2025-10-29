@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta õppis ajaga kõik vastu.",
-    "Minu mure jääb ajaga tagasi.",
-    "Kui kvaliteet on hea, siis see püsib ajaga."
+    "Mingis ajaga tuleme kohtumisele.",
+    "Tööd tehti kiiresti ja hästi ajaga.",
+    "Õunad osteti ajaga."
   ],
   "translation": [
     "with time",
-    "over time",
-    "in the long run"
+    "in due course",
+    "eventually"
   ],
-  "context": "'Ajaga' is a phrase in Estonian meaning 'with time,' used to express that something happens gradually or over the course of time. It often precedes the result of such changes being observed."
+  "context": "The Estonian word 'ajaga' is an adessive case form of the noun 'aeg' (time). It functions as a postposition meaning 'with time' or indicates that something happens eventually, in due course. This construction shows how Estonian uses cases to convey temporal relationships and accompaniment concepts."
 }

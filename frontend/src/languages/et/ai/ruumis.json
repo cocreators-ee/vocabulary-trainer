@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema ei tea midagi sellest ruumis.",
-    "Meil tuleb olla täpsus mõtlemises sees ruumis.",
-    "Ta kihistab järjekindlalt kogu aeg ümber ruumis."
+    "Töötaja istub ruumis.",
+    "Mehhanismid paiknevad ruumis.",
+    "Väike laps jooksis üle ruumi."
   ],
   "translation": [
     "in the room",
-    "in space",
-    "within"
+    "inside the space",
+    "within the area"
   ],
-  "context": "'ruumis' is an Estonian word meaning 'in the room,' 'in space,' or 'within.' It is commonly used to describe something located inside a specific area, such as a physical room or abstract space."
+  "context": "The word 'ruumis' is the inessive case of 'ruum', meaning 'room' or 'space'. It indicates location within a room, space, or area. The ending '-is' shows that something is located inside or within the specified space."
 }

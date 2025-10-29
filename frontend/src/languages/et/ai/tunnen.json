@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tunnen enda häält",
-    "Ta tundis muusikat väga hästi",
-    "Tunnen sind olen"
+    "Tunnen head.",
+    "Me tunneme seda.",
+    "Ta ei tunne valu."
   ],
   "translation": [
     "feel",
     "know",
-    "sense"
+    "recognize"
   ],
-  "context": "The word 'tunnen' in Estonian is commonly used to describe a sense of awareness or recognition, and can be translated to English as 'feel', 'know', or 'sense', depending on the context in which it is used."
+  "context": "The Estonian word 'tunnen' is the first person singular present tense form of the verb 'tundma', which means to feel, know, or recognize. It's commonly used in everyday language to express one's feelings, knowledge, or recognition of something."
 }

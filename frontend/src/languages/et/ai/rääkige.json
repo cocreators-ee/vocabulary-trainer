@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta rääkis mind üksi jätta",
-    "Rääkige mulle sellest",
-    "Kas te räägite inglise keelt"
+    "Rääkige palun aeglasemalt.",
+    "Mis te rääkite?",
+    "Rääkige oma arvamustest avatult."
   ],
   "translation": [
     "speak",
     "talk"
   ],
-  "context": "The word rääkige is the plural form of the imperative of the verb rääkima, which means to speak or talk in English. It is commonly used when asking someone to speak or converse with others."
+  "context": "The word 'rääkige' is the plural imperative form of the verb 'rääkima' which means to speak or talk. It is used when addressing multiple people and telling them to speak, either in a polite command (with 'palun' - please) or as a direct instruction."
 }

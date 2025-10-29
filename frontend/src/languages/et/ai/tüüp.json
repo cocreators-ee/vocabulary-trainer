@@ -1,13 +1,17 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kas sa tõesti usud, et see tüüp on nii suurepärane?",
-    "Selle tüüpi inimesed meelatavad mind alati.",
-    "Mina ei tea, miks kõik selle tüübi lapsed on nii hästi."
+    "See on hea tüüp.",
+    "Mul on teada teine tüüp.",
+    "Tüüp ütles midagi naljakas."
   ],
   "translation": [
-    "type"
+    "type",
+    "kind",
+    "sort",
+    "guy",
+    "person",
+    "fellow"
   ],
-  "context": "The word 'tüüp' translates to 'type' and is used to describe categories or classifications of people or things. It can refer to a general category or specific group characteristics."
+  "context": "The Estonian word 'tüüp' can be translated to English as 'type', 'kind', or 'sort', and is often used to refer to a person, similar to the colloquial use of 'guy' or 'person' in English. It's a common noun that can be used both literally (to classify something) and informally (to refer to people)."
 }

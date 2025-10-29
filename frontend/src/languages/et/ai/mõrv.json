@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli kahtlustatud mõrva",
-    "Mõrv toimus öösel",
-    "Politsei uurib mõrvajuhtu"
+    "Mõrv oli üks kõige hirmsamaid kuritegusid.",
+    "Politsei uurib mõrva juhtumit.",
+    "Ta oli süüdi mõrvas."
   ],
   "translation": [
     "murder",
-    "killing",
     "homicide"
   ],
-  "context": "The word mõrv refers to the act of killing someone, typically in a deliberate and intentional manner, and is commonly used in Estonian to describe a serious crime."
+  "context": "The Estonian word 'mõrv' means murder or homicide. It refers to the unlawful killing of another human being with malice aforethought. This is a serious criminal offense in Estonia and carries severe penalties. The word can appear in various grammatical forms - for example, 'mõrvad' would be plural form, 'mõrva' could be partitive or genitive case, and the verb form would be 'tapma' (to kill/murder)."
 }

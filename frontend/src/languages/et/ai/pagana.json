@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen pagan.",
-    "Paganad elasid sealsamas.",
-    "Paganlik on ilmselt midagi head."
+    "Pagana on hea mees.",
+    "Tema käitumine oli täiesti pagana.",
+    "Lapsed olid väga põnevad ja mängisid nagu paganad."
   ],
   "translation": [
+    "pagan",
     "heathen",
-    "pagan"
+    "infidel",
+    "gentile"
   ],
-  "context": "The word 'pagana' in Estonian refers to a person who does not follow any of the world's main religions, especially Christianity, and can be translated to English as 'heathen' or 'pagan'. It is commonly used to describe someone who holds spiritual beliefs outside of organized religion."
+  "context": "The word 'pagana' is the nominative singular form of the Estonian adjective meaning 'pagan'. It describes someone who follows traditional or non-Christian religious beliefs. In modern usage, it can also be used more broadly to describe wild, uncivilized, or unruly behavior in a somewhat humorous or exaggerated way."
 }

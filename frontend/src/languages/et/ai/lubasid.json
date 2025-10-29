@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lubasin talle helistada.",
-    "Sa lubasid mulle aidata.",
-    "Nad lubasid tulema."
+    "Ta lubasid mulle alati abistada.",
+    "Meie vanemad lubasid meil õhtul kodus jätta.",
+    "Kas sa tõesti lubasid teil koos sõita?"
   ],
   "translation": [
     "promised",
-    "pledged",
-    "assured"
+    "agreed",
+    "assented"
   ],
-  "context": "The word 'lubasid' is the past tense form of the verb 'lubama', which means 'to promise' or 'to pledge'. It indicates a commitment made by someone in the past. In English, it’s commonly used to describe an agreement or assurance that was given."
+  "context": "The word 'lubasid' is the past tense, plural form of the Estonian verb 'luba', which means 'to promise'. It is used when referring to a group of people who made promises in the past. The singular form would be 'lubas' (he/she promised), while the first person plural would be 'lubasime' (we promised)."
 }

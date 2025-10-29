@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tal oli suur kulu.",
-    "Ta sõi mind talt.",
-    "Ma usun talusse."
+    "Talt olen tänan teid.",
+    "Kas sa tuled meilt?",
+    "Ta põgenes alt meie kontrolli all."
   ],
   "translation": [
-    "from him/her/them",
-    "from there"
+    "from you",
+    "from him/her",
+    "from it"
   ],
-  "context": "'talt' is a preposition in Estonian meaning 'from him', 'her', or 'them'. It is used to indicate the source or origin of something. For example, if someone gave you a gift and you wanted to say it came from their place, you could use 'talt'. Additionally, it can also mean 'from there' when referring to a location."
+  "context": "The word 'talt' is an Estonian adessive case form of the third person singular pronoun, used to indicate source or origin. It means 'from him', 'from her', or 'from it'. The adessive case in Estonian typically indicates location near something, but when combined with prepositions like 'saada' (to get/receive), it can indicate source."
 }

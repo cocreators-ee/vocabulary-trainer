@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei tea, kas keegi on seda näinud.",
-    "Ükski neist meestest ei oska tantsida.",
-    "Pole ükski põhjus muretseda."
+    "ükski ei tulnud kohtumisele.",
+    "Ükski neist ei tea saladust.",
+    "Olen kuulnud ükski sellist juttu."
   ],
   "translation": [
     "none",
-    "no one",
-    "not any"
+    "not any",
+    "no one"
   ],
-  "context": "The word 'ükski' in Estonian translates to 'none', 'no one', or 'not any' in English. It is used to indicate the absence of something or someone, functioning as a negative determiner or pronoun. It’s commonly employed when stating that there isn’t even a single instance of something."
+  "context": "The Estonian word 'ükski' is an indefinite pronoun that means 'none', 'not any', or 'no one'. It's used to express the absence of something or someone in a negative context. This word typically appears with negation and is often used in constructions where English would use 'any' in questions or negatives."
 }

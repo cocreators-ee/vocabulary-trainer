@@ -1,15 +1,14 @@
 {
-  "confidence": 0.4,
   "understood": true,
   "sentences": [
-    "Ajate mehele kaks tundi.",
-    "Ta aitas mul ajada oma mõisa.",
-    "Ma eeldasin rohkemat aja.",
-    "Neil on piisavalt aja vaid üks kord täna läbi minna."
+    "Ei ajame täna autoga.",
+    "Tüdruk jooksis ära ja me ei saanud teda kinni püüda.",
+    "Ta on hea autojuht."
   ],
   "translation": [
-    "to spend time",
-    "to take up time"
+    "to drive",
+    "to operate (vehicle)",
+    "to push forward"
   ],
-  "context": "The verb 'ajama' in Estonian generally refers to spending or taking up time, often with an implication of occupying oneself with something for a duration."
+  "context": "The Estonian word 'ajama' is a verb that primarily means 'to drive' or 'to operate' vehicles. It can also mean 'to push forward' in some contexts. In the examples provided, it appears in different forms: 'ajame' (we drive), 'jooksis ära ja me ei saanud teda kinni püüda' (ran away and we couldn't catch him - though this doesn't directly contain ajama, it shows context of movement), and 'juht' which is related to driving. The verb can be conjugated for different subjects and tenses."
 }

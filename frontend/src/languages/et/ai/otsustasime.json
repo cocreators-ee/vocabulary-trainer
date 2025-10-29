@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me otsustasime minna kinno.",
-    "Nad otsustasid eile kooskäimiseks jääda.",
-    "Ta otsustas selle küsimuse lahendamiseks ise üksinda tööle asuda."
+    "Me otsustasime minna teatrisse.",
+    "Nad otsustasid jätkata projektiga.",
+    "Mees otsustas koju jääda."
   ],
   "translation": [
-    "decided",
-    "made a decision"
+    "we decided",
+    "we resolved",
+    "we made the decision"
   ],
-  "context": "The word 'otsustasime' is the first person plural past tense form of the verb 'otsustama', which means to decide or make a decision in English. It is commonly used to express that a group of people have made a choice or come to an agreement."
+  "context": "The word 'otsustasime' is the 1st person plural past tense form of the Estonian verb 'otsustama', which means 'to decide'. It specifically refers to a group (including the speaker) making a decision in the past. The root 'otsust-' relates to deciding or resolving, and the suffix '-as' indicates past tense, while '-ime' indicates 1st person plural subject ('we')."
 }

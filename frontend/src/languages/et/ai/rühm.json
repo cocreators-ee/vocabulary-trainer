@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olete eriti suurepärased rühmas.",
-    "Rühma töö tulemuseks oli hästi tehtud projekt.",
-    "Kolmanda rühma esimeheks valitsi Marta."
+    "Rühm sõduritest liikus salaja läbi metsa.",
+    "Õpilased jagunesid väikestesse rühmadesse tööks.",
+    "Meie rühm võitis konkursi parima tulemusega."
   ],
   "translation": [
     "group",
-    "team"
+    "team",
+    "squad"
   ],
-  "context": "The word 'rùhm' refers to a group or team of people working together towards a common goal. It is commonly used in both formal and informal contexts, such as in school projects, workplace teams, or social groups."
+  "context": "The Estonian word 'rühm' is a noun that means 'group', 'team', or 'squad'. It refers to a collection of people, soldiers, or items organized together for a common purpose. In military contexts, it can specifically refer to a small tactical unit, while in civilian usage, it commonly describes any organized group of people working or acting together."
 }

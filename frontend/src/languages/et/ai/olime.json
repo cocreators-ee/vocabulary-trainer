@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me olime seal",
-    "Olime koos",
-    "Nad olid ja me olime"
+    "Olime hea sõprad.",
+    "Me olime koos koolis.",
+    "Nad olid väga rõõmsad."
   ],
   "translation": [
-    "we were"
+    "were",
+    "had been",
+    "used to be"
   ],
-  "context": "The word 'olime' is the first person plural form of the verb 'olema', which means 'to be'. It is used to describe a past state of being, similar to the English phrase 'we were'."
+  "context": "The word 'olime' is the first person plural past tense form of the Estonian verb 'olla', which means 'to be'. It corresponds to English 'we were'. This is a simple past tense form used to describe actions or states that happened and completed in the past from the perspective of 'we' (the speaker and others)."
 }

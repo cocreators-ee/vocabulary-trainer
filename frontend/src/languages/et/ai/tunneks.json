@@ -1,15 +1,14 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma tunneks mu kõrvalt rõõmu.",
-    "Ta jättis tunde, et see oli viga.",
-    "Miks nad ei anna mulle mingeid tunde?"
+    "Mul tunneks hästi praegu",
+    "Tunneks seda väga huvitavaks",
+    "Meil alati tunneks koos"
   ],
   "translation": [
     "would feel",
-    "feeling",
-    "feelings"
+    "could feel",
+    "seems like it would be nice"
   ],
-  "context": "The word 'tunneks' in Estonian is a verb form meaning 'would feel'. It's often used in hypothetical situations to express how someone might emotionally respond. In other contexts, especially as part of the noun 'tunde', it relates to emotions or sensations generally."
+  "context": "The word 'tunneks' is the conditional mood form of the Estonian verb 'tundma', which means 'to feel' or 'to seem'. In this conditional form, it expresses a hypothetical feeling or sensation that would occur under certain conditions. It often appears in sentences expressing how something would make someone feel or what kind of impression something would give."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Laevad sõidavad merel.",
-    "Ta on näinud palju laevu oma elus.",
-    "Laevaehitajad töötavad laevade ehitamisel."
+    "Mere laevad on suured ja kerged.",
+    "Meil on kolm laeva."
   ],
   "translation": [
     "ships",
-    "vessels"
+    "boats"
   ],
-  "context": "The word 'laevad' is the plural form of 'laev', which refers to a ship or vessel, and is commonly used in Estonian to talk about maritime transportation or naval affairs."
+  "context": "The Estonian word 'laevad' is the plural form of 'laev', which means ship or boat in English. It refers to watercraft vessels that navigate on seas, oceans, lakes, or rivers."
 }

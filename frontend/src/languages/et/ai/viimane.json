@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on viimane, kes seda teeb.",
-    "Viimased sõnad olid valemid.",
-    "Viimane asi, mida ma tahan, on kaotada aeg."
+    "See on viimane päev sel aastal.",
+    "Kas see on viimane pakk?",
+    "Oleme jõudnud viimase punkti."
   ],
   "translation": [
     "last",
-    "final"
+    "final",
+    "latest"
   ],
-  "context": "The word 'viimane' in Estonian generally refers to something or someone that is the last in a series or sequence, and it can be used as an adjective to describe a noun, such as a person or thing being the final one."
+  "context": "The Estonian word 'viimane' means 'last', 'final', or 'latest'. It is used to refer to something that comes at the end of a sequence, series, or time period. For example, it could describe the last day of the year, the final item in a pack, or the concluding point in a presentation."
 }

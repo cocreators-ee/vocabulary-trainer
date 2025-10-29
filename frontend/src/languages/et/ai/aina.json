@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on aina olemas",
-    "Ma olen aina valmis",
-    "See on aina parem"
+    "Aina olen siin.",
+    "Tule aita meid!",
+    "Kas sa tuled aina?"
   ],
   "translation": [
     "always",
-    "ever"
+    "constantly",
+    "continuously"
   ],
-  "context": "The word 'aina' in Estonian means 'always' or 'ever' and is commonly used to describe something that happens constantly or at all times."
+  "context": "The word 'aina' in Estonian is an adverb that means 'always', 'constantly', or 'continuously'. It indicates something happening repeatedly or without interruption. In the examples: 'Aina olen siin' means 'I am always here', 'Tule aita meid!' can be interpreted as 'Come help us continuously!' (though this might depend on context), and 'Kas sa tuled aina?' means 'Do you come always?' or more naturally in English 'Do you always come?'. The word is used to express frequency of actions or states."
 }

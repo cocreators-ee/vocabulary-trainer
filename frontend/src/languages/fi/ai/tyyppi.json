@@ -1,15 +1,17 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on mielenkiintoinen tyyppi.",
-    "Tämä tyyppi ei ole minun tyyppi.",
-    "Se on yksi tyypillisimmistä tyypeistä."
+    "Tämä tyyppi on todella hauska.",
+    "Millainen tyyppi sinä olet?",
+    "Uusi tyyppi muutti naapurustoon."
   ],
   "translation": [
-    "guy",
     "type",
-    "fellow"
+    "kind",
+    "sort",
+    "guy",
+    "person",
+    "character"
   ],
-  "context": "The word 'tyyppi' is commonly used in Finnish to refer to a person or a type of something, similar to how 'guy' or 'fellow' might be used in English. It can also be used to describe a category or class of things."
+  "context": "In Finnish, 'tyyppi' is a loanword from English that functions as both a noun and an adjective. As a noun, it means 'type', 'kind', or 'sort'. In colloquial usage, it's also commonly used to refer to a person, similar to how 'guy' or 'character' might be used in English. The word can appear in various contexts from technical descriptions (tyyppi - type) to casual references to people (tuo tyyppi - that guy)."
 }

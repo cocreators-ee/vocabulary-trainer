@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Päänahan alla oleva aivokudoksen osa on tärkeä",
-    "Hän oli pääinsinööri projektiin",
-    "Pääkaupunki on Helsinki"
+    "Pää on ihmisen päässä.",
+    "Minun pääni satuttaa.",
+    "Hänellä on suuri pää."
   ],
   "translation": [
     "head",
     "chief",
     "main"
   ],
-  "context": "The word pää has multiple meanings in Finnish, including the head of the human body, a chief or main person, or something that is primary or most important."
+  "context": "In Finnish, 'pää' means head (the body part) but can also mean chief or main depending on context. It's a common noun that appears in various phrases and idioms. The word is used to refer to both the physical head of a person/animal and metaphorically as the beginning/start of something."
 }

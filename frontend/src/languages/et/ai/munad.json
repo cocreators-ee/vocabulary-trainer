@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on munad.",
     "Munad on hea toit.",
-    "Ta ostis poest munad."
+    "Mul on munad külmikus.",
+    "Tema sööb mune hommikuti."
   ],
   "translation": [
     "eggs"
   ],
-  "context": "The word 'munad' is a noun in Estonian that refers to eggs, and it is commonly used in everyday conversations about food or shopping."
+  "context": "The word 'munad' is the plural form of the Estonian word 'muna', which means 'egg'. It refers to eggs as a food item or in general. In Estonian, nouns have different forms for singular and plural, and 'munad' specifically indicates multiple eggs."
 }

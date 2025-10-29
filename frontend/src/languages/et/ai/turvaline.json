@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on turvaline koht.",
-    "Turvaline võrguühendus on väga oluline.",
-    "Meil on turvaline ja mugav hotell."
+    "Tere! See on turvaline koht lastele.",
+    "Kas see tee on piisavalt turvaline jalgratturitele?",
+    "Me peame tagama, et kõik tegevused oleksid turvalised."
   ],
   "translation": [
     "safe",
-    "secure"
+    "secure",
+    "protected"
   ],
-  "context": "The word 'turvaline' in Estonian means being safe or secure, and it is commonly used to describe a place, situation, or environment that is protected from harm or danger."
+  "context": "The Estonian word 'turvaline' is an adjective that means something is safe or secure. It's formed from the root word 'turva-' (protection, safety) plus the suffix '-line' which indicates a quality state. In its comparative form it would be 'turvam' and in superlative 'turvamaim'. The word can describe physical safety, security of systems, emotional safety, or general well-being depending on context."
 }

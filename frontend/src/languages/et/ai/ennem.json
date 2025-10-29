@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on minu ennem.",
-    "Meil ei ole enam midagi ennem teha.",
-    "See oli alles ennem."
+    "Ennem hommikust kui õhtul.",
+    "Tule enamgi varasemalt, sest me peame algama enne kell seitse.",
+    "Olen veel mitte valmis, tuleb veel enne palju tööd."
   ],
   "translation": [
     "before",
-    "ago",
-    "previously"
+    "earlier",
+    "sooner"
   ],
-  "context": "The Estonian word 'ennem' generally translates to 'before' or 'ago' in English. It indicates a time prior to the present or another specified time, and is used to express something that happened earlier. It can also function similarly to the adverb 'previously'."
+  "context": "The Estonian word 'ennem' is an adverb that means 'before', 'earlier', or 'sooner'. It's used to indicate something happening at a time prior to another event. The word often appears in constructions comparing two time points, such as 'ennem...kui...' (before...than...). In the examples provided, it shows usage in various contexts: 1) indicating a general preference for morning over evening; 2) suggesting coming earlier than planned due to a deadline; and 3) expressing that more work needs to be done before being ready. The word is comparable to English 'before' but can also carry the sense of 'sooner' when implying urgency or preference in timing."
 }

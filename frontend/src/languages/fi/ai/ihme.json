@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "On ihme, että hän selviytyi onnettomuudesta.",
-    "Ihmettelen, kuinka nopeasti hän toipui sairaudesta.",
-    "Tämä on oikea ihme, joka tapahtuu harvoin."
+    "Tämä on ihme!",
+    "Näimme ihmeen museossa.",
+    "Ihmeellistä nähdä tämä!"
   ],
   "translation": [
+    "wonder",
     "miracle",
-    "wonder"
+    "marvel",
+    "phenomenon"
   ],
-  "context": "The word 'ihme' in Finnish refers to something that is extraordinary or unexpected, often in a positive sense, and is commonly used to express surprise or astonishment at an event or situation."
+  "context": "The Finnish word 'ihme' is a noun that means wonder, miracle, or marvel. It can refer to something extraordinary, amazing, or seemingly supernatural that causes astonishment. In different contexts, it can express both positive surprise at something beautiful or impressive, or reference to miraculous events. The word has the same root as the adjective 'ihmeellinen' (wonderful, marvelous)."
 }

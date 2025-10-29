@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta jättis oma kodu ja ei naasnud kunagi.",
-    "Ma jätan selle filmi vaatamata allesjäänud osa kohale peale.",
-    "Neid asju on lihtne jätta maha."
+    "Ta jättis kodus.",
+    "Meie lapsed jätsid mänguasjad nurka.",
+    "Kas sa jätad mulle selle raamatu?"
   ],
   "translation": [
     "left",
-    "leave behind",
-    "abandon"
+    "abandoned",
+    "left behind",
+    "deserted"
   ],
-  "context": "'Jättis' is the past tense of 'to leave' or 'to abandon.' It's used when someone stops being in a place, stops doing something, or leaves an object somewhere. Commonly appears in contexts like leaving home, abandoning projects, or forgetting things."
+  "context": "The word 'jättis' is the past tense third person singular form of the Estonian verb 'jätta', which means 'to leave', 'to abandon', or 'to desert'. It describes someone leaving something or someone behind. In different contexts, it can refer to physically leaving a place, abandoning an object, or even emotionally deserting someone."
 }

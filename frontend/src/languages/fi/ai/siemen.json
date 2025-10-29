@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Siemen tuli esiin keskustelussa.",
-    "Ratkaisun siemen oli ilmeinen.",
-    "Hänellä on paha siemen."
+    "Siemenet ovat kasvien lisääntymisrakenteita.",
+    "Istutin siemeniin puutarhaan keväällä.",
+    "Pellolla kasvoi vehnän siemeniä."
   ],
   "translation": [
     "seed",
-    "idea",
-    "sperm"
+    "grain",
+    "kernel"
   ],
-  "context": "The Finnish word 'siemen' can refer to a literal seed, an idea or concept (as the starting point for development), or in colloquial/slang usage, it can refer to sperm. The meaning depends on context."
+  "context": "The Finnish word 'siemen' refers to the reproductive structure of plants that contains the embryo and is capable of developing into a new plant. It's commonly used for various types of seeds, including agricultural grains like wheat, barley, etc., as well as smaller seeds from flowers and vegetables. The word can appear in different forms - 'siemenet' (plural), 'siemeniin' (illative case meaning 'into the seeds'), and 'siemeniä' (partitive plural)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Palun võtke koos oleku võtmega.",
-    "Ta ütles mulle: \"Palun tule külla!\"",
-    "Palun anna mulle see raamat."
+    "Palun istuge alla.",
+    "Palun aita mulle seda tooma.",
+    "Kas sa võiksid palun tuua vett?"
   ],
   "translation": [
     "please",
+    "excuse me",
     "kindly"
   ],
-  "context": "The word 'palun' in Estonian is a polite way of making a request, similar to 'please' in English. It is commonly used in formal and informal settings to show respect and courtesy."
+  "context": "The Estonian word 'palun' is a versatile polite expression used similarly to English 'please'. It can be used as a standalone phrase to make requests politely, as in 'Palun istuge alla' (Please sit down). It can also function as an interjection before verbs to soften commands, like in the sentence 'Palun aita mulle seda tooma' (Please help me bring this). Additionally, it's commonly used when getting someone's attention or asking for something politely, such as 'Kas sa võiksid palun tuua vett?' (Could you please bring water?). The word is essential in Estonian etiquette and social interactions."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu venna jaoks olen ma siin.",
-    "Vennad on mul väga olulised.",
-    "Ta ei mõista oma vende probleeme."
+    "Ma sõitsin vennaga poodi.",
+    "Tema elab oma venna lähedal.",
+    "Me käisime koos vennaga kinno."
   ],
   "translation": [
-    "with a brother",
-    "brother",
-    "brothers"
+    "with my brother",
+    "with the brother"
   ],
-  "context": "'vennaga' is an Estonian word meaning 'with a brother'. It commonly appears in sentences to denote actions or situations involving one's brother, either literally or metaphorically, and can be part of phrases indicating togetherness with siblings."
+  "context": "The Estonian word 'vennaga' is a combination of 'vend' (brother) and the adessive case ending '-ga', which means 'with'. It specifically indicates accompaniment or association with a brother. The adessive case in Estonian is used to show that something is done together with someone or something."
 }

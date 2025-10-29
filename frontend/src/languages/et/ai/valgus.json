@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Valgus tuli aknast sisse.",
-    "Ta seletas valguse kiirusega liikumise.",
-    "Valgusfunktsioon on matemaatika põhimõiste."
+    "Valgus paistab aknast.",
+    "Põhjavalgus on hea tööks.",
+    "Linnas valgustati tänavad."
   ],
   "translation": [
-    "light",
-    "illumination"
+    "light"
   ],
-  "context": "The word 'valgus' generally refers to light, especially natural light, and is often used in contexts where illumination or brightness is being described."
+  "context": "The Estonian word 'valgus' means 'light' in English. It refers to the illumination that allows us to see, whether from natural sources like the sun or artificial sources like lamps and street lights. The word is commonly used to describe both the physical phenomenon of light and the concept of lighting in various contexts."
 }

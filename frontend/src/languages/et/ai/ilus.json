@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on ilus tüdruk",
-    "Ilusa ilmega ei saa kaugele",
-    "Ilusad päevad on möödas"
+    "Tema on ilus naine.",
+    "Ilus päev oli täna.",
+    "Nägin väga ilust linnu."
   ],
   "translation": [
     "beautiful",
-    "lovely",
-    "pretty"
+    "pretty",
+    "lovely"
   ],
-  "context": "The word 'ilus' in Estonian means beautiful or lovely, and it is commonly used to describe someone or something that is aesthetically pleasing."
+  "context": "The Estonian word 'ilus' is an adjective that means beautiful or pretty. It's used to describe something as aesthetically pleasing or attractive in appearance. The word can be applied to people, objects, nature scenes, or experiences. In Estonian grammar, adjectives must agree with the noun they modify in number (singular/plural) and case. For example, 'ilus' would become 'ilusad' in plural nominative form."
 }

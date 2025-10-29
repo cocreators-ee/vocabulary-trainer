@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen sõdur",
-    "Sõduri elu on raske",
-    "Sõdurid kaitsevad meie riiki"
+    "Sõduri töö on keeruline.",
+    "Väike sõdur käis läbi kooli.",
+    "Sõdrite elu on täis ohvrust."
   ],
   "translation": [
     "soldier",
-    "warrior",
-    "military personnel"
+    "military personnel",
+    "warrior"
   ],
-  "context": "The word sõdur refers to a person who serves in the military, and it is commonly used in Estonian to describe someone who is part of the armed forces."
+  "context": "The word 'sõdur' is an Estonian noun that means 'soldier'. It refers to a person who serves in the armed forces, typically in the army. The word can be used for both male and female military personnel serving on land (as opposed to navy or air force). In different grammatical forms, it appears as 'sõduri' (genitive case), 'väike sõdur' (small soldier/a young soldier), and plural form 'sõdrid'. The word is commonly used in contexts related to military service, war, patriotism, and national defense."
 }

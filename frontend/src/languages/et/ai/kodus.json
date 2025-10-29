@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kodus",
-    "Ta on kodus ja magab",
-    "Kodus on sooja"
+    "Olen kodus.",
+    "Tema on kodus tööl.",
+    "Kodus on häda."
   ],
   "translation": [
     "at home",
-    "home"
+    "in the house",
+    "indoors"
   ],
-  "context": "The word kodus is an adverb in Estonian that means at home or being in one's home."
+  "context": "The Estonian word 'kodus' is an adessive case form of 'kodu' (home/house). It indicates location or state - being at home, in one's own house, or indoors. It answers the question 'where?' about a person's physical location relative to their home."
 }

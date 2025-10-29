@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegi mingid katseid.",
-    "Mingid asjad ei lähe kunagi moosi.",
-    "Mul on mingid kahtlused."
+    "Mingid inimesed arvavad sedasi.",
+    "Ta on mingis mõttes hea mees.",
+    "Otsin mingit raamatut."
   ],
   "translation": [
     "some",
-    "certain"
+    "certain",
+    "any"
   ],
-  "context": "The word 'mingid' in Estonian is used to describe something that is not specified or is uncertain, similar to the English words 'some' or 'certain'."
+  "context": "The word 'mingid' is the plural form of the indefinite pronoun 'mingi' in Estonian. It's used to refer to unspecified or unidentified things or people, similar to how 'some', 'certain', or 'any' are used in English. In sentences, it typically appears before a noun to indicate an unknown or unspecified quantity or quality."
 }

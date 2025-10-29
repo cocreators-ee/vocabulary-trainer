@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mil palju see maksab?",
-    "Mil kallis on selle ostmine?",
-    "Mil inimest saab see ruum hoida?"
+    "Mil mõtled sellest?",
+    "Millal sa tuletagi kohale?",
+    "Miks sa nii hilja tuled?"
   ],
   "translation": [
-    "how much",
-    "how many"
+    "what",
+    "which",
+    "how"
   ],
-  "context": "'Mil' is used to ask about the quantity of something in a question form."
+  "context": "The word 'mil' is not a standard Estonian word. It appears to be a misspelling or misrepresentation of interrogative words like 'mis' (what), 'millal' (when), or 'miks' (why). These are question words used at the beginning of questions in Estonian, similar to English 'what', 'when', and 'why'."
 }

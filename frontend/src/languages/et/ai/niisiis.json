@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Niisiis ma lähen ka poole?",
-    "Ta ütles niisiis, et ei saa enam külastada.",
-    "Niisiis oli kõik hästi."
+    "Niisiis, me lähme homme kohtumisele.",
+    "Okei, niisiis see on selge.",
+    "Niisiis, mida teeme edasi?"
   ],
   "translation": [
-    "well",
-    "so"
+    "so then",
+    "well then",
+    "in that case"
   ],
-  "context": "The word 'niisiis' in Estonian is used as a conjunction to indicate a conclusion or a summary of what has been said before, similar to the English words 'well' or 'so'."
+  "context": "The Estonian word 'niisiis' is a discourse marker used to indicate conclusion or transition in speech. It functions similarly to English phrases like 'so then', 'well then', or 'in that case'. This word is commonly used when summarizing something, drawing conclusions, or moving forward in a conversation after some information has been shared."
 }

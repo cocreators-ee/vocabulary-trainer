@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hänellä on tuore makuinen haju.",
-    "Sää oli aivan liian kylmä ja tuore.",
-    "Maitotuotteet tulee olla tuoretta. "
+    "Tämä tuore leipä on erittäin pehmeää.",
+    "Ostin tuoretta kalaa torilta.",
+    "Tuoretuuli tuntui miellyttävältä kesässä."
   ],
   "translation": [
-    "fresh"
+    "fresh",
+    "new",
+    "recent"
   ],
-  "context": "Tuore describes something that is fresh or new, commonly used to describe food and weather."
+  "context": "The Finnish word 'tuore' is an adjective meaning 'fresh', 'new', or 'recent'. It describes something that is new, recently made, produced, or occurred. For food items like bread, fruit, fish, etc., it means fresh and not stale. When used for experiences or time periods, it can mean recent or new. The word follows Finnish adjective inflection patterns, changing form based on the case of the noun it modifies."
 }

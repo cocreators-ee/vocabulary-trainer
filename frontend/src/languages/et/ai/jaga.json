@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jagan seda ülesandega",
-    "Jagame selle kohe",
-    "Ta jagas oma mured"
+    "Ma jagan oma kooke teiega.",
+    "Me jagasime meeldejäävaid hetki koos.",
+    "Kas sa jaga oma saladusi?",
+    "Jaga oma mõtteid selles küsimuses.",
+    "Tema jaab oma aega heategevusega."
   ],
   "translation": [
-    "share",
-    "divide"
+    "to share",
+    "to divide",
+    "to distribute",
+    "to split"
   ],
-  "context": "The word 'jaga' in Estonian means to share or divide something among people or things, and it is commonly used in various contexts such as sharing food, dividing tasks, or separating objects."
+  "context": "The Estonian word 'jaga' is a verb that has multiple related meanings depending on context. It primarily means 'to share' when referring to sharing something with others, such as sharing food, thoughts, or experiences. It also means 'to divide', 'distribute', or 'split' when talking about dividing something into parts or distributing resources. The word can be used in various grammatical forms including present tense (jagan), past tense (jagasin), and imperative mood (jaga!)."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta elab Tallinnas.",
-    "Nad elasid koos aasta aega.",
-    "Kas sa elad siin?"
+    "Elad mind alati meeldivalt.",
+    "Kas sa elad Tallinnas?",
+    "Mul on hea elada siin."
   ],
   "translation": [
     "live",
-    "to live",
-    "reside"
+    "reside",
+    "dwell"
   ],
-  "context": "The verb 'elama' in Estonian means 'to live' or 'to reside'. It is used to describe where someone lives, how long they have lived somewhere, or simply the act of being alive. It’s a very common and fundamental verb in everyday conversation."
+  "context": "The word 'elad' is the 2nd person singular present indicative form of the Estonian verb 'elama', which means 'to live' or 'to reside'. It specifically refers to what someone currently does - where they live or how they live. In Estonian, as in other languages, verb conjugation changes based on the subject (who is living) and tense (when they live)."
 }

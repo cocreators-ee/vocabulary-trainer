@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän meni ylös portaita.",
-    "Tee se ylös tuosta!",
-    "Lapsi kiipesi puun ylös."
+    "Mennään ylös portaita.",
+    "Hän katsoi ylös taivaalle.",
+    "Tule ylös tänne."
   ],
   "translation": [
     "up",
-    "upwards"
+    "upwards",
+    "above"
   ],
-  "context": "The word 'ylös' in Finnish means moving or directing something upwards, and it is commonly used to indicate direction or movement."
+  "context": "The Finnish word 'ylös' is an adverb that means 'up' or 'upwards'. It indicates movement from a lower position to a higher position. The word can be used with the verb mennä (to go) as in mennään ylös (let's go up), or with other verbs indicating upward direction like katsoa (to look) - katsoa ylös (to look up). It's one of the most basic directional words in Finnish and is commonly used in everyday conversation."
 }

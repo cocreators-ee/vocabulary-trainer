@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Seda ma ei tea.",
-    "Kas sa annad mulle seda?",
-    "Ma arvan, et see on parem kui seda."
+    "Seda kohtuasja vaadata.",
+    "Tema ei tea seda.",
+    "Ma olen sedasi."
   ],
   "translation": [
-    "this"
+    "this",
+    "that"
   ],
-  "context": "'seda' refers to a thing or situation previously mentioned and is used in both spoken and written language."
+  "context": "The Estonian word 'seda' is the partitive form of 'see' meaning 'this/that'. It's commonly used to indicate an object, thing, or concept that has been previously mentioned or is understood from context. In grammar terms, it's the accusative/partitive case of the demonstrative pronoun."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tema isa tõusisk varem kui alt.",
-    "Ta said puhata allalt kuni üles,",
-    "Meelelahutuseks jääb see kahe mängija vahelne lõik alates siit."
+    "Alt on hea koht puhata.",
+    "Ta oli alati alt hea mees.",
+    "Lapsed olid alla jäänud."
   ],
   "translation": [
-    "below",
-    "down"
+    "from below",
+    "under",
+    "beneath"
   ],
-  "context": "In Estonian, the word 'alt' can mean 'below' or 'down'. It is commonly used in sentences to describe something lower in position or direction."
+  "context": "The Estonian word 'alt' is a preposition or adverb meaning 'from below', 'under', or 'beneath'. It indicates position relative to something lower, and can also indicate direction (coming from below) or origin (from beneath something)."
 }

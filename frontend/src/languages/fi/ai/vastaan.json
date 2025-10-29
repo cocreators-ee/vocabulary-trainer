@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vastaan tulee paljon haasteita",
-    "Hän vastaan ei ollut varautunut",
-    "Meillä on vaikeuksia vastaan"
+    "Vastaan hänen puheluunsa.",
+    "En vastaa sähköpostiin heti.",
+    "Hän vastasi kysymykseeni myöntävästi."
   ],
   "translation": [
-    "against",
-    "toward",
-    "facing"
+    "to answer",
+    "to respond",
+    "I reply"
   ],
-  "context": "The word 'vastaan' in Finnish is commonly used to indicate direction or opposition, and it can be translated to English as 'against', 'toward', or 'facing', depending on the context of the sentence."
+  "context": "The word 'vastaan' is the first person singular form of the Finnish verb 'vastata', which means 'to answer' or 'to respond'. It's commonly used when referring to one's own action of responding to questions, calls, messages, or other forms of communication. In Finnish grammar, this is in the present tense and specifically the active voice for the singular pronoun 'minä' (I)."
 }

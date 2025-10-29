@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma pakun sulle abi.",
-    "Ta pakkus mulle tööd.",
-    "Meie firma pakub laia valikut teenuseid."
+    "Pakun sulle oma abi.",
+    "Me pakume head teenust.",
+    "Ta pakkus mulle koha tööl."
   ],
   "translation": [
     "offer",
-    "propose",
-    "suggest"
+    "provide",
+    "give"
   ],
-  "context": "The Estonian word 'pakun' is a verb that generally means to offer something, whether it be help, a service, or an item. It can also mean to propose or suggest something. In English, it’s commonly used in contexts like making a job offer, offering assistance, or proposing a solution."
+  "context": "The Estonian word 'pakun' means to offer or provide something. It is the first person singular form (I) of the verb 'pakkuma' which means to offer, to propose, to suggest. In English, this corresponds to 'I offer', 'I give', or 'I provide'. The root 'pakk-' relates to presenting or putting forward something for consideration."
 }

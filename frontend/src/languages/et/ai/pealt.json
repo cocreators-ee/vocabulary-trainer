@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli pealt",
-    "Ma vaatasin seda pealt",
-    "Pealt näeb see ilus välja"
+    "Tule pealt!",
+    "See näeb pealt parem välja.",
+    "Lapsele vaadata pealt."
   ],
   "translation": [
     "from above",
-    "from the top",
-    "overhead"
+    "on top of",
+    "overhead",
+    "watching from the side"
   ],
-  "context": "The word 'pealt' in Estonian means from above or overhead, and it is commonly used to describe something that is seen or done from a higher position."
+  "context": "The Estonian word 'pealt' is an adverb that can mean several related things: 1) spatially - indicating position from above or on top of something, similar to English 'from above' or 'overhead'; 2) temporally - meaning 'afterward' or 'later'; 3) in the context of observation - meaning 'watching from the side' or 'looking on'. It often appears in phrases like tule pealt (come from above/via a different route), and is commonly used to indicate where someone is observing something from."
 }

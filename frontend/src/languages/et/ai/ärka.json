@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ärkas varahommikul.",
-    "Ärka üles!",
-    "Ma ärkasin öösel"
+    "Ärka üles hommikul.",
+    "Tüdruk ärkas teadvusele pärast operatsiooni.",
+    "Mehed ärkavad alati hilja nädalavahetustel."
   ],
   "translation": [
-    "wake up",
-    "awaken"
+    "to wake up",
+    "to awaken",
+    "to come to"
   ],
-  "context": "The wordärka is commonly used in Estonian to mean to wake up or become awake, often used in the context of waking up from sleep or becoming aware of something."
+  "context": "The Estonian word 'ärka' is an infinitive verb that means 'to wake up' or 'to awaken'. It's commonly used when referring to waking up from sleep, regaining consciousness after being unconscious (like after surgery), or coming to awareness in general. The verb can be conjugated in different tenses and forms depending on the context - for example, 'ärkasin' means I woke up, 'ärkasid' means you woke up, and 'ärkasid üles' means you woke up/woke yourself up."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän tuli meille päivällä.",
-    "Päivät ovat pitkiä kesällä.",
-    "Meillä on yksi ilmainen päivä viikossa."
+    "Tämä on uusi päivä.",
+    "Kuinka päivää meni?",
+    "Huominen on toinen päivä."
   ],
   "translation": [
-    "day"
+    "day",
+    "daytime"
   ],
-  "context": "The word 'päivä' is commonly used in Finnish to refer to a day, and it can be used in different contexts such as during the day, or when referring to days of the week."
+  "context": "The Finnish word 'päivä' means 'day' in English. It can refer to a 24-hour period of time from midnight to midnight, or it can mean daylight hours or daytime. In its basic form 'päivä', it's used to talk about days of the week, parts of the day, and general time periods."
 }

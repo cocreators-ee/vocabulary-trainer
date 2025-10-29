@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen kahte poole.",
-    "Ta on kahte silmaga vaatamas.",
-    "See on kahte korda parem."
+    "Kaks meest kahte naist.",
+    "Tema küsib, kuhu me läheme kahte nädalat pärast.",
+    "Poisid jooksid üksteise järel kahte kilomeetrit."
   ],
   "translation": [
     "two",
-    "in two",
-    "to both sides"
+    "twice",
+    "to two"
   ],
-  "context": "The word 'kahte' in Estonian primarily means 'two' or is used to indicate a direction or division into two parts. It can also be used as an adverb meaning 'in two' or 'to both sides'. It’s a common and versatile word in everyday conversation."
+  "context": "The word 'kahte' is the partitive case form of the Estonian number 'kaks', meaning 'two'. In this form, it's used with countable nouns that are in the singular or when indicating direction towards something. It can also mean 'twice' as an adverb."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan autosid.",
-    "Tal on palju autosid.",
-    "Autosid on väga populaarsed."
+    "Ma ostsin kaks autosid.",
+    "Autosid on heas seisukorras.",
+    "Kes nägi autosid eile?"
   ],
   "translation": [
-    "cars"
+    "cars (partitive)",
+    "vehicles (partitive)"
   ],
-  "context": "The word 'autosid' is the plural form of 'auto', which means car in English. It is commonly used to refer to vehicles in general."
+  "context": "The word 'autosid' is the partitive form of 'auto' (car/vehicle) in Estonian. The partitive case is used to indicate partialness or indefiniteness, and is commonly used with numbers less than one or when referring to objects in a general sense without specifying exact quantity. In this plural form, it would typically be used when talking about some cars or vehicles, but not all of them."
 }

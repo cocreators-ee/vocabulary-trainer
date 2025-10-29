@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä menen kauppaan sitten takaisin kotiin.",
-    "Hän tuli juuri sitten ja istui alas.",
-    "Me käymme siellä sitten kunhan saamme aikaa."
+    "Sitten mennään kotiin.",
+    "Hän tulee sitten illalla.",
+    "Odotetaan hetken ja sitten jatkamme."
   ],
   "translation": [
     "then",
-    "after that"
+    "after that",
+    "next"
   ],
-  "context": "The word 'sitten' is commonly used in Finnish to indicate a sequence of events or actions, similar to the English word 'then'."
+  "context": "The Finnish word 'sitten' is an adverb that means 'then' or 'after that'. It's used to indicate a sequence of events or to refer to something that happens later in time. It can be placed at the beginning, middle, or end of a sentence depending on emphasis."
 }

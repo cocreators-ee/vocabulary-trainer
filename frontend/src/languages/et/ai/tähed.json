@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tähed on tumedad öösel.",
-    "Ta luges tähed vahetult eesmärgiks pidades.",
-    "Klassi ülemine tõus tähed teki."
+    "Tahvli on täidetud tähedega.",
+    "Lõpetasime kõik tähed ära.",
+    "Need tähed moodustavad sõna."
   ],
   "translation": [
-    "stars",
-    "letters"
+    "letters",
+    "characters"
   ],
-  "context": "The word 'tähed' primarily means 'stars' in Estonian, but it can also refer to 'letters', especially in the context of the alphabet or written characters. It is commonly used in both literal and metaphorical contexts."
+  "context": "The word 'tähed' is the plural form of 'täht' in Estonian. It means 'letters' or 'characters', referring to the individual symbols used in writing systems. In Estonian, this would typically refer to the letters of the Latin alphabet used for writing Estonian words."
 }

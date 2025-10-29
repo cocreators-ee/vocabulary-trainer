@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hänellä on paha höyryn haju huulillaan.",
-    "Kylpyhuoneen ovi oli auki, ja siitä kattoi kuuma höyry.",
-    "Riihinauhan tuuletus helpotti lämmintä höyryn paineetta."
+    "Höyry nousee kattilasta.",
+    " höyryn läpi näkee huonosti.",
+    " Höyry voisi säästää aikaa ja energiaa."
   ],
   "translation": [
     "steam",
-    "vapor"
+    "vapor",
+    "fume"
   ],
-  "context": "'Höyry' refers to steam or vapor in Finnish. It is commonly used to describe the visible water vapor that rises from hot surfaces such as boiling water, showers, or saunas."
+  "context": "The word 'höyry' in Finnish refers to steam or vapor, which is the gaseous form of water that forms when liquid water is heated. It can be used in various contexts such as describing steam rising from boiling water, fog-like conditions, or even metaphorical references to something vague or indistinct. The word is a neuter noun in Finnish and would typically appear in different cases depending on its grammatical function in a sentence."
 }

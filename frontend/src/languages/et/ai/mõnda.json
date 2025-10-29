@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema on mõnda tänu.",
-    "Mõnda tätu meelde puhuvad ära käesolevad.",
-    "Mõnda aega kulutatakse vähe.",
-    "Pidi mõnda väga tüttama, et see jäi meelde."
+    "Mõnda aega olin haige.",
+    "Ta mõnda veidi kõigutab.",
+    "See on mõnda keeruline küsimus."
   ],
   "translation": [
-    "someone's",
-    "somebody's"
+    "some",
+    "a bit",
+    "somewhat"
   ],
-  "context": "The word 'mõnda' is used in Estonian to refer to someone's possession or relationship. It often comes before a noun indicating what belongs to that person."
+  "context": "In Estonian, 'mõnda' is an adverb that indicates a small or moderate amount of something. It can be translated as 'some', 'a little', 'a bit', or 'somewhat'. This word modifies the degree or extent of an adjective or verb, indicating that something exists to a limited but not insignificant degree. For example, in 'mõnda aega' (for some time), it indicates a period of time that is more than just very brief but not necessarily long."
 }

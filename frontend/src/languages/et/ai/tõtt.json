@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlesin tõtt.",
-    "Ta rääkis tõtt.",
-    "Tõtt on see, mida me kõik teame."
+    "Tõtt on tõsi.",
+    "Ma ei usu seda tõtta.",
+    "Tõtte üle arutamine võtab aega."
   ],
   "translation": [
-    "truth"
+    "truth",
+    "reality",
+    "fact"
   ],
-  "context": "The word tõtt refers to the truth or a true statement, and it is commonly used in Estonian language to convey honesty and accuracy."
+  "context": "The Estonian word 'tõtt' is the partitive form of 'tõde', which means 'truth'. In this case, it functions as an adverb meaning 'truly' or 'really', and can also be used to introduce a statement that is factual. It's commonly used in expressions of certainty or affirmation."
 }

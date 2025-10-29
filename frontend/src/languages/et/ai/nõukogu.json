@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nõukogu oli kohaliku omavalitsuse organ.",
-    "Ta kuulus nõukogu liikmeiks.",
-    "Nõukogu koosolek toimus homme."
+    "Töö nõukogus on väga oluline.",
+    "Nõukogu koosolek toimus täna hommikul.",
+    "Meie kooli nõukogu otsustas uued reeglid."
   ],
   "translation": [
     "council",
-    "soviet"
+    "board",
+    "committee"
   ],
-  "context": "The word 'nõukogu' refers to a council or soviet, which is a group of people elected or appointed to make decisions or govern a particular area or organization. It is commonly used in Estonian to refer to local government councils or other decision-making bodies."
+  "context": "The word 'nõukogu' is a noun in Estonian that refers to an assembly or group of people who meet to make decisions, provide advice, or oversee something. It's typically used for formal decision-making bodies such as town councils, school boards, advisory committees, or governing bodies. The word can be modified with possessive suffixes or prepositions to indicate ownership or association."
 }

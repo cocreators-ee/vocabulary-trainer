@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma joostin maratoni.",
-    "Ta oskab joosta kiiresti.",
-    "Laps joob joostmas"
+    "Ma ei oska joosta.",
+    "Tüdruk jooksis läbi pargi.",
+    "Nad jooksid koos hommikul."
   ],
   "translation": [
     "to run",
-    "running"
+    "running",
+    "runs"
   ],
-  "context": "The word 'joosta' is a verb in Estonian that means to run or to be running, often used in the context of physical activity or exercise."
+  "context": "The word 'joosta' is the infinitive form of a verb in Estonian that means 'to run'. It describes the action of moving quickly by taking steps off the ground so that both feet are momentarily clear of the ground at the same time. In different conjugations, it can appear as 'jooksin' (I run), 'joostad' (you run), 'jooksis' (he/she/it ran), 'jooksimme' (we ran), 'jooksite' (y'all ran), and 'jooksid' (they ran). The word can be used in various contexts describing physical activity, escape, or movement."
 }

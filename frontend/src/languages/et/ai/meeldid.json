@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mulle meeldib see film.",
-    "Meeldisid need muusikud.",
-    "Meeldib, kui ta seda teeb."
+    "Meeldib sulle see film?",
+    "Mul meeldiv on käia teatris.",
+    "Talle meeldis kohtumine."
   ],
   "translation": [
-    "I like it",
-    "liked"
+    "like",
+    "enjoy",
+    "be fond of"
   ],
-  "context": "The word meeldid is a verb in Estonian that means to like something, and it is commonly used in sentences to express preference or enjoyment."
+  "context": "The Estonian word 'meeldid' appears to be a verb form that expresses liking or enjoyment. It is likely related to the root verb 'meelda' which means 'to like' or 'to please'. In different forms, it can express whether someone likes something (present tense) or liked something (past tense). For example: 'meeldib' (3rd person singular present - he/she/it likes), 'meeldiv' (negative form - doesn't like), and 'meeldis' (past tense - liked)."
 }

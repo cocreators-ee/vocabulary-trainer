@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Sõidukite kokkusattumuses said vigastada.",
-    "Kokkusattumus toimus teemeistri juures.",
-    "Auto kokkusattumuses hävis sõbra auto."
+    "Kokkusattumus on haruldane see juhtum.",
+    "See oli täielik kokkusattumus, et nad kohtusid just siin.",
+    "Mõned inimesed usuvad, et kõik on kokkusattumusi."
   ],
   "translation": [
-    "collision",
-    "crash"
+    "coincidence",
+    "accident",
+    "chance encounter"
   ],
-  "context": "Refers to a collision or crash between objects, commonly used in the context of vehicle accidents. It describes an unexpected and often damaging event where two or more things come together forcefully."
+  "context": "The Estonian word 'kokkusattumus' is a noun that refers to an occurrence or event that happens by chance rather than through deliberate planning. It describes situations where things come together unexpectedly, often without any apparent reason or connection between the events involved. The word comes from 'kokku' (together) and 'sattuma' (happen), literally meaning something that 'happens together'. In English, this can be translated as coincidence, accident, chance encounter, or fortuitous event."
 }

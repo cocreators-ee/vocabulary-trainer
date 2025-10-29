@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kenttä on suuri avoin alue.",
-    "Lapsi leikkii kentällä.",
-    "Jalkapallo-ottelu pelataan kentällä."
+    "Urheilukentällä on paljon pelaajia.",
+    "Tämä on kenttä jalkapalloa varten.",
+    "Poliisi sulki koko kentän."
   ],
   "translation": [
     "field",
-    "area"
+    "pitch",
+    "area",
+    "sports ground"
   ],
-  "context": "The word 'kenttä' refers to a large open area of land, and it is commonly used in Finnish to describe a place where sports are played or where children play."
+  "context": "In Finnish, 'kenttä' means field or pitch and is used to refer to outdoor areas where sports are played. It can be a general term for any flat open area used for activities, but most commonly refers to sports fields like soccer pitches, baseball diamonds, or athletic tracks. The word can also be used metaphorically to mean an area of activity or domain."
 }

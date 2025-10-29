@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Taas tuli talvi",
-    "Hän tuli taas kotiin",
-    "Me käymme taas kaupassa"
+    "Minä tulen taas huomenna.",
+    "Hän tulee taas katsomaan sinua.",
+    "Taas kerran hän myöhästyi."
   ],
   "translation": [
     "again",
-    "once more"
+    "once more",
+    "another time"
   ],
-  "context": "The word 'taas' is commonly used in Finnish to indicate that something is happening again or once more, similar to how 'again' is used in English."
+  "context": "The Finnish word 'taas' is an adverb that means 'again' or 'once more'. It indicates repetition of an action, event, or situation. The word can be used in various contexts to express that something happens for a second, third, etc., time. In example 1, the person will come again tomorrow. Example 2 shows someone coming again to visit you. Example 3 expresses that once again, he/she was late."
 }

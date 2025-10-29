@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen parima arvamusel, et see on hea mõte.",
-    "Ta oli parima võimaliku valiku poolt.",
-    "Parima hinnangu kohaselt on see üsna raske."
+    "See on parima hinna all.",
+    "Otsime parimat lahendust.",
+    "Ta tegi oma parima töö."
   ],
   "translation": [
     "best",
-    "excellent"
+    "the best",
+    "at the best"
   ],
-  "context": "The word 'parima' in Estonian means the best or of the highest quality, and is commonly used to express a positive opinion about something or someone."
+  "context": "The word 'parima' is the elative case (third case) of the superlative adjective 'parim', meaning 'best'. In Estonian, the elative case indicates movement from within or out of something. So 'parima' can mean 'from the best', 'out of the best', or simply be used as the form needed after certain prepositions or in specific grammatical constructions. It's essentially the 'best' in its contextual case form."
 }

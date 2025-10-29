@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ootavad inimesed seisid bussipeatuse lähedal.",
-    "Ta ootab veel üht sõnumit.",
-    "Nende ootamiseks on meil veel üks tund."
+    "Nad ootavad sind.",
+    "Meie ootame teid.",
+    "Tüdrukud ootavat bussi."
   ],
   "translation": [
-    "waiting",
-    "wait"
+    "await",
+    "expect",
+    "wait for"
   ],
-  "context": "The word 'ootavad' is a verb in Estonian that means to wait for something or someone, and it is commonly used in everyday conversations to describe the act of waiting or expecting something to happen."
+  "context": "The word 'ootavad' is the 3rd person plural present tense form of the Estonian verb 'ootama', which means to wait, await, or expect. It specifically refers to what 'they' are doing - waiting/awaiting something or someone."
 }

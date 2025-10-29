@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen köögis.",
-    "Köögis on palju võimalusi.",
-    "Ta töötab köögis."
+    "Köögis on külm.",
+    "Tema töötab köögis.",
+    "Me sööme köögis."
   ],
   "translation": [
     "in the kitchen",
-    "kitchen"
+    "at the kitchen"
   ],
-  "context": "The word köögis is an adessive case of the Estonian word köök, which means kitchen. It is commonly used to describe a location or activity related to cooking or being in a kitchen."
+  "context": "The word 'köögis' is an Estonian inessive case form of the noun 'köök' (kitchen), meaning it indicates location or being inside something. The suffix '-is' is added to show that someone or something is in the kitchen."
 }

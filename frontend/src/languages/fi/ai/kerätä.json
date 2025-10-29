@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on kerättävä rahaa.",
-    "Hän kerää postikortteja.",
-    "He keräävät marjoja metsästä."
+    "Minun täytyy kerätä kirjoja kirjastosta.",
+    "Hän kerää postimerkkejä harrastuksena.",
+    "Keräävätko te kaikki tavarat ennen lähtöä?"
   ],
   "translation": [
     "to collect",
-    "to gather"
+    "to gather",
+    "to accumulate"
   ],
-  "context": "The word kerätä is commonly used in Finnish to mean collecting or gathering something, whether it be money, objects, or resources."
+  "context": "The Finnish verb 'kerätä' means to collect, gather or accumulate things. It can refer to collecting objects as a hobby (like stamps), gathering people or items together, or accumulating something over time. The verb is used with various objects depending on what is being collected - books for reading, postmarks as a collection, etc."
 }

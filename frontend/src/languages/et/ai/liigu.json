@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta liikus väga kiiresti.",
-    "Autod liiguvad tänaval.",
-    "Me peame liiguma edasi."
+    "Liugu kestaks vaid mõned sekundid.",
+    "Tüdrukud liuguvad lumel.",
+    "Ta hakkas lumesse liugema."
   ],
   "translation": [
-    "move",
-    "to move",
-    "motion"
+    "to slide",
+    "to slip",
+    "to glide"
   ],
-  "context": "The Estonian word 'liigu' is a verb that generally means to move or be in motion. It can refer to physical movement, progress, or even the act of functioning. It’s commonly used when describing how something or someone travels from one place to another."
+  "context": "The word 'liigu' is the imperative form of the verb 'liiguma', which means to move by sliding or gliding. It's a command telling someone to slide. The root is 'liug-' which relates to sliding motion, and it can be used in various contexts like on ice, snow, water surfaces, or even metaphorically for smooth transitions."
 }

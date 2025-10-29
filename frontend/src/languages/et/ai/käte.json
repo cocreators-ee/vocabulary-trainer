@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta pidas käte üldse hea",
-    "Käte on tuntud eesti kultuuris",
-    "Ma ei tea, mis käte tähendab selles kontekstis"
+    "Kätes on külm.",
+    "Tema käed väikesed ja peenikeste sõrmedega.",
+    "Lapsed mängisid kätega palli."
   ],
   "translation": [
-    "hand",
-    "palm of the hand"
+    "hands",
+    "wrists"
   ],
-  "context": "The word käte refers to the palm of the hand in Estonian, and is commonly used in various contexts such as describing something being held in one's hand or referring to a part of the human body."
+  "context": "The word 'käte' is the partitive plural form of 'käsi', which means 'hand' in English. It's used to refer to multiple hands or when referring to hands in an indefinite or partial sense, such as 'there are cold hands' (Kätes on külm) where you're talking about hands being cold without specifying whose hands they are."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tellisin joogid baarmanilt.",
-    "Neil on palju erinevaid joogid valida.",
-    "Kas sa võiksid tuua meile veel joogid?"
+    "Ma ostsin mitu joogid kauplusest.",
+    "Tere! Millised on head joogid praeguses menüüs?",
+    "Lapsed armastavad värskete joogid joomist."
   ],
   "translation": [
     "drinks",
     "beverages"
   ],
-  "context": "The word 'joogid' in Estonian refers to drinks or beverages. It is commonly used when ordering at a bar, discussing what someone is drinking, or generally referring to liquid refreshments."
+  "context": "The word 'joogid' is the plural form of the Estonian noun 'jook', which means drink or beverage. In English, this translates to drinks or beverages. This form is used when referring to multiple types of drinks or various beverages in general."
 }

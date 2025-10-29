@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kutti.",
-    "Kutti on tore koer.",
-    "Kuttiga ei lähe kunagi hästi."
+    "Kutti on väga hea koer.",
+    "Nägin kutti täna pargis.",
+    "Meil on kaks kutti."
   ],
   "translation": [
     "dog",
-    "pooch"
+    "puppy",
+    "hound"
   ],
-  "context": "The word 'kutti' is commonly used in Estonian to refer to a dog, often in an affectionate or informal manner."
+  "context": "In Estonian, 'kutti' is a colloquial or informal term for a dog. It's often used to refer to dogs in general, but can also specifically mean puppy or hound depending on context. The word derives from the Estonian word 'koer' (dog) and appears to be a diminutive or affectionate form."
 }

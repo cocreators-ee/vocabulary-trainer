@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oli kindlalt veendunud oma otsuses.",
-    "Meie kindlad plaanid said ilmastiku tõttu muudetud.",
-    "Nad olid kindlad võitjad."
+    "Kindlalt ei saa kindlaks.",
+    "Olen väga kindlad oma otsusesse.",
+    "Need kindlad tõendid näitavad selgelt süüdlasi."
   ],
   "translation": [
     "certain",
     "sure",
-    "confident",
-    "firm"
+    "positive",
+    "definite"
   ],
-  "context": "The word 'kindlad' in Estonian is an adjective meaning certain, sure, or confident. It describes a state of being without doubt and can be used to express conviction about something."
+  "context": "The word 'kindlad' is the plural form of 'kindel', which means certain, sure, or positive. It's an adjective used to describe something that is definite, confirmed, or without doubt. In Estonian, adjectives must agree in number and case with the nouns they modify."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tämä on pitkä päivä.",
-    "Hänellä oli pitkä matka kotoa työhön.",
-    "Pitkä lista virheistä sai meidät tarkistamaan kaiken uudelleen."
+    "Tämä on pitkä matka.",
+    "Hänellä on pitkät hiukset.",
+    "Pitkä päivä oli ohi."
   ],
   "translation": [
-    "Long",
-    "Lengthy",
-    "Extended"
+    "long",
+    "tall",
+    "extended"
   ],
-  "context": "'pitkä' is an adjective in Finnish, commonly used to describe something that has great length or duration. It can refer to physical objects being long or time periods feeling lengthy."
+  "context": "The Finnish word 'pitkä' is an adjective that means 'long' in English. It can refer to physical length (a long road, tall height), duration of time (a long day), or extended periods. The word changes form depending on the case and gender it modifies - for example, 'pitkä' remains the same for masculine singular nominative but becomes 'pitkät' in plural form. It's a common adjective used to describe dimensions that extend significantly."
 }

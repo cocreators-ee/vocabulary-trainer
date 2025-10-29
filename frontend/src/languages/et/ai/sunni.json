@@ -1,15 +1,14 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Oma suuniga jõuavad nad pargi.",
-    "Ta sunnis mind ostma maja.",
-    "Mind sassis üks sunni.",
-    "Ta soovib sundida mind tegema seda."
+    "Ta on sunni eestlane.",
+    "Sunni lapsed mängivad pargis.",
+    "Ma olen sunni päritolu."
   ],
   "translation": [
-    "sun",
-    "to force"
+    "from Sunni",
+    "of Sunni",
+    "Sunni's"
   ],
-  "context": "The Estonian word 'sunni' is used to express the idea of forcing someone to do something, or causing them to act against their will. It can also be part of compound words such as 'sundida', which means to coerce."
+  "context": "The Estonian word 'sunni' appears to be a genitive form, likely meaning 'from Sunni', 'of Sunni', or 'Sunni's'. It functions as a possessive case indicating possession or origin from someone named Sunni. This is commonly used in Estonian grammar to show ownership or association with the name Sunni."
 }

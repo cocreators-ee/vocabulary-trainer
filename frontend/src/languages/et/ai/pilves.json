@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on pilves ja võib varsti vihma saada.",
-    "Pilves ilm on ebameeldiv.",
-    "Homne pilves ilm oli talveline."
+    "Taevas on pilves.",
+    "Pilved liiguvad taeva all.",
+    "Nägin väikseid pilveid."
   ],
   "translation": [
+    "in the clouds",
     "cloudy",
-    "overcast"
+    "with clouds"
   ],
-  "context": "The word pilves is an adjective in Estonian that describes weather conditions, specifically when the sky is covered with clouds and there is a high chance of rain."
+  "context": "The word 'pilves' is a locative case form of the Estonian noun 'pilv', meaning 'cloud'. In this case, it specifically means 'in the cloud/clouds' or indicates that something is located within clouds. This is an adessive/inessive case form in Estonian grammar."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sõdurid said ülesandeks kaitsta riigi piire.",
-    "Sõduri elu on raske ja ohtlik.",
-    "Sõdurite pere ei tea kunagi, kas nad näevad neid homme veel."
+    "Sõdurid on sõjaväes.",
+    "Väikesed sõdurid käisid paraadil.",
+    "Need sõdurid olid väga vaprased."
   ],
   "translation": [
-    "soldiers"
+    "soldiers",
+    "troops",
+    "military personnel"
   ],
-  "context": "The word sõdurid refers to soldiers in the Estonian language and is commonly used to describe individuals who serve in the military to protect their country's borders."
+  "context": "The word 'sõdurid' is the plural form of 'sõdur' in Estonian, which means 'soldier'. It refers to members of an army or military forces. The '-d' ending at the end of the word indicates plurality in Estonian grammar."
 }

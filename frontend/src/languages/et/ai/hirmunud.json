@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oli hirmunud pimeduses.",
-    "Lapsed jäid hirmunud koera pärast.",
-    "Hirmunud pilguga vaatas ta ukse suunas."
+    "Ma olen hirmunud.",
+    "Ta oli väga hirmunud laste ees.",
+    "Lapsed said hirmunud pimeduse tõttu."
   ],
   "translation": [
-    "frightened",
-    "scared",
     "afraid",
+    "scared",
+    "frightened",
     "terrified"
   ],
-  "context": "The word 'hirmunud' describes a state of feeling fear or apprehension. It is commonly used to express that someone is scared or frightened by something."
+  "context": "The word 'hirmunud' is the past participle form of the verb 'hirnuma' (to fear/to be afraid) in Estonian. It describes a state of being afraid or frightened, and can refer to either temporary fear or a more lasting feeling of anxiety or terror depending on context."
 }

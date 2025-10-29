@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Täällä on lämmin.",
-    "Lämmin kahvi on hyvä.",
-    "Hän piti lämmintä mehua"
+    "Tämä on lämmin päivä.",
+    "Hänellä on lämmin sydän.",
+    "Meidän huoneemme oli lämmin."
   ],
   "translation": [
     "warm",
     "hot"
   ],
-  "context": "The word lämmin is commonly used in Finnish to describe something that is warm or mildly hot, often in a pleasant way."
+  "context": "The Finnish word 'lämmin' means 'warm' or 'hot' in English. It's an adjective used to describe temperatures that are pleasant and not cold, but can range from slightly warm to hot depending on context. The word changes form based on the noun it modifies (subject-verb agreement in adjectives) - for example, 'lämmin päivä' means 'warm day', 'lämpimät kengät' would be plural 'warm shoes'."
 }

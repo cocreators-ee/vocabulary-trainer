@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan Tallinnas",
-    "Ta elab Londonis",
-    "Nad elavad Pariisis"
+    "Elagu!",
+    "Elu ilus!",
+    "Ela õnnelikult!"
   ],
   "translation": [
     "live",
-    "reside",
-    "dwell"
+    "may you live",
+    "long life",
+    "health",
+    "vitality"
   ],
-  "context": "The word 'ela' in Estonian means to live or reside somewhere, and it is commonly used in sentences to describe where someone lives or has lived."
+  "context": "In Estonian, 'ela' is an imperative form of the verb 'elama' (to live). It's often used as a well-wishing expression similar to 'cheers' or 'blessing' in English. When used as 'Elagu!', it functions as a toast meaning 'To your health!' or 'Cheers!'. The word carries connotations of wishing someone life, vitality, and good fortune."
 }

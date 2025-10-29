@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võitsin võidu.",
-    "Võidu saavutamiseks tuleb palju treenida.",
-    "Ta on võidu kindel."
+    "Võit on meie eesmärk.",
+    "Tänan võitu saavutamise eest.",
+    "Meil oli võidu ja rõõmu."
   ],
   "translation": [
     "victory",
-    "win"
+    "win",
+    "triumph"
   ],
-  "context": "The word \"võidu\" is a noun in Estonian that refers to victory or win, and it is commonly used to describe achieving success or overcoming challenges in various contexts, such as sports, competitions, or personal goals."
+  "context": "The word 'võidu' is the genitive case of 'võit', meaning 'victory' or 'win'. In Estonian, the genitive case indicates possession or origin. So 'võidu' can mean 'of victory', 'belonging to victory', or it can be used more broadly to refer to the concept of victory itself in a possessive sense."
 }

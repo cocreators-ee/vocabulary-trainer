@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä olen valmis.",
-    "Hän on valmis lähtemään.",
-    "He ovat valmiit aloittamaan."
+    "Olen valmis lähtemään.",
+    "Hän on jo valmis.",
+    "Valmistaudu kokeeseen!"
   ],
   "translation": [
     "ready",
-    "prepared"
+    "prepared",
+    "complete",
+    "finished"
   ],
-  "context": "The word 'valmis' in Finnish means being ready or prepared to do something, and it is commonly used in various contexts such as preparing for an event, being ready to leave, or having something ready for use."
+  "context": "The Finnish word 'valmis' is an adjective that means ready, prepared, complete or finished. It's commonly used to indicate someone's readiness for something (like being ready to leave) or the completion of a task or state. The word can be used with different subjects and in various contexts, from describing personal readiness to indicating when something is fully done."
 }

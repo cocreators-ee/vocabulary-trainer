@@ -1,14 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "See kuluks mõne tuhande euro.",
-    "Minu arvates kulus see liiga palju.",
-    "Kas sa tead, mitu kulub selle eest?"
+    "Kui sa ei taha minna, siis jääb kodusse.",
+    "Me lähme koos poe külge.",
+    "Tule koju kell seitsmes."
   ],
   "translation": [
-    "to cost",
-    "expensive"
+    "come",
+    "arrive",
+    "get here"
   ],
-  "context": "The word 'kuluks' is an Estonian verb meaning 'to cost'. It can be used to indicate the monetary value or effort required for something. Commonly used in sentences discussing expenses or prices."
+  "context": "The word 'kodu' means home in Estonian. It can be used in various contexts related to one's residence or place of living. The form 'kodudes' would indicate plural, meaning 'homes'."
 }

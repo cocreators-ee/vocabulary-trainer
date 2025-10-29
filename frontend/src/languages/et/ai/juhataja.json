@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Juhataja on vastutav isik ettevõttes.",
-    "Ta oli korporatsiooni juhataja.",
-    "Juhatajad kohtusid täna."
+    "Juhataja vastutas kogu projekti eest.",
+    "Meie uus juhataja on väga kogenud.",
+    "Kooli juhataja korraldas tähtsa koosoleku."
   ],
   "translation": [
-    "manager",
     "leader",
+    "manager",
+    "head",
     "director"
   ],
-  "context": "The word juhataja refers to a person who is in charge of an organization or a team, responsible for making decisions and overseeing operations."
+  "context": "The word 'juhataja' in Estonian is a noun that refers to someone who leads, manages, or directs an organization, group, or activity. It can be translated as leader, manager, head, or director depending on the context. The word appears to be derived from the verb 'juhatama' (to lead/direct) plus the agentive suffix '-ja', indicating a person who performs the action of leading."
 }

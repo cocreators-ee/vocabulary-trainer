@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tegelikult plaani selleks õhtuks midagi muud.",
-    "Ta oli plaani teinud juba ammu.",
-    "Plaani kohaselt peaks see olema valmis homme."
+    "Ma tegutsen plaani järgi.",
+    "See on hea plaani.",
+    "Meil on plaan külastada muuseumit."
   ],
   "translation": [
     "plan",
-    "intention"
+    "scheme",
+    "arrangement"
   ],
-  "context": "The word 'plaani' in Estonian refers to a plan or intention, and is commonly used in sentences to describe something that was intended or planned to happen."
+  "context": "The word 'plaani' is the genitive singular form of the Estonian noun 'plaan', meaning 'plan'. In the genitive case, it indicates possession or relationship to something. For example, 'plaani järgi' means 'according to the plan', where 'plaani' shows that the action follows a particular plan."
 }

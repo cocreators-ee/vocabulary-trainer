@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta valis parima lahenduse.",
-    "Ma otsisin ja valisin selle raamatu.",
-    "Valige oma eelistuslik kuulutustyyli."
+    "Ta valis head lapsevanema rolli.",
+    "Me valisime selle restorani oma sünnipäevaks.",
+    "Sinu otsus on valinud su saatus."
   ],
   "translation": [
     "chose",
-    "selected"
+    "selected",
+    "picked"
   ],
-  "context": "The word 'valis' means to choose or select something in Estonian. It is often used when making a decision between different options, such as choosing a solution, picking a book, or selecting a notification style. It can be used for both concrete and abstract choices."
+  "context": "The Estonian word 'valis' is the past tense third-person singular form of the verb 'valida', which means 'to choose' or 'to select'. It indicates that someone made a decision or selected something in the past. This verb is commonly used when referring to choices, decisions, or selections made by individuals."
 }

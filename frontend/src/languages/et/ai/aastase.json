@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu aastase sissetulek on umbes viiskümmend tuhat eurot.",
-    "See on aastase tellimus.",
-    "Aastase aruande koostamine võtab aega."
+    "Tema on aastane laps.",
+    "Lapsed on aastased lapsed koolis.",
+    "See aastane projekt valmis täpselt õigel ajal."
   ],
   "translation": [
+    "annual",
     "yearly",
-    "annual"
+    "once a year"
   ],
-  "context": "The word 'aastase' is the genitive singular form of 'aastane', meaning yearly or annual. It’s used to describe something that happens once a year, or relates to a period of one year. In English, it's commonly used in contexts like 'annual income' or 'yearly report'."
+  "context": "The Estonian word 'aastase' is an adjective that means 'annual', 'yearly', or 'once a year'. It refers to something that happens once every year, like annual events or yearly occurrences. The form 'aastane' would be used with singular masculine nouns (nominitive case), while 'aastane' can also appear in different forms depending on the gender and number of the noun it modifies. For example, with a feminine noun it might be 'aastane', and for plural nouns it could be 'aastased'. This word is commonly used to describe recurring yearly events, celebrations, reports, or any activity that happens once per year."
 }

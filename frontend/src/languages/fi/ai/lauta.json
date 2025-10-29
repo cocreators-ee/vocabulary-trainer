@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on hyvä lautapelaaja",
-    "Lauta oli täynnä ruokaa",
-    "Olemme menossa lautalle"
+    "Minulla on uusi lautalla.",
+    "Poika istuu laudalla.",
+    "Laudat ovat puusta valmistettu."
   ],
   "translation": [
     "board",
     "plank",
     "table"
   ],
-  "context": "The word 'lauta' in Finnish can refer to a flat piece of material, such as a board or plank, but it can also mean a table, especially one that is being used for eating or other activities."
+  "context": "The Finnish word 'lauta' is a noun that typically refers to a board, plank, or table. It's most commonly used for flat, rectangular pieces of wood, but can also refer to tables in some contexts. The word can be found in various compound words and has different forms when declined: lauta (nominative), lautaa (partitive), laudalla (adessive), etc."
 }

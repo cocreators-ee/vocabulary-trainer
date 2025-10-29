@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Õhtu on ilus.",
-    "Ta töötab õhtul.",
-    "Meie oleme õhtul koos."
+    "Õhtu saabus kiiresti.",
+    "Me veedame õhtu koos perega.",
+    "Täna on ilus õhtu."
   ],
   "translation": [
-    "evening"
+    "evening",
+    "night"
   ],
-  "context": "The word õhtu refers to the evening or night time in Estonian, and it is commonly used to describe the time of day when people are relaxing or socializing after work."
+  "context": "In Estonian, 'õhtu' means evening or night. It's typically used to refer to the time period from late afternoon until nighttime. The word is in nominative singular form here. In different grammatical cases it would change: for example, 'õhtul' (on/at/in the evening), 'õhtule' (to/towards the evening)."
 }

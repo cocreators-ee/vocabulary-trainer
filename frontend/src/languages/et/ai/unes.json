@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea unes.",
-    "Ma olen unes.",
-    "Unes on magus."
+    "Tema on üks meesest.",
+    "Üks lapsed mängivad pargis.",
+    "Üks aastaid tagasi oli see teistsugane."
   ],
   "translation": [
-    "sleep",
-    "asleep"
+    "one",
+    "a single",
+    "an"
   ],
-  "context": "The word 'unes' in Estonian generally refers to the state of being asleep or in a sleep-like condition, and it is commonly used in everyday conversations to describe someone who is resting or dozing off."
+  "context": "The Estonian word 'üks' means 'one' or 'a/an'. It's used as both the number one and as an indefinite article before singular nouns. In the given text 'unes', this appears to be a typo of 'üks' where the letter 's' has been added. The correct form would be 'üks', meaning 'one' or 'an/a single'."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tuul on tugev.",
-    "Ta armastab tuult.",
-    "Tuuli on härmatis."
+    "Tuul puhub väga tugevalt täna.",
+    "Väike tuul on hea purjetamiseks.",
+    "Me kuulsime tuule olevat vilkuva hääl."
   ],
   "translation": [
-    "wind"
+    "wind",
+    "breeze"
   ],
-  "context": "The word 'tuul' refers to the natural movement of air in the atmosphere, often used to describe weather conditions or as a metaphor for change or freedom."
+  "context": "The Estonian word 'tuul' means 'wind' in English. It is a common noun referring to the movement of air, particularly natural outdoor airflow that can be felt or heard. The word can refer to various types of wind from gentle breezes to strong gusts."
 }

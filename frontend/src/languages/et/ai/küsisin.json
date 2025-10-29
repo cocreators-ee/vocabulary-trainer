@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma küsisin tema nime",
-    "Ta küsisin mind öösel",
-    "Küsisin talle head õhtut"
+    "Küsisin temalt, kuidas tal läheb.",
+    "Ma küsisin, kas tahad koos minuga sööma minna.",
+    "Ta küsisin vanemate arvamust asja kohta."
   ],
   "translation": [
     "asked",
-    "inquired"
+    "inquired",
+    "questioned"
   ],
-  "context": "The word 'küsisin' is the first person singular past tense form of the verb 'küsima', which means to ask or inquire something from someone, and it is commonly used in Estonian language to express that someone has asked a question."
+  "context": "'Küsisin' is the past tense first person singular form of the Estonian verb 'küsima', which means 'to ask'. It specifically refers to a male speaker asking something in the past. The female equivalent would be 'küsisime'. This verb is commonly used when someone wants information, an opinion, or permission from another person."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema elud olid pühendatud teadusele.",
-    "Meil on alles kolm elu jäänud mängus.",
-    "Elud on kallis, tänu ettevaatlikkusele."
+    "Elud on lühikesed.",
+    "Me peame arvestama eludega.",
+    "Töötajate elud olid ohus."
   ],
   "translation": [
-    "lives"
+    "lives",
+    "existences",
+    "life spans"
   ],
-  "context": "'elud' is the plural form of 'elu', meaning 'life'. It can refer to living beings, stages of life, or symbolic representations in games and literature. Context determines literal vs. metaphorical usage."
+  "context": "The word 'elud' is the plural genitive case form of 'elu', which means 'life'. In Estonian, this case indicates possession or association - so 'elude' would mean 'of lives', 'of existences', or 'of life spans'. It's used when talking about things that belong to or are associated with multiple lives."
 }

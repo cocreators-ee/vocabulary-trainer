@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tüdrukud lähevad kinno.",
-    "Tüdrukute koolis on palju õpilasi.",
-    "Tüdrukutel meeldib sport"
+    "Tüdrukud mängivad pargis.",
+    "Kõik tüdrukud said head hinded.",
+    "Väike tüdruk jooksis mööda tänavat."
   ],
   "translation": [
-    "girls"
+    "girls",
+    "young women"
   ],
-  "context": "The word 'tüdrukute' is the genitive plural form of the Estonian word 'tüdruk', which means 'girl'. It is commonly used to refer to a group of girls or to indicate that something belongs to or is related to girls."
+  "context": "The word 'tüdrukute' is the plural genitive form of 'tüdruk', which means 'girl'. In Estonian, the ending '-te' indicates both plural and genitive case. So this literally translates to 'of the girls' or 'belonging to the girls'. It's used when indicating possession or relationship with multiple girls."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kingid sõrmuse sabale.",
-    "Sõrmused on kenad.",
-    "Ma ostan uue sõrmuse."
+    "Ta kinkis mulle sõrmuse.",
+    "Sõrmused on tema lemmik ehteid.",
+    "Kas sa nägid seda suurt sõrmust?"
   ],
   "translation": [
-    "ring"
+    "ring",
+    "band",
+    "jewelry ring"
   ],
-  "context": "The word sõrmus refers to a ring, typically worn on the finger, and is commonly used in Estonian language to describe a type of jewelry."
+  "context": "The Estonian word 'sõrmus' means a ring that is worn on the finger, typically as jewelry. It can refer to engagement rings, wedding bands, or any decorative finger ring. In Estonian, it's specifically used for rings worn on fingers rather than other types of rings."
 }

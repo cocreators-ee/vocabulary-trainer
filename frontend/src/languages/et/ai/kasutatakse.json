@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "See programmi funktsioon kasutatakse vähe.",
-    "Kas sa tead, kuidas see seade kasutatakse?",
-    "Toote kirjeldus selgitab, et toodet võib kasutatakse erinevates asjakohastes olukordades."
+    "Eesti keeles kasutatakse palju kohanimi.",
+    "Selles arvutis kasutatakse uus tarkvara.",
+    "Kasutatakse selliseid meetodeid."
   ],
   "translation": [
-    "is used",
-    "it is used"
+    "used",
+    "employed",
+    "utilized"
   ],
-  "context": "The word 'kasutatakse' means 'is used' or 'it is used'. It is often used in sentences that describe the use of an object, method, or process. For example, it can be found when explaining how a device works, or what function something has."
+  "context": "The word 'kasutatakse' is the 3rd person singular present tense form of the Estonian verb 'kasutama', which means 'to use'. It follows the -takse suffix pattern that indicates passive voice in present tense. This construction is commonly used when discussing general truths, routines, or ongoing actions where the doer of the action is either unknown, unimportant, or can be inferred from context."
 }

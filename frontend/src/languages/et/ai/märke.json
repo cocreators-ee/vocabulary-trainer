@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta nägi tähelit vaid märke.",
-    "Märkide andmine on väga oluline.",
-    "See sõna pole korrektne, kuid see sisaldab õiget märgendit."
+    "Märgid on tähtsad.",
+    "See märk näitab suundu.",
+    "Kõik need märgid on olulised."
   ],
   "translation": [
-    "sign",
-    "mark",
-    "character"
+    "signs",
+    "marks",
+    "symbols"
   ],
-  "context": "The word 'märke' in Estonian refers to a sign, mark, or character. It can be used both literally and metaphorically, such as signs in everyday life, marks on objects, or characters in writing systems."
+  "context": "\"Märke\" is the partitive form of the Estonian word \"märk\", which means signs, marks, or symbols. The partitive case indicates an unspecified quantity or a partial amount of something. In these examples, it could refer to various types of markers that are important for direction, identification, or communication purposes."
 }

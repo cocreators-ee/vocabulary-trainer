@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma soovin paremat tulemust.",
-    "Ta valis parema variandi.",
-    "Minu arvates on see parema küljel oluline."
+    "Olen parem kui eile.",
+    "See on parem variant.",
+    "Kas sa oled tervislikumaks muutunud? Paremini terved."
   ],
   "translation": [
-    "right (as in direction)",
     "better",
-    "more right"
+    "improved",
+    "more favorable"
   ],
-  "context": "'Parema' is the partitive form of 'parem', which means better or right (direction). It's commonly used to indicate a preference for something more optimal or correct."
+  "context": "The word 'parema' is the comparative form of the adjective 'parem' in Estonian. It means 'better' and is used to compare two things or states, indicating improvement or superiority over something else. In the examples provided, it shows how 'parema' functions as a comparative adjective - 'Olen parem kui eile' means 'I am better than yesterday', 'See on parem variant' means 'This is a better option', and in the last sentence it's used with an auxiliary verb construction to ask about health improvement."
 }

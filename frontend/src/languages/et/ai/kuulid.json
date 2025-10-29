@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kuula mind!",
-    "Tema kuulis su hääle.",
-    "Rohkem kuulamist aitab paremini mõista."
+    "Kuulid, mis kell on?",
+    "Oled sa kuule nädalavahetuse plaane?",
+    "Ei ole kuuldud selliseid jutte."
   ],
   "translation": [
-    "hearing",
-    "to hear",
-    "listen"
+    "you heard",
+    "have you heard",
+    "it has not been heard"
   ],
-  "context": "The Estonian word 'kuulid' is the second person singular imperative form of 'kuula', which means to listen. It is used when telling someone to listen, and is a common way to request attention in everyday speech."
+  "context": "The word 'kuulid' is the 2nd person plural past tense form of the Estonian verb 'kulema', meaning 'to hear'. In English, it translates to 'you heard' or 'have you heard' depending on context. It's commonly used in questions about information someone has received or in statements about what people have heard."
 }

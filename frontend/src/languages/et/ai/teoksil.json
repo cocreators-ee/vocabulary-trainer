@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on teoksil uue romaani kirjutamine.",
-    "Politsei uurib praegu seda teoksil olevat kuritegu.",
-    "See projekt on alles teoksil ja vajab veel palju tööd."
+    "Tema oli teoksil kõikidel kursustel.",
+    "Projekt sai teoksiks ja nüüd on valmis.",
+    "Loodetud tulemuse tegemiseks on vaja ette võtta teoksid."
   ],
   "translation": [
-    "in progress",
-    "underway",
-    "ongoing"
+    "implemented",
+    "accomplished",
+    "realized",
+    "carried out"
   ],
-  "context": "The word 'teoksil' in Estonian describes something that is currently being worked on or happening, indicating a process that is not yet completed. It’s commonly used to describe projects, investigations, or any activity that is ‘in progress’."
+  "context": "The word 'teoksil' is the elative case form of the noun 'teos', which means 'work', 'deed', or 'achievement'. In Estonian, the elative case indicates movement away from something. So 'teoksil' literally means 'from work/achievement' and is used to indicate that something has been accomplished, implemented, or carried out successfully. It implies completion of a task or achievement of an objective."
 }

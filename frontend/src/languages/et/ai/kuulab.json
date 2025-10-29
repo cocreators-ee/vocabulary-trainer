@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta kuulab mu.",
-    "Minu ema alati kuulab mind.",
-    "Ei, ei - kuula!"
+    "Kuulame muusikat koos.",
+    "Ta kuuleb hästi kaugelt.",
+    "Meie kass kuulab liikuvaid objekte."
   ],
   "translation": [
-    "hears",
-    "listens to"
+    "listens",
+    "hears"
   ],
-  "context": "'Kuulab' is the third person singular form of 'kuulama', which means to hear or listen. It is used when referring to hearing something physically or attentively listening to someone."
+  "context": "The word 'kuulab' is the third person singular present form of the verb 'kuulama', which means 'to listen' or 'to hear'. In Estonian, this verb can be used for both active listening and passive hearing. The '-b' ending indicates it's being used with a third person singular subject (he/she/it)."
 }

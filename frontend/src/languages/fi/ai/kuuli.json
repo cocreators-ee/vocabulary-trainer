@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän sanoi, että hän kuuli äänen taustalta.",
-    "Olin varma siitä, että kuuli joku puhuvan oven takaa.",
-    "Kuuli häntä rypisti silmiään"
+    "Kuulin äänen takaa.",
+    "Hän kuuli juoksuani.",
+    "Me kuulimme musiikkia radiosta."
   ],
   "translation": [
     "heard",
-    "listened to",
-    "heard someone speaking"
+    "listened to"
   ],
-  "context": "'kuuli' means 'heared' in Finnish and is the past tense of the verb 'kuulla'. It can be used both as an intransitive and transitive verb. Commonly it refers to hearing something, but also implies listening actively."
+  "context": "The Finnish word 'kuuli' is the past tense third-person singular form of the verb 'kuulla', which means 'to hear' or 'to listen'. In English, this would be translated as 'he/she/it heard'. The verb indicates that someone perceived sounds with their ears in the past. It can refer to both the act of hearing (passively receiving sound) and listening (paying attention to what is heard)."
 }

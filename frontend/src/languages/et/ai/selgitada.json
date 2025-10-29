@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma selgitasin talle seda võimalikult lihtsalt.",
-    "Ta ei suutnud mind selgitada.",
-    "See on raske selgitada."
+    "Ma tegin proovi selgitada seda probleemi.",
+    "Tema ülesanne oli selgitada keerukaid mõisteid.",
+    "Sa pead selgitama oma otsust."
   ],
   "translation": [
-    "to explain",
-    "explanation"
+    "explain",
+    "clarify",
+    "elucidate"
   ],
-  "context": "The word 'selgitada' in Estonian means to explain or give an explanation for something, and it is commonly used in various contexts to provide a clear understanding of a concept or idea."
+  "context": "The Estonian verb 'selgitada' means to explain, clarify, or make something clear. It is used when someone needs to provide understanding about a topic, situation, or concept that may not be obvious or easily understood. The word can appear in different conjugated forms depending on the subject and tense, such as 'selgitama' (infinitive), 'selgitan' (I explain), 'selgid' (you explain), etc."
 }

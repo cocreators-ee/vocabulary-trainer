@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kohtunud tema vanematega.",
-    "Nad on kohtunud mitme kuulsa inimesega.",
-    "Ta on kohtunud paljude huvitatingitega."
+    "Kohtusin vanaga sõpradega täna.",
+    "Meie on kohtunud juba mitu korda.",
+    "Ta on kohtunud uue inimesega."
   ],
   "translation": [
     "met",
-    "encountered"
+    "have met",
+    "seen"
   ],
-  "context": "The word 'kohtunud' is the past tense of the verb 'kohtuma', which means to meet or encounter someone, and it is commonly used in Estonian to describe a meeting or an encounter with someone."
+  "context": "The word 'kohtunud' is the past participle form of the Estonian verb 'kohtuma', which means to meet or encounter. It's commonly used to indicate that someone has already had an encounter or meeting with another person or people. The word can be translated to English as 'met' (simple past) or 'have met' (present perfect)."
 }

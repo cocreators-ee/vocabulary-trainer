@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta mainis, et see oli väga oluline.",
-    "Mainisime meie eesmärke kohtus.",
-    "Ruttu mainis oma kavasid enne lahkumist."
+    "Ta mainis, et tuleb homme kooli.",
+    "Kas sa mainisid selle meile?",
+    "Pärast kohtumist ta mainis oma plaane."
   ],
   "translation": [
-    "mentioned"
+    "mentioned",
+    "referred to",
+    "spoke about"
   ],
-  "context": "Used to indicate that something or someone has been mentioned. It is commonly used in sentences where a person refers to another topic, idea, or individual."
+  "context": "'Mainis' is the past tense form of the Estonian verb 'mainida', which means 'to mention' or 'to refer to'. It is used when someone has brought something up in conversation or referred to something that was previously discussed. The verb indicates an action of bringing something to attention or making reference to it."
 }

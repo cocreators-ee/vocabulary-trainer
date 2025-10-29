@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Meist on küsimusi.",
-    "Ma olen üks neist meist, kes ei tea.",
-    "Meist saab tulevikus veel palju rääkida."
+    "Meist on ilus päev.",
+    "Mida meist peaks tegema?",
+    "Kõik meist on meelestatud."
   ],
   "translation": [
-    "about us",
     "from us",
     "of us"
   ],
-  "context": "The word 'meist' in Estonian is a pronoun that means 'of us', 'from us', or 'about us', often used to indicate a relationship or connection between the speaker and others."
+  "context": "The Estonian word 'meist' is the elative case plural form of 'me', meaning 'we/us'. It indicates movement or origin from a group, and translates to English as 'from us' or 'of us'. This grammatical case shows where something comes from in relation to the speaker's group."
 }

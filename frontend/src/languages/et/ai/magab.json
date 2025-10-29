@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta magab sügavalt.",
-    "Ma ei saa magada.",
-    "Lapsed magavad juba."
+    "Magab laps kuni homseks.",
+    "Tema magab selles toas.",
+    "Kõik lapsed juba magavad."
   ],
   "translation": [
-    "sleep",
-    "to sleep",
-    "sleeping"
+    "sleeps",
+    "is sleeping"
   ],
-  "context": "The Estonian word 'magab' is a verb meaning 'to sleep'. It can be used in various tenses and forms to describe the act of sleeping or being asleep. In English, it’s commonly used to indicate rest or a state of unconsciousness."
+  "context": "The word 'magab' is the third-person singular present indicative form of the Estonian verb 'magama', which means 'to sleep'. It describes someone who is currently in a state of sleep. In Estonian, this conjugation is used for both he/she/it sleeps and they sleep when referring to people, though context usually clarifies if it's singular or plural."
 }

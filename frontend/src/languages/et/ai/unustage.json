@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen selle unustanud.",
-    "Ta on alati kõik unustanud.",
-    "Unustage see, mis juhtus."
+    "Unusta see kord!",
+    "Unustan alati oma võtmed.",
+    "Palun unusta seda."
   ],
   "translation": [
-    "forget"
+    "forget",
+    "forgive",
+    "overlook"
   ],
-  "context": "The word 'unustage' is an imperative form of the verb 'unustama', which means to forget something. It is commonly used in Estonian language to ask someone to forget or ignore something."
+  "context": "The Estonian word 'unustage' is the imperative plural form of 'unustama', which means 'to forget'. It's used as a polite command or request to 'forget' something or someone. The verb 'unustama' comes from the root 'unu-' meaning 'oblivion/forgetfulness' and '-stama' indicating an action. In imperative mood, it addresses multiple people (you all) and is commonly used in situations where you want others to forget about something that happened or not worry about it anymore."
 }

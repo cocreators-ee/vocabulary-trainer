@@ -1,13 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Minu ruumi kõrval on muusikat",
-    "See on minu õe jaoks parim ruumi,",
-    "Kuhu sa see ruumi viia?"
+    "Ruumi on piisavalt suur kõikidele asjadele.",
+    "Sellel ruumil on hea valgustus ja värske õhk.",
+    "Me vajame rohkem ruumi uue töölauda jaoks."
   ],
   "translation": [
-    "room"
+    "space",
+    "room",
+    "area"
   ],
-  "context": "This is the genitive form of 'tuba' which means room in Estonian. The genitive case is used to show possession or association."
+  "context": "The word 'ruumi' is the partitive case form of 'ruum' in Estonian, meaning 'space', 'room', or 'area'. It's used to indicate an unspecified amount of space, often referring to physical room or area within a larger structure. In English, this would correspond to expressions like 'some space', 'a bit of room', or 'an area'. The partitive case is commonly used with mass nouns and uncountable concepts in Estonian."
 }

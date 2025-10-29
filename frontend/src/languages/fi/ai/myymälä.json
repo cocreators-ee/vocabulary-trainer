@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ostoksia tehtiin kaupan myymälässä.",
-    "Myymälän valikoima oli laaja.",
-    "Yrityksellä on useita myymälöitä eri puolilla maata."
+    "Menin myymälään ostamaan leipää.",
+    "Uusi myymälä avasi viereiselle kadulle.",
+    "Tämä myymälä on aina täynnä asiakkaita."
   ],
   "translation": [
     "shop",
-    "store"
+    "store",
+    "market"
   ],
-  "context": "A myymälä is a place where goods or services are sold, similar to a shop or store in English. It is commonly used in Finnish to refer to retail stores, both physical and online."
+  "context": "The Finnish word 'myymälä' is a common noun that refers to a commercial establishment where goods are sold for profit. It's the general term for retail stores and shops in Finland, whether they sell food, clothing, electronics or other merchandise."
 }

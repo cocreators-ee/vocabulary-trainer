@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tuli juurest lahkuma.",
-    "See on raske juurest alata.",
-    "Nad said juurest abi."
+    "Tema juurest oli selge, et ta ei olnud nõus.",
+    "Mul oli hea meel juurest näha sind uuesti.",
+    "Ta tuli juurest külastama oma vanemaid."
   ],
   "translation": [
     "from",
-    "at",
-    "by"
+    "out of",
+    "because of"
   ],
-  "context": "The Estonian word 'juurest' is a case form (genitive or partitive) of the noun 'juur', meaning root. It commonly translates to 'from,' 'at,' or 'by' depending on context, indicating origin, location, or agency. It often appears in connection with verbs expressing movement or obtaining something."
+  "context": "In Estonian, 'juurest' is the elative case form of 'juur', which typically means 'root'. However, in this context as an adverbial particle, it functions similarly to English prepositions like 'from', 'out of', or 'because of'. It indicates origin, source, or cause. The word can be used to show where something comes from physically (from a place) or metaphorically (from a situation or reason)."
 }

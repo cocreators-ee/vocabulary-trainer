@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vastan tema kirjale.",
-    "Ta ei vastanud mu küsimusele.",
-    "Vastata tuleb kiiresti."
+    "Vastan küsimusele.",
+    "Ta vastas kiiresti.",
+    "Miks sa ei vasta kirjale?"
   ],
   "translation": [
     "to answer",
+    "to reply",
     "to respond"
   ],
-  "context": "The word 'vastata' in Estonian means to give an answer or response to something, such as a question, letter, or situation."
+  "context": "The Estonian verb 'vastata' means to answer, reply, or respond to something. It's commonly used when responding to questions, letters, messages, or situations. The word can be conjugated in different forms depending on the subject and tense: 'vastan' (I answer), 'vastad' (you answer), 'vastab' (he/she answers), etc."
 }

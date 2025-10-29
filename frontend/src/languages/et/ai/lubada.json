@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lubadasin talle abi",
-    "Ta lubab mind aidata",
-    "Lubadused on antud"
+    "Ma luban teile ette tulla.",
+    "Ta ei luba lapsed vaadata televisiooni.",
+    "Meie lubame aidata teil."
   ],
   "translation": [
     "to promise",
-    "promise"
+    "to allow",
+    "to permit"
   ],
-  "context": "The word 'lubada' in Estonian means to promise or make a promise, and it is commonly used in everyday conversations to express a commitment or intention to do something."
+  "context": "The Estonian verb 'lubada' has multiple related meanings. It can mean 'to promise' when making a commitment to someone, or it can mean 'to allow/permit' when giving permission for something to happen. The word form changes depending on the subject and tense - for example, 'ma luban' (I promise/allow), 'ta ei luba' (he/she doesn't allow), 'meie lubame' (we promise/allow)."
 }

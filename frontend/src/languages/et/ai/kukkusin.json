@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kukkusin trepist alla.",
-    "Laps kukkus mänguväljakul.",
-    "Ta kukkus hobuse seljast."
+    "Ma kukkusin trepilt alla.",
+    "Ta kukkus vette ja ujus ära.",
+    "Lapsed kukkusid nädalavahetuseks mängima."
   ],
   "translation": [
     "fell",
-    "to fall down",
-    "I fell"
+    "dropped",
+    "collapsed"
   ],
-  "context": "The word 'kukkusin' is the first-person singular past tense of the verb 'kukkuda', which means 'to fall'. It describes the action of someone falling, often implying a sudden or accidental descent. In English, it’s commonly used to describe an unintentional drop to a lower level."
+  "context": "Kukkusin is the past tense form of the verb 'kukkuma' in Estonian, meaning to fall or drop. It indicates that someone or something has fallen down from a higher position to a lower one. The '-sin' ending marks it as first person singular past tense (I fell)."
 }

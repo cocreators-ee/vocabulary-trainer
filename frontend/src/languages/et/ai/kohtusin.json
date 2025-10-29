@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kohtusin temaga eile.",
-    "Ta kohtus tolega mitu korda.",
-    "Meie kohtusime äsja"
+    "Kohtusin vanaga sõpradega eile.",
+    "Ta kohtus oma tulevase abikaasaga esmakordselt kohvikus.",
+    "Me kohtume iga nädal pühapäeval."
   ],
   "translation": [
     "met",
+    "came across",
     "encountered",
-    "came across"
+    "saw"
   ],
-  "context": "The word 'kohtusin' is the first person singular past tense form of the Estonian verb 'kohtuma', which means to meet or encounter someone."
+  "context": "The word 'kohtusin' is the first-person past tense form of the Estonian verb 'kohtuma', which means to meet, encounter, or come across someone. The '-sin' suffix indicates that this is in the singular first person past tense ('I met')."
 }

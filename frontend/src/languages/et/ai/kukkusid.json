@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Nad kukkusid puudest alla.",
-    "Linnud kukkusid pesast.",
-    "Kõik lehed kukkusid puudelt."
+    "Tema kukkusid alla trepilt.",
+    "Linnukesed kukkusid pesast.",
+    "Õied kukkusid tuule käes."
   ],
   "translation": [
     "fell",
     "dropped",
     "collapsed"
   ],
-  "context": "The word 'kukkusid' is the past tense, third-person plural form of the verb 'kukkuma', which means to fall, drop or collapse. It describes an action where something or someone descended rapidly and unintentionally."
+  "context": "The word 'kukkusid' is the past tense plural form of the Estonian verb 'kukkuma', which means to fall or drop. It indicates that multiple subjects performed the action of falling in the past. The suffix '-sid' marks it as third person plural past tense."
 }

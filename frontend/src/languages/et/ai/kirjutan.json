@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kirjutan raamatut.",
-    "Ta kirjutas artikli.",
-    "Nad kirjutavad kirja."
+    "Ma kirjutan eesti keeles.",
+    "Ta kirjutab palju kirju.",
+    "Meie kirjutame iga päev."
   ],
   "translation": [
     "write",
-    "am writing"
+    "writing"
   ],
-  "context": "The word 'kirjutan' is the first person singular form of the verb 'kirjutama', which means to write something. It is commonly used in Estonian language to express the act of writing, such as writing a book or an article."
+  "context": "The Estonian word 'kirjutan' is the first person singular form of the verb 'kirjutama', which means 'to write'. This form is used when speaking about oneself (I) performing the action of writing. The base form 'kirjutama' shows that this belongs to the -ma infinitive class, and 'kirjutan' specifically indicates 'I am writing' or 'I write.'"
 }

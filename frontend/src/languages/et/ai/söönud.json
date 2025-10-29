@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen söönud kõik oma hommikusöögi.",
-    "Ta on söönud palju mariakas.",
-    "Nad on söönud kõige"
+    "Ma olen söönud hommikust.",
+    "Ta on söönud kõik koogi ära.",
+    "Meie oleme söönud juba lõunaaja üle."
   ],
   "translation": [
-    "eaten",
-    "consumed",
-    "devoured"
+    "ate",
+    "has eaten",
+    "have eaten"
   ],
-  "context": "The word 'söönud' is the past participle form of the Estonian verb 'sööma', which means to eat. It is commonly used in sentences to describe something that has been eaten or consumed."
+  "context": "Söönud is the past participle of the Estonian verb 'sööma' (to eat). It's formed by adding the -d suffix to the stem, indicating a completed action. This form is commonly used in perfect tenses with auxiliary verbs like 'olema' (to be) to express that eating has taken place in the past. For example: 'Olen söönud' means 'I have eaten', 'Ta on söönud' means 'He/She has eaten'. The word agrees with the subject in number and gender when used with auxiliary verbs."
 }

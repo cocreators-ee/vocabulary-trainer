@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Naine oli väga ilus.",
-    "Ta on naine, kes armastab loodust.",
-    "Naised said auhindu."
+    "Tema on naine.",
+    "Naised on terved ja ilusad.",
+    "Naisele meeldib lill."
   ],
   "translation": [
     "woman",
-    "lady"
+    "wife"
   ],
-  "context": "The word 'naine' in Estonian refers to an adult human female, and it is commonly used in everyday conversations to talk about women or females in general."
+  "context": "The word 'naine' in Estonian is a noun that primarily refers to an adult female human being. It can mean both 'woman' and 'wife' depending on context. In its basic form, it's singular nominative. The plural form is 'naised'. When referring to someone's wife specifically, you might say 'tema naine' (his/her wife)."
 }

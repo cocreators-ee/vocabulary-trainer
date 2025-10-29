@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma oskan eesti keelt natuke.",
-    "Kas sa oskad ujuda?",
-    "Ta ei oska seda teha."
+    "Osan teiega.",
+    "Osakeskustelis me oskasime kõiki arutada.",
+    "Tema on hea eesti keeles ja oskad hästi inglise keelt."
   ],
   "translation": [
-    "know",
-    "can",
+    "I can",
+    "you can",
+    "he/she can",
     "to be able to"
   ],
-  "context": "The verb 'oskan' in Estonian expresses the ability or skill to do something. It is similar to 'can' or 'know how to' in English, but it specifically implies a learned capability rather than just knowledge of a fact."
+  "context": "The Estonian word 'oskan' is the first person singular present form of the verb 'oskama', which means 'to be able to'. It specifically translates to 'I can' in English. This is a modal auxiliary verb used to indicate ability or capability. The word changes form based on the subject (I, you, he/she, we, they) and tense."
 }

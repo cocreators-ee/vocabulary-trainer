@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Relvi on ohtlik vahend.",
-    "Ta võttis relvi käest ja viskas selle minema.",
-    "Relvad on keelatud linnapiirkonnas."
+    "Relvi palun!",
+    "Kus on relvi?",
+    "Mul on relvi."
   ],
   "translation": [
-    "weapon",
-    "gun",
-    "firearm"
+    "weapons",
+    "arms",
+    "firearms"
   ],
-  "context": "The word 'relvi' refers to a weapon, particularly a gun or firearm, and is commonly used in contexts where discussions about firearms, violence, or safety are involved."
+  "context": "The word 'relvi' is the partitive case of Estonian noun 'relv', which means 'weapon'. The partitive case indicates an object that is being possessed, requested, or exists in some quantity but not necessarily complete. In the examples: 'Relvi palun!' (Weapons please!), 'Kus on relvi?' (Where are the weapons?), and 'Mul on relvi.' (I have weapons)."
 }

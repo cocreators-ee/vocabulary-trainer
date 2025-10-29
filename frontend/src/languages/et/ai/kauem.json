@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kauem kodust eemale viibinud.",
-    "Ta on kauem olnud haigekamberis.",
-    "Kauem pole võimalik seda teha."
+    "Ta ootis kauem.",
+    "Ma jooksin kauem kui teie.",
+    "Kauemalt vaadates see on hea idee."
   ],
   "translation": [
-    "further",
-    "longer"
+    "longer",
+    "for a longer time",
+    "more"
   ],
-  "context": "The word 'kauem' in Estonian is an adverb that means further or longer, it is commonly used to indicate a greater distance or duration."
+  "context": "The Estonian word 'kauem' is an adverb that means 'longer' or 'for a longer time'. It is the comparative form of 'kauge' (far/distant). When used alone, it can also imply 'more' in certain contexts. In the first sentence, 'Ta ootis kauem' means 'He/she waited longer'. The second sentence shows comparison: 'I ran longer than you did'. The third example uses 'kauemalt' (from kauem) to mean 'looking at it from a distance/further consideration'."
 }

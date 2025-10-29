@@ -1,13 +1,13 @@
 {
-  "confidence": 0.5,
   "understood": true,
   "sentences": [
-    "Ma vajan sind.",
-    "Vajad sa abi?",
-    "Tema kõige suurem vajadus on su sõbrapidamused."
+    "Me vajame abi.",
+    "Nad vajavad rohkem aega.",
+    "Ma ei tea, mida me vajame."
   ],
   "translation": [
-    "need"
+    "we need",
+    "they need"
   ],
-  "context": "The verb 'vajame' comes from the Estonian word for 'to need'. It is used in sentences expressing a requirement or desire for something, often indicating necessity."
+  "context": "The word 'vajame' is the 1st person plural (me) present indicative form of the verb 'vaja', meaning 'to need'. It specifically translates to 'we need' in English. The root form 'vaja' is often used as an adjective meaning 'necessary' or 'needed'."
 }

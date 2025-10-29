@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me elame Tallinnas.",
-    "Nad elavad Tartus.",
-    "Ta elab üksi."
+    "Elame koos heas õhus.",
+    "Kuidas teil elame?",
+    "Meie pere elab suures majas."
   ],
   "translation": [
-    "we live",
-    "live"
+    "live",
+    "reside",
+    "dwell"
   ],
-  "context": "The word 'elame' is the first person plural form of the verb 'elama', which means to live or reside in a place. It is commonly used in sentences to describe where someone lives or resides."
+  "context": "\"Elame\" is the 1st person plural present tense form of the Estonian verb \"elama\", which means \"to live\" or \"to reside\". It translates to \"we live\" in English and indicates that multiple people are currently living somewhere or experiencing life together."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta valge auto on minu omadus",
-    "Valged linnud lendasid taeva all",
-    "Valge võidab musta"
+    "Maja on valge.",
+    "Lapsed mängivad valges pargis.",
+    "Ta kannab valget kleiti."
   ],
   "translation": [
     "white",
-    "fair"
+    "pale"
   ],
-  "context": "The word valge is an adjective in Estonian that means white or fair, and it is commonly used to describe objects, people, or ideas that have a white color or a sense of justice and morality."
+  "context": "The Estonian word 'valge' is an adjective that means 'white' in English. It's used to describe something as being white in color, whether it's objects like houses or buildings ('maja on valge'), locations like parks ('valges pargis'), or items of clothing like dresses ('valget kleiti'). The word can appear in different forms depending on the grammatical case - here we see nominative singular 'valge', partitive singular 'valges' and accusative singular 'valget'. It's a basic color term that would be one of the first adjectives learned when studying Estonian."
 }

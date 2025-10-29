@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on väga tähtis.",
-    "Tema roll filmis oli suurepärane ja väga tähtsate ülesannete tegemisel.",
-    "Ära unustada tähtsa teabe kinnitamine enne esitamist."
+    "See on tähtis küsimus.",
+    "Tähtis asi tuleb teha õigeaegselt.",
+    "Meil oli tähtis kohtumine juhtidega."
   ],
   "translation": [
-    "important"
+    "important",
+    "significant",
+    "crucial"
   ],
-  "context": "'tähtis' means 'important.' It is used to describe something that has significant importance or relevance in a given context. Commonly used when discussing matters of significance, urgency, or value."
+  "context": "The Estonian word 'tähtis' is an adjective that means important, significant, or crucial. It describes something that has great importance or value and should be given special attention. The word can be used in various contexts to emphasize the significance of people, events, things, or decisions."
 }

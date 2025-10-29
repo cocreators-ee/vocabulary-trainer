@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Vanad lapsed mõtlevad erinevalt tekkijatega.",
-    "Minu vanad kallid ei tea midagi nende vastu tänaää",
-    "Need vanad m�änglid on juba nii pikk aeg olnud seal."
+    "Vanad mehed istusid pargis.",
+    "Lapsed mängisid vanas majas.",
+    "Need on vanad raamatud."
   ],
   "translation": [
     "old",
+    "elderly",
     "aged"
   ],
-  "context": "The word 'vanad' is the plural form of 'vana,' meaning old in Estonian. It commonly describes something or someone that has been around for a long time, typically used to describe people's age, but also objects and situations."
+  "context": "The word 'vanad' is the plural form of 'vana', which means old or elderly. It's commonly used to describe people, objects, or places that are aged or from a previous time period. In Estonian, adjectives like 'vana' change their endings based on the number (singular/plural) and case of the noun they modify."
 }

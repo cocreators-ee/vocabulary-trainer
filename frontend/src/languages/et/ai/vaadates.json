@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vaatan seda filmi vaadates.",
-    "Ta on hea filmi vaadates.",
-    "Mulle meeldib see film vaadates."
+    "Vaadades aknast nägin linna.",
+    "Vaadades tagasi, mõtles ta oma lapsepõlvemälestustel.",
+    "Kui vaadates seda probleemi erinevast nurgast, saab lahenduse."
   ],
   "translation": [
+    "looking",
     "watching",
-    "looking at"
+    "observing"
   ],
-  "context": "The word 'vaadates' is an Estonian verb that means watching or looking at something, and it is commonly used in sentences to describe the act of observing or paying attention to something."
+  "context": "The word 'vaadates' is the Estonian present participle form of the verb 'vaatama', which means 'to look' or 'to watch'. It functions as an adverbial participle indicating simultaneous action with the main verb. The '-des' ending is typical for active voice present participles in Estonian, and it's used to express that one action is happening while another action takes place."
 }

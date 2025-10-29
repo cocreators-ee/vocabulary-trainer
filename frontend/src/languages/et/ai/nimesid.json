@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta nimesid oma poja Juhaniks.",
-    "Nimed on olulised, sest need määravad identiteedi.",
-    "Palun kirjutage kõik nimed loendisse."
+    "Ta nimesid kõik õpilased üles.",
+    "Kas te teate nimesid?",
+    "Nimesid on meie loendis."
   ],
   "translation": [
     "names",
-    "naming",
-    "titling"
+    "naming"
   ],
-  "context": "The word 'nimed' in Estonian refers to names – labels used to identify people, places, or things. It can also refer to the act of naming something."
+  "context": "The Estonian word 'nimesid' is the partitive case of the word 'nimi', which means 'name'. In Estonian grammar, the partitive case is used to indicate an incomplete or partial object. The word 'nimesid' specifically refers to multiple names in their basic form without any additional grammatical markings for possession or other relationships. It's often used when listing names or referring to a collection of names."
 }

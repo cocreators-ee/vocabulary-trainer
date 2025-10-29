@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on võitnud ühe miljoni euro",
-    "Miljon inimest osaleb festivalil",
-    "Tema varandus on mitme miljoni väärtuses"
+    "Ta on miljonär.",
+    "Miljon eurot on suur raha.",
+    "Meie firmal on miljoneid kliente."
   ],
   "translation": [
-    "million"
+    "million",
+    "millions"
   ],
-  "context": "The word 'miljon' refers to a large number, specifically one million, and is used in various contexts such as finance, population, or quantity."
+  "context": "The Estonian word 'miljon' means million in English. It is a noun that refers to the number 1,000,000 or quantities of that size. In Estonian, like many languages, the word can be used in different forms depending on grammatical context - singular form 'miljon' for one million, and plural form 'miljoneid' for multiple millions."
 }

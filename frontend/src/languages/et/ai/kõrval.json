@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elab kõrval",
-    "Kõrval on üks maja",
-    "Ta istub mind kõrval"
+    "Töökoht asub kooli kõrval.",
+    "Pood on postkasti kõrvas vasakul pool.",
+    "Ta elab linna kõrval."
   ],
   "translation": [
-    "next to",
     "beside",
-    "alongside"
+    "next to",
+    "alongside",
+    "by the side of"
   ],
-  "context": "The word kõrval is used in Estonian to describe something that is located next to or beside something else, often indicating proximity or adjacency."
+  "context": "The Estonian word 'kõrval' is an adverb and preposition that indicates location or position beside something or next to something. It can be used to describe physical proximity, such as when one object is located adjacent to another. For example, if a building is 'kooli kõrval', it means the building is beside the school. The word doesn't change form in different cases and maintains its meaning regardless of gender or number."
 }

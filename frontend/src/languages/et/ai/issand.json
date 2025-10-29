@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on meie issand",
-    "Issand aitab neid",
-    "Meie issand on hea"
+    "Issand, palun aita mind.",
+    "Tema on hea issand.",
+    "Issandad on alati õigel."
   ],
   "translation": [
-    "lord",
-    "god",
-    "master"
+    "Lord",
+    "master",
+    "sir",
+    "gentleman"
   ],
-  "context": "The word 'issand' in Estonian is commonly used to refer to a higher power or a person of authority, similar to the English word 'lord'."
+  "context": "The Estonian word 'issand' is an archaic or formal term used to address a male person of high rank, authority, or social standing. It can be translated as 'lord,' 'master,' 'sir,' or 'gentleman.' The word carries connotations of respect and formality when addressing someone with power, nobility, or social distinction. In historical contexts, it was used for feudal lords or landowners."
 }

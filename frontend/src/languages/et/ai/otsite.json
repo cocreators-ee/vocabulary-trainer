@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma otsisin sind tunde!",
-    "Kas sa otsid midagi konkreetset?",
-    "Politsei otsib kurjategijat."
+    "Otsite mind?",
+    "Kuidas sa otsid?",
+    "Ma ei tea, mida ta otsib."
   ],
   "translation": [
-    "search",
-    "look for",
-    "seek"
+    "you are looking for",
+    "are you searching for",
+    "do you seek"
   ],
-  "context": "The word 'otsite' in Estonian is a verb that means to search, look for, or seek something. It’s commonly used when someone is trying to find an object, person, or information."
+  "context": "The word 'otsite' is the 2nd person plural present tense form of the Estonian verb 'otsima', which means 'to look for' or 'to search'. It specifically translates to 'you (plural) are looking for' and is used when addressing a group of people. The stem 'otsi-' combined with the ending '-te' indicates this specific grammatical form."
 }

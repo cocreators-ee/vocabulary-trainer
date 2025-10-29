@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on juustu",
-    "Juustul on hea maitse",
-    "Ta armastab juustut"
+    "Ma ostsin juustu turult.",
+    "Kas teil on juustu?",
+    "Juustu on hea leivaga."
   ],
   "translation": [
     "cheese"
   ],
-  "context": "The word 'juustu' in Estonian refers to cheese, a common food item often used in various dishes and eaten on its own."
+  "context": "The word 'juustu' is the partitive case form of 'juust', which means cheese in Estonian. The partitive case is used when talking about an unspecified amount or portion of something, making it the most common way to refer to cheese as a general food item."
 }

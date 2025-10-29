@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Küsige tema sõbralt",
-    "Ma küsin seda küsimust",
-    "Ta küsib alati sama asja"
+    "Küsige palun meilt abi.",
+    "Kuidas küsida head nõu?",
+    "Palun küsige ülemuselt luba."
   ],
   "translation": [
     "ask",
-    "inquire",
-    "question"
+    "request",
+    "inquire"
   ],
-  "context": "The word 'küsige' is a verb in Estonian that means to ask or inquire about something, and it is commonly used in formal and informal settings to request information or clarification on a particular topic."
+  "context": "The Estonian word 'küsige' is the plural imperative form of the verb 'küsidama', meaning to ask or request. It is used when addressing multiple people directly, telling them to ask something. The '-ge' ending indicates it's a plural command form. This would be used in formal instructions when speaking to a group, such as 'Please ask for help from us' or asking a group to inquire about permission."
 }

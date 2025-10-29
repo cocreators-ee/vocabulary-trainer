@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Opas on hyvin tarpeellinen retkeilijalle.",
-    "Hän on opas meidän ryhmälle.",
-    "Opasta ei voi korvata mikään tekniikka."
+    "Opas opastaa turistia kaupungissa.",
+    "Hyvä opas tietää paljon paikallisesta kulttuurista.",
+    "Matkaoppaat ovat hyödyllisiä uusilla alueilla."
   ],
   "translation": [
     "guide",
-    "guidebook"
+    "manual",
+    "handbook"
   ],
-  "context": "The word 'opas' in Finnish refers to a guide or a guidebook, and it is commonly used to describe someone or something that provides direction or instruction."
+  "context": "\"Opas\" is a Finnish noun that means \"guide\" or \"manual.\" It can refer to a person who shows tourists around and provides information (a tour guide), or it can be a book or document that gives instructions or information on how to do something or navigate somewhere. The word comes from the verb \"opastaa\" which means \"to guide\" or \"to instruct.\" When used as a person, an opas is knowledgeable about the area and helps visitors understand local culture, history, and attractions."
 }

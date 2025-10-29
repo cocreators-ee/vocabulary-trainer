@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vuori on korkea.",
-    "Hän nousi vuorelle.",
-    "Tämä tie johtaa vuoren juurelle."
+    "Se on korkea vuori.",
+    "Vuoret näkyvät kauas.",
+    "Kiipesimme vuoreen."
   ],
   "translation": [
-    "mountain"
+    "mountain",
+    "hill",
+    "peak"
   ],
-  "context": "The word 'vuori' is commonly used in Finnish to refer to a natural elevation of the earth's surface, typically steeper and taller than a hill."
+  "context": "The Finnish word 'vuori' means mountain or hill in English. It is a common noun used to refer to elevated landforms that rise above the surrounding terrain. The word can be found in different grammatical forms depending on context - it may appear in nominative, partitive, genitive, or other cases depending on its role in the sentence."
 }

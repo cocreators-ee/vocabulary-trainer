@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen võetud sellest tööst",
-    "Ta on võetud teise mehe poolt",
-    "See on võetud minu arvamuseks"
+    "Ta on võetud tööle.",
+    "Lapsed on võetud kooli.",
+    "Võetud toit peaks olema värskem."
   ],
   "translation": [
     "taken",
-    "adopted",
-    "captured"
+    "captured",
+    "occupied"
   ],
-  "context": "The word 'võetud' is a verb form in Estonian, commonly used to describe something or someone being taken or adopted, and it can be used in different contexts such as taking a job, adopting a child, or capturing an idea."
+  "context": "The Estonian word 'võetud' is the past participle form of the verb 'võtma', which means 'to take'. As a past participle, it functions as an adjective meaning 'taken', 'captured', or 'occupied'. It indicates that something has been taken by someone or occupied. The word changes based on gender and number when used with nouns."
 }

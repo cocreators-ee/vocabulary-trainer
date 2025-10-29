@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kirjanik kirjutas romaanis.",
-    "Ta on tuntud eesti kirjanik.",
-    "Kirjaniku elu oli väga keeruline."
+    "Kirjanik kirjutas uue romaani.",
+    "Tema on kuulus eesti kirjanik.",
+    "Kes see meie armsa kirjanik?"
   ],
   "translation": [
     "writer",
     "author"
   ],
-  "context": "The word 'kirjanik' refers to a person who writes books, articles, or other written content, and is commonly used in Estonian to describe someone's profession or hobby."
+  "context": "The word 'kirjanik' is an Estonian noun that means 'writer' or 'author'. It refers to a person who writes books, novels, stories, or other literary works. In Estonian grammar, it follows the typical noun patterns with cases - for example, in the nominative case as shown here, it would be 'kirjanik', but in the genitive case it would become 'kirjaniku'. It's a common profession term in Estonian literature and culture."
 }

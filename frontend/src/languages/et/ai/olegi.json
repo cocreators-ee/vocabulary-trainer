@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ole see kodus.",
-    "Kas on sulgi kodus?",
-    "Sul ei ole midagi."
+    "Ma ei tea veel, kuidas see töötab, aga olegi küllaltki huvitatud sellest.",
+    "Tuleb näha, kas ta jõuab kohale, aga olegi kindel, et ta tuleb.",
+    "Pole veel selge, mis juhtub, kuidas olegi valmis igaks võimalikuks stsenaariumiks."
   ],
   "translation": [
-    "there is/are",
-    "here is/are"
+    "still",
+    "nevertheless",
+    "however",
+    "after all"
   ],
-  "context": "'olegi' functions as a phrase to confirm the existence or presence of something/someone, both in present and past tenses depending on context."
+  "context": "The Estonian word 'olegi' is an adverb that indicates continuance, emphasis, or a contrast to previous statements. It's often used to convey the meaning of 'still', 'nevertheless', or 'after all'. It typically appears in sentences where there's an ongoing state or situation that continues despite other factors, or when adding emphasis to something that remains true."
 }

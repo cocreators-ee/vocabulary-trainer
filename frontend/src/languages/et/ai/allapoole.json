@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta läks allapoole",
-    "Allapoole viib võidutee",
-    "Maja asus järve allapoole"
+    "Tule allapoole",
+    "Järgne mulle allapoole",
+    "Kõik asjad on allapoole"
   ],
   "translation": [
     "downwards",
     "below",
-    "downhill"
+    "towards the bottom"
   ],
-  "context": "The word allapoole is used in Estonian to describe something that is located below or downhill from something else, and it can also be used to indicate direction or movement downwards."
+  "context": "The Estonian word 'allapoole' is an adverb that means downwards or towards the bottom. It indicates movement in a downward direction or position below something else. The word combines 'alla-' (meaning down) and '-poole' (meaning direction/towards), so it literally points to movement toward a lower position."
 }

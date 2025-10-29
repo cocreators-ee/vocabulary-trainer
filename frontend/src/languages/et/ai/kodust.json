@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kodust tulnud.",
-    "Ta on kodust läinud.",
-    "Kodust on ilus vaade."
+    "Ta tuli kodust kella kaheksa öösel.",
+    "Lapsed ei olnud veel kodust lahkunud.",
+    "Meie loomad jõudsid kodu poole hommikul."
   ],
   "translation": [
     "from home",
-    "homeward"
+    "out of the house",
+    "away from home"
   ],
-  "context": "The word 'kodust' in Estonian means 'from home' or 'homeward', indicating movement away from one's home."
+  "context": "The Estonian word 'kodust' is an elative case form of 'kodu' (home/house). It indicates movement away from or origin from a location. Specifically, it means 'from home' and shows that someone or something has come out of their dwelling place or moved away from where they live. This case form is commonly used when describing departure from home or specifying the origin point as being one's home."
 }

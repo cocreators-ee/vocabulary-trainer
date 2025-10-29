@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tegemist tema sugulasega.",
-    "Tegemist on hea võimalusega.",
-    "Ta on tegemist selle firmaga koostööd teinud."
+    "Tegemist on ilusa päevaga.",
+    "Mis teie tegemist?",
+    "Tegemist oli hea kontserdiga."
   ],
   "translation": [
-    "dealings",
-    "transaction",
-    "business"
+    "with regard to",
+    "concerning",
+    "the matter is"
   ],
-  "context": "The word 'tegemist' in Estonian generally refers to dealings, transactions, or business interactions, and is commonly used in contexts involving professional or commercial relationships."
+  "context": "The Estonian word 'tegemist' is a noun that means 'matter', 'affair', or 'business'. It's often used in phrases like 'mis on tegemist?' (what's the matter?) and 'tegelt on tegemist' (actually, it concerns). This word typically appears with the partitive case ending '-t' and is commonly used at the beginning of sentences to introduce a topic or when asking about something specific."
 }

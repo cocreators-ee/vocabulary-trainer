@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä raha kuuluu meille.",
-    "He sanovat, että voit voittaa palkinnon meille.",
-    "Meille on tärkeää, että olet iloinen."
+    "Meille tuli vieraita.",
+    "Tämä lahja on meille.",
+    "He tulivat meille käymään."
   ],
   "translation": [
-    "for us",
     "to us",
-    "our"
+    "for us"
   ],
-  "context": "'meille' is a Finnish pronoun used to indicate something belonging to or directed towards 'us'. It can function as a dative case form of 'me', meaning 'for us' or 'to us', and also as a genitive case form, meaning 'our'. Commonly used in both spoken and written language."
+  "context": "The Finnish word 'meille' is the allative case of the personal pronoun 'me', meaning 'us'. It indicates movement toward or direction to us, and can be translated as 'to us' or 'for us' in English. In Finnish grammar, this form shows destination or recipient when something is going towards or for the speaker's group (including the speaker)."
 }

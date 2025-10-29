@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tegelane on oluline osa filmis.",
-    "Tegelased mängivad teatris.",
-    "Tegelase areng on näitekirjanduse põhielement."
+    "Tegelane on kõige olulisem tegelane selles filmis.",
+    "See raamat räägib kolme peategelase elust.",
+    "Kes on sinu lemmiktegelane?"
   ],
   "translation": [
     "character",
     "personage",
-    "protagonist"
+    "protagonist",
+    "figure"
   ],
-  "context": "The word tegelane refers to a character in a story, play, or movie, and is commonly used in Estonian to describe the roles played by actors or the development of personalities in literature."
+  "context": "In Estonian, 'tegelane' refers to a character in a story, play, movie, or other narrative work. It can be the main protagonist, supporting characters, or any person who appears in the fictional world and has some role in the plot. The word comes from the verb 'tulema' (to come/do) with the '-ane' suffix indicating an agent or doer - essentially someone who 'does' things in the narrative."
 }

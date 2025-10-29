@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kuula, mida ma ütlen!",
-    "Ma ei kuula sind, kui sa peatusid rääkimast.",
-    "Tema suurim probleem oli see, et ta lihtsalt ei osanud kuulata."
+    "Kuulake hästi seda kõnet.",
+    "Palun kuulake mind.",
+    "Meie peaksime alati kuulama oma vanemaid."
   ],
   "translation": [
     "listen",
-    "hear"
+    "hear",
+    "pay attention"
   ],
-  "context": "'Kuulake' is primarily used as a command to 'listen'. It can also mean 'to hear' in the sense of perceiving sound. The base form is 'kuula', and it's commonly used in everyday communication when someone wants another person to pay attention."
+  "context": "The word 'kuulake' is the plural imperative form of the verb 'kuulama' in Estonian. It means 'listen!' or 'hear!' when addressed to multiple people. This form is used when giving a command or request to more than one person, similar to 'Listen!' or 'Please listen' in English but specifically for addressing a group."
 }

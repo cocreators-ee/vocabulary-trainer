@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Politsei täitis käsu koheselt.",
-    "Talle anti käsk lahkuda.",
-    "See oli otsene käsu ülemuselt."
+    "Antud käsu kohaselt peaksid tööd lõpetama.",
+    "Käsu täitmine on kohustuslik.",
+    "Vastavalt sellele käsule tuleb muuta protseduure."
   ],
   "translation": [
-    "order",
     "command",
+    "order",
     "instruction"
   ],
-  "context": "The Estonian word 'käsu' translates to 'order', 'command', or 'instruction' in English. It is commonly used to refer to an authoritative direction or a formal instruction given by someone in power."
+  "context": "The Estonian word 'käsu' is the genitive singular form of 'käsk', which means command, order, or instruction. It indicates possession or relationship with a command - meaning 'of the command' or 'regarding the command'. In legal contexts it can refer to an official directive that must be followed."
 }

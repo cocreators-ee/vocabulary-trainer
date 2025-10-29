@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta saadab mind lennujaama.",
-    "Saadab mu sõbrale kingituse.",
-    "Firma saadab tooteid üle maailma."
+    "Ei saada homme kella kaheksa.",
+    "Kas Sa saadad mind koju?",
+    "Meie töötaja saadab teie tellimuse täna."
   ],
   "translation": [
     "sends",
-    "is sending"
+    "is sending",
+    "will send"
   ],
-  "context": "The word 'saadab' is a verb in Estonian that means to send something or someone to a place, and it is commonly used in everyday conversations when talking about delivering or transferring items."
+  "context": "The word 'saadab' is the third person singular present tense form of the Estonian verb 'saada', which means 'to send'. It indicates that someone or something sends, sends now, or will send. This form is used when referring to a single subject (he/she/it) in the present tense."
 }

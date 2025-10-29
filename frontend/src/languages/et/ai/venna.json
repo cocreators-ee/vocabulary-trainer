@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen vennaga koos käinud.",
-    "Vennal on üks vend ja kaks õde.",
-    "Ta on mu venna sõber."
+    "Minu venna nimi on Mart.",
+    "Ta on vanem vend naisvendest.",
+    "Ma olen hea suhtes oma vennaga."
   ],
   "translation": [
     "brother"
   ],
-  "context": "The word 'venna' in Estonian refers to a male sibling, and it is commonly used in family contexts to address or refer to one's brother."
+  "context": "The Estonian word 'venna' is the genitive case form of 'vend', which means 'brother'. In Estonian grammar, the genitive case typically indicates possession or relationship. So 'venna' would be used when saying 'of brother' or 'my brother's'. For example, in the sentence 'Minu venna nimi on Mart' (My brother's name is Mart), 'venna' shows possession of the name."
 }

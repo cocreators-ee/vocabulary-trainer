@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen mingi asi",
-    "Mingi inimene tuleb homme",
-    "Mingit sorti asju on müügil"
+    "Mingisugune asi on see, et me peame otsustama.",
+    "Ta ütles mingit asja, mis mulle ei meeldinud.",
+    "Kas sa tead mingit head restorani siin lähedal?"
   ],
   "translation": [
     "some",
-    "certain",
+    "a certain",
     "any"
   ],
-  "context": "The word 'mingi' is commonly used in Estonian to express a sense of uncertainty or indefiniteness, similar to the English words 'some', 'certain', or 'any'."
+  "context": "The Estonian word 'mingi' is an indefinite pronoun that means 'some', 'a certain', or 'any'. It's used to refer to something unspecified or unknown. For example, in the first sentence it refers to some unspecified type of matter; in the second sentence to some particular thing said by someone; and in the third question to any good restaurant. This word is commonly used when speaking about something whose specific nature isn't important to identify at that moment."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Loomad elavad looduslikus keskkonnas.",
-    "Mõned inimesed hoiavad kodus lemmikloomi.",
-    "Zooloogia uurib loomade elu ja käitumist."
+    "Loomad on maa planeedi eluslooduse osa.",
+    "Väikesed loomad näevad välja armas.",
+    "Metsas elab palju erinevaid loomi."
   ],
   "translation": [
-    "animals"
+    "animals",
+    "beasts",
+    "creatures"
   ],
-  "context": "The word 'loomad' refers to living organisms that are not human, including mammals, birds, fish, and insects, and is commonly used in Estonian to describe the animal kingdom."
+  "context": "The Estonian word 'loomad' is the plural form of 'loom', meaning 'animal'. It refers to living creatures other than humans, typically animals with backbones (vertebrates). The word encompasses domesticated and wild animals alike. In Estonian grammar, '-d' at the end indicates plurality, so 'loomad' specifically means multiple animals or animals in general."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun on annettu numero 5.",
-    "Hänellä on useita numeroita puhelimessaan.",
-    "Tämä on numero yksi parhaimpia ravintoloita kaupungissa."
+    "Minun numero on 555-1234.",
+    "Annan sinulle numeroni.",
+    "Onko tämä oikea numero?"
   ],
   "translation": [
-    "number"
+    "number",
+    "digit",
+    "figure"
   ],
-  "context": "The word 'numero' in Finnish refers to a number, which can be used in various contexts such as counting, identification, or ranking."
+  "context": "The Finnish word 'numero' means 'number' in English. It is used to refer to numerical values, digits, or figures. In everyday language, it's commonly used for phone numbers (puhelinnumero), house numbers (katunumero), and other numerical identifiers."
 }

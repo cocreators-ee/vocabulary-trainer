@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõidan kiiremini kui teie",
-    "Ta ei saa kiiremini joosta",
-    "Me peame liikuma kiiremini"
+    "Kiiremin palun!",
+    "Ta jooksis kiiremini kui teised.",
+    "Auto sõidab kiiremini kui jalgratas."
   ],
   "translation": [
     "faster",
-    "more quickly"
+    "more quickly",
+    "sooner"
   ],
-  "context": "The word kiiremini is an adverb in Estonian that means to do something faster or more quickly, often used to compare the speed of two or more things."
+  "context": "The word 'kiiremini' is an Estonian adverb meaning 'faster' or 'more quickly'. It's the comparative form of the adverb 'kiiresti' (quickly). In Estonian, '-ni' is added to adjectives and adverbs to create the comparative form. The word can be used when comparing speeds of movement or actions - it indicates that something is done at a greater speed than something else."
 }

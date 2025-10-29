@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma teatan sulle, et see on hea mõte.",
-    "Ta teatas mulle, et ta on valmis.",
-    "Nende teatamine kohtumisest oli väga oluline."
+    "Tegelikku teavet tuleb teatada kohe.",
+    "Me peame sellest teatama kõigile töötajatele.",
+    "Kas sa oled veel oma valikust teatanud?"
   ],
   "translation": [
+    "to report",
     "to announce",
-    "to declare",
-    "to notify"
+    "to inform",
+    "to declare"
   ],
-  "context": "The word 'teatada' in Estonian means to inform or announce something to someone, often in a formal or official manner."
+  "context": "The Estonian word 'teatada' is a verb that means to report, announce, inform, or declare something. It's commonly used in contexts where information needs to be communicated officially or to a wider audience. The verb can take different forms depending on the tense and subject - for example, 'teatan' (I report), 'teadame' (we report), and 'teatati' (it was reported)."
 }

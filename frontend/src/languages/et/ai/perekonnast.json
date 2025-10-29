@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on pärit hea perekonnast",
-    "Perekonnast tulenevad harjumused on raske muuta",
-    "Meie perekonnast on kaks arsti"
+    "Tema on pärit hea perekonnast.",
+    "Lapsed tulevad headest peredatest.",
+    "See perekond tuleb rikas perekonnast."
   ],
   "translation": [
-    "from the family",
-    "of the family"
+    "from a family",
+    "of good family",
+    "from wealthy families"
   ],
-  "context": "The word 'perekonnast' is used in Estonian to indicate something that comes from or relates to a family, often used to describe someone's background or origins."
+  "context": "The word 'perekonnast' is the elative case form of 'pere' (family) in Estonian, indicating origin or source from a family. It translates to 'from a family' and shows where someone comes from in terms of their family background."
 }

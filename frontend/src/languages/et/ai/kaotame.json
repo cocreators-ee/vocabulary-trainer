@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me kaotame selle mängu",
-    "Nad kaotavad kiiresti oma tõhusid",
-    "Ta kaotas kõik oma raha"
+    "Me kaotame mängu.",
+    "Teadused kaotavad oma staatust.",
+    "Nad ei tea, et nad kaotavad võimaluse."
   ],
   "translation": [
-    "we lose",
-    "to lose"
+    "lose",
+    "are losing",
+    "will lose"
   ],
-  "context": "The word 'kaotame' is the first person plural form of the verb 'kaotama', which means to lose something or someone, and it is commonly used in Estonian language to express the idea of losing or being defeated."
+  "context": "The word 'kaotame' is the first person plural present tense form of the Estonian verb 'kaotama', which means 'to lose'. It is used when a group including the speaker is currently in the process of losing something or will definitely lose it in the near future. The '-me' ending indicates that this is the 'we' form and the present tense is implied by the base form without additional suffixes."
 }

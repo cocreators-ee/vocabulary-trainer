@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän puhui minulle",
-    "He puhuivat keskenään",
-    "Puhuin hänen kanssaan"
+    "Mies puhui hiljaa.",
+    "Hän puhui sujuvasti englantia.",
+    "He puhuivat pitkään puhelimitse."
   ],
   "translation": [
     "spoke",
     "talked",
-    "said"
+    "was talking"
   ],
-  "context": "The word 'puhui' is the past tense of the Finnish verb 'puhua', which means to speak or talk. It is commonly used in sentences to describe someone speaking or conversing with others."
+  "context": "The Finnish word 'puhui' is the past tense singular form of the verb 'puhua', which means to speak or talk. It indicates that someone performed the action of speaking in the past. This is a common Finnish verb used for verbal communication, and its conjugation shows it was used with a third person subject (he/she/it)."
 }

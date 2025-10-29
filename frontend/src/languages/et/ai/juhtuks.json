@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Politsei uurib juhtuksit.",
-    "See oli lihtsalt õnnetu juhtuks.",
-    "Juhtuks muutis kõik."
+    "Kui juhtuks mingi probleem, siis võime helistada toe poole.",
+    "Ma ei tea, mis juhtuks kõik hästi läheb.",
+    "Eeldame, et midagi head juhtuks."
   ],
   "translation": [
-    "incident",
-    "case",
-    "event",
-    "accident"
+    "if something happens",
+    "in case something occurs",
+    "should anything happen"
   ],
-  "context": "The Estonian word 'juhtuks' refers to an incident, case, or event. It is commonly used to describe something that happens, often unexpectedly or requiring investigation. It can also refer to a specific instance of something occurring."
+  "context": "The word 'juhtuks' is the conditional form of the verb 'juhtuma', which means 'to happen' or 'to occur'. It's used in hypothetical situations, expressing what would or might happen under certain conditions. The '-ks' ending indicates this is a conditional form, similar to 'would happen' in English. It's commonly used in sentences starting with 'kui' (if) or introducing hypothetical scenarios."
 }

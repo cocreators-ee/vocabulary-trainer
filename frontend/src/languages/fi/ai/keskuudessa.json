@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Oli hyvin hiljaa keskuudessa.",
-    "Hän odotti paikallaan keskuudessa.",
-    "Keskuudessa oli kova ääni."
+    "Hän asuu Helsingin keskustakeskuudessa.",
+    "Tapahtuma järjestetään kaupungikeskuudessa.",
+    "Keskellä keskuudessa on suuri puisto."
   ],
   "translation": [
-    "in the middle",
-    "at the center",
-    "in the core"
+    "amidst",
+    "among",
+    "in the middle of",
+    "within"
   ],
-  "context": "The word 'keskuudessa' refers to a central point or position, commonly used in both physical and metaphorical contexts such as being in the middle of something or at the heart of an issue."
+  "context": "The Finnish word 'keskuudessa' is an inessive form (locative case indicating location within something) derived from the root 'keskus' (center). It means 'amidst', 'among', or 'in the middle of'. The '-ssa' ending indicates location within, and this form is used to describe being situated at the center or middle of a place, group, or situation. It's similar in function to English prepositions like 'in the midst of' or 'among', but specifically emphasizes the central position."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Viimased uudised on omane vahel kaasa kõnealune teema.",
-    "Ta jättis viimased sõnad muljele, et teda pidades ei saa midagi täna öelda.",
-    "Kui nad laskusid koju, olid seejärel viimased inimesed, kellega nad suhtlesid."
+    "Ma olen viimased päeval tööl.",
+    "Kas sa nägid viimased meili?",
+    "Viimased kaks nädalat on olnud väga raskad."
   ],
   "translation": [
-    "latest",
     "last",
-    "final"
+    "final",
+    "latest",
+    "recent"
   ],
-  "context": "The word 'viimased' is used to describe something that comes at the end of a series or sequence. It can mean 'latest', as in the most recent updates; 'last', such as final words before an event; and 'final', referring to the concluding part of something."
+  "context": "The word 'viimased' is the plural form of the Estonian adjective 'viimane', which means 'last', 'final', or 'latest'. It's used to refer to something that comes at the end of a sequence or series, such as the last items in a list, the most recent events, or final occurrences. The word changes its ending based on the number and case it's used with."
 }

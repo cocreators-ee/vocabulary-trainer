@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen paremaks saanud.",
-    "Ta on paremaks läinud.",
-    "See ei ole paremaks muutunud."
+    "Tuleb aega nüüd paremaks teha.",
+    "See muutus paremaks pärast remonti.",
+    "Eks ta on juba paremaks saanud."
   ],
   "translation": [
     "better",
+    "for the better",
     "improved"
   ],
-  "context": "The word 'paremaks' is an adverb in Estonian that means 'better' or 'improved', often used to describe a change for the better or an improvement in something."
+  "context": "Paremaks is the illative case of 'parem', which means 'better'. In Estonian, the illative case typically indicates motion into or towards something. So 'paremaks' literally means 'into better' and is used to express change for the better or improvement in state. It can be translated as 'for the better' or indicate that something has become improved or gotten better."
 }

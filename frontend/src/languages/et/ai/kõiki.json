@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kõik on hästi.",
-    "Mina olen kõigi poole peale.",
-    "Tema meelsus käsib kõiki."
+    "Kõik mehed tuli kohale.",
+    "Kõik lapsed mängivad mängu.",
+    "Tema teab kõiki reegleid."
   ],
   "translation": [
     "all",
     "everyone",
     "everything"
   ],
-  "context": "The Estonian word 'kõiki' is a form of the pronoun 'kõik', which means 'all', and can be used to refer to everyone, everything or all in general. It often appears as an object in sentences."
+  "context": "The word 'kõiki' is the partitive case form of the Estonian pronoun 'kõik', which means 'all', 'everyone', or 'everything'. In Estonian, pronouns like this change their ending depending on their grammatical function. The partitive case (ending -i) is used when talking about a portion of something, but with words like 'kõik' it often appears in contexts where we refer to the entirety or totality of a group. This form commonly appears after prepositions and in certain verb constructions that require the partitive case."
 }

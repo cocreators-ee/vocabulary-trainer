@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen nägudeni poe.",
-    "Kas sa tead, kus on nägudeni?",
-    "Ta ostis palju asju nägudenist."
+    "Tuli nägudeni jõudis.",
+    "Jäi nägudeni lühike aeg.",
+    "Kogu töö tehti nägudeni."
   ],
   "translation": [
-    "until",
-    "till",
-    "up to"
+    "until evening",
+    "till dusk",
+    "by sunset"
   ],
-  "context": "The word 'nägudeni' in Estonian is an adverb meaning 'until', 'till', or 'up to'. It indicates a point in time or space that something continues to. It’s often used with verbs of motion or duration."
+  "context": "The word 'nägudeni' is an Estonian adverbial phrase meaning 'until evening' or 'till dusk'. It is formed from the noun 'nagu' (evening) with the ending '-d' indicating movement, and the suffix '-ni' meaning 'to' or 'until'. This construction indicates time duration extending up to the point of evening."
 }

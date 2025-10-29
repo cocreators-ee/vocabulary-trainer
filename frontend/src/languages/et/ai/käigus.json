@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on käigus.",
-    "Käigus olevad inimesed on sageli väsinud.",
-    "Käigu ajal peab olema ettevaatlik."
+    "Kõik läks käiguses korda.",
+    "Projekt on praegu käigus.",
+    "Meil on palju tööd käigus."
   ],
   "translation": [
-    "on the move",
-    "in motion"
+    "in progress",
+    "ongoing",
+    "under way"
   ],
-  "context": "The word käigus is an adjective in Estonian that means something or someone is moving or in motion, and it is commonly used to describe a state of being active or dynamic."
+  "context": "The Estonian word 'käigus' is an inessive case form of the noun 'käik', meaning it indicates location within something or state during a period. It translates to English phrases like 'in progress', 'ongoing', or 'under way'. This word is commonly used to describe activities, processes, or projects that are currently happening or being carried out."
 }

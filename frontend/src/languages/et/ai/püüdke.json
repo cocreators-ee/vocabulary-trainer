@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma püüdke seda teha",
-    "Ta püüdke mind aidata",
-    "Nad püüdke meid abistama"
+    "Püüdke mind kinni!",
+    "Püüdke ära saada.",
+    "Püüdke head aega."
   ],
   "translation": [
     "try to",
-    "attempt to"
+    "attempt to",
+    "make an effort"
   ],
-  "context": "The word 'püüdke' is the second person plural form of the verb 'püüdma', which means to try or attempt to do something in English."
+  "context": "Püüdke is the second person plural imperative form of the Estonian verb 'püüdma', which means 'to try' or 'to attempt'. It's used when giving instructions or commands to multiple people (you all) encouraging them to make an effort or attempt something. The -ke ending adds a nuance of politeness or softening the command, making it more of a suggestion than a strict order."
 }

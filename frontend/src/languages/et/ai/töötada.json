@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma töötan selle ettevõtte juures.",
-    "Ta on töötanud mitmesugustel ametitel.",
-    "Nad töötavad koos projekti kallal."
+    "Ma töötan ettevõttes.",
+    "Töötasin kogu päeva.",
+    "Ta ei tööta praegu."
   ],
   "translation": [
     "to work",
-    "to function"
+    "to labor",
+    "to be employed"
   ],
-  "context": "The word töötada is commonly used in Estonian to describe the act of working or functioning, and it can be used in various contexts such as employment, machinery, or activities."
+  "context": "The Estonian verb 'töötada' means to work or to be employed. It's an infinitive form of a regular -da ending verb. In the first sentence, it's used in present tense with 'ma' (I), showing regular conjugation. The second sentence shows past tense ('töötasin') indicating I worked all day. The third example uses negative form with 'ei tööta' meaning he/she doesn't work currently."
 }

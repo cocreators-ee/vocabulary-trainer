@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema isal oli suur võimu.",
-    "See seadus andis valdavalt võimu vandenõu alluvusele.",
-    "Võimu jagunemine on demokraatia alustala."
+    "Ta on võimul nüüd.",
+    "Poliitiline võimus on oluline riigis.",
+    "See ettevõte suurendab oma võimu turul."
   ],
   "translation": [
     "power",
-    "authority"
+    "authority",
+    "control",
+    "dominion"
   ],
-  "context": "The word 'võimu' refers to power or authority in Estonian. It is commonly used in political, legal, and social contexts to denote control, influence, or command over people or situations."
+  "context": "In Estonian, 'võimu' is the genitive singular form of the noun 'võim', which means power or authority. It typically indicates possession or relationship to something - like 'of power' or 'power's'. This form is commonly used in contexts where we talk about possessing power, being under someone's power, or describing something related to power."
 }

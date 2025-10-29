@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tõi endale kotti.",
-    "Kott on väga suur.",
-    "Ma ostan uue koti."
+    "Kannan kotti raha.",
+    "Tal on palju kotte poest ostetud.",
+    "Lapse kott jäi bussi."
   ],
   "translation": [
-    "bag"
+    "bag",
+    "sack"
   ],
-  "context": "A bag is a container made of flexible material, used for carrying things."
+  "context": "The Estonian word 'kott' means bag or sack. It refers to a container typically made of flexible material like cloth, plastic, or paper used for carrying items. The word can refer to various types of bags including shopping bags, backpacks, or sacks depending on context."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tulean koju õhtul.",
-    "Jäme kodusse minekut õhtul.",
-    "Pood on avatud ka õhtul."
+    "Tule homme õhtul meie juurde.",
+    "Kas sa tulid eile õhtul koosolekult?",
+    "Õhtul tuleb tihti ilus ilm."
   ],
   "translation": [
     "in the evening",
-    "evening"
+    "at nightfall"
   ],
-  "context": "'õhtul' is the inessive form of 'õhtu', which means 'evening'. It translates to 'in the evening' and is used to indicate time when an action happens during the evening hours. The word can also be used more generally to refer to the evening itself."
+  "context": "The word 'õhtul' is an Estonian adessive case form of the noun 'õhtu', meaning 'evening'. In this form, it functions as a temporal adverb indicating when something happens - specifically in the evening or at nightfall. The '-l' ending indicates the adessive case, which can be used to express time or location."
 }

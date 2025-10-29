@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma valetasin talle eile.",
-    "Ta on palju kordi valetanud.",
-    "Ära valetada mulle!"
+    "Ma olen valetanud sulle.",
+    "Ta on valetanud kogu aeg.",
+    "Meie oleme valetanud nii kaua."
   ],
   "translation": [
-    "lied",
-    "deceived",
-    "fabricated"
+    "have lied",
+    "have told lies",
+    "have been dishonest"
   ],
-  "context": "The word 'valetanud' is the past active participle of the verb 'valetama', meaning 'to lie'. It indicates that someone has lied or deceived. In English, it’s commonly used to describe a past action of dishonesty."
+  "context": "The word 'valetanud' is the past participle form of the Estonian verb 'valeta', which means 'to lie'. It indicates that lying has occurred in the past, and it's formed with the '-nud' suffix which is typical for Estonian past participles. This form would typically be used with auxiliary verbs like 'olema' (to be) to compound tenses such as 'have lied' or 'has lied'."
 }

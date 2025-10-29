@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hänellä on tuhatta euroa tallessa.",
-    "Tuhatta ihmistä osallistui mielenosoitukseen.",
-    "Olemme tehneet tuhannen euron kaupat."
+    "Tässä on tuhatta euroa.",
+    "Hän sai palkaksi tuhata euroa.",
+    "Minä ostin tuhatan euron arvosta tavaraa."
   ],
   "translation": [
-    "thousand"
+    "thousand",
+    "of one thousand",
+    "per thousand"
   ],
-  "context": "The word 'tuhatta' is a form of the Finnish word for 'thousand', commonly used in various contexts to denote a quantity of one thousand units, whether it be currency, people, or items."
+  "context": "The word 'tuhatta' is the partitive case form of the Finnish numeral 'tuhat' (thousand). It indicates an unspecified or partial amount of something, equivalent to saying 'thousand of' or 'a thousand units of' in English. This form is commonly used when referring to quantities that are not exact whole numbers or when talking about a portion of a larger group."
 }

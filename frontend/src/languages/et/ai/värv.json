@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea värvija",
-    "Värvide segamini võib tekkida uus värv",
-    "Kunstnik kasutas palju eri värve"
+    "See on ilus värv.",
+    "Laps segas värvid segajaga.",
+    "Müük lõpetati kõigi värvide pealt."
   ],
   "translation": [
     "color",
-    "paint",
-    "dye"
+    "paint"
   ],
-  "context": "The word \"värv\" in Estonian generally refers to a color or paint, and is commonly used when describing art or design."
+  "context": "In Estonian, 'värv' means color or paint. It's a common noun that can refer to the visual property of objects (color) or to pigments used for painting (paint). The word is in singular nominative form here."
 }

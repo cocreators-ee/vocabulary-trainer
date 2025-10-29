@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean seda lugu otsast lõpuni.",
-    "See on lõpp!",
-    "Lõpetame selle nüüd."
+    "Tema on endaga rahul.",
+    "Ta peab end ise aitama.",
+    "Meie tunneme end hästi."
   ],
   "translation": [
-    "end",
-    "finish",
-    "conclusion"
+    "oneself",
+    "himself herself itself themselves"
   ],
-  "context": "The Estonian word 'end' (lõpp) is used similarly to the English word 'end', indicating the final part of something, a conclusion, or to stop an action. It can also refer to a purpose or goal."
+  "context": "The Estonian word 'end' is a reflexive pronoun that means 'oneself'. It's used when the subject and object of a verb are the same person, similar to English reflexive pronouns like myself, yourself, himself, etc. In Estonian grammar, it declines according to case (nominative end, genitive enda, partitive endat), but the basic form 'end' is commonly used in everyday language."
 }

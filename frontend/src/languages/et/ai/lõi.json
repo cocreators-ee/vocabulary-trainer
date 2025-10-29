@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lõi uue ettevõtte.",
-    "See firma lõi palju töökohti.",
-    "Insener lõi võimsa algoritmi."
+    "Lõi kivi vastu seina.",
+    "Ta lõi uksesse.",
+    "Mees lõi naeratust."
   ],
   "translation": [
-    "created",
-    "founded",
-    "made"
+    "hit",
+    "strike",
+    "pound"
   ],
-  "context": "The word 'lõi' is the third person singular form of the Estonian verb 'loomama', which means to create or found something. It is commonly used in Estonian language to describe the act of creating, founding, or establishing an organization, company, or entity."
+  "context": "The Estonian word 'lõi' is the past tense singular form of the verb 'lööma', which means to hit, strike or pound. It describes the action of forcefully striking something with an object or part of the body."
 }

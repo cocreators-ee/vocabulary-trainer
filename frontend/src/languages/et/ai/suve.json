@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Suve on ilus aeg.",
-    "Talvel ei ole nii palav kui suvel.",
-    "Suvepäevad on pikad."
+    "Kevade järel tuleb suvi.",
+    "Suvel me käime tihti rannas.",
+    "See on ilus suvepäev."
   ],
   "translation": [
     "summer",
-    "of summer"
+    "summertime"
   ],
-  "context": "The word 'suve' in Estonian is the genitive form of the noun 'suvi', which means summer, and it is commonly used to indicate something related to or characteristic of summer."
+  "context": "The word 'suve' is the genitive singular form of the Estonian noun 'suvi', which means 'summer'. In this genitive case, it typically indicates possession or relationship to summer. For example, in phrases like 'ilus suvepäev' (beautiful summer day), the genitive form connects the adjective to the season. The nominative singular form would be 'suvi'."
 }

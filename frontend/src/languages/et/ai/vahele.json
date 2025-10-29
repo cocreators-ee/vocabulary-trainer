@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma panin raamatu lauale vahele.",
-    "Ta istus mind vahele.",
-    "Kaksik tuli vahele."
+    "Ta jooksis vahele.",
+    "Ma ei läinud vahele.",
+    "Kuidas sa said vahele?"
   ],
   "translation": [
-    "between",
-    "among"
+    "to miss",
+    "to skip",
+    "to be late for"
   ],
-  "context": "The word 'vahele' in Estonian means between or among, and is commonly used to describe something that is situated in the middle of two or more things."
+  "context": "The word 'vahele' in Estonian is the illative case form of the noun 'vahel', meaning 'between' or 'in between'. In this context, it functions as a verb-like expression meaning to miss something (like an event, class, or appointment), to skip something intentionally, or to be late for something. It's commonly used in colloquial Estonian."
 }

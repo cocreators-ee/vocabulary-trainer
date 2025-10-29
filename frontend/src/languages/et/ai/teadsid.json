@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma teadsin, et ta juba läks.",
-    "Ta teadas sind ootamas.",
-    "Ei, ma teadnud mitte midagi."
+    "Teadsid, mis kell on?",
+    "Me ei teanud seda vastust.",
+    "Nad teavad kõik selle kohta."
   ],
   "translation": [
-    "you knew"
+    "knew",
+    "know"
   ],
-  "context": "'Teadsid' is the second person singular past tense form of 'to know.' It's used when someone was aware or had knowledge about something in the past. The context usually involves realizing facts or information prior to a certain event."
+  "context": "The word 'teadsid' is the past tense (past definite) form of the Estonian verb 'tEDA', which means 'to know'. It specifically refers to knowing something in the past. In English, it corresponds to 'knew' or sometimes 'did you know?' depending on context."
 }

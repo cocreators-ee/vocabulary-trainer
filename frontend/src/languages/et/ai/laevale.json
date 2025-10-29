@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu ema on laevale kohal.",
-    "Päikeseloojanguks me kavandame laevale minemist.",
-    "Kas saate pakkuda laevale jõudmise meetodeid?"
+    "Laevale on vaja palju aega.",
+    "Miks sa lähed laevale?",
+    "Meie sõbrad lähevad laevale."
   ],
   "translation": [
-    "on board the ship",
-    "by sea / to travel by sea"
+    "to the ship",
+    "onto the boat",
+    "aboard"
   ],
-  "context": "'laevale' is used as a prepositional case indicating being on or traveling via a ship. It's commonly seen in phrases like 'minema laevale' (to go on/aboard a ship) and often follows certain verbs related to movement."
+  "context": "The word 'laevale' is an Estonian adessive case form of the word 'laev', which means 'ship' or 'boat'. In Estonian, the adessive case indicates location on something or movement toward/on something. So 'laevale' specifically means 'to/onto the ship/boat' and shows direction toward or onto a vessel."
 }

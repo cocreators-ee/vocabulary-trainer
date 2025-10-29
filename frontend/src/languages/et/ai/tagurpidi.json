@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta rääkis tagurpidi.",
-    "Ma ei saa aru, miks ta ütles seda tagurpidi.",
-    "Tagurpidi rääkimine on raske."
+    "Mina läksin tagurpidi mööda tänava.",
+    "Auto sõitis tagurpidi vastassuunas.",
+    "Lapsed jooksid tagurpidi pargis."
   ],
   "translation": [
     "backwards",
-    "in reverse",
-    "the wrong way"
+    "reverse",
+    "backward"
   ],
-  "context": "The word 'tagurpidi' is commonly used in Estonian to describe something that is done or said in the opposite or reverse order, often implying a sense of confusion or incorrectness."
+  "context": "The Estonian word 'tagurpidi' is an adverb that means backwards or in reverse. It indicates movement or direction opposite to the normal forward direction. This word is commonly used when describing someone moving backward, a vehicle going in reverse, or any situation where something is happening in the opposite order or direction from what's expected."
 }

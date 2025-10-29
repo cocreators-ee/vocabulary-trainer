@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks kohtusse.",
-    "Kohtus otsustati tema kasuks.",
-    "Nad said kohtu kaudu oma raha tagasi."
+    "Kohtusime vanas sõprusega.",
+    "Me kohtusime tänaval.",
+    "Tema ja mina kohtusime restoranis."
   ],
   "translation": [
-    "court",
-    "trial",
-    "lawsuit"
+    "met",
+    "ran into",
+    "bumped into"
   ],
-  "context": "The Estonian word 'kohtus' refers to a court of law, or the place where legal proceedings take place. It can also refer to the act of being in court or undergoing a trial."
+  "context": "The word 'kohtus' is the past tense, third person singular form of the Estonian verb 'kohuda', which means to meet or encounter someone. It indicates that a meeting or encounter happened in the past, with the subject being 'he/she/it'. In English, this translates to 'met' when referring to a single person's action in the past."
 }

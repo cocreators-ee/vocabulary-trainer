@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta peatus hetkeks mõtlema.",
-    "Politsei käskis tal peatuda.",
-    "Buss peatas järgmises linnas."
+    "Töö lõpetati stopp.",
+    "Auto peatus äkki stopp peale.",
+    "Me pidime tegema otsuse stopp."
   ],
   "translation": [
     "stop",
     "halt",
-    "pause"
+    "standstill"
   ],
-  "context": "The Estonian word 'stopp' is a direct cognate of the English word 'stop'. It’s used in similar contexts to indicate ceasing movement or action, or requesting someone else to do so. It can also be used as an interjection."
+  "context": "The Estonian word 'stopp' is a loanword from English meaning 'stop'. It's used in contexts where something comes to an abrupt halt or pause. The word can refer to the action of stopping, the state of being stopped, or even indicate a sudden stop in motion."
 }

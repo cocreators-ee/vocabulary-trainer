@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on valu ilusti.",
-    "Mul on pealetu valu.",
-    "Valu on tugev."
+    " valu on olemas",
+    " valu tekitab ebamugavust",
+    " valu võib olla nii füüsiline kui ka psühholoogiline"
   ],
   "translation": [
-    "pain"
+    "pain",
+    "ache",
+    "hurt",
+    "soreness"
   ],
-  "context": "The word 'valu' in Estonian means pain or ache, and it is commonly used to describe physical discomfort or suffering."
+  "context": "The Estonian word 'valu' means pain or ache. It refers to physical discomfort or suffering in the body, similar to how 'pain' is used in English. The word can be used for different types of bodily sensations that cause distress, such as headaches, muscle aches, or injuries."
 }

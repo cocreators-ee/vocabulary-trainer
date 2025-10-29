@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Talo on puutarhan laidalla",
-    "Hän meni puutarhaan poimimaan marjoja",
-    "Puutarhurit hoitavat kaupungin puutarhoja"
+    "Minulla on kaunis puutarha kotona.",
+    "Puutarhassa kasvaa kukkia ja pensaita.",
+    "Hän viettää paljon aikaa puutarhassansa."
   ],
   "translation": [
     "garden",
     "yard",
-    "park"
+    "backyard"
   ],
-  "context": "The word puutarha refers to a garden or yard, typically a planned space outdoors with plants and other features, and is commonly used in Finnish to describe such areas."
+  "context": "The word 'puutarha' is a Finnish noun meaning 'garden'. It refers to an area of land where flowers, vegetables, or other plants are grown. In Finnish grammar, 'puutarha' appears in the basic form (nominative case), but it can also appear in other cases like the partitive case as 'puutarhaa' or in the essive case as 'puutarhassa' meaning 'in the garden'. The word is commonly used to refer to both vegetable gardens and ornamental gardens around homes."
 }

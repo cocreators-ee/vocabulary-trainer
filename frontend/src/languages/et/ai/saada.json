@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma saadan sind koju",
-    "Saada mulle kirjas",
-    "Ta saatis mind lennujaama"
+    "Saada mind koju.",
+    "Tahan saada selle koha peale.",
+    "Kas te saate mulle aidata?"
   ],
   "translation": [
     "send",
-    "to send"
+    "allow",
+    "get",
+    "receive",
+    "let"
   ],
-  "context": "The word 'saada' in Estonian means to send something or someone to a place, and it is commonly used in various contexts such as sending a package, a letter, or accompanying someone."
+  "context": "The Estonian word 'saada' is a versatile verb that can have multiple meanings depending on context. It commonly means 'to send' or 'to allow', but it can also mean 'to get' or 'to receive'. In different conjugations, it appears in various forms: 'saadan' (I send), 'saadad' (you send), 'saab' (he/she/it sends), etc. The word is often used when expressing permission ('let me go'), sending something somewhere ('send the letter'), or receiving/getting something ('get a gift')."
 }

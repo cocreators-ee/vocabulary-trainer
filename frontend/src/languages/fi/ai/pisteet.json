@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Pisteet ovat tärkeitä kouluarvosanoissa.",
-    "Hän sai korkeat pisteet kokeesta.",
-    "Pistelasku oli vaikea tehtävä."
+    "Minulla on paljon pisteitä tällä kurssilla.",
+    "Opiskelija sai täydet pisteet kokeestaan.",
+    "Pisteet päivitetään joka viikko."
   ],
   "translation": [
     "points",
     "scores",
-    "grades"
+    "marks"
   ],
-  "context": "The word 'pisteet' in Finnish refers to points or scores, often used in the context of education to describe grades or marks received on a test or assignment."
+  "context": "The Finnish word 'pisteet' is the plural form of 'piste', which means a point or mark. It's commonly used in educational contexts to refer to scores, points, or grades that students earn on assignments and exams. The word can also be used more broadly to refer to dots, points on a map, or other small marks."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me kohtusime eile kinos.",
-    "Nad kohtusid möödunud nädalal.",
-    "Kohtume homme koolis."
+    "Me kohtusime täna hommikul.",
+    "Kohtusime uuesti pärast aastaid.",
+    "Kas te olete kunagi kohtunud temaga?"
   ],
   "translation": [
     "we met",
-    "met"
+    "we have met",
+    "we ran into each other"
   ],
-  "context": "The word 'kohtusime' is the first person plural past tense form of the Estonian verb 'kohtuma', which means to meet. It is commonly used in sentences to describe when and where people met, similar to how 'meet' or 'met' would be used in English."
+  "context": "The word 'kohtusime' is the past tense, first person plural (me/we) form of the Estonian verb 'kohtuma', which means to meet or encounter someone. The '-sime' ending indicates that it's the first person plural past tense. This form would be used when saying 'we met' in English."
 }

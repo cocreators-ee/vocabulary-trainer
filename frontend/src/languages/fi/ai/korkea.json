@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Talo on korkea ja valkoinen",
-    "Korkeat vuoret ovat haastava nousu",
-    "Korkean tason urheilu vaatii paljon harjoitusta"
+    "Tämä talo on korkeampi kuin se.",
+    "Minä haluan ostaa korkean lipun konserttiin.",
+    "Hän seisoi korkealla vuorella ja katseli maisemia."
   ],
   "translation": [
     "high",
-    "tall"
+    "tall",
+    "elevated"
   ],
-  "context": "The word 'korkea' in Finnish generally means something that has a great or considerable height, and it is commonly used to describe objects, buildings, or natural features like mountains."
+  "context": "The Finnish word 'korkea' is an adjective that means 'high', 'tall', or 'elevated'. It's used to describe the height of objects, buildings, mountains, and other things. Like in English, it has a comparative form 'korkeampi' (higher/taller) and can be used with different cases depending on context."
 }

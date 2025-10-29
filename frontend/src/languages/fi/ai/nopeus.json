@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Nopeus on tärkeää urheilussa",
-    "Hänellä on suuri nopeus ja notkeus",
-    "Auto sai suuren nopeuden"
+    "Auton nopeus on 100 km/h.",
+    "Hän kiihdytti lisäämällä nopeutta.",
+    "Mitä on auton huippunopeus?"
   ],
   "translation": [
     "speed",
     "velocity",
-    "swiftness"
+    "rate"
   ],
-  "context": "The word nopeus refers to the quality of being fast or able to move quickly, and it is commonly used in Finnish to describe something or someone that is able to achieve a high rate of movement or activity."
+  "context": "The Finnish word 'nopeus' means speed or velocity. It's a noun that typically refers to the rate at which something moves or happens. In physics contexts, it specifically denotes velocity. The word can be used in various contexts - from vehicle speeds to processing rates of computers."
 }

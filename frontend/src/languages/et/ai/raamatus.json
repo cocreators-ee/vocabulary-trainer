@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lugesin seda raamatus.",
-    "Raamatu pealkiri on „Kuuvalge öö“.",
-    "Ta kirjutas selle lugu ühele kataloogilehele raamatus."
+    "Raamatus on palju huvitavat lugemist.",
+    "Laps luges raamatus olevat juttu.",
+    "Meie kodus on vana raamatus."
   ],
   "translation": [
     "in the book",
-    "in books"
+    "from the book"
   ],
-  "context": "The word \"raamatus\" is a postposition meaning in or within something, often referring to being inside a book or other written material."
+  "context": "The Estonian word 'raamatus' is an inessive case form of the noun 'raamat', meaning 'book'. The '-s' ending indicates location within something, so it translates to English as 'in the book' or 'from the book' depending on context. This case is used when indicating that something is located inside a book or when referring to contents originating from a book."
 }

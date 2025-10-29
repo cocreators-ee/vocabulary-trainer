@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Lause koostuu useasta substantiivista.",
-    "Substantiiveja ovat esimerkiksi auto ja talo.",
-    "Substantiivien taivutus seuraa tiettyjä sääntöjä."
+    "Substantiivi on sanaluokka.",
+    "Suomen substantiiveilla voi olla erilaisia päätteitä.",
+    "Substantiivit voivat olla sekä yksikössä että monikossa."
   ],
   "translation": [
     "noun",
     "substantive"
   ],
-  "context": "A substantive or noun is a word that refers to a person, place, thing, or idea, and it is a fundamental part of sentence structure in the Finnish language."
+  "context": "In Finnish grammar, a 'substantiivi' is the term for noun. This word refers to words that name people, places, things, ideas, or concepts. Like in many languages, substantiivit (nouns) can be inflected for number (singular/plural), case, and gender. The word itself comes from Latin 'substantia' meaning substance/essence."
 }

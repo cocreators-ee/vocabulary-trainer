@@ -1,15 +1,17 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen näinud teda enne.",
-    "Ta on näinud seda filmi juba mitu korda.",
-    "Näinud võib olla hea või halb"
+    "Olen näinud seda filmi varem.",
+    "Ta on näinud paluusi kohti maailmas.",
+    "Meie kool oli näinud häid tulemusi.",
+    "Nägin seda juba eile.",
+    "Tema on näinud kõik need filmid."
   ],
   "translation": [
     "seen",
     "watched",
-    "observed"
+    "observed",
+    "looked at"
   ],
-  "context": "The word 'näinud' is the past participle of the Estonian verb 'nägema', which means to see or to watch. It is commonly used to describe something that has been observed or witnessed."
+  "context": "The word 'näinud' is the past tense, partitive form of the Estonian verb 'nägima', which means 'to see' or 'to watch'. In this case, it functions as the past participle and is typically used with the auxiliary verb 'olema' (to be) to form compound tenses. For example: 'Olen näinud seda filmi varem' means 'I have seen this movie before'. The word indicates that someone has witnessed or observed something in the past."
 }

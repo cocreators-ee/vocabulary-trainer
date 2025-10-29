@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta kutsus mind koju.",
-    "Ma kutsin teda uuele tööle.",
-    "Kurvid kutsid mind enda poole."
+    "Kutsusin sind hommekülla.",
+    "Ta kutsus meid oma juurde.",
+    "Tema isa kutsus ta tagasi kodumaale."
   ],
   "translation": [
-    "called"
+    "invited",
+    "called",
+    "summoned"
   ],
-  "context": "The verb 'kutsus' means 'called' or 'invited' in Estonian, often used to describe inviting someone somewhere"
+  "context": "The word 'kutsus' is the past tense third person singular form of the Estonian verb 'kutsuda', which means to invite, call, or summon someone. It's commonly used when referring to someone else who has performed the action of inviting others to a place or event, or calling them somewhere."
 }

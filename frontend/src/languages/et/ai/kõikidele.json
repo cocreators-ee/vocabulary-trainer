@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma annan kõikidele võimaluse osaleda.",
-    "Kõikidele meeldib see film.",
-    "Ta on kõigile abiks."
+    "Kõikidele lastele jagati kingitused.",
+    "See kinnitus kehtib kõikidele osalejatele.",
+    "Meie uus reeglikogu on mõeldud kõikidele."
   ],
   "translation": [
-    "to everyone",
-    "for all"
+    "to all",
+    "for everyone",
+    "to every one"
   ],
-  "context": "The word kõikidele is a dative case form of the Estonian word kõik, which means all or everyone, and it is commonly used to indicate that something is done for the benefit of all people or things."
+  "context": "The word 'kõikidele' is the Estonian allative case plural form of 'kõik', meaning 'all'. The '-de-' suffix indicates plural, and the '-le' ending is the allative case marker indicating movement toward or direction to something. In English, it translates to expressions like 'to all', 'for everyone', or 'to every one'."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ütleks, et see on hea mõte.",
-    "Ta ütleks, kui ta teaks vastust.",
-    "Kui ma oleksin tema asemel, ma ütleks kohe."
+    "Ma ütleks, et see on hea idee.",
+    "Kas sa ütleksid mulle tõsi?",
+    "Ta ei ütleks midagi selle kohta."
   ],
   "translation": [
     "would say",
-    "to say",
-    "says"
+    "might say",
+    "could say"
   ],
-  "context": "The Estonian word 'ütleks' is the conditional form of the verb 'ütlema' (to say). It translates to 'would say' in English and is used to express what someone might say under certain circumstances or as a hypothetical statement. It’s commonly used when offering suggestions, expressing opinions conditionally, or reporting indirect speech."
+  "context": "The word 'ütleks' is the conditional mood (conditional tense) of the Estonian verb 'ütelda', which means 'to say'. It's used to express what someone would or might say under certain conditions. The '-ks' ending indicates the conditional form, similar to how English uses 'would' + base verb construction."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan udus lisatud juuksuriga.",
-    "Lisaks talle on üks lisa.",
-    "Ta ei saanud oma lisatasu."
+    "Lisa on hea naine.",
+    "Lisasin selle teavet faili.",
+    "Lisa meile oma telefoninumber."
   ],
   "translation": [
-    "addition",
-    "supplement",
-    "attachment"
+    "add",
+    "append",
+    "supplement"
   ],
-  "context": "The word 'lisa' in Estonian generally refers to something that is added or attached to something else, and it can be translated to English as 'addition', 'supplement', or 'attachment', depending on the context in which it is used."
+  "context": "The word 'lisa' in Estonian can be used as a verb meaning 'to add' or 'to append', and also as a noun referring to a female name. As a verb, it's commonly used when talking about adding information, items, or people to something else. The infinitive form is 'lisama'. When used as a proper name for females, it would be capitalized as Lisa."
 }

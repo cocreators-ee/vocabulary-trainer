@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean seda seniks",
-    "Seniks on see hea mõte",
-    "Ta ütles seda seniks"
+    "Olen seniks palju õppinud.",
+    "Me oleme seniks kohtunud kolm korda.",
+    "Kas sa oled seniki oma tööd teinud?"
   ],
   "translation": [
-    "meanwhile",
-    "for now"
+    "by then",
+    "since then",
+    "until now"
   ],
-  "context": "The word 'seniks' in Estonian is used to indicate a temporary or intermediate state, and it can be translated to English as 'meanwhile' or 'for now', depending on the context of the sentence."
+  "context": "The Estonian word 'seniks' is an adverb that means 'by then' or 'since then'. It refers to a point in time from the past until a reference point in the present or another past moment. It indicates duration elapsed since a previous event or time."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Tema suve lõppedes jäid ränikese maha.",
-    "Jääd kodus ja tean ma sinu sõbra!",
-    "Ta jättis oma jääd tühja toa sees."
+    "Olen jäänud ilma.",
+    "Me oleme jäänud alla.",
+    "Ta on jäänud tagasi."
   ],
   "translation": [
-    "traces",
-    "remains",
-    "residue"
+    "to remain",
+    "to stay",
+    "to be left behind"
   ],
-  "context": "'jääd' refers to the physical remnants or traces left behind after something has been used, consumed, or removed. It is often used in contexts involving leftovers from food, marks from an event, or objects abandoned by someone."
+  "context": "The word 'jääd' is the 2nd person singular present tense form of the verb 'jääma', which means 'to remain' or 'to stay'. It's used when talking to one person (you) about an action that is happening now or generally. In Estonian, this form can also be used in commands or suggestions. The root word 'jää-' relates to staying in place or not moving from a location."
 }

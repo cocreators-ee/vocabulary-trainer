@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Auto vahetöös andis valge signaal.",
-    "Kuigi ta sõbraga suhtles hästi, andis ta mõnikord segaseid signaale.",
-    "Kolm erinevat signaali saadi radiosagedustel."
+    "Tuleb edastada signaal kiiresti.",
+    "Signaali vastuvõtja ei tööta korrektselt.",
+    "Arvuti saadab häirete signaale."
   ],
   "translation": [
     "signal",
-    "sign"
+    "signaling"
   ],
-  "context": "This word is used in Estonian to refer to a signal or sign. It can be either physical, like traffic lights providing visual signals for drivers, or metaphorical, such as subtle cues indicating someone's feelings or intentions."
+  "context": "The word 'signaal' is an Estonian noun that means 'signal'. It refers to a message or indication sent through some medium to convey information. In Estonian, it's commonly used in technical contexts like telecommunications, electronics, and computing, similar to how 'signal' is used in English."
 }

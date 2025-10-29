@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Koer ründab kassi.",
-    "Ründab meid!",
-    "Ta ründas mind eile."
+    "Politseinik ründas kurjategijat.",
+    "Mees ründas teist meest nuga.",
+    "Sõdurid ründasid vaenlase positsioone."
   ],
   "translation": [
     "attacks",
-    "assails"
+    "assaults",
+    "strikes"
   ],
-  "context": "The word 'ründab' is a verb in Estonian that means to attack or assail someone or something, and it is commonly used in sentences to describe a physical or verbal attack."
+  "context": "The word 'ründab' is the third person singular present form of the Estonian verb 'ründama', which means to attack or assault. It describes an aggressive action where someone intentionally approaches and confronts another person or target with hostile intent."
 }

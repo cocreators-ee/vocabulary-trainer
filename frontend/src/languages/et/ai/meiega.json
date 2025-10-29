@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma jagan teiega oma probleeme.",
-    "Ta rääkis meiega väga rahulikult.",
-    "Me kavatsime teda külastada, aga meiega pidi midagi juhtuma."
+    "Kas teiega on hästi?",
+    "Meiega on kõik korras.",
+    "Tule meiega koos."
   ],
   "translation": [
-    "with us"
+    "with us",
+    "together with us",
+    "along with us"
   ],
-  "context": "The word 'meiega' is an Estonian word meaning 'with us'. It is the illative form of 'meie', which means 'we' or 'us', and it denotes that someone is with the speaker and possibly another person(s)."
+  "context": "The Estonian word 'meiega' is a combination of 'meie' (we/us) and the '-ga' suffix which means 'with'. It literally translates to 'with us'. This form includes the partitive case marker indicating accompaniment or association. The word can be used in various contexts where you want to indicate being together with the speaker(s)."
 }

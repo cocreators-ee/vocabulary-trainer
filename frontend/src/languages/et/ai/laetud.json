@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oli laetud energiast.",
-    "Aku on laetud ja valmis kasutamiseks.",
-    "See tekitas temas laetud tunde."
+    "Laetud on kõik vajalikud dokumendid.",
+    "Tema raamat laeti täna ära.",
+    "Meil on laetud uus versioon tarkavarast."
   ],
   "translation": [
     "loaded",
     "charged",
-    "full of energy"
+    "filled"
   ],
-  "context": "The word 'laetud' in Estonian generally means 'loaded' or 'charged', often referring to batteries or devices being filled with power. It can also be used figuratively to describe someone feeling full of energy or enthusiasm."
+  "context": "The word 'laetud' is the past participle form of the Estonian verb 'laadima', which means to load, charge, or fill. It describes something that has been loaded, charged with energy/substance, or filled completely. The '-d' ending indicates it's in the perfective/past tense form."
 }

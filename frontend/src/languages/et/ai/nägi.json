@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta nägi mind.",
-    "Ma nägin teda.",
-    "Me nägime filme."
+    "Tema nägi linna.",
+    "Nägin päikest taevas.",
+    "Meie näsime koera parkis."
   ],
   "translation": [
-    "saw"
+    "saw",
+    "has seen"
   ],
-  "context": "The word 'nägi' is the simple past tense of the Estonian verb 'nägema', which means to see. It is commonly used in sentences to describe an action of seeing something or someone in the past."
+  "context": "The word 'nägi' is the past tense third person singular form of the Estonian verb 'nägema', which means 'to see'. It specifically translates to 'saw' in English when referring to what someone (third person, either masculine or feminine) saw in the past."
 }

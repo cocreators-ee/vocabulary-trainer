@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on üks mu armsamatest raamatutest.",
-    "Üks kiiresti kasvavatest linnadest on Tallinn.",
-    "Need on ühed kõige ilusamad maastikud Eestis."
+    "Üks kaks kolm.",
+    "Olen üks mees.",
+    "Tema on üks laps."
   ],
   "translation": [
     "one",
-    "single"
+    "single",
+    "a/an"
   ],
-  "context": "The word \"üks\" is commonly used in Estonian as an indefinite article, similar to the English word 'a' or 'an', indicating that something is singular and nonspecific."
+  "context": "The word 'üks' is the Estonian numeral for 'one'. It's used to count items or refer to a single entity. In Estonian, it doesn't change form based on gender like English 'a/an' does - it remains 'üks' in all contexts."
 }

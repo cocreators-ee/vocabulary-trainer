@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ajastus on väga oluline sportmängudes.",
-    "Ta oskab ajastust väga hästi.",
-    "Ajastuse parandamiseks tuleb treenida palju."
+    "Ajastus on tähtis osa meie igapäevaelust.",
+    "Kooli ajastus võimaldab häid mänguõppevõimalusi.",
+    "Hea ajastus aitab lastel paremini keskenduda."
   ],
   "translation": [
     "timing",
-    "pace"
+    "scheduling",
+    "arrangement of time"
   ],
-  "context": "The word 'ajastus' in Estonian refers to the timing or pace of something, often used in the context of sports or other activities where coordination and rhythm are important."
+  "context": "The word 'ajastus' comes from the Estonian root 'aja-' (time) with the suffix '-tus', which indicates a process or state. It refers to the organization, planning, and coordination of activities in relation to time. This could include scheduling events, setting timetables for activities, or ensuring that things happen at appropriate times. The word is commonly used in educational contexts, organizational settings, and daily life planning."
 }

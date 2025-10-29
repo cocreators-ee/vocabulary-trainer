@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen sellised inimesed, kes armastavad loodust.",
-    "Sellised asjad juhtuvad sageli elus.",
-    "Ta on selline inimene, kellele meeldib sellised raamatud."
+    "Sellised asjad on huvitavad.",
+    "Nemad ei ole sellised nagu meie.",
+    "Mul on sellised kaks koera."
   ],
   "translation": [
     "such",
-    "like this"
+    "these kinds of",
+    "this type of"
   ],
-  "context": "The word 'sellised' is used to describe something that is of a certain kind or type, similar to the English word 'such'."
+  "context": "The Estonian word 'sellised' is the plural form of 'selline', meaning 'such' or 'these types/kinds'. It's used to describe things that are of a particular kind or type. The '-d' ending indicates it's in the plural nominative case. It can be translated as 'such', 'these kinds of', or 'this type of' depending on context."
 }

@@ -1,15 +1,17 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minä saan suomalaiset sanat.",
-    "Hän saa olla huolissaan.",
-    "Heidän täytyy saada tietää totuus."
+    "Saatatko auttaa minua?",
+    "Hän saattoi tulla myöhässä.",
+    "Tämä saattaa olla totta."
   ],
   "translation": [
-    "can",
     "may",
-    "might"
+    "might",
+    "could",
+    "to take someone/something somewhere",
+    "to escort",
+    "to cause"
   ],
-  "context": "'saattaa' is used to express possibility or ability in Finnish. It's commonly used in conditional sentences and to indicate what someone is able to do."
+  "context": "The Finnish word 'saattaa' is versatile. It can function as a modal verb meaning 'may', 'might', or 'could' when expressing possibility, similar to English modals. In its base form it also means 'to take someone/somewhere' or 'to escort'. As causative form of 'tulla' (to come), it means 'to cause to come' or 'to have someone come'. This dual nature makes it very common in everyday Finnish speech."
 }

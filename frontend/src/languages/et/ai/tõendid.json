@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tõendid on esitatud kohtus.",
-    "Need tõendid ei ole piisavad.",
-    "Tõendite puudumisel ei saa me otsustada."
+    "Tõendid on vajalikud selleks, et kinnitada oma isikut.",
+    "Ta esitas tõendid kohtusse.",
+    "Vaja on täiendavaid tõendeid."
   ],
   "translation": [
     "evidence",
-    "proof"
+    "proofs",
+    "documents"
   ],
-  "context": "The word 'tõendid' refers to evidence or proof, and it is commonly used in legal contexts to describe the facts or circumstances that support a claim or argument."
+  "context": "The word 'tõendid' in Estonian is the plural form of 'tõend', which means evidence, proof, or documents. This noun refers to materials that serve as proof or verification of something, commonly used in legal contexts, administrative procedures, or situations where one needs to provide factual support for claims."
 }

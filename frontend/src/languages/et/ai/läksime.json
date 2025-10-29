@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Me läksime kooli kell kaheksa.",
-    "Tänavu suvel läksime puhkama Hispaaia.",
-    "Eile õhtul läksime sealjuures naela jooksma."
+    "Eile läksime kinno.",
+    "Meie klass läksime eelmisel nädalal muuseumi.",
+    "Täna hommikul läksime koju."
   ],
   "translation": [
-    "we went"
+    "went",
+    "traveled",
+    "left"
   ],
-  "context": "`läksime` is the past tense form of the verb `minna`, which means to go in Estonian. It is used when a group including the speaker has gone somewhere."
+  "context": "The word 'läksime' is the 1st person plural past tense form of the verb 'minema' (to go) in Estonian. It means 'we went', 'we traveled', or 'we left'. The '-me' ending indicates that it's referring to the first person plural ('we') and the past tense."
 }

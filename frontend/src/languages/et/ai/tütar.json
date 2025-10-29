@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu tütar on hea tüdruk",
-    "Tütred käisid koos jalutamas",
-    "Ta on mu sõbra tütar"
+    "Minu tütar on viie aasta vana.",
+    "Tema tütar käib koolis.",
+    "Kas sul on tüdar?"
   ],
   "translation": [
-    "daughter"
+    "daughter",
+    "girl child",
+    "female offspring"
   ],
-  "context": "The word 'tütar' in Estonian refers to a female child or a young woman, and it is commonly used to describe a parent-child relationship."
+  "context": "The word 'tütar' is the Estonian noun meaning 'daughter'. It is used to refer to one's female child. The word follows normal Estonian grammar rules and does not change form for gender, but may have different case endings depending on its function in a sentence (subject, object, etc.)."
 }

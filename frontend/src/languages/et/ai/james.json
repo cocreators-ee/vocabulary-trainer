@@ -1,14 +1,12 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "James on väga hea näitleja.",
-    "Ma kohtusin Jamesiga eile.",
-    "See film on Jamesi lemmik."
+    "Tere, olen James.",
+    "James käis eile poes.",
+    "Meie klassijuhendaja on James."
   ],
   "translation": [
-    "James",
-    "Jim"
+    "James"
   ],
-  "context": "The name 'James' is a common English given name that is also used in Estonian. It functions identically to its use in English - as a proper noun referring to a person."
+  "context": "The word 'james' is a proper noun in Estonian, specifically a name of English origin. It's used to refer to someone named James and functions the same way as it does in English-speaking countries. In Estonian grammar, names typically don't change form regardless of case or number - they remain 'James' whether referring to one person or multiple people."
 }

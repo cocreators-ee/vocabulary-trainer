@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hea suhtes sinuga.",
-    "Tema suhtes on kõik korras.",
-    "Me oleme head suhtes."
+    "Tema käitub hästi suhtes teistega.",
+    "Meie projekt edeneb headelt suhtes.",
+    "Ta on väga hoolas oma töösuhtes."
   ],
   "translation": [
     "in relation to",
-    "toward",
-    "with regard to"
+    "with respect to",
+    "concerning"
   ],
-  "context": "The word 'suhtes' is a postposition in Estonian that indicates a relationship or connection between two things, often translated to English as 'in relation to', 'toward', or 'with regard to'."
+  "context": "'Suhtes' is the inessive case plural form of 'suhe', which means 'relationship'. In Estonian, this word is used to indicate the context or relationship in which something exists or occurs. It's commonly translated as 'in relation to', 'with respect to', or 'concerning' when establishing connections between different entities."
 }

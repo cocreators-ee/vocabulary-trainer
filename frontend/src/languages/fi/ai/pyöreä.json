@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä pyöreä pöytä on hyvä kokouksiin.",
-    "Pyöreät kasvot ovat yleisiä lapsilla.",
-    "Hänellä on pyöreä vartalo."
+    "Tämä pyöreä malja on kaunis.",
+    "Pyörät ovat yleensä pyöreitä.",
+    "Hän leikki pyöreällä palloalla."
   ],
   "translation": [
     "round",
-    "circular"
+    "circular",
+    "spherical"
   ],
-  "context": "The word pyöreä is commonly used in Finnish to describe something that is round or circular in shape, and it can be used to describe various objects, such as tables, faces, or bodies."
+  "context": "The Finnish word 'pyöreä' is an adjective meaning 'round' or 'circular'. It describes something that has a curved, circular shape without any sharp angles. The word can be used to describe various round objects like balls, plates, glasses, etc. In Finnish grammar, adjectives must agree in number and case with the nouns they modify. For example, 'pyöreä' is the singular nominative form, while the plural form would be 'pyöreät'."
 }

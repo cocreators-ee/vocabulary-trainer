@@ -1,13 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina olen väga müüd, ent ma pean tegema tööd.",
-    "Kõik liigne, ent see ei tähista midagi.",
-    "Ta lubas mind, ent ta ei tehtud seda."
+    "Ent on see nii?",
+    "Ent sa ei tuleki koos meiega?",
+    "Ent ta oli seal kogu aeg?"
   ],
   "translation": [
-    "and yet"
+    "but then",
+    "however",
+    "yet",
+    "still"
   ],
-  "context": "'Ent' is used in Estonian to express a contrast or contradiction between two clauses; it can be translated as 'but', 'yet', or 'however'. It functions similarly to its English counterparts by introducing an opposing idea."
+  "context": "The Estonian word 'ent' is used as a conjunction to introduce contrast, surprise, or additional information. It's similar to English words like 'but then', 'however', or 'yet'. It often appears at the beginning of sentences and can indicate that the speaker is questioning something mentioned earlier, expressing doubt, or adding contrasting information."
 }

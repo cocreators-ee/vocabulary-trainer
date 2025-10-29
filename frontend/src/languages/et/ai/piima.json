@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma joon piimaga kaetud müslit.",
-    "Piima hind on kallim kui enne.",
-    "Tal on piima ja leiba süüa."
+    "Ma ostsin piima.",
+    "Põrandal on vesi ja piim.",
+    "Tema joob piima hommikuti."
   ],
   "translation": [
     "milk"
   ],
-  "context": "The word piima refers to milk in Estonian and is commonly used in everyday conversations about food, beverages, or nutrition."
+  "context": "The word 'piima' is the partitive case form of the Estonian noun 'piim', which means 'milk'. The partitive case is used to indicate an incomplete or indefinite action, such as buying, having, or consuming some amount of milk. It's commonly used with mass nouns like food and drink when referring to a portion rather than the entire quantity."
 }

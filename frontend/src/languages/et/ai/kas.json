@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kas sa oled nõus?",
-    "Ma ei tea, kas ta tuleb.",
-    "Kas see on tõsi?"
+    "Kas sa tuled homme?",
+    "Kas see on õige?",
+    "Kas ma peaksin minema?"
   ],
   "translation": [
     "whether",
     "if",
     "is it that"
   ],
-  "context": "The Estonian word 'kas' is a particle used to introduce yes/no questions or express uncertainty. It’s similar to ‘if’ or ‘whether’ in English, often placed at the beginning of a question."
+  "context": "In Estonian, 'kas' is a question particle used at the beginning of yes/no questions. It corresponds to English words like 'whether', 'if', or 'is it that'. This word is essential for forming direct questions in Estonian and always appears sentence-initially when asking questions that expect a yes/no answer."
 }

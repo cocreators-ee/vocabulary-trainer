@@ -1,16 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minu koha on su kõrval.",
-    "Kohtalik kohta!",
-    "Tema asetab end kindlalt oma kohas.",
-    "Oled sa nii oluline minu elus kui see koht siin."
+    "Minu koha on see laud.",
+    "Kas sa leiad oma koha?",
+    "See oli ilus koha."
   ],
   "translation": [
     "place",
-    "spot",
-    "position"
+    "location",
+    "spot"
   ],
-  "context": "'koha' in Estonian commonly refers to a physical or metaphorical place or position. It can be used to describe literal locations, roles in life, or even emotional positioning within relationships."
+  "context": "In Estonian, 'koha' is the partitive form of the word 'koht', which means place or location. The partitive case indicates an incomplete object or partial aspect. So 'koha' can be used to refer to a place in contexts where it's not being referred to as a complete entity. For example, 'minu koha on see laud' means 'My place is this table.' The word appears feminine by its ending '-a', which is typical for the partitive case of feminine nouns in Estonian."
 }

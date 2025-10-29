@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu luuk on kinni.",
-    "Ta keelas oma luuki.",
-    "Luku jääb avatud."
+    "Tolmuimeja on luku.",
+    "Luku on kinni.",
+    "Kas sa tead uue luku numbri?"
   ],
   "translation": [
-    "door"
+    "lock",
+    "latch",
+    "fastener"
   ],
-  "context": "In Estonian, 'luku' refers to a door in the context of opening or closing it. It is commonly used in situations where someone is entering or exiting through a door."
+  "context": "The Estonian word 'luku' means a device used to secure something, typically a door or container. It can refer to various types of locking mechanisms like padlocks, door locks, or latches. In everyday usage, it's commonly used when talking about securing doors, cabinets, or other items that need to be kept closed and secured."
 }

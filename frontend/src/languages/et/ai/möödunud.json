@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli möödunud aja jooksul.",
-    "Möödunud nädalal toimus mitmeid üritusi.",
-    "Möödunud aastatel on toimunud palju muudatusi."
+    "Möödus möödunud aastal palju muutusi.",
+    "Ta on möödunud päevi olnud haige.",
+    "Meeldejäetav oli möödunud suvel toimuv festival."
   ],
   "translation": [
     "passed",
-    "past"
+    "gone by",
+    "elapsed",
+    "previous"
   ],
-  "context": "The word 'möödunud' in Estonian refers to something that has passed or occurred in the past, and is commonly used to describe events or periods of time that have gone by."
+  "context": "The word 'möödunud' is the past participle form of the Estonian verb 'möödma', meaning 'to pass'. It describes something that has passed, elapsed, or occurred in the previous time period. This adjective can be used to describe time periods (days, years, months), events, or states of being that are now in the past."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Talo asuttaa kymmenen perhettä.",
-    "Asuttava alue on laaja.",
-    "Rakennus asuttiin jo viime vuonna."
+    "Minun tehtäväni on asuttaa tämä alue.",
+    "Hänen tavoitteenaan oli asuttaa koko maa.",
+    "Kylä perustettiin asuttamaan sinne muutamia perheitä."
   ],
   "translation": [
-    "to inhabit",
-    "to occupy"
+    "to settle",
+    "to colonize",
+    "to populate",
+    "to inhabit"
   ],
-  "context": "The word 'asuttaa' is commonly used in Finnish to mean taking up or living in a place, and it can be translated to English as 'to inhabit' or 'to occupy'."
+  "context": "The Finnish verb 'asuttaa' means to establish a settlement or populate an area. It can refer to settling people in a new place, founding a colony, or inhabiting an area. The verb often implies bringing people to live somewhere that was previously uninhabited or sparsely populated, and it's commonly used when discussing historical colonization processes or establishing new communities."
 }

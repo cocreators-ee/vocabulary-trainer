@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma astun sellele auhinnale.",
-    "Ta astus ametisse.",
-    "Me astume ühiselt vastu sellele"
+    "Astuge sisse!",
+    "Ta astub ruumi.",
+    "Ma astaksin välja."
   ],
   "translation": [
-    "step",
-    "step up",
-    "move into"
+    "enter",
+    "step into",
+    "go in"
   ],
-  "context": "The word 'astu' in Estonian generally means to step or move into something, often referring to taking a position, role, or location."
+  "context": "The Estonian word 'astu' is the imperative form of the verb 'astuma', which means to enter or step. It's used as a command telling someone to go inside or step somewhere. In different forms, it can also mean stepping out (astuda välja) or entering a specific place."
 }

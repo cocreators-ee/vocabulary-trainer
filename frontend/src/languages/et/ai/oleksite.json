@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kui sa oled nii tugev, siis miks sa ei või mind aidata?",
-    "Ta on nii tore, et kõik tahtsid ta meiega tutvustada.",
-    "Mina ei teanud, kas ma sobin sinuga koos elama."
+    "Kas oleksite nõus sellepärast?",
+    "Oleksite meile väga tänulikud.",
+    "Poleksin teadlik, et oleksite selles osa võtnud."
   ],
   "translation": [
-    "you would",
-    "you'd"
+    "would you be",
+    "you would be",
+    "would you"
   ],
-  "context": "The word 'oleksite' is the conditional form of the verb 'to be' in Estonian. It is used to express hypothetical situations or polite suggestions, similar to \"would\" in English. Commonly appears in sentences like 'If I were...' or 'Would you...?'"
+  "context": "The word 'oleksite' is a conditional form of the Estonian verb 'olema' (to be). It specifically refers to the second person plural ('te' - you) in the conditional mood. This is used when speaking to someone formally or to multiple people, expressing what would happen if something were true. The word combines the root 'olk-' (from 'olla') with the suffix '-site' indicating second person plural and the conditional '-ks' form."
 }

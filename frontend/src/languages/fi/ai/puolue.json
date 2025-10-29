@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Puolue on poliittinen ryhmä.",
-    "Hän kuuluu puolueeseen.",
-    "Puolueet kilpailevat vaaleissa."
+    "Suomen suurin puolue on keskusta.",
+    "Hän kuuluu oppositioon edustamaansa puoluetta.",
+    "Uusi puolue perustettiin viime vuonna."
   ],
   "translation": [
     "party",
     "political party"
   ],
-  "context": "The word 'puolue' refers to a political organization or group that seeks to achieve its goals through democratic means, often by participating in elections and holding public office."
+  "context": "In Finnish, 'puolue' means a political party. It's a common word in political discussions and news about Finnish politics. The word is used when referring to organized groups that participate in elections and represent different ideologies or interests in the parliamentary system."
 }

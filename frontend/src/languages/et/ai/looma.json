@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan looma",
-    "Loomad on ilusad",
-    "Loomade kohtlemine peab olema head"
+    "Looma on hea tegevus loodusega.",
+    "Meie peame oma lapse õppima looma.",
+    "Tere tulemast meie uue loomaga!"
   ],
   "translation": [
-    "animal",
-    "beast",
-    "creature"
+    "to create",
+    "to make",
+    "to form",
+    "to produce",
+    "to bring into existence"
   ],
-  "context": "The word 'looma' in Estonian refers to an animal, and it is commonly used in sentences to describe a living being, such as a pet or a wild creature."
+  "context": "The Estonian word 'looma' is an infinitive verb meaning 'to create', 'to make', or 'to form'. It's used when talking about bringing something new into existence, whether it's a physical object, artwork, concept, or even animals. The word can be used in various contexts including artistic creation, building things, procreation (animals), and general formation of ideas or objects."
 }

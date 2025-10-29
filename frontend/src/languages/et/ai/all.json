@@ -1,16 +1,14 @@
 {
-  "confidence": 0.4,
   "understood": true,
   "sentences": [
-    "All kus on minu rasestumisperiood?",
-    "Milline all on parim veele juurde?",
-    "Kuidas all määrata?",
-    "Tuleb olla all nii kaugele, kui saab."
+    "Ma olen all oma ema ees.",
+    "Ta on alati all oma isa nõuanded.",
+    "Lapsed said öösel all magama."
   ],
   "translation": [
-    "Term",
-    "Period",
-    "Time"
+    "under",
+    "below",
+    "submissive to"
   ],
-  "context": "The word 'all' in Estonian is used to refer to a term or period of time. It can mean a specific duration, like the term of an office or a school year."
+  "context": "In Estonian, 'all' is an adverb and preposition that means 'under', 'below', or 'submissive to'. It indicates position beneath something else or being under someone's authority. When used as a preposition, it typically takes the partitive case. In some contexts, it can also indicate submission to someone's will or authority."
 }

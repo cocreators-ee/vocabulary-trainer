@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hänellä on päinvastainen mielipide.",
-    "Päinvastainen asia ei ole mahdollista.",
-    "Tämä johtaa usein päinvastaiseen tulokseen."
+    "Hänen mielipiteensä on päinvastainen minun.",
+    "Tämä päinvastainen vaikutus oli odottamaton.",
+    "Hän toimii aina päinvastaisesti annettujen ohjeiden mukaan."
   ],
   "translation": [
     "opposite",
+    "contrary",
     "reverse"
   ],
-  "context": "The word päinvastainen is a Finnish adjective that means opposite or reverse, and it is commonly used to describe something that is contrary to what is expected or normal."
+  "context": "The Finnish word 'päinvastainen' is an adjective that means something being opposite, contrary, or reverse in direction, meaning, or effect. It's formed from 'pääin-' (meaning toward/into) and 'vastainen' (meaning against), so literally 'toward against'. The comparative form would be 'päinvastaisempi' and the superlative 'päinvastaisin'. When used with nouns, it typically follows the noun it modifies in Finnish word order."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvasin, et see on hea mõte.",
-    "Ta arvas, et ma olen valesti arvanud.",
-    "Arvasingi, et see ei ole nii lihtne."
+    "Arvasingi see oli viga.",
+    "Ma arvasingi, et ta tuleb homme.",
+    "Arvasingi tegid need asja halvasti."
   ],
   "translation": [
-    "I suppose",
-    "I guess",
-    "presumably"
+    "mistakenly",
+    "erroneously",
+    "incorrectly"
   ],
-  "context": "The word 'arvasingi' is a verb in Estonian that means to suppose or guess something, often used to express a tentative or uncertain opinion."
+  "context": "The word 'arvasingi' is an Estonian adverb that means 'by mistake', 'erroneously', or 'incorrectly'. It describes doing something accidentally or incorrectly, often when one has made an error in judgment or action. The word comes from the verb 'arvama' (to think/suppose) and '-ingi' which forms adverbs of manner. This construction indicates that an action was performed based on incorrect thinking or assumption."
 }

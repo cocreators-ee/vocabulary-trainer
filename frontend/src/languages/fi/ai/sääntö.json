@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Säännön mukaan kaikki työntekijät ovat velvollisia käyttämään suojavarusteita.",
-    "Hän rikkoi sääntöjä useaan kertaan.",
-    "Uusi sääntö tuli voimaan viime kuussa."
+    "Säännöt ovat talossa.",
+    "On noudatettava sääntöjä.",
+    "Minun on opittava kaikki nämä säännöt."
   ],
   "translation": [
     "rule",
-    "regulation"
+    "regulation",
+    "guideline"
   ],
-  "context": "The word sääntö refers to a rule or regulation that governs behavior or action in a particular context, and is commonly used in Finnish to describe guidelines or laws that must be followed."
+  "context": "The Finnish word 'sääntö' is a noun that means 'rule', 'regulation', or 'guideline'. It refers to an established principle or guideline that people are expected to follow. In its basic form (singular nominative), it's 'sääntö'. The plural form is 'säännöt', and in the partitive case, it becomes 'sääntöjä' when referring to some rules among many."
 }

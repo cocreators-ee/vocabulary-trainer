@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea suhtes oma vanematega.",
-    "Suhe tema ja ta sõber on väga lähedane.",
-    "Nende vahel on tugev suhe."
+    "Suhted on tähtsad suhetes.",
+    "Meil hea suhe külaga.",
+    "Tööalased suhed on olulised."
   ],
   "translation": [
     "relationship",
-    "connection"
+    "connection",
+    "relation"
   ],
-  "context": "The word 'suhe' in Estonian generally refers to a relationship or connection between two or more people, things, or ideas. It is commonly used to describe the bond or association between entities, whether personal, professional, or abstract."
+  "context": "The Estonian word 'suhe' is a noun that refers to a relationship, connection, or relation between people, things, or concepts. It can be used in various contexts such as interpersonal relationships (e.g., family relationships), professional connections, or abstract relations. The word is singular and neutral in gender."
 }

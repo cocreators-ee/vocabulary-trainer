@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on lasku müügikuulutusele.",
-    "Ta esitas lasku arve eest.",
-    "Lasku tuli päev enne kätte."
+    "Tema laskus alla mäelt.",
+    "Lask oli ohtavalt pikk.",
+    "Peale lasku tuli uuesti üles."
   ],
   "translation": [
-    "invoice",
-    "bill"
+    "descent",
+    "drop",
+    "fall",
+    "decline"
   ],
-  "context": "The word 'lasku' in Estonian refers to a document that outlines the amount of money owed for a particular good or service, and it is commonly used in business settings to request payment from clients or customers."
+  "context": "The word 'lasku' is an Estonian noun that means descent, drop, fall, or decline. It's in the nominative case and can refer to physical movement downward (like falling from a height) or figurative decline in value, quality, etc. In context, it might describe someone sliding down a hill, a steep drop-off, or a decrease in something."
 }

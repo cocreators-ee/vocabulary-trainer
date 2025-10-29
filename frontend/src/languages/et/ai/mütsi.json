@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mütsi on peas",
-    "Ta kandis mütsi jalutuskäigul",
-    "Mütsid olid moes eile"
+    "Tema kandis sinist mütsi.",
+    "Mul on uus müts.",
+    "Mütsid olid soojad talvel."
   ],
   "translation": [
-    "cap",
-    "hat"
+    "hat",
+    "cap"
   ],
-  "context": "The word mütsi refers to a type of headwear, commonly used to keep the head warm in cold weather."
+  "context": "The word 'mütsi' is the partitive case form of 'müts', which means 'hat' or 'cap' in English. In Estonian, the partitive case often indicates an incomplete action or object, but here it's likely used as a specific instance or type of hat. The base word 'müts' refers to any head covering that is typically worn for warmth or fashion."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Länsi on yksi maailman neljästä pääilmansuunnasta.",
-    "Hän asuu länsipuolella kaupunkia.",
-    "Länsirannikko on tunnettu kauneudestaan."
+    "Länsi on suunta.",
+    "Mennään länteen.",
+    "Suomi sijaitsee Euroopan länsiosassa."
   ],
   "translation": [
     "west",
-    "western"
+    "western part"
   ],
-  "context": "The word 'länsi' in Finnish refers to the direction or region of west, and it is commonly used to describe locations or areas that are situated in the western part of a country, city, or other geographical area."
+  "context": "The Finnish word 'länsi' means 'west' or 'western part'. It's a noun that refers to the direction or geographical area on the left side when facing north. In Finnish, it follows normal grammatical patterns for nouns - it can be inflected for case and number (like länteen = westward, lännen = western)."
 }

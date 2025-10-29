@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Harvat tällaiset tilat ovat saatavilla.",
-    "Niissä on harvoja asiakkaita.",
-    "Harva havaitsija ymmärtää tämän kielten välisen suhteen."
+    "Harvat ihmiset ymmärtävät tätä.",
+    "Tässä kaupungissa on harvinaisia eläimiä.",
+    "Meillä oli harvoin vieraita."
   ],
   "translation": [
     "few",
-    "not many"
+    "rare",
+    "infrequent"
   ],
-  "context": "The word 'harvat' is used to describe a small quantity or number, meaning 'few' in English. It is commonly used when referring to the scarcity of something."
+  "context": "The Finnish word 'harvat' is the plural form of 'harva', meaning 'few' or 'rare'. It's used to describe a small number of things or people, indicating scarcity or infrequency. In its plural form, it typically follows the noun it modifies in Finnish grammar, and when used with nouns that have a singular form, the noun would appear in the partitive case."
 }

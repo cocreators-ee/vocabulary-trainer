@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütleksin talle, et see on hea mõte.",
-    "Ta ütleksin, et ta armastab mind.",
-    "Kui ma ütleksin talle seda, siis ta oleks väga üllatunud."
+    "Ütleksin talle saladusi.",
+    "Kui saaksin uuesti alustada, ütleksin kõigest.",
+    "Ma ütleksin alati tõeset."
   ],
   "translation": [
-    "would say",
-    "should say",
-    "could tell"
+    "I would say",
+    "I might tell",
+    "I could say"
   ],
-  "context": "The word \"ütleksin\" is the first person singular conditional form of the verb \"ütlema\", which means to say or tell in Estonian. It is commonly used in sentences to express what someone would say or do in a hypothetical situation."
+  "context": "Ütleksin is the conditional form of the verb 'ütlema' (to say/tell). It expresses what someone would or might say in a hypothetical situation. The '-ksin' ending indicates the first person singular conditional mood."
 }

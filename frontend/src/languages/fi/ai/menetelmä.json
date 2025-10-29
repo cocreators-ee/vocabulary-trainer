@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä menetelmä on hyvin tehokas.",
-    "Menetelmän avulla voidaan saavuttaa paremmat tulokset.",
-    "Menetelmää käytetään laajasti tieteessä."
+    "Tämä on uusi menetelmä ongelman ratkaisemiseksi.",
+    "Olemme kehittäneet tehokkaan menetelmän testaukseen.",
+    "Menetelmämme perustuu tieteellisiin tutkimuksiin."
   ],
   "translation": [
     "method",
-    "technique",
-    "approach"
+    "approach",
+    "technique"
   ],
-  "context": "The word menetelmä refers to a systematic or scientific method of doing something, and it is commonly used in Finnish to describe a procedure or technique used to achieve a particular goal or result."
+  "context": "The Finnish word 'menetelmä' means method, approach or technique. It is a feminine noun in Finnish and refers to a systematic way of doing something, a procedure for accomplishing a task, or a particular technique used to achieve a specific result."
 }

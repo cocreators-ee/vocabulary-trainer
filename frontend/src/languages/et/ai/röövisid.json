@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Röövisid mind ära.",
-    "Nad röövisid mu kodu.",
-    "Meie said, et nad olid röövinud palju vara."
+    "Röövisid mind eile.",
+    "Nad röövisid panga ära.",
+    "Kes te röövisite auto?"
   ],
   "translation": [
     "robbed",
-    "stole from"
+    "stole from",
+    "burglarized"
   ],
-  "context": "The word 'röövisid' is the second person plural past tense form of the Estonian verb 'röövima', which means to rob or steal from someone. It is commonly used in sentences where someone has taken something without permission."
+  "context": "The word 'röövisid' is the past tense, plural form of the Estonian verb 'röövima', which means 'to rob'. It specifically refers to the action of stealing something from someone or a place through force or threat of force. In English, this would be translated as 'robbed', 'stole from', or 'burglarized'. The word indicates that multiple people performed the robbing action in the past."
 }

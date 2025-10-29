@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen ringi.",
-    "Ta tegi selle ümber ringi.",
-    "Need lapsed joovad ringi."
+    "Minu sõber käis ringi.",
+    "Lapsed jooksid ringi pargis.",
+    "Ringi liikuvad autod"
   ],
   "translation": [
     "around",
-    "circle"
+    "in circles",
+    "about"
   ],
-  "context": "The word 'ringi' in Estonian generally means around or in a circle, and it is often used to describe movement or direction in relation to something else."
+  "context": "The word 'ringi' is the illative case form of the Estonian word 'ring', meaning 'circle'. In this case, it functions as an adverb indicating movement around something or in a circular pattern. It can be used to describe someone moving about freely or circulating from place to place."
 }

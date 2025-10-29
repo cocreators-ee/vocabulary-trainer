@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kes see on?",
-    "Olen kindel, et keskendan sellele.",
-    "Kes teadmine teie arvates on oluline?"
+    "Kes on see?",
+    "Kes tuleb homme?",
+    "Kest mõtleksid?"
   ],
   "translation": [
-    "who"
+    "who",
+    "whom"
   ],
-  "context": "The word 'kes' in Estonian is a pronoun used to ask about or refer to an unspecified person or people. It's commonly used at the beginning of questions asking 'who' something refers to."
+  "context": "The Estonian word 'kes' is an interrogative pronoun used to ask about a person's identity. It corresponds to English 'who' or 'whom'. In questions, it typically appears at the beginning of the sentence when asking about someone's identity."
 }

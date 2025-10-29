@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Esiteks tahan ma öelda, et see on oluline küsimus.",
-    "Teiseks pean ma võtma arvesse ka teisi aspekte.",
-    "Kolmandaks, tahan ma rõhutada, et teiseks on väga tähtis."
+    "Teiseks on see väga odav.",
+    "Teiseks meil on hea ilm.",
+    "Kõigepealt tuleb lapsed kooli ja teiseks peavad nad tööle minema."
   ],
   "translation": [
     "secondly",
-    "in the second place"
+    "in the second place",
+    "next"
   ],
-  "context": "The word 'teiseks' in Estonian is used to indicate a second point or reason in a discussion, similar to the English phrase 'secondly'."
+  "context": "The Estonian word 'teiseks' is an adverb that means 'secondly', 'in the second place', or 'next'. It's used to introduce a second point in a sequence of arguments, statements, or actions. The word comes from 'teine' (meaning 'second') with the '-ks' suffix, which transforms it into an adverbial form indicating position or order."
 }

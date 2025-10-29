@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma nägin teda eile.",
-    "Ta nägi mind ja naeris.",
-    "Me nägime filme koos."
+    "Ma nägin eile härra Andersonit.",
+    "Tüdruk nägi kassi aknast.",
+    "Me nägime metsas rebases."
   ],
   "translation": [
-    "saw"
+    "saw",
+    "have seen",
+    "seen"
   ],
-  "context": "The word 'nägin' is the first person singular past tense form of the Estonian verb 'nägema', which means to see or to notice something."
+  "context": "The word 'nägin' is the first-person singular past tense form of the Estonian verb 'näha', which means 'to see'. It specifically indicates that I (the speaker) saw something in the past. The base form 'näha' changes to nägin in the past tense for the first person singular."
 }

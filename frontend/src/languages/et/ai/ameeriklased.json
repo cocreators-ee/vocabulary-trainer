@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ameeriklased on tänulikud hea majutuse eest.",
-    "Tema vanemad olid ameeriklased, kes elasid pikka aega välismaal.",
-    "Ameeriklased armastavad sügisel jalgpalli mängida."
+    "Ameeriklased on tuntud oma vabaühendusliku süsteemi poolest.",
+    "Paljud meie naabrid on ameeriklased.",
+    "Milline on teie arvamus ameeriklaste kohta?"
   ],
   "translation": [
-    "Americans"
+    "Americans",
+    "American people",
+    "citizens of the United States"
   ],
-  "context": "The word 'ameeriklased' refers to people from America, typically the United States, and is used to describe their culture, behavior, or characteristics in Estonian language."
+  "context": "The word 'ameeriklased' is the plural form of 'ameeriklane', meaning Americans or American people. It refers to citizens or inhabitants of the United States of America. In Estonian, this follows typical noun declension patterns where '-d' is added to form the plural form."
 }

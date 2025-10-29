@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Inimeste seas oli palju tuttavate nägusid.",
-    "Ta rääkis inimeste hulgas.",
-    "Inimeste arvukuse tõttu oli raske liikuda."
+    "Inimesed on loomad.",
+    "Paljud inimesed armastavad muusikat.",
+    "Minu sõbrad on head inimesed."
   ],
   "translation": [
     "people",
-    "humans",
-    "persons"
+    "humans"
   ],
-  "context": "The word 'inimeste' is the genitive plural form of the Estonian word 'inimene', which means 'person' or 'human'. It is commonly used to refer to a group of people or humans in general."
+  "context": "The word 'inimeste' is the partitive plural form of 'inimene', meaning 'person'. In Estonian, the partitive case is often used to indicate partiality or indefiniteness. So 'inimeste' can mean '(of) people' or '(some) people'. It's commonly used when referring to people in a general sense or when you don't want to specify an exact number."
 }

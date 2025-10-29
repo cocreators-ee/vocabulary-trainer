@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma vaatasin filmi eile õhtul.",
-    "Ta vaataks sind paremini, kui sa naerataksid.",
-    "Kas sa vaataksin seda asja ka?"
+    "Vaataks mind kuiks!",
+    "Kas sa vaataksid seda filmi?",
+    "Tema ei vaataks kunagi sellist asja."
   ],
   "translation": [
-    "look",
-    "watch",
-    "see"
+    "would look",
+    "would watch",
+    "would see"
   ],
-  "context": "The verb 'vaataks' is a conditional form of the Estonian verb 'vaadata', meaning 'to look,' 'to watch,' or 'to see.' It expresses what someone would do under certain circumstances. In English, it’s similar to saying ‘would look,’ ‘would watch,’ or ‘would see.’"
+  "context": "The word 'vaataks' is the conditional form (conditional mood) of the Estonian verb 'vaatama', which means 'to look', 'to watch', or 'to see'. In English, it corresponds to 'would look/watch/see'. This form is used to express hypothetical situations, wishes, or polite requests. For example, in the first sentence 'Vaataks mind kuiks!', it's expressing a wish for someone to look at them; in the second question 'Kas sa vaataksid seda filmi?', it's asking if someone would watch that movie (hypothetical situation); and in the third negative sentence 'Tema ei vaataks kunagi sellist asja.', it states that someone would never do such a thing. The '-ks' ending is characteristic of the conditional mood in Estonian."
 }

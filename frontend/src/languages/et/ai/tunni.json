@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tunnis on koolis kuus tundi.",
-    "Ma olen tunni jooksul valmis.",
-    "Kaks tundi on pikka aega."
+    "Tunni jooksul me lahendasime kaks ülesannet.",
+    "Kas sa tunnid veel praegu?",
+    "Tunnid algavad kell 9 hommikul."
   ],
   "translation": [
-    "hour",
-    "lesson"
+    "in an hour",
+    "during the lesson",
+    "of the hour"
   ],
-  "context": "The word 'tunni' generally refers to an hour or a lesson in English, and is commonly used when describing time periods or school schedules in Estonian."
+  "context": "The Estonian word 'tunni' has multiple meanings depending on context. It can be the genitive case of 'tund' meaning 'hour', so it means 'of the hour' or 'in an hour'. It can also refer to something related to lessons or teaching, such as 'during the lesson'. The form indicates possession or relationship in Estonian grammar."
 }

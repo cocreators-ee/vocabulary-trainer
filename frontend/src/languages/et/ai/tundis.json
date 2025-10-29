@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tundisin end väga hästi.",
-    "Ta tundis mind.",
-    "Nad tundisid üksteist juba mitu aastat."
+    "Tundis, et ta oli olnud valesti.",
+    "Me tundis end hästi sel päeval.",
+    "Ta tundis end väga stressitult."
   ],
   "translation": [
     "felt",
-    "knew",
-    "recognized"
+    "sensed",
+    "perceived"
   ],
-  "context": "The word 'tundis' is the past tense of the Estonian verb 'tundma', which means to feel or to know someone or something. It is commonly used to describe a sense of familiarity or recognition."
+  "context": "The word 'tundis' is the 3rd person singular past tense form of the Estonian verb 'tundma', which means to feel, sense, or perceive. It describes a sensory or emotional experience that someone had in the past."
 }

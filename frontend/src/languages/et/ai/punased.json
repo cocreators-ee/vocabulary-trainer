@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kandis punased kingad.",
-    "Punased silmad olid temaga juba ammu.",
-    "Punasest särkest tehtud majad paistavad kaugelt."
+    "Punased lilled on ilusad.",
+    "Ta kannab punaseid kingaid.",
+    "Meie lipu värvid on must ja punane."
   ],
   "translation": [
-    "red",
-    "reddish"
+    "red (plural form)",
+    "red-colored"
   ],
-  "context": "The word 'punased' in Estonian means something that has a red color, and it is commonly used to describe objects or things that have a reddish hue."
+  "context": "The word 'punased' is the plural nominative form of the Estonian adjective 'punane', meaning 'red'. It describes multiple red items or things that are red in color. In Estonian, adjectives agree with nouns in number and case. 'Punased' specifically refers to multiple red objects (plural) and is used in the nominative case."
 }

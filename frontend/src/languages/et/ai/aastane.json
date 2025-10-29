@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Päikeseloojangupüha on aastane põnevus. ",
-    "Kuna sadas vähe, siis aastane saabuvad köit on suurepärad.",
-    "Aastane tootlus on 20% sujuvam."
+    "Ta on viieaastane laps.",
+    "See kaheksa-aastane tüdruk oskab hästi lugeda.",
+    "Kümneaastane poiss mängis korvpalli."
   ],
   "translation": [
-    "annual",
-    "yearly"
+    "-year-old",
+    "years of age"
   ],
-  "context": "'aastane' is an adjective used in Estonian to describe something that happens once a year or is related to a specific time frame of one year. It's commonly used for events, production figures or occurrences repeated every year."
+  "context": "The suffix '-aastane' is used in Estonian to form adjectives indicating a person's or thing's age. It combines with numbers to mean 'X years old'. The structure typically places the number before '-aastane', making it similar to constructions like 'five-year-old' in English."
 }

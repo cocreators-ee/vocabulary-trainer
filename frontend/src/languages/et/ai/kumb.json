@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea, kumb neist on parem.",
-    "Kumb võidab selle mängu?",
-    "Kumb kahe nimega koer on sinu lemmik?"
+    "Kumb on parem? - Which is better?",
+    "Kumb mees tuli eile? - Which man came yesterday?",
+    "Eks kumbki ei tea seda. - I guess neither knows that."
   ],
   "translation": [
     "which",
-    "who"
+    "either",
+    "neither"
   ],
-  "context": "The word 'kumb' is commonly used in Estonian to ask for a choice between two options or to identify which one of two things is being referred to."
+  "context": "The word 'kumb' in Estonian is an interrogative pronoun used to ask about choice between two options, similar to English 'which'. It can also function as a negative indefinite pronoun meaning 'either' or 'neither' in certain contexts. In questions, it's used when choosing between two specific things or people, while in negatives with 'ki', it means neither of the two."
 }

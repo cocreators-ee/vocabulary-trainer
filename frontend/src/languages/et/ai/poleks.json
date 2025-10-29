@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma poleks seda teinud",
-    "Ta poleks seda öelnud",
-    "Meie poleks seda teinud"
+    "Kas poleks võimalik kohtuda homme?",
+    "Poleks hea kõige valmis ette.",
+    "Meile poleks vaja edasi minna."
   ],
   "translation": [
-    "would not have",
-    "had not"
+    "would be",
+    "could be",
+    "might be"
   ],
-  "context": "The word 'poleks' is the conditional perfect tense of the verb 'olema', which means 'to be'. It is commonly used to express a hypothetical or uncertain situation in the past, similar to the English phrase 'would not have'."
+  "context": "The word 'poleks' is the conditional form of the verb 'pole', meaning 'is not'. It functions as a hypothetical or subjunctive construction, similar to 'if it were...' in English. This form is used to express wishes, possibilities, or hypothetical situations in Estonian."
 }

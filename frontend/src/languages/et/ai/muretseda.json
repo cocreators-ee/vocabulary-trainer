@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ei muretse oma vaba aja eest.",
-    "Mina alati muretsen enne eksamit.",
-    "Ära muretseda selle pärast.",
-    "Ta hakkas muretsema kui kuulis uusi uudiseid."
+    "Ta muretseb oma töö eest.",
+    "Me ei muretseta selle asja pärast.",
+    "Muretsedame heade tulemuste saavutamisest."
   ],
   "translation": [
-    "worry",
-    "be anxious"
+    "to worry",
+    "to be anxious about",
+    "to concern oneself with"
   ],
-  "context": "Expresses concern or anxiety about something, can be used both as a verb and in different tenses"
+  "context": "The Estonian verb 'muretseda' means to worry or be anxious about something. It can refer both to active worrying/concerning oneself with matters and the general state of being worried. The word comes from 'mure' (worry, concern) + '-tse-' (verb-forming suffix) + '-da' (infinitive ending). When used in different forms like muretsedame (we worry) or muretseta (imperative), it maintains the core meaning of being concerned about something."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta kandis kepi pähe.",
-    "Kepi langes maha tuules.",
-    "Politseil on sinised kepid."
+    "Keegi võttis minu kepi ära.",
+    "Kepid on hea tööriistad.",
+    "Ma olen ostanud uue kepi."
   ],
   "translation": [
-    "hat",
-    "cap"
+    "helmet",
+    "protective headgear",
+    "head covering"
   ],
-  "context": "The word 'kepi' in Estonian refers to a hat or cap. It is commonly used to describe headwear, similar to the English words 'hat' and 'cap'. The type of hat isn’t specified by the word itself; it could be a baseball cap, a winter hat, or any other kind of head covering."
+  "context": "The word 'kepi' in Estonian means a helmet or protective headgear. It refers to any type of head covering designed for protection, commonly used in construction, sports, or other activities where head safety is important."
 }

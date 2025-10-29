@@ -1,16 +1,16 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma mõtlen hmm, mis ma peaksin tegema?",
-    "Hmm, see on väga huvitav küsimus.",
-    "Ta ütles lihtsalt hmm ja vaikis."
+    "Hmm, see on huvitav.",
+    "Hmm, ma pean selles veel mõtlema.",
+    "Hmm, kas sa oled kindel?"
   ],
   "translation": [
-    "um",
-    "er",
-    "well",
-    "hmm"
+    "Hmm",
+    "Oh",
+    "Um",
+    "Let me think",
+    "Well"
   ],
-  "context": "The Estonian word 'hmm' is an interjection used similarly to 'um', 'er', or 'well' in English. It indicates hesitation, thought, or acknowledgement without a full verbal response. It’s often used as a filler word during speech."
+  "context": "The word 'hmm' is an interjection used in Estonian to express hesitation, thinking, or contemplation. It's similar to English expressions like 'Hmm', 'Oh', or 'Um' that people use when they're considering something carefully, pausing before responding, or indicating uncertainty. In the provided examples, it shows someone pondering a statement ('Hmm, this is interesting'), needing time to think about something ('Hmm, I need to think more about this'), or expressing doubt about what was said ('Hmm, are you sure?')."
 }

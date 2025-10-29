@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen järgmise kuu jooksul välismaal.",
-    "Järgmise aasta suveks on meil plaanis minna Soome.",
-    "Ta oli järgmise päeva hommikul juba ärganud."
+    "Järgmine hommikune buss saabub kell seitse.",
+    "Me peame tegema järgmise sammu plaani.",
+    "Oota veel veerand tundi ja see on järgmine."
   ],
   "translation": [
     "next",
-    "following"
+    "following",
+    "coming"
   ],
-  "context": "The word järgmise is used in Estonian to indicate something that comes after something else, often referring to time or sequence, and it can be translated to English as 'next' or 'following'."
+  "context": "The Estonian word 'järgmine' is an adjective that means 'next', 'following', or 'coming'. It's used to indicate something that comes after the current one in a sequence of events, items, or time periods. The word can be declined for different cases and numbers depending on how it's used in a sentence."
 }

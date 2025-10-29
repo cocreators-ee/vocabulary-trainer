@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin jalga.",
-    "Ta tappis jalga.",
-    "Jalga on vaja pesta."
+    "Tema jalga on haige.",
+    "Jalgu võib valu tunda.",
+    "Kaks jalga on vajalikud kõndimiseks."
   ],
   "translation": [
+    "leg",
     "foot",
-    "leg"
+    "legs",
+    "feet"
   ],
-  "context": "The word 'jalga' in Estonian generally refers to the lower part of the leg or foot, and it is commonly used in various contexts such as anatomy, sports, or everyday conversations about body parts."
+  "context": "The word 'jalga' is the partitive case form of 'jalg', which means leg or foot in Estonian. The partitive case often indicates partial action, incomplete state, or object of an action. In this context, 'jalga' can be used when referring to a single leg/foot in certain grammatical constructions or when talking about legs/feet as objects or in incomplete states."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen nõus sellega, lisaks on see hea mõte.",
-    "Lisaks sellele, mis me juba teame, on uusi avastusi.",
-    "Ta oli hea inimene, lisaks tema suurepärastele omadustele."
+    "Lisaks eelistatud toodetele saavad kliendid ka sooduspuhastusteenuse.",
+    "Mees võttis lisaks oma sõbra nõuandeid.",
+    "Töölise palk on 1200 eurot kuus lisaks kõik maksud ja lisaüleminekud."
   ],
   "translation": [
     "in addition",
-    "furthermore",
+    "besides",
     "also"
   ],
-  "context": "The word 'lisaks' is used to indicate something additional or in conjunction with something else, and it can be translated to English as 'in addition', 'furthermore', or 'also'."
+  "context": "The Estonian word 'lisaks' is used as an adverb or preposition to indicate adding something extra. It can be translated to English as 'in addition', 'besides', or 'also'. The word appears before the additional information being referenced. In some contexts, it may function similarly to 'furthermore' in formal writing."
 }

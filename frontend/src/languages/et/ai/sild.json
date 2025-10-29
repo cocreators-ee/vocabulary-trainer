@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõitsin üle silla.",
-    "Sild on väga kõrge.",
-    "Ta ehitas silla oma aias."
+    "Sild üles jões.",
+    "Me lähme silla peale.",
+    "Uus sild on valmis."
   ],
   "translation": [
-    "bridge"
+    "bridge",
+    "span",
+    "viaduct"
   ],
-  "context": "The word 'sild' in Estonian refers to a structure that spans a physical obstacle, such as a body of water or a valley, and provides a passage over it, typically for vehicles or pedestrians. It is commonly used in various contexts, including transportation infrastructure, architecture, and everyday conversation."
+  "context": "The word 'sild' in Estonian means bridge and refers to a structure built over water, roads or valleys to allow passage. It can be used for various types of bridges including road bridges, footbridges, or viaducts. The word is masculine in gender and follows standard Estonian grammar patterns."
 }

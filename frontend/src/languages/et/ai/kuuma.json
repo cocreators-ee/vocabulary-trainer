@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kuuma.",
-    "Kuuma ilm tuli tagasi.",
-    "Kuumasõja oht on suur."
+    "Kuum päev.",
+    "See on kuum tee.",
+    "Mul oli väga kuum."
   ],
   "translation": [
     "hot",
-    "warm"
+    "warm",
+    "heated"
   ],
-  "context": "The word kuuma is an adjective in Estonian that means hot or warm, and it is commonly used to describe the weather or temperature."
+  "context": "The word 'kuuma' is the elative case form of the Estonian adjective 'kuum', which means 'hot'. It is used to indicate movement from a hot state or position, and can be translated as 'from heat' or 'out of heat'. In everyday usage, it's commonly found in expressions describing temperature conditions."
 }

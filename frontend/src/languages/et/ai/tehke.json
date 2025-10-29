@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin selle ülesande eile.",
-    "Sa pead seda tegema kiiresti!",
-    "Nad tegid suure vea."
+    "Tehke hästi!",
+    "Mis te tehete?",
+    "Kuidas te tehete?"
   ],
   "translation": [
     "do",
-    "make"
+    "make",
+    "perform"
   ],
-  "context": "The Estonian word 'tehke' is the imperative form of the verb 'tegema', which means 'to do' or 'to make'. It’s used to instruct someone to perform an action, similar to ‘do it!’ or ‘make it!’ in English. It can also be translated as 'let's do'."
+  "context": "'Tehke' is the plural form of the Estonian verb 'tule', which means 'to do' or 'to make'. It's used when addressing a group of people formally (second person plural). In English, it corresponds to commands like 'Do!' or questions like 'What are you doing?' when speaking to multiple people politely."
 }

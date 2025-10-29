@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Sina saad selle ülesande kätte vaevu.",
-    "Rohkem kui eile toimus see väga vaeva tehes.",
-    "Ta jättis töö lõpetamata, sest see oli lihtsalt liiga vaevuline."
+    "See on vaevu nähtav.",
+    "Ta tegi seda vaevu.",
+    "Me jõudsime kohale vaevu."
   ],
   "translation": [
-    "difficulty",
-    "trouble",
-    "hardship"
+    "with difficulty",
+    "hardly",
+    "barely"
   ],
-  "context": "The word 'vaevu' typically conveys the idea of experiencing difficulty or facing challenges in a situation."
+  "context": "The Estonian word 'vaevu' is an adverb that indicates something was done with great effort or barely achieved. It suggests difficulty and struggle in completing an action or reaching a state. When used before a verb, it emphasizes the challenging nature of the task, while when used after, it often describes how little remained or how close one came to not succeeding."
 }

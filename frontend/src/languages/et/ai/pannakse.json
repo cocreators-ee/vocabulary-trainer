@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta pannakse kohe vangi.",
-    "Pannakse ettepanek üles võtta.",
-    "Kõik pannakse proovile."
+    "Tööd alustati kell 9 ja lõpetati kell 17.",
+    "Maja ehitatakse uuele krundile.",
+    "Kooliregulaatoreid jälgitakse rangelt."
   ],
   "translation": [
-    "is put",
-    "are placed",
-    "will be put"
+    "is placed",
+    "is built",
+    "is being watched",
+    "are put"
   ],
-  "context": "The word 'pannakse' is the third person singular form of the verb 'panema', which means to put or place something. It is commonly used in Estonian language to indicate that something is being put or placed in a certain position or situation."
+  "context": "The word 'pannakse' is the 3rd person plural present passive form of the Estonian verb panna (to put, to place). It indicates that an action is being done by someone unspecified or unknown, and focuses on the object receiving the action rather than who is performing it. This passive construction is commonly used in Estonian when the doer of the action is not important, unknown, or obvious from context."
 }

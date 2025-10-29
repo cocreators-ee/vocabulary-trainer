@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta ülesanne õnnestub.",
-    "Projekt jääb õnnestuma.",
-    "Meil on soovi, et see katsed õnnestuvad."
+    "Õnnestub tal tööd leida.",
+    "Katsed lõpuks õnnestusid.",
+    "Projekt õnnestus hästi."
   ],
   "translation": [
-    "succeed",
-    "is successful"
+    "succeeds",
+    "is successful",
+    "works out",
+    "turns out well"
   ],
-  "context": "'Õnnestub' is used to indicate that an action or endeavor has been successfully completed. It can be used in both literal and figurative contexts, such as succeeding in a task, achieving goals, or completing something without complications."
+  "context": "The word 'õnnestub' is the third-person singular present form of the Estonian verb 'õnnestuma', which means to succeed or be successful. It describes when something works out well, achieves its intended result, or brings good fortune."
 }

@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu pea valitseb.",
-    "Pea kõrvale!",
-    "Ta tegi peaga märku."
+    "Tema on pea meie grupis.",
+    "Peame kohtuma kell kolm.",
+    "See on peaasi."
   ],
   "translation": [
-    "Head",
-    "Head (as in part of the body)",
-    "Head (as in direction)"
+    "head",
+    "main",
+    "chief",
+    "first",
+    "primary"
   ],
-  "context": "The Estonian word 'pea' can mean different things depending on context: it is most commonly used to refer to the head as a body part, but may also be used more figuratively or metaphorically."
+  "context": "The Estonian word 'pea' has multiple meanings depending on context. It can mean 'head' (as in body part), 'main', 'first', or 'primary'. In the examples: 1) 'Tema on pea meie grupis' means 'He is head/chief of our group'; 2) 'Peame kohtuma kell kolm' uses it as an auxiliary verb form meaning 'must/should meet at three o'clock'; 3) 'See on peaasi' means 'This is the main thing/most important matter'. The word can function as a noun, adverb, or part of compound verbs in Estonian."
 }

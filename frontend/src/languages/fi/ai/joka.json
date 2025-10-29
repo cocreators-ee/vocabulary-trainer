@@ -1,15 +1,15 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Tämä on se mies joka puhui tänään.",
-    "Kirja, joka sijaitsi pöydällä oli hukassa.",
-    "Autot, jotka olivat sinisiä, olivat kaikki uusia."
+    "Joka päivä menen kouluun.",
+    "Hän on hyvä opettaja, joka auttaa meitä.",
+    "Talossa, jossa asut, on kaunis puutarha."
   ],
   "translation": [
-    "who",
     "which",
-    "that"
+    "who",
+    "that",
+    "every"
   ],
-  "context": "'joka' is a relative pronoun used to introduce a clause that provides more information about something previously mentioned. It can refer to both people and things."
+  "context": "The Finnish word 'joka' is a versatile pronoun that functions as both a relative pronoun and an indefinite quantifier. As a relative pronoun, it introduces clauses to identify or describe nouns (like 'which,' 'who,' 'that' in English). As an indefinite quantifier, it means 'every' when referring to all members of a group. The specific meaning depends on the grammatical context in which it appears."
 }

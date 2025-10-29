@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvan, et see on hea mõte.",
-    "Ta arvas, et oleks parem kodus olla.",
-    "Nende arvates oli see üks võimalik lahendus."
+    "Arvates, et see on õige.",
+    "Ta arvates alati parimat.",
+    "Meie arvates peaks ta tulema."
   ],
   "translation": [
-    "supposedly",
-    "presumably",
-    "allegedly"
+    "considering that",
+    "assuming that",
+    "judging by"
   ],
-  "context": "The word 'arvates' in Estonian is used to express that something is believed or thought to be true, but not necessarily proven or confirmed. It can be translated to English as 'supposedly', 'presumably', or 'allegedly', and is often used in sentences to convey a sense of uncertainty or doubt."
+  "context": "The Estonian word 'arvates' is the elative case (from/away from) form of the verb 'arvama', meaning 'to think' or 'to consider'. It's used to express consideration or assumption about something. In English, it typically translates to phrases like 'considering that,' 'assuming that,' or 'judging by.' This form is often followed by a clause explaining what is being considered."
 }

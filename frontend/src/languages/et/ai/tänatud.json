@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tänatud sulle",
-    "Ta on tänatud meile",
-    "Nad on tänatud tema abile"
+    "Tänan sind väga.",
+    "Täname meie abijõude.",
+    "Tänatud teie abi eest."
   ],
   "translation": [
     "thankful",
-    "grateful"
+    "grateful",
+    "appreciative"
   ],
-  "context": "The word 'tänatud' is an adjective in Estonian that means being thankful or grateful for something or someone."
+  "context": "The word 'tänatud' is the past participle form of the Estonian verb 'täna' (to thank). It means 'thanked', 'appreciated', or 'expressed gratitude'. This form can be used as an adjective to describe someone who has been thanked or as a passive construction indicating that thanks have been expressed. In Estonian grammar, '-tud' is the typical suffix for forming past participles from verb stems."
 }

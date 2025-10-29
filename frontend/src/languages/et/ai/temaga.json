@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema koos temaga.",
-    "Läksid poodi temaga?",
-    "Jään temaga sõbraks."
+    "Tema on tulnud temaga kohtuma.",
+    "Mul oli hea aeg temaga.",
+    "Kas sa tuled meiega või temaga?"
   ],
   "translation": [
-    "with him",
-    "with her"
+    "with him/her/it",
+    "together with"
   ],
-  "context": "The word 'temaga' is used in Estonian to mean 'with him' or 'with her'. It typically refers to accompanying someone and is commonly used when talking about being together with a person, either going somewhere or interacting with them. The form depends on the gender of the person referred to."
+  "context": "The word 'temaga' is an Estonian postposition that combines the pronoun 'tema' (he/she/it) with the case ending '-ga', which means 'with'. It indicates accompaniment or association, similar to English 'with him/her/it'. This form is used in the instructive case to show being together with someone or something."
 }

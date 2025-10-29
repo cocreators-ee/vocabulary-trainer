@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me kasutame seda iga päev.",
-    "Ta kasutas oma vanemat õde.",
-    "Nad on selleks liiga noored, et seda kasutada."
+    "Me kasutame seda programmi tööks.",
+    "Nad kasutasid seda vahendit edukalt.",
+    "Kasutame seda meetodit uuesti järgmisel nädalal."
   ],
   "translation": [
     "use",
-    "utilize"
+    "utilize",
+    "employ"
   ],
-  "context": "The word 'kasutame' is the first person plural form of the verb 'kasutama', which means to use or utilize something in Estonian. It is commonly used in everyday conversations to describe the act of using an object, service, or idea."
+  "context": "The word 'kasutame' is the 1st person plural present indicative form of the Estonian verb 'kasutama', which means 'to use'. It specifically translates to English as 'we use'. The root word 'kasuta-' indicates utilization or employment, and the ending '-me' marks it as first person plural (we) in the present tense. This is a commonly used verb in everyday Estonian for expressing actions of using objects, methods, or resources."
 }

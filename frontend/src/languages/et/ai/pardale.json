@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on suur pardale.",
-    "Pardaled on tihti väga mured.",
-    "Ma ei tea, mis pardalel sa mõtled."
+    "Kuidas sa sõitsid pardale?",
+    "Ma ei tea, kuhu pardale minna.",
+    "Ta läks pardale koos oma sõpradega."
   ],
   "translation": [
-    "concern",
-    "worry",
-    "trouble"
+    "to the duck",
+    "to the waterfowl",
+    "to the bird"
   ],
-  "context": "The word 'pardale' in Estonian refers to a state of worry, concern or trouble. It is often used to describe someone who is burdened by problems or anxieties. In English, it’s similar to saying ‘to have something on one’s mind’ or ‘to be troubled.’"
+  "context": "In Estonian, 'pardale' is an allative form of the word 'parda', which means 'duck'. The '-le' suffix indicates movement toward or arrival at a place. So 'pardale' specifically means 'to the duck' or 'toward the duck'. It's used when indicating direction towards a duck or ducks, typically in contexts where someone is going to or heading toward a duck."
 }

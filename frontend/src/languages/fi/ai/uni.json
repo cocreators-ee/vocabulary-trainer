@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kun uni herää aamulla, hän on valmis alkuun.",
-    "Unista tuli tosi elämään, kun hänen isänsä osti uuden auton.",
-    "Hän unelmoi täydellisestä elämästä."
+    "Minulla on kaunis uni.",
+    "Uneni ovat usein unelmoivia.",
+    "Hän nukkui syvään uneen."
   ],
   "translation": [
-    "dream"
+    "sleep",
+    "dream",
+    "slumber"
   ],
-  "context": "The word 'uni' in Finnish primarily refers to a dream or something that one dreams about. It can be used both literally and metaphorically, such as when talking about aspirations or desires one hopes will come true, similar to how English might use the phrase 'dream big.'"
+  "context": "The Finnish word 'uni' can mean both 'sleep' and 'dream'. As a common noun, it typically refers to sleep or the state of being asleep. It can also refer to dreams that occur during sleep. In Finnish grammar, 'uni' is in the nominative singular form. The plural form would be 'unet', meaning 'sleeps' or 'dreams'. This word is commonly used when talking about nighttime rest, sleeping patterns, or dream experiences."
 }

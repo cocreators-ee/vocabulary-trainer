@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis tema käsi.",
-    "Käsi on inimese ülemääse jalgu osa.",
-    "Käed olid külmad."
+    "Kas sa võiksid anda mulle oma käsi?",
+    "Tema käed on väga külmad.",
+    "Lapse kätega mängime palli."
   ],
   "translation": [
     "hand",
-    "arm"
+    "paw"
   ],
-  "context": "The word käsi refers to the upper limb of the human body, specifically the part from the shoulder to the fingers, and is commonly used in Estonian to describe actions or parts of the body."
+  "context": "The Estonian word 'käsi' means 'hand' in English. It is used to refer to the human hand or, by extension, an animal's paw. In Estonian grammar, 'käsi' has a specific declension pattern with different forms like käed (plural), käega (with hand), käest (from hand), etc."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
     "Täna on ilus päev.",
-    "Päeva lõpus lähen koju.",
-    "Päevad liiguvad aeglaselt."
+    "Päeval sajab vihma.",
+    "Kas teil oli hea päev?"
   ],
   "translation": [
-    "day"
+    "day",
+    "daytime",
+    "daylight"
   ],
-  "context": "The word 'päev' refers to a day, which is a unit of time in Estonian language and culture. It is commonly used when talking about daily routines or schedules."
+  "context": "In Estonian, 'päev' primarily means 'day' - referring to a 24-hour period or daytime/period of daylight. It can be used in various contexts: as a noun meaning 'day', in phrases indicating time periods, and is commonly combined with other words to form expressions about daily life."
 }

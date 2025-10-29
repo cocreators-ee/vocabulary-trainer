@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lennukile on võetud pardale suur kogus reisikuid.",
-    "Ta ostis piletid lennukile juba homme.",
-    "Meil pole piisavalt aega, et jõuda lennukile õigeaegselt."
+    "Lennukile tuli palju külastajaid.",
+    "Meie pere lendas lennukile Saksamaale.",
+    "Sellel lennukile on kõige mugavam istekoht."
   ],
   "translation": [
-    "to the plane",
-    "on the plane"
+    "on the airplane",
+    "onto the airplane",
+    "to the airplane"
   ],
-  "context": "The word 'lennukile' is used in Estonian to indicate movement towards something, specifically an airplane or plane in this context, and it is commonly used when describing actions related to traveling by air."
+  "context": "The word 'lennukile' is an Estonian inessive-form noun that means 'on the airplane' or 'onto/to the airplane'. It's formed from the root word 'lennuk' (airplane) with the '-le' suffix, which indicates movement towards or location on something. The '-le' case is used to express direction toward or onto a surface, similar to English prepositions like 'to', 'onto', or 'on' when referring to transportation vehicles."
 }

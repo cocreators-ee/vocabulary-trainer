@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Politsei on jõudnud kuriteopaiga",
-    "Ta töötab politseis",
-    "Politsei peab kurjategijad kinni"
+    "Politsei tuleb kiiresti.",
+    "Kes on politsei sellel juhtumil?",
+    "Me peame helistama politseile."
   ],
   "translation": [
     "police",
-    "cops"
+    "the police"
   ],
-  "context": "The word 'politsei' refers to the police force or law enforcement agency in Estonia, and it is commonly used in everyday language to describe the authorities responsible for maintaining order and enforcing laws."
+  "context": "The word 'politsei' is the Estonian word for 'police' or 'the police'. It refers to the law enforcement agency responsible for maintaining public order and safety. The word appears to be a direct borrowing from other languages like English, Finnish, or Russian where similar words exist with the same meaning."
 }

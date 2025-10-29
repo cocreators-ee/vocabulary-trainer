@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Taulukko näyttää seuraavalta:",
-    "Hän laati taulukon tuloksista.",
-    "Taulukot ovat hyödyllisiä tiedon visualisoinnissa."
+    "Taulukko on pöydällä.",
+    "Minulla on uusi taulukko kirjoittamista varten.",
+    "Koulussa opimme käyttämään taulukoita matematiikassa."
   ],
   "translation": [
     "table",
-    "chart"
+    "desk",
+    "chart",
+    "spreadsheet"
   ],
-  "context": "The word 'taulukko' in Finnish refers to a table or chart, often used for organizing and displaying data in a clear and visually appealing way."
+  "context": "The word 'taulukko' is a Finnish noun that refers to various types of tables or charts. It can mean a physical table/desk, a data table in mathematics or statistics, or even a digital spreadsheet. In common usage, it often refers to furniture used for working or eating, similar to the English word 'table'. The word follows standard Finnish grammar with possible case endings depending on how it's used in sentences."
 }

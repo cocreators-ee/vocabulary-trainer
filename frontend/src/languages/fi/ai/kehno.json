@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän oli kehno tanssija.",
-    "Kehnota työtä tekevä henkilö ei menesty elämässä.",
-    "Tällainen kehno ilmasto ei ole hyvä kasvulle."
+    "Tämä on kehno kirja.",
+    "Hän teki kehnon virheen.",
+    "Meillä oli kehno päivä."
   ],
   "translation": [
+    "bad",
     "poor",
-    "bad"
+    "inferior"
   ],
-  "context": "The word 'kehno' in Finnish means something or someone that is of poor quality or performs poorly, it is commonly used to describe a person's skills or the quality of something."
+  "context": "The Finnish word 'kehno' is an adjective meaning bad, poor, or inferior. It's used to describe something of low quality, not good enough, or disappointing in some way. The word doesn't change form for gender but can have different suffixes depending on the case and number it appears in."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Selleni ei mõista keegi.",
-    "Ma tõi selle sõna selleni kirja.",
-    "Ei tohi jätta sellest midagi sellel sõbral selleni."
+    "Selleni olen taotluse esitanud.",
+    "Me jõudsime selleni.",
+    "Ta oli töötanud kuni selleni."
   ],
   "translation": [
-    "that word",
-    "this word"
+    "until that point",
+    "up to that time",
+    "to such an extent"
   ],
-  "context": "Söna 'selleni' viitab mingile sõnale või asjale, mida on varem mainitud või teada. See võib tulla kasutusse arutlustel, kirjutamisel või selgituses."
+  "context": "The Estonian word 'selleni' is a compound word combining 'sellega' (with this/thus) and the suffix '-eni' which indicates direction or limit. It functions as an adverbial phrase meaning 'until that point' or 'up to that time'. It's used to specify a boundary in time, space, or degree up to which something continues or applies."
 }

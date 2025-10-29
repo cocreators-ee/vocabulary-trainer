@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen rohkem kui valmis.",
-    "Ta on rohkem kui üllatunud.",
-    "Meil on rohkem aega."
+    "Ma tahan rohkem õunu.",
+    "Tal on rohkem aega kui meil.",
+    "Kas sa tahad veel rohkem kohvi?"
   ],
   "translation": [
-    "more"
+    "more",
+    "additional",
+    "further"
   ],
-  "context": "The word 'rohkem' is an Estonian adjective that means more or additional in English, it can be used to describe something that is greater in quantity or degree."
+  "context": "The Estonian word 'rohkem' is the comparative form of 'palju' (much/many) and means 'more'. It's used to indicate a greater quantity or amount compared to something else. In sentences, it typically appears after the verb or at the end of the sentence when expressing additional amounts."
 }

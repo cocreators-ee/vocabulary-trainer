@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on esimest korda Eestis.",
-    "See on esimest kord, kui ma olen seda näinud.",
-    "Esimest korda tuli ta avalikult rääkima."
+    "Esimest korda nägin seda filmi.",
+    "Olen esimest korda Eestis.",
+    "Meie on esimest korda koos."
   ],
   "translation": [
-    "first time",
+    "first",
     "for the first time"
   ],
-  "context": "The word 'esimest' in Estonian is used to indicate something that is happening for the first time, and it can be translated to English as 'first time' or 'for the first time'."
+  "context": "The word 'esimest' is the partitive case singular form of the ordinal number 'esimene', which means 'first'. It's commonly used in constructions with 'korda' (time) to indicate something happening for the first time, as in 'esimest korda' meaning 'for the first time'."
 }

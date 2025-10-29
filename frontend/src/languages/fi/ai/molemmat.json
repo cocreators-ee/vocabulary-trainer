@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Molemmat ovat hyviä ystäviäni.",
-    "Hänellä on molemmat jalat murtuneena.",
-    "Olemme kokeilleet molempia vaihtoehtoja."
+    "Molemmat pojat ovat koulussa.",
+    "Ostasin molemmat kirjat.",
+    "Hän näki molemat elokuvat."
   ],
   "translation": [
     "both",
-    "each"
+    "the two of them",
+    "all two"
   ],
-  "context": "The word 'molemmat' is commonly used in Finnish to refer to two things or people, emphasizing that both are included or affected. It can be translated to English as 'both' or 'each', depending on the context of the sentence."
+  "context": "The Finnish word 'molemmat' is a pronoun meaning 'both' or 'the two of them'. It is the plural form of 'molempi', which means 'either/each one'. This word is used when referring to exactly two things, people, or entities. It's always in plural form even though it refers specifically to just two items."
 }

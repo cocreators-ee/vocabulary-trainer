@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kaotan selle mängu",
-    "Ta kaotas kogu oma raha",
-    "Meie kaotame aeg-ajalt"
+    "Sa kaotad mängu.",
+    "Ta alati kaotab argumente.",
+    "Me ei taha kaotada aega."
   ],
   "translation": [
     "lose",
-    "miss"
+    "are losing",
+    "will lose"
   ],
-  "context": "The word 'kaotad' in Estonian means to lose something, whether it be a game, an object, or even one's way. It is commonly used in various contexts, such as sports, everyday life, and even abstract concepts like losing hope or direction."
+  "context": "The word 'kaotad' is the second person singular present tense form of the verb 'kaotama', which means 'to lose'. It is used when addressing one person informally (you) and indicating an action that happens now or in the near future. The base form 'kaotama' can be conjugated to different tenses, persons, and numbers: kaotan (I lose), kaotad (you lose), kaotab (he/she/it loses), kaotame (we lose), kaotate (you plural lose), kaovad (they lose)."
 }

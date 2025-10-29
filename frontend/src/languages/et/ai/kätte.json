@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma teen see kätte sule tänasööd.",
-    "Käe kätte pidi nad neid teadma.",
-    "Sul on sõbrad, kellega sa kõik kätte tohid?",
-    "Vaatad kätte ja tunned, et midagi on läbi mässanud."
+    "Tema andis raamatu kätte.",
+    "Mees tõi toidu kätte.",
+    "Laps võttis mänguasja kätte."
   ],
   "translation": [
-    "hand",
-    "in hand",
-    "by hand"
+    "to hand over",
+    "to give",
+    "to deliver"
   ],
-  "context": "The Estonian word 'kätte' primarily translates to 'hand', 'in hand', or 'by hand'. It is commonly used in phrases like 'teha kätte' which means 'to do by hand'"
+  "context": "In Estonian, 'kätte' is the partitive form of käsi (hand), used when something is being handed to someone or given into their hands. It indicates that an object is being received by someone's hands, similar to English expressions like 'into one's hands' or 'to hand over'. The word appears in contexts where someone receives something physically or metaphorically."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks maalt kaugele.",
-    "See on ilus maalt vaade.",
-    "Nad tulid tagasi maalt."
+    "Tuli maalt.",
+    "Häired tulid maalt.",
+    "Maalt tulevad uudised."
   ],
   "translation": [
-    "from the country",
-    "countryside",
-    "land"
+    "from the countryside",
+    "from rural areas",
+    "from out of town"
   ],
-  "context": "The word 'maalt' in Estonian generally translates to 'from the countryside' or 'from the land'. It indicates origin or location relating to rural areas, and can also refer to a view of the landscape."
+  "context": "'Maalt' is an Estonian adessive case form that means 'from the country/countryside'. It indicates origin or source from a rural area. The word comes from 'maa' (land, country) plus the adessive case ending '-lt', which typically shows location away from something."
 }

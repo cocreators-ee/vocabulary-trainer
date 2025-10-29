@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kuidagi rahul",
-    "Ta on kuidagi võimeline",
-    "Kuidagi see õnnestus"
+    "Kuidaga on ilus päev.",
+    "Me saime kuidas kuidagi hakkama.",
+    "Ta ütles midagi kui kuidagi."
   ],
   "translation": [
     "somehow",
-    "in some way"
+    "in some way",
+    "by some means"
   ],
-  "context": "The word 'kuidagi' is used to express that something happens or is done in a certain way, often unexpectedly or surprisingly."
+  "context": "The Estonian word 'kuidagi' is an adverb that expresses uncertainty or indefiniteness, meaning 'somehow', 'in some way', or 'by some means'. It indicates that something happens in a manner that is not clearly specified, often implying difficulty or uncertainty about how it was accomplished. This word combines elements of 'kui' (like/as if) and '-g-' with the adverbial suffix '-i', forming an expression that conveys vagueness about method or manner."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kasutas oma mõistust, et lahendada probleem.",
-    "Mõistus on inimese kõige võimsam tööriist.",
-    "Oma mõistust kasutades sai ta head tulemusi."
+    "See nõudis mõistust.",
+    "Tal oli vähe mõistust olukorras.",
+    "Mõistust on alati vaja rasketes otsustes."
   ],
   "translation": [
-    "mind",
-    "intellect",
-    "reason"
+    "reason",
+    "sense",
+    "judgment",
+    "wisdom"
   ],
-  "context": "The word 'mõistust' refers to the human mind or intellect, and is commonly used in Estonian to describe someone's ability to think critically and make sound decisions."
+  "context": "The Estonian word 'mõistust' is the elative case form of 'mõistus', meaning 'out of reason/sense/wisdom'. It indicates that something comes from or requires reason, sense, judgment or wisdom. This grammatical form shows motion away from something, so it literally means '(from) reason' or '(from) sense'."
 }

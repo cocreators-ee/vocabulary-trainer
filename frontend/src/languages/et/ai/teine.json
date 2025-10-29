@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on teine laps peres.",
-    "Teine võimalus on minna jalgsi.",
-    "Teised inimesed ei mõista seda."
+    "Teine asi on see, et me peame kohtuma.",
+    "Olen teine kord selles linnas.",
+    "Tal on teine arvamus."
   ],
   "translation": [
+    "another",
     "second",
-    "another"
+    "other"
   ],
-  "context": "The word 'teine' is commonly used in Estonian to refer to something or someone that is second in a sequence, or to indicate another option or choice."
+  "context": "The Estonian word 'teine' is an adjective that means 'another', 'second', or 'other'. It's used to indicate something different from what was previously mentioned, or to refer to the second in a sequence. The word can be declined in different cases depending on its grammatical function in the sentence."
 }

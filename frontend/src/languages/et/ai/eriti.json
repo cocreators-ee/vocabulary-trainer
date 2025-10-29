@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma magan eriti hästi kodus.",
-    "Ta on eriti õnnelik täna.",
-    "Eriliselt suvepäeval me armastame lõuna randa."
+    "Ta on eriti hea matemaatikas.",
+    "See oli eriti huvitav film.",
+    "Mulle meeldib eriti palju see raamat."
   ],
   "translation": [
-    "especially"
+    "especially",
+    "particularly",
+    "very much"
   ],
-  "context": "The word 'eriti' is an adverb in Estonian meaning 'especially'. It is commonly used to emphasize a particular aspect or example of something."
+  "context": "The Estonian word 'eriti' is an adverb used to emphasize the degree or intensity of something. It can be translated as 'especially', 'particularly', or 'very much' in English, depending on context. The word typically appears before the adjective or verb it modifies and serves to highlight that something is more pronounced or significant than usual."
 }

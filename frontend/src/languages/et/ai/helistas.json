@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta helistas mulle eile õhtul.",
-    "Kas sa helistad homme?",
-    "Helistasin politseile."
+    "Ta helistas sõbrale.",
+    "Ma helistan sind homseks.",
+    "Kelle sa helistasid?"
   ],
   "translation": [
-    "to call",
-    "ring",
-    "phone"
+    "called (on the phone)",
+    "rang",
+    "phoned"
   ],
-  "context": "The verb 'helistas' in Estonian means 'to call' someone on the phone or to ring a bell. It is commonly used in everyday conversation when discussing making or receiving phone calls."
+  "context": "The word 'helistas' is the past tense third-person singular form of the Estonian verb 'helista', which means to call someone on the telephone. It specifically refers to making a phone call, not other types of calling or shouting."
 }

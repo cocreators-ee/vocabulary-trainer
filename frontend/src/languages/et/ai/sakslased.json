@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sakslased elasid seal juba keskajal.",
-    "Ta oli üks tuntud sakslastest Eesti ajaloos.",
-    "Sakslased olid Eesti territooriumil võimus"
+    "Sakslased on meie naabrid.",
+    "Paljud sakslased külastavad Eestit igal aastal.",
+    "Ajalooliselt olid sakslased mõjukas rahvustegur Eestis."
   ],
   "translation": [
-    "Germans"
+    "Germans",
+    "German people"
   ],
-  "context": "The word 'sakslased' refers to people from Germany or of German ethnicity, and it is commonly used in Estonian to describe Germans or things related to Germany."
+  "context": "The word 'sakslased' is the plural form of the Estonian noun 'sakslane', which means 'a German person'. It refers to people from Germany or of German ethnicity. The word comes from the root 'saks-' which relates to Germany (Estonian: Saksamaa). In historical context, it often referred to the Baltic Germans who lived in Estonia for centuries."
 }

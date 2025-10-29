@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mäletan seda päeva hästi.",
-    "Ta ei mäleta enam oma lapsepõlve.",
-    "Mäletad, kuidas me esimest korda kohtusime?"
+    "Mäletad veel seda päeva?",
+    "Kas sa mäletad meie esimest kohtumist?",
+    "Ta ei mälda oma lapsepõlve"
   ],
   "translation": [
     "remember",
-    "recall"
+    "recall",
+    "memorize"
   ],
-  "context": "The word 'mäletad' is a verb in Estonian that means to remember or recall something, and it is commonly used in everyday conversations to talk about past events or experiences."
+  "context": "The word 'mäletad' is the second person singular form of the verb 'mäletama', which means 'to remember' or 'to recall'. It is used when addressing someone directly (you) and asking if they remember something. The root word 'mäle-' relates to memory, and the '-tad' ending indicates second person singular present tense in Estonian."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jõuan sinna homme",
-    "Ta jõuab kooli kell 8",
-    "Me jõuame sinna ühiselt"
+    "Sa jõuad homme koju.",
+    "Kui ta jõuab, siis teeme lõuna.",
+    "Meie jõuame mäetippu päeval."
   ],
   "translation": [
-    "reach",
-    "arrive"
+    "you arrive",
+    "you reach",
+    "you make it"
   ],
-  "context": "The word jõuad is a verb in Estonian that means to reach or arrive at a place, and it is commonly used to describe the act of getting somewhere."
+  "context": "The word 'jõuad' is the 2nd person singular present tense form of the verb 'jõudma' in Estonian, meaning 'to arrive', 'to reach', or 'to make it'. It indicates that someone (you) is currently arriving at a destination or reaching a goal."
 }

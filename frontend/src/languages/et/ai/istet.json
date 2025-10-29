@@ -1,15 +1,15 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ta istetab oma tööd.",
-    "Nad istetasid uue puu aeda.",
-    "See koht on istetatud lilledega."
+    "Isetus on kõige olulisem osa protsessist.",
+    "Meil tuleb isetada uued eeskirjad.",
+    "Töötajad peavad isetama oma töid korralikult."
   ],
   "translation": [
-    "works",
-    "plants",
-    "is planted"
+    "to set",
+    "establish",
+    "fix in place",
+    "arrange"
   ],
-  "context": "The word 'istet' in Estonian relates to the action of working or planting, and can be used both transitively (to plant something) and intransitively (to work). It often implies a deliberate act of putting something into place or cultivating it."
+  "context": "The word 'istet' appears to be the imperative form of the Estonian verb 'isetada', which means 'to set', 'establish', or 'to fix in place'. It's a command telling someone to set, establish, or arrange something. This is the third person singular imperative form used when addressing one person informally."
 }

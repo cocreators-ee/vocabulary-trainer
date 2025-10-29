@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulis seda jutust",
-    "Ta kuulis mu sõnu",
-    "Kuulisid te seda uudist?"
+    "Ma kuulis häält",
+    "Ta kuulis uudiseid",
+    "Meie kuulisid kohtumisest"
   ],
   "translation": [
     "heard",
-    "listened"
+    "listened to",
+    "learned about"
   ],
-  "context": "The word kuulis is the simple past tense of the Estonian verb kuulma, which means to hear or listen. It is commonly used in sentences to describe the act of perceiving sound or paying attention to something."
+  "context": "The word 'kuulis' is the past tense of the verb 'kulema' in Estonian. It means 'to hear' or 'to listen to'. In its simple past form (3rd person singular), it indicates that someone heard something in the past. This is a common irregular verb form in Estonian."
 }

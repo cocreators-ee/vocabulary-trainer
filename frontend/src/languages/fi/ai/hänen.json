@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hänellä on auto.",
-    "Minä pidän hänen puvustaan.",
-    "Hänen mielestään elämä on kaunista."
+    "Hänen autonsa on punainen.",
+    "Kuulen hänen äänensä.",
+    "Pidän hänestä."
   ],
   "translation": [
     "his",
     "her",
-    "their"
+    "its"
   ],
-  "context": " 'Hänen' is a possessive pronoun in Finnish, meaning 'his', 'her', or 'their'. It indicates possession and is used to show that something belongs to someone. The form changes depending on the grammatical case."
+  "context": "\"Hänen\" is a Finnish possessive pronoun that means 'his', 'her', or 'its' in English. It indicates possession and agrees with the gender of the possessed object rather than the possessor. This word shows possession for third person singular (he/she/it) and can be used before nouns to indicate ownership."
 }

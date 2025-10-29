@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kindel, et kellelgi on see raamat.",
-    "Kellelgi on võimalik seda teha.",
-    "Ta ei tea, kellelgi see kuulub."
+    "Kellelgi meie grupist läks homme koju.",
+    "Sa oled kellelgi hea sõber.",
+    "Seda saab öelda kellelgi teisele."
   ],
   "translation": [
     "to someone",
-    "somebody"
+    "for someone",
+    "on someone"
   ],
-  "context": "The word kellelgi is used in Estonian to indicate that something belongs or happens to someone, and it is often translated to English as 'to someone' or 'somebody'."
+  "context": "The Estonian word 'kellelgi' is an adessive case form of the pronoun 'keegi' (someone). It indicates location or relationship in relation to someone. The '-lgi' suffix adds emphasis, suggesting that this applies to some unspecified person among others. This form is typically used when something happens to, for, at, or on someone's account, or when referring to something being located near or associated with an unidentified person."
 }

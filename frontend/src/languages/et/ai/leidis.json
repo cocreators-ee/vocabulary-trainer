@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma leidis endale uue töö",
-    "Ta leidis oma kaasa",
-    "Nad leidsid endale uued kodud"
+    "Ta leidis oma sõbra majja.",
+    "Meie leidsime kauni aia.",
+    "Lapsed leidsid peidetud asjad."
   ],
   "translation": [
     "found",
     "discovered"
   ],
-  "context": "The word 'leidis' is the third person singular form of the Estonian verb 'leidma', which means to find or discover something. It is commonly used in sentences to indicate that someone has found or discovered something."
+  "context": "Leidis is the past tense singular form of the Estonian verb 'leidma', which means 'to find' or 'to discover'. It's used when referring to someone (he, she, it) finding something in the past. The word follows Estonian grammar where verbs change their endings according to tense and subject."
 }

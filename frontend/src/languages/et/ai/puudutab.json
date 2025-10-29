@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See puudutab mind otseselt",
-    "Ta puudutab seda teemat oma raamatus",
-    "Küsimus puudutab kogu meie ühiskonda"
+    "See probleem puudutab kogu meie ühist.",
+    "Ta ei usu, et see asi teda puudutab.",
+    "Palun öelge mulle, mis teid puudutab."
   ],
   "translation": [
-    "concerns",
     "touches",
-    "regards"
+    "affects",
+    "concerns"
   ],
-  "context": "The word 'puudutab' is commonly used in Estonian to describe something that affects or relates to someone or something, often in a direct or personal way."
+  "context": "The Estonian word 'puudutab' is the third person singular present tense form of the verb 'puudutama', which means 'to touch', 'to affect', or 'to concern'. It's commonly used when talking about something that physically touches someone/something, affects a situation, or is relevant to someone. The word can be used in various contexts from physical contact to abstract concepts affecting people."
 }

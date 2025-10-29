@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hakanud süüa.",
-    "Ta on hakanud ujuma.",
-    "Nad on hakanud koos elama."
+    "Ema on hakanud õppima eesti keelt.",
+    "Poisid hakkavad mängima jalgpalli pärast kooli.",
+    "Ta on juba hakanud tööle uues firmas."
   ],
   "translation": [
     "started",
-    "begun"
+    "begun",
+    "began"
   ],
-  "context": "The word 'hakanud' is the past participle form of the verb 'hakama', which means to start or begin something in Estonian. It is commonly used to describe an action that has commenced or been initiated."
+  "context": "The word 'hakanud' is the past participle form of the Estonian verb 'hakkama', which means 'to start' or 'begin'. It indicates that an action has been initiated in the past and may still be ongoing. In English, it would typically translate to words like 'started', 'begun', or 'began'. The word is often used with auxiliary verbs like 'on' (has) or 'oli' (had) to form compound tenses. For example: 'on hakanud' means 'has started', and 'oli hakanud' means 'had started'. The root verb 'hakkama' can also be used in other forms such as present tense 'hakkan' (I start), future tense ' hakkaksin' (I would/start will), or imperative form 'hake' (start!)."
 }

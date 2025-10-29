@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan kohvi",
-    "Kohv on minu lemmikjook",
-    "Kohvi asemel eelistaks ma teed"
+    "Kas sa jood kohvit?",
+    "Meil on hea kohvi.",
+    "Tahan oma kohvi ilma suhkru."
   ],
   "translation": [
     "coffee"
   ],
-  "context": "The word 'kohvi' refers to coffee in Estonian, and it is commonly used to order or talk about coffee in everyday conversations."
+  "context": "The Estonian word 'kohvi' means 'coffee' in English. It is a common noun used to refer to the beverage made from roasted coffee beans. In Estonian, it's typically an uncountable noun when referring to the substance itself, but can be countable when referring to individual servings or cups of coffee."
 }

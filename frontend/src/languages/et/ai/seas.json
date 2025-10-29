@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan merd.",
-    "Mere lähedal on palju kalureid.",
-    "See meri on väga sügav."
+    "Tema on seas.",
+    "Nad on seasid.",
+    "Me olemes seas."
   ],
   "translation": [
-    "sea",
-    "ocean",
-    "water"
+    "is",
+    "are",
+    "am"
   ],
-  "context": "The Estonian word 'meri' translates directly to 'sea' in English. It is used to refer to large bodies of saltwater, similar to how 'sea' and 'ocean' are used in English."
+  "context": "The Estonian word 'seas' is a verb form meaning 'is', 'are', or 'am' in English. It appears to be the 3rd person singular present tense form of the verb 'olema' (to be). In different contexts, it can appear in various forms depending on subject and tense."
 }

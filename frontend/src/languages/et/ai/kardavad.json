@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Nad kardavad pimedust.",
-    "Ta kardab kõrgust.",
-    "Me ei karda midagi."
+    "Nad kardavad koera.",
+    "Lapsed kardavad öiseid metsi.",
+    "Mees kardab ülesütlemist."
   ],
   "translation": [
-    "are afraid",
     "fear",
-    "are scared"
+    "are afraid of",
+    "dread"
   ],
-  "context": "The verb 'kardavad' in Estonian means 'to be afraid of' or 'to fear'. It expresses a feeling of apprehension or dread towards something. It is commonly used to describe both physical and emotional fears."
+  "context": "The word 'kardavad' is the 3rd person plural present tense form of the Estonian verb 'kardama', which means 'to fear' or 'to be afraid of'. It specifically refers to what multiple subjects (they) currently fear or are afraid of. In English, this would correspond to expressions like 'fear', 'are afraid of', or 'dread' when referring to a group of people."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Taso on tärkeä tekijä urheilussa.",
-    "Hänellä on korkea taso kansainvälisessä kilpailussa.",
-    "Tason parantaminen vaatii paljon harjoitusta."
+    "Tasoa on korkea tällä alueella.",
+    "Tämä tuoli on tasainen.",
+    "Käytän tasoitusta epätasaisuuden poistamiseksi."
   ],
   "translation": [
     "level",
+    "flat surface",
     "standard",
-    "grade"
+    "balance"
   ],
-  "context": "The word 'taso' in Finnish generally refers to a level or standard of something, such as a level of difficulty, a standard of quality, or a grade of achievement. It is commonly used in various contexts, including education, sports, and everyday conversations."
+  "context": "In Finnish, 'taso' is a noun that can refer to several related concepts: a physical level or flat surface, an abstract level (like skill level), a standard or benchmark for comparison, or balance/equality. It often appears in compound words and has derived forms like the adjective 'tasainen' meaning even/flat/smooth, and the verb 'tasoittaa' meaning to level or equalize."
 }

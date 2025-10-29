@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa leida oma suurt kaasaskäimist.",
-    "Leidke mulle parem nimi kui see!",
-    "Ma ei taha midagi leita."
+    "Leidke head kohtu pidamiseks.",
+    "Kas te leidke mind?",
+    "Palun leidke endale mugav koht."
   ],
   "translation": [
-    "be found"
+    "find (plural imperative)",
+    "look for (plural imperative)",
+    "discover (plural imperative)"
   ],
-  "context": "Used in sentences where something is to be located or discovered, often used in the context of searching for items or information."
+  "context": "The word 'leidke' is the plural imperative form of the Estonian verb 'leida', which means 'to find'. In the imperative mood, this form addresses multiple people or uses the formal 'you' form. It's used to give a command or suggestion to a group of people to search for something, look for something, or discover something."
 }

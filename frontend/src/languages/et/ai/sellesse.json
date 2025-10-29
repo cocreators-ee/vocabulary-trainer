@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen sellesse kinno",
-    "Ta on sellesse väga hea",
-    "Me oleme sellesse juba korduvalt"
+    "Sellesse hoonesse on palu ruume.",
+    "Mina lähen sellesse kooli.",
+    "Ta elab sellesse suvilas."
   ],
   "translation": [
-    "in this",
-    "to this",
-    "into this"
+    "into this",
+    "to this place"
   ],
-  "context": "The word 'sellesse' is a postposition in Estonian that indicates movement or direction towards something, often translated to English as 'in this', 'to this', or 'into this'."
+  "context": "The word 'sellesse' is the illative case form of Estonian demonstrative pronoun 'see' (this). It indicates movement toward or into a specific location that has been previously mentioned. The '-sse' ending specifically marks it as an allative/illative direction case, showing motion into something rather than just toward it."
 }

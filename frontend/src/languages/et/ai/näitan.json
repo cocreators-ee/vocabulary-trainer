@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näitan sulle oma kodu.",
-    "Ta näitas mulle pildi.",
-    "Nad näitavad meile uut filmi."
+    "Näitan sulle oma fotod.",
+    "Ma näitan teile kõiki oma kodu.",
+    "Tema ei taha näidata oma valu."
   ],
   "translation": [
-    "show",
-    "demonstrate",
-    "display"
+    "I show",
+    "I display",
+    "I point out"
   ],
-  "context": "The word 'näitan' is a verb in Estonian that means to show or demonstrate something, and it is commonly used in everyday conversations to indicate the act of presenting or exhibiting something to someone."
+  "context": "The word 'näitan' is the first-person singular present tense form of the Estonian verb 'näitama', which means 'to show'. It is used when the speaker wants to indicate that they are showing something to someone else. The word follows Estonian conjugation patterns and belongs to the -ma verb class."
 }

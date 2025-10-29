@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mina peatun alati enne kui lähen parkimisseisu.",
-    "Ta teadis teda juba siis, kui ta oli ainult peatuses.",
-    "Järgmiseks tuleb see põnev peatuvahemaa."
+    "Peatu siin!",
+    "Auto peatus teel.",
+    "Peatumiseks vaja oodata."
   ],
   "translation": [
-    "to stop",
-    "stopping",
-    "a stop"
+    "stop",
+    "halt",
+    "pause"
   ],
-  "context": "'Peatuda' means to stop in Estonian. It can refer to stopping a vehicle, halting an action or coming to rest."
+  "context": "The Estonian word 'peatu' is the imperative form of the verb 'peata', meaning 'to stop'. It's used when commanding someone to halt or pause their action. The root 'peat-' relates to stopping or pausing, and it can be found in various forms like 'peatama' (infinitive), 'peatub' (he/she stops), and 'peatumine' (noun form meaning stop/pause)."
 }

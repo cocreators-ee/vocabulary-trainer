@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Me peaksime täna kohtuma.",
-    "Nad peaksid tulema homme.",
-    "Sa pead seda tegema."
+    " peaks olema heas vormis",
+    " peaksid rohkem aega veetma perega",
+    " peaksin jälle tööd alustama"
   ],
   "translation": [
-    "we must",
     "should",
+    "ought to",
+    "must",
     "have to"
   ],
-  "context": "The word 'peaksime' is the first-person plural form of the verb 'pidama', which expresses obligation or necessity. It translates to 'we must,' 'we should,' or 'we have to' in English, indicating something that needs to be done."
+  "context": "The word 'peaksime' is the conditional form of the Estonian verb 'pidama' (to hold/must/should), specifically the 1st person plural imperfective conditional form. It expresses what should or ought to have been done in a past or hypothetical context, similar to English 'we should have' or 'we ought to have'."
 }

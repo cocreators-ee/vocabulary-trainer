@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oli vägagi vihas.",
-    "See on vägagi hea mõte.",
-    "Nad olid vägagi õnnelikud."
+    "See vägagi meeldib.",
+    "Ta on vägagi hea matemaatikas.",
+    "Kodu vägagi tubli töö!"
   ],
   "translation": [
     "very",
+    "really",
     "extremely",
-    "highly"
+    "quite",
+    "rather"
   ],
-  "context": "The Estonian word 'vägagi' is an intensifier used to emphasize the degree of something. It’s similar to ‘very’ or ‘extremely’ in English and can be applied to adjectives, adverbs, or verbs to strengthen their meaning."
+  "context": "Vägagi is an Estonian adverb used to express a high degree or intensity. It's equivalent to English words like 'very', 'really', 'extremely', 'quite', or 'rather'. In Estonian, it typically appears before the adjective or verb it modifies and serves as an intensifier to emphasize the quality or action being described."
 }

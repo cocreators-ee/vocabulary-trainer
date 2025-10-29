@@ -1,13 +1,13 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Hänellä on leveä selkä.",
-    "Leveä tie johtaa rannalle.",
-    "Oviaukko oli leveämpi kuin odotettiin."
+    "Tie on leveä.",
+    "Leveä joki virtaa kaupungin läpi.",
+    "Hänellä on leveät olkapäät."
   ],
   "translation": [
-    "wide"
+    "wide",
+    "broad"
   ],
-  "context": "The word 'leveä' translates to 'wide' and is commonly used to describe something having a large horizontal dimension or breadth. It can be applied to physical objects, spaces, or even abstract concepts like a broad perspective."
+  "context": "The Finnish word 'leveä' is an adjective meaning 'wide' or 'broad'. It's used to describe something that has a large width compared to its length. In its basic form, it modifies nouns in the nominative case. The comparative form would be 'levempi' and the superlative 'levin'. When modifying plural nouns, it becomes 'leveät'."
 }

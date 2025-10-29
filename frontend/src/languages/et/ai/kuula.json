@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kuula mind!",
-    "Ta ei kuula midagi.",
-    "Kas sa kuulad?"
+    "Kuula häält!",
+    "Me kuulame muusikat.",
+    "Ta ei kuule midagi."
   ],
   "translation": [
-    "listen"
+    "listen",
+    "hear"
   ],
-  "context": "The word 'kuula' means to listen actively or pay attention with the ears."
+  "context": "In Estonian, 'kuula' is the imperative form of the verb 'kulgama' which means 'to listen'. It's used when addressing someone directly to tell them to listen. The related verb 'kulgama' also has the meaning 'to hear', depending on context. In the present tense it would be 'kulge' (listen), and for hearing something you might say 'ma kuulen' (I hear)."
 }

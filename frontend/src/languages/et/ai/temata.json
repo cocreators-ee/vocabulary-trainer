@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta temata on väga keeruline.",
-    "Me ei tea, mis temata teema on.",
-    "See temata oli täielik pettumus."
+    "Temata on mul väga raske rääkida.",
+    "Ta läks temata koju.",
+    "Me peame tegema midagi temata."
   ],
   "translation": [
-    "theme",
-    "topic",
-    "subject matter"
+    "without him/it",
+    "regardless of it",
+    "apart from it"
   ],
-  "context": "The word 'temata' in Estonian refers to the main subject or theme of something, like a book, movie, or conversation. It is often used when discussing what something is about or focusing on."
+  "context": "The Estonian word 'temata' is an adessive case form combined with a negative prefix, functioning as a postposition or adverb meaning 'without something/someone'. It's formed by taking the essive base '-ta' (meaning 'without') and adding the locative ending '-a', creating an expression that indicates absence or exclusion. The word can be used to mean 'without him/it', 'regardless of it', or 'apart from it' depending on context."
 }

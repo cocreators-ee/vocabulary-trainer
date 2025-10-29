@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen väga tänulik selle kingituse eest.",
-    "Kingituseks sai ta ilusa kuldmünti.",
-    "Tema kingituseks anti talutuksi uus raamat."
+    "Kingituse pakkumiseks tuleb eelnevalt registreeruda.",
+    "Saabusime kingitusega sündmusele.",
+    "Tema kingitus meeldis kõigile."
   ],
   "translation": [
     "gift",
-    "present"
+    "present",
+    "offering"
   ],
-  "context": "The word 'kingituse' in Estonian refers to a gift or present, and is commonly used in contexts where someone is giving or receiving something as a token of appreciation or celebration."
+  "context": "The word 'kingituse' is the genitive singular form of the Estonian noun 'kingitus', which means gift or present. In the genitive case, it typically indicates possession or relationship to something, such as what someone brought as a gift or about the nature of a gift."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See raamat sisaldab palju pilte.",
-    "Tootekirjeldus sisaldab olulisi andmeid.",
-    "Kursuse materjal sisaldab ülesandeid ja näiteid."
+    "Töö sisaldab palveid.",
+    "Raamat sisaldab huvitavaid lugusid.",
+    "Sõnastik sisaldab üle kümne tuhanda sõna."
   ],
   "translation": [
     "contains",
     "includes",
-    "comprises"
+    "has within it"
   ],
-  "context": "The word 'sisaldab' in Estonian means to contain or include something, it is commonly used to describe the content of a product, document or any other entity."
+  "context": "The word 'sisaldab' is the 3rd person singular present form of the verb 'sisaldama', which means 'to contain' or 'to include'. It indicates that something has elements, items, or parts within it. This word is commonly used in Estonian to express what a larger thing contains - whether it's physical objects, information, abstract concepts, etc."
 }

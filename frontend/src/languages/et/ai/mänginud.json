@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen mänginud palju golfi.",
-    "Ta on mänginud klaverit juba mitu aastat.",
-    "Nad on koos mänginud mitmes filmis."
+    "Mänginud tennisega peaaegu kaks aastat.",
+    "Ta on mänginud klaverit lapsest saati.",
+    "Lapsed olid juba mänginud magamist"
   ],
   "translation": [
     "played",
-    "performed"
+    "has played",
+    "had played"
   ],
-  "context": "The word 'mänginud' is the past participle of the verb 'mängima', which means to play or perform, and it is commonly used in Estonian to describe an action that has been completed in the past."
+  "context": "The word 'mänginud' is the past participle form of the Estonian verb 'mängima', which means 'to play'. It's used to indicate an action that has been completed. In English, it can be translated as 'played', 'has played' (present perfect), or 'had played' (past perfect) depending on the context and tense being expressed. This form is commonly used with auxiliary verbs like 'on' (has/have) to form compound tenses in Estonian."
 }

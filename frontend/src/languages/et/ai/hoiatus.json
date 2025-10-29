@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma annan sulle hoiatuse.",
-    "Hoiatus tuli varakult.",
-    "Ta ei võtnud hoiatust tõsiselt."
+    "Hoiatus tuleb järgmise nädala jooksul.",
+    "Tegin talle hoiatuse, et ta ei peaks seda tegema.",
+    "Poliitilised hoiatused on muutunud tavaliseks osaks meie igapäevaelust."
   ],
   "translation": [
     "warning",
-    "caution"
+    "caution",
+    "alert"
   ],
-  "context": "The word hoiatus refers to a warning or caution, often used to advise someone of potential danger or to alert them to take action."
+  "context": "In Estonian, 'hoiatus' is a noun that means warning or caution. It refers to an announcement or signal of danger, risk, or potential harm that someone should be aware of. The word comes from the verb 'hoia-' meaning to warn or keep away from something. In different contexts, it can refer to official warnings, cautionary notices, alerts about potential dangers, or simply a heads-up about something important."
 }

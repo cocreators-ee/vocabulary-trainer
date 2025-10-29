@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Muidugi, ma tahtsin sind aidata.",
-    "Ta tundus, et ta tahtsib seda teha.",
-    "Kas sa tõesti tahtsid mind kallutada?"
+    "Tahsite tulla koos meiega?",
+    "Kas tahsite midagi juua?",
+    "Mida te tahsite teha täna?"
   ],
   "translation": [
-    "wanted",
-    "intended"
+    "you would like",
+    "you want",
+    "you wish"
   ],
-  "context": "'tahtsite' is the past tense form of 'tahta', which means to want or intend. It's commonly used in everyday speech to express that someone wanted or intended to do something in the past."
+  "context": "The word 'tahtsite' is the conditional/plural form of the verb 'tahma' (to want/wish) in Estonian. It specifically means 'you would like' or 'you want' when addressing multiple people formally or respectfully, commonly used in questions to ask about desires or preferences."
 }

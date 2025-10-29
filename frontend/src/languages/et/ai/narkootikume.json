@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kasutas narkootikume ravimina.",
-    "Narkootikumide tarbimine on keelatud seaduse järgi.",
-    "Narkootikumid võivad olla väga ohtlikud inimese tervisele."
+    "Ei tohi narkootikumidega kaasa võtta.",
+    "Politsei konfiskeeris narkootikume.",
+    "Narkootikumid on keelatud Eestis."
   ],
   "translation": [
     "narcotics",
-    "drugs"
+    "drugs",
+    "controlled substances"
   ],
-  "context": "The word narkootikume refers to narcotic drugs, which are substances that can cause addiction and are often used for medicinal or recreational purposes, but can also have harmful effects on a person's health."
+  "context": "The word 'narkootikume' is the partitive plural form of 'narkootikum' in Estonian. It refers to narcotics or drugs, particularly illegal substances that are controlled by law. The term can refer both to specific types of illicit drugs and to narcotic substances in general. In legal contexts, it often refers to substances regulated under drug laws."
 }

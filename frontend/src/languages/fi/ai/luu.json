@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Luu on vahingoittunut.",
-    "Hänen luunsa ovat vahvat.",
-    "Luut ovat osa kehossa."
+    "Minulla on kipua luideni välissä.",
+    "Luu on elävän kudoksen muodostama kovainen rakenne.",
+    "Hirviö söi luun ja säästi lihan."
   ],
   "translation": [
-    "bone"
+    "bone",
+    "bones"
   ],
-  "context": "The word 'luu' refers to a bone in the body, and it is commonly used in medical and anatomical contexts to describe the skeletal system."
+  "context": "The Finnish word 'luu' means bone in English. It is a common noun referring to the hard, rigid tissue that makes up the skeleton of vertebrates. In Finnish, it's an inanimate object (common gender), and can appear in various forms such as plural 'luet', partitive 'luuta', genitive 'luiden', etc."
 }

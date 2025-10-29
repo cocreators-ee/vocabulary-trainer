@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Laps on ema süles.",
+    "See on laps.",
     "Lapsed mängivad pargis.",
-    "Lapsevanemate koosolek toimub homme."
+    "Tema on hea laps."
   ],
   "translation": [
     "child",
-    "kid"
+    "kid",
+    "boy/girl"
   ],
-  "context": "The word 'laps' in Estonian generally refers to a child or kid, and it is commonly used in various contexts to describe a young human being."
+  "context": "The word 'laps' in Estonian means 'child' or 'kid'. It's a common noun used to refer to young people, typically from birth through adolescence. In Estonian grammar, it's an invariant word (doesn't change form for singular/plural). The plural form is 'lapsed', which means 'children'."
 }

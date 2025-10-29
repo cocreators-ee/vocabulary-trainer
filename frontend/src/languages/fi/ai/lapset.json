@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Lapset ovat kouluun menossa.",
-    "Minulla on kaksi lasta.",
-    "Meillä on neljä lastenlasta."
+    "Lapset leikkivät puistossa.",
+    "Minun lapseni ovat koulussa.",
+    "Nämä lapset ovat hyvin iloisia."
   ],
   "translation": [
     "children",
     "kids"
   ],
-  "context": "The word 'lapset' is a noun in Finnish that refers to children, and it is commonly used in everyday conversations to talk about young people or one's own offspring."
+  "context": "The Finnish word 'lapset' is the plural form of 'lapsi', which means 'child'. It refers to multiple children or kids. In Finnish, words have different cases and numbers, so 'lapset' specifically indicates more than one child."
 }

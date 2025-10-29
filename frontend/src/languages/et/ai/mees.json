@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mees on väga ilus.",
-    "Ma nägin mehe tänaval.",
-    "Meestel on samad õigused nagu naistel."
+    "Mees on täna tööl.",
+    "Väike mees jooksis pargis.",
+    "Tere, hästi näevad välja, mees!"
   ],
   "translation": [
     "man",
-    "guy"
+    "husband",
+    "gentleman",
+    "male person"
   ],
-  "context": "The word 'mees' is commonly used in Estonian to refer to an adult male, and it can be used in various contexts, such as describing someone's appearance or referring to a person's gender."
+  "context": "The Estonian word 'mees' is a noun that means 'man' or 'male person'. It's the most common term for an adult human male in Estonian. As with many other languages, it can also be used to refer to one's husband ('mees' as 'husband'). The word has different forms depending on case and number: singular nominative form is 'mees', but in genitive it would be 'mehe'. It doesn't have gender-specific articles like some other languages. In informal contexts, it can also function somewhat like the English address term 'gentleman' or mister."
 }

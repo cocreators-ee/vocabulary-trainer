@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on minu juures",
-    "Ma olen tema juures",
-    "Me oleme üksteise juures"
+    "Tema juures on alati häid küsimusi.",
+    "Meie kooli juures on suur park.",
+    "Ta elab oma vanemate juures."
   ],
   "translation": [
     "next to",
-    "beside",
+    "by",
+    "at",
     "with"
   ],
-  "context": "The word 'juures' is commonly used in Estonian to indicate proximity or accompaniment, similar to the English preposition 'with' or 'next to'."
+  "context": "The Estonian word 'juures' is a postposition that indicates location or proximity. It's commonly used to show something being next to, by, at, or with another person or thing. It can indicate physical proximity (location) or association/relationship. When used with people, it often means 'with' or 'at someone's place'. When used with places, it typically means 'next to' or 'by'."
 }

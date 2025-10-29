@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on olemas.",
-    "See ei ole olemas.",
-    "Kui see on olemas, siis me seda näeme."
+    "Ta on olemas selles toas.",
+    "Kas teil on olemas head mõtted?",
+    "Meil peaks olema piisavalt aega."
   ],
   "translation": [
-    "existing",
-    "being",
-    "present"
+    "exists",
+    "is present",
+    "is available",
+    "has"
   ],
-  "context": "The word 'olemas' in Estonian means to exist or be present, and it is commonly used in sentences to describe the state of something or someone being in existence."
+  "context": "The Estonian word 'olemas' is an existential verb form that indicates existence or presence. It comes from the verb 'olema' (to be) and typically functions in constructions similar to English 'there is/are' forms. In different contexts, it can mean something exists, is present, is available, or someone has something. It's commonly used in questions about availability and statements of existence."
 }

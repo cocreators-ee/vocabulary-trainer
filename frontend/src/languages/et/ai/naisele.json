@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kingin naisele ühe kilo liha.",
-    "Naisele meeldib koer.",
-    "Ta on hea naisele."
+    "Tema annab kingi naisele.",
+    "Me läksime kohvikusse naiste ja meeste vahel.",
+    "Õhtul külastasin oma sõpra naisega."
   ],
   "translation": [
+    "to a woman",
     "to the woman",
-    "for the woman"
+    "for a woman"
   ],
-  "context": "The word 'naisele' in Estonian is a dative form of the noun 'naine', which means 'woman'. It is used to indicate that something is being given or done for the benefit of the woman, as in 'to the woman' or 'for the woman'."
+  "context": "The Estonian word 'naisele' is the allative case of 'naine', meaning 'woman'. It indicates movement towards or destination to a woman. This form shows where something is going or who it's intended for. In English, this would typically translate as 'to a woman', 'to the woman', or sometimes 'for a woman' depending on context."
 }

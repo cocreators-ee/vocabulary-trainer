@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan relvad ja laskuranu",
-    "Relvad on müügiks",
-    "Ta võttis relvad ja läks sõtta"
+    "Relvad on ohtlikud.",
+    "Mehhanismidel on erinevaid relvadeid.",
+    "Sõdurid kannavad relvi."
   ],
   "translation": [
     "weapons",
-    "arms"
+    "arms",
+    "firearms"
   ],
-  "context": "The word 'relvad' is a noun in Estonian that refers to weapons or arms, and it is commonly used in contexts related to military, hunting, or self-defense."
+  "context": "The Estonian word 'relvad' is the plural form of 'relv', meaning weapons or arms. It refers to various types of weapons, firearms, and military equipment. The word can be used in contexts discussing military matters, security, weaponry, or tools designed for combat."
 }

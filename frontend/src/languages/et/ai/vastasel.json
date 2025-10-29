@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oli vastasel poolel.",
-    "Vastased võistlesid viigini.",
-    "Nad said vastaseks jalgpallimängus."
+    "Töötan vastasel pool tänavat.",
+    "Vastasel nädalal saame kohtuda uuesti.",
+    "Poisil on vastasel pool nägu."
   ],
   "translation": [
-    "opponent",
-    "adversary",
-    "rival"
+    "on the other side",
+    "opposite"
   ],
-  "context": "The word 'vastasel' in Estonian refers to someone who is competing against another person or group, or an enemy. It’s commonly used in contexts of sports, games, or conflicts to denote the opposing side."
+  "context": "The Estonian word 'vastasel' is the elative case (from where/away from) form of 'vastas', which means 'opposite'. It's used to indicate position or location away from something that is opposite. The root 'vastas-' indicates opposition, and the '-el' ending is the elative case marker. This word typically appears in spatial expressions indicating direction or location relative to an opposite position."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks päralt mööda teed.",
-    "Päralt on vaja tulla.",
-    "See on päralt õige."
+    "Ta oli päralt oma ema sõnadele.",
+    "Päralt on meie kogu otsustusvõim.",
+    "Nad ei saanud päralt oma murettekitavatest naabritest."
   ],
   "translation": [
-    "correctly",
-    "rightly",
-    "properly"
+    "under control",
+    "in charge of",
+    "responsible for"
   ],
-  "context": "The Estonian word 'päralt' generally means 'correctly', 'rightly', or 'properly'. It indicates that something is done in the right way, according to rules or expectations. It can also imply a sense of fairness or justice."
+  "context": "The Estonian word 'päralt' is an adverb that means under control, in charge of, or responsible for. It indicates someone having authority or management over something or someone else. This form appears to be the elative case (indicating movement away from something) combined with a root related to control or possession."
 }

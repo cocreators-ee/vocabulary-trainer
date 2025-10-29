@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tal elas linnas.",
-    "Ta töötab linna valitsuses.",
-    "Linnas on palju inimesi."
+    "Töötan linnas.",
+    "Mees tuleb linna.",
+    "Linnas on ilus ilm."
   ],
   "translation": [
     "in the city",
-    "town"
+    "in town"
   ],
-  "context": "The word 'linnas' is used to indicate that something is happening or located within a city, often translated as 'in the city' in English. It can be used in various forms such as 'linnas', 'linna', and 'linnas' depending on the grammatical context."
+  "context": "The word 'linnas' is the inessive case singular form of 'linn', which means 'city' or 'town'. In Estonian, this case indicates location within something, so 'linnas' specifically means 'in the city' or 'in town'. It's used when you want to say that someone or something is located inside a city or urban area."
 }

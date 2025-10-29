@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis valgusega pildid.",
-    "Valguse allikas on päike.",
-    "Meil on vaja rohkem valgust."
+    "Valgus paistab aknast.",
+    "Ta lõi valgust sisse.",
+    "Valguse puudumine oli probleem."
   ],
   "translation": [
-    "light",
-    "illumination"
+    "light"
   ],
-  "context": "The word 'valguse' refers to the state of being light, or the amount of light that is present in a particular place or situation. It can be used to describe both natural and artificial sources of light."
+  "context": "The word 'valguse' is the genitive case singular form of 'valgus', which means 'light'. In Estonian, the genitive case typically indicates possession or association with something. So 'valguse' would translate to 'of light' or 'with light' depending on context."
 }

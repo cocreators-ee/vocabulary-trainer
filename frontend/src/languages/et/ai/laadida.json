@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen laadinud oma mobiili täis.",
-    "Rohkem lugejaid tuleb laadida kui enne.",
-    "Laadi see pilt oma arvutisse üle."
+    "Ma laadin arvutisse uued programmid.",
+    "Palun lae fail alla veebilehelt.",
+    "Tegelikult tuleks seda laadida mõne minuti jooksul."
   ],
   "translation": [
-    "to charge",
-    "to load"
+    "to load",
+    "to download",
+    "to upload"
   ],
-  "context": "The word 'laadida' translates to 'to charge' when referring to charging electronic devices, and 'to load' in contexts like loading content onto a device or system. It is commonly used in daily situations involving electronics and data transfer."
+  "context": "The Estonian word 'laadida' is a verb that means 'to load', 'to download', or 'to upload'. It can refer to loading data into a system, downloading files from the internet, or uploading content to a server. The word belongs to the -da infinitive group and is used in various contexts related to transferring data between systems or devices."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kui me kõik näha, et see ei toimi.",
-    "Ta näha midagi, mida teised ei vaata.",
-    "Ma tahan näha, kas sa oled valmis."
+    "Nägid mind eile?",
+    "Kas nägid seda filmi?",
+    "Mida nägid praegu?"
   ],
   "translation": [
-    "see",
-    "you see",
-    "I see"
+    "saw",
+    "have seen",
+    "did you see"
   ],
-  "context": "The Estonian word 'nägite' is a form of the verb 'to see,' commonly used in sentences to express seeing something or understanding a situation visually."
+  "context": "The Estonian word 'nägite' is the formal/plural form of the verb 'näema' (to see). It's used in formal address or when speaking to multiple people, equivalent to English 'you saw' or 'have you seen'. This form appears questions with plural subjects or in formal contexts where respect is shown."
 }

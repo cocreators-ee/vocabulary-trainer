@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Munad on minu lemmiktoit.",
-    "Ta valmistab suurepärased murtmad munad.",
-    "Lindud pannesid munasid"
+    "Mune on hea toit.",
+    "Tere tulemast minu koju! Mune!",
+    "Kas sa mudad? Ei, ma ei muda."
   ],
   "translation": [
-    "egg"
+    "egg",
+    "welcome",
+    "to lay eggs"
   ],
-  "context": "The word 'mune' in Estonian refers to an egg. It is commonly used when talking about food or animal products."
+  "context": "The word 'mune' in Estonian has multiple meanings depending on context. It can mean 'egg' as a noun (referring to the food item), it can be an exclamation like 'Welcome!', or it can be related to the verb 'muda' meaning 'to lay eggs'. The form and usage determine which meaning is appropriate - it could be in singular nominative case for the egg, used as an interjection for welcome, or part of conjugated verb forms."
 }

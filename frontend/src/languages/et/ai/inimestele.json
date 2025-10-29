@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Inimestele meeldib käia koos sõpradega.",
-    "Ta on hea inimene ja aitab alati inimestele.",
-    "See on hea asi inimestele, kes tahavad õppida."
+    "Tere kõigile inimestele!",
+    "Aitame kogu inimestele.",
+    "See on vajalik paljudele inimestele."
   ],
   "translation": [
     "to people",
-    "for people"
+    "for people",
+    "among people"
   ],
-  "context": "The word 'inimestele' is a dative plural form of the noun 'inimene', which means 'person' or 'people', and it is commonly used to indicate that something is done for or directed towards people."
+  "context": "The word 'inimestele' is the allative case of the Estonian noun 'inimene', which means 'person'. The allative case indicates direction or movement toward something. In this case, it shows motion 'toward people' or action directed 'at/for people'. This form is commonly used when showing that an action is done for the benefit of, in the presence of, or directed toward people."
 }

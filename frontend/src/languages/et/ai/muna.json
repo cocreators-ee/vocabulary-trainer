@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis munade kaasa.",
-    "Mul on muna käes.",
-    "Munad on hea toiduaine."
+    "Muna on hea toit.",
+    "Kas sa ostad muna?",
+    "Tema sööb oma munad."
   ],
   "translation": [
     "egg"
   ],
-  "context": "The word 'muna' in Estonian means egg, which is a common food product often used in cooking and baking."
+  "context": "The Estonian word 'muna' means egg. It is a noun that refers to the oval reproductive body laid by female birds and other animals. In Estonian grammar, 'muna' follows normal inflection patterns for nouns - in nominative case it's 'muna', in genitive singular it becomes 'muna', partitive singular is 'munad', and plural form is 'munad'."
 }

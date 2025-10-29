@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan mida ma tein.",
     "Mida sa tahad?",
-    "Ta ütles, et mida ta ei mõistnud."
+    "Mida me öösel teeme?",
+    "Mida sina arvad?"
   ],
   "translation": [
     "what",
-    "which"
+    "which",
+    "that"
   ],
-  "context": "The word 'mida' is used in Estonian to ask for or refer to something, similar to the English words 'what' or 'which', and it is commonly used in questions or to seek clarification about something."
+  "context": "The Estonian word 'mida' is an interrogative pronoun used to ask questions about things, objects, or concepts. It can be translated as 'what' in English when asking for information, but it also has other uses including as a relative pronoun meaning 'which' or 'that'. In sentences, it typically appears at the beginning of questions asking about the identity or nature of something."
 }

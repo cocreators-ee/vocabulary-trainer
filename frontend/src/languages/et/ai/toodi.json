@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma toodi koju",
-    "Ta toodi mind ära",
-    "Nad toodi koolist koju"
+    "Tuli toodi koju.",
+    "Toodi sisse kaks inimest.",
+    "Lastele toodi kingitusi."
   ],
   "translation": [
-    "brought",
-    "carried"
+    "was brought",
+    "was carried",
+    "brought"
   ],
-  "context": "The word 'toodi' is the past tense of the Estonian verb 'tooma', which means to bring or carry something. It is commonly used in sentences where someone or something is being transported from one place to another."
+  "context": "The word 'toodi' is the past tense of the verb 'tama' (to bring/carry) in Estonian. It's used when someone or something was brought from one place to another, often implying movement towards the speaker or a specific location. The form indicates that it was brought by someone but we don't know who (passive voice)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen selle raamatu kellele iganes annan.",
-    "Ta ütles, et see on kellele tahes võimalik.",
-    "Kellele see kuulub?"
+    "Kellele see kirja saadame?",
+    "Kellele see kuulub?",
+    "Tema kellele see on"
   ],
   "translation": [
     "to whom",
-    "for whom"
+    "for whom",
+    "whose"
   ],
-  "context": "The word kellele is a pronoun in Estonian that indicates the person or group that something is intended for or belongs to, often translated to English as 'to whom' or 'for whom'."
+  "context": "The word 'kellele' is the allative case form of the interrogative pronoun 'kes' (who). It indicates direction or destination towards a person, meaning 'to whom' or 'for whom'. In Estonian grammar, this represents movement toward someone. This form is used when asking about the recipient or beneficiary of an action."
 }

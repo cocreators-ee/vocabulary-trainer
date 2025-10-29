@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on riigis",
-    "Riiki valitseb kuningas",
-    "Me elame ühes riigis"
+    "Eesti riigi territooriumil.",
+    "Meie riik on väga kaunis.",
+    "Kuidas on teie riigis?"
   ],
   "translation": [
     "state",
     "country",
-    "kingdom"
+    "nation"
   ],
-  "context": "The word 'riiki' in Estonian generally refers to a country or state, and is commonly used when talking about governments or nations."
+  "context": "The word 'riiki' is the partitive case form of the Estonian noun 'riik', which means 'state' or 'country'. It is used when referring to a state in partitive, often indicating incomplete action or unspecified quantity. For example, 'Eesti riigi territooriumil' means 'on the territory of Estonia (state)', where 'riigi' is the partitive form."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän heittää pallon",
-    "Heittäminen on urheilulaji",
-    "Heitettyään palloa hän juoksi"
+    "Minä heitän kiven.",
+    "Hän heitti kirjan pöydälle.",
+    "Heittäisitkö sen palloni takaisin?"
   ],
   "translation": [
-    "throw",
-    "toss",
-    "fling"
+    "to throw",
+    "to toss",
+    "to cast"
   ],
-  "context": "The word heittää is a Finnish verb that means to throw or toss something, and it is commonly used in various contexts such as sports, everyday activities, or even figuratively to describe launching an idea."
+  "context": "The Finnish verb 'heittää' means to throw, toss, or cast something. It's a transitive verb that requires an object - someone throws something. The basic form is 'heittää', present tense first person singular is 'heitän', third person singular is 'heitti', and potential mood first person singular would be 'heittäisin'. This word has various meanings depending on context: it can mean physically throwing an object, casting a fishing line, or even metaphorically 'throwing' a party. The verb follows regular consonant gradation patterns in Finnish."
 }

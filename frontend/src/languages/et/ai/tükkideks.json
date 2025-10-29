@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta lõi klaasi tükkideks.",
-    "See purunes tükkideks kui ta selle maha põrkas.",
-    "Puidust tool läks tükkideks, kui keegi sellele peale istus."
+    "Purkus see klaas tükkideks.",
+    "See kivi langes tükkideks maha.",
+    "Ta murdis selle tükkideks."
   ],
   "translation": [
     "into pieces",
-    "to smithereens",
-    "in bits"
+    "to pieces",
+    "in pieces"
   ],
-  "context": "The word 'tükkideks' in Estonian means to break something into multiple pieces. It is often used when describing the shattering of an object or its complete fragmentation. It implies a forceful breaking apart, resulting in smaller, separate parts."
+  "context": "The word 'tükkideks' is the illative case plural form of 'tükk', meaning 'piece'. It indicates movement or transformation into pieces, suggesting something has been broken or shattered into fragments. This form is used to describe the result of breaking something apart completely."
 }

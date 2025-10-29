@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Metalli on vahva ja kestävä materiaali.",
-    "Hän on erikoistunut metallin työstämiseen.",
-    "Metallia käytetään useissa eri tuotteissa."
+    "Metalli on kova ja kestävä materiaali.",
+    "Autot sisältävät paljon metallia.",
+    "Pianossa on useita metalliosia."
   ],
   "translation": [
-    "metal"
+    "metal",
+    "metallic material"
   ],
-  "context": "The word 'metalli' refers to a type of material that is strong and durable, commonly used in various products."
+  "context": "The Finnish word 'metalli' refers to metal in general. It's a noun that denotes any metallic substance or material, typically characterized by being hard, durable, and often having good conductivity of heat and electricity. In Finnish grammar, it follows normal noun inflection patterns for case and number."
 }

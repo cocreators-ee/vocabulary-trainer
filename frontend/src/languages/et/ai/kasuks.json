@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta aitas mul õppida kasuks.",
-    "See tegevus on talle kasuks.",
-    "Meie koostöö läheb kõigile kasuks."
+    "Tema tegu oli kasuks kogukonnale.",
+    "See raamat on kasuks õpilastele.",
+    "Palun abielluge kasuks teie lapse arengule."
   ],
   "translation": [
-    "for good",
-    "to benefit",
-    "to the advantage of",
-    "helpful"
+    "for the benefit of",
+    "for the good of",
+    "to help"
   ],
-  "context": "The word 'kasuks' in Estonian generally means 'for good', 'to benefit someone', or 'to be helpful'. It indicates that something is done with a positive outcome or to improve a situation for another person. It often implies an indirect benefit, like doing something *for the sake of* someone else’s well-being."
+  "context": "The word 'kasuks' in Estonian is an adessive case form of the noun 'kasu', which means 'benefit' or 'use'. It's commonly used to indicate something done for someone's advantage, benefit, or help. In English, it translates well to phrases like 'for the benefit of', 'for the good of', or simply 'to help'."
 }

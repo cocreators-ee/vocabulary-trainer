@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on paljon rahaa.",
-    "Hänellä on paljon kokemusta.",
-    "Heillä on paljon ystäviä."
+    "Minulla on paljon työtä.",
+    "Hän tekee paljon liikuntaa.",
+    "Heillä on paljon rahaa."
   ],
   "translation": [
+    "a lot of",
     "much",
-    "many",
-    "a lot"
+    "many"
   ],
-  "context": "The word 'paljon' is commonly used in Finnish to express a large quantity or amount of something, similar to how 'much', 'many', or 'a lot' would be used in English."
+  "context": "The Finnish word 'paljon' is an adverb used to indicate a large quantity or amount. It translates to English words like 'a lot of', 'much', or 'many'. In Finnish, it's often placed before the noun it modifies and agrees in number with the noun (singular/plural). When used with singular nouns, it functions similarly to 'much' in English, while with plural nouns, it corresponds to 'many'. It can also modify verbs to indicate doing something frequently or in large quantities."
 }

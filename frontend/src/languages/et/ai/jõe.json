@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Jõe kaldal kasvab palju puid.",
-    "Ta elab jõe ääres.",
-    "Meie läheme jõkke ujuma."
+    "Jõgi voolab läbi linna.",
+    "Me sõitsime jões.",
+    "See on ilus jõgi."
   ],
   "translation": [
-    "river",
-    "stream"
+    "river"
   ],
-  "context": "The word 'jõe' is a genitive form of the Estonian word for river, often used to describe something related to or belonging to a river."
+  "context": "The Estonian word 'jõe' is the genitive singular form of the noun 'jõgi', which means 'river'. In English, we would translate this as 'of a river' or 'belonging to a river'. It's used in contexts where something belongs to or is associated with a river. For example: 'jõe kaldal' means 'on the bank of a river', and 'jõe ääres' means 'by the river'."
 }

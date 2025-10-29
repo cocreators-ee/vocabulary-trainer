@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ootasin sind kuniks saabusid.",
-    "Ta laulis kuniks päike paistis.",
-    "Me tantsisime kuniks muusika lõppes."
+    "Kuniks sa jõuad kohale?",
+    "Ta ootab kuniks sa tuleksid.",
+    "Me peame tegema kuni homseks."
   ],
   "translation": [
     "until",
-    "while"
+    "till",
+    "up to"
   ],
-  "context": "The word 'kuniks' in Estonian is a conjunction used to express time duration, similar to 'until' or 'while' in English. It indicates that an action continues for a specific period or up to a certain point."
+  "context": "The Estonian word 'kuniks' is a preposition that indicates time duration, meaning 'until' or 'till' in English. It's used to specify when something will happen or continue up to a certain point in time. For example, it can be used with future tense verbs to indicate an action that continues until a specific moment."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vaenlane on inimene, kes on vastu meie riiki.",
-    "Ta on vaenlase poeg.",
-    "Meil on palju vaenlasi."
+    "Vaenlane tuleb lähedale.",
+    "Ta oli vaenlane minu jaoks.",
+    "Võitlus vaenlasega on alanud."
   ],
   "translation": [
     "enemy",
-    "foe",
-    "opponent"
+    "opponent",
+    "foe"
   ],
-  "context": "The word 'vaenlane' refers to a person who is opposed to or hostile towards another person, group, or country, and is commonly used in Estonian to describe an adversary or opponent."
+  "context": "In Estonian, 'vaenlane' is a masculine noun that means 'enemy', 'opponent', or 'foe'. It refers to someone who actively works against you or your interests. The word can be used in various contexts - from personal conflicts to military situations. In the nominative case (as given), it's used for referring to an enemy. When declining this noun, it would change forms like 'vaenlase' (genitive) and 'vaenlasse' (illative)."
 }

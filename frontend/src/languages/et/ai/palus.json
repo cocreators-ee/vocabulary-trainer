@@ -1,14 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Tema palus oli lihtne ja selge.",
-    "Minu kõrval olles kuulas ta ainult minu palust.",
-    "Pärast tema palust andsin ma vastuse."
+    "Palun anna mulle see raamat.",
+    "Kas sa võiksid paluda aita?",
+    "Täname teie abi eest."
   ],
   "translation": [
-    "request",
-    "petition"
+    "please",
+    "ask",
+    "request"
   ],
-  "context": "The word 'palus' in Estonian translates to 'request' or 'petition'. It is commonly used to denote an act of asking for something formally or politely."
+  "context": "The word 'palus' appears to be an incomplete form of the Estonian verb 'paluma' (to ask/request) or its imperative form. In context, it's likely meant to be part of polite requests or commands. The full imperative form would typically be 'palu' (please/ask), suggesting this might be a typo or partial form. Estonian uses this root for making polite requests, similar to how English uses 'please'."
 }

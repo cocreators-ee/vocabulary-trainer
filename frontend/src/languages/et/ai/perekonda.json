@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu perekond on suur.",
-    "Ta kuulub meie perekonda.",
-    "Perekonna liikmete vahel on head suhted."
+    "Tema on meie perekonda.",
+    "See kuulub tema perekonda.",
+    "Perekonna liikmed said kokku."
   ],
   "translation": [
     "family",
-    "relatives"
+    "household",
+    "kin"
   ],
-  "context": "The word perekond refers to a family or relatives, and is commonly used in Estonian to describe one's immediate or extended family members."
+  "context": "The Estonian word 'perekonda' is in the illative case, which indicates motion into or direction towards a place. It means 'into the family/household/kin'. This form is used when talking about entering or becoming part of a family group."
 }

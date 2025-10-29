@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Teadlane töötas laboris uusi leiutisi välja.",
-    "Teadlased on avastanud uue liiki taime.",
-    "Teadlasest sai kuulus teadlane, kui tema uuring tõestas teooria õigsuse."
+    "Teadlane uurib loodusnähtusi.",
+    "Meil on palju edumeid teadlasi.",
+    "Eesti tuntud teadlane sai rahvusvahelise auhinna."
   ],
   "translation": [
-    "scholar",
-    "researcher",
-    "scientist"
+    "scientist",
+    "researcher"
   ],
-  "context": "The word 'teadlane' refers to a person who is engaged in scientific study and research, often holding an advanced degree in their field."
+  "context": "The word 'teadlane' is an Estonian noun that refers to a person who engages in scientific research or study. It is formed from the root word 'teadus' (science) with the suffix '-lane' which denotes occupation or profession, similar to how English forms words like 'musician' or 'politician'. This term can be used for scientists in any field of science."
 }

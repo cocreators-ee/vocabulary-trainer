@@ -1,17 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tegi töö peaga et valmis saada enne õhtu.",
-    "(He did the work quickly to be ready before evening).",
-    "Tuleb ruttu, meie taksomees juba äratalub!",
-    "(Hurry up, our taxi driver is already waiting!).",
-    "Peagasti liikus ta mäest alla, et vältida lisa imelust.",
-    "(He moved quickly down the mountain to avoid additional beauty)."
+    "Peaga võid kõik lahendada.",
+    "Ta tuleb peaga kohtumisele.",
+    "Lahkusin pea ära."
   ],
   "translation": [
-    "quickly",
-    "speedily"
+    "with the head",
+    "using the head",
+    "by means of the head"
   ],
-  "context": "The word 'peaga' is an Estonian adverb meaning quickly or speedily. It's used to describe actions performed with haste or urgency."
+  "context": "The Estonian word 'peaga' is a postposition that indicates instrumentality or manner, meaning 'with the head' or 'using the head'. It shows how an action is performed - specifically using one's head as the tool or method. This form comes from the genitive case of 'pea' (head) combined with the postposition '-ga', which means 'with' in Estonian."
 }

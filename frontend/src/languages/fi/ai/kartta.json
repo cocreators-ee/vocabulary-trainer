@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kartta on hyvin tarkka.",
-    "Hänellä on kartta taskussaan.",
-    "Kartat ovat erittäin käyttökelpoisia."
+    "Käytän karttaa löytääkseni ti.",
+    "Tässä on kartta kaupungista.",
+    "Sinun pitäisi ostaa uusi kartta."
   ],
   "translation": [
-    "map"
+    "map",
+    "chart"
   ],
-  "context": "The word 'kartta' is commonly used in Finnish to refer to a map, which is a visual representation of an area or a route, often used for navigation purposes."
+  "context": "The Finnish word 'kartta' means map or chart. It refers to a visual representation of an area, typically showing geographical features, roads, cities and other landmarks. The word is commonly used when navigating unfamiliar places or providing directions. In Finnish grammar, it's a feminine noun in the basic form."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma austan sind väga.",
-    "Ta austab oma vanemaid.",
-    "Austust vääriv inimene."
+    "Ta tegi talle austust.",
+    "Me austust üksteist alati.",
+    "Tema austust oli uskumatu."
   ],
   "translation": [
     "respect",
-    "esteem",
-    "honor"
+    "honor",
+    "admiration"
   ],
-  "context": "The word 'austust' in Estonian refers to the feeling of deep admiration for someone or something. It is often used to express respect, honor, and esteem towards individuals or concepts considered worthy of high regard. In English, it’s commonly used when acknowledging someone’s achievements or showing deference."
+  "context": "The word 'austust' is the partitive case of 'austus', which means respect, honor, or admiration. In Estonian grammar, the partitive case often indicates partialness or an ongoing action. So 'austust' can be used when talking about showing some degree of respect, having a portion of respect, or referring to the concept of respect in a general sense."
 }

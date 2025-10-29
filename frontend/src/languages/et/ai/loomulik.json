@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on loomulik inimene",
-    "Loomulikult olen ma rahul",
-    "Loomuliku inimese käitumine on enesestmõistetav"
+    "See oli loomulik valik.",
+    "Loomulikult, nad peaksid seda tegema.",
+    "Ta on väga loomuline esineja."
   ],
   "translation": [
     "natural",
-    "normal"
+    "logical",
+    "organic"
   ],
-  "context": "The word 'loomulik' in Estonian means something that is normal or natural, and it is commonly used to describe a person's behavior or a situation that is expected or usual."
+  "context": "The Estonian word 'loomulik' is an adjective that means natural or logical. It can be used to describe something that occurs in nature, follows a logical progression, or feels organic and spontaneous rather than forced. The word comes from 'loodus' (nature) + '-lik' (suffix meaning 'like' or 'having the quality of'). In different contexts it can mean natural, logical, organic, or even obvious/certain."
 }

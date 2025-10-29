@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kulutan palju aega raamatute lugemisele.",
-    "See projekt läheb mulle kulul kalli raha.",
-    "Kulutused on viimastel kuudel tõusnud."
+    "Kulud on kõrjad.",
+    "Ta kulutas palju raha sellele projektile.",
+    "Majanduslikult see ei ole kulul."
   ],
   "translation": [
-    "expense",
-    "cost",
-    "spending"
+    "expensive",
+    "costly",
+    "pricey"
   ],
-  "context": "The word 'kulul' in Estonian generally refers to expenses, costs or spending. It can describe the act of using resources (like money or time) or the amount used. It is often used when discussing financial outlays or personal consumption."
+  "context": "The word 'kulul' is an Estonian adjective that means expensive or costly. It describes something that has a high price or requires significant financial expenditure. This form appears to be in the elative case (from state), suggesting it might mean 'from being expensive' or used in contexts where expense is being considered as a point of departure for comparison or measurement."
 }

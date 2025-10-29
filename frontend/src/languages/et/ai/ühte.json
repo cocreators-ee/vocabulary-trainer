@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen ühte kodu",
-    "Ta on ühte mehega abiellunud",
-    "Ühte päeva võib juhtuda midagi head"
+    "Ühte kotti panin oma raamatud.",
+    "Me läksime ühte kohvi",
+    "Tema on meie ühte põlvkonda."
   ],
   "translation": [
-    "together",
-    "one",
-    "same"
+    "to one",
+    "to a single place",
+    "to the same"
   ],
-  "context": "The word \"ühte\" in Estonian can be translated to English as \"together\", \"one\", or \"same\", and is commonly used to describe unity, sameness, or a single entity."
+  "context": "\"Ühte\" is the partitive singular form of the Estonian word \"üks\", which means \"one\". As a partitive case, it indicates that something goes to one (place/person), or refers to being of the same group or generation. It's commonly used when referring to going together somewhere, sharing something, or belonging to the same category."
 }

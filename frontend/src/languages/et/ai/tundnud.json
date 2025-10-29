@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tundnud end üksi.",
-    "Ta on tundnud end võõraks.",
-    "Nad on tundnud end ohustatuna."
+    "Ta on tundnud head sõpru.",
+    "Me oleme tundnud seda kohta varem.",
+    "Mina ei ole veel tundnud sellist armastust."
   ],
   "translation": [
     "felt",
-    "experienced",
-    "sensed"
+    "known",
+    "experienced"
   ],
-  "context": "The word 'tundnud' is a verb in Estonian that means to feel or experience something, often used to describe emotions or sensations."
+  "context": "The word 'tundnud' is the past participle form of the Estonian verb 'tunda', which means to feel, know, or experience. It's commonly used in perfect tenses to describe sensations, knowledge gained through experience, or recognition of something previously encountered."
 }

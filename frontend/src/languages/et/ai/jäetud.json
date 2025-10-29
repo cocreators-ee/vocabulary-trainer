@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jätsin oma võtmed lauale.",
-    "Ta on jäänud haigeks.",
-    "Jäetud toit on üsna külm."
+    "Maja on jäetud.",
+    "Ta jättis raamatu lauale ja lahkus.",
+    "Jätke oma prillid ära."
   ],
   "translation": [
-    "left",
+    "left behind",
     "abandoned",
-    "remained"
+    "forgotten"
   ],
-  "context": "The word 'jäetud' is commonly used in Estonian to describe something or someone that has been left behind, abandoned, or remained in a certain state or place."
+  "context": "The Estonian word 'jäetud' is the past participle of the verb 'jätta', which means 'to leave' or 'to abandon'. It describes something that has been left behind by someone, either intentionally or unintentionally. The form 'jäetud' is in the nominative case and can be used as an adjective to describe a noun (e.g., jäetud maja - abandoned house) or as a standalone expression indicating a state of having been left."
 }

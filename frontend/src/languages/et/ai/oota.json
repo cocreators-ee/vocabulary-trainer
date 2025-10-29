@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ootan bussi.",
-    "Ta ootas mind kohvikus.",
-    "Nad ootavad meid õhtul."
+    "Oota veidi!",
+    "Ootasin sind kaua.",
+    "Me peame ootama bussi."
   ],
   "translation": [
-    "wait",
-    "await"
+    "to wait",
+    "to expect",
+    "to await"
   ],
-  "context": "The word 'oota' in Estonian means to wait for something or someone, and it is commonly used in everyday conversations to express the act of waiting or expecting something to happen."
+  "context": "The Estonian verb 'oota' means to wait for or expect something. It's commonly used in everyday situations when waiting for people, transportation, or events. The word can be conjugated in different tenses - here it appears in present tense (oota), past tense (ootasin), and with additional particles like '-ma' suffix (ootama)."
 }

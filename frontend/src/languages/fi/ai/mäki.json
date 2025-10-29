@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mäki on korkea paikka.",
-    "Talviurheilijat hiihtävät mäessä.",
-    "Hän asuu vuoren juurella olevalla mäellä."
+    "Mäki on korkea ja jyrkkä.",
+    "Laskin alas mäeltä suurella nopeudella.",
+    "Kylässä on useita mäkiä."
   ],
   "translation": [
     "hill",
-    "slope"
+    "slope",
+    "mountain"
   ],
-  "context": "The word mäki refers to a hill or slope, often used in Finnish geography and sports, such as skiing."
+  "context": "The Finnish word 'mäki' is a noun that refers to a hill or slope. It can be used for natural elevations of varying sizes - from small hills in the countryside to larger slopes. In compound words, it often forms part of place names and geographical features."
 }

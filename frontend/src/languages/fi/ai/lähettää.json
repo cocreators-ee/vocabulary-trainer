@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä lähetän kirjeen tänään.",
-    "Hänen täytyy lähettää viesti äidilleen.",
-    "Lähettäjä toimii nopeasti."
+    "Minä lähetän sinulle kirjeen.",
+    "Hän lähetti viestin ystävälleen.",
+    "Me olemme lähettäneet paketteja monille ihmisille."
   ],
   "translation": [
     "to send",
-    "send"
+    "to dispatch",
+    "to transmit",
+    "to mail"
   ],
-  "context": "The word lähettää is commonly used in Finnish to mean to send something or someone, such as a message, package, or person, from one place to another."
+  "context": "The Finnish verb 'lähettää' is a transitive verb that means to send, dispatch, or transmit something. It's commonly used for sending messages, packages, letters, emails, or other items from one person or place to another. The word can be conjugated in various tenses: lähetän (I send), lähetät (you send), hän lähettää (he/she sends), lähetämme (we send), lähetätte (you plural send), he lähettävät (they send). In the past tense, it would be lähetin (I sent), lähetit (you sent), and so on."
 }

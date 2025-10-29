@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lõppu jõudnud",
-    "Ta on lõppu küsinud",
-    "Lõppu ei ole veel näha"
+    "Töö on lõppeda.",
+    "Mäng sai ootamatult lõpu.",
+    "Meie suvepühad läksid kiiresti lõppu."
   ],
   "translation": [
     "end",
+    "ending",
     "finish"
   ],
-  "context": "The word 'lõppu' in Estonian generally means reaching or coming to the end of something, and it is commonly used in sentences to describe the completion or conclusion of an activity or a process."
+  "context": "The Estonian word 'lõppu' is the partitive case form of 'lõpp', which means 'end' or 'ending'. It indicates that something has reached its conclusion or final point. In these examples, it shows when work ends ('Töö on lõppeda'), when a game unexpectedly finished ('Mäng sai ootamatult lõpu'), and how quickly summer holidays came to an end ('Meie suvepühad läksid kiiresti lõppu')."
 }

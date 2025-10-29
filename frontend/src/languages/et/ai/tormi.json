@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tormi teekond on pikk ja keeruline.",
-    "Ta tundus, et vaimu tormis taastumiseks on aega.",
-    "Loomulikult tõi see kaasa raskust ja tormi."
+    "Tormi küsis mult abi.",
+    "Me kuulsime tormi eest peituda.",
+    "Tormid olid väga ohtlikud."
   ],
   "translation": [
     "storm",
     "tempest"
   ],
-  "context": "The word 'tormi' translates to 'storm' or 'tempest' in English. It is commonly used to describe intense weather events involving strong winds and heavy rain, often with a sense of chaos or turmoil."
+  "context": "The word 'tormi' is the genitive singular form of 'torm', which means 'storm' in English. In Estonian, the genitive case typically indicates possession or relationship (meaning 'of storm' or 'belonging to a storm'). This form would be used when modifying nouns that belong to or are associated with storms. For example, 'Tormi küsis mult abi' means '[The] storm asked me for help' - here tormi modifies the verb 'küsis' (asked)."
 }

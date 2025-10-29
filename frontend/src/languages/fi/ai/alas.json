@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän meni alas portaita.",
-    "Alas tuli lumisade.",
-    "Heittäydy alas ja olla hiljaa."
+    "Minä menin alas portaista.",
+    "Hän pudotti kirjat lattialle alas.",
+    "Laskuvarjo hyppääsi alas taivaalta."
   ],
   "translation": [
     "down",
-    "downwards"
+    "downwards",
+    "below"
   ],
-  "context": "The word 'alas' is commonly used in Finnish to indicate a direction or movement downwards, and it can be used as an adverb or a preposition in different contexts."
+  "context": "The Finnish word 'alas' is an adverb that indicates movement or position in a downward direction. It's commonly used to describe motion from a higher point to a lower point, such as going down stairs, falling objects descending, or parachutes jumping down from the sky. This directional adverb corresponds directly to English words like 'down', 'downwards', and 'below' when referring to vertical descent."
 }

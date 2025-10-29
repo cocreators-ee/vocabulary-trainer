@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lastele on vaja palju toitu.",
-    "Ta armastab lastele lugeda.",
-    "Lastele meeldib mängida väljas."
+    "Mängin lastega mängu.",
+    "Räägin lastele loo.",
+    "Annan lastele õunad."
   ],
   "translation": [
-    "to children",
-    "for kids"
+    "for children",
+    "to children"
   ],
-  "context": "The word 'lastele' in Estonian is a dative plural form of the noun 'laps', which means child, and it is commonly used to indicate that something is intended for or directed towards children."
+  "context": "The word 'lastele' is the allative case of 'lapsed', meaning 'children'. In Estonian, it indicates motion toward or direction to something. When used with verbs like 'give', 'tell', or 'play', it shows that the action is directed toward children."
 }

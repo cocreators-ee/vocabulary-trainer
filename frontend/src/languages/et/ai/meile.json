@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Meile on antud see võimalus.",
-    "Meile tundub, et see on hea mõte.",
-    "Meile ei ole teada, mis juhtub."
+    "Meile meeldib käia kinno.",
+    "Sa tuleb meile külastama.",
+    "Kiri on saadetud meile."
   ],
   "translation": [
     "to us",
     "for us",
     "we"
   ],
-  "context": "The word meile is a pronoun in Estonian that means to us or for us, and it is commonly used to indicate that something is being done for the benefit of the speaker and others."
+  "context": "The Estonian word 'meile' is the allative case of 'meie', meaning 'we/us'. In allative case, it indicates motion toward or direction to 'us', so it can be translated as 'to us' or 'for us' depending on context. It's commonly used when someone is coming to visit us, something is being sent to us, or an action is directed toward us."
 }

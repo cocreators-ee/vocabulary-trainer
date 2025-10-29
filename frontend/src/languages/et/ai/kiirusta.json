@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma pean kiirustama, et jõuda õigeks ajaks.",
-    "Ära kiirusta, meil on aega.",
-    "Ta kiirustas haiglasse."
+    "Kiirustage palun, buss peab saamama juba!",
+    "Me ei tohi kiirustada, et mitte unustada midagi.",
+    "Ta alati kiirustab hommikuti tööle minekuga."
   ],
   "translation": [
     "hurry",
     "rush",
-    "speed up"
+    "be quick"
   ],
-  "context": "The word 'kiirusta' in Estonian means to hurry or rush. It is commonly used when someone needs to move quickly to avoid being late or to accomplish something within a limited timeframe."
+  "context": "Kiirusta is the imperative form of the verb 'kiirustama', which means to hurry, rush, or be quick. It's used as a command or request for someone to speed up their actions. The word comes from the root 'kiire' (fast) and the suffix '-sta' which forms imperatives in Estonian. In its imperative form, it directly addresses someone telling them to hurry up."
 }

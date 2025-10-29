@@ -1,14 +1,20 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen enesekindel.",
-    "Ta on eneseküllane inimene.",
-    "Enesearendus on oluline."
+    "Ma ei taha teha seda enese.",
+    "Ta rääkis endaga nädalavahetuseks.",
+    "Me peame hoolitsema iseenda eest."
   ],
   "translation": [
-    "self",
-    "oneself"
+    "oneself",
+    "myself",
+    "yourself",
+    "himself",
+    "herself",
+    "itself",
+    "ourselves",
+    "yourselves",
+    "themselves"
   ],
-  "context": "The word 'enese' is a reflexive pronoun in Estonian, used to refer to the subject of the sentence, similar to 'self' or 'oneself' in English. It is commonly used in sentences to indicate that the action is being done by the subject to themselves."
+  "context": "The word 'enese' is the reflexive pronoun in Estonian, used to indicate that the subject of the sentence is also the object. It corresponds to English reflexive pronouns like 'myself', 'yourself', etc., and can change form based on the person and number of the subject."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ta on väga anune tüdruk.",
-    "Anu laulis kaunilt.",
-    "See oli anune hetk."
+    "Mul on anun.",
+    "Ta saab tänaseks anu.",
+    "Anud on head."
   ],
   "translation": [
-    "cute",
-    "sweet",
-    "lovely"
+    "present",
+    "gift"
   ],
-  "context": "The Estonian word 'anun' is used to describe someone or something that is cute, sweet, or lovely. It often refers to a young girl or a pleasant moment."
+  "context": "In Estonian, 'anun' is the partitive form of 'anu', which means 'present' or 'gift'. It refers to a gift that someone receives. The partitive case is commonly used with certain verbs and in specific contexts in Estonian grammar."
 }

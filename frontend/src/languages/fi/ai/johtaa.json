@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän johtaa tiimiä.",
-    "Johtaja johtaa yritystä.",
-    "Tämä polku johtaa vuoren huipulle."
+    "Minä johtan tiimiä.",
+    "Hän johtaa yritystä.",
+    "Tämä tie johtaa kaupunkiin."
   ],
   "translation": [
-    "lead",
-    "conduct",
-    "guide"
+    "to lead",
+    "to conduct",
+    "to guide"
   ],
-  "context": "The word 'johtaa' is commonly used in Finnish to mean leading or guiding something, such as a team or an organization, and can also refer to conducting or directing an activity or event."
+  "context": "The Finnish word 'johtaa' is a verb that means to lead, conduct, or guide. It can refer to leading people (a team, an organization), conducting something (like music or business operations), or guiding/leading somewhere physically (a road leading to a destination). The root form 'johtaa' appears in the present tense conjugation. In first person singular it becomes 'johtan', and it can be modified for different tenses, subjects, and contexts."
 }

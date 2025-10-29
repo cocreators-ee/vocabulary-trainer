@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu õde läks lennukeppidega lennuksid koolimajja.",
-    "Lennukis on palju erinevaid masinad.",
-    "Ta õppis lennukite mehaanika eest vastutavat lennuksit."
+    "Lennukis on palju inimesi.",
+    "Me lendame lennukis Prantsusmaale.",
+    "Tere tulemast lennukisse!"
   ],
   "translation": [
-    "aircraft",
-    "pilot",
-    "aviator"
+    "in the airplane",
+    "on the plane",
+    "in the aircraft"
   ],
-  "context": "The word 'lennukis' can refer to a person involved in flying aircraft, such as an aviator or pilot. It may also refer to the actual aircraft itself depending on context."
+  "context": "The word 'lennukis' is an Estonian adessive case form of 'lennuk', meaning airplane. The '-s' ending indicates location or place, so it translates to 'in the airplane' or 'on the plane'. This case is used when something is located on/in something else."
 }

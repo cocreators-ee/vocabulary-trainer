@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on mennyt pitkälle tässä asiassa",
-    "Tämä tie vie pitkälle ja ylittää useita jokia",
-    "He ovat tulleet pitkälle kehityksessään"
+    "Hän käveli pitkälle metsään.",
+    "Auto ajoi pitkälle eteenpäin.",
+    "Heidän suhteensa kesti pitkälle."
   ],
   "translation": [
     "far",
-    "long way",
-    "a long distance"
+    "deeply",
+    "for a long time"
   ],
-  "context": "The word 'pitkälle' is an adverb in Finnish that means a long distance or far, it can be used to describe something that has gone on for a long time or something that is physically far away."
+  "context": "In Finnish, 'pitkälle' is an adverb that can be used in several contexts. It primarily means 'far' when referring to physical distance (e.g., walking far into the forest), but it also has metaphorical uses such as 'deeply' (referring to depth or intensity) and 'for a long time' (referring to duration). The word is derived from 'pitkä' meaning 'long', and the '-lle' suffix indicates direction towards something. It can be used with various cases depending on what it modifies."
 }

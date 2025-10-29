@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõitsin rongiga Tallinnast Tartusse.",
-    "Rongid on populaarsed transpordivahendid Eestis.",
-    "Ta oli rongi juht ja tõi meid turvasti sihtkohta."
+    "Rongi peatus jaamas pool tundi hiljem.",
+    "Meil on rongi piletid järgmiseks hommikuks.",
+    "Rongi ootamine jaamas võtab kaua aega."
   ],
   "translation": [
-    "train"
+    "train",
+    "railway car",
+    "locomotive"
   ],
-  "context": "The word 'rong' in Estonian refers to a train, which is a common mode of transportation in Estonia. It is used as a noun and can be seen in various forms such as 'rongi', 'rongiga', 'rongid', etc., depending on the context."
+  "context": "The word 'rongi' is the genitive singular form of the Estonian noun 'rong', which means train. In this case, it indicates possession or relationship to a train - something belonging to a train, related to a train, or concerning a train. For example, 'rongi peatus' means the train's stop or station stop."
 }

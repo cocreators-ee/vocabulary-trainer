@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Yleinen mielipide on, että ilmastonmuutos on merkittävä ongelma.",
-    "Hänellä on yleinen käsite siitä, miten talous toimii.",
-    "Tämä on yleinen näkemys tällaisissa tapauksissa."
+    "Tämä on yleinen tapa suomalaisessa kulttuurissa.",
+    "Yleistiedot ovat tärkeitä kaikille opiskelijoille.",
+    "Hänellä ei ole yleistä kokemusta näistä asioista."
   ],
   "translation": [
-    "general",
     "common",
-    "universal"
+    "general",
+    "widespread",
+    "public"
   ],
-  "context": "The word 'yleinen' in Finnish refers to something that is common or universal, and it is often used to describe a general opinion or a widespread phenomenon. It can also be used to describe something that is shared by everyone or everything."
+  "context": "The Finnish word 'yleinen' is an adjective that can be translated to English in several ways depending on context. It means 'common' when referring to something frequently occurring, 'general' for broad or widespread concepts, 'widespread' for things found over a large area or among many people, and 'public' when contrasting with private matters. The word comes from the root 'yle-' which relates to 'all' or 'whole', giving it the sense of something that applies to everyone or covers everything."
 }

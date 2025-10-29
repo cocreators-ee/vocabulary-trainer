@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta elab Tallinnas.",
-    "Meil on väike kodu, kus me elame.",
-    "Kas sa oled kunst elanud seal?"
+    "Elab veel oma vanemate juures.",
+    "Ta elab rõõmsalt üksi.",
+    "Lapsed elavad linnas."
   ],
   "translation": [
     "lives",
-    "live",
-    "have lived"
+    "is living",
+    "dwells"
   ],
-  "context": "'Elab' means 'lives' in Estonian. It is the third person singular form of the verb 'to live.' It is commonly used to describe where someone resides."
+  "context": "The word 'elab' is the third-person singular present tense form of the Estonian verb 'ela', which means 'to live'. It indicates that someone or something currently resides in a particular place. This form is used when referring to one person or thing (he, she, it) living somewhere."
 }

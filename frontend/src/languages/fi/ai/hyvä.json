@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän on hyvä ihminen.",
-    "Hyvää päivää.",
-    "Olet hyvin tervetullut."
+    "Hyvä päivä sinulle!",
+    "Tämä on hyvä kirja.",
+    "Hän on hyvä opettaja."
   ],
   "translation": [
     "good",
-    "fine"
+    "nice",
+    "fine",
+    "well"
   ],
-  "context": "The word 'hyvä' is commonly used in Finnish to express something or someone that is good, fine, or of high quality."
+  "context": "The Finnish word 'hyvä' is a versatile adjective that means 'good', 'nice', or 'fine'. It's commonly used to describe positive qualities, satisfactory conditions, or agreeable situations. As an adjective, it can be modified based on the gender and number of the noun it modifies, with forms like 'hyvät' for plural."
 }

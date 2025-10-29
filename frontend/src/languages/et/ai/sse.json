@@ -1,15 +1,13 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma lähen sse poole.",
-    "See on väga sse koht.",
-    "Nad said sse peale."
+    "Tema läks majja.",
+    "Tema läks autoss e.",
+    "Tema läks linna."
   ],
   "translation": [
-    "there",
-    "to there",
-    "towards"
+    "into",
+    "to the inside of"
   ],
-  "context": "The Estonian word 'sse' is a postposition indicating direction or location 'to' or 'towards' something. It’s often attached to the end of nouns or pronouns to show movement in that direction."
+  "context": "The Estonian suffix '-sse' is a case ending that indicates motion into or towards something. It's part of the illative case, which answers the question 'where to?' or 'into what?'. This ending is added to nouns when indicating movement into a location or space."
 }

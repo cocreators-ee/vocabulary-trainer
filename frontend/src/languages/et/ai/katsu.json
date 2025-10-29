@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kass tõmbas katsut veele.",
-    "Uurijad teostasid uue katsu katsetamaks uut ravimit.",
-    "Poiss tegi katsuse, et näha kas see töötab."
+    "Katsu on hea maitse.",
+    "Meil katsusid täna hommikul.",
+    "Lisa mulle palun üks katsu."
   ],
   "translation": [
-    "test",
-    "experiment",
-    "trial"
+    "cucumber",
+    "gherkin"
   ],
-  "context": "The word 'katsu' in Estonian refers to a test or experiment. It is commonly used when referring to scientific experiments, tests taken by students, or trying out something new to see the results."
+  "context": "The word 'katsu' in Estonian refers to cucumber or gherkin. It's a common vegetable used in salads, sandwiches, and as a side dish. In the examples provided, it's shown in singular form ('katsu') and plural form ('katsud')."
 }

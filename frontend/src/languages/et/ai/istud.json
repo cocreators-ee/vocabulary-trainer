@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma istun diivanil.",
-    "Ta istus toolil tundide viisi.",
-    "Nad istuvad pargis."
+    "Ma istud laual.",
+    "Tema istub toolil.",
+    "Mina ei istu põrandal."
   ],
   "translation": [
-    "sit",
-    "seated",
-    "sitting"
+    "you sit",
+    "thou sittest",
+    "ye/you are sitting"
   ],
-  "context": "The Estonian word 'istud' is the second-person singular present tense form of the verb 'istuma', which means 'to sit'. It’s used when addressing someone directly and stating that they are sitting. In English, it corresponds to saying 'you sit'."
+  "context": "The word 'istud' is the 2nd person singular present indicative form of the Estonian verb 'istuma', which means 'to sit'. It is used when addressing one person informally (using the informal 'you') in the present tense. The form indicates that the action of sitting is currently happening by the person being addressed."
 }

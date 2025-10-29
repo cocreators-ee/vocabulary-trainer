@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on väga tähtsust täis päev.",
-    "Ma ei anna sellele mingit tähtsust.",
-    "Tähtsust omistati tema töödele."
+    "See kõik ei oma tähtsust.",
+    "Sellel teemal pole tähtsust.",
+    "Arvamused ei oma suurt tähtsust."
   ],
   "translation": [
     "importance",
     "significance",
-    "weight"
+    "value"
   ],
-  "context": "The word 'tähtsust' in Estonian refers to the quality of being important, significant, or having value. It is often used to express how much something matters or is considered worthwhile. In English, it can be translated as 'importance', 'significance', or 'weight'."
+  "context": "The word 'tähtsust' is the partitive case form of the Estonian noun 'tähtsus', which means 'importance' or 'significance'. In this form, it's used to indicate an unspecified amount or some of something. So when we say 'ei oma tähtsust', it means 'does not have importance/significance'."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole öelnud sõnagi.",
-    "Ta ütles mulle mitte sõnagi.",
-    "Sõnagi pole selles küsimuses öeldud."
+    "Ta on sõnagi hea sportlane.",
+    "Mul oli sõnagi raske öelda see tõsi.",
+    "Sellest juttu sõnagi ei meeldi."
   ],
   "translation": [
-    "word",
-    "remark",
-    "comment"
+    "also",
+    "too",
+    "as well"
   ],
-  "context": "The word sõnagi is a noun in Estonian that refers to a word or remark, and it is commonly used in sentences to indicate that someone has not said anything or that no comment has been made about something."
+  "context": "The word 'sõnagi' in Estonian is an adverb that means 'also', 'too', or 'as well'. It's used to add additional information or emphasize that something else is included. The word consists of 'sõna' (word) plus the suffix '-gi' which indicates inclusion or addition. In sentences, it typically follows the verb or appears at a natural position in the sentence where the additional emphasis is needed."
 }

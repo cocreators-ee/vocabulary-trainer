@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma otsisin sind terves päeva.",
-    "Ta hakkas rahakotti otsige.",
-    "Politsei otsib kurjategijat."
+    "Otsige head kohta ööbimiseks.",
+    "Palun otsige oma nimesid sellelt listilt.",
+    "Kes teie perega otsite?"
   ],
   "translation": [
-    "search",
+    "search for",
     "look for",
-    "seek"
+    "seek out"
   ],
-  "context": "The word 'otsige' in Estonian is a verb that means to search, look for, or seek something. It’s commonly used when trying to find a lost object, person, or information. It can also be used in the context of investigations where authorities are looking for someone."
+  "context": "The word 'otsige' is the plural imperative form of the verb 'otsima', which means 'to search' or 'to look for'. It's used when addressing multiple people directly, giving them an instruction to search or look for something. The root 'ots-' relates to searching or looking, and the '-i-' connects the stem to the ending, with '-ge' being the plural imperative suffix."
 }

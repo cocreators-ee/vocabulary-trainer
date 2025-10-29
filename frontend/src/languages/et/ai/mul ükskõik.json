@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mul ükskõik, mis seal toimub.",
-    "Ta ütles, et tal on ükskõik, kuhu minna.",
-    "Ükskõik millal ma tule tagasi, sa ootad mind."
+    "Mul ükskõik, kas sa tule või mitte.",
+    "Meil mul ükskõidust.",
+    "Tema ütleb, et tal on mul ükskõik."
   ],
   "translation": [
     "I don't care",
-    "it does not matter to me"
+    "It doesn't matter to me",
+    "I'm indifferent"
   ],
-  "context": "The phrase 'mul ükskõik' is used in Estonian to express indifference or a lack of concern about something, similar to the English phrase 'I don't care'."
+  "context": "The phrase 'mul ükskõik' is an Estonian expression used when someone is indifferent or unconcerned about something. It literally translates as 'to me it's of no importance/indifference'. This phrase combines the personal pronoun 'mul' (which means 'to me') with 'ükskõik', meaning indifference, apathy, or not caring about something."
 }

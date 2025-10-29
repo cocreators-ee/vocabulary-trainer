@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tõestasin oma oskusi.",
-    "Ta ei suutnud seda tõestada.",
-    "Tõestamine on vajalik selleks, et kindlaks teha tõde."
+    "Tõestasin oma väite andmetega.",
+    "Ta üritas tõestada oma õigsust.",
+    "Me peame tõestama, et see lahendus toimib."
   ],
   "translation": [
-    "prove",
-    "demonstrate",
-    "verify"
+    "to prove",
+    "to demonstrate",
+    "to verify"
   ],
-  "context": "The word 'tõestada' in Estonian means to prove or demonstrate something, and it is commonly used in contexts where someone needs to show evidence or confirmation of a fact or statement."
+  "context": "The Estonian word 'tõestada' is a verb that means to provide evidence or reasoning in support of something. It's used when you want to show that a statement, claim, or theory is true through logical argumentation, factual data, or demonstration. The word comes from the root 'tõde' meaning truth, and it carries the sense of establishing something as proven or verified."
 }

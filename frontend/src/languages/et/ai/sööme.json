@@ -1,14 +1,14 @@
 {
-  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Olen juba öelnud, et me peame sööma.",
-    "Tema naine ei taha, et me söögiks midagi sellest.",
-    "Kui sa tõesti oled näljane, siis sööme."
+    "Me sööme hommikuti.",
+    "Täna sööme hea söök.",
+    "Kuidas me sööme?"
   ],
   "translation": [
-    "eat",
-    "to eat"
+    "we eat",
+    "are eating",
+    "do eat"
   ],
-  "context": "'Sööme' is the first person plural form of the verb 'sööma', which means to eat. It is used when more than one person is involved in eating something, including the speaker and at least one other person."
+  "context": "The word 'sööme' is the 1st person plural present indicative form of the Estonian verb 'sööma' (to eat). It means 'we eat' or 'are eating'. In Estonian, verbs are conjugated by person and number. The ending '-me' indicates that this is the first person plural (we) form in the present tense. This would be used when describing what a group of people (including the speaker) currently eats regularly."
 }

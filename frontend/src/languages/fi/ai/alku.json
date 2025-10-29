@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Alku on hyvin tärkeä",
-    "Kaiken alku on vaikea",
-    "Hän tiesi alun alusta, miten homma menee"
+    "Alku on aina vaikea.",
+    "Tämä oli elämni alku.",
+    "Hän puhui alkua englantilaisella aksentilla."
   ],
   "translation": [
     "beginning",
-    "start"
+    "start",
+    "origin"
   ],
-  "context": "The word 'alku' generally refers to the starting point or initial phase of something, such as a project, event, or process, and is commonly used in Finnish to describe the early stages of an activity or situation."
+  "context": "\"Alku\" is the Finnish word for \"beginning\" or \"start\". It's a noun that refers to the initial part of something, the origin point, or the commencement of an event or process. In Finnish grammar, \"alku\" appears in various cases depending on its role in a sentence - for example, \"alkuna\" means \"as a beginning\", and \"alusta\" means \"from the beginning\"."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olin plaanis käia kinos.",
-    "Plaanis on mitu erinevat tähendust.",
-    "Ta oli plaanis teha karjäär muusikuna."
+    "Plaanis on homseks uus projekt.",
+    "Me oleme plaanis täna öösel minema.",
+    "Kas sa oled ka selles plaanis?"
   ],
   "translation": [
-    "intended",
-    "planned"
+    "in the plan",
+    "planned",
+    "scheduled"
   ],
-  "context": "The word 'plaanis' in Estonian generally means something that is intended or planned to happen, often used to describe a future event or action that has been thought out and prepared for in advance."
+  "context": "The Estonian word 'plaanis' is in the elative case, which indicates movement from or out of something. It comes from the root word 'planeerima' (to plan) and means that something is planned, scheduled, or included in a plan. The '-s' ending shows it's in the elative singular form."
 }

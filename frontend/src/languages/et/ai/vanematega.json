@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen vanematega kinno.",
-    "Vanemad ei saa lastega koos olla.",
-    "Laps peab olema vanematega ühenduses."
+    "Eks vanematega kohtumine oli rõõmsam kui olin eeldanud.",
+    "Lapsed käisid puhkusel vanematega.",
+    "Ta ei saa ilma vanematega läbi."
   ],
   "translation": [
     "with parents",
-    "parents"
+    "with elders",
+    "with older people"
   ],
-  "context": "The word 'vanematega' is used in Estonian to refer to being with or accompanied by one's parents, it is often used in contexts where the relationship between children and their parents is emphasized."
+  "context": "The word 'vanematega' is an Estonian adessive case form of the plural noun 'vanemad' (parents/elders) combined with the adessive ending '-ga'. It means 'with parents' or 'with elders', indicating accompaniment or association. The adessive case in Estonian typically answers the question 'kuidas?' (how?) or 'kellega?' (with whom?)."
 }

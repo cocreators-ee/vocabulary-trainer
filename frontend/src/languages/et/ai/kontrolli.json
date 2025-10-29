@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kontrollin tema taustat.",
-    "Kontrollige oma telefonile saadetud koodi.",
-    "Kontrolli alluvate tööd."
+    "Kontrolli oma dokumentid enne lendu.",
+    "Palun kontrolli kellaaega.",
+    "Mees kontrollib arvet."
   ],
   "translation": [
-    "control",
     "check",
-    "supervise"
+    "control",
+    "verify"
   ],
-  "context": "The word 'kontrolli' in Estonian means to control or check something, and it is commonly used in contexts where someone is overseeing or regulating a process or activity."
+  "context": "\"Kontrolli\" is the imperative form of the Estonian verb \"kontrollima\", which means to check, control, or verify. It's used as a command or instruction telling someone to examine something carefully to ensure it's correct or meets certain standards."
 }

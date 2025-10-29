@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan selles maailmas.",
-    "Ta on üks maailma suurimaid linnu.",
-    "See on tuntud kui üks ilusaim maailmas."
+    "Maailmas on palusi kultuure.",
+    "Ta elab suurimas linnas maailmas.",
+    "Kõige ilusamad kohad asuvad üle terve maailma."
   ],
   "translation": [
     "in the world",
-    "world"
+    "worldwide",
+    "around the world"
   ],
-  "context": "The word 'maailmas' is used in Estonian to refer to something that exists or happens in the world, and it can be translated to English as 'in the world' or simply 'world' depending on the context of the sentence."
+  "context": "'Maailmas' is an Estonian adessive case form of 'maailm' (world), meaning 'in the world'. It indicates location or presence within the world. The word follows Estonian grammatical rules where the -s suffix typically indicates the adessive case, showing where something is located or exists."
 }

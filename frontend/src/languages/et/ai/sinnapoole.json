@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli sinnapoole.",
-    "Me tulime sinnapoole jooksma.",
-    "Nad tulid sinnapoole kiiruga."
+    "Tule sinnapoole!",
+    "Lapse käsi jooksis sinnapoole.",
+    "Auto sõitis sinnapoole."
   ],
   "translation": [
-    "towards me",
-    "this way",
-    "hither"
+    "toward here",
+    "in this direction",
+    "this way"
   ],
-  "context": "The word sinnapoole is used to indicate movement towards the speaker, similar to the English phrase this way or hither."
+  "context": "The Estonian word 'sinnapoole' is an adverbial phrase that indicates movement or direction toward the speaker or a specific location. It's composed of 'sinna' (there/to) and 'poole' (toward), combined to mean 'toward here' or 'this way'. This directional term is commonly used when beckoning someone to approach, indicating a destination in relation to the speaker's position."
 }

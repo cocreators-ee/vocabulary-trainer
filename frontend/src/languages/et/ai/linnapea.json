@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tallinna linnapea on Mihhail Kõlvart.",
-    "Linnapea vastas küsimustele.",
-    "Uus linnapea valiti kohaliku omavalitsuse volikogu poolt."
+    "Linnapea vastutas linna arengu eest.",
+    "Tallinna linnapea külastas kohalikke kooli.",
+    "Uus linnapea vannub ametisse tänaval."
   ],
   "translation": [
     "mayor",
-    "city governor"
+    "city head",
+    "municipal leader"
   ],
-  "context": "The word 'linnapea' refers to the mayor or city governor of a town in Estonia, and is commonly used in formal and informal settings to denote the head of a local government."
+  "context": "The word 'linnapea' is an Estonian noun meaning mayor or city head. It's composed of two parts: 'linn' (city) and 'pea' (head). The word refers to the elected official who serves as the chief executive officer of a municipality in Estonia. It can be used in different contexts such as discussing local government, political news, or describing the responsibilities of city administration."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Öelge mulle, mis te arvate?",
-    "Ma öeldasin, et see on hea mõte.",
-    "Ta ütles: \"Öelge talle, et ma olen teel.\""
+    "Öelge tõsi!",
+    "Mis te öelte?",
+    "Palun öelge oma nimi."
   ],
   "translation": [
-    "say",
-    "tell"
+    "say (plural/formal)",
+    "speak (plural/formal)",
+    "tell (plural/formal)"
   ],
-  "context": "The word \"öelge\" is a verb in Estonian that means to say or tell something to someone. It is commonly used in sentences where someone is being asked to convey a message to another person."
+  "context": "The word 'öelge' is the plural or formal imperative form of the Estonian verb 'öelda', which means 'to say' or 'to speak'. It's used when addressing multiple people formally, similar to 'say' in English but with a polite/respectful tone. The ending '-ge' indicates this is an instruction/command given to more than one person."
 }

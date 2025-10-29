@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Lõpetasin oma töö ja lahkun tühjaks käest poodist.",
-    "Kui saab jutustada nende tühjade asjaoludest?",
-    "Tema suudlikkused on hoopis tühjad ja kasutuks."
+    "Tühi laev läks merre.",
+    "Tühi ruum oli täis võimalusi.",
+    "Tühjad aknad näitasid tühja linna."
   ],
   "translation": [
     "empty",
-    "vacant",
-    "hollow"
+    "blank",
+    "void"
   ],
-  "context": "The word 'tühja' in Estonian translates to 'empty', 'vacant', or 'hollow'. It is commonly used to describe something that has no content, is not occupied, or lacks substance. For example, an empty container, a vacant position, or hollow actions."
+  "context": "The word 'tühja' is the partitive singular form of the adjective 'tühi' in Estonian. It describes something that has been emptied or contains nothing, often used with nouns that are being emptied out of their contents or made void."
 }

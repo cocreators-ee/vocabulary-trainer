@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta jõuab koju varakult.",
-    "Jõuab see kohale?",
-    "Kui palju aega see jõuab?"
+    "Ta jõuab homseks kodusse.",
+    "Poisid jõuavad mängima staadionile.",
+    "Auto jõuab perreni kell 15."
   ],
   "translation": [
     "arrives",
-    "reaches"
+    "reaches",
+    "comes"
   ],
-  "context": "The word jõuab is commonly used in Estonian to indicate the act of arriving or reaching a destination, and it can be translated to English as arrives or reaches."
+  "context": "The word 'jõuab' is the third person singular present tense form of the Estonian verb 'jõudma', which means to arrive, reach, or come. It indicates that someone or something arrives at a destination in the present moment. The word can refer to people arriving somewhere (like home), coming for an activity (like playing on a stadium), or objects reaching a location (like a car arriving home)."
 }

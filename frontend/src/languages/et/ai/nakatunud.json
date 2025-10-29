@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oli nakatunud haigusega.",
-    "Nakatunud vesi võib põhjustada kõhuvalu.",
-    "Arstid hoiatasid nakatunud inimeste eest."
+    "Nakatunud inimene peab haiglasse minema.",
+    "Lapsed on nakatunud gripiga.",
+    "Koer oli nakatunud palavikuga."
   ],
   "translation": [
     "infected",
-    "contaminated",
-    "affected"
+    "contagious"
   ],
-  "context": "The word 'nakatunud' in Estonian generally means infected or contaminated, often referring to a disease or harmful substance. It is commonly used in medical contexts or when discussing environmental hazards."
+  "context": "The word 'nakatunud' is the past participle form of the Estonian verb 'nakatama', meaning 'to infect'. It describes something or someone that has been infected by a disease, virus, or other pathogen. The word indicates that the person or object carries an infectious agent and can potentially transmit it to others."
 }

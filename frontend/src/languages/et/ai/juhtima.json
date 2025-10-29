@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma juhtin endale uut autot.",
-    "Ta on hea juhtima meeskonda.",
-    "Juhtima tuleb osata inimesi."
+    "Ma juhin autot linna.",
+    "Tema juhib meie gruppi.",
+    "Kuidas sa jätid selle juhtida?"
   ],
   "translation": [
+    "to drive (a vehicle)",
     "to lead",
-    "to manage"
+    "to manage",
+    "to control"
   ],
-  "context": "The word juhtima is commonly used in Estonian to mean to lead or to manage something, such as a team, project, or organization. It can also be used to describe the act of guiding or directing someone or something towards a specific goal."
+  "context": "The Estonian word 'juhtima' is a verb that primarily means 'to drive' when referring to vehicles, but it also has broader meanings including 'to lead', 'manage', or 'control'. It's an infinitive form (-ma ending) and belongs to the -da/-dava conjugation class. The root 'juht-' relates to concepts of leading, guiding, or directing."
 }

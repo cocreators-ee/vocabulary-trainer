@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sulgen ukse.",
     "Sulgege aknad.",
-    "Ta sulges arvuti."
+    "Palun sulgege uksed.",
+    "Töötajad palusid külalistel sulgeega oma telefonid."
   ],
   "translation": [
-    "close",
-    "shut"
+    "close (plural imperative)",
+    "shut (plural imperative)",
+    "fasten (plural imperative)"
   ],
-  "context": "The word 'sulgege' is a verb in Estonian that means to close or shut something, and it is commonly used in everyday conversations to ask someone to close a door, window, or other objects."
+  "context": "The word 'sulgege' is the plural imperative form of the Estonian verb 'sulgema', which means 'to close'. The '-ge' suffix indicates it's addressed to multiple people or a group. This is commonly used when giving instructions to several people at once, such as asking a group of students to close doors or windows."
 }

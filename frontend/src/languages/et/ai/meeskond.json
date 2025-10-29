@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Meeskonnale anti uus ülesanne.",
-    "Jäid tänaseks meeskonda.",
-    "Meie meeskond võitis mängu."
+    "Meie meeskond võitis mängu.",
+    "Tööstusliku revolutsiooni ajal moodustati esimesed töölismeeskonnad.",
+    "Meeskonna kapten oli väga hea juht."
   ],
   "translation": [
-    "team"
+    "team",
+    "crew",
+    "group of people"
   ],
-  "context": "In Estonian language the word meeskond means 'team'. It can refer to a sports team or any group of people working together towards a common goal."
+  "context": "The Estonian word 'meeskond' is a noun that means 'team' or 'crew'. It refers to a group of people working together toward a common goal. The word can be used in various contexts such as sports teams, work crews, or any organized group. In the examples provided, it's shown in different contexts - winning a game (sports), industrial revolution workers (work crew), and having a captain (organized group)."
 }

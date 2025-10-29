@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kemiallisen reaktion nopeus riippuu molekyylien liikkeestä.",
-    "Molekyyli koostuu atomiytimestä ja elektroneista.",
-    "Tämä yhdiste koostuu monimutkaisista orgaanisista molekyyleistä."
+    "Molekyylit koostuvat atomeista.",
+    "Vesi on H2O-molekyyli.",
+    "Kemiallinen reaktio muuttaa molekyylien rakennetta."
   ],
   "translation": [
     "molecule",
     "molecular"
   ],
-  "context": "The word refers to a group of atoms bonded together, representing the smallest fundamental unit of a chemical compound. It is commonly used in chemistry and biology contexts."
+  "context": "In Finnish, 'molekyyli' is a noun that refers to the smallest unit of a chemical compound that retains all the properties of that substance. It's commonly used in chemistry and scientific contexts. The word is neuter gender in Finnish grammar."
 }

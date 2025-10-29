@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta mängib filmis suurt rolli.",
-    "Mul on selles asjas väike roll.",
-    "Roll on oluline, et saaksime edasi liikuda."
+    "Rolli on tähtsaim osa minu töös.",
+    "Mul oli väga hea roll sellel filmis.",
+    "Me otsime näitlejat peaosse."
   ],
   "translation": [
     "role",
-    "part",
-    "function"
+    "part"
   ],
-  "context": "The word 'rolli' in Estonian translates to 'role' in English. It refers to the part played by an actor in a performance, or more generally, the function assumed by someone or something."
+  "context": "The word 'rolli' is in the illative case of the Estonian noun 'roll', which means 'role' or 'part'. In this form, it indicates motion toward or into a role. It can be translated as 'into a role' or 'to a role' depending on context."
 }

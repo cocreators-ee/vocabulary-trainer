@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Miksi sinä et voi tulla?",
-    "Hän kysyi miksi emme voineet mennä",
-    "En tiedä miksi hän ei ole täällä"
+    "Miksi tulet tänään?",
+    "Hän selitti, miksi hän myöhästyi.",
+    "En tiedä, miksi tapahtui niin."
   ],
   "translation": [
     "why",
     "for what reason"
   ],
-  "context": "The word 'miksi' is commonly used in Finnish to ask for the reason or explanation of something, and it can be translated to English as 'why' or 'for what reason'."
+  "context": "The Finnish word 'miksi' is an interrogative pronoun used to ask about reasons or causes. It functions as the question word for 'why' in English and corresponds to the Swedish word 'varför'. The word is commonly used at the beginning of questions when asking for explanations, reasons, or purposes for actions or situations."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Bussi saapuu kojussa olevaan asemaan.",
-    "Hän saapui junalla Helsinkiin.",
-    "Lentokone saapuu Helsinki-Vantaan lentokentälle."
+    "Minun täytyy saapua ajoissa kokoukseen.",
+    "Hän saapuu huomenna aamupäivällä.",
+    "Odotamme, että bussi saapuu pysäkille."
   ],
   "translation": [
-    "to arrive"
+    "to arrive",
+    "to come",
+    "to reach"
   ],
-  "context": "The word 'saapua' in Finnish means to arrive, and it is commonly used to describe the act of reaching a destination, whether by foot, car, train, or plane."
+  "context": "The Finnish word 'saapua' is an intransitive verb that means 'to arrive', 'to come', or 'to reach'. It indicates the action of reaching a destination. This verb belongs to the -ua/-yä conjugation class and is used when someone or something arrives at a place, typically from some distance away. For example: 'Minun täytyy saapua ajoissa kokoukseen' means 'I must arrive on time for the meeting'. The word can be used in various tenses depending on context, such as present tense (saapuu), past tense (saapui), or conditional (saapuisi)."
 }

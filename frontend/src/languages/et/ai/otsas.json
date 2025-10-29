@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on otsas",
-    "Otsas on hea koht",
-    "Linn on ees otsas"
+    "Tema on otsas.",
+    "Auto on täis ja otsas.",
+    "Meie raha on otsas."
   ],
   "translation": [
-    "front",
-    "forehead"
+    "at the end",
+    "finished",
+    "completed",
+    "used up",
+    "exhausted"
   ],
-  "context": "The word 'otsas' in Estonian generally refers to the front or forehead of something, and it is commonly used to describe a location or position."
+  "context": "The Estonian word 'otsas' is a postposition that indicates being at the end or completion of something. It can mean physical location (at the end of) as well as abstract states like finished, used up, or exhausted. It's commonly used to describe both spatial relationships and temporal/completion states."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei mõista sellest segadusest midagi.",
-    "Segadus võib olla väga keeruline.",
-    "Ta oli segaduses, kuidas edasi tegutseda."
+    "Segadus valdab ruumis.",
+    "Tegelikult oli see segadus, mitte korratus.",
+    "Ta põgenes segadusse."
   ],
   "translation": [
     "confusion",
-    "mess"
+    "disorder",
+    "mess",
+    "chaos"
   ],
-  "context": "The word 'segadus' in Estonian generally refers to a state of confusion or disorder, where something is unclear or complicated."
+  "context": "The word 'segadus' in Estonian refers to a state of confusion, disorder, or mess. It can describe both physical混乱 (like a messy room) and mental confusion (like being confused about something). The noun form indicates it's referring to the condition or state itself rather than an action."
 }

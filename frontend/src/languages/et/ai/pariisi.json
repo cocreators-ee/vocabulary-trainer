@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lendan homme Pariisi",
-    "Pariis on üks maailma kauneim linn",
-    "Olen vist Pariisis käinud"
+    "Minu esimene külastus pariisis oli aastal 2015.",
+    "Pariis on üks ilusamaid linnu maailmas.",
+    "Me plaanisime reisi Pariisi suvel."
   ],
   "translation": [
     "Paris",
-    "the city of Paris"
+    "to Paris"
   ],
-  "context": "The word refers to the capital city of France, often used as a proper noun in Estonian language."
+  "context": "The word 'pariisi' is the elative case form of 'Pariis', which means Paris in English. In Estonian, the elative case indicates movement away from or out of a location. So 'pariisi' can mean 'from Paris' or 'out of Paris'. It's commonly used when talking about leaving or coming from Paris, as in 'tuli Pariisist' (came from Paris) where 'Pariisist' would be the elative form."
 }

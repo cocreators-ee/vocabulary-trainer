@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Terävät veitset leikkaavat hyvin",
-    "Hänellä on terävä kuulo",
-    "Teräviä ääniä ei ole helppo kuulla"
+    "Omenat ovat teräviä.",
+    "Kynät ovat teräviä.",
+    "Terävät veitset leikkaavat hyvin."
   ],
   "translation": [
     "sharp",
-    "keen",
-    " acute"
+    "pointed"
   ],
-  "context": "The word teräviä is an adjective in Finnish that means sharp or keen, and it is commonly used to describe something that has a strong or intense quality, such as a sharp knife or a keen sense of hearing"
+  "context": "The Finnish word 'teräviä' is the partitive plural form of 'teriö', which means sharp or pointed. It's used to describe objects that have a fine edge or point capable of cutting or piercing. The '-iä' ending indicates it's in partitive case, and '-ä' at the end shows it's plural form."
 }

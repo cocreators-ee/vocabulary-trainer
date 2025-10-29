@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin ammu ühtigi.",
-    "Ammu pole mul vaba aega.",
-    "Ta on ammu läinud."
+    "Olen ammu läinud.",
+    "Ta on ammu lahkunud.",
+    "Me oleme ammu teadnud seda tõde."
   ],
   "translation": [
     "long ago",
-    "for a long time"
+    "already for a long time",
+    "since long"
   ],
-  "context": "The word 'ammu' in Estonian is used to describe something that happened or has been the case for a long time, often emphasizing the duration or the fact that it started long ago."
+  "context": "The Estonian word 'ammu' is an adverb that means 'long ago' or 'for a long time'. It indicates that something happened in the distant past or has been true for a considerable duration. This word typically appears with verbs in perfect tense to show completed actions that occurred long before the present moment."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtin oma sõbra restorani jahti.",
-    "Restorani omanik oli väga sõnakeelne.",
-    "Meie käisime restoranis ööl."
+    "Restorani oksjon toimub tänaval",
+    "Me sööme restorani läheduses",
+    "Ta töötab restoranis"
   ],
   "translation": [
     "restaurant",
-    "cafe"
+    "dining establishment",
+    "eatery"
   ],
-  "context": "The word restorani is the genitive form of the Estonian word for restaurant, which refers to a place where people pay to eat meals."
+  "context": "The word 'restorani' is the elative case (from/away from) form of the Estonian noun 'restoran', which means restaurant. The '-i' ending indicates this is the elative singular form, meaning 'from a restaurant' or 'out of a restaurant'. This form is used when indicating movement away from a location or origin from something."
 }

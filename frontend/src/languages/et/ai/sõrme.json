@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tõmbas sõrme ühiseks muljeteks.",
-    "Sõrm on inimese keha osa.",
-    "Sõrmedega sai valida erinevaid asju."
+    "Ta näitas sõrmega kuhugi.",
+    "Ta hoidis taskus oma sõrmi.",
+    "Sõrmed on inimese käte osad."
   ],
   "translation": [
     "finger",
-    "fingers"
+    "digits"
   ],
-  "context": "The word sõrme is the genitive form of the Estonian word sõrm, which refers to a finger or fingers, and is commonly used in everyday language to describe body parts or to indicate something related to fingers."
+  "context": "The word 'sõrme' is the partitive form of the Estonian noun 'sõrm', which means finger. The -e ending indicates that it's in the partitive case, often used to indicate an unspecified quantity or when something is being acted upon but not completed. This form would be used in contexts like showing with a finger, holding fingers, or referring to fingers in general."
 }

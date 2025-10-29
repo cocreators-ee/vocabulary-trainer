@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hänellä on kivaa käyttää käskyään.",
-    "Pyöräillessä sormenjälki jalkaan ja käsi polkseen.",
-    "He hylkäsivät hänet ja otivat käsiensä takaisin."
+    "Minulla on kaksi kättä.",
+    "Ota kätesi pois pöydältä.",
+    "Kädet ovat kylmät talvella."
   ],
   "translation": [
     "hand",
-    "hands",
-    "the hand (as in a clock hand)"
+    "hands"
   ],
-  "context": "The word 'käsi' translates to 'hand' and is commonly used in various contexts such as physical hands, gestures, or parts of objects like the hand on a clock. The example sentences demonstrate different uses including literal references and more metaphorical expressions."
+  "context": "The Finnish word 'käsi' means 'hand' in English. It's a common noun referring to the body part at the end of an arm. In its singular form, it refers to one hand ('käsi'), and in plural form as 'kädet', it refers to multiple hands."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea ujuja ja armastab vees olemist.",
-    "Vees elavad kalad on tänapäeval üpris haruldased.",
-    "Kui sa vees ei oska ujuda, siis peaksid sa õppima."
+    "Ma olen vees.",
+    "Lapsed mängivad vees.",
+    "Poisid ujuvad vees."
   ],
   "translation": [
-    "in the water",
-    "water"
+    "in water",
+    "in the water"
   ],
-  "context": "The word 'vees' is a postposition meaning 'in the water', and it can also refer to something related to or located in water."
+  "context": "The Estonian word 'vees' is an inessive case form of 'vesi', meaning 'water'. It indicates location or state within something, so it translates to 'in water' or 'in the water' in English. This is a very common construction when talking about being located inside or surrounded by water."
 }

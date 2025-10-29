@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta hakkas tööle kell kuu ja neli.",
-    "Neil hakkas ilm näha rohelisena.",
-    "Tema raha hakkas kaduma."
+    " hakkaks tööle kella kaheks",
+    " hakkaks lugema raamatut",
+    " hakkaks jalutama"
   ],
   "translation": [
-    "started to (do something)",
-    "began"
+    "would start",
+    "would begin",
+    "might start"
   ],
-  "context": "'Hakkaks' is the past tense form of the verb 'hakata', which means 'to start doing something'. It's used in contexts where someone begins an action or a process."
+  "context": "Hakkaks is the conditional form of the verb hakata (to start/begin). It's used in hypothetical situations or polite suggestions, expressing what someone would or might start to do. The 'ks' ending indicates this is the 3rd person singular conditional form."
 }

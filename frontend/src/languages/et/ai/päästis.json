@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta päästis mind hädast.",
-    "Päästis poisi vette kukkumisest.",
-    "Politsei päästis pantvangi."
+    "Ta päästis lapse veeuppugi eest.",
+    "Päästme selle maja hävingust.",
+    "Me pääsime metsast tihedas udu."
   ],
   "translation": [
     "saved",
     "rescued",
-    "delivered"
+    "delivered from danger",
+    "freed"
   ],
-  "context": "The word 'päästis' is the past tense of the verb 'päästa', which means to save, rescue or deliver someone from a dangerous situation. It implies an act of helping someone escape harm."
+  "context": "The word 'päästis' is the past tense third person singular form of the Estonian verb 'päästa', which means to save or rescue. It typically refers to delivering someone or something from danger, harm, or a difficult situation. This could be saving a life, rescuing someone from trouble, or freeing someone from captivity."
 }

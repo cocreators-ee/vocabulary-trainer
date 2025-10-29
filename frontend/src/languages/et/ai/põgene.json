@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma põgenen kohe.",
-    "Ta põgenes eile.",
-    "Nad põgenevad homme."
+    "Ta põgenes koju peale tööd.",
+    "Nad põgenesid vihase karu eest.",
+    "Põgenemine oli edukas."
   ],
   "translation": [
-    "escape",
-    "run away"
+    "to escape",
+    "to flee",
+    "to run away"
   ],
-  "context": "The word 'põgene' is a verb in Estonian that means to escape or run away from something or someone, often in a hurry or due to danger."
+  "context": "The word 'põgene' in Estonian is an infinitive verb meaning 'to escape', 'to flee', or 'to run away'. It describes the action of quickly leaving a dangerous or undesirable situation. The root form 'põgene-' can be conjugated in different tenses and moods: present tense põgeneb (he/she escapes), past tense põgenes (escaped), etc. This word is commonly used when someone needs to leave a place quickly due to danger, trouble, or for safety reasons."
 }

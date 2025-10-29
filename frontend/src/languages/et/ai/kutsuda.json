@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kutsin teda järve kalastama.",
-    "Ta on alati valmis keegagi koos midagi kutsuda.",
-    "Kutsu end kaasa selle projektiga!"
+    "Kutsume sind meie peole.",
+    "Tema kutsus mind hommikul jälle üles.",
+    "Me otsime kedagi, kes saaks teid kutsuda."
   ],
   "translation": [
     "to invite",
-    "to call out, summon"
+    "to summon",
+    "to call",
+    "to ask someone to come"
   ],
-  "context": "The verb 'kutsuda' means to invite someone somewhere or for something. It can also mean to call out or summon in a more formal context."
+  "context": "The Estonian verb 'kutsuda' is a transitive verb that means primarily 'to invite' or 'to summon'. It can be used in contexts of inviting people to events, gatherings, or places. Additionally, it can mean 'to call' someone (to summon them) or 'to ask someone to come somewhere'. The verb requires an object - the person being invited or summoned."
 }

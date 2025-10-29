@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Toome see kass koju.",
-    "Ma toon meile sõida.",
-    "Toome lõpuks sinna juurde."
+    "Toome homme koju.",
+    "Kas toite meie juurde?",
+    "Tuleme homseks ära."
   ],
   "translation": [
-    "bring"
+    "bring",
+    "fetch",
+    "carry"
   ],
-  "context": "used when referring to bringing something or someone somewhere"
+  "context": "The word 'toome' is a verb in Estonian that means 'to bring', 'to fetch', or 'to carry'. It appears to be the imperative form (command) of the verb 'tulema' which means 'to come', but in this context it's likely being used with a different meaning related to bringing something. The word can also appear as 'toida' when referring to food, so there might be some confusion between similar-sounding verbs."
 }

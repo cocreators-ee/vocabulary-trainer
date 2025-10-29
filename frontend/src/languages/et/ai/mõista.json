@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma mõistan seda väga hästi",
-    "Ta mõistis oma vigu",
-    "Nad mõistsid üksteist"
+    "Mõista seda sõna.",
+    "Ta ei saa mõista.",
+    "Ma olen püüdeline mõistma."
   ],
   "translation": [
-    "understand",
-    "comprehend",
-    "grasp"
+    "to understand",
+    "to comprehend",
+    "to grasp"
   ],
-  "context": "The word 'mõista' in Estonian means to understand or comprehend something, and it is commonly used in everyday conversations to express that someone has grasped the meaning of a concept or idea."
+  "context": "The Estonian word 'mõista' means to understand or comprehend something. It is used when someone grasps the meaning of information, a concept, or a situation. The verb can be conjugated in different forms depending on the subject and tense - for example, 'mõistan' (I understand), 'sa mõistad' (you understand), 'ta ei mõista' (he/she doesn't understand)."
 }

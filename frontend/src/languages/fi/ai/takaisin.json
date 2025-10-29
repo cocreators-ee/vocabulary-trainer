@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän tuli takaisin huoneeseen.",
-    "Tulet takaisin tänään.",
-    "Me palaamme takaisin kotiin."
+    "Hän palasi takaisin kotiin.",
+    "Minun täytyy mennä takaisin työpaikalleen.",
+    "Voitko tuoda sen minulle takaisin?"
   ],
   "translation": [
     "back",
-    "again"
+    "again",
+    "return"
   ],
-  "context": "The word 'takaisin' is commonly used in Finnish to mean 'back' or 'again', often indicating a return to a previous location or a repetition of an action."
+  "context": "The Finnish word 'takaisin' is an adverb that means 'back' or 'again'. It's commonly used to indicate movement in the opposite direction of where someone was going, or to return to a previous state or location. The word doesn't change form and remains 'takaisin' regardless of context."
 }

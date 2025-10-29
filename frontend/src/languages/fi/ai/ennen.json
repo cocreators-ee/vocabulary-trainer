@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ennen kuin hän tuli kotiin",
-    "Hän oli jo ennennä",
-    "Tämä tapahtui ennen hänen syntymäänsä"
+    "Ennen hän oli opettaja.",
+    "Menneen kesän aikana he matkustivat paljon.",
+    "Odotan ennen kuin menen kotiin."
   ],
   "translation": [
     "before",
-    "prior to"
+    "previously",
+    "earlier"
   ],
-  "context": "The word 'ennen' is a preposition in Finnish that indicates something happens prior to something else, and it is commonly used to describe the timing of events."
+  "context": "The Finnish word 'ennen' is an adverb that means 'before' in time. It can be used to indicate something happening at a prior point in time, either immediately before or further back in the past. In some contexts it may also carry a meaning of 'previously' or 'earlier'. The word typically appears sentence-initially but can appear elsewhere depending on emphasis."
 }

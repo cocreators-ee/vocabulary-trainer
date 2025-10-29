@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän on neiti",
-    "Neiti Smith tuli meille käymään",
-    "Olen neiti"
+    "Neiti Johnson tulee käymään huomenna.",
+    "Voinko saada laskun, neiti?",
+    "Sanoi neiti että hänellä on kiire."
   ],
   "translation": [
-    "miss",
-    "young lady"
+    "Miss",
+    "Young lady",
+    "Girl"
   ],
-  "context": "The word neiti is a Finnish noun that refers to an unmarried woman or a young lady, and it is commonly used as a title of respect."
+  "context": "The Finnish word 'neiti' is a noun that means 'miss' or 'young lady'. It's the formal term for addressing an unmarried woman or girl, similar to how 'Miss' is used in English. The word comes from Swedish 'fröken' and has been part of Finnish vocabulary for centuries. It's commonly used when speaking to service staff, teachers, or any young woman you want to address politely."
 }

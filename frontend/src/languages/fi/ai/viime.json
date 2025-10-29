@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Viime vuonna olin Pariisissa.",
-    "Hän on viimeinen toivo.",
-    "Viime kerran näin hänet torstaina."
+    "Tämä on viimeinen kerta.",
+    "Viime kesänä matkustin Italiaan.",
+    "Olemme jo melkein valmiita, vain muutama asia jäljellä."
   ],
   "translation": [
     "last",
-    "final"
+    "final",
+    "recent"
   ],
-  "context": "The word 'viime' is commonly used in Finnish to mean 'last' or 'final', often referring to the most recent or the ultimate thing in a series."
+  "context": "The Finnish word 'viime' is an adjective that means 'last' or 'final'. It can be used to indicate the final item in a sequence or something that happened most recently. When declined with the suffix '-n', it becomes 'viimeinen' meaning 'the last one' or 'the final one'. In its basic form, it often appears in expressions like 'viime kerta' (last time), 'viime kesä' (last summer), etc."
 }

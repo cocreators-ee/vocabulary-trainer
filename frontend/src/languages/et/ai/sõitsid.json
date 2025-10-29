@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõitsin autosse.",
-    "Ta sõitis jalgrattaga.",
-    "Nad sõitsid bussiga."
+    "Sõitsin tööle.",
+    "Ta sõitis mööda teed.",
+    "Meie sõime koju."
   ],
   "translation": [
     "drove",
-    "travelled"
+    "rode",
+    "traveled by vehicle"
   ],
-  "context": "The word 'sõitsid' is the second person singular past tense form of the verb 'sõitma', which means to drive or travel by vehicle in Estonian. It is commonly used to describe someone's action of driving a car, riding a bike, or taking a bus."
+  "context": "The word 'sõitsid' is the past tense plural form of the Estonian verb 'sõitma', which means to travel by a motorized vehicle like a car, motorcycle, or bus. It specifically refers to driving or riding as a passenger in a moving vehicle. The '-sid' ending indicates this is second person plural (you all) past tense."
 }

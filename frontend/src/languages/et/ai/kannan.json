@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kannan seda kojut",
-    "Ta kannab mu sülit",
-    "Kannake mind"
+    "Ma kannan kotti.",
+    "Ta kannab last kooli.",
+    "Meie kannasime surnukeha hauda."
   ],
   "translation": [
-    "I carry",
-    "to bear",
-    "to carry"
+    "carry",
+    "bear",
+    "transport"
   ],
-  "context": "The word 'kannan' is the first person singular form of the verb 'kandma', which means to carry or to bear something, and it is commonly used in Estonian language to describe the act of carrying or holding something."
+  "context": "The word 'kannan' is the first person singular present tense form of the Estonian verb 'kanna', which means to carry, bear, or transport. It indicates that someone is currently performing the action of carrying something or someone."
 }

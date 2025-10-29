@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on väga sooja.",
-    "Sooja ilm lubab head suve.",
-    "Külm sooja vaheldumine on tervisele ohtlik."
+    "Meil on sooja koduses.",
+    "Tegin sooja suppi.",
+    "Ilm on väga sooja täna."
   ],
   "translation": [
     "warm",
-    "lukewarm"
+    "hot"
   ],
-  "context": "The word 'sooja' in Estonian means warm or lukewarm, and is commonly used to describe temperature or the lack of strong emotions."
+  "context": "The Estonian word 'sooja' is an adjective that means 'warm' or 'hot'. It can be used to describe temperature, whether referring to the weather (warm/hot day), food (warm soup), or objects (warm home). In Estonian grammar, adjectives must agree in number and case with the noun they modify. The basic form 'sooja' is likely in the partitive singular case here."
 }

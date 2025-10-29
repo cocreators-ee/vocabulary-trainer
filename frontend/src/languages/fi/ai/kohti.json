@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hänen olisi pitänyt tulla kohti minua.",
-    "Autoaja ajoi kohti risteystä.",
-    "Lapsi juoksi kohti äitiään."
+    "Ajaminen kohti kaupunkia oli hidasta.",
+    "Hän käveli kohti merta.",
+    "Juna matkustaa kohti Helsinkiä."
   ],
   "translation": [
-    "towards",
-    "in the direction of"
+    "toward",
+    "in the direction of",
+    "towards"
   ],
-  "context": "The word 'kohti' is a preposition in Finnish that indicates movement or direction towards something, similar to the English words 'towards' or 'in the direction of'."
+  "context": "The Finnish word 'kohti' is an adverb that indicates movement in a particular direction. It corresponds to English words like 'toward', 'in the direction of', or 'towards'. The word typically follows the verb and specifies the destination or target of the action being performed."
 }

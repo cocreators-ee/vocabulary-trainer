@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta langeb alla.",
-    "Lehed langevad puudest.",
-    "Päev langeb."
+    "Ta langeb kõrgelt.",
+    "Langev lumi peatab liiklust.",
+    "Päike langeb mägede taha."
   ],
   "translation": [
     "falls",
-    "descends",
-    "drops"
+    "drops",
+    "descends"
   ],
-  "context": "The Estonian verb 'langeb' means to fall or descend. It can be used literally, as in something falling from a height, or figuratively, such as the sun setting or days passing."
+  "context": "The word 'langeb' is the 3rd person singular present form of the Estonian verb 'langema', which means 'to fall'. It describes something or someone falling, dropping, or descending in a downward motion. This could be physical objects falling from height, rain/snow falling from sky, or even abstract concepts like prices falling."
 }

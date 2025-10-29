@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on alati viisakas.",
-    "Me peame leidma uue lahenduse, sest see ei toimi enam.",
-    "Ali oli väga õnnelik, et ta sai uue töö."
+    "Tema oli väga ali.",
+    "Lapsed käisid alis.",
+    "Mul oli mingi ali tunne."
   ],
   "translation": [
-    "under",
-    "below",
-    "low"
+    "lowly",
+    "inferior",
+    "base",
+    "mean",
+    "petty"
   ],
-  "context": "The Estonian word 'ali' is a versatile preposition and adverb with meanings similar to 'under', 'below', or 'low'. It can also function as part of various expressions indicating a state or condition. In colloquial speech, it can sometimes be used informally to mean 'always'."
+  "context": "The Estonian word 'ali' is an adjective that describes something or someone as being low in status, position, quality, or moral character. It can refer to physical height (short), social rank (inferior), or moral qualities (base, mean). The word carries a negative connotation and suggests a lack of dignity, refinement, or worth."
 }

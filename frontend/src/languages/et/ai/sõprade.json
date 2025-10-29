@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on palju sõpru.",
-    "Sõprade kohtumine toimub homme.",
-    "Ta on minu sõber."
+    "Sõprades on alati head meeleolu.",
+    "Ta käis oma sõprade juures.",
+    "Lapsed mängivad koos oma sõpradega."
   ],
   "translation": [
     "friends"
   ],
-  "context": "The word sõprade is the genitive plural form of the Estonian word sõber, which means friend. It is commonly used to refer to a group of friends or to indicate that something belongs to friends."
+  "context": "The word 'sõprade' is the plural partitive form of the Estonian noun 'sõber', which means 'friend'. The '-de' ending indicates it's in the partitive case, commonly used after certain prepositions or to indicate accompaniment. It translates to 'with friends' or 'of friends' depending on context."
 }

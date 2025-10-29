@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mõtlen seda välja",
-    "Ta mõtleb selle üle juba kaua",
-    "Me mõtleme koos"
+    "Mõtlen sinust igavasti.",
+    "Ma ei mõtle enam sellest probleemist.",
+    "Kas sa mõteled meiega koos käima?"
   ],
   "translation": [
-    "think",
-    "ponder",
-    "consider"
+    "I think",
+    "I consider",
+    "I believe"
   ],
-  "context": "The word 'mõtlen' is commonly used in Estonian to express the act of thinking or pondering about something, and it can be translated to English as 'think', 'ponder', or 'consider' depending on the context."
+  "context": "The word 'mõtlen' is the first person singular present form of the Estonian verb 'mõtlema', which means 'to think'. It's used when expressing one's thoughts, considerations, or beliefs. The root stem 'mõtl-' relates to thinking and contemplation, and the suffix '-en' indicates the first person singular conjugation in present tense."
 }

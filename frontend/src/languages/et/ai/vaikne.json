@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on vaikne tüdruk.",
-    "Vaikne mees istus nurkas.",
-    "Vaikne öö oli täis ootust."
+    "Tegelikult oli päev väga vaikne.",
+    "Õues on täna üllatavalt vaikne.",
+    "Miks sa oled nii vaikne?"
   ],
   "translation": [
     "quiet",
+    "calm",
     "still",
-    "silent"
+    "peaceful"
   ],
-  "context": "The word 'vaikne' in Estonian means being quiet or still, and it is commonly used to describe someone who does not speak much or a situation where there is no noise."
+  "context": "The Estonian word 'vaikne' is an adjective that means quiet, calm, still, or peaceful. It can describe environments, atmospheres, behavior, or sounds. In its base form as given, it typically modifies masculine nouns in the nominative case. For example: 'päev vaikne' (a quiet day), 'õues vaikne' (it's quiet outside). The word can also be used to describe people being quiet or silent."
 }

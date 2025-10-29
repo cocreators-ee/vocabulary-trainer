@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõnel päeval on ilm ilus.",
-    "Ta on mõnel korral väga vihane.",
-    "Mõnel juhul on see hea."
+    "Mõnel päeval on ilus ilm.",
+    "Ta käis mõnel aastal Prantsusmaal.",
+    "Mõnel inimesel on eriline andekus."
   ],
   "translation": [
-    "some",
-    "certain"
+    "on some",
+    "to some people/occasions"
   ],
-  "context": "The word mõnel is used in Estonian to indicate a certain or some amount of something, often used to describe a nonspecific quantity or degree."
+  "context": "The Estonian word 'mõnel' is the partitive case of the pronoun 'mõni', meaning 'some'. It's used when referring to an unspecified or partial quantity of something. In English, it translates to phrases like 'on some' or 'to some people/occasions'. The partitive case indicates that we're talking about a portion or selection from a larger whole."
 }

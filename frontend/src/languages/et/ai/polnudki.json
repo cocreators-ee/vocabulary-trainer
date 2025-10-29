@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma polnudki päris kindel, mida ma tahtsin.",
-    "Ta polnudki nii halb, nagu ma arvasin.",
-    "Me polnudki kunagi kohtunud varem."
+    "Tegin seda polnudki.",
+    "Me polnudki selles nõus.",
+    "Ta polnudki kunagi seal olnud."
   ],
   "translation": [
-    "didn't even",
-    "wasn't really",
-    "had not even"
+    "was not either",
+    "weren't either",
+    "hadn't either"
   ],
-  "context": "The Estonian word 'polnudki' is a contraction of 'ei olnudki', meaning 'did not even' or 'wasn't really'. It emphasizes that something did not happen, or was not as expected. The 'ki' particle adds emphasis to the negation."
+  "context": "The word 'polnudki' is a combination of the past tense negative verb form 'polnud' (was/were not) and the particle 'ki' (also/either). It's used to emphasize that something was also not true, similar to saying 'wasn't either' or 'weren't either' in English. This construction is commonly used when adding additional information to contradict a previous statement or expectation."
 }

@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Saare on üks Eesti suurimaid saari.",
-    "Ta elab Saare maakonnas.",
-    "Me käisime Saaremaal võtmas pilti."
+    "Saare on Eesti suuruselt teine saar.",
+    "Mõned inimesed elavad Saaremaal.",
+    "Kuigi ta oli Saarest pärit, kolis ta Tallinna."
   ],
   "translation": [
-    "island",
-    "of the island"
+    "island"
   ],
-  "context": "The word 'saare' in Estonian refers to something related to or belonging to an island, often used as a possessive form of the noun 'saar', which means 'island'."
+  "context": "The word 'saare' is the genitive case of the Estonian noun 'saar', which means 'island'. In this genitive form (possessive case), it can mean 'of the island' or indicate origin/possession related to an island. It's commonly used when referring to someone coming from a specific island or when describing something that belongs to an island."
 }

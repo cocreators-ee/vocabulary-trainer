@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jäävad siia",
-    "Nad jäävad meiega",
-    "Me jäävad koos"
+    "Jäevad koduõpetajaks.",
+    "Kaks poissi jäevad üksi koju.",
+    "Tüdrukud jäevad peale lõunat koolis."
   ],
   "translation": [
     "remain",
     "stay",
-    "linger"
+    "are left"
   ],
-  "context": "The word 'jäävad' is a verb in Estonian that means to remain or stay in a place, and it is commonly used to describe a situation where someone or something continues to be present or persist."
+  "context": "The word 'jäevad' is the 3rd person plural present tense form of the Estonian verb 'jääma'. It means 'to remain', 'to stay', or 'are left'. This form indicates that multiple subjects are remaining in a place, continuing to be somewhere, or being left behind in their current state. The word shows action happening in the present moment for more than one person/thing."
 }

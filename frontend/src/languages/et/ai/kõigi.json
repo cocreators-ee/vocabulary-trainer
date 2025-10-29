@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan kõiki oma sõpru.",
-    "Kõigi inimeste õigused on võrdsed.",
-    "Ta aitas kõiki haavatuid."
+    "Kõigid tulid kohale.",
+    "Kõikide õpilaste hinded olid head.",
+    "Ta oli kõige intelligentsem."
   ],
   "translation": [
     "all",
-    "everybody"
+    "everybody",
+    "everyone",
+    "everything"
   ],
-  "context": "The word kõigi is used to refer to all people or things, and it is commonly used in sentences to convey a sense of inclusivity."
+  "context": "The word 'kõigi' is the genitive plural form of 'kõik', which means 'all' or 'everything'. In Estonian, it's used to indicate possession or association with all people or things. The ending '-gi' in some forms emphasizes inclusiveness."
 }

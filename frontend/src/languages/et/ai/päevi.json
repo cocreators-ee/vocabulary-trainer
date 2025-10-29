@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen päevide kaupa koolis.",
-    "Ta on töötanud mitmeid päevi järjest.",
-    "Päevide möödudes sai temast üks osavõtjatest."
+    "Tere päevi!",
+    "Kuidas on teie päevi?",
+    "Head päevi!"
   ],
   "translation": [
-    "days"
+    "hello",
+    "greetings",
+    "good day"
   ],
-  "context": "The word 'päevi' is the plural form of 'day' in Estonian, commonly used to refer to a period of time or a sequence of days."
+  "context": "The word 'päevi' is the partitive form of 'päev' (day) in Estonian. It's commonly used in greeting phrases, especially when addressing someone respectfully or formally during daytime hours. The phrase 'Tere päevi' is equivalent to 'hello' or 'good day' and is one of the standard greetings in Estonian when you meet someone during daylight hours."
 }

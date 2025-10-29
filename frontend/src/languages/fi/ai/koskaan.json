@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "En ole koskaan ollut siellä",
-    "Hän ei ole koskaan sanonut sitä minulle",
-    "Me emme ole koskaan menneet sinne yhdessä"
+    "En ole koskaan nähnyt tätä elokuvaa.",
+    "Hän tulee koskaan myöhässä töihin.",
+    "Oletko koskaan käynyt Suomessa?"
   ],
   "translation": [
     "never",
-    "at no time"
+    "not ever"
   ],
-  "context": "The word koskaan is an adverb in Finnish that means never or at no time, it is commonly used to indicate that something has not happened or will not happen."
+  "context": "The Finnish word 'koskaan' is an adverb that means 'never' or 'not ever'. It's used to indicate that something has not happened at any time in the past, present, or future. In negative sentences (with 'ei'), it follows the auxiliary verb, as in 'En ole koskaan...' (I have never...). When used with interrogative words like 'onko' (is/has), it forms questions about whether something has ever happened."
 }

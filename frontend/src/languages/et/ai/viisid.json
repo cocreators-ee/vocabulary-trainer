@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta näitas mulle oma viisid.",
-    "Neil on erinevad viisid asju teha.",
-    "See oli tema viis väljendada oma arvamust."
+    "Olen viisid inimesi külastamas.",
+    "Meil on viisid õpilased klassis.",
+    "Ta ostis viisid raamatud."
   ],
   "translation": [
-    "ways",
-    "methods",
-    "manners"
+    "five (plural)",
+    "five of"
   ],
-  "context": "The word 'viisid' in Estonian translates to 'ways', 'methods', or 'manners' in English. It refers to how something is done, a particular approach, or the manner in which someone behaves. It’s commonly used when discussing different approaches to solving problems or expressing oneself."
+  "context": "The word 'viisid' is the plural nominative form of the Estonian numeral 'viis', which means 'five'. It indicates exactly five items or people. In Estonian, numerals can be used in different cases and forms depending on their grammatical function in a sentence."
 }

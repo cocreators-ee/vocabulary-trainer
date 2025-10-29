@@ -1,15 +1,14 @@
 {
-  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ma vaatasin uut filmi.",
-    "Filmide kogumine on mind alati paelnud.",
-    "Meie kino ilusaim filmi esile asetseb täna õhtu."
+    "Ma vaatasin filme eile",
+    "Meie lemmikfilmid on head filmid",
+    "Tere tulemast vaatama filme!"
   ],
   "translation": [
-    "movie",
-    "film",
+    "films",
+    "movies",
     "cinema"
   ],
-  "context": "'Filme' is an Estonian word that refers to motion pictures, commonly used in the context of movies watched in theaters or at home. It can also refer to a collection of films."
+  "context": "\"Filme\" is the partitive form of the Estonian word \"film\" (movie/film). In Estonian, the partitive case is used when talking about an indefinite quantity or some instances of something. So \"filme\" means 'some films' or 'films' in a general sense, rather than specific, complete films. It's commonly used when you're referring to movies as a concept or category, rather than particular movies."
 }

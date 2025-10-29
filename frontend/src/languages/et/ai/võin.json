@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võin seda teha",
-    "Ta võib mind aidata",
-    "Me võime koos minna"
+    "Ma võin aidata sind.",
+    "Ta ei või seda teha.",
+    "Meie võime kohtuda homme."
   ],
   "translation": [
-    "I can",
-    "I am able to",
-    "to be able to"
+    "can",
+    "may",
+    "be able to",
+    "have permission to"
   ],
-  "context": "The word võin is the first person singular form of the verb võima, which means to be able to or can do something in English. It is commonly used in Estonian to express ability or capability."
+  "context": "Võin is the first person singular present tense form of the modal verb 'võima' in Estonian, which means 'to be able to' or 'to have permission to'. It's commonly used to express ability, possibility, or permission. The negative form is 'ei või' (cannot/may not), and other forms include 'saad' (you can), 'ta saab' (he/she can), etc."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on nälkä, menen syömään ruokaa.",
-    "Ruoka on hyvin täällä.",
-    "Hän valmistaa itse ruoan."
+    "Rakastan ruokaa.",
+    "Mikä on suosikkiruokasi?",
+    "Ruoka on valmis."
   ],
   "translation": [
     "food",
-    "meal"
+    "meal",
+    "cuisine"
   ],
-  "context": "The word 'ruoka' in Finnish generally refers to food or a meal, and is commonly used in everyday conversations when discussing what someone is eating or planning to eat."
+  "context": "The Finnish word 'ruoka' means food in English. It's a common noun that refers to any kind of edible substance or meal. In Finnish, it doesn't change form depending on whether you're talking about the general concept of food (like 'I love food') or a specific meal (like 'the food is ready'). The word is used in everyday contexts when discussing eating habits, restaurants, groceries, and cooking."
 }

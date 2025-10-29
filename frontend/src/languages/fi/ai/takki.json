@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on takki ylleni",
-    "Hän osti uuden takin talveksi",
-    "Takki on hyvin lämmin"
+    "Minulla on uusi talvitakki.",
+    "Ostin nahkatakin kaupasta.",
+    "Laita takki päälle, on kylmä ulkona."
   ],
   "translation": [
-    "jacket",
-    "coat"
+    "coat",
+    "jacket"
   ],
-  "context": "The word 'takki' in Finnish refers to a jacket or coat, which is a common article of clothing used to keep warm, and it is commonly used in everyday conversations about clothing."
+  "context": "The Finnish word 'takki' means coat or jacket in English. It is a common noun used to refer to an outer garment worn for warmth or protection from weather. The word can refer to various types of coats including winter coats, leather jackets, or lighter jackets depending on context and modification."
 }

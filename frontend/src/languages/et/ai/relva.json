@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Politsei leidis relvad kurjute poolt kasutatud kohast.",
-    "Sõdurid kontrollisid oma relvi enne lahingut.",
-    "Ta on tuntud relvade koguja."
+    "Relvad on toredad.",
+    "Ta ostis relva.",
+    "Mul on relv."
   ],
   "translation": [
     "weapon",
-    "gun",
-    "arms"
+    "firearm",
+    "gun"
   ],
-  "context": "The word 'relva' in Estonian translates to 'weapon' or 'gun' in English. It generally refers to any instrument used for attack or defense, and is commonly used in contexts relating to military, crime, or self-defense."
+  "context": "The Estonian word 'relva' is a noun that means 'weapon', 'firearm', or 'gun'. It refers to any type of weapon, typically firearms. The word can be used in different contexts such as owning, buying, discussing, or referring to weapons. In Estonian grammar, it would decline according to case and number (e.g., relv - nominative singular, relva - genitive/illative singular, relvad - nominative plural)."
 }

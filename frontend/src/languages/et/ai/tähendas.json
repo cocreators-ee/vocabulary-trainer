@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tähendas seda ütlust tõsiselt.",
-    "Ta tähendas seda naljalt.",
-    "Tähendab see, et ta on nõus?"
+    "See sõna tähendas midagi muud.",
+    "Mis see tähedas?",
+    "Ei tea, mis see tähedas."
   ],
   "translation": [
     "meant",
-    "intended",
-    "implied"
+    "signified",
+    "indicated"
   ],
-  "context": "The word 'tähendas' is the past tense of the verb 'tähendama', which means to mean or intend something. It is commonly used in Estonian language to convey the idea that someone meant or intended to do or say something."
+  "context": "The word 'tähendas' is the past tense of the Estonian verb 'tähistama', which means 'to mean', 'to signify', or 'to indicate'. It's used to express that something had a particular meaning or represented something else in the past. The form shows it's 3rd person singular past tense (he/she/it meant)."
 }

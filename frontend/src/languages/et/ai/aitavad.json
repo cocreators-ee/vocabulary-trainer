@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Aitavad inimesed on sageli üksildased.",
-    "Ta aitab vanematel ja vaimulikel inimestel.",
-    "Kõik need inimesed aitavad meid."
+    "Mehed aitavad naistel.",
+    "Lapsed aitavad vanemaidel.",
+    "Kõik aitavad üksteist."
   ],
   "translation": [
     "help",
     "assist"
   ],
-  "context": "The word 'aitavad' is a verb that means to help or assist someone, and it is commonly used in Estonian to describe actions of providing support or aid to others."
+  "context": "The word 'aitavad' is the present tense plural form of the Estonian verb 'aitama', which means 'to help'. It translates to English as 'they help' or '[subject] help(s) [object]' depending on context. This third-person plural conjugation is used when referring to multiple people who are helping someone or something."
 }

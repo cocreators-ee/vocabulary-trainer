@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Muudab oma hääli, et kuuluda mehelise.",
-    "Temal on ilus lauluhääli.",
-    "Ära raiska oma hääli sellel projektial."
+    "Hääli kõlasid rõõmsalt.",
+    "Lapse hääli oli ilus ja puhas.",
+    "Me kuulsime linnu häälid."
   ],
   "translation": [
-    "voice",
-    "vote"
+    "sounds",
+    "voices",
+    "noises"
   ],
-  "context": "Hääli refers to a voice or a vote. It is commonly used in both literal and political contexts, such as casting a vote or expressing an opinion verbally."
+  "context": "The word 'hääli' is the partitive plural form of the Estonian noun 'hääl', which means 'sound' or 'voice'. In this case, it represents multiple sounds or voices. The partitive case in Estonian often indicates partialness or indefiniteness, but here it's used with a plural noun to specify an unspecified number of sounds/voices. This form is commonly used when talking about hearing various sounds or voices without specifying exactly how many."
 }

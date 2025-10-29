@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Teavad sa seda?",
-    "Ma tean, et nad teavad.",
-    "Kas nad teavad sellest?"
+    "Tema teab kõiki vastuseid.",
+    "Meie teame seda saladust.",
+    "Nad ei tea midagi sellest juhtumist."
   ],
   "translation": [
-    "know"
+    "know",
+    "are aware of",
+    "have knowledge of"
   ],
-  "context": "The word 'teavad' is the third person plural form of the verb 'to know' in Estonian. It is commonly used to indicate that a group of people knows something."
+  "context": "The word 'teavad' is the 3rd person plural present indicative form of the verb 'tema' (to know) in Estonian. It means 'they know' or 'they are aware'. In English, it can be translated as 'know', 'are aware of', or 'have knowledge of'."
 }

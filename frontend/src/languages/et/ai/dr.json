@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Arst on hea dr.",
-    "Dr. Smith on väga kogenud.",
-    "Mul on homme dr.-aeg."
+    "Tema on doktor.",
+    "Dr. Smith külastas meid.",
+    "Olen dr. Jüri."
   ],
   "translation": [
     "doctor",
-    "physician"
+    "dr."
   ],
-  "context": "The word 'dr' in Estonian is an abbreviation for 'arst', meaning doctor. It’s commonly used before a doctor's name or to refer to a medical appointment."
+  "context": "In Estonian, 'dr' is an abbreviation for 'doktor', meaning doctor or physician. It's used as a title before someone's name to indicate they have a doctoral degree or work in the medical profession."
 }

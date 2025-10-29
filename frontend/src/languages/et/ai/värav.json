@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maja on värava taga.",
-    "Värav on suletud.",
-    "Ta avas värava."
+    "Värav oli suletud.",
+    "Me avasime värava.",
+    "Lapsed mängisid värava ees."
   ],
   "translation": [
-    "gate"
+    "door",
+    "gate",
+    "entrance"
   ],
-  "context": "The word 'värav' is commonly used in Estonian to refer to a gate, which is an entrance or exit to a property or area."
+  "context": "The Estonian word 'värav' means door, gate, or entrance. It refers to an opening in a wall, fence, or other barrier that allows entry and exit. In Estonian grammar, it follows the standard noun declension patterns with different cases for various grammatical functions."
 }

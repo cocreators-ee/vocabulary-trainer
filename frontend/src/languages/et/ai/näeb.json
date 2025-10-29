@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen teda igal hommikul.",
-    "Ta näeb mind ja naerab.",
-    "Kui ma võin seda näha?"
+    "Näed sa seda?",
+    "Ta näeb kaugelt ära.",
+    "Meie näeme homme uut filmi."
   ],
   "translation": [
     "sees",
-    "meets"
+    "watches",
+    "looks",
+    "perceives",
+    "discerns"
   ],
-  "context": "The word näeb is a verb in Estonian that means to see or meet someone, and it is commonly used in sentences to describe the act of perceiving something or encountering a person."
+  "context": "The Estonian word 'näeb' is the third person singular present form of the verb 'nägema', which means 'to see'. It indicates that someone or something currently sees, watches, looks at, perceives, or discerns something. This form would be used when talking about what a particular person (he/she/it) can currently see or is looking at."
 }

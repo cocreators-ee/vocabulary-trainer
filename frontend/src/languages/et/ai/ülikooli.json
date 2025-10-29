@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma õpin ülikoolis.",
-    "Tema vanemad on ülikooli lõpetanud.",
-    "Ülikooli raamatukogu on suur."
+    "Minu õde käib ülikoolis Tallinnas.",
+    "Ülikoolid on Eestis väga head.",
+    "Ma lähen homme ülikooli."
   ],
   "translation": [
-    "university"
+    "university",
+    "college"
   ],
-  "context": "The word \"ülikooli\" is the genitive form of the Estonian word for university, referring to a higher education institution where students can study and receive a degree."
+  "context": "\"Ülikooli\" is the illative case form of \"ülikool\", which means university or college. In Estonian, the illative case indicates motion into or towards a place. So \"ülikooli\" specifically means \"to the university\" or \"into the university.\" It shows direction towards the university as a destination."
 }

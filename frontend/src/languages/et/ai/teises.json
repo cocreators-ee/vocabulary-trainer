@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks teisesse klassi.",
-    "Meie maja on teises tänavas.",
-    "Teised inimesed arvasid teisiti."
+    "Ta elab teises linnas.",
+    "Meie kool on teises hoones.",
+    "Kõik need asjad on teises ruumis."
   ],
   "translation": [
-    "second",
-    "other",
-    "else"
+    "in another place",
+    "in a different location",
+    "elsewhere"
   ],
-  "context": "The word 'teises' in Estonian can have a few meanings depending on the context. It most commonly translates to 'second' when referring to order or class (like second grade). It can also mean 'other' or 'else', indicating something different from what was previously mentioned."
+  "context": "'Teises' is the inessive case form of the Estonian word 'teine', which means 'another' or 'different'. When used with the inessive case ending '-s', it indicates location within something, so 'teises' specifically means 'in another place' or 'elsewhere'. This form is always used to indicate a different location from the current reference point."
 }

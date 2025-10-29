@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahaksin seda näha",
-    "Sa tahaksid mind aidata",
-    "Ta tahaks endale uue auto osta"
+    "Kas tahaksid midagi juua?",
+    "Tahaksin käia kinno, kas tahaksid kaasa tulla?",
+    "Meie peres ei olda kunagi küsitud, kas tahaksid aidata."
   ],
   "translation": [
-    "would like to",
-    "want to"
+    "would you like",
+    "would you want",
+    "would you"
   ],
-  "context": "The word 'tahaksid' is the second person singular form of the verb 'tahama', which means 'to want' or 'to wish'. It is commonly used in Estonian to express a desire or preference for something."
+  "context": "The word 'tahaksid' is the conditional form of the Estonian verb 'taha' (to want). It specifically means 'you would want/like' in a polite or hypothetical situation. This is the second person singular conditional form, often used to make requests or suggestions in a more indirect and polite manner than the direct present tense."
 }

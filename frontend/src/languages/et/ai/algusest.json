@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen algusest peale selle vastu olnud.",
-    "Ta on algusest peale olnud hea spordimees.",
-    "Nad on algusest peale teinud koostööd."
+    "Kõik algab algusest.",
+    "Ta rääkis sellest algusest peale.",
+    "Lugu algusest lõpuni."
   ],
   "translation": [
     "from the beginning",
-    "initially"
+    "from the start",
+    "at the outset"
   ],
-  "context": "The word 'algusest' is an adverb in Estonian, which means 'from the beginning' or 'initially'. It is commonly used to describe something that has been done or happened from the start."
+  "context": "The Estonian word 'algusest' is an adessive case form of the noun 'algus', meaning 'beginning'. The '-st' ending indicates it's in the adessive case, which typically means 'from' or 'off of' something. So 'algusest' specifically means 'from the beginning' or 'from the start'. This is commonly used to indicate where something originates from temporally."
 }

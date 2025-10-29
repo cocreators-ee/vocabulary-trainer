@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on jopa nauranut asiasta.",
-    "Jopa lapsi ymmrtää sen.",
-    "Tämä on jopa helppoa."
+    "jopa hän tuli paikalle",
+    "jopa yksi lapsi tiesi vastauksen",
+    "se oli jopa parempi kuin odotin"
   ],
   "translation": [
     "even",
-    "as much as"
+    "actually",
+    "up to and including"
   ],
-  "context": "The word 'jopa' is commonly used in Finnish to indicate a high degree or extent of something, and it can be translated to English as 'even' or 'as much as'."
+  "context": "The Finnish word 'jopa' is an adverb that expresses emphasis or adds a sense of surprise, limitation, or inclusion. It's used to indicate something unexpected or to emphasize the extent of something. In English, it can be translated as 'even', 'actually', or 'up to and including' depending on context."
 }

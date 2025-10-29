@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ülemus on minu ees",
-    "Ta on ülemus meie kõigi jaoks",
-    "Ülemusega tuleb arvestada"
+    "Ülemus on meie töökohta juhtiv isik.",
+    "Tema oli minu ülemus viis aastat.",
+    "Kes on sinu uus ülemus?"
   ],
   "translation": [
-    "superior",
     "boss",
-    "chief"
+    "supervisor",
+    "manager",
+    "superior"
   ],
-  "context": "The word ülemus refers to a person of higher rank or authority, similar to the English word superior or boss."
+  "context": "The word 'ülemus' in Estonian refers to someone who holds a higher position or authority over others, typically used in workplace contexts. It translates to English terms like boss, supervisor, manager, or superior - someone who has leadership responsibilities and makes decisions that affect subordinates."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Võiksid sa mind kuula?",
-    "Ma võin nende kätt otsida ja võiksid nad aidata.",
-    "Mina ei tea, et tead, aga võiksid ka midagi teha."
+    "Võiksid aidata mulle?",
+    "Kas võiksid tulla homme?",
+    "Miks sa ei võiksid?"
   ],
   "translation": [
-    "you should",
-    "you ought to"
+    "could",
+    "might",
+    "should"
   ],
-  "context": "'võiksid' is the second person singular form of 'võia', which means to take or seize. In this case it is used in a modal sense meaning 'should' or 'ought to', as in advising someone what they should do."
+  "context": "The Estonian word 'võiksid' is the second person singular past conditional form of the verb 'võima' (to be able, can). It's used to make polite requests or suggestions in the past tense. This form corresponds to English 'could' when asking someone if they were able to do something, or 'might'/'should' for hypothetical situations in the past."
 }

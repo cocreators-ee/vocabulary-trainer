@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma elan siinkandis.",
-    "Kas sa tead, kus see siinkandis on?",
-    "See pood on siinkandis."
+    "Siin on kallis siinkandis.",
+    "Mõtleme siinkandist üles.",
+    "Kas sa näed seda siinkandit?"
   ],
   "translation": [
-    "hereabouts",
+    "here and there",
     "around here",
-    "in this area"
+    "in this place"
   ],
-  "context": "The word 'siinkandis' is an Estonian adverb meaning 'hereabouts', 'around here', or 'in this vicinity'. It indicates a location that is relatively close to the speaker, but not necessarily precise. It’s commonly used in casual conversation when referring to a general area."
+  "context": "The word 'siinkandis' is a locative adverb in Estonian that indicates location or presence in the current area. It's formed from 'siin' (here) with a case ending '-kandis', suggesting a spatial reference to the immediate vicinity or surrounding area. This form would typically be used when referring to things being present, located around, or happening in the current environment."
 }

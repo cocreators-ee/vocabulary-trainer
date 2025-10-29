@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hiukset olivat pitkät ja kauniit.",
-    "Hänellä oli tummat hiukset.",
-    "Hiuksien leikkaaminen oli tärkeää."
+    "Minulla on pitkät hiukset.",
+    "Hän leikkaa hiuksiaan joka kuukausi.",
+    "Hiukset ovat väriltään ruskeat."
   ],
   "translation": [
-    "hair"
+    "hair",
+    "the hair"
   ],
-  "context": "The word 'hiukset' refers to a person's hair, and it is commonly used in Finnish to describe someone's hairstyle or the act of cutting one's hair."
+  "context": "The Finnish word 'hiukset' is the plural form of 'hius', meaning 'hair'. In Finnish, 'hiukset' specifically refers to someone's hair as a whole or multiple strands of hair. It's commonly used in everyday conversations to describe one's own hair or someone else's hair."
 }

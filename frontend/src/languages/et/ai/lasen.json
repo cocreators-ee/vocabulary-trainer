@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lasen sind minema.",
-    "Ta laseb meil jääda.",
-    "Lased sa mind lihtsalt öelda?"
+    "Lasen sisse kell viis.",
+    "Ta lasi endale kaks piima.",
+    "Me lasime lahti oma kingad."
   ],
   "translation": [
-    "I let you go",
-    "He lets us stay",
-    "Are you letting me just say?"
+    "I let (someone)",
+    "(he/she) allowed himself/herself",
+    "we unfastened/untied"
   ],
-  "context": "'Lasen' is the first person singular form of 'lasma', meaning to allow or let in Estonian. It's used to indicate giving permission or allowing someone to do something."
+  "context": "The word 'lasen' is the 1st person singular present tense form of the Estonian verb 'lasta', which means 'to allow, to permit, to let'. It can also be part of other verbs with different meanings depending on context. In some contexts, it appears as a component in compound verbs where it may contribute to the meaning of 'releasing' or 'unfastening'. The conjugation shows subject agreement (1st person singular) and tense (present)."
 }

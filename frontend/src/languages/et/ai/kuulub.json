@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See kuulub muuseumi kogusse.",
-    "Kuulub see siia?",
-    "Sellel kuuluvad õigused."
+    "Kuulub meie kooli.",
+    "Töö kuulub teile.",
+    "See kuulub sinule."
   ],
   "translation": [
     "belongs to",
-    "is part of"
+    "is part of",
+    "falls under"
   ],
-  "context": "The word 'kuulub' is commonly used in Estonian to indicate that something belongs to or is a part of something else, similar to the English phrase 'belongs to'."
+  "context": "The word 'kuulub' is the 3rd person singular present form of the verb 'kuuluma', which means 'to belong' or 'to be part of'. It indicates that something belongs to someone, is included in a category, or falls under a particular classification."
 }

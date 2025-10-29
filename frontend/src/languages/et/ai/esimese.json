@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen esimese koha üliõpilane.",
-    "Ta on esimese kursuse üliõpilane.",
-    "Esimese mai päeval toimus meeleavaldus."
+    "Esimesel päeval me külastasime muuseumi.",
+    "Ta on esimene kord selles linnas.",
+    "Esimeste sõpradega käisid teatri."
   ],
   "translation": [
     "first",
-    "former"
+    "the first one"
   ],
-  "context": "The word 'esimese' is used in Estonian to denote something or someone that is first in a sequence, order or rank, and it can also be used as an adjective to describe the primary or initial item in a series."
+  "context": "The word 'esimese' is the genitive singular form of the Estonian adjective 'esimene', which means 'first'. In Estonian, adjectives change their endings depending on case and number. Here, '-se' ending indicates it's in the genitive case (showing possession or relationship). This form would be used after prepositions like 'pärast' (after) or when indicating something related to the first person/thing."
 }

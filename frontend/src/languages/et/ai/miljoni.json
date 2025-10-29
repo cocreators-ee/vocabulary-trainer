@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tõestab olla rikkalik, kuid tegelikult ei oma ta isegi üht saja miljoni dollari väärtuses panka.",
-    "Ma külastasin Pekingust pärit naise lugu, kellega jõudsin kokku 100 miljoni dollari suuruse selle aasta müüdud tervisekaitseseadmete kaudu.",
-    "See ettevõte hindab eestis tootmiseks vajalikku investeeringut ligikaudu 50 miljoni eurosuurusel."
+    "Ma sain miljonit krooni.",
+    "Temal on miljoneid raha.",
+    "See maksab miljoneid eurot."
   ],
   "translation": [
     "million",
-    "a million",
     "millions"
   ],
-  "context": "Used in the same way as 'million' in English - it is a numerical quantity meaning one thousand thousands (1,000,000). When used before specific numbers like 5 or 2.34, it represents that amount of millions."
+  "context": "The word 'miljoni' is the partitive form of the Estonian noun 'miljon', which means 'million'. In Estonian, the partitive case is used to indicate an incomplete or indefinite quantity. So 'miljoni' typically means 'a million' or 'millions' depending on context - it could refer to a single unspecified million units or multiple millions. This form is commonly used when talking about amounts of money, time periods, or quantities that aren't specifically counted."
 }

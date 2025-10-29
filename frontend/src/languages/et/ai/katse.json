@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma teen katse",
-    "Katse on edukas",
-    "Ta tegi katse"
+    "Tegime katse.",
+    "See on hea katse.",
+    "Mul oli esimene katse eile."
   ],
   "translation": [
     "attempt",
-    "try",
-    "test"
+    "trial",
+    "try"
   ],
-  "context": "The word 'katse' in Estonian refers to an attempt or try at something, and can also mean a test of some kind."
+  "context": "The Estonian word 'katse' is a noun that means an attempt or try. It refers to the act of trying to do something, often used when referring to experiments, trials, or efforts made to achieve something. The word can be used in various contexts such as scientific experiments, personal attempts at tasks, or testing procedures."
 }

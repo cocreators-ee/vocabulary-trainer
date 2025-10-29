@@ -1,16 +1,14 @@
 {
-  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Mulle tundus vasta teha.",
-    "Ta jättis muu vasta.",
-    "Kas sa oled siin, et midagi vasta?",
-    "Olen alati valmis kõnelema vasta."
+    "Ta vastas küsimusele.",
+    "Ma ei tea veel oma vastust.",
+    "Vastame homme kohtumisel."
   ],
   "translation": [
-    "nonsense",
-    "nonsense talk",
-    "nonsense speech"
+    "answer",
+    "reply",
+    "respond"
   ],
-  "context": "Vasta is a derogatory term used to refer to someone who talks nonsense or acts irrationally. It can be used both as an adjective and a noun in Estonian, often with negative connotations."
+  "context": "The Estonian word 'vasta' is a verb that means to answer, reply, or respond. It can be used in various conjugations depending on the subject and tense. For example, 'Ta vastas' (He/She answered), 'Ma vastan' (I answer), 'Me vastame' (We answer). The word is commonly used in everyday communication when responding to questions or statements."
 }

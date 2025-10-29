@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tahab sõita koolis.",
-    "Ma tahan see ostada.",
-    "Kas sa tahad abi?"
+    "Tema tahab õuna.",
+    "Mina ei taha midagi.",
+    "Mis ta tahab?",
+    "Ta tahab minuga koos olla."
   ],
   "translation": [
-    "wants to",
-    "want to",
+    "wants",
+    "desires",
     "would like to"
   ],
-  "context": "The verb \"tahab\" is used to express desire or intention to do something. It can be translated as \"wants to\", \"want to\", or \"would like to\" in English, depending on context and subject."
+  "context": "The word 'tahab' is the 3rd person singular form of the Estonian verb 'tahma', which means 'to want'. It's used when someone desires or wishes for something, similar to English verbs like 'want', 'desire', or 'would like to'. This form appears in sentences where the subject (he/she/it) is wanting something. For example: 'Tema tahab õuna' means 'He/She wants an apple'."
 }

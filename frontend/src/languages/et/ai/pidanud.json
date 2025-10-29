@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen pidanud seda ülesannet väga oluliseks.",
-    "Ta on pidanud mitmeid loenguid selle teema peale.",
-    "Nad on pidanud kõnelusi võimaliku koostöö üle."
+    "Olen pidanud seda raamatut lugema.",
+    "Ta on pidanud koolis headeks õpilaseks.",
+    "Me oleme pidanud sellest projektist rääkima."
   ],
   "translation": [
-    "have held",
-    "held"
+    "have had to",
+    "must have",
+    "was supposed to",
+    "ought to"
   ],
-  "context": "The word 'pidanud' is the past participle form of the Estonian verb 'pidama', which means to hold or to keep. It is commonly used in sentences to describe an action that has been done or an event that has taken place."
+  "context": "The Estonian word 'pidanud' is the past participle form of the verb 'pidama', which means 'to have to', 'must', or 'should'. It's used in combination with other verbs (usually in compound tenses) to express obligation, necessity, or what someone was supposed to do. The structure typically involves 'pidanud' + infinitive verb, similar to the English construction 'have/has/had to' + infinitive."
 }

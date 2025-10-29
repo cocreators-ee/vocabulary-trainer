@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on paska autosõitja.",
-    "Pask on väga halb asi.",
-    "Ma ei ole paska inimene."
+    "See on paska ilm.",
+    "Tema teeb alati midagi paskat.",
+    "Paska see asi!"
   ],
   "translation": [
     "crap",
-    "shit"
+    "shit",
+    "damn it",
+    "rubbish"
   ],
-  "context": "The word 'paska' is a common Estonian profanity used to express strong negative emotions or frustration, and its usage can vary depending on the context in which it is applied."
+  "context": "The word 'paska' is a common Estonian swear word that functions as an interjection or adjective to express disgust, frustration, or contempt. It's equivalent to English curse words like 'crap', 'shit', or 'damn it'. The word can be used independently as an exclamation of annoyance or combined with other words to intensify meaning. In different contexts, it might refer to something worthless, disgusting, or simply serve as a general expression of frustration."
 }

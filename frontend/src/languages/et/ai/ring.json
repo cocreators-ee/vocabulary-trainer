@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtsin ringi ja panin selle kaela.",
-    "Ta tegi ringi ümber linna.",
-    "Laps mängis ringiga aias."
+    "Ring on ümmargune kujund.",
+    "Meie ring koosneb viieliikmelistest.",
+    "Kas sa näed selle ringi?"
   ],
   "translation": [
+    "circle",
     "ring",
-    "circle"
+    "loop",
+    "circuit",
+    "round"
   ],
-  "context": "The word 'ring' in Estonian generally refers to a circular object or a circle, and it is commonly used in everyday conversations to describe something that is round in shape."
+  "context": "In Estonian, 'ring' can refer to a circle or circular shape. It's similar in meaning to the English words 'circle', 'ring', or 'loop'. The word is used both literally (describing geometric shapes or objects) and figuratively (referring to groups, cycles, or circuits). It's a common noun in everyday Estonian."
 }

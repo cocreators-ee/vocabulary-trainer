@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kaikki soinnut ovat eri korkeudella.",
-    "Sointu on tärkeä musiikin teoria.",
-    "Hän osaa soittaa useita sointuja."
+    "Tämä kappale kauniista soinnuista.",
+    "Musiikin sointu on hieno.",
+    "Sointujen vaihtelu tekee musiikki mielenkiintoiseksi."
   ],
   "translation": [
     "chord",
-    "tone"
+    "harmony",
+    "tuning"
   ],
-  "context": "The word sointu refers to a chord or tone in music, and it is commonly used in the context of music theory or when describing musical sounds."
+  "context": "The Finnish word 'sointu' refers to a chord in music, or harmony/tuning. It can describe the quality of sound or musical notes that work well together. In different contexts, it might refer to individual chords, overall harmonic structure, or even tuning/intonation of instruments."
 }

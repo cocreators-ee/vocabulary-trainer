@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma mõistan seda.",
-    "Ta ei mõista mind.",
-    "Mõistad sa mulle?"
+    "Mõistan seda küsimust.",
+    "Ta ei mõista inglise keelt.",
+    "Kas sa mõisted, mis ma tähendan?"
   ],
   "translation": [
-    "to know",
-    "to understand"
+    "to understand",
+    "comprehend",
+    "grasp"
   ],
-  "context": "The verb 'mõistma' in Estonian translates to 'to know' or 'to understand' in English. It is used to express comprehension of information, someone's feelings, thoughts, or intentions."
+  "context": "The Estonian verb 'mõistma' is primarily translated as 'to understand' in English. It refers to the ability to comprehend meaning, grasp concepts, or follow reasoning. The word can be used in various contexts - understanding language, ideas, situations, or instructions. It's a common verb that forms part of basic communication skills in Estonian."
 }

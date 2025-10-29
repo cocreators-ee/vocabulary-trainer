@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tulistas mind vaadates.",
-    "Politsei tulistas röövrit.",
-    "Tulistasin tema suunas."
+    "Politseinik tulistas kurjategijat.",
+    "Mõlemad mehed tulistasid üksteist.",
+    "Tulistas ta tähisti."
   ],
   "translation": [
     "shot",
-    "fired"
+    "fired (a gun)"
   ],
-  "context": "The word 'tulistas' is the third person singular form of the verb 'tulistama', which means to shoot or fire a weapon. It is commonly used in Estonian to describe the act of shooting something or someone, often in the context of violence or self-defense."
+  "context": "The word 'tulistas' is the past tense form of the Estonian verb 'tulistama', which means to shoot or fire a weapon. It specifically refers to the action of discharging a firearm, typically used in contexts involving police actions, military situations, or crimes involving weapons."
 }

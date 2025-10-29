@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mõtlen seda võimalust.",
-    "Ta mõtleb ainult rahast.",
-    "Meie peame selle üle mõtlema."
+    "Mõtlen homme hommikul.",
+    "Ta mõtleb alati enne kui räägib.",
+    "Me mõleme sellest küsimusest pikalt."
   ],
   "translation": [
     "think",
     "ponder",
     "consider"
   ],
-  "context": "The word 'mõtled' is the second person singular form of the verb 'mõtlema', which means to think or ponder something. It is commonly used in Estonian to express the act of considering or reflecting on an idea or situation."
+  "context": "The word 'mõtled' is the second person singular present indicative form of the Estonian verb 'mõtlema', which means 'to think'. It is used when addressing someone directly (you) and indicating that they are thinking or considering something in the present moment. The root word 'mõtle-' relates to cognitive processes, and '-d' is the personal ending for second person singular. In Estonian, verb conjugation follows regular patterns based on vowel harmony and consonant gradation."
 }

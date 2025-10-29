@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen palunud tema abi",
-    "Ta on palunud mind aidata",
-    "Nad on palunud meilt abi"
+    "Palunud on mind aidata.",
+    "Ta on palunud meilt abi.",
+    "Ma olen teid palunud mitu korda."
   ],
   "translation": [
-    "asked",
-    "requested",
-    "pleaded"
+    "asked for help",
+    "requested assistance",
+    "pleaded for"
   ],
-  "context": "The word 'palunud' is the past tense of the verb 'paluma', which means to ask or request something from someone, and it is commonly used in Estonian to express a polite or formal request."
+  "context": "The Estonian word 'palunud' is the past participle form of the verb 'paluda', which means 'to ask for' or 'to request'. It indicates that someone has made a request or asked for something, and this action has been completed in the past. This form is commonly used when describing situations where help, assistance, or some other thing has been requested from others."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen iseennast väga kindel.",
-    "Ta on iseennast teadlik oma võimetest.",
-    "Iseennast on raske defineerida."
+    "Ta iseennast ei vaatanud kuidagi.",
+    "Laps iseennast õpetas.",
+    "Iseennast poleks ta kunagi ära saanud."
   ],
   "translation": [
     "oneself",
-    "himself",
-    "herself"
+    "by oneself",
+    "independently"
   ],
-  "context": "The word 'iseennast' is a reflexive pronoun in Estonian, used to refer to the subject of the sentence, similar to 'oneself' or 'himself/herself' in English. It is commonly used in sentences where the subject is performing an action on themselves."
+  "context": "The Estonian word 'iseennast' is a reflexive pronoun that combines the concepts of 'ise' (self) and 'ennast' (oneself). It emphasizes doing something by one's own power or without help from others. This form is often used to highlight self-reliance, independence, or autonomous action in various contexts."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hajulta oli epämääräinen tyyli.",
-    "Keksi haju on paksu ja musta.",
-    "Miehellä ei ollut omaa hajua."
+    "Tuoksut ovat hyviä mutta haju on epämiellyttävä.",
+    "Haju tuli keittiöstä.",
+    "Mitään hajua ei ollut havaittavissa."
   ],
   "translation": [
-    "Style",
-    "fashion sense"
+    "smell",
+    "odor",
+    "scent",
+    "fragrance"
   ],
-  "context": "'haju' refers to a person's style or fashion sense, often implying their ability to dress well and make good aesthetic choices in clothing."
+  "context": "The word 'haju' in Finnish means smell, odor, or scent. It's a noun that refers to the sensation produced by something that stimulates the olfactory organs. The word can be used for both pleasant and unpleasant smells - for example, 'hyvä haju' (good smell) versus 'paha haju' (bad smell). In different contexts, it could refer to natural scents like flowers or food aromas, as well as man-made fragrances."
 }

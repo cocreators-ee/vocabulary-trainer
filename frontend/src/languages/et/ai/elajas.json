@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Elajas elab veski taga.",
-    "Ta leidis elaja metsast.",
-    "Kõik elajad vajan toitu."
+    "Elajas meie juures.",
+    "Kõik elajasid olid väga rõõmsad.",
+    "Milline ilus elajas!"
   ],
   "translation": [
     "animal",
-    "creature"
+    "creature",
+    "beast"
   ],
-  "context": "The word 'elajas' in Estonian refers to a living being, typically an animal or creature, and is commonly used in everyday conversation to describe various types of organisms."
+  "context": "The word 'elajas' is an Estonian noun meaning animal or creature. It can refer to any living being, particularly non-human animals. In Estonian grammar, this form appears to be in the partitive case ('-s' ending), which is used when indicating existence or presence of something, or when talking about some animals without specifying a particular one."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta naeris hirmuliselt.",
-    "Hirmu all käes on see inimene.",
-    "Praegu toimub midagi kurbatavat ja hirmulat."
+    "Tema käitub hirmul.",
+    "Lapsed jooksid hirmuli välja majast.",
+    "Ta nägi midagi hirmulist."
   ],
   "translation": [
-    "terrified",
-    "in terror",
-    "fearfully"
+    "in fear",
+    "fearfully",
+    "with terror"
   ],
-  "context": "'hirmul' is used to describe someone who is experiencing intense fear or terror. It can be an adjective describing a person's state, or it can describe the manner in which something is done, like actions performed with fear."
+  "context": "The word 'hirmul' is an Estonian adverb derived from the noun 'hirm' (fear). It describes someone's manner of acting or behaving in a state of fear. The '-l' ending indicates it's in the illative case, suggesting movement into or toward a state of fear. This form typically appears after verbs to describe how an action is performed due to fear."
 }

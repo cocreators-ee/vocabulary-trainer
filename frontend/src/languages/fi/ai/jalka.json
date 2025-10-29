@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on jalkapeli huudotuksia koko ajan.",
-    "He puhuvat paljon siitä, kuinka hän on mahtava jalkavankka.",
-    "Jalkaa tarvitaan hyvin paljon tällä elämäntavalla."
+    "Minulla kaksi jalkaa.",
+    "Jalan lihakset ovat väsyneet.",
+    "Jaloissa on paljon hermoja."
   ],
   "translation": [
-    "leg",
     "foot",
-    "legs (pl.)"
+    "leg"
   ],
-  "context": "The word 'jalka' primarily means a leg or foot in Finnish. It is commonly used to refer to the lower limbs of humans and animals, such as when describing someone's legs or feet, activities involving them like walking or running, and physical characteristics."
+  "context": "The Finnish word 'jalka' can mean both 'foot' and 'leg' in English. In Finnish, it's a common noun that refers to the lower limb of humans or animals. It's an inflected word that changes form depending on its case - for example, 'jalassa' (in the foot/leg), 'jaloissa' (in the feet/legs), 'jalat' (feet/legs). The plural form 'jalat' is used when referring to both feet or legs. In anatomy and everyday conversation, this word covers what English speakers might distinguish between as feet (lower part) and legs (entire limb from thigh down)."
 }

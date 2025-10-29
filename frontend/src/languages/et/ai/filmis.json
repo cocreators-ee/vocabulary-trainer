@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Jah, see juhtus filmis.",
-    "Filmis oli palju tegutsemist.",
-    "Tema esimene roll filmis jäi meelde."
+    "Ta näitas head filmis.",
+    "Me vaatasime uut filmis.",
+    "Laps oli väga õnnelik filmis."
   ],
   "translation": [
     "in the movie",
-    "in a movie",
-    "in (the) cinema"
+    "in the film",
+    "in cinema"
   ],
-  "context": "'filmis' is an inessive case form of 'film', meaning it is used to express that something happens within or as part of a movie. It is commonly used to describe events, characters, actions taking place in a film."
+  "context": "The word 'filmis' is the inessive case form of 'film', which means 'movie' or 'film' in English. The inessive case indicates location within something, so 'filmis' specifically means 'in the movie' or 'in the film'. It's used to indicate that someone or something is inside a movie or film context."
 }

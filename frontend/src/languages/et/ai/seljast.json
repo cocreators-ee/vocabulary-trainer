@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tõusis seljast üles",
-    "Seljast all oli tema särk märg",
-    "Kui ta lamas seljast alla"
+    "Ta tuli seljast.",
+    "Kõik on hästi seljast.",
+    "Ma sain haiguse seljast."
   ],
   "translation": [
-    "back",
-    "from behind"
+    "from behind",
+    "from the back"
   ],
-  "context": "The word 'seljast' in Estonian generally means something related to the back or from behind, often used to describe the location or direction of something."
+  "context": "The Estonian word 'seljast' is an adessive case form meaning 'from behind' or 'from the back'. It derives from the root word 'selg' (back). The -st ending indicates movement away from a surface, in this case from the back of something or someone. This grammatical case is used to express location relative to a surface."
 }

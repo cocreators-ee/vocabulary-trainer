@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Oodanud olen saabunud.",
-    "Ta oli juba oodanud.",
-    "Kas sa oled veelgi oodanud?"
+    "Ma oodan sind homme.",
+    "Ta ootis mind kaua aega.",
+    "Meie oleme teid juba pikalt oodanud."
   ],
   "translation": [
-    "waiting",
-    "waited"
+    "waited for",
+    "expected",
+    "anticipated"
   ],
-  "context": "'oodanud' is the past participle of 'oda', meaning to wait. It's commonly used in sentences where someone has waited for something or someone, often indicating a duration of time that they have been waiting."
+  "context": "The word 'oodanud' is the past tense form of the Estonian verb 'ootama', which means 'to wait for' or 'to expect'. It's formed by adding the '-d' suffix to the root 'oota-', indicating completed action in the past. This word specifically indicates that someone was waiting for someone or something, or had certain expectations in the past."
 }

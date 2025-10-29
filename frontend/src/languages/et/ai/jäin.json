@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jäin Tallinnas.",
-    "Ta jäi haigeks.",
-    "Nad said maha jäänud."
+    "jäin kodu",
+    "jäin tööle",
+    "jäin üksi"
   ],
   "translation": [
-    "stayed",
     "remained",
-    "was left"
+    "stayed",
+    "was left behind",
+    "continued to be"
   ],
-  "context": "The word 'jäin' is the first person singular form of the verb 'jääma', which means to stay or remain in a place, and it is commonly used in Estonian language to describe a situation where someone stays or remains somewhere."
+  "context": "The Estonian word 'jäin' is the first person singular past tense form of the verb 'jääma', which means 'to stay', 'to remain', or 'to continue to be'. It indicates that someone remained in a particular place, position, or state. The word shows an action that happened and completed in the past from the speaker's perspective."
 }

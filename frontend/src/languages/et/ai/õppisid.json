@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta õppisid eile uusi asju.",
-    "Ma ei õppisid midagi, sest ma olin väsimustes.",
-    "Kas sa tõesti usalad, et nad teavad, mida meie õppisid?"
+    "Õppisid matemaatikat koolis.",
+    "Kas sa oled õppinud seda raamatut?",
+    "Meie lapsed õpivad iga päev uusi asju."
   ],
   "translation": [
     "learned",
-    "studied"
+    "studied",
+    "have learned"
   ],
-  "context": "'Õppisid' is the second person past tense of 'to learn/study'. It means that someone learned or studied something in the past."
+  "context": "Õppisid is the second person singular past tense form of the Estonian verb 'õppima', which means 'to learn' or 'to study'. It specifically addresses someone directly (you) and indicates that learning/studying occurred in the past. The word can refer to both informal learning activities and formal educational studies."
 }

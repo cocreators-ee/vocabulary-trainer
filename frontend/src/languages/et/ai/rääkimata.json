@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei räägi sellest",
-    "Rääkimata asjadest",
-    "Ta ei rääkinud sellega"
+    "Rääkimata värskeist toitudest.",
+    "Ta tuleb rääkimata.",
+    "Me ei jäänud rääkimata."
   ],
   "translation": [
     "without speaking",
     "not to mention",
-    "unsaid"
+    "let alone"
   ],
-  "context": "The word rääkimata is used in Estonian to indicate that something is left unspoken or not mentioned, often implying that there is more to the story than what is being explicitly stated."
+  "context": "The word 'rääkimata' is an Estonian adverbial form that means 'without speaking' or 'not to mention'. It's formed from the verb 'rääkima' (to speak) with the negative suffix '-ta', indicating the absence of action. This construction is used to emphasize something even more significant by suggesting it goes without saying, similar to English expressions like 'let alone'."
 }

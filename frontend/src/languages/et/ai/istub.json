@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta istub tooli",
-    "Istun ja kirjutan",
-    "Kui ma istusin, oli võimatu magada"
+    "Ei tahtnud istuda.",
+    "Ta istuab laual.",
+    "Meie istume koos."
   ],
   "translation": [
-    "sits",
-    "is sitting",
-    "sit down"
+    "sitsib",
+    "istub"
   ],
-  "context": "The word 'istub' is the third person singular form of the verb 'istuma', which means to sit. It is commonly used in Estonian language to describe the act of sitting or being in a seated position."
+  "context": "The word 'istub' is the third person singular form of the Estonian verb 'istuma', which means 'to sit'. It specifically describes someone or something that is currently in a sitting position. This is an important verb for describing people's posture and location."
 }

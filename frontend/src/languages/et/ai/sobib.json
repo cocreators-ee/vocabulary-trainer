@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See riietuse sobib sule hästi.",
-    "Kodu ja selle mööbel sobivad täna.",
-    "Mees ja naine sobis üksteise."
+    "Sobib sulle see rõivakombinatsioon.",
+    "See too sobib hästi sinu tööks.",
+    "Mõlemad variandid sobivad hästi."
   ],
   "translation": [
     "fits",
-    "is suitable",
-    "matches"
+    "is suitable for",
+    "works well with"
   ],
-  "context": "'sobib' is used to indicate that something fits well together or is appropriate in a particular context, commonly used when describing compatibility between items or situations."
+  "context": "The word 'sobib' is the 3rd person singular present form of the verb 'sobima', meaning 'to fit' or 'to be suitable'. It indicates that something fits a purpose, occasion, person, or other thing appropriately. In Estonian, this verb can refer to physical fitting (like clothes) as well as suitability in more abstract contexts (like plans, ideas, people for roles)."
 }

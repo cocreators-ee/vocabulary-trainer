@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lugen raamatu.",
-    "Raamatu kaas on sinine.",
-    "Ta kirjutas raamatu ise."
+    "Raamatu ostmiseks läksin raamatupoodi.",
+    "See on põnev raamatu.",
+    "Ma loen seda raamatu igal hommikul."
   ],
   "translation": [
-    "book"
+    "book",
+    "of the book"
   ],
-  "context": "The word raamatu is the genitive form of the Estonian word for book, and it is commonly used to indicate possession or relationship."
+  "context": "The word 'raamatu' is the genitive singular form of the Estonian noun 'raamat', which means 'book'. In English grammar, this corresponds to the possessive case or 'of the book'. It indicates that something belongs to a book or relates to a book in some way. For example, 'raamatu ostmine' means 'buying of the book' or 'the buying of the book', and 'põnev raamatu' could mean 'an exciting book' though this construction is less common than using the nominative form directly."
 }

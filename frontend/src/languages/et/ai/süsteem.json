@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Süsteem on üksikute osade kokkuvõte.",
-    "Ta töötab süsteemi arendamisel.",
-    "Süsteemid on erinevad ja keerulised."
+    "Selles süsteemis on palju komponente.",
+    "Tööstuslikud süsteemid nõuavad täpset juhtimist.",
+    "Uue süsteemi loomine võtab aega."
   ],
   "translation": [
-    "system"
+    "system",
+    "structure",
+    "organization"
   ],
-  "context": "The word süsteem refers to a set of connected things or parts that form a complex whole, and it is commonly used in Estonian to describe various systems, such as computer systems, political systems, or economic systems."
+  "context": "The word 'süsteem' in Estonian means 'system'. It refers to an organized set of interconnected components or parts that work together for a common purpose. This can include physical systems (like computer systems, industrial systems), abstract systems (like political systems, economic systems), or any structured arrangement with defined relationships between elements."
 }

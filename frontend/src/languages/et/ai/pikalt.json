@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen pikalt ära olnud.",
-    "Ta tuli pikalt ja üllatas mind.",
-    "Pikalt ei ole võimalik seda teha."
+    "Olen olnud pikalt kodust eemal.",
+    "Ta rääkis pikalt oma reisist.",
+    "Me tegime pikalt jalutuskäigu parki."
   ],
   "translation": [
-    "from afar",
-    "from a distance"
+    "for a long time",
+    "at length",
+    "extensively"
   ],
-  "context": "The word 'pikalt' in Estonian means from a distance or from afar, and it is commonly used to describe something that is happening or has happened at a remote location."
+  "context": "The Estonian word 'pikalt' is an adverb that means 'for a long time' or 'at length'. It is in the adessive case and describes duration or extent of an action. The root comes from 'pikk' (long) with the '-lt' suffix indicating the adessive case, which typically indicates location or manner in Estonian."
 }

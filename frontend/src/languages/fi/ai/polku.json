@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Polku kulkee metsän läpi.",
-    "Hän löysi uuden polun kotiin.",
-    "Polut ovat talvella hyvin liukkaita."
+    "Polku johti metsän halki.",
+    "Olen kävellyt tällä polulla monta kertaa.",
+    "Polut olivat peittyneet lumeen."
   ],
   "translation": [
     "path",
-    "trail"
+    "trail",
+    "track",
+    "way",
+    "road"
   ],
-  "context": "The word 'polku' generally refers to a path or trail, often in a natural setting such as a forest, and is commonly used when describing routes for walking or hiking."
+  "context": "The Finnish word 'polku' means a path or trail, referring to a way that has been made by walking through an area like a forest or field. It can refer to both physical paths used for walking and metaphorical ways of doing something. The word is in the nominative singular form here."
 }

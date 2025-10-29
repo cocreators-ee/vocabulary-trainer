@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta hakkas laulma.",
-    "Me hakkame homme tööd tegema.",
-    "Nad ei hakanud tülitsema."
+    "Hakame kohe tööd.",
+    "Ta hakkas naerma.",
+    "Me hakkame homme lendama."
   ],
   "translation": [
-    "to begin",
     "to start",
-    "to commence"
+    "begin",
+    "commence"
   ],
-  "context": "The verb 'hakata' in Estonian is used to express the beginning of an action or state. It’s similar to ‘to begin’ or ‘to start’ in English, but can also indicate a change in condition or feeling."
+  "context": "The Estonian word 'hakata' is an infinitive verb that means 'to start' or 'to begin'. It indicates the initiation of an action. This verb belongs to the -ma infinitive class in Estonian, which requires the use of 'ama' as the stem when conjugating in different tenses and moods. When used with personal pronouns, it forms the beginning of an action for different subjects."
 }

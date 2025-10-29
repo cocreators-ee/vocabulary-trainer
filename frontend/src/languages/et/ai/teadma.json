@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean seda",
-    "Teadmiseks on vaja aega",
-    "Ta teab vastuse"
+    "Ma tean vastust.",
+    "Teadsime, et ta tuleb homme.",
+    "Kas tead, kus asub raamatukogu?"
   ],
   "translation": [
     "to know",
-    "knowledge"
+    "to be aware of",
+    "to have knowledge of"
   ],
-  "context": "The word teadma is commonly used in Estonian to express the act of knowing or having knowledge about something."
+  "context": "The Estonian verb 'teadma' means to know or to have knowledge of something. It is used when someone has information about a fact, person, place, or situation. This verb indicates possession of knowledge rather than acquaintance with someone (which would use 'tundma'). The word can be conjugated in different tenses and forms: tean (I know), teadid (you knew), teavad (they know), etc."
 }

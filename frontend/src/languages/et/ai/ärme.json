@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga ärme mees.",
-    "Ärme poiss jooksis üle tee.",
-    "Ärme käitumine oli täiesti vastuvõetamatu."
+    "Ärmed on pikad.",
+    "Ta tõstis ärmeid üles.",
+    "Tal on suured ärmed."
   ],
   "translation": [
-    "angry",
-    "irritable",
-    "bad-tempered"
+    "arms (plural)",
+    "sleeves"
   ],
-  "context": "The word 'ärme' in Estonian describes a state of anger or irritability. It is commonly used to describe someone who is easily provoked or has a bad temper, similar to the English words 'angry', 'grumpy', or 'short-tempered'."
+  "context": "The word 'ärme' is the plural nominative form of Estonian noun 'ärm', which means 'arm'. It can refer to a person's arms or sleeves of clothing. In Estonian, like other Finno-Ugric languages, nouns have different cases and numbers. This is the plural form used when talking about multiple arms or sleeves in the subject position of a sentence."
 }

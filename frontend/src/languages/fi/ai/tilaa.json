@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän tilasi uuden puhelimen.",
-    "Tilaa ruokaa ravintolasta!",
-    "Tilaamme usein kirjoja netistä."
+    "Hän tilaa kahvia joka aamu.",
+    "Tilaan lehden postitse.",
+    "He tilasivat uuden sohvan kaupasta."
   ],
   "translation": [
     "order",
-    "book",
-    "reserve"
+    "subscribe",
+    "request",
+    "command"
   ],
-  "context": "The word 'tilaa' in Finnish generally means to order or book something, such as a product, service, or table at a restaurant. It is commonly used in everyday situations like shopping online, making reservations, or requesting something."
+  "context": "The Finnish word 'tilaa' is the third-person singular form of the verb 'tilata'. It means to order, subscribe to something (like a magazine), request something, or give a command. The word can be used in various contexts from ordering food at a restaurant to subscribing to a service."
 }

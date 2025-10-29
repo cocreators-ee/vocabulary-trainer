@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole emme",
-    "Emme oli hea inimene",
-    "Kui emme tuli koju"
+    "Tere tuleme meie koju",
+    "Kuhu läheme siis?",
+    "Me jääme homme"
   ],
   "translation": [
-    "mom",
-    "mother"
+    "we will",
+    "we are going to",
+    "we're about to"
   ],
-  "context": "The word 'emme' is commonly used to refer to one's mother in an informal setting."
+  "context": "In Estonian, 'emme' is the 1st person plural future tense marker of the verb 'olema' (to be). It indicates that the speaker and others (the subject 'me') will perform an action in the future. This form appears in conjugated verbs when the subject includes the speaker. For example, in 'Tere tuleme meie koju', 'tuleme' means 'we will come'. The ending '-me' marks this as 1st person plural future tense."
 }

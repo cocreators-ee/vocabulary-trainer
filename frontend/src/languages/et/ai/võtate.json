@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võtan selle vastu.",
-    "Kas sa võtad mind kaasa?",
-    "Ta võtab oma töö tõsiselt."
+    "Võtate kohe lahti?",
+    "Mida te võtate kaasa?",
+    "Kui palju võtate raha välja?"
   ],
   "translation": [
-    "take",
-    "accept",
-    "receive"
+    "take (you formal/plural)",
+    "are taking (you formal/plural)"
   ],
-  "context": "The verb 'võtate' is a second-person plural imperative form of the verb 'võtta', meaning 'to take'. It can also mean 'to accept' or 'to receive' depending on the context. In everyday conversation, it’s used when asking someone to do something involving taking an object or accepting an offer."
+  "context": "The word 'võtate' is the second person plural/formal present tense form of the Estonian verb 'võtta', which means 'to take'. It is used when speaking to multiple people or showing respect to a single person in formal situations. The conjugation shows that it belongs to the -ma verb class and follows typical Estonian verb patterns for present tense."
 }

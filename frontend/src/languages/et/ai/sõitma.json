@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõidan autoga tööle.",
-    "Ta oskab sõita jalgrattaga.",
-    "Nad tahavad sõita bussiga linna."
+    "Ma sõidan tööle auto.",
+    "Tüdruk sõidab jalgrattaga parki.",
+    "Meie sõime mööda maanteed."
   ],
   "translation": [
-    "to drive",
-    "to ride",
-    "to travel"
+    "to go by vehicle",
+    "to travel by transport",
+    "to drive (a car)",
+    "to ride (a bike)"
   ],
-  "context": "The word sõitma is commonly used in Estonian to describe the act of driving or riding a vehicle, and can be used in various contexts such as driving a car, riding a bike, or traveling by bus."
+  "context": "The Estonian verb 'sõitma' is an infinitive form that means to travel, go by vehicle, or drive/ride. It can refer to various modes of transportation including cars, bikes, buses, etc. The verb follows Estonian conjugation patterns and changes its ending depending on the subject and tense. For example: ma sõidan (I go/drive), sa sõidad (you go/drive), ta sõidab (he/she/it goes/drives)."
 }

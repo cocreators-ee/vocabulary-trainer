@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kirjutan artikli homme.",
-    "Ta kirjutas raamatu aastaid tagasi.",
-    "Nad kirjutavad koos ühiselt meeldejäävat lugu."
+    "Ma olen kirjutama artiklit.",
+    "Ta ei ole veel alustanud kirjutama esseed.",
+    "Lapsed peavad kirjutama koolitööd."
   ],
   "translation": [
-    "to write",
-    "writing"
+    "to write"
   ],
-  "context": "The word 'kirjutama' is commonly used in Estonian to describe the act of creating written content, such as writing a book, article, or story."
+  "context": "The Estonian verb 'kirjutama' means 'to write'. It is an infinitive form of the verb and can be conjugated in various tenses. For example: kirjutan (I write), kirjutasin (I wrote), kirjutanud (have written). This is a common action verb used for writing texts, articles, letters, essays, and other written materials."
 }

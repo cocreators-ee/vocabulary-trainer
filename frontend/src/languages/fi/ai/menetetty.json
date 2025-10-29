@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on menettänyt aviomiehensä.",
-    "Menetetty rakkaus ei koskaan unohdu.",
-    "Me olemme menettäneet kaiken toivoamme."
+    "Menetetty aika on palautettavissa.",
+    "Hän oli menetetty sielu.",
+    "Lapset etsivät kadonnutta leluaansa, joka nyt oli menetetty."
   ],
   "translation": [
     "lost",
-    "missing"
+    "wasted",
+    "missed"
   ],
-  "context": "The word 'menetetty' in Finnish means something or someone that has been lost or is missing, and it can be used in various contexts such as describing a lost item, a lost opportunity, or a person who has passed away."
+  "context": "The Finnish word 'menetetty' is the partitive singular form of the participle 'menetetty', meaning 'lost' or 'wasted'. It's used to describe something that has been lost, wasted, or missed. The word comes from the verb 'menettää' (to lose) and carries a sense of finality - once something is menetetty, it cannot be recovered in its original form."
 }

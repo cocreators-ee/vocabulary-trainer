@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on suur probleem",
-    "Ta ei löödnud probleemega kokku",
-    "Probleemid lahendati kiiresti"
+    "Tal on palju probleeme.",
+    "Me lahendame need probleemed koos.",
+    "Probleemid võivad olla keerulised."
   ],
   "translation": [
-    "problem",
-    "issue"
+    "problems",
+    "issues",
+    "troubles"
   ],
-  "context": "The word 'probleeme' is the genitive plural form of 'probleem', which means a problem or issue in English, and it is commonly used to describe a difficulty or challenge that needs to be addressed."
+  "context": "'probleeme' is the partitive plural form of the Estonian noun 'probleem', which means 'problem'. The partitive case in Estonian is used to indicate an incomplete action, partial possession, or when referring to a quantity of something. In this case, 'probleeme' means 'problems' (plural) and typically refers to having multiple issues or troubles that exist but may not be fully resolved yet."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Velini tuli eilen kotiin.",
-    "Minulla on yksi veli.",
-    "Oletko veli?"
+    "Minun veli on lääkäri.",
+    "Veljesi tulee käymään huomenna.",
+    "Heillä on kaksi veljeä."
   ],
   "translation": [
-    "brother"
+    "brother",
+    "male sibling"
   ],
-  "context": "The word 'veli' refers to a male sibling. It is commonly used in everyday Finnish to talk about brothers."
+  "context": "In Finnish, 'veli' means brother or male sibling. It's a common noun used to refer to one's brother. The word can be modified with possessive suffixes to indicate whose brother it is - for example, 'minun veli' (my brother), 'sinun veli' (your brother), 'hänen veljensä' (his/her/their brother). Finnish also has different cases, so you might see forms like 'veljeä' in partitive case or 'veljen' in genitive case depending on how it's used in a sentence."
 }

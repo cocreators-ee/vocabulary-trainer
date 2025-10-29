@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen naine ja see on minu poeg.",
-    "Meie vanemad olid tõeline mustikas.",
-    "Mina ei taha seda kuulda."
+    "Ma annan sulle selle raamatu.",
+    "Ta annab alati head nõuandeid.",
+    "Meie anname talle igal aastal kingituse."
   ],
   "translation": [
-    "I am a woman and this is my son.",
-    "Our parents were a real bear.",
-    "I don't want to hear that."
+    "I give",
+    "he/she gives",
+    "we give"
   ],
-  "context": "The word 'see' means 'this' in Estonian. It is commonly used as a demonstrative pronoun or adjective to refer to something close at hand or recently mentioned."
+  "context": "The word 'annan' is the first-person singular present tense form of the Estonian verb 'anna-' which means 'to give'. It specifically translates to 'I give' in English. This is a common verb used when someone wants to express that they are giving something to another person."
 }

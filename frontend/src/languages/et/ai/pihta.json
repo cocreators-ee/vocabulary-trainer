@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tõusis üles pihtade vahelt",
-    "Pihta on üks Eesti tuntumaid puuliike",
-    "Metsas kasvavad paljud pihtad"
+    "Ta oli pihta saanud.",
+    "Mees tabas linnu pihta.",
+    "Tulemus ei ole veel pihta."
   ],
   "translation": [
-    "spruce",
-    "fir tree"
+    "hit",
+    "strike",
+    "reach",
+    "achieve"
   ],
-  "context": "The word pihta refers to a type of evergreen tree, commonly found in Estonian forests."
+  "context": "The word 'pihta' is an Estonian adverb that indicates hitting or striking a target. It's used to show that something has reached its intended destination or been successful in hitting what was aimed at. This form appears after the verb and often follows motion verbs like tabama (to hit) or saama (to get/receive)."
 }

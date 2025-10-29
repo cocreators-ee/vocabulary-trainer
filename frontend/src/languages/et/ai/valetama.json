@@ -1,13 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta püüab valetama õppida.",
-    "Ma olen harjunud valetama eluks.",
-    "Ära valeta mind."
+    "Ei valeta midagi.",
+    "Ta alati valetab oma kohtumistest.",
+    "Kas sa valetasid mulle?"
   ],
   "translation": [
-    "to lie"
+    "to lie",
+    "to tell lies",
+    "to fib",
+    "to deceive"
   ],
-  "context": "The verb 'valetama' means 'to lie' in English, commonly used to describe the act of not telling the truth or deceiving someone."
+  "context": "The Estonian verb 'valetama' means to tell falsehoods or make statements that are not true. It's used when someone deliberately misrepresents the truth with intent to deceive. The word comes from the same root as 'vale' (false/untrue) and is commonly used in everyday situations ranging from minor fibs to serious deceptions."
 }

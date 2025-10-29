@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hänen verensä on A-positiivista",
-    "Veri valui hänen kasvoilleen",
-    "Lääkärin on täytynyt ottaa veri näytteeseen"
+    "Veri virtaa haavasta.",
+    "Minulla on kylmä veri.",
+    "Tämä ruoka sisältää paljon verta."
   ],
   "translation": [
     "blood"
   ],
-  "context": "The word 'veri' refers to the fluid that circulates through the body of humans and animals, and is commonly used in medical contexts."
+  "context": "The Finnish word 'veri' means 'blood'. It's a common noun referring to the red liquid circulating in the body. In different contexts, it can refer to physical blood (like in medical or injury contexts), metaphorical blood relationships (family ties), or be used in expressions about temperament or character (like having 'cold blood')."
 }

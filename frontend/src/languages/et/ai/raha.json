@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mulle ei jäa raha sõbranna kohvikusse.",
-    "Raha on su eesmärk.",
-    "Ta panustab raha lotoga."
+    "Mul on raha.",
+    "Sul pole raha.",
+    "Meil oli palju raha."
   ],
   "translation": [
     "money",
     "cash"
   ],
-  "context": "The word refers to money or cash in general. It is used for talking about having, needing, or managing financial resources."
+  "context": "The word 'raha' is Estonian for money or cash. It can refer to physical currency as well as the concept of wealth in general. In Estonian, it's an invariable noun that doesn't change form based on number (it remains 'raha' whether singular or plural), which is different from many other languages where money might have different forms."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vihollinen on voimakas ja vaarallinen.",
-    "Meidän täytyy löytää keino voittaa vihollinen.",
-    "Viholliset tulevat usein yllättäen."
+    "Vihollinen hyökkää kylään.",
+    "Sotilaat taistelevat vihollista vastaan.",
+    "Hän pelkää vihollisiaan."
   ],
   "translation": [
     "enemy",
-    "opponent",
-    "adversary"
+    "foe",
+    "opponent"
   ],
-  "context": "The word vihollinen refers to an enemy or opponent, and is commonly used in Finnish to describe someone or something that is opposed to or competing against another person or group."
+  "context": "The Finnish word 'vihollinen' means enemy or foe. It refers to an adversary that one is in opposition with, particularly in a conflict or battle context. The word can be used for both singular and plural forms (viholliset), referring to enemies collectively."
 }

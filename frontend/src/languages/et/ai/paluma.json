@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma palumasin teda öösel",
-    "Ta on hea paluma",
-    "Palumine on tema eriline oskus"
+    "Palume istuda.",
+    "Ma palun teie abi.",
+    "Ta palus õppida koos."
   ],
   "translation": [
-    "to ask",
-    "to invite",
-    "request"
+    "to ask for",
+    "to request",
+    "to beg"
   ],
-  "context": "The word 'paluma' in Estonian means to ask or invite someone to do something, and it is commonly used in formal and informal settings to request something from someone."
+  "context": "The Estonian word 'paluma' is a verb that means to ask for, request, or beg something from someone. It's commonly used when making requests politely in everyday situations, such as asking for help, permission, or items. The word can be conjugated in different forms depending on the subject and tense (e.g., 'palun' for 'I ask', 'palus' for 'he/she asked')."
 }

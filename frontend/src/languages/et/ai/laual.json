@@ -1,11 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Laual on kook"
+    "Laual oli suur lõunaplaat.",
+    "Meie pere laual on alati palju toitu.",
+    "Kas võite tuua mulle laualt klaasi vett?"
   ],
   "translation": [
-    "on the table"
+    "on the table",
+    "at the table"
   ],
-  "context": "The word laual is a postposition in Estonian that indicates something is located on top of something else, similar to the English phrase on the table."
+  "context": "The word 'laual' is an Estonian adessive case form of the noun 'laua', which means 'table'. In the adessive case, it indicates location or position on the surface of something. 'Laual' specifically translates to 'on the table' or 'at the table', indicating that someone or something is positioned on top of a table."
 }

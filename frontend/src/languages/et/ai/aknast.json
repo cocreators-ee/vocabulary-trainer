@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Aknast avati uks",
-    "Ta vaatas aknast välja",
-    "Aknad olid lahti"
+    "Tuli aknast.",
+    "Kass tuli aknast sisse.",
+    "Häire läks aknast."
   ],
   "translation": [
     "from the window",
     "out of the window"
   ],
-  "context": "The word 'aknast' is used to describe something that is done from or out of a window, often in relation to looking or throwing something."
+  "context": "The word 'aknast' is an Estonian adessive case form that means 'from the window'. It indicates motion or direction away from a location (the window). The base noun 'aken' means 'window', and '-st' is the ending indicating movement away from something. This case is commonly used to show where someone came from or where something originated."
 }

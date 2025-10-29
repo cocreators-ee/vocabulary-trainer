@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tulime sinna.",
-    "Nad tulid meie juurde.",
-    "Te tulite meiega."
+    "Tulime kohtumisele täpselt ajal.",
+    "Me tulime siia eelmisel nädalal.",
+    "Kuhu te tulite?"
   ],
   "translation": [
     "we came",
-    "came"
+    "we arrived",
+    "we entered"
   ],
-  "context": "The word 'tulime' is the first person plural past tense form of the Estonian verb 'tulema', which means to come. It is commonly used in sentences to indicate that the speaker and others came to a place or event."
+  "context": "The word 'tulime' is the first person plural past tense form of the verb 'tulema' (to come, to arrive). It specifically means 'we came' or 'we arrived' in English. In Estonian, this conjugation indicates that the action happened in the past and was performed by a group including the speaker."
 }

@@ -1,14 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on üks printsess",
-    "Printsessed said kuningliku perekonna liikmed",
-    "Printsessi kohtunikud olid võimukad"
+    " printsess elab lossis.",
+    " Printsess pea on ilus ja lai.",
+    " Printsessi püksid olid lõdvad ja moodsad."
   ],
   "translation": [
-    "princess",
-    "noblewoman"
+    "princess"
   ],
-  "context": "The word printsess refers to a female member of a royal family, typically the daughter or wife of a king or prince, and is commonly used in Estonian to convey a sense of nobility and high social status."
+  "context": "The word 'printsess' is the Estonian word for 'princess'. It refers to a female member of a royal family, typically the daughter of a king and queen. In Estonian, it's a feminine noun that doesn't change in form regardless of case (it remains 'printsess')."
 }

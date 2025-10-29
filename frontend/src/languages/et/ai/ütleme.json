@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ütleme tõhusalt.",
-    "Me peame kinnitama, et see on hea mõte ütleme.",
-    "Olen rahul, et saate seda teada, me ütleme.",
-    "Tema vastus oli: \"Kui me ei suuda seda öelda, siis me ei peaks seda tegema\"."
+    "Ütleme meile, kuidas sa tuled.",
+    "Me ütleme homme kohtume.",
+    "Mis me ütleme?"
   ],
   "translation": [
-    "say we",
+    "let's say",
+    "we tell",
     "we say"
   ],
-  "context": "The word 'ütleme' is the first person plural form of the verb 'to say'. It is used when a group including oneself (e.g. I and you) says something."
+  "context": "The word 'ütleme' is the 1st person plural present indicative form of the verb 'ütlema' (to say/tell). It means 'we say' or 'we tell'. The '-me' ending indicates that it's the 1st person plural form. In Estonian, this can also be used as a suggestion equivalent to 'let's say' in English."
 }

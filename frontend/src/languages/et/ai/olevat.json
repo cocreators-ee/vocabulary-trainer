@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olevat sinuga",
-    "Ta on olevat haige",
-    "Nad olevat surnud"
+    "Ta olevat tulemas homme.",
+    "Mis olevat sulle öelda?",
+    "Nad olevat juba kohal."
   ],
   "translation": [
-    "to be",
-    "being",
-    "is"
+    "is said to be",
+    "is supposed to be",
+    "apparently is"
   ],
-  "context": "The word 'olevat' is the third person singular form of the verb 'olema', which means 'to be' in English, and it is commonly used to describe a state or condition."
+  "context": "The Estonian word 'olevat' is the potential mood form of the verb 'olla' (to be). It expresses information that is not directly witnessed or known with certainty, but rather reported by others. This form is commonly used in spoken language when someone is repeating what they've heard from someone else, similar to saying 'is said to be', 'is supposed to be', or 'apparently' in English. The potential mood indicates uncertainty about the truth of the statement."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma peatan selle projekti.",
-    "Ta peatas auto.",
-    "Nad peatavad töö homme."
+    "Auto peatus peata.",
+    "Ta ei pea peatuma.",
+    "Peatu enne ristmikul."
   ],
   "translation": [
-    "to stop",
-    "to halt"
+    "stopless",
+    "non-stop",
+    "without stopping"
   ],
-  "context": "The word 'peata' is a verb in Estonian that means to stop or halt something, and it is commonly used in various contexts such as stopping a project, halting a vehicle, or ending an activity."
+  "context": "The Estonian word 'peata' is an adverb formed from the verb 'peatuma' (to stop) by adding the negation prefix '-e-'. It means something that happens without interruption, continuously, or without any pauses. It's commonly used to describe continuous motion or processes."
 }

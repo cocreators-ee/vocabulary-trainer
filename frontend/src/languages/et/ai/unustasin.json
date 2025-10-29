@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma unustasin oma võtmed.",
-    "Ta on alati unustanud midagi.",
-    "Unustasid sa oma telefoni?"
+    "Unustasin võtmed kodus.",
+    "Ma unustasin sinu nime.",
+    "Ta ei oleks unutanud seda."
   ],
   "translation": [
     "forgot",
-    "forgotten"
+    "forgotten",
+    "have forgotten"
   ],
-  "context": "The word 'unustasin' in Estonian means to have forgotten something, and it is commonly used in sentences where someone has failed to remember an item or a task."
+  "context": "The word 'unustasin' is the first person singular past tense form of the Estonian verb 'unustama', which means 'to forget'. It specifically indicates that the speaker forgot something in the past. The word comes from the root 'unu-' meaning to not remember, with the suffix '-stas-' forming the past tense and '-in' indicating the first person singular subject."
 }

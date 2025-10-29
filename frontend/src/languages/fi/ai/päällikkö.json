@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Päällikkö oli hyvin tyytyväinen tuloksiin.",
-    "Päälliköt päättivät yhdessä seurauksista.",
-    "Uusi päällikkö aloittaa työnsä huomenna."
+    "Päällikkö on työpaikalla.",
+    "Minä olen uusi päällikkö tässä yrityksessä.",
+    "Hän haluaa tulla päälliköksi."
   ],
   "translation": [
     "chief",
-    "leader",
-    "head"
+    "supervisor",
+    "head of",
+    "boss"
   ],
-  "context": "The word päällikkö refers to a person in charge or a leader of a group, organization, or team, and is commonly used in Finnish to describe someone with authority or decision-making power."
+  "context": "The word 'päällikkö' is a Finnish noun that refers to someone who has authority over others, such as a chief, supervisor, or boss. It's commonly used in workplace contexts to describe someone in a leadership position. The word can be used for both male and female leaders, though specific forms exist for different grammatical cases."
 }

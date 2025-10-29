@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta rääkis hoolega.",
-    "Hoolega tuleb seda küsimust lahendada.",
-    "See oli tehtud hoolega."
+    "Hoolega võtsin ülesanded vastu.",
+    "Ta täitis hoolega kõik nõuded.",
+    "Ma olen alati valmis aitama hoolega."
   ],
   "translation": [
+    "carefully",
+    "diligently",
     "with care",
-    "carefully"
+    "conscientiously"
   ],
-  "context": "The word hoolega is an adverb in Estonian that means doing something with care or carefully, it is commonly used to describe actions that require attention to detail or caution."
+  "context": "The word 'hoolega' is an Estonian adverb that means 'carefully', 'diligently', or 'with care'. It's formed from the root word 'hoolet' (care) with the suffix '-ga' which in this context functions as an instrumental case marker, indicating manner of action. This adverb modifies verbs to indicate that an action is performed with attention, precision, and conscientiousness. It often appears before the verb it modifies."
 }

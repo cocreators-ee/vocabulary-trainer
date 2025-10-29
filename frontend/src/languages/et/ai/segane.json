@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on väga segane inimene.",
-    "Segased olud valitsesid linna tänavatel.",
-    "Ma ei saa aru, mis selles segases asjas tegelikult toimub."
+    "Töö on segane ja ebamugav.",
+    "See päev oli väga segane minu jaoks.",
+    "Segane ilm tegi planeeringu keeruliseks."
   ],
   "translation": [
     "confused",
-    "mixed up",
-    "disorderly"
+    "messy",
+    "unclear",
+    "turbid"
   ],
-  "context": "The word 'segane' in Estonian generally means being confused or mixed up, and is often used to describe a state of disorder or chaos, whether it refers to a person's mental state or a physical environment."
+  "context": "The Estonian word 'segane' is an adjective that describes something as being confused, messy, unclear, or turbid. It can be used to describe mental confusion (a confused state of mind), physical messiness (something disorderly or untidy), lack of clarity (unclear situation), or physical opacity (turbid water). The word derives from the verb 'sega' meaning 'mixed', and '-ne' is a common adjectival suffix in Estonian."
 }

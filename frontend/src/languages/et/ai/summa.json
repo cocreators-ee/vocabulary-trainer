@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen veendunud, et see summa on õiglane.",
-    "Summad võivad erineda olenevalt toimingutest.",
-    "Ta sai suure summa raha päranduseks."
+    "Arvutage summa.",
+    "See on suurim summa selles plokis.",
+    "Maksa see summa alles homme."
   ],
   "translation": [
-    "amount",
-    "sum"
+    "sum",
+    "total amount",
+    "mathematical addition result"
   ],
-  "context": "The word 'summa' in Estonian generally refers to a quantity or amount of something, often used in financial or mathematical contexts to describe the total or aggregate value of multiple components."
+  "context": "In Estonian, 'summa' is a feminine noun that means either the mathematical result of an addition operation or the total amount/price of something. It can be used in financial contexts to refer to sums of money, and in academic/mathematical contexts for calculation results."
 }

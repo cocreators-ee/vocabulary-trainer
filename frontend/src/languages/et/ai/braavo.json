@@ -1,12 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta ütles braavo!",
-    "See on braavo!', "
+    "Braavo! Suurimaid mänge nägid!",
+    "Meie tiimi tulemused olid braavo!",
+    "Kas sa kuulsid tema esinemist? See oli täiesti braavo!"
   ],
   "translation": [
-    "bravo"
+    "bravo",
+    "well done",
+    "excellent"
   ],
-  "context": "The word braavo is used in Estonian to express admiration or approval for something, similar to how 'bravo' is used in English."
+  "context": "The word 'braavo' is an interjection used to express praise, admiration, or approval. It's borrowed from Italian and commonly used in Estonian to applaud someone's performance, achievement, or action when they have done something exceptionally well. It can be used as a standalone exclamation or within sentences to convey strong positive feedback."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan puude all istumist.",
-    "Talvel puud on tavaliselt palja.",
-    "Puud kannavad lehti."
+    "Puuviljad on head sinu terviseks.",
+    "Ma sõin puuvilju hommikul.",
+    "See marjane on üks meie lemmatud puuvilju."
   ],
   "translation": [
-    "trees"
+    "fruits",
+    "fruit"
   ],
-  "context": "The word 'puud' is the plural form of 'puu', which means tree, and it is commonly used to refer to multiple trees in a forest or a group of trees in a specific area."
+  "context": "The word 'puud' appears to be the partitive form of 'puuvili' which means fruit. In Estonian, the partitive case is commonly used with mass nouns or when referring to fruits in general. It can mean both 'fruits' (plural) or 'fruit' (uncountable concept)."
 }

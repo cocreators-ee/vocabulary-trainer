@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tunnin kuluttua hän tuli takaisin.",
-    "Hänen tunnilleen on vielä vartti aikaa.",
-    "Kurssi kestää kolme tuntia."
+    "Tämä kestää tuntia.",
+    "Hän työskentelee kahdeksan tunnin päivässä.",
+    "Yksi tunti on 60 minuuttia."
   ],
   "translation": [
-    "hour"
+    "hour",
+    "time period",
+    "clock hour"
   ],
-  "context": "The word 'tunti' in Finnish refers to a unit of time, specifically sixty minutes, and is commonly used to express the duration of events or activities."
+  "context": "The Finnish word 'tunti' primarily means 'hour', referring to a unit of time equal to 60 minutes. It can also refer to a clock hour or a specific time period. The word is commonly used in everyday contexts to measure duration or specify times, such as 'kolme tuntia' (three hours) or 'klo kahdeksan' (at eight o'clock)."
 }

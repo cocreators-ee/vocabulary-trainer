@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Sul on õnne!",
-    "Kas sul on kodus vaba aeg?",
-    "Sul on minu number."
+    "Tere sult!",
+    "Kuidas läheb sult?",
+    "Sult on hea päev."
   ],
   "translation": [
-    "you (plural)",
-    "your (plural)"
+    "you (formal)",
+    "to you (formal)",
+    "your"
   ],
-  "context": "'sul' is a possessive pronoun in Estonian that means 'your (plural)' when used as a possessive form and refers to the plural form of 'you'. It can also be part of phrases indicating possession or belonging. For example, it can be used to describe something belonging to a group of people addressed."
+  "context": "The word 'sult' is the Estonian formal singular pronoun in the genitive case, used to address someone formally with respect. It functions as the possessive form meaning 'of you' or 'to you' when speaking formally to one person. In English, this would correspond to 'your' or 'to you' in formal contexts."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõidad autoga Tallinna.",
-    "Ta sõidab bussiga tööle.",
-    "Nad sõitsid rongiga Pärnusse."
+    "Sõid autoga.",
+    "Kuhu sa sõidad?",
+    "Tüdruk sõidab kooli."
   ],
   "translation": [
-    "drive",
-    "ride",
-    "travel"
+    "you drive",
+    "you are traveling",
+    "you go"
   ],
-  "context": "The word 'sõidad' is a verb in Estonian that means to drive or ride something, often used in the context of operating a vehicle or traveling from one place to another."
+  "context": "The word 'sõidad' is the 2nd person singular present tense form of the Estonian verb 'sõitma', which means to travel, to go, or to drive. It's used when speaking directly to one person (informal) about what they are currently doing in terms of movement or transportation."
 }

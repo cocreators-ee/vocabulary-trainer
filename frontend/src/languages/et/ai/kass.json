@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kass on väike loom.",
-    "Kassi võib leida taludes.",
-    "Kassid on populaarsed lemmikloomad."
+    "Kass on väga ilus loom.",
+    "Olen ostetud uue kassi koju.",
+    "Minu lemmikloom on kass."
   ],
   "translation": [
-    "cat"
+    "cat",
+    "feline"
   ],
-  "context": "The word 'kass' refers to a small, typically furry, carnivorous mammal in the family Felidae, often kept as a pet."
+  "context": "The Estonian word 'kass' means 'cat' in English. It refers to a domestic feline animal, typically kept as a pet or for catching mice. The word is used in its basic singular form here, and can be modified with suffixes to indicate different grammatical cases or numbers."
 }

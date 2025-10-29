@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä uskon, että hän on rehellinen.",
-    "He uskovat, että joku varasti heidän autonsa.",
-    "Uskomme, että me voimme ratkaista tämän ongelman."
+    "Minä uskon sinuun.",
+    "He uskovat Jumalaan.",
+    "Hän ei usko horoskooppeihin."
   ],
   "translation": [
-    "believe",
-    "think",
-    "trust"
+    "to believe",
+    "to trust",
+    "to have faith in"
   ],
-  "context": "The word 'uskoa' in Finnish means to believe or have faith in something or someone, and it is commonly used in various contexts, such as expressing one's opinion or conviction about a particular matter."
+  "context": "The Finnish verb 'uskoa' is an active form meaning 'to believe', 'to trust', or 'to have faith in'. It's used when the subject performs the action of believing. This word belongs to a group of Finnish verbs that undergo consonant gradation (k changes to g) in certain forms - for example, 'uskon' (I believe) vs 'uskon' (we believe). The opposite would be 'ei usko' (does not believe)."
 }

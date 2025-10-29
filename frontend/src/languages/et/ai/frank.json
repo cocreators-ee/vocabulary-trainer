@@ -1,16 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oli ausalt öelda frank.",
-    "Frank rääkis talle kõik oma mured.",
-    "See on väga frank arvamus."
+    "Frank on mees nimega.",
+    "Tema nimi on Frank.",
+    "Frand oli seal."
   ],
   "translation": [
-    "honest",
-    "frank",
-    "open",
-    "candid"
+    "Frank",
+    "Frances"
   ],
-  "context": "The Estonian word 'frank' is similar in meaning to the English words 'honest', 'frank', 'open', or 'candid'. It describes someone who speaks truthfully and directly, without hiding their thoughts or feelings. It can also describe a statement that is straightforward and sincere."
+  "context": "Frank is a proper name used in Estonian as it is in English. It's typically the first name of a male person, derived from the Germanic name Franciscus meaning 'free' or 'Frenchman'. In Estonian contexts, Frank would refer to someone with that specific name."
 }

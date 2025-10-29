@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema silmadesse tõusis hirmu heledus.",
-    "Korrumpeerunud vald on täis tervise hirmu.",
-    "Häda ja hirmu kinnitasid taljuke.]}, {"
+    "Mul on suur hirmu.",
+    "Ta tunneb hirmu koera ees.",
+    "Lapsed peavad üles astuma oma hirmude eest."
   ],
   "translation": [
     "fear",
+    "dread",
+    "anxiety",
     "terror"
   ],
-  "context": "Hirmu is a noun derived from 'hirm' (fear/terror) and typically refers to the emotion of fear or terror. It can also be used metaphorically in contexts like 'kliima muutused põhjustavad hirmu' (climate changes cause fear)."
+  "context": "The word 'hirmu' is the genitive singular form of the Estonian noun 'hirm', which means fear or dread. In this case, it expresses possession or relationship to fear - 'of fear', 'belonging to fear'. It's commonly used in phrases where someone experiences or possesses fear. For example, 'mul on hirmu' means 'I have fear/I am afraid'. The genitive case in Estonian is used to express possession, relationship, and often the direct object of certain verbs."
 }

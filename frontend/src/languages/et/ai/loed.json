@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma loen raamatut.",
-    "Sa loed ilmselt valesti.",
-    "Ta loeb meile ette."
+    "Loed sa seda raamatut?",
+    "Ma ei loe praegu midagi.",
+    "Ta loeb tihti õhtuti."
   ],
   "translation": [
-    "read",
-    "reads"
+    "read"
   ],
-  "context": "The word 'loed' is the second person singular form of the verb 'loema', which means to read in English. It is commonly used in sentences where the subject is the person being addressed, similar to 'you read' in English."
+  "context": "The word 'loed' is the second-person singular form of the Estonian verb 'loema', which means 'to read'. It specifically translates to 'you read' in English. This form is used when addressing one person informally (singular) and asking or stating what they are reading."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegi rünnaku vastu vaenlasele.",
-    "Rünnakud linnale olid tõsised.",
-    "Rünnaku tulemus oli katastrofe."
+    "Vastane alustas rünnaku.",
+    "Meil oli edukas rünnak vastase positsioonidele.",
+    "Sõdurid valmistusid järgmiseks rünnakuks."
   ],
   "translation": [
     "attack",
-    "assault"
+    "assault",
+    "raid"
   ],
-  "context": "The word rünnaku is commonly used in Estonian to refer to a sudden and violent attack, often in a military or aggressive context."
+  "context": "The word 'rünnaku' is the partitive case form of the Estonian noun 'rünnak', which means 'attack'. In this partitive form, it would typically be used in contexts where we're talking about an attack as a general concept, or when referring to some aspect of an attack. For example: 'Vastane alustas rünnaku' (The enemy started the attack), where we're talking about the beginning phase of an attack."
 }

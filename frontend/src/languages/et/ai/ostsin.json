@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ostsing eile uue telefoni.",
-    "Ta ostis mulle kingituse.",
-    "Me ostsin koos selle raamatukogu juurde."
+    "Otsin uut raamatust ostsin.",
+    "Ma olen eile ostsin kingituse.",
+    "Ta ostsin magamistoast kaks tooli."
   ],
   "translation": [
-    "I bought",
-    "bought"
+    "bought",
+    "purchased",
+    "acquired"
   ],
-  "context": "The word 'ostsin' is the first person singular past tense form of the Estonian verb 'ostma', which means to buy something. It is commonly used in everyday conversations when talking about purchasing or acquiring something."
+  "context": "The word 'ostsin' is the first-person singular past tense form of the Estonian verb 'ostma', which means 'to buy'. It is used when someone has bought or purchased something in the past. The word follows standard Estonian conjugation patterns, where '-in' is added to the stem for the first person singular past tense."
 }

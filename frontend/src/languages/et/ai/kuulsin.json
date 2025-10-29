@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin seda jutustikust.",
-    "Ta kuulis mind ja tuli mulle appi.",
-    "Kuulsin, et see on hea film."
+    "Ma kuulsin häält eile.",
+    "Tüdrukud kuulsisid muusikat.",
+    "Me kuulsime uudiseid raadiost."
   ],
   "translation": [
-    "heard",
-    "listened"
+    "I heard",
+    "she/they heard",
+    "we heard"
   ],
-  "context": "The word 'kuulsin' is the first person singular past tense form of the verb 'kuulma', which means to hear or listen in English. It is commonly used in sentences where the speaker wants to express that they have heard something, whether it be a piece of news, a sound, or someone speaking."
+  "context": "The Estonian word 'kuulsin' is the first person singular past tense form of the verb 'kuulama', which means 'to hear'. It specifically translates to 'I heard' in English. This form is used when the speaker (first person) is talking about hearing something in the past."
 }

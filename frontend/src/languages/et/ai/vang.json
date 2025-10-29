@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on vang",
-    "Vang oli sunnitud tööle",
-    "Vangid said vabaks"
+    "Vang istus vanglas ja mõtles oma teekonnast.",
+    "Tal oli vana vang, kes oli juba 20 aastat sunnitud olema seal.",
+    "Politsei võttis kinni kolm vangi."
   ],
   "translation": [
     "prisoner",
-    "captive"
+    "convict",
+    "inmate"
   ],
-  "context": "The word 'vang' in Estonian generally refers to a person who is being held in captivity or confinement, often as a result of criminal activity or war."
+  "context": "The Estonian word 'vang' means prisoner or convict. It refers to someone who is confined in prison as a punishment for a crime. The word can be used to describe both male and female prisoners, though there may be specific terms for gender distinctions depending on context. In the given examples, it appears in singular form (vang) but would have different endings in other cases or plural forms."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on surnud",
-    "Surnud inimesed ei või rääkida",
-    "Meile teatasid surnud"
+    "Ta on surnud.",
+    "Loom on juba surnud.",
+    "Surnud inimesi ei tohi hävitada."
   ],
   "translation": [
-    "died",
+    "dead",
     "deceased",
-    "dead"
+    "passed away"
   ],
-  "context": "The word 'surnud' is an Estonian adjective that means 'dead' or 'deceased', often used to describe someone who has passed away."
+  "context": "The word 'surnud' is the past participle form of the Estonian verb 'surema' meaning 'to die'. It's used to describe something that has died or is dead. In Estonian grammar, this would be considered a passive form (past tense) indicating a completed action - someone or something has undergone the process of dying."
 }

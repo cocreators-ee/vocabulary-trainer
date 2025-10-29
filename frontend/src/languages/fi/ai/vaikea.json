@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hänellä on vaikea luonne",
-    "Vaikeat ajat ovat takana",
-    "Tämä on vaikea tehtävä"
+    "Tämä tehtävä on vaikea.",
+    "Hänellä on vaikea päätös tehdä.",
+    "Minusta matematiikka oli aluksi hyvin vaikeaa."
   ],
   "translation": [
     "difficult",
     "hard",
-    "tough"
+    "challenging"
   ],
-  "context": "The word 'vaikea' in Finnish means something that is difficult or hard to do, and it is commonly used to describe challenging situations or tasks."
+  "context": "The Finnish word 'vaikea' is an adjective that means 'difficult', 'hard', or 'challenging'. It's used to describe tasks, situations, decisions, or subjects that require significant effort, skill, or determination to accomplish. The word changes form depending on the case and number in Finnish grammar - it appears as 'vaikea' in nominative singular, 'vaikeaa' in partitive singular (as seen in the third example), and would have other forms like 'vaikea' in nominative plural or 'vaikean' in genitive singular."
 }

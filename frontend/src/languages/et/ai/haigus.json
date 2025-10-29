@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta haigus ei olnud eriti raske",
-    "Haiguse tõttu pidin jääma koju",
-    "Haigus on selle haigla põhiline spetsialiseerumine"
+    "Haigus on halb seisund.",
+    "Tal oli gripi haigus.",
+    "Kõik need haigused võivad olla ohtlikud."
   ],
   "translation": [
-    "disease",
     "illness",
+    "disease",
     "sickness"
   ],
-  "context": "The word 'haigus' in Estonian refers to a disease or illness, and it is commonly used in medical contexts to describe a person's condition or a specific health disorder."
+  "context": "The Estonian word 'haigus' is a noun that means illness, disease or sickness. It typically refers to a physical or mental condition that causes health problems and requires medical attention. The word can be used in various contexts, from common colds to more serious diseases. In Estonian grammar, it's a regular noun and may appear in different cases depending on its function in the sentence."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen sinna",
-    "Ta on juba sinna jõudnud",
-    "Kas sa tahad sinna minna?"
+    "Minu sõit sinna võtab kaks tundi.",
+    "Ta läks sinna eelmisel nädalavahetusel.",
+    "Kas sa lähed meiega sinna?"
   ],
   "translation": [
-    "there",
-    "to that place"
+    "there (directional)",
+    "to that place",
+    "thither"
   ],
-  "context": "The word 'sinna' is used in Estonian to indicate a direction or location, often translated to English as 'there' or 'to that place', and it is commonly used in sentences to refer to a specific place or destination."
+  "context": "The Estonian word 'sinna' is an adverb that indicates movement toward or direction to a specific location, typically one that is distant from both the speaker and listener. It functions similarly to English 'there' when indicating direction rather than position, but more specifically means 'to that place' or 'thither'. This directional contrast with 'siia' (here/to here) shows its role in spatial reference. It's commonly used when referring to places previously mentioned or known from context."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlen talle, et ta öelda seda ei tohi.",
-    "Ta öeldakse olevat haige.",
-    "Öelda tõtt on hea."
+    "Ma ei tea, mida öelda.",
+    "Ta ütles mulle midagi head.",
+    "Me peame öelda talle tõde."
   ],
   "translation": [
     "to say",
-    "to tell"
+    "to tell",
+    "to speak"
   ],
-  "context": "The word \"öelda\" is a verb in Estonian that means to say or to tell something. It is commonly used in various contexts, such as expressing opinions, conveying messages, or simply stating facts."
+  "context": "The Estonian word 'öelda' is the infinitive form of a verb meaning to say, to tell, or to speak. It's commonly used when reporting what someone has said or when expressing that you need to say something specific."
 }

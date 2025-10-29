@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma valetasin talle oma nime.",
-    "Ta valetasin mulle, et ta on rikas.",
-    "Ära valeta mind!"
+    "Ma valetasin sulle eile.",
+    "Ta valetasin alati tõde.",
+    "Meie laps valetasin koolis."
   ],
   "translation": [
-    "I lied to him my name.",
-    "He lied to me that he is rich.",
-    "Don't lie to me!"
+    "I lied",
+    "he/she lied",
+    "the child lied"
   ],
-  "context": "The verb 'valetama' in Estonian means 'to lie'. 'Valetasin' is the first-person singular past tense, translating to 'I lied'. It’s commonly used when describing a false statement made intentionally."
+  "context": "The word 'valetasin' is the first person singular past tense form of the Estonian verb 'valema', which means 'to lie'. It specifically translates to 'I lied' in English. The '-sin' suffix indicates the first person singular (I) in past tense, while the root 'valeta-' comes from the verb meaning to tell falsehoods or not speak truthfully."
 }

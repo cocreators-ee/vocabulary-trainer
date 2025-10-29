@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vauva nukkuu.",
-    "Vauvat tarvitsevat paljon huomiota.",
-    "Hän on odottanut vauvaa jo monta kuukautta."
+    "Minulla on pieni vauva kotona.",
+    "Vauva nukkui pitkään tänä aamuna.",
+    "Millainen vauva sinulla on?"
   ],
   "translation": [
     "baby",
-    "infant"
+    "infant",
+    "newborn"
   ],
-  "context": "The word 'vauva' refers to a human baby, especially one newly or recently born, and is commonly used in Finnish to talk about babies or young children."
+  "context": "The Finnish word 'vauva' means baby or infant. It is commonly used to refer to young children, typically from birth up to about one year old. The word can be used in various contexts such as talking about a baby's needs, behavior, or characteristics."
 }

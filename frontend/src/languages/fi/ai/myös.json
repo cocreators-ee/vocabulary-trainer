@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä myös menen kauppaan.",
-    "Hän on myös opettaja.",
-    "He myös tulevat illalla."
+    "Minä myös tulen huomenna.",
+    "Hän myös haluaa mukaan.",
+    "Myös sinun pitäisi osallistua."
   ],
   "translation": [
     "also",
-    "too"
+    "too",
+    "as well"
   ],
-  "context": "The word myös is used to indicate that something is added to something else, similar to the English words 'also' or 'too'. It is commonly used in sentences to show that the speaker is including themselves or someone else in an action or statement."
+  "context": "The Finnish word 'myös' is an adverb that functions similarly to the English words 'also', 'too', or 'as well'. It's used to add additional information or indicate that something applies in addition to what has already been mentioned. In Finnish sentence structure, it typically appears after the verb but can sometimes be positioned at the beginning of a clause for emphasis."
 }

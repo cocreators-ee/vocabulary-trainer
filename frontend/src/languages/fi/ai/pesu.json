@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on pestava auto",
-    "Hän pesi vaatteensa",
-    "Vaatteet ovat vielä pesemättä"
+    "Minun täytyy tehdä pesu ennen lähtöä.",
+    "Pesu kone on rikki.",
+    "Hän osti uuden pesuaineen."
   ],
   "translation": [
-    "wash",
+    "washing",
     "laundry",
     "cleaning"
   ],
-  "context": "The word 'pesu' in Finnish generally refers to the act of washing or cleaning something, and it can be used in various contexts such as washing clothes, a car, or any other object."
+  "context": "The Finnish word 'pesu' is a noun that refers to the act of washing or cleaning. It can be used in various contexts such as laundry (pesukone = washing machine), general cleaning activities, or the process of washing something. The word comes from the verb pestä (to wash) and is commonly used in everyday Finnish language."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võitis paadi roolijana sada kilomeetrit pika maratoni.",
-    "Paadisõit on populaarne tegevus suvekuudel.",
-    "Meie paat oli liiga väike, et ööaeda jahti pidada."
+    "Paat on veekogul liikumiseks mõeldud sõiduk.",
+    "Me ostasime uue paadi.",
+    "Laev ja paat erinevad suuruse poolest."
   ],
   "translation": [
     "boat",
-    "ship"
+    "small vessel"
   ],
-  "context": "The word 'paat' in Estonian generally refers to a boat or ship, and is commonly used when talking about water transportation or activities related to sailing."
+  "context": "The Estonian word 'paat' refers to a boat, specifically a small watercraft used for transportation on water. It's commonly used to describe various types of boats ranging from rowboats to motorboats. The word is in the nominative singular form and would change its ending depending on case and number (e.g., paadi - genitive singular, paadid - nominative plural)."
 }

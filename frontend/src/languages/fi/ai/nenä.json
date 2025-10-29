@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun nenäni on kuuma",
-    "Hänellä on suuri nenä",
-    "Nenäni vuotaa"
+    "Minulla on kipeä nenä.",
+    "Suihkun vettä nenääni.",
+    "Hän pyyhkii nenäänsä liinalla."
   ],
   "translation": [
-    "nose"
+    "nose",
+    "snout"
   ],
-  "context": "The word nenä refers to the nose, which is a part of the human face used for breathing and smelling."
+  "context": "The Finnish word 'nenä' means 'nose'. It is a common noun referring to the facial feature. In Finnish, it belongs to the weak declension group and follows vowel harmony rules. The basic form is nenä, but in different cases it changes - for example: genitive nenän ('of the nose'), partitive nenää ('some nose'), illative neneen ('into the nose')."
 }

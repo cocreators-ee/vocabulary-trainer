@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võltsis mind oma jutuga.",
-    "Võltsimine on väga halb komme.",
-    "Ma ei võltsi kunagi."
+    "See on võlts allkiri.",
+    "Ta teeb võltsid dokumente.",
+    "Mul oli võltsidentiteet."
   ],
   "translation": [
-    "deceive",
-    "cheat",
-    "dupe"
+    "fake",
+    "forged",
+    "counterfeit"
   ],
-  "context": "The word võlts means to deceive or cheat someone, often in a clever or dishonest way, and it is commonly used in Estonian to describe situations where someone is being misled or lied to."
+  "context": "The word 'võlts' in Estonian means fake, forged or counterfeit. It is used to describe something that is not genuine but has been created to deceive or appear authentic. This can refer to signatures, documents, money, identities, or other items that have been faked rather than being the real thing."
 }

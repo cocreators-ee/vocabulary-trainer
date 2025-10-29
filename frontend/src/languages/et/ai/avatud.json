@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on avatud inimene.",
-    "See on avatud küsimus.",
-    "Avatud uksed vihjasid sellele, et see oli avalik koht."
+    "Uks on avatud.",
+    "Müügiks avatud majad alustasid uut aastat.",
+    "See oli avatud kõigile."
   ],
   "translation": [
     "open",
-    "public"
+    "opened"
   ],
-  "context": "The word 'avatud' in Estonian generally means something that is open or public, and it can be used to describe a person who is open-minded or a place that is accessible to everyone."
+  "context": "The Estonian word 'avatud' is the nominative singular form of an adjective meaning 'open'. It describes something that has been opened or is in an open state. In Estonian, adjectives change their endings based on case and number. The base form 'avatud' would typically be used to describe a masculine singular noun in the nominative case, but can also appear in other forms when declined for different cases or numbers."
 }

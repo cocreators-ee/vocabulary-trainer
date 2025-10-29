@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean salaja tema nime.",
-    "Ta tegi salaja koostööd politseiga.",
-    "Salaja otsustas ta sõita ära."
+    "Tegime seda salaja.",
+    "Ta külastas teda salaja öösel.",
+    "Salaja tegid nad koostööd."
   ],
   "translation": [
-    "in secret",
+    "secretly",
     "covertly",
-    "on the sly"
+    "stealthily",
+    "privately"
   ],
-  "context": "The word 'salaja' in Estonian means doing something secretly or covertly, often implying that the action is hidden from others or done without their knowledge or permission."
+  "context": "The Estonian word 'salaja' is an adverb that means secretly or covertly. It describes actions done in a concealed manner, without others knowing about them. The word comes from the root 'salane' which relates to secrecy and hiddenness. It modifies verbs to indicate that the action was performed privately, often implying there was a reason to keep it hidden."
 }

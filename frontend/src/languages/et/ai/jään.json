@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jään siia",
-    "Jään täna öösel kodu",
-    "Ta on jäätnud haigeks"
+    "Ma jään homme kooli.",
+    "Ta jäi kodu.",
+    "Meie jääme siin veidi kauem."
   ],
   "translation": [
-    "remain",
-    "stay",
-    "leave"
+    "I stay",
+    "he/she stays",
+    "we will stay"
   ],
-  "context": "The word 'jään' is a first person singular form of the verb 'jäma' which means to stay or remain in one place, it can also mean to leave something behind."
+  "context": "The word 'jään' is the first person singular present tense form of the Estonian verb 'jääma', which means 'to stay'. It can refer to remaining in a place or continuing an activity. The verb has different forms depending on the subject and tense - for example, 'ta jääb' (he/she stays) in third person singular present, and 'me jäame' (we will stay) in first person plural future tense."
 }

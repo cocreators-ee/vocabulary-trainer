@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen huvitatud sellest, mis seal toimub.",
-    "Ta on väga huvitatud teadusest.",
-    "Nemad on huvitatud ainult rahast."
+    "Ma olen huvitatud sellest teemast.",
+    "Kas sa oled huvitatud osalemisest?",
+    "Ta on väga huvitatud kunstist."
   ],
   "translation": [
     "interested",
-    "concerned"
+    "curious",
+    "keen"
   ],
-  "context": "The word 'huvitatud' is commonly used in Estonian to describe someone who is interested or concerned about something, and it can be translated to English as 'interested' or 'concerned' depending on the context of the sentence."
+  "context": "The Estonian word 'huvitatud' is the past participle form of the verb 'huvi tulla' (to become interested) and means 'interested'. It describes someone who has developed an interest or curiosity about something. The word can be used with various subjects (mina, sina, ta, meie, teie, nemad) to indicate different people being interested in something. In Estonian grammar, this form is commonly used as a predicate adjective after the verb 'olema' (to be)."
 }

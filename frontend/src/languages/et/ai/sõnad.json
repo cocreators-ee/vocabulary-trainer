@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta rääkis sõnade taga midagi muud.",
-    "Sõnad olid tema suus nagel.",
-    "Kõigepealt tuleb valida õiged sõnad."
+    "Sõnad on vajalikud suhtlemiseks.",
+    "Tema sõnad olid väga sügavad.",
+    "Kas sa kuuled need sõnad?"
   ],
   "translation": [
     "words",
-    "phrases"
+    "terms",
+    "speech"
   ],
-  "context": "The word 'sõnad' in Estonian generally refers to words or phrases that are used to convey meaning, often in the context of language or communication."
+  "context": "The word 'sõnad' is the plural form of the Estonian noun 'sõna', which means 'word'. In Estonian, the '-d' suffix at the end indicates that this is a plural noun. It refers to multiple words or terms used in communication and speech."
 }

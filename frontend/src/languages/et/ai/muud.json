@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen muud kui sina.",
-    "Muud asjad on olulised.",
-    "Ta on üks muud tüüpi inimene."
+    "See on muud asi kui see.",
+    "Tegemist on hoopis teise muud asjaga.",
+    "Muud ei saa olla."
   ],
   "translation": [
-    "other things",
-    "otherwise",
-    "something else"
+    "other",
+    "different",
+    "else"
   ],
-  "context": "The word 'muud' is used to indicate something that is different or other than what was previously mentioned, often used to contrast two ideas or to provide an alternative option."
+  "context": "The word 'muud' is the partitive singular form of the adjective 'muu', which means 'other' or 'different'. In Estonian, adjectives change their endings depending on case and number. 'Muud' specifically appears in the partitive singular case and is used when referring to something different from what was previously mentioned or expected. It's commonly used to contrast or distinguish between things."
 }

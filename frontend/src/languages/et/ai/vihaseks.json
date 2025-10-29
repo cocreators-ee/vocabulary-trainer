@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sai vihaseks",
-    "Ta on vihane",
-    "Vihaseks saamine on halb"
+    "Ta muutus äkitselt vihaseks.",
+    "Lapsed said tihti vihaseks mängu ajal.",
+    "Poisid teevad sageli vihaseks teisi lapsi."
   ],
   "translation": [
     "angry",
     "furious",
-    "enraged"
+    "irate"
   ],
-  "context": "The word vihaseks is an adjective in Estonian that means becoming angry or furious, and it is commonly used to describe a strong feeling of displeasure or hostility."
+  "context": "The word 'vihaseks' is the Estonian translative case form of 'vihas', meaning 'angry'. The '-eks' suffix indicates transformation or becoming something, so 'vihaseks' specifically means 'to become angry' or 'made angry'. It's used to describe someone who has turned into an angry state or been provoked to anger."
 }

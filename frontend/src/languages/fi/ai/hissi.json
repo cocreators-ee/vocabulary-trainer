@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hissi kuljetti meidät ylös talon katolle.",
-    "Olemme menossa hissillä alas.",
-    "Talon hissitoiminta oli katkonainen."
+    "Hissi on rakennuksen hissi.",
+    "Mene hissillä neljänteen kerrokseen.",
+    "Käytä hissiä liikkuessasi."
   ],
   "translation": [
     "elevator",
     "lift"
   ],
-  "context": "The word 'hissi' refers to a device used for moving people or goods between floors in a building, commonly found in multi-story structures."
+  "context": "The Finnish word 'hissi' is a noun that refers to an elevator or lift, which is a mechanical device used for vertically transporting people or goods between floors of a building. In Finnish, it's a common term used in everyday language when giving directions or describing buildings with multiple stories."
 }

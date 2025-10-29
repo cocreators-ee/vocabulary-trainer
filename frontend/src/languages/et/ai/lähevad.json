@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähevad koju",
-    "Nemad lähevad kinno",
-    "Meie lähevad ära"
+    "Lapsed lähevad kooli.",
+    "Töötajad lähevad puhkusele.",
+    "Mehed lähevad tööle."
   ],
   "translation": [
-    "are going",
     "go",
-    "will go"
+    "are going"
   ],
-  "context": "The word lähevad is the third person plural form of the verb lähen, which means to go. It is commonly used in Estonian to describe the action of moving from one place to another."
+  "context": "The word 'lähevad' is the 3rd person plural present indicative form of the Estonian verb 'minema', which means 'to go'. It indicates that a group of people or entities are in the process of moving from one place to another. This verb form follows standard Estonian conjugation patterns for regular verbs ending with '-ma'."
 }

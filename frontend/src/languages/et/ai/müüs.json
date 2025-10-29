@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta müüs auto ära.",
-    "Müüs kõik oma asjad poisile.",
-    "Minu naine on hea müüja."
+    "Müisin oma auto.",
+    "Ta müis maja.",
+    "Mead müidakse odavamalt."
   ],
   "translation": [
     "sold",
-    "seller"
+    "sells"
   ],
-  "context": "The word 'müís' in Estonian can be translated to English as 'sold' or 'seller'. It is commonly used to describe the action of selling something, like a seller at a store, or when someone has sold an item."
+  "context": "The word 'müüs' is the past tense form of the verb 'müüma', which means 'to sell'. It indicates that an action of selling has already been completed. This third-person singular past form would translate to English as 'sold' or in some contexts could relate to 'sells' depending on context, though primarily it's the simple past tense."
 }

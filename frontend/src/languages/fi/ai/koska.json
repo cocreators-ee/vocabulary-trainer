@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Koska hän on sairas, hän ei voi tulla kouluun.",
-    "Emme voi mennä sinne koska se on liian kaukana.",
-    "Hän sanoo aina koska hän on väsynyt."
+    "Koska sataa, emme mene ulos.",
+    "Hän tuli koska hänen piti saada apua.",
+    "Tiedätkö koska tämä tapahtui?"
   ],
   "translation": [
     "because",
-    "since"
+    "since",
+    "as"
   ],
-  "context": "The word 'koska' in Finnish is used to indicate a reason or explanation for something, and it is commonly translated to English as 'because' or 'since'."
+  "context": "The Finnish word 'koska' is a conjunction that functions as a subordinating conjunction to indicate cause or reason. It introduces subordinate clauses that explain why something happened or provide the reason for an action. It corresponds to English words like 'because', 'since', and 'as'. In Finnish grammar, it connects independent clauses with dependent clauses showing causality."
 }

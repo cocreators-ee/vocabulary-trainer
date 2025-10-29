@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Se tarkoitti paljon minulle",
-    "Hän tarkoitti sitä tosissaan",
-    "Tarkoittiko hän sitä vakavasti?"
+    "Minä tarkoitin jotain muuta.",
+    "Hän tarkoitti asiaa vakavasti.",
+    "Mitä hän oikeastaan tarkoitti?"
   ],
   "translation": [
     "meant",
-    "intended"
+    "intended",
+    "signified"
   ],
-  "context": "The word 'tarkoitti' is the past tense of the Finnish verb 'tarkoittaa', which means to mean or intend something, and it is commonly used in sentences to describe what someone meant or intended to do or say."
+  "context": "The Finnish word 'tarkoitti' is the past tense third person singular form of the verb 'tarkoittaa', which means 'to mean' or 'to intend'. It's commonly used when referring to what someone said, meant, or intended in the past. The verb can be conjugated into different forms depending on the subject and tense."
 }

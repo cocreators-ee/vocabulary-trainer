@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jätan selle ülesande täna ära.",
-    "Ta otsustas jätka tööd homme.",
-    "Jätkame koos uue projektiga."
+    "Jätka tööd!",
+    "Me jätame homseks.",
+    "Kas sa jätad mind?"
   ],
   "translation": [
     "continue",
-    "carry on"
+    "keep going",
+    "leave behind",
+    "abandon"
   ],
-  "context": "The word 'jätka' is commonly used in Estonian to mean continuing or carrying on with an activity or task, similar to the English words 'continue' or 'carry on'."
+  "context": "The word 'jätka' is the imperative form of the Estonian verb 'jätkama', which means 'to continue' or 'to keep doing something'. It can also have the meaning of leaving something or someone behind, as in abandoning or deserting. As an imperative command, it's used to tell someone to continue their action or behavior."
 }

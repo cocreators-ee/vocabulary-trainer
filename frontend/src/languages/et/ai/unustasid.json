@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kui sa unustasid oma koduõiguse eksami, siis peaksid selle korduma läbima.",
-    "Mina unustasin, et vahetult enne uusi valimisi peaks valitsus otseselt vastutama.",
-    "Ta ei mäletanud isegi, et ta unustas oma kodu võtme."
+    "Unustasin meelestama.",
+    "Te unustasite võtmed autole.",
+    "Meie unustasime kohtumise."
   ],
   "translation": [
     "forgot",
-    "forgotten"
+    "have forgotten"
   ],
-  "context": "'unustasid' means 'you forgot' or 'have forgotten' in Estonian. It's used to describe when someone no longer remembers something they were supposed to remember, like forgetting an appointment, a task, or information learned previously."
+  "context": "The word 'unustasid' is the second person plural past tense form of the Estonian verb 'unustama', which means 'to forget'. It specifically refers to a group of people (you all) who forgot something in the past. The root verb 'unustama' can be conjugated for different persons and tenses: unustan (I forget), unustad (you singular forget), unustas (he/she/it forgot), etc."
 }

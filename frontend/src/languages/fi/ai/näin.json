@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä sanoin näin",
-    "Hän sanoi näin",
-    "Heillä on tapana sanoa näin"
+    "Näin elokuvan eilen.",
+    "Hän näin kauniita maisemia.",
+    "Olemme nähneet tämän jo monta kertaa."
   ],
   "translation": [
-    "so",
-    "thus",
-    "this way"
+    "I saw",
+    "he/she saw",
+    "we have seen"
   ],
-  "context": "The word näin is commonly used in Finnish to indicate a manner or method, and it can be translated to English as 'so', 'thus', or 'this way', depending on the context."
+  "context": "The word 'näin' is the first person singular past tense form of the Finnish verb 'nägä-' meaning 'to see'. It specifically means 'I saw' and is used when the speaker is referring to their own action in the past. In Finnish, verbs conjugate based on person (1st, 2nd, 3rd) and number (singular/plural). The word 'näin' belongs to a group of consonant-stem verbs that undergo specific changes in different tenses."
 }

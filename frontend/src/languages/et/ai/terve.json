@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tere teanu!",
-    "Tere, mis sul on uut?",
-    "Palun öel tere emale."
+    "Tere hommikust!",
+    "Tere õhtu!",
+    "Tere päevast!"
   ],
   "translation": [
-    "hello"
+    "hello",
+    "greetings",
+    "hi"
   ],
-  "context": "A common greeting used when meeting someone or starting a conversation."
+  "context": "The word 'terve' in Estonian is an interjection used for greetings. It's similar to saying 'hello' or 'hi' in English. The word can be followed by the time of day (hommikust = morning, õhtu = evening, päevast = daytime) to specify when you're greeting someone. While it literally means 'whole' or 'healthy', as a greeting it functions much like 'hello' does in English."
 }

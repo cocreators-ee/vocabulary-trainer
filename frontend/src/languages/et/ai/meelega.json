@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma teen seda meeleega.",
-    "Ta vastas meeleaga.",
-    "Nende abi oli meeleaga."
+    "Tule meiega teatrisse.",
+    "Lahendus leiti meelega.",
+    "Ta tegi töö alati meelega."
   ],
   "translation": [
-    "with pleasure",
-    "gladly",
-    "willingly"
+    "willingly",
+    "voluntarily",
+    "happily"
   ],
-  "context": "The word 'meelega' in Estonian means doing something with pleasure or gladly, and it is commonly used in polite responses to express willingness or agreement."
+  "context": "The Estonian word 'meelega' is an adverb that indicates willingness, voluntary action, or happiness in doing something. It's formed from the noun 'meel' (mind/will) with the '-ga' suffix meaning 'with', so literally it means 'with will/mind'. The word expresses that someone does something willingly and cheerfully rather than being forced to do it."
 }

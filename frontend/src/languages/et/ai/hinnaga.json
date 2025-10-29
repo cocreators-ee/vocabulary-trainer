@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maja müüakse hinnaga 200 000 eurot.",
-    "Ta ostis selle hinnaga 500 euros.",
-    "Hinnaga ei olnud võimalik ühitada."
+    "Müük hinnaga",
+    "Kasutage seda toodet hinnaga 10 eurot.",
+    "Toodete hind on kõrge hinnaga."
   ],
   "translation": [
-    "with the price",
-    "at a price"
+    "with price",
+    "priced at",
+    "with cost"
   ],
-  "context": "The word 'hinnaga' is used in Estonian to indicate that something is being done at a certain price or value, often in the context of buying or selling something."
+  "context": "The Estonian word 'hinnaga' is the adessive case form of 'hinna', which means 'price'. The '-ga' suffix indicates 'with' or 'having', so 'hinnaga' translates to 'with price' or 'priced at'. It's used to indicate that something has a certain price or cost associated with it."
 }

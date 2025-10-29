@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma teeksin sulle hea meelega kooki.",
-    "Kas sa teeksid mulle selle teenuse?",
-    "Ta teeks seda tööd paremini kui sina."
+    "Kas teeksid mind palun tõsta?",
+    "Teeksid seda kiiresti.",
+    "Ma olen väga heaolu, et sa teedid need asjad."
   ],
   "translation": [
-    "would do",
-    "would make",
-    "to do"
+    "you would do",
+    "you would make",
+    "would you do"
   ],
-  "context": "The word 'teeksid' is a conditional form of the verb 'tegema', meaning 'to do' or 'to make'. It expresses what someone *would* do under certain circumstances. It’s commonly used to express willingness, offers, or hypothetical actions."
+  "context": "'teeksid' is the conditional form of the verb 'tegema' (to do/make) in Estonian. It's specifically the second person singular conditional form, equivalent to English 'you would do' or 'you would make'. This form is used when talking about hypothetical situations or polite requests. For example, it could be used in questions like 'Would you please...?' or statements about what someone might hypothetically do."
 }

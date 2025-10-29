@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on ettevaatlik inimene.",
-    "Ettevaatlikuks olemine on hea omadus.",
-    "Ettevaatlikult peaksid me seda ülesandet läbija tegema."
+    "Ta on väga ettevaatlik autojuht.",
+    "Pead olema ettevaatlik sellega kergesti süttiva vedelikuga.",
+    "Lapsed õpetatakse olema ettevaatlik liikluses."
   ],
   "translation": [
     "cautious",
-    "careful"
+    "careful",
+    "prudent",
+    "wary"
   ],
-  "context": "The word ettevaatlik is an adjective in Estonian that describes someone or something as being cautious or careful, often in a positive sense, implying a thoughtful and prudent approach to actions or decisions."
+  "context": "The Estonian word 'ettevaatlik' is an adjective that describes someone who is cautious, careful, or prudent in their actions. It implies being watchful and taking precautions to avoid danger or mistakes. The word comes from 'ettevõtma' (to venture/take action) with a negative suffix '-lik', suggesting someone who avoids unnecessary risks."
 }

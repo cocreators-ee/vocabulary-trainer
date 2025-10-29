@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lennuki pardal on palju reise",
-    "Ta ostis lennuki piletid",
-    "Lennukid lendasid kõrgel"
+    "Lennuk lendab taevasse.",
+    "Meie lennuk oli hilinenud.",
+    "Vaata seda suurt lennuki!"
   ],
   "translation": [
     "airplane",
-    "plane"
+    "plane",
+    "aircraft"
   ],
-  "context": "The word 'lennuki' is used to refer to an airplane or a plane in Estonian, it is commonly used when talking about traveling by air."
+  "context": "The word 'lennuki' is the partitive case form of 'lennuk', which means airplane or aircraft. In Estonian, the partitive case is often used when talking about objects in a general sense, or as objects of actions. It indicates an incomplete action or indefinite object."
 }

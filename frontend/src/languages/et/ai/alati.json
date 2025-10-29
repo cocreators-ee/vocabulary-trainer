@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kaotanud alati oma võtmed.",
-    "Ta on alati nii kiire.",
-    "Alati tuleb esimese kohale."
+    "Alati on hea meel näha sind.",
+    "Ta alati tuleb hilja.",
+    "Kas sa alati unustad võtmed?"
   ],
   "translation": [
     "always",
-    "every time"
+    "constantly",
+    "continuously",
+    "regularly"
   ],
-  "context": "The word 'alati' in Estonian means 'always' or 'every time', and it is used to describe something that happens regularly or consistently."
+  "context": "The Estonian word 'alati' is an adverb that means 'always' or 'constantly'. It is used to indicate that something happens all the time, continuously, or on every occasion. It's a common adverb in Estonian and can be placed at different positions in a sentence depending on emphasis."
 }

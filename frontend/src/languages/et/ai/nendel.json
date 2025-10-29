@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tegi kõik nendel, mida ta õnnitses.",
-    "Need vabadused on garanteeritud meie kodanikele nendel põhivabadustel põhinedvalt konstruktil.",
-    "Loomulikult ei pruugi see olla lihtne, kuid see on asjakohane nendel juhtudel."
+    "Nendel päevadel me ei saa tööd teha.",
+    "Mõtlen nendele inimestele kogu aega.",
+    "Need raamatud on nendel laudadel."
   ],
   "translation": [
-    "this/these"
+    "on those",
+    "at those",
+    "in those"
   ],
-  "context": "'nendel' is the locative plural form of 'see', which means 'this'. It refers to objects that are near both the speaker and listener in location or time."
+  "context": "The Estonian word 'nendel' is the adessive case plural form of the demonstrative pronoun 'need', which means 'those'. It functions as an inessive/adessive case marker indicating location or position at/in/on something. The '-l' ending indicates the adessive case, and it's used when referring to multiple things/people that are located at a particular place or when specifying the location where something occurs."
 }

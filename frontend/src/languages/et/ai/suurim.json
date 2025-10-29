@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin suurimat puude all",
-    "Suurim osa inimestest ei tea seda",
-    "See on suurim mure"
+    "See on suurim hoone linnas.",
+    "Kõige suurim asi, mida ma olen kunagi näinud.",
+    "Ta tegi suurima viga oma elus."
   ],
   "translation": [
     "largest",
-    "biggest",
-    "greatest"
+    "greatest",
+    "biggest"
   ],
-  "context": "The word suurim is a superlative form of the adjective suur, which means large or big in English. It is commonly used to describe something that has the most size, amount, or degree compared to others."
+  "context": "The word 'suurim' is the superlative form of the Estonian adjective 'suur' (big/large). It means the largest, greatest, or biggest in comparison to others. As a superlative, it indicates that something exceeds all others in size, importance, or degree. In Estonian, superlatives are formed by adding '-im' to the comparative base form."
 }

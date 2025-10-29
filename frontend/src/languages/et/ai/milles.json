@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Milles sa siin elad?",
-    "Teada, milles see probleem on.",
-    "Rohkem kui kahe aasta jooksul oli milles jääb jäänud."
+    "Milles sa elad?",
+    "Milles see asi seisneb?",
+    "Milles peame tähelepanu pörama?"
   ],
   "translation": [
+    "in what",
     "where",
-    "in which",
-    "at which"
+    "in which"
   ],
-  "context": "'Milles' is an Estonian word that translates to 'where', 'in which', or 'at which'. It is used in sentences to ask about a location or condition, similar to how 'where' might be used in English."
+  "context": "The Estonian word 'milles' is an interrogative pronoun in the inessive case (local case indicating location within something). It asks about location or position within a space or context, functioning similarly to English phrases like 'in what', 'where', or 'in which'. The word is formed by adding the inessive case ending '-s' to the interrogative pronoun 'milline' (what kind of/which), but when used for location questions it takes on the meaning of asking about place or context."
 }

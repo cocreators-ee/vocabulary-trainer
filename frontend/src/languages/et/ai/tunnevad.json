@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu sõbrad tunnevad imeliselt täna õhtul.",
-    "Ta tundub väga rahulik täna, kuid ma ei tea, kas ta tegelikult midagi tunneb.",
-    "Kui sa seda mõnda aega teed, saab see olla väga meeldiv tunne."
+    "Tunnevad head.",
+    "Tunneme head.",
+    "Tundub hea."
   ],
   "translation": [
     "feel",
-    "sense",
-    "perceive"
+    "seem",
+    "appear"
   ],
-  "context": "The word 'tunnevad' is the third person plural form of the verb 'tunda,' meaning to feel or sense something physically or emotionally. It is commonly used in everyday language when talking about physical sensations, emotions, and even abstract concepts like understanding."
+  "context": "The Estonian word 'tunnevad' is the 3rd person plural form of the verb 'tunne', which means 'to feel' or 'to seem'. In this form, it's used when talking about multiple people feeling something or when things seem a certain way. For example, 'Tunnevad head' would mean '[They] feel good/well'. The word can be used both to express physical/emotional feelings and for how things appear or seem to be."
 }

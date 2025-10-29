@@ -1,11 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän lisäsii ruokaa lautaselle."
+    "Minun täytyy lisätä tähän tiedosto.",
+    "Voisitko lisätä uuden rivin?",
+    "Hän on aina halunnut lisätä kokoelmaansa."
   ],
   "translation": [
-    "He added food onto the plate."
+    "to add",
+    "to increase",
+    "to supplement"
   ],
-  "context": "'Lisätä' means to add something to a collection, quantity, or location. It is commonly used in everyday situations when adding items or increasing amounts."
+  "context": "The Finnish verb 'lisätä' means to add, increase, or supplement something. It's commonly used when referring to adding items to collections, increasing quantities, or including additional information. The word is in its basic infinitive form, and it would change form based on tense, person, and number in actual usage."
 }

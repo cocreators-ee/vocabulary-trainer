@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma panin pildi seinale.",
-    "Pildid on väga ilusad.",
-    "Ta tegi pildi oma lapsest."
+    "Pildi kvaliteet on hea.",
+    "Tegin pildi sellest vaatest.",
+    "Meil oli väga tore pidi."
   ],
   "translation": [
     "picture",
     "image"
   ],
-  "context": "The word 'pildi' is the genitive form of the Estonian word 'pilt', which means picture or image. It is commonly used in various contexts, such as describing a photograph, painting, or other visual representation."
+  "context": "The word 'pildi' is the partitive case form of the Estonian noun 'pilt', which means 'picture' or 'image'. In this case, it's used when referring to a picture in an incomplete or indefinite sense. For example, 'Tegin pildi sellest vaatest' means 'I made a picture of this view.'"
 }

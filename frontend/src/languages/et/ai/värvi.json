@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea värvi.",
-    "Värvilahenduseks kasutati punast värvi.",
-    "Toon on natüürilisest värivist tumedam."
+    "Ma värvin seinad valgeks.",
+    "Ta värvis oma juuksed punaseks.",
+    "Me värvime maja kevadel."
   ],
   "translation": [
-    "color",
-    "hue",
-    "tint"
+    "paint (verb)",
+    "dye (verb)",
+    "color (verb)"
   ],
-  "context": "The word 'värvi' in Estonian refers to a color or hue, and is commonly used to describe the shade or tone of something."
+  "context": "The Estonian word 'värvi' is the 2nd person singular present tense form of the verb 'värvida', meaning to paint, dye, or color something. It's used when addressing someone directly and telling them to perform the action of applying color to something."
 }

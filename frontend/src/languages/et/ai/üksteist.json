@@ -1,14 +1,13 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma usun, et nad on uksteist.",
-    "Uksteist ei tohi üksteise olla.",
-    "Kas sa uslid, et nad ei suhtle üksteisega?"
+    "Üksteist on tähtis number.",
+    "Mul on üksteist sõpra.",
+    "Arvame kuni üksteiseni."
   ],
   "translation": [
-    "one another",
-    "each other"
+    "eleven",
+    "the number eleven"
   ],
-  "context": "The word 'üksteist' is used in Estonian to denote reciprocal actions or relationships between two or more people, similar to the English phrases 'one another' and 'each other'. It is commonly used in sentences where mutual interaction is implied."
+  "context": "Üksteist is the Estonian word for the number 11. It's a numeral used to indicate quantity or position in counting. In Estonian, like many languages, numbers have specific forms and 'üksteist' is the standard form for eleven."
 }

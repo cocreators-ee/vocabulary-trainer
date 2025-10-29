@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tõeliselt armastan seda filmi",
-    "Ta võttis mind tõeliselt ausalt",
-    "Tõeliselt hea sõber on haruldane"
+    "Tõeliselt hea päev täna!",
+    "Ta rääkis tõeliselt veidi aega.",
+    "See on tõeliselt oluline küsimus."
   ],
   "translation": [
     "really",
     "truly",
-    "genuinely"
+    "genuinely",
+    "actually"
   ],
-  "context": "The word 'tõeliselt' is an adverb in Estonian that means really or truly, and it is used to emphasize the genuineness of something."
+  "context": "The Estonian adverb 'tõeliselt' is used to emphasize the truthfulness, genuineness, or reality of something. It intensifies statements and indicates that what follows should be taken as completely true or genuine. The word comes from 'tõeline' (true/genuine) with the '-lt' suffix forming an adverb."
 }

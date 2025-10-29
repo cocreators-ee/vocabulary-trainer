@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Oled sa leidsinud oma eeltähtaegse lapselooma?",
-    "Ta leidsid end naabruses väga hästi.",
-    "Mina kindlasti ei ole midagi sellist leidsinud."
+    "Leidsid oma nõelad?",
+    "Me leidsime varjupaiga vihmast.",
+    "Kas sa leidsid selle raamatu?"
   ],
   "translation": [
     "found",
-    "have found",
-    "did find"
+    "discovered"
   ],
-  "context": "Leida means to find. Leidsid is the past tense form of this verb and can mean 'you found', 'he found' or 'she found'. It's commonly used in situations where someone discovers something, like finding an item that was lost."
+  "context": "The word 'leidsid' is the past tense plural form of the Estonian verb 'leidma', which means 'to find'. In this form, it means 'you all found' or 'they found', depending on context. The '-sid' ending indicates past tense for plural subjects."
 }

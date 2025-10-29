@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä ostan uuden puhelimen.",
-    "Hän osti autoaan huutokaupassa.",
-    "He ostavat usein ruokansa torilta."
+    "Minä ostan leivän kaupasta.",
+    "Me olemme ostaneet talon.",
+    "Sinun täytyy ostaa lippu ennen matkaa."
   ],
   "translation": [
-    "buy",
-    "purchase"
+    "to buy",
+    "purchase",
+    "acquire"
   ],
-  "context": "The word 'ostaa' in Finnish means to buy or purchase something, and it is commonly used in everyday conversations when talking about acquiring goods or services."
+  "context": "The Finnish word 'ostaa' is an infinitive verb meaning 'to buy'. It's the basic form of the verb from which all other conjugations are formed. In different contexts, it can be used for purchasing items, services, or even abstract concepts. The verb follows regular conjugation patterns in present tense: ostin (I bought), ostat (you bought), osti (he/she/it bought), ostimme (we bought), ostitte (you plural bought), ostivat (they bought). In past tense, the perfect form uses the auxiliary verb 'olla' (to be) with the past participle 'ostanut'."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta käskis mind lahkuda.",
-    "Emme saanud aru, mida ta käskis.",
-    "Politseinik käskis meid peatuda."
+    "Käskisin talu kõik toad pesta.",
+    "Ta käskis mul minema koju.",
+    "Ema käskis lastel magada varakult."
   ],
   "translation": [
-    "would order",
-    "would tell",
-    "would command"
+    "ordered",
+    "commanded",
+    "instructed"
   ],
-  "context": "The verb 'käskis' is the past tense of the verb 'käskima', which means 'to order', 'to command', or 'to tell someone to do something'. It implies a degree of authority or expectation of obedience."
+  "context": "The word 'käskis' is the past tense third person singular form of the verb 'käskima', which means to order, command or instruct. It indicates that someone gave an instruction or directive in the past."
 }

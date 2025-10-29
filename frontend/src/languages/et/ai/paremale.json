@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pöörin paremale.",
-    "Ta läks paremale.",
-    "Pööra paremale!"
+    "Tule paremale!",
+    "Auto sõidab paremale.",
+    "Paremalt tuleb buss."
   ],
   "translation": [
     "to the right",
-    "rightwards"
+    "rightward",
+    "on the right"
   ],
-  "context": "The word 'paremale' is a Estonian adverb that means moving or directed to the right side, it can be used in various contexts such as giving directions."
+  "context": "In Estonian, 'paremale' is an adverb that indicates direction or location to the right. It's formed from the root word 'parem' (meaning 'better' or 'right') with the directional suffix '-le'. This word commonly appears when giving directions, describing movement, or indicating position relative to the right side."
 }

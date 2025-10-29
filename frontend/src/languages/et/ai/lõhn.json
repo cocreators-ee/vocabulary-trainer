@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tundis lõhna.",
-    "Lõhn oli väga meeldiv.",
-    "Tema juuksed lõhnasid nagu roosid."
+    "Lõhn meie toas oli väga meeldiv.",
+    "See lõhn tõi meelde lapsepõlve.",
+    "Lõhnad olid nii tugevad, et mu pea hakkab valu."
   ],
   "translation": [
     "smell",
     "scent",
-    "odor"
+    "odor",
+    "fragrance",
+    "aroma"
   ],
-  "context": "The word 'lõhn' in Estonian refers to a smell or scent, and it is commonly used to describe the sensation of smelling something, whether it is pleasant or unpleasant."
+  "context": "The Estonian word 'lõhn' is a noun that refers to a smell or scent. It can be used for pleasant smells (like fragrances) as well as unpleasant ones (like odors). The word doesn't change form in these examples, but in Estonian grammar it would decline depending on its role in the sentence - nominative case shown here, with plural form 'lõhnad' meaning 'smells'. It's a common everyday word used to describe various olfactory experiences."
 }

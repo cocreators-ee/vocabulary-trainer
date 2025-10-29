@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen selles olukorras, et mul on väga palju tööd.",
-    "Ta oli raskes olukorras, kuid ta sai üle.",
-    "See ei ole hea olukorras olla."
+    "Ta on heas olukorras.",
+    "Mees oli raske olukorras pärast õnnetust.",
+    "Lapsed olid heades olukordades."
   ],
   "translation": [
-    "in this situation",
-    "under these circumstances"
+    "in good condition",
+    "in a difficult situation",
+    "well-off"
   ],
-  "context": "The word 'olukorras' is used in Estonian to describe a situation or circumstance, and it is commonly used to provide context for an action or decision."
+  "context": "The Estonian word 'olukorras' is an adessive case form of the noun 'olukord' meaning 'situation' or 'condition'. The '-s' ending indicates the location/position (adessive case). It's used to describe being in a particular state, condition, or situation. For example, 'heas olukorras' means 'in good condition', while 'raske olukorras' means 'in a difficult situation'. The word can be modified with adjectives to specify the type of situation - 'heades olukordades' (plural) means 'in good situations/conditions'."
 }

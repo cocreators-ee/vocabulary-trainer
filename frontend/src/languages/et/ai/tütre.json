@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tüdruk on ilus.",
-    "Ta on minu tütar.",
-    "Tütred käisid koos."
+    "Tütre nimeks on Kati.",
+    "Mul on kaks tütart.",
+    "Vanem tütre õpib Tallinna Ülikoolis."
   ],
   "translation": [
     "daughter"
   ],
-  "context": "The word 'tütre' is the genitive form of 'tütar', which means daughter in English. It is commonly used to describe a female child or a young girl, and it can be used in various contexts such as family relationships or descriptions of people."
+  "context": "The word 'tütre' is the partitive case form of 'tütar', which means 'daughter'. In Estonian, the partitive case often indicates incomplete action, partial possession, or in this context, it's commonly used when naming someone or referring to a daughter. The singular nominative form would be 'tütar', but 'tütre' appears in contexts where the partitive case is grammatically required."
 }

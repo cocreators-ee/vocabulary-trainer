@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sõi kogu aeg, sõnul tema ema.",
-    "Sõnul teisi inimesi oli see üsna ootamatu.",
-    "Ma tean seda sõnul minu õpetajat."
+    "Ta on sõnul väga hea õpetaja.",
+    "Kuidas sa sõnul arvad?",
+    "Naised olid sõnul rahul tulemusega."
   ],
   "translation": [
-    "according to",
-    "as told by"
+    "according to him/her",
+    "in his/her words",
+    "by the way of speaking"
   ],
-  "context": "The word sõnul is a postposition in Estonian that indicates something is said or reported by someone, often used to attribute information or quote someone."
+  "context": "The Estonian word 'sõnul' is an adessive case form of the pronoun 'tema' (he/she). It means 'according to him/her' or 'in his/her words'. This grammatical case indicates location on something, but with pronouns it's commonly used for expressing whose opinion or statement is being referred to. The word appears in contexts where someone is reporting what another person has said or thinks."
 }

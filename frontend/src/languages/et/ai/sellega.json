@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen sellega nõus.",
-    "Ta vastas sellega, et ta ei tea.",
-    "Sellega sai lugu läbi."
+    "Sellega on kõik selge.",
+    "Ma ei nõustu sellega.",
+    "Kas sa oled rahul sellega?"
   ],
   "translation": [
-    "thereby",
-    "with that"
+    "with this",
+    "with that",
+    "by means of this"
   ],
-  "context": "The word 'sellega' in Estonian is commonly used to indicate a cause-and-effect relationship or to specify the means by which something is done, similar to the English word 'thereby'."
+  "context": "The Estonian word 'sellega' is an adverbial pronoun formed by combining the demonstrative pronoun 'see' (this/that) with the allative case suffix '-ga', meaning 'with'. It functions as a transitional phrase or connector meaning 'with this', 'by means of this', or 'in this way'. The word points to something previously mentioned and connects it to the following statement."
 }

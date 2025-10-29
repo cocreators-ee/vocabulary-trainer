@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma annan endale luba teha seda.",
-    "Endale tuleb alati öelda tõde.",
-    "Ta ei saanud endale luba seda teha."
+    "Ta ei ole endale kunagi rahul.",
+    "Omaenda tulevikku saab ise mõjutada.",
+    "Kui sa oled edukas, siis on see omaenda teenitud."
   ],
   "translation": [
-    "to myself",
-    "myself"
+    "one's own",
+    "personal",
+    "private"
   ],
-  "context": "The word 'endale' is a reflexive pronoun in Estonian, used to refer to the subject of the sentence as the object of the action, similar to how 'myself' or 'to myself' would be used in English."
+  "context": "The Estonian wordendale' is a possessive pronoun that means 'one's own' or 'personal'. It indicates something that belongs to or pertains to oneself. The word can appear in different forms depending on the grammatical context, such as 'enda' (basic form), 'omaenda' (emphatic form), and other variations like 'omale', 'omalt', etc. It's commonly used to emphasize personal ownership, responsibility, or experience."
 }

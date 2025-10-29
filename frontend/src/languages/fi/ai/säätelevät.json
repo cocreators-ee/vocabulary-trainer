@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lait säätelevät yritysten toimintaa.",
-    "Säännöt säätelevät liikenteen kulkuetta.",
-    "Valtion lait säätelevät työaikaa."
+    "Säätelevät liikennettä kaupungin keskustassa.",
+    "Hallitus säätelee talouspolitiikkaa.",
+    "Yritykset säätelevät hintoja kilpailun vuoksi."
   ],
   "translation": [
     "regulate",
-    "govern",
-    "control"
+    "control",
+    "govern"
   ],
-  "context": "The word säätelevät is a verb form of the Finnish word säännellä, which means to regulate or control something. It is commonly used in sentences to describe rules or laws that govern or direct certain actions or behaviors."
+  "context": "The Finnish word 'säätelevät' is the 3rd person plural present tense form of the verb 'säädellä', which means to regulate, control, or govern. It refers to the action of establishing rules, making adjustments, or exercising authority over something to maintain order or achieve desired outcomes."
 }

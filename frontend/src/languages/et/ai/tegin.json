@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tegin seda tööd.",
-    "Ta tegi oma töö.",
-    "Nad tegid head tööd."
+    "Tegin hommikul kohvi.",
+    "Ma tegin kõik kodutööd ära.",
+    "Meie mees tegi suure viga."
   ],
   "translation": [
-    "did",
-    "made",
-    "created"
+    "I did",
+    "I made",
+    "I have done"
   ],
-  "context": "The word 'tegin' is the first person singular form of the verb 'tegema', which means to do or make something, and it is commonly used in Estonian language to express an action that was completed in the past."
+  "context": "\"Tegin\" is the first-person singular past tense form of the Estonian verb \"tegema\" which means \"to do\" or \"to make\". It indicates that the speaker performed an action in the past. The word shows completion of an action and can be translated to English as \"I did\" or \"I made\" depending on context."
 }

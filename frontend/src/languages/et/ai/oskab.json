@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oskab hästi klaverit mängida.",
-    "Kas sa oskad eesti keelt?",
-    "Nad ei oska seda probleemi lahendada."
+    "Ta oskab hästi laulma.",
+    "Mina ei oska eesti keelt veel.",
+    "Lapsed oskavad jalgrattaga sõita."
   ],
   "translation": [
-    "can",
     "knows how to",
-    "is able to"
+    "is able to",
+    "can"
   ],
-  "context": "The verb 'oskab' in Estonian means 'can', 'knows how to', or 'is able to'. It expresses ability or skill. It is often used to describe someone’s capability to do something."
+  "context": "The Estonian word 'oskab' is the third person singular form of the verb 'oskama', which means 'to know how to' or 'to be able to'. It describes someone's capability or skill to do something. This verb indicates that a person has acquired knowledge or ability through learning or practice, and can successfully perform an action."
 }

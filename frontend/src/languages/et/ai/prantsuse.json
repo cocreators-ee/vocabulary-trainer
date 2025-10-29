@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma räägin prantsuse keelt.",
-    "Prantsuse kultuur on väga rikas.",
-    "Ta õppis prantsuse keelt kolm aastat."
+    "See on prantsuse keel.",
+    "Mulle meeldib prantsuse vein.",
+    "Tema käis Prantsusmaal ja õppis prantsuse kultuuri."
   ],
   "translation": [
-    "French",
-    "of France"
+    "French"
   ],
-  "context": "The word 'prantsuse' in Estonian refers to something related to France or the French language, often used as an adjective to describe origin or relation to France."
+  "context": "The word 'prantsuse' is an Estonian adjective that means 'French'. It's used to describe things related to France, the French language, or French culture. In Estonian adjectives typically don't change form for gender but may change based on case and number when modifying nouns."
 }

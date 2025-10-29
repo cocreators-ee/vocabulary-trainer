@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ilma on ulkona hyvin kylmä.",
-    "Hän tiesi ilman olevan kostean ja sumuisen.",
-    "Pakokaasujen päästö vahingoittaa ilmaa."
+    "Ilma on kaunis tänään.",
+    "Mennään ulos hyvään ilmaan.",
+    "Ilmasto muuttuu nopeasti."
   ],
   "translation": [
-    "air"
+    "air",
+    "weather",
+    "atmosphere",
+    "climate"
   ],
-  "context": "The word 'ilma' generally refers to the invisible gaseous substance surrounding the earth, and is commonly used in Finnish when describing the weather or atmospheric conditions."
+  "context": "In Finnish, 'ilma' is a noun that can refer to air (the substance we breathe), weather conditions, atmosphere, or climate. It's used in various contexts from describing the current day's weather to talking about the Earth's atmospheric conditions."
 }

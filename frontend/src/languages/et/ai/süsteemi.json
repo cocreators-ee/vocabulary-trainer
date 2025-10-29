@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Süsteemi on võimalik konfigureerida erinevatele otstarvetele.",
-    "Ta töötab süsteemi arendusmeeskonnas.",
-    "Uue süsteemi kasutusele võtmisel tekkisid probleemid."
+    "Süsteemi on vaja uuendada.",
+    "Meie töö süsteemi toimib hästi.",
+    "Kas sa tead, kuidas seda süsteemi kasutada?"
   ],
   "translation": [
     "system",
-    "network"
+    "framework",
+    "structure"
   ],
-  "context": "The word 'süsteemi' is the genitive form of the Estonian word 'süsteem', which refers to a set of connected things or a network, and is commonly used in contexts related to technology, organization, or infrastructure."
+  "context": "The Estonian word 'süsteemi' is in the elative case (illativ stem), meaning 'from the system'. It's derived from the root word 'süsteem' which means 'system'. This form indicates movement away from or origin within a system."
 }

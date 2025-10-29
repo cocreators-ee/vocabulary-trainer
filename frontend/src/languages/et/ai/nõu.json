@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta andis mulle head nõu.",
-    "Nõu oli väga kasulik.",
-    "Ma otsin nõu selle kohta."
+    "Ma vajan nõu.",
+    "Sa oled hea nõuandja.",
+    "Mul on palju nõusid."
   ],
   "translation": [
     "advice",
-    "counsel"
+    "counsel",
+    "guidance"
   ],
-  "context": "The word 'nõu' in Estonian generally refers to advice or guidance given to someone, and it is commonly used in various contexts such as seeking suggestions from experts or friends."
+  "context": "The Estonian word 'nõu' means advice or guidance. It's a singular, nominative form noun that refers to counsel or suggestions given to help someone make decisions or solve problems. In different grammatical forms, it can become 'nõud' (partitive), 'nõude' (genitive), etc., showing how the concept of advice changes in different contexts."
 }

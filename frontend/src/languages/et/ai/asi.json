@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See asi on väga oluline.",
-    "Kas sa tean selle asja kohta midagi?",
-    "Asjalikult kestis külastus kaks tundi."
+    "See asi on huvitav.",
+    "Mul on palju asju teha.",
+    "Kas sa tunned seda asja?"
   ],
   "translation": [
-    "matter",
     "thing",
-    "affair"
+    "matter",
+    "affair",
+    "business"
   ],
-  "context": "'asi' refers to a matter, thing or affair. It is commonly used in general contexts to refer to any object or issue under consideration."
+  "context": "The Estonian word 'asi' is a versatile noun that means 'thing', 'matter', 'affair', or 'business'. It's commonly used to refer to objects, topics of discussion, situations, or matters requiring attention. The word can be found in various contexts from everyday conversations to more formal discussions."
 }

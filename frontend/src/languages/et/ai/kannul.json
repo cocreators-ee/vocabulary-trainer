@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta vaatas mind kannul.",
-    "Ära tee kannul!",
-    "See oli talle kannul."
+    "Kannul on kaks toad.",
+    "Meie majas on kolm kannu.",
+    "Ta istub kannul."
   ],
   "translation": [
-    "with the eye",
-    "by sight",
-    "visually"
+    "in a can",
+    "in cans",
+    "in tins"
   ],
-  "context": "The Estonian word 'kannul' generally means 'with the eye' or 'by sight'. It indicates that something is done visually, or observed with the eyes. It can also imply a sense of judgment or assessment based on appearance."
+  "context": "The Estonian word 'kannul' is the inessive case form of 'kan', meaning 'can' or 'tin'. It indicates location inside something, specifically expressing that something is located within a container like a can or tin. This case suffix '-l' is used to indicate being inside or within something."
 }

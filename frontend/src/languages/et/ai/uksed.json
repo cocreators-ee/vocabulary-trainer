@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Uksed olid suletud.",
-    "Ta avas uksed.",
-    "Uksed said väga rasked."
+    "Uksed on avatud.",
+    "Küsi enne, kui mõned uksed sulgeda.",
+    "Uksete puhastamine oli vajalik."
   ],
   "translation": [
     "doors"
   ],
-  "context": "The word 'uksed' refers to doors in a physical sense, and is commonly used in Estonian to describe the entrance or exit of a building or room."
+  "context": "The word 'uksed' is the plural form of the Estonian noun 'uks', which means 'door'. In English, this would translate to 'doors'. This is a common noun used when referring to multiple doors in various contexts such as buildings, rooms, or vehicles. The word follows standard Estonian declension patterns for plural nouns."
 }

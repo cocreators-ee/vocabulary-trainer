@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta jooksis kiiresti.",
-    "Jooksin väga kiiresti.",
-    "Nad jooksid koos."
+    "Koer jooksis pargis.",
+    "Laps jooksid kooli.",
+    "Ta jooksid esimeseks."
   ],
   "translation": [
     "ran",
+    "runs (in past tense)",
     "was running"
   ],
-  "context": "The word 'jooksis' is the third person singular form of the verb 'jooksma', which means to run. It describes the act of moving quickly on foot."
+  "context": "The word 'jooksis' is the past tense third person singular form of the Estonian verb 'jooksma', which means 'to run'. It indicates that someone or something ran in the past. In English, this would be translated as 'ran' or 'was running'. The word changes its ending based on tense and subject - '-is' is a typical past tense suffix for third person singular verbs in Estonian."
 }

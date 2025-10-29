@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen vastne.",
-    "Ta on minu vastane.",
-    "Vastased said üksteisele vastu."
+    "Vastane on tulnud.",
+    "Meie vastased on kerged.",
+    "Tulevaste vastaste ees."
   ],
   "translation": [
     "opponent",
-    "adversary",
-    "enemy"
+    "enemy",
+    "adversary"
   ],
-  "context": "The word 'vastane' in Estonian refers to a person or thing that opposes or resists another, often in a conflict or competition. It is commonly used in various contexts such as sports, politics, and everyday conversations."
+  "context": "In Estonian, 'vastane' is a noun that means opponent or enemy. It's the nominative singular form of the word. When used in different cases, it changes form to indicate grammatical relationships - for example in partitive case it might be 'vastast'. In plural form it becomes 'vastased'. The word is commonly used in contexts referring to competitors in sports, rivals in games, or adversaries in more serious conflicts."
 }

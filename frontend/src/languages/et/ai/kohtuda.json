@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kohtusin temaga eile.",
-    "Ta on hea inimene, kuid ma ei kohtunud temaga.",
-    "Kohtumine toimus homme."
+    "Me kohtume täna kell kuus.",
+    "Ta kohtub oma sõpradega igal pühapäeval.",
+    "Kas te olete veel kunagi kohtunud?"
   ],
   "translation": [
-    "meet",
-    "encounter"
+    "to meet",
+    "to encounter",
+    "to run into"
   ],
-  "context": "The word kohtuda generally means to meet or encounter someone, often used in formal or informal settings to describe a gathering or meeting between two or more people."
+  "context": "The word 'kohtuda' is an Estonian verb that means to meet or encounter someone. It's commonly used when arranging meetings with friends, family, or colleagues. The verb changes form depending on the subject and tense - in present tense it becomes 'kohtub' for third person singular (he/she meets), and can also appear in other conjugated forms like 'kohtume' (we meet) or questions like 'kas te olete kunagi kohtunud?' (have you ever met?)."
 }

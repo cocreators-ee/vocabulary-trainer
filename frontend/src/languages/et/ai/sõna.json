@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma otsin sõna tähendust.",
-    "Sõnad on olulised keeles.",
-    "Ta ei leidnud õiget sõna."
+    "Sõna on keelemärk.",
+    "Kas te tunnete seda sõna?",
+    "Mul on palju head sõnu."
   ],
   "translation": [
     "word",
-    "term"
+    "term",
+    "expression"
   ],
-  "context": "The word 'sõna' in Estonian refers to a unit of language that carries meaning, and it is commonly used in everyday conversations to convey thoughts and ideas."
+  "context": "The Estonian word 'sõna' is a noun that means 'word' in English. It's a basic vocabulary item that refers to a single unit of language, either written or spoken. The word can be used in various contexts - it might refer to a specific term in a particular field, an expression in conversation, or just any word in the general sense. In Estonian grammar, 'sõna' follows typical noun declension patterns, changing form depending on its grammatical case and number."
 }

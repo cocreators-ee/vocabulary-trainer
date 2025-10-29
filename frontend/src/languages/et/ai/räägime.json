@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma räägin inglise keelt.",
-    "Meie oleme rääkinud sellest juba mitu korda.",
-    "Nad on rääkinud poliitikaga."
+    "Me räägime eesti keelt.",
+    "Tere hommikust, mida me räägime täna?",
+    "Kas teie räägite ka saksa keelt?"
   ],
   "translation": [
-    "speak",
-    "talk"
+    "we speak",
+    "we talk",
+    "we are talking"
   ],
-  "context": "The word 'räägime' is the first person plural form of the verb 'rääkima', which means to speak or talk in English. It is commonly used in sentences to describe the act of communicating or conversing with someone."
+  "context": "The word 'rägime' is the 1st person plural present indicative form of the Estonian verb 'rääkima', which means 'to speak' or 'to talk'. It specifically refers to what 'we' (the speaker and at least one other person) are doing in the present moment - speaking or having a conversation. The word is formed by taking the stem 'räg-' and adding the 1st person plural present tense ending '-ime'."
 }

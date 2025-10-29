@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen inimese kellel on hea meel.",
-    "Kes on see inimene, kellel on võimalus?",
-    "Tema on inimene, kellel on suured unistused."
+    "Kellel on kõige parem idee?",
+    "Kellel on see raamat?",
+    "Meie klassikal on head tulemused."
   ],
   "translation": [
-    "to whom",
-    "who has"
+    "whose",
+    "to whom"
   ],
-  "context": "The word kellel is a postposition in Estonian that indicates the recipient or the person to whom something belongs or happens. It is commonly used in sentences to show possession or relationship."
+  "context": "The word 'kellel' is an Estonian interrogative pronoun that means 'whose' or 'to whom'. It is in the adessive case, which typically indicates location or possession. In questions about ownership or possession of something, 'kellel' would be used to ask who has or owns something. For example, 'Kellel on see raamat?' means 'Whose book is this?'. It can also indicate direction toward someone in certain contexts."
 }

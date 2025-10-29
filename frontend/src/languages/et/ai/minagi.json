@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mina ka soovin heada õhtut.",
-    "Kas sa tahad minagi sealt kõrvale?",
-    "Minagi olen nii väikestel asjadel erinev."
+    "Minagi tulin tähelepanu.",
+    "Me minagi otsime seda kohta.",
+    "Kas sa minagi lähed?"
   ],
   "translation": [
-    "me too",
-    "also me"
+    "also me too",
+    "me as well",
+    "too"
   ],
-  "context": "'minagi' translates to 'me too' or 'also me'. It's used to express agreement with something someone else said, similar to how one might use 'me neither' depending on context."
+  "context": "The word 'minagi' in Estonian is a combination of 'mina' (I/me) and 'agi' (also/too). It's used to express agreement or inclusion, similar to saying 'me too' or 'also me' in English. The particle 'agi' adds emphasis that the speaker also shares the same opinion or experience as someone else."
 }

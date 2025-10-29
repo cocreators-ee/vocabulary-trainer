@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See asukoht on kaunis"
+    "Asukoht on hea.",
+    "Me leidsime parima asukoha puhkemajaks.",
+    "Kus on sinu praegune asukoht?"
   ],
   "translation": [
     "location",
-    "place",
-    "position"
+    "position",
+    "place"
   ],
-  "context": "The word asukoht refers to a location or place where something is situated, and it is commonly used in Estonian to describe the position of an object or a person."
+  "context": "The Estonian word 'asukoht' means location or position. It refers to a specific place where something is situated or found. This noun can be used in various contexts, such as describing the physical location of buildings, landmarks, people's current positions, or geographical areas."
 }

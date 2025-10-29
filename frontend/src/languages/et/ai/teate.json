@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma saan teate, et see on hea koht.",
-    "Teate põhjal otsustasime minna sinna.",
-    "Ta ei saanud teadet, et ta on valitud."
+    "Ma saasin teate homme hommikul.",
+    "Kas said sa teate?",
+    "Teate on tähtis dokument."
   ],
   "translation": [
     "message",
-    "notification",
+    "information",
     "notice"
   ],
-  "context": "The word 'teate' in Estonian refers to a message or notification that informs someone about something, and it is commonly used in formal and informal settings to convey information."
+  "context": "The word 'teate' in Estonian is a noun that means 'message', 'information', or 'notice'. It can refer to any form of communication or information being conveyed from one person to another. In some contexts, it might be used more specifically like an official notice or bulletin."
 }

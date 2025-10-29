@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Meid ootab suur üllatus.",
-    "Ta rääkis meid kohta.",
-    "Meid on hüütud headeks inimesteks."
+    "Meid võõrastatakse meie majas.",
+    "Nägi mind ja läks minu juurde.",
+    "Tuleb meiega kohtuda."
   ],
   "translation": [
-    "us",
-    "we"
+    "us"
   ],
-  "context": "The word meid is a pronoun in Estonian that means us, and it is commonly used as an object pronoun to refer to the speaker and others."
+  "context": "The word 'meid' is the partitive case of the Estonian pronoun 'me', which means 'we'. In the partitive case, it becomes 'meid' and translates to 'us' in English. This form is used when referring to people as objects of verbs or after certain prepositions."
 }

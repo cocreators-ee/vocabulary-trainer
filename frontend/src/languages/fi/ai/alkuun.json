@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän lähti matkaan alkuun jo aikaisin.",
-    "Matka alkoi alkuun hyvin.",
-    "Alkuun kaikki sujui hyvin."
+    "Aloitin työt alkuun.",
+    "Alkuun satoi vettä, mutta sitten paistoi aurinko.",
+    "Hän oli aluksi epävarma, mutta alkoi pian puhua sujuvasti."
   ],
   "translation": [
-    "at first",
-    "initially"
+    "at the beginning",
+    "initially",
+    "to start with"
   ],
-  "context": "The word 'alkuun' is an adverb in Finnish that means 'at first' or 'initially', and it is commonly used to describe the beginning of something."
+  "context": "The Finnish word 'alkuun' is an adessive form of 'alku', meaning 'beginning'. It's commonly used to indicate something happening at the start or initially. The '-n' ending indicates it's in the partitive case, making it function as a temporal marker for when something occurs."
 }

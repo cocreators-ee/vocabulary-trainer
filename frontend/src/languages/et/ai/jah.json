@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen jah.",
-    "Ta on öelnud jah.",
-    "Kas sa ütled jah?"
+    "jah, see on hea mõte.",
+    "Tuleb jah öelda.",
+    "Olen jah nõus."
   ],
   "translation": [
-    "yes"
+    "yes",
+    "yeah",
+    "okay"
   ],
-  "context": "In Estonian, 'jah' is a common word used to express agreement or confirmation, similar to the English word 'yes'."
+  "context": "The word 'jah' is the Estonian equivalent of English 'yes'. It's a simple affirmation response used to agree with statements, confirm information, or indicate willingness. As an interjection, it can stand alone as a response or be part of longer sentences."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on kindral ja ülemjuhataja.",
-    "Kindral oli sõjaväes kõrge auaste.",
-    "Kindrali auaste on kõrgem koloneli omast."
+    "Kindral juhib sõjaväeüksust.",
+    "Ta oli kindral aastatel 1990-2005.",
+    "Kolme tähega kindral on major kindral."
   ],
   "translation": [
     "general",
-    "admiral"
+    "army general"
   ],
-  "context": "The word 'kindral' refers to a high-ranking officer in the military, equivalent to the English term 'general' or 'admiral', and is commonly used in Estonian to describe someone with a high level of authority and command."
+  "context": "In Estonian, 'kindral' is a masculine noun that refers to a high-ranking military officer who commands troops or holds an important position in the armed forces. It's equivalent to the English rank of 'general'. The word follows typical Estonian grammatical patterns and would have different cases depending on its function in a sentence."
 }

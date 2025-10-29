@@ -1,15 +1,17 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma panin kala ahju",
-    "Ta pandis pildi seina äärde",
-    "Nad on pannud muusika helide faili"
+    "Pane mind kõigepealt siia.",
+    "Ma ei pane sulle rõhku.",
+    "Pane end sisse."
   ],
   "translation": [
     "put",
     "place",
-    "lay"
+    "set",
+    "consider",
+    "regard",
+    "take"
   ],
-  "context": "The word 'pane' in Estonian is a verb that means to put or place something somewhere, and it is commonly used in everyday conversations to describe the act of putting an object in a specific location."
+  "context": "The Estonian word 'pane' is an imperative form of the verb 'panema', which means to put, place, set or consider. It's commonly used in commands or requests when telling someone to put something somewhere or to take certain action. For example, 'Pane mind kõigepealt siia' means 'Put me here first.' The word can also be used idiomatically to mean 'consider' or 'regard', as in 'Ma ei pane sulle rõhku' (I don't place importance on you) meaning I don't value you highly."
 }

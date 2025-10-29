@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lapsed mängisid pargis.",
-    "Ma armastan lapsi.",
-    "Lastevanemad olid väga rahul."
+    "Lapsed mängivad õues.",
+    "Tema lapsed on väga head lapsehoidjad.",
+    "Kooli lähedal nägin lapsi jooksmas."
   ],
   "translation": [
     "children",
     "kids"
   ],
-  "context": "The word 'lapsed' in Estonian refers to children or kids, and it is commonly used in various contexts to describe young people or offspring."
+  "context": "The word 'lapsed' is the plural form of the Estonian noun 'laps', which means 'child'. In Estonian, nouns change their endings to indicate number (singular/plural). The ending '-ed' typically indicates the plural form. So while 'laps' means one child, 'lapsed' refers to multiple children."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võin seda soovitada naistele.",
-    "Naistele meeldib tema muusika.",
-    "Ta on naistele väga populaarne."
+    "Naistele meeldib lugeda.",
+    "Ta annab kingitusi naistele.",
+    "Meie klubi on avatud naistele."
   ],
   "translation": [
     "to women",
     "for women"
   ],
-  "context": "The word 'naistele' is a dative plural form of the Estonian word for 'woman', and it is commonly used to indicate that something is intended or directed towards women."
+  "context": "The Estonian word 'naistele' is the allative case of 'naine', meaning 'woman'. The allative case in Estonian indicates direction or destination, so 'naistele' specifically means 'to women' or 'for women', indicating movement toward women or something intended for women. This form is commonly used when giving gifts, talking about actions directed at women, or referring to destinations meant for women."
 }

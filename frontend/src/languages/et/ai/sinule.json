@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma annan raamatud sinule.",
-    "Kas sa tahad teada, mida ma sinule ütlesin?",
-    "Sinule meeldib see muusika?"
+    "Sinule meie kingituse!",
+    "Olen väga tänulik sinule.",
+    "Selle eest olen täiesti sinule võlgne."
   ],
   "translation": [
-    "you",
-    "for you",
-    "to you"
+    "to you (singular)",
+    "for you (singular)"
   ],
-  "context": "'sinule' is the dative form of 'sa', which means 'you'. It is used to indicate that something is given, done or intended for someone. It can be translated as 'you' (for you), 'for you', or 'to you' depending on context."
+  "context": "The Estonian word 'sinule' is the allative case of the pronoun 'sina' (you). It indicates movement toward or direction to someone, meaning 'to you' or 'for you'. This form is used specifically for a singular recipient and follows the direction pattern in Estonian grammar. It can be used when giving something to someone or expressing gratitude directed at a person."
 }

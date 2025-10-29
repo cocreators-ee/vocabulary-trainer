@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on juhuslik sõnum.",
-    "Juhuslikult kohtasin teda eile.",
-    "Juhus ei ole hea selgitus."
+    "Juhuslikult kohtasin sõpra tänaval.",
+    "Elu on täis juhuseid.",
+    "See oli lihtsalt hea juhus."
   ],
   "translation": [
     "chance",
-    "accident",
-    "coincidence"
+    "coincidence",
+    "accident"
   ],
-  "context": "The word 'juhus' generally refers to an event or situation that occurs without being planned or caused by anyone, often translated as chance, accident, or coincidence in English. It is commonly used to describe unexpected events or happenings."
+  "context": "The Estonian word 'juhus' means chance, coincidence, or accident. It refers to something that happens by luck or random occurrence rather than by design or planning. The word can be used in various contexts such as unexpected encounters (like meeting a friend on the street), unpredictable events in life, or fortunate accidents."
 }

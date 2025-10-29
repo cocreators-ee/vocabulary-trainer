@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kaetud lumega.",
-    "Mäed olid kaetud tiheda metsaga.",
-    "Toal oli kaetud valge kattevaip."
+    "Aknad on kaetud.",
+    "Kaetud laud oli täis toitu.",
+    "Põrand on hästi kaetud."
   ],
   "translation": [
     "covered",
-    "coated"
+    "coated",
+    "covered up"
   ],
-  "context": "The word 'kaetud' is commonly used in Estonian to describe something that is covered or coated with a layer of something else, such as snow or fabric."
+  "context": "The word 'kaetud' is the past participle form of the Estonian verb 'katta', which means 'to cover'. It describes something that has been covered, coated, or wrapped in some way. In English, it can be translated as 'covered', 'coated', or 'covered up'. The word agrees with the subject it modifies and is used to describe the state of being covered."
 }

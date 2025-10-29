@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võin väga kiiresti ujuda.",
-    "Ta on väga ilus tüdruk.",
-    "Väga palju inimesi elab Tallinnas."
+    "See on väga hea raamat.",
+    "Ta laulis väga hästi.",
+    "Meie kodu on väga ilus."
   ],
   "translation": [
     "very",
-    "extremely"
+    "extremely",
+    "really"
   ],
-  "context": "The word \"väga\" is used in Estonian to emphasize a strong degree of something, similar to how \"very\" or \"extremely\" would be used in English."
+  "context": "\"Väga\" is a common Estonian adverb used to emphasize the degree or intensity of an adjective, verb, or other adverb. It functions similarly to \"very\" in English and can be placed before most words that it modifies. The word does not change form based on gender or number since it's an adverb."
 }

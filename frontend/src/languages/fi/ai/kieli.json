@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun on opittava uusi kieli",
-    "Hänen äidinkielensä on suomi, ja hän puhuu myös englantia",
-    "Kieli on tärkeä osa kulttuuriamme"
+    "Kieli on mielenkiintoinen aihe.",
+    "Hänellä on kaksi kieltä: suomi ja ruotsi.",
+    "Suomen kieli on vaikea monille ulkomaalaisille."
   ],
   "translation": [
     "language",
-    "tongue",
-    "speech"
+    "tongue"
   ],
-  "context": "The word kieli refers to a language or the ability to speak, and it is commonly used in Finnish to discuss languages, dialects, or the act of speaking itself."
+  "context": "In Finnish, 'kieli' primarily means 'language'. It can refer to any human language or specifically the Finnish language. Additionally, it can also mean 'tongue' as in the physical organ in one's mouth. The word is a common noun and its form shown here is in the singular nominative case."
 }

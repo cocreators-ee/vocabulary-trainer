@@ -1,14 +1,12 @@
 {
-  "confidence": 0.1,
   "understood": true,
   "sentences": [
-    "Ma olen Hr-sõber.",
-    "Tema sõbranna oli hr.",
-    "Hr on kallis ja väärtuslik."
+    "Kas sa lähed tööle hr Smithi juures?",
+    "Hr Johnson on meie uus projektijuht.",
+    "Tere hommikust, hr Wilson!"
   ],
   "translation": [
-    "gentleman",
     "Mr."
   ],
-  "context": "The word 'hr' in Estonian is used to refer to a gentleman or as an abbreviation for 'Mister'. It is commonly used when addressing someone respectfully, similar to how we use 'Mr.' in English."
+  "context": "In Estonian, 'hr' is an abbreviation for the title 'Mister', used before a man's name as a polite form of address. It functions exactly like 'Mr.' in English and appears before surnames. This abbreviation comes from the full Estonian word 'härra'. The capitalization follows standard Estonian conventions where abbreviations retain their initial capital letter."
 }

@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole kindel, et see on pomm.",
-    "Pommid on ohtlikud.",
-    "Ta leidis pommivarustuse."
+    "See on pomm.",
+    "Me leidsime pommi.",
+    "Pommid on ohtlikud."
   ],
   "translation": [
     "bomb"
   ],
-  "context": "The word 'pomm' in Estonian refers to a bomb, which is an explosive device designed to release a large amount of energy in a short time, often causing damage or destruction."
+  "context": "The Estonian word 'pomm' translates to 'bomb' in English. It refers to an explosive device that causes destruction when detonated. In Estonian, it's a masculine noun and would typically be used with the appropriate grammatical case depending on its function in the sentence (nominative case as shown in the examples)."
 }

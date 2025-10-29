@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hommikust alates oli ta väga ülekoormatud.",
-    "Ma ootan hommikust, et saaksin tööle minna.",
-    "Kui hommikust algas koolipäev, siis läksid lapsed õppima."
+    "Tere hommikust!",
+    "Hommikust saabusid külalised.",
+    "Me kohtusime hommikust."
   ],
   "translation": [
-    "from the morning",
+    "in the morning",
+    "from morning",
     "since morning"
   ],
-  "context": "The word 'hommikust' is an adverb in Estonian that means from or since the morning, indicating the starting point of a time period."
+  "context": "The Estonian word 'hommikust' is an inessive case form of the noun 'hommik', which means 'morning'. The '-st' ending indicates it's in the elative case, suggesting origin or source. It can mean 'from the morning', 'since morning', or be used to indicate a time period starting from morning."
 }

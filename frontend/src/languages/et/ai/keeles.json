@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta räägib hästi eesti keeles.",
-    "Ma ei oska veel hästi inglise keeles rääkida.",
-    "Keeles on palju erinevaid murdeid."
+    "Eestis räägitakse eesti keeles.",
+    "Ta osab vaid kahte keeles: eesti ja vene.",
+    "Kas sa saad aru selles keeles?"
   ],
   "translation": [
-    "in language",
-    "linguistically"
+    "in the language",
+    "in languages"
   ],
-  "context": "The word 'keeles' in Estonian is used to describe something related to language, and it can be translated to English as 'in language' or 'linguistically'."
+  "context": "'Keeles' is an Estonian word that means 'in the language' or 'in languages'. It is in the partitive case, indicating that something exists within a specific language. In Estonian grammar, nouns change their form depending on the grammatical case required by the sentence structure. The base form of this word is 'keel', which means 'language'."
 }

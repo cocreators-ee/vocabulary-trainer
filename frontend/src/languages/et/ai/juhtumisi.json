@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kohtasin teda juhtumisi tänaval",
-    "Juhtumisi oli ta minu klassikaaslane",
-    "Me kohtume juhtumisi sageli kontoritööl"
+    "Juhtumiselt oli meeldiv öö veeta.",
+    "Tema käitumine juhtumiselt ei olnud ootuspärane.",
+    "Ma sattusin juhtumiselt samasse gruppi."
   ],
   "translation": [
     "by chance",
-    "accidentally",
-    "coincidentally"
+    "coincidentally",
+    "accidentally"
   ],
-  "context": "The word juhtumisi is used in Estonian to describe something that happens by chance or accidentally, and it is commonly used in everyday conversations to express coincidence or unexpected events."
+  "context": "The Estonian word 'juhtumisi' is an adverb that means 'by chance', 'coincidentally', or 'accidentally'. It describes something that happens without intention or planning, as a result of luck or coincidence. The word derives from the noun 'juhtum' (event/case) with the suffix '-i' indicating manner and the plural form '-s' modifying it to convey the coincidental nature."
 }

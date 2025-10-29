@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tema ei tea seda, kah.",
-    "Seda lihtsalt ei juurde jõuaks teha, kah.",
-    "Jah, see on tõesti mul ja mitte kellegi mujal, kah."
+    "Kahjuks ta ei tulnud.",
+    "Kah on ilus päev.",
+    "Meil kah oli hea aeg."
   ],
   "translation": [
-    "but",
     "unfortunately",
-    "regrettably"
+    "alas",
+    "sadly"
   ],
-  "context": "'kah' is used to express a contrast or a wish that something were different. It functions similarly to 'but' in English and can be translated as 'but', 'unfortunately', or 'regrettably'. It typically conveys regret, disappointment, or contradiction."
+  "context": "The Estonian word 'kah' is an adverb meaning 'unfortunately' or 'alas'. It's used to express regret, disappointment, or sorrow about a situation. This word is often placed at the beginning of a sentence to introduce an unfortunate circumstance."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tal on miljonit dollarite väärtuses varandust.",
-    "Miljonid inimesed käivad mööda teed.",
-    "Ta on teeninud miljoneid dollareid."
+    "Ma olen teeninud miljonit krooni.",
+    "Linnas elab üle miljoni inimese.",
+    "Kogu kulusid oli miljonite kroonide vahemikus."
   ],
   "translation": [
-    "millions"
+    "millions",
+    "a million"
   ],
-  "context": "The word 'miljonit' is the genitive plural form of 'miljon', which means million, and it is commonly used to express a large quantity of something in Estonian."
+  "context": "The word 'miljonit' is the partitive case form of 'miljon' (million) in Estonian. The partitive case is used to indicate an unspecified or partial quantity, often with numbers like 'one', 'two', etc., or when talking about money, large quantities, or uncountable items. In this context, 'miljonit' means 'millions' and would be used when referring to a quantity of millions (of something) in the partitive case."
 }

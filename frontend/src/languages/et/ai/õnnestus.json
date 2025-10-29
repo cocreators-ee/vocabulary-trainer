@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See õnnestus oli ootamatu",
-    "Õnnestus tuli meile kõikidele üllatuseina",
-    "Ta sai suure õnnestuse saavutada"
+    "Õnnestus tal saada tööd.",
+    "Katsed ei õnnestunud.",
+    "Õnnestuksid meil kohtuda homme?"
   ],
   "translation": [
     "succeeded",
+    "managed to succeed",
     "was successful"
   ],
-  "context": "The word õnnestus in Estonian means to succeed or be successful at something, it is commonly used to describe a positive outcome or achievement."
+  "context": "The word 'õnnestus' is the past tense third person singular form of the Estonian verb 'õnnestuma', which means 'to succeed' or 'to manage to do something'. It indicates that an attempt was successful and the desired outcome was achieved. This verb is commonly used when talking about attempts, trials, or efforts that resulted in positive outcomes."
 }

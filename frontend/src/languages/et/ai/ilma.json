@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võtab ilma aimamata kõike lihtsalt omaks.",
-    "Ilma selgituseta ei saa ma aru, mida see tähendab.",
-    "Kõik toimub ilma suuremate probleemide tahta."
+    " ilma on külm",
+    " ilma ei saa välja minna",
+    " ilmaga on kaasnevad vee- ja õhupuudus"
   ],
   "translation": [
     "without",
-    "air"
+    "lacking",
+    "deprived of"
   ],
-  "context": "The word 'ilma' in Estonian generally means 'without' or 'air', and it is commonly used in various contexts to convey the absence of something or to refer to the atmosphere."
+  "context": "In Estonian, 'ilma' is an adessive case form that means 'without' or 'lacking'. It's commonly used to indicate the absence of something. The word comes from the genitive singular of 'ilm' (world/air/weather), but in this context functions as a postposition meaning 'without'. When using ilma, it typically requires the partitive case for the object that is absent."
 }

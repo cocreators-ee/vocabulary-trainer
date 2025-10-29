@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sa kasutasid mind",
-    "Ma olen seda vahendit kasutanud",
-    "Kas te kasutasite seda rakendust?"
+    "Kasutasid oma aega headult.",
+    "Sa kasutasid vale valem.",
+    "Mis sa kasutasid eile õppimiseks?"
   ],
   "translation": [
     "used",
-    "utilized",
-    "applied"
+    "had used"
   ],
-  "context": "The word 'kasutasid' is the second person plural past tense form of the Estonian verb 'kasutama', which means to use or utilize something. It is commonly used in sentences to describe an action that was performed by a group of people in the past."
+  "context": "The word 'kasutasid' is the past tense (second person singular) of the Estonian verb 'kasutama', which means 'to use'. It refers to an action that was performed by someone in the past. The root form 'kasuta-' appears with various suffixes depending on tense and person - here it takes '-sid' for simple past second person singular."
 }

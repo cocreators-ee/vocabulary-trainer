@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on üks olulisemaid isikuid selles projekti raames.",
-    "Isiku andmed on kantud registrisse.",
-    "Isiklikku arengut saab mõjutada mitmesuguste tegurite abil."
+    "See on isiklik teade.",
+    "Isikut tuvastatakse sõnumi järgi.",
+    "Meil on vaja teada tema isikuandmeid."
   ],
   "translation": [
     "person",
-    "individual"
+    "individual",
+    "entity"
   ],
-  "context": "The word 'isik' generally refers to an individual or a person, often used in formal or official contexts to denote a single human being, and can be applied in various situations such as legal documents, personal development, or social interactions."
+  "context": "In Estonian, 'isik' means person or individual. It's a noun that refers to a single human being or entity. The word can be used in various contexts such as identification documents, personal matters, legal contexts, and when referring to someone specifically."
 }

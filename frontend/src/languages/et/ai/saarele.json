@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen saarele suvel.",
-    "Saarele on liiga kauka.",
-    "Tahtsin minna saarele, aga ilm oli halb."
+    "Sõidame saarele homme.",
+    "Kalurid lähevad saarele öösel.",
+    "Lapsed tahavad minna saarele suvel."
   ],
   "translation": [
     "to the island",
-    "island"
+    "onto the island",
+    "to an island"
   ],
-  "context": "The word 'saarele' is a postposition meaning to or onto an island in Estonian. It describes movement towards the island and it is commonly used when talking about traveling to an island."
+  "context": "The Estonian word 'saarele' is the illative case form of 'saar' (island). It indicates movement toward or onto an island. The '-le' ending is a common illative case suffix in Estonian that shows direction towards a place. This form is used when someone or something is going to or arriving at an island."
 }

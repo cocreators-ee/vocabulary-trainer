@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "He ostivat talon viime vuonna.",
-    "Ostivatko he kaiken tarpeellisen?",
-    "Miksi he ostivat juuri tuon auton?"
+    "He ostivat uuden auton viime viikolla.",
+    "Me ostivat kirjan kaupasta.",
+    "Sinä et ostanut mitään, mutta he ostivat paljon tavaraa."
   ],
   "translation": [
     "bought",
     "purchased"
   ],
-  "context": "The word 'ostivat' is the third person plural past tense form of the Finnish verb 'ostaa', which means to buy or purchase something. It is commonly used in everyday conversations when talking about acquiring goods or services."
+  "context": "The word 'ostivat' is the past tense plural form of the Finnish verb 'ostaa', which means 'to buy'. It specifically refers to an action that was completed in the past by multiple people (third person plural). The ending '-vat' indicates third person plural, and since it's not a present tense form, it must be in one of the past tenses. In this case, it's the imperfect/past tense form used for actions that happened at a specific time in the past."
 }

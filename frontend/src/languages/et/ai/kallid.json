@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Need kallid sõiad tõesti üldavad!",
-    "Minu uus kallis auto on liiga kallis.",
-    "Kas tead, et need kallid kingitused maksid rohkem kui 100 dúo?"
+    "Kallid sõbrad",
+    "Tere kallid!",
+    "Need on kallid kingitused"
   ],
   "translation": [
-    "pricey",
-    "expensive"
+    "dear",
+    "expensive",
+    "precious",
+    "beloved"
   ],
-  "context": "Kallid is used to describe something that costs a lot of money or is considered expensive in price."
+  "context": "The word 'kallid' is the plural form of Estonian adjective 'kaldu'. It can be used as a term of endearment meaning 'dear', 'beloved', or 'precious' when addressing people. As an adjective, it also means 'expensive' when referring to things. The form changes depending on whether it's used for masculine/feminine singular or plural forms."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis sekundit ja vaatas ümber.",
-    "Mõned sekundit hiljem tuli vastus.",
-    "Sekundite pärast oli kõik läbi."
+    "Ta jooksis sajasekundit kiiremini kui teised.",
+    "Kui sa ei saa selles sekundit valmis, siis me lähem ilma sinuta.",
+    "Nägin teda alles kolm sekundit tagasi."
   ],
   "translation": [
+    "second",
     "seconds"
   ],
-  "context": "The word 'sekundit' is the plural form of 'sekund', which means second, referring to a unit of time. It is commonly used in Estonian language to express short periods of time or duration."
+  "context": "Sekundit is the partitive case form of 'sekundi', which means 'second' in English. It's used when referring to an indefinite quantity or duration less than a full second, similar to how we might say 'a few seconds' or some unspecified amount of time in English."
 }

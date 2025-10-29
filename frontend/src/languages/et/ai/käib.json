@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta käib tööl.",
-    "Käib läbi metsa.",
-    "See käib hea või halva ilma kohta."
+    "Käib lahti",
+    "Käib hästi",
+    "See käib"
   ],
   "translation": [
+    "works",
+    "operates",
     "goes",
-    "walks"
+    "functions"
   ],
-  "context": "The word käib is a verb in Estonian that means to go or walk, often used to describe someone's movement from one place to another."
+  "context": "The Estonian word 'käib' is the third-person singular present form of the verb 'kääma'. It means something that works, operates, goes well, or functions properly. This word can describe how a system, machine, process, or situation is performing."
 }

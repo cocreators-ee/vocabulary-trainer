@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli üks suuremad mängijad meie meeskonnas.",
-    "Suuremad linnad on sageli suuremate probleemidega.",
-    "Need suuremad koolid on tuntud oma hea õppekvaliteedi poolest."
+    "Suured lapsed jooksevad pargis.",
+    "Talvel on suuremad külmad kui sügisel.",
+    "Meil on suuremad plaanid kui eelmisel aastal."
   ],
   "translation": [
-    "greater",
+    "bigger",
     "larger",
-    "bigger"
+    "greater"
   ],
-  "context": "The word 'suuremad' in Estonian means greater or larger in size, amount, or degree, and is commonly used to compare things or describe something as more significant than others."
+  "context": "The word 'suuremad' is the comparative form of the adjective 'suur' meaning big/large in Estonian. It is used to compare two or more things and indicates that something is bigger, larger, or greater than something else. The '-d' ending at the end of the word indicates it's in the plural comparative form."
 }

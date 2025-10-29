@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kas oled sa seisad ja tähendad midagi?",
-    "Mina seisad, et teha seda.",
-    "Seisad siin, kuidas nad sind aidata võiksid."
+    "Tule lähemale ja seisad siin.",
+    "Meie peaksime seisma lõuna poolt tulevaid tuuli.",
+    "Kuidas sa seisad nii kaua ühes kohas?"
   ],
   "translation": [
-    "you are",
-    "you stand",
-    "stand"
+    "stand",
+    "are standing"
   ],
-  "context": "\"Seisad\" is the second person plural form of the verb \"to stand\" in Estonian. It can be used literally to describe physical standing or metaphorically in expressions."
+  "context": "The word 'seisad' is the 2nd person singular present form of the Estonian verb 'seisma', which means 'to stand'. It is used when addressing someone directly (you/you) and indicates that they are currently in a standing position or should be standing. The word belongs to the -ma infinitive verb class in Estonian."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Äiti on hyvin voimakas nainen.",
-    "Minun äitini on lääkäri.",
-    "Äidin syntymäpäivää ei saa unohtaa."
+    "Minun äiti on lääkäri.",
+    "Äiti tekee ruokaa joka päivä.",
+    "Heidän äitinsä tulee huomenna."
   ],
   "translation": [
     "mother",
-    "mom"
+    "mom",
+    "mama"
   ],
-  "context": "The word äiti refers to a female parent or a mother figure, and it is commonly used in Finnish to address one's own mother or to refer to someone else's mother."
+  "context": "The Finnish word 'äiti' means mother or mom in English. It is a common noun used to refer to one's female parent. In the examples, 'Minun äiti on lääkäri' translates to 'My mother is a doctor', 'Äiti tekee ruokaa joka päivä' means 'Mother makes food every day', and 'Heidän äitinsä tulee huomenna' translates to 'Their mother is coming tomorrow'. Note that when the word is in the genitive case (possessive), it becomes 'äidin' as seen in 'Minun äiti' where 'minun' means 'my'."
 }

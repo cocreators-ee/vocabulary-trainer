@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän on usein myöhässä",
-    "Usein kun hän tulee kotiin, hän on öinen",
-    "Tämä tapahtuu usein talvella"
+    "Mikäsin usein siellä.",
+    "He käyvät usein museossa.",
+    "Me puhumme usein suomea."
   ],
   "translation": [
     "often",
-    "frequently",
-    "many times"
+    "frequently"
   ],
-  "context": "The word \"usein\" in Finnish is commonly used to describe something that happens regularly or many times, similar to the English words \"often\" or \"frequently\"."
+  "context": "The Finnish word 'usein' is an adverb that means 'often' or 'frequently'. It indicates the frequency of an action occurring. In Finnish, adverbs typically appear in a fixed form and don't change based on gender or number, though they can be modified with intensifiers or other modifiers. The word doesn't decline for case like nouns do."
 }

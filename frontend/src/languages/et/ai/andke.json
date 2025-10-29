@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Andke mulle see raamat.",
-    "Ta andis mulle suure kingituse.",
-    "Palun andke tema ülevaatus."
+    "Andke mulle aega.",
+    "Palun andke mulle oma telefon.",
+    "Mis teil andke?"
   ],
   "translation": [
     "give",
-    "hand over"
+    "grant",
+    "provide"
   ],
-  "context": "The word 'andke' is an imperative form of the verb 'andma', which means to give or hand something over to someone. It is commonly used in Estonian language to request or demand that someone gives or hands over something."
+  "context": "\"Andke\" is the plural imperative form of the Estonian verb \"andma\", which means \"to give\". It's used when addressing multiple people and telling them to give something. In English, this translates to commands like \"Give!\" or \"Give (plural)!\" when speaking to a group."
 }

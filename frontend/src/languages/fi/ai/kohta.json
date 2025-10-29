@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tapaamme huomenna kahden ajan kohtaa.",
-    "Hän saapui paikalle noin yhden tunnin kohdalla.",
-    "Kohta tulee useasti käytössä kellonajan merkinnässä."
+    "Minun täytyy mennä kohta.",
+    "Kello on kolme kohta neljä.",
+    "Hän tulee kohta kotiin."
   ],
   "translation": [
-    "time",
-    "around (a time)",
-    "approximately"
+    "soon",
+    "about to",
+    "moment",
+    "point in time"
   ],
-  "context": "'kohta' is used to indicate a specific point in time or approximately around a certain time, commonly seen in the context of scheduling or describing when something happens."
+  "context": "The Finnish word 'kohta' is an adverb that primarily means 'soon' or 'about to'. It indicates something will happen in the near future. When used with time expressions, it can indicate a specific point in time (e.g., 'three o'clock exactly'). The word is commonly used in everyday conversations to express imminence."
 }

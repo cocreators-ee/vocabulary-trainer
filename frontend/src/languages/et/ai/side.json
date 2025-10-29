@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on minu side",
-    "Side on hea koht",
-    "Ma ei tea, mis side tähendab"
+    "Side on tähtis suhtlemisel.",
+    "Meil on hea side teie firmaga.",
+    "Loo side kliendiga."
   ],
   "translation": [
-    "side",
-    "page"
+    "connection",
+    "relationship",
+    "communication",
+    "link"
   ],
-  "context": "The word 'side' in Estonian generally means 'page' as in a page of a book, but can also be used to refer to a side of something."
+  "context": "The Estonian word 'side' can mean several related concepts including connection, relationship, communication, or link. It's commonly used to describe interpersonal relationships, business connections, or any form of communication between people or entities. In different contexts, it might refer to telephone/verbal communication ('telefoniside'), internet connectivity ('internetiside'), or social bonds ('sotsiaalne side')."
 }

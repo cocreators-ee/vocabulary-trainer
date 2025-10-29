@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See oli halbu ilma.",
-    "Ta tegi halbu otsuseid.",
-    "Halb uudis on see, et me peame lahkuma."
+    "Halbu meile!",
+    "Tere halbu!",
+    "Sa oled väga halbu."
   ],
   "translation": [
-    "bad",
-    "evil",
-    "poor"
+    "hello",
+    "greetings",
+    "good day"
   ],
-  "context": "The word 'halbu' is the partitive singular form of the adjective 'halb', meaning 'bad' or 'poor'. It’s used to describe something negative in quality or character. In English, it functions similarly to 'bad' when describing a situation, person, or thing."
+  "context": "The word 'halbu' appears to be an Estonian greeting or salutation. It is likely used as a friendly hello or when meeting someone, similar to English greetings like 'hello' or 'hi'. In the examples provided, it's used in various contexts: to welcome people ('Halbu meile!' - Welcome us/hello to us!), as a general greeting ('Tere halbu!' - Hello/Good day), and as a compliment about being friendly or nice ('Sa oled väga halbu.' - You are very friendly/nice)."
 }

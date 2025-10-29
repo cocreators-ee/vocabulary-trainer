@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Talossa on paljon lumena",
-    "Lumen sulamisesta johtuu kevään tulviminen",
-    "Hiihtäminen on kivaa lumessa"
+    "Lumi on valkoinen.",
+    "Talvella tulee paljon lunta.",
+    "Pihalla on paksu lumi."
   ],
   "translation": [
     "snow"
   ],
-  "context": "The word refers to frozen water crystals that fall from the sky, commonly used in the context of winter weather or outdoor activities."
+  "context": "The Finnish word 'lumi' means snow in English. It is a common noun used to refer to the frozen precipitation that falls from the sky during winter months. In Finnish, 'lumi' can appear in various forms depending on its grammatical function - for example, 'lunta' (partitive case) when talking about some snow, or 'lumella' (inessive case) meaning in/on the snow."
 }

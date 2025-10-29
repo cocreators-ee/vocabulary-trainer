@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta viis mind oma juurde.",
-    "Viis on pikk ja kitsas.",
-    "Ma ei tea, kuidas sinna viia."
+    "Kell on viid.",
+    "Me saabusime Eestisse kell viid.",
+    "Ta jõudis kohale enne kui oli täistund, mis tähendas, et kell oli veel vaid viid."
   ],
   "translation": [
-    "road",
-    "way",
-    "path"
+    "five o'clock",
+    "5:00"
   ],
-  "context": "The Estonian word 'viid' commonly translates to 'road', 'way', or 'path' in English. It refers to a route or direction for travel and can also be used metaphorically to describe a course of action."
+  "context": "In Estonian, 'viid' means five o'clock or 5:00. It's the numeral 'viis' (five) in the partitive case used to tell time when referring to the hour marker at the 5 o'clock position on a clock face. This is common in Estonian for telling time - you use the numeral in the partitive case instead of saying 'kell viis', which would be more like 'the clock five'."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See tõeline põnevus tuleks siis, kui ta mind kodus kohtama saabaks.",
-    "Ma tean, et kõik need rahvad tuleksid meie vastu",
-    "Päikeseloojangu hommikul tuleks ta mulle külla"
+    "Kuidas tuleks see lahendada?",
+    "Tuleks meil sel päeval kohtuda?",
+    "Mida tuleks teha järgmisel nädalal?"
   ],
   "translation": [
-    "would be"
+    "should",
+    "ought to",
+    "would have to"
   ],
-  "context": "The word 'tuleks' is the conditional form of the verb 'to come'. It's commonly used to express a hypothetical situation or something that would happen under certain conditions."
+  "context": "The Estonian word 'tuleks' is a conditional form of the verb 'tulema' (to come). It's commonly used to express suggestions, recommendations, or hypothetical situations. In English, it translates well to modal verbs like 'should', 'ought to', or 'would have to'. This form appears in questions asking for advice or making polite suggestions."
 }

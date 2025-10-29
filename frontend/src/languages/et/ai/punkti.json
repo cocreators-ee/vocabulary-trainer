@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta punktis sellele paberile.",
-    "See on oluline punkt, mida me peame arutama.",
-    "Politsei kontrollis iga punkti piiril."
+    "Sõna punkti tähenduseks on inglise keeles 'point' või 'dot'. Näiteks: 'See on üks punkt', 'Ma kirjutasin punkti paberile', 'Punktid asuvad ringil'",
+    "Teine oluline tähendus on aega või kohta näitav konstruktsioon, mis vastab inglise keelele 'at'. Näiteks: 'Kell oli kolm punkti üheksa' (meaning 3:09), 'Ta tuleb homme punkti viis'",
+    "Punkti kasutatakse ka matemaatilistes kontekstides nagu koordinaadisüsteemides ja geomeetrias, näiteks '(5, 6) punkti koordinaadid'"
   ],
   "translation": [
     "point",
-    "item",
-    "aspect"
+    "dot",
+    "at (time indicator)",
+    "o'clock",
+    "coordinate point"
   ],
-  "context": "The Estonian word 'punkti' translates to 'point', 'item', or 'aspect' in English. It is commonly used to indicate a specific location, detail, or element within a larger context. It can also refer to scoring points in a game or marking something on a surface."
+  "context": "The word 'punkti' in Estonian has multiple meanings depending on context. As a noun, it means 'point' or 'dot'. It's also used as a preposition to indicate time, similar to 'at' in English, and specifically for indicating hours with 'o'clock'. In mathematical contexts, it refers to coordinate points."
 }

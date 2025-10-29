@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Välttämätön asia on, että sinun täytyy harjoitella",
-    "Hänellä oli välttämättömyys tulla takaisin kotiin",
-    "Tämä on yksi välttämättömistä asioista, jotka meidän on tehtävä"
+    "Tämä on välttämätön toimenpide.",
+    "Rakkaus on elämän välttämätön osa.",
+    "Välttämättömät lääkkeet ovat apteekissa."
   ],
   "translation": [
     "necessary",
     "essential",
-    "inevitable"
+    "indispensable",
+    "vital"
   ],
-  "context": "The word välttämätön means something that is necessary or essential and cannot be avoided, it is commonly used to describe a requirement or obligation."
+  "context": "The Finnish word 'välttämätön' is an adjective that means necessary, essential, or indispensable. It's formed from the verb 'välttää' (to avoid) plus the suffix '-mätön', which creates a negative meaning - literally 'not to be avoided'. This makes it stronger than just 'necessary' as it implies something cannot be omitted or done without. The word is used in contexts where something is absolutely required, crucial or fundamental."
 }

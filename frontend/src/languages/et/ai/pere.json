@@ -1,15 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu pere on väga suur",
-    "Ta elab üksi, tal pole pere",
-    "Pere koosneb vanematest ja lastest"
+    "Minu pere elab Tallinnas.",
+    "Tema pere on suur.",
+    "Meil on väike pere."
   ],
   "translation": [
-    "family",
-    "household",
-    "home"
+    "family"
   ],
-  "context": "The word 'pere' in Estonian generally refers to a family or household, and it is commonly used in contexts where one is talking about their relatives or domestic life."
+  "context": "In Estonian, 'pere' means family. It is a singular noun referring to one's family unit or household. The word does not change form in different contexts - it remains 'pere' whether you're talking about your own family, someone else's family, or in general terms."
 }

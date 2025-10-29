@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tundud seda juba ammu.",
-    "Oled sa tundnud vahet?",
-    "Mul on hea meel, et ma olen seda tundnud."
+    "Tema on tuntud laulja.",
+    "See koht on väga tuntud turismisihtkoht.",
+    "Me teame neid inimesi nende tööde poolest nad on tuntud."
   ],
   "translation": [
-    "felt",
-    "sensed"
+    "known",
+    "famous",
+    "recognized"
   ],
-  "context": "The word 'tundud' is the past tense of the verb 'tunne', which means to feel or sense something, and it is commonly used in Estonian language to describe a sensation or emotion that has been experienced."
+  "context": "The Estonian word 'tundud' is the past participle form of the verb 'tundma', which means 'to know'. As an adjective, it describes someone or something that is known, famous, or recognized. It's commonly used to describe people who are well-known or places that are familiar/widely recognized."
 }

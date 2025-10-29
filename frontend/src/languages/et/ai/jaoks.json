@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on hea võimalus jaoks.",
-    "Ta tegi seda kõike minu jaoks.",
-    "Ma olen alati valmis sulle jaoks."
+    "See raamat on minu jaoks.",
+    "Tere tulemast meie jaoks!",
+    "Kas see asi sobib teile jaoks?"
   ],
   "translation": [
     "for",
-    "intended for"
+    "on behalf of",
+    "in the interest of"
   ],
-  "context": "The word 'jaoks' is a postposition in Estonian that indicates purpose or intention, similar to the English word 'for'."
+  "context": "The Estonian word 'jaoks' is a postposition that means 'for' or 'on behalf of'. It indicates who something is intended for, who benefits from it, or in whose interest something is done. This word typically follows the noun phrase it modifies and shows purpose, beneficiary, or target of an action."
 }

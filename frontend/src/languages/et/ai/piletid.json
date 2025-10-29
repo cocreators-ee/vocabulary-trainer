@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan pileteid kontserdile",
-    "Piletid on müügil",
-    "Ta ostis pileti Tallinna"
+    "Ma ostsin kaks pileti teatrisse.",
+    "Mul on vabad piletid esimese rea jaoks.",
+    "Piletid müüki kiiresti."
   ],
   "translation": [
-    "tickets"
+    "tickets",
+    "passes",
+    "admissions"
   ],
-  "context": "The word piletid refers to tickets, which are small pieces of paper or cardboard that serve as proof of payment for an event, transportation, or other services in Estonian language."
+  "context": "The word 'piletid' is the plural form of the Estonian noun 'pilet', which means ticket. In Estonian, nouns ending in '-id' typically indicate plural form. The word refers to tickets for various events like theater performances, concerts, transportation, or other activities requiring admission."
 }

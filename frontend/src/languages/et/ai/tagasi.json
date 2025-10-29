@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tulin tagasi",
-    "Ta läks tagasi kodu",
-    "Meil on tagasi pöördumine"
+    "Tule tagasi homme.",
+    "Ma lähen tagasi koju.",
+    "Kas sa tuled tagasi?"
   ],
   "translation": [
     "back",
-    "return"
+    "return",
+    "again"
   ],
-  "context": "The word 'tagasi' in Estonian generally means to move or go back to a previous location or state, often translated as 'back' or 'return' in English."
+  "context": "The Estonian word 'tagasi' is an adverb that means 'back' or 'return'. It's commonly used to indicate movement toward a previous location or returning to a former state. The word can be positioned before or after the verb in sentences, depending on emphasis and sentence structure."
 }

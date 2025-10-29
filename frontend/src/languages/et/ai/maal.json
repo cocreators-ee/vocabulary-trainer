@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu kodus on maalide kogu.",
-    "Ta õnnitles teda maali.",
-    "Maal oli väga ilus tänava lõuna.",
-    "Maal pani ta oma ema portreedi."
+    "Maal on ilus päev.",
+    "Meie vanemad on maalt ära kolitud.",
+    "Ta töötab maal."
   ],
   "translation": [
-    "painting",
-    "to flatter"
+    "on the land",
+    "in the country",
+    "outdoors"
   ],
-  "context": "The word 'maal' primarily means a painting, often used in the context of art. It can also mean to flatter someone, as in complimenting excessively or insincerely."
+  "context": "The Estonian word 'maal' is an adverb that means 'on the land', 'in the countryside', or 'outdoors'. It typically refers to being outside of urban areas, in rural or natural settings. The word contrasts with 'linnas' (in the city) and is commonly used when describing activities, locations, or states related to rural life."
 }

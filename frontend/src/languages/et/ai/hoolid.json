@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegeleb hoolidega haigete eest",
-    "Hoolid on vajalikud vanurite jaoks",
-    "Me peame olema hoolikad laste eest"
+    "Hoolid sind temast?",
+    "Kas sa hoolid minu arvamusest?",
+    "Me ei hooli sellest, mis teete."
   ],
   "translation": [
     "care",
-    "cares",
-    "concerns"
+    "mind",
+    "worry about"
   ],
-  "context": "The word 'hoolid' in Estonian generally refers to the act of taking care or being concerned about something or someone, often implying a sense of responsibility or attention towards their well-being."
+  "context": "The word 'hoolid' is the second person singular form of the verb 'hoolima', which means to care or to mind. It's commonly used in questions and statements to express concern or whether someone cares about something or someone."
 }

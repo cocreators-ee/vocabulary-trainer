@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma maksan arve kohe.",
-    "Ta on maksnud kõik oma võlad.",
-    "Me peame maksma renti õigeaegselt."
+    "Maksan arve ära.",
+    "Ta maksis kõik võlad ära.",
+    "Me peame maksma makse."
   ],
   "translation": [
     "to pay",
-    "paying"
+    "to cover the cost of",
+    "to settle"
   ],
-  "context": "The word 'maksma' is a verb in Estonian that means to pay or be paying something, often used in the context of financial transactions or obligations."
+  "context": "The Estonian word 'maksma' is an infinitive verb that means 'to pay'. It's commonly used in contexts involving financial transactions, settling bills, or covering costs. The verb can be conjugated for different persons and tenses, such as maksan (I pay), maksad (you pay), maksab (he/she/it pays), etc."
 }

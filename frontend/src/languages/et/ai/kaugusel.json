@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elas kaugusel linnast.",
-    "Kaugusel ei olnud kedagi.",
-    "Kaugusel mägedes oli võimsaim koobas."
+    "Kaugusel on hea nähtavus.",
+    "Tule mind otsima siit kauguselt!",
+    "Linn asub merest mõne kilomeetri kaugusel."
   ],
   "translation": [
-    "in the distance",
-    "far away",
-    "at a distance"
+    "at a distance",
+    "from afar",
+    "away from"
   ],
-  "context": "The word kaugusel is an adverb in Estonian that means at or to a distance, it can be used to describe something that is far away or remote."
+  "context": "The word 'kaugusel' is the inessive case (inessiiv) form of the Estonian noun 'kaugus', which means 'distance'. In this case, it indicates location at or within a certain distance. The ending '-el' marks the inessive case used to express being inside something or in a location. It's commonly used with prepositions or spatial contexts to indicate where something is located in relation to a point of reference."
 }

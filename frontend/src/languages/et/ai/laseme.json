@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lasen sulle minna.",
-    "Laseme talle juba teada.",
-    "Ära laseme neil siis midagi teha."
+    "Laseme eile õhtul kodus.",
+    "Me laseme homseks varakult magama.",
+    "Ta lasemata päeval tööd teha."
   ],
   "translation": [
-    "allow",
-    "let (someone do something)",
-    "permit"
+    "let's go to sleep",
+    "let us sleep",
+    "we'll go to bed"
   ],
-  "context": "'Laseme' is the first person plural form of 'lasma', which means to allow or let someone do something. It is used in situations where a group allows another individual or group to perform an action, often implying permission or tolerance."
+  "context": "The word 'laseme' is the 1st person plural present indicative form of the verb 'lama', which means 'to lie down' or 'to go to sleep'. It's a command or suggestion for a group including the speaker to go to bed. The verb belongs to the conjugation pattern where -me indicates 1st person plural (we) and present tense."
 }

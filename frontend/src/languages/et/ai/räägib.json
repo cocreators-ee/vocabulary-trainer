@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta räägib palju.",
-    "Räägi vaiksemalt!",
-    "Kas sa räägid soome keelt?"
+    "Tüdruk räägib oma emaga.",
+    "Mees räägis töökohtadest.",
+    "Lapsed ei räägi tavalistesti nii palju."
   ],
   "translation": [
-    "speaks"
+    "speaks",
+    "talks",
+    "says"
   ],
-  "context": "Used to describe the act of speaking or talking in Estonian."
+  "context": "The word 'räägib' is the 3rd person singular present tense form of the Estonian verb 'rääkima', which means 'to speak' or 'to talk'. It describes someone who is currently speaking or talking. The base form 'rääkima' can be conjugated into different tenses and forms: räägin (I speak), räägid (you speak), räägib (he/she/it speaks), räägime (we speak), räägite (you plural speak), räägivad (they speak)."
 }

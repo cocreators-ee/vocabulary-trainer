@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tavaliselt võtame me homme suurema koguse.",
-    "Ta tavaliselt ei ole nii tore.",
-    "Olen tavaliselt väga hea tööline."
+    "Tavaliselt ma tõstan kell kuus üles.",
+    "Meie perekond tavaliselt sööb koos õhtul.",
+    "Kas sa tavaliselt jooksed hommikul?"
   ],
   "translation": [
     "usually",
     "normally",
+    "typically",
     "generally"
   ],
-  "context": "The word tavaliselt is an adverb in Estonian that is commonly used to describe something that happens or is done regularly or normally, similar to the English word usually."
+  "context": "The word 'tavaliselt' is an adverb in Estonian that indicates something happens most of the time or under normal circumstances. It's commonly used to describe habitual actions or typical situations. The word comes from 'tavane' (usual/normal) with the adverb-forming suffix '-lt'."
 }

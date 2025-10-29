@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sinu koer on ilus.",
+    "Sinu nimi on mis?",
     "Ma olen sinu sõber.",
-    "Ta on sinu vanem vend."
+    "Kas sa meeldid mulle? See on sinu valik."
   ],
   "translation": [
     "your",
     "yours"
   ],
-  "context": "The word 'sinu' is a possessive pronoun in Estonian, used to indicate that something belongs to the person being addressed, similar to 'your' or 'yours' in English."
+  "context": "The Estonian word 'sinu' is a possessive pronoun that means 'your' in English. It indicates possession or belonging to the person being addressed (second person singular). In Estonian, possessive pronouns agree with the noun they modify in case and number. The word 'sinu' specifically belongs to the second person singular form, used when speaking to one person informally."
 }

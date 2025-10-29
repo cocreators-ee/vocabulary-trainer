@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen ligidal sinus",
-    "Ta on ligi kolm korda nii suur kui mina",
-    "Ligi pooled inimesed ei oska sellest aru"
+    "Ligi kaks tundi kestis koosolek.",
+    "Kõrgeim mägi on ligi 8000 meetrit kõrgus.",
+    "Ta jooksis ligi poole kilomeetri."
   ],
   "translation": [
-    "near",
-    "about",
-    "around"
+    "almost",
+    "nearly",
+    "about"
   ],
-  "context": "The word 'ligi' is commonly used in Estonian to indicate proximity or approximation, similar to the English words 'near', 'about', or 'around'."
+  "context": "The Estonian word 'ligi' is an adverb that means almost, nearly, or about when indicating approximation. It's commonly used with time expressions (ligi kaks tundi - almost two hours), measurements (ligi 8000 meetrit - almost 8000 meters), or distances (ligi poole kilomeetri - about half a kilometer)."
 }

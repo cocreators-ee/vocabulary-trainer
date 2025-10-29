@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Niitä ei ole enää saatavilla.",
-    "He pitävät niitä erittäin arvossa.",
-    "Onko sinulla vielä niitä jäljellä?"
+    "Minä näen niitä kissoja.",
+    "Osta niitä omenoita.",
+    "Puhu heille niistä tapahtumista."
   ],
   "translation": [
-    "them (partitive plural)",
-    "those things",
-    "those items"
+    "those",
+    "them"
   ],
-  "context": "'niitä' is the partitive plural form of 'ne', meaning 'they/them/they'. It commonly refers to objects or abstract concepts and is used in situations where the quantity, availability, or relevance of those things is being discussed."
+  "context": "The Finnish word 'niitä' is the partitive plural form of the pronoun 'ne', meaning 'those' or 'them'. It's used to indicate an unspecified quantity of things previously mentioned or understood from context. The '-itä' ending indicates this is a partitive plural form, which in Finnish expresses partialness, indefiniteness, or ongoing action."
 }

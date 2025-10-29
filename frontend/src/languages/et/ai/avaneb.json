@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Uks avaneb uksehingi abil",
-    "Värav avaneb homme",
-    "Akna ava üles ja alla liigutamiseks vajuta avaneb nuppu"
+    "Uks avaneb kell seitse.",
+    "Aken avaneb päikeseloojangu ajal.",
+    "Pood avaneb hommikul kell kaheksa."
   ],
   "translation": [
     "opens",
-    "will open",
-    "is opened"
+    "is opening",
+    "becomes accessible"
   ],
-  "context": "The word 'avaneb' is a verb in Estonian that means to open something, and it is commonly used in various contexts such as opening doors, windows, or other objects."
+  "context": "The Estonian word 'avaneb' is the third person singular form of the verb 'avama', which means 'to open'. It describes something that opens or becomes accessible, often used for doors, windows, shops, or opportunities. The verb indicates a transition from closed to open state."
 }

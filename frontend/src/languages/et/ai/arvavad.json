@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvavad, et see on hea mõte.",
-    "Nemad arvavad, et see ei ole võimalik.",
-    "Meie kõik arvavad, et see on õige."
+    "Naised arvavad, et mees on ilus.",
+    "Lapsed arvavad, et jõuluvana tuleb homme.",
+    "Kas sa arvad, et see tõene on?"
   ],
   "translation": [
     "think",
     "believe",
-    "consider"
+    "suppose"
   ],
-  "context": "The word 'arvavad' is a verb in Estonian that means to think or believe something, and it is commonly used in sentences to express opinions or thoughts."
+  "context": "The word 'arvavad' is the 3rd person plural present indicative form of the Estonian verb 'arvama', which means 'to think' or 'to believe'. It is used when referring to what multiple people (they/those people) think or believe about something. The '-dav' ending indicates it's in the present tense and refers to a group of people rather than an individual."
 }

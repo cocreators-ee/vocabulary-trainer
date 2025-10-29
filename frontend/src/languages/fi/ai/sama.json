@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on sama t-paita kuin sinulla",
-    "Sama asia tapahtui eilen",
-    "Hänellä on samat vaatimukset kuin meillä"
+    "Se on sama asia.",
+    "Sama asia tapahtuu uudelleen.",
+    "Minulla on sama auto kuin sinulla."
   ],
   "translation": [
-    "same",
-    "identical",
+    "the same",
+    "similar",
     "equal"
   ],
-  "context": "The word 'sama' in Finnish is commonly used to describe something that is identical or equal to something else, and it can be used in various contexts such as comparing objects, situations, or ideas."
+  "context": "The Finnish word 'sama' is an adjective that means 'the same'. It's used to indicate equality or similarity between things, people, or situations. In different contexts, it can be translated as 'same', 'similar', or 'equal'. The word doesn't change form for gender but does change for number - 'samat' would be the plural form meaning 'the same ones'."
 }

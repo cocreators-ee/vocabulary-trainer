@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän rikkoi kätensä.",
-    "Rikkoiko hän kätensä?",
-    "Olen varma, että hän ei rikkonut kättään."
+    "Rikkoit naamasi!",
+    "Hän rikkoi ikkunan.",
+    "Se rikkoi sydämeni."
   ],
   "translation": [
     "broke",
-    "broken"
+    "damaged",
+    "destroyed"
   ],
-  "context": "The word 'rikkoi' is the third person singular form of the verb 'rikkoa', which means to break something, and it is commonly used in Finnish to describe an action of breaking or shattering an object."
+  "context": "The Finnish word 'rikkoi' is the third-person singular past tense form of the verb 'rikkoa', which means 'to break'. It indicates that someone or something broke, damaged, or destroyed an object in the past. The verb is transitive and requires a direct object (what was broken)."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Väike poiss jooksis pargis.",
-    "Ta on armas poiss.",
-    "Minu poiss läheb kooli."
+    "Poiss sai kinno.",
+    "Tule poisile koju.",
+    "Mängime poisiga mänge."
   ],
   "translation": [
     "boy",
+    "son",
     "lad",
-    "youngster"
+    "young man"
   ],
-  "context": "The word 'poiss' in Estonian refers to a male child or young man. It is commonly used to describe someone who is not yet fully grown, similar to the English words 'boy', 'lad', or 'youngster'. The form 'poisile' is the dative case of 'poiss', indicating that it is the indirect object of a verb."
+  "context": "The word 'poisile' is the allative case form of 'poiss', which means 'boy' in Estonian. The allative case indicates motion towards or to a location, so 'poisile' specifically means 'to the boy' or 'toward the boy'. It's used when you want to indicate movement toward a boy or giving something to him."
 }

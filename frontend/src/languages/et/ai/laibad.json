@@ -1,15 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma ostsin laiba kohviga.",
-    "Laiba on naise käes.",
-    "Tema mõte said laibaks."
+    "Laibad olid metsas peidetud.",
+    "Nägin laibu tänaval.",
+    "Politsei otsis laibu kuude kaupa."
   ],
   "translation": [
-    "Bread",
-    "Loaf (of bread)",
-    "Slice (of bread)"
+    "bodies",
+    "corpses",
+    "cadavers"
   ],
-  "context": "'Laibad' is the plural form of 'laib,' which can mean 'bread' in general, a specific 'loaf of bread,' or a 'slice of bread.' It's commonly used when referring to eating or buying bread."
+  "context": "The word 'laibad' is the plural form of 'laip' in Estonian, meaning 'body' or 'corpse'. It refers to dead bodies or corpses. This word typically carries a neutral or slightly formal tone when used in official contexts like police reports or news about deaths, but can be used more generally to refer to any corpse."
 }

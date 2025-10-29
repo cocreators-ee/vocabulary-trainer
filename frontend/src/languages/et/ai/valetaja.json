@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on suur valetaja.",
-    "Valetajad ei ole usaldusväärsed.",
-    "Ma olen kuulnud, et tema on valetaja."
+    "Valetaja on inimene, kes valetab regulaarselt.",
+    "Tema käitumisest sai selgeks, et ta oli tuntud valetaja.",
+    "Lapsed ei usalda seda last, sest on teada tema kui valetajamaine kuulsus."
   ],
   "translation": [
     "liar",
-    "deceiver",
-    "faker"
+    "person who tells lies frequently"
   ],
-  "context": "The word valetaja refers to a person who habitually tells lies or falsehoods, and is commonly used in Estonian to describe someone who is dishonest or untrustworthy."
+  "context": "The word 'valetaja' is a noun in Estonian that refers to a person who regularly or habitually tells lies. It comes from the verb 'vale' (to lie) plus the suffix '-taja', which forms agent nouns indicating someone who performs an action. The word specifically implies someone with a pattern of dishonesty rather than just telling an occasional untruth."
 }

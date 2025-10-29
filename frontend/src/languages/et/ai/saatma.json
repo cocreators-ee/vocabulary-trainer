@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen saatma seda kirja",
-    "Ta on saatnud mind selle küsimusega",
-    "Nad on saatmas meile abi"
+    "Kuidas sa saad mind koju?",
+    "Tema saadis kiri.",
+    "Me saadame homme linna."
   ],
   "translation": [
     "to send",
-    "to dispatch"
+    "to dispatch",
+    "to transmit"
   ],
-  "context": "The word 'saatma' is a verb in Estonian that means to send or dispatch something, often used in the context of sending messages, packages, or assistance."
+  "context": "Saatma is an Estonian verb that means 'to send' or 'to dispatch'. It's a first conjugation verb (-ma ending) and can be used in various contexts such as sending letters, messages, people, or objects to different locations. The verb changes form depending on the subject (I send, you send, he/she sends, etc.) and tense."
 }

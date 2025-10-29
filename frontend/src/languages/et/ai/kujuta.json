@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kujutan ette, et ta on hästi.",
-    "Ta kujutab endale ette, mis võib juhtuda.",
-    "Kujuta oma lapsepõlve elu ette."
+    "Kujuta ette, kuidas see koht näeb välja.",
+    "Sa ei suuda kujutada, kui palju ma olen väsinud.",
+    "Kuidas sa kujutad endale oma tulevikku?"
   ],
   "translation": [
     "imagine",
     "picture",
-    "think"
+    "visualize",
+    "depict"
   ],
-  "context": "The word 'kujuta' in Estonian means to imagine or picture something in your mind, and it is commonly used in the context of thinking about a situation or scenario."
+  "context": "The Estonian word 'kujuta' is an imperative form of the verb 'kujutama', which means to imagine, picture, visualize, or depict. It's used when commanding someone to create a mental image or representation of something."
 }

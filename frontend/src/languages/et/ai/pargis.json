@@ -1,15 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Me läksime eile pargis jalutama.",
-    "Lapsed mängisid rõõmsalt pargis.",
-    "See on ilus park linnas."
+    "Olen pargis.",
+    "Lapsed mängivad pargis.",
+    "Me kohtume pargis kell 15."
   ],
   "translation": [
-    "park",
-    "garden",
-    "greenspace"
+    "in the park"
   ],
-  "context": "The word 'pargis' in Estonian translates to 'in the park' or 'at the park' in English. It indicates a location – an area of natural, semi-natural or planted space set aside for recreational use."
+  "context": "The Estonian word 'pargis' is an inessive case form of 'park', meaning 'in the park'. It indicates location within something, and is formed by adding the '-s' suffix to the genitive stem 'pargi-'. The inessive case answers the question 'kus?' (where?) with a location inside something."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olen menossa elokuviin klo 18.",
-    "Tapaamme sinut klo 14:30.",
-    "Juna lähtee klo 20:15."
+    "Kello on kolme.",
+    "Meno klo 18:00.",
+    "Aloitamme klo 9."
   ],
   "translation": [
-    "o'clock",
-    "the hour"
+    "at (time)",
+    "(time) o'clock"
   ],
-  "context": "‘Klo’ is a common abbreviation in Finnish for ‘kello’, meaning 'o'clock'. It is used before specifying the time, similar to how we use 'at' or 'o'clock' in English. For example, ‘klo 15:00’ means ‘3 PM’."
+  "context": "In Finnish, 'klo' is a shortened form of the word 'kello' meaning 'clock' or 'hour'. It's commonly used as a preposition before time expressions to indicate when something happens. It functions similarly to English 'o'clock' but can be used with any time format."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ootasin teda kogu õhtu.",
-    "Ta ootas mind jalutuskäigu ajal.",
-    "Me ootame koos head ilmatuult."
+    "ootasin sind hommikul",
+    "Ma ootasin sind terve tunni",
+    "Ootasin sind koolis"
   ],
   "translation": [
-    "I was waiting for him.",
-    "He waited for me during the walk.",
-    "We wait together for good weather."
+    "was waiting for",
+    "expected",
+    "awaited"
   ],
-  "context": "The word 'ootasin' is the first person singular past tense form of the Estonian verb 'ootama', which means to wait. It is commonly used in everyday conversations to describe waiting for someone or something."
+  "context": "The word 'ootasin' is the past tense first person singular form of the Estonian verb 'ootama', which means to wait, expect, or await. It indicates that someone was in a state of waiting for something or someone in the past."
 }

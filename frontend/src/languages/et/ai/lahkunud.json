@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Ta on lahkunud töölt.",
-    "Lahkunud inimene ei saa enam tagasi tulla.",
-    "Lahkunute mälestuseks peetakse ausammas."
+    "Kas sa oled juba lahkunud?",
+    "Lahkunud inimesed ei naasta kunagi."
   ],
   "translation": [
-    "deceased",
-    "departed",
-    "late"
+    "left (departed)",
+    "gone away",
+    "resigned"
   ],
-  "context": "The word 'lahkunud' in Estonian refers to someone who has passed away or is no longer alive, and it is commonly used in formal or official contexts to express condolences or refer to the deceased."
+  "context": "The word 'lahkunud' is the past participle form of the verb 'lahkuma', which means 'to leave', 'to depart', or 'to resign'. In Estonian, it's commonly used to describe someone who has left a place (like home or work) or resigned from a position. It can refer to both temporary absence and permanent departure."
 }

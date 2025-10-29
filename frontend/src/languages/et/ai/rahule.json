@@ -1,11 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tegi sammu rahule."
+    "Ta on rahule oma tööga.",
+    "Lapsed said rahule mängida pärast kooli.",
+    "Pole midagi muretseda, ta on juba rahule."
   ],
   "translation": [
-    "peacefully"
+    "at peace",
+    "content",
+    "satisfied",
+    "calm"
   ],
-  "context": "The word 'rahule' is a form of an Estonian adjective meaning 'peaceful.' It can be used to describe something that is done in peace or with peaceful intentions."
+  "context": "The word 'rahule' is the adessive case form of the noun 'rahu', meaning 'peace'. It functions as an adjective or predicate indicating a state of being peaceful, content, satisfied, or calm. In English, it's often translated as 'at peace', 'content', 'satisfied', or 'calm'. This form is commonly used to describe someone's emotional or psychological state after resolving worries or achieving satisfaction."
 }

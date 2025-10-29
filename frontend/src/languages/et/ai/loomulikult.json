@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen loomulikult nõus",
-    "Loomulikult on see hea mõte",
-    "Ta vastas loomulikult"
+    "Loomulikult see nii on.",
+    "Ta loomulikult keeldus.",
+    "Pole vaja loomulikult imestada."
   ],
   "translation": [
     "naturally",
     "of course",
-    "obviously"
+    "obviously",
+    "as expected"
   ],
-  "context": "The word 'loomulikult' in Estonian means 'naturally' or 'of course', and is used to express that something is obvious or expected."
+  "context": "The Estonian word 'loomulikult' is an adverb that means naturally, of course, or obviously. It's used to indicate something that is self-evident, to be expected, or follows logically from a situation. The word comes from the adjective 'loomulik' (natural) and the suffix '-ult' which forms adverbs in Estonian. It can express agreement with what was previously said, confirm an obvious fact, or introduce something that should be taken for granted."
 }

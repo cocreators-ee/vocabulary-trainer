@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta suudab seda teha.",
-    "Ma ei suuda aru saada.",
-    "Kas sul suudab see õnnestuda?"
+    "Suudad sa kuidagi seda aru saada?",
+    "Tema suudab hästi klaverimängida.",
+    "Lapsed suudavad kiiresti õppida."
   ],
   "translation": [
-    "manages to",
     "is able to",
-    "can"
+    "can",
+    "knows how to"
   ],
-  "context": "The word 'suudab' in Estonian means to be able to do something, and it is commonly used to express ability or capability."
+  "context": "The word 'suudab' is the third-person singular form of the Estonian verb 'suda', which means 'to know' or 'to be able'. It indicates that someone has the ability, skill, or knowledge to do something. This is similar to the English modal verb 'can' when used in the present tense for a single person (he/she/it)."
 }

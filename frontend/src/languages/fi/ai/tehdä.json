@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä teen tämän tehtävän",
-    "Hän teki sen itse",
-    "He tekevät sitä joka päivä"
+    "Minun täytyy tehdä läksyt.",
+    "Hän tekee ruokaa joka ilta.",
+    "Teimme yhdessä projektin."
   ],
   "translation": [
     "to do",
-    "make"
+    "to make",
+    "to create"
   ],
-  "context": "The word 'tehdä' is commonly used in Finnish to express the act of doing or making something, and it can be translated to English as 'to do' or 'make', depending on the context in which it is used."
+  "context": "The Finnish verb 'tehdä' is a versatile word that means 'to do', 'to make', or 'to create'. It's one of the most common verbs in Finnish and can be used in various contexts such as performing actions (doing homework), producing things (making food), or creating projects. The verb changes form depending on the subject and tense: 'teen' (I do/make), 'teet' (you do/make), 'tekee' (he/she/it does/makes), 'teemme' (we do/make), 'teette' (you plural/formal do/make), and 'tekevät' (they do/make)."
 }

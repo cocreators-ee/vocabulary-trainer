@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kohus on ülemkohtu otsusega tühistatud",
-    "Tallinna kohus otsustas küsimuse läbi vaatamise kohta",
-    "Eesti kohus ei saa teha otsust sellisel juhul"
+    "Kohus otsustas küsimuse ära.",
+    "Meil on kohus teiste ees.",
+    "Kohused ja õigused tulevad koos."
   ],
   "translation": [
     "court",
-    "law court",
-    "judiciary"
+    "tribunal",
+    "duty",
+    "obligation",
+    "responsibility"
   ],
-  "context": "The word 'kohus' in Estonian generally refers to a court of law or the judiciary, and is commonly used in formal and legal contexts to describe a place where justice is administered or a system for adjudicating disputes."
+  "context": "In Estonian, 'kohus' has two main meanings: 1) a court of law or tribunal where legal cases are heard and judgments are made, and 2) a duty, obligation, or responsibility that one has to fulfill. As a noun in nominative case, it can refer to either an institution (the court) or an abstract concept (duty/responsibility). In the legal context, it's used for judicial proceedings, while in everyday language, it often refers to moral or social obligations."
 }

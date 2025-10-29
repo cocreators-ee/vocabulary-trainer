@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma andestan sulle",
-    "Andeks mindi tema väitedele",
-    "Ta palus andeks oma eksituse eest"
+    "Palun andeks.",
+    "Vabandan andeks.",
+    "Mul on sulle andeks."
   ],
   "translation": [
-    "forgiveness",
-    "pardon",
-    "excuse"
+    "excuse me",
+    "pardon me",
+    "sorry"
   ],
-  "context": "The word 'andeks' in Estonian generally refers to the act of forgiving someone or something, and is commonly used in situations where one person is asking for or granting forgiveness to another."
+  "context": "Andeks is a common Estonian word used to politely ask for attention or apologize. It can function as 'excuse me' when trying to get someone's attention, 'pardon me' when asking someone to repeat something, or 'I'm sorry' when apologizing. The word comes from the root 'anda' meaning 'to give', and '-eks' is a suffix often used in polite expressions."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma juhtin autot.",
-    "Ta oskab juhtida jalgrattat.",
-    "Nad juhatasid meid mööda jõge."
+    "Ma juhin autot linna.",
+    "Tema juhib ettevõtet alates viimastest aastatest.",
+    "Miks sa ei jõua midagi juhtida?"
   ],
   "translation": [
     "to lead",
-    "to guide",
-    "to conduct"
+    "to drive",
+    "to manage",
+    "to control"
   ],
-  "context": "The word 'juhtida' is commonly used in Estonian to mean leading, guiding, or conducting something or someone, often implying a sense of control or direction."
+  "context": "The Estonian verb 'juhtida' has multiple meanings depending on the context. It can mean 'to lead' (as in leading people or a group), 'to drive' (operating a vehicle like a car), 'to manage' (running an organization or project), or 'to control' (having authority over something). The verb changes form based on tense, person, and number - for example, present tense first person singular is 'juhin', third person singular is 'juhib'. It can take different objects depending on its meaning: one might drive a car ('auto'), lead people ('inimesed'), manage a company ('ettevõte'), or control a situation ('olukord')."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu nahk on väga tundlik.",
-    "Tema naha toon muutub kui tal süda soovib.",
-    "Nahka ei saa märkida kui see on liiga sooja."
+    "Tõmban nahka kinni.",
+    "Mees oli nahk.",
+    "Kas te olete nahkas?"
   ],
   "translation": [
     "skin",
-    "temperament"
+    "leather",
+    "hide"
   ],
-  "context": "The word 'nahka' translates to 'skin' or 'temperament'. In Estonian, it is used both literally (referring to the physical skin) and figuratively (describing a person's temperament). The examples include references to sensitive skin, changing mood, and inability to mark something that is too hot."
+  "context": "The Estonian word 'nahka' is the illative singular form of the noun 'nahk', which means 'skin'. It translates to English as 'into skin', 'to leather', or 'into hide'. The word can refer to animal hide used for making leather goods, human skin, or the concept of entering something metaphorically (like being in someone's shoes)."
 }

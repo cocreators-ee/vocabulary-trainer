@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean seda laulu.",
-    "Kas sa tead, kus raamat on?",
-    "Ta ei tea midagi."
+    "Ei vea küll, aga ma olen väga väsinud.",
+    "Ta ei vea midagi kodus.",
+    "Miks sa ei vea?"
   ],
   "translation": [
-    "know",
-    "be aware of",
-    "have knowledge of"
+    "to pull",
+    "to drag",
+    "to haul"
   ],
-  "context": "The verb 'teada' in Estonian translates to 'to know' in English. It expresses familiarity with facts, information, people, or things. It is a common and versatile verb used in many everyday contexts."
+  "context": "The word 'vean' is the first person singular present tense form of the Estonian verb 'vedama', which means 'to pull', 'to drag', or 'to haul'. It indicates that someone is performing the action of pulling something in the current moment. The '-n' ending at the end of the word is typical for first person singular forms in Estonian verbs."
 }

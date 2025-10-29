@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ilm on ilus.",
-    "Ta armastab ilusat ilma.",
-    "Paha ilm ei häiri teda."
+    "Ilm on täna ilus.",
+    "Väga halb ilm tänaseks.",
+    "Mida sa arvad ilma kohta?"
   ],
   "translation": [
     "weather",
-    "air"
+    "atmosphere",
+    "climate"
   ],
-  "context": "The word 'ilm' in Estonian generally refers to the state of the atmosphere at a particular place and time, such as weather or air quality."
+  "context": "The Estonian word 'ilm' refers to weather, atmosphere, or climate. It's a common noun used in everyday conversation to describe current atmospheric conditions or general climatic patterns."
 }

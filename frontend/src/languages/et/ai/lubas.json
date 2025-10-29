@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta vandenimel lubas mind liituda.",
-    "Vanemad ei luba tal minna sinna öösel.",
-    "Lubage kaasa tuua oma kassid."
+    "Tema lubas homme minuga kohtuda.",
+    "Ta ei lubanud tulla.",
+    "Kas sa lubad mind aidata?"
   ],
   "translation": [
-    "allowed"
+    "promised",
+    "allowed",
+    "permitted"
   ],
-  "context": "'lubas' is the past tense of 'to allow', it indicates someone permitted something to happen or be done. Common in everyday conversation and writing."
+  "context": "The Estonian word 'lubas' is the past tense third person singular form of the verb 'luba', which means to promise, allow, or permit. It typically refers to someone making a commitment or giving permission in the past."
 }

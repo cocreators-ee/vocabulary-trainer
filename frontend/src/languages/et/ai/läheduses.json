@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hotell asus linnas läheduses.",
-    "Läheduses on palju poodi.",
-    "Kooli läheduses elab palju lapsi."
+    "Tere tulemast läheduses!",
+    "Pood on meie majja läheduses.",
+    "Läheduses on ka restoran ja kohvik."
   ],
   "translation": [
     "nearby",
-    "in the vicinity"
+    "in the vicinity",
+    "close by"
   ],
-  "context": "The word läheduses is an adverb in Estonian that means being near or close to something in terms of physical location, and it is commonly used to describe the proximity of one place to another."
+  "context": "The word 'läheduses' is an Estonian adessive case form of the noun 'lähedus', which means 'closeness' or 'proximity'. In the adessive case, it indicates location near something or someone. It's commonly used to indicate that something is situated close by or in the vicinity of a particular place."
 }

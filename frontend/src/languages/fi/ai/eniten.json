@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä olen eniten kiinnostunut matkustamisesta.",
-    "Hän on eniten opiskellut tätä aikaa.",
-    "Meillä on eniten rahaa täällä."
+    "Minulla on eniten ystäviä luokassa.",
+    "Hän opiskelee eniten koko kurssilla.",
+    "Eniten olen kiinnostunut musiikista."
   ],
   "translation": [
     "most",
-    "the most"
+    "the most",
+    "at the most"
   ],
-  "context": "The word 'eniten' is used to indicate the greatest amount or degree of something, often translated as 'most' in English. It can be used in various contexts such as comparing quantities or qualities."
+  "context": "The Finnish word 'eniten' is an adverb that means 'most' or 'to the greatest extent'. It is used to compare quantities and indicate the highest degree of something among multiple options. In Finnish grammar, it's the superlative form of paljon (much/many) and follows the same comparative pattern as many other adverbs."
 }

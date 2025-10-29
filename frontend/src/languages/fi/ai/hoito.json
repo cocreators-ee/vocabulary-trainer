@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hoitohenkilökuntaa tarvitaan sairaaloissa",
-    "Lapsen hoito on vanhempien vastuulla",
-    "Hänellä on kokemusta hoitotyöstä"
+    "Hoito on tärkeä osa terveydenhuoltoa.",
+    "Potilas tarvitsee säännöllistä hoitoa.",
+    "Eläinlääkärin antama hoito auttoi eläintä toipumaan."
   ],
   "translation": [
     "care",
-    "nursing"
+    "treatment",
+    "handling"
   ],
-  "context": "The word 'hoito' in Finnish generally refers to the act of taking care of something or someone, and it is commonly used in contexts such as healthcare, childcare, or social services."
+  "context": "In Finnish, 'hoito' is a noun that refers to care, treatment, or handling. It's commonly used in medical contexts for healthcare and medical treatments, but can also refer to general care of people, animals, or things. The word comes from the verb 'hoitaa' (to take care of, to treat)."
 }

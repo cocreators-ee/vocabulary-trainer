@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma naeran palju, kui kuulen selle.",
-    "Tema naersu on liiga kõrgealune.",
-    "Mina ei suuda teda kontrollima jätta, isegi kui ta naerab."
+    "Naerin naeru.",
+    "Ta naeris heatahnilikult.",
+    "Lapsed said naurda."
   ],
   "translation": [
-    "laugh",
-    "laughter",
-    "to laugh"
+    "to laugh",
+    "laughing"
   ],
-  "context": "The word 'naerma' in Estonian refers to the act of laughing or laughter itself. It can be used both as a verb meaning 'to laugh' and as a noun for 'laughter'. In sentences, it might describe someone's action when they find something funny, like 'I laugh a lot when I hear that.'"
+  "context": "The verb 'naerma' is the infinitive form of 'närma', which means 'to laugh'. It's used to express the action of laughing or finding something humorous. The word can be conjugated in different tenses: näran (I laugh), närad (you laugh), naerab (he/she/it laughs), narisime (we laugh), narite (you plural laugh), and närad (they laugh). The past participle form is 'naerin' (I laughed) or 'narisin', depending on conjugation pattern."
 }

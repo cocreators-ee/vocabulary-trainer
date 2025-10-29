@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Miehet tulivat juhliin myöhässä.",
-    "Hän on yksi miehistä, jotka ovat menneet kuuhun.",
-    "Miehet ja naiset istuivat eri puolilla huonetta."
+    "Miehet ovat usein pidempiä kuin naiset.",
+    "Nämä miehet tulivat viime yönä kotiin.",
+    "Kuinka monta miestä tulee juhliin?"
   ],
   "translation": [
-    "men"
+    "men",
+    "males"
   ],
-  "context": "The word 'miehet' is the plural form of 'mies', which means man, and it is commonly used to refer to a group of men or males in general."
+  "context": "\"Miehet\" is the plural form of the Finnish word \"mies\", which means \"man\" or \"male\". It refers to multiple men or males in general. The word follows Finnish grammar rules for pluralization, where the ending changes from singular to indicate more than one person."
 }

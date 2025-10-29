@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Naise juuksed olid pikad.",
-    "Ta nägi naist jalutamas.",
-    "Naised said koos ja rääkisid."
+    "Tema on ilus naise.",
+    "Naised on head töötajad.",
+    "Meie naiste kogumine algab kell 18."
   ],
   "translation": [
     "woman",
     "wife"
   ],
-  "context": "The word 'naise' in Estonian refers to a woman or wife, and is commonly used in various contexts to describe an adult female person."
+  "context": "The word 'naise' in Estonian is the genitive singular form of the noun 'naine', which means 'woman'. In genitive case, it typically shows possession or association. It can be translated to English as 'of a woman', 'woman's', or used with verbs that require this grammatical form."
 }

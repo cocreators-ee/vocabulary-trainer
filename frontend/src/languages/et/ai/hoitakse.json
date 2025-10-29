@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta hoitakse haava",
-    "Hoitakse teda väga hästi",
-    "Meie hoitame loomi"
+    "Päikeseloojang hoitakse ilusasti.",
+    "Hoitud meisterlikkus nähtub väikesesses asjas.",
+    "Tema käest hoitakse kõrgeid ootusi."
   ],
   "translation": [
-    "is taken care of",
-    "takes care",
-    "nurse"
+    "is being kept",
+    "is preserved",
+    "is maintained"
   ],
-  "context": "The word hoitakse is commonly used in Estonian to convey the idea that someone or something is being taken care of or nursed, often implying a sense of responsibility and attention towards their well-being."
+  "context": "The word 'hoitakse' is the 3rd person singular present tense passive form of the verb 'hoidma', which means to keep, preserve, maintain, or hold. In this passive construction (impersonal third-person), it indicates that something is being kept/preserved/maintained without specifying who is performing the action. The '-takse' ending is typical for Estonian passive verbs in present tense."
 }

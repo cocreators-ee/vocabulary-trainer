@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu huvides on muusika ja spordi.",
-    "Ta tegevused ei vasta oma huvidesse.",
-    "See projekti eesmärk on arendada iseseisva elamist oskust ning toetada noorte kvaliteeti nende huvides."
+    "Minu huvides peaksid nad tegema seda.",
+    "Meie huvides on olulised headed suhted naabritega.",
+    "Temahuvides oli see parim lahendus."
   ],
   "translation": [
-    "interests"
+    "in someone's interests",
+    "for someone's benefit",
+    "on behalf of"
   ],
-  "context": "Huvides refers to a person's interests or areas of interest. It can be used to describe hobbies, professional fields one cares about, or any personal concerns and preferences."
+  "context": "The word 'huvides' is the Estonian instrumental plural form of 'huvis', which means 'interest'. It is used to indicate that something is done for someone's benefit or in their interests. This case form follows the -de ending pattern typical of Estonian plurals in the instrumental case."
 }

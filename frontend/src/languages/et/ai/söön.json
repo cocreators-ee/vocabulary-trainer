@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma söön leiba.",
-    "Sa sööd kala.",
-    "Ta sööb salati."
+    "Söön hommikuti.",
+    "Me sööm homme hommikuti.",
+    "Ta sööb alati kell seitsme."
   ],
   "translation": [
     "I eat",
-    "you eat",
-    "he/she/it eats"
+    "to eat"
   ],
-  "context": "The word 'söön' is the first person singular form of the verb 'sööma', which means to eat in Estonian. It is commonly used in everyday conversations to express the act of consuming food."
+  "context": "The word 'söön' is the first person singular present tense form of the Estonian verb 'sööma', which means 'to eat'. It is used when referring to oneself eating in the present moment. In Estonian, verbs conjugate according to person and number, so 'söön' specifically means 'I eat' as opposed to other forms like 'sa sööd' (you eat) or 'ta sööb' (he/she eats)."
 }

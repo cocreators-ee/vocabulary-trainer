@@ -1,17 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen teadlik, et tema ei tohi minu hingedest kõnelema hakata.",
-    "Mulle meeldib su suurepärane suhtumine ja see, mida sa temaga tehaksid.",
-    "Jäta endale selle asemel tema."
+    "Tema on hea õpetaja.",
+    "Mida ta teeb? Tema töötab pangas.",
+    "Ma ei tea, kuidas tema elab."
   ],
   "translation": [
-    "her",
-    "his",
-    "their",
-    "him",
-    "her"
+    "he/she/it",
+    "him/her/it"
   ],
-  "context": "Tema is a pronoun in Estonian that can mean 'his', 'her' or 'their' depending on the context of the sentence."
+  "context": "The word 'tema' is the third-person singular pronoun in Estonian. It can mean 'he', 'she', or 'it' depending on the gender of the person being referred to. In sentences, it follows the same grammatical rules as English pronouns but is used consistently regardless of gender until context makes it clear which gender is being discussed."
 }

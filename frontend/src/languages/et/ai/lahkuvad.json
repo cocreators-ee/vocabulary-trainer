@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lahkus varakult.",
-    "Nende sõbrad lahkusid juba.",
-    "Lahkuvad inimesed on need, kes ei tule enam tagasi."
+    "Lahkuvad bussid sõidvad kell kuus.",
+    "Töötajad lahkuvad firmast lõunaajal.",
+    "Järeltulijad lahkuvad iseseisvalt."
   ],
   "translation": [
+    "departing",
     "leaving",
-    "departing"
+    "setting off"
   ],
-  "context": "The word 'lahkuvad' is a verb that means to leave or depart from a place, and it is commonly used in Estonian to describe the act of going away or moving out."
+  "context": "The word 'lahkuvad' is the 3rd person plural present indicative form of the Estonian verb 'lahkuma'. It means that a group of people or things are leaving, departing, or setting off from a location. The '-d' ending indicates third person plural (they), and this form would be used when talking about buses, trains, groups of people, etc. that are currently in the process of leaving."
 }

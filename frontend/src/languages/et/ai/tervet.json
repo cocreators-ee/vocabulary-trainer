@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tervetasin teda.",
-    "Ta tervetab mind igal hommikul.",
-    "Tere tulemast!"
+    "Tere tulemast!",
+    "Tervist!",
+    "Kuidas tere?"
   ],
   "translation": [
     "hello",
-    "hi",
-    "greeting"
+    "greetings",
+    "welcome"
   ],
-  "context": "The word 'tervet' is a greeting in Estonian, commonly used to say hello or welcome someone."
+  "context": "The word 'tervet' is related to greetings and salutations in Estonian. It appears to be part of the common greeting phrase 'tere', which means hello or welcome. The word 'tervist' (health) is also derived from this root, indicating a wishing of good health when greeting someone."
 }

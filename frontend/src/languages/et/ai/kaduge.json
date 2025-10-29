@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma lähen kaduge peale.",
-    "Kaduge on täna väga rahvarohke.",
-    "Nad tormasid kaduge poole."
+    "Kaduge mind!",
+    "Ärge kaduge mind ära.",
+    "Ma ei taha, et te minu kaduge."
   ],
   "translation": [
-    "alleyway",
-    "lane",
-    "back street"
+    "lose me",
+    "don't lose me",
+    "let them lose me"
   ],
-  "context": "The word 'kaduge' in Estonian refers to a narrow street or alleyway, often found in older towns and cities. It can also imply a somewhat secluded or less-traveled path."
+  "context": "The word 'kaduge' is the plural imperative form of the verb 'kada' (to lose) in Estonian. It means 'lose!' and is used when addressing multiple people or using a formal/polite address. The base form 'kada' indicates losing something or someone, while this imperative form gives a command to others not to lose the speaker."
 }

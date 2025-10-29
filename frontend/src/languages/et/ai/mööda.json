@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta läks mööda jõge.",
-    "Mööda aiatäiet jagasid lapsed üksteist.",
-    "Meie lähme mööda teed."
+    "Ta jooksis mööda tänava.",
+    "Mööda metsa käisid linnud.",
+    "Auto sõitis mööda teed."
   ],
   "translation": [
     "along",
+    "past",
     "by"
   ],
-  "context": "The word 'mööda' is commonly used in Estonian to indicate movement or location along something, such as a river, road, or edge."
+  "context": "The Estonian word 'mööda' is a postposition that indicates movement alongside or past something. It's commonly used to describe the path of movement - when someone or something moves along a particular route, past certain objects, or by specific locations. In English, it corresponds to words like 'along', 'past', or 'by'."
 }

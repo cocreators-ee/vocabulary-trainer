@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli äkki uksest sisse",
-    "Äkki ilmub ta meie juurde",
-    " Äkki ei olnud võimalik"
+    "Äkki peaksid minema kiiresti.",
+    "Tule äkki koju!",
+    "Miks sa ei tule äkki?"
   ],
   "translation": [
     "suddenly",
-    "at once"
+    "maybe",
+    "perhaps"
   ],
-  "context": "The word äkki is an adverb in Estonian that means suddenly or at once, often used to describe a sudden event or action."
+  "context": "In Estonian, 'äkki' is an adverb that has multiple related meanings. Most commonly it means 'suddenly', indicating something happening unexpectedly or abruptly. It can also be used to express uncertainty or suggestion with meanings like 'maybe' or 'perhaps'. The exact meaning depends on the context in which it's used."
 }

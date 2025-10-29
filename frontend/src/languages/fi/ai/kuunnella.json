@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä kuunnellan kirjaa.",
-    "Hän kuunteli musiikkia.",
-    "He kuuntelevat radio-ohjelmaa."
+    "Minä kuuntelen musiikkia joka päivä.",
+    "Hän kuuntelee tarkasti opettajaa.",
+    "He kuuntelevat huolellisesti neuvoja."
   ],
   "translation": [
     "to listen",
-    "listen to"
+    "to hear",
+    "to pay attention"
   ],
-  "context": "The word 'kuunnella' is commonly used in Finnish to mean listening to something, such as music or a person, and it can be translated to English as 'to listen' or 'listen to'."
+  "context": "The Finnish word 'kuunnella' is a verb that means to listen or to pay attention. It's used when someone is actively focusing on hearing what others are saying or sounds around them. This word emphasizes the active process of listening rather than just passively hearing something."
 }

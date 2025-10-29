@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olin seal.",
-    "Ta oli minu sõber.",
-    "Me olime koos."
+    "Olin koolis homme.",
+    "Me olinid eile linna.",
+    "Tema oli suvi."
   ],
   "translation": [
     "was",
-    "been"
+    "were"
   ],
-  "context": "The word 'olin' is the first person singular form of the verb 'olema', which means 'to be'. It is commonly used in Estonian to describe a past state of being, similar to the English verb 'was' or 'been'."
+  "context": "The word 'olin' is the first person singular past tense form of the verb 'olema', meaning 'to be'. It translates to English as 'I was'. This form is used when the speaker is talking about themselves in the past."
 }

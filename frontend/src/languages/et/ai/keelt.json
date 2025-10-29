@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma räägin keelt väga hästi",
-    "Ta õppis keelt koolis",
-    "Keelt kasutatakse erinevates kontekstides"
+    "Töötan keelt.",
+    "Mul on hea keelt.",
+    "Kas sa räägid head keelt?"
   ],
   "translation": [
-    "language",
-    "tongue"
+    "tongue",
+    "language"
   ],
-  "context": "The word 'keelt' in Estonian generally refers to a language or tongue, and is commonly used in various contexts to discuss linguistic topics."
+  "context": "The word 'keelt' is the partitive singular form of the Estonian word 'keel', which can mean either 'tongue' or 'language'. It appears in contexts where you're talking about a tongue (as body part) or language as an abstract concept, and it's in the partitive case indicating partialness or indefinite quantity."
 }

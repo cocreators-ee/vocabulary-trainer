@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hea sooviga sulle aitama",
-    "Tema soov on minuga abielluda",
-    "Soovi korral võin ma aidata"
+    "Ma soovin head õhtust.",
+    "Tal on hea soov meiega koos käia.",
+    "See soov täitub kindlasti."
   ],
   "translation": [
     "desire",
     "wish",
-    "request"
+    "want",
+    "hope"
   ],
-  "context": "The word 'soov' generally refers to a person's desire or wish for something, and is commonly used in various contexts such as expressing one's intentions or asking for something."
+  "context": "In Estonian, 'soov' is a noun that means desire, wish, want, or hope. It can refer to someone's wishes or desires, things people want to happen, or hopes for the future. The word can be used in various contexts such as expressing personal desires, wishes for others, or hopeful expectations about events."
 }

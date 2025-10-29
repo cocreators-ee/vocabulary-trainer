@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen jõudnud kooli",
-    "Ta on jõudnud tööle",
-    "Nad on jõudnud koju"
+    "Ta jõudis kolmandaks kohteks.",
+    "Me oleme jõudnud lõppu.",
+    "Pole veel jõudnud kohale."
   ],
   "translation": [
     "reached",
-    "arrived"
+    "arrived",
+    "managed to get",
+    "succeeded in"
   ],
-  "context": "The word 'jõudnud' is the past tense of the verb 'jõudma', which means to reach or arrive at a place. It is commonly used in Estonian to indicate that someone has arrived at their destination."
+  "context": "The word 'jõudnud' is the past participle form of the Estonian verb 'jõuda', which means 'to reach', 'to arrive', or 'to manage/succeed in'. As a past participle, it typically indicates that someone has reached a destination, achieved something, or completed an action. The word can be used with different subjects (I/you/he/she/we/they) and may change form based on the grammatical case and conjugation."
 }

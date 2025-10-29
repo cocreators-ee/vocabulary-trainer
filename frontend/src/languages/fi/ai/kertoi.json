@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän kertoi minulle kaiken",
-    "Kertoi hänelle mitä tapahtui",
-    "Olen jo kertonut siitä"
+    "Hän kertoi minulle uutisen.",
+    "He kertoivat tarinansa kaikille.",
+    "Me kerromme teille tapahtuneesta huomenna."
   ],
   "translation": [
     "told",
-    "said",
-    "narrated"
+    "narrated",
+    "related"
   ],
-  "context": "The word 'kertoi' is the third person singular form of the verb 'kertoa', which means to tell or narrate something in Finnish. It is commonly used to describe the act of sharing information or a story with someone."
+  "context": "The Finnish word 'kertoi' is the past tense form of the verb 'kertoa', which means 'to tell' or 'to narrate'. It is used in third person singular (he/she told). The verb 'kertoa' refers to communicating information, stories, or facts to someone. In different contexts, it can mean telling a story, reporting something that happened, or sharing news with others."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta käis poes.",
-    "Meie klassi lapsed käisid ekskursioonil.",
-    "Kas sa oled juba seal käinud?"
+    "Minu kasi on külm.",
+    "Kasid olid väga pisikesed.",
+    "Ta tõi mulle kasi kohvi."
   ],
   "translation": [
-    "to go",
-    "to walk",
-    "to visit"
+    "hand",
+    "paw"
   ],
-  "context": "The Estonian word 'kasi' is a verb meaning 'to go', 'to walk', or 'to visit'. It’s a very common and versatile verb used in everyday conversation to describe movement from one place to another. It can also imply making a trip or visiting a location."
+  "context": "The Estonian word 'kasi' means 'hand'. It can refer to a human hand or an animal paw. In the examples provided, it's used in singular form ('kasi') and plural form ('kasid')."
 }

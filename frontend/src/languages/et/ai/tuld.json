@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen tuld seal",
-    "Tuld on palav",
-    "Ta tõi tule"
+    "Tuld on vaja.",
+    "Kas sa tuled?",
+    "Me tuld."
   ],
   "translation": [
-    "fire"
+    "fire",
+    "flame"
   ],
-  "context": "The word 'tuld' generally refers to fire in Estonian."
+  "context": "The word 'tuld' is the partitive case form of Estonian noun 'tuli', which means 'fire'. In Estonian grammar, the partitive case often indicates an incomplete action or the object being acted upon. So 'tuld' can mean 'fire' (in partitive sense) and might be used when referring to fire in a specific context, such as needing fire, seeing fire, or having some amount of fire."
 }

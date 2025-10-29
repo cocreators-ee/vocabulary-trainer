@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma käisin sõbraga kinno.",
-    "Sõbraga läksime koos äri.",
-    "Ta on hea sõber mulle."
+    "Ma sõltuv oma sõbrast.",
+    "Ta käis koos sõbraga pargis.",
+    "Me vestlesime pikalt sõbraga."
   ],
   "translation": [
     "with a friend",
-    "friend"
+    "together with a friend"
   ],
-  "context": "The word sõbraga is used in Estonian to indicate a relationship or action with a friend, similar to the English preposition 'with' when referring to a companion or associate."
+  "context": "The Estonian word 'sõbraga' is the adessive case form of 'sõber' (friend), meaning 'with a friend'. It indicates accompaniment or association. In Estonian grammar, this shows how nouns change form to indicate different relationships - in this case, being with someone."
 }

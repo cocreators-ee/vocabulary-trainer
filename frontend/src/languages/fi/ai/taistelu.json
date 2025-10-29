@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Taistelu on vaikea ja pitkä.",
-    "Hän osallistui taisteluihin toisessa maailmansodassa.",
-    "Taistelut ovat voineet vahingoittaa ympäristöä."
+    "Taistelu oli erittäin ankea.",
+    "Meidän täytyy voittaa taistelu.",
+    "Historiassa on monia merkittäviä taisteluita."
   ],
   "translation": [
-    "fight",
     "battle",
+    "fight",
     "struggle"
   ],
-  "context": "The word 'taistelu' in Finnish refers to a fight, battle, or struggle, and it is commonly used to describe a physical or mental confrontation between two or more parties."
+  "context": "The Finnish word 'taistelu' is a noun that primarily refers to a battle or fight, whether literal physical combat between armies or groups, or figurative struggles. It's commonly used in both historical contexts (referring to military battles) and everyday situations to describe conflicts or challenges."
 }

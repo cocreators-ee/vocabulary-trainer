@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on siin nimekiri kõige vajalikumatest asjadest.",
-    "Ta tegi nimekirja kõigist külastatud linnadest.",
-    "Nimekirjas oli mitu tuntud ärimeest."
+    "Tegemist on täieliku nimekirjaga kõikidest osalejatest.",
+    "Palun esitage oma eelistuste nimekiri.",
+    "Nimekiri oli väga pikk ja sisaldas sadu nimi."
   ],
   "translation": [
     "list",
     "register",
-    "catalogue"
+    "directory"
   ],
-  "context": "The word 'nimekiri' in Estonian refers to a list or register of items, and is commonly used in everyday language to describe a collection of things, such as a shopping list or a list of names."
+  "context": "The word 'nimekiri' is a noun in Estonian that means 'list' or 'register'. It refers to an enumeration of items, names, or data arranged in some order. The word can be used in various contexts such as guest lists, shopping lists, directories, or any organized collection of information."
 }

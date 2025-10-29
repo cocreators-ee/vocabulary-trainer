@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See jääb meelde.",
-    "Mul on see teada meie mõtlemiseks ja meeldejätmiseks.",
-    "Meil peaks meelde tulema kuidas meie eesmärke saavutada."
+    "Meeldes pidan ma kõiki asju üles kirjutama.",
+    "Seda teada on meeldejäänud minu hinge.",
+    "Kas sa ei tea seda meelde?"
   ],
   "translation": [
+    "remember",
     "in mind",
-    "remembered",
-    "to remember"
+    "to keep in mind"
   ],
-  "context": "The word 'meelde' is commonly used in Estonian to indicate something being kept in one's mind or remembered. It often appears with verbs like 'jääma' (to stay) or 'tulema' (to come) to form expressions related to remembering."
+  "context": "The Estonian word 'meelde' is used to indicate remembrance or keeping something in mind. It appears as part of the verb phrase 'meeldejääma' (to remember) and can also be used with other verbs like 'meeldetuletama' (to remind). The form shown here seems to be in the illative case, indicating motion into a state of remembrance or being kept in mind."
 }

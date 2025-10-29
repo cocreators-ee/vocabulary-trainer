@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maja on ehitatud puust.",
-    "Ta istus puu all.",
-    "Puu otsa on võimalik ronida."
+    "Puu kasvab aedas.",
+    "See on suur puu.",
+    "Lapsed mänguvad puu all."
   ],
   "translation": [
-    "tree",
-    "wood"
+    "tree"
   ],
-  "context": "The word 'puu' in Estonian generally refers to a tree or wood as a material, and it is commonly used in contexts related to nature, construction, or everyday objects made of wood."
+  "context": "The word 'puu' is the Estonian word for 'tree'. It's a singular noun that refers to a woody perennial plant with a single trunk and branches. In Estonian grammar, it follows standard noun declension patterns in both singular and plural forms."
 }

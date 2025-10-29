@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä talo on samankaltainen kuin naapurihani",
-    "Samankaltaiset kasvot ovat perinnöllisiä",
-    "Hänellä on samankaltainen tapa puhua kuin isällään"
+    "Tämä rakennus on samankaltainen kuin tuolla oleva.",
+    "Hänen tapansa olla on hyvin samankaltainen hänen isänsä kanssa.",
+    "Meillä on täysin samankaltaiset näkemykset asiasta."
   ],
   "translation": [
     "similar",
     "alike",
-    "like"
+    "comparable"
   ],
-  "context": "The word samankaltainen is a Finnish adjective that means similar or alike, and it is commonly used to describe things that have a resemblance to each other."
+  "context": "The Finnish word 'samankaltainen' means similar or alike. It's an adjective that describes things which share characteristics, appearance, or qualities with something else. The word can be used for people, objects, ideas, situations - essentially anything that has resemblance to another thing. In terms of grammar, it follows typical Finnish adjective patterns and would change form based on case, number, and the subject it modifies."
 }

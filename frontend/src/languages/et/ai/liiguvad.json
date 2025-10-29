@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Liiguvad inimesed vajavad rohkem toitu.",
-    "Ta liigub väga kiiresti.",
-    "Liiguvad esemed on ohtlikud."
+    "Tänavadel liiguvad palju inimesi.",
+    "Loomad liiguvad metsas vabalt.",
+    "Autod liiguvad kiirteel kiiresti."
   ],
   "translation": [
-    "moving",
-    "mobile"
+    "move",
+    "are moving",
+    "go"
   ],
-  "context": "The word liiguvad is a verb that means moving or being mobile in Estonian, it is commonly used to describe people, animals, or objects that are in motion."
+  "context": "The word 'liiguvad' is the third person plural form of the Estonian verb 'liiguma', which means 'to move'. It describes the action of movement or motion, often used for people, animals, or vehicles in motion. The -d ending indicates it's plural and present tense."
 }

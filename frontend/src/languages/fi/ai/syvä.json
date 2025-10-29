@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä järvi on syvä.",
-    "Syvällä meressä asuu paljon kalaa.",
-    "Hänellä on syvä ääni."
+    "Syvällä järven pohjalla on vanina laiva.",
+    "Hänellä on syvät ajatukset tulevaisuudesta.",
+    "Tämä kysymys on hyvin syvä ja monimutkainen."
   ],
   "translation": [
     "deep",
-    "profound"
+    "profound",
+    "intense"
   ],
-  "context": "The word 'syvä' in Finnish means deep or profound, and it is commonly used to describe physical depths, such as the depth of a lake or ocean, as well as abstract concepts, like a person's voice or emotions."
+  "context": "The Finnish adjective 'syvä' means deep, profound or intense. It can describe physical depth (like water), abstract concepts (thoughts, emotions), or the intensity of something. In different contexts, it might be declined in various forms - for example, 'syvällä' means deeply/profoundly when used as an adverb, and 'syvät' is the plural form meaning deep things."
 }

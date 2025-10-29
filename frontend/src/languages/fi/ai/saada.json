@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä saan uuden puhelimen.",
-    "Hän sai kirjeen eilen.",
-    "He saavat kaiken aina haluamansa."
+    "Minä saan kirjeen huomenna.",
+    "Sinä saat lahjan syntymäpäivänäsi.",
+    "He saivat uuden auton viime viikonloppuna."
   ],
   "translation": [
     "get",
     "receive",
-    "obtain"
+    "obtain",
+    "achieve"
   ],
-  "context": "The word 'saada' in Finnish means to get or receive something, and it is commonly used in various contexts such as getting a new phone, receiving a letter, or obtaining something desired."
+  "context": "The Finnish word 'saada' is a versatile verb that primarily means 'to get', 'to receive', or 'to obtain'. It's one of the most commonly used verbs in Finnish and can refer to receiving something physical, achieving something, or even experiencing certain states. The verb changes form depending on the subject (person) and tense - 'saan' for I get, 'saat' for you get, 'saamme' for we get, etc. It's an essential verb that appears in many everyday Finnish expressions."
 }

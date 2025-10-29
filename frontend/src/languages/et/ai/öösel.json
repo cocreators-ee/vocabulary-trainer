@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Öösel tõusis ukse tagant üles.",
-    "Öösel oli väga külm.",
-    "Ta läks öösel jalutama."
+    "Öösel on külm.",
+    "Me lähime öösel koju.",
+    "Ta töötas öösel."
   ],
   "translation": [
     "at night",
-    "nightly"
+    "during the night"
   ],
-  "context": "The word öösel is an adverb in Estonian that means at night or during the night, often used to describe something happening in the evening or nighttime hours."
+  "context": "The Estonian word 'öösel' is an adverb that means 'at night' or 'during the night'. It is formed from the root word 'öö' (night) with the suffix '-sel', which in Estonian can indicate a location, time, or manner. In this case, it specifically indicates the temporal sense of when something happens - during nighttime hours."
 }

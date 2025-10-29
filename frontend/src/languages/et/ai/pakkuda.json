@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pakkusin talle abi.",
-    "Ta pakub mulle kõige paremad võimalused.",
-    "Firma pakkus klientidele erilisi soodustusi."
+    "Pakun sulle oma abi.",
+    "Ta pakub meile head nõuandeid.",
+    "Kas sa paksid mulle veidi sõitu?"
   ],
   "translation": [
-    "to offer",
-    "to provide"
+    "offer",
+    "suggest",
+    "propose"
   ],
-  "context": "The word 'pakkuda' in Estonian means to offer or provide something, and it is commonly used in various contexts such as business, everyday conversations, and formal situations."
+  "context": "The Estonian word 'pakkuda' means to offer, suggest, or propose something. It is a verb that indicates presenting something to someone for consideration or acceptance. The word can be used in various contexts such as offering help, suggesting ideas, or proposing solutions. In different forms it appears as 'pakun' (I offer), 'pakub' (he/she/it offers), and 'pakkisid' (you offered)."
 }

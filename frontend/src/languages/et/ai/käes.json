@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on käes.",
-    "See on minu käes.",
-    "Käes on hea meel."
+    "Tema käes oli taskulamp.",
+    "Pesa oli kõrge puu käes.",
+    "Mul on palju tööd käes."
   ],
   "translation": [
     "in hand",
-    "at hand"
+    "in one's possession",
+    "being worked on"
   ],
-  "context": "The word käes is an adverb in Estonian that means something is within someone's power or control, or it can also mean something is currently being held or done by hand."
+  "context": "The Estonian word 'käes' is the inessive case form of 'käsi', meaning 'hand'. It indicates location or state within/on something. In this case, it shows when something is physically in someone's hand, when they have possession of something, or when there is work or a task being handled or worked on. The word can refer to physical location (something held in hand) or metaphorical states like having responsibilities."
 }

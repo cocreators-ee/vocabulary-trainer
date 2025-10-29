@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin seda raamatut.",
-    "Ta otsib tööd.",
-    "Nad otsivad lahendust."
+    "Otsi endale hea töökohta.",
+    "Ma otsin oma kadunud koera.",
+    "Kas sa otsid midagi?"
   ],
   "translation": [
-    "search",
-    "look for"
+    "look for",
+    "search for",
+    "seek"
   ],
-  "context": "The word 'otsi' is a verb in Estonian that means to search or look for something, and it is commonly used in everyday conversations to describe the act of trying to find something or someone."
+  "context": "The Estonian verb 'otsi' is the second-person singular form of the verb 'otsima', which means to look for, search for, or seek. It's an imperative form used when giving a direct command to someone (thou). For example, if you want to tell someone to look for something specific in Estonian, you would use 'Otsi...'."
 }

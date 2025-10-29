@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Lasin sisse külalised.",
-    "Ta lasi end tagasi jõuda.",
-    "Ma lasin filmis näha."
+    "Lasin sulle avada uksed.",
+    "Ma lasin tal minna.",
+    "Me lasime lapse mängida."
   ],
   "translation": [
     "let",
-    "allowed",
-    "to see"
+    "allow",
+    "permit"
   ],
-  "context": "'Lasin' means to let or allow in Estonian. It is commonly used to describe permitting an action or allowing someone into a place."
+  "context": "The word 'lasin' is the first person singular present tense form of the Estonian verb 'laskma', which means 'to let', 'to allow', or 'to permit'. It indicates that the speaker is granting permission or allowing someone to do something. This verb can be followed by the object in the partitive case and then an infinitive clause or a person with motion verbs indicating their action."
 }

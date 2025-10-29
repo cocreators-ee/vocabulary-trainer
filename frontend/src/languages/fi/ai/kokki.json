@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kokki laittoi ruokaa",
-    "Kokki on hyvä ammatti",
-    "Kokkikoulussa opetetaan ruuanvalmistusta"
+    "Minä olen kokki.",
+    "Kokki valmistaa ruokaa.",
+    "Hyvä kokki osaa monia reseptejä."
   ],
   "translation": [
-    "cook",
-    "chef"
+    "chef",
+    "cook"
   ],
-  "context": "The word 'kokki' refers to a person who prepares and cooks food, often in a professional setting such as a restaurant."
+  "context": "The Finnish word 'kokki' means chef or cook. It refers to a person who prepares food professionally. The word is used in both singular and plural forms (kokit) and can be modified with adjectives or other grammatical markers as needed."
 }

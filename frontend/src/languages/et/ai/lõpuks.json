@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta lõpuks saabus.",
-    "Ma olen lõpuks valmis.",
-    "Lõpuks sai meil õnnestuma."
+    "Lõpuks me jõudsime siia.",
+    "Ta lõpuks sai tööle.",
+    "Kuidas sa lõpuks hakkasid sellega tegelema?"
   ],
   "translation": [
     "finally",
-    "at last"
+    "at last",
+    "in the end"
   ],
-  "context": "The word 'lõpuks' in Estonian is used to indicate that something happens after a long wait or at the end of a process, similar to the English words 'finally' or 'at last'."
+  "context": "The word 'lõpuks' is an Estonian adverb that means 'finally', 'at last', or 'in the end'. It indicates that something has happened after a period of waiting, delay, or expectation. The word comes from the root 'lõpp' which means 'end', and the suffix '-uks' which makes it an adverb expressing time or manner. It's commonly used to mark the completion of a process or the resolution of a situation that was anticipated."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän antaa kirjan minulle.",
-    "Antaisitko minulle vesipullo?",
-    "He antavat apua tarvitseville."
+    "Minä annan sinulle kirjan.",
+    "Hän antoi lahjansa lapsilleen.",
+    "He antoivat meille paljon apua."
   ],
   "translation": [
-    "give",
-    "offer",
-    "provide"
+    "to give",
+    "to let",
+    "to allow"
   ],
-  "context": "The word 'antaa' in Finnish means to give something to someone, and it is commonly used in various contexts such as offering help or providing something."
+  "context": "The Finnish word 'antaa' is a versatile verb that primarily means 'to give'. It can be used to describe giving physical objects, as well as abstract concepts like permissions or opportunities. In its different conjugated forms (like 'annan', 'antoi'), it follows the regular verb conjugation patterns in Finnish and one of the most commonly used verbs in everyday language."
 }

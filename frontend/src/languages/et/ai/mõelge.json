@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõelge sellele, mis te teete.",
-    "Ma olen mõelnud selle üle juba palju aega.",
-    "Ta ei mõelnud seda enam."
+    "Mõelge enne tegemist.",
+    "Kas te mõellete kohe minema?",
+    "Mõelge hästi peale."
   ],
   "translation": [
     "think",
     "consider",
     "reflect"
   ],
-  "context": "The word 'mõelge' is the plural imperative form of the verb 'mõtlema', which means to think or consider something. It is commonly used in Estonian to encourage people to think about something or to reflect on their actions."
+  "context": "The word 'mõelge' is the plural imperative form of the verb 'mõtlema' (to think). It means 'think' or 'consider' and is used when addressing multiple people. The '-ge' ending indicates it's in the plural imperative form, which corresponds to the English 'you all should think' or simply 'think' when speaking to a group."
 }

@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta kandis punast kleiti.",
-    "Punane viin on tervislikum.",
-    "Punased silmad olid tema peateljeks."
+    "Tema on punane mees.",
+    "Punane auto parkis tänaval.",
+    "Lapsed armastavad punaseid mänge."
   ],
   "translation": [
     "red"
   ],
-  "context": "The word 'punane' in Estonian means the color red, and it is commonly used to describe objects or things that have a reddish hue."
+  "context": "The Estonian word 'punane' is an adjective that means 'red'. It's the nominative singular form of a color word. In Estonian, adjectives must agree in number and case with the noun they modify. For example, 'punased' would be the plural form meaning 'red' (multiple things), while 'punast' would be partitive singular form meaning '(of) red'. This is a basic color vocabulary word that's commonly used daily when describing objects or people."
 }

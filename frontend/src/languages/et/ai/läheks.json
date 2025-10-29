@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema lähedane sõber läheks teda alati toetama.",
-    "Meie suurimad probleemid tekivad siis, kui me ei suuda midagi lahendada koos, aga peame seda ignoreerima ja lihtsalt jääme mõisa lähendama.",
-    "See linn on minu jaoks ikkagi hoopis teistsugune kui see, mis läheks mu suvemaale."
+    "Ma lähen koju.",
+    "Tüdruk läheb kooli.",
+    "Me läkeme linna."
   ],
   "translation": [
-    "close",
-    "nearby",
-    "in proximity"
+    "goes",
+    "is going",
+    "will go"
   ],
-  "context": "'Läheks' in Estonian is often used to indicate something or someone being close either physically or metaphorically, such as a friend who supports you closely. It can also refer to things happening nearby or in the vicinity."
+  "context": "The word 'läheks' is the third-person singular form of the Estonian verb 'minema' (to go) in the conditional mood. It means 'would go', 'should go', or 'might go'. In conditional sentences, it expresses a hypothetical action that depends on some condition being met. For example: 'Kui sa tulksid siis ma läheks sinuga.' - 'If you came then I would go with you.'"
 }

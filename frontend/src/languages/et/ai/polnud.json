@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma pole nende vahel midagi kuulnud.",
-    "Ta polnud sellest teadlik.",
-    "Neil ei olnud aega rääkida."
+    "Ma polnud veel kodus.",
+    "Tema polnud tõesti nõus.",
+    "Me ei tulnud, sest me polnud valmis."
   ],
   "translation": [
     "was not",
-    "did not have",
-    "had not"
+    "were not",
+    "had not been"
   ],
-  "context": "'polnud' is the past tense negative form of 'to be' or 'have' in Estonian, commonly used to indicate something was not the case in the past. It often translates to 'was not', 'did not have', or similar phrases depending on context."
+  "context": "The word 'polnud' is the past negative form of the verb 'olema' (to be) in Estonian. It's a combination of the negation particle 'ei', the stem 'ol-', and the past tense marker '-d'. In English, it corresponds to 'was not', 'were not', or 'had not been' depending on the context. This form is used when talking about something that did not exist in the past."
 }

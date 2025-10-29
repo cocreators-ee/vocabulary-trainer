@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on väikse tüdruku nägu.",
-    "Väikse poisiga läksin kinno.",
-    "Väiksed lapsed armastavad mänge."
+    "See on väikse maja.",
+    "Ta ostis väikse auto.",
+    "Meie lapsed kasvavad väiksest lapsest suureks."
   ],
   "translation": [
     "small",
-    "little"
+    "little",
+    "tiny"
   ],
-  "context": "The word väikse is an adjective in Estonian that means small or little, and it is commonly used to describe something or someone that is of a lesser size."
+  "context": "The word 'väikse' is the elative case of the Estonian adjective 'väike', meaning 'small' or 'little'. The elative case (-st) indicates movement away from something, so it literally means 'from a small one' or 'out of a small one'. It's used when indicating where something comes from in terms of size or when showing progression from a smaller state."
 }

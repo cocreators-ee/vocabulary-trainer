@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on ainuke, kes saab mind mõista.",
-    "Ainuke asi, mida ma tean, on see, et ma ei tea midagi.",
-    "Ta oli ainuke inimene, kes mulle kaasa tuli."
+    "Tema on ainuke laps meie peres.",
+    "See on ainuke võimalus.",
+    "Olen ainuke sellel kursusel."
   ],
   "translation": [
-    "only one",
-    "the only"
+    "only",
+    "sole",
+    "single",
+    "unique"
   ],
-  "context": "The word 'ainuke' is used to describe something or someone that is the only one of its kind, and it can be translated to English as 'only one' or 'the only'."
+  "context": "The word 'ainuke' is an adjective in Estonian that means 'only', 'sole', or 'single'. It indicates exclusivity - that there is only one of something. In the nominative singular form, it can be used to describe a single person or thing that stands alone without others. For example, 'ainuke laps' means 'the only child'."
 }

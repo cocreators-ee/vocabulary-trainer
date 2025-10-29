@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mina mõistan seda.",
-    "Sa mõistad mind?",
-    "Ta mõistis kohe"
+    "Mõistan seda hästi.",
+    "Ta mõistas oma viga kergesti.",
+    "Meie ei mõista sede üldse."
   ],
   "translation": [
-    "understand",
-    "comprehend"
+    "I understand",
+    "I comprehend",
+    "I grasp"
   ],
-  "context": "The word 'mõistan' is commonly used in Estonian to express understanding or comprehension of something, similar to how 'understand' is used in English."
+  "context": "The word 'mõistan' is the first person singular present tense form of the Estonian verb 'mõistma', which means 'to understand'. It's used when someone (the speaker) understands or comprehends something. The stem changes in conjugation, as indicated by the missing final '-a' in the present tense form compared to the infinitive form."
 }

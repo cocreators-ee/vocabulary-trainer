@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta peaks oma tööd lõpetama.",
-    "Me peame seda koos arutama.",
-    "See on väga hea mõte."
+    "Peaksin tulema homme.",
+    " peaks tegema kodutööd.",
+    "Tüdruk peaks olema aus."
   ],
   "translation": [
-    "must",
     "should",
-    "ought to"
+    "ought to",
+    "must"
   ],
-  "context": "The word 'peaks' is a modal verb in Estonian that expresses obligation or necessity. It’s similar to ‘must’, ‘should’, or ‘ought to’ in English, indicating what someone needs or is expected to do."
+  "context": "The Estonian word 'peaks' is the 3rd person singular present form of the modal verb 'pidama', which means 'to be obliged/required'. It indicates obligation, necessity or duty in the third person. The word is commonly used to express what someone should or ought to do."
 }

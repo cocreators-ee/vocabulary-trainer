@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen koolis kontrolli andmas.",
-    "Ta vaatab alati kaks korda enne, et midagi esitada.",
-    "Selle ülesande puhul on vaja tähelepanuväärset täpsust."
+    "Kontrollin oma arvet.",
+    "Ta kontrollib kella.",
+    "Me kontrollime tulemust."
   ],
   "translation": [
-    "controlling",
-    "checking",
-    "supervising"
+    "I check",
+    "I control",
+    "I verify"
   ],
-  "context": "The word 'kontrollin' translates to actions such as controlling, checking, or supervising. It is commonly used in contexts where ensuring correctness or oversight is required."
+  "context": "The word 'kontrollin' is the first person singular present tense form of the verb 'kontrollima', which means 'to check' or 'to control'. It indicates that the speaker is currently performing an action of checking something, verifying information, or exercising control over a situation. This is commonly used in everyday situations when examining things for accuracy or managing processes."
 }

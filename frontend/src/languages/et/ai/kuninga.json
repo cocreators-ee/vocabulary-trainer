@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mina olen kuninga poeg.",
-    "Tema tervis oli kuninga tugevama kui tema isa tervis.",
-    "Kuninga juures pealiskaudne kuulsus."
+    "Kuningas istus troonil.",
+    "Kuninganna oli kuningaga koos lossis.",
+    "Lapsed õppisid kuninga ajaloolisest elust."
   ],
   "translation": [
-    "king",
-    "kingship"
+    "king's (possessive form)",
+    "belonging to the king"
   ],
-  "context": "The word 'kuninga' in Estonian is a noun meaning king or kingship. It refers to the monarch in a monarchy system of government."
+  "context": "The word 'kuninga' is the genitive singular form of the Estonian noun 'kuningas', which means 'king'. In Estonian grammar, the genitive case indicates possession or relationship. So 'kuninga' specifically means 'of the king' or 'belonging to the king'. For example, 'kuninga kroon' would mean 'the king's crown'. The word shows how Estonian uses suffixes and grammatical cases to indicate relationships between nouns."
 }

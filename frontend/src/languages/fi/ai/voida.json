@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän ei voi hyvin.",
-    "Voitko auttaa minua?",
-    "Meidän täytyy voida luottaa toisiimme."
+    "Minä voin auttaa sinua.",
+    "Hän ei voi tulla tänään.",
+    "Voimmeko mennä ravintolaan?"
   ],
   "translation": [
     "can",
-    "to be able to",
+    "be able to",
     "may"
   ],
-  "context": "The Finnish verb 'voida' is a modal verb that expresses ability, possibility, or permission. It’s similar to ‘can,’ ‘could,’ or ‘may’ in English and often indicates what someone is capable of doing or what is allowed."
+  "context": "The Finnish word 'voida' is a modal verb that expresses ability, possibility or permission. It can be translated as 'can', 'be able to', or 'may' in English. The verb changes form depending on the subject and tense - 'voin' for I can, 'voi' for he/she/it can, 'voimme' for we can, 'voitte' for you (plural) can, and 'voivat' for they can. In negative forms, it uses 'ei voi' for singular third person and other negatives according to standard Finnish conjugation patterns."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on juhtunud enne.",
-    "Mulle on juhtunud midagi sarnast.",
-    "Ta on juhtunud õnnetusse."
+    "Kõik on juhtunud nii nagu planeeritud.",
+    "Midagi halba pole juhtunud.",
+    "Me ootame, et midagi head juhtub."
   ],
   "translation": [
     "happened",
-    "occurred"
+    "occurred",
+    "took place"
   ],
-  "context": "The word 'juhtunud' is the past tense of the verb 'juhtuma', which means to happen or occur, and it is commonly used in Estonian to describe an event that has taken place in the past."
+  "context": "The word 'juhtunud' is the past participle of the Estonian verb 'juhtuma', which means 'to happen' or 'to occur'. It's used to describe events that have already taken place. The form '-nud' at the end indicates that this is the past tense/past participle form in Estonian."
 }

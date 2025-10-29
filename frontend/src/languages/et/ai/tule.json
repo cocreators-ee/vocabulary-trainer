@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tule maale!",
-    "Kust tuleb see rasv?",
-    "Mina olen su tulest."
+    "Tule siia!",
+    "Mis tulevikku?",
+    "Ootan tulet."
   ],
   "translation": [
-    "fire",
-    "come (imperative)",
-    "come from"
+    "come",
+    "future",
+    "fire"
   ],
-  "context": "'Tule' primarily means 'fire'. It can also be used as an imperative verb meaning 'come!' and in the partitive form to indicate origin, like 'I am from your fire'"
+  "context": "The word 'tule' is Estonian and has multiple meanings depending on context. As an imperative verb form of 'tulla' (to come), it means 'come'. In other contexts, it can mean 'future' or refer to actual fire. The exact meaning must be determined by the grammatical context in which it appears."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mõtlen selle üle.",
-    "Ta mõtleb, et see on hea idee.",
-    "Mõtlemine on inimese tähtsaim omadus."
+    "Mõtle enne midagi öelda.",
+    "Ta mõtleb alati ettevalmistusi teha.",
+    "Kas sa juba mõtled suvepuhkusele?"
   ],
   "translation": [
     "think",
+    "consider",
     "ponder"
   ],
-  "context": "The word 'mõtle' is commonly used in Estonian to mean thinking or pondering about something, and it can be used in various contexts such as considering an idea or reflecting on a situation."
+  "context": "The word 'mõtle' is the imperative form of the Estonian verb 'mõtlema', which means 'to think'. It's used to give a command or suggestion to someone to think about something. In English, it corresponds to 'Think!' as an instruction. The base verb 'mõtlema' can be conjugated in different tenses and forms - for example, 'ta mõtleb' (he/she thinks) or 'me mõtleme' (we think)."
 }

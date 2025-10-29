@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta kordas oma raha tagasi.",
-    "Ma ei saa aru, miks sa seda korda teed.",
-    "See on juba kolmas kord sel kuul."
+    "Korduvalt küsisin temalt abi.",
+    "Ta tuleb korda veel tagasi.",
+    "See juhtub korra aastas."
   ],
   "translation": [
-    "time",
-    "occasion",
-    "instance"
+    "several times",
+    "again",
+    "once"
   ],
-  "context": "The Estonian word 'kord' generally translates to 'time', 'occasion', or 'instance' in English. It is used to indicate how many times something happens, or a specific point in time when something occurs. It can also refer to a turn or round."
+  "context": "The Estonian word 'kordi' is part of the root 'kord-' which relates to repetition, frequency, or occurrence. It's an adverbial form that can mean 'several times,' 'again,' or depending on context 'once.' When used with 'küsimas' (asking) it means repeatedly asking; when used before returning, it implies coming back again; and when used with time references like 'aastas' (in a year), it indicates frequency of occurrence once per year. The word is versatile in expressing both multiplicity and repetition."
 }

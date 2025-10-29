@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma eeldan, et see on hea mõte.",
-    "Ta eeldas, et kõik läheb hästi.",
-    "Eeldan, et sa oled õige."
+    "Ma eeldan, et ta tuleb homme.",
+    "Ta ei eelda muld head vastust.",
+    "Meie eeldame, et projekt saab valmis nädalapääeval."
   ],
   "translation": [
-    "assume",
-    "presume",
-    "suppose"
+    "I assume/suppose",
+    "to presume",
+    "to expect"
   ],
-  "context": "The word 'eeldan' in Estonian means to assume or presume something, often used in contexts where someone is making an educated guess or taking something for granted."
+  "context": "The Estonian word 'eeldan' is the first person singular present tense form of the verb 'elda', meaning to assume, suppose, or presume. It is commonly used when expressing a belief about something that may not be certain yet. The verb belongs to the -da conjugation group in Estonian."
 }

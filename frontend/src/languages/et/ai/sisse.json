@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli sisse.",
-    "Meil on sissepääs.",
-    "Sisse minek on keelatud."
+    "Tule sisse!",
+    "Ava uks sisse.",
+    "Minge tuppa sisse."
   ],
   "translation": [
+    "inside",
     "in",
-    "into",
-    "inside"
+    "into"
   ],
-  "context": "The word 'sisse' is commonly used in Estonian to indicate movement into a place or area, similar to the English prepositions 'in', 'into', or 'inside'."
+  "context": "The Estonian word 'sisse' is an adverb that indicates movement into a space or being inside. It's commonly used to tell someone to come in, go in, or enter somewhere. The word shows direction toward the interior of something and is often found in commands like 'Tule sisse!' (Come in!)."
 }

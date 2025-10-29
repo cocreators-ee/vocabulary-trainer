@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Jakolaskun osamäärä kertoo kuinka monta kertaa jakaja mahtuu jaettavaan.",
-    "Osamäärä lasketaan jakolaskussa.",
-    "Jos osamäärä on desimaaliluku, se voi olla pyöristettävy."
+    "Osamäärän laskeminen vaatii jakolaskua.",
+    "Matematiikassa osamäärä tarkoittaa kahden suureen suhdetta.",
+    "Opettaja selitti oppilaille osamäärän käsitteen."
   ],
   "translation": [
     "quotient",
-    "result of division"
+    "division result"
   ],
-  "context": "In mathematics, 'osamäärä' refers to the result obtained when one number is divided by another. It's commonly used in arithmetic and algebra contexts."
+  "context": "In Finnish mathematics, 'osamäärä' refers to the quotient in division - the result when one number is divided by another. It's composed of 'osa' (part) and 'määrä' (amount/quantity), literally meaning 'part amount'. This term is specifically used in mathematical contexts to describe the outcome of a division operation."
 }

@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen vahe peal",
-    "Vahe on suur",
-    "Ta võttis vahele kaasa"
+    "Vahe on kaks numbri vahel.",
+    "Meil oli suur vahe arvamustes.",
+    "Tegelikult polnud mingit vahe."
   ],
   "translation": [
+    "difference",
+    "gap",
     "interval",
-    "distance",
+    "space",
     "break"
   ],
-  "context": "The word 'vahe' in Estonian generally refers to a gap or an interval between two things, and it can be used in various contexts such as time, space, or a pause in an activity."
+  "context": "The Estonian word 'vahe' is a noun that primarily means difference, gap, interval, or space between two things. It can refer to numerical differences (like the difference between numbers), time intervals, physical gaps, or breaks in continuity. The word is commonly used in contexts where there's some separation or distinction between entities."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Täname teid hea töö eest!",
-    "Kui sa tänad mind, siis täname sind ka.",
-    "Me ei mõista, miks nad meid tänameks soovi."
+    "Täname meie külast!",
+    "Tänan sind aitamast.",
+    "Kas te võiksite tänada?"
   ],
   "translation": [
-    "thank",
+    "thank you",
     "thanks",
-    "thanking"
+    "gratitude"
   ],
-  "context": "The word 'täname' is the first person plural form of the verb 'tänama', which means to thank. It is commonly used when a group expresses gratitude towards someone or something, and it can also be part of more complex expressions where thanking is involved."
+  "context": "The Estonian word 'täname' is the first person plural form of the verb 'tänama', which means 'to thank'. It literally translates to 'we thank' and is commonly used as a polite way to express gratitude, similar to saying 'thank you' in English. This form is appropriate when speaking on behalf of a group or when being polite in formal contexts."
 }

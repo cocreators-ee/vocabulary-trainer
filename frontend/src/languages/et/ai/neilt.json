@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma küsisin neilt üksikasju.",
-    "Neilt võiks oodata rohkem.",
-    "Meil ei ole neilt midagi kuulda."
+    "Mida sa teads neilt?",
+    "Me saame abi neilt.",
+    "Nad tulevad meile neilt."
   ],
   "translation": [
     "from them",
-    "of them"
+    "from those people",
+    "from that group"
   ],
-  "context": "The word 'neilt' is a pronoun in Estonian that means 'from them' or 'of them', used to indicate something is being taken or derived from a group of people."
+  "context": "The Estonian word 'neilt' is the ablative case form of 'nemad' (they/them). It indicates motion away from or origin from a person or group. In English, this translates to 'from them' and shows where something came from or who provided something."
 }

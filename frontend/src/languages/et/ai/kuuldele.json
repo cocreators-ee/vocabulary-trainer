@@ -1,15 +1,14 @@
 {
-  "confidence": 0.5,
   "understood": true,
   "sentences": [
-    "Ma teen kuuldele.",
-    "Ta kõlas kuuldele",
-    "Kuuldele tegemine oli tema suurim vigu."
+    "Kuule kuuldele!",
+    "Me kuulleme koos.",
+    "Tema ei kuula kuuldele."
   ],
   "translation": [
-    "a sound",
-    "to make a noise",
-    "noisy"
+    "listen",
+    "pay attention",
+    "heed"
   ],
-  "context": "The word 'kuuldele' is used to describe something that makes a loud or unpleasant sound. It can be used as a noun meaning 'noise', as an adjective, and in verbs related to making sounds."
+  "context": "The word 'kuuldele' is the imperative singular form of the verb 'kuulama', which means 'to listen'. It's a command telling someone to listen or pay attention. The '-le' ending indicates this is an imperative form used when giving direct instructions to one person."
 }

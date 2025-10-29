@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen rääkinud tema käest.",
-    "Ta on mulle juba ammu rääkinud.",
-    "Kui ma rääkisinin temaga, siis ta ütles, et..."
+    "Ma olen rääkinud sellest teemaga.",
+    "Ta on juba rääkinud kõik oma arvamused ära.",
+    "Meie oleme pikalt rääkinud sellest projektist."
   ],
   "translation": [
-    "spoken",
-    "talked"
+    "have spoken",
+    "has talked",
+    "have discussed"
   ],
-  "context": "The word rääkinud is the past tense of the Estonian verb rääkima, which means to speak or talk. It is commonly used in sentences to describe a completed action of speaking or communicating with someone."
+  "context": "Rääkinud is the past participle form of the Estonian verb 'rääkima', which means 'to speak' or 'to talk'. It indicates an action that has been completed in the past. This form is used with auxiliary verbs like 'olema' (to be) to create compound tenses, such as 'olen rääkinud' (I have spoken) or 'on rääkinud' (he/she/it has spoken)."
 }

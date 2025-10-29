@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma öelnud seda juba ammu",
-    "Ta on öelnud, et tahab koju minna",
-    "Nad on öelnud, et see on hea mõte"
+    "Ma olen öelnud ettepaneku.",
+    "Ta on öelnud oma arvamuse selgelt.",
+    "Me oleme öelnud palju kohtumistel."
   ],
   "translation": [
     "said",
-    "spoke",
-    "uttered"
+    "told",
+    "expressed"
   ],
-  "context": "The word öelnud is the past tense of the verb öelda, which means to say or speak in Estonian. It is commonly used to express that someone has said something in the past."
+  "context": "The Estonian word 'öelnud' is the past tense of the verb 'öelda', which means 'to say' or 'to tell'. It functions as a perfect participle in compound tenses, indicating that an action has been completed. This form typically follows auxiliary verbs like 'olema' (to be) to form the present perfect tense. For example: 'on öelnud' (has said), 'öelnud on' (said/he/she/they have said)."
 }

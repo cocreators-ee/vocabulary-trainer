@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta hakkas laulma.",
-    "Me hakkame homme tööd tegema.",
-    "Nad ei hakanud tülitsema."
+    "Hakkad kohe tööle?",
+    "Kui sa hakkad kooli minema?",
+    "Ma ei hakka selles osalema."
   ],
   "translation": [
-    "began",
-    "started",
-    "commenced"
+    "start",
+    "begin",
+    "commence"
   ],
-  "context": "The word 'hakkad' is the second-person singular present tense form of the verb 'hakkama', which means to begin or start doing something. It indicates the initiation of an action."
+  "context": "The word 'hakkad' is the second person singular present form of the Estonian verb 'hakata', which means 'to start' or 'to begin'. It's used when talking to one person (informal) about what they are starting to do. The verb indicates the beginning of an action or process."
 }

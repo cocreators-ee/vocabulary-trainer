@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän tappaa minut",
-    "Tässä tapahtumassa joku tappaa toisen",
-    "Hänen on pakko tappaa"
+    "Minun täytyy tappaa sinut.",
+    "Hän tappoi eläimen metsällä.",
+    "Heidän on tapettava vihollinen."
   ],
   "translation": [
-    "kill",
-    "murder",
-    "slay"
+    "to kill",
+    "to murder",
+    "to slay"
   ],
-  "context": "The word generally means to cause the death of a person or animal, and it is commonly used in Finnish language to describe an act of violence or self-defense."
+  "context": "The Finnish verb 'tappaa' means to kill or murder. It is a transitive verb that requires an object - someone or something being killed. In its basic form, it's used for present tense, and when conjugated into other tenses, it can show different aspects of the action (e.g., past tense 'tappoi' indicates completed killing). The word has strong connotations of causing death to another living being."
 }

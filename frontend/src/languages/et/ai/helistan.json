@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma helistan sulle homme.",
-    "Ta helistas mulle eile õhtul.",
-    "Ära helista mind segama."
+    "Ma helistan sisse.",
+    "Ta helistas uksele.",
+    "Me helistasime kella."
   ],
   "translation": [
-    "ring",
-    "call",
-    "phone"
+    "I call",
+    "to call",
+    "to ring (a bell)"
   ],
-  "context": "The verb 'helistan' in Estonian means 'to ring' or 'to call' someone, typically using a telephone. It is commonly used to indicate making a phone call."
+  "context": "The word 'helistan' is the 1st person singular present tense form of the Estonian verb 'helistama', which means 'to call' or 'to ring'. It specifically indicates that someone (the speaker) is performing the action of making a phone call or ringing a bell in the current moment. The verb belongs to the -ma conjugation class in Estonian."
 }

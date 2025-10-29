@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun pitäisi lähteä nyt",
-    "Hän pitäisi tulla takaisin huomenna",
-    "Heidän pitäisi olla täällä jo"
+    "Minun pitäisi mennä kotiin.",
+    "Hän pitäisi auttaa minua.",
+    "Meidän pitäisi aloittaa heti."
   ],
   "translation": [
     "should",
-    "ought to"
+    "ought to",
+    "have to",
+    "must"
   ],
-  "context": "The word 'pitäisi' is a verb form in Finnish that is used to express obligation, necessity, or recommendation, similar to the English words 'should' or 'ought to'."
+  "context": "The Finnish word 'pitäisi' is a form of the verb 'pitää' and functions as an auxiliary expressing obligation or necessity. It appears in the third person singular form but can be used with any subject to indicate what should, ought to, or must happen. This construction follows a specific pattern where 'pitäisi' precedes another verb in its basic infinitive form."
 }

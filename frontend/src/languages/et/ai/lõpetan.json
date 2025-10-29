@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lõpetan õpingud varsti.",
+    "Ma lõpetasin kooli.",
     "Ta on juba lõpetanud ülikooli.",
-    "Nad lõpetavad töö homme."
+    "Me peame lõpetama selle projektis."
   ],
   "translation": [
-    "I finish",
-    "finish school",
-    "complete"
+    "finished",
+    "completed",
+    "ended"
   ],
-  "context": "The word 'lõpetan' is a verb in Estonian that means to finish or complete something, and it is commonly used in everyday conversations to describe the act of ending or concluding an activity or task."
+  "context": "The word 'lõpetan' is the first-person singular present tense form of the verb 'lõpetama', which means to finish, complete, or end. It is commonly used when talking about completing studies, projects, tasks, or activities."
 }

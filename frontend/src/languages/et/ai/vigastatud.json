@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on väga vigastatud.",
-    "Vigastatud inimene vajab kohe abi.",
-    "Olen sügavalt liigutatud nende vigastatud laste saatusest."
+    "Ta oli vigastatud autoõnnetuses.",
+    "Lastele öeldi, et nad ei tohi mängida vigastatud lapsega.",
+    "Patsient oli vigastatud nii tugevalt, et vajas haiglasse viimist."
   ],
   "translation": [
     "injured",
-    "hurt",
-    "wounded"
+    "wounded",
+    "hurt"
   ],
-  "context": "The word 'vigastatud' is commonly used in Estonian to describe someone or something that has been physically harmed or damaged, and it can be translated to English as 'injured', 'hurt', or 'wounded' depending on the context."
+  "context": "The word 'vigastatud' is the past participle form of the Estonian verb 'vigastama', which means 'to injure'. In English, it can be translated as 'injured', 'wounded', or 'hurt'. It describes a state where someone has sustained physical harm or damage to their body. As an adjective in Estonian, it agrees with the noun it modifies in gender, number, and case."
 }

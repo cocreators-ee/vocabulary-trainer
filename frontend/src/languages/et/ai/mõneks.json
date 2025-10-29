@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Soojaks läheb mõneks päevaks.",
-    "Mõneks ajanäitaja on katkenud.",
-    "Loomulikult saab see olla ainuvariandiks vaid mõneks hetkeks."
+    "Ta läks mõneks ajaks linnapoole.",
+    "Mõneks hetkeks oli kogu vaikne.",
+    "See kestis mõneks päevaks."
   ],
   "translation": [
-    "for some",
-    "as something"
+    "for a while",
+    "for some time",
+    "for a bit"
   ],
-  "context": "The Estonian word 'mõneks' is used to indicate a transition or change into something for a certain period of time. It can mean 'for some' when referring to duration, or 'as something' in different contexts."
+  "context": "The Estonian word 'mõneks' is an inessive case form of the pronoun 'mõni' (some/any). It's used to express duration or period of time, functioning like English phrases such as 'for a while', 'for some time', or 'for a bit'. This construction typically follows verbs indicating activities that last for a certain duration. The '-ks' ending indicates the translative case in Estonian, which when combined with numbers or quantities often functions to express duration rather than actual transformation."
 }

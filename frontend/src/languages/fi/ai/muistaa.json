@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän muistaa kaiken",
-    "Muista käydä kaupassa",
-    "Minun on vaikea muistaa hänen nimensä"
+    "Minä muistan sinun nimesi.",
+    "Hän ei muista mitä tapahtui eilen.",
+    "Muistatko tämän päivämäärän?"
   ],
   "translation": [
     "to remember",
-    "recalls"
+    "to recall",
+    "to keep in mind"
   ],
-  "context": "The word 'muistaa' is a verb in Finnish that means to remember or recall something, and it is commonly used in everyday conversations to talk about remembering events, people, or tasks."
+  "context": "The Finnish word 'muistaa' is a verb that means 'to remember' or 'to recall'. It indicates the mental ability to retain and bring back information from memory. This verb can be used with different personal endings (-n, -t, -vat/vät) for different subjects (I, you/he-she-it/they). In negative form, it becomes 'ei muista'. The word is commonly used in everyday Finnish when talking about remembering facts, events, people's names, or instructions."
 }

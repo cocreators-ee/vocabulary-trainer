@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma müüsin oma auto",
-    "Ta müüb oma maja",
-    "Nad müüvad kaupu poes"
+    "Müüsin oma auto.",
+    "Ta müüb raamatuid.",
+    "Meie müüme käsitööd."
   ],
   "translation": [
     "to sell",
-    "sale"
+    "sell"
   ],
-  "context": "The word müüa means to sell something, and it is commonly used in Estonian language when referring to the act of selling or offering something for sale."
+  "context": "The Estonian word 'müüa' is an infinitive verb meaning 'to sell'. It can be conjugated into different forms depending on the subject and tense. For example, 'müüsin' means 'I sold', 'ta müüb' means 'he/she sells', and 'meie müüme' means 'we sell'. The word is commonly used in commercial contexts when discussing transactions involving goods or services."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä on kokeilu.",
-    "Kokeilun tulos oli odotettu.",
-    "Hän teki useita kokeiluja ennen kuin löysi oikean ratkaisun."
+    "Tämä on vain pieni kokeilu.",
+    "Hän teki uuden kokeilun vanhaan menetelmään.",
+    "Kokeilu osoitti, että idea toimi hyvin."
   ],
   "translation": [
     "experiment",
-    "trial"
+    "trial",
+    "test"
   ],
-  "context": "The word kokeilu refers to an attempt or a test to try something new, often in a scientific or experimental context."
+  "context": "The Finnish word 'kokeilu' means an experiment or trial - it refers to a test or trial undertaken to discover something new or to see if something works. It's derived from the verb 'kokeilla' (to try/experiment). This noun form represents the act of experimenting itself, rather than just trying something once."
 }

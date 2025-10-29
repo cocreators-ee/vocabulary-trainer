@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma murdin klaasi.",
-    "Ta murdas kätt oma õe käega.",
-    "Need väikesed sammud aitasid mind siirduda edasi ja seejärel lõpuks isegi su isa kodu tagasi sinna, kust sa ega keegi muu juba ei suutnud teda mureda."
+    "Tegelikult murdsid nad sellest reeglist.",
+    "Põhjused, miks ta murdsid seadust.",
+    "Murdsid kodanikud kokkuleppe."
   ],
   "translation": [
     "broke",
-    "cracked",
-    "damaged"
+    "violated",
+    "breached"
   ],
-  "context": "'Murdsid' means 'you broke' or similar past tense in Estonian. It is used to indicate something has been broken, either physically or metaphorically."
+  "context": "The word 'murdsid' is the past tense plural form of the verb 'murdma', which means to break, violate or breach. It indicates that multiple subjects performed the action of breaking something physical or violating a rule/agreement in the past."
 }

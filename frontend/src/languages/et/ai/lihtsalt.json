@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lihtsalt ei saa seda teha",
-    "Ta on lihtsalt väga hea selleks",
-    "Lihtsalt pole võimalik"
+    "Ta on lihtsalt hea inimene.",
+    "Ma tegin lihtsale lihtsa vastuse.",
+    "See on lihtsalt ebamugav olukord."
   ],
   "translation": [
     "simply",
-    "just"
+    "just",
+    "easy",
+    "simple"
   ],
-  "context": "The word 'lihtsalt' is commonly used in Estonian to convey a sense of simplicity or straightforwardness, similar to the English words 'simply' or 'just'."
+  "context": "The Estonian word 'lihtsalt' can have multiple meanings depending on context. It often means 'simply' or 'just' when used as an adverb to emphasize simplicity or straightforwardness, but it can also mean 'easy' or 'simple' in certain contexts. As a noun, 'lihtsus' (from the same root) means simplicity. The word derives from 'lihts-' meaning simple/plain, plus '-t' which forms adjectives and '-lt' which forms adverbs."
 }

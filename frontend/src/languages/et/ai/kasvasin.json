@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kasvasin Tallinnas.",
-    "Ta kasvab kiiresti.",
-    "Kasvamine on keeruline protsess."
+    "Kasvasin suurel maa-alal.",
+    "Ma kasvasin väikeses linnakeses.",
+    "Lapsed kasvasid koos lasteaias."
   ],
   "translation": [
     "grew up",
-    "grow",
-    "growing"
+    "was raised",
+    "brought up"
   ],
-  "context": "The word 'kasvasin' is the first person singular past tense form of the Estonian verb 'kasvama', which means to grow or grow up. It is commonly used to describe someone's childhood or upbringing."
+  "context": "The word 'kasvasin' is the first-person singular past tense form of the verb 'kasvama', which means to grow or to raise/grow up. It specifically indicates that someone (the speaker) grew up in a particular place or under certain conditions."
 }

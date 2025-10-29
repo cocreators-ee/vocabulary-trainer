@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tahan sinu vahest.",
-    "Tema eesmärk on vaheste võita mäng.",
-    "Riigikogus valib nad vahest.",
-    "Vähemalt vahest mulle sellest kinnituse."
+    "Vahest ta tuleb homme.",
+    "Ma vahest olen näljas.",
+    "Kas sa vahest tuled ka?"
   ],
   "translation": [
-    "Sometimes",
-    "At times",
-    "From time to time"
+    "sometimes",
+    "perhaps",
+    "maybe"
   ],
-  "context": "'vahest' is used in Estonian to indicate that something happens occasionally, not regularly. It can modify verbs to show the frequency with which an action is performed or a situation occurs. In sentences, it's usually placed before the verb it modifies."
+  "context": "The Estonian word 'vahest' is an adverb that can have multiple meanings depending on context. It most commonly means 'sometimes' when indicating occasional occurrence, but it can also mean 'perhaps' or 'maybe' when expressing uncertainty or possibility. This flexibility makes it useful for various situations where you want to express either infrequent occurrence or tentative suggestion."
 }

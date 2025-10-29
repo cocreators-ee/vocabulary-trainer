@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Oled sa kunst mänginud kord?",
-    "Mina tahan, et sa mängid su väikeste kätega.",
-    "Sa ei tohi siin mängida."
+    "Ma mängin tenist.",
+    "Tema mängib kitarri.",
+    "Meie mängime palli."
   ],
   "translation": [
-    "you played"
+    "I play",
+    "he/she plays",
+    "we play"
   ],
-  "context": "The word 'mängid' is the second person singular past tense of the verb 'to play'. It is commonly used in everyday conversation when referring to playing a game or engaging in playful behavior."
+  "context": "\"Mängid\" is the 1st person singular present tense form of the Estonian verb \"mängima\" which means \"to play\". It specifically refers to the speaker currently performing an activity involving games, sports, or music. The word changes depending on subject and number - in this case it's conjugated for first person singular (I) present tense."
 }

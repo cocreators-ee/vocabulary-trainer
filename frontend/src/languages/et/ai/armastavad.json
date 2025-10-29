@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
     "Ma armastan sind.",
-    "Ta armastab mu teekonda.",
-    "Meil on väga hea suhted ja me armastame üksteist."
+    "Tema armastab loomi.",
+    "Nad armastavad oma pere."
   ],
   "translation": [
     "love",
-    "cherish",
-    "adore"
+    "loves"
   ],
-  "context": "The word 'armastavad' is the third person plural form of the verb 'to love.' It means that a group or two individuals are expressing deep affection for each other. The word comes from 'armastama,' which can mean to love, cherish, or adore someone or something."
+  "context": "The word 'armastavad' is the 3rd person plural present tense form of the Estonian verb 'armastama', which means 'to love'. It translates to English as 'love' when referring to multiple subjects (they/we). This word expresses deep affection and care for someone or something. In Estonian, verbs are conjugated based on person and number, so this form specifically indicates that a group of people is performing the action of loving."
 }

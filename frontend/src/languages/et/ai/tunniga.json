@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen tunnisega kinosse.",
-    "Ta jooksis tunnisega maratoni.",
-    "See töö tehti tunnisega."
+    "Ma sõidan Tallinn tunniga.",
+    "Ta jooksis tunniga lõunani.",
+    "Me saabusime tunniga kell 15."
   ],
   "translation": [
-    "per hour",
-    "in one hour",
-    "hourly"
+    "with an hour",
+    "in an hour's time",
+    "within the hour"
   ],
-  "context": "The word 'tunniga' in Estonian means 'per hour' or 'within an hour'. It indicates a rate or the time it takes to complete something. It is often used to express speed, payment rates, or duration."
+  "context": "The Estonian word 'tunniga' is a postposition that means 'with an hour' or 'within an hour'. It indicates a timeframe associated with movement, arrival, or departure. The form '-ga' typically means 'with', but in this context, it combines with 'tunn' (hour) to indicate time rather than companionship. This construction is commonly used when specifying approximate times of travel, events, or deadlines."
 }

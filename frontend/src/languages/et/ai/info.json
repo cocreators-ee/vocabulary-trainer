@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma leidsin selle kohta palju infot.",
-    "Kas sa võid mulle rohkem infot anda?",
-    "See info on väga kasulik."
+    "Mul on head info selle kohta.",
+    "Info puudub veel lõpuni.",
+    "Ta andis mul hea info."
   ],
   "translation": [
     "information",
-    "info",
-    "details"
+    "news",
+    "data"
   ],
-  "context": "The word 'info' in Estonian is a direct borrowing from English and carries the same meaning. It’s commonly used to refer to facts, data, or knowledge about something, often in an informal context."
+  "context": "The Estonian word 'info' is a direct loanword from English, meaning information. It's commonly used in modern Estonian to refer to any kind of data, news, or factual content. The word remains unchanged regardless of case or number - it's always written as 'info'."
 }

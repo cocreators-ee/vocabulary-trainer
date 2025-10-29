@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Maagia aitab meil lahendada keerulisi probleeme.",
-    "Lapse suurim soov on omandada maagiline võime.",
-    "Filmi \"Harry Potter\" sees on palju maagiakujundust."
+    "Maagia on iidse kunsti vorm.",
+    "Lapsed armastavad lugusid maagiast ja võluritest.",
+    "See film sisaldab palju maagiat ja imelisi stseene."
   ],
   "translation": [
-    "magic"
+    "magic",
+    "sorcery",
+    "witchcraft"
   ],
-  "context": "Maagia refers to the concept of magic, often associated with fantasy or fictional contexts. It can be used to describe magical practices, enchantments, or supernatural phenomena in stories or imaginative scenarios."
+  "context": "Maagia is the Estonian word for magic, referring to supernatural powers or practices believed to control natural forces. It can refer to the art of performing seemingly impossible feats through mysterious means, often associated with wizards, witches, and enchantment in stories and folklore."
 }

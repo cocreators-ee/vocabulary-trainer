@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tõin raamatu kaasa.",
-    "Ta tõid mulle kohvi.",
-    "Nad tõid endaga kaasa suure kohvikerami."
+    "Tõid mind koju.",
+    "Mis sa tõid?",
+    "Kuidas sa tõid need esemed?"
   ],
   "translation": [
-    "brought"
+    "brought",
+    "carried",
+    "transported"
   ],
-  "context": "The word 'tõi' is a verb in Estonian that means to bring something or someone. It is commonly used in sentences to describe the act of bringing an object or a person from one place to another."
+  "context": "The word 'tõid' is the past tense form of the verb 'tooma', which means 'to bring' or 'to carry'. It indicates that an action was completed in the past. The subject would be in the nominative case, and the object would typically be in the partitive case."
 }

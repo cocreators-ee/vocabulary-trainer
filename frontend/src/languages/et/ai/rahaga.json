@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen rahaga",
-    "Ta on rahaga nõus",
-    "Raha on alati rahaga seotud"
+    "Ta ostis raamatu rahaga.",
+    "Mul on piisavalt raha selleks.",
+    "Tema sai palju raha kingituseks."
   ],
   "translation": [
     "with money",
-    "for money"
+    "using money"
   ],
-  "context": "The word 'rahaga' in Estonian means 'with money' or 'for money', it is used to indicate that something is being done in exchange for payment or financial gain."
+  "context": "The word 'rahaga' is the Estonian instrumental case form of 'raha' (money), meaning 'with money' or 'using money'. It indicates that money is being used as a tool or instrument to perform an action. This grammatical case shows how something is used or by means of which something is done."
 }

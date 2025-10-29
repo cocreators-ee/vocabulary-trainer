@@ -1,14 +1,16 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Näyttää sateen tulevan.",
-    "Hän näyttää iloiseelta.",
-    "Tämä näyttää kivulta."
+    "Näytän sinulle kuvan.",
+    "Hän näyttää onnelliselta.",
+    "Mistä näkymä näyttää?",
+    "Minulla ei ole mitään näytettävää."
   ],
   "translation": [
-    "seems",
-    "looks"
+    "to show",
+    "to display",
+    "to appear",
+    "to look"
   ],
-  "context": "'näyttää' is used to express that something appears or seems a certain way, often based on observation or perception. It can be followed by an adjective or another verb form indicating what the subject looks like or how it appears."
+  "context": "The Finnish verb 'näyttää' is versatile and can mean several related concepts depending on context. As a transitive verb, it means 'to show' or 'to display' something to someone (e.g., näytän sinulle kuvan - I'll show you the picture). As an intransitive verb or with certain adjectives, it describes how someone or something appears or looks (e.g., hän näyttää onnelliselta - he/she looks happy). It can also refer to visibility or what is visible from a viewpoint."
 }

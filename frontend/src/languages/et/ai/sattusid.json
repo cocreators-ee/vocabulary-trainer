@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sattusin tema juurde.",
-    "Nad sattusid ühte klassi.",
-    "Me sattusime sinna tahakselt."
+    "Tööle sattusin juhuslikult.",
+    "Meie lapsel õnnestus koolis hästi sattuda.",
+    "Seda rõõmu pole me veel kunagi sattunud."
   ],
   "translation": [
-    "happened to be",
-    "were in",
-    "came across"
+    "ended up",
+    "landed",
+    "found oneself",
+    "chanced upon"
   ],
-  "context": "The word 'sattusid' is the plural past tense form of the Estonian verb 'sattuma', which means 'to happen' or 'to come across', often used to describe an encounter or coincidence."
+  "context": "The word 'sattusid' is the past tense plural form of the Estonian verb 'sattuma'. It means to end up somewhere or in a situation by chance, without prior planning. The word implies that something happened accidentally or unexpectedly. In English, it can be translated as 'ended up', 'landed', 'found oneself', or 'chanced upon'. This is an imperfective verb aspect, which indicates ongoing or repeated actions in the past."
 }

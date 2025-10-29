@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sein on sein",
-    "Ta oli seina taga",
-    "Seina on väga suur"
+    "Seinal on pilt.",
+    "Mängime seina lähedal.",
+    "Väike laps näitas oma töid seinale."
   ],
   "translation": [
-    "wall"
+    "wall",
+    "on the wall"
   ],
-  "context": "The word 'seina' refers to a wall or a partition that separates or divides something in Estonian. It is commonly used in various contexts such as architecture, construction, and everyday conversations."
+  "context": "The word 'seina' is part of the Estonian case system. It appears to be in the illative case (ending -a), which indicates movement toward or direction to a place. The base form would likely be 'sein' (wall). So 'seina' means something like 'toward the wall', 'to the wall', or 'in the wall'. In example sentences, it shows location/direction relative to a wall."
 }

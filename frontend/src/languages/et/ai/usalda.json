@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Usaldan sind.",
-    "Ta ei usalda enda meist.",
-    "Ei usu sinu sõnu."
+    "Ma tegin head tööd usaldusega.",
+    "Usaldate oma sõpru.",
+    "Tal on hea usalda."
   ],
   "translation": [
-    "trust"
+    "trust",
+    "confidence",
+    "faith"
   ],
-  "context": "Used to express faith or reliance in someone's reliability or truthfulness."
+  "context": "The Estonian word 'usalda' is a verb that means to trust or have faith in someone or something. It can be used in various contexts such as trusting people, relationships, abilities, or situations. The word derives from the root 'usald-' which relates to confidence and reliability."
 }

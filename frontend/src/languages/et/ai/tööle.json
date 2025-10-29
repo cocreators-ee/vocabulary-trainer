@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen tööle.",
-    "Ta on tööle võetud.",
-    "Tööle minemine on vajalik."
+    "Tööle kell kaheksa.",
+    "Mina lähen tööle homme hommikul.",
+    "Ta oli juba tööl kui ma tulin."
   ],
   "translation": [
     "to work",
-    "at work"
+    "for work",
+    "on duty"
   ],
-  "context": "The word 'tööle' is used to indicate going to or being at a place of employment, and it can be translated to English as 'to work' or 'at work', depending on the context in which it is used."
+  "context": "The Estonian word 'tööle' is the illative case of the noun 'töö' (work). It indicates movement toward or to a place of work, meaning 'to work', 'for work', or 'on duty'. In the first sentence, it shows when someone goes to work. The second example demonstrates going to work tomorrow morning. The third sentence uses the elative form 'tööl' which means 'at work' - showing location rather than movement."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta astub ametisse homme",
-    "Professor astus õppetoolile",
-    "Ta on astunud erru"
+    "Tema astub ruumi.",
+    "Ta astub treppi üles.",
+    "Kass astab lauapeale."
   ],
   "translation": [
-    "steps",
-    "enters"
+    "steps in",
+    "enters",
+    "goes into"
   ],
-  "context": "The word 'astub' is a verb in Estonian that means to step or enter, and it is commonly used to describe the act of taking a position or starting something new."
+  "context": "The word 'astub' is the 3rd person singular present tense form of the Estonian verb 'astuma', which means to step, enter, or go into something. It's used when someone (he/she/it) performs an action of stepping or entering a space."
 }

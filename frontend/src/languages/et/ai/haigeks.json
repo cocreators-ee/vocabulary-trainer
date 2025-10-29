@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on haigeks jäänud",
-    "Haigeks olek olnud raske",
-    "Kui haigeks ma ei oleks jäänud"
+    "Haigeks saada on ebameeldiv.",
+    "Ta muutus haigeks pärast seda piima joomist.",
+    "Lapsed ei tahtnud minna haigeks."
   ],
   "translation": [
-    "sick",
     "ill",
+    "sick",
     "unwell"
   ],
-  "context": "The word haigeks is commonly used in Estonian to describe someone who is feeling unwell or has fallen ill, and it can be used in various contexts such as describing a person's health condition or expressing sympathy towards someone who is not feeling well."
+  "context": "The word 'haigeks' is the illative case form of the Estonian adjective 'haige', meaning 'ill' or 'sick'. In Estonian grammar, the illative case indicates motion into something. So 'haigeks' can be translated as 'into illness' or more naturally in English as simply becoming sick/ill/unwell. It's commonly used when someone becomes ill or catches a sickness."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kuhu sa mindlesse oma kodu?",
-    "Mindlesse järve tõmbas talv.",
-    "Millesse sulle ma see pani?"
+    "Millesse sa tahad minna?",
+    "Ta küsis, millesse ta peaks panema oma kingad.",
+    "Vastame küsimusele, millesse me peame keskenduma."
   ],
   "translation": [
-    "into which"
+    "into which",
+    "in which",
+    "where to"
   ],
-  "context": "'millesse' is an Estonian word that means 'into which'. It's used in questions to ask about the destination or purpose of something."
+  "context": "The Estonian word 'millesse' is an interrogative pronoun that combines 'mis' (what/which) with the illative case suffix '-sse', meaning it asks about direction into a container or location. It's used when asking what something should go into, where someone should go, or what one thing should be placed inside another."
 }

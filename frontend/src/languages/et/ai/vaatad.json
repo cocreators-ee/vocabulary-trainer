@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vaatan telerit.",
-    "Ta vaatas mind.",
-    "Me vaatame filmi."
+    "Vaatad pealt.",
+    "Sa vaatad televiisorit.",
+    "Tema vaatab õues."
   ],
   "translation": [
     "look",
-    "watch"
+    "watch",
+    "see"
   ],
-  "context": "The word 'vaatad' is a verb in Estonian that means to look or watch something, and it is commonly used in everyday conversations to describe the act of observing or paying attention to something."
+  "context": "The word 'vaatad' is the 2nd person singular present tense form of the Estonian verb 'vaadata', which means 'to look' or 'to watch'. It is used when addressing someone directly (you) in the present tense. The verb can be translated as English verbs like 'look', 'watch', or 'see' depending on the context."
 }

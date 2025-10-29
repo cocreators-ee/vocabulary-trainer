@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tuuli puhaltaa voimakkaasti.",
-    "Tuulessa on viileää.",
-    "Tuulen voimakkuus kasvaa."
+    "Tuuli puhaltaa kohti etelää.",
+    "Talven tuulet ovat kylmiä.",
+    "Tuulen nopeus on usein suuri myrskyssä."
   ],
   "translation": [
-    "wind"
+    "wind",
+    "breeze"
   ],
-  "context": "The word tuuli refers to a natural movement of air in the atmosphere, often caused by differences in temperature and pressure, and is commonly used to describe weather conditions or outdoor environments in Finnish."
+  "context": "The word 'tuuli' in Finnish means 'wind'. It is a common noun used to refer to the movement of air, whether gentle breezes or strong gusts. In Finnish grammar, it's an inanimate object that takes different case forms depending on its function in a sentence - for example, 'tuulena' (as wind), 'tuuleen' (into the wind), 'tuulta' (wind/partitive case)."
 }

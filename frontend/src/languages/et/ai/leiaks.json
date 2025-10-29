@@ -1,13 +1,14 @@
 {
-  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Ma otsisin ja leidsin lahenduse.",
-    "Ta leidis oma kassilapse metsas.",
-    "Leiaksite parema tahu."
+    "Ta leiaks alati head asju.",
+    "Meie leiaksid uue tee kodusse.",
+    "Kui sa tuleksid siis me leiaksid kohe lahenduse."
   ],
   "translation": [
-    "would find"
+    "would find",
+    "could find",
+    "might find"
   ],
-  "context": "The word 'leiaks' is the conditional form of the verb 'leida,' meaning 'to find.' It is used to express a hypothetical situation or a polite request, often in sentences like 'I would find...'"
+  "context": "The word 'leiaks' is the conditional mood of the Estonian verb 'leida', which means 'to find'. In this form, it's used to express a hypothetical or possible action - something that would happen under certain conditions. The suffix '-ks' indicates the conditional form, and it can be translated as 'would find', 'could find', or 'might find' depending on the context. This is similar to how English uses modal verbs like 'would', 'could', or 'might' followed by a base verb to express hypothetical situations."
 }

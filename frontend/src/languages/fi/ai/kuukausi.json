@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Toukokuu on vuoden viides kuukausi.",
-    "Hän sai työstään kuukausipalkan.",
-    "Kuukauden lopussa meillä on aina budjettikokous."
+    "Tämä kuukausi on erityisen kiireinen.",
+    "Viime kuussa meillä oli juhla.",
+    "Kuukausittain tulen käymään täällä."
   ],
   "translation": [
-    "month"
+    "month",
+    "monthly"
   ],
-  "context": "The word kuukausi refers to a period of approximately 30 days in the Finnish language, and it is commonly used when talking about time or schedules."
+  "context": "The Finnish word 'kuukausi' means 'month' in English. It is a noun referring to a period of approximately 30 days that forms part of the calendar year. The word can be declined in different cases (like genitive singular 'kuukaudesta', partitive plural 'kuukausia') and has related forms such as 'kuukausittain' meaning 'monthly'. It is commonly used to refer to specific months or periods within a year."
 }

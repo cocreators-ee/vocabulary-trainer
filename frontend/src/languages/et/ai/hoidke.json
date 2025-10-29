@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma hoidsin teda käest.",
-    "Hoidke oma asjadega!",
-    "Sa pead seda hoidma."
+    "Hoidke oma valuutat turvalises kohas.",
+    "Palun hoidke oma dokumentid hästi ära.",
+    "Hoidke lastega lähedalt silmas."
   ],
   "translation": [
     "hold",
     "keep",
-    "guard",
-    "protect"
+    "maintain"
   ],
-  "context": "The Estonian word 'hoidke' is an imperative form of the verb 'hoida', meaning to hold, keep, or guard something. It’s commonly used when telling someone to take care of something or to maintain possession of it."
+  "context": "The word 'hoidke' is the plural imperative form of the Estonian verb 'hoidma', which means 'to hold'. It is used when giving instructions to a group of people, telling them to keep or maintain something. This form addresses multiple people directly and requires them to perform the action."
 }

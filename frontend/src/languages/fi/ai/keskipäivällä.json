@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Olemme keskipäivällä kaupungissa.",
-    "Keskipäivällä aurinko paistaa voimakkaasti.",
-    "Lounas on parhaimmillaan keskipäivällä."
+    "Keskipäivällä on lämmin auringonpaiste.",
+    "Saavuimme kaupungin keskipäivällä.",
+    "Maksetaan lounas keskipäivällä."
   ],
   "translation": [
     "at noon",
-    "in the middle of the day"
+    "at midday",
+    "at twelve o'clock"
   ],
-  "context": "The word keskipäivällä is used to describe something that happens at noon or in the middle of the day, often referring to a time when the sun is at its strongest."
+  "context": "The word 'keskipäivällä' is an adverb in Finnish that means 'at noon' or 'at midday'. It's formed from 'keskipäivä' (midday/noon) with the '-llä' suffix indicating location/time. This construction follows Finnish grammar where '-lla'/'-llä' is used for locative cases, here indicating when something happens."
 }

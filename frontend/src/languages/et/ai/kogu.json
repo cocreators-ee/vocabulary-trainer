@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kogu elu elanud Tallinnas.",
-    "Kogu meeskond on valmis.",
-    "Ta on kogu aeg õige."
+    "Kogu meie pere käis parki.",
+    "Ta on kogu oma elu töötanud selle projektiga.",
+    "Olen näinud kogu selle filmi juba."
   ],
   "translation": [
+    "all",
     "whole",
-    "entire",
-    "total"
+    "entire"
   ],
-  "context": "The word 'kogu' in Estonian generally means something that is whole or entire, and it can be used to describe a complete amount or extent of something."
+  "context": "The Estonian word 'kogu' is an adjective that means 'all', 'whole', or 'entire'. It's used to indicate completeness of something, whether it's referring to a group of items, the entirety of time, or the whole of something. In the examples provided, you can see how 'kogu' modifies nouns like 'pere' (family), 'elu' (life), and 'filmi' (movie) to indicate that we're talking about the complete family, the entire life span, or the whole movie."
 }

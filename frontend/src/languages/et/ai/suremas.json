@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mama oli suremas.",
-    "Kui ma olen suremas?",
-    "Tema lugu on kindlasti suremas."
+    "Tema suremas oli suur traagika.",
+    "Koer on suremas haiguse tõttu.",
+    "Lapsed nägid looma suremas."
   ],
   "translation": [
-    "dying"
+    "dying",
+    "perishing",
+    "expiring"
   ],
-  "context": "'suremas' is a form of the verb 'sünnitada', which means to die. It is used in both literal and figurative contexts, such as describing someone close to death or something that is dying out or losing significance."
+  "context": "The word 'suremas' is the elative case (from-locative) form of the verb 'surema', which means to die or perish. In Estonian, this form indicates motion from a state or position - so it literally means 'from dying' or 'out of dying'. It's used when someone is in the process of dying, indicating they are coming from a living state into death. This case form shows movement away from the state of being alive."
 }

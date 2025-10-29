@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõitsin eile 100 kilomeetrit.",
-    "Ta on jalanud mitmeid kilomeetreid täna.",
-    "Kilomeetrite kaugusel asuv linn on suur."
+    "Ma jooksin kolm kilomeetrit hommikul.",
+    "See on viis kilomeetri pikkune tee.",
+    "Kaugus linnast metsani on kümme kilomeetrit."
   ],
   "translation": [
-    "kilometres"
+    "kilometers",
+    "kilometre"
   ],
-  "context": "The word 'kilomeetrit' is the Estonian noun for kilometres, a unit of measurement for distance, and it is commonly used to express how far something is or how much distance has been covered."
+  "context": "The word 'kilomeetrit' is the partitive case form of 'kilomeeter' (kilometer) in Estonian. It means 'kilometers' and is used when referring to an unspecified or indefinite quantity of kilometers, or when the number is in the nominative plural form. In English, it directly translates to 'kilometers'."
 }

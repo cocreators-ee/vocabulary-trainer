@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kestnud väga kaua.",
-    "Kestab see veel mitu päeva?",
-    "See ei kesta kaua."
+    "Kestav kestab kaua.",
+    "Näitus kestab kuni nädalapäevani.",
+    "Lõuna kestab tund aega."
   ],
   "translation": [
     "lasts",
     "endures",
-    "persists"
+    "continues"
   ],
-  "context": "The word 'kestab' in Estonian means to last or endure, and it is commonly used to describe something that continues or persists over time."
+  "context": "The word 'kestab' is the 3rd person singular present tense form of the Estonian verb 'ksta', which means to last, endure, or continue. It describes something that continues over time or has a duration."
 }

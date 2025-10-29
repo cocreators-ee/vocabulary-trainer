@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin hea lugu.",
-    "Lugu on huvitav.",
-    "Ta rääkis mulle pikkade lugu."
+    "See on hea lugu.",
+    "Lugusid on palju.",
+    "Meie lugu algas varakult."
   ],
   "translation": [
     "story",
-    "tale"
+    "tale",
+    "account",
+    "narrative"
   ],
-  "context": "The word 'lugu' in Estonian generally refers to a story or tale, often used in the context of sharing experiences or recounting events."
+  "context": "The Estonian word 'lugu' is a noun that means 'story', 'tale', 'account', or 'narrative'. It can refer to any form of storytelling, whether fictional accounts, personal experiences, or historical narratives. The word can appear in various contexts such as children's stories ('lastelugu'), news reports ('uudislugu'), or film plots ('filmi lugu'). The plural form is 'lugusid'."
 }

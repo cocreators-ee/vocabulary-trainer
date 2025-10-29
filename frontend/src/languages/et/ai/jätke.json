@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen jätke sellest ajast.",
-    "Jätke on see, mis jääb alles pärast midagi.",
-    "Ta on jäänud jätkeks endisest elust."
+    "Jätke mind rahule.",
+    "Ärge jätke mind üksi.",
+    "Jätke see asi mulle."
   ],
   "translation": [
-    "remnant",
-    "residue",
-    "leftover"
+    "leave",
+    "let"
   ],
-  "context": "The word 'jätke' in Estonian refers to something that is left over or remains after something else has been removed or used up, often implying a sense of incompleteness or imperfection."
+  "context": "The Estonian word 'jätke' is the plural imperative form of the verb 'jätta', which means 'to leave' or 'to let'. It's used when addressing multiple people with an instruction to either leave something/someone alone or to allow something to happen. In the first sentence, it means 'leave me in peace', in the second 'don't leave me alone', and in the third 'leave this matter to me.'"
 }

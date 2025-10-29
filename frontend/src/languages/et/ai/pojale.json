@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea poisile.",
-    "See on kingitus pojale.",
-    "Pojale meeldib see mäng."
+    "Tema annab kingi pojale.",
+    "Pojale meeldiva mänguasi otsin.",
+    "Poja pojale kinkis raamatu."
   ],
   "translation": [
     "to the boy",
     "for the boy"
   ],
-  "context": "The word 'pojale' is a dative case form of the noun 'poiss', which means 'boy'. It is used to indicate that something is being given or done for the benefit of the boy."
+  "context": "The Estonian word 'pojale' is an allative case form of 'poeg', which means 'boy'. In Estonian, the allative case (-le suffix) indicates motion toward or destination. So 'pojale' specifically translates as 'to the boy' or 'for the boy', indicating something given to or intended for a boy."
 }

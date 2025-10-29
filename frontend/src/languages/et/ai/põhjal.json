@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen veendunud sellest, et see on õige põhjal.",
-    "Ta tegi oma otsuse põhjalikku kaalutlemist.",
-    "See on hea põhjal, millele toetuda."
+    "Ta kontrollis põhjalikult aruande.",
+    "Meil on vaja midagi teha põhjaliku uurimisega.",
+    "Põhjalikult valmistunud inimesed ei karda ebaõnnestumist."
   ],
   "translation": [
-    "based on",
-    "on the basis of"
+    "thoroughly",
+    "carefully",
+    "in detail",
+    "meticulously"
   ],
-  "context": "The word 'põhjal' in Estonian means based on or on the grounds of something, and is commonly used to indicate the reason or foundation for a decision or action."
+  "context": "The Estonian word 'põhjal' is an adverbial form of the adjective 'põhjalik', meaning thorough or detailed. It describes doing something with great care, attention to detail, and completeness. The '-l' ending indicates this is an inessive case form (meaning 'in' or 'with'), so 'põhjal' literally means 'in a thorough way' or 'with thoroughness'. It modifies verbs to indicate that the action is being done meticulously and completely."
 }

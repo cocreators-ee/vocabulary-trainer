@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Onko tämä ongelma ratkaistu?",
-    "Hän ratkaisi ongelmansa nopeasti.",
-    "Meidän täytyy ratkaista tämä konflikti."
+    "Minun täytyy ratkaista tämä ongelma.",
+    "Hän ratkaisee monimutkaisen tehtävän helposti.",
+    "Olemme ratkaisseet jo useita haasteita yhdessä."
   ],
   "translation": [
-    "solve",
-    "resolve",
-    "settle"
+    "to solve",
+    "to resolve",
+    "to figure out"
   ],
-  "context": "The word 'ratkaista' in Finnish means to solve or resolve a problem, and it is commonly used in the context of finding a solution to an issue or a conflict."
+  "context": "The Finnish verb 'ratkaista' means to solve, resolve, or figure something out. It is often used when dealing with problems, tasks, puzzles, or challenges that require a solution. The word can appear in different forms depending on the context - 'ratkaisee' for third person singular present tense, 'ratkaisseet' for perfective/plural form indicating completed action."
 }

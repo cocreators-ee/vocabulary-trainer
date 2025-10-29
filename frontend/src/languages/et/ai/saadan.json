@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma saadan sõnumi.",
-    "Ta saadab meile toetust.",
-    "Palun saada vastus esimese kuu jooksul."
+    "Saadan sulle e-posti.",
+    "Me saadame homme kohtumisele.",
+    "Ta saadab kingi emale."
   ],
   "translation": [
     "send",
-    "to send",
-    "am sending"
+    "dispatch",
+    "forward"
   ],
-  "context": "'saadan' is the first person singular form of 'saata', which means 'to send'. It can be used in both literal and figurative contexts, such as sending a message or providing support. Commonly followed by an object indicating what is being sent."
+  "context": "The word 'saadan' is the first person singular present tense form of the Estonian verb 'sändama', which means to send or dispatch. It indicates that the speaker is performing the action of sending something now or in the near future. This form is used when the subject (I) is doing the sending action."
 }

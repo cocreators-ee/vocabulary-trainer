@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pole ühegi kooli lõpetanud.",
-    "Ta ei olnud ühegi teise riigi kodanik.",
-    "Ühegi teise võimalusega ma ei ole kokku puutunud."
+    "Mul pole ühegi aega",
+    "Ta ei tea ühtegi asja",
+    "Meil on veel üks asi tegemata"
   ],
   "translation": [
-    "none",
-    "not one",
-    "neither"
+    "any",
+    "not any",
+    "none at all"
   ],
-  "context": "The word \"ühegi\" is used in Estonian to indicate the absence or non-existence of something, and it can be translated to English as 'none', 'not one', or 'neither' depending on the context."
+  "context": "The word 'ühegi' is an Estonian negative pronoun that functions similarly to the English word 'any' in negative contexts. It's typically used with negative verbs (like 'ei') or questions, and it negates existence or possibility - essentially meaning 'not any' or 'none at all'. This word follows Estonian grammar patterns where pronominal forms often change based on case and context."
 }

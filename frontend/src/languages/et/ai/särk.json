@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kandis valget särki.",
-    "Särk oli tema lemmikriide.",
-    "Tal oli punane särk seljas."
+    "Müün oma särke.",
+    "Tal on punane särgis.",
+    "Särgid peseme koos teiste riideesemetega."
   ],
   "translation": [
-    "shirt"
+    "shirt",
+    "blouse",
+    "top"
   ],
-  "context": "The word särk is commonly used in Estonian to refer to a shirt, which is a piece of clothing for the upper body."
+  "context": "The word 'särk' is an Estonian noun meaning a shirt or blouse. It can refer to both men's shirts and women's blouses/tops. The word follows standard Estonian declension patterns, with the base form being särk. In plural form it becomes särgid (shirts). It commonly appears in contexts related to clothing, shopping, describing someone's attire, or laundry instructions."
 }

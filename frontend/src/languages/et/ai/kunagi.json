@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kunagi soovinud reisida maailma ümber.",
-    "Kunagi ei ole liiga varajane alguse tegemiseks.",
-    "Kui kunagi sul juhtuks midagi, siis tea, et sa võid mulle alati looduda."
+    "Kunagi ma ei peaks seda tegema.",
+    "Oled sa kunagi käinud Tallinnas?",
+    "Ta on kunagi öelnud et ta armastab sind."
   ],
   "translation": [
-    "sometime",
-    "some day",
-    "one day"
+    "never",
+    "ever",
+    "at some time in the past"
   ],
-  "context": "The word 'kunagi' in Estonian means 'sometime' or 'one day', and it is commonly used to express a hope or expectation that something will happen at some point in the future, without specifying exactly when."
+  "context": "The word 'kunagi' is an Estonian adverb that means 'never' or 'ever', and can also refer to some unspecified time in the past. It's commonly used with negative constructions (like 'ei peaks') to express something should never be done, or with questions about experiences ('käänud'). When used affirmatively, it may refer to an unspecified time in the past. The word doesn't change form based on gender, number, or case."
 }

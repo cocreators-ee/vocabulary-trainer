@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä uin kanavassa.",
-    "Hän ui nopeasti rannalle.",
-    "He uivat yhdessä meressä."
+    "Minä uin rannalla.",
+    "Hän ui pitkään.",
+    "He uivat järvessä."
   ],
   "translation": [
     "to swim",
-    "swam"
+    "swimming"
   ],
-  "context": "The word 'uida' in Finnish means to swim, and it is commonly used to describe the act of moving through water using limbs or other body parts."
+  "context": "The Finnish word 'uida' is the basic form of a verb that means 'to swim'. It's an action verb describing the activity of moving through water using one's body. The verb changes its form depending on the subject and tense - for example, in present tense: minä uin (I swim), sinä uit (you swim), hän/ui (he/she swims). In past tense it becomes 'uin', 'uit', 'ui' etc."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on tallennettava tämä video.",
-    "Hän tallentaa usein musiikkia tietokoneelleen.",
-    "Tallentaminen on helppoa, kun sinulla on oikea ohjelmisto."
+    "Minun täytyy tallentaa tämä tiedosto.",
+    "Tallenna tämä kuva tietokoneellesi.",
+    "Olemme tallentaneet kaikki tiedostot pilveen."
   ],
   "translation": [
+    "to save",
     "to record",
-    "to save"
+    "to store"
   ],
-  "context": "The word 'tallentaa' in Finnish means to record or save something, often in a digital format, and it is commonly used in the context of saving files, recording videos or audio, or storing data."
+  "context": "The Finnish verb 'tallentaa' means to save, record, or store data. It is commonly used when referring to saving files on a computer, recording information, or storing data in some form. The word comes from the noun 'talletus' which means deposit or storage."
 }

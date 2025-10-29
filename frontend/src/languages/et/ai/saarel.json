@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan saarel.",
-    "Ta läks saarele.",
-    "Saarel on ilus rannik."
+    "Saarel on kauneid metsi.",
+    "Meil oli hea aeg saarel.",
+    "Saarel elab palu linde."
   ],
   "translation": [
-    "on the island",
-    "island"
+    "on an island",
+    "at the island"
   ],
-  "context": "The word 'saarel' is used to describe something that is located on an island, and it is commonly used in Estonian language to indicate a location or a place."
+  "context": "The word 'saarel' is the inessive case form of the Estonian word 'saar', meaning 'island'. Inessive case indicates location within or on something. So 'saarel' means 'on an island' or 'at the island', indicating that someone or something is located physically present on an island."
 }

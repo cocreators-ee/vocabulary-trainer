@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen praeguseks valmis.",
-    "Praeguseks on see ainus võimalik variant.",
-    "Ta on praeguseks väga haige."
+    "Oleme praeguseks valmis kogu projektiga.",
+    "Palun oodake praeguseks paar minutit.",
+    "Tööd on praeguseks pooleli."
   ],
   "translation": [
     "for now",
-    "currently",
-    "at the moment"
+    "at present",
+    "currently"
   ],
-  "context": "The word 'praeguseks' is used in Estonian to indicate a current or temporary state of something, and it can be translated to English as 'for now', 'currently', or 'at the moment'."
+  "context": "The Estonian word 'praeguseks' is an adverb that means 'for now', 'at present', or 'currently'. It indicates a temporary state or situation that exists at this moment but may change in the future. The word is formed from 'praegu' (now, currently) with the suffix '-seks', which transforms it into an adverbial form indicating a transitional or temporary condition."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän antoi minulle palan leipää",
-    "Pala kuivui nopeasti",
-    "Tämä pala mahtaa olla hyvä"
+    "Tämä on pieni pala kakku.",
+    "Sain palan leipää kaupasta.",
+    "Paloja kuumaa lasia putosi lattialle."
   ],
   "translation": [
     "piece",
-    "part",
+    "portion",
+    "slice",
     "fragment"
   ],
-  "context": "The word 'pala' in Finnish generally refers to a portion or fragment of something, such as food, an object, or even time, and is commonly used in various contexts like cooking or describing broken items."
+  "context": "The Finnish word 'pala' is a noun that means 'piece', 'portion', or 'slice'. It refers to a small part broken off from something larger, such as a piece of food (cake, bread), a fragment of glass, or any other material divided into smaller parts. The word can be used in both singular and plural forms ('pala' vs. 'palat'), and it's commonly used when referring to portions of items that are naturally divisible."
 }

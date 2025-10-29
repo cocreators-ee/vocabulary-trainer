@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Oot, ma tahan mõelda.",
-    "Ära ootada liiga kaua!",
-    "Ta juba ootas meid üle poole tundi."
+    "Ootan sind homme.",
+    "Ma ootan teid lõuna ajal.",
+    "Tema on meie oodanud külaline."
   ],
   "translation": [
-    "Wait."
+    "wait",
+    "expect",
+    "look forward to"
   ],
-  "context": "'oot' is an imperative form of the verb 'to wait'. It is commonly used to tell someone to wait for a short period, either in person or by phone. The word can also be part of other expressions related to waiting, such as 'järgmisel kord' (next time) and 'ei jää' (does not remain)."
+  "context": "The Estonian word 'oot' is the first person singular form of the verb 'ootama', which means 'to wait', 'to expect', or 'to look forward to'. It's used when the speaker is waiting for, expecting, or looking forward to something. The infinitive form is 'ootama', and this word specifically indicates the action being performed by 'I' (the first person singular)."
 }

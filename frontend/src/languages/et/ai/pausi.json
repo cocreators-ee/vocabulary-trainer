@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin väikese pausi.",
-    "Vaja on teha paus, et värskendada meelt.",
-    "Pausi ajal joon ma kohvi."
+    "Võtame pausi.",
+    "Ta tegi pausi rääkides.",
+    "Pausi ajal võis kohvi juua."
   ],
   "translation": [
     "pause",
     "break",
     "intermission"
   ],
-  "context": "The word 'pausi' in Estonian refers to a temporary stop or rest from an activity. It is commonly used to describe a break during work, study, or any other ongoing task. In English, it directly translates to 'pause' or 'break', and can be used similarly in everyday conversation."
+  "context": "The word 'pausi' is the partitive case form of the Estonian noun 'pauz', which means 'pause' or 'break'. In this form, it typically follows verbs like 'võtma' (to take) or appears in contexts where a pause or break is mentioned. The partitive case often indicates an incomplete action or object that exists but isn't fully specified."
 }

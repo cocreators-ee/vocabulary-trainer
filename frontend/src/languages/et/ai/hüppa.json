@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta hüppas üle takistuse.",
-    "Hüppa kiiresti üle silla!",
-    "Lapsed armastavad hüpata trampoliinil."
+    "Ma hüppasin üle oja.",
+    "Tüdruk hüppab rõdule.",
+    "Kass ei hüppa kõrgele."
   ],
   "translation": [
-    "jump",
-    "leap"
+    "to jump"
   ],
-  "context": "The word 'hüppa' is commonly used in Estonian to describe the act of jumping or leaping, often in a physical sense, such as jumping over an obstacle or leaping into the air."
+  "context": "The Estonian verb 'hüppa' means 'to jump'. It is in the basic form (infinitive). In example sentences, it appears in different forms: 'hüppasin' (I jumped - past tense), 'hüppab' (he/she/it jumps - present tense 3rd person singular), and 'hüppa' (imperative or infinitive)."
 }

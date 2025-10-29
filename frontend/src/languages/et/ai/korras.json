@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on korras.",
     "Kõik on korras.",
-    "See ei ole korras."
+    "Töö oli tehtud korralikult.",
+    "Arved on nüüd korras."
   ],
   "translation": [
     "in order",
+    "properly",
+    "correctly",
     "okay",
-    "alright"
+    "fine"
   ],
-  "context": "The word 'korras' is commonly used in Estonian to indicate that something is in order or okay, and it can be used in various contexts such as agreeing with someone or describing a situation."
+  "context": "The Estonian word 'korras' is an adverb that means something is in proper condition, correctly done, or acceptable. It indicates that things are arranged properly, functioning as they should, or meeting the required standards. The word can be used to describe physical order (things being tidy), correct execution of tasks, or general well-being/acceptability."
 }

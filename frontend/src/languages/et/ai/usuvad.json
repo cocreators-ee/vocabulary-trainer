@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on usuv ja hindab inimesi sõltuvalt nendest.",
-    "Usuvate inimeste puhul tuleb neid enesekindlalt hinnata.",
-    "Minu suvitsas pole mitte ühtegi usuvat kohta."
+    "Usuvad meie, et see on õige.",
+    "Mida nad usuvad?",
+    "Nad ei usu seda."
   ],
   "translation": [
-    "believing",
-    "faithful",
-    "trustworthy"
+    "believe",
+    "think",
+    "trust"
   ],
-  "context": "'Usuvad' in Estonian is an adjective meaning 'believing', 'faithful', or 'trustworthy'. It's commonly used to describe someone who has confidence or faith in others, something, or in religious context."
+  "context": "The word 'usuvad' is the 3rd person plural present form of the verb 'usuma', which means to believe or trust. It refers to a group of people (they) who believe or think something in the present tense."
 }

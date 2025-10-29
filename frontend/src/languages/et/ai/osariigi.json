@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta valis pärast kooli osariigi riigikogu liikmeks.",
-    "Osariigid saavad enda haldamiseks vabadust, ent peavad järgima Eesti põhiseaduse.",
-    "Mõned inimesed soovivad, et ühed osariigid oleksid iseseisvamaid."
+    "Eesti on väike osariik.",
+    "Lõuna-Carolina on üks Ameerika Ühendriikide osariike.",
+    "Mees valiti osariigi kuberneriks."
   ],
   "translation": [
-    "subregion",
-    "administrative region",
-    "autonomous area"
+    "state",
+    "province"
   ],
-  "context": "The term 'osariigi' refers to a subregion or autonomous administrative division within Estonia. It is often used in political and governmental contexts, such as describing areas with certain self-governing rights but still part of the country."
+  "context": "The word 'osariigi' is the genitive singular form of 'osariik', which means 'state'. In Estonian, it's commonly used to refer to political or administrative divisions within a country. The genitive case indicates possession or relationship - so 'osariigi' could be translated as 'of the state', 'belonging to the state', or simply modify another noun to indicate it pertains to a particular state."
 }

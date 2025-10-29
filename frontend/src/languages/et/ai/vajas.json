@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma vajan abi.",
-    "Kas sa vajad midagi?",
-    "Neil on vaja rohkem raha."
+    "Ta vajas abi.",
+    "Meil vajas rohkem aega.",
+    "Lapsed vajasid tähelepanu."
   ],
   "translation": [
-    "need",
-    "require",
-    "want"
+    "needed",
+    "required",
+    "demanded"
   ],
-  "context": "The Estonian word 'vajas' is a versatile verb meaning 'to need' or 'to require'. It expresses necessity or the lack of something essential. It’s commonly used to express desires, requests for help, or statements about requirements."
+  "context": "The word 'vajas' is the past tense form of the Estonian verb 'vajama', which means to need or require. It indicates that something was necessary in the past context where it appears. In grammatical terms, this is a simple past tense (imperfect) form used in narrative contexts."
 }

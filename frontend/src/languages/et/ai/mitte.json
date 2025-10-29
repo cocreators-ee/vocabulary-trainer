@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan mitte ainult Tallinnas",
-    "Mitte kõik inimesed elavad linnas",
-    "Ta ei ole mitte keegi tuntud"
+    "Ma ei söö mitte mitte midagi",
+    "Ta räägib mitte ainult eesti keelt, vaid ka inglise keelt",
+    "Me peame mitte unustama oma juuri"
   ],
   "translation": [
     "not",
-    "none",
-    "nobody"
+    "don't",
+    "doesn't",
+    "no",
+    "never"
   ],
-  "context": "The word 'mitte' is commonly used in Estonian as a negation, similar to the English words 'not', 'none', or 'nobody', and it is often used to indicate the absence or negation of something."
+  "context": "The Estonian word 'mitte' is a negative particle that functions similarly to 'not' in English. It is used to negate verbs, adjectives, or other parts of speech. In Estonian grammar, it often appears before the verb it negates and can be combined with other particles like 'pole' (is not/are not). The word can also be used in various contexts including prohibitions ('mitte tee seda' - don't do that) and emphatic negation."
 }

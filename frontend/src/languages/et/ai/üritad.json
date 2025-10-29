@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma üritan sind aidata.",
-    "Nad üritasid meiega ühendust võtta.",
-    "Ta ei ürita isegi aru saada."
+    "Sa üritad jooksma.",
+    "Miks sa üritad mind petta?",
+    "Me üritame lahenduse leida."
   ],
   "translation": [
-    "trying",
+    "try to do something",
     "attempting",
-    "endeavoring"
+    "making an effort"
   ],
-  "context": "The word 'üritad' is the second-person singular present tense form of the verb 'üritama', which means 'to try' or 'to attempt'. It describes someone making an effort to do something. In English, it’s commonly used when describing someone’s efforts, intentions, or struggles with a task."
+  "context": "The Estonian word 'üritad' is the second person singular present indicative form of the verb 'ürita', which means 'to try' or 'to attempt'. It corresponds to English expressions like 'you try' or 'you are trying'. The word implies making an effort or attempting to do something. In Estonian, this verb follows standard conjugation patterns where the ending changes based on person and number."
 }

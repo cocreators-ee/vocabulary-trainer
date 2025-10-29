@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma andsin talle kingituse.",
-    "Ta andis mulle head teada.",
-    "Nad andsid ühiselt pressikonferentsi."
+    "Ma andsin talle raamatu.",
+    "Ta andsin mulle raha.",
+    "Meie andsid lastele kingitusi."
   ],
   "translation": [
-    "gave",
-    "provided"
+    "I gave",
+    "he/she/it gave",
+    "they gave"
   ],
-  "context": "The word 'andsin' is the first person singular past tense form of the verb 'andma', which means to give or provide something. It is commonly used in Estonian language to express the act of giving or providing something to someone."
+  "context": "The word 'andsin' is the first person singular past tense form of the Estonian verb 'anna', which means 'to give'. It specifically translates to 'I gave' in English. This is formed by adding the past tense marker '-s-' and the first person singular ending '-i' to the stem 'and-'. The word appears frequently in contexts where someone is describing an action of giving something to someone else in the past."
 }

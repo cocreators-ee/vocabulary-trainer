@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma põgenen sellest kohtust.",
-    "Ta põgenes koolist.",
-    "Nad põgenevad linna."
+    "Ta põgenes kodust.",
+    "Me peame põgenema!",
+    "Kass põgenes aias."
   ],
   "translation": [
+    "to flee",
     "to escape",
-    "flee"
+    "to run away"
   ],
-  "context": "The word põgeneda is commonly used in Estonian to describe the act of escaping or fleeing from a place, situation, or danger."
+  "context": "The Estonian verb 'põgeneda' means to flee, escape, or run away from something. It typically implies moving quickly and urgently away from danger, trouble, or an undesirable situation. The word is in infinitive form (-da ending) and would be conjugated differently depending on the subject (e.g., põgenen - I flee, põgeneb - he/she/it flees)."
 }

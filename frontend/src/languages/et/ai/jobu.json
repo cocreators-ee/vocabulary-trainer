@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlen jobu!",
-    "See on jobu küsimus.",
-    "Jobu inimesed ei saa aru."
+    "Jobu on ilus päev.",
+    "Töödeldi jobu jaoks.",
+    "Jobu värv meeldiv."
   ],
   "translation": [
-    "foolish",
-    "stupid"
+    "pleasant",
+    "nice",
+    "enjoyable",
+    "fine"
   ],
-  "context": "The word 'jobu' is commonly used in Estonian to describe someone or something as foolish or stupid, often in an informal setting."
+  "context": "The word 'jobu' is an Estonian adjective that means pleasant, nice, enjoyable, or fine. It's used to describe something that has positive qualities or brings a sense of satisfaction and comfort. The word can be used to describe weather, experiences, objects, or situations that are considered agreeable or pleasing."
 }

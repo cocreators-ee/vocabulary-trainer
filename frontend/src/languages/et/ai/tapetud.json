@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Me ei tohi tapetud hooma.",
-    "Ta teadis, et vägvalt tapetud inimene on tõenäoliselt surnud.",
-    "Mida sa sellest tapetud kassi juures tegid?"
+    "Tapetud loom leiti metsast.",
+    "Püssist tulistati tapetud lind.",
+    "Tapetud kala ei saa ujuda."
   ],
   "translation": [
     "killed",
-    "dead (past participle of 'to kill')"
+    "dead",
+    "slain"
   ],
-  "context": "The word 'tapetud' is the past participle form of the Estonian verb 'tappa', meaning 'to kill'. It can be used to describe someone or something that has been killed, either literally in a violent sense or figuratively."
+  "context": "The word 'tapetud' is the past participle form of the Estonian verb 'tappa', which means 'to kill'. As a past participle, it functions as an adjective meaning 'killed' or 'dead'. It's used to describe something that has been killed or is dead. The '-d' ending indicates the past passive participle form in Estonian."
 }

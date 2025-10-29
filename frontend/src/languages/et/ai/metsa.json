@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Metsa on palju puudega kaetud.",
-    "Ta läks metsas jalutama.",
-    "Metsaga piirneb põld."
+    "Metsas on palu puuid.",
+    "Me lähime metsa jalutama.",
+    "Metsad olid kaunitse kõrged puud."
   ],
   "translation": [
     "forest",
     "woods"
   ],
-  "context": "The word 'metsa' is used to refer to a forest or wooded area, often in the context of nature and outdoor activities."
+  "context": "In Estonian, 'metsa' is the translative case form of the word 'mets', which means forest or woods. The translative case indicates a change of state or location - so 'metsa' can mean 'into the forest' or 'to the woods'. It's used when talking about movement toward or becoming part of a forest/woods area."
 }

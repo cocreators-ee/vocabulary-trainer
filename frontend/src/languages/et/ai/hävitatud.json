@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hävitatud inimene",
-    "Hävitatud linn ei ole elamiseks sobiv",
-    "Hävitatud majad vajavad kiiret remonti"
+    "Tema teos on hävitatud.",
+    "See dokument oli hävitatud enne juurdepääsu võimaldamist.",
+    "Me peame need failid hävitatama."
   ],
   "translation": [
     "destroyed",
-    "ruined"
+    "eliminated",
+    "annihilated"
   ],
-  "context": "The word hävitatud is commonly used to describe something that has been destroyed or ruined, often in the context of physical damage or destruction."
+  "context": "The word 'hävitatud' is the past participle form of the Estonian verb 'hävitada', which means 'to destroy'. It describes something that has been destroyed, eliminated, or annihilated. This could refer to physical objects being demolished, data being erased, or abstract concepts being eliminated."
 }

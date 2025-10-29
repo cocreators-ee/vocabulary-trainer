@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lased olid kiired.",
-    "Ta lases püssiga.",
-    "Laste laskmine on keelatud."
+    "Lased on head sportlased.",
+    "Meie lased võistlevad riiklikel meistrivõistlustel.",
+    "Need lased on kogenud ja edukad."
   ],
   "translation": [
-    "shots",
-    "shooting",
-    "firing"
+    "athletes",
+    "sportspeople"
   ],
-  "context": "The word 'lased' in Estonian refers to the act of shooting or firing, often used in the context of guns or other projectiles."
+  "context": "The word 'lased' is the plural form of 'lane', which in Estonian refers to male athletes or sportsmen. It specifically denotes males engaged in sports activities, particularly competitive sports. The word is commonly used when referring to groups of male athletes participating in various sporting events."
 }

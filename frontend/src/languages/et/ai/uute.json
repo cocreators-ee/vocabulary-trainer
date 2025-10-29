@@ -1,13 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ostsin uue auto.",
-    "See on väga uus maja.",
-    "Uued reeglid jõustuvad homme."
+    "Uue aasta tuleb peagi.",
+    "Tere tulemast uut kodust!",
+    "Me ostasime uute mööbli."
   ],
   "translation": [
     "new"
   ],
-  "context": "The word 'uute' is the genitive plural form of the Estonian adjective 'uus', meaning 'new'. It’s used to describe multiple new things or to indicate possession related to something new. In English, it functions similarly to the adjective 'new' but changes based on grammatical case and number."
+  "context": "The word 'uute' is the partitive plural form of 'uus', which means 'new'. In Estonian, 'uute' indicates new things or objects in the partitive case and plural number. It's commonly used when referring to multiple new items that are being talked about in a general sense."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina suren.",
-    "Ta juba sureb.",
-    "Sureb see naine?"
+    " sureb ",
+    " surema ",
+    " surenud "
   ],
   "translation": [
-    "is dying",
     "dies",
-    "will die"
+    "passes away",
+    "perishes"
   ],
-  "context": "The Estonian word 'sureb' is the third person singular form of the verb 'sünnita', which means to die. It is commonly used in sentences where someone or something is dying, has died, or will die."
+  "context": "The word 'sureb' is the 3rd person singular present form of the Estonian verb 'surma', meaning to die or perish. It is commonly used in everyday language when talking about death or mortality."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kuuldel lõpeb see film.",
-    "Ta torkas kuuldel oma õe poole.",
-    "Rohekuul tel jäi puhvist kinni."
+    "Kuuldel seda muusikat.",
+    "Me kuuldel häid uudiseid.",
+    "Tema kuuldel kõrgete hoonete vaatekoht."
   ],
   "translation": [
-    "bullet",
-    "bullets"
+    "listening to",
+    "hearing",
+    "auditioning"
   ],
-  "context": "'Kuuldel' refers to a bullet, typically used in the context of firearms or shooting. It can be part of compound words like 'rohekuul' which means blank cartridge."
+  "context": "The word 'kuuldel' is the elative case form of the Estonian word 'kuule', which means ear or hearing. In the elative case, it indicates movement from within a location or state - so 'kuuldel' literally means 'from within hearing/listening' and is used to indicate the source or context of what someone is experiencing through their sense of hearing."
 }

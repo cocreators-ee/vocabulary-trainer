@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Oma mõtted kirjutas ta oma päevakirja.",
-    "Tema viimane artikkel ilmus kuu aastat enne tema surma ja see oli kõige lühem ja kõige lihtsam tänu sellele, et tal ei olnud aega sellesse midagi sügavat panustada.",
-    "Päevakirja saates saab teada, et perekond tuleb kodusse juba homme õhtul."
+    "Tema läheb tööle päevaks.",
+    "Meil on kohtumine homseks päevaks.",
+    "Ta otsib korterit üheks päevaks."
   ],
   "translation": [
     "for the day",
-    "daily",
-    "in daily life"
+    "until evening",
+    "by the end of the day"
   ],
-  "context": "'päevaks' in Estonian is commonly used to refer to something that happens or is done on a daily basis. It can also mean 'by day' or 'for the day'. This word often modifies verbs and adjectives to indicate frequency."
+  "context": "The word 'päevaks' is an Estonian adessive-illative case form meaning 'for the day' or 'until evening'. It's derived from the root word 'päev' (day) and indicates a destination, purpose, or time limit - typically something lasting until the end of the day. This grammatical construction shows motion towards or into a state related to the day."
 }

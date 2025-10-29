@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta läks suunas tööle.",
-    "Meie suundame sinna.",
-    "Need suunati teise kohta."
+    "Sõitame suunas linnu.",
+    "Auto sõidab põhja suunas.",
+    "Me läheme kooli poole."
   ],
   "translation": [
-    "towards",
-    "in the direction of"
+    "in the direction of",
+    "toward",
+    "to"
   ],
-  "context": "The word 'suunas' is used to indicate direction or movement towards something, similar to the English preposition 'towards'."
+  "context": "The Estonian word 'suunas' is an adessive case form that indicates direction or movement toward something. It's derived from 'suuna' (direction) with the '-s' suffix, indicating location in relation to movement. This grammatical case is used when showing where something is moving to or facing."
 }

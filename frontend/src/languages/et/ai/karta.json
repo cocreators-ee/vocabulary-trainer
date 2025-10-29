@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kartsin, et pole piisavalt aega valmistada eksami.",
-    "Ta ei kartsnud oma arvamust öelda.",
-    "Mõned inimesed kartavad muusikat soetama.",
-    "Kartesid sa raha kaduma?"
+    "Ei karta midagi",
+    "Me ei kartaks kunagi",
+    "Kartavad nad oma edu?"
   ],
   "translation": [
-    "to be afraid",
-    "fear",
-    "dread"
+    "to fear",
+    "to be afraid of",
+    "to dread"
   ],
-  "context": "The verb 'karta' is used to express fear or apprehension about something. It can be used in various forms depending on the context and grammatical structure of the sentence."
+  "context": "The word 'karta' is the third-person singular form of the Estonian verb 'kartma', which means to fear or be afraid of something. It's commonly used in expressions about avoiding certain actions due to fear."
 }

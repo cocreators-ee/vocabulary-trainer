@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma alanud õpinguid",
-    "Ta alustas tööd",
-    "Nad algasid kohe"
+    "Alanud on uus projekt.",
+    "Tööd on alanud.",
+    "Kooliaasta on alanud."
   ],
   "translation": [
+    "begun",
     "started",
-    "begun"
+    "commenced"
   ],
-  "context": "The word 'alanud' is the past participle form of the verb 'algama', which means to start or begin something in English, and it is commonly used to describe an action that has already started."
+  "context": "The word 'alanud' is the past participle form of the Estonian verb 'alama', which means 'to begin' or 'to start'. It is used to indicate that an action has already begun. In these examples, it's used in the nominative case and agrees with the subject gender, number and person. The word can be translated to English as 'begun', 'started' or 'commenced'."
 }

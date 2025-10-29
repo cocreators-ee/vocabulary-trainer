@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma läksin ära ja nad lahkusid kohe.",
-    "Meie kõik lahkusime üheskoos.",
-    "Ta oli juba varem lahkunud."
+    "Tema lahkusid homme.",
+    "Nad lahkusid varakult.",
+    "Meie lahkusid peale lõppu."
   ],
   "translation": [
     "left",
-    "departed"
+    "departed",
+    "went away"
   ],
-  "context": "The word 'lahkusid' is the third person plural past tense form of the Estonian verb 'lahkuma', which means to leave or depart. It is commonly used in sentences to indicate that someone or a group of people left a place or situation."
+  "context": "The word 'lahkusid' is the past tense plural form of the Estonian verb 'lahkuma', meaning 'to leave' or 'to depart'. It specifically refers to a group of people who have left or departed from a place. The '-sid' ending indicates this is past tense and plural form, so it translates as 'they left' or 'you (plural) left' depending on the context."
 }

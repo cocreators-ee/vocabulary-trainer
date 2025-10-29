@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole mujal käinud",
-    "Ta on mujal tööl",
-    "Mujal elanud inimesed on teistmoodi"
+    "Ta läks mujal",
+    "Kas sa lähed mujal?",
+    "Mulle meeldib olla mujal"
   ],
   "translation": [
     "elsewhere",
-    "somewhere else"
+    "somewhere else",
+    "to another place"
   ],
-  "context": "The word 'mujal' is an adverb in Estonian that means somewhere else or elsewhere, it is commonly used to indicate a location other than the current one."
+  "context": "The Estonian word 'mujal' is an adverb that means 'elsewhere' or 'somewhere else'. It indicates movement to a different location than the current one. The word doesn't change form in different contexts as it's already in its basic adverbial form. It's commonly used when talking about going somewhere other than where someone currently is."
 }

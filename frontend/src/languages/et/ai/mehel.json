@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Jäin mehel ööd läbi.",
-    "Kui ma jään mehli nendama?",
-    "Mehl elab lõuna poolt."
+    "Mehel on hea tuju.",
+    "See mehel elab lähedal.",
+    "Mehele meeldib lugeda."
   ],
   "translation": [
-    "at the man's place",
-    "in the man's house",
-    "with a/the man"
+    "with the man",
+    "to the man",
+    "for the man"
   ],
-  "context": "'mehel' is an Estonian word meaning 'at the man's place', 'in the man's house', or 'with a/the man'. It can be used to indicate presence, location, or association with a male person."
+  "context": "The word 'mehel' is an Estonian adessive case form of the word 'mees', which means 'man'. The adessive case in Estonian typically indicates location near someone or something ('at/on/by/with'), but it's also used for indirect objects and other contexts. In this form, '-l' is the ending that marks the adessive case."
 }

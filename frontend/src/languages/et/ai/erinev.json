@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on erinev inimeste hulgast.",
-    "Erinevad kultuurid on esindatud festivalil.",
-    "Erineva vanusega lapsed mängivad koos."
+    "Erinevad arvamused on tavalised.",
+    "See värv on erinev teistest.",
+    "Meil on täiesti erineva vaated."
   ],
   "translation": [
     "different",
-    "various",
-    "diverse"
+    "distinct",
+    "various"
   ],
-  "context": "The word 'erinev' in Estonian means something that is distinct or unlike others, and it is commonly used to describe things that are not the same."
+  "context": "The Estonian word 'erinev' is an adjective meaning 'different'. It's in the singular nominative form. When used with plural nouns or in other cases, it would change form (e.g., erinevad for plural nominative). The word describes things that are not identical or have distinguishing characteristics from others."
 }

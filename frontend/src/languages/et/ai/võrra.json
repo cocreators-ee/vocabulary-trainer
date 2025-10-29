@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kui kaua saad olla koos tema võrra?",
-    "Ta on väga tark, aga mitte su võrra.",
-    "Me peame tegutsema tema võrra ettevaatlikult."
+    "Ta kasvas võrra kõrgemaks",
+    "Hind tõusis võrra odavamaks",
+    "Töö kvaliteet paranes võrra"
   ],
   "translation": [
-    "equally",
-    "to the same extent",
+    "by so much",
+    "to that extent",
     "as much as"
   ],
-  "context": "The word 'võrra' is used to indicate equivalence or comparison in terms of amount, degree, or intensity. It can be used in both literal and figurative contexts when comparing two things."
+  "context": "In Estonian, 'võrra' is an adverb used to indicate the degree or amount of change. It typically follows a comparative adjective and shows how much something has changed in comparison to its previous state. For example, when saying something became 'kõrgemaks võrra', it means it became taller by that specific amount."
 }

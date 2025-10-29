@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu vanemad elavad Tallinnas.",
-    "Ta on minu vanemate sõber.",
-    "Vanemaid tuleb austada."
+    "Vanemaid palume tulema kooli.",
+    "Tema vanemaid ei olnud kodus.",
+    "Meil on head suhted oma vanematega."
   ],
   "translation": [
     "parents"
   ],
-  "context": "The word 'vanemaid' is the plural partitive form of the Estonian word for 'parents', which refers to one's mother and father or guardians. It is commonly used in sentences to refer to one's parents or ancestors."
+  "context": "The word 'vanemaid' is the partitive plural form of 'vanemad', which means 'parents'. In Estonian, the partitive case often indicates partiality or indefiniteness. The word can refer to one's own parents or other people's parents in various contexts."
 }

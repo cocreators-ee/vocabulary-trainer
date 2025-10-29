@@ -1,15 +1,13 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ta on väga temale meeldiv.",
-    "Ma ei tea, kas see sobib talle.",
-    "Temale tundub see idee hea."
+    "Tema annab selle temale.",
+    "Meie räägime temaga.",
+    "Ta võtab kingad temalt."
   ],
   "translation": [
     "to him",
-    "for him",
-    "himself"
+    "for him"
   ],
-  "context": "The Estonian word 'temale' is a dative pronoun meaning 'to him' or 'for him'. It indicates the indirect object of a verb, showing who receives something or benefits from an action. It can also be used reflexively to mean 'himself'."
+  "context": "The Estonian word 'temale' is the allative case of pronoun 'tema', meaning 'him'. It indicates direction toward someone and can be translated as 'to him' or 'for him'. The allative case answers the question 'where to?'. In these examples, we see it used in contexts where something is given to him (Tema annab selle temale - He gives this to him), when speaking with him (Meie räägime temaga - We speak with him - note the different form in that case), and when taking from him (Ta võtab kingad temalt - He takes shoes from him - again showing a different case)."
 }

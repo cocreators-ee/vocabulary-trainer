@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõju oli oodatud.",
-    "Ta mõjus väga korrektse inimesena.",
-    "See sündmus jättis mulle sügava mõju."
+    "Mõju on suur.",
+    "See toode mõjub hästi.",
+    "Tal oli piiratud mõju protsessis."
   ],
   "translation": [
     "influence",
-    "impact",
-    "effect"
+    "effect",
+    "impact"
   ],
-  "context": "The word 'mõju' generally refers to the power to affect or influence someone or something, and it can also be used to describe the result of a particular action or event."
+  "context": "The Estonian word 'mõju' means influence, effect, or impact. It can refer to the power of something to affect someone's thinking, decisions, or behavior, or the result that something has on a situation or process. It's often used in contexts where discussing how one thing affects another."
 }

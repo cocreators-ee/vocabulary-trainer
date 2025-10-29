@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ihon vaihto on hoidossa.",
-    "Hänellä oli kaunis iho.",
-    "Ihoa voi hoitaa erilaisilla tuotteilla."
+    "Minun ihoni on kuiva.",
+    "Ihon hoito tärkeää talvella.",
+    "Hänellä on iho-ongelmia."
   ],
   "translation": [
     "skin",
-    "derma"
+    "hide"
   ],
-  "context": "The word 'iho' in Finnish refers to the outer layer of the human body, and it is commonly used in contexts related to health, beauty, and anatomy."
+  "context": "The Finnish word 'iho' means skin or hide. It is used to refer to the outer covering of animals (hide) or the protective layer covering human bodies (skin). In Finnish, 'iho' can be modified with possessive suffixes like '-ni' for my skin ('minun ihoni'), and it's commonly used in phrases about skincare ('ihon hoito') or describing skin conditions ('iho-ongelmia')."
 }

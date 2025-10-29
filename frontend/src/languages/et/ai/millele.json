@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea millele see vastus viitab",
-    "Ta ütles, et tal on millele kiire minna",
-    "Mulle tundub, et millele see küsimus puudutab"
+    "Millele sa oot?",
+    "Kes küsib, millele vastata?",
+    "Ta ei tea, millele ta peab vastama."
   ],
   "translation": [
     "to what",
-    "what for"
+    "for what purpose",
+    "about what"
   ],
-  "context": "The word 'millele' is used in Estonian to indicate the purpose or direction of something, often translated to English as 'to what' or 'what for'."
+  "context": "The Estonian word 'millele' is an interrogative pronoun in the allative case. It's formed by adding the allative ending '-le' to the stem 'mill-', which means 'what'. The word asks about direction, target, or purpose - essentially asking 'to what' or 'for what purpose'. It's used when you want to know the destination, recipient, or objective of something."
 }

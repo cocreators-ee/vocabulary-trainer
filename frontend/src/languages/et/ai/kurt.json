@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kuradil on nüanssid.",
-    "See on lihtne kurbus.",
-    "Kurad sõnad. Mina ei tohi neid öelda."
+    "Kurdid on rõõmsad inimesed.",
+    "Ma olen kurt ja kuulen hästi.",
+    "Tema oli kurt oma lapse sünnipäeval."
   ],
   "translation": [
-    "sadness",
-    "grief",
-    "sorrow"
+    "deaf",
+    "mute",
+    "unable to speak"
   ],
-  "context": "Kurt refers to a feeling of deep sadness or sorrow, often used to describe emotional states or expressions that are somber or mournful."
+  "context": "The Estonian word 'kurt' can function as both an adjective and a noun. As an adjective, it means 'deaf' or 'mute'. As a noun, it refers to a deaf person. The word is derived from the same root as the verb 'kurdama' (to be mute/to not speak). In Estonian, this word doesn't distinguish between deafness and muteness in the way English often does, so it can carry both meanings depending on context."
 }

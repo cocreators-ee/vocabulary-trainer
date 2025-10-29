@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tulekahju oli äärmiselt ohtlik.",
-    "Tulekahjudest on üsna palju.",
-    "Kustutame tulekahju."
+    "Tulekahju põles maja kogu öö.",
+    "Väljas oli suur tulekahju.",
+    "Pääsesime vaid kitsalt tulekahjust."
   ],
   "translation": [
     "fire",
+    "blaze",
     "conflagration"
   ],
-  "context": "The word tulekahju refers to a large, uncontrolled fire, often occurring in a building or outdoor area, and is commonly used in Estonian to describe such incidents."
+  "context": "The word 'tulekahju' is an Estonian noun that means fire or blaze. It refers to a destructive burning, typically involving property damage. The word consists of two parts: 'tule' meaning fire and 'kahju' meaning damage or harm. In Estonian grammar, it's in the nominative case as a singular noun."
 }

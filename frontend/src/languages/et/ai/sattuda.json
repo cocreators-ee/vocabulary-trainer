@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sattusin talle juhuslikult.",
-    "Ta sattus minu poole.",
-    "Sattuda võib igaühele."
+    "Ta sattus eksama metsas.",
+    "Me sattume õnneks kõrvale.",
+    "Ei saa sattuda olukorda ilma teadmata tagajärgi."
   ],
   "translation": [
-    "to happen",
-    "to occur"
+    "to end up",
+    "to happen to be",
+    "to get into (a situation)",
+    "to find oneself"
   ],
-  "context": "The word 'sattuda' in Estonian means to happen or occur by chance, and it is commonly used to describe an event that takes place unexpectedly."
+  "context": "The Estonian verb 'sattuda' means to end up in a particular situation, often by chance or accident. It's used when someone finds themselves in a location or circumstance without deliberate planning. The word implies a sense of randomness or unintended outcome - you didn't plan to be there, but somehow it happened. It can refer to physical locations (getting lost) or abstract situations (ending up in trouble)."
 }

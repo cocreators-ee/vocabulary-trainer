@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostsid eile uue telefoni.",
-    "Ta on ostnud palju raamatuid.",
-    "Nad otsivad odavat võimalust."
+    "Ostsid uue auto?",
+    "Kas ostsid mind kohale?",
+    "Ta ostsid õuna."
   ],
   "translation": [
-    "bought",
-    "purchased"
+    "bought (singular past tense)",
+    "purchased",
+    "acquired"
   ],
-  "context": "The word 'ostsid' is the second person singular past tense form of the Estonian verb 'ostma', which means to buy. It is commonly used in sentences to indicate that someone has acquired something."
+  "context": "The word 'ostsid' is the second-person singular past tense form of the Estonian verb 'osta', which means 'to buy'. It is used when addressing one person informally and asking about or stating what they bought in the past. For example, 'Ostsid uue auto?' means 'Did you (singular) buy a new car?'. This form specifically indicates that the action of buying was completed by the person being addressed."
 }

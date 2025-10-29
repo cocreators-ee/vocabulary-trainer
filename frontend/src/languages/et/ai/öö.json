@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Öö on pime.",
-    "Öösiti lähen kinno.",
-    "Ööl võib olla raske magada."
+    "Öö on kuuvalguses.",
+    "Tuleb varsti öö.",
+    "Me oleme tegutsenud öösel."
   ],
   "translation": [
     "night"
   ],
-  "context": "The word öö refers to the period of darkness between sunset and sunrise, commonly used to describe the time of day when it is dark outside."
+  "context": "The word 'öö' is the Estonian noun for 'night'. It's a common word used to refer to the period of darkness between sunset and sunrise. In Estonian grammar, it follows normal declension patterns with various cases like nominative (öö), genitive (ööd), partitive (ööd), etc."
 }

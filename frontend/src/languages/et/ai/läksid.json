@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta sõi, et ta läksid kodusse.",
-    "Ma ei tea, miks nad läksid rahulikumaks.",
-    "Kas sa tead, kus nad läksid?"
+    "Töölt läksid koju.",
+    "Eile läksid linna.",
+    "Sa läksid varakult ära."
   ],
   "translation": [
     "went",
-    "became calmer",
-    "left"
+    "left",
+    "departed"
   ],
-  "context": "The word 'läksid' is the past tense form of the verb 'minna', which means to go. It can also have derived meanings like becoming something in context."
+  "context": "The word 'läksid' is the second person singular past tense form of the Estonian verb 'minema', which means 'to go'. It corresponds to English 'you went' or 'you left'. The root 'läkse-' indicates movement from one place to another, and the '-d' ending marks it as second person singular (you) in the past tense."
 }

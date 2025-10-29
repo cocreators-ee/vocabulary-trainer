@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen üks missiooni liige.",
-    "Missioon sai alguse 2010. aastal.",
-    "Ta on osalenud mitmel rahvusvahelisel missioonil."
+    "Missioon on tähtis projekt meie ettevõttes.",
+    "Tal oli karm missioon teises riigis.",
+    "Kõik vajavad oma missiooni elus."
   ],
   "translation": [
-    "mission"
+    "mission",
+    "assignment",
+    "task"
   ],
-  "context": "The word 'missioon' in Estonian refers to a task or assignment given to a person or group, often with a specific goal or objective, similar to the English word 'mission'."
+  "context": "The word 'missioon' in Estonian is a noun that means 'mission', referring to an important task or purpose. It can be used for religious missions, business assignments, personal purposes, or special projects that have significance beyond routine activities."
 }

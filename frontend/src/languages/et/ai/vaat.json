@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Vaat siia!",
-    "Mina vaatan täna filmi.",
-    "Ta ei saa midagi näha."
+    "Vaat! Kuidas sul läheb?",
+    "See on vaat imelik!",
+    "Tere tulemast vaat siia."
   ],
   "translation": [
-    "Look"
+    "look",
+    "see",
+    "watch"
   ],
-  "context": "The word 'vaat' is a form of the verb 'to look'. It can be used in different contexts, such as directing someone to look at something or expressing an action of looking in general."
+  "context": "The word 'vaat' is the imperative form of the Estonian verb 'vaatama', which means to look, see, or watch. It's used as an attention-getter similar to 'Look!' or 'See!' in English. The word can stand alone as an exclamation to get someone's attention before speaking."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin seda suust.",
-    "Ta ütles mulle suust, et see on tõde.",
-    "Suust võttes oli ta väga kibestunud."
+    "Ta sai suust viga.",
+    "Laps suust härra.",
+    "Kõik toidud läksid suust."
   ],
   "translation": [
     "from the mouth",
-    "orally"
+    "out of the mouth"
   ],
-  "context": "The word 'suust' in Estonian means from the mouth or orally, and it is commonly used to describe something that is said or spoken directly from someone's mouth."
+  "context": "The Estonian word 'suust' is an elative case form of 'suu' (mouth). It indicates movement or origin from inside the mouth, meaning 'from the mouth' or 'out of the mouth'. This grammatical form shows where something comes out or originates."
 }

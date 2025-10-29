@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen teisi inimesi.",
-    "Teised on samas olukorras.",
-    "Ta ei kuula teisi."
+    "Ma olen teisi ideid.",
+    "Teised inimesed on siin.",
+    "Meil on teisi võimalusi."
   ],
   "translation": [
-    "others",
-    "other people"
+    "other",
+    "different",
+    "additional"
   ],
-  "context": "The word 'teisi' is a plural pronoun in Estonian that refers to other people or things, and it is commonly used to contrast with the speaker or the subject of the sentence."
+  "context": "The Estonian word 'teisi' is the partitive plural form of 'teine', which means 'other' or 'different'. It's used to indicate other people, things, or alternatives in a non-specific way. In English translations, it typically corresponds to words like 'other', 'different', or 'additional' depending on context."
 }

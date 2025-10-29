@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Juhi on hea mees.",
-    "Ma olen juhi abil.",
-    "Ta on juht"
+    "Tema on juhi.",
+    "Juhi sõidab autoga.",
+    "Kes on juhi?"
   ],
   "translation": [
     "leader",
     "driver",
     "guide"
   ],
-  "context": "The word 'juhi' is a noun in Estonian that refers to a person who leads or guides others, and it can be translated to English as 'leader', 'driver', or 'guide', depending on the context in which it is used."
+  "context": "The Estonian word 'juhi' can have multiple meanings depending on context. It is the genitive case of 'juht', which means leader, driver, or guide. In the genitive form (ending -i), it indicates possession or relationship to something, similar to English possessive forms like 'leader's' or showing that someone is functioning in a leadership/driver/guide role."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä kirjoitan kirjeen",
-    "Hän on kirjoittamassa artikkelia",
-    "He kirjoittavat yhdessä kirjaa"
+    "Minä kirjoitan kirjeen.",
+    "Hän kirjoitti runon eilen.",
+    "Kirjoitatko päiväkirjaa joka ilta?"
   ],
   "translation": [
     "to write",
-    "writes"
+    "to compose",
+    "to author"
   ],
-  "context": "The word 'kirjoittaa' is a verb in Finnish that means to write something, and it is commonly used in various contexts such as writing letters, articles, or books."
+  "context": "The Finnish word 'kirjoittaa' is the verb meaning 'to write'. It's an -tta/-ttä type verb that follows regular conjugation patterns. It can be used for writing letters, books, poems, articles, or any form of written expression. The present tense form is 'kirjoitan', past tense 'kirjoitin', and future tense would be 'kirjoitan' (in Finnish the same form as present often indicates future context). This verb is commonly used in both formal and everyday contexts for all types of writing activities."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän lähti alkaen huomenna.",
-    "Elokuva alkaa klo 18:00.",
-    "Työskentely alkaen maanantaina on mahdollista."
+    "Alkaen huomisesta viikosta aloitamme uuden projektin.",
+    "Kaupat ovat auki alkaen klo 8.00.",
+    "Hän saapui alkaen Helsingistä."
   ],
   "translation": [
     "starting from",
-    "beginning",
-    "commencing"
+    "beginning with",
+    "as of"
   ],
-  "context": "The word 'alkaen' in Finnish translates to 'starting from', 'beginning', or 'commencing' in English. It indicates a point in time or a condition from which something begins. It is often used to specify when an event, activity, or period starts."
+  "context": "The Finnish word 'alkaen' is an adverb that means 'starting from', 'beginning with', or 'as of'. It indicates the starting point in time, place, or sequence. When used with the elative case (-sta/-stä), it forms a construction meaning 'from somewhere onwards'. For example, 'huomisesta alkaen' means 'starting tomorrow'. In temporal contexts, it often marks when something begins."
 }

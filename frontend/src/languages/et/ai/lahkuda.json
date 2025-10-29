@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lahkusin varakult koduüst",
-    "Ta lahkus riigist ilma luba",
-    "Lahkumine on raske"
+    "Lahkun kodust kella kaheksa õhtul.",
+    "Ta lahkus töölt, sest ta oli väga väsinud.",
+    "Mees lahkus ruumist vaikivalt."
   ],
   "translation": [
     "to leave",
-    "depart",
-    "quit"
+    "to depart",
+    "to exit",
+    "to quit"
   ],
-  "context": "The word 'lahkuda' in Estonian means to leave or depart from a place, and it is commonly used in various contexts such as leaving home, quitting a job, or departing from a country."
+  "context": "The Estonian verb 'lahkuda' means to leave or depart from a place. It can be used in various contexts such as leaving home, quitting a job, exiting a room, or departing from a location. The word is in its basic form (infinitive) and indicates the action of moving away from somewhere or someone."
 }

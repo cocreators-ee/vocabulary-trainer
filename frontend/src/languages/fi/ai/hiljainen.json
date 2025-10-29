@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hiljainen yö oli kauneus",
-    "Hiljaiset hetket ovat harvinaisia",
-    "Kaupunki on hiljainen myöhään illalla"
+    "Tämä huone on hiljainen.",
+    "Pidä äänet hiljaisina, kiitos.",
+    "Hiljaisuus auttaa minua ajattelemaan."
   ],
   "translation": [
     "quiet",
     "silent",
     "still"
   ],
-  "context": "The word 'hiljainen' is commonly used in Finnish to describe a peaceful and calm environment or situation, where there is little or no noise."
+  "context": "The Finnish word 'hiljainen' is an adjective that means quiet or silent. It's used to describe places, things, or situations that have little or no noise. It can be declined in different ways depending on the context - for example, 'hiljaista' (partitive case) meaning 'quiet' as in 'a bit of quiet', and 'hiljaisina' (inessive-plural) meaning 'in a quiet manner'. The word is commonly used to request someone to be quiet ('Pidä äänet hiljaisina' - 'Keep the noises quiet') or to describe environments that are peaceful and without disturbance."
 }

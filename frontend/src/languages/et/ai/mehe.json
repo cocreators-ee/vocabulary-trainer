@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mehe nimi on Mart.",
-    "See mees on minu sõber.",
-    "Mehed mängivad jalgpalli."
+    "Mehe on kõrge.",
+    "Tema näeb head mehe.",
+    "Väike mehe jooksis pärast last."
   ],
   "translation": [
     "man",
-    "male",
-    "guy"
+    "husband",
+    "male"
   ],
-  "context": "The word 'mehe' is a genitive form of the Estonian word for 'man' or 'male', and it is commonly used to indicate possession or relationship, for example, 'mehe nimi' means 'the man's name'."
+  "context": "The word 'mehe' is the singular nominative form of the Estonian noun meaning 'man' or 'male'. It refers to an adult human male. In some contexts, it can specifically mean 'husband'. The word follows Estonian grammatical rules for nouns and would decline in different cases (genitive, partitive, etc.) when used in various sentence structures."
 }

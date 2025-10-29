@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis jalga.",
-    "Jalad olid väga paljad.",
-    "Tal on üks jalg"
+    "Tema jala oli külm.",
+    "Tal on üks jala lühem kui teine.",
+    "Jalad olid täis liiva."
   ],
   "translation": [
-    "foot",
-    "leg"
+    "leg",
+    "foot"
   ],
-  "context": "The word 'jala' in Estonian generally refers to a part of the human body, specifically the lower extremity, and is often translated to English as 'foot' or 'leg', depending on the context in which it is used."
+  "context": "The word 'jala' in Estonian is the genitive singular form of 'jalga', which means 'leg' or 'foot'. It indicates possession or relationship to a leg/foot. In the first sentence, it shows whose leg was cold; in the second, it refers to one's own leg being shorter than the other; and in the third, it describes legs being full of sand."
 }

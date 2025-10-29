@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen küsinud teda juba mitu korda.",
-    "Temagi on varem küsitud sarnast küsimust.",
-    "Kas keegi on sulle kunagi midagi sellist küsinud?"
+    "Ma küsinud temalt abi.",
+    "Oled sa veel küsinud oma vanematelt?",
+    "Ta oli küsinud, kas tuleme homme."
   ],
   "translation": [
-    "asked"
+    "asked",
+    "inquired",
+    "questioned"
   ],
-  "context": "The past participle of 'küsa', meaning to ask. It is used in forming the present perfect tense and can also function as an adjective."
+  "context": "The word 'küsinud' is the past tense (perfect) form of the verb 'küsima', which means 'to ask'. It indicates that someone has performed the action of asking at some point in the past. In Estonian, this is formed by adding the '-d' suffix to the stem 'küsi-'."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta hakkas jooksma.",
-    "Me jooksime pargis.",
-    "Jookske kiiresti!"
+    "Jookske kiiresti!",
+    "Tuleks jookske koju.",
+    "Me peame jookske."
   ],
   "translation": [
-    "run",
-    "to run"
+    "run quickly",
+    "hurry up and run",
+    "should run"
   ],
-  "context": "The word 'jookske' is the imperative form of the verb 'jooksma', meaning 'to run'. It’s used to tell someone to start running or to continue running. In English, it corresponds to commands like 'Run!' or requests such as 'Keep running!'."
+  "context": "The word 'jookske' is the imperative form of the verb 'jooksema' (to run) in Estonian. It's used to give a command or suggestion for someone to run, often with an urgent or hurried connotation. The '-ke' suffix can indicate both a command and sometimes a polite suggestion."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Presidendi võim on piiratud.",
-    "Ta oli presidendi ametis kaks aastat.",
-    "Presidendi valimised toimusid eile."
+    "Presidendi ametiaeg on viis aastat.",
+    "Külastame presidenti lossis.",
+    "Presidendi kõne meelitas palju tähelepanu."
   ],
   "translation": [
-    "president's",
+    "president's (possessive)",
     "of the president"
   ],
-  "context": "The word presidendi is a genitive form of the Estonian word presidend, meaning president, and is used to indicate possession or relationship to the president."
+  "context": "The word 'presidendi' is the Estonian genitive case form of 'president', meaning 'president's' or 'of the president'. It indicates possession or association with the president and is used to show that something belongs to, comes from, or relates to the president. This grammatical form is commonly used in Estonian to express relationships between nouns."
 }

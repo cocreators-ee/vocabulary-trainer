@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Selle elus on palju jutu.",
-    "El tõi end korda ja läks tööle.",
-    "Ta pani el peale oma karjääri."
+    "Elu on ilus.",
+    "Elame õnnelikult.",
+    "Ta elab Tallinnas."
   ],
   "translation": [
-    "life",
-    "to get one's act together",
-    "career"
+    "live",
+    "life"
   ],
-  "context": "'el' primarily means 'life', but it can also be used in phrasal verbs such as 'pida ell' (to hold on) or 'tõsta el korda' (to get one's life in order)."
+  "context": "The word 'el' in Estonian is the root form of the verb 'ela', which means 'to live'. It's used in various forms depending on tense, person and number. As a standalone word 'el' can be part of compound words or appear in certain grammatical contexts."
 }

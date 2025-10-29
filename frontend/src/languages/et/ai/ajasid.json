@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Neiu aitas meestel ajasid ära hoida.",
-    "Jäädavad ajasid, kuid see oli liiga palju.",
-    "Tema juuksed aitasid tal põgenemisel neist ajasid tagasi hoida."
+    "Ajad meid siin nüüd.",
+    "Ta andis aega teistele.",
+    "Väike laps ajas ema nutma."
   ],
   "translation": [
-    "were beating (past tense plural)"
+    "times",
+    "periods",
+    "instances"
   ],
-  "context": "'Ajasid' is the past tense plural form of 'aja', which means to beat or to hit. It commonly refers to physical attacks, such as someone beating another person with their fists, but can also refer to animals or objects striking something repeatedly."
+  "context": "The Estonian word 'ajasid' is the partitive plural form of 'aja', which means 'time'. It functions as an object indicating multiple instances or periods when something happened. This grammatical case shows what was affected by the action, and the plural indicates multiple occurrences rather than a single moment."
 }

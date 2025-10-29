@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma nägin nende juures auto.",
-    "Nende ema on õpetaja.",
-    "Nende kodu on Tallinnas."
+    "Nendid on head inimesed.",
+    "Ma arvan, et nendid tulevad homme.",
+    "Kes need nendid on?"
   ],
   "translation": [
     "they",
     "them",
-    "their"
+    "those"
   ],
-  "context": "The word 'nende' is a pronoun in Estonian that refers to a group of people or things, similar to the English words 'they', 'them', or 'their'. It is commonly used as an object pronoun in sentences."
+  "context": "The word 'nende' is an Estonian pronoun that functions as the genitive/accusative form of 'nemad' (they/them). It can translate to English as 'their', 'of them', or refer to specific people being discussed. In context, it indicates possession or direct object relationship with the subject they're referring to."
 }

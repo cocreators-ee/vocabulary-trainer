@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on mõeldud ainult näidiseks.",
-    "Mõeldud tulemus on hea.",
-    "Ta oli selleks mõeldud inimene."
+    "See on mõeldud teie kaitseks.",
+    "Seda raamatut pole mõeldud lastele.",
+    "Kõik need reeglid on mõeldud paremaks koostööks."
   ],
   "translation": [
     "intended",
     "meant",
-    "supposed"
+    "designed"
   ],
-  "context": "The word 'mõeldud' is commonly used to describe something that is intended or meant for a particular purpose, often implying a sense of planning or design."
+  "context": "The word 'mõeldud' is the past participle form of the Estonian verb 'mõtlema', which means 'to think'. In this context, it functions as an adjective meaning 'intended', 'meant', or 'designed for'. It indicates that something has been planned or created with a specific purpose in mind. The word is commonly used to describe the purpose or target audience of various things like objects, rules, messages, etc."
 }

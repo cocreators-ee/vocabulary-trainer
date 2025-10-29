@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See toimub igal aastal.",
-    "Mul on hea meel, et see toimub.",
-    "Kas see toimub homme?"
+    "Kool toimub igal hommikul.",
+    "Mees toimub hästi oma töös.",
+    "Toimuvad suured muutused ettevõttes."
   ],
   "translation": [
-    "happens",
     "takes place",
+    "is happening",
     "occurs"
   ],
-  "context": "The word 'toimub' is commonly used in Estonian to describe an event or action that is happening or taking place, often in a specific location or at a certain time."
+  "context": "The Estonian word 'toimub' is the 3rd person singular present form of the verb 'töötama'. It means that something is taking place, occurring, or happening. This verb is commonly used to describe events, activities, situations, and processes that are currently in progress or regularly occurring. For example, it can be used for school sessions (kool toimub), people performing well at work (mees töötab hästi - though the form shown here is 'toimub'), or general events happening."
 }

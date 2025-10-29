@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kauaks ära.",
-    "Ta on kauaks haigeks jäänud.",
-    "Kauaks pole nad naasnud."
+    "Kauaks sa oled kodust eemal?",
+    "Ta lahkus kauaks koju.",
+    "Meeldiv on näha sind kauaks."
   ],
   "translation": [
-    "for a long time"
+    "for a long time",
+    "for how long",
+    "until when"
   ],
-  "context": "The word kauaks is an adverb in Estonian that means for a long time or a long while, often used to describe the duration of something."
+  "context": "The word 'kauaks' is an Estonian adverb derived from 'kauge' (distant/far). It's the illative case form of 'kaua' (long time/for a long period) and typically means 'for how long', 'until when', or 'for a long time'. In questions, it often asks about duration, while in statements it indicates an extended period. The '-ks' suffix transforms the word into the illative case, suggesting movement toward a state of being for that duration."
 }

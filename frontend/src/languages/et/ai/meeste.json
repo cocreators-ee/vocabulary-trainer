@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Meeste jalgpalliklubi on väga populaarne.",
-    "Meeste võimla on suletud remonti ajal.",
-    "Meeste koor laulab ilusalt."
+    "Meeste kõrval seisab naine.",
+    "Need on meeste kingad.",
+    "Pood pakub meeste rõivaid."
   ],
   "translation": [
-    "men",
-    "male",
-    "gentlemen"
+    "men's",
+    "of men",
+    "belonging to men"
   ],
-  "context": "The word meeste refers to a group of males or men, and is commonly used in Estonian to describe something related to or intended for men."
+  "context": "The word 'meeste' is the genitive plural form of the Estonian noun 'mees', which means 'man'. In the genitive case, it indicates possession or relationship - something belonging to men. This ending '-ste' is used for genitive plural nouns in Estonian."
 }

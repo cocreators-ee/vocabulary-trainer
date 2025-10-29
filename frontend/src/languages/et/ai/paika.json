@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin paika, kus ma saan istuda.",
-    "Paika oli täis inimesi.",
-    "Ta leidis endale hea paika tööks."
+    "Ma lähen paika.",
+    "Tule minu juurde paika.",
+    "Paika on tore koht."
   ],
   "translation": [
+    "to go",
+    "to come",
     "place",
-    "spot",
     "location"
   ],
-  "context": "The word 'paika' in Estonian generally refers to a physical location or a spot where something is situated, and it can be used in various contexts to describe a particular area or position."
+  "context": "The word 'paika' in Estonian has multiple meanings depending on the context. It can be a colloquial form of the verb 'pääsima' (meaning 'to go' or 'to reach'), particularly in informal speech. Additionally, it can refer to a place or location. In example sentences, it's used as both a verb ('Ma lähen paika' - I'm going there) and a noun reference ('Paika on tore koht' - It's a nice place)."
 }

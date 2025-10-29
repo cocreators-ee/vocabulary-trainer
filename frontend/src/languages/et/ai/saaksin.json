@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma saaksin aru, kui sa mulle selgitaksid.",
-    "Saaksin ma paluda sind abi?",
-    "Kui saaksin valida, ma läheks kohe puhkusele."
+    "Saaksin abi?",
+    "Ma ei saaksid tänaseks.",
+    "Kas sa saaksid homme tööd?"
   ],
   "translation": [
-    "could",
-    "would be able to",
-    "might"
+    "I would get",
+    "I could receive",
+    "I might obtain"
   ],
-  "context": "The word 'saaksin' is a conditional form of the verb 's saada', meaning 'to get' or 'to receive'. It expresses possibility or polite request. In English, it translates to 'could' or 'would be able to', often used in hypothetical situations or when asking for something politely."
+  "context": "The word 'saaksin' is the conditional form of the Estonian verb 'saa-' meaning 'to get/obtain/receive'. It's formed by adding the '-ksin' suffix to the stem. In English, it corresponds to 'would get', 'could receive', or 'might obtain'. This form expresses a hypothetical situation - something that might happen but isn't certain."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on üks suurtest riigimeestest.",
-    "Suurtel meestel on sageli väikesed sõbrad.",
-    "Suured ja väikesed linnad on mõlemad Eestis levinud."
+    "Suured laevad on sadamas.",
+    "Ta ostis suuri kingi.",
+    "Mehed said suurt palga tõusu."
   ],
   "translation": [
-    "large",
     "big",
+    "large",
     "great"
   ],
-  "context": "The word 'suurte' is an adjective in Estonian that means large or big, and it is commonly used to describe something that has a significant size or importance."
+  "context": "The word 'suurte' is the plural partitive form of the Estonian adjective 'suur', meaning 'big' or 'large'. In this case, it indicates multiple big/large things in partitive case (used for indefinite objects). The '-te' ending shows it's in plural, and it modifies a plural noun that is in the partitive case. This form would typically follow a plural noun in Estonian grammar."
 }

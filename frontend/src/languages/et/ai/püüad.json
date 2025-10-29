@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma püüan sulle aidata",
-    "Ta püüab mind veenda",
-    "Me püüame koos lahendada"
+    "Sa püüad kala.",
+    "Tüdruk püüab palli.",
+    "Meie püüame võitu."
   ],
   "translation": [
     "try",
-    "attempt"
+    "attempt",
+    "strive"
   ],
-  "context": "The word 'püüad' is a verb in Estonian that means to try or attempt something, and it is commonly used in everyday conversations to express effort or endeavor."
+  "context": "The word 'püüad' is the second person singular form of the Estonian verb 'püüdma', which means 'to try' or 'to attempt'. It specifically refers to someone (you) making an effort or attempting to do something. In Estonian, verbs conjugate based on person and number, so 'püüad' is used when addressing one person informally."
 }

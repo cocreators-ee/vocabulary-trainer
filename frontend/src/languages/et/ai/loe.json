@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma loen raamatut.",
-    "Ta luges ajalehte.",
-    "Nad loevad luulet."
+    "Loe seda raamatut!",
+    "Ma loen regulaarselt ajalehte.",
+    "Lugege palun märkusi."
   ],
   "translation": [
-    "to read"
+    "read"
   ],
-  "context": "The word 'loe' is a verb in Estonian that means to read. It is commonly used in everyday conversations, such as when talking about reading books, articles, or other written materials."
+  "context": "The Estonian word 'loe' is the singular imperative form of the verb 'lugema', which means 'to read'. It's used when telling someone (singular) to read something. The basic infinitive form is 'lugema', and this imperative form is commonly used in direct commands or instructions."
 }

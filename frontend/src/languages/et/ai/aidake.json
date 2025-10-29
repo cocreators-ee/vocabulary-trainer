@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma aidan sind.",
-    "Sa aidad mind.",
-    "Me aitame teisi."
+    "Aidakes mind palun.",
+    "Aidage mulle seda teada.",
+    "Nad aitasid tal."
   ],
   "translation": [
-    "help"
+    "help",
+    "assist",
+    "aid"
   ],
-  "context": "The word 'aidake' is the first person singular form of the verb 'aitama', which means to help. It is commonly used in Estonian language to express assistance or support towards someone."
+  "context": "The word 'aidake' is the imperative form of the Estonian verb 'aitama', which means 'to help'. In this case, it's used as a command or request for someone to help. The ending '-ke' can be a particle that softens the tone, making it more polite or gentle rather than a direct order."
 }

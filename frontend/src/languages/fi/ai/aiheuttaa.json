@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä aiheuttaa paljon vaivaa.",
-    "Hän aiheutti onnettomuuden.",
-    "Tätä voidaan aiheuttaa useilla tavoilla."
+    "Aiheuttaako tämä sinulle ongelmia?",
+    "Sää aiheutti myrskyn.",
+    "Päätös saattoi aiheuttaa konflikteja."
   ],
   "translation": [
-    "cause",
-    "bring about"
+    "to cause",
+    "to bring about",
+    "to lead to"
   ],
-  "context": "The word 'aiheuttaa' in Finnish means to cause something to happen or exist, and it is commonly used in sentences to describe the reason or origin of an event or situation."
+  "context": "The Finnish verb 'aiheuttaa' means to cause, bring about, or make something happen. It's used when one thing is responsible for bringing another into existence or occurrence. The word follows the standard conjugation patterns of Finnish verbs and can be used in various tenses."
 }

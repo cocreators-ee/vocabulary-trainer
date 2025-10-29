@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga miskit.",
-    "Ära tee nii miskit!",
-    "See oli lihtsalt miskit."
+    "Miskit on täna hea ilm.",
+    "Ma ei tea miskit selle kohta.",
+    "Kas sa tead miskit?"
   ],
   "translation": [
-    "nasty",
-    "awful",
-    "horrible",
-    "bad"
+    "something",
+    "anything",
+    "some things"
   ],
-  "context": "The word 'miskit' is an Estonian slang term used to express something being unpleasant, bad, or of poor quality. It’s similar in usage to words like ‘nasty’, ‘awful’, or ‘horrible’ in English and can be applied to situations, objects, or behaviors."
+  "context": "The word 'miskit' is an Estonian pronoun meaning 'something' or 'any'. It's used in questions and statements when referring to unspecified objects or ideas. In the examples provided, it appears as a standalone pronoun asking about or indicating an unknown thing."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hänellä on uudet kenkät.",
-    "Kenkiä ei saa käyttää ulkona.",
-    "Osta kenkä suosittuun tyyliin."
+    "Minulla on uudet kengät.",
+    "Tämä kenkä on liian pieni minulle.",
+    "Kenkiä myydään tässä kaupassa."
   ],
   "translation": [
     "shoe",
-    "boots"
+    "footwear",
+    "pair of shoes"
   ],
-  "context": "The word 'kenkä' refers to a type of footwear, commonly used for shoes or boots. It is often used in daily conversations when talking about different kinds of shoes people wear."
+  "context": "The Finnish word 'kenkä' means shoe in English. It is a singular noun referring to one individual shoe. In Finnish, 'kenkä' belongs to the weak declension class for consonant stems, which affects how it forms its plural and other grammatical cases. For example, the plural form is 'kengät'. The word can be combined with various suffixes to express different relationships, such as location ('kenkässä' - in a shoe), possession ('kenkäni' - my shoe), or composition ('nahkakenkä' - leather shoe)."
 }

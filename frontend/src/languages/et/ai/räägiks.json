@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma arvan, et me peaksime sellest räägiks.",
-    "Kas sa tahaksid minuga sellest räägiks?",
-    "Ta hakkas äkki räägiks."
+    "Ta räägiks homme kohtumisel.",
+    "Kui ta oleks siin, ta räägiks meiega.",
+    "Ma sooviksin, et sa räägiksid oma plaanidest."
   ],
   "translation": [
-    "to talk",
-    "to speak",
-    "let's talk"
+    "would speak",
+    "could talk",
+    "might say"
   ],
-  "context": "The word 'räägiks' is the conditional mood of the verb 'rääkima' (to talk/speak). It expresses a suggestion or possibility – ‘would talk’ or ‘should talk’. It's often used when proposing a conversation or expressing what someone might do."
+  "context": "The Estonian word 'räägiks' is a conditional form of the verb 'rääkima' (to speak/say). It represents the third person singular conditional mood, used to express hypothetical speech or what someone would say under certain conditions. This form is commonly used in conditional sentences and polite requests."
 }

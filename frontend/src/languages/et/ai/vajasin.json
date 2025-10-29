@@ -1,14 +1,14 @@
 {
-  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Ma vajasin abi, et saada see tehtud.",
-    "Ta vajasin tähelepanu, mida ta ei saanud andma.",
-    "Kas vajasid rohkem aega selleks?"
+    "Vajasin abi.",
+    "Ma vajasin rohkem aega.",
+    "Ta ei vajanud nõuandeid."
   ],
   "translation": [
-    "I needed",
-    "I required"
+    "needed",
+    "required",
+    "wanted"
   ],
-  "context": "'vajasin' is the past tense of 'to need' in Estonian. It's commonly used to express that someone had a requirement or necessity for something in the past."
+  "context": "The word 'vajasin' is the first person singular past tense form of the Estonian verb 'vajama', which means 'to need' or 'to require'. In English, it translates to 'I needed' or 'I required'. This form is used when referring to a past action where the speaker had a requirement or necessity for something. The word can express both physical needs and abstract requirements."
 }

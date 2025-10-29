@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean seda küll ",
-    "Tean, et see on tõsi",
-    "Tahan, et sa teaksid"
+    "Tean, et see on õige.",
+    "Ma ei tea seda.",
+    "Teete tead midagi?"
   ],
   "translation": [
     "I know",
-    "I am aware"
+    "am aware of",
+    "have knowledge of"
   ],
-  "context": "The word 'tean' is the first person singular present tense of the verb 'to know'. It is commonly used to express knowledge or awareness in conversational contexts."
+  "context": "The word 'tean' is the first person singular present tense form of the verb 'tööda', which means 'to know'. It indicates that the speaker has knowledge or awareness of something. In Estonian, this verb changes form based on person and tense - 'tean' specifically means 'I know' in the present moment."
 }

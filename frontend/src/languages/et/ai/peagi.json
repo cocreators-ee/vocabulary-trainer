@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen peagi tagasi.",
-    "Ta naerb peagi.",
-    "Peagi saab talve."
+    "Peagi saab kevad.",
+    "Peagi tuleme tagasi.",
+    "Peagi on lõuna."
   ],
   "translation": [
     "soon",
-    "early"
+    "shortly",
+    "in a little while"
   ],
-  "context": "The word 'peagi' in Estonian means soon or early, and is commonly used to indicate that something will happen in the near future."
+  "context": "The Estonian word 'peagi' is an adverb that indicates something will happen in the near future. It's commonly used to express that something will occur soon or shortly, similar to English words like 'soon', 'shortly', or 'in a little while'. The word typically appears at the beginning of sentences but can also be placed elsewhere depending on emphasis."
 }

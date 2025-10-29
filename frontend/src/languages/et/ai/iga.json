@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Iga päev ma käin koolis.",
-    "Ta on iga aastaga parem.",
-    "Ma armastan iga inimest."
+    "Iga päev on uus võimalus.",
+    "Igal aastal toimub see festival.",
+    "Igas asjas tuleb olla ettevaatlik."
   ],
   "translation": [
     "every",
     "each"
   ],
-  "context": "The word 'iga' is used to describe something that happens or is true for every individual item or occasion, similar to the English words 'every' and 'each'."
+  "context": "The Estonian word 'iga' is an adjective that means 'every' or 'each'. It's used to indicate that something applies to all members of a group without exception. In the examples, it modifies nouns like 'päev' (day), 'aastal' (year), and 'asjas' (matter/thing) to express universality."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta otsisid raamatut.",
-    "Kas sa otsisid mind?",
-    "Nad on juba ammu otsinud lahendust."
+    "Ma otsisin oma võtmeid.",
+    "Ta otsis teist korda kaotas asja.",
+    "Me otsisime teda kogu päev."
   ],
   "translation": [
-    "were looking for",
-    "searched for",
-    "seeking"
+    "looked for",
+    "searched for"
   ],
-  "context": "The verb 'otsida' in Estonian means 'to look for' or 'to search for'. The form 'otsisid' is the past tense, second-person singular ('you' were looking for). It indicates an action of searching that has already happened and was directed towards a single person."
+  "context": "The word 'otsisid' is the past tense plural form of the Estonian verb 'otsima', which means 'to look for' or 'to search for'. It specifically refers to the action that multiple people performed in the past - they searched for something or someone. This is the second-person plural (you) or third-person plural (they) past tense conjugation."
 }

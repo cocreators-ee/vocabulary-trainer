@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen läbi metsa",
-    "Ta võttis läbi ühenduse sõberga",
-    "Me käisime läbi kogu linna"
+    "Ta jooksis läbi metsa.",
+    "Läbi öö kõik muutus.",
+    "Nad said läbi kõik probleemid."
   ],
   "translation": [
     "through",
-    "across"
+    "across",
+    "by",
+    "past",
+    "throughout"
   ],
-  "context": "The word 'läbi' in Estonian means to move from one side of something to the other, often translated as 'through' or 'across' in English, and is commonly used to describe movement or action that passes through a certain area or object."
+  "context": "The Estonian word 'läbi' is a versatile preposition or adverb that indicates movement through something, completion of an action, or passage of time. It can mean 'through', 'across', 'by', 'past', or 'throughout' depending on the context. When used with motion verbs like jooksma (to run), it means moving through a space. With completion contexts, it indicates finishing something completely. When referring to time periods, it shows duration throughout that period."
 }

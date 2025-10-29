@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "See kõlab hästi.",
-    "Ta ütles, et see kõlab korralikult.",
-    "Kõlab nagu oleksid sa võõras."
+    "Muusika kõlab kaunilt.",
+    "Sellest projektist kõlab hästi."
   ],
   "translation": [
     "sounds",
-    "seems"
+    "resonates",
+    "echoes"
   ],
-  "context": "The word kõlab is commonly used in Estonian to describe how something sounds or seems, and it can be translated to English as 'sounds' or 'seems' depending on the context."
+  "context": "The Estonian word 'kõlab' is the 3rd person singular present form of the verb 'kõlama', which means to sound, resonate, or echo. It is used when describing how something sounds audibly - whether it's pleasant (sounding well), musical (resonating beautifully), or in a figurative sense about projects/situations progressing well."
 }

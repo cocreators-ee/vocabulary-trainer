@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Naiset juoksivat nopeasti.",
-    "Mies puhui naisille.', ",
-    "Kaikki naiset ovat tervetulleita."
+    "Naiset ovat voimakkaita ja itsenäisiä.",
+    "Kaupungilla on paljon naisia tänään.",
+    "Naiset työskentelevät monissa eri ammateissa."
   ],
   "translation": [
     "women",
-    "ladies"
+    "females"
   ],
-  "context": "The word 'naiset' is a noun in Finnish that refers to adult human females, and it is commonly used as a plural form of the word 'nainen', which means woman."
+  "context": "The word 'naiset' is the plural form of Finnish noun 'nainen', meaning 'woman'. It refers to adult female human beings in general. In Finnish, nouns have grammatical cases and numbers, with '-t' typically indicating the plural nominative case for many feminine nouns. This word would be used when talking about multiple women or females as a group."
 }

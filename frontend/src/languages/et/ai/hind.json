@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma hindan seda raamatu väga",
-    "Hind on hea",
-    "Ta ei saanud head hinda"
+    "Hind on 10 eurot.",
+    "Kõrge hind ei tähenda alati head kvaliteeti.",
+    "Mida see hind sisaldab?"
   ],
   "translation": [
     "price",
-    "value",
-    "grade"
+    "cost",
+    "value"
   ],
-  "context": "The word 'hind' in Estonian can be translated to English as 'price', 'value', or 'grade', depending on the context in which it is used. It is commonly used to refer to the cost or worth of something, but can also refer to a score or evaluation given to someone or something."
+  "context": "In Estonian, 'hind' is a noun that means price or cost. It's used to refer to the amount of money something costs. For example: 'Hind on 10 eurot' means 'The price is 10 euros'. The word can appear in different contexts such as comparing prices ('Kõrge hind ei tähenda alati head kvaliteeti' - 'High price doesn't always mean good quality') or asking about what's included in a price ('Mida see hind sisaldab?' - 'What does this price include?')."
 }

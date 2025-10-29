@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tämä on eläinten maailmaa.",
-    "Eläimet tarvitsevat ruokaa ja vettä.",
-    "Hän on eläinsuojelijana tunnettu."
+    "Minulla on lemmik-eläin.",
+    "Eläimet tarvitsevat hoitoa.",
+    "Tämä eläin on harvinainen."
   ],
   "translation": [
     "animal",
-    "animals"
+    "creature",
+    "beast"
   ],
-  "context": "The word 'eläin' means 'animal' in English. It is commonly used to refer to non-human living creatures, often in contrast to plants and humans. The plural form of 'eläin' is also 'eläimet', but it can be used more generally as a singular noun referring to an animal."
+  "context": "The Finnish word 'eläin' means 'animal' in English. It is a common noun that refers to any living creature, typically multicellular organisms that can move and consume organic material for energy. In Finnish grammar, it's an ordinary common noun that follows standard inflection patterns for nouns."
 }

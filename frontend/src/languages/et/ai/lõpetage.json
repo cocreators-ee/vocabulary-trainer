@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Lõpetage oma riiulid ja visake need lauale.",
-    "Ei saa lõpetada - see ei saa olla tõsi!",
-    "Ma usun, et peame siin juba lõpetama."
+    "Lõpetage töö kella viisiks.",
+    "Palun lõpetage oma telefonide kasutamine.",
+    "Nad lõpetavad projektit homme."
   ],
   "translation": [
-    "end",
-    "stop",
-    "finish"
+    "finish",
+    "complete",
+    "end"
   ],
-  "context": "The verb 'lõpetage' means to end or stop an action. It is commonly used in situations where one must conclude a task, activity, or even a conversation."
+  "context": "The word 'lõpetage' is the formal/plural command form of the Estonian verb 'lõpetama', which means 'to finish' or 'to complete'. It's used when addressing multiple people formally or in polite requests. The '-ge' ending indicates it's a 2nd person plural imperative form, making it equivalent to 'finish!' (plural formal) or 'please finish!'"
 }

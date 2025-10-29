@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlen nendele, et see on hea mõte.",
-    "Nendele inimestele meeldib see film.",
-    "Ta rääkis nendele lastele loo."
+    "Nendele lapsele andsin mänguasja.",
+    "Tule lähemale nendele inimestele.",
+    "Mul on kingitused nendele lastele."
   ],
   "translation": [
     "to them",
-    "for them"
+    "for these",
+    "with those"
   ],
-  "context": "The word 'nendele' is a dative plural pronoun in Estonian, used to indicate that something is being done for or to a group of people or things. It is commonly used in sentences where the subject is performing an action that affects multiple objects."
+  "context": "The Estonian word 'nendele' is the allative case of the demonstrative pronoun/noun 'need'. It means 'to these/those' and indicates direction toward something or someone. In English, it would typically be translated as 'to them', 'for these', or 'with those' depending on context. The -le suffix in Estonian grammar specifically indicates movement toward or destination."
 }

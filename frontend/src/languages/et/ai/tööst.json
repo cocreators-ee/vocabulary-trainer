@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tööst on saanud üks olulisemaid majandusharu.",
-    "Tööstuslik tootmine on suurenenud.",
-    "Ettevõte tegeleb peamiselt tööstusega."
+    "Tööst on veel tööd teha.",
+    "Meil oli tore aeg tööst kodus.",
+    "Tööst sõidame metsa."
   ],
   "translation": [
-    "industry",
-    "industrial"
+    "after work",
+    "from work",
+    "off work"
   ],
-  "context": "The word 'tööst' in Estonian refers to industry or industrial activities, and is commonly used to describe the sector of the economy that produces goods and services on a large scale."
+  "context": "In Estonian, 'tööst' is an elative case form of the word 'töö', which means 'work'. The elative case indicates movement away from or out of something. So 'tööst' specifically means 'out of work', 'from work', or 'after work' depending on context. It's commonly used when talking about leaving a workplace, finishing work for the day, or coming from work."
 }

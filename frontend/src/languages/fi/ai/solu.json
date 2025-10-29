@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Solu on perusyksikkö elävissä olentoja.",
-    "Solujen lisääntyminen johtaa kasvavaan kudokseen.",
-    "Solun erilaistuminen vaikuttaa siihen miten se toimii kehossa."
+    "Solu on elämän perusyksikkö.",
+    "Kasveissa on usein vihreitä soluja.",
+    "Tässä tutkimuksessa käytetään soluversoa."
   ],
   "translation": [
     "cell",
-    "unit"
+    "room"
   ],
-  "context": "The word 'solu' refers to the basic structural and functional unit of living organisms, and it is commonly used in biology and medicine to describe the smallest units of life."
+  "context": "In Finnish, 'solu' most commonly means 'cell', referring to the basic structural unit of living organisms. It can also mean 'room'. The word is used in biological contexts when discussing cells in plants and animals, as well as in everyday language when talking about rooms or spaces."
 }

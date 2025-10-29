@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei leia midagi",
-    "Miski on võimalik",
-    "Ta pole leidnud miskit"
+    "Mida sa mõtled sellest?",
+    "Kuskil on midagi head",
+    "Tegin mingisuguse töö"
   ],
   "translation": [
     "something",
-    "anything"
+    "anything",
+    "some kind of"
   ],
-  "context": "The word 'miski' in Estonian is used to refer to an unspecified or unknown thing, similar to the English words 'something' or 'anything', and it is commonly used in sentences to express the existence or possibility of something."
+  "context": "The Estonian word 'miski' is an indefinite pronoun that functions similarly to English words like 'something', 'anything', or 'some kind of'. It's used when referring to an unspecified object, thing, or concept. The word can appear in different forms depending on the grammatical context - it might be 'midagi' (in partitive case) or take other endings based on sentence structure. This is a common everyday word used in casual conversation and general discussions about unspecified items."
 }

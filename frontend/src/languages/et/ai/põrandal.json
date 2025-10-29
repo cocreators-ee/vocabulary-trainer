@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta istus põrandal.",
-    "Põrandal on palju toole.",
-    "Laps mängis põrandal."
+    "Klaver on põrandal.",
+    "Lapsed mängivad põrandal.",
+    "Putukad liiguvad põrandal."
   ],
   "translation": [
     "on the floor",
-    "floor"
+    "on the ground",
+    "lying on the floor"
   ],
-  "context": "The word 'põrandal' is used in Estonian to describe something that is located on the floor or is related to the floor, it can be used as a prepositional phrase to indicate the location of an object or person."
+  "context": "The Estonian word 'põrandal' is an adessive case form of 'põrand', meaning 'floor'. The '-l' ending indicates location or being at/on something. It's used to indicate that something is located on the floor surface."
 }

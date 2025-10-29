@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen pooleli teed.",
-    "Ta on juba pooleli.",
-    "See on pooleli valmis."
+    "Tööd on veel pooleli.",
+    "Projekt on pooleli jäänud.",
+    "Ta oli pooleli jäänud raamatuga."
   ],
   "translation": [
-    "halfway",
-    "in the middle of"
+    "unfinished",
+    "incomplete",
+    "half-done",
+    "ongoing"
   ],
-  "context": "The word 'pooleli' is commonly used in Estonian to describe something that is halfway done or in the middle of a process."
+  "context": "The Estonian word 'pooleli' is an adverb that describes something as being in progress, not yet completed, or partially done. It indicates an ongoing state where work or activity has started but hasn't reached completion yet."
 }

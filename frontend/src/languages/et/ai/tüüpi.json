@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen selle tüübi inimene, kes armastab komöödiafilme.",
-    "Tema tüüp on väga populaarne noorte hulgas.",
-    "Selle tüüpi raamatuid ma ei loe."
+    "See on tüüpiline näide.",
+    "Mul on hea tüüp sõber.",
+    "Tema töö tüübistab kõik inimesed."
   ],
   "translation": [
+    "typical",
     "type",
-    "kind"
+    "kind",
+    "sort"
   ],
-  "context": "The word 'tüüpi' in Estonian generally refers to a type or kind of something, and is commonly used to describe a category or classification of an object, concept, or idea."
+  "context": "The Estonian word 'tüüpi' appears to be the adessive case form of 'tüüp', which means 'type' or 'kind'. In the adessive case (ending -i), it would typically mean 'with type' or 'in terms of type'. However, without more context, this could also potentially represent a misspelling or variation of other words. The word is commonly used in Estonian to refer to categories or classifications of things."
 }

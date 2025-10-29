@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tahan minna tualetti.",
-    "Toas on vaja puhastada tualetti.",
-    "Ta ei jõua tühja käega tualetti."
+    "Mina lähen tualetti.",
+    "Kas sa oled käinud tualetti?",
+    "Tualettil on vaja puhastada."
   ],
   "translation": [
-    "bathroom",
-    "toilet"
+    "toilet",
+    "lavatory",
+    "restroom"
   ],
-  "context": "Refers to a bathroom or toilet, commonly used in everyday language when talking about the room where you can wash and use the toilet."
+  "context": "The Estonian word 'tualetti' is in the illative case, which indicates direction or destination. It means 'to the toilet' or 'into the toilet'. This case is used when indicating movement towards a place. The base form of the word is tualett (toilet), and adding '-i' creates the illative form meaning 'to/into the toilet'."
 }

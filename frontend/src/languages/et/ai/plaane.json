@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meil on suured plaane lähitulevikuks.",
-    "Ta muutis oma plaane viimase hetkel.",
-    "Plaane tegemine on lõbus."
+    "Mul on head plaane selks nädalaks.",
+    "Meil plaanid järgmiseks aastaks.",
+    "Ta tegi üllatavaid plaane."
   ],
   "translation": [
     "plans",
-    "intentions",
-    "schemes"
+    "arrangements",
+    "intentions"
   ],
-  "context": "The word 'plaane' in Estonian refers to plans, intentions or schemes. It is commonly used to discuss future arrangements or projects."
+  "context": "The word 'plaane' is the partitive form of 'plaan' in Estonian. The partitive case typically indicates an incomplete action or object, so this would mean 'some plans' or 'planets' (in the sense of having plans but not necessarily completing all of them). It's used when talking about existing plans that exist in some quantity but haven't been completed yet."
 }

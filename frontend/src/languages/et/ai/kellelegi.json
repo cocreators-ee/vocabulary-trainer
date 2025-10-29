@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kindel, et see on hea idee kellelegi.",
-    "Ta ütles, et ta teeb seda kellelegi.",
-    "Kellelegi tundus see väga tore"
+    "Kellelegi meeldis see film.",
+    "Ta andis raamatu kellelegi lähemale sugulasele.",
+    "Eksimine ei ole halb kui te seda kellelegi öelda ei taha."
   ],
   "translation": [
     "to someone",
-    "for someone"
+    "for someone",
+    "toward someone"
   ],
-  "context": "The word kellelegi is a pronoun in Estonian that means to or for someone, it is commonly used in sentences to indicate that something is done for the benefit of someone."
+  "context": "The Estonian word 'kellelegi' is a partitive case form that indicates direction or benefit towards an unspecified person. It's formed from the interrogative pronoun 'keegi' (someone) with the '-le' suffix indicating motion toward, and '-gi' which adds emphasis or inclusiveness. This construction shows how Estonian grammar uses case endings to express relationships between people and actions."
 }

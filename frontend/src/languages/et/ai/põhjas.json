@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elab põhjas.",
     "Põhjas on külm.",
-    "Me jalutame põhjas."
+    "Minge põhja!",
+    "Tule põhjast tagasi."
   ],
   "translation": [
     "north",
+    "to the north",
     "in the north"
   ],
-  "context": "The word põhjas refers to a location or direction in the north, and is commonly used to describe something that is situated in or originates from the northern part of a country, region, or city."
+  "context": "The word 'põhjas' is the inessive case form of the Estonian word 'põhi', meaning 'north'. In this case, it indicates location within or inside the north direction. It can be translated as 'in the north' or simply 'north' when used to describe a northern location."
 }

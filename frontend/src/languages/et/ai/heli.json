@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kuulis heli tulemas läbi metsa.",
-    "Heli oli väga vali.",
-    "Muusikud tegid ilusa heli."
+    "Heli on ilus ja selge.",
+    "Me kuulsime heled heli.",
+    "Helid laialdaselt ringis."
   ],
   "translation": [
     "sound",
-    "voice"
+    "voice",
+    "tone"
   ],
-  "context": "The word 'heli' in Estonian generally refers to a sound or noise, and can be used in various contexts such as music, nature, or human voice."
+  "context": "In Estonian, 'heli' is a noun that means 'sound'. It can refer to any kind of sound - from voices and music to environmental noises. The word is in singular form here. In the plural form 'helid', it would mean 'sounds'."
 }

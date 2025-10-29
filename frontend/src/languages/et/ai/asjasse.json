@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma panin asjasse puutumiseks oma sõrmed.",
-    "Ta on asjasse väga pühendunud.",
-    "Asjasse on võetud kahte liiki meetmeid."
+    "Ta on asjasse segatud.",
+    "Ei ole mind asjasse seotud.",
+    "Asjasse ei puutu."
   ],
   "translation": [
-    "into the matter",
-    "to the case"
+    "involved",
+    "concerned",
+    "related"
   ],
-  "context": "The word 'asjasse' is used in Estonian to refer to something being related or relevant to a particular matter or case, often implying involvement or intervention."
+  "context": "The word 'asjasse' is the illative case of the Estonian noun 'asi', meaning 'thing' or 'matter'. In the illative case, it functions as an adverbial expression indicating involvement in something. It's commonly used to express being involved in matters, concerned with issues, or related to affairs."
 }

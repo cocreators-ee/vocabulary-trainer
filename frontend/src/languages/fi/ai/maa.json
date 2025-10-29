@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maahan tulee sataa",
-    "Maa on kaunis planeetta",
-    "Hän osti maan ja rakensi talon"
+    "Maa on kaunis.",
+    "Maalla on paljon puutarhoja.",
+    "Suomen maa on jäätynyt talvella."
   ],
   "translation": [
     "land",
     "earth",
-    "country"
+    "country",
+    "soil"
   ],
-  "context": "The word 'maa' in Finnish generally refers to a piece of land, the earth as a planet, or a country, depending on the context in which it is used."
+  "context": "The Finnish word 'maa' has multiple meanings depending on context. It can refer to the physical land or earth, a country or nation, or soil/ground. In its basic form, it's a common noun that appears in many everyday contexts and is an essential vocabulary word for understanding Finnish geography and environment."
 }

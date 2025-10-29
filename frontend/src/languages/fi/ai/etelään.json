@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän lähti matkalle etelään.",
-    "Talvi tulee pohjoisesta ja lähtee etelään.",
-    "Linnut muuttavat etelään talveksi."
+    "Auto ajoi etelään.",
+    "Talo sijaitsee etelässä kaupungin eteläosassa.",
+    "Suuntaa etelää kohti.",
+    "Mennään etelän suuntaan."
   ],
   "translation": [
-    "south",
+    "southward",
     "to the south"
   ],
-  "context": "The word 'etelään' in Finnish means 'to the south' or 'southward', and it is commonly used to describe direction or movement towards the southern region."
+  "context": "\"Etelään\" is an adverb in Finnish that means \"southward\" or \"to the south.\" It indicates movement toward the southern direction. The word comes from the root word \"etelä,\" which means \"south.\" In Finnish, directional adverbs like this are commonly used to indicate movement in a specific direction. Note that it's an illative form (motion into) of the basic direction word."
 }

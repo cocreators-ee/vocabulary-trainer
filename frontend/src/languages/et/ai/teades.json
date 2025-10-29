@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean seda teades, et see on õige.",
-    "Ta tegi seda teades, et see oli vajalik.",
-    "Nende teades, et nad on valemis, otsustasid nad ära öelda."
+    "Teades et tegu on kallis, ostsin ikka.",
+    "Ma sõitsin teades, et pean kohale jõudma.",
+    "Teades teda paremini, ei oodanki midagi head."
   ],
   "translation": [
-    "knowingly",
-    "aware that"
+    "knowing",
+    "being aware of",
+    "with the knowledge that"
   ],
-  "context": "The word 'teades' in Estonian means knowingly or being aware of something. It is commonly used to describe a situation where someone is conscious of the facts or circumstances and acts accordingly."
+  "context": "The Estonian word 'teades' is an adessive form of the verb 'teadma' (to know). It functions as a converb or gerund in English, expressing that something is done with knowledge of certain circumstances. It's commonly used at the beginning of sentences to indicate awareness of a particular fact before stating the main clause."
 }

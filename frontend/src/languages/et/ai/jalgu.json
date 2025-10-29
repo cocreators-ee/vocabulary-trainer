@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta jooksis jalgu ees.",
-    "Mul on valus jalgu.",
-    "Jalgu hakkas krampi tõmbama."
+    "Ta võttis jalgu.",
+    "Tema jalgude olid kollased.",
+    "Jalgu külmas."
   ],
   "translation": [
-    "foot",
     "leg",
-    "feet"
+    "legs"
   ],
-  "context": "The word 'jalgu' in Estonian refers to the lower extremities of the body, encompassing both the foot and the leg. It is commonly used when discussing movement, pain, or physical activity involving these parts of the body."
+  "context": "The Estonian word 'jalgu' is the partitive case form of 'jalg', which means 'leg'. In this form, it typically appears in contexts where we're talking about legs but not as a complete subject or direct object - often after verbs that take objects in the partitive case (like having/taking something), when describing state/condition of legs, or with certain prepositions. The word can refer to human legs or animal limbs."
 }

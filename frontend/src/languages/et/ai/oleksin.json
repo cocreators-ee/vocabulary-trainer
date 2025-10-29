@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma oleksin võidnud konkurssi",
-    "Ta oleksin läinud kinno",
-    "Me oleksin olnud õnnelikud"
+    "Oleksin sinu asemel.",
+    "Kui ma oleksin sinu kohtas, siis teistsugused tegusid võtta.",
+    "Ma alati arvan, et ta oleksin hea eeskuju."
   ],
   "translation": [
-    "would have been",
-    "could have been",
-    "might have been"
+    "I would be",
+    "I would exist/happen",
+    "I would have been"
   ],
-  "context": "The word 'oleksin' is the first person singular form of the conditional tense of the verb 'olema', which means 'to be'. It is used to express a hypothetical or uncertain situation in the past, and it can be translated to English as 'would have been', 'could have been', or 'might have been'."
+  "context": "Oleksin is the conditional form of the Estonian verb 'olema' (to be). It's used to express hypothetical situations, wishes, or conditions in the present or past. This is a first person singular conditional form, equivalent to English 'I would be'. The structure follows Estonian grammar where '-ksin' is added to the stem 'ol-' to create the conditional mood."
 }

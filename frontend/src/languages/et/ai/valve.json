@@ -1,13 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Valve avas laualt pugendatud õlitäie purki.",
-    "Kui südamlik valve on teada, et see tõeline sõbrusse,"
+    "Valve on vajalik turvalisuse tagamiseks.",
+    "Meil on head valves tööl.",
+    "Ei tohi unustada valvet."
   ],
   "translation": [
-    "tap",
-    "valve"
+    "attention",
+    "care",
+    "supervision",
+    "watchfulness"
   ],
-  "context": "The word 'valve' in Estonian refers to a device for controlling the passage of liquid or gas through a pipe. It can also mean a tap used to control the flow of liquid, such as water."
+  "context": "The Estonian word 'valve' means attention, care, supervision, or watchfulness. It refers to the act of being attentive, careful, or supervising something for safety or proper functioning. In plural form (valved), it can refer to multiple instances of supervision or attention."
 }

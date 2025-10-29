@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Ma olen tulnud koju.",
-    "Ta on tulnud tagasi.",
-    "Nad on tulnud meie juurde."
+    "Ta on tulnud töölt.",
+    "Nad on tulnud linna."
   ],
   "translation": [
     "come",
-    "arrived"
+    "arrived",
+    "gotten here"
   ],
-  "context": "The word 'tulnud' is the past participle form of the verb 'tulema', which means to come or arrive in Estonian. It is commonly used to indicate that someone has arrived at a place."
+  "context": "Tulnud is the past participle of the Estonian verb 'tulla' meaning 'to come'. It indicates that someone or something has arrived at a destination. This form is often used with the auxiliary verb 'olema' (to be) in compound tenses, such as 'olen tulnud' (I have come) or 'on tulnud' (he/she/it has come). The word can also function adjectivally to describe someone who has arrived."
 }

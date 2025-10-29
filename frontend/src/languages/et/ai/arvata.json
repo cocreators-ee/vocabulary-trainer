@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvan, et see on hea mõte.",
-    "Ta arvas, et võib olla parem minna koju.",
-    "Me arvame, et see on liiga kallis."
+    "Ma arvan, et see on õige.",
+    "Arvame, et me peaksime minema.",
+    "Ta ei arva sedasi."
   ],
   "translation": [
-    "guess",
-    "suppose",
-    "think"
+    "to guess",
+    "to suppose",
+    "to assume"
   ],
-  "context": "The word 'arvata' in Estonian means to guess or suppose something, and it is commonly used in sentences where someone is making an educated guess or assumption about a situation."
+  "context": "In Estonian, 'arvata' is a verb that means to form an opinion or judgment without complete certainty. It can be translated as 'to guess', 'to suppose', or 'to assume'. The word appears in various contexts where there's an element of uncertainty - from simple guessing about something unknown to making assumptions based on available information. The verb follows regular Estonian conjugation patterns, with forms like 'aran' (I guess), 'arvad' (you guess), and so on."
 }

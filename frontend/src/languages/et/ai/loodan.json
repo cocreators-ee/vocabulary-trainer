@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma loodan, et see õnnestub",
-    "Loodan, et ta tuleb homme",
-    "Me loodame, et see on edukas"
+    "Loodan, et kõik läheb hästi.",
+    "Ma loodan, et sa tuled homme.",
+    "Ta loodab alati parast."
   ],
   "translation": [
     "I hope",
-    "I expect",
-    "we anticipate"
+    "to expect",
+    "to trust"
   ],
-  "context": "The word 'loodan' in Estonian is used to express hope or expectation for something to happen, similar to the English phrase 'I hope'."
+  "context": "The Estonian word 'loodan' means 'I hope' or 'to expect'. It is the first-person singular form of the verb lootma (to hope). This verb expresses positive expectation for something to happen in the future. In other forms, it can be expressed as: lootame (we hope), loodavad (they hope), lootad (you hope). The word often appears with conjunction 'et' (that) when expressing what is hoped for."
 }

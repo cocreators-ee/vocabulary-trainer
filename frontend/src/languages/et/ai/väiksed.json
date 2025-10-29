@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Väiksed lapsed armastavad mänge.",
-    "Ta on väike, kuid väga osav.",
-    "Väikesed koerad on sageli valvurid."
+    "Väiksed lapsed mängivad pargis.",
+    "Nägin täna väikesed linde õuel.",
+    "Kas sulle meeldib see väikse koera pilt?"
   ],
   "translation": [
     "small",
-    "little"
+    "little",
+    "tiny"
   ],
-  "context": "The word 'väiksed' is an adjective in Estonian that means small or little, and it is commonly used to describe something or someone of a smaller size."
+  "context": "The word 'väiksed' is the plural form of the Estonian adjective 'väike', which means 'small' or 'little'. It's used to describe multiple small things or beings. In Estonian, adjectives must agree in number with the nouns they modify, so '-d' ending indicates this is a plural form modifying a plural noun."
 }

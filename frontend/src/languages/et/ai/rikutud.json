@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta rikkus klaasi.",
-    "See on rikutud seadus.",
-    "Minu süda on rikutud."
+    "Ta on rikutud.",
+    "Rikutud mees oli pärast õnnetust haiglas.",
+    "Lapsed näevad rikutud asju."
   ],
   "translation": [
-    "broken",
     "damaged",
-    "violated",
+    "broken",
+    "spoiled",
     "corrupted"
   ],
-  "context": "The word 'rikutud' in Estonian generally means something is broken, damaged, or violated. It can refer to physical objects being broken, laws being broken, or even abstract concepts like trust or a heart being broken. It implies a state of disrepair or transgression."
+  "context": "The Estonian word 'rikutud' is an adjective that means damaged, broken, spoiled or corrupted. It is the plural nominative form of the adjective 'rikunud'. This word can describe physical objects that are no longer in good condition (like broken toys), spoiled food that has gone bad, or abstract concepts like corrupted systems or ruined relationships."
 }

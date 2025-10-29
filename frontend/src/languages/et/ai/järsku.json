@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole järsku",
-    "Ta on väga järsku",
-    "Järsku inimesed ei tehta selliseid asju"
+    "Ta tegi järsku pöörde.",
+    "Järsku algas torm.",
+    "Muutusin järsti ära."
   ],
   "translation": [
-    "brave",
-    "fearless",
-    "daring"
+    "suddenly",
+    "abruptly",
+    "sharply"
   ],
-  "context": "The word järsku is an Estonian adjective that means brave or fearless, and it is commonly used to describe someone who is willing to take risks or face challenges head-on."
+  "context": "The Estonian word 'järsku' is an adverb that means suddenly, abruptly, or sharply. It describes something happening quickly and unexpectedly. The word can be used to describe sudden changes in direction, weather, behavior, or events."
 }

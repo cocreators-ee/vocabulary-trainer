@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on vanha radio autossa.",
-    "Hän työskentelee radiotoimittajana.",
-    "Radiolähetykset ovat hyvin suosittuja."
+    "Radio soi klassista musiikkia.",
+    "Kuuntelin radioa aamulla.",
+    "Radiosta kuulemma tulee huono sää."
   ],
   "translation": [
     "radio",
-    "broadcasting"
+    "broadcasting station"
   ],
-  "context": "The word 'radio' in Finnish refers to a device that receives radio waves and plays audio content, similar to its meaning in English. It can also relate to the act of broadcasting or transmitting audio content through radio waves."
+  "context": "The Finnish word 'radio' refers to the electronic device for receiving sound broadcasts or the broadcasting station itself. It's used similarly to English but follows Finnish grammatical rules, including inflection and case endings."
 }

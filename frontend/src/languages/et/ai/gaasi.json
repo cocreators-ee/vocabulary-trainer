@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis gaasi kätte ja sõitis kiiresti minema.",
-    "Gaasi kasutamine on ohtlik.",
-    "Gaasiga töötav masin on väga populaarne."
+    "Tulekahju püsi gaasi tõttu.",
+    "Sellel õhul on maitset ja lõhna gaasi.",
+    "Auto kasutas rohkem gaasi kui eelmisel aastal."
   ],
   "translation": [
     "gas",
-    "fuel"
+    "fumes"
   ],
-  "context": "The word 'gaasi' in Estonian generally refers to gas or fuel, and it is commonly used when talking about vehicles or energy sources."
+  "context": "The Estonian word 'gaasi' is the partitive case form of 'gaas', meaning 'gas'. It's used to refer to an amount or portion of gas, typically in contexts like fuel, chemical gases, or fumes. The partitive case indicates that we're talking about some quantity of gas rather than the entire concept."
 }

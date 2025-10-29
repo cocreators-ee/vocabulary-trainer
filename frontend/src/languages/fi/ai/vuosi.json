@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä tapahtui viime vuosi.",
-    "Olen odottanut tätä jo useita vuosia.",
-    "Vuosi 2022 oli hyvin kylmä."
+    "Minulla on uusi vuosi alkanut.",
+    "Vuodet kuluvat nopeasti.",
+    "Tämä on viimeinen vuosi ennen valmistumista."
   ],
   "translation": [
-    "year"
+    "year",
+    "period of time"
   ],
-  "context": "The word 'vuosi' refers to a period of 12 months, commonly used to measure time or express the age of something or someone."
+  "context": "The Finnish word 'vuosi' means 'year' in English. It is a common noun used to refer to the period of time it takes for Earth to orbit around the sun, or more generally to any 12-month period. In Finnish grammar, 'vuosi' follows normal declension patterns and appears in various forms depending on case: vuosi (nominative), vuotta (partitive), vuodessa (inessive), etc."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen riski võtmas.",
-    "Ta on riskiga nõus.",
-    "Riske tuleb arvestada."
+    "Ma võtsin riski ja tegutsesin vastavalt oma tujule.",
+    "Tema on riskikas mees.",
+    "Võtame riski proovida seda uut meetodit."
   ],
   "translation": [
-    "risk"
+    "risk",
+    "chance",
+    "venture"
   ],
-  "context": "The word 'riski' in Estonian means 'risk' in English, referring to a situation or circumstance that may cause harm or loss, and it is commonly used to describe a potential danger or threat."
+  "context": "The word 'riski' in Estonian is the partitive form of 'risk', meaning 'a risk' or 'some risk'. It can be used to refer to taking chances, venturing into uncertain situations, or exposing oneself to potential danger. In the given examples, it's used in contexts where someone takes risks, behaves recklessly (riskikas), or decides to try something new despite uncertainty."
 }

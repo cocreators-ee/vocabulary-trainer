@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hommikul tõusin varakult üles.",
-    "Ma olen hommikul alati väsinud.",
-    "Hommikul on koolipäev algamas."
+    "Hommikul on ilus ilm.",
+    "Tulen hommikul kell kaheksa.",
+    "Homme hommikul võtame bussi."
   ],
   "translation": [
     "in the morning",
-    "morning"
+    "this morning",
+    "tomorrow morning"
   ],
-  "context": "The word 'hommikul' is an adverb in Estonian that means 'in the morning' or 'during the morning', and it is commonly used to describe actions or events that occur at that time of day."
+  "context": "The Estonian word 'hommikul' is an adverbial form used to indicate time, specifically meaning 'in the morning'. It's formed by adding '-ul' suffix to the root word 'hommik' (morning). This is a temporal locative case that shows when something happens. The word can refer to any morning or be used with specific contexts like this morning or tomorrow morning depending on context."
 }

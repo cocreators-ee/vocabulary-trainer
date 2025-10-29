@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jääme siia.",
-    "Meie jääme siia.",
-    "Nad jääme siia."
+    "Me jääme homme koju.",
+    "Nad jäävad siia ööseks.",
+    "Jääge nüüd kodus."
   ],
   "translation": [
-    "stay",
-    "remain"
+    "we will stay",
+    "we remain",
+    "let's stay"
   ],
-  "context": "The word 'jääme' is the first person plural form of the verb 'jääma', which means to stay or remain in a place. It is commonly used in Estonian language to express the intention of staying somewhere."
+  "context": "The word 'jääme' is the 1st person plural present tense form of the Estonian verb 'jääma', which means 'to stay', 'to remain', or 'to keep'. It specifically refers to 'we staying' or 'we remaining' in the present or future context. This is a conjunctive form used when expressing intention or decision about staying."
 }

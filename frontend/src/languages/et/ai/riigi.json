@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan riigis, mis on üksi.",
-    "Riigi pealinn on Tallinn.",
-    "Ta töötab riigi ametnikuna."
+    "Eesti riik on väike ja ilus.",
+    "Me peame kaitsuma oma riiki.",
+    "Tal on töö Eesti riigi ministeeriumis."
   ],
   "translation": [
     "state",
-    "country",
-    "government"
+    "country"
   ],
-  "context": "The word 'riigi' in Estonian generally refers to a state or country, and is often used in contexts related to government or public institutions."
+  "context": "\"Riigi\" is the genitive case form of \"riik\" in Estonian, meaning 'of' or 'belonging to' a state/country. It indicates possession or relationship with the nation as an entity."
 }

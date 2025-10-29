@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta lahkus hilja öösel.",
-    "Me kõik olime kurvad, kui ta lahkus.",
-    "Lahkunud sõber jäi meile väga kalliks."
+    "Ma lahkun homme.",
+    "Ta on äsja lahkunud linnast.",
+    "Miks sa oled juba lahku?"
   ],
   "translation": [
-    "left",
-    "departed",
-    "gone"
+    "leave",
+    "depart",
+    "quit"
   ],
-  "context": "The word 'lahkun' in Estonian means to leave or depart. It can refer to physically leaving a place, or passing away. It is often used when someone goes away for a long time or permanently."
+  "context": "'Lahkun' is the first-person singular past tense form of the Estonian verb 'lahkuma', which means to leave, depart, or quit. It indicates that someone has already left or departed from a location or situation."
 }

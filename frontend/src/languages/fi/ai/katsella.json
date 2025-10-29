@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän katseli elokuvaa",
-    "Olemme katselleet tätä ohjelmaa jo useita kertoja",
-    "Katsella maamerkkiä on ilmainen"
+    "Käytän aikaa katsellen elokuvia.",
+    "Hän katsoi lasta läpi ikkunan.",
+    "Me katselimme taivaalta tähtiä."
   ],
   "translation": [
-    "to watch",
     "to look at",
-    "to view"
+    "to watch",
+    "to observe"
   ],
-  "context": "The word 'katsella' in Finnish means to watch or observe something, often in a more intentional or attentive manner than the verb 'katsoa', and is commonly used when describing activities like watching a movie, viewing a landmark, or observing an event."
+  "context": "The Finnish verb 'katsella' means to look at, watch, or observe something with attention. It's often used for activities where you're intentionally watching something for some time, like watching a movie, observing someone, or looking at stars. It can be in various tenses and forms depending on context - present tense is 'katson/katsetään', past tense 'katsoin/kattoi/kattoivat' etc."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma lahkuen tõttu. (I'm leaving now.)",
-    "Ta lahkus meist kurbalt. (He/she left us sadly.)",
-    "Lahkume koos linnast homseks. (We are leaving the city tomorrow together.)"
+    "Me lahkume homme hommikul.",
+    "Lahkuge siis kell kaks.",
+    "Nad lahkusid varakult."
   ],
   "translation": [
-    "to leave, to depart"
+    "we leave/will leave",
+    "you (plural) leave",
+    "they left"
   ],
-  "context": "The verb 'lahkuma' is used to express the action of leaving or departing from a place, person, or situation."
+  "context": "The word 'lahkume' is the 1st person plural present indicative form of the Estonian verb 'lahkuma', which means 'to leave'. The '-me' ending indicates 1st person plural subject and present tense. It can refer to departing from a place, ending an activity, or parting ways with people."
 }

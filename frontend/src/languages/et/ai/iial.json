@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ei tea iial midagi selle kohta.",
-    "Ta ei hooli iial teistest inimestest.",
-    "Iialgi pole see oluline."
+    "Ei ole iial olnud nii hea ilm.",
+    "Kas sa on iial käinud Pariisis?",
+    "Ma ei usu, et ta tuleb iial tagasi."
   ],
   "translation": [
-    "anywhere",
-    "at all"
+    "never",
+    "ever",
+    "at any time"
   ],
-  "context": "'Iial' is used to emphasize the absence or negation of something, often translated as 'anywhere' or 'at all'. It typically follows negative verbs and implies that something does not exist or occur in any place or situation."
+  "context": "The Estonian word 'iial' is an adverb that means 'never' or 'ever'. It's used to indicate that something has not happened at any time in the past, present, or future. In negative sentences, it emphasizes that an action has never occurred before and likely won't occur in the future either."
 }

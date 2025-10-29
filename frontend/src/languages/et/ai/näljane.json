@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen näljane",
-    "Ta on väga näljane",
-    "Näljane inimene vajab toitu"
+    "Olen näljane ja sööksin.",
+    "Tüdruk on väga näljane.",
+    "Meie lapsed olid juba näljad."
   ],
   "translation": [
     "hungry",
-    "starving"
+    "famished"
   ],
-  "context": "The word näljane is an adjective in Estonian that means feeling hungry or having a strong desire to eat, and it is commonly used to describe someone who needs food."
+  "context": "The Estonian word 'näljane' is an adjective that means 'hungry'. It describes a person or animal feeling the need for food. In different grammatical forms, it can appear as 'näljane' (masculine/neuter singular), 'näljad' (plural), and in compound forms. The word comes from the noun 'nälk' which means hunger itself."
 }

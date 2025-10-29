@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä olen sängyssä",
-    "Hän on sängyssään",
-    "He ovat sängyssä"
+    "Mikä sinulla on sängyssä?",
+    "Hän nukkuu sängyssä koko päivän.",
+    "Laita kirja sängyssä."
   ],
   "translation": [
     "in bed",
-    "on the bed"
+    "on the bed",
+    "inside the bed"
   ],
-  "context": "The word sängyssä is a Finnish inessive case form of the noun sänky, which means bed. It is commonly used to describe someone or something being located on or in the bed."
+  "context": "The Finnish word 'sängyssä' is the inessive case form of 'sänky', meaning 'bed'. The '-ssä' suffix indicates location inside something, so it means 'in bed' or 'on the bed'. It's used to indicate where someone or something is located with respect to a bed."
 }

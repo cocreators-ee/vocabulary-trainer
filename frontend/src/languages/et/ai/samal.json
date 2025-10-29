@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen samal ajal nii üllatunud kui ka pettunud.",
-    "Ta on samal päeval sündinud.",
-    "Me oleme samal arvamusel."
+    "Samal päeval saime meil rõõmsaks sündmuseks.",
+    "Ta tuli samal ajal koos oma sõpradega.",
+    "Meie koolis on samal päeval mitu kontserti."
   ],
   "translation": [
-    "same",
-    "identical"
+    "on the same",
+    "at the same time",
+    "in the same"
   ],
-  "context": "The word 'samal' in Estonian means 'same' or 'identical', it is commonly used to describe something that is identical or shared."
+  "context": "The Estonian word 'samal' is an adessive case form of the adjective 'sama', meaning 'same'. It is used with the genitive or partitive case to indicate that something happens or exists at the same time as something else. The structure 'samal + case' translates to English phrases like 'on the same [noun]' or 'at the same time'. For example, 'samal päeval' means 'on the same day', and 'samal ajal' means 'at the same time'."
 }

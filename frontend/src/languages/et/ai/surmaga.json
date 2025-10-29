@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta suri surmagi tagajärjel.",
-    "Politsei uurib surma asjaolusid.",
-    "Surm on elu loomulik osa."
+    "Surmaga ei saa leppida.",
+    "Ta surmaga ei nõustu.",
+    "Surmaga võitlemine on ebavajalik."
   ],
   "translation": [
-    "death",
-    "dying",
-    "mortality"
+    "with death",
+    "together with death",
+    "accompanied by death"
   ],
-  "context": "The word 'surm' in Estonian directly translates to 'death' in English. It is a fundamental term used to describe the cessation of life and is commonly employed in various contexts, including medical reports, legal documents, and everyday conversations about loss."
+  "context": "The Estonian word 'surmaga' is a postposition or adverbial case form that combines the noun 'surm' (death) with the suffix '-ga', which indicates accompaniment, association, or being together with something. It literally translates to 'with death' or 'accompanied by death'. This construction is commonly used in Estonian to express being associated with death, facing death, or being connected to death in some way."
 }

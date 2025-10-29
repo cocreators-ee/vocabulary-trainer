@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Operatsioon oli edukas.",
-    "Ta osales mitmes operatsioonis.",
-    "Operatsiooni tulemus oli ootuspärane."
+    "Operatsioon edukas.",
+    "Pidi tegema keerulise operatsiooni.",
+    "Kliinikul toimub suur operatsioon."
   ],
   "translation": [
     "operation",
-    "action",
+    "procedure",
     "surgery"
   ],
-  "context": "The word 'operatsioon' in Estonian refers to a planned and coordinated action or set of actions, often in a military, medical, or business context, with the goal of achieving a specific objective."
+  "context": "The Estonian word 'operatsioon' is a noun that refers to a medical procedure or surgical intervention. It can also refer more broadly to any operation, process, or action requiring organized execution. The word follows standard Estonian grammar rules and appears in both singular forms as shown."
 }

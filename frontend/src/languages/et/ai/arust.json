@@ -1,15 +1,14 @@
 {
-  "confidence": 0.5,
   "understood": true,
   "sentences": [
-    "Olen arust, et see on õige.",
-    "Ta arvab, et jah, see tundub tõsi.",
-    "Mulle tundub arust, et sul on õigus."
+    "Arustasin temaga selgelt.",
+    "Meie arustame alati hästi.",
+    "Ta on hea arutaja."
   ],
   "translation": [
-    "I think",
-    "He thinks",
-    "It seems to me"
+    "discuss",
+    "reason with",
+    "debate"
   ],
-  "context": "'arust' is a form of the verb 'arvata,' meaning 'to think.' It's used in sentences expressing personal belief or opinion, commonly seen in conversational contexts where someone states their view on a matter."
+  "context": "The word 'arust' appears to be part of the Estonian verb 'arutama', which means 'to discuss, reason, or debate'. It might be in a specific case form or used in a particular context. The base form 'arutama' is commonly used for intellectual discussions and reasoned arguments."
 }

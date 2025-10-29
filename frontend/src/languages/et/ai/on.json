@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen sellel",
-    "Ta on tööl",
-    "Me oleme koolis"
+    "Tere on hea päev.",
+    "Kes ta on?",
+    "See on minu raamat."
   ],
   "translation": [
-    "on"
+    "is",
+    "are",
+    "am"
   ],
-  "context": "The word 'on' in Estonian is used to indicate a location or presence, similar to its English counterpart."
+  "context": "'On' is the third-person singular form of the Estonian verb 'olema', which means 'to be'. It's used as a copula to connect subjects and predicates, similar to the English verb 'be' in its present tense forms (is, am, are). In Estonian, like many other languages, the verb must agree with the subject in person and number."
 }

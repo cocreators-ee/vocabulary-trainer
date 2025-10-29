@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma õpetan matemaatikat.",
-    "Ta õpetas mind sellele.",
-    "Nad õpetavad keelt."
+    "Õpetan matemaatikat koolis.",
+    "Ma olen õpetanud kolm aastat.",
+    "Õpetame koos uusi asju."
   ],
   "translation": [
     "teach",
-    "instruct"
+    "instruct",
+    "educate"
   ],
-  "context": "The word õpetan is commonly used in Estonian to mean teaching or instructing someone, and it can be found in various contexts such as education or training."
+  "context": "The Estonian word 'õpetan' is the first person singular present tense form of the verb 'õppima', which means 'to teach'. It's used when the speaker is currently teaching or instructing someone. The root word 'õpe-' relates to learning/teaching, and '-tan' indicates the 1st person singular present conjugation. In different contexts it can mean formal teaching in schools, informal instruction, or guidance in various skills."
 }

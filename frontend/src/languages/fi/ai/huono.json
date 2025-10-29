@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hänellä on huono päivä",
-    "Huonot uutiset tulivat eilen",
-    "Huonoa onniakin on olemassa"
+    "Tämä on huono päivä.",
+    "Hän on huolissaan, koska sää on huono.",
+    "Minulla oli huonen kokemus tuossa ravintolassa."
   ],
   "translation": [
     "bad",
     "poor",
-    "awful"
+    "unpleasant"
   ],
-  "context": "The word huono is commonly used in Finnish to describe something that is of poor quality or unpleasant, and it can be translated to English as bad, poor, or awful, depending on the context in which it is used."
+  "context": "The Finnish word 'huono' is an adjective that means bad or poor. It's used to describe something of low quality, unpleasant, or undesirable. The word doesn't change form based on gender but does have comparative ('huonompi') and superlative ('huoin') forms. When modifying nouns, it typically appears before the noun in basic sentences."
 }

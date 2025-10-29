@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Atomi on alkuaineen pienin osa.",
-    "Atomit muodostavat molekyylejä.",
-    "Lauseessa mainittiin ydinvoiman atomi."
+    "Atomi on pienin osa kemiallisesta alkuaineesta.",
+    "Tässä kokeessa käytetään radioaktiivista atomia.",
+    "Atomit voivat yhdistyä muodostaen molekyylejä."
   ],
   "translation": [
-    "atom"
+    "atom",
+    "atomic"
   ],
-  "context": "The word 'atomi' refers to the smallest unit of a chemical element, and it is commonly used in scientific contexts to describe the basic building blocks of matter."
+  "context": "In Finnish, 'atomi' is the word for 'atom'. It refers to the smallest unit of a chemical element that retains the properties of that element. The word comes from the Greek word 'atomos' meaning indivisible. In scientific contexts, it's commonly used when discussing chemistry, physics, and nuclear science."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on osalenud mitmes koostöös.",
-    "Koostöö toimib hästi.",
-    "Meil on hea koostöö partneritega."
+    "Nad tegid koostööd projektiga",
+    "Koostöö oli väga edukas",
+    "Meil on hea koostöö ettevõtetega"
   ],
   "translation": [
     "cooperation",
-    "collaboration"
+    "collaboration",
+    "teamwork"
   ],
-  "context": "The word 'koostööd' in Estonian refers to the act of working together and collaborating with others, often in a professional or business setting. It is commonly used to describe successful partnerships or teamwork."
+  "context": "The word 'koostööd' is the partitive case form of 'koostöö', which means cooperation or collaboration. In Estonian, the partitive case often indicates incomplete action or partial involvement, and here it shows that there's an ongoing collaborative effort being discussed."
 }

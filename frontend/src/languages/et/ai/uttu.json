@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga uttu.",
-    "Ära ole nii uttu!",
-    "See oli lihtsalt uttu."
+    "Tema on väga uttu.",
+    "See on üsna uttu asi.",
+    "Miks sa oled nii uttu?"
   ],
   "translation": [
-    "drowsy",
-    "sleepy",
-    "tired"
+    "smart",
+    "clever",
+    "intelligent"
   ],
-  "context": "The Estonian word 'uttu' describes a state of being drowsy or sleepy. It is commonly used to indicate someone feeling tired and inclined to rest."
+  "context": "The word 'uttu' is an adjective in Estonian that describes someone or something as smart, clever, or intelligent. It can be used to praise a person's intelligence or wit, or to describe a situation or object as ingenious or cleverly designed. The form remains consistent regardless of gender, but can change in different grammatical cases."
 }

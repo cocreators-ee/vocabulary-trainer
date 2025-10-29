@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Koerad on väga truu",
-    "Ta armastab koeri",
-    "Koerad on tal peres"
+    "Koerad on hea sõbrad.",
+    "Mul on kaks koera.",
+    "Need koerad mängivad pargis."
   ],
   "translation": [
-    "dogs",
-    "canines"
+    "dogs"
   ],
-  "context": "The word 'koerad' refers to dogs, which are commonly kept as pets and are known for their loyalty and friendly nature."
+  "context": "The word 'koerad' is the plural form of the Estonian noun 'koer', which means 'dog'. It refers to more than one dog and is used when talking about multiple dogs in general. In Estonian, nouns have different forms for singular and plural numbers, with '-d' being a common plural ending for many masculine nouns."
 }

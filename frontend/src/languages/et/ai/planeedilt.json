@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta planeerib oma puhkust.",
-    "Me peame selle projekti planeerima.",
-    "Planeeritud kohtumine on homme."
+    "Planeedilt vaadates on Maa väike sinine kera.",
+    "Meie kosmoselend algab planeedilt Mars.",
+    "Lapsed õpivad planeedilt tulevast teadmist."
   ],
   "translation": [
-    "planning",
-    "schedule",
-    "intend"
+    "from the planet",
+    "off the planet"
   ],
-  "context": "The word 'planeedilt' is derived from the verb 'planeerida', which means to plan or schedule something. It often refers to making arrangements for future events, projects, or activities. In English, it’s commonly used when discussing intentions or organizing tasks."
+  "context": "The word 'planeedilt' is an Estonian adessive case form of the noun 'planeet', meaning 'planet'. The '-lt' suffix indicates location from or movement away from something. It translates to English as 'from the planet' when referring to origin or point of departure from a planetary body."
 }

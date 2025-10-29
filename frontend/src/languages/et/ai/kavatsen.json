@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kavatsen homme tööl käia.",
-    "Nad kavatsesid uut maja ehitada.",
-    "Ta ei kavatsenud midagi öelda."
+    "Kavatsen sõita Tallinna homme.",
+    "Ma kavatsen õppida uusi keeli.",
+    "Ta ei kavatsa osta seda eset."
   ],
   "translation": [
-    "intend",
-    "plan",
-    "mean"
+    "I plan to",
+    "I intend to",
+    "I mean to",
+    "I'm going to"
   ],
-  "context": "The word 'kavatsen' in Estonian expresses intention or a plan to do something. It is similar to the English verbs 'intend', 'plan', or 'mean'. It often implies a deliberate decision about a future action."
+  "context": "The Estonian word 'kavatsen' is the first person singular form of the verb meaning 'to intend' or 'to plan'. It's commonly used to express future intentions or plans. The root 'kavatse-' relates to planning and intention, and the '-n' ending indicates the first person singular present tense (I)."
 }

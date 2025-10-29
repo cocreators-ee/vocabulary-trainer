@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mõtle peale, et vahel lükkad oma sündmuste risti vastu.",
-    "Tema kärv puhus talle ristile.",
-    "Risti sees olevad inimesed ei saa määrata oma tugevust või heakskiitu.",
-    "See on väga kallis, kuigi see ei ole päris ristis,"
+    "Risti on Eestis küla",
+    "Ta läks ristu teed pidi",
+    "Me kohtusime ristil"
   ],
   "translation": [
     "cross",
-    "crucifix"
+    "intersection",
+    "across",
+    "at the crossroads"
   ],
-  "context": "'risti' refers to a cross or crucifix. It is commonly used in religious contexts."
+  "context": "The word 'risti' in Estonian has multiple meanings depending on context. It can mean 'cross' (as in the symbol or wooden structure), 'intersection' (where roads meet), 'across' (a preposition indicating movement across something), or refer to a specific location like 'at the crossroads'. In rural Estonia, 'risti' often refers to a cross-shaped landmark or intersection of paths. The word is commonly used when giving directions or describing locations where paths or roads meet at right angles."
 }

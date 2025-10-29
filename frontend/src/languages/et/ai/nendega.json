@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa nendega haridust",
-    "Nendega on tore suhelda",
-    "Ta räägib nendega igapäev"
+    "Nendega peaksin hakkama kohe.",
+    "Mulle meeldib nendega töötada.",
+    "Ta on harjunud nendega"
   ],
   "translation": [
     "with them",
-    "among them"
+    "by means of these",
+    "using those"
   ],
-  "context": "The word 'nendega' is a postposition in Estonian that indicates a relationship or association with someone or something, often translated to English as 'with them' or 'among them'."
+  "context": "The Estonian word 'nendega' is a combination where 'need' means 'these/those' and '-ga' is an allative case suffix meaning 'with'. It functions as an adverbial phrase indicating accompaniment or instrumentality, similar to English phrases like 'with them', 'using these', or 'by means of those'. The word follows Estonian grammar rules where the genitive form of pronouns combines with the allative case marker."
 }

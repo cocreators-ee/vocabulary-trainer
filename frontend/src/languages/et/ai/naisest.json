@@ -1,12 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Naisest sai parim perekondlikkuses olla.",
-    "Tema sõbranna oli naisest saanud suurepärane juht."
+    "Tema naisest naeris.",
+    "Me nägime teda naisena.",
+    "See oli kõige ilusam naisest."
   ],
   "translation": [
-    "from a woman"
+    "woman (elative case)",
+    "from a woman",
+    "about a woman"
   ],
-  "context": "The word 'naisest' in Estonian is used to denote something originating from a woman, typically indicating the source or origin. It is commonly seen in expressions where one refers back to female origins, achievements, or characteristics attributed to women."
+  "context": "The word 'naisest' is the elative case form of the Estonian noun 'naine', which means 'woman'. In Estonian, the elative case (-st ending) indicates movement away from or out of something, but it can also be used in contexts where English would use 'about' or 'concerning' when referring to a person. The word specifically refers to a woman (in singular form)."
 }

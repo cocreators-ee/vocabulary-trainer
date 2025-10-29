@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta jättis märgu uksele.",
-    "Palun tee märku, kui oled valmis.",
-    "See oli märk sellest, et midagi on valesti."
+    "Ta tegi märguande, et oli aeg lahkuda.",
+    "Lapsed said ülesandeid ja pidid tegema tähelepanekuid.",
+    "Ta pani käele märku."
   ],
   "translation": [
-    "mark",
     "sign",
-    "notice"
+    "note",
+    "signal",
+    "mark"
   ],
-  "context": "The word 'märku' in Estonian can refer to a physical mark or sign, but also to the act of notifying someone or giving them a signal. It’s commonly used when indicating something has happened or needs attention."
+  "context": "The word 'märku' is in the partitive case of 'märk', which means 'sign', 'note', 'signal', or 'mark'. In Estonian, the partitive case often indicates an incomplete action or object. The form 'märku' suggests it's referring to a sign/note/signal as an object being acted upon or observed."
 }

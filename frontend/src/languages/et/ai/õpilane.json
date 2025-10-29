@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Õpilane sai head arvestust.",
-    "Õpilased läksid koolist koju.",
-    "See õpilane on väga hea matemaatikas."
+    "Õpilane luges raamatut klassis.",
+    "Tere tulemast, uus õpilane!",
+    "Parim õpilane sai hinde A."
   ],
   "translation": [
     "student",
-    "pupil"
+    "pupil",
+    "learner"
   ],
-  "context": "The word õpilane refers to a student or pupil, typically in an educational setting, and is commonly used in Estonian to describe someone who is learning or studying something."
+  "context": "The Estonian word 'õpilane' refers to a student or learner, typically in an educational setting. It can be used for both children and adults who are studying. The word is from the root 'õppima' meaning 'to study/learn'. In plural form it would be 'õpilased'."
 }

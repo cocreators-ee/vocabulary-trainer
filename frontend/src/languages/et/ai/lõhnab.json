@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lõhnab hästi",
-    "Lõhnab nagu roosid",
-    "See lõhnab ebameeldivalt"
+    "Lõhnab hea lõuga.",
+    "Õunad lõhnavad magusalt.",
+    "See lilledega kaetud aed lõhnab suve õied."
   ],
   "translation": [
     "smells",
-    "has a scent"
+    "has a smell of",
+    "gives off an odor"
   ],
-  "context": "The word 'lõhnab' is commonly used in Estonian to describe something that has a noticeable or distinctive smell, similar to the English word 'smells'."
+  "context": "The word 'lõhnab' is the 3rd person singular present tense form of the Estonian verb 'lõhna', which means 'to smell'. It describes something that emits or has a particular scent. The verb can be used with various adjectives to describe different types of smells - pleasant, unpleasant, strong, faint, etc."
 }

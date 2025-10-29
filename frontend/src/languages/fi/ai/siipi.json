@@ -1,17 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kissa päätti kaivaa siippejä pitkin.",
-    "Hän on saanut yhden siiven ja hän ei pysty tai etää.",
-    "Siiven sylissä.",
-    "Kyllön rintasiivessä tõkkee.",
-    "Hän laski siiveksen täysin."
+    "Lentokoneen siivet ovat valmistettu metallista.",
+    "Lintu levitti siipensä ja lensi pois.",
+    "Autolla on siivet."
   ],
   "translation": [
-    "side",
-    "flank",
-    "ribcage"
+    "wing",
+    "fin",
+    "flipper"
   ],
-  "context": "In Finnish, 'siipi' primarily means a side or flank in military terms. It can also refer to the ribcage as body part."
+  "context": "The Finnish word 'siipi' means wing, fin or flipper depending on the context. It typically refers to an appendage used for flying in birds and aircraft (wings), a limb-like structure on aquatic animals like fish (fins), or flipper-like structures in marine mammals. In aviation contexts specifically, it often refers to aircraft wings. The word is always in singular form in these examples."
 }

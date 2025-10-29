@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei su ole",
-    "Ta su ütles",
-    "Me su teeme"
+    "Tule su juurde!",
+    "Kas sa tuled su kohta?",
+    "Su õpetaja on hea."
   ],
   "translation": [
-    "are",
-    "do"
+    "your",
+    "thy",
+    "thine"
   ],
-  "context": "The word 'su' in Estonian is used as a form of the verb 'olema', which means 'to be', and it can also be used as an auxiliary verb to form the present tense of other verbs."
+  "context": "The Estonian word 'su' is the possessive pronoun meaning 'your' or 'thy'. It is used to show possession and typically appears before a noun. This form is used when addressing someone informally (singular). It's part of the genitive case in Estonian grammar."
 }

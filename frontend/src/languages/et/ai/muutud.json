@@ -1,13 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Sa oled muutunud – see on hästi nähtav!",
-    "Muutud kui kaasaskäija on põhjus, miks meie projekt ei tööta nii hästi kui varem.",
-    "Ta väitis alati, et pole kunagi midagi muutnud, kuid tema käitumine öelb teisiti."
+    "Täna on ilus muutud päev.",
+    "Ilm muutud ära ja tuli lumesadu.",
+    "Kes tahab minuga muutud käia?"
   ],
   "translation": [
-    "changed"
+    "changed",
+    "become",
+    "turned into",
+    "has become"
   ],
-  "context": "The word 'muutud' is the past tense form of the verb 'to change' in Estonian. It indicates that a person or thing has undergone a transformation or alteration from one state to another."
+  "context": "The word 'muutud' is the past participle form of the Estonian verb 'muutuma', which means 'to change'. In this form, it indicates that something has undergone a change or transformation. It's commonly used in contexts where describing changes in weather, situations, states, or conditions."
 }

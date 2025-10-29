@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mees jookseb parkis.",
-    "Looma jooksed koju.",
-    "Kas sa jooksed homme kooli?"
+    "Ta jookseb kiiresti läbi pargi.",
+    "Lapsed jooksuvad mänguväljakul.",
+    "Koer jookseb tagasi koju."
   ],
   "translation": [
-    "runs"
+    "runs",
+    "is running"
   ],
-  "context": "The verb 'jookseb' means to run or to flow. It is commonly used for animals and people running."
+  "context": "The word 'jookseb' is the third person singular present form of the Estonian verb 'jooksma', which means 'to run'. It describes someone or something that is in motion, moving quickly by foot. This form is used when talking about a single subject (he/she/it) performing the action of running in the present tense."
 }

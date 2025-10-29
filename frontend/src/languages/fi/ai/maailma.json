@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maailma on kaunis paikka.",
-    "Hän kiertää maailmaa.",
-    "Maailmanloppu on lähellä."
+    "Maailma on kaunis.",
+    "Tämä on koko maailman ongelma.",
+    "Missä on tämä maailma?"
   ],
   "translation": [
-    "world"
+    "world",
+    "globe",
+    "planet",
+    "earth"
   ],
-  "context": "The word 'maailma' refers to the world in a geographical or global sense, and it is commonly used in Finnish language to describe something that is related to the entire planet or all of humanity."
+  "context": "The word 'maailma' in Finnish means 'world'. It can refer to the physical world/globe/planet, or more broadly to society, humanity, or one's life environment. The word is commonly used in everyday language to describe everything that exists beyond oneself."
 }

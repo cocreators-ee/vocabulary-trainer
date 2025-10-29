@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on sugulane minu ema poolt.",
-    "Sugulased kogunesid pere peole.",
-    "Meil on ühine sugulane Ameerikas."
+    "Sugulane tuleb külastama.",
+    "Mul on palju sugulasi.",
+    "Kas teate oma sugulasi?"
   ],
   "translation": [
     "relative",
+    "family member",
     "kin"
   ],
-  "context": "The word sugulane refers to a person who is related to another by blood, marriage, or adoption, and is commonly used in Estonian to describe family relationships."
+  "context": "The Estonian word 'sugulane' means relative or family member. It refers to someone related by blood or marriage within a family structure. The word is derived from 'sugu' meaning 'lineage' or 'descent', so it literally relates to those who share the same lineage or ancestry."
 }

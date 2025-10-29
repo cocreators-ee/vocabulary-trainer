@@ -1,15 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vanemate nõusolek on vajalik.",
-    "Ta on vanemate poolt kinni makstud.",
-    "Laps ei saa otsuseid teha vanemata"
+    "Vanemate nõuanded on alati vajalikud.",
+    "Meie vanemate kodu oli väga ilus.",
+    "Lapsed armastavad oma vanemaid."
   ],
   "translation": [
-    "parents",
-    "parental",
-    "guardians"
+    "parents"
   ],
-  "context": "The word vanemate refers to parents or guardians in Estonian, and it is commonly used in contexts where family relationships or parental authority are being discussed."
+  "context": "The word 'vanemate' is the plural genitive form of the Estonian noun 'vanem', which means 'parent'. In the genitive case, it indicates possession or relationship - so 'vanemate' specifically means 'of parents' or belonging to/related to parents. This construction is commonly used when talking about something that belongs to parents or relates to them."
 }

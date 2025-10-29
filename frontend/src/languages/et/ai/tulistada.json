@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tahab tulistada.",
-    "Tulistada tuleb ainult siis, kui on vaja.",
-    "Me ei saa tulistada."
+    "Tulistasin laskuritega.",
+    "Ta tulistas vastu poole.",
+    "Me peame tulistama enne kohtumist."
   ],
   "translation": [
     "to shoot",
-    "to fire"
+    "to fire (a weapon)",
+    "to attack with firearms"
   ],
-  "context": "The word 'tulistada' is commonly used in Estonian to mean shooting or firing something, often in the context of guns or weapons."
+  "context": "The word 'tulistada' is an Estonian verb that means to shoot or fire a weapon. It can be used in the context of using firearms, either literally as in shooting a gun, or figuratively in certain contexts. The verb follows Estonian conjugation patterns - for example, 'tulisid' (past tense plural) and 'tulistama' (infinitive)."
 }

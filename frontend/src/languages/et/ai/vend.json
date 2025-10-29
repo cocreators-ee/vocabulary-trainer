@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kohtasin venda täna.",
-    "Vennad tulid meie juurde.",
-    "Ta on minu vend."
+    "Vend on minu õemees.",
+    "Tal on kaks venda.",
+    "M vend käis poes."
   ],
   "translation": [
     "brother",
-    "friend"
+    "male sibling"
   ],
-  "context": "The word 'vend' in Estonian generally means brother, but it can also be used to refer to a close friend or companion, similar to how the word 'buddy' is used in English."
+  "context": "In Estonian, 'vend' means brother and refers to a male sibling. It's the masculine form of the word for brother. The feminine equivalent is 'õde' (sister)."
 }

@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta uurib asja põhjalikult.",
-    "Politsei uurib kuriteo asjaolusid.",
-    "Uurimine on veel pooleli."
+    "Ma uuri mind.",
+    "Ta uurib seda küsimust.",
+    "Meie uurime põhjalikult teemad."
   ],
   "translation": [
-    "investigates",
     "research",
-    "inquiry",
-    "examination"
+    "investigate",
+    "study",
+    "examine"
   ],
-  "context": "The word 'uurima' in Estonian means 'to investigate', 'to research', or 'to inquire'. It is commonly used to describe the process of trying to find out facts about something, often in a formal context like a police investigation or scientific study. It can also refer to simply looking into something more closely."
+  "context": "The Estonian word 'uuri' is the imperative form of the verb meaning 'to research', 'to investigate', or 'to study'. It's used when giving a command to someone to conduct an investigation, examination, or thorough study of something. The word comes from the infinitive form 'uurima', which means 'to examine' or 'to look into' in English."
 }

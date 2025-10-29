@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta läks hulluks",
-    "Ma olen tema hulluks minemise pärast mures",
-    "Kui palju kordi sa tahad mind ajada hulluks?"
+    "Mina läksin hulluks.",
+    "Ta oli peaaegu hulluks jõudnud.",
+    "See teeb mind hulluks."
   ],
   "translation": [
     "crazy",
-    "insane"
+    "mad",
+    "insane",
+    "out of my mind"
   ],
-  "context": "The word 'hulluks' is an adverb in Estonian meaning to go crazy or insane, often used to describe someone who has lost their mind or is acting wildly."
+  "context": "The Estonian word 'hulluks' is the illative case form of 'hull', meaning 'to go crazy/insane'. It's used to describe a state of losing one's mental faculties or becoming extremely angry/frustrated. The suffix '-ks' indicates movement into the state of being crazy."
 }

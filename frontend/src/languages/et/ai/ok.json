@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ütles ok ja läks ära",
-    "Ma olen nõus sellega, ok?",
-    "Ok, ma tean mis teha"
+    "Ok, mõtleme üle.",
+    "Okei, see on hea idee.",
+    "OK, ma olen nõus."
   ],
   "translation": [
     "okay",
     "alright",
-    "agree"
+    "fine",
+    "yes"
   ],
-  "context": "The word 'ok' in Estonian is used to express agreement or confirmation, similar to its usage in English."
+  "context": "In Estonian, 'ok' is a loanword from English that functions as an interjection to express agreement, acknowledgment, or acceptance. It's commonly used in informal spoken language and written communication, similar to how it's used in English. The word can be capitalized in different ways (Ok, Okei, OK) but all forms are understood and convey the same meaning of affirmation or consent."
 }

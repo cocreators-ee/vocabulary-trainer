@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma loodan näha sind homme.",
-    "Nägemist!",
-    "Kuidas sul läheb? Nägemist!"
+    "Nägemist ja head aega!",
+    "Head nägemist koosolekul.",
+    "Kurat nägemist!"
   ],
   "translation": [
-    "see you later",
     "goodbye",
-    "until we meet again"
+    "farewell",
+    "see you later"
   ],
-  "context": "The word 'nägemist' is a casual way to bid farewell in Estonian, similar to 'see you later' or 'goodbye' in English."
+  "context": "The word 'nägemist' is the partitive case of the Estonian noun 'nägemine', which means 'seeing' or 'viewing'. In Estonian, it's commonly used as a polite way to say goodbye when expecting to see someone again soon. It literally translates to 'of seeing' but functions like 'goodbye' in English conversations."
 }

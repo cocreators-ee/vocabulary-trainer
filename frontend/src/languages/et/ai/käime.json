@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma käisin kaupassa.",
-    "Me käime kinos.",
-    "Nad käivad rannas."
+    "Käime poes.",
+    "Me käime koos.",
+    "Käidame linnas."
   ],
   "translation": [
-    "went",
-    "walked"
+    "we go",
+    "we walk",
+    "we are going"
   ],
-  "context": "The word käime is the first person plural past tense form of the Estonian verb käia, which means to go or walk. It is commonly used in sentences to describe past actions of going or walking somewhere."
+  "context": "The word 'käime' is the first person plural present tense form of the verb 'käima', which means 'to go' or 'to walk'. It indicates that we (the speaker and others) are currently in the process of moving from one place to another, either by walking or by some other means of transportation. This form specifically uses the subject 'me' (we) as understood rather than explicitly stated."
 }

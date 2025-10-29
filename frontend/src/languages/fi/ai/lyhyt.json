@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on lyhyt mies.",
-    "Lyhyt ja yksinkertainen vastaus oli paras.",
-    "Lyhyessä ajassa hänestä tuli hyvin suosittu."
+    "Hänen hiuksensa ovat lyhyet.",
+    "Lyhyt matka taitettiin autolla.",
+    "Pidän lyhyistä hiusmuodoista."
   ],
   "translation": [
     "short",
-    "brief"
+    "brief",
+    "concise"
   ],
-  "context": "The word 'lyhyt' in Finnish means short or brief, and it is commonly used to describe something that has a small length or duration, such as a short person, a brief message, or a short period of time."
+  "context": "The Finnish word 'lyhyt' is an adjective that means 'short' in English. It's used to describe something with little length or duration. This word can be declined based on the gender and number of the noun it modifies. For example, when modifying a singular nominative feminine noun like 'hius' (hair), it becomes 'lyhyet' in plural form. The word is commonly used to describe physical dimensions, time periods, or concise speech."
 }

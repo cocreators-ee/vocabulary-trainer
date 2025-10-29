@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen kooli.",
-    "Kool on suletud.",
-    "Ta õpetab koolis."
+    "Kool algab hommikul kell kaheksa.",
+    "Tüdruk käib koolis.",
+    "Meie kool on suur ja ilus."
   ],
   "translation": [
-    "school"
+    "school",
+    "educational institution"
   ],
-  "context": "The word 'kool' refers to a place where people, especially children, go to learn and receive education."
+  "context": "The Estonian word 'kool' means school or educational institution. It refers to a place where children and young people receive formal education, typically from primary through secondary levels. In Estonian grammar, 'kool' is a common noun that can be used in different cases (nominative case shown here). The word follows normal Estonian sentence structure with the subject before the verb."
 }

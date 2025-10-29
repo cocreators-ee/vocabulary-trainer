@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole loll.",
-    "Ta on väga loll inimene.",
-    "Loll mees sai auhinna."
+    "Ta on loll.",
+    "See oli loll mõte.",
+    "Lollused ei ole meeldinud."
   ],
   "translation": [
-    "fool",
-    "stupid"
+    "stupid",
+    "silly",
+    "foolish"
   ],
-  "context": "The word 'loll' is commonly used in Estonian to describe someone or something that is foolish or stupid, and it can be used in different forms to convey various degrees of foolishness or stupidity."
+  "context": "The word 'loll' is an Estonian adjective meaning stupid, silly or foolish. It describes someone or something that lacks good judgment or sense. The base form 'loll' can be modified for gender and number - in the examples shown: 'loll' (masculine singular), 'loll' (neuter singular), and 'lollused' (plural noun derived from 'loll')."
 }

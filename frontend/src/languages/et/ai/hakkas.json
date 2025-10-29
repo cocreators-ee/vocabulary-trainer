@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta hakkas tööle",
-    "Ma hakkan homme koju",
-    "Me hakkame uue projekti"
+    "Hakkasin tööle kell kaheksa.",
+    "Tüdruk hakkas nutma.",
+    "Meie lapsed hakkavad kooli minema septembrist."
   ],
   "translation": [
+    "started",
     "began",
-    "started"
+    "commenced"
   ],
-  "context": "The word 'hakkas' is the third person singular form of the verb 'hakata', which means to begin or start something in Estonian."
+  "context": "The word 'hakkas' is the third-person singular past tense form of the Estonian verb 'hakata', which means 'to start' or 'to begin'. It's used to indicate that someone or something started doing an action in the past. For example, when saying 'Tüdruk hakkas nutma' (The girl started crying), it shows that the action of crying began at some point in the past."
 }

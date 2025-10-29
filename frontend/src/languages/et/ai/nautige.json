@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma nautin seda filmi",
-    "Ta nautis öö elust",
-    "Nad nautivad koos aega"
+    "Nautige hommikust!",
+    "Me nautisime õhtust.",
+    "Ta naudib teatrietendusi."
   ],
   "translation": [
     "enjoy",
-    "have a good time"
+    "appreciate",
+    "savor"
   ],
-  "context": "The word 'nautige' in Estonian means to enjoy something, it is commonly used in the context of having a good time or taking pleasure in an activity."
+  "context": "The word 'nautige' is the imperative form of the verb 'naudia', which means 'to enjoy'. In Estonian, this is a command or suggestion to someone else to enjoy something. For example, 'Nautige hommikust!' means 'Enjoy your morning!'. The verb can be used in different forms depending on the subject and tense - 'nautin' (I enjoy), 'nautid' (you enjoy), etc."
 }

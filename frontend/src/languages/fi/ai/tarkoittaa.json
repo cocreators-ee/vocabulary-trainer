@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Se tarkoittaa, että meidän on tehtävä se itse.",
-    "Hän ei tiennyt, mitä se tarkoittaa.",
-    "Tämä tarkoittaa sitä, että lähtö on mahdollista."
+    "Tämä tarkoittaa suuria muutoksia.",
+    "Mitä tämä sana tarkoittaa?",
+    "Hän ei ymmärtänyt, mitä se tarkoitti."
   ],
   "translation": [
     "means",
     "signifies",
     "implies"
   ],
-  "context": "The word tarkoittaa is a verb in Finnish that means to mean or signify something, and it is commonly used in sentences to explain or interpret the meaning of something."
+  "context": "The Finnish word 'tarkoittaa' is a verb that means 'to mean' or 'to signify'. It's commonly used to explain the meaning of something, similar to English constructions like 'X means Y'. The word can appear in different forms such as present tense (tarkoittaa), past tense (tarkoitti), and negative forms (ei tarkoita)."
 }

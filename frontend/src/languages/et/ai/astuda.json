@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina astun maja sisse.",
-    "Tema juba ei astu enam koju.",
-    "Kas sa astusid hoone sees?",
-    "Ära asta lahti kätt!"
+    "Ei astu üles ilma õiguseta.",
+    "Ta astub uuele tööle.",
+    "Meie astume kohtusse."
   ],
   "translation": [
-    "to step",
-    "to enter"
+    "to step up",
+    "to enter",
+    "to enroll",
+    "to join"
   ],
-  "context": "The verb 'astuda' in Estonian means to step or to enter. It is commonly used when describing physical movement into a space, such as entering a room or stepping onto something."
+  "context": "The Estonian verb 'astuda' means to step or move forward into a position, space, or organization. It can be used literally for stepping upward or entering a physical space, but it's also commonly used metaphorically for joining an institution (like enrolling in university), starting a new job, or taking legal action by entering court proceedings."
 }

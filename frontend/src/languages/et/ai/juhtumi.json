@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Politsei uurib juhtumi asjaolusid.",
-    "See oli lihtsalt õnnetu juhtmum.",
-    "Juhtumi tõttu hilines rong."
+    "Juhtumi lahendamine võtab tavaliselt paar päeva.",
+    "Tema juhtumit uuriti põhjalikult.",
+    "Kõikide juhtumite korral tuleb täita vorm."
   ],
   "translation": [
     "case",
     "incident",
-    "accident",
-    "event"
+    "situation",
+    "instance"
   ],
-  "context": "The word 'juhtum' in Estonian refers to an event, case, incident or accident. It is commonly used when describing something that happened, often unexpectedly or requiring investigation."
+  "context": "In Estonian, 'juhtumi' is the partitive case form of the noun 'juhtum'. It typically refers to a specific instance or occurrence of something - like a legal case, medical case, situation, or incident. The word 'juhtum' comes from the verb 'juhtuma' (to happen/to occur), so it literally means something that has happened or taken place. In the partitive case 'juhtumi', it often appears in contexts where we're talking about a specific instance of something, such as investigating a particular case, handling a situation, or referring to an incident."
 }

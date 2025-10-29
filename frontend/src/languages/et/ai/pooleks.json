@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lõin leiva pooleks.",
-    "Ta jagas kooki pooleks.",
-    "Pooleks tehtud töö on veel tegemata."
+    "Tema jagas õuna pooleks kahe inimese vahel.",
+    "Lapsed jagavad mänguasi pooleks omavahel.",
+    "Pood alustab pooleks saamist kell 12."
   ],
   "translation": [
-    "half",
-    "halves"
+    "in half",
+    "into two equal parts",
+    "half"
   ],
-  "context": "The word pooleks is an adverb in Estonian that means half or halfway, it can also be used as a verb to mean to cut or divide something into two equal parts."
+  "context": "The Estonian word 'pooleks' is a positional case form (partitive) that means 'in half', 'into two equal parts', or simply 'half'. It's used to express division into two equal portions. In the first sentence, it shows an apple being divided equally between two people. The second example demonstrates children sharing toys equally among themselves. The third sentence shows a store starting its 'half-off' sale at noon."
 }

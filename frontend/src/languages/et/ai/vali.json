@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Palun vali oma sündmuspäevad.",
-    "Valige oma låbipäsuekraani kujundus",
-    "Tema lemmikfilmide nimekirja vahemik on piiramatu."
+    "Vali endale sobivad rõivad.",
+    "Tule valima meie kontserdile!",
+    "Valisid sa head restorani?"
   ],
   "translation": [
-    "choose"
+    "choose",
+    "select"
   ],
-  "context": "The Estonian word 'vali' means 'choose' in English. It is commonly used as an imperative form and can be part of phrases asking someone to choose or select something."
+  "context": "The Estonian word 'vali' is the imperative/command form of the verb 'valida', which means 'to choose' or 'to select'. It's used when telling someone to make a choice. The base form 'valida' can be conjugated into different forms: valin (I choose), validad (you choose - singular), valida (he/she/it chooses), valime (we choose), valite (you choose - plural), valivad (they choose)."
 }

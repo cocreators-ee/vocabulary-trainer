@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lõunale läinud.",
-    "Ta on lõunale kutsutud.",
-    "Me oleme lõunale valmis."
+    "Töölt lõunale.",
+    "Pärast kooli lähme lõunale.",
+    "Meie pere käis lõunale."
   ],
   "translation": [
-    "for lunch"
+    "to the south",
+    "towards the south",
+    "southward"
   ],
-  "context": "The word 'lõunale' is an Estonian postposition that indicates something is intended for or related to lunch, often used to express the idea of going somewhere or doing something specifically for lunch."
+  "context": "The word 'lõunale' is an Estonian adverb meaning 'to the south' or 'towards the south'. It indicates direction toward the southern point of the compass. In Estonian, it's formed by adding the allative case ending '-le' to the root 'lõuna-' (south). This form typically answers the question 'kuhu?' (where to?)."
 }

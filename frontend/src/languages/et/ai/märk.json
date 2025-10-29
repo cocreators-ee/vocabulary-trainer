@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegi endale märgi",
-    "See on hea märk",
-    "Märgid on alles"
+    "Märgid näitavad teed.",
+    "See märk on tähtis.",
+    "Linnas palju marke."
   ],
   "translation": [
-    "sign",
     "mark",
-    "token"
+    "sign",
+    "symbol",
+    "badge",
+    "note"
   ],
-  "context": "The word 'märk' in Estonian generally refers to a sign or mark that indicates something, and it is commonly used to describe a symbol or indication of a particular fact or quality."
+  "context": "\"Märk\" is an Estonian noun that means 'mark', 'sign', 'symbol', or 'badge'. It can refer to various types of visual indicators, such as road signs, symbols, badges, or notes. The word can be used in different contexts - for example, \"märgid\" (plural) would mean 'marks' or 'signs', and adding suffixes changes its form like \"märgi\" (genitive case meaning 'of the mark/sign')."
 }

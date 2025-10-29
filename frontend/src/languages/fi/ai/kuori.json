@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kuori on paksu ja suojaa hedelmaa.",
-    "Omenan kuori on punainen.",
-    "Kuoren alle on pehmeää lihaa."
+    "Kuori on omenan ulkokuori.",
+    "Punainen kuori suojeli hedelmää.",
+    "Kasvit saavat ravinteita juurten kautta ja ilmaa lehtien kautta kuoren läpi."
   ],
   "translation": [
+    "bark",
     "peel",
-    "skin",
-    "rind"
+    "rind",
+    "husk",
+    "outer layer"
   ],
-  "context": "The word kuori refers to the outer layer or covering of something, such as a fruit or vegetable, and is commonly used in Finnish to describe the act of removing this layer."
+  "context": "In Finnish, 'kuori' refers to the outer covering or shell of various objects. Most commonly it means the peel or skin of fruits and vegetables (like apple peels), but it can also refer to tree bark, the rind of cheese, or other protective outer layers on plants and animals. The word is a noun in Finnish and typically appears in its basic form as shown here."
 }

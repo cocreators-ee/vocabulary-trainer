@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä myyn autoni.",
-    "Hän myi talonsa.",
-    "He myyvät puutarhakalaa."
+    "Minun täytyy myydä talo.",
+    "Hän myy autoaan huomenna.",
+    "He myyvät kirjoja netissä."
   ],
   "translation": [
-    "sell",
-    "to sell"
+    "to sell",
+    "selling",
+    "sells"
   ],
-  "context": "The word 'myydä' is a verb in Finnish that means to sell something, it is commonly used in everyday conversations when talking about selling or buying items."
+  "context": "The Finnish verb 'myydä' means 'to sell' in English. It's a regular verb that follows the conjugation pattern for -dän/-dän type verbs. The infinitive form is 'myydä', present tense singular third person is 'myy', and plural third person is 'myyvät'. This verb indicates the action of transferring goods or services to someone else in exchange for payment."
 }

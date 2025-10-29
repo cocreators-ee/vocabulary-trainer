@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on ilus kujuga naine.",
-    "Kuju on tähtis moe valikul.",
-    "Tal on kenake kujuga figuur."
+    "See kuju on imeline.",
+    "Tegelikult tundub see kuju veidi ebamugavalt.",
+    "Mina ei saa aru sellest kujust."
   ],
   "translation": [
-    "figure",
     "shape",
-    "form"
+    "form",
+    "figure"
   ],
-  "context": "The word 'kuju' in Estonian generally refers to the shape or form of something, often used to describe a person's physical appearance or an object's structure."
+  "context": "In Estonian, 'kuju' is a noun that refers to the shape or form of something. It can be used to describe physical shapes (like geometric forms), abstract concepts (the form of an idea), or even figures/statues. The word is in nominative singular form here."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mu perekonna kodu on Tallinnas.",
-    "Ta on minu perekonna liige.",
-    "Meie perekond elab maal."
+    "Minu perekonna nimi on Kask.",
+    "Ta on meie perekonna liige.",
+    "Perekonna koosolek toimub kell 18."
   ],
   "translation": [
     "family",
     "household",
-    "relative"
+    "kin"
   ],
-  "context": "The word 'perekonna' in Estonian refers to a family or household, and is commonly used to describe one's relatives or domestic unit."
+  "context": "The word 'perekonna' is the genitive singular form of 'pere' (family) in Estonian. It means 'of the family' or belonging to the family, indicating possession or association. In English translations, it would typically be rendered as 'family's', indicating whose family it is."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Vait kõrvalda seda!",
-    "Vait, ma olen valmis.",
-    "Tema õnnetus oli see, et ta alahindas vastast ja ei vaitanud piisavalt enne hoogsat rünnakut."
+    "Vait on ilus linn.",
+    "Vaikne öö vaidu teeb.",
+    "Tule vajutada nuppu."
   ],
   "translation": [
-    "wait"
+    "only",
+    "just",
+    "merely"
   ],
-  "context": "The word 'vait' is used to indicate that something should be done slowly or not too quickly, often as a command or instruction."
+  "context": "In Estonian, 'vaid' is an adverb that means 'only', 'just', or 'merely'. It is used to restrict the scope of what is being talked about and emphasize exclusivity. The word can appear in different forms depending on context but typically functions as a limiting modifier."
 }

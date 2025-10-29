@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean palju nimed.",
-    "Nimed on olulised inimeste elus.",
-    "Tema nimi on äärmiselt tunnustatud."
+    "Tema nimed on Eesti ja eestlane.",
+    "Kõik lapsed said oma nimed üles kirjutada.",
+    "Museumi eksponeeritud nimed olid täpselt need, mis oli vaja."
   ],
   "translation": [
-    "names"
+    "names",
+    "surnames",
+    "titles"
   ],
-  "context": "The word 'nimed' is the plural form of 'name' and refers to a person's or thing's name, commonly used when discussing identification or labels in Estonian language."
+  "context": "The word 'nimed' is the plural form of Estonian noun 'nimi', which means 'name'. In Estonian, nouns change their form based on case and number. 'Nimed' specifically refers to multiple names or surnames, commonly used when listing people's names or referring to several names collectively."
 }

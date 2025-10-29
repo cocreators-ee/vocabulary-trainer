@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta suutis mind üllatada.",
-    "Ma ei suutnud aru saada, mis juhtus.",
-    "See on raske, aga ma suudan."
+    "Ta suutis lahendada keeruka ülesande.",
+    "Meie tiim suutis võita konkurentsivõistluse.",
+    "Suudad sa ka seda teha? See kellegi ei suutnud varem."
   ],
   "translation": [
-    "can",
-    "able to",
-    "manage to"
+    "managed",
+    "was able to",
+    "succeeded in",
+    "could"
   ],
-  "context": "The Estonian word 'suutis' is related to ability and capability. It expresses being able to do something or managing to achieve a task. It often appears in contexts where someone successfully completes an action or possesses the skill to perform it."
+  "context": "The word 'suutis' is the past tense of the Estonian verb 'suidama' or 'suutma', which means 'to be able to', 'can', 'manage', or 'succeed'. It indicates that someone had the capability or succeeded in doing something in the past. The form shown (suutis) specifically represents the third person singular past tense, meaning 'he/she/it managed' or 'he/she/it was able to'. Other forms include 'suutsin' (I managed), 'suudid' (you managed), 'suutsime' (we managed), etc."
 }

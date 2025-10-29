@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Se on perusasia.",
-    "Perusopetuksessa opiskellaan perusaineita.",
-    "Hänellä on vain perustietämys tietokoneista."
+    "Tämä on perusasia.",
+    "Perusasiat pitää hallita.",
+    "Hänellä on hyvät perustaidot."
   ],
   "translation": [
     "basic",
-    "fundamental"
+    "fundamental",
+    "elementary",
+    "standard"
   ],
-  "context": "The word 'perus' in Finnish generally refers to something that is basic or fundamental in nature, and it is commonly used to describe a foundational level of knowledge, education, or understanding."
+  "context": "The Finnish word 'perus' is an adjective that means basic, fundamental, elementary or standard. It's used to describe something as being at a foundational level or essential core of knowledge or skill. For example, 'perusasia' refers to a basic matter/issue, and 'perustaidot' means basic skills."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta lauda on väga vana.",
-    "Me ehitasime uue laua kööki.",
-    "Laua peal oli palju raamatuid."
+    "Lauda lauale.",
+    "Laual on toit.",
+    "Meie uus lauda on väga ilus."
   ],
   "translation": [
-    "board",
     "table",
-    "plank"
+    "desk"
   ],
-  "context": "The Estonian word 'lauda' commonly translates to 'board', 'table', or 'plank' in English. It refers to a flat piece of material, often wood, used for various purposes such as construction, furniture, or surfaces."
+  "context": "The word 'lauda' is the singular nominative form of 'laud', which means table or desk in Estonian. It's a common noun referring to a piece of furniture with a flat top and legs, used for various purposes like eating, working, or placing objects on."
 }

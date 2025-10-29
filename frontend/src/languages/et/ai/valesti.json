@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olen alati valesti käest pidi kirjutanud.",
-    "Ta rääkis suvepäeval nii kõrgelt, et keegi ei kuulanud teda valesti.",
-    "Valestist õigust on keeruline leida"
+    "Ta tegi valesti.",
+    "Ta rääkis valesti.",
+    "Ta kirjutas valesti."
   ],
   "translation": [
-    "wrongly",
     "incorrectly",
-    "in the wrong way"
+    "wrongly",
+    "falsely"
   ],
-  "context": "'valesiti' is used to describe something being done incorrectly or in a wrong manner."
+  "context": "The Estonian word 'valesti' is an adverb that means incorrectly or wrongly. It is formed from the adjective 'vale' (false, wrong) with the suffix '-sti', which is commonly used to form adverbs in Estonian. The word indicates that something has been done not according to what is correct or true."
 }

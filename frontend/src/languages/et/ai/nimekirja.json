@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lisan selle sõna nimekirja.",
-    "Nimekirjas on palju erinevaid õnume.",
-    "Ta ei olnud nimekirjas."
+    "Ta lõi uue nimekirja",
+    "Nimekiri on täielik",
+    "Kas sa oled näinud seda nimekirja?"
   ],
   "translation": [
     "list",
-    "register"
+    "directory",
+    "inventory"
   ],
-  "context": "The word \"nimekirja\" is a noun in Estonian that refers to a list or register of items, and it is commonly used in various contexts such as administration, education, or everyday conversations."
+  "context": "The word 'nimekirja' is the partitive case form of the Estonian noun 'nimekiri'. It means 'list' in English and refers to a written record or enumeration of items, names, or data. In this case, it's used when talking about some list (partitive case indicates an incomplete or unspecified object)."
 }

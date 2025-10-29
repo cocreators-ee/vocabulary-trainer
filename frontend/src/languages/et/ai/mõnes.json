@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen käinud mõnes koosolekul.",
-    "Ta on mõnes osas parem kui mina.",
-    "Mõnes olukorras on see hea variant."
+    "Mõnes linnas on kevad juba täis kasvule.",
+    "Ta elab mõnes väikeses külas Eestimaal.",
+    "Oleme külastanud mõnes härra Lossi."
   ],
   "translation": [
-    "some",
-    "in some cases"
+    "in some",
+    "in certain"
   ],
-  "context": "The word 'mõnes' is used in Estonian to indicate a certain number or quantity of something, similar to the English word 'some'."
+  "context": "The word 'mõnes' is an Estonian partitive case form of the pronoun 'mõni', which means 'some'. It indicates that something exists or happens in certain places, among certain things, or with certain people. The partitive case here suggests an indefinite quantity - not all places, not all things, but some specific ones."
 }

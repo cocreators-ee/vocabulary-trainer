@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma elan selles tänavas.",
-    "See on väga ilus tänav.",
-    "Nad kõndisid pikal tänaval."
+    "Tänavad on linna peamised liiklusteed.",
+    "Mees jooksis mööda tänavat kiiresti.",
+    "Lapsed mängisid tänaval päikesepaistelisel ilmal."
   ],
   "translation": [
-    "street",
-    "road",
-    "avenue"
+    "streets",
+    "roadways",
+    "avenues"
   ],
-  "context": "The word 'tänavat' in Estonian refers to a public way in a town or city, typically with buildings on either side. It is commonly used to describe where someone lives or the location of an event."
+  "context": "The word 'tänavat' is the partitive case form of the Estonian noun 'tänav', which means 'street'. In Estonian, nouns change their endings to indicate grammatical cases. The partitive case (ending -t) typically indicates that something is being acted upon or exists in an incomplete manner. Here it shows movement along streets or location on/in streets."
 }

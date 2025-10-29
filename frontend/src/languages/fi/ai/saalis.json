@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Saaliista ei ole tullut paljon",
-    "Hänen saalinsa oli iso",
-    "Saalis on hyvin tärkeä osa metsästystä"
+    "Minulla on saalis kala.",
+    "Metsästäjä sai suuren saaliin.",
+    "Saalisten hän näki uuden eläimen."
   ],
   "translation": [
     "prey",
     "catch",
-    "game"
+    "spoils",
+    "booty"
   ],
-  "context": "The word saalis refers to the animal or animals that are hunted or caught, and it is commonly used in the context of hunting or fishing."
+  "context": "In Finnish, 'saalis' is a noun that refers to prey or catch in hunting contexts. It can also refer to spoils or booty obtained from hunting or other activities. The word comes from the verb 'saalistaa' (to hunt/predate) and represents what is caught or captured."
 }

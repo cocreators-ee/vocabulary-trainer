@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tutkimus on tärkeä osa tiedeyhteisössä.",
-    "Hän on tehnyt paljon tutkimusta aiheesta.",
-    "Tämä tutkimus antaa uutta tietoa ilmastonmuutoksesta."
+    "Tämä tutkimus vaatii paljon aikaa.",
+    "Tutkimuksemme osoitti mielenkiintoisia tuloksia.",
+    "Hän tekee tieteellistä tutkimusta yliopistolla."
   ],
   "translation": [
     "research",
-    "investigation",
-    "study"
+    "study",
+    "investigation"
   ],
-  "context": "The word 'tutkimus' refers to a systematic investigation or study into a subject or topic, often in an academic or scientific context, aiming to discover new information or insights."
+  "context": "The Finnish word 'tutkimus' is a noun that means research, study, or investigation. It's the common term used in academic and scientific contexts to refer to systematic inquiry into subjects. The word can be modified with suffixes to indicate possession (tutkimuksemme = our research) or other grammatical forms."
 }

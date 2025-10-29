@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea aju.",
-    "Aju on keeruline elund.",
-    "Tema aju on väga arendatud."
+    "Aju on inimese kõige tähtsam elund.",
+    "Tema aju oli väga terav ja ta lahendas keerukaid matemaatilisi ülesandeid.",
+    "Väike laps areneb kiiresti ja temaaju muutub pidevalt."
   ],
   "translation": [
     "brain",
+    "intellect",
     "mind"
   ],
-  "context": "The word 'aju' in Estonian generally refers to the brain as an organ, but it can also imply one's mind or intellect in certain contexts."
+  "context": "In Estonian, 'aju' means brain and refers to the organ that is responsible for thought, memory, and control of the body. It can also refer more broadly to a person's intellect or mental abilities. The word is in singular form here (nominative case)."
 }

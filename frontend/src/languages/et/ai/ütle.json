@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ütles mulle, et see on hea raamat.",
-    "Ma ütlen sulle, et see on tõsi.",
-    "Ütle tema, et ma ootan teda."
+    "Ütle mulle oma nimi.",
+    "Ta ütles, et tuleb homme.",
+    "Mis sa ütled?"
   ],
   "translation": [
-    "to say",
-    "to tell"
+    "say",
+    "tell"
   ],
-  "context": "The word \"ütle\" is a verb in Estonian that means to say or to tell something to someone. It is commonly used in everyday conversations to express thoughts or opinions."
+  "context": "The word 'ütle' is the imperative form of the verb 'ütelda', which means 'to say' or 'to tell'. It's used when giving a direct command to someone to speak. In Estonian, verbs change form depending on who is performing the action and when, but 'ütle' specifically addresses someone directly in the present tense."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tegin kohtumisel teiega.",
-    "Kas sa oled kunsti kord kuskil kohtunud?",
-    "Lõunas peame inimesi kohtuma."
+    "Tere tulemast kohtuma homme kell 10.",
+    "Me kohtume esmaspäeval kohvikus.",
+    "Kas sa tahad mind kohtuda?"
   ],
   "translation": [
-    "to meet (someone)"
+    "to meet",
+    "to encounter",
+    "to get together"
   ],
-  "context": "'kohtuma' is an infinitive verb meaning 'to meet (someone)'. It indicates the action of two or more people meeting. The examples show different forms such as past tense and imperative."
+  "context": "The Estonian word 'kohtuma' is a verb that means to meet someone. It's commonly used when arranging meetings or encounters with people, either formally or informally. The verb can be conjugated in different forms - 'kohtun' (I meet), 'kohtub' (he/she meets), and so on depending on the subject and tense."
 }

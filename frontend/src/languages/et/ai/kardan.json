@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kardan sindroomi pärast.",
-    "Ära karda, ma olen siin.",
-    "Ta kardab kõrgust."
+    "Ma kardan hiiri.",
+    "Ta ei karda linde.",
+    "Meie kardame öiseid koeri."
   ],
   "translation": [
     "to fear",
-    "be afraid",
-    "dread"
+    "to be afraid of",
+    "to dread"
   ],
-  "context": "The Estonian word 'kardan' is the first-person singular present tense of the verb 'kartma', which means 'to fear' or 'to be afraid'. It’s commonly used to express a feeling of apprehension or worry about something specific, similar to saying 'I fear' or 'I am afraid' in English."
+  "context": "The Estonian verb 'kardan' means to feel fear or anxiety toward something. It is the first-person singular present form (I). The word belongs to the -da/-d conjugation class and can be used with various subjects. When negated, it uses 'ei' before the stem: 'ei karda'. In plural forms like 'meie kardame', it becomes 'kardame' without the final '-n'."
 }

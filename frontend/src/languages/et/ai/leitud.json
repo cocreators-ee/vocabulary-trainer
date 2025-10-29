@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma leidsin oma kaotsilennud telefonileitud",
-    "Ta on leitud surnuks",
-    "Leitud asjad on hoiul"
+    "Olen leitud oma lapse.",
+    "Meie koer on leitud.",
+    "Ta oli rõõmus, kui tema telefon oli leitud."
   ],
   "translation": [
     "found",
     "discovered"
   ],
-  "context": "The word 'leitud' is the past participle form of the verb 'leidma', which means to find or discover something, and it is commonly used in Estonian language to indicate that something has been found or discovered."
+  "context": "The Estonian word 'leitud' is the past participle form of the verb 'leidma', which means 'to find'. It describes something that has been found or discovered. This word is typically used when referring to objects, animals, or people that have been located after being lost."
 }

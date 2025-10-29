@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma vaid loen raamatut",
-    "Ta vaid rääkis ukse taga",
-    "Nad vaid naerisid"
+    "Vaid on see, mida ta tahab.",
+    "Ta tuleb vaid kolmest päevast ära.",
+    "Meil on vaid üks võimalus."
   ],
   "translation": [
     "only",
-    "just"
+    "just",
+    "merely",
+    "solely"
   ],
-  "context": "The word 'vaid' in Estonian is used to indicate a limitation or a contrast, similar to the English words 'only' or 'just', and it is commonly used in sentences to provide more specific information about an action or a situation."
+  "context": "The Estonian word 'vaid' is an adverb that means 'only', 'just', 'merely', or 'solely'. It is used to emphasize limitation, exclusivity, or restriction. In the first example sentence 'Vaid on see, mida ta tahab,' it translates to 'This is what he wants only.' In the second example 'Ta tuleb vaid kolmest päevast ära,' it means 'He will be away for just three days.' In the third example 'Meil on vaid üks võimalus,' it translates to 'We have only one opportunity.' The word 'vaid' is commonly used in everyday Estonian language to narrow down possibilities or to indicate that something is limited in scope."
 }

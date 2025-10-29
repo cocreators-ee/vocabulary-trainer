@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See pikk tee viib Rooma.",
-    "Pikal jalal on lihtsam tantsida.",
-    "Ta on väga pika kasvuga."
+    "Tema on pikk ja kõrge.",
+    "Lapsed jooksid pikka teed kodu poole.",
+    "Ta sai pikemat juukseid."
   ],
   "translation": [
     "long",
     "tall"
   ],
-  "context": "The word 'pikka' is the partitive singular form of the Estonian adjective 'pikk', meaning long or tall. It’s used to describe length, height, or duration and can also be used metaphorically."
+  "context": "The Estonian word 'pikka' is part of the comparative form of the adjective 'pikk', which means 'long' or 'tall'. As it's in the illative case (ending -a), it translates to 'into long/tall' or indicates movement toward something long. It can modify nouns following it in a sentence."
 }

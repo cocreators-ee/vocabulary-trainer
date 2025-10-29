@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tõendeid selle kohta ei ole.",
-    "Ta esitas tõendeid kuriteo toimepanemiseks.",
-    "Tõendeks on see, et ta on siin."
+    "Tõendid näitavad, et tegemist on õigete faktidega.",
+    "Kaitsja taotles lisatõendeid kohtule.",
+    "Poliiitilised tõendid võivad olla keerulised tuletada."
   ],
   "translation": [
     "evidence",
-    "proof"
+    "proofs",
+    "documents"
   ],
-  "context": "The word 'tõendeid' is the plural form of 'tõend', which refers to evidence or proof that something exists or has happened. It is commonly used in Estonian to describe facts or signs that support a claim or argument."
+  "context": "The Estonian word 'tõendeid' is the plural form of 'tõend', which means evidence or proof. It refers to factual information, documents, or materials that serve as verification or substantiation of something. In legal contexts, it specifically means evidence presented in court."
 }

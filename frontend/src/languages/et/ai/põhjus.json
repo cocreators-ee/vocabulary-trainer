@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin põhjust, miks see juhtus.",
-    "Põhjused olid selged.",
-    "Ta ei leidnud põhjuseid, miks ta peaks minema."
+    "Põhjuseks oli halve ilm.",
+    "Tal on head põhjust meeleolu muutuda.",
+    "Ma ei tea täpset põhjust."
   ],
   "translation": [
     "reason",
-    "cause"
+    "cause",
+    "grounds"
   ],
-  "context": "The word põhjus is commonly used in Estonian to refer to a reason or cause for something, and it can be used in various contexts, such as explaining why an event occurred or justifying a decision."
+  "context": "The Estonian word 'põhjus' means reason, cause, or grounds. It is a noun that refers to the underlying explanation for something happening or existing. The word can be used in various contexts such as explaining why events occurred, justifying actions, or providing justification for decisions."
 }

@@ -4,9 +4,6 @@ from data_processing.settings import LANGUAGES_SRC
 
 
 class GenerateResponse(BaseModel):
-    confidence: float = Field(
-        description="Your confidence in your answers.", ge=0.0, le=1.0
-    )
     understood: bool = Field(
         description="You comprehend this word, and it is a word in the source language."
     )

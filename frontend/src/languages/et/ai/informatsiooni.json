@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin informatsiooni selle kohta.",
-    "Informatsioonile on väga suur tähtsus.",
-    "Ta ei leidnud piisavalt informatsiooni."
+    "Informatsiooni on vajalik õppimiseks.",
+    "Laadi alla fail informatsiooni jaoks.",
+    "Me vajame rohkem informatsiooni otsuse tegemiseks."
   ],
   "translation": [
-    "information"
+    "information",
+    "data",
+    "facts"
   ],
-  "context": "The word 'informatsiooni' in Estonian refers to information or data, and it is commonly used in various contexts such as news, education, and communication."
+  "context": "The word 'informatsiooni' is the genitive case form of the Estonian noun 'info', which means information. In Estonian, nouns change their endings to show possession or relationship (genitive case). Here, '-i' ending indicates this is in the genitive case, meaning 'of information' or 'for information'. This form is commonly used when needing to express that something belongs to information or is related to it."
 }

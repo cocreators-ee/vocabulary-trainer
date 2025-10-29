@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ärkasin homme varakalt",
-    "Ta äkas kohe pärast seda",
-    "Me ärkasime öösel"
+    "Ärkasin kell kuus.",
+    "Täna hommikul ärkasin varakult.",
+    "Meie lapsed ärkavad alati hilja."
   ],
   "translation": [
     "woke up",
-    "awoke"
+    "awoke",
+    "arose"
   ],
-  "context": "The word ärkasin is the first person singular past tense form of the Estonian verb ärkama, which means to wake up or to become aware of something."
+  "context": "The word 'ärkasin' is the first person singular past tense form of the verb 'ärgata' which means to wake up or awaken. It specifically refers to waking up from sleep in a completed action that happened in the past."
 }

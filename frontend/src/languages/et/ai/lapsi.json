@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lapsi on väga nutikas.",
-    "Ta võtab lapse kaasa rannale.",
-    "Lapsed armastavad mänge."
+    "Nägin lapseid parkis.",
+    "Lapsed mängivad õues.",
+    "Koolilapsed on heas tujus."
   ],
   "translation": [
-    "child",
-    "children"
+    "children",
+    "kids"
   ],
-  "context": "The word 'lapsi' is a noun in Estonian that refers to children, and it is commonly used in various contexts to talk about young people or kids."
+  "context": "The word 'lapsi' is the partitive plural form of the Estonian noun 'laps', which means 'child'. The partitive case in Estonian often indicates an incomplete or partial action, and when used with plural nouns it can indicate some children rather than all children. This form is commonly used after verbs of seeing, having, needing, etc."
 }

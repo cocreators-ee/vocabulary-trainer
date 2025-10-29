@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Saada mulle sõnumit hiljem.",
-    "Ta saatis mulle pika sõnumit eile.",
-    "See oli väga lühike sõnumit."
+    "Ootan oma sõnumit.",
+    "Kas sa said minu sõnumit?",
+    "Tema ei ole veel lugenud oma sõnumit."
   ],
   "translation": [
     "message",
-    "text",
+    "note",
     "communication"
   ],
-  "context": "The word 'sõnumit' in Estonian is generally used to refer to a message, text or communication. It can be used in various contexts such as sending a text message, receiving information, or conveying a piece of news."
+  "context": "The word 'sõnumit' is the partitive case form of the Estonian noun 'sõnum', which means 'message'. In Estonian, nouns change their endings based on grammatical cases. The partitive case (-t ending) is often used to indicate an object that is being acted upon or exists in some quantity. So 'sõnumit' would translate to '(a) message' or '(some) messages' depending on the context."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen panka",
-    "Pangas on raha",
-    "Töötan pankas"
+    "Panga on tähtis osa majandusest.",
+    "Pangad pakuvad laenamist ja hoiustamisteenuseid.",
+    "Mees läks pangas raha võtma."
   ],
   "translation": [
-    "bank"
+    "bank",
+    "financial institution"
   ],
-  "context": "The word 'panga' in Estonian generally refers to a financial institution where people can store and manage their money."
+  "context": "The word 'panga' is the genitive case form of 'pank', which means 'bank' in English. In Estonian grammar, the genitive case typically indicates possession or relationship, and can often translate to English as 'of' or be used with possessive pronouns. When used alone like this, it functions similarly to how we might say 'the bank's services' or refer to banking concepts in general."
 }

@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Ovi on auki.",
-    "Hän avasi oven ja meni sisään.",
-    "Ovet ovat kiinni."
+    "Sulje ovi, kiitos.",
+    "Uusi ovi vaatii lukon."
   ],
   "translation": [
     "door"
   ],
-  "context": "The word 'ovi' refers to a door or an opening in a building or vehicle, and it is commonly used in Finnish to describe the entrance or exit of a space."
+  "context": "In Finnish, 'ovi' is a common noun that means 'door'. It's an inanimate object word. Like many Finnish nouns, it can appear in different forms depending on case and context - for example, 'ovessa' (in the door), 'ovelta' (from the door). The basic form 'ovi' appears in singular nominative case."
 }

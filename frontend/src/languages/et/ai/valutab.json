@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mulle valub kõhuvalu.",
-    "Ta kätt on valuv.",
-    "Mis valutab rohkem?"
+    "Valutab tal pea.",
+    "Magamine valutab alati öösel.",
+    "Kõhupõletik valutab tugevalt."
   ],
   "translation": [
+    "aches",
     "hurts",
-    "achieves pain"
+    "pains"
   ],
-  "context": "Valutab is used to describe something causing physical or emotional pain. It can be used in medical contexts for pain, and also more generally for things that hurt feelings or cause discomfort."
+  "context": "The word 'valutab' is the 3rd person singular present tense form of the Estonian verb 'valu-', which means to ache or hurt. It describes a physical sensation of pain in some part of the body. The subject of the sentence would be experiencing this pain."
 }

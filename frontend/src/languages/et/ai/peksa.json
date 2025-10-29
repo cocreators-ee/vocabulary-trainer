@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta peksab mind iga päev.",
-    "Ära peksta koera!",
-    "Peksa teda kõvasti."
+    "Peksin kaks last ära.",
+    "Ta peksis väravat sisse.",
+    "Meie isa peksib meid tihti."
   ],
   "translation": [
-    "to hit",
     "to beat",
-    "to thrash"
+    "to spank",
+    "to hit"
   ],
-  "context": "The Estonian word 'peksa' is a verb meaning to hit or beat someone, often implying physical violence. It’s generally used in the context of inflicting harm through hitting and can be considered a rather strong and aggressive term."
+  "context": "The Estonian verb 'peksa' means to beat, hit, or spank someone. It is typically used for physical punishment or hitting something forcefully. In the first sentence it's in past tense form 'peksin', meaning 'I beat'. The second example shows it used transitively with an object, and the third example demonstrates it in present tense form."
 }

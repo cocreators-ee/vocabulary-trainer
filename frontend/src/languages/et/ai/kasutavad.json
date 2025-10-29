@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nad kasutavad seda sageli.",
-    "Ma kasutan seda harva.",
-    "Ta kasutas seda eile."
+    "Nad kasutavad arvuteid töös.",
+    "Lapsed kasutavad nutitelefone mängimiseks.",
+    "Mees kasutab taskulampi öösel."
   ],
   "translation": [
     "use",
     "utilize",
-    "apply"
+    "employ"
   ],
-  "context": "The word 'kasutavad' is a verb in Estonian that means to use or utilize something, and it is commonly used in everyday conversations to describe the act of using an object, skill, or resource."
+  "context": "The word 'kasutavad' is the 3rd person plural present tense form of the Estonian verb 'kasutama', which means 'to use'. It describes what people or things are currently using. For example, when saying 'nad kasutavad arvuteid töös' it means 'they use computers at work'. The word follows the subject (the user) and indicates an ongoing action of utilizing something."
 }

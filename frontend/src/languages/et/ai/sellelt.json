@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Sellelt mälestab jääma.",
-    "Kurvi sellelt kinni pidi maailm.",
-    "Päikeseloojangu õhtul tõid nad sellelt rannaliiva."
+    "Ta tuli sellelt poolest.",
+    "Kõik läks hästi sellelt juhtumi osalt.",
+    "Me rääkisime sellel teemal."
   ],
   "translation": [
-    "from this",
-    "of this",
-    "in this (context)"
+    "from this/that",
+    "about this/that"
   ],
-  "context": "'Sellelt' is an Estonian preposition meaning 'from this.' It can be used in both physical and metaphorical contexts to indicate something coming from or originating in a specific source. In sentences, it often conveys the idea of origin or derivation."
+  "context": "The word 'sellelt' is an Estonian adessive case form that means 'from this/that' or 'about this/that'. It's derived from the demonstrative pronoun 'see' (this/that) and indicates location away from something or topic about which something is being discussed."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei armasta vihma.",
-    "Vihm on käes.",
-    "Mu nahk hakkas rannaliiva all vihmaks."
+    "Tuleb vihma.",
+    "Vihmasõit oli ohtlik.",
+    "Vihmapiisad langesid alla."
   ],
   "translation": [
-    "rain"
+    "rain",
+    "rainfall",
+    "shower"
   ],
-  "context": "'vihma' is the singular form of 'vihm', which translates to 'rain'. It refers to water droplets falling from clouds in the atmosphere, commonly associated with weather conditions. The word can be used both literally and metaphorically."
+  "context": "The Estonian word 'vihma' is in the elative case, which means it translates to 'from rain' or 'out of rain'. It's derived from the nominative form 'vihm' (rain). In these examples: 1) 'Tuleb vihma' - 'It rains from...' (idiomatic expression for 'it will rain'), 2) 'Vihmasõit oli ohtlik' - 'The drive in/out of the rain was dangerous', 3) 'Vihmapiisad langesid alla' - 'Rain drops fell down'. The elative case indicates movement or origin from something."
 }

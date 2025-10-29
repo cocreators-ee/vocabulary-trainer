@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mul on kakskümmend eurot taskus.",
-    "Ta sai kakskümne aasta vanuses autõnnistu.",
-    "Kakskümmend inimest käis konserdil."
+    "Ta on kakskümmend aastat vana.",
+    "Kakskümmend inimest said haigestunud.",
+    "Meil on kakskümmend põhjust rõõmustada."
   ],
   "translation": [
     "twenty",
-    "twenties"
+    "20"
   ],
-  "context": "The word 'kakskümmend' is Estonian for the number twenty, and it is commonly used when counting or describing quantities of items."
+  "context": "The word 'kakskümmend' is the Estonian numeral for 20. It's a compound word formed from 'kaks' (two) and 'kümmend' (ten). In Estonian, numbers are often constructed by combining words rather than using unique terms for each number like in English. The word follows standard Estonian grammar patterns and can be used with case endings when needed."
 }

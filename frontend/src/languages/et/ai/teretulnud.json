@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Teretulnud meie koduses!",
-    "Ma olen teretulnud sinu juurde.",
-    "Kõik on teretulnud meie üritusele."
+    "Tere tulemast meie kontorisse!",
+    "Olete alati teretulnud meie juures.",
+    "Kõik külalised on teretulnud pidulikule tseremooniale."
   ],
   "translation": [
     "welcome",
-    "welcomed"
+    "greetings",
+    "salutation"
   ],
-  "context": "The word 'teretulnud' in Estonian means to be welcomed or to receive a warm greeting, and it is commonly used in various social situations to express hospitality and friendliness towards someone."
+  "context": "The word 'teretulnud' is the past participle form of the Estonian verb 'tulla' (to come) combined with 'tere' (good/pleasant). It literally means 'come well' and serves as a warm greeting or welcome. This form is commonly used to express hospitality and make someone feel welcomed in a place or situation. The word can be used both formally and informally, similar to how we use 'welcome' in English."
 }

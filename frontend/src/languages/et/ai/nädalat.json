@@ -1,13 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu pere tuleb külastama järgmise nädala alguseks.",
-    "Ta jättis töölt vaba nädalavahetuseks.",
-    "See film on plenumi peatuses kaks nädalat."
+    "Head nädalat!",
+    "Mul on hea nädalat.",
+    "Nädalat möödub kiiresti."
   ],
   "translation": [
     "week"
   ],
-  "context": "'nädalat' refers to 'week' in Estonian and is commonly used in phrases denoting time periods or specific dates related to weekly schedules and events."
+  "context": "\"Nädalat\" is the partitive case form of the Estonian word \"nädala\", which means \"week\". It is used when talking about a week in partitive contexts, such as wishing someone a good week (\"Head nädalat!\") or describing something happening during a week period."
 }

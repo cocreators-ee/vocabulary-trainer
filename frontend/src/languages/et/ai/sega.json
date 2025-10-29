@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on sega nende kahest sõnadest.",
-    "Ta tõi endale sega veega kaasa.",
-    "Miks sa mind alati segaks teed?"
+    "Tegelikult segas ta mind ära.",
+    "See segab mind alati.",
+    "Ma ei taha segada teid."
   ],
   "translation": [
-    "mix",
-    "mixture",
-    "confuse"
+    "confused",
+    "mixed up",
+    "bothered",
+    "disturbed"
   ],
-  "context": "'sega' can refer to a physical mixture, like blending substances together. It also means 'to confuse' or 'to mix up.' The word is used in both abstract and literal contexts."
+  "context": "The word 'sega' is the past tense form of the Estonian verb 'segama'. It means 'to confuse', 'to mix up', or 'to disturb' in English. When someone uses this form, they are indicating that an action of confusing or mixing happened in the past."
 }

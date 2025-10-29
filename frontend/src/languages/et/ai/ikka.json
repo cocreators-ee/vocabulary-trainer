@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ikka armastan sind",
-    "Ta on ikka võimeline mees",
-    "Ikka pole võimalik seda teha"
+    "Tule ikka homme.",
+    "Ikka tule homme!",
+    "Kas sa tuled ikka homme?"
   ],
   "translation": [
     "still",
-    "yet",
-    "however"
+    "always",
+    "nevertheless"
   ],
-  "context": "The word 'ikka' in Estonian is used to indicate a continuation or a contrast, similar to the English words 'still', 'yet', or 'however', and it is commonly used in sentences to convey a sense of persistence or unexpectedness."
+  "context": "In Estonian, 'ikka' is an adverb that can mean 'still', 'always', or 'nevertheless'. It's often used to express persistence of action or state. In the sentence 'Tule ikka homme,' it means 'Come still tomorrow' or 'Do come tomorrow.' The word adds emphasis and indicates continuation of a suggestion or command."
 }

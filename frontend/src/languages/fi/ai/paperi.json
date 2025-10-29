@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on paperi ja penaali",
-    "Paperi on tarpeen kirjoittamiseen",
-    "Hänen paperinsa oli täynnä virheitä"
+    "Minulla on paperia pöydälläni.",
+    "Hän kirjoitti paperille viestin.",
+    "Paperit ovat hukassa."
   ],
   "translation": [
-    "paper"
+    "paper",
+    "sheet of paper",
+    "document"
   ],
-  "context": "The word 'paperi' in Finnish refers to a material made from processed plant fibers, commonly used for writing, printing, or packaging, and it is a very common noun in everyday conversation."
+  "context": "The Finnish word 'paperi' means 'paper' in English. It is a common noun used to refer to the material made from wood pulp that is used for writing, printing, or wrapping. The word can be singular ('paperi') referring to one sheet of paper, or plural ('paperit') referring to multiple sheets. It's a neutral gender word and follows standard Finnish declension patterns."
 }

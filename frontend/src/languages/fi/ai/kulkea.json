@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on kuljettava autolla kaupungista toiseen",
-    "Hän kulkee junalla töihin joka aamu",
-    "Tämä polku ei kulje metsän läpi"
+    "Minun täytyy kulkaa töihin.",
+    "Hän kulkee joka päivä kävellen.",
+    "He ovat kulkeneet koko matkan."
   ],
   "translation": [
     "to go",
-    "to move",
-    "to travel"
+    "to walk",
+    "to travel",
+    "to proceed"
   ],
-  "context": "The word 'kulkea' in Finnish means to go or move from one place to another, often used to describe traveling or walking."
+  "context": "The Finnish verb 'kulkea' means to go, walk, travel, or proceed. It's an action verb that describes movement from one place to another. The word can be used in various forms including the basic form (kulkea), present tense kulkee, past participle kulkeneet, and imperative kulkaa. It commonly appears with prepositions like 'kautta' (through) or is used in compound verbs."
 }

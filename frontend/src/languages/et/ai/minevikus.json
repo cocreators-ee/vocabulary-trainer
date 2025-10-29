@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen minevikus elanud.",
-    "Ta on minevikus töötanud.",
-    "Meie oleme minevikus kohtunud."
+    "Minevikus oli ilus päev.",
+    "Ta mõtleb alati minevikusse.",
+    "Kas sa saad aru sellest, mis juhtus minevikus?"
   ],
   "translation": [
     "in the past",
-    "previously"
+    "previously",
+    "before"
   ],
-  "context": "The word 'minevikus' in Estonian is used to describe something that happened or existed before the present time, and it is commonly translated to English as 'in the past' or 'previously'."
+  "context": "The Estonian word 'minevikus' is an adverbial form that means 'in the past' or 'previously'. It's derived from the noun 'minevik' which means 'past', and the '-s' suffix makes it into an inessive case form indicating location or time within something. In this case, it indicates temporal location within the past period."
 }

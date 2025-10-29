@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lõpetan selle töö lõpule.",
-    "Ta on juba mitu korda üritanud seda lõpule viia.",
-    "Meil õnnestus see projekt lõpule viia."
+    "Töö on lõpule jõudnud.",
+    "Projekt sai tänavu lõpule.",
+    "Mäng peeti lõpule."
   ],
   "translation": [
-    "to the end",
-    "completely",
-    "finished"
+    "to completion",
+    "finished",
+    "done",
+    "to the end"
   ],
-  "context": "The word 'lõpule' in Estonian means to the end or completely, and it is commonly used to indicate that something has been finished or completed."
+  "context": "The Estonian word 'lõpule' is an adverb that means 'to completion', 'finished', or 'done'. It indicates that something has reached its conclusion or been brought to a successful end. This word often follows verbs of accomplishment and signifies that an action has been fully carried out to its intended endpoint."
 }

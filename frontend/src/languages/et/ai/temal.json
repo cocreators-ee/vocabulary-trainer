@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema naisel on kaks last.",
-    "Temal pole aega.",
-    "Miks temal on nii palju raha?"
+    "Temal on palju kogemusi.",
+    "Me räägime temaga tema probleemidest.",
+    "Tema naer on nakkav."
   ],
   "translation": [
-    "he has",
-    "she has"
+    "his",
+    "him"
   ],
-  "context": "Word is used to indicate possession. It is the third person singular possessive pronoun in Estonian, meaning 'his' or 'her'. This word appears before another noun indicating what is possessed."
+  "context": "The word 'temal' is an Estonian instrumental case form that typically appears to be a variant of the instrumental case of 'tema' (he/him). In standard Estonian, the instrumental case of 'tema' would be 'temaga' meaning 'with him'. However, 'temal' could also be interpreted as a possessive form or dialectal variation. Given the context from movie subtitles, it might represent a specific grammatical construction used in spoken language."
 }

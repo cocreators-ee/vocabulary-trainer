@@ -1,14 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta teab palju saladusi.",
-    "See tõi esile uued saladusi.",
-    "Neil on midagi koos - mõned saladused jäävad alati välja."
+    "Ta saladusi on alati huvitavad.",
+    "Meie saladusi jagasime ainult lähedaste sõpradega.",
+    "Saladusi ei tohi avaldada."
   ],
   "translation": [
-    "secrets",
-    "secret"
+    "secrets"
   ],
-  "context": "'Saladusi' refers to information kept hidden or confidential by someone. It can mean 'secrets' in plural, indicating multiple pieces of undisclosed information."
+  "context": "\"Saladusi\" is the partitive plural form of \"saladus\" (secret) in Estonian. The partitive case indicates an incomplete action or object, and when used with plural nouns like here, it suggests that we are talking about some secrets rather than all secrets. This word is commonly used when referring to multiple secrets in contexts where they might be partially revealed, shared, or discussed."
 }

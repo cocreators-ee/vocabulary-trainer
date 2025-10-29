@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on suhted tolle mehega.",
-    "Nende suhted pole lihtsad.",
-    "Suhted olid väga keerulised."
+    "Meil on head suhted naabritega.",
+    "Tööalased suhted olid väga tähtsad projektile.",
+    "Suhted vanematega paranesid aja jooksul."
   ],
   "translation": [
-    "relations",
     "relationships",
-    "contacts"
+    "connections",
+    "relations"
   ],
-  "context": "The word 'suhted' in Estonian refers to relationships or interactions between people, organizations, or entities, and is commonly used to describe personal or professional connections."
+  "context": "The word 'suhted' is the plural form of 'suhetus' in Estonian, meaning relationships or connections. It refers to interactions and associations between people, groups, or entities. This can include personal relationships, professional contacts, diplomatic ties, or any other type of connection between parties."
 }

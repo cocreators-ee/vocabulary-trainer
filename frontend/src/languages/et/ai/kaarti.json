@@ -1,13 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Tema käes olid mustad kaardi.",
-    "Mangija keeldus andmast enda kaartidest.",
-    "Pakige mängimine nõuab tähelepanu ja strateegiat kui kasutada õiged kaardi."
+    "Kas sa lähed meie kaarti?",
+    "Kaardi peamine eesmärk on korraldada üritust.",
+    "Meil on hea kaart selles linnas."
   ],
   "translation": [
-    "cards"
+    "to go/leave",
+    "card",
+    "map"
   ],
-  "context": "The word \"kaarti\" in Estonian translates to \"cards\", often referring to playing cards or similar items used in games. It is commonly used in contexts related to card games, such as strategy and tactics."
+  "context": "The word 'kaarti' in Estonian has multiple meanings depending on the context. When used as a verb form of 'karta', it means 'to go' or 'to leave'. When referring to physical objects, it can mean either a 'card' (like a playing card or business card) or a 'map'. The meaning is determined by the surrounding words and grammatical construction."
 }

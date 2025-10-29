@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta vaatas mulle näo vastu.",
-    "Ma ei saa näo tõttu magada.",
-    "Näo ilme oli väga kurv"
+    "Nägu on ilus.",
+    "Tal on hästi näinud nägu.",
+    "Näod olid rõõmsad."
   ],
   "translation": [
     "face",
+    "visage",
     "countenance"
   ],
-  "context": "The word 'näo' in Estonian refers to the front part of the human head, including the eyes, nose, and mouth, and is commonly used to describe someone's facial expression or appearance."
+  "context": "The Estonian word 'näo' is the genitive case form of 'nägu', meaning 'face'. In the genitive case, it expresses possession or association - so 'näo' would mean 'of the face' or 'belonging to the face'. It's commonly used in phrases like 'ilus näo' (beautiful face) where 'näo' modifies another noun. The word belongs to the declension paradigm of 'nägu' which has different forms in various grammatical cases."
 }

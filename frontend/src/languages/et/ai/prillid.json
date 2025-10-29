@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kannan prille, et paremini näha.",
-    "Kas sa oled oma prillid kaasa võtnud?",
-    "Need prillid on mulle liiga suured."
+    "Ma ostan uued prillid.",
+    "Tal on tore prillid peas.",
+    "Kas sa kandse prille?"
   ],
   "translation": [
     "glasses",
     "spectacles",
-    "eyewear"
+    "eyeglasses"
   ],
-  "context": "The word 'prillid' in Estonian refers to glasses or spectacles used for vision correction or protection. It is commonly used to describe eyewear worn on the face."
+  "context": "The Estonian word 'prillid' means glasses or spectacles, referring to the eyewear that people wear to correct vision. It is always in plural form in Estonian when referring to glasses as an object."
 }

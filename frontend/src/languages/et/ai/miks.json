@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea, miks ta seda tegi",
-    "Miks sa mind sellega lõbustad?",
-    "Ta ei teadnud, miks tema sõber talle valet rääkis"
+    "Miks sa ei tule?",
+    "Miks on nii külm?",
+    "Miks me peaksime minema?"
   ],
   "translation": [
     "why",
-    "what for"
+    "for what reason"
   ],
-  "context": "The word 'miks' is commonly used in Estonian to ask for the reason or purpose of something, and it can be translated to English as 'why' or 'what for'."
+  "context": "The word 'miks' is the Estonian interrogative pronoun used to ask questions about reasons or causes. It functions as the English equivalent of 'why'. In Estonian grammar, it remains in the same form regardless of case or number when used directly in questions."
 }

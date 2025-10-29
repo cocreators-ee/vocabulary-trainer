@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän puhui minulle, kuten hän aina tekee.",
-    "Kuten olet jo huomannut, tämä on vaikea tehtävä.",
-    "Sanoin hänelle, kuten minä aina sanon."
+    "Kuten sanoin, tämä on tärkeä asia.",
+    "Hän puhui kuten äiti opetti hänet.",
+    "Me menimme sinne, kuten aiemmin sovittiin."
   ],
   "translation": [
-    "as",
+    "for example",
+    "such as",
     "like"
   ],
-  "context": "The word 'kuten' is commonly used in Finnish to indicate a comparison or similarity between two things, and it can be translated to English as 'as' or 'like'."
+  "context": "The Finnish word 'kuten' is a conjunction that functions similarly to English words like 'as', 'such as', or 'for example'. It's used when giving examples, making comparisons, or referring back to something mentioned earlier. In the first sentence, it introduces what was said; in the second, it shows how someone speaks similar to their mother's teaching; in the third, it references a previous agreement."
 }

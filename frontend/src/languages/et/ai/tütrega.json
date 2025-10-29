@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kui minu tütrega kõik on korras, siis ma saan sellest vabaks.",
-    "Ta ruttus tagasi kodumaale tütrega koos.",
-    "Tema eesmärk oli alati olla hea isaline ja aidata oma tüdruksel õndsate elu juhul."
+    "Ma sõidan tütrega linnusse.",
+    "Tüdruk laulab koera tütrega.",
+    "Vanaema räägib oma tüttega."
   ],
   "translation": [
-    "with daughter",
-    "daughter",
-    "as a father"
+    "with the daughter",
+    "with the girl"
   ],
-  "context": "The word 'tütrega' refers to being with or relating to one's daughter. It can be used in both literal and figurative contexts, often indicating care, responsibility, or familial relationships involving the daughter."
+  "context": "The Estonian word 'tütrega' is the illative case form of 'tütar', meaning 'daughter'. The '-ga' suffix indicates accompaniment or instrumentality, similar to English 'with'. So 'tütrega' literally means 'with the daughter' or can be used more generally as 'with the girl' when referring to a young female."
 }

@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen teed pidi",
-    "Tee on suurepärane",
-    "Ta teeb tee peal"
+    "Tee on hea jook.",
+    "Kas sa teed midagi?"
   ],
   "translation": [
+    "tea",
     "road",
-    "way",
-    "path"
+    "path",
+    "to do",
+    "make",
+    "build"
   ],
-  "context": "The word 'tee' in Estonian generally refers to a road or path, and it is commonly used in sentences related to movement or direction."
+  "context": "The word 'tee' in Estonian has multiple meanings depending on context. It can mean 'tea' when referring to the drink, or it can mean 'road/path' when talking about a way or route. Additionally, as a verb form (teeb), it means 'to do/make/build'. This is a versatile word with different grammatical functions."
 }

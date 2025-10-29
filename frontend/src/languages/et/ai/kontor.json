@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta töötab kontoris.",
-    "Kontori aadress on Tartu maantee 1.",
-    "Kontor avati eile uues kohas."
+    "Kontor on avatud kell 9-17.",
+    "Meie uus kontor asub kesklinnas.",
+    "Töötajad käivad kontoris tööl."
   ],
   "translation": [
-    "office"
+    "office",
+    "workplace"
   ],
-  "context": "The word 'kontor' refers to a room or building where people work, often in an administrative or managerial capacity."
+  "context": "In Estonian, 'kontor' is a masculine noun meaning an office or workplace. It's commonly used to refer to a room or building where business activities are conducted. The word follows standard Estonian declension patterns and can appear in various cases depending on its function in the sentence."
 }

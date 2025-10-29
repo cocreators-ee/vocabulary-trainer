@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ameeriklane on rikas.",
-    "Ta kohtus ameeriklasega.",
-    "Ameeriklased elavad Ameerikas."
+    "Ameeriklased on meeldivad inimesed.",
+    "Tema on ameeriklane.",
+    "Paljud ameeriklased rändavad teistesse riikidesse."
   ],
   "translation": [
-    "American"
+    "American (person)",
+    "citizen of the United States",
+    "US national"
   ],
-  "context": "The word ameeriklane refers to a person from America, and is commonly used to describe someone who is a citizen of the United States or has cultural ties to the country."
+  "context": "The word 'ameeriklane' is an Estonian noun that refers to a person from America, specifically meaning an American or citizen of the United States. It's formed from 'Ameerika' (America) + '-lane' (a suffix indicating a person from a place). The plural form would be 'ameeriklased'. This word follows standard Estonian gender-neutral conventions for nationality terms."
 }

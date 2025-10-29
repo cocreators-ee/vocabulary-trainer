@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen rühma liider.",
-    "Rühm inimesi tuli koos.",
-    "Ta on hea rühmatöö tegija."
+    "Tüdrukud rändasid grupis.",
+    "Meie rühm koosneb 10 liikmest.",
+    "Ta oli meie rühma juht."
   ],
   "translation": [
     "group",
-    "team"
+    "team",
+    "squad"
   ],
-  "context": "The word 'rühma' in Estonian generally refers to a group of people working or acting together, similar to the English concept of a team."
+  "context": "The word 'rühma' is the partitive case form of the Estonian noun 'rühm'. In Estonian, nouns change their endings depending on grammatical case. The partitive case often indicates an incomplete action or partial object. 'Rühma' typically refers to a group, team, squad, or collection of people working together towards a common goal."
 }

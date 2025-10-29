@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me saadame teile kõige uuemad uudised.",
-    "Ta saadab mulle iga päev kirju.",
-    "Nad saadavad meid üles anne."
+    "Saadame homme kirja.",
+    "Me saadame koos tööle.",
+    "Kas te saadate mind bussijaama?"
   ],
   "translation": [
     "we send",
-    "send"
+    "we are sending",
+    "we mail"
   ],
-  "context": "The word saadame is the first person plural form of the verb saata, which means to send. It is commonly used in sentences where the subject is we or us, and the action is sending something to someone."
+  "context": "The word 'saadame' is the 1st person plural present indicative form of the Estonian verb 'saada', which means 'to send'. It is commonly used when referring to a group (including the speaker) performing the action of sending something or someone. The ending '-me' indicates 1st person plural (we), and the vowel changes in conjugation are typical for Estonian verbs."
 }

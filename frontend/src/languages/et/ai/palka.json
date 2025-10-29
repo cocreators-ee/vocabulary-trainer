@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sai palka töö eest",
-    "Palka on kõrge selles riigis",
-    "Tema palka on suurem kui minu om"
+    "Töötaja saab oma palka igakuks.",
+    "Palkade maksmine toimub iga kuu esimesel päeval.",
+    "Meie ettevõtte palkastruktuur on väga konkurentsivõimeline."
   ],
   "translation": [
-    "wage",
     "salary",
-    "pay"
+    "wages",
+    "payment",
+    "earnings"
   ],
-  "context": "The word 'palka' in Estonian refers to the payment or compensation received by an employee for their work, similar to the English concepts of wage, salary, or pay."
+  "context": "The word 'palka' is the partitive form of the Estonian noun 'palk', which means salary or wages. In Estonian, nouns have different cases depending on their grammatical function in a sentence. The partitive case (ending -a/-ä) is used to indicate partialness, indefiniteness, or object status. So 'palka' typically appears as the direct object of verbs related to receiving payment, or when talking about salary in an indefinite sense. For example: 'saan palka' means 'I receive salary/wages', and 'suur palka' means 'big salary'. The basic form (nominative) is 'palk', but in contexts where it's the object being discussed, the partitive form 'palka' is commonly used."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ei kuulnud mind üle kõrva.",
-    "Kõrvad olid tal väga suured.",
-    "Ma panin kõrva helidega ühendusse."
+    "Kõrvad on inimese tajuvahendid.",
+    "Ta kuulis hästi oma kõrgema tasandi kõrvu.",
+    "Lapse kõrvas oli vesi."
   ],
   "translation": [
-    "ear"
+    "ear",
+    "ears"
   ],
-  "context": "The word kõrva refers to the body part responsible for hearing and balance, similar to the English word ear."
+  "context": "The word 'kõrva' is the genitive singular form of the Estonian noun 'kõrv', which means 'ear'. The genitive case in Estonian typically indicates possession or relationship, and can also be used with certain prepositions or to indicate a part of something. In English translations, this would often correspond to constructions like 'of the ear' or possessive forms."
 }

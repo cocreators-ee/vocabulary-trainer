@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vaikka hän on väsynyt, hän jatkaa työskentelemistä.",
-    "Hän meni kauppaan vaikka satoi.",
-    "Vaikka talo on vanha, se on edelleen hyvässä kunnossa."
+    "Vaikka sataa, menen kävelemään.",
+    "Hän vaikka nauraa, mutta hän ei ole tosissaan.",
+    "Vaikka olisimme väsyneitä, meidän pitäisi silti jatkaa."
   ],
   "translation": [
+    "although",
     "even though",
-    "although"
+    "despite the fact that"
   ],
-  "context": "The word 'vaikka' is a subordinating conjunction in Finnish that indicates a contrast or a condition, similar to the English words 'even though' or 'although'."
+  "context": "In Finnish, 'vaikka' is a conjunction used to introduce concessive clauses, similar to 'although', 'even though', or 'despite the fact that' in English. It indicates something contrary to expectations or main clause content. The word can appear at different positions in sentences but typically introduces the subordinate concessive clause."
 }

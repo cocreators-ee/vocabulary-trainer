@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Laatikko on täynnä vaatteita.",
-    "Hän avasi laatikon ja otti sieltä kirjan.",
-    "Laatikon sisällä oli paljon tavaraa."
+    "Minulla on laatikossa kirjoja.",
+    "Hän säilyttää laatikoissa vanhoja valokuvia.",
+    "Ostin uuden laatikon leipomista varten."
   ],
   "translation": [
-    "box"
+    "box",
+    "container",
+    "crate"
   ],
-  "context": "The word laatikko refers to a container with a lid, used for storing or carrying things, and is commonly used in everyday life to describe objects such as storage boxes or crates."
+  "context": "Laatikko is a Finnish noun meaning 'box' or 'container'. It refers to any type of box-like container, typically with four sides and a bottom. The word can be used for various types of boxes including storage boxes, cardboard boxes, wooden crates, etc. In Finnish grammar, it follows normal declension patterns for nouns ending in -o."
 }

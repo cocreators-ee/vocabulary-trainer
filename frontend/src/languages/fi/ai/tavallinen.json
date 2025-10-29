@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä on tavallinen päivä.",
-    "Hänellä on tavalliset vaatetusmahdollisuudet.",
-    "Tavallisen ihmisen elämää ei ole helppo elää."
+    "Tämä on tavallinen tapa tehdä asioita Suomessa.",
+    "Minulla on tavallinen päivä tänään.",
+    "Hän osti tavallisen kengän."
   ],
   "translation": [
     "ordinary",
     "normal",
-    "usual"
+    "common",
+    "regular"
   ],
-  "context": "The word \"tavallinen\" in Finnish refers to something that is common or usual, and it is often used to describe everyday things or situations."
+  "context": "In Finnish, 'tavallinen' is an adjective that means ordinary, normal, common, or regular. It's used to describe something that is typical, usual, or not special in any way. The word follows standard Finnish adjective conjugation patterns and can be modified for gender (tavallinen/tavallinen/tavallinen) and number (tavalliset for plural)."
 }

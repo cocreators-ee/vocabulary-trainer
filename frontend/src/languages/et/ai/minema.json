@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta läks minema kodus.",
-    "Kuulas, et nad mõlemad olid juba minemas.",
-    "Ma olen just nii vähe aega vabadusest, et ma ei soovi midagi muud kui lihtsalt minema."
+    "Minemine on algamas.",
+    "Meile minnes peame võtma kaasa kaasaskantavaid esemeid.",
+    "Ta läks õhtul minema."
   ],
   "translation": [
-    "to go away",
-    "to leave"
+    "to go",
+    "going",
+    "departure"
   ],
-  "context": "The Estonian word 'minema' is a verb that means to depart or to move from one place to another. It can also be used metaphorically in the sense of ceasing to exist or being out of reach."
+  "context": "The Estonian word 'minema' is an infinitive verb that means 'to go'. It's the basic form of the verb and needs to be conjugated for different persons, tenses, and moods. The verb indicates movement from one place to another. When used in sentences, it can appear in various forms depending on context: as 'minemine' (noun form meaning 'going'), 'läks' ('went' past tense), or with other suffixes to indicate different aspects of the action."
 }

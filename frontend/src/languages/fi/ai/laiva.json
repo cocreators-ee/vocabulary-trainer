@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Laiva purjehti satamaan.",
-    "Laivalla oli runsaasti rahtia.",
-    "Laivan kapteeni oli kokemusrikas."
+    "Laiva on vesikulkuneuvo.",
+    "Minä matkustin laivalla Suomesta Ruotsiin.",
+    "Suurimmat laivat voivat kuljettaa tuhansia ihmisiä."
   ],
   "translation": [
     "ship",
-    "vessel"
+    "vessel",
+    "boat"
   ],
-  "context": "The word laiva refers to a large seafaring vessel, often used for transportation or travel, and is commonly used in Finnish to describe ships of various types and sizes."
+  "context": "The Finnish word 'laiva' refers to a water vessel, typically a large boat or ship used for transportation across water. It can refer to various types of watercraft from smaller boats to large ocean liners and cargo ships. The word is commonly used in everyday language when referring to any kind of water vehicle designed for carrying people or goods."
 }

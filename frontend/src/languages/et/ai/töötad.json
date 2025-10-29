@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma töötan siin.",
-    "Ta töötab ööd.",
-    "Nad töötavad koos."
+    "Töötad kontoris.",
+    "Kus töötad?",
+    "Mida sa tööd?"
   ],
   "translation": [
-    "work",
-    "to work"
+    "you work",
+    "are working",
+    "do you work"
   ],
-  "context": "The word \"töötad\" is the second person singular form of the verb \"töötama\", which means to work. In Estonian, it is commonly used in various contexts such as employment, occupation, or activities."
+  "context": "The word 'töötad' is the second-person singular present tense form of the Estonian verb 'töötama', which means 'to work'. It is used when addressing one person informally (using 'you') to indicate that they are currently performing work activities. The base form is 'töötama', and this conjugated form specifically matches with informal 'sinu' (you) subject in present tense."
 }

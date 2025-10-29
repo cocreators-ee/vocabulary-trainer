@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän nauraa aina kun hän kuulee sen",
-    "Nauraa kohteliaasti kun joku esittää hänelle kysymyksen",
-    "Hänen naurunsa on tarttuvaa ja saa muutkin nauramaan"
+    "Minä nauroin kuulemani vitsin.",
+    "Hän nauraa aina kun kertoo tarinan.",
+    "Heidät on helppo saada nauremaan."
   ],
   "translation": [
-    "laughs",
-    "laugh",
-    "to laugh"
+    "to laugh",
+    "laughing"
   ],
-  "context": "The word 'nauraa' is a verb in Finnish that means to laugh, and it is commonly used in everyday conversations to describe the act of laughing or smiling."
+  "context": "The Finnish verb 'nauraa' means 'to laugh'. It's a common action word used when someone finds something amusing or humorous. The base form is nauraa, and it changes based on who is doing the laughing and when: minä nauroin (I laughed), hän nauraa (he/she laughs), me nauramme (we laugh), te naurotte (you plural laugh), he naurovat (they laugh)."
 }

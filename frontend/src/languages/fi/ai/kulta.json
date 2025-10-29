@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kulta on minun lemmikkini.",
-    "Hän antoi kultansa minulle.",
-    "Kultani on todella kaunis."
+    "Kulta on kallis metalli.",
+    "Minulla on kullan ranneke.",
+    "Hän osti kultakellon."
   ],
   "translation": [
     "gold",
-    "darling",
-    "sweetheart"
+    "golden",
+    "precious metal"
   ],
-  "context": "The word 'kulta' in Finnish can be translated to English as 'gold', but it is also commonly used as a term of endearment, similar to 'darling' or 'sweetheart', to express affection towards someone."
+  "context": "The Finnish word 'kulta' primarily means 'gold', referring to the precious yellow metal. It can also be used as an adjective meaning 'golden' or in reference to something made of gold. Additionally, 'kulta' is commonly used as a term of endearment similar to 'darling' or 'honey' in English. As a noun, it's often found in compound words like 'kullan' (genitive form) and appears in phrases describing golden objects or the metal itself."
 }

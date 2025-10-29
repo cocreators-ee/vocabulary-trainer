@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ootan järgmist bussi.",
-    "Järgmine peatus on Tallinna börs.",
-    "Ta ei oodanud järgmist päeva."
+    "Järgmine päev on pühapäev.",
+    "Ta tuleb järgmisel nädalal.",
+    "Me peame tegema järgmise sammu."
   ],
   "translation": [
     "next",
-    "following"
+    "following",
+    "subsequent"
   ],
-  "context": "The word 'järgmist' is used in Estonian to indicate something that comes after something else, often referring to time or sequence, and its meaning is similar to the English word 'next'."
+  "context": "The Estonian word 'järgmist' is the partitive case form of 'järgmine', meaning 'next' or 'following'. It typically appears in contexts where we're talking about what comes after something else, such as the next day, week, step, or item in a sequence. In these examples, it shows how the word functions to indicate temporal or sequential order."
 }

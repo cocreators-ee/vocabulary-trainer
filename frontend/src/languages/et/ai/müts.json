@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kandis mütsi",
-    "Müts on tal peas",
-    "Mütsid on moekad"
+    "Mulle sobib see müts.",
+    "Tal on punane müts päeval.",
+    "Võta oma müts kaasa."
   ],
   "translation": [
     "hat",
     "cap"
   ],
-  "context": "The word müts refers to a type of headwear in Estonian, and it is commonly used in everyday conversations to describe a hat or a cap."
+  "context": "The Estonian word 'müts' means hat or cap in English. It refers to a type of headwear that covers the top of the head and typically has a brim all around, though it can refer to various types of hats or caps depending on context. In Estonian grammar, this would be a singular noun and would take appropriate endings when used in different cases (like mütsi in genitive case)."
 }

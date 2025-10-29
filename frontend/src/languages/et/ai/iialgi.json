@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen iialgi näin ilusat pildid näinud.",
-    "Ta on iialgi selliseid asju teinud.",
-    "Iialgi enam ei ole võimalik seda ülesannet täita."
+    "Ma ei ole iialgi olnud selles linnas.",
+    "Kas sa oled kunagi külastanud seda muuseumi?",
+    "Ta on alati öelnud, et ta ei tee seda iialgi."
   ],
   "translation": [
-    "ever",
-    "at any time"
+    "never",
+    "not ever",
+    "at no time"
   ],
-  "context": "The word iialgi is used to indicate that something has happened or will happen at any point in time, and it is often translated to English as 'ever' or 'at any time'."
+  "context": "The Estonian word 'iialgi' is an adverb that means 'never' or 'not ever'. It's used to express that something has not happened at any time in the past and will not happen in the future. This word combines 'iial' (ever) with '-gi' (also/either), but functions as a single negative temporal adverb in Estonian."
 }

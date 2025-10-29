@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta elab kõrgel mäe peal. ",
-    "Rohe sildas kõrgel häälel. ",
-    "Meie kodu asub saarte kõrgel. "
+    "Ta istus kõrgel toolil.",
+    "Meie kodu asub kõrgel mäe tipul.",
+    "Lennuk lendab kõrgel taevas."
   ],
   "translation": [
-    "high",
-    "at a high place",
-    "at the top"
+    "high (adverbial form)",
+    "at a high position",
+    "up high"
   ],
-  "context": "'kõrgel' indicates being in an elevated position or at a higher level, commonly used to describe physical locations or conditions of things being up high."
+  "context": "In Estonian, 'kõrgel' is the adverbial case of the adjective 'kõrge', meaning 'high'. It indicates that something is located at a high position or altitude. This form is used when describing where something is situated in space - typically answering questions like 'where?' or 'at what height?'. For example, 'Ta istus kõrgel toolil' means 'He was sitting on a high chair'."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma leian auku uksest.",
-    "Auk on väga suur.",
-    "Ta tegi auku katusele."
+    "Mees oli auas.",
+    "Tema on aukliku hinge.",
+    "Auklikud inimesed ei karda midagi."
   ],
   "translation": [
     "hole",
-    "gap"
+    "gap",
+    "opening",
+    "aperture"
   ],
-  "context": "The word 'auk' in Estonian refers to an opening or a void in something, similar to the English words 'hole' or 'gap', and is commonly used to describe a physical space where something is missing."
+  "context": "The Estonian word 'auk' is a noun meaning 'hole', 'gap', or 'opening'. It refers to any empty space or aperture in something solid. The word can be used in various contexts such as physical holes (like a hole in the ground), gaps in knowledge, or openings in structures. In its different forms, it can describe hollow objects (aukas - hollow) or people who are brave/courageous (aukliku hinge - with a courageous spirit)."
 }

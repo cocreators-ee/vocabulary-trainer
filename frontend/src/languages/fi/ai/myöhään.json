@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Olemme aina myöhään",
-    "Hän tuli kotiin myöhään eilen illalla",
-    "Myöhään illalla kaikki olivat nukkumassa"
+    "Menimme myöhään kotiin.",
+    "Hän nukkui myöhään aamulla.",
+    "Myöhään illalla kuulin ääniä."
   ],
   "translation": [
     "late",
-    "in the late hours"
+    "later",
+    "belatedly"
   ],
-  "context": "The word myöhään is used to describe something happening at a late hour of the day or night, often implying that it is later than expected or desired."
+  "context": "The Finnish word 'myöhään' is an adverb that means 'late' or 'later.' It describes the time when something happens later than expected, usual, or scheduled. This word can be used in various contexts such as arriving late (tulla myöhään), going to bed late (nukkua myöhään), or doing things at a later hour (tehdä jotain myöhään). In Finnish grammar, 'myöhään' is the inessive case of 'myöhäinen' (late) and remains unchanged regardless of the gender or number it modifies."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta läks uksest välja.",
-    "Uksest paistis valgus.",
-    "Ta vaatas uksest sisse."
+    "Tuli uksest.",
+    "Hääled tulid uksest.",
+    "Uksest paistab valgus."
   ],
   "translation": [
     "from the door",
-    "door"
+    "out of the door"
   ],
-  "context": "The word 'uksest' is used in Estonian to indicate something is coming from or related to a door, often used to describe movement or origin."
+  "context": "The Estonian word 'uksest' is an elative case form of the noun 'uks', which means 'door'. The '-st' ending indicates that something comes from, originates from, or moves out of the door. It's used to indicate direction away from the door."
 }

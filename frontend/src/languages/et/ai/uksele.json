@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma avasin uksele.",
-    "Ta koputab uksele.",
-    "Uksele on väga ilus."
+    "Mina läksin uksele.",
+    "Ta jooksis uksele.",
+    "Nad tõusid uksele."
   ],
   "translation": [
+    "onto the door",
     "to the door",
-    "on the door"
+    "toward the door"
   ],
-  "context": "The word 'uksele' is a postposition in Estonian that indicates movement or direction towards something, often translated to English as 'to the door' or 'on the door', depending on the context of the sentence."
+  "context": "In Estonian, 'uksele' is the allative case form of the word 'uks', which means 'door'. The allative case indicates movement toward or onto something. So 'uksele' specifically means movement toward a door or onto a door."
 }

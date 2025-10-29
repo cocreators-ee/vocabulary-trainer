@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvan, et see on fakt.",
-    "Ta ütles, et see pole fakt.",
-    "Fakt on see, et ta on õige."
+    "See on tõsi fakt.",
+    "Meil on palju fakte selle kohta.",
+    "Kas see fakt on kontrollitud?"
   ],
   "translation": [
-    "fact"
+    "fact",
+    "reality",
+    "truth"
   ],
-  "context": "The word 'fakt' in Estonian refers to a fact or something that is true, and it is commonly used in sentences to convey information or confirm the truth of something."
+  "context": "The Estonian word 'fakt' is a noun that directly corresponds to the English word 'fact'. It refers to something that has actually happened or is really true, as opposed to speculation or opinion. In Estonian, it's often used in discussions, debates, and factual contexts where accuracy and truthfulness are important."
 }

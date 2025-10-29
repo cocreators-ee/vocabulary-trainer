@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on sokeri taskussani.",
-    "Sokerin hinta on noussut viime aikoina.",
-    "Hän laittaa aina sokeria kahviinsa."
+    "Söitin kahvia sokerilla.",
+    "Kodissa on viel� sokeria j��lkeen.",
+    "Minun pit�isi ostaa sokeri kaupasta."
   ],
   "translation": [
-    "sugar"
+    "sugar",
+    "sweetener"
   ],
-  "context": "The word 'sokeri' refers to sugar, commonly used as a sweetener in food and beverages."
+  "context": "The Finnish word 'sokeri' refers to sugar, which is a common sweet substance used in food and beverages. It can be found in various forms like granulated sugar, powdered sugar, or brown sugar. In Finnish grammar, this noun follows the standard inflection patterns for consonant stem words. The genitive form would be 'sokerin', partitive 'sokeria', and plural 'sokerit'."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis nimeks Emily",
-    "Nimeks sai see toode",
-    "Kirjutaja võttis nimeks pseudonüüm"
+    "Tema nimeks on Anna.",
+    "Mis sinu nimeks on?",
+    "Lapse nimeks sai Peeter."
   ],
   "translation": [
-    "by the name of",
+    "name is",
+    "called",
     "named"
   ],
-  "context": "The word 'nimeks' in Estonian is used to indicate that something or someone is given a specific name, similar to how 'by the name of' or 'named' would be used in English."
+  "context": "The word 'nimeks' is an Estonian word that means 'name is', 'called', or 'named'. It is used to identify what someone or something's name is, often in the pattern '[Subject] nimeks on [Name]' meaning '[Subject]'s name is [Name]', or '[Subject] nimeks sai/oleb/etc. [Name]' meaning '[Subject] got/was named/is called [Name]'. It can also be used as an alternative to 'nimeliselt' in some contexts."
 }

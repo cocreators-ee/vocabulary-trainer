@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tegi mõrva.",
-    "Mõrv on raske kuritegu.",
-    "Politsei uurib mõrva."
+    "Politsei otsib meest, kes mõrvas eelmisel ööl.",
+    "Ta tunnistab oma tegu ja tahtis mõrvata enda pere liikmeid.",
+    "Poliitiku mõrvas tabas kogu riiki"
   ],
   "translation": [
-    "murder",
-    "killing",
-    "assassination"
+    "murdered",
+    "killed",
+    "slayed"
   ],
-  "context": "The word 'mõrvas' in Estonian refers to the act of intentionally causing someone's death, which is commonly known as murder or killing in English. It denotes a serious and violent crime."
+  "context": "The word 'mõrvas' is the past tense form of the Estonian verb 'mõrvama', which means 'to murder' or 'to kill'. It specifically refers to the act of intentionally killing someone, often in a violent manner. In Estonian grammar, this appears to be the simple past tense (indicative mood) third person singular form."
 }

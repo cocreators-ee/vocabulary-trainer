@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Taloon johti polku järven rannalta.",
-    "Järvi on suuri ja syvä.",
-    "Järvessä on runsaasti kalaa."
+    "Kävelimme järven rannalla.",
+    "Suomessa on paljon järviä.",
+    "Tämä järvi on syvä ja puhdas."
   ],
   "translation": [
-    "lake"
+    "lake",
+    "body of water"
   ],
-  "context": "The word järvi refers to a body of fresh or salt water surrounded by land, and it is commonly used in Finnish to describe lakes, which are abundant in Finland."
+  "context": "The Finnish word 'järvi' means lake in English. It refers to a large body of fresh water surrounded by land. In Finnish, 'järvi' is a common noun that appears in the basic form (nominative singular). When used in plural form ('järvet'), it indicates multiple lakes. The word is commonly used in everyday conversation when describing nature and landscapes in Finland, which is known as the Land of Thousands Lakes."
 }

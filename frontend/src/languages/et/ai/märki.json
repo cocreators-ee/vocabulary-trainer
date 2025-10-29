@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema käe on märki.",
-    "Pildil on näha ka kollast märgi.",
-    "Sünnipuudeks oli valmis süda ja märki."
+    "Tema on hea märki.",
+    "Võta üks märki endaga kaasa.",
+    "Märk on tähtis ärimärgi osa."
   ],
   "translation": [
     "sign",
-    "mark"
+    "symbol",
+    "mark",
+    "badge"
   ],
-  "context": "'märki' refers to a sign or mark that indicates something. It can be used both literally and metaphorically."
+  "context": "\"Märki\" is the genitive singular form of the Estonian noun \"märk\", which means sign, symbol, mark, or badge. It indicates possession or association with something - 'of a sign', 'belonging to a sign', or 'related to a symbol'. This form is commonly used when talking about characteristics, ownership, or attributes associated with signs or symbols."
 }

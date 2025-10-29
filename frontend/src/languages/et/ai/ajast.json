@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tahan ajast olla õnnelik.",
-    "Ta tegi kõik selle ajast kohta.",
-    "Kell oli suurepärane ajast üles püsimiseks."
+    "Ei tea ajast.",
+    "Olen hästi ajast ära tulnud.",
+    "Mul on hea ajast."
   ],
   "translation": [
-    "time"
+    "from time to time",
+    "sometimes",
+    "occasionally"
   ],
-  "context": "Ajast means time in Estonian. It is commonly used to refer to a point or period in time."
+  "context": "The Estonian word 'ajast' is an adverb that indicates something happens periodically, occasionally, or from time to time. It suggests irregular but recurring occurrences rather than regular patterns."
 }

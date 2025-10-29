@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kukkunud.",
-    "Kukkunud linnud lendasid ära.",
-    "Kukkunud puu langeb maha."
+    "Tema kukkus kõrgelt ja kukkunud sai ta külmetust.",
+    "Pärast pikka teekonda oli meie auto juba kukkunut.",
+    "Lapsed olid mures, et nende lemmikloom on kukkund."
   ],
   "translation": [
     "fallen",
-    "decayed"
+    "collapsed",
+    "dropped"
   ],
-  "context": "The word 'kukkunud' in Estonian generally means something that has fallen down or decayed, and it is commonly used to describe a state of something being in disarray or no longer in its original condition."
+  "context": "The word 'kukkunud' is the past participle form of the Estonian verb 'kukuma', which means 'to fall'. It describes something that has already fallen, dropped, or collapsed. The '-nud' suffix indicates it's in the perfect tense/past participle form, showing completion of the action. It can be used for people falling down, objects dropping from height, or structures collapsing."
 }

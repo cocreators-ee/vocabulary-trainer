@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
     "Minulla on auto.",
-    "Autossa on neljä renkaista.",
-    "Hän osti uuden auton."
+    "Autoni on punainen.",
+    "Auto seisoo autotallissa."
   ],
   "translation": [
     "car",
+    "automobile",
     "vehicle"
   ],
-  "context": "The word 'auto' in Finnish refers to a car or vehicle, and it is commonly used in everyday conversations to talk about transportation or personal vehicles."
+  "context": "The Finnish word 'auto' means 'car' or 'automobile'. It is a common noun used to refer to a motor vehicle, typically with four wheels and powered by an engine. In Finnish grammar, it's an inanimate object that follows the regular declension pattern for consonant-stem nouns."
 }

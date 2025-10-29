@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on raskusi koolis.",
-    "Ta võttis raskused ühiselt.",
-    "Raskuste tõttu ei saanud ta õppida."
+    "Mul on raskusi.",
+    "Ta talub raskusi hästi.",
+    "Meie peime vastu raskusi."
   ],
   "translation": [
     "difficulties",
+    "problems",
     "troubles"
   ],
-  "context": "The word 'raskusi' in Estonian means difficulties or troubles, and it is commonly used to describe problems or challenges that someone is facing."
+  "context": "Raskusi is the partitive case form of 'raskused' (difficulties/problems) in Estonian. It's used to indicate that someone has difficulties or experiences troubles. The word often appears with verbs like 'olema' (to be) or 'taluma' (to endure/tolerate)."
 }

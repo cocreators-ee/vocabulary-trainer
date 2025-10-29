@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Jäähoki hooaeg on talv",
-    "Hooaeg algab septembris",
-    "Selle hooaja võitis meeskond tiitli"
+    "Tartu linna hooaeg algab aprillis.",
+    "See on talvehooaeg.",
+    "Suvehooajal on meil rohkem külastajaid."
   ],
   "translation": [
     "season",
-    "sports season"
+    "period",
+    "term"
   ],
-  "context": "The word 'hooaeg' in Estonian refers to a sports season, which is a specific period of time when a particular sport is played."
+  "context": "The Estonian word 'hooaeg' means 'season' or a specific period of time. It can refer to different seasons like talvehooaeg (winter season), suvehooaeg (summer season), etc., but also more generally to any defined period or term."
 }

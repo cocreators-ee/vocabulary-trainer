@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mina ei tea, mis see on.",
-    "See it pole minu asi.",
-    "Kas sa näed seda?"
+    "See on hea raamat.",
+    "Mis see on?",
+    "Tema on ilus."
   ],
   "translation": [
-    "it",
     "this",
-    "that"
+    "that",
+    "it"
   ],
-  "context": "The Estonian word 'it' is a demonstrative pronoun similar to 'it', 'this', or 'that' in English. It’s used to refer to a specific object or concept previously mentioned or easily identifiable."
+  "context": "The Estonian word 'it' is a demonstrative pronoun used to refer to something that has been previously mentioned or is present in the context. It can be translated as 'this', 'that', or 'it' depending on the specific context and proximity of the object being referred to."
 }

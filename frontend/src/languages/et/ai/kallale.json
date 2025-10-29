@@ -1,16 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta jooksis kallale politseile.",
-    "Me läksime kallale vargale.",
-    "Koer hakkas kallale võõrale."
+    "Ta tuli kallale minule.",
+    "Kass ründas kallale hiirele.",
+    "Politsei jooksis kallase kurjategijale."
   ],
   "translation": [
-    "upon",
+    "onto",
     "at",
-    "towards",
+    "upon",
+    "toward",
     "against"
   ],
-  "context": "The Estonian word 'kallale' is often used as a postposition indicating movement or action *towards* someone or something, frequently with the implication of aggression or pursuit. It can be translated to English as 'upon', 'at', 'towards', or 'against', depending on the context. It’s commonly used in situations involving chasing, attacking, or approaching with intent."
+  "context": "The Estonian word 'kallale' is an adverb that indicates movement or direction toward something or someone. It can be translated as 'onto', 'at', 'upon', 'toward', or 'against' in English, depending on the context. The word shows physical approach or attack toward a target."
 }

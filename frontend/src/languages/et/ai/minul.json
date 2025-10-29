@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minul on raha.",
-    "Minul ei ole aega.",
-    "Minul on hea meel."
+    "Minul on kaks koera.",
+    "Tema minul oli hea meel.",
+    "Mis sul minul on?"
   ],
   "translation": [
-    "on me (my)"
+    "I have",
+    "for me",
+    "on my part"
   ],
-  "context": "'Minul' is the possessive form of 'ma' (I/me) in Estonian, used to indicate something belongs to the speaker. It's commonly used before nouns or with verbs like 'olema' (to be) to express possession."
+  "context": "The Estonian word 'minul' is the inessive case form of the pronoun 'mina' (I/me). It means 'at me', 'in me', or 'on my part'. This case indicates location within something. In sentences, it's used to express possession when using the on construction ('to have'), and can also indicate a state or condition related to the speaker."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtan kohvri ja lähen tööle.",
-    "Kohver on täis raamatuid.",
-    "Ta pani kohvri autosse."
+    "Ma saasin kohvri hotellis.",
+    "Ta pani kõik asukohvari ja läks.",
+    "Kohver oli nii raskas et ta ei saanud seda ise üles võtta."
   ],
   "translation": [
-    "briefcase",
-    "handbag",
-    "suitcase"
+    "parcel",
+    "package",
+    "bundle"
   ],
-  "context": "The word kohver refers to a bag or case used for carrying personal items, such as clothes, documents, or other belongings, and is commonly used in Estonian to describe a container for transporting goods or effects."
+  "context": "The word 'kohver' is an Estonian noun meaning a parcel or package that contains items being delivered or transported. It's commonly used in contexts of mail, shipping, or carrying items from one place to another. The word can be modified with suffixes for different cases (like the translative case 'kohvrina' - as a parcel) and numbers (plural 'kohvrid' - parcels)."
 }

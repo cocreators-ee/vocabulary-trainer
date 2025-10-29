@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Tämä on yllätys!",
-    "Hän sai yllättävän lahjan.",
-    "Yllätykseni hän tuli takaisin."
+    "Meillä oli suuri yllätys syntymäpäivänä.",
+    "Hän toi meille mukavan yllätyksen."
   ],
   "translation": [
     "surprise",
-    "amaze"
+    "unexpected gift",
+    "shock",
+    "astonishment"
   ],
-  "context": "The word yllätys in Finnish refers to something that is unexpected or astonishing, and it is commonly used to express a feeling of being surprised or amazed by an event or situation."
+  "context": "The Finnish word 'yllätys' is a noun that means surprise or something unexpected. It can refer to an unexpected event, gift, or feeling of astonishment. The word comes from the verb 'yllättää' meaning 'to surprise'. In Finnish grammar, it's in nominative singular form as given."
 }

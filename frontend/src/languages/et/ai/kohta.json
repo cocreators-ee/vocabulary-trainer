@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kohtan teda eile.",
-    "Ta on hea kohtaja.",
-    "Kohtasin teda tänaval."
+    "Kus on kooli kohta?",
+    "Mida sa tead sellest asjast kohta?",
+    "Pöörduge meist kohta."
   ],
   "translation": [
-    "meet",
-    "encounter"
+    "about",
+    "concerning",
+    "regarding"
   ],
-  "context": "The word 'kohta' in Estonian means to meet or encounter someone, and it is commonly used in sentences to describe a meeting or an encounter with someone."
+  "context": "The word 'kohta' is an Estonian preposition that indicates the topic or subject matter being discussed. It's used to introduce what something is related to, similar to English 'about', 'concerning', or 'regarding'. In questions, it often follows interrogative words like 'kus' (where) when asking about locations of specific things."
 }

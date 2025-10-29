@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me otsime uut töötajat.",
-    "Otsime kiiresti abi.",
-    "Nad otsivad head kohta elamiseks."
+    "Otsime häid restorane linna keskuses.",
+    "Me otsime uut kodu.",
+    "Kas olete olnud otsimas?"
   ],
   "translation": [
     "we are looking for",
-    "search"
+    "we search for",
+    "we seek"
   ],
-  "context": "The word 'otsime' is the first person plural form of the verb 'otsima', which means to search or look for something in Estonian. It is commonly used in sentences where the subject is a group of people trying to find something."
+  "context": "The word 'otsime' is the 1st person plural present tense form of the Estonian verb 'otsima', which means 'to look for' or 'to search'. In this conjugated form, it specifically translates to 'we are looking for' or 'we search for'. It's commonly used when a group of people (including the speaker) is actively searching for something."
 }

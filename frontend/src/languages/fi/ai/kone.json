@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kone on hajoamassa.",
-    "Mikä kone käyttää tätä ohjelmaa?",
-    "Autokoneessa oli paljon vikaa."
+    "Minulla on uusi kone.",
+    "Kone ei toimi oikein.",
+    "Autossa on monia koneita."
   ],
   "translation": [
-    "Machine",
-    "Engine",
-    "Device"
+    "machine",
+    "engine",
+    "device"
   ],
-  "context": "'kone' is a Finnish word that commonly refers to 'machine', such as an industrial machine, engine of a vehicle, or even device like computer. It's used widely in everyday contexts when talking about mechanical devices and engines"
+  "context": "The Finnish word 'kone' is a common noun that refers to machines, engines, or mechanical devices. It can be used for various types of equipment from household appliances to industrial machinery and automotive engines. The word follows standard Finnish grammar patterns with possible inflections like 'koneet' (plural) and different cases depending on how it's used in sentences."
 }

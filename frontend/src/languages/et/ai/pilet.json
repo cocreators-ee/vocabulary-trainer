@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan piletid kahele inimesele.",
-    "Pileti hind on kaks eurot.",
-    "Ta ostis pileti teisele korrusele."
+    "Ma ostsin pileti Tallinna.",
+    "Kas teil on veel vabu pileteid?",
+    "Piletid müüki lõppesid kiiresti."
   ],
   "translation": [
     "ticket",
-    "tickets"
+    "pass"
   ],
-  "context": "The word 'pilet' is a noun that refers to a ticket, which is a document or card that gives the holder permission to enter a place, use a service, or participate in an event. It can be used in various contexts such as transportation, entertainment, or events."
+  "context": "The Estonian word 'pilet' means a ticket or pass for transportation, events, or services. It's commonly used to refer to bus tickets, train tickets, movie theater tickets, concert passes, and other similar documents that grant access or permission to use something."
 }

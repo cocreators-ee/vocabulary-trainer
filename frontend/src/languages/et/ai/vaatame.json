@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vaatame seda probleemi läbi.",
-    "Ma vaatan telerit.",
-    "Me vaatame filmi."
+    "Vaatame koos.",
+    "Vaadame seda filmi homme.",
+    "Kas vaatame mängu?"
   ],
   "translation": [
     "let's look",
-    "we'll see",
-    "to watch"
+    "let's watch",
+    "we are looking/watching"
   ],
-  "context": "The word 'vaatame' is the first person plural form of the verb 'vaatama', which means to look or to watch. It is commonly used in Estonian to suggest looking at something together or to propose watching something."
+  "context": "The Estonian word 'vaatame' is the 1st person plural present indicative form of the verb 'vaadata', which means 'to look' or 'to watch'. It combines the pronoun 'me' (we) with the present tense suffix '-tame', making it equivalent to English phrases like 'let's look/watch' or simply 'we are looking/watching'. This form is used when referring to a group of people (including the speaker) performing the action of looking at something."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hänellä on mukanaan lasi limonadiin",
-    "Ihana pitkä lasi näyttää keittiössä yksin",
-    "Lasi heijastaa valoa vahvasti"
+    "Minulla on lasi vettä.",
+    "Tämä on uusi lasi.",
+    "Lasit ovat pöydällä."
   ],
   "translation": [
-    "Glass"
+    "glass",
+    "tumbler",
+    "drinking glass"
   ],
-  "context": "Lasi refers to a glass object or the material itself, typically made of silica and used for containers, windows, etc."
+  "context": "The Finnish word 'lasi' means 'glass' in English and refers to a drinking vessel made of glass. It can be used for various types of glass containers, particularly those used for beverages. The word follows standard Finnish grammatical patterns with different forms like 'lasit' (plural) meaning 'glasses'. In Finnish grammar, the nominative singular form 'lasi' is used as the base form when referring to a single drinking glass."
 }

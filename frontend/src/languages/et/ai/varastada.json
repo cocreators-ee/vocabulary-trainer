@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma varastan tema autot.",
-    "Varastasin eile ühe majake.",
-    "Tema auto on varastatud."
+    "Varasta mulle see raamat!",
+    "Ta varastas valuutad panka.",
+    "Miks sa ei tohi varastada?"
   ],
   "translation": [
-    "steal",
-    "rob",
-    "pilfer"
+    "to steal",
+    "to take without permission"
   ],
-  "context": "The word 'varastada' in Estonian means to take something that does not belong to you, often in a secret or illegal manner, and is commonly used in situations where something has been taken without permission."
+  "context": "The Estonian verb 'varastada' means to take something that doesn't belong to you without permission, with the intention of keeping it or using it for yourself. It implies dishonesty and is used in contexts where someone appropriates property illegally."
 }

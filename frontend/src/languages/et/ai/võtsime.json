@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me võtsime kohe autoga sõiduks.",
-    "Ma võtsin raamatu laualt.",
-    "Nad võtsid kätte ja läksid."
+    "Võtsime koos lõuna.",
+    "Me võtsime selle vastu.",
+    "Võtsime uue tee."
   ],
   "translation": [
-    "took",
-    "taken"
+    "we took",
+    "we have taken",
+    "we picked"
   ],
-  "context": "The word 'võtsime' is the first person plural past tense form of the verb 'võtma', which means to take or to capture something, and it is commonly used in Estonian language to express the action of taking or seizing something."
+  "context": "The word 'võtsime' is the past tense, 1st person plural (me/we) form of the Estonian verb 'võtma', which means 'to take'. It indicates that an action of taking was performed by a group including the speaker. This could refer to physical taking of objects, choosing something, or accepting something."
 }

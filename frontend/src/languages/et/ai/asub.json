@@ -1,13 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kool asub linna keskuses.",
-    "Toatemperatuur asub kõrvalt.",
-    "Ta asub minu juures."
+    "Tallinna asub Eesti pealinn.",
+    "Maja asub metsa serval.",
+    "Kool asub kesklinnas."
   ],
   "translation": [
-    "is located"
+    "is located",
+    "sits",
+    "lies",
+    "stands"
   ],
-  "context": "Asub is a verb meaning 'to be located' or 'to lie.' It's commonly used to describe where something is situated. For example, you might say 'The school is located in the city center' using this word."
+  "context": "The word 'asub' is the 3rd person singular present form of the Estonian verb 'asuma', which means 'to be located' or 'to sit/stand'. It's commonly used to describe where something or someone is positioned geographically. This verb follows the standard Estonian conjugation pattern and indicates location without specifying movement."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa jätkata seda tööd.",
-    "Ta otsustas jätkata õpinguid.",
-    "Nad said jätkata reisi."
+    "Ma jätkan tööd homme hommikul.",
+    "Ta ei jätka seda teemat edasi.",
+    "Jätkame koostööd uue projekti kallal."
   ],
   "translation": [
-    "to continue",
-    "keep on"
+    "continue",
+    "proceed",
+    "carry on"
   ],
-  "context": "The word 'jätkata' in Estonian means to continue or keep on doing something, and it is commonly used in everyday conversations to express the idea of proceeding with an activity or action."
+  "context": "The Estonian word 'jätkata' is a verb that means to continue, proceed, or carry on with something. It's an infinitive form of the verb and is commonly used in various contexts - continuing work, proceeding with a discussion, carrying on with activities. The conjugation would change depending on subject: ma jätkan (I continue), sa jäktad (you continue), ta jätkab (he/she/it continues) etc."
 }

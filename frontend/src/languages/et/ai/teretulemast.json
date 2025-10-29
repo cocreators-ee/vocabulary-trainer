@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Teretulemast meie koduses!",
-    "Ma olen rõõmus, et sa teretulemast ütled.",
-    "Ta ütleb alati teretulemast külaliste kohtumisel."
+    "Tere tulemast meie kontorisse!",
+    "Külalised, tere tulekast meie juurde!",
+    "Tere tulemast pidule!"
   ],
   "translation": [
-    "welcome",
-    "you're welcome"
+    "Welcome",
+    "Hello and welcome",
+    "Come in, please"
   ],
-  "context": "The word 'teretulemast' is a formal greeting in Estonian, used to bid someone welcome, similar to the English phrase 'welcome'."
+  "context": "The word 'teretulemast' is the Estonian greeting used to welcome someone. It's a compound word formed from 'tere' (hello/greeting) + 'tulemast' (come). This is the singular form used when addressing one person or using it as a general welcome phrase. In plural form, it would be 'teretulekte'. It's commonly used when welcoming guests, customers, or visitors to a place."
 }

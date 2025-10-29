@@ -1,15 +1,16 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta taotleb tasu eest.",
-    "Tasu oli märtsis eriti kõrge.",
-    "Ma ei saa tasu teha ilma arstilise määruse puhul."
+    "Tasu on makstud.",
+    "Maksan tasu eest teenust.",
+    "Tasuta toitu ei saa."
   ],
   "translation": [
     "payment",
     "fee",
-    "charge"
+    "charge",
+    "salary",
+    "wage"
   ],
-  "context": "Tsu refers to a payment, fee, or charge. It is often used in contexts involving financial transactions like paying for services, fines, or costs associated with specific activities"
+  "context": "The Estonian word 'tasu' refers to a payment, fee, charge, or compensation for goods/services rendered or work performed. It can indicate both payments made by someone (like paying for a service) and payments received (like salary). The word appears in various contexts - from everyday transactions ('makstan tasu eest') to more formal arrangements ('töötasu' meaning wages/salary)."
 }

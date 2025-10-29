@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta püüdis minu käest.",
-    "Nad juba püüdnud kalu?",
-    "Kas sa jõuad püüdnud?"
+    "Ma püüdsin kala.",
+    "Ta on püüdnud palju kesi.",
+    "Püüdme nüüd seda raamatut."
   ],
   "translation": [
-    "caught",
-    "tried to catch"
+    "tried to catch",
+    "attempted to seize",
+    "sought"
   ],
-  "context": "'Püüdnud' means 'caught' or 'tried to catch'. It is commonly used in the context of catching something, like a fish, but can also refer to trying to grab someone."
+  "context": "The word 'püüdnud' is the past tense of the verb 'püüdma', which means 'to try/catch/seek'. In Estonian, this is used when someone has attempted or tried to do something, especially in contexts involving trying to catch something (like fish), attempting to seize something, or seeking an object. The '-nud' ending indicates past tense action."
 }

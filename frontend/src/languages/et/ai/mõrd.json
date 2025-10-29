@@ -1,16 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta mõrdus ukse vahele kinni.",
-    "Mõrda seda körtidega korralikult.",
-    "Pärast tormi oli maja seinad mõrdunud."
+    "See on mõrd.",
+    "Mõrd on hea tool.",
+    "Kas sa nägid seda mõrdu?"
   ],
   "translation": [
-    "to jam",
-    "to wedge",
-    "stuck",
-    "damaged"
+    "stool",
+    "bench"
   ],
-  "context": "The Estonian word 'mõrd' refers to the act of getting stuck, wedged, or jammed in a tight space. It can also describe something being damaged or crushed due to pressure."
+  "context": "In Estonian, 'mõrd' is a noun that refers to a stool or bench - typically a simple wooden seat without backrests. It's commonly used in rural or traditional contexts and can refer to both small stools for sitting on the floor as well as longer benches."
 }

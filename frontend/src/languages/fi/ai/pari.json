@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olimme parin viimeisen tunnin ajan.",
-    "Parilla ei näyttänyt olevan mitään ongelmaa.",
-    "Hänellä oli pari kaveria mukana."
+    "Ostin pari kenkiä.",
+    "Meillä on pari uutta kirjaa.",
+    "Pari päivää sitten tapahtui jotain outoa."
   ],
   "translation": [
-    "pair",
     "couple",
-    "one's pair"
+    "pair",
+    "few"
   ],
-  "context": "The Finnish word 'pari' commonly refers to a pair or couple, often used in the context of two people together such as a romantic partner, teammates, or a set of items. It can also denote a small number (like a few)."
+  "context": "The Finnish word 'pari' has multiple meanings depending on context. It can mean 'couple' (two people in a relationship), 'pair' (two items that go together), or 'a few' (a small number, typically 2-5). As a numeral it specifically means 'two'. In its basic form 'pari', it's in the nominative case."
 }

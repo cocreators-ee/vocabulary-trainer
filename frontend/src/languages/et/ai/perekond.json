@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu perekond elab Tallinnas.",
-    "Perekonna liikmete hulka kuuluvad vanemad ja lapsed.",
-    "Tema perekond on väga suur."
+    "Perekoju kolisime koos perekonnaga.",
+    "Tema perekond on väga suur ja koosneb kaheksast liikmest.",
+    "Perekondlikud väärtused on meile kõige tähtsamad."
   ],
   "translation": [
     "family",
-    "relatives",
-    "kin"
+    "household",
+    "relatives"
   ],
-  "context": "The word perekond refers to a group of people related by blood or marriage, and is commonly used in Estonian to describe one's family or relatives."
+  "context": "The Estonian word 'perekond' refers to a family or household, including relatives living together. It's commonly used to describe the basic social unit consisting of parents and their children, but can also extend to include other relatives who share a home. The word emphasizes both biological relationships and the shared domestic space."
 }

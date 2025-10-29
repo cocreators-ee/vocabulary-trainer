@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema arvates tõestab see endalt.",
-    "Ma ei tea, kuidas tean, aga ma tean seda endalt.",
-    "See tundus minu eneseastmest, mitte endalt."
+    "Endalt vaadates on ilus näha linna.",
+    "Ta oli endalt hea tööline.",
+    "Poisid said endalt head punktid."
   ],
   "translation": [
-    "from oneself",
-    "by oneself"
+    "from the bottom",
+    "from below",
+    "upwards"
   ],
-  "context": "The word 'endalt' is a pronoun form used in Estonian to indicate something comes from oneself or is done by oneself. It often appears in reflexive constructions and emphasizes the source of an action or feeling as internal rather than external."
+  "context": "The word 'endalt' is an Estonian adverb derived from 'all' (bottom/under) with the '-lt' ablative case suffix. It means 'from the bottom', 'from below', or 'upwards'. It indicates direction or perspective starting from a lower position or point."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma üritan seda teha.",
-    "Ta üritas mind aidata.",
-    "Nende üritused ei õnnestunud."
+    "Ma üritasin aru saada.",
+    "Ta ei ürita aidata.",
+    "Kas te ürite tulla homme?"
   ],
   "translation": [
     "try",
-    "attempt"
+    "attempt",
+    "make an effort"
   ],
-  "context": "The word ürita is commonly used in Estonian to mean trying or attempting something, and it can be used in different forms such as üritan, üritas, and üritused."
+  "context": "The Estonian word 'ürita' is a verb that means to try, attempt, or make an effort. It's used when someone makes an attempt to do something, whether successful or not. The word can be conjugated in different tenses: present tense ürita, past tense üritasin (I tried), negative form ei ürita (don't try)."
 }

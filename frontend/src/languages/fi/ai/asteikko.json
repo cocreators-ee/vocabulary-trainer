@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hänellä on kipua asteikolla yhdestä kahteentoista.",
-    "Mittari mittaa lämpötilaa -20-astetta ja +100-asteen välillä.",
-    "Kyselyyn vastattiin viisiportaisella asteikkolla."
+    "Tämä mittari on monipuolinen asteikko.",
+    "Asteikon perusteella voidaan arvioida tuloksen laatua.",
+    "Mikä on tämän testin hyväksyttävä asteikko?"
   ],
   "translation": [
     "scale",
-    "graduation",
-    "rating scale"
+    "range",
+    "spectrum",
+    "gradation"
   ],
-  "context": "'Asteikko' is commonly used to describe scales, whether numerical (like 1-5), temperature-related (e.g., Celsius), or any system of classification or measurement where items are ordered in steps. It's often seen on surveys and scientific measurements."
+  "context": "The Finnish word 'asteikko' means scale or range, referring to a series of ordered levels or values used for measurement, classification, or evaluation. It can be used in contexts like temperature scales (lämpötila-asteikko), rating scales (arviointiasteikko), or statistical ranges."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan korteris.",
-    "Korteri on väga suur.",
-    "Ta ostis uue korteri."
+    "Mul on uus korteri.",
+    "Ta ostis suure korteri.",
+    "Korteri remont võtab aega."
   ],
   "translation": [
     "apartment",
     "flat"
   ],
-  "context": "The word 'korteri' refers to a self-contained housing unit that occupies only part of a building, generally on a single level in Estonian. It is commonly used when discussing residential spaces."
+  "context": "\"Korteri\" is the genitive singular form of the Estonian noun \"korter\" (apartment, flat). It means 'of an apartment' or 'belonging to an apartment'. In English, this would be equivalent to saying 'the apartment's' or indicating possession/relationship with an apartment. The word is used when showing that something belongs to or relates to an apartment."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen ise teinud seda.",
-    "Ta on ise ütelnud, et see on tõsi.",
-    "Ise käisime koos kinos."
+    "Ta ise tegi selle.",
+    "Ma ei pea ise tulema.",
+    "Iseenda arvamus on tähtis."
   ],
   "translation": [
-    "myself",
-    "himself",
-    "herself"
+    "oneself",
+    "by oneself",
+    "alone"
   ],
-  "context": "The word 'ise' is a reflexive pronoun in Estonian, used to indicate that the subject of the sentence is performing the action on themselves, similar to the English words 'myself', 'himself', and 'herself'."
+  "context": "The Estonian word 'ise' is a reflexive pronoun that means 'oneself'. It's used when the subject and object of a sentence refer to the same person. For example, in 'Ta ise tegi selle' (He did it himself), 'ise' emphasizes that he performed the action personally without help from others. The word can also indicate doing something alone or independently."
 }

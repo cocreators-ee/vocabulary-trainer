@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Taudin leviäminen on hidasta.",
-    "Leviäminen tapahtuu kosketuksen kautta.",
-    "On tärkeää estää taudin leviäminen."
+    "Tautien leviäminen on huolestuttavaa.",
+    "Leviämisnopeus vaihtelee eri alueilla.",
+    "Virus leviää nopeasti ilmassa olevien pisaroiden kautta."
   ],
   "translation": [
     "spreading",
-    "dissemination",
-    "propagation"
+    "propagation",
+    "expansion",
+    "dissemination"
   ],
-  "context": "The word 'leviäminen' in Finnish refers to the act of something spreading or disseminating, often used in the context of diseases or information. It is commonly used in sentences to describe the process of something becoming more widespread."
+  "context": "Leviäminen is a Finnish noun that refers to the process of something spreading, expanding or propagating from one place or person to another. It's commonly used in contexts like disease spread (tautien leviäminen), information dissemination tiedon leviäminen), or general expansion of phenomena. The word comes from the verb 'leviää' which means 'to spread', with the '-minen' suffix indicating a process or action."
 }

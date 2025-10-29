@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen aeg nii kaua",
-    "Tema aeg on lõppenud",
-    "Meie aeg on veel ees"
+    "See on hea aeg.",
+    "Talvel on pikk ja külm aeg.",
+    "Kas teil on piisavalt aega?"
   ],
   "translation": [
     "time",
-    "age"
+    "period",
+    "era",
+    "age",
+    "season"
   ],
-  "context": "The word 'aeg' in Estonian generally refers to time or age, and it is commonly used to express the duration or period of something."
+  "context": "The Estonian word 'aeg' is primarily used to mean 'time', but can also refer to periods of time, eras, ages, or seasons depending on context. It's a common noun in both singular and plural forms ('ajad')."
 }

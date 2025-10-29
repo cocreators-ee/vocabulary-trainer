@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma usaldan sind ja annaksin sulle kõik oma raha.",
-    "Ta palus mulle rahuliku häälega, et ma saaks teenida mässu, kuid mind veeldas hoopis see, et ta annaks selle tulemuseks olevat eest vastu.",
-    "Võid jätta oma vabaduse ja vaata, kas ta siis annaks sind oma lemmiklapseks."
+    "Kas sa annaksid mulle oma telefon?",
+    "Ma tõesti ei annaks midagi selle eest.",
+    "Kuidas me peaksime tegema, kui ta ei annaks meile vastust?"
   ],
   "translation": [
     "would give",
-    "give",
-    "grants"
+    "could give",
+    "might give"
   ],
-  "context": "The Estonian word 'annaks' is the conditional form of 'anna', which means to give. It translates to 'would give' in English, and it's commonly used in sentences that describe hypothetical situations or polite requests."
+  "context": "'Annaks' is the conditional form of the Estonian verb 'anna', meaning 'to give'. It's used to express a hypothetical or polite request for giving something. The word specifically represents the third-person singular conditional form, which would translate as 'he/she/it would give' in English. In questions, it can be used to ask if someone would be willing to give something (e.g., 'Kas sa annaksid mulle oma telefon?' means 'Would you give me your phone?'). It's often employed for polite requests rather than direct commands."
 }

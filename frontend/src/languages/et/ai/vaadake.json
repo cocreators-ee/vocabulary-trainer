@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vaadake seda dokumenti.",
-    "Ma vaatan seda filmi.",
-    "Ta vaatas akna välja."
+    "Vaadake seda ilusat linnu!",
+    "Vaadake, kuidas see töötab.",
+    "Mida te vaadate?"
   ],
   "translation": [
     "look",
-    "watch"
+    "watch",
+    "see"
   ],
-  "context": "The word 'vaadake' is an imperative form of the verb 'vaatama', which means to look or watch something. It is commonly used to invite someone to look at something, similar to how one would say 'take a look' in English."
+  "context": "The Estonian word 'vaadake' is the plural/formal second person imperative form of the verb 'vaadata', which means to look or watch. It's used when addressing multiple people formally or a single person respectfully, telling them to look at something. This form combines both 'you all' and formal 'you' into one conjugation in Estonian."
 }

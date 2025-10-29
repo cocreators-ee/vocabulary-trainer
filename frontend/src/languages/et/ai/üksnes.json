@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen üksnes õpilane",
-    "Ta on üksnes minu sõber",
-    "Üksnes see ei ole oluline"
+    "Ta üksnes naeratas.",
+    "Me üksnes proovisime aidata.",
+    "Tema ei öelnud üksnes midagi."
   ],
   "translation": [
     "only",
-    "just"
+    "just",
+    "merely"
   ],
-  "context": "The word \"üksnes\" in Estonian means \"only\" or \"just\", and is commonly used to indicate that something is the sole example or exception."
+  "context": "The Estonian word 'üksnes' is an adverb that means 'only', 'just', or 'merely'. It's used to emphasize the limitation or exclusivity of something, indicating that there are no additional elements beyond what has been mentioned. In the examples: 'Ta üksnes naeratas' (He/She only smiled), 'Me üksnes proovisime aidata' (We just tried to help), and 'Tema ei öelnud üksnes midagi' (He/she didn't say anything at all)."
 }

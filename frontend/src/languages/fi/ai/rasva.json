@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Rasva on tärkeä energianlähde",
-    "Rasvaa käytetään usein ruoanlaitossa",
-    "Hänellä on paljon rasvaa vartalossaan"
+    "Tämä ruoka on hyvin rasvainen.",
+    "Minä haluan vähentää rasvaa ruokavaliossani.",
+    "Rasva voi olla terveydelle haitallista liikaa.",
+    "Pihvi sisältää paljon rasvaa.",
+    "Valkoinen leipä on usein rasvaisempaa kuin täysjyväleipä."
   ],
   "translation": [
     "fat",
-    "grease"
+    "grease",
+    "oily substance",
+    "fatty"
   ],
-  "context": "The word 'rasva' in Finnish generally refers to fat or grease, and it is commonly used in the context of food, health, or body composition."
+  "context": "The Finnish word 'rasva' means fat in English. It refers to the oily, fatty substances found in food and animal tissues. The word can be used as a noun (meaning fat/grease) or as an adjective meaning fatty/fatty when inflected. In nutrition contexts, it refers to macronutrients that provide energy. In cooking contexts, it often describes greasy or rich foods. As an adjective, 'rasva-' is used to describe things containing or having qualities of fat."
 }

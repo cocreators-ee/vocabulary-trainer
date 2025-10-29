@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen rahul, et see on teinud maailmale head.",
-    "Ta on andnud palju maailmale.",
-    "Meil on võimalus muuta maailma maailmale"
+    "Maailmale avastati uus planeet.",
+    "Teave jõudis maailmale kiiresti.",
+    "See kunstiteos avaldati kogu maailmale."
   ],
   "translation": [
     "to the world",
-    "for the world"
+    "for the world",
+    "across the world"
   ],
-  "context": "The word 'maailmale' is a postpositional phrase in Estonian that means 'to the world' or 'for the world', and it is commonly used to express something being done for the benefit of the world."
+  "context": "The Estonian word 'maailmale' is an allative form of the noun 'maailm' (world). It indicates movement or direction toward/onto something, so 'maailmale' means 'to the world' or 'toward the world.' This case form is used when showing motion to a location - in this case, the entire world. It can be translated as 'to the world,' 'for the world,' or 'across the world' depending on context."
 }

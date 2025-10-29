@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elas aastaid välismaal.",
-    "Ma olen olnud aastaid selle firma töötaja.",
-    "Aastaid kestnud projekt lõppes lõpuks."
+    "Olen töötanud ettevõttes aastaid.",
+    "Meil on koos olnud aastaid.",
+    "Ta on elanud selles linnas aastaid."
   ],
   "translation": [
-    "years"
+    "for years",
+    "many years",
+    "long time"
   ],
-  "context": "The word 'aastaid' is the plural partitive case of the Estonian word for 'year', and it is commonly used to express a period of time in years, similar to how 'years' is used in English."
+  "context": "The Estonian word 'aastaid' is the partitive case form of 'aasta', meaning 'year'. It indicates duration or length of time and translates to English expressions like 'for years', 'many years', or 'a long time'. This form is typically used with verbs that indicate duration, such as 'olen töötanud' (have worked), 'on olnud' (has been), or 'on elanud' (has lived)."
 }

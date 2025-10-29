@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lahkus varahommikul.",
-    "Lahkuvad rongid on täis inimesi.",
-    "Lahkumine toimus õhtul."
+    "Ta lahkub linnast homseks.",
+    "Mees lahkub töölt kell 17.00.",
+    "Naised lahkuvad peost enneaegsasti."
   ],
   "translation": [
     "leaves",
     "departs",
-    "is leaving"
+    "exits",
+    "quits"
   ],
-  "context": "The word 'lahkub' is a verb in Estonian that means to leave or depart from a place, and it is commonly used in sentences to describe the act of someone or something moving away from a location."
+  "context": "The word 'lahkub' is the third person singular present form of the Estonian verb 'lahkuma', which means to leave, depart, exit or quit. It's used when someone (he/she/it) leaves a place, job, event, etc. The root 'lahk-' indicates separation or departure, and the '-ub' suffix makes it third person singular present tense."
 }

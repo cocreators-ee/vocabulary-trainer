@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma käisin päeval kauplusse.",
-    "Ta töötab ööl ja magab päeval.",
-    "Päeval on liiklust tihedam."
+    "Töötan päeval.",
+    "Me kohtume päeval kell kaks.",
+    "Kodus on alati külm päeval."
   ],
   "translation": [
     "during the day",
-    "in the daytime"
+    "in the daytime",
+    "by day"
   ],
-  "context": "The word päeval is an adverb in Estonian that means during the day or in the daytime, often used to describe activities or events that occur between sunrise and sunset."
+  "context": "The word 'päeval' is an Estonian adessive case form of 'päev', which means 'day'. In adessive case, it indicates location or time 'on/at/with the day'. It's commonly used to specify that something happens during daylight hours rather than at night. The adessive case ending '-l' changes the noun to indicate being on or at the specified time."
 }

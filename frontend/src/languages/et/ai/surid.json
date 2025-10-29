@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei mõista, miks sulle neil surid teada anda.",
-    "Kas sa üldse kuulad? Ma olen juba siin kolm korda küsinud ja sul on jäävastuseks ainult need sama surid vastused.",
-    "Ära mulle rohkem neid samu surida jutte ruttuda!"
+    "Tema suri eelmisel aastal.",
+    "Kaks inimest said surma liiklusõnnetuses.",
+    "Nad on pikalt surnud ja me ei mäleta neid enam."
   ],
   "translation": [
-    "lies",
-    "falsehoods"
+    "died",
+    "passed away",
+    "deceased"
   ],
-  "context": "The word 'surid' is Estonian for 'lies'. It refers to false statements or deceptions, often used in the context of someone being dishonest."
+  "context": "The word 'surid' is the past tense plural form of the Estonian verb 'surema', which means 'to die'. In this context, it would be used when multiple people died in the past. For example, in a sentence about an accident or event where several lost their lives."
 }

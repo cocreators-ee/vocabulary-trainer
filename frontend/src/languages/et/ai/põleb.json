@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maja põleb.",
-    "Taevakaar on täis tähedest, mis põlevad.",
-    "Põlevad südamed."
+    "Põleb ta kodus.",
+    "Aga põleb see ka?",
+    "Kuskil midagi põleb."
   ],
   "translation": [
-    "burns",
     "is burning",
-    "on fire"
+    "burns"
   ],
-  "context": "The word 'põleb' is a verb in Estonian that means to burn or be on fire, often used to describe something that is currently burning or inflamed."
+  "context": "The word 'põleb' is the 3rd person singular present tense form of the Estonian verb 'põlema', which means 'to burn'. It describes something that is currently on fire or in the process of burning. This can refer to literal fires (like a candle, fire, or object burning) as well as metaphorical uses (like passion or anger burning)."
 }

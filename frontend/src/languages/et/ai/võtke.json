@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Võta see kiri!",
-    "Ma võtan sind alati oma meeleks.",
-    "Kas sa võtad endale vea?"
+    "Võtke palun istuda.",
+    "Võtke oma kohad ära.",
+    "Võtke endale aega."
   ],
   "translation": [
     "take",
-    "accept (emotionally)",
-    "take blame"
+    "get",
+    "accept"
   ],
-  "context": "'võtke' is the second person plural form of the verb 'võta', meaning to take, accept or bear. It can be used in physical actions like taking an object, accepting something emotionally, or taking responsibility."
+  "context": "The word 'võtke' is the plural imperative form of the Estonian verb 'võtta', which means 'to take'. It's used when addressing multiple people with an instruction or request. The '-ke' ending makes it polite and plural, similar to saying 'please take' in English to a group."
 }

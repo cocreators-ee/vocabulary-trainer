@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "MaTellin takso ajab mind lennujaama.",
-    "Takso tuli meile öösel appi.",
-    "Kui palju maksab takso sõit lennujaamast kesklinna?"
+    "Ma sõitsin takson kesklinna.",
+    "Kas te olete juba tellinud takso?",
+    "Takso ei tulnud ajalikult."
   ],
   "translation": [
     "taxi",
     "cab"
   ],
-  "context": "The word 'takso' refers to a taxi or cab in Estonian, and is commonly used when ordering transportation or discussing fares."
+  "context": "The word 'takso' is a common Estonian noun meaning 'taxi'. It's used to refer to a taxi vehicle or taxi service. In the plural form, it becomes 'taksod'. The word follows standard Estonian grammar patterns and is widely understood in everyday conversation for transportation needs."
 }

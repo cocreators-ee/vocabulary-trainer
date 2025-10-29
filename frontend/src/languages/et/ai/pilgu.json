@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta vaatas mulle pilgu",
-    "Pilgud kohtusid ühisel sündmusel",
-    "Ma ei suutnud pilgu eest ära vaadelda"
+    "Pilgu kõrvalt vaata.",
+    "Ta pead pilgu andma sellele asjale.",
+    "Millal saavad pilgu?"
   ],
   "translation": [
     "glance",
     "look",
     "gaze"
   ],
-  "context": "The word 'pilgu' in Estonian refers to a quick or brief look at something or someone, and is commonly used to describe the act of glancing at something."
+  "context": "In Estonian, 'pilgu' is the partitive form of the word 'pilk', which means a glance or look. The partitive case in Estonian is often used to indicate the object that receives an action, so here it means 'a glance' or 'the act of looking'. It's commonly used when referring to giving someone a look or receiving one."
 }

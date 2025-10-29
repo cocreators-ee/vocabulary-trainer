@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Liigume kooli.",
-    "Ettevalmistused algasid ja me liigume.",
-    "Kas sa soovid koos minna või oled liiga väike, et meiega liiguda?"
+    "Liigume nüüd teise ruumi.",
+    "Kas sa tahad, et me liigume kiiremini?",
+    "Me peaksime liikuma enne vihma tulemist."
   ],
   "translation": [
-    "let's move"
+    "let's move",
+    "let's go",
+    "shall we move"
   ],
-  "context": "Used to express the action of moving somewhere together with someone or something. It is commonly used when suggesting or commanding movement towards a destination."
+  "context": "The word 'liigume' is the 1st person plural imperative form of the Estonian verb ' liikuma', which means 'to move'. It's used to suggest movement or relocation for a group including the speaker, similar to saying 'Let's move!' in English. The '-me' ending indicates it's an inclusive 'we' form where the speaker is included in the action being suggested."
 }

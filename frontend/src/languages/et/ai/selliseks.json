@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Miks sa see selliseks tegid?",
-    "See pole mitte midagi selliseks.",
-    "Ma ei soovi seda selliseks muuta."
+    "Selliseks saanud mees oli rõõmus.",
+    "Tema teguviis muutus selliseks.",
+    "Sa ei saa kunagi selliseks."
   ],
   "translation": [
-    "such",
-    "like that",
-    "in this way"
+    "like this",
+    "into such a state",
+    "to become like this"
   ],
-  "context": "The word 'selliseks' in Estonian is used to describe something as being of a particular kind or in a specific manner. It can be translated to English as 'such', 'like that', or 'in this way'. This term is commonly used when referring to characteristics, states, or methods."
+  "context": "The Estonian word 'selliseks' is an illative case form of the demonstrative pronoun 'selline', meaning 'such' or 'this'. It typically indicates movement toward or transformation into a certain state. In English, it can be translated as 'like this', 'into such a state', or 'to become like this'. This form shows directionality - something is becoming or entering the state described by 'selline'. The illative case in Estonian answers the question 'kuhu?' (where to?), indicating movement toward something."
 }

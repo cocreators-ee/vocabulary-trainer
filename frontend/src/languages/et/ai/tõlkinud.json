@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on tõlkinud palju raamatuid.",
-    "Olen tõlkinud selle teksti inglise keelest.",
-    "Tõlkinud on see tekst eesti keelde."
+    "Ma tõlkinud seda raamatut eesti keelest inglise keelde.",
+    "Tõlkinud artiklit on juba valmis.",
+    "Kas sa oled veel mitte tõlkinud sedi dokumenti?"
   ],
   "translation": [
     "translated",
-    "interpreted"
+    "has translated"
   ],
-  "context": "The word 'tõlkinud' is the past tense of the Estonian verb 'tõlkima', which means to translate or interpret something from one language to another. It is commonly used in sentences to describe the act of translation, such as translating a book or a text."
+  "context": "The word 'tõlkinud' is the past tense (perfect participle) form of the Estonian verb 'tõlkima', which means 'to translate'. It indicates that the action of translation has been completed. The suffix '-nud' in Estonian typically forms perfect participles, showing finished actions. This word would be used when someone has already performed the translation and it's now complete."
 }

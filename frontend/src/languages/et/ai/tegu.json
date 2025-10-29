@@ -1,15 +1,17 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Tegu on käes.",
-    "Mina olen tegu teinud oma kodutööga.",
-    "Need pildid näitavad, et tegu on tõesti kurb."
+    "Tegu on hea raamat.",
+    "Meil on tegu õpetajaga.",
+    "Mis tegu on?"
   ],
   "translation": [
-    "job",
-    "task",
-    "business"
+    "matter",
+    "affair",
+    "deal",
+    "case",
+    "business",
+    "subject"
   ],
-  "context": "'tegu' translates to 'job', 'task', or 'business'. It can refer to a specific assignment or something that needs to be done. For example, 'Tegu on käes.' means 'The job is at hand.'"
+  "context": "In Estonian, 'tegu' is a noun that refers to a matter, affair, case, or business. It's often used in phrases like 'mis tegu on?' (what's the deal?) or 'meil on tegu kuskiga' (we have something/someone to deal with). The word can stand alone as 'the matter' or be part of compound expressions indicating what kind of situation or entity one is dealing with."
 }

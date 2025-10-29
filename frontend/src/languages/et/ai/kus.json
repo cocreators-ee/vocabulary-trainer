@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis kusega kokku",
-    "Kus on mu auto?",
-    "Kust ma siia tulen?"
+    "Kus on raamat?",
+    "Kus sa lähed?",
+    "Meie kodus on hea"
   ],
   "translation": [
     "where",
-    "from where"
+    "at which place",
+    "in what location"
   ],
-  "context": "The word 'kus' in Estonian is commonly used to ask for the location or origin of something, similar to how 'where' is used in English."
+  "context": "The word 'kus' is an Estonian interrogative pronoun used to ask about the location or position of something. It corresponds directly to English 'where'. In questions, it typically appears at the beginning of the sentence. When answering with locations, Estonians often use expressions like 'Seal kus...' (there where...) or 'Siin kus...' (here where...)."
 }

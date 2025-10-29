@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin toomasid kätte.",
-    "Ta on hea tooma.",
-    "Toomad said valmis."
+    "Tule tooma meie juurde.",
+    "Tooma mind koju.",
+    "Ta tuli tooma sõpra."
   ],
   "translation": [
-    "work",
-    "task",
-    "job"
+    "to bring",
+    "fetch",
+    "carry"
   ],
-  "context": "The word 'tooma' in Estonian generally refers to a piece of work or a task that needs to be done. It can also refer to the result of someone’s work, like completed assignments or deliverables. In everyday conversation it is used similarly to ‘work’ or ‘task’ in English."
+  "context": "In Estonian, 'tooma' is the basic infinitive form of a verb that means 'to bring', 'to fetch', or 'to carry'. It's used when referring to the action of bringing something or someone from one place to another. The word can be conjugated in different tenses and forms depending on the subject and context, such as 'tule tooma' (come to bring), 'ta tuleb tooma' (he/she comes to bring)."
 }

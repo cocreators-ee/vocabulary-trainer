@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen rada teinud.",
-    "Rada on hea töökoht.",
-    "Ta töötab rada."
+    "rada on kõige kiirem tee linnast teise linna",
+    "meil on rada läbi metsa",
+    "vana rada ei ole enam kasutusel"
   ],
   "translation": [
-    "work",
-    "job",
-    "labor"
+    "road",
+    "track",
+    "path",
+    "route"
   ],
-  "context": "The word 'rada' generally refers to a place of work or employment, and is commonly used in Estonian to describe someone's profession or occupation."
+  "context": "In Estonian, 'rada' is a noun that means road, track, path, or route. It can refer to various types of pathways used for travel or movement. The word can be modified with suffixes and prefixes to indicate different cases, numbers, and meanings. For example, it could become 'radal' (on the road), 'radaid' (roads - plural accusative), or 'teerada' (specifically a road for vehicles)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen segatud.",
-    "Ta on väga segatud inimene.",
-    "Segatud olukord võib olla tõsiseks probleemiks."
+    "Tema segatud juhtum on keeruline lahendada.",
+    "See on segatud olukord, mis nõuab tähelepanu.",
+    "Segatud mõtted võivad viia segaduseni."
   ],
   "translation": [
+    "mixed",
     "confused",
-    "mixed up"
+    "jumbled"
   ],
-  "context": "The word 'segatud' is commonly used to describe someone who is confused or mixed up, often due to a lack of understanding or unclear information."
+  "context": "The word 'segatud' is the past participle form of the Estonian verb 'sega', meaning to mix. It describes something that has been mixed together or confused, often referring to a situation, thoughts, or emotions that are in a disordered state rather than being clear and organized."
 }

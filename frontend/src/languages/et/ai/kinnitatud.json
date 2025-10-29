@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu meel on kinnitatud sind suunas.",
-    "Aktsia hind on jäänud kinnitatud samale tasemele.",
-    "Mingi asja toatemperatuur peab olema kinnitatud."
+    "Kinnitus on kinnitatud.",
+    "Ta sai kinnituse, et ta oli õigel teel.",
+    "Leping oli juba eelnevalt kinnitatud."
   ],
   "translation": [
     "confirmed",
-    "secured",
-    "fixed"
+    "verified",
+    "validated"
   ],
-  "context": "'kinnitatud' is commonly used in Estonian to describe something that has been confirmed, secured, or fixed into place. It can refer to both physical objects and abstract concepts such as decisions or prices."
+  "context": "The word 'kinnitatud' is the past participle form of the Estonian verb 'kinnitama', which means 'to confirm', 'to verify', or 'to validate'. It describes something that has been officially approved, verified, or confirmed as correct or valid. This word is commonly used in formal contexts such as documents, agreements, procedures, and official statements where verification is required."
 }

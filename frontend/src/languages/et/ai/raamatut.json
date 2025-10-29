@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin raamatut.",
-    "Ta sai uue raamatut jõuludeks.",
-    "Raamatut müüakse ka internetis."
+    "Ma loen raamatut.",
+    "Ta ostis uue raamatu.",
+    "Meil on palju raamatu."
   ],
   "translation": [
-    "book"
+    "book",
+    "books"
   ],
-  "context": "The word 'raamatut' is the genitive form of 'raamat', which means book in English. It is commonly used to refer to a written or printed work consisting of pages glued or sewn together."
+  "context": "\"Raamatut\" is the partitive case form of \"raamat\" (book) in Estonian. The partitive case is used when we don't have a complete, whole object - it can indicate an incomplete action, some amount of something, or an object being acted upon without specifying the exact quantity. In this case, \"raamatut\" would be used with verbs like 'loen' (I read) to indicate reading some/a book, rather than reading all books or a complete set."
 }

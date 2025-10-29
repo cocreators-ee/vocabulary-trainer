@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta muutsis oma meelt.",
-    "Nad muutsid plaane viimase hetkel.",
-    "See muudab kõike."
+    "Muutsid mind üllatuseks.",
+    "Muutsid oma arvamust pärast vestlust.",
+    "Kas sa muutsid oma plaane?"
   ],
   "translation": [
     "changed",
-    "altered",
-    "modified"
+    "transformed",
+    "altered"
   ],
-  "context": "The word 'muutsid' is the past tense plural form of the verb 'muuta', which means 'to change' or 'to alter'. It indicates that someone changed something, and it’s commonly used to describe modifications in plans, opinions, or situations."
+  "context": "The word 'muutsid' is the 2nd person singular past tense form of the Estonian verb 'muutuma', which means 'to change'. It translates to English as 'you changed' or 'you transformed'. The root form 'muut-' indicates transformation, and the suffix '-sid' marks it as 2nd person singular past tense. This word is commonly used when talking about someone's actions in the past where they caused a change in something."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina jään.",
-    "Ta ei jää.",
-    "Neil valdub jääda.?"
+    "jään kodu",
+    "jäime ööse",
+    "oled jäänud tööle"
   ],
   "translation": [
     "to stay",
-    "stay"
+    "to remain",
+    "to be left",
+    "to keep"
   ],
-  "context": "The verb 'jääda' is used to express the action of remaining in a place or continuing in a state."
+  "context": "The Estonian word 'jääda' is a verb that means to stay, to remain, or to be left. It can be used in various contexts such as staying home (jään kodu), being kept somewhere (jäime ööse - we stayed overnight), or remaining at work (oled jäänud tööle). The word changes form depending on the subject and tense: first person singular present is 'jään', first person plural present is 'jääme', and passive/second person perfect is 'jäänud'."
 }

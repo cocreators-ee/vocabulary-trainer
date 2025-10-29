@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olete otsustanud minu kutsude põhjal?",
-    "Kas sa siis tänaseks mind kutsud? Või lihtsalt unustad?",
-    "Miks nad mind ei kutsud? Ei, see teine küsimus ongi heledam, miks nad mind juba kutsid?"
+    "Kutsud mind homme kohtumisele.",
+    "Sa oled saadetud kutsed.",
+    "Meil on palju kutseid uuele tööle."
   ],
   "translation": [
-    "you invite (plural)"
+    "invitations",
+    "calls",
+    "summons"
   ],
-  "context": "The word 'kutsud' is the second person plural form of the verb 'kutsma', which means to invite in Estonian. It is used when addressing multiple people or a group."
+  "context": "The Estonian word 'kutsud' is the plural form of 'kutsub', which means invitation or summons. It can refer to written invitations to events, phone calls asking someone somewhere, or official summonses. The root form shows it comes from the verb 'kutsuma' (to call/invite)."
 }

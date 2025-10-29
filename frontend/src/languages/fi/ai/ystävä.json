@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hei ystävä!",
-    "Olet hyvä ystävä.",
-    "Hän on vanha ystävä."
+    "Minulla on hyvä ystävä.",
+    "Sinun pitäisi olla kiltti heitä kohtaan, koska he ovat sinun ystäviäsi.",
+    "Ystävän auttaa toista vaikeuksissa."
   ],
   "translation": [
-    "friend"
+    "friend",
+    "buddy",
+    "pal"
   ],
-  "context": "Ystävä means 'friend' and is commonly used to refer to a close acquaintance or companion in Finnish. It can be both informal and formal depending on context."
+  "context": "The Finnish word 'ystävä' means friend in English. It's a common noun used to refer to someone you have a friendly relationship with, trust, and enjoy spending time with. In Finnish grammar, 'ystävä' is the basic form (nominative singular), but it can appear in various forms such as 'ystävät' (nominative plural) meaning friends, or 'ystävän' (genitive singular) indicating possession like 'friend's'. The word follows normal Finnish declension patterns and can take different suffixes depending on the grammatical context."
 }

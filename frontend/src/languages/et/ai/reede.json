@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Reede on nädala viimane päev.",
-    "Ta käis reedel koolis.",
-    "Reedel oli ilus ilm."
+    "Reedel on hea meel.",
+    "Kell on kolmteist reede pärastlõunal.",
+    "Meil on koosolek reedetavast."
   ],
   "translation": [
     "Friday"
   ],
-  "context": "The word 'reede' refers to Friday in English and is commonly used to specify the day of the week in Estonian."
+  "context": "The Estonian word 'reede' translates to 'Friday' in English. It is the name of the sixth day of the week in Estonia, following Thursday (neljapäev) and preceding Saturday (laupäev). In Estonian days of the week are typically written with a lowercase letter unless they start a sentence or appear in a title."
 }

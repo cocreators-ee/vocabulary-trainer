@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen täna kinno.",
-    "Täna on ilus päev.",
-    "Täna öösel oli külm."
+    "Täna on ilus ilm.",
+    "Kas sa tule täna koos meiega?",
+    "Ma ei saa täna kohale."
   ],
   "translation": [
     "today"
   ],
-  "context": "The word täna is used to refer to the current day in Estonian, similar to how today is used in English."
+  "context": "The word 'täna' is an Estonian adverb that means 'today'. It is used to indicate the current day or the present day in time. In Estonian, it's a common temporal reference similar to how English uses 'today' to refer to the current day."
 }

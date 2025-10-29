@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pakkin kohvi",
-    "Ta pakkis mulle kirja",
-    "Pakid on raskeid"
+    "Pakk oli täis kingitusi.",
+    "Tegime paki uuesti kinni.",
+    "Avage pakid ettevaatlikult."
   ],
   "translation": [
-    "pack",
-    "parcel",
-    "package"
+    "package",
+    "packet",
+    "parcel"
   ],
-  "context": "The word 'pakk' in Estonian refers to a package or parcel, and is commonly used in contexts where something is being wrapped or sent."
+  "context": "The Estonian word 'pakk' means package, packet, or parcel. It refers to a wrapped container for items, often used when shipping or storing goods. In Estonian grammar, 'pakk' is a masculine noun in the nominative singular form."
 }

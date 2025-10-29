@@ -1,13 +1,15 @@
 {
-  "confidence": 0.99,
   "understood": true,
   "sentences": [
-    "Minä ja sinä olemme ystäviä",
-    "Hän ja hänen veljensä tulivat juhliin",
-    "Ja minä rakastan suklaata"
+    "Meno ja tulo",
+    "Tämä on sinun ja minun talo",
+    "Hän juoksee ja hyppii"
   ],
   "translation": [
-    "and"
+    "and",
+    "also",
+    "too",
+    "as well as"
   ],
-  "context": "The word 'ja' is a conjunction used to connect words, phrases, or clauses in Finnish, similar to the English word 'and'."
+  "context": "The Finnish word 'ja' is a conjunction used to connect words, phrases, or clauses in a sentence. It serves the same purpose as the English word 'and'. This word is one of the most basic and frequently used conjunctions in Finnish grammar."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu vennad elavad Tallinnas.",
-    "Vennad lähevad koos kooli.",
-    "Ma armastan oma venna."
+    "Vennad on head sõbrad.",
+    "Minu vennad käivad koolis koos minuga.",
+    "Need vennad on väga intelligentsed."
   ],
   "translation": [
-    "brothers"
+    "brothers",
+    "siblings (male)",
+    "boys"
   ],
-  "context": "The word 'vennad' in Estonian refers to brothers, and it is commonly used to describe male siblings."
+  "context": "The word 'vennad' is the plural form of 'vend', which means 'brother'. In Estonian, it specifically refers to male siblings or brothers. It can also be used more broadly to refer to boys in a group or male friends who are like family members."
 }

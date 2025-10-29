@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema kott on suur.",
-    "Kotis oli midagi kahtlustatavat.",
-    "Ta paneksinu kotti kõik oma asjad."
+    "Kotti on täis raamatuid.",
+    "Pani kotti oma asjad.",
+    "Kotti sai uks."
   ],
   "translation": [
-    "bag",
-    "case",
-    "container"
+    "box",
+    "container",
+    "case"
   ],
-  "context": "'kotti' refers to a bag or container used for carrying items. It can also mean case in some contexts, such as a situation or legal case."
+  "context": "The word 'kotti' appears to be the illative case form of Estonian word 'kott', which means 'box' or 'container'. The illative case indicates motion into a place, so 'kotti' would mean 'into the box/container'."
 }

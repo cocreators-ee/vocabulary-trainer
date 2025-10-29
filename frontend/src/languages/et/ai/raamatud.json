@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on palju raamatuid",
-    "Ta armastab lugeda raamatut",
-    "Raamatud on tema lemmiktegevus"
+    "Ma loen raamatuid.",
+    "Tema ostis uued raamatud.",
+    "Raamatud on laual."
   ],
   "translation": [
-    "books"
+    "books",
+    "volumes"
   ],
-  "context": "The word 'raamatud' refers to books, which are written or printed works consisting of pages glued or sewn together along one side and bound in covers."
+  "context": "The word 'raamatud' is the plural form of the Estonian noun 'raamat', which means 'book'. In Estonian, nouns have different forms for singular and plural. The suffix '-d' added to 'raamat' indicates that we are talking about multiple books rather than just one. This word would be used when referring to a collection of books or multiple volumes in general."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean asjast.",
-    "Ta rääkis mulle asjast.",
-    "Asjast oli juttu."
+    "Mul on asi asjast.",
+    "Ta rääkis asjast.",
+    "Me arutleme asjast."
   ],
   "translation": [
     "about the matter",
-    "on the subject"
+    "regarding the subject",
+    "concerning the topic"
   ],
-  "context": "The word 'asjast' in Estonian is used to refer to something related to a particular topic or issue, and it is commonly used in sentences to provide more information about the subject being discussed."
+  "context": "The Estonian word 'asjast' is an elative case form of the noun 'asi', meaning 'matter', 'subject', or 'thing'. In the elative case, it indicates movement from within something or separation, but when used with prepositions or in certain contexts, it functions to indicate what a discussion or thought is about. It essentially means 'about the matter' or 'regarding the subject'."
 }

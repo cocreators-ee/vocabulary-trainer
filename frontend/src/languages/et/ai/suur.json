@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Suur mees astus sisse.",
-    "See on suur pere.",
-    "Meil on suur kodu."
+    "Tere suur!",
+    "See on suur maja.",
+    "Suured lapsed mängivad pargis."
   ],
   "translation": [
+    "big",
     "large",
-    "big"
+    "great"
   ],
-  "context": "'suur' is an adjective in Estonian that means 'large' or 'big'. It's commonly used to describe size."
+  "context": "The Estonian word 'suur' is an adjective that means 'big', 'large', or 'great'. It's commonly used to describe the size of objects, animals, people, or abstract concepts. The word changes form based on gender (masculine/feminine) and number (singular/plural). In the examples, 'Tere suur!' uses it as an exclamation similar to 'Hi big!', 'See on suur maja' means 'This is a big house', and 'Suured lapsed mängivad pargis' translates to 'Big children are playing in the park'. Note that in plural form, it becomes 'suured' for masculine/feminine nouns."
 }

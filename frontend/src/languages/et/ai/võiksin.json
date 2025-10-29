@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma võiksin sulle aita.",
-    "Ta võiksid öelda tõtt.",
-    "Võiksite te minu kätt hoida?"
+    "Võiksin tulla homme.",
+    "Ma ei tea, kas ma võiksin aidata.",
+    "Kas sa võiksid tuua mulle veeni?"
   ],
   "translation": [
-    "could",
-    "might"
+    "could (I)",
+    "might (I)",
+    "would be able to"
   ],
-  "context": "'võiksin' is the first person singular form of 'võia' which means 'can' or 'to be able to'. It's used in hypothetical situations where someone is expressing that they have the ability, permission, or it might be possible to do something."
+  "context": "The word 'võiksin' is the conditional first person singular form of the Estonian modal verb 'või', meaning 'can' or 'to be able'. It expresses possibility or ability in the past conditional tense, similar to 'could' or 'might' in English. This form is used when speaking about what one might have been able to do under certain conditions."
 }

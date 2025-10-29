@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen nõus, seega ma tahan seda teha.",
-    "Ta on valesti aru saanud, seega ta ütleb seda.",
-    "Me oleme jõudnud sellele lõpus, seega me peame sellest loobuma."
+    "Seega me lähme homme koos.",
+    "Oli hea kohtumine, seega näeme uuesti!",
+    "See on huvitav teave, seega võibolla peaksime seda uurima."
   ],
   "translation": [
     "therefore",
-    "thus"
+    "so",
+    "thus",
+    "as a result"
   ],
-  "context": "The word 'seega' is a conjunction used to indicate a logical conclusion or a cause-and-effect relationship between two clauses. It is commonly used in formal writing and speech to connect ideas and show the reasoning behind a statement."
+  "context": "Seega is an Estonian conjunctive adverb that connects ideas and indicates consequence or conclusion. It's similar to English 'therefore', 'so', or 'thus' in meaning. The word can be used at the beginning of sentences (seega...) or within sentences as a connector between clauses, showing that what follows logically results from what was previously mentioned."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu kõik huvide hulgast.",
-    "Ta valis selle esinemise hulgast parima variandi.",
-    "Pilt puhub hulgast."
+    "Ta valis kõik hulgast.",
+    "Me paneme need asjad hulgast.",
+    "Kas sa võtad midagi hulgast?"
   ],
   "translation": [
-    "from the collection",
-    "from among them",
-    "out of a group"
+    "from among",
+    "out of",
+    "from the group"
   ],
-  "context": "Hulgast is used to indicate something taken from a larger set or group. It often implies selection or exclusion within a defined collection, such as picking an item from a group or referring to it in context."
+  "context": "The Estonian word 'hulgast' is the elative case form of 'hulk', which means 'group', 'collection', or 'amount'. It indicates movement away from a group or collection, equivalent to English prepositions like 'from among', 'out of', or 'from the group'. This form is used when something is being taken out or selected from a larger group."
 }

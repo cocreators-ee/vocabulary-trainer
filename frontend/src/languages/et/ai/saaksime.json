@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me saaksime minna koos.",
-    "Kui meile oleks võimalik, siis me saaksime seda teha.",
-    "Kas me saaksime selle ühiselt lahendada?"
+    "Saaksime homme kohtuda.",
+    "Kas saaksin küsida abi?",
+    "Miks me ei saaksid midagi öelda?"
   ],
   "translation": [
-    "we could",
-    "we might"
+    "we could get/have/obtain",
+    "might be able to",
+    "would be able to"
   ],
-  "context": "The word 'saaksime' is the first person plural form of the verb 'saama', which means 'to get' or 'to be able to', and in this context, it is used to express possibility or potentiality."
+  "context": "Saaksime is the conditional form of the verb 'saama' (to get, have, obtain) in Estonian. It means 'we could', 'we might', or 'we would be able to'. This form expresses possibility or ability in a hypothetical situation. The '-me' ending indicates the first person plural (we)."
 }

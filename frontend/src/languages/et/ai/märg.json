@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on märg",
-    "See on väga märg",
-    "Märg on hea"
+    "See märg on tähtis dokument.",
+    "Lõpetame selle lehe äratoodud märgiga.",
+    "Ta kandis suurt märki rinnal."
   ],
   "translation": [
-    "wet",
-    "moist"
+    "mark",
+    "sign",
+    "symbol",
+    "badge"
   ],
-  "context": "The word 'märg' in Estonian means something that is covered or saturated with liquid, such as water or moisture."
+  "context": "In Estonian, 'märg' is a noun that refers to a mark, sign, symbol, or badge. It can be used for physical marks on documents (like stamps), symbols with meaning, or badges worn as identification."
 }

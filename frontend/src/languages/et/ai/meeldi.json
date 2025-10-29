@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mulle meeldib see film",
-    "Ta meeldib mulle väga",
-    "Me meeldime teineteisele"
+    "Meeldi sulle see film?",
+    "Mul meeldib lugeda.",
+    "Talle ei meeldida jalutada."
   ],
   "translation": [
-    "I like",
-    "pleases me",
-    "like each other"
+    "please like it",
+    "like (verb)",
+    "to be pleasant/pleasing"
   ],
-  "context": "The word meeldi is a verb in Estonian that means to like or please someone, and it is commonly used in sentences to express fondness or affection for something or someone."
+  "context": "The word 'meeldi' is an imperative form of the verb 'meeldima', which means 'to like' or 'to please'. It's a command/request telling someone to find something pleasing or acceptable. The root verb 'meeldima' can have different conjugations: positive (meeldiv - pleasant, pleasing), negative (ei meelda - not pleasant/pleasing), and various tenses. In the imperative form 'meeldi', it's specifically used when asking someone to like something or find something acceptable."
 }

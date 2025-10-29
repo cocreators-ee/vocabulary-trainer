@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta hoolitseb laste eest",
-    "Hoolitseb ta ise enda eest?",
-    "Kes hoolitseb siis vanemate eest?"
+    "Ta hoolitseb oma lastest.",
+    "Meie pere hoolitseb üksteise eest.",
+    "Kes hoolitseb sinu lilledest?"
   ],
   "translation": [
-    "takes care of",
-    "cares for"
+    "cares for",
+    "looks after",
+    "takes care of"
   ],
-  "context": "The word 'hoolitseb' is commonly used in Estonian to describe the act of taking care of someone or something, and it can be translated to English as 'takes care of' or 'cares for'."
+  "context": "The word 'hoolitseb' is the third-person singular present tense form of the Estonian verb 'hoolitsema', which means to care for, look after, or take care of someone or something. It is often used in contexts involving responsibility towards people, animals, plants, or objects."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen kooli.",
-    "Koolis on palju õpilasi.",
-    "Ta on kooli lõpetanud."
+    "Mina lähen kooli.",
+    "Tüdruk jooksis kooli.",
+    "Meie käime kooli."
   ],
   "translation": [
-    "school"
+    "to school",
+    "at school"
   ],
-  "context": "The word 'kooli' is the genitive form of the Estonian word for school, often used to indicate a location or destination related to education."
+  "context": "The Estonian word 'kooli' is the illative case of the noun 'kool', meaning 'school'. In Estonian, the illative case indicates movement towards a place or entering into a space. So 'kooli' specifically means 'to school' or 'at school' when referring to movement toward being in the school building or area."
 }

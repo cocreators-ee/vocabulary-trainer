@@ -1,14 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on nelja aastat vana.",
-    "Mul on nelja venda.",
-    "Nelja päeva pärast saabub talve"
+    "Ma sõitsin neljal jalgrattal.",
+    "Neljandal päeval me külasime muuseumi.",
+    "Talvel on neljapäevad pikad."
   ],
   "translation": [
-    "four",
-    "quadruple"
+    "four"
   ],
-  "context": "The word 'nelja' is an Estonian numeral that means four, it can be used to describe the quantity of something."
+  "context": "The Estonian word 'nelja' is the numeral four. It's used to count or indicate quantity of four items, people, or units. In Estonian, like other languages, numerals change form depending on case (nominative, genitive, partitive, etc.) and function in sentences. 'Nelja' typically appears in contexts requiring specific grammatical cases after numbers."
 }

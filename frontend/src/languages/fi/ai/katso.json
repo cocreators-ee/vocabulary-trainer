@@ -1,13 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Katso tätä!",
-    "Katsokaa töissä!",
-    "Kaipaatte varoja tai voitte katsoa nyt joitakin taitavasti valmisteltuja tarinoita!"
+    "Katso tämä!",
+    "Minä katson elokuvaa.",
+    "He katsoivat taivaalta."
   ],
   "translation": [
-    "look"
+    "look",
+    "watch",
+    "see",
+    "observe"
   ],
-  "context": "Imperative form of 'to look'"
+  "context": "The Finnish word 'katso' is the second-person singular imperative form of the verb 'katsoa', which means 'to look' or 'to watch'. It's used as a command to tell someone to look at something. The verb belongs to the -o- conjugation class in Finnish and has regular conjugation patterns."
 }

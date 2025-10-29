@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen maininud seda juba mitu korda.",
-    "Ta mainis, et tahab kohe koju minna.",
-    "Kõigepealt tuleb mainida, et see on väga oluline."
+    "Ta maininud seda probleemi eile.",
+    "Me ei ole veel seda mainitud.",
+    "Mis sa oled tänan maininud?"
   ],
   "translation": [
     "mentioned",
-    "referenced"
+    "talked about",
+    "referred to"
   ],
-  "context": "The word 'maininud' is the past tense of the Estonian verb 'mainima', which means to mention or reference something. It is commonly used in everyday conversations to indicate that something has been previously discussed or brought up."
+  "context": "The word 'maininud' is the past tense (perfect) form of the Estonian verb 'mainida', which means 'to mention' or 'to talk about'. It indicates that someone has mentioned something in the past. The '-nud' ending is a common suffix for perfect tense verbs in Estonian, indicating completed action."
 }

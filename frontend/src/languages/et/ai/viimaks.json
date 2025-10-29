@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Lõpuks oleme viimaks kodus.",
-    "Ta oli viimaks sunnitud töötuks jäädma.",
-    "Viimaks sai ta aru, et see ei olnud hea mõte."
+    "Viimaks tuli ta siiski kohale.",
+    "Oodake natuke, viimaks saab valmis.",
+    "Kõik läks hästi viimaks."
   ],
   "translation": [
     "finally",
-    "at last"
+    "at last",
+    "in the end"
   ],
-  "context": "The word 'viimaks' is an adverb in Estonian that means finally or at last, indicating that something has happened after a long wait or delay."
+  "context": "The Estonian word 'viimaks' is an adverb that means 'finally', 'at last', or 'in the end'. It's used to indicate that something has happened after a period of waiting, delay, or expectation. The word comes from 'viimane' (last) with the '-ks' suffix, which in Estonian can indicate direction or result. So literally it could be interpreted as 'to the last point' or 'reaching the end', which aligns well with its meaning of finally achieving something after a process."
 }

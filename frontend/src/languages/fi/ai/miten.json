@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Miten sinä voit tehdä noin?",
-    "Hän kysyi, miten asia oli edennyt.",
-    "Tiedän, miten tämä tehdään."
+    "Miten sinulla menee?",
+    "Miten pääset töihin?",
+    "Mitä mieltä olet siitä?"
   ],
   "translation": [
     "how",
     "in what way"
   ],
-  "context": "The word 'miten' is commonly used in Finnish to ask about the method or way something is done, and it can also be used to express surprise or curiosity about someone's actions."
+  "context": "The Finnish word 'miten' is a question word that means 'how' or 'in what way'. It's used to ask about the manner, method, or way something is done. For example, when asking how someone is doing (Miten sinulla menee?) or how they get somewhere (Miten pääset töihin?)."
 }

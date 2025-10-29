@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võin selle venda müüa.",
-    "Vend on hea inimene.",
-    "Ta on mu vend."
+    "Vendas on armas poiss.",
+    "Vendid olid meie parimad sõbrad.",
+    "Kas te tunnete venda?"
   ],
   "translation": [
     "brother",
-    "to sell"
+    "sibling",
+    "male sibling"
   ],
-  "context": "The word 'venda' is the first person singular form of the verb 'vendama', which means to sell, but 'vend' means brother."
+  "context": "In Estonian, 'venda' means brother and refers to a male sibling. It is the singular nominative form of the word. The plural form would be 'vennad'. This word specifically denotes a male relative rather than a female sibling (which would be 'õde' or sister)."
 }

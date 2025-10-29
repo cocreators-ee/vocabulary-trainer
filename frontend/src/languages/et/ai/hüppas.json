@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kaks last hüppas voolus mööda.",
-    "Rohkemal kui miljoni inimese hüpav tõi linna lähedale.",
-    "Tema mure oli see et tüdruk ei hüppa sinna tagasi."
+    "Tema hüppas üle jõe.",
+    "Lapsed hüppavad rõõmsalt mänguväljakul.",
+    "Hüppa kõrgemale!"
   ],
   "translation": [
-    "jump",
-    "leap"
+    "jumped",
+    "leaped",
+    "bounded"
   ],
-  "context": "The word 'hüppas' is the third person past tense of 'to jump'. It can be used literally, like a physical action, or figuratively in expressions about large numbers or movements."
+  "context": "The word 'hüppas' is the past tense singular form of the Estonian verb 'hüpama', which means 'to jump'. It describes an action that has already been completed. The root form 'hüppa-' appears in both present and imperative forms, showing the core meaning remains consistent across different tenses."
 }

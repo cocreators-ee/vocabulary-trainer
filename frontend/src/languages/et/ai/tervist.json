@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen tervist võtnud.",
-    "Lapsed saavad tervist päevas.",
-    "Täiskasvanud vajab rohkem tervist kui lapsed."
+    "Tervised!",
+    "Head terveid päevi!",
+    "Kuidas sa teed? Tervist!"
   ],
   "translation": [
-    "vitamins",
-    "a health supplement"
+    "Hello",
+    "Good health",
+    "Cheers",
+    "Bless you (after sneezing)"
   ],
-  "context": "This word refers to vitamins or other health supplements that are taken to improve one's well-being or make up for a lack of certain nutrients in the diet."
+  "context": "The Estonian word 'tervist' is a versatile greeting and well-wishing expression that can be used in several contexts. It's commonly used as a general greeting similar to 'hello', but it literally means 'health' or 'wellbeing'. It's also frequently said after someone sneezes (similar to 'bless you'), when parting ways, as a toast, or when wishing someone good health. The word comes from the Estonian root 'terve' meaning healthy or well."
 }

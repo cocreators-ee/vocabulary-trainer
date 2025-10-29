@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta käitus oli väga ebakorrekne.",
-    "Lapsed peavad õppima head käitumist.",
-    "Tema käitus tekitas mulle palju muret."
+    "Kuidas sa käidu?",
+    "Tere tulemast meie külaliseks!",
+    "Mis su nimi on?"
   ],
   "translation": [
-    "behavior",
-    "conduct",
-    "demeanor"
+    "how are you",
+    "welcome",
+    "what is your name"
   ],
-  "context": "The word 'käitu' refers to someone’s manner of acting or conducting themselves. It is commonly used to describe how a person behaves in a specific situation, and can be positive or negative."
+  "context": "The word 'käitu' appears to be a form of the Estonian verb 'käima', which means 'to go' or 'to walk'. In these examples, it seems to be used in greetings and introductions. The exact meaning depends on the context - in 'Kuidas sa käidu?', it's asking about someone's condition (how are you?), while in other contexts it could mean welcome or be part of introducing oneself."
 }

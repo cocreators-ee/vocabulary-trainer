@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma selgitan seda teile.",
-    "Ta selgitas mulle kõike.",
-    "Nad selgitavad meile olukorda."
+    "Ma selgitan sulle selle protsessi.",
+    "Tema selgitas oma otsust põhjalikult.",
+    "Meie selgitasime kõik segaduse ära."
   ],
   "translation": [
     "explain",
-    "describe"
+    "clarify",
+    "elucidate"
   ],
-  "context": "The word 'selgitan' is commonly used in Estonian to mean explaining or describing something to someone, often in a detailed manner."
+  "context": "The word 'selgitan' is the 1st person singular form (I) of the Estonian verb 'selgitama', which means to explain or clarify. It's commonly used when someone wants to make something clear or understandable to another person, providing detailed information about a topic, situation, or decision."
 }

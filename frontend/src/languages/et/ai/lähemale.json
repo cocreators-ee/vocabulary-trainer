@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kodu tõi nad vahemaad lähemale üksteisele.",
-    "Hea suhted tekivad siis, kui inimesed saavad lähemale.",
-    "Tema pere elab nüüd juba palju lähemal kui enne."
+    "Tule lähemale!",
+    "Kas sa saad lähemale?",
+    "Meie kodu on lähemale kui arvasite."
   ],
   "translation": [
+    "closer",
     "nearer",
-    "closer"
+    "more close"
   ],
-  "context": "'Lähemale' is a comparative form of the Estonian adjective 'lähedane,' meaning closer or nearer in terms of distance."
+  "context": "\"Lähemale\" is the Estonian comparative form of \"lähedal\" (near/close). It literally means 'toward the nearer place' and functions as an adverb indicating movement or direction toward something that is closer. The word combines \" lähedal\" (near) + \"-le\" (directional case suffix meaning 'to' or 'toward')."
 }

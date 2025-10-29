@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema tööd on loodud kasutades ainulaadset stiili.",
-    "Rakendus töötleb andmeid kasutades keerulist algoritme.",
-    "Ta õppis keelt kasutades mänguviisi."
+    "Mees kasutases telefoni.",
+    "Naised kasutasid raamatuid.",
+    "Laps kasutab mänguasju."
   ],
   "translation": [
     "using",
-    "by using"
+    "by using",
+    "with the use of"
   ],
-  "context": "'Kasutades' means 'using' or 'by using'. It is used to indicate the method or means by which something is done. For example, if you use a tool to fix something, in Estonian you would say 'kasutades [tool]'."
+  "context": "The Estonian word 'kasutades' is an adessive case form that means 'using' or 'by using'. It's formed from the verb 'kasutama' (to use) and indicates the instrumentality or method by which something is done. In this form, it shows how an action is performed - what tool or method is being used to accomplish something."
 }

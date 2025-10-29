@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on tarvis uut arvuti",
-    "Ta ütles, et tal on tarvis abi",
-    "Kas sul on tarvis seda raamatut?"
+    "Mul on tarvis abi.",
+    "Meil pole tarvis lõpetada täna.",
+    "Kas teil on mulle midagi tarvis?"
   ],
   "translation": [
     "need",
-    "necessity"
+    "necessary",
+    "required"
   ],
-  "context": "The word 'tarvis' in Estonian means something that is necessary or needed."
+  "context": "The Estonian word 'tarvis' is a noun that means 'need' or 'necessity'. It's used to express what something or someone requires. In the first sentence, it shows personal need ('I need help'). The second sentence demonstrates lack of necessity ('We don't need to finish today'), while the third asks about someone else's needs ('Do you have anything you need from me?'). This word is commonly used in everyday Estonian conversation."
 }

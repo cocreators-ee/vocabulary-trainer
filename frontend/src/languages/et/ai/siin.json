@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen siin.",
-    "Ta on siin ja seal.",
-    "Siin on palju inimesi."
+    "Siin on raamatukogu.",
+    "Tule siia!",
+    "Me elame siin."
   ],
   "translation": [
-    "here"
+    "here",
+    "in this place"
   ],
-  "context": "The word 'siin' is used to indicate a location or presence, similar to the English word 'here'."
+  "context": "The word 'siin' is the Estonian word for 'here'. It indicates a location that is near to the speaker or has been previously mentioned. 'Siin' can be used as an adverb of location in various contexts, such as pointing out something nearby, inviting someone to come to where the speaker is, or stating one's current location."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä puhun suomea",
-    "Hän puhuu englantia",
-    "He puhuvat saksaan"
+    "Minä puhun suomea.",
+    "He puhuvat englantia.",
+    "Sinun pitäisi puhua hitaammin."
   ],
   "translation": [
     "to speak",
-    "speak"
+    "to talk"
   ],
-  "context": "The word 'puhua' is a verb in Finnish that means to speak or talk, and it is commonly used in everyday conversations to refer to the act of communicating verbally."
+  "context": "The Finnish verb 'puhua' means 'to speak' or 'to talk'. It's an -verb, which is the basic form of the verb. In different contexts and conjugations, it can be used to describe speaking any language or engaging in conversation. The word changes form depending on the subject: 'minä puhun' (I speak), 'sinä puhut' (you speak), 'hän puhuu' (he/she speaks), etc."
 }

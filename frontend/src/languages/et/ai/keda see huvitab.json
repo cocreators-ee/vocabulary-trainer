@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kes sind huvitab?",
-    "Mind ei huvita, keda see puudutab.",
-    "Keda sa otsid?"
+    "Keda see huvitab?",
+    "Minu ei huvita keda see küsimus puudutab.",
+    "Kellelgi võib olla huvi teada, keda see puudutab."
   ],
   "translation": [
-    "Who is interested in that?",
-    "Who cares about that?",
-    "Who are you looking for?"
+    "who does this interest",
+    "who cares about this",
+    "who is interested in this"
   ],
-  "context": "This phrase is used to express disinterest or ask who might be concerned with a particular topic. It literally translates to 'who does this interest', but it's often used rhetorically to dismiss something as unimportant."
+  "context": "The phrase 'keda see huvitab' translates to 'who does this interest' or 'who cares about this'. It's a question form asking which people have an interest in something. The structure consists of 'keda' (whom), 'see' (this/that), and 'huvitab' (interests/is interesting). This is commonly used to ask about the target audience or stakeholders for particular information, events, or matters."
 }

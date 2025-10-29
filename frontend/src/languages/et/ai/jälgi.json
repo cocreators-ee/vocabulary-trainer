@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole jälgi näinud.",
-    "Jälgi on võimalik leida.",
-    "Ta otsis jälge metsas."
+    "Jälgisin sõpra täna hommikul.",
+    "Ta jälgib kassi aknast.",
+    "Me peame jälgima reegleid."
   ],
   "translation": [
-    "track",
-    "trace",
-    "sign"
+    "to follow",
+    "to track",
+    "to monitor"
   ],
-  "context": "The word 'jälgi' in Estonian refers to a track, trace, or sign that something or someone has left behind, often used in the context of searching for or following something."
+  "context": "The Estonian word 'jälgi' is the imperative form (command form) of the verb 'jälgima', which means to follow, track, or monitor. It's used when giving a direct command to someone to follow something or pay attention to it."
 }

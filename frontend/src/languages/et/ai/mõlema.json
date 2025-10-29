@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõlemad poisid armastavad jalgpalli.",
-    "Ta on mõlema vanemate heakskiitu saanud.",
-    "Kumbki neist ei ole mõlema poolel."
+    "Mõlema poole peal on kauneid vaateid.",
+    "Mõlemad lapsed said kevadel head hinded.",
+    "Ta rääkis mõlema sündmuse kohta."
   ],
   "translation": [
     "both",
-    "each"
+    "of both"
   ],
-  "context": "The word 'mõlema' in Estonian is used to indicate that something applies to or involves both of two things, similar to the English words 'both' and 'each'."
+  "context": "The word 'mõlema' is the partitive case of 'mõlemad' which means 'both'. It's used with singular nouns to indicate that two items or people are being referred to. In Estonian, when you want to say 'of both' or refer to something concerning two entities in a way that implies they're considered together as a pair, you use this form. For example, 'mõlema poole peal' means 'on both sides'."
 }

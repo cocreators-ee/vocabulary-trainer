@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlesin talle, et see on hea mõte.",
-    "Ta ütles, et ta armastab seda raamatut.",
-    "Nende vanemad ütlesid, et nad peavad lähemaks minema."
+    "Tüdruk ütlesid, et ta tuleb homme.",
+    "Poiss ütlesid oma sõpradele saladust.",
+    "Lapsed ütlesid teistsuguse vastuse kui oodati."
   ],
   "translation": [
     "said",
-    "spoke",
     "told"
   ],
-  "context": "The word ütlesid is a verb in Estonian that means to say or speak something, and it is commonly used in everyday conversations to convey thoughts or opinions."
+  "context": "The word 'ütlesid' is the past tense (2nd person plural) of the Estonian verb 'ütlema', which means 'to say' or 'to tell'. It specifically refers to what multiple people said in the past. The singular form would be 'ütles' for one person, and other forms include 'ütlen' (I say), 'ütled' (you say - singular), etc."
 }

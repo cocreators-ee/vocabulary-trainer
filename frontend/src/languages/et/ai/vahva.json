@@ -1,15 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta on vahvaks muutunud.",
-    "Mõni inimene leidab teda liiga vahvaks.",
-    "Tema vahva iseloom tekitas probleeme."
+    "See on vahva mees.",
+    "Tema oli vavha laps.",
+    "Meie on väga vahvad."
   ],
   "translation": [
-    "Weak",
-    "feeble",
-    "frail"
+    "brave",
+    "courageous",
+    "valiant"
   ],
-  "context": "'Vahva' describes someone or something that lacks strength, either physically or metaphorically. It can be used for people who are physically weak or those who show a lack of determination or willpower in certain situations."
+  "context": "The word 'vahva' is an adjective in Estonian that describes someone as brave, courageous or valiant. It's used to commend someone for their bravery or courage in a given situation. The word can be modified with endings like '-d' to make it plural (vahvad - brave ones) and with adverbs like 'väga' to intensify the meaning."
 }

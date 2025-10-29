@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kohanud palju inimesi.",
-    "Ta oli kohanud tema varem.",
-    "Nad on kohanud mitmeid kuulsaid inimesi."
+    "Olen kohanud palju erinevaid inimesi.",
+    "Ta on varem kohanud sarnaseid olukordi.",
+    "Kas sa oled kunagi kohanud sellist asja?"
   ],
   "translation": [
+    "encountered",
     "met",
-    "encountered"
+    "come across"
   ],
-  "context": "The word 'kohanud' is the first person singular form of the verb 'kohama', which means to meet or encounter someone. It can also be translated as having met someone before, implying a prior acquaintance."
+  "context": "The word 'kohanud' is the past tense of the Estonian verb 'kohtama', which means 'to meet' or 'to encounter'. It indicates that someone has experienced meeting or coming into contact with something or someone in the past. This form is commonly used to describe past experiences, encounters, or meetings."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli vangis kaks aastat.",
-    "Vangis oleku ajal kirjutas ta mitu raamatut.",
-    "Kui politsei teda tabas, siis ta oli juba pikka aega vangis olnud."
+    "Ta on vangis.",
+    "Mees oli vangis kolm päeva.",
+    "Kas sa oled kunagi olnud vangis?"
   ],
   "translation": [
     "in prison",
     "incarcerated",
-    "imprisoned"
+    "jailed"
   ],
-  "context": "The word 'vangis' in Estonian means being in prison or incarcerated, and it is commonly used to describe someone who is serving a sentence behind bars."
+  "context": "The word 'vangis' is the Estonian inessive case form of the word 'vang', which means 'prisoner'. It indicates location within something, specifically being inside or in a prison. This is commonly used to describe someone's current state of being imprisoned."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Toon muutus meie kõnes läbi aegade.",
-    "Ta tõi oma tooni filmi mängujuhtimisel.",
-    "Rannaliidu sümboolne toon on eriline.",
-    "Muusikapala algas rahulikult, aga seejärel muutus rütmiliseks tooniks."
+    "Ta teeb oma töö tooniliselt.",
+    "See on hea toon.",
+    "Toon muutub kõvaks."
   ],
   "translation": [
-    "tone"
+    "tone",
+    "key",
+    "timbre",
+    "intonation"
   ],
-  "context": "'Toon' tähendab eesti keeles 'tone', mis võib viidata kõnes, muusikas või isegi meeleolu ja atmosfääri peale. Sõltuvalt kontekstist võib see kaasneda erinevate emotsioonidega või suunda."
+  "context": "In Estonian, 'toon' is a masculine noun that means tone, key, timbre or intonation. It refers to the quality of sound in music or speech, such as the pitch level, musical key signature, or characteristic sound color. The word can be used in various contexts including music theory ('C-mažoori toon'), voice characteristics ('kõrge toon'), and general sound qualities."
 }

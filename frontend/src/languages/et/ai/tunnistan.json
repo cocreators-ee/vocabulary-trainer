@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tunnistan seda meest",
-    "Ta tunnistas oma süüd",
-    "Tunnistame tema teenist"
+    "Ma tunnistan selle tõsi.",
+    "Sa tunnistad seda valeks.",
+    "Me tunnistame oma viga."
   ],
   "translation": [
-    "recognize",
-    "acknowledge",
-    "identify"
+    "to acknowledge",
+    "to admit",
+    "to confess"
   ],
-  "context": "The word tunnistan is commonly used in Estonian to mean recognizing or acknowledging something, such as a person, fact, or situation."
+  "context": "The Estonian word 'tunnistan' is the first-person singular present form of the verb 'tunnistama', which means to acknowledge, admit, or confess. It is used when someone is admitting something as true, acknowledging a fact, or confessing to something they have done. The word derives from the same root as English 'testimony' and relates to bearing witness or making a statement of truth."
 }

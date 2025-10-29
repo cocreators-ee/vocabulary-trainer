@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ei saanud jää ajal autosse",
-    "Jää oli paksem kui eile",
-    "Kõik jää on sulanud"
+    "jää on veest tahkem aine",
+    "talvel jääb vesi külmaks ja muutub jääks",
+    "lumesõituvahendid liiguvad jääl"
   ],
   "translation": [
     "ice",
-    "ice age"
+    "frozen water",
+    "to freeze",
+    "to become ice"
   ],
-  "context": "The word 'jää' in Estonian generally refers to ice, and it is commonly used to describe frozen water or a period of time when the climate was colder."
+  "context": "The Estonian word 'jää' means 'ice' in English. It refers to the frozen form of water. In addition to being a noun meaning 'ice', it can also be used as a verb stem meaning 'to freeze' or 'to become ice'. For example, when water freezes, we say that it 'muutub jääks' (becomes ice). The word is commonly used in everyday contexts to talk about winter conditions, frozen bodies of water, and cold temperatures."
 }

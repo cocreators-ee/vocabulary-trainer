@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen liiga väsinud.",
-    "Ta on liiga noor selleks.",
-    "See on liiga kallis."
+    "See on liiga kallis.",
+    "Tema jooksis liiga kiiresti.",
+    "Me ei saa seda teha, sest see on liiga keeruline."
   ],
   "translation": [
     "too",
-    "excessively"
+    "excessively",
+    "overly"
   ],
-  "context": "The word liiga is an adverb in Estonian that means too or excessively, it is commonly used to indicate a high degree of something."
+  "context": "The word 'liiga' in Estonian is an adverb that means 'too', 'excessively', or 'overly'. It's used to indicate that something exceeds a desirable limit, degree, or standard. For example, if something is 'liiga kallis' it means it's 'too expensive', and if someone runs 'liiga kiiresti' they run 'too quickly'. The word modifies adjectives and other adverbs to express excessiveness."
 }

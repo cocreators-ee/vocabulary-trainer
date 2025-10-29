@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta räägib prantsuse keelt.",
-    "Minu ema alati rääkis eesti keeles.",
-    "Räägin hästi saksa keelt."
+    "Ma ei räägi eesti keelt väga hästi.",
+    "Tere! Kuidas sa räägid?",
+    "Me räägime homme kohtumisel."
   ],
   "translation": [
     "to speak",
-    "to talk"
+    "to talk",
+    "to converse"
   ],
-  "context": "'rääkida' is a verb in Estonian that means 'to speak' or 'to talk'. It can be used in both formal and informal contexts. The base form of the verb is 'raa-git', so different conjugations will have it in different forms such as 'raägib', 'raägin', etc."
+  "context": "The Estonian word 'rääkida' is an infinitive verb meaning 'to speak' or 'to talk'. It's used when referring to the action of speaking or communicating verbally. In different grammatical forms, it can be conjugated for different subjects (like 'ma rään' - I speak, 'sa räägid' - you speak, etc.) and tenses."
 }

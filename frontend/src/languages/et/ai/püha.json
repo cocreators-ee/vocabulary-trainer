@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on pühakirjade õpetaja.",
-    "Pühad on alati oodatud.",
-    "Meie külastasime püha paiga."
+    "Pühad päevad.",
+    "See on püha koht.",
+    "Me peame pidama pühade jõulude."
   ],
   "translation": [
     "holy",
-    "saint",
-    "holiday"
+    "sacred",
+    "blessed"
   ],
-  "context": "The word 'püha' in Estonian generally refers to something or someone that is considered holy, sacred, or revered, and it can also be used to describe holidays or days of celebration."
+  "context": "The word 'püha' is an adjective in Estonian that means holy, sacred, or blessed. It's used to describe places, objects, times, or concepts that are considered sacred or have religious significance. In the plural form 'pühad', it refers to holidays or feast days."
 }

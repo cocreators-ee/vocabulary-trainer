@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen kauplusse.",
-    "Ta läheb tööle.",
-    "Nad lähevad kooli."
+    "Lägeb homme kell seitse.",
+    "Kuidas lägeb teiega?",
+    "Mida sulle lägeb?"
   ],
   "translation": [
-    "go",
     "goes",
-    "going"
+    "is going",
+    "happens",
+    "turns out"
   ],
-  "context": "The word 'läheb' is a verb in Estonian that means to go or move from one place to another, and it is commonly used in everyday conversations to describe someone's action of going somewhere."
+  "context": "The Estonian word 'läheb' is the 3rd person singular present tense form of the verb 'minema' (to go). It can be used in various contexts: 1) To describe movement or travel - someone/something goes/is going somewhere, 2) To ask about how something or someone is doing (similar to English 'How's it going?'), 3) In questions asking what is happening with someone. The word changes form based on tense and subject."
 }

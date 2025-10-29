@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on ohtlik olukord.",
-    "Ta oli väga ohtlik inimene.",
-    "Ohtlikud olud võivad tekkida üsna kiiresti."
+    "See tegevus on ohtlik.",
+    "Ohtlike olukordade vältimiseks tuleb olla ettevaatlik.",
+    "Tema käitumine muutub üha ohtlikumaks."
   ],
   "translation": [
     "dangerous",
     "hazardous",
-    "perilous"
+    "risky"
   ],
-  "context": "The word 'ohtlik' is commonly used to describe a situation or person that poses a threat or risk to someone or something, and it can be translated to English as 'dangerous', 'hazardous', or 'perilous'."
+  "context": "The Estonian word 'ohtlik' is an adjective that means dangerous, hazardous, or risky. It describes something that poses a threat to safety or well-being. The word comes from the noun 'oht' (danger) and the suffix '-lik' which forms adjectives meaning 'having the quality of'. In different contexts, it can describe physical dangers, risky behaviors, hazardous situations, or anything that threatens someone's safety."
 }

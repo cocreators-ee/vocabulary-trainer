@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Viimeistely on tärkeä osa tuotteen valmistusta.",
-    "Hän oli vastuussa viimeistelyn toteuttamisesta.",
-    "Viimeistelyprosessi kestää useita tunteja."
+    "Viimeistely on tärkeä osa rakennusprosessia.",
+    "Tämä vaatii huolellista viimeistelyä.",
+    "Auto tarvitsee vielä lopullisen viimeistyksen."
   ],
   "translation": [
-    "completion",
     "finishing",
-    "finalization"
+    "completion",
+    "polish",
+    "refinement"
   ],
-  "context": "The word 'viimeistely' refers to the process of completing or finalizing something, often in the context of manufacturing or product development. It can also refer to the final stages of a project or task."
+  "context": "Viimeistely is a Finnish noun that refers to the final stage of work or process, particularly in construction, manufacturing, or craft. It involves adding the finishing touches, refinement, and polishing to complete something properly. The word comes from the verb 'viimeistellä' (to finish) and carries the sense of bringing something to its completed state with care and attention to detail."
 }

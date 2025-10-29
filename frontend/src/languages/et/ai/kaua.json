@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kaua aega oodanud seda päeva.",
-    "Ta on kaua töötanud selle projekti kallal.",
-    "Kaua aega tagasi elasid inimesed teisiti."
+    "Kaua sa oled siin?",
+    "Me ei saa kaua seista.",
+    "Ta jooksis kaua."
   ],
   "translation": [
-    "long",
-    "for a long time"
+    "for a long time",
+    "how long"
   ],
-  "context": "The word 'kaua' in Estonian means 'for a long time' or 'long', and is commonly used to describe a duration or a period of time that is extended or prolonged."
+  "context": "The Estonian word 'kaua' is an adverb that means 'for a long time' or 'how long'. It can be used to ask about duration ('Kaua sa oled siin?' - How long have you been here?) or to state that something lasts for a considerable period of time ('Me ei saa kaua seista.' - We cannot stand for a long time)."
 }

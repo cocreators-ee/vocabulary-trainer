@@ -1,14 +1,13 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Kell kella kolm teki seisma.",
-    "Ta oli nii väsimust, et ta jättis jalutamise ja hakkas seisma puhata.",
-    "Mõnikord on vaja lihtsalt seisma jääda ja mõista olukorda."
+    "Ma seisin aias.",
+    "Ta seisab poes ootamas.",
+    "Meie seisime järjekorras."
   ],
   "translation": [
-    "to stop",
-    "to stand still"
+    "to stand",
+    "to be standing"
   ],
-  "context": "The word 'seisma' is a verb in Estonian meaning to stop or to stand still. It's commonly used to describe ceasing an action or movement."
+  "context": "The Estonian verb 'seisma' is the basic infinitive form meaning 'to stand'. It's an imperfective verb that describes a state of being in an upright position on one's feet. The word changes form depending on tense, person, and number - for example, 'seisan' means I stand (present), 'seisad' means you stand (informal singular), 'seisev' means standing (present participle). It's commonly used in everyday situations to describe someone being physically upright rather than sitting or lying down."
 }

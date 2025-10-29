@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tulistas mind",
-    "Tulista tuli ei olnud nii kuum",
-    "Politsei peatas tulistanud mehe"
+    "Tulistage vastase positsioone!",
+    "Sõdur tulistas kuuli.",
+    "Poliitiline tulistamine on keelatud."
   ],
   "translation": [
-    "shoot",
-    "fire",
-    "blaze"
+    "to shoot (a weapon)",
+    "to fire (at someone/something)"
   ],
-  "context": "The word 'tulista' in Estonian means to shoot or fire, and it is commonly used in the context of guns or other weapons being discharged."
+  "context": "The Estonian verb 'tulista' means to shoot or fire a weapon. It is used in contexts involving firearms, such as military actions, hunting, or describing shooting incidents. The word comes from the noun 'tuli' meaning fire, and the suffix '-sta' makes it an action verb indicating the act of firing/shooting."
 }

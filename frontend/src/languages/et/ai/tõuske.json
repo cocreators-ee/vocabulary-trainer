@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Palun tõuske!",
-    "Tõuske üles ja aidake mind.",
-    "Ta tõusis voodist."
+    "Tõuske üles!",
+    "Tõuske sellele toolile.",
+    "Lapsed tõussid kohe pärast kooli."
   ],
   "translation": [
-    "rise",
     "stand up",
+    "rise",
     "get up"
   ],
-  "context": "The word 'tõuske' is an imperative form of the verb 'tõusta', meaning to rise, stand up, or get up. It’s a polite command often used when asking someone to stand."
+  "context": "The word 'tõuske' is the plural imperative form of the verb 'tõusta', meaning 'to rise' or 'to stand up'. It's a command directed to multiple people telling them to get up or stand up. The '-ke' ending indicates this is an informal, polite form used when addressing friends, family members, or people you have a familiar relationship with."
 }

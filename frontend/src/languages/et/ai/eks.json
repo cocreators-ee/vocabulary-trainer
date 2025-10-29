@@ -1,14 +1,15 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Eks ma just pidi kodusse minema.",
-    "Miks sa muidu eksid?",
-    "Ta eksis oma soovide vastu."
+    "Eks me peaksimeki minema.",
+    "Eks sa ei usu seda?",
+    "Eks tegelikult on see nii."
   ],
   "translation": [
-    "perhaps",
-    "may"
+    "of course",
+    "really",
+    "obviously",
+    "certainly"
   ],
-  "context": "The Estonian word 'eks' is used to express uncertainty or possibility, similar to the English words 'perhaps' or 'maybe'. It's often used when suggesting an idea that isn't certain, showing hesitation, doubt, or a conditional thought process."
+  "context": "The Estonian word 'eks' is an adverb that expresses certainty or obviousness. It's used to emphasize the truth of a statement, similar to saying 'of course', 'really', or 'obviously' in English. This word often appears at the beginning of sentences and reinforces that what follows is considered self-evident or unquestionably true."
 }

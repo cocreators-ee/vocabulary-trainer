@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma säästan raha",
-    "Ta säästab energia",
-    "Me säästame keskkonda"
+    "Säästa raha tulevaks aastaks.",
+    "Ta ei saa säästa piisavalt. ",
+    "Ma pean rohkem säästma."
   ],
   "translation": [
-    "save",
-    "conserve",
-    "economize"
+    "to save (money)",
+    "to spare",
+    "to reserve"
   ],
-  "context": "The word säästa is commonly used in Estonian to mean saving or conserving something, such as money, energy, or the environment."
+  "context": "The Estonian verb 'säästa' means to save, typically referring to saving money or resources for future use. It can also mean to spare or reserve something. The word changes form depending on conjugation - the base form is 'säästa', first person singular present is 'säidan', and imperative form is 'säida'. In sentences it may appear as 'säästma' (infinitive with particle) or other conjugated forms."
 }

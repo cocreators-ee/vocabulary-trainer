@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen samas koos sina",
-    "Ta on samas kohas",
-    "Me oleme samas olukorras"
+    "Olen sama meeltega teiega.",
+    "Meil on samad huvid.",
+    "Tema tuleb samal ajal."
   ],
   "translation": [
+    "the same",
     "same",
-    "at the same time",
-    "in the same place"
+    "similar"
   ],
-  "context": "The word 'samas' in Estonian is used to describe something that is happening or existing at the same time, or in the same location as something else."
+  "context": "In Estonian, 'samas' is an adverb that means 'the same' or 'similar'. It's used to indicate equality or similarity between things. The word can appear in different forms depending on the context and grammatical case of the sentence."
 }

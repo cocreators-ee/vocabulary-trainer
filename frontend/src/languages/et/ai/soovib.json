@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta soovib minu sõbra.",
-    "Minu ema soovib kohvile pihlakaid.",
-    "Kas sa soovid tänast koos mind?"
+    "Tema soovib head ööd.",
+    "Lapsed soovivad mängida.",
+    "Meie pere soovib reisida Itaaliasse."
   ],
   "translation": [
     "wants",
-    "desires"
+    "desires",
+    "would like"
   ],
-  "context": "'soovib' means 'wants' or 'desires'. It is commonly used to express a wish for something, whether it be an object, activity, or outcome. The verb can take different forms in sentences depending on the subject and context."
+  "context": "The word 'soovib' is the 3rd person singular form of the verb 'soovima' in Estonian, meaning 'to want' or 'to desire'. It indicates that someone has a wish or desire for something. In English, it can be translated as 'wants', 'desires', or 'would like'. This verb is commonly used to express wishes, desires, or preferences of people."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegi seda veelkord.",
-    "Veelkord on see hea.",
-    "Ma olen veelkord katki löönud."
+    "Sa tulid veelkord!",
+    "Me kohtume veelkord homseks.",
+    "Olen rõõmus näha sind veelkord."
   ],
   "translation": [
     "again",
-    "once more"
+    "one more time",
+    "once again"
   ],
-  "context": "The word 'veelkord' is commonly used in Estonian to mean 'again' or 'once more', indicating that something is happening for another time."
+  "context": "The Estonian word 'veelkord' is an adverb that means 'again' or 'one more time'. It's formed from 'viel' (more) + 'kord' (time). This word indicates repetition of an action or occurrence. In the first sentence, it expresses surprise at someone returning. The second sentence shows scheduling another meeting for tomorrow. The third example conveys happiness about seeing someone again."
 }

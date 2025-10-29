@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän antaa jokaiselle asiakkaalle sijaansa.",
-    "Meillä on sijaamme kaikki tarvittavat varusteet.",
-    "Tämä tuoli on sijaansa hyvin mukava."
+    "Tämä tilanne sijaansaan ei ollut odotettu.",
+    "Hän teki virheen sijaansaan.",
+    "Auto pysähtyi väärälle paikalle sijaansaan."
   ],
   "translation": [
-    "in turn",
-    "instead"
+    "in its place",
+    "instead of it",
+    "in its stead"
   ],
-  "context": "The word sijaansa is a Finnish adverb that means in turn or instead, and it is commonly used to indicate a substitution or a replacement of something or someone."
+  "context": "The word 'sijaansa' is an inessive form (inessive case) of the Finnish word 'sija', meaning 'place'. The '-nsa' suffix indicates possession, so this literally means 'in its place' or 'in its stead'. It's used to indicate that something is located where something else was expected to be, or that one thing has taken the position of another."
 }

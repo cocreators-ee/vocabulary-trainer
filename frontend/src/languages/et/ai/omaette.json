@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on omaette inimene.",
-    "Omaette elamine on raske.",
-    "Ma olen omaette tööline."
+    "See on omaette ilm.",
+    "Ta oli omaette nähtus.",
+    "See moodul on omaette süsteem."
   ],
   "translation": [
+    "separate",
     "independent",
-    "self-contained",
-    "individual"
+    "on its own",
+    "by itself"
   ],
-  "context": "The word 'omaette' in Estonian generally means being independent or self-contained, and it is commonly used to describe someone or something that can stand alone without needing others."
+  "context": "The Estonian word 'omaette' is an adverb that means something exists separately or independently, as if it has its own distinct character or identity. It's often used to describe something that stands on its own, either physically or conceptually, rather than being part of a larger whole. The word combines 'oma' (own) and 'ette' (separate/forward), creating the meaning of 'being separate in itself'."
 }

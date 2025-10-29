@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu vahi on kollane ja väga kiire.",
-    "Temal pole oma vahit.",
-    "Vahi tõi meid koju."
+    "Vahi all olevad inimesed võivad olla ebamugavustundel.",
+    "Poliitiline vahi on tihti karm.",
+    "Aga ta oli ikka enda vahi all."
   ],
   "translation": [
-    "car",
-    "automobile",
-    "vehicle"
+    "guard",
+    "custody",
+    "supervision"
   ],
-  "context": "In Estonian, 'vahi' typically refers to a car or an automobile used for personal transportation. It is commonly used in everyday conversation when talking about owning a vehicle or driving somewhere."
+  "context": "The word 'vahi' in Estonian refers to a state of being guarded, supervised, or held in custody. It can refer to physical security measures like having guards watching over someone/something, or it can be used more broadly to describe the condition of being under supervision or control. The word can appear in different contexts such as 'vahi all' (under guard/custody) and is related to concepts of protection but also restriction of freedom."
 }

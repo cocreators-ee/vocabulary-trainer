@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tahab töötada arstina.",
-    "Me peame töötama koos, et selle probleemi lahendada.",
-    "Nad töötavad ööd ja päevad, et projekti lõpetada."
+    "Töötan tööd.",
+    "Ta ei tööta täna.",
+    "Me töötame koos."
   ],
   "translation": [
     "to work",
-    "work"
+    "to function",
+    "to operate"
   ],
-  "context": "The word 'tööta' in Estonian means 'to work' or 'work' as a verb. It is commonly used to describe the act of performing labor or being employed."
+  "context": "The Estonian verb 'tööta' is a versatile word that primarily means 'to work'. It can be used in various contexts including employment, functioning of machines or systems, and general activity. The verb conjugates according to subject and tense - for example, 'töötan' (I work), 'töötab' (he/she works), and 'töötame' (we work). In addition to professional work context, it can describe how well something functions or operates."
 }

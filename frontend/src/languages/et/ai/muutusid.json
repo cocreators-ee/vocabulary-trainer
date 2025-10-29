@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Sa muutusid minu elu.",
-    "Ta muutusid oma arvamus.",
-    "Muutusid sina mind?",
-    "Oma käitumist pead muutusid."
+    "Muutusid head ilmad.",
+    "Elu muutusid oluliselt.",
+    "Töölised muutusid palju töötama."
   ],
   "translation": [
     "changed",
-    "altered"
+    "became",
+    "turned into"
   ],
-  "context": "The word 'muutusid' is the second person past tense form of the Estonian verb 'muuta,' which means to change or alter something. It is commonly used in sentences where someone has changed an opinion, behavior, circumstances, etc., and it's directed at you as the person who made that change."
+  "context": "The word 'muutusid' is the past tense plural form of the Estonian verb 'muutuma', which means 'to change'. It describes something that has changed or become different in the past. The '-sid' ending indicates it's in the past tense and plural, meaning multiple things/people have changed."
 }

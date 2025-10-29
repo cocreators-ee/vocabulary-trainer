@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma peatadan seda küsimust",
-    "Ta peatadas võistlust",
-    "Nende peatamised said tuntuks"
+    "Peatame bussi ja vaatame ümbritsevat.",
+    "Auto peatus peatustunnusega.",
+    "Pead peatama oma käitumist."
   ],
   "translation": [
-    "to postpone",
-    "to delay"
+    "to stop (transitive)",
+    "to halt",
+    "to park",
+    "to interrupt"
   ],
-  "context": "The word peatada is commonly used in Estonian to mean postponing or delaying something, often used in formal or official contexts."
+  "context": "The Estonian verb 'peatada' is a transitive verb that means to cause something or someone to come to a halt. It can be used in various contexts: stopping vehicles, pausing activities, interrupting processes, or parking cars. The word indicates an action of bringing movement or activity to a temporary end."
 }

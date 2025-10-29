@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta otsustas tulistama politseile",
-    "Tulistama tuleb ainult viimase abina",
-    "Meil on õigus end kaitsta, kuid mitte tulistama"
+    "Tulistasin märtsis.",
+    "Me tulistame varsti uue albumi.",
+    "Kas sa tuled tulistama?"
   ],
   "translation": [
-    "to shoot",
-    "shoot at",
-    "fire at"
+    "to shoot (a gun)",
+    "to fire (a weapon)",
+    "to release (an album/music)"
   ],
-  "context": "The word 'tulistama' in Estonian means to shoot or fire at something or someone, often used in the context of using a weapon, and it is commonly used in situations where someone is trying to harm or defend themselves."
+  "context": "The word 'tulistama' is an Estonian verb that primarily means 'to shoot' or 'to fire' a weapon. In its infinitive form, it indicates the action of discharging a firearm. It can also be used in a non-literal sense to mean 'to release' or 'to put out', particularly when referring to releasing music albums or other creative works. The verb changes according to tense and subject conjugation - for example, 'tulistasin' is first person past singular (I shot), 'tulistame' is first person present plural (we shoot/are shooting)."
 }

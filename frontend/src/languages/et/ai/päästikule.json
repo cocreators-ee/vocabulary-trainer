@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Soovitan helistada päästikule ja öelda neile, et see ei ole hädaolek."
+    "Päästikule vajutasin kiiresti.",
+    "Ta oli valmis päästikule astuma.",
+    "Kõigepealt tuleb õppida kasutama päästikut ja siis päästikule."
   ],
   "translation": [
-    "to the emergency services",
-    "for emergencies",
-    "emergency"
+    "trigger",
+    "button",
+    "switch"
   ],
-  "context": "'päästikule' is an Estonian prepositional phrase meaning 'to the emergency services', typically used when calling for help during a crisis or accident. It can also be interpreted as referring to emergency equipment."
+  "context": "The word 'päästikule' is in the allative case, meaning it shows direction toward something. It's derived from 'päästik' (trigger/button) + '-le' (allative case ending). This form indicates movement or action directed toward a trigger or button. In Estonian grammar, this would be used when you're talking about moving toward or acting upon a trigger/button."
 }

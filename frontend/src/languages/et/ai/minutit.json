@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minutit on aeg, mida ma ootan.",
-    "Ta võttis minutid, et kontrollida oma telefoni.",
-    "Tal on ainult paar minutit, enne kui ta peab minema."
+    "Olen oodanud teid kolm minutit.",
+    "See kestab vaid ühe minuti.",
+    "Mitu minutit on kell?"
   ],
   "translation": [
+    "minute (as in time)",
     "minutes"
   ],
-  "context": "The word 'minutit' refers to a unit of time in Estonian, equivalent to the English word 'minutes', and is commonly used to express a duration or a period of time."
+  "context": "The Estonian word 'minutit' is the partitive case form of the noun 'minut', which means 'minute'. The partitive case is commonly used with units of time, especially when referring to an unspecified or indefinite duration. It's similar to saying 'some minutes' or just 'minutes' in English without specifying an exact number."
 }

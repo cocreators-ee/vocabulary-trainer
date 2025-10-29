@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tapavad inimesed.",
-    "Märkasin, et neil on kavas tapavad tegevused.",
-    "Ta oli nii ärrutatud, et hakkas tapavad tegutsema."
+    "Eesti mehed tapavad küülikuid.",
+    "Jõuludel tapame sigu.",
+    "Linnad, kus tapakse palju metsloomi."
   ],
   "translation": [
-    "kill"
+    "kill",
+    "slaughter",
+    "butcher"
   ],
-  "context": "The verb 'tapavad' means to kill. It is commonly used in contexts related to violence or death, such as describing someone who kills people or engages in violent behavior."
+  "context": "The word 'tapavad' is the 3rd person plural present indicative form of the Estonian verb 'tappama', which means to kill or slaughter. This form specifically indicates that a group of subjects (they) perform the action of killing in the present tense."
 }

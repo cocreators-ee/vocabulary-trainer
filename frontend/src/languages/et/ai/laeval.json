@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elas laeval.",
-    "Laeval oli palju inimesi.",
-    "Me istusime laeval ja vaatasime merele."
+    "Misin laeval?",
+    "Laev peab sadamasse kell 15:00.",
+    "Tere tulemast meie uuele laeval!"
   ],
   "translation": [
     "on the ship",
-    "at sea"
+    "on the boat",
+    "aboard"
   ],
-  "context": "The word 'laeval' is used to describe something that is happening or located on a ship, and it can be translated to English as 'on the ship' or 'at sea', depending on the context in which it is being used."
+  "context": "The Estonian word 'laeval' is the adessive case form of the noun 'laev', which means 'ship' or 'boat'. In this form, it indicates location - specifically being on a ship/boat. The '-l' ending at the end of words in Estonian typically denotes location (on/at/in). This word would be used when talking about someone's location relative to a ship."
 }

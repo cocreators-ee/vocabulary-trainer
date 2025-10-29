@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin tööd Tallinnas.",
-    "Tööd on palju ja aega vähe.",
-    "Ta tegi tööd õhtul."
+    "Tema tööd on väga head.",
+    "Mul on palju tööd teha.",
+    "Õpilased tegid oma tööd hästi."
   ],
   "translation": [
     "work",
-    "jobs"
+    "job",
+    "task",
+    "labor"
   ],
-  "context": "The word 'tööd' is the plural form of 'töö', which means work or job in English, and it is commonly used to refer to employment or tasks that need to be done."
+  "context": "The word 'tööd' is the plural form of 'töö' in Estonian, meaning work, job, task, or labor. It can refer to multiple pieces of work, various jobs, or tasks that need to be completed. In Estonian grammar, adding '-d' to a noun typically makes it plural, so tööd represents multiple works or jobs rather than a single one."
 }

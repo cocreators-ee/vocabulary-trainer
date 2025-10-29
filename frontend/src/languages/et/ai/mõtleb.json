@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tõesti mõtleb sinu soovituse peale.",
-    "Mäletad, et sa ei tohi siin koju mõtlema jätta?",
-    "Kui tean, et teie lugu kuulamisel kah justkui sarnane mõtlemine on oluline."
+    "Mõtleb enne kui vastab.",
+    "Ta alati mõtleb hästi.",
+    "Kes mõtleb selle üle?"
   ],
   "translation": [
     "thinks",
-    "is thinking"
+    "is thinking",
+    "ponders"
   ],
-  "context": "The word 'mõtleb' is the third person singular form of the verb 'to think'. It's commonly used in daily conversation to describe someone who is considering something or processing information mentally."
+  "context": "The word 'mõtleb' is the third person singular form of the Estonian verb 'mõtlema', which means 'to think'. It indicates that someone (he, she, it) is currently engaged in the process of thinking or considering something."
 }

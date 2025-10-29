@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tegelem tegevusega",
-    "Tegeleme on oluline osa meie igapäevaelus",
-    "Ta tegeleb väga hästi oma tööga"
+    "Me tegeleme projektiga",
+    "Nad tegelevad ettevõtlusega",
+    "Tegelen täna koolitööd"
   ],
   "translation": [
-    "occupation",
-    "activity",
-    "pursuit"
+    "deal with",
+    "handle",
+    "manage",
+    "work on",
+    "engage in"
   ],
-  "context": "The word 'tegeleme' in Estonian refers to an activity or occupation that someone is engaged in, and it is commonly used to describe a person's profession, hobby, or any other type of endeavor they are involved in."
+  "context": "The word 'tegeleme' is the 1st person plural present indicative form of the verb 'tegema', which means 'to do' or 'to make'. In this conjugated form, it specifically means 'we are doing/handling/managing/engaged in something'. It's commonly used to describe what a group (including the speaker) is currently working on, dealing with, or engaged in. The '-leme' ending indicates the 1st person plural subject ('we') and present tense."
 }

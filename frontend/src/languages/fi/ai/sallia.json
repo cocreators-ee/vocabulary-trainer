@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän salli minun mennä elokuviin",
-    "Sallitko sinä minun syödä tämän?",
-    "Laki sallii tämän toiminnan"
+    "Sallin sen.",
+    "Hän ei salli epäjärjestystä.",
+    "Meidän täytyy sallia enemmän vapautta."
   ],
   "translation": [
-    "allow",
-    "permit"
+    "to allow",
+    "to permit",
+    "to tolerate"
   ],
-  "context": "The word 'sallia' in Finnish means to give permission or allow something to happen, and it is commonly used in sentences to express the idea of granting consent or approval."
+  "context": "The Finnish verb 'sallia' means to allow, permit or tolerate. It's used when someone has the authority to give permission or when something is being accepted despite potential objections. The word can be in different forms depending on context: present tense 'sallin' (I allow), negative 'ei salli' (doesn't allow), and infinitive form 'sallia'."
 }

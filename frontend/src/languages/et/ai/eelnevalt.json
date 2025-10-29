@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta eelnevalt teadis vastust.",
-    "Ei olnud midagi eelnevalt ette arvatud.",
-    "Meil oli eelnev kokkulepe."
+    "Eelnevalt öeldud, meil on hea koht.",
+    "Palun eelnevalt registreeruge sissepoistumiseks.",
+    "Ta oli eelnevalt teatanud oma tulekust."
   ],
   "translation": [
     "previously",
-    "in advance"
+    "beforehand",
+    "in advance",
+    "earlier"
   ],
-  "context": "'Eelnevalt' is used to indicate something that happened or was done before a particular time or event. It can mean 'previously,' 'beforehand,' or 'in advance.' Commonly used in contexts such as prior knowledge, preparation, or agreements."
+  "context": "The Estonian adverb 'eelnevalt' means previously, beforehand, or in advance. It is used to indicate that something happened before another event or reference point. The word breaks down as 'eel-' (prefix meaning 'before') + '-nev-' (relating to coming/preceding) + '-alt' (adverbial suffix), literally translating to 'in a preceding manner'."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Endine peaminister oli kohal.",
-    "Ta on endine jalgpallur.",
-    "Endised kolleegid kohtusid jälle."
+    "Endine president naasis linna.",
+    "Ta oli endine kooliõpetaja.",
+    "Endised õpilased tulid tagasi."
   ],
   "translation": [
     "former",
+    "ex-",
     "previous"
   ],
-  "context": "The word 'endine' in Estonian is commonly used to describe something or someone that existed or was true in the past, but is not currently. It can be translated to English as 'former' or 'previous'."
+  "context": "The Estonian word 'endine' is an adjective that means 'former', 'ex-', or 'previous'. It's used to indicate someone who previously held a position or had a particular role but no longer does. For example, 'endine president' means 'former president', and 'endine õpetaja' means 'former teacher'. The word is always in the singular nominative form when used as an adjective modifying nouns."
 }

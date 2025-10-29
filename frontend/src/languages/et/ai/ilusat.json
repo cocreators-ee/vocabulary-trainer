@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma soovin sulle ilusat päeva",
-    "Ilusat aega!",
-    "Ta on ilus ja ilusat"
+    "Ilusat päeva!",
+    "Nägin ilusat loodust.",
+    "Talveööd on alati ilusad."
   ],
   "translation": [
     "beautiful",
     "lovely",
-    "nice"
+    "pretty"
   ],
-  "context": "The word ilusat is an adjective in Estonian that means beautiful or lovely, it is commonly used to describe something or someone that is pleasing to the eye or enjoyable to experience."
+  "context": "The word 'ilusat' is the partitive singular form of the Estonian adjective 'iline', which means beautiful or lovely. It's used to describe something that is aesthetically pleasing in feminine gender, and typically follows the noun it modifies in the partitive case. The word can be used to describe natural scenery, objects, experiences, or abstract concepts that are visually attractive or pleasant."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä syön leipää tai juurenleikkuja",
-    "Hän ei tiedä, pitäisikö hänellä olla auto vai pyörä",
-    "Tämä koira on pienempi kuin se toinen tai suurempi"
+    "Minä haluan kahvi tai tee.",
+    "Hän tulee huomaina tai ylihuomenna.",
+    "Sinä saat valita mehun tai veden."
   ],
   "translation": [
-    "or"
+    "or",
+    "either"
   ],
-  "context": "The word 'tai' is a conjunction used to connect words or phrases that have the same grammatical function, it is commonly used to present alternatives."
+  "context": "The Finnish word 'tai' is a conjunction used to present alternatives or choices. It corresponds to the English word 'or' and functions similarly in sentences where options are being presented. It can be used between two nouns, verbs, phrases, or clauses to indicate that one or the other (but not both) should be selected."
 }

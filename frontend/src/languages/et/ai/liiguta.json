@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma liigutan tooli",
-    "Taan lõpetas liigutamise",
-    "Liiguta see asi siit!"
+    "Liiguta seda tooli teise tuppa.",
+    "Palun liiguta oma jalad ära minu eest.",
+    "Kas sa võiksid liiguda veidi paremale?"
   ],
   "translation": [
     "move",
     "shift",
     "displace"
   ],
-  "context": "The word liiguta is commonly used in Estonian to mean moving something from one place to another, and can be used in various contexts such as giving instructions or describing physical actions."
+  "context": "The word 'liiguta' is the imperative form (command) of the verb 'liikuma', meaning 'to move'. It's used when telling someone to shift or displace something from one position to another. This could be moving physical objects, furniture, or even people in some contexts."
 }

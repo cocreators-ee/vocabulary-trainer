@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma küsisin meetrite kaugusele.",
-    "Ta on hea meetrites mõõtmises.",
-    "Me kasutame sageli meetreid pikkuste määramiseks."
+    "Tema jooksis meetrit kolm.",
+    "Lapse pikkus on üheksa meetrit.",
+    "Mõõdame teed meetrites."
   ],
   "translation": [
     "meters"
   ],
-  "context": "The word meetrit is a noun in Estonian that refers to a unit of length, and it is commonly used when describing distances or sizes in metric units."
+  "context": "The word 'meetrit' is the partitive case singular form of 'meeter', which means 'meter' (the unit of length measurement). In Estonian, when you're talking about a quantity or amount of meters that isn't specified as a whole number, you use the partitive case. For example, 'üheksa meetrit' means nine meters (but could be interpreted as approximately nine meters or some unspecified amount of meters)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hänellä on oma luokkansa.",
-    "Tämä tulos kuuluu korkeimpaan luokkaan.",
-    "Eri luokat voivat erota toisistaan paljon."
+    "Minun luokkani on kolmas kerros.",
+    "Tule luokkaan, sinulla on puhelu.",
+    "Opettajamme tulee luokan jälkeen."
   ],
   "translation": [
-    "class",
-    "category"
+    "classroom",
+    "grade",
+    "form"
   ],
-  "context": "Luokka refers to a class or category, often used in contexts like social classes, school classes, or categories for classification purposes."
+  "context": "The Finnish word 'luokka' has multiple related meanings depending on context. It can refer to a physical classroom/school room where teaching takes place, the grade or form level in school (like 'third class'), or social groups/classes more generally."
 }

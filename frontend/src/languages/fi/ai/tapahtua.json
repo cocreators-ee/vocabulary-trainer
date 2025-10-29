@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä tapahtuu usein",
-    "Hän ei tiennyt mitä tapahtuisi",
-    "Me emme voineet estää sitä tapahtumasta"
+    "Tämä tapahtuu joka vuosi.",
+    "Mitä täällä tapahtuu?",
+    "Tapahtuipa jotain odottamatonta."
   ],
   "translation": [
-    "to happen",
-    "occur"
+    "happen",
+    "occur",
+    "take place"
   ],
-  "context": "The word 'tapahtua' is commonly used in Finnish to describe an event or situation that is happening or taking place, and it can be translated to English as 'to happen' or 'occur'."
+  "context": "The Finnish verb 'tapahtua' means to happen or occur. It's an impersonal verb that doesn't have a subject, as events naturally don't perform the action of happening on their own - they just happen. The word is often used when describing events, incidents, or occurrences without specifying who caused them."
 }

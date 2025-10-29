@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma proovin seda veel üks kord.",
-    "Proovige see kohe!",
-    "Ta on juba mitu korda proovinud."
+    "Proovi seda juustu!",
+    "Ma proovisin eile uut restorani.",
+    "Kas sa proovid seda koju viia?"
   ],
   "translation": [
     "try",
     "attempt",
     "test"
   ],
-  "context": "The word 'proovi' is a verb in Estonian that means to try or attempt something, and it is commonly used in everyday conversations to encourage someone to do something or to describe an effort to accomplish a task."
+  "context": "The Estonian word 'proovi' is the imperative form of the verb 'proovima', which means 'to try' or 'to attempt'. It's used when giving a command or suggestion to someone else to try something. In different contexts, it can be translated as 'try' (when suggesting an action), 'attempt' (for making an effort at something difficult), or 'test' (when trying out something new). The word comes from the verb root 'proov-' which relates to testing or experiencing."
 }

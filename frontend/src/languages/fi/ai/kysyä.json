@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä kysyn häneltä auttaisiko hän minua.",
-    "Hänellä on tapana kysyä outoja kysymyksiä.",
-    "Kysyttekö te mitään?"
+    "Kysyn sinulta tietoa.",
+    "Hän kysi minulta nimeni.",
+    "He kysivät apua."
   ],
   "translation": [
     "to ask",
+    "inquire",
     "question"
   ],
-  "context": "The word 'kysyä' is commonly used in Finnish to mean 'to ask' or 'to question', and it can be used in various contexts such as asking for help, information, or clarification."
+  "context": "The Finnish verb 'kysyä' means to ask or inquire about something. It's a common regular verb that follows conjugation patterns in different tenses and moods. When used, it typically indicates someone is seeking information from another person."
 }

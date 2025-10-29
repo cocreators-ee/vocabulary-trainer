@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tundsin rõõmu",
-    "Rõõm on hea tunne",
-    "Ta näitas rõõmu oma ilme"
+    "Taas tuli rõõmu naeratustest.",
+    "Õhtune rõõmu oli kogu pere jaoks.",
+    "Pärast pikka tööpäeva sai rõõmu lõpetada päeva."
   ],
   "translation": [
     "joy",
-    "delight",
-    "happiness"
+    "happiness",
+    "delight"
   ],
-  "context": "The word refers to a feeling of great pleasure or happiness, often used to describe a positive emotional state."
+  "context": "The word 'rõõmu' is the genitive singular form of 'rõõm', meaning joy or happiness. In Estonian, the genitive case typically indicates possession or relationship to another noun. So 'rõõmu' would mean 'of joy' or 'joy's'. It can be used with other nouns to describe something that belongs to or is associated with joy."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän täyttää vaatimukset",
-    "Täyttääkö hän vaatimukset?",
-    "Vaatimukset täyttyvät"
+    "Minun täytyy täyttää tämä lomake.",
+    "Hän täytti kirjeen huolellisesti.",
+    "Tämä tilanne täytti minut ilolla."
   ],
   "translation": [
-    "fulfill",
-    "meet",
-    "satisfy"
+    "to fill",
+    "to fulfill",
+    "to complete",
+    "to satisfy"
   ],
-  "context": "The word täyttää is commonly used in Finnish to mean fulfill, meet or satisfy a requirement or expectation, and it can be used in various contexts such as formal or informal settings."
+  "context": "The Finnish verb 'täyttää' has multiple meanings depending on context. It can mean 'to fill' (as in filling a container or form), 'to fulfill' (meeting requirements or expectations), 'to complete' (finishing something), and 'to satisfy' (meeting someone's needs or desires). The word is formed from the root 'täy-' (full) plus the verb suffix '-tää', indicating it relates to making something full."
 }

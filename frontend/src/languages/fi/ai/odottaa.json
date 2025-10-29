@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä odottan bussia.",
-    "He odottavat junaansa.",
-    "Me odotimme lääkärin potilasta."
+    "Minä odotan bussia.",
+    "Hän odotti minua asemalla.",
+    "He ovat odottaneet jo tuntia."
   ],
   "translation": [
     "to wait",
-    "await"
+    "to expect",
+    "to await"
   ],
-  "context": "The word odottaa is commonly used in Finnish to mean waiting for something or someone, and it can be used in different contexts such as waiting for a bus, awaiting news, or expecting a guest."
+  "context": "The Finnish verb 'odottaa' means to wait, expect, or await. It's used when waiting for something to happen or someone to arrive, as well as when anticipating or expecting something. The verb can be conjugated in different tenses - here we see present tense (odotan/odottavat), past tense (odotti), and present perfect (ovat odottaneet)."
 }

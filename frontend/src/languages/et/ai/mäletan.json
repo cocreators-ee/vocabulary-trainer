@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mäletan seda ööd hästi.",
-    "Ta mäletab kõiki oma klassikaaslasi.",
-    "Ma ei mäleta enam tema nime."
+    "Mäletan, et ma tegin see.",
+    "Ma ei mäleta tema nime.",
+    "Kas sa mäledad seda päeva?"
   ],
   "translation": [
     "remember",
-    "recall"
+    "recall",
+    "memorize"
   ],
-  "context": "The word 'mäletan' is a verb in Estonian that means to remember or recall something, and it is commonly used in everyday conversations to express that someone has a memory of a particular event, person, or thing."
+  "context": "The Estonian word 'mäletan' is the first person singular form of the verb meaning 'to remember' or 'to recall'. It indicates that the speaker has a memory of something. The root 'mäl-' relates to memory, and the '-tan' ending is characteristic of the present tense first person singular conjugation in Estonian verbs."
 }

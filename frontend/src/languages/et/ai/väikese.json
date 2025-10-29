@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis väikese kohvi.",
-    "Väikese tüdruku nimi on Maria.",
-    "Väikesed lapsed armastavad mänge."
+    "Ma ostsin väikese lapse jaoks mängu.",
+    "See on väike koer, aga ta on armas.",
+    "Tal on väikesed jalad."
   ],
   "translation": [
     "small",
-    "little"
+    "little",
+    "tiny"
   ],
-  "context": "The word väikese is an adjective in Estonian that means small or little, and it is commonly used to describe something that has a limited size or amount."
+  "context": "\"Väikese\" is the illative case singular form of the Estonian adjective \"väike\", meaning \"small\" or \"little\". The illative case typically indicates motion into a place, but it can also be used for certain grammatical constructions including with certain prepositions or in possessive constructions where English would use \"of a small...\" or \"with a small...\". In the examples provided, it shows different ways this form might appear in context."
 }

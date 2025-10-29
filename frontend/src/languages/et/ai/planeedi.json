@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on planeedi elanik.",
-    "Planeedi suurus on väga suur.",
-    "Meie planeedi nimi on Maa."
+    "Planeeti Põhjanael on näha ka siin",
+    "Meil on kaks planeedi Mars ja Veenus",
+    "See väike planeeti tiirleb ümbritsevad taevakehad"
   ],
   "translation": [
     "planet",
-    "planetary"
+    "planetary body",
+    "celestial body orbiting a star"
   ],
-  "context": "The word 'planeedi' in Estonian refers to something related to or characteristic of a planet, and is commonly used in astronomical contexts to describe objects or phenomena associated with planets."
+  "context": "The word 'planeedi' in Estonian refers to a planet, which is a celestial body that orbits around a star. In Estonian grammar, this would be in the partitive case when used with verbs like 'näha' (to see) or as an object. The singular form would be 'planeet', and 'planeeti' appears to be in some oblique case form. Planets are significant objects in astronomy and often studied for their characteristics, orbits, and potential for life."
 }

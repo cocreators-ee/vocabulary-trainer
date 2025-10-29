@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on elanud mitme aastate jooksul eri kohtades.",
-    "Aastate lõpuks oli ta saavutanud edu.",
-    "Mitmed aastate pikkune töö oli viinud edule."
+    "Ta on töötanud selles ettevõttes aastate viimased.",
+    "Meie suur peremees elab aastate tagasi.",
+    "Kõik need muutused on toimunud aastate jooksul."
   ],
   "translation": [
-    "years"
+    "years",
+    "for years"
   ],
-  "context": "The word 'aastate' is the genitive plural form of the Estonian word for 'year', and it is commonly used to express a period of time or duration in years."
+  "context": "The word 'aastate' is the Estonian genitive plural form of the word 'aasta', meaning 'year'. In this case, it indicates possession or relationship with multiple years. It can be translated as 'of years' or used to express duration like 'for years'. This form often follows possessive pronouns or appears in expressions indicating time periods."
 }

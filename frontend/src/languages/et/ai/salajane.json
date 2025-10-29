@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Salajane kohtumine toimus öösel.",
-    "Ta võttis salajase missiooni vastu.",
-    "Salajased dokumendid olid võtme rollis skandaalis."
+    "Salajased dokumendid olukorrast hoiavad teda teadlikuna.",
+    "See on salajane informatsioon.",
+    "Me peame säilitama salajase suhtluse."
   ],
   "translation": [
     "secret",
-    "covert",
-    "clandestine"
+    "confidential",
+    "hidden"
   ],
-  "context": "The word 'salajane' in Estonian refers to something that is kept hidden or concealed from others, often implying a sense of secrecy or confidentiality. It can be used to describe secret meetings, covert operations, or clandestine activities."
+  "context": "The Estonian word 'salajane' is an adjective that means 'secret' or 'confidential'. It describes something that is kept hidden from others, not disclosed to the public, or intended to remain unknown. The word can be used in various contexts such as secret documents, confidential information, hidden agendas, etc."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tema klassi õpetaja on väga karm.",
-    "Ma liitusin uue klassiga eelmisel nädalal.",
-    "See lugu meenutab mulle minu vanaisa klassimärke."
+    "Klassis on pal õpilasi.",
+    "Ming klassi minna.",
+    "Tema on klassi parim õpilane."
   ],
   "translation": [
-    "class",
-    "grade (school)",
-    "classy, elegant"
+    "in the classroom",
+    "to class",
+    "of the class"
   ],
-  "context": "Klassi refers to a group of students in the same class or grade at school. It can also describe something as 'classy' or 'elegant' when used informally."
+  "context": "\"Klassi\" is the elative case form of \"klass\" (class). It can mean 'in the classroom' indicating location inside a classroom, 'to class' indicating movement toward a classroom, or it can be used as part of possessive constructions meaning 'of the class'. The exact meaning depends on the sentence context."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvanud, et see on hea mõte",
-    "Ta arvanud, et tema sõber on õige",
-    "Meie arvanud, et see on parem variant"
+    "Arvanud, et sa tuleksid homme.",
+    "Ta oli arvanud, et me ei peakski lõpetama.",
+    "Oled veel mitte kordagi arvanud seda vastust?"
   ],
   "translation": [
     "thought",
     "believed",
     "assumed"
   ],
-  "context": "The word 'arvanud' is the past tense of the Estonian verb 'arvama', which means to think or believe something. It is commonly used in sentences to express a thought or opinion that someone had in the past."
+  "context": "The word 'arvanud' is the past participle form of the Estonian verb 'arvama', which means 'to think' or 'to believe'. It indicates that someone has had a thought or made an assumption in the past. In English, it can be translated as 'thought', 'believed', or 'assumed'. The word appears in contexts where recalling previous thoughts or assumptions is important."
 }

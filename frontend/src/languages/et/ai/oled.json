@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen Estonian.",
-    "Sa oled hea sõber.",
-    "Ta on väga ilus."
+    "Oled heas seisundis.",
+    "Oled alati meie jaoks oluline.",
+    "Kus oled?"
   ],
   "translation": [
-    "are",
-    "is",
-    "am"
+    "you are",
+    "thou art",
+    "art"
   ],
-  "context": "The word 'oled' is the second person singular form of the verb 'olema', which means 'to be'. It is commonly used in Estonian to describe a state or condition, similar to how 'are' or 'is' would be used in English."
+  "context": "The word 'oled' is the second person singular present tense form of the verb 'olema', which means 'to be'. It corresponds to English 'you are' or 'art' in more formal/archaic contexts. This is used when addressing one person directly (singular) about their current state or existence."
 }

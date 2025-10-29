@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen sealt ära",
-    "Ta tuli sealt tagasi",
-    "Me ei saa sealt enam välja"
+    "Tuli sealt majast",
+    "Minge sealt ära",
+    "Ta tuli sealt linna"
   ],
   "translation": [
     "from there",
-    "therefrom"
+    "thence",
+    "hence"
   ],
-  "context": "The word 'sealt' is used in Estonian to indicate movement away from a place or location, similar to the English phrase 'from there'."
+  "context": "The Estonian word 'sealt' is an adverb meaning 'from there' or 'thence'. It indicates direction or origin from a distant place. The word is formed by combining 'se-' (that) with '-alt' (from/away), literally meaning 'from that place'. In Estonian grammar, it's an inessive case form used to indicate source or departure point."
 }

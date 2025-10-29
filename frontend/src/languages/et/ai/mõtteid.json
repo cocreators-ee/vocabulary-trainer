@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mõtlen sellesse teemasse palju mõtteid.",
-    "Tal on hea meel, kui ta saab enda mõtteid jagada.",
-    "Mõteteni jõudis ta alles siis, kui oli juba liiga hilja."
+    "Mul on palju mõtteid selle kohta.",
+    "Ta jagas oma mõtteid meiega.",
+    "Mõtteid vahetati terve õhtu."
   ],
   "translation": [
     "thoughts",
     "ideas",
-    "notions"
+    "reflections"
   ],
-  "context": "The word 'mõtteid' is the plural form of 'mõte', which refers to thoughts or ideas in one's mind. It is commonly used to express opinions, reflections, or notions about something."
+  "context": "The word 'mõtteid' is the partitive plural form of 'mõte', which means 'thought' or 'idea'. In Estonian, the partitive case is often used with verbs that indicate having something, thinking about something, or discussing something. So when you have thoughts (mul on mõtteid), think about thoughts (ma mõtlen mõtteid), or discuss thoughts (me räägime mõtteid), you use the partitive plural form 'mõtteid'."
 }

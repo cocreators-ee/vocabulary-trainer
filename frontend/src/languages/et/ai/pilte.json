@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan pilte vaadata.",
-    "See on ilus pilte loodusest.",
-    "Pilte saab salvestada arvutisse."
+    "Ma võtan pilte.",
+    "Ta näitab pilte lastele.",
+    "Me vaatame pilte koos."
   ],
   "translation": [
-    "picture",
-    "image",
-    "photo"
+    "pictures",
+    "photos",
+    "images"
   ],
-  "context": "The word 'pilte' in Estonian translates to 'picture', 'image', or 'photo' in English. It is commonly used to refer to visual representations, whether they are photographs, paintings, drawings, or digital images."
+  "context": "The word 'pilte' is the partitive case plural form of 'pilt', which means 'picture' or 'photo'. In Estonian, the partitive case is commonly used when referring to objects in a non-specific quantity or when expressing action related to them. This form typically indicates that some pictures/photos are being referred to without specifying an exact number."
 }

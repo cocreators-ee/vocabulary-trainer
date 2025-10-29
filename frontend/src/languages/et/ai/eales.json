@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta eales said puhkuseks.",
-    "Eales on vaja rohkem sportida.",
-    "Minu eales ei saa kunagi piisavalt und."
+    "Ma ei ole kunagi eales olnud selles linnas.",
+    "Kas sa oled eales kuulnud sellest muusikast?",
+    "Eales pole midagi võimalik öelda ilma teadmisteta."
   ],
   "translation": [
-    "Food",
-    "Meal"
+    "ever",
+    "at any time"
   ],
-  "context": "The word 'eales' refers to food or a meal. It is commonly used in everyday conversation when talking about eating habits, preferences, or preparing meals."
+  "context": "The Estonian word 'eales' is an adverb that means 'ever' or 'at any time'. It's commonly used in negative sentences with the negation 'ei' (not) to express never, but can also be used in questions. The word comes from the combination of 'agi' (yet/still) and 'alates' (from), indicating a temporal sense extending from some point into the present or future."
 }

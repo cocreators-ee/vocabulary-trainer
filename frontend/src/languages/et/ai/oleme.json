@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me oleme siin.",
-    "Nad oleme teie sõbrad.",
-    "Kas te oleme valmis?"
+    "Oleme koos täna õhtul.",
+    "Me oleme head sõbrad.",
+    "Kus oleme me praegu?"
   ],
   "translation": [
     "we are",
-    "to be"
+    "we're"
   ],
-  "context": "The word 'oleme' is the first person plural form of the verb 'olema', which means 'to be' in English, and it is commonly used to express existence or identity."
+  "context": "The word 'oleme' is the 1st person plural present tense form of the Estonian verb 'olema', which means 'to be'. It specifically translates to 'we are' in English. This form is used when speaking about a group that includes the speaker and others, in the present moment."
 }

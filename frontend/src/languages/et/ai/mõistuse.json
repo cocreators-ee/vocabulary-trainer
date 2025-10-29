@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kasutas mõistuse omadusi.",
-    "Mõistuse areng on oluline.",
-    "Inimese mõistus on võimeline keerukatele arutlustele."
+    "Mõistuse on oluline inimese arengus.",
+    "Ta tegi mõistust otsuse.",
+    "Sellel oli palju mõistust."
   ],
   "translation": [
-    "mind",
     "reason",
-    "intellect"
+    "mind",
+    "intellect",
+    "sense",
+    "understanding"
   ],
-  "context": "The word mõistuse refers to the faculty of thinking and reasoning, and is commonly used in Estonian to describe someone's ability to think logically and make sound judgments."
+  "context": "The Estonian word 'mõistuse' is the genitive case of 'mõistus', meaning it indicates possession or relationship to the noun. It translates to English as 'of reason,' 'of mind,' 'of intellect,' 'of sense,' or 'of understanding.' This form is used when showing that something belongs to, comes from, or relates to reason, mind, intellect, sense, or understanding."
 }

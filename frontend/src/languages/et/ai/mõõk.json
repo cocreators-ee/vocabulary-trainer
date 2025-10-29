@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta torkas mind mõõga otsaga.",
-    "Mõõk on relv, mis koosneb terast.",
-    "Olen näinud palju mõõku muuseumis."
+    "Ta tõi välja oma vanema mõõga.",
+    "Mõõk teras lõi vastu kivi ja katkes pooleks.",
+    "Sõdurid said igaüks uue mõõka."
   ],
   "translation": [
-    "sword"
+    "sword",
+    "blade",
+    "cutlass"
   ],
-  "context": "The word mõõk refers to a sword, which is a bladed weapon used for cutting or thrusting."
+  "context": "The Estonian word 'mõõk' means sword or blade. It refers to a cutting weapon with a long, straight blade. This is an inanimate masculine noun in Estonian. In the examples provided, you can see it used in different contexts - one example shows bringing out an old sword, another describes how the steel blade broke when hitting a stone, and the third mentions soldiers each receiving a new sword."
 }

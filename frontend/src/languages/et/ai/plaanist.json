@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen plaanist veendunud.",
-    "Plaanist on juba palju räägitud.",
-    "Ta ei olnud plaanist teadlik."
+    "Plaan on tehtud plaanist lähtuvalt.",
+    "Me arutasime plaanist detailid.",
+    "Tulemus sõltus heast plaanist."
   ],
   "translation": [
     "from the plan",
-    "of the plan"
+    "based on the plan"
   ],
-  "context": "The word 'plaanist' in Estonian is used to describe something that is related to or derived from a plan, and it can be translated to English as 'from the plan' or 'of the plan'."
+  "context": "The Estonian word 'plaanist' is the elative case form of 'plaan', meaning 'plan'. The elative case in Estonian indicates movement out from or separation, so 'plaanist' means 'from the plan' or 'based on the plan'. It's used to show that something originates from or derives from a plan."
 }

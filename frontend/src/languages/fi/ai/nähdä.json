@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä näen sinut huomenna",
-    "Hän näki kaiken tapahtuman",
-    "He ovat nähneet elokuvan jo useita kertoja"
+    "Minun täytyy nähdä sinut huomenna.",
+    "Hän ei nähnyt sitä elokuvaa vielä.",
+    "Meidän pitää nähdä uudelleen ensi viikolla."
   ],
   "translation": [
     "to see",
-    "saw",
-    "seen"
+    "to meet",
+    "to watch"
   ],
-  "context": "The word nähdä is a verb in Finnish that means to see or perceive with one's eyes, and it is commonly used in various contexts such as seeing someone or something, witnessing an event, or watching a movie."
+  "context": "The Finnish verb 'nähdä' is a versatile word that primarily means 'to see', but it can also mean 'to meet someone' or 'to watch something'. It's an important common verb used in everyday Finnish conversation. The form changes depending on the subject and tense - for example, 'minä näen' (I see), 'sinä näet' (you see), 'hän näkee' (he/she/it sees). In different tenses it becomes 'näin' (saw), 'nähnyt' (seen participle), etc."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema sõbrad olid alati abiks.",
-    "Mina võin olla sulle suur abiks.",
-    "Ta pakkus oma nõu abiks."
+    "Ma tegin sedu abiks.",
+    "Sa võid kasutada seda abiks.",
+    "See oli hea abiks tema jaoks."
   ],
   "translation": [
-    "help",
-    "assistant",
-    "aid"
+    "as help",
+    "for assistance",
+    "to assist"
   ],
-  "context": "'Abiks' is used in Estonian to denote something or someone that provides help, aid, or serves as an assistant. It can be used both literally and metaphorically for support."
+  "context": "The Estonian word 'abiks' is the adessive case form of 'abi', meaning 'help'. It translates to English as 'as help', 'for assistance', or 'to assist'. This form is used when you want to express that something serves as a means of help or assistance. In grammar terms, it's in the adessive case (ending -ks), which typically indicates location near or purpose/means."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Maja sees on väike dušši mustvalge mustriga.",
-    "Ta paneks raamatu peale dušši, et see ei jääks külma põhja kinni.",
-    "Duššid aitavad meeldivat õhkkonda luua sõltumata ruumi suurusest."
+    "Minu lemmikdušš on see sinine.",
+    "Peame ostama uue dušši vanni jaoks.",
+    "Kas sa tead, kuidas puhastada dušši?"
   ],
   "translation": [
-    "cushion"
+    "shower",
+    "shower fixture",
+    "showerhead"
   ],
-  "context": "'Dušši' refers to a cushion or a small pillow used for comfort or decoration."
+  "context": "The word 'dušši' is the Estonian genitive case form of 'dušš', which means shower. In Estonian, the genitive case indicates possession or association with something. So 'dušši' would be used when talking about something related to a shower - like 'of the shower', 'for the shower', or describing objects that belong to or are associated with a shower installation."
 }

@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan muusikat",
-    "Muusika on minu elu",
-    "Ta mängib muusikat klaveril"
+    "Mulle meeldib kuulda head muusikat.",
+    "Kas te teate, kus saab osta hea muusika?",
+    "See kontsert oli parim muusika, mida ma kunagi olen kuulanud."
   ],
   "translation": [
     "music"
   ],
-  "context": "The word 'muusikat' refers to music in general, and it is commonly used in Estonian to express a love or interest for music."
+  "context": "The word 'muusikat' is the partitive form of 'muusika', which means 'music' in English. In Estonian, the partitive case is often used when talking about indefinite quantities or uncountable nouns. So 'muusikat' would translate to 'some music' or refer to music as an object being acted upon (like hearing music, buying music)."
 }

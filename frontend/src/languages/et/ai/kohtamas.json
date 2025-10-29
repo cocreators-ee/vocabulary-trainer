@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks kohtamas oma sõbraga.",
-    "Nad olid kohtamas restoranis.",
-    "Meil on homme kohtamas oluline inimene."
+    "Tulen kohtas sind hommikul.",
+    "Me oleme kohtamas täna õhtul.",
+    "Kus me peaksime kohtama?"
   ],
   "translation": [
     "meeting",
-    "date",
-    "appointment"
+    "to meet",
+    "seeing each other"
   ],
-  "context": "The word 'kohtamas' in Estonian generally refers to the act of meeting someone, either for a casual date, a formal appointment, or simply to spend time together. It implies an arranged encounter."
+  "context": "The word 'kohtamas' is the partitive case form of the verb 'kohtama', which means 'to meet'. In Estonian, verbs are conjugated and also change their endings based on grammatical cases. The partitive case '-mas' ending indicates that this is an ongoing or incomplete action - in other words, meeting someone or being in the process of meeting. This form is typically used when you're actively engaged in the act of meeting someone or arranging to meet them."
 }

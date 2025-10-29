@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks maale puhkama.",
-    "See on ilus maa.",
-    "Maad katab lund."
+    "Eestis on palu maad.",
+    "Maad on väga ilus riik.",
+    "Me armastame oma maad."
   ],
   "translation": [
     "land",
     "country",
-    "ground",
     "soil"
   ],
-  "context": "The word 'maad' in Estonian commonly refers to land, country, or ground. It can describe a geographical area, the soil itself, or be used in expressions related to agriculture and nature."
+  "context": "The Estonian word 'maad' is the genitive singular form of 'maa', which means land, country, or soil. In the genitive case, it indicates possession or relationship to something - for example, 'Eestis on palu maad' means 'There is little land in Estonia'. It can refer to physical land/soil, a nation/country, or territory."
 }

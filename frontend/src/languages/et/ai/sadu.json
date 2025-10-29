@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan sadu.",
-    "Sadamel on palju vihmametsi.",
-    "Ta võttis ühe saja kokku."
+    "sadu aastaid tagasi sadu aastaid tagasi",
+    "sadu inimeste tänaval",
+    "sadu linna"
   ],
   "translation": [
-    "hundred"
+    "hundreds",
+    "a hundred",
+    "hundredfold"
   ],
-  "context": "The word 'sadu' in Estonian means one hundred, and it is commonly used to express quantities or measurements in the language."
+  "context": "The word 'sadu' is the partitive form of 'sada' meaning 'hundred'. It's used when referring to an unspecified number of hundreds, or in contexts where you don't have a specific count. In Estonian grammar, the partitive case is often used with quantities and numbers. For example: 'sadu aastaid' means 'hundreds of years', where 'sadu' indicates we're talking about many hundreds but not specifying exactly how many."
 }

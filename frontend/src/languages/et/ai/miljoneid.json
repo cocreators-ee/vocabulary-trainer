@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta teenis miljoneid dollareid.",
-    "Miljoneid inimesi vaatasid filmi.",
-    "Tal on miljoneid fänne."
+    "Ma olen näinud miljoneid filme.",
+    "Sellel aastal on müüdud miljoneid raamatuid.",
+    "Linna elab üle miljoneid inimesi."
   ],
   "translation": [
-    "millions"
+    "millions",
+    "a million of",
+    "countless"
   ],
-  "context": "The word 'miljoneid' is the plural form of 'miljon', which means million in English, and it is commonly used to describe a large quantity of something, such as money or people."
+  "context": "The word 'miljoneid' is the partitive plural form of 'miljon' (million) in Estonian. It's used when referring to millions of something in an unspecified or general quantity, similar to how we use 'millions of' in English. The partitive case indicates an incomplete or indefinite amount."
 }

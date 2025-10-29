@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Pea tähele kõrvale!",
-    "Soojendage tähele.",
-    "Tähele tuleb sujuvalt."
+    "Ta ei pannud tähele väikest detaili.",
+    "Me peame rohkem tähele panema.",
+    "Kas sa märkasid midagi? Ei, ma ei pannu tähele."
   ],
   "translation": [
-    "letter 'A'",
-    "to the letter 'A'"
+    "to notice",
+    "to pay attention to",
+    "to observe"
   ],
-  "context": "'Tähele' refers to the letter 'A' in Estonian. It is used when directing attention to a specific point, such as in instructions or labeling."
+  "context": "The Estonian word 'tähele' is the partitive form of 'tähelepanek' (attention) and is used in the expression 'tähele panema' which means 'to notice' or 'to pay attention to'. It's commonly followed by the verb 'panema' (to put/place). This construction indicates directing one's attention toward something specific. The word can also be used reflexively as 'tähele panna' meaning 'to cause someone to notice'."
 }

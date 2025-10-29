@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa sind niipea kohata.",
-    "Kas sa saad homme niipea tulla?",
-    "Niipea kui võimalik."
+    "Niipea saame kohtuda uuesti.",
+    "Ta tuleb niipea tagasi.",
+    "Kas sa jõuad siia niipea?"
   ],
   "translation": [
-    "so soon",
-    "as soon as possible"
+    "soon",
+    "shortly",
+    "in a short while"
   ],
-  "context": "The Estonian word 'niipea' is an adverb that expresses a short time from now or in the near future. It’s often used to indicate something will happen quickly or shortly after another event, similar to ‘soon’ or ‘as soon as possible’ in English."
+  "context": "The Estonian word 'niipea' is an adverb that means 'soon' or 'shortly.' It indicates that something will happen in the near future, but doesn't specify exactly when. The word doesn't change form based on gender or number since it's an adverb."
 }

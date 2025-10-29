@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mõistsin tema pilgu",
-    "Ta mõistis mind valesti",
-    "Mõistan, et see on raske"
+    "Mõistsin, et tegemist on keerulisema projektiga kui ma arvasin.",
+    "Kas sa mõistsid, mis ta selles loos öelda üritab?",
+    "Pärast pikka selgitust lõpuks mõistsin selle idee."
   ],
   "translation": [
-    "understood",
-    "realized",
-    "comprehended"
+    "I understood",
+    "I comprehend",
+    "I grasped",
+    "I realized"
   ],
-  "context": "The word mõistsin is the first person singular past tense form of the Estonian verb mõistma, which means to understand or comprehend something. It is commonly used in sentences to express that someone has grasped the meaning of something or has come to a realization."
+  "context": "The word 'mõistsin' is the past tense first-person singular form of the Estonian verb 'mõistma', which means 'to understand'. It indicates that the speaker has comprehended something in the past. This verb is commonly used when someone has grasped a concept, realized something, or understood an explanation."
 }

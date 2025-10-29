@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan halva",
-    "Halva on magus",
-    "Halvad on müügil"
+    "Ta on halva isik.",
+    "Me ei tea, mida ta teeb halvana.",
+    "See oli halva tegu."
   ],
   "translation": [
-    "candy",
-    "sweets"
+    "bad",
+    "evil",
+    "wicked"
   ],
-  "context": "The word halva refers to sweets or candy in Estonian, and is commonly used to describe a type of food that is sweet and enjoyable."
+  "context": "The word 'halva' appears to be the partitive singular form of the adjective 'halb' (bad/evil) in Estonian. The partitive case is often used when talking about qualities, states or characteristics of something. So 'halva' would mean 'of bad quality', 'in a bad way', or referring to something that is evil/wicked."
 }

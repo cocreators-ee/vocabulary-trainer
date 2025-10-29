@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Pimeässä huoneessa ei ole valoa.",
-    "Hän meni pimeään metsään.",
-    "Pimeys laskeutui kaupunkiin illalla."
+    "Tämä huone on hyvin pimeä.",
+    "Pimeässä ei näe mitään.",
+    "Luulen, että tulee pimeää myöhemmin."
   ],
   "translation": [
     "dark",
-    "darkness"
+    "dim",
+    "gloomy"
   ],
-  "context": "The word 'pimeä' in Finnish refers to the absence of light, and it is commonly used to describe a place or environment that is not illuminated."
+  "context": "The Finnish word 'pimeä' means dark or dim. It's an adjective used to describe places that lack light or have very little illumination. In Finnish grammar, it's in the singular nominative form here. The comparative form would be 'pimeämpi' (darker) and superlative 'pimein' (darkest). It can also refer to darkness as a concept or state of being without light."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on nyt vuoroni",
-    "Hänellä oli vuoro nousta lavalle",
-    "Meillä on vuoro tehdä siivous"
+    "Minun vuoroni on huomenna.",
+    "Käytännössä kaikilla on vuorossa olevia tehtäviä.",
+    "Vuoronvaihto tapahtuu klo 15:00."
   ],
   "translation": [
     "turn",
+    "duty",
     "shift",
-    "round"
+    "time slot"
   ],
-  "context": "The word 'vuoro' in Finnish refers to a turn or shift, often used in contexts where people take turns doing something, such as working, speaking, or performing."
+  "context": "The Finnish word 'vuoro' refers to a turn, duty, shift, or time slot when someone is scheduled to perform tasks or take responsibility. It can be used in various contexts such as work shifts ('työvuoro'), taking turns ('minun vuoroni'), or scheduled time slots (appointment 'vuoro'). The word indicates an allocated period of time during which someone has a specific role or duty."
 }

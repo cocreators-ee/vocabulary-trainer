@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ihmisen on syötävä päivittäin",
-    "Ihmiset ovat erilaisia",
-    "Ihmissydän on monimutkainen elin"
+    "Ihmisen elämä on arvokasta.",
+    "Nämä ovat ihmisten taloja.",
+    "Hän puhuu ihmisten puolesta."
   ],
   "translation": [
-    "human",
+    "human being",
     "person",
-    "people"
+    "man"
   ],
-  "context": "The word 'ihmisen' is a genitive form of the Finnish word 'ihminen', which refers to a human being or person, and is commonly used in various contexts to describe people or humanity in general."
+  "context": "The Finnish word 'ihmisen' is the partitive case of 'ihminen', which means 'human being' or 'person'. It indicates that we are talking about some human(s), but not all humans. The form '-n' at the end shows it's in the partitive case, typically used when the object is indefinite or incomplete."
 }

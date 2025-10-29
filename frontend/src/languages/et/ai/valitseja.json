@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Valitseja võib olla monarh",
-    "Ta oli valitseja oma riigis",
-    "Valitsejad on tihtipeale türannid"
+    "Valitseja külastas linna.",
+    "Esimene valitseja oli tuntud oma julmuse poolest.",
+    "Uus valitseja kuulutati troonipärijaks."
   ],
   "translation": [
     "ruler",
-    "sovereign",
-    "monarch"
+    "monarch",
+    "sovereign"
   ],
-  "context": "The word valitseja refers to a person who has the power to rule or govern a country, organization, or other entity, often used in the context of monarchies or authoritarian regimes."
+  "context": "The Estonian word 'valitseja' refers to a ruler or monarch who has authority over people and territory. It's derived from the verb 'valitseda' (to rule), with the suffix '-ja' indicating an agent or person who performs the action. This term can be used for various types of rulers including kings, queens, emperors, or other sovereign leaders."
 }

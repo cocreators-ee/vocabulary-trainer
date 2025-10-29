@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta loeb igapäevaselt uudistes",
-    "Uudistes on kirjutatud, et",
-    "Ma ei usu midagi, mida uudistes öeldakse"
+    "Uudises on palju huvitavaid teateid.",
+    "Me loeme uudisteid igal hommikul.",
+    "Ta otsis uudistes viimaseid sündmusi."
   ],
   "translation": [
-    "news",
-    "in the news"
+    "in the news",
+    "in news reports",
+    "in the headlines"
   ],
-  "context": "The word 'uudistes' is used in Estonian to refer to news or something that is being reported in the news."
+  "context": "The Estonian word 'uudistes' is the inessive case (locative case indicating location within) of the noun 'uudised', which means 'news'. It indicates that something is happening or exists 'in the news' or 'in news reports'. This form shows the plural nature of the word, as 'uudised' refers to multiple pieces of news. The '-des' ending is typical for the inessive case in Estonian grammar."
 }

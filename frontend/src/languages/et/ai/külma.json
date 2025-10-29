@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta armastab külma ilma.",
-    "Külma vesi on hea janekustumiseks.",
-    "Külmaga peab olema ettevaatlik."
+    "Kylmad on tuuled külmas.",
+    "Tuli kylmä kevade ilm.",
+    "Kylmad saavad meie sügavalt külma."
   ],
   "translation": [
     "cold",
-    "cool"
+    "chilly",
+    "freezing"
   ],
-  "context": "The word 'külma' in Estonian generally refers to something that has a low temperature, and it is commonly used to describe weather or objects that are chilly or frosty."
+  "context": "The word 'külma' is the partitive case form of the Estonian adjective 'kümne' (meaning cold). In Estonian grammar, the partitive case has multiple functions, including indicating partialness, duration, or specification. When used with weather descriptions like 'külm ilm' (cold weather), the partitive form can indicate ongoing state or characteristic temperature. It's commonly used to describe chilly conditions that are felt continuously rather than as a single event."
 }

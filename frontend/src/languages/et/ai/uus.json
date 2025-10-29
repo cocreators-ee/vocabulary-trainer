@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on uus inimene.",
-    "See on uus koht.",
-    "Uued asjad on tore."
+    "Uus maja on meie naabruses.",
+    "Ta ostis uue auto.",
+    "Meil on uusi projekte tulevikus."
   ],
   "translation": [
     "new"
   ],
-  "context": "The word 'uus' is commonly used to describe something that has recently been made or introduced, and it can also be used to express a fresh start or a new beginning."
+  "context": "The Estonian word 'uus' is an adjective that means 'new'. It's the singular nominative form. In plural, it becomes 'uued', and in genitive case it can be 'uue' (singular) or 'uute' (plural). The word changes its ending based on grammatical case and number."
 }

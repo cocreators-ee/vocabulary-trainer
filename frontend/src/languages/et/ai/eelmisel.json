@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Eelmisel aastal oli see võimalik.",
-    "Ta töötas eelmisel kuul.",
-    "Meie oleme juba eelmisel nädalal kohtunud."
+    "Eelmisel aastal käisin Pariisis.",
+    "Ta oli eelmisel nädalal haige.",
+    "Meil on plaanid eelmisel kuul."
   ],
   "translation": [
-    "previous",
-    "last"
+    "last",
+    "previous"
   ],
-  "context": "The word 'eelmisel' in Estonian is used to describe something that happened or existed before something else, often translated to English as 'previous' or 'last'."
+  "context": "The word 'eelmisel' is the adessive case (inessive with suffix -l) of the demonstrative pronoun 'eelmine', meaning 'last' or 'previous'. It indicates something that occurred before the current time period mentioned. In Estonian, the '-sel' ending typically shows location or time when something happened."
 }

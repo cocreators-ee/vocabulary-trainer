@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Piloot oli väga osav.",
-    "Piloodid lähevad tihtipeale lennukitega kaugemale.",
-    "Ta on hea piloot, kuid ta pole veel kunagi lennanud sellise suure lennuki juures."
+    "Tema on lennuki piloot.",
+    "Piloot juhib lennumasinaid.",
+    "Lennukis olev piloot vastutas ohutuse eest."
   ],
   "translation": [
-    "pilot"
+    "pilot",
+    "aviator"
   ],
-  "context": "The word 'piloot' in Estonian refers to a person who operates the controls of an aircraft, typically a plane or a helicopter, and is responsible for its safe flight. This term is commonly used in aviation contexts."
+  "context": "The Estonian word 'piloot' is a loanword from English/French, meaning 'pilot'. It refers to a person who operates an aircraft or spacecraft. In Estonian, it's used exactly as in English for the occupation of flying airplanes."
 }

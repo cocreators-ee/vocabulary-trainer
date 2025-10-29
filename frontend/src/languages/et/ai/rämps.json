@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ei saa rämpsu süüa",
-    "Rämps on toiduainete hulgast vähe kasutatav osa",
-    "Rämpsa kasutatakse sageli kompostina"
+    "Ma ei tea, mida rämps tähendab.",
+    "See on vana rämps, mis on juba aastaid kasutamata.",
+    "Tegelikult see polegi mingisugune rämps, vaid lihtsalt halva kvaliteediga ese."
   ],
   "translation": [
-    "food waste",
-    "rubbish"
+    "junk",
+    "trash",
+    "rubbish",
+    "clutter"
   ],
-  "context": "The word rämps in Estonian refers to food waste or rubbish, and it is commonly used to describe the parts of food that are not typically consumed."
+  "context": "The word 'rämps' is an Estonian noun that refers to junk, trash, rubbish, or clutter. It's often used to describe items that are old, useless, of poor quality, or just taking up space without purpose. The word carries a somewhat dismissive or derogatory connotation toward the items being described."
 }

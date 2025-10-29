@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin talle hommikuks kohvi.",
-    "Ta teenis palju raha selle tööga.",
-    "See on tehtud! (This is done!)"
+    "Ma teen hommikuti.",
+    "Ta teeb head tööd.",
+    "Meie teeme koostööd."
   ],
   "translation": [
-    "do",
-    "make",
-    "perform"
+    "I do/make",
+    "to make/do",
+    "doing"
   ],
-  "context": "The Estonian word 'teen' is a versatile verb that generally translates to 'do', 'make', or 'perform' in English. It’s used for creating things, completing tasks, and providing services. The form of the verb changes depending on who is doing the action."
+  "context": "The Estonian word 'teen' is the first-person singular present form of the verb 'teema', which means 'to make' or 'to do'. In English, it translates to 'I make' or 'I do'. This is a very common and fundamental verb in Estonian used for expressing actions similar to 'make' and 'do' in English. The word changes its form depending on the subject (who is performing the action) and tense."
 }

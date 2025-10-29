@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lugenud selle kirjas.",
-    "See on kirjas kogu maailma ajalukku.",
-    "Kirjas on palju kasulikku infot."
+    "Tegelikult on see kirjas kahele lehele.",
+    "Kirjad olid selgelt nähtavad ja hästi loetavad.",
+    "Ta sai oma kirja alles nädal hiljem."
   ],
   "translation": [
-    "in writing",
-    "in the book"
+    "written",
+    "letter",
+    "message",
+    "document"
   ],
-  "context": "The word 'kirjas' in Estonian means something that is written down or recorded, and it can be used to refer to a piece of text or information that has been committed to paper or digital format."
+  "context": "The Estonian word 'kirjas' is an adjective that means 'written'. It's the partitive case form of 'kiri', which can mean letter, message, or document. The word indicates that something is in written form as opposed to spoken or other forms. In its base form 'kiri', it refers to a physical letter or written communication. The '-s' ending indicates the partitive case, which is used when referring to some of an object or when the noun is the object of certain verbs."
 }

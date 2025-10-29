@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Ma võtan raamatu.",
-    "Ta võttis kaks kuklit.",
-    "Nad võtsid ühisfotoga osa."
+    "Tema võtis sõna.",
+    "Võtke istumiseks tool."
   ],
   "translation": [
-    "to take",
-    "take"
+    "take",
+    "get",
+    "receive"
   ],
-  "context": "The word \"võta\" in Estonian means to take something, and it is commonly used in various contexts such as taking an object, taking a picture, or taking part in an event."
+  "context": "The Estonian verb 'võta' is a versatile word that primarily means 'to take' or 'to get'. It can be used in various contexts such as taking an object, receiving something, accepting an invitation, or even to begin speaking (as in taking the floor). This verb belongs to the -ma infinitive class and has different conjugations depending on tense, person, and number. In its imperative form, it becomes 'võta' for singular informal address and 'võtke' for plural/formal address."
 }

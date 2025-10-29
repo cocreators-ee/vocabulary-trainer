@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis raamatu laualt.",
-    "Ma võtsin oma vihmavari ja läksin välja.",
-    "Nad võtsid kõige parema hotelli"
+    "Ta võttis taskust oma telefonina.",
+    "Laps võttis juurde ühe kangi.",
+    "Mees võttis vastu kingituse."
   ],
   "translation": [
     "took",
-    "grabbed",
-    "captured"
+    "took hold of",
+    "accepted",
+    "received"
   ],
-  "context": "The word võttis is the simple past tense of the Estonian verb võtta, which means to take or grasp something. It is commonly used in everyday conversations to describe physical actions, such as picking up an object or capturing a moment."
+  "context": "The word 'võttis' is the past tense third person singular form of the Estonian verb 'võtma', which means 'to take'. It indicates that someone took, received, accepted, or held something in the past. The verb can be used in various contexts such as taking physical objects, receiving gifts, accepting offers, or picking things up."
 }

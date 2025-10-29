@@ -1,12 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta istus nurga taha",
-    "Nurga all oli paks uksehing"
+    "Nurga taga peitis ta oma varanduse.",
+    "Me vaatasime nurgast ülespoole.",
+    "Tema käsi oli nurgas ja külmas."
   ],
   "translation": [
-    "corner"
+    "corner",
+    "angle",
+    "nook"
   ],
-  "context": "The word nurga refers to the corner of something, such as a room or an object."
+  "context": "The Estonian word 'nurga' is the illative case (into) of 'nurk', which means corner or angle. It indicates movement into a corner, angle, or nook. In the examples, it shows being behind a corner ('nurga taga'), looking from a corner ('nurgast'), and having one's hand in a corner position."
 }

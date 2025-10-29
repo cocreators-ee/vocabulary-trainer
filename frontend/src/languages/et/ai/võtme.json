@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Võtme on oluline osa lukusüsteemis.",
-    "Ta leidis võtme laualt.",
-    "Võtmed on alati kaasas."
+    "Võti on laes.",
+    "Kas sa oled võtnud võtme?",
+    "Mul pole oma võtmeid."
   ],
   "translation": [
-    "key"
+    "key",
+    "locksmith"
   ],
-  "context": "The word 'võtme' refers to a key, which is an object used to operate a lock, and it is commonly used in contexts related to unlocking or locking something."
+  "context": "In Estonian, 'võtme' is the genitive singular form of the word 'võti', which means 'key'. The genitive case is used to indicate possession or relationship. It would typically be translated as 'of the key' or 'key's' in English. For example: 'võtme' appears in phrases like 'võtme otsimine' (looking for the key) or 'võtme avamine' (opening with the key)."
 }

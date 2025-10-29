@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema eesmärksel on tagada turvalisuse tüta pakkuda.",
-    "Turvalisuse tähtsus majapidamises ei saa alahindada.",
-    "Pank pakub oma kliendi andmetele turvalisuse garantii."
+    "Turvalisuse tagamine on kõige olulisem.",
+    "Meie firma pühendub turvalisusele.",
+    "Turvalisuse eest hoolitsemine on meie kohustus."
   ],
   "translation": [
+    "safety",
     "security",
-    "safety"
+    "protection"
   ],
-  "context": "Refers to the state of being protected or safe from harm, danger, or risk. It is commonly used in contexts involving safety measures, security systems, and protection against threats."
+  "context": "The word 'turvalisuse' is the elative case form of the Estonian noun 'turvalisus', which means safety or security. The elative case (-se ending) indicates movement out from something, so 'turvalisuse' can be translated as 'from safety' or 'out of safety'. However, in many contexts it's used more generally to refer to the concept of safety/security itself. It is formed by adding the suffix '-us' (forming an abstract noun meaning state/quality) to 'turvaline' (safe), and then the elative case ending '-se'."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tal on ettevaatust olla hoolas.",
-    "Ta ütles, et peab olema ettevaatust.",
-    "Kõikjal tuleb olla ettevaatust."
+    "Ettevaatust, see pole ohtlik!",
+    "Palun võta ettevaatust sellega!",
+    "Ma olen alati ettevaatuks."
   ],
   "translation": [
-    "caution",
-    "carefulness"
+    "be careful",
+    "take care",
+    "caution"
   ],
-  "context": "The word ettevaatust refers to the state of being cautious or careful in one's actions or decisions, and is commonly used in Estonian to advise someone to be mindful of potential risks or dangers."
+  "context": "The word 'ettevaatust' is the elative case of the Estonian noun 'ettevatus', which means caution or care. It's used as an expression similar to 'be careful' in English, often as a warning or reminder to exercise caution. The form '-tus' at the end indicates it's in the elative case, suggesting movement out from something - in this case, 'out of caution' or 'from a state of care'."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma viin ta koos!",
-    "Ta viib mind kinno.",
-    "Me võime seda viia teise kohta."
+    "Ta sai viie punkti testist.",
+    "Meil on viie päeva aega.",
+    "Lapsele anti viie aastat."
   ],
   "translation": [
-    "to take",
-    "to bring"
+    "five",
+    "5"
   ],
-  "context": "The word 'viie' is a verb in Estonian that means to take or bring something or someone from one place to another."
+  "context": "\"Viie\" is the Estonian word for \"five\" or \"5\". It's the numeral form of five in Estonian and can be used to express quantities, ages, scores, and other numerical values. The word follows Estonian grammar rules and may need to change form depending on context (case, gender, etc.), but as given here it represents the basic numeral five."
 }

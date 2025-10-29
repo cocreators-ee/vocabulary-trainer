@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Politseist saideti teateid õnnetuse kohta.",
-    "Ta saatis mulle palju teateid oma reisist.",
-    "Meie firma annab regulaarselt teateid uute toodete kohta."
+    "Ma saan palju teateid postkasti.",
+    "Tema ei saa ühtegi teateid.",
+    "Lapsevanemad said head teateid koolist."
   ],
   "translation": [
-    "notifications",
-    "reports",
-    "news"
+    "messages",
+    "news",
+    "reports"
   ],
-  "context": "The word 'teateid' refers to pieces of information or announcements, often official ones. It is commonly used in contexts like news reports, police statements, or company updates. The English equivalents are 'notifications', 'reports', or 'news'."
+  "context": "The word 'teateid' is the partitive plural form of the Estonian noun 'teade', which means message, news, or report. The '-id' ending indicates it's in plural form, and the '-d' at the end shows it's in the partitive case. In Estonian grammar, the partitive case is often used with quantities or when referring to some of something. So 'teateid' specifically means 'messages/news/reports (in partitive case)' and would typically be used contexts like getting some messages, receiving news items, or having reports."
 }

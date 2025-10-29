@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mulle on meeldinud see film",
-    "Meeldinud on mulle see raamat",
-    "Ta on meeldinud mulle juba esimesest kohtumisest peale"
+    "Mul meeldis sinuga kohtuda.",
+    "Talle meeldis see film kõige rohkem.",
+    "Mul ei meeldinud see kontsert."
   ],
   "translation": [
     "liked",
+    "enjoyed",
     "pleased"
   ],
-  "context": "The word meeldinud is commonly used in Estonian to express that something is liked or pleasing to someone."
+  "context": "The word 'meeldinud' is the past tense of the Estonian verb 'meeldima', which means 'to like' or 'to enjoy'. It's formed by adding the past tense suffix '-nud' to the stem. This word indicates that something was liked or enjoyed in the past. In English, it would typically translate to 'liked' or 'enjoyed' depending on context."
 }

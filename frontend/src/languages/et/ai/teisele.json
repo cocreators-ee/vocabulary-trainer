@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta andis selle teisele inimesele.",
-    "See on teisele poolele minek.",
-    "Ma olen teisele küljele läinud."
+    "Tule teisele poole tuba.",
+    "Mina lähen teisele linnale.",
+    "Kas sa lähed teisele kinno?"
   ],
   "translation": [
-    "to the second",
-    "on the other side"
+    "to the other one",
+    "to another place",
+    "to different"
   ],
-  "context": "The word teisele is used in Estonian to indicate something is related to or directed towards a second person, thing or side, often translated to English as 'to the second' or 'on the other side'."
+  "context": "The word 'teisele' is the allative case of 'teine', meaning 'other'. In Estonian, this form indicates movement toward or to a destination. It's commonly used when referring moving from one location to another location, or from one entity/option to another."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ilmselt olen valesti aru saanud.",
-    "Ta ilmselt ei võinud mind kuulda.",
-    "Ilmselt see oli hea otsus."
+    "Ilmselt peaksid minema koju nüüd.",
+    "Ta on ilmselt juba saabunud.",
+    "Ilmset on, et me ei saa täna kohtuda."
   ],
   "translation": [
+    "probably",
+    "likely",
     "apparently",
-    "evidently",
     "presumably"
   ],
-  "context": "The word 'ilmselt' is used in Estonian to express that something is apparent or evident, often used to convey a sense of uncertainty or inference."
+  "context": "The Estonian word 'ilmselt' is an adverb that means probably or likely. It indicates that something is considered to be true based on available evidence, though not with absolute certainty. The word can be used in various contexts to express a reasonable assumption or inference about what might be the case."
 }

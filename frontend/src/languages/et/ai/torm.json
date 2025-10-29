@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Taevast tuli torm",
-    "Tormis oli väga võimas",
-    "Tormi ajal on ohtlik väljas olla"
+    "Torm on tugev tuul.",
+    "Oleme olnud tormi all mitu päeva.",
+    "See oli karm torm."
   ],
   "translation": [
     "storm",
+    "gale",
     "tempest"
   ],
-  "context": "The word 'torm' in Estonian refers to a severe weather condition characterized by strong winds and heavy rainfall, similar to the English word 'storm'."
+  "context": "The Estonian word 'torm' means storm or strong wind. It refers to a violent atmospheric disturbance characterized by strong winds, often accompanied by rain, snow, or thunderstorms. In Estonian, it's commonly used to describe windy weather conditions and severe storms."
 }

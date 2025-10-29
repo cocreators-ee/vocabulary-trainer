@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kavatsen minna koju.",
-    "Ta kavatseb õppida inglise keelt.",
-    "Nad kavatsevad abielluda."
+    "Kas sa kavatsed minna kinno täna?",
+    "Ta alati kavatsib head asju teha.",
+    "Meie kavatsime reisida suvel."
   ],
   "translation": [
-    "intend",
-    "plan"
+    "plan to",
+    "intend to",
+    "mean to"
   ],
-  "context": "The word 'kavatsed' is the second person plural form of the verb 'kavatsema', which means to intend or plan to do something. It is commonly used in Estonian to express a person's intention or goal."
+  "context": "The word 'kavatsed' is the 2nd person plural form of the Estonian verb 'kavatsama', which means 'to plan' or 'to intend'. It expresses the idea of having a purpose or intention about something that one will do in the future."
 }

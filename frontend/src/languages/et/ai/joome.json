@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me joome teed",
-    "Sa jood kohtult",
-    "Nad joomasid õlut"
+    "Joome koos!",
+    "Lähme joome!"
   ],
   "translation": [
-    "we drink",
-    "you drink",
-    "to drink"
+    "Let's go",
+    "Come on",
+    "Shall we go?"
   ],
-  "context": "The word 'joome' is a verb in Estonian that means to drink, and it is commonly used in various contexts such as social gatherings or everyday conversations."
+  "context": "The word 'joome' is the 1st person plural imperative form of the verb 'minema' (to go) in Estonian. It means 'let's go' and is used when inviting or suggesting that a group should move somewhere together. This is a common colloquial expression in everyday conversation."
 }

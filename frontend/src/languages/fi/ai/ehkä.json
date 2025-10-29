@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän ehkä tulee illalla",
-    "Onko hän ehkä jo lähtenyt?",
-    "Ehkä me voimme ratkaista ongelman"
+    "Ehkä menemme elokuviin huomenna.",
+    "Ehkä hän tulee myöhemmin.",
+    "Ehkä se on totta."
   ],
   "translation": [
     "maybe",
     "perhaps",
     "possibly"
   ],
-  "context": "The word 'ehkä' is commonly used in Finnish to express uncertainty or possibility, similar to the English words 'maybe', 'perhaps', or 'possibly'."
+  "context": "The Finnish word 'ehkä' is a common adverb used to express uncertainty or possibility. It's equivalent to English words like 'maybe', 'perhaps', or 'possibly'. This word is often used when expressing tentative suggestions, doubts about something, or leaving options open. It can appear in various contexts - from everyday conversations to more formal situations where uncertainty needs to be expressed."
 }

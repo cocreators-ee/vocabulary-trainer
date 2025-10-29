@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hänellä on arkku vintillä.",
-    "Laiva upposi arkin kanssa.",
-    "Arkki avattiin varovasti."
+    "Minulla on arkki paperia.",
+    "Arkki sisältää tärkeitä asiakirjoja.",
+    "Hän arkistoi dokumentin arkkiin."
   ],
   "translation": [
-    "chest",
-    "ark (as in Noah's Ark)",
-    "coffin"
+    "folder",
+    "file",
+    "envelope"
   ],
-  "context": "The Finnish word 'arkki' can refer to a chest, a coffin, or an ark. It is commonly used to describe a container for storing items, but also has historical and religious connotations depending on the context."
+  "context": "The Finnish word 'arkki' is a noun that refers to a container for holding papers or documents. It can be translated as 'folder', 'file', or 'envelope' in English, depending on the specific context of use. This word is commonly used when referring to physical containers used for organizing and storing paper documents."
 }

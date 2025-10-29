@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kapteeni käski merimiehiä nousta laivaan",
-    "Laivan kapteeni oli kokemusrikas mies",
-    "Kapteenin tehtävänä on johtaa joukkuetta"
+    "Kapteeni johti laivaa turvallisesti satamaan.",
+    "Hänet nimitettiin uudeksi kapteeniksi.",
+    "Kapteenin käskystä miehistö valmistautui lähtöön."
   ],
   "translation": [
     "captain",
-    "skipper",
-    "commander"
+    "commander",
+    "skipper"
   ],
-  "context": "The word kapteeni refers to a person in command of a ship, aircraft, or sports team, and is commonly used in Finnish to convey a sense of leadership and authority"
+  "context": "The Finnish word 'kapteeni' is a noun that means captain or commander. It refers to the person in command of a vessel (ship), aircraft, military unit, or team. The word can be used for both maritime captains and military officers holding the rank of captain. In compound words, it may appear in different forms such as 'kapteeniksi' (as captain) or possessive form 'kapteinin' (of the captain)."
 }

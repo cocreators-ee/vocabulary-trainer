@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lendab ära",
-    "Linnulendab üle maja",
-    "Kui ta lendab, siis ta ei mõtle midagi"
+    "Lendab lennuk taevasse.",
+    "Kass lendab üle sõiduki.",
+    "Pisike lind lendab otsa."
   ],
   "translation": [
     "flies",
-    "is flying",
-    "will fly"
+    "is flying"
   ],
-  "context": "The word 'lendab' is a verb in Estonian that means to fly, it is commonly used to describe the act of flying or moving through the air."
+  "context": "The word 'lendab' is the 3rd person singular present form of the Estonian verb 'lennama', which means 'to fly'. It describes an action where something moves through air using wings or propulsion. This verb can be used for birds, airplanes, insects, and sometimes metaphorically for other things that move quickly or smoothly."
 }

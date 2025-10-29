@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Palun jätkake lugemist.",
-    "Sa võid jätkata oma tööd.",
-    "Jätkame homme."
+    "Jätkake oma tööd!",
+    "Kas te jätkate homsel?",
+    "Jätkame edasi. Jätkake!"
   ],
   "translation": [
     "continue",
-    "go on",
+    "carry on",
     "proceed"
   ],
-  "context": "The verb 'jätkake' in Estonian means to continue or proceed with an action. It is commonly used when asking someone to carry on with something they are doing, or stating that something will be resumed later."
+  "context": "The Estonian word 'jätkake' is the plural imperative form of the verb 'jätkama', which means 'to continue'. It is used when addressing multiple people formally, instructing them to continue with whatever they are doing. This form shows both the plural (addressing more than one person) and formal/polite aspect of the command."
 }

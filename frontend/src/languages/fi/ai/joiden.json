@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "He ovat joiden kanssa haluan olla.",
-    "Joiden vuoksi me teimme tämän.",
-    "Tiedän joiden takia sinä tulit tänne."
+    "Tämä on talo, joiden ovet ovat siniset.",
+    "Autot, joiden moottorit ovat viallisia, on korjattava.",
+    "Miehet, joiden hatut ovat punaiset, tulevat tänne."
   ],
   "translation": [
     "whose",
-    "of whom"
+    "of which"
   ],
-  "context": "The word 'joiden' is a genitive plural form of the pronoun 'joka', which means 'who' or 'which', and it is commonly used in Finnish to indicate possession or relationship."
+  "context": "The word 'joiden' is a Finnish possessive pronoun in the plural form. It functions as the relative pronoun whose in English and connects a main clause to a subordinate clause that describes ownership or association. 'Joiden' is part of the declension pattern for the relative pronoun 'jonka' (whose/singular) where '-den' indicates possession by multiple entities. It's commonly used in written Finnish but less common in spoken language compared to simpler constructions."
 }

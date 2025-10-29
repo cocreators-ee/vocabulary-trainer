@@ -1,11 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Naapurini kutsui minut pihalle juhlimaan hänen pojansa syntymäpäivää."
+    "Naapurini on ystävällinen.",
+    "He ovat hyviä naapureita.",
+    "Tämä talo on naapurin kanssa jaettu."
   ],
   "translation": [
-    "neighbour"
+    "neighbor",
+    "next-door neighbor"
   ],
-  "context": "'naapuri' means 'neighbour'. It refers to a person who lives near you."
+  "context": "The Finnish word 'naapuri' means neighbor or next-door neighbor. It refers to a person who lives near you, particularly in adjacent houses or apartments. The word can be used in singular form (naapuri) when referring to one neighbor, and in plural form (naapurit) when referring to multiple neighbors. Finnish often uses the possessive suffix '-n-' to indicate possession, so 'naapurini' means 'my neighbor'. In compound words, it can appear as 'naapurin' which indicates association with a neighbor."
 }

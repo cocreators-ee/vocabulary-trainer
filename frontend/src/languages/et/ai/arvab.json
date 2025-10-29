@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvab, et see on hea mõte.",
-    "Ta arvas, et kõik oli korras.",
-    "Nende arvamine oli vale."
+    "Ta arvab, et see on hea idee.",
+    "Mina ei arva nii.",
+    "Kes sa arvad?"
   ],
   "translation": [
-    "think",
-    "believe",
-    "suppose"
+    "thinks",
+    "believes",
+    "guesses",
+    "supposes"
   ],
-  "context": "The word 'arvab' is a verb in Estonian that means to think or believe something, often used to express an opinion or assumption about a situation."
+  "context": "The word 'arvab' is the third person singular present form of the Estonian verb 'arvama', which means to think, believe, guess or suppose. It's commonly used when someone expresses their opinion or makes a judgment about something."
 }

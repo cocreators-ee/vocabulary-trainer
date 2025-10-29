@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lapsehoidja tuli lapsega koos.",
-    "Ta on hea lapsehoidja.",
-    "Kes on sinu lapsehoidja?"
+    "Tema on lapsehoidja lasteaedas.",
+    "Lapsehoidjad on väga tähtsad laste arengu jaoks.",
+    "Kas oled kunagi töötanud lapsehoidjana?"
   ],
   "translation": [
+    "childcare worker",
+    "nanny",
     "babysitter",
-    "childminder"
+    "day care provider"
   ],
-  "context": "A person who takes care of a child or children, usually in the absence of the parents."
+  "context": "The Estonian word 'lapsehoidja' is a compound noun formed from 'laps' (child) and 'hoidja' (keeper/carer). It refers to a person who takes care of children, either professionally as a childcare worker in a daycare center or privately as a nanny/babysitter. The term encompasses various contexts where adults supervise and care for children."
 }

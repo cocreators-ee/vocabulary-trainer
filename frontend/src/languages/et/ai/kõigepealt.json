@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kõigepealt tuleb lahendada see probleem.",
-    "Ta ütles, et kõigepealt peab leidma õige võti.",
-    "Me peame kõigepealt oma plaane üle vaatama."
+    "Kõigepealt tuleb lõpetada kodutööd.",
+    "Kõigepealt võtame suhkru siis muudained.",
+    "Kõigepealt ei oleks halb öelda tänasti."
   ],
   "translation": [
     "first of all",
-    "above all",
-    "most importantly"
+    "to begin with",
+    "firstly"
   ],
-  "context": "The word kõigepealt is used to indicate that something should be done first or has the highest priority, and it is commonly used in everyday conversations to emphasize the importance of a particular action or decision."
+  "context": "The Estonian word 'kõigepealt' is an adverb used to indicate the first step or priority in a sequence. It literally means 'at most foremost' and is commonly used at the beginning of sentences when listing things in order of importance or sequence."
 }

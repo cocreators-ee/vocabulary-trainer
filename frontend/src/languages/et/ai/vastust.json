@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta näitas tugevat vastust sellele ettepanekule.",
-    "Vastust ei tulnud ootamatult.",
-    "Meie vastust on alati aus."
+    "Ootan vastust su küsimusele.",
+    "Sa saad oma vastust homme hommikul.",
+    "Palun kirjuta selge vastus."
   ],
   "translation": [
-    "resistance",
-    "opposition",
-    "objection"
+    "answer",
+    "response",
+    "reply"
   ],
-  "context": "The word 'vastust' in Estonian refers to the act of opposing something, or the feeling of disagreeing with a proposal or idea. It is commonly used to describe a reaction against change or an unwillingness to accept something."
+  "context": "The word 'vastust' is the partitive case form of the Estonian noun 'vastus', which means 'answer'. The partitive case is used when referring to a portion, amount, or indefinite quantity of something. In this case, 'vastust' would be used when talking about an answer (indefinite or partial) rather than a specific, complete answer. It can also appear in various constructions like with prepositions indicating movement towards the answer."
 }

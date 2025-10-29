@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu nimi on Jüri.",
-    "Ta ei maininud oma tantsunimed.",
-    "Võtame kasutusele uue mängunime."
+    "Tema nimel on kaks last.",
+    "Temanimeline koer istus aias.",
+    "Oleme selle nimel kokku tulnud."
   ],
   "translation": [
-    "name",
-    "nick name"
+    "in the name of",
+    "on behalf of",
+    "called",
+    "named"
   ],
-  "context": "This word is used to refer to a person's identity or stage name, commonly in situations where one has an alias or a performance name rather than their real name."
+  "context": "The Estonian word 'nimel' is an instrumental case form of the noun ' nimi', which means 'name'. It's used to indicate possession, agency, or purpose. Specifically, 'nimel' can mean 'in the name of', 'on behalf of', or be part of compound expressions meaning 'called' or 'named'. This grammatical construction shows how Estonian uses case endings rather than prepositions for certain relationships."
 }

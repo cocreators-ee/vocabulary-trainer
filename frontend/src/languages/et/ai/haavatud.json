@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on haavatud.",
-    "Haavatud inimene vajab kiiret abi.",
-    "Haavatud loomad vajavad erilist hoolitsust."
+    "Haavatud mees tuli haiglasse.",
+    "Loom oli haavatud ja vajab abi.",
+    "Poisike jäi ilma mänguasjata ja oli väga haavatud."
   ],
   "translation": [
     "wounded",
     "injured",
     "hurt"
   ],
-  "context": "The word haavatud is an adjective in Estonian that means being physically or emotionally hurt, and it is commonly used to describe someone or something that has been damaged or harmed in some way."
+  "context": "The Estonian word 'haavatud' is a past participle form of the verb 'haavama', meaning 'to wound' or 'to hurt'. It describes someone or something that has been wounded, injured, or hurt. This adjective is commonly used to describe physical injuries but can also be used metaphorically for emotional wounds."
 }

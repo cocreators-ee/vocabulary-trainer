@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole sellele küllaldaselt tähelepanu pöiranud",
-    "Sulle tuleb vastata kõige kiiremini",
-    "Ta on sellele võib-olla liiga suur rõhk panemas"
+    "Sulle meeldib see raamat?",
+    "Anna sulle seda annet.",
+    "Tule sulle kiiresti!"
   ],
   "translation": [
-    "on you",
     "to you",
-    "for you"
+    "for you",
+    "at you"
   ],
-  "context": "The word 'sulle' is a pronoun in Estonian that means 'to you' or 'for you', it is used as an object form of the second person singular pronoun."
+  "context": "In Estonian, 'sulle' is the allative case form of the pronoun 'sina' (you). It indicates direction or movement toward someone, similar to English prepositions like 'to', 'for', or 'at'. The allative case answers the question 'kuhu?' (where to?). This form is used when something is going to, intended for, or located at the person being addressed. For example, 'anna sulle' means 'give it to you', showing that the action of giving is directed toward the listener."
 }

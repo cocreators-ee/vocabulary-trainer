@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ütlen aitäh",
-    "Ta ütles aitäh",
-    "Aitäh sulle abi eest"
+    "Aitäh abi eest!",
+    "Tänan sind aitäh!",
+    "Väga aitäh!"
   ],
   "translation": [
-    "thank you",
-    "thanks"
+    "Thank you",
+    "Thanks",
+    "Appreciate it"
   ],
-  "context": "The word 'aitäh' is a polite expression used to show appreciation or gratitude in Estonian, similar to 'thank you' in English."
+  "context": "The word 'aitäh' is a common Estonian expression of gratitude. It's an informal way to say 'thank you'. The word comes from combining the Estonian words 'aega' (time) and 'tähelepanu' (attention), implying that someone has given you their time and attention. It can be used in various contexts where English speakers would use 'thanks', 'thank you', or expressions like 'appreciate it'."
 }

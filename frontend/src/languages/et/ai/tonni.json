@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen söönud tonni kala.",
-    "Tonni hind on kallim kui tavaline kala.",
-    "Ta tahab osta tonni, aga see on liiga kallis."
+    "Ta veab tonni vilja.",
+    "Meil on tonni kõrget.",
+    "See kaalub tonni."
   ],
   "translation": [
-    "tuna"
+    "ton",
+    "metric ton",
+    "tonne"
   ],
-  "context": "The word 'tonni' refers to a type of fish, specifically tuna, and is commonly used in Estonian to refer to this food item."
+  "context": "\"Tonni\" is the Estonian word for \"ton\" or \"metric ton\", which is a unit of weight equal to 1,000 kilograms. It is commonly used in Estonia and other countries that use the metric system to measure heavy items like goods, produce, or materials. The word is in the partitive case (-ni ending), which typically indicates an indefinite quantity or partial amount."
 }

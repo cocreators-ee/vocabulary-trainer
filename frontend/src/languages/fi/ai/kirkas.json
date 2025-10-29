@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kirkas aurinko paistaa taivaalla.",
-    "Hänellä on kirkkaat siniset silmät.",
-    "Kirkas vesi virtaa joessa."
+    "Kuinka kirkas tämä on?",
+    "Hänellä oli kirkas ääni.",
+    "Taivas on tänään erityisen kirkas."
   ],
   "translation": [
+    "bright",
     "clear",
-    "bright"
+    "luminous"
   ],
-  "context": "The word 'kirkas' in Finnish generally means something that is clear or bright, and it can be used to describe a variety of things such as the weather, someone's eyes, or water."
+  "context": "The Finnish word 'kirkas' is an adjective that can mean bright, clear, or luminous. It's used to describe things with strong light, clarity of appearance, or distinctness of sound. For example, it might describe sunlight shining strongly, a voice being easy to hear and understand, or something appearing very clear and sharp in vision."
 }

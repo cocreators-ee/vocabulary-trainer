@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Meie mõtlesime seda üle.",
-    "Ta mõtles selle üle mitu korda.",
-    "Nad mõtlesid, et see on hea mõte."
+    "Mõtlesime, kuhu läheme eile.",
+    "Me mõtlesime selle üle pikalt.",
+    "Tulemused olid paremad, kui me mõtlesime."
   ],
   "translation": [
-    "thought",
-    "considered",
-    "reflected"
+    "we thought",
+    "we considered",
+    "we planned"
   ],
-  "context": "The word 'mõtlesime' is the first person plural past tense form of the Estonian verb 'mõtlema', which means to think or consider something. It is commonly used in sentences to describe a thought process or reflection about an idea or situation."
+  "context": "The word 'mõtlesime' is the past tense plural form of the verb 'mõtlema' in Estonian, which means 'to think'. The '-me' ending indicates first person plural (we), and this form would translate to English as 'we thought' or 'we considered'. It's commonly used when referring to a group thinking about something together in the past."
 }

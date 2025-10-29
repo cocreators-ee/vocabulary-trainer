@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu tibi valguvad.",
-    "Ta tibi oli murdunud jüberis.",
-    "Arst kontrollis tema vasaku tibat."
+    "Tibi on hea õpilane.",
+    "Tibi läks kooli.",
+    "Kõrgeim punktisumma oli Tibil."
   ],
   "translation": [
-    "tibia",
-    "shin bone"
+    "Tibi (given name)"
   ],
-  "context": "'Tibi' refers to the shinbone in Estonian, which is also known as the tibia. It's commonly used when discussing medical issues or parts of the body."
+  "context": "Tibi is an Estonian given name, typically used as a nickname or diminutive form of names like 'Timothy' or 'Tibor'. It functions as a proper noun referring to a person named Tibi. In the example sentences, it's used in different grammatical contexts: nominative case (subject), partitive case with verb 'läks' (went), and partitive case with prepositional phrase 'Kõrgeim punktisumma oli Tibil' (The highest score was with Tibi)."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Õpetas mind sügavalt",
-    "Ta õpetas mulle palju",
-    "See raamat õpetab lapsi"
+    "Õpetasin lapsele lugema.",
+    "Ta õpetas meid matemaatikale.",
+    "Õpetaja õpetab koolis."
   ],
   "translation": [
+    "teaches",
     "taught",
     "instructed",
     "educated"
   ],
-  "context": "The word õpetas is the past tense of the Estonian verb õpetama, which means to teach or instruct someone in a particular subject or skill. It is commonly used in sentences to describe the act of teaching or guiding someone."
+  "context": "The word 'õpetas' is the past tense form of the Estonian verb 'õpetama', which means to teach, instruct, or educate. It indicates that teaching action has already been completed in the past."
 }

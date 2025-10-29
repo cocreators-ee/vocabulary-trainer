@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kavatse selle raamatu lugemist.",
-    "Ta on kavatsenud alati saada hea haridus.",
-    "Nende kavatsus on minna koos kinosse."
+    "Ma katsen kavatse oma suveplaane.",
+    "Ta ei katakseda uut projekti veel.",
+    "Kas sa kavadse meiega kohtuda?",
+    "Tema on alustanud kavatsema enda järgmist sammu."
   ],
   "translation": [
     "plan",
-    "intend"
+    "intend",
+    "mean to",
+    "purpose",
+    "design"
   ],
-  "context": "The word 'kavatse' in Estonian means to plan or intend to do something, often used in the context of making decisions or setting goals for the future."
+  "context": "The Estonian word 'kavatse' is a verb that means to plan, intend, or mean to do something. It's often used when someone has made arrangements or formed intentions about future actions. The word can be conjugated in different tenses: kavatse (present), katses (past simple), katas (past perfect), katakseda (conditional), and so on. This verb is commonly used to express deliberate plans or purposes, similar to how 'plan' or 'intend' are used in English."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma ei tea, kelleks sa tahad saada.",
-    "Kelleks sa ennast kujutad?",
-    "Ta ei teinud selgeks, kelleks ta on."
+    "Kelleks sa tahad sellest teha?",
+    "Miks sa oled kellekski?",
+    "Ta oli kellekski"
   ],
   "translation": [
-    "who",
-    "to be someone",
-    "as whom"
+    "to whom",
+    "for whom",
+    "into what/whom"
   ],
-  "context": "The word 'kelleks' is a form of the Estonian interrogative pronoun 'kes' (who) combined with the partitive case and is used to ask 'who to be?' or 'as whom?'. It often implies asking about someone’s aspirations, identity, or role."
+  "context": "The word 'kelleks' is an Estonian interrogative/indefinite pronoun that can function as either 'to whom' or 'for whom' depending on context. It's formed by adding the suffix '-ks' to the root 'kel-' (meaning 'who'). The '-ks' suffix typically indicates transformation, purpose, or destination in Estonian grammar."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tulge siia!",
-    "Ei, tulge ära!",
-    "Kas sa tahad tulla?"
+    "Tulge sisse!",
+    "Palun tulete nüüd",
+    "Meie tulime koos"
   ],
   "translation": [
     "come",
-    "come on"
+    "please come",
+    "let's come"
   ],
-  "context": "The Estonian word 'tulge' translates to 'come' or 'come on' in English. It is commonly used as a verb meaning to move toward someone/something."
+  "context": "The word 'tulge' is the plural imperative form of the Estonian verb 'tulema', which means 'to come'. It is used when addressing multiple people or a formal group, telling them to come. In singular form it would be 'tule', and in first person plural (we) it would be 'tulen/tulime' depending on tense."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma loodan, et sa oled hea meelega.",
-    "Loodetavasti on ilm ilus.",
-    "Ta ütles, et loodetavasti läheb kõik hästi."
+    "Loodetavasti saavad meie õpilased hea tulemuse.",
+    "Loodetavasti on ilus ilm homme.",
+    "Me loodetavasti jõuame tähtajaks."
   ],
   "translation": [
     "hopefully",
-    "one hopes"
+    "it is hoped that",
+    "presumably"
   ],
-  "context": "The word 'loodetavasti' is an adverb in Estonian that expresses a hopeful or wishful attitude towards something, similar to the English word 'hopefully'."
+  "context": "The Estonian word 'loodetavasti' is an adverb meaning 'hopefully' or 'it is hoped that'. It expresses expectation or hope about a future event. The word derives from the verb 'loomata' (to hope) with the '-a-' infix and the '-ti' suffix forming an adverb. When used in sentences, it typically appears at the beginning but can also appear elsewhere depending on emphasis."
 }

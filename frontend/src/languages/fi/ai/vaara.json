@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Se on vaara meidän turvallisuudellemme.",
-    "Tämä paikka on täynnä vaaroja.",
-    "Hän on altis monille vaaroille."
+    "Tämä on vaarallinen tilanne.",
+    "Lähdetkö minuun mukaan? Ei, se olisi liian suuri vaara.",
+    "Hän tunsi itsensä jatkuvassa vaarassa."
   ],
   "translation": [
     "danger",
-    "hazard",
-    "risk"
+    "risk",
+    "peril",
+    "hazard"
   ],
-  "context": "The word vaara refers to a source of potential harm or threat, and it is commonly used in Finnish to describe situations or objects that could cause injury or damage."
+  "context": "In Finnish, 'vaara' is a noun meaning danger or risk. It can refer to physical danger, potential harm, or risky situations. The word often appears in contexts where there's a threat of something bad happening. In the examples provided, it shows how 'vaara' can be used to describe dangerous situations, taking risks, and feeling endangered."
 }

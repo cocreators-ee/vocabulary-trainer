@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta tõi tasku sisse kaks tukki.",
-    "Minu taskusse maasin rahakotti.",
-    "Püüa see kumm maha ja pani järjekorda taskuses."
+    "Taskus on vaba koht.",
+    "Kas sa oled taskus?",
+    "Põrandale ei tohi taskusse jätta."
   ],
   "translation": [
-    "pocket",
-    "pockets",
-    "the pocket area"
+    "in the pocket",
+    "inside a pocket"
   ],
-  "context": "'Taskus' refers to a pocket in clothing. It is commonly used when talking about putting something into one's pocket or describing where an item is located on the body."
+  "context": "The word 'taskus' is the inessive case form of the Estonian noun 'tasku', which means 'pocket'. The suffix '-s' indicates location inside something. It's used when referring to something being located physically within a pocket."
 }

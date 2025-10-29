@@ -1,13 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma segasin sõna tähega.",
-    "Ta jäi segaduseks.",
-    "Segaduse pärase tegevus viis vigale."
+    "Ei sega mind.",
+    "Ta ei taha sind segada.",
+    "Lapsed segavad üksteist."
   ],
   "translation": [
-    "to confuse"
+    "to disturb",
+    "to interfere",
+    "to bother",
+    "to mix up"
   ],
-  "context": "Segada is a verb meaning to confuse or mix up something."
+  "context": "The Estonian word 'segada' is a verb that means to disturb, interfere, bother, or mix up. It can be used in various contexts - when someone doesn't want to be bothered ('Ei sega mind' - Don't disturb me), when talking about unwanted interference ('Ta ei taha sind segada' - He/She doesn't want to disturb you), or describing children bothering each other ('Lapsed segavad üksteist' - The children bother/disturb each other). It belongs to the -da verb conjugation class and can be found in different forms like segan (I disturb), segad (you disturb singular), etc."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jooksin kiiresti.",
-    "Ta jooksis üle tee.",
-    "Nad jooksid pargis."
+    "Ta jooksis kiiresti mööda tänavat.",
+    "Lapsed jooksid pargis rõõmsalt mängima.",
+    "Kes jooksis esimesena lõppu?"
   ],
   "translation": [
-    "I ran quickly.",
-    "He/She ran across the street.",
-    "They ran in the park."
+    "ran",
+    "running",
+    "to run"
   ],
-  "context": "The word 'jooksid' is a verb form of 'jooksma', which means to run, and is commonly used in Estonian language to describe the act of running or moving quickly on foot."
+  "context": "The word 'jooksid' is the past tense (third-person plural) form of the Estonian verb 'jooksma', which means 'to run'. In this conjugated form, it specifically means 'they ran' or '[he/she/it] ran'. The stem 'jooks-' relates to running or racing activities."
 }

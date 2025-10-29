@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan mängu",
-    "Mäng on väga põnev",
-    "Ta oskab palju erinevaid mänge"
+    "Mängime mängu.",
+    "See on hea mäng.",
+    "Lapsed armastavad uusi mänge."
   ],
   "translation": [
     "game",
-    "play"
+    "play",
+    "match"
   ],
-  "context": "The word 'mäng' in Estonian generally refers to a game or play, and is commonly used to describe an activity or sport played for entertainment."
+  "context": "The Estonian word 'mäng' has multiple related meanings depending on context. It can refer to a game (like board games or video games), a play/performance, or a match/sports competition. As a noun, it typically means 'game', and in sports contexts, it can mean 'match'. The word comes from the verb 'mängima' which means 'to play'."
 }

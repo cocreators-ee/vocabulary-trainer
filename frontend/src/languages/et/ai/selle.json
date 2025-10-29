@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtan selle raamatu.",
-    "Sellele küsimusele on vastus jah.",
-    "Ta tegi selle ülesande kiiresti."
+    "Selle maja ees on parkimisväli.",
+    "Ma ei tea selle asja kohta midagi.",
+    "Tema rääkis sellest küsimusest pikalt."
   ],
   "translation": [
     "this",
-    "that"
+    "that",
+    "these"
   ],
-  "context": "The word 'selle' in Estonian is a demonstrative pronoun used to point out something specific, similar to the English words 'this' or 'that'."
+  "context": "The Estonian word 'selle' is a demonstrative pronoun in the genitive case. It can mean 'this', 'that', or 'these' depending on context, and indicates possession or association with something previously mentioned. In English grammar terms, it would function like saying 'of this', 'of that', or referring to something specific but not explicitly stating ownership."
 }

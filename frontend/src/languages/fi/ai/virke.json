@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tässä virkessä on monta virhettä.",
-    "Virkkaus tehdään pienellä virkkeellä.",
-    "Kirjoita yksi virke kerrallaan."
+    "Tämä on hyvin selkeä virke.",
+    "Kirjoitin pitkän ja monimutkaisen virkkeen.",
+    "Virke päättyi pisteen jälj."
   ],
   "translation": [
     "sentence",
     "clause"
   ],
-  "context": "'Virke' refers to a sentence or clause in writing, commonly used when discussing grammar, writing instructions, or analyzing text structure. It is often used in educational contexts where students are asked to write one 'virke' at a time."
+  "context": "In Finnish grammar, 'virke' refers to a sentence or clause - a grammatical unit that expresses a complete thought. It can be either a simple sentence with one independent clause or a complex sentence containing multiple clauses connected by conjunctions. The term encompasses both declarative sentences and other types of syntactical structures."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan selle toote hinna tõttu",
-    "Hinna kvaliteedi suhe on hea",
-    "Töötaja pälvis kõrge hinna oma töö eest"
+    "Tere tulemast meie poes! Meil on head hinna.",
+    "Kas teil on soovite teada hinna?",
+    "See ese on hea hinna."
   ],
   "translation": [
     "price",
-    "value",
-    "worth"
+    "cost",
+    "value"
   ],
-  "context": "The word 'hinna' in Estonian generally refers to the price or value of something, and it is commonly used when discussing the cost or worth of a product or service."
+  "context": "The Estonian word 'hinna' means price, cost, or value. It is in the singular nominative form here. In Estonian, prices would typically be expressed with this word when asking about or stating the cost of something. The word can appear in different cases depending on how it's used in a sentence - for example, 'hinnaga' means 'with price' and 'hinnas' means 'in price'."
 }

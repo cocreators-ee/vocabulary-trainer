@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Täname sind väga!",
-    "Tänus sõna.",
-    "Ma tahan sulle tänada."
+    "Tänan sind.",
+    "Ma tänan sind aitamast.",
+    "Täname teid külast!"
   ],
   "translation": [
-    "thank you"
+    "I thank you",
+    "Thank you",
+    "Thanks"
   ],
-  "context": "'tänan' is used to express gratitude in Estonian."
+  "context": "\"Tänan\" is the first person singular present tense form of the verb \"tänama\" which means 'to thank'. It's used when someone (the speaker) wants to express gratitude to another person. The word changes form depending on who is thanking and whether it's formal or informal - in this case, \"tänan\" specifically means 'I thank' in an informal context."
 }

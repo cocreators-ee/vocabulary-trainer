@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Me kaotasime mängu.",
-    "Nad kaotasid meile.",
-    "Kaotasime palju raha."
+    "Võistkond kaotasimesel turniiril.",
+    "Tulemused olid halvad, me kaotasime kuue punkti."
   ],
   "translation": [
-    "we lost",
-    "lost"
+    "lost",
+    "were defeated",
+    "failed"
   ],
-  "context": "The word 'kaotasime' is the first person plural past tense form of the verb 'kaotama', which means to lose something or someone, and it is commonly used in Estonian language to express the idea of losing a game, an object, or even a person."
+  "context": "Kaotasime is the past tense plural form of the verb 'kaotama' which means to lose or fail. It specifically refers to a group action where 'we' (the speaker and others) lost something, such as a game, competition, opportunity, or objective. The word indicates defeat or unsuccessful outcome from the perspective of multiple people."
 }

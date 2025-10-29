@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen see, kellelt sa võid osta.",
-    "Ta on inimene, kellelt ma võin abi otsida.",
-    "Kellelt sa selle raamatu ostsid?"
+    "Kellelt sa selle said?",
+    "Kellelt see meil tuli?",
+    "Mist kellelt ta võtsid need andmed?"
   ],
   "translation": [
     "from whom",
-    "who"
+    "from who",
+    "whom...from"
   ],
-  "context": "The word kellelt is a postposition in Estonian that indicates the person or thing from which something is taken or received, and it is commonly used in sentences to show the origin of an action."
+  "context": "The Estonian word 'kellelt' is an interrogative pronoun in the elative case, meaning it asks about the origin or source of something. It's formed from the stem 'kel-' (who/whom) with the '-lt' suffix indicating movement away from a location or person. This form is specifically used when asking who someone/something came from, who gave something, or who provided information."
 }

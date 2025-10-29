@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta leidis tee koju.",
-    "Leidsime ühiselt lahenduse probleemile.",
-    "Politsei leidis varastatud auto."
+    "Kas te leidsite oma võtmed?",
+    "Ei, me ei leidnud midagi.",
+    "Kas nad leidsid varasemat versiooni?"
   ],
   "translation": [
-    "found",
-    "discovered",
-    "located"
+    "found (plural)",
+    "discovered (plural)",
+    "located (plural)"
   ],
-  "context": "The word 'leidsite' is the second-person singular past tense of the verb 'leidma', which means 'to find'. It’s commonly used to indicate that someone found or discovered something."
+  "context": "Leidsite is the plural form of the Estonian verb 'leidma' meaning to find or discover. It is used when addressing multiple people (formal/plural 'you') and indicates that something was found by them. This is the past tense, conditional, or potential mood form used in formal address."
 }

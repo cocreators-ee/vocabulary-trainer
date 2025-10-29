@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Laul on ilus kunstivorm",
-    "Ta laulab väga hästi",
-    "Laulud on tema elu"
+    "Laul on ilus.",
+    "Me lauleme koos.",
+    "See on hea laul."
   ],
   "translation": [
     "song",
-    "sing"
+    "singing",
+    "to sing"
   ],
-  "context": "The word 'laul' in Estonian generally refers to a song or the act of singing, and is commonly used in various contexts such as music, poetry, or cultural events."
+  "context": "The word 'laul' is a noun in Estonian that means 'song'. It can also function as part of compound words or phrases related to singing. In different contexts, it might be used to refer to the act of singing itself (when used with verbs) or specifically to musical compositions intended for vocal performance."
 }

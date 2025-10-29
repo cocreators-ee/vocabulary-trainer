@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on koolis ja muusikal.",
-    "Vesi ja õli ei segane.",
-    "Olen naiivne ja naerlik."
+    "Ja homme on pühapäev.",
+    "Ma lähen ja tulen tagasi.",
+    "Tere tulemast! Ja teie?"
   ],
   "translation": [
-    "and"
+    "and",
+    "also",
+    "too"
   ],
-  "context": "'ja' is a conjunction used to connect words, phrases, or clauses in Estonian. It functions similarly to 'and' in English and is commonly used in both written and spoken language for combining ideas or listing items together."
+  "context": "The Estonian word 'ja' is a common conjunction that means 'and'. It's used to connect words, phrases, or clauses together. In some contexts, it can also be used as an adverb meaning 'also' or 'too', similar to the English usage. This is one of the most frequently used words in Estonian and appears in many everyday expressions."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tänane ilm on ilus.",
-    "Ma olen tänase päeva jooksul väsinud.",
-    "Tänased uudised olid hämmastavad."
+    "Tänane päev on ilus.",
+    "Meil tänane kohtumine kell 14.",
+    "Täna on tähtpäev."
   ],
   "translation": [
     "today's",
-    "current"
+    "current day's",
+    "present day's"
   ],
-  "context": "The word 'tänane' in Estonian refers to something that is current or belongs to the present day, similar to the English word 'today's' or 'current'."
+  "context": "The Estonian word 'tänane' is an adjective derived from the pronoun 'täna' meaning 'today'. It indicates something belonging to or characteristic of the current day. It's commonly used to describe events, weather, dates, or other things related to today. The word follows standard Estonian adjective patterns and agrees in number and case with the noun it modifies."
 }

@@ -1,14 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina nägin juudeid täna päeval linnas.",
-    "Tema lugu on juudi maailma põnevusest ja usust.",
-    "Kuidas nad meie suhtes käituvad, ei pruugi midagi öelda juude kohta."
+    "Jood vett igal päeval.",
+    "Ta jood hommikuti kohvi.",
+    "Lapsed joovad piima."
   ],
   "translation": [
-    "Jew",
-    "Jewish person"
+    "drink"
   ],
-  "context": "This is an ethnic or religious term referring to people of Jewish descent. It can be used in a neutral context but may also have negative connotations if used as an insult."
+  "context": "The word 'jood' is an Estonian verb that means 'to drink'. It's the first-person singular form (I drink). The root verb is 'jooma', and 'jood' specifically refers to when 'I am drinking' or 'I drink'. In Estonian, verbs conjugate based on person and number, so this form would be used when speaking about oneself. Example: 'Jood vett igal päeval' means 'I drink water every day.'"
 }

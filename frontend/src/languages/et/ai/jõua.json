@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jõuan sinna kell kolm.",
-    "Ta jõuab homme tagasi.",
-    "Jõuame sinna varahomme."
+    "Ei jõudnud kohale õigel ajal.",
+    "Ta jõuis lõpuni tänavani.",
+    "Me jõuame homme hommikul varakult."
   ],
   "translation": [
-    "reach",
-    "get to"
+    "to arrive",
+    "to reach",
+    "to manage to be somewhere"
   ],
-  "context": "The word 'jõua' is commonly used in Estonian to mean reaching or arriving at a place, often indicating the act of getting somewhere physically or figuratively."
+  "context": "The Estonian verb 'jõua' means to arrive or reach a destination. It can also mean to manage to be somewhere at a specific time. This verb indicates successfully completing a journey or reaching a particular point in space or time. In its different conjugations, it shows various aspects of arrival - whether someone has arrived (past tense), is arriving (present tense), or will arrive (future tense)."
 }

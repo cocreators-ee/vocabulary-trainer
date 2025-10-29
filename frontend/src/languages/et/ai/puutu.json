@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei puutu sindasse.",
-    "Ära puutu minu asjadesse!",
-    "See puudutas mind sügavalt."
+    "Tere tulemast puudu!",
+    "Mul on praegu puudu aega.",
+    "Kas teil on midagi puudu?"
   ],
   "translation": [
-    "touch",
-    "affect",
-    "concern"
+    "welcome",
+    "greeting",
+    "hello"
   ],
-  "context": "The Estonian word 'puutu' generally means to touch physically, but can also mean to affect someone emotionally or to be relevant to a situation. It’s used in contexts where something has an impact on another thing or person."
+  "context": "'Puutu' appears to be an Estonian word used as a greeting, similar to 'tere tulemast' (welcome) or more generally as a hello/welcome expression. It seems to function as an informal way of welcoming someone or saying hello."
 }

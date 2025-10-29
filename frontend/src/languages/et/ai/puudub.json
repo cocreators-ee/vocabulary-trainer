@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta puudub siin.",
-    "Puudub mul veendumus, et see on õige.",
-    "Kui palju inimesi puudub?"
+    "Temal puudub kogemust selles valdkonnas.",
+    "Mul puudub aega selleks tööks.",
+    "Puuduvad tõendid selle kohta."
   ],
   "translation": [
     "is missing",
     "lacks",
-    "is absent"
+    "does not have"
   ],
-  "context": "The word 'puudub' is commonly used in Estonian to describe something or someone that is not present or missing."
+  "context": "The word 'puudub' is the 3rd person singular present form of the verb 'puuduma' which means 'to be absent', 'to lack', or 'to miss'. It's commonly used when someone or something does not possess a quality, item, or characteristic that would normally be expected or present. The word can refer to people lacking something (experience, time, skills) or things being missing from a situation."
 }

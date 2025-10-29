@@ -1,14 +1,14 @@
 {
-  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Tema viimane kirja jääb mulle alati meelde.",
-    "Päeva lõpus kogut palju kirja.",
-    "Ta saadab igal nädalal kirja oma ema."
+    "Kirja on ilus linn Eestis.",
+    "Minu ema kirjutas kirja täna hommikul.",
+    "Mees ostis uue kirja."
   ],
   "translation": [
-    "letter",
-    "mail"
+    "letter (written communication)",
+    "city",
+    "write"
   ],
-  "context": "Used to refer to written letters or postal mail, both as a noun and in compound words."
+  "context": "The word 'kirja' in Estonian can have multiple meanings depending on context. It appears to be in the illative case of 'kiri', meaning 'into a letter'. However, it could also refer to 'linn' (city) in some contexts or be related to the verb 'kirjutama' (to write). The most common usage would be as the illative form of 'letter', indicating movement toward or into something related to letters."
 }

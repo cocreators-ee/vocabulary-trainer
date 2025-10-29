@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtsin kaasas raamatu.",
-    "Ta läks koos kaasaga kooli.",
-    "Kaasas oli väga suur"
+    "Ta võttis oma passi kaasas.",
+    "Mul on alati taskuraamat kaasas.",
+    "Kas sa saad kohtumise ajal oma esitluse kaasas olla?"
   ],
   "translation": [
-    "along with",
-    "together with"
+    "with",
+    "along",
+    "in one's possession",
+    "carrying"
   ],
-  "context": "The word 'kaasas' in Estonian is used to indicate that something or someone is accompanying another thing or person, often translated to English as 'along with' or 'together with'."
+  "context": "The Estonian word 'kaasas' is an adessive case form of the word 'kaasa', which means 'with' or 'along'. It indicates that someone has something with them or is carrying something. In grammar, it shows location near a person or object - in this case, something being carried by or accompanying a person."
 }

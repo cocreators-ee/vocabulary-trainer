@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Pilvi on valkoinen.",
-    "Pilvet peittivat auringon.",
-    "Taivas oli täynnä paksuja pilviä."
+    "Pilvi peitti taivaan.",
+    "Musta pilvi lähestyi.",
+    "Pilvet liikkuivat nopeasti yli järven."
   ],
   "translation": [
-    "cloud"
+    "cloud",
+    "clouds"
   ],
-  "context": "The word pilvi refers to a cloud in the sky, and it is commonly used in Finnish to describe weather conditions."
+  "context": "The Finnish word 'pilvi' means cloud or clouds. It's a common noun used to describe visible masses of water droplets or ice crystals suspended in the atmosphere. The word can appear in singular form as 'pilvi' and plural form as 'pilvet'. In example sentences, it might be used with different grammatical cases depending on its role in the sentence."
 }

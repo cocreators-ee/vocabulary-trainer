@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Jumalat ei eksisteeri.",
-    "Tema jumalat ei tunnusta keegi.",
-    "Ma usun oma jumalat."
+    "Jumalat kiitust!",
+    "Kes on jumalat?",
+    "Pühendan selle jumalale."
   ],
   "translation": [
     "God",
-    "gods",
-    "the divine"
+    "the god",
+    "to God"
   ],
-  "context": "The word 'jumalat' is the partitive case singular form of 'jumal', which means 'god'. It can refer to a deity, gods in general, or be used as an expression of surprise similar to 'oh my God'. Commonly appears in religious contexts but may also be used idiomatically."
+  "context": "The word 'jumalat' is the partitive case form of 'jumal', which means 'god'. In Estonian, this form is often used in expressions related to addressing or referring to God, and can appear in phrases like thanking God ('Jumalat kiitust!') or when speaking about God. The partitive case here indicates that it's the object of an action (like thanking) or being referred to in a specific context."
 }

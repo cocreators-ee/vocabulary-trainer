@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on nimitetty virkaan.",
-    "Virka tehtiin vuonna 1990.",
-    "Virassa oleva henkilö on vastuussa päätöksistä."
+    "Hän aloitti uuden viran viime kuussa.",
+    "Virkailija auttoi minua asiassa.",
+    "Minulla on vakituinen virka pankissa."
   ],
   "translation": [
-    "office",
     "position",
-    "post"
+    "office",
+    "job",
+    "post",
+    "employment"
   ],
-  "context": "The word 'virka' in Finnish generally refers to a person's official position or role, often in a professional or governmental context, and is commonly used when discussing someone's job title or responsibilities."
+  "context": "The Finnish word 'virka' refers to a position, office, job or employment. It can denote both the official role/position itself and the place where one works. In Finnish grammar, 'virka' is a common noun that belongs to the strong declension group, with forms like 'virka' (nominative), 'virkaa' (partitive), 'virkana' (essive), 'virkaan' (illative), etc. It's often used in formal contexts regarding employment and official positions."
 }

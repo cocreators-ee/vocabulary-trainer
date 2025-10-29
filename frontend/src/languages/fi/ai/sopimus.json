@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sopimus on allekirjoitettu.",
-    "Hän teki sopimuksen yhtiön kanssa.",
-    "Tämä sopimus on voimassa vuoden loppuun."
+    "Olemme allekirjoittaneet uuden sopimuksen.",
+    "Tämä sopimus on voimassa vuoden ajan.",
+    "Heidän välillään oli virallinen sopimus."
   ],
   "translation": [
     "agreement",
     "contract",
-    "treaty"
+    "pact"
   ],
-  "context": "The word 'sopimus' in Finnish refers to a formal agreement or contract between two or more parties, and it is commonly used in legal, business, and political contexts to describe mutually accepted terms and conditions."
+  "context": "In Finnish, 'sopimus' is a noun that refers to an agreement or contract between parties. It can be used for both formal and informal agreements, legal contracts, pacts, or understandings. The word follows standard Finnish grammar rules with potential inflections depending on its role in the sentence (e.g., sopimuksessa = in the agreement, sopimukseen = into the agreement)."
 }

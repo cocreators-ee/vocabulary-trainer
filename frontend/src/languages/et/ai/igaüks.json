@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Igaüks peaks olema õnnelik",
-    "Ta ütleb, et igaüks on erinev",
-    "Kõik inimesed, igaüks neist"
+    "Igaüks peaks lugema seda raamatut.",
+    "Kõik on otsas peale igaüks oma osa.",
+    "Igaüks teab, et see tões on."
   ],
   "translation": [
     "everyone",
-    "each one"
+    "everybody"
   ],
-  "context": "The word igauks is used to refer to every individual or each person, and it is commonly used in sentences to emphasize the inclusivity of all people."
+  "context": "In Estonian, 'igaüks' is a compound word formed from 'iga' (each/every) and 'üks' (one). It functions as an indefinite pronoun meaning 'everyone' or 'everybody'. The word refers to all people collectively without exception. When used in sentences, it typically appears at the beginning but can appear elsewhere depending on emphasis needs."
 }

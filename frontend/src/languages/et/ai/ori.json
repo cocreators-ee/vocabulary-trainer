@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma nägin ori",
-    "Ori on ilus loom",
-    "Orjad on tugevad"
+    "Ori on kallis.",
+    "Mingi ori tuli tänna.",
+    "Tegelikult see ei ole ori."
   ],
   "translation": [
-    "stallion",
-    "male horse"
+    "beast",
+    "monster",
+    "creature",
+    "animal"
   ],
-  "context": "The word 'ori' in Estonian refers to a male horse, particularly one that is intact or has not been castrated, and it is commonly used in contexts related to horses and livestock."
+  "context": "The word 'ori' in Estonian refers to a beast, monster, or creature. It can be used to describe animals in general or more specifically mythical/fantastical beings. The word is masculine and can appear in different grammatical forms depending on context."
 }

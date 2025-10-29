@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta otsis kättemaksu",
-    "Kättemaks on kurjuse juur",
-    "Kättemaks ei ole hea"
+    "Ta otsis kättemaksu oma vaenlase peale.",
+    "Kättemaks võib olla nii füüsilise kui ka vaimse iseloomuga.",
+    "Pärast pikka vastasseisu leidis nad lõpuks ühiselusaluse ja loobusid kättemaksust."
   ],
   "translation": [
     "revenge",
-    "retaliation",
-    "payback"
+    "payback",
+    "retaliation"
   ],
-  "context": "The word kättemaks refers to the act of taking revenge or retaliating against someone for a past wrongdoing, and it is commonly used in Estonian to convey a sense of getting back at someone."
+  "context": "Kättemaks is an Estonian noun meaning revenge or retaliation. It refers to the act of getting even with someone who has wronged you, often in response to harm or injustice. The word carries a sense of justice-seeking behavior and can be used for both physical and forms of retribution."
 }

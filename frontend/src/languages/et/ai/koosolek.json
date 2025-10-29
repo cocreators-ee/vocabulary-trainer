@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Koosolek toimus homme.",
-    "Ta osaleb koosolekul.",
-    "Koosoleku tulemused olid ootuslikud."
+    "Meie igapäevane koosolek algab kell 9 hommikul.",
+    "Kas sa tulid eile meie koosolekule?",
+    "Koosoleku ajal arutati uusi projektideid."
   ],
   "translation": [
     "meeting",
     "gathering",
-    "conference"
+    "assembly"
   ],
-  "context": "The word 'koosolek' in Estonian refers to a meeting or gathering of people, often for discussion or decision-making purposes."
+  "context": "The word 'koosolek' in Estonian means a meeting or gathering where people come together to discuss matters, make decisions, or share information. It is a common noun used for both formal and informal gatherings of people with a common purpose."
 }

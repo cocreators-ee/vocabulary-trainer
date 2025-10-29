@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on katettava sormi.",
-    "Hänen sormensa ovat pitkät.",
-    "Sormet ovat osa käsiämme."
+    "Sormeni ovat pitkät ja ohuet.",
+    "Hänen sormensa värisevät jännityksestä.",
+    "Sormi kosketti kiveen."
   ],
   "translation": [
-    "finger"
+    "finger",
+    "digit"
   ],
-  "context": "The word 'sormi' refers to a part of the human body, specifically one of the digits at the end of the hand."
+  "context": "The Finnish word 'sormi' means 'finger' or 'digit'. It is a common noun referring to one of the five digits on the hand. In Finnish, this word follows standard grammatical rules for nouns and can be declined in various cases depending on its function in a sentence. For example, it would appear as 'sormet' in the plural form."
 }

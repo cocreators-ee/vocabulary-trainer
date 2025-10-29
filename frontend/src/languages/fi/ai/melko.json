@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän on melko pitkä.",
-    "Melko usein hän tulee käymään.",
-    "Tämä on melko hyvä ruoka."
+    "Melko hyvä päivä tänään.",
+    "Hän melko nopeasti luki kirjan.",
+    "Melko monet ihmiset tulivat juhliin."
   ],
   "translation": [
-    "pretty",
+    "quite",
     "rather",
-    "fairly"
+    "fairly",
+    "moderately"
   ],
-  "context": "The word 'melko' in Finnish is an adverb that means to a certain extent or fairly, it is commonly used to describe something that is not extreme but moderate."
+  "context": "The Finnish word 'melko' is an adverb that means 'quite', 'rather', or 'fairly'. It's used to modify adjectives and other adverbs, indicating a moderate degree of something. For example, 'melko hyvä' means 'quite good', suggesting something is better than average but not exceptional."
 }

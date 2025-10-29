@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on juhtum, mis vajab kiirest lahendust.",
-    "Juhtumaga seotud isikud on juba ühenduses politseiga.",
-    "Sarnased juhtumad on eelnevalt toimunud teistes linnades."
+    "Tulevikus juhtub midagi imelist.",
+    "Meie plaanid võivad juhuslikult juhtuda ümber.",
+    "Kuidas see lugu juhtus?"
   ],
   "translation": [
-    "case",
-    "event",
-    "incident"
+    "to happen",
+    "to occur",
+    "to take place"
   ],
-  "context": "The word 'juhtuma' in Estonian generally refers to an event, incident, or case, often used in formal or official contexts to describe a specific situation or occurrence that requires attention or resolution."
+  "context": "The Estonian word 'juhtuma' is a verb that means to happen or occur. It is in the infinitive form. This word describes events, incidents, or situations coming into being. For example, when someone asks 'Kuidas see lugu juhtus?' they are asking how this story happened or came about. The word can be used for both planned and unplanned events."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sõidab töölisse.",
-    "Ma sõitsin eile Tallinnas.",
-    "Nad sõidavad koos autoega."
+    "Auto sõidab teel.",
+    "Poisid sõidavad jalgratastega.",
+    "Lennuk sõidab õhus."
   ],
   "translation": [
     "drives",
     "is driving",
-    "ride"
+    "travels by"
   ],
-  "context": "The word 'sõidab' is a verb in Estonian that means to drive or ride, and it is commonly used to describe the act of operating a vehicle or moving from one place to another."
+  "context": "The word 'sõidab' is the third person singular present tense form of the Estonian verb 'sõitma', which means 'to drive' or 'to travel'. It is used when referring to a single subject (he, she, it) that currently performs the action of driving or traveling."
 }

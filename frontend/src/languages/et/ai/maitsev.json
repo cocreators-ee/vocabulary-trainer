@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on väga maitsev koogi retsept.",
-    "Maitsev aed on tema suvelõbu peamiseks vaatamisväärsuseks.",
-    "Küpsised olid maitsevad ja võtsid kergesti suuga."
+    "See keef maitseb väga hästi.",
+    "Kas see maiustus on ka maitsev?",
+    "Maitsev toit meeldib kõigile."
   ],
   "translation": [
+    "delicious",
     "tasty",
-    "delicious"
+    "flavorful"
   ],
-  "context": "The word 'maitsev' in Estonian means something that has a pleasing or agreeable taste, and is commonly used to describe food that is enjoyable to eat."
+  "context": "The Estonian word 'maitsev' is an adjective that describes something as being delicious or having a good taste. It's used to describe food and drinks that are enjoyable to eat because of their flavor. The word comes from the root 'maitse' which means 'taste' or 'flavor', with the '-v' suffix forming the adjectival form."
 }

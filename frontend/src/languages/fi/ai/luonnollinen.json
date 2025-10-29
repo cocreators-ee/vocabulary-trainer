@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän on luonnollinen johtaja",
-    "Luonnolliset vaihtelut säähavisssa ovat normaaleja",
-    "Tämä on luonnollinen osa prosessia"
+    "Tämä on luonnollinen tapa toimia.",
+    "Hän tuntuu hyvin luonnoliselta puhuessaan.",
+    "Luonnollisissa oloissa tämä kasvi viihtyy hyvin."
   ],
   "translation": [
     "natural",
-    "normal"
+    "normal",
+    "typical",
+    "organic"
   ],
-  "context": "The word luonnollinen is commonly used in Finnish to describe something that is natural or normal, and it can be used in various contexts such as describing a person's behavior, a process, or a phenomenon."
+  "context": "The Finnish word 'luonnollinen' is an adjective that means natural, normal, typical, or organic. It's used to describe something that occurs in nature or follows the usual course of things without artificial intervention. In different contexts it can refer to physical characteristics (natural appearance), behavior (natural way of acting), or substances (organic products). The word changes form based on grammatical case and number - for example, 'luonnollinen' is the basic nominative singular form, while in plural it becomes 'luonnolliset', and when referring to something feminine gender, it would be 'luonnollinen' but with different suffixes depending on context."
 }

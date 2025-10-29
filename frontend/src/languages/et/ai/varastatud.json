@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Varastatud auto oli müügil mustal turul.",
-    "Ta olevat varastanud raha oma endiselt tööandjalt.",
-    "Politsei sai teadmise, et varastatud esemed olid peidetud salajasse ruumi."
+    "Auto on varastatud.",
+    "Meie kodu on varastatud viimase öö jooksul.",
+    "Nägin, kuidas auto varastati."
   ],
   "translation": [
     "stolen",
-    "pilfered"
+    "taken away without permission"
   ],
-  "context": "The word 'varastatud' in Estonian means something that has been taken away without permission, and is commonly used to describe stolen goods or property."
+  "context": "The word 'varastatud' is the past participle form of the Estonian verb 'varastama', which means 'to steal'. It describes something that has been stolen or taken away illegally. In grammatical terms, it's a passive construction indicating the action was completed in the past. The root 'varasta-' relates to theft and appropriation without consent."
 }

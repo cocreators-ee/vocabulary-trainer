@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mulla on muna taskussa.",
-    "Hän syö munan päivässä.",
-    "Munat ovat halpoja."
+    "Muna on keltainen.",
+    "Hän munii joka päivä.",
+    "Tämä muna on tuore."
   ],
   "translation": [
-    "egg"
+    "egg",
+    "to lay eggs"
   ],
-  "context": "The word 'muna' in Finnish refers to an egg, and it is commonly used in everyday conversations when talking about food or cooking."
+  "context": "The Finnish word 'muna' primarily means 'egg'. It can refer to a chicken egg or other types of eggs. In its verb form 'munia', it means 'to lay eggs'. The noun is commonly used in everyday language when talking about food, cooking, or animals that produce eggs."
 }

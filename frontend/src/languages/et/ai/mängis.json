@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta mängis klaverit.",
-    "Mängisime palli.",
-    "Laps mängis pargis."
+    "Ta mängis hästi klaverit.",
+    "Lapsed mängisid murul.",
+    "Meie lugu mängiti teatris."
   ],
   "translation": [
     "played",
-    "was playing"
+    "acted",
+    "performed"
   ],
-  "context": "The word 'mängis' is the past tense of the Estonian verb 'mängima', which means to play, and it is commonly used to describe someone engaging in a game or activity for entertainment."
+  "context": "The word 'mängis' is the past tense singular form of the Estonian verb 'mängima', which means to play, act, or perform. It can refer to playing games/musical instruments, acting in a performance, or being performed (as in a story/play). The root word 'mäng-' combined with the '-is' suffix indicates past tense third person singular conjugation."
 }

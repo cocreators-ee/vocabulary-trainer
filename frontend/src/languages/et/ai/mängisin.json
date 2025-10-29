@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mängisin palli.",
-    "Ta mängis klaveril.",
-    "Nad mängisid koos."
+    "Mängisin eile tennisit.",
+    "Tüdrukud mängisid lossi.",
+    "Meie lapsed mängisid pargis."
   ],
   "translation": [
-    "played",
-    "was playing",
-    "would play"
+    "I played",
+    "was playing"
   ],
-  "context": "The word 'mängisin' is the first person singular past tense form of the Estonian verb 'mängima', which means to play. It is commonly used in sentences to describe someone engaging in a fun activity, such as playing a game or an instrument."
+  "context": "The word 'mängisin' is the first person past tense form of the Estonian verb 'mängima', which means 'to play'. It specifically indicates that the speaker performed the action of playing in the past. This form is used when talking about oneself (first person singular) and completed past actions."
 }

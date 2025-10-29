@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vabandan vea eest",
-    "Ta on vea süüdi",
-    "Vea oli tema"
+    "Ta tegi vea.",
+    "Tegime suuri vigu projektis.",
+    "Kas sa oled kogenud vigade parandamises?"
   ],
   "translation": [
+    "error",
+    "mistake",
     "fault",
-    "guilt",
-    "blame"
+    "blunder"
   ],
-  "context": "The word 'vea' in Estonian generally refers to fault, guilt, or blame, and is commonly used in sentences to express responsibility or culpability for something."
+  "context": "The Estonian word 'vea' is the partitive form of the noun 'viga', which means 'error', 'mistake', or 'fault'. In Estonian, the partitive case is often used when talking about errors or mistakes that are made. The word can refer to small mistakes, blunders, or faults in various contexts such as work, studies, or everyday situations."
 }

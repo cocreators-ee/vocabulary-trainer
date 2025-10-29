@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen jaama lähedal.",
-    "Jaamast sai suur kunagise mõisahoone.",
-    "Tallinna jaam on üks suurimaid Baltimaades."
+    "Jaamas olin viimati eelmisel nädalal.",
+    "Tuleme kohtuma jaama esimesel platvormil.",
+    "Jaamahoone on renoveeritud."
   ],
   "translation": [
     "station",
-    "depot"
+    "depot",
+    "terminal"
   ],
-  "context": "The word 'jaama' in Estonian refers to a station or depot, often used in the context of transportation hubs like train or bus stations."
+  "context": "The word 'jaama' is the genitive case form of the Estonian noun 'jaam'. In Estonian, the genitive case indicates possession or association. So 'jaama' means 'of station', 'from station', 'at station', or similar depending on context. It's used when the station is the object rather than the subject in a sentence."
 }

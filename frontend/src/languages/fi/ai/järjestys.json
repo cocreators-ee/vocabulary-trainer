@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Järjestys on tärkeä asia kaikissa yhteiskunnan osa-alueilla.",
-    "Hänen järjestyksensä mukaan asiat ovat aina täydellisiä.",
-    "Luonnon järjestys on monimutkainen ja dynaaminen kokonaisuus."
+    "Tämä on järjestys.",
+    "Kaikki oli hyvässä järjestyksessä.",
+    "Mitä uutta järjestystä suunnittelette?"
   ],
   "translation": [
     "order",
     "arrangement",
+    "sequence",
     "organization"
   ],
-  "context": "The word 'järjestys' in Finnish refers to the state of being organized or arranged in a specific way, and is commonly used to describe social, natural, or structural order."
+  "context": "The Finnish word 'järjestys' refers to the state of being arranged in a particular way, having proper organization or sequence. It can mean physical order (things arranged properly), social order/rules, or chronological sequence. The word is commonly used in everyday situations from household organization to describing the proper functioning of systems."
 }

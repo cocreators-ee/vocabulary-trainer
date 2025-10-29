@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olin varem sinna käinud.",
-    "Varem oli see maja väiksem.",
-    "Ta oli varem töötanud arstina."
+    "Ta tuli varem kui olin eeldanud.",
+    "Me peaksime varem lahkuma.",
+    "Kas sa jõuad värelda?"
   ],
   "translation": [
+    "earlier",
     "before",
-    "previously",
-    "earlier"
+    "sooner"
   ],
-  "context": "The word 'varem' is commonly used in Estonian to indicate something that happened or existed before a specific time or event, similar to the English words 'before', 'previously', or 'earlier'."
+  "context": "The Estonian word 'varem' is an adverb meaning 'earlier', 'before', or 'sooner'. It indicates that something happened at a previous time than expected or being compared. In the examples, it's used to show that someone arrived earlier than anticipated, suggesting leaving earlier should be done, and asking if someone can arrive sooner."
 }

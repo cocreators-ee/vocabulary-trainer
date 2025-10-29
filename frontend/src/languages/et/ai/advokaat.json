@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minu advokaat on väga hea.",
-    "Advokaadi ülesanne on kaitseda klienti kohtus.",
-    "Ta on tuntud kui üks parimaid advokaate linnas."
+    "Tema on hea advokaat.",
+    "Mul on vaja paluda advokaati appi.",
+    "Advokaadid nõuavad kõrget tasu."
   ],
   "translation": [
     "lawyer",
     "attorney",
-    "counselor"
+    "legal representative"
   ],
-  "context": "The word 'advokaat' in Estonian refers to a legal professional who represents and advises clients in legal matters, similar to the English term 'lawyer' or 'attorney'."
+  "context": "The Estonian word 'advokaat' refers to a lawyer or attorney - a legal professional who is qualified to represent clients in court and provide legal advice. This term specifically denotes someone with higher legal qualifications, similar to a barrister or solicitor in some jurisdictions."
 }

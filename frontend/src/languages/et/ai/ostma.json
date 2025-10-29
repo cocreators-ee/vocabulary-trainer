@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan uue telefoni",
-    "Ta on ostnud uue arvuti",
-    "Me ostame tihti internetist"
+    "Ma olen ostmas uut telefonit.",
+    "Ta ostis rõivad turult.",
+    "Meie ostme maja eelmisel nädalal."
   ],
   "translation": [
-    "buy",
+    "to buy",
     "purchase"
   ],
-  "context": "The word 'ostma' is commonly used in Estonian to mean buying or purchasing something."
+  "context": "The Estonian word 'ostma' is an infinitive verb meaning 'to buy' or 'purchase'. It belongs to the -ma infinitive group in Estonian. In different contexts and conjugations, it can appear as ostad (you buy), ostis (he/she bought), ostan (I buy), ostme (we bought), and other forms depending on tense and person."
 }

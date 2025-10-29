@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan mõlemat neist.",
-    "Mõlemat võimalust on kaalutud.",
-    "Ta oskab mõlemat keelt."
+    "Mõlemad poiss ja tüdruk tulid koos kooli.",
+    "Ta ei võtnud mõlemat pakki kaasa.",
+    "Mõlemad lahendused on head."
   ],
   "translation": [
     "both",
-    "either"
+    "the two of them"
   ],
-  "context": "The word 'mõlemat' is a pronoun in Estonian that means both or either, used to refer to two things or options."
+  "context": "The word 'mõlemat' is the partitive case form of 'mõlemad', meaning 'both'. In Estonian, this form is used when referring to both items or people in contexts where they are being acted upon or considered as objects. The partitive case indicates an incomplete action or partial possession."
 }

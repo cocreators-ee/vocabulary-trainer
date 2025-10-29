@@ -1,13 +1,17 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kansi oli liitostavaran pohjasta tehty.",
-    "Ammunut kirkkaan pohjaan.",
-    "Hänellä on ystävät jopa maailman pohjalta."
+    "Minulla on pohja tälle rakennukselle.",
+    "Talvella pohjasta tulee jäätynyt.",
+    "Hän löysi pohjan vanhoista muistioista."
   ],
   "translation": [
-    "bottom"
+    "base",
+    "foundation",
+    "bottom",
+    "ground",
+    "origin",
+    "source"
   ],
-  "context": "Pohja refers to the bottom part of something, like the base or foundation. It can be used for physical objects, geographical directions (south), or metaphorically as a basis for ideas."
+  "context": "In Finnish, 'pohja' is a versatile noun that can mean base, foundation, bottom, ground, origin, or source depending on the context. It's commonly used to describe the lowest part of something (like the bottom of a container), the fundamental support structure (foundation/base), or the starting point/source of something. The word doesn't change form in these different contexts - it remains 'pohja' regardless of whether it's referring to physical bases, abstract foundations, or origins."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kesä on kaunein aika vuodesta.",
-    "Talvi vai kesä, kumpi sinun mielestäsi on parempi?",
-    "Kesäloma on jo ovella."
+    "Kesä on lämmin vuodenaika.",
+    "Meillä oli hauska kesä viime vuonna.",
+    "Minä odotan kesää innolla."
   ],
   "translation": [
-    "summer"
+    "summer",
+    "summertime"
   ],
-  "context": "The word kesä refers to the season of summer in Finnish, and it is commonly used when talking about the time of year or planning vacations."
+  "context": "The Finnish word 'kesä' means summer or summertime. It is a common noun referring to the warmest season of the year between spring and autumn. In Finnish, seasons are typically used without articles like 'the', so you would say 'kesä on lämmin vuodenaika' (summer is a warm time of year) rather than 'the summer'. The word can be declined in various forms: kesässä (in/at summer), kesään (to/toward summer), kesältä (from summer), etc."
 }

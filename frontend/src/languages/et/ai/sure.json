@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean seda kindlasti.",
-    "Kas sa oled selles kindel?",
-    "Ta on väga sure."
+    "Tema sureb kiiresti.",
+    "Surejad olid meie naabrid.",
+    "See haigus on surmav."
   ],
   "translation": [
-    "sure",
-    "certain",
-    "definite"
+    "dies",
+    "perish",
+    "pass away"
   ],
-  "context": "The Estonian word 'sure' is similar to the English word 'sure', but it can also mean 'certain' or 'definite'. It expresses a high degree of conviction or certainty about something."
+  "context": "The Estonian word 'sure' is the 3rd person singular present form of the verb 'surma', meaning to die or perish. It refers to the action of dying and is commonly used in contexts where someone or something is dying."
 }

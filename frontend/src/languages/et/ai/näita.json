@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näitan sulle oma uut kodu.",
-    "Ta ei näita mulle seda pilti.",
-    "Näidake mulle teekonda."
+    "Tuleb näidata sellele inimesele.",
+    "Sa pead endale alati head näidata.",
+    "Näita mulle oma tööd!"
   ],
   "translation": [
-    "show",
-    "demonstrate",
-    "display"
+    "to show",
+    "to display",
+    "to present"
   ],
-  "context": "The word 'näita' in Estonian means to show something to someone, and it is commonly used in various contexts such as giving directions or presenting information."
+  "context": "The Estonian word 'näita' is a verb that means 'to show' or 'to display'. It's in the imperative form (command form) of the verb. The infinitive form would be 'näidata'. This verb is commonly used when asking someone to show something, present something, or make something visible to others."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta pidas oma lugu alati meelde.",
-    "Meil on kohustus aidata teineteisele.",
-    "Pidi tõestama oma väiteid dokumentidega."
+    "Me pidid tegema kõik koos.",
+    "Nad pidid algama homsest.",
+    "Mina pidid võtma oma kingad ära."
   ],
   "translation": [
-    "to have to",
-    "duty",
-    "must"
+    "had to",
+    "was supposed to",
+    "needed to"
   ],
-  "context": "Expresses necessity or obligation in Estonian, often used similarly to 'have to' or 'must' in English"
+  "context": "'Pidid' is the past tense of 'pidama,' which means 'to have to' or 'must.' It's used to express obligation, necessity, or something that was required in the past. This form specifically indicates second person singular and plural (you had to/you were supposed to)."
 }

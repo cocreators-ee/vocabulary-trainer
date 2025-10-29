@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ei tea seda ega nad.",
-    "Ma ei saa seda teha, ka mitte sina ega kellegi teisi.",
-    "Ega kõikjal mujal maailmas pole nii musta nagu siin."
+    "Ega ma ei tea.",
+    "Ega ta tule ära.",
+    "Ega me enam minge."
   ],
   "translation": [
+    "either",
+    "neither",
     "nor"
   ],
-  "context": "The Estonian word 'ega' translates to the English coordinating conjunction 'nor,' used to join two or more negative clauses together. It is commonly employed in formal and informal speech when negation has already been introduced by a negative particle such as 'ei.'"
+  "context": "The Estonian word 'ega' is a conjunction used to connect negative statements and means either/neither/nor. It's commonly used with negation words like 'ei' (not) to form compound sentences where both parts are negative. For example, 'Ega ma ei tea' means 'I don't know either'. The word helps express that something doesn't happen or isn't true in multiple contexts."
 }

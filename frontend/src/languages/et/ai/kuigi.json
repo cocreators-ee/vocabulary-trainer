@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kuigi ta on hea inimene, ei ta ole eriti osav.",
-    "Ma olen kuigi üllatunud, et see on nii lihtne.",
-    "Kuigi see võib olla raske, peab seda tegema."
+    "Kuigi oli külm, siikusin hommikuti pargis.",
+    "Töö on raskas, kuigi ma armastan seda.",
+    "Kuigi ta on noor, ta on väga intelligentne."
   ],
   "translation": [
     "although",
+    "even though",
     "though"
   ],
-  "context": "The word kuigi is a conjunction used to indicate a contrast or unexpectedness, similar to the English words although or though."
+  "context": "The Estonian word 'kuigi' is a conjunction that introduces a subordinate clause expressing contrast or concession. It is equivalent to English words like 'although', 'even though', or 'though'. It indicates that despite the fact mentioned in the main clause, something else is true or happens."
 }

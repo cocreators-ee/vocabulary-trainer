@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Heidän menetelmänsä toimivat hyvin.",
-    "Toimivatko uudet lait?",
-    "Tämä ohjelma ei toimi oikein."
+    "Nämä laitteet toimivat hyvin.",
+    "Autot eivät toimi pakkasessa.",
+    "Toimiko ohjelma moitteetta?"
   ],
   "translation": [
     "work",
-    "function"
+    "function",
+    "operate"
   ],
-  "context": "The word 'toimivat' is a verb in Finnish that means something or someone is working or functioning properly. It can be used in various contexts, such as describing a machine, a method, or a system that is operating correctly."
+  "context": "The word 'toimivat' is the past tense plural form of the Finnish verb 'toimia', which means 'to work', 'to function', or 'to operate'. It describes something that was functioning properly in the past. The root 'toimi-' relates to action and functionality, with '-vat' being a common suffix for past tense plural forms of verbs in Finnish."
 }

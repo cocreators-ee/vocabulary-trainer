@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta joonud palju õlut.",
-    "Nad on joonud kogu vee ära.",
-    "Kas sa oled juba joonud oma tee?"
+    "Tere tulemast joonud!",
+    "Oli tore teiega kohtuda, olen rõõmus, et olete siin.",
+    "Palun istuge, me oleme juba sinna joonud."
   ],
   "translation": [
-    "drunk",
-    "had a drink",
-    "consumed"
+    "arrived",
+    "come",
+    "present"
   ],
-  "context": "The word 'joonud' is the past active participle of the verb 'jooda', meaning 'to drink'. It translates to 'drunk' or 'having drunk' in English and indicates that someone has consumed a liquid, often alcoholic. It can also imply intoxication depending on context."
+  "context": "The word 'joonud' is the partitive case form of the verb 'tulema' (to come) in Estonian. It indicates that someone has arrived or come somewhere, and it's used to refer to people who have already arrived. In this context, it could mean 'arrived ones' or simply refer to those present/who have come."
 }

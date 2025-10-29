@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina vajasin paberite peale.",
-    "Paberid on valmistatud taimselt.",
-    "Toas oli palju pabereid."
+    "Paberid on laual.",
+    "Ma ostsin pabereid poes.",
+    "Kas sa oled unustanud paberi?"
   ],
   "translation": [
-    "paper (papers)",
-    "paper",
-    "papers"
+    "papers",
+    "documents",
+    "sheets of paper"
   ],
-  "context": "The word 'paberid' in Estonian translates to 'papers' or 'paper' in English, commonly used to refer to sheets of paper or documents. It is the plural form of 'paber'. The examples show different contexts such as physical papers, quality of paper, and multiple sheets."
+  "context": "The word 'paberid' is the plural form of the Estonian noun 'paber', which means 'paper'. In its plural form, it refers to multiple papers or documents. It's commonly used in everyday contexts when referring to sheets of paper, paperwork, or documents."
 }

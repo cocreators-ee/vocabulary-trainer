@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kohtusin temaga isiklikult.",
-    "Ta võttis mind isiklikult vastu.",
-    "Isiklikult olen ma väga rõõmus."
+    "Tahan isiklikult teada sinu arvamust.",
+    "Isiklikult ma ei nõusta sellega.",
+    "Ta palus mul isiklikult aidata."
   ],
   "translation": [
     "personally",
-    "in person"
+    "in person",
+    "privately"
   ],
-  "context": "The word 'isiklikult' in Estonian means doing something in person or personally, and it is commonly used to describe direct interactions with someone."
+  "context": "The Estonian word 'isiklikult' is an adverb that means personally or in person. It's derived from the noun 'isik' (person) with the suffix '-lik' (like, pertaining to) and the adverbial ending '-tlt'. This word emphasizes something being done by the individual themselves rather than through someone else, often used to express personal opinion or direct involvement."
 }

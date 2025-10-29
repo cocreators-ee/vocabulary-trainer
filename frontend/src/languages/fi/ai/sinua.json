@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sinua odotetaan tänne",
-    "He ovat sinua vastaan",
-    "Minä rakastan sinua"
+    "Sinua autan mielelläni.",
+    "Rakastan sinua.",
+    "Hän ajattelee sinua."
   ],
   "translation": [
-    "you",
-    "yourself"
+    "you (singular accusative)",
+    "to you"
   ],
-  "context": "The word sinua is a pronoun in Finnish that means you, and it is commonly used as an object of a sentence or a clause."
+  "context": "The word 'sinua' is the partitive form of 'sinä' (you, singular). In Finnish grammar, the partitive case has multiple uses including indicating partiality or indefiniteness. When used with verbs like auttaa (help), rakastaa (love) or ajatella (think about), it indicates the recipient or target of the action in a way that differs from the accusative case. This form is commonly used when referring to a person who is receiving an action, especially with certain verb constructions."
 }

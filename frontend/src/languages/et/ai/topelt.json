@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen topeltkodanik",
-    "Topeltmaksed on keelatud",
-    "Ta on topeltrolliga mänginud"
+    "Ta ostis topeltsõidu pilet.",
+    "Me elame topeltoas.",
+    "See on topeltmärk."
   ],
   "translation": [
     "double",
-    "twin",
-    "dual"
+    "twice",
+    "duplicate"
   ],
-  "context": "The word 'topelt' in Estonian means something that is twofold or consists of two parts, and it can be used to describe things like dual citizenship, double taxation, or a twin role."
+  "context": "The Estonian word 'topelt' is an adverb that means 'double', 'twice', or 'duplicate'. It indicates something that has two parts, occurs twice, or is duplicated. For example, in 'topeltsõidu pilet', it modifies the noun to indicate a double ticket (a ticket for two people or for round trip). When used with rooms like 'topeltoa', it describes a room with two beds. In mathematics or measurements, 'topeltmärk' would refer to a double mark or symbol."
 }

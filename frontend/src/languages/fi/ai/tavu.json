@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tavu on runon rakenteen perusyksikkö.",
-    "Sanan tavut ovat tärkeitä runollisessa ilmaisuissa.",
-    "Lauseen tavujen painotukset vaikuttavat sen merkitykseen."
+    "Tavu on kielellinen yksikkö.",
+    "Hänellä on hyvä tavu puhua julkisesti.",
+    "Musiikissa tavu voi olla rytminen elementti."
   ],
   "translation": [
-    "syllable"
+    "syllable",
+    "beat",
+    "rhythm"
   ],
-  "context": "A syllable is a unit of sound in a word that contains a vowel sound, and it is a fundamental concept in Finnish language and poetry, where the stress and rhythm of words are important for the meaning and expression."
+  "context": "In Finnish, 'tavu' primarily refers to a syllable in language. It can also mean beat or rhythm in musical contexts. A syllable is a unit of pronunciation that typically contains a vowel sound and may be surrounded by consonants. In music, a beat represents the basic unit of time and rhythm."
 }

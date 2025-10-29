@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta uskus mind.",
-    "Ma ei usu sind.",
-    "Usalda ennast."
+    "Uskusin algselt, et see on väga raske.",
+    "Uskumatu lugu!",
+    "Meil on usku oma tulevikku."
   ],
   "translation": [
-    "believe",
-    "trust",
-    "faith"
+    "belief",
+    "faith",
+    "trust"
   ],
-  "context": "The Estonian word 'usku' generally translates to 'belief', 'trust', or 'faith' in English. It is commonly used to express confidence in someone or something, or a conviction about the truth of an idea."
+  "context": "The word 'usku' is the partitive singular form of the Estonian noun 'usk' which means belief or faith. It appears in contexts where we're talking about some belief (in the sense of a particular instance of believing something) or some faith/trust that someone has."
 }

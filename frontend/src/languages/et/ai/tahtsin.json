@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahtsin seda filmi näha",
-    "Ta tahtis mind abielusse võtta",
-    "Meie tahtsime koos elada"
+    "Ma tahtsin homme õppida.",
+    "Ta tahtsin aidata sind.",
+    "Meie tahtsin puhkusele minna."
   ],
   "translation": [
-    "wanted",
-    "wished"
+    "wanted to",
+    "meant to",
+    "was going to"
   ],
-  "context": "The word 'tahtsin' is the first person singular past tense form of the verb 'tahma', which means to want or wish something in Estonian. It is commonly used to express a desire or intention to do something in the past."
+  "context": "The word 'tahtsin' is the first person singular past tense form of the Estonian verb 'tahma', which means 'to want' or 'to wish'. It indicates a past desire or intention. The '-in' suffix marks it as being in the past tense, specifically for the 1st person singular (I). This would be equivalent to saying 'I wanted to' or 'I meant to' in English."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma alustan uut tööd homme",
-    "Ta alustas koolis õppimist septembris",
-    "Nad alustavad koos uut ettevõtmist"
+    "Alustame hommikuti tööga.",
+    "Meie projekt alustab järgmisel nädalal.",
+    "Tuleb alustada uuesti."
   ],
   "translation": [
-    "to start",
     "to begin",
-    "to initiate"
+    "to start",
+    "to commence"
   ],
-  "context": "The word 'alustada' in Estonian means to start or begin something, and it is commonly used in various contexts such as starting a new job, beginning a project, or initiating an activity."
+  "context": "The Estonian verb 'alustada' means to begin or start something. It is a regular -da ending verb that takes the object in the partitive case when referring to the activity being started. For example, 'tööd alustama' means 'to start work'. The verb can be used with various tenses and moods depending on context."
 }

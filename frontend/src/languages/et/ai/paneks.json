@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma paneksin selle kohe korda, kui sa mulle aega annaksid.",
-    "Ta paneks sind vangi, kui ta saaks.",
-    "Sa paneksid oma asjad kokku ja lahkuks."
+    "Kas sa paneksid mind koju?",
+    "Me ei tea, mida nad paneksid.",
+    "Ta võiks paneks paremini."
   ],
   "translation": [
     "would put",
-    "would place",
-    "would set"
+    "could put",
+    "might put"
   ],
-  "context": "The Estonian word 'paneks' is the conditional form of the verb 'panema', which means 'to put,' 'to place,' or 'to set.' It expresses what someone *would* do under certain circumstances. It’s often used to express a hypothetical action or intention."
+  "context": "The word 'paneks' is the third person singular conditional form of the verb 'pandama', which means 'to put'. It's used in hypothetical or polite suggestions, similar to 'would put' or 'could put' in English."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta häirib mind.",
-    "Häirivad helid tulevad naabritelt.",
-    "Häirib mind see müra."
+    "Tulemuse teada saamine häirib mind.",
+    "Linnu laul häirib magamist.",
+    "Kõrvalasuja häirib töö keskendumist."
   ],
   "translation": [
     "disturbs",
     "bothers",
-    "annoys"
+    "interrupts",
+    "interferes with"
   ],
-  "context": "The word häirib is a verb in Estonian that means to disturb or bother someone, often used in the context of noise or unwanted attention."
+  "context": "The Estonian word 'häirib' is the 3rd person singular present form of the verb 'häirima', which means 'to disturb' or 'to bother'. It describes when someone or something causes inconvenience, interrupts a state of peace or concentration, or prevents someone from doing what they want to do. This word can be used in contexts where noise, people's actions, or external factors interfere with activities like work, sleep, studies, or peaceful moments."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan maal.",
-    "Maa on ilus.",
-    "Ta läks üle maa."
+    "Maa on meie kodu.",
+    "Lennuk maandus maapinnal.",
+    "Põllumajandus kasutab maaressurseid."
   ],
   "translation": [
     "land",
     "earth",
-    "country"
+    "ground",
+    "soil"
   ],
-  "context": "The word 'maa' in Estonian generally refers to a person's native country or homeland, but it can also mean land or earth in a more literal sense, depending on the context in which it is used."
+  "context": "The word 'maa' in Estonian has multiple meanings depending on context. It can refer to land (as opposed to water), earth/planet, ground/surface, or soil/farmland. It's a common noun that appears frequently in everyday language and various contexts from geography to agriculture."
 }

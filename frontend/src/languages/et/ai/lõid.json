@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lõid ukse kinni.",
-    "Lapsed lõid palli.",
-    "Kolhoosnikud lõid heina."
+    "Lõi meile küsimus.",
+    "Tema lõi värava kolm minuti pärast algust.",
+    "Nad lõid sõpruse."
   ],
   "translation": [
-    "hit",
-    "strike",
-    "beat"
+    "to hit",
+    "to strike",
+    "to create",
+    "to make"
   ],
-  "context": "The word 'lõid' in Estonian means to hit or strike something, and it is commonly used in sentences to describe physical actions."
+  "context": "The word 'lõid' is the past tense (perfect) of the Estonian verb 'lööma', which means 'to hit' or 'to strike'. It can also be used in the sense of creating or making something, similar to English 'to make'. In these examples, it shows hitting/striking physical objects and also the metaphorical use of establishing relationships."
 }

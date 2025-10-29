@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kapten oli väga julge.",
-    "Meie kapten on tunnustatud.",
-    "Kaptenid said auhindu."
+    "Kapten Smith juhtis laeva ohutiselt sadamasse.",
+    "Naisterõivetes kapten vaatas merd.",
+    "Meie kooli teatrietenduse peaosas oli kapten."
   ],
   "translation": [
-    "captain"
+    "captain",
+    "skipper",
+    "commander"
   ],
-  "context": "The word 'kapten' refers to a high-ranking officer in the military or a person in charge of a ship, and it is commonly used in Estonian to convey respect and authority."
+  "context": "The word 'kapten' in Estonian is a loanword from English/German meaning captain. It refers to the person in command of a ship, aircraft, or military unit. In Estonian, it maintains its masculine gender form and is typically used without inflection when referring to the profession or rank."
 }

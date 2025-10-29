@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kansi on aina kiinni.",
-    "Hän otti kasetin ja laittoi sen kansien väliin.",
-    "Kirjan kansi on vahingoittunut."
+    "Kansi on veneen osa.",
+    "Tämä kansi on liian korkea.",
+    "Nousimme kannelle."
   ],
   "translation": [
+    "deck",
+    "floor",
     "cover"
   ],
-  "context": "The word 'kansi' in Finnish generally refers to the cover of something, such as a book or a box. It is commonly used in contexts where one is describing or referring to an outer layer that protects or encloses the contents of an object."
+  "context": "The Finnish word 'kansi' refers to a deck or floor surface. It can be used for the deck of a ship, the floor of a building, or as a cover or lid over something. In different contexts, it may refer to the main floor level or a specific structural covering."
 }

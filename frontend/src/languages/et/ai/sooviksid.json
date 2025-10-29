@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma sooviksin teile head ööd.",
-    "Kas sa sooviksid midagi juua?",
-    "Nad ei sooviksid seda kunagi."
+    "Kas sooviksid midagi juua?",
+    "Sooviksid sa sõita koos meiega?",
+    "Mis sa sooviksid teha?"
   ],
   "translation": [
-    "would like",
-    "wish",
-    "desire"
+    "would like to",
+    "would want to",
+    "wish to"
   ],
-  "context": "The verb 'soovida' in Estonian translates to 'to want', 'to wish', or 'to desire' in English. The conditional form 'sooviksid' means 'would like' and is used for polite requests or hypothetical situations."
+  "context": "The word 'sooviksid' is the conditional form of the verb 'soovima' (to wish/to want) in Estonian. It's used when expressing a desire or preference in the conditional mood, similar to English constructions with 'would like to' or 'would want to'. This form is typically addressed to someone else ('you') and is commonly used for polite requests or suggestions."
 }

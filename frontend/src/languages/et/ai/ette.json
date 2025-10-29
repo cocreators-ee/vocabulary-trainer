@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen ette valmistunud.",
-    "Ta on ette teinud oma töö.",
-    "Nad on ette arvanud kõik võimalikud tulemused."
+    "Tule siia ette!",
+    "Ta astus ette.",
+    "Etteminek oli hea."
   ],
   "translation": [
-    "before",
-    "in advance",
-    "prior to"
+    "forward",
+    "in front of",
+    "toward",
+    "before"
   ],
-  "context": "The word 'ette' in Estonian is commonly used as a preposition or adverb to indicate something that happens before something else, often translated to English as 'before', 'in advance', or 'prior to'."
+  "context": "The Estonian word 'ette' is a preposition or adverb that indicates position or movement in relation to the front. It can mean 'forward,' 'in front of,' 'toward,' or 'before.' When used with verbs like 'tule' (come), it means 'come forward.' With positional verbs, it indicates being positioned before something else."
 }

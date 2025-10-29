@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on rida number üks.",
-    "Ridade hulgas oli palju erinevaid asju.",
-    "Meil on mitu rida selle toote kohta."
+    "Rida on hea näiteks lihtsate asjade kohta.",
+    "Rida võib tähendada ka järjekorda või reast.",
+    "Mul oli rida mõtteid selle kohta."
   ],
   "translation": [
+    "line",
     "row",
-    "line"
+    "queue",
+    "string"
   ],
-  "context": "The word 'rida' in Estonian generally refers to a line or row of things, and it can be used in various contexts such as describing the layout of objects or people."
+  "context": "In Estonian, 'rida' is a versatile word that primarily means 'line' or 'row', referring to an arrangement of items in a straight line. It can also mean 'queue' when referring to people waiting in order, and sometimes 'string' as in a series of things connected together. The word can be used both literally (like a row of chairs) and figuratively (a line of thought)."
 }

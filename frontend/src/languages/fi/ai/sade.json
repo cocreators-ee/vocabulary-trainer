@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Sade tuli yllättäen.",
-    "Hänellä on sateenvarjo.",
-    "Talvi on kuiva ja ilman sateita."
+    "Sateinen päivä oli rentouttava.",
+    "En viihtyisi sateessa."
   ],
   "translation": [
-    "rain"
+    "rain",
+    "precipitation",
+    "shower"
   ],
-  "context": "The word 'sade' generally refers to rain or precipitation in Finnish, and it is commonly used when discussing weather conditions."
+  "context": "The Finnish word 'sade' means rain or precipitation. It can refer to any form of falling water from clouds, including light drizzle or heavy downpours. In different grammatical forms, it becomes 'sadetta' (partitive case) or 'sateinen' (adjective meaning rainy)."
 }

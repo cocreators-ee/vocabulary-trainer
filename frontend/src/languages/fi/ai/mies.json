@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mies on kotona.",
-    "Miehet ovat kauneudessa.",
-    "Mieheltä puuttuu intohimo."
+    "Mies istuu sohvalla.",
+    "Se mies on minun ystäväni.",
+    "Miehet ovat pihassa."
   ],
   "translation": [
     "man",
-    "men"
+    "male person"
   ],
-  "context": "The word 'mies' is a noun that refers to an adult human male in Finnish, and it is commonly used to refer to a man or men in general."
+  "context": "The Finnish word 'mies' is a noun meaning 'man' or 'male person'. It's the singular nominative form of the word. In Finnish, nouns have different cases and numbers. The plural form of 'mies' is 'miehet', and it can appear in various case forms depending on its grammatical function in a sentence. For example: mies (nom.), miehen (gen.), miehen (part.), mieheen (ill.), etc."
 }

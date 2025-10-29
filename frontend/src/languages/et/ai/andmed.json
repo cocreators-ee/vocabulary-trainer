@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Andmed on salajas.",
-    "Ta töötab andmetega.",
-    "Andmebaas on suur."
+    "Andmed on salajased.",
+    "Võta andmed kaasa.",
+    "Kontrolli andmeid."
   ],
   "translation": [
     "data",
     "information"
   ],
-  "context": "The word 'andmed' refers to information or data, commonly used in the context of computer science or statistics."
+  "context": "\"Andmed\" is the Estonian word for \"data\" or \"information.\" It's typically used in plural form (as shown with the -d ending) to refer to collections of facts, statistics, or pieces of information that can be processed or stored digitally. In everyday usage, it might refer to personal data, research data, or any organized information."
 }

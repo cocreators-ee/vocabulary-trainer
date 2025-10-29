@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ütlesite mulle tõhusalt oma teada. (He told me efficiently what he knows.)",
-    "Rohkem ei ütlesite midagi. (You didn't say anything more.)",
-    "Pean täpsustama: nad ei ütlesite maale midagi. (I have to clarify: they said nothing to the police.)"
+    "Te ütlesite tõesti.",
+    "Mis te ütlesite eile?",
+    "Kas te ütlete veel midagi?"
   ],
   "translation": [
-    "said",
-    "told"
+    "you said (plural/formal)",
+    "you told (plural/formal)",
+    "you spoke (plural/formal)"
   ],
-  "context": "'ütlesite' is the past tense, plural form of 'to say/tell'. It's used when referring to a group or formal address."
+  "context": "The word 'ütlesite' is the past tense, plural, formal form of the Estonian verb 'ütlema', which means 'to say' or 'to tell'. It's used when addressing multiple people formally (using 'te') and refers to an action that happened in the past. The '-site' ending indicates both past tense and plural/formal subject."
 }

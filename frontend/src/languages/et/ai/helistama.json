@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta helistab mind iga päev.",
-    "Ma olen helistanud talle juba mitu korda.",
-    "Kui ta helistab, vastan kohe."
+    "Ma helistan oma emale.",
+    "Ta helistas meile eile.",
+    "Kas sa heliksid mind homme?"
   ],
   "translation": [
-    "to call",
-    "to phone",
-    "to ring"
+    "to call (by phone)",
+    "to ring someone up"
   ],
-  "context": "The word 'helistama' in Estonian means to make a phone call to someone or something, and it is commonly used in everyday conversations when talking about communication over the phone."
+  "context": "The word 'helistama' is an Estonian verb that means to make a phone call or to contact someone by telephone. It's the basic infinitive form of the verb, and it follows standard Estonian conjugation patterns in different tenses and moods. For example, when used with 'ma' (I), it becomes 'helin' (I call), with 'sa' (you) it can be 'helid' or 'helistad' depending on formality, and in future tense constructions like 'Kas sa heliksid?' (Would you call?)."
 }

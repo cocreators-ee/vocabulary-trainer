@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma murdan seda kohta ära",
-    "Ta murdas ukse lahti",
-    "Murda see paberikott"
+    "Ta murdas kõigi ootuste vastu.",
+    "Laps murdas klaasi käest.",
+    "Tuleb murelda õigete reeglite järgi."
   ],
   "translation": [
-    "break",
-    "smash",
-    "crush"
+    "to break",
+    "to fracture",
+    "to violate"
   ],
-  "context": "The word 'murda' in Estonian means to break or smash something into pieces, and it is commonly used in a physical sense, such as breaking an object or smashing through a barrier."
+  "context": "The word 'murda' in Estonian is a verb that primarily means 'to break' or 'to fracture.' It can be used to describe breaking physical objects, such as glass or bones. Additionally, it can mean 'to violate' when referring to rules, laws, or expectations. The word follows standard Estonian conjugation patterns and can appear in different tenses depending on the context."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma laulan üksi.",
-    "Ta laulab kauniid laule.",
-    "Laula see laul minu jaoks."
+    "Ma laulan laule.",
+    "Ta laulis hea laulu.",
+    "Meid palutakse laulda koos."
   ],
   "translation": [
-    "to sing",
-    "sing"
+    "sing",
+    "to sing"
   ],
-  "context": "The word 'laula' in Estonian means to produce musical sounds with the voice, typically in a melodic and harmonious manner, and it is commonly used in various contexts such as music, celebrations, or self-expression."
+  "context": "The word 'laula' is the basic form of the Estonian verb meaning 'to sing'. It's an infinitive/verb stem that can be conjugated into different forms depending on tense, person, and number. In simple present tense third person singular (he/she/it), it becomes 'laulab', while in first person singular I) it would be 'laulan' as shown in the example sentence."
 }

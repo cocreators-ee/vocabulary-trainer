@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Talo on suuri ja siinä on kaunis piha.",
-    "Meillä on uusi naapuri pihassa.",
-    "Pihan laidalla kasvaa iso lehmus."
+    "Pihalla on paljon vihreää.",
+    "He leikkivat pihalla kesällä.",
+    "Talo sijaitsee suuressa piha-alueella."
   ],
   "translation": [
     "yard",
-    "garden",
-    "courtyard"
+    "courtyard",
+    "garden area"
   ],
-  "context": "The word piha refers to an outdoor area surrounding a building, typically used for recreational or functional purposes."
+  "context": "The Finnish word 'piha' refers to an outdoor area surrounding a building, typically a yard or courtyard. It can refer to the space around a house, apartment building, or other structure that may include grass, trees, and landscaping. In Finland, pihas are important social spaces where children play and families gather during summer months."
 }

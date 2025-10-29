@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See juhtub sageli.",
-    "Tegelikult juhtub see harva.",
-    "Ma olen kindel, et see juhtub."
+    "Mis juhtub?",
+    "See juhtub tihti.",
+    "Kuidas see juhuslikult juhtub?"
   ],
   "translation": [
     "happens",
-    "occurs"
+    "occurs",
+    "takes place"
   ],
-  "context": "The word 'juhtub' is a verb in Estonian that means something happens or occurs, and it is commonly used to describe an event or situation that takes place."
+  "context": "The word 'juhtub' is the third person singular present tense form of the Estonian verb 'juhtuma', which means 'to happen' or 'to occur'. It is commonly used to describe events, incidents, or situations that take place. This form is used when talking about something happening in the present moment."
 }

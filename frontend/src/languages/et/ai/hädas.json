@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hädas",
-    "Ta on hädas",
-    "Me oleme hädas"
+    "Ta oli hädas ja vajas abi.",
+    "Naised olid hädas ja otsisid varjupaika.",
+    "Lapsed jäeti üksi ja nad olid täiesti hädas."
   ],
   "translation": [
     "in trouble",
+    "in difficulty",
     "in distress"
   ],
-  "context": "The word 'hädas' in Estonian means being in a difficult or unpleasant situation, and it is commonly used to describe someone who needs help or is experiencing problems."
+  "context": "The Estonian word 'hädas' is an adessive case form of the adjective 'haige', which means 'sick' or 'ill'. However, in this context and based on the example sentences provided, it appears to be functioning as an expression meaning being in trouble, difficulty, or distress. The adessive case typically indicates location or state, so 'hädas' conveys being in a state of trouble or hardship."
 }

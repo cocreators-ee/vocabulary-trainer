@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun ikäni on 25",
-    "Hänellä on ikää yli 60 vuotta",
-    "Ikävaatimukset työhön ovat korkeat"
+    "Minun ikäni on kolmekymmentä vuotta.",
+    "Hän on nuori ikältään.",
+    "Lapsilla on erilaiset tarpeet iästään riippuen."
   ],
   "translation": [
-    "age"
+    "age",
+    "years",
+    "life span"
   ],
-  "context": "The word ikä refers to the age of a person, and it is commonly used in Finnish to ask about or describe someone's age."
+  "context": "The Finnish word 'ikä' means age or years of life. It's used to refer to how old someone is or the duration of time someone has lived. In the examples, it appears in different forms: 'ikäni' (my age), 'nuori ikältään' (young in age), and 'iästään riippuen' (depending on their age)."
 }

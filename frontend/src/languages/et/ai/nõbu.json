@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on minu nõbu.",
-    "Nõbu tuli külla.",
-    "Mu nõbu elab Tallinnas."
+    "Minu nõubad tulid külastama.",
+    "Tal on palju nõbusid.",
+    "See on minu nõbu poeg."
   ],
   "translation": [
-    "cousin"
+    "relative",
+    "cousin",
+    "kin"
   ],
-  "context": "The word 'nõbu' in Estonian refers to the child of one's aunt or uncle, and is commonly used to describe a cousin."
+  "context": "The word 'nõbu' in Estonian refers to a relative or cousin, specifically someone related by blood through family connections. It can be used for both male and female relatives who are not immediate family members like parents or siblings but are part of the extended family network."
 }

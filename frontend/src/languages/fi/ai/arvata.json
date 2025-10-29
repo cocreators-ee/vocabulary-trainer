@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä arvasin oikein.",
-    "Hän arvattiin johtoon.",
-    "He arvataan voittajiksi."
+    "Minun on vaikea arvaa, mitä hän ajattelee.",
+    "Arvatkaapa kuka tulee tänään!",
+    "Hän arvasi oikein vastauksen."
   ],
   "translation": [
-    "guess",
-    "suppose"
+    "to guess",
+    "to suppose",
+    "to conjecture"
   ],
-  "context": "The word 'arvata' in Finnish means to guess or suppose something, and it is commonly used in everyday conversations to express uncertainty or doubt about a particular situation or outcome."
+  "context": "The Finnish word 'arvata' is a verb that means to make an educated or uneducated guess about something. It can be used when trying to figure out someone's thoughts, making predictions, or speculating about unknown information. The word changes form depending on the subject and tense - for example, 'minä arvaan' (I guess), 'sinä arvaat' (you guess), 'hän arvaa' (he/she guesses). It can also be used in different contexts like making predictions ('arvata tulevaisuutta') or guessing answers to questions."
 }

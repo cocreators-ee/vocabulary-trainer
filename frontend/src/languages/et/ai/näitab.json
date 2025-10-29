@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta näitab mulle oma uut kodu.",
-    "See pilt näitab ilusaid maastikke.",
-    "Professor näitab tulemused üliõpilastele."
+    "See näitab hea tulemust.",
+    "Tema näitab alati head käitumist.",
+    "Lugu näitab, et tegemist on keerulisega."
   ],
   "translation": [
     "shows",
-    "demonstrates",
-    "displays"
+    "displays",
+    "indicates",
+    "demonstrates"
   ],
-  "context": "The word näitab is a verb in Estonian that means to show or demonstrate something, and it is commonly used in various contexts such as teaching, presenting, or exhibiting."
+  "context": "The word 'näitab' is the 3rd person singular present form of the Estonian verb 'näidata', which means 'to show'. It can be used to indicate showing something physically, displaying information, or demonstrating a quality or characteristic. The root form 'näita-' relates to showing/revealing, and the suffix '-b' indicates the 3rd person singular present tense conjugation."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Lumepallides vajusime tapadele.",
-    "Ma ei või sulle midagi öelda - see on kõik lihtsalt tapad!",
-    "See polnud ilmselt ainuke juhend tapadesse.",
-    "Kui sa ei tea, kuidas midagi teha, siis oled lihtsalt tapades."
+    "Sa tapad elevanti.",
+    "Ta tapab linna.",
+    "Me tapsime kodus."
   ],
   "translation": [
-    "a mess",
-    "a disaster"
+    "kill",
+    "murder",
+    "slay"
   ],
-  "context": "The word 'tapad' refers to a situation that has gone wrong or is in disarray. It can be used both literally and metaphorically to describe something chaotic or a complete failure. In the examples, it's shown being used for physical situations (like falling into snowdrifts) as well as metaphorical ones (like not knowing what to do)."
+  "context": "The word 'tapad' is the second person singular present tense form of the Estonian verb 'tappa', which means to kill, murder, or slay. It is used when speaking directly to someone about what they are doing in the present moment - when you address a single person (using 'sa') and they are currently performing the action of killing."
 }

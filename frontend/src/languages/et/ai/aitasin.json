@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma aitasin teda.",
-    "Ta aitab mind alati.",
-    "Me aitasime vanematel."
+    "Ma aitasin vanematel kodus.",
+    "Ta aitasin tal õppima.",
+    "Me aitasin teid eile."
   ],
   "translation": [
-    "helped"
+    "helped",
+    "assisted"
   ],
-  "context": "The word 'aitasin' is the first person singular past tense form of the Estonian verb 'aitama', which means to help. It is commonly used in sentences where the speaker describes their actions of providing assistance or support to someone."
+  "context": "The word 'aitasin' is the first person singular past tense form of the Estonian verb 'aidata', which means 'to help' or 'to assist'. It specifically indicates that the speaker performed the action of helping someone in the past. The '-sin' suffix at the end signals that this is the 'I' form (first person) and that it happened in the past."
 }

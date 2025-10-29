@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Sellel pole õhukeseid.",
-    "Sellel on hea suvitus.",
-    "Kas sellel on vaja hooldust?"
+    "Sellel aastal me külastame Prantsusmaad.",
+    "Sellel päeval oli ilm väga halb.",
+    "Ta rääkis sellel teemal pikalt."
   ],
   "translation": [
-    "on this (one)"
+    "on this",
+    "at this",
+    "in this"
   ],
-  "context": "'sellel' is a form of the pronoun 'see' in Estonian, which means 'this (one)'. The form used here is typically used after prepositions or when indicating possession. Commonly used to refer to something mentioned earlier or present and emphasize it."
+  "context": "The Estonian word 'sellel' is the adessive case form of 'see', meaning 'this'. It indicates location, time, or manner and corresponds to English prepositions like 'on', 'at', or 'in' when referring to something specific. The '-l' ending indicates it's in the adessive case, which typically shows where something is located, when something happens, or how something occurs."
 }

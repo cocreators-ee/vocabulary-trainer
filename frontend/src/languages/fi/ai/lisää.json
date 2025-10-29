@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Anna lisää!",
-    "Hän piti kertakaikkisesti lisäämättä mitään.",
-    "Kauppias tarjoi asiakkaalle vähemmän kuin hän oli pyytänyt ja sanoi, että 'lisää' vaaditaan erikseen."
+    "Lisää kahvia.",
+    "Hän lisää suolaa ruokaan.",
+    "Voitko lisätä tiedoston?"
   ],
   "translation": [
     "more",
-    "add"
+    "add",
+    "additional",
+    "extra"
   ],
-  "context": "The word 'lisää' is used to indicate an increase or addition in quantity, often used when requesting more of something."
+  "context": "The Finnish word 'lisää' is versatile and can function as either an adjective meaning 'more' or as a verb form meaning 'adds'. As an adjective, it's used to indicate greater quantity. As a verb, it's the 3rd person singular present tense of 'lisätä' (to add). The context determines which usage is appropriate."
 }

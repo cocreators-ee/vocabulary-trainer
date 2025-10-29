@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta lubab mind homme külastada.",
-    "Ilm lubab täna päikest.",
-    "Ära luba midagi, mida sa ei saa täita."
+    "Ta lubab tule homme.",
+    "Tema lubas tulla homme.",
+    "Meie lubame aidata."
   ],
   "translation": [
-    "allows",
     "promises",
-    "permits"
+    "pledges",
+    "assures"
   ],
-  "context": "The Estonian word 'lubab' is a versatile verb that can mean 'allows', 'promises', or 'permits' depending on the context. It indicates giving permission or making a commitment."
+  "context": "The word 'lubab' is the third person singular present tense form of the Estonian verb 'luba', which means to promise or pledge. It indicates that someone is making a commitment or assurance about something they will do in the future."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maailma on ilus koht.",
-    "Ta reisis ümber maailma.",
-    "Me elame sellesama maailmas."
+    "Maailma on ilus.",
+    "Ta nägi maailma esmakordselt.",
+    "Me elame maailmas."
   ],
   "translation": [
-    "world"
+    "world",
+    "earth",
+    "globe"
   ],
-  "context": "The word 'maailma' is commonly used to refer to the world as a whole, including its inhabitants and the natural environment."
+  "context": "The word 'maailma' is the partitive case of 'maailm', which means 'world'. In Estonian, the partitive case is often used to indicate an incomplete action or when referring to a concept in general. So 'maailma' can be translated as 'the world' but with nuance suggesting something like '(of) the world' or 'in relation to the world'. It's commonly used in phrases where we talk about seeing, experiencing, or living in the world."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on hea idee",
-    "Tal on palju ideid",
-    "Ma olen kaotanud oma idee"
+    "See on hea idee!",
+    "Mul on uus idee.",
+    "Meie idee oli päris hea."
   ],
   "translation": [
     "idea",
-    "notion",
+    "thought",
     "concept"
   ],
-  "context": "The word 'idee' in Estonian refers to a thought or opinion, and is commonly used in everyday conversations to express one's point of view or suggestion."
+  "context": "The Estonian word 'idee' is a feminine noun that directly corresponds to the English words 'idea', 'thought', or 'concept'. It's used in everyday language to refer to thoughts, suggestions, or mental concepts. Like in many languages, it follows Estonian grammatical rules for case declension and can appear in different forms depending on its role in a sentence (e.g., 'ideed' in the partitive case)."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ootan sind homme.",
-    "Nad ootasid meid juba tund aega.",
-    "Ootame head ilma."
+    "Ootan sind.",
+    "Me ootame bussi.",
+    "Ta ei oota mind."
   ],
   "translation": [
-    "to wait",
-    "expect",
-    "await"
+    "to wait (for)",
+    "to expect",
+    "to await"
   ],
-  "context": "The verb 'ootama' in Estonian means 'to wait' or 'to expect' something or someone. It is commonly used to express anticipation for an event, person, or outcome."
+  "context": "The word 'ootama' is an Estonian verb that primarily means 'to wait for' or 'to expect'. It can be used in various contexts: waiting for someone/something, expecting a result, or awaiting events. The verb changes form depending on the subject - as shown in the examples: first person singular ('Ootan sind'), first person plural ('Me ootame bussi'), and third person negative ('Ta ei oota mind')."
 }

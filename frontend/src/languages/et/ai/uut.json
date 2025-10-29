@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma sain täna väga head uudist.",
-    "Uudised on täna halvad.",
-    "Ta luges hommikul uudiseid."
+    "Tule uut juustu osta!",
+    "Meie ongi uut teada saanud sellest juhtumist.",
+    "Kas sulle meeldib uut kodus?"
   ],
   "translation": [
-    "news",
-    "report",
-    "tidings"
+    "new",
+    "fresh",
+    "recent",
+    "novel"
   ],
-  "context": "The Estonian word 'uut' translates to 'news' in English. It is commonly used to refer to current events or information, and can be singular or plural depending on the context."
+  "context": "The word 'uut' is the partitive singular form of the Estonian adjective 'uu' (new). In Estonian, adjectives change their endings based on case and number. The partitive case is used to indicate partialness or indefiniteness. So 'uut' means 'a little bit of new' or 'some new'. It's commonly used with nouns in the partitive case to express that you have some amount of something new. For example, 'Tule uut juustu osta!' means 'Come buy some new cheese!'"
 }

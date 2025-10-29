@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma teen seda uuesti.",
-    "Ta ütles, et tahab uuesti proovida.",
-    "Uuesti katsetamine on vajalik."
+    "Ma pean uuesti proovima.",
+    "Kas sa tahad mind uuesti näha?",
+    "Me kohtume uuesti homme."
   ],
   "translation": [
     "again",
-    "anew"
+    "once more",
+    "repeatedly"
   ],
-  "context": "The word 'uuesti' is commonly used in Estonian to mean doing something again or anew, similar to how 'again' or 'anew' would be used in English to convey the idea of repetition or renewal."
+  "context": "The Estonian word 'uuesti' means 'again' or 'once more'. It's formed from the root 'uu-' (new/again) and the suffix '-esti', which is a common adverbial formation in Estonian. This word indicates repetition of an action or occurrence."
 }

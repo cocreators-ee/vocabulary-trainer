@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on kymmenen euroa taskussani.",
-    "Hän on opiskellut kymmenen vuotta yliopistossa.",
-    "Kymmenkunta ihmistä osallistui tapaamiseen."
+    "Minulla on kymmenen kirjaa.",
+    "Kymmenen lasta ovat koulussa.",
+    "Hän osti kymmenen omenaa."
   ],
   "translation": [
-    "ten"
+    "ten",
+    "10"
   ],
-  "context": "The word 'kymmenen' is a Finnish numeral that means the number ten in English. It is commonly used to express quantities or amounts, such as ten items, ten years, or ten people."
+  "context": "The Finnish word 'kymmenen' is the numeral ten. It's used to count or indicate the quantity of ten items or people. In Finnish, numerals like 'kymmenen' are invariable and don't change form for gender or case when used as a standalone number."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta heidab palli.",
-    "Ma olen heidanud kõik üle bordi.",
-    "Heida see minu poole!"
+    "Heida see ära!",
+    "Ta heidis oma vanad kingad.",
+    "Miks sa heidaksid seda?"
   ],
   "translation": [
-    "throw",
-    "toss",
-    "fling"
+    "throw away",
+    "discard",
+    "get rid of"
   ],
-  "context": "The word 'heida' is a verb in Estonian that means to throw or toss something, often with a sense of force or energy. It can be used in various contexts, such as throwing a ball or tossing an object."
+  "context": "The word 'heida' is the third-person singular form of the Estonian verb 'heitma', which means to throw or cast. In this context, 'heida' specifically means to throw something away or discard it. It's commonly used for getting rid of unwanted items by throwing them into a trash can or similar receptacle. The word can be conjugated in different tenses and moods depending on the grammatical context."
 }

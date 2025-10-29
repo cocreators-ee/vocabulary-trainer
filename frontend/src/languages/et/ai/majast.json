@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks majast välja.",
-    "Majas on palju ruumi.",
-    "Nad ehitasid uue maja."
+    "Tule majast välja!",
+    "Majast tulev hääl oli tuttav.",
+    "Kõik asjad olid majast võetud."
   ],
   "translation": [
-    "house",
-    "home",
-    "building"
+    "from the house",
+    "out of the house"
   ],
-  "context": "The word 'maja' in Estonian refers to a building used as a dwelling or shelter. It is commonly used to describe both houses and homes, and can also refer to other types of buildings depending on the context."
+  "context": "The Estonian word 'majast' is the elative case form of the noun 'maja', meaning 'house'. In Estonian, the elative case (-st ending) indicates movement away from or origin from a location. So 'majast' specifically means 'from the house' or 'out of the house', indicating where something came from or where someone is coming out."
 }

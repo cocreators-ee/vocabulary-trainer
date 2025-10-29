@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on tõsine inimene.",
-    "Tõsised inimesed ei räägi enamikul juhtudel valju häälega.",
-    "See on väga tõsine küsimus."
+    "Tema on tõsine mees.",
+    "See oli tõsine probleem.",
+    "Ma ei olnud tõsiline vastuses."
   ],
   "translation": [
     "serious",
-    "severe"
+    "severe",
+    "grave",
+    "earnest"
   ],
-  "context": "The word 'tõsine' in Estonian means being serious or severe, and it is commonly used to describe someone's behavior or a situation that is solemn or earnest."
+  "context": "The Estonian word 'tõsine' is an adjective that means serious or severe. It describes something that requires attention and should not be taken lightly. The word can refer to people who are earnest and sincere, or situations/problems that are grave or significant. When used in plural form (tõsised), it would describe multiple serious things or people."
 }

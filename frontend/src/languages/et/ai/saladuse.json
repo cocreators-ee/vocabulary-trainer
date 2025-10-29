@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on saladus",
-    "See on suur saladus",
-    "Saladused on ohtlikud"
+    "Saladus on kaitstud.",
+    "Me leidsime saladuse ära.",
+    "Tema saladused on paljud."
   ],
   "translation": [
     "secret",
-    "mystery"
+    "mystery",
+    "confidential matter"
   ],
-  "context": "The word 'saladuse' in Estonian refers to something that is kept hidden or unknown to others, often implying a sense of secrecy or confidentiality."
+  "context": "The word 'saladuse' in Estonian is the genitive singular form of 'saladus', meaning 'of a secret' or 'belonging to a secret'. It's used when indicating possession or relationship with a secret, similar to how we might say 'the secret's' in English but typically translated more naturally as just 'secret' in context. This grammatical case is commonly used after verbs like 'leidma' (to find) to indicate what was found, or after nouns to show connection."
 }

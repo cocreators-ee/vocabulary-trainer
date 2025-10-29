@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan Tallinnas.",
-    "Ta elab Londonis.",
-    "Nad elavad Pariisis."
+    "Elasime põhja pool.",
+    "Ta elas kaua ja õnnelikult.",
+    "Kus elad enne?"
   ],
   "translation": [
-    "live",
-    "reside",
-    "dwell"
+    "lived",
+    "dwelled",
+    "resided"
   ],
-  "context": "The word 'elas' is a verb in Estonian that means to live or reside somewhere, and it is commonly used to describe where someone lives or has lived."
+  "context": "The word 'elas' is the past tense third person singular form of the Estonian verb 'elama', which means 'to live'. It's used to indicate that someone or something lived in a particular place or had a certain lifestyle in the past. The word can be translated as 'lived', 'dwelled', or 'resided' in English."
 }

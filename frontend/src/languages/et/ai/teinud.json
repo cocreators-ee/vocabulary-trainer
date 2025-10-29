@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on teinud oma kodutöö.",
-    "Ma olen teinud vea.",
-    "Olete teinud hästi."
+    "Ei ole veel midagi teinud.",
+    "Ta on palju tööd teinud.",
+    "Meie lapsed on hea töö teinud."
   ],
   "translation": [
     "done",
-    "made"
+    "made",
+    "completed"
   ],
-  "context": "The word 'teinud' is the past participle of the verb 'teha', which means 'to do' or 'to make'. It is used with auxiliary verbs to form compound tenses, such as perfect and pluperfect. Commonly appears in sentences like 'I have done my homework' (Ma olen teinud oma kodutöö) or 'He has made a mistake' (Ta on teinud vea)."
+  "context": "The Estonian word 'teinud' is the past participle form of the verb 'teha' which means 'to do' or 'to make'. It is used in present perfect tense constructions to indicate completed actions. The '-nud' ending indicates that this is a past participle, and it typically follows an auxiliary verb like 'on' (has) in perfect tenses."
 }

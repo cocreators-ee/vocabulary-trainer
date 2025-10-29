@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on rikas mees.",
-    "Rikaste inimeste elud on sageli erinevad.",
-    "Rikkus ei ole alati õnnelik."
+    "Ma olen rikas mees.",
+    "Ta on väga rikas naisterahvas.",
+    "Nende pere oli üsna rikas."
   ],
   "translation": [
     "rich",
-    "wealthy"
+    "wealthy",
+    "prosperous"
   ],
-  "context": "The word 'rikas' is commonly used to describe someone who has a lot of money or possessions, and is often translated to English as 'rich' or 'wealthy'."
+  "context": "The Estonian word 'rikas' is an adjective that means rich or wealthy. It describes someone who has a lot of money or possessions. In Estonian grammar, this would typically be in the nominative case when used as a predicate adjective (like 'I am rich'), and it can change form based on gender (masculine rikas vs feminine rikas naisterahvas) and number (singular rikas vs plural rikkad)."
 }

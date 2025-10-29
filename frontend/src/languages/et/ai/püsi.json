@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on püsinud samas ametis.",
-    "Püsi ei ole hea.",
-    "Ma olen püsinud selle maa peal."
+    "Tema püsib alati oma sõpradega.",
+    "Lapse käitumine pole püsivalt hea.",
+    "Me otsime püsielanikke uueks projektiks."
   ],
   "translation": [
-    "stay",
-    "remain",
-    "last"
+    "persistent",
+    "permanent",
+    "constant",
+    "steady"
   ],
-  "context": "The word 'püsi' in Estonian means to stay or remain in a place or position, and it is commonly used in sentences to describe something that continues or endures over time."
+  "context": "The Estonian word 'püsi' is an adjective that means persistent, permanent, or constant. It describes something that remains stable over time without changing. In the examples, it's used to describe someone who persists with friends (persistent), behavior that isn't consistently good (permanent/constant), and people looking for permanent residents for a project."
 }

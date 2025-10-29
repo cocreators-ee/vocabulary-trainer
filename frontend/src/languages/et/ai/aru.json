@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma aru ei saa",
-    "Ta aru sai alles hiljuti",
-    "Aru on hea asi"
+    "Tal on hea aru.",
+    "Aru sai kõvasti lüüa.",
+    "Mul pole head aru."
   ],
   "translation": [
-    "understand",
-    "realize",
-    "comprehend"
+    "mind",
+    "reason",
+    "sense",
+    "judgment",
+    "consciousness"
   ],
-  "context": "The word 'aru' in Estonian means to understand or realize something, and it is commonly used in sentences to describe the act of gaining insight or comprehension about a particular topic or situation."
+  "context": "In Estonian, 'aru' is a noun that refers to one's mind, reason, sense, judgment, or consciousness. It can be used in expressions like 'heade aruga' (with good reason) and 'pole head aru' (don't have a clue). The word is often used in contexts related to thinking, understanding, and cognitive abilities."
 }

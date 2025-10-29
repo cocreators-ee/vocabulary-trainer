@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vajuta enter klaviatuuril",
-    "Ma vajutan seda nuppu",
-    "Ta vajutab mu käe"
+    "Vajuta siia nuppu",
+    "Mida ta vajutas?",
+    "Tuleks vajutada kaks korda"
   ],
   "translation": [
     "press",
-    "push"
+    "push",
+    "click"
   ],
-  "context": "The word 'vajuta' in Estonian means to press or push something, often used in the context of physical force being applied to an object."
+  "context": "The word 'vajuta' is the imperative form (command) of the verb 'vajutama', which means to press, push or click. It's used when telling someone to perform an action on a button, key, or object that requires pressing with fingers."
 }

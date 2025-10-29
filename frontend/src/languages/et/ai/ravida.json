@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta ravida mind väga.",
-    "Ma ei ravi sind.",
-    "Arst ravib haigeid."
+    "Ravime haiget lindu.",
+    "Arst ravis patsienti uute ravimitega.",
+    "Tuleb ravida kiiresti enne halvenemist."
   ],
   "translation": [
     "to heal",
     "to treat",
-    "to cure"
+    "to cure",
+    "to care for"
   ],
-  "context": "The Estonian verb 'ravida' means to heal or treat someone, often in a medical context. It can also be used more generally to describe providing care or assistance."
+  "context": "The Estonian verb 'ravida' means to heal, treat, or cure someone who is sick. It can refer to the medical treatment of a patient by a doctor, or more generally to healing someone back to health. The word comes from the same root as 'ravi' (treatment/therapy) and is commonly used in medical contexts when discussing healthcare and recovery."
 }

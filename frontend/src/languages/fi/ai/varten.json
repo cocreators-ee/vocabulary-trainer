@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olen täällä varten sinua.",
-    "Teimme tämän varten häntä.",
-    "Onko tämä tehty varten minua?"
+    "Minä tulen sinun varten.",
+    "Hän teki sen meidän varten.",
+    "Lippu on ostettava etukäteen varten pääsyyn."
   ],
   "translation": [
     "for",
-    "intended for",
+    "on behalf of",
     "in order to"
   ],
-  "context": "The Finnish word 'varten' is a versatile preposition meaning 'for', 'intended for', or 'in order to'. It indicates purpose or beneficiary, similar to how 'for' is used in English. It often implies that something is done *on behalf of* someone or *with the intention of benefiting* someone/something."
+  "context": "The Finnish word 'varten' is a postposition that indicates purpose or direction, similar to the English prepositions 'for', 'on behalf of', or 'in order to'. It follows the noun it modifies and specifies for whose benefit or toward what end something is done. For example, 'sinun varten' means 'for you', 'meidän varten' means 'for us', and 'varten pääsyyn' means 'for admission/entry'. The word changes form based on the case of the preceding noun - here it appears in the partitive case when modifying nouns like 'pääsy' (admission)."
 }

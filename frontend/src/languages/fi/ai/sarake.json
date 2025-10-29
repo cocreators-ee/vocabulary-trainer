@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Viimeinen sarake kertoo tarkkuuden yksiköt.",
-    "Rivi ja sarake ovat erilaisia asioita taulukossa.",
-    "Sarakkeessa on otsikko ja alla olevat tiedot."
+    "Tässä on uusi sarake tietokantataulussa.",
+    "Excel-tiedostossa on useita sarakkeita.",
+    "Lisää tämä teksti ensimmäiseen sarakkeeseen."
   ],
   "translation": [
-    "column"
+    "column",
+    "row"
   ],
-  "context": "A 'sarake' is a vertical division in a table or text layout."
+  "context": "In Finnish, 'sarake' means column. It is a noun that refers to a vertical arrangement of items in a table or spreadsheet. The word does not change form for gender in Finnish as it's an inflected language where nouns decline based on case and number rather than gender."
 }

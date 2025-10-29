@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hänellä on ohut kuorikerros",
-    "Ohuiden lumen aurinkosuojakertoimen arvo on suuri",
-    "Lisäksi ohuilla pinnoilla on havaittu olevan hyvä sähkönjohtavuus"
+    "Minulla on ohut paita.",
+    "Leipä oli liian ohua.",
+    "Hänellä on ohut iho."
   ],
   "translation": [
-    "slim",
     "thin",
+    "slender",
     "fine"
   ],
-  "context": "The word 'ohut' in Finnish means something that is thin or slim, and it can be used to describe various objects or materials, such as a thin layer of ice or a fine thread."
+  "context": "The Finnish word 'ohut' is an adjective that means thin, slender, or fine. It describes something with little thickness, narrowness, or delicacy. This word can be used to describe physical objects (like clothes), materials, textures, or even abstract qualities like skin texture."
 }

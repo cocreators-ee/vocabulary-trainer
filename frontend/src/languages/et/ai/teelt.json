@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin talle teelt.",
-    "See on väga hea teelt valmistatud kook.",
-    "Nad said teelt peale."
+    "Ta on teelt ära kõndinud.",
+    "Me peame leidma teelt maha.",
+    "Lapsed jooksid teelt eemale."
   ],
   "translation": [
-    "did",
-    "made",
-    "got"
+    "from the road/path/street",
+    "off the road/path/street"
   ],
-  "context": "The Estonian word 'teelt' is a past tense form of the verb 'tegema', which means 'to do' or 'to make'. It’s used to indicate an action that was completed in the past. In English, it translates to ‘did’ or ‘made’, depending on the context."
+  "context": "The Estonian word 'teelt' is the elative case form of 'tee', which means 'road', 'path', or 'street'. The elative case in Estonian indicates movement away from something, so 'teelt' literally means 'from (the) road/path/street'. It's used to indicate that someone or something has moved off a road or path. For example, 'ta on teelt ära kõndinud' means 'he/she has walked off the road', and 'me peame leidma teelt maha' means 'we need to find it off the road'."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Vaja on uut nuppu vajutada.",
-    "See nupp ei tööta.",
-    "Palun lülita tuli nuppu."
+    "Tegime nuppu.",
+    "Tema tegi nuppu kodus.",
+    "Meie tegime nuppu koos."
   ],
   "translation": [
-    "button",
-    "bud",
-    "knob"
+    "made a deal",
+    "came to an agreement",
+    "reached consensus"
   ],
-  "context": "The word 'nupp' in Estonian commonly refers to a button, knob, or bud. It is used for physical buttons on devices, flower buds, or even figuratively to describe someone as a 'smart cookie' (though this usage is less common)."
+  "context": "The word 'nuppu' in Estonian appears to be the partitive form of 'nupp', which can mean 'button' or 'deal/agreement'. In these contexts, it likely refers to making some kind of arrangement or agreement, possibly informal. The verb 'tegime' (we made) combined with 'nuppu' suggests the action of creating or establishing something like a deal or arrangement."
 }

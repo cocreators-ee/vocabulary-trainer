@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kardan, et kui ma ei lähe koju, siis ma jääb ööse võõrasse kohta.",
-    "Kui sa oled hea inimene, siis sul on hea süda.",
-    "Kui ta tahab, siis ta teeb seda."
+    "Kui sa tulid?",
+    "Kui palju see maksab?",
+    "Me teeme seda kui meil on aega"
   ],
   "translation": [
+    "when",
     "if",
-    "when"
+    "as long as"
   ],
-  "context": "The word 'kui' is a conjunction used in Estonian to indicate a condition or a time, and it can be translated to English as 'if' or 'when', depending on the context in which it is used."
+  "context": "The word 'kui' in Estonian is a versatile conjunction that can function as 'when', 'if', or 'as long as' depending on the context. It introduces temporal clauses (time relationships) or conditional clauses (hypothetical situations). For example, it can indicate timing ('When you came?'), conditionality ('If we have time'), or duration ('As long as we have time')."
 }

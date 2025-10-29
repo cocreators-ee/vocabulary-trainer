@@ -1,11 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tema südamega on rong ja kogu see rõõmus jutte ma ei usk."
+    "Tulen rõõmuga koos teiega tööle.",
+    "Rõõmuga võtan vastu selle pakkumise.",
+    "Meie rõõmuga aitame teid."
   ],
   "translation": [
-    "with joy"
+    "with joy",
+    "happily",
+    "gladly"
   ],
-  "context": "The word 'rõõmuga' is an Estonian adverb meaning 'with joy.' It is used to describe actions performed happily or cheerfully, often indicating a sense of delight in the activity being done. This can apply to various contexts like doing work with enthusiasm, enjoying time with friends, etc."
+  "context": "The word 'rõõmuga' is the adessive case form of the adjective 'rõõmus', which means joyful or happy. The '-ga' suffix indicates accompaniment, instrumentality, or manner, similar to English 'with'. So 'rõõmuga' literally means 'with joy' and is used to express that an action is done willingly, happily, or with pleasure."
 }

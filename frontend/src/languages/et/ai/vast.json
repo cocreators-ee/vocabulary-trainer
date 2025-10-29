@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vastan tema küsimusele",
-    "Ta võttis mind vaikse vastu",
-    "Vast on hea sõna"
+    "Ta vastas küsimusele.",
+    "Meie vastused olid erinevad.",
+    "Vastu võtmine oli vajalik."
   ],
   "translation": [
     "answer",
     "response",
     "reply"
   ],
-  "context": "The word 'vast' in Estonian generally means a response or an answer to something, and it is commonly used in various contexts to refer to a reaction or a reply."
+  "context": "The Estonian word 'vast' can appear in different forms. As 'vastas', it means 'against' or 'opposite'. In the genitive case 'vasta', it means 'of an answer/response'. When used as part of compound words like 'vastuvõtma' (to receive), it indicates opposition or reception. The word relates to concepts of answering, responding, and opposing."
 }

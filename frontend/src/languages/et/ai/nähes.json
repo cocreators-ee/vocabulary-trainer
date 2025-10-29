@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mulle meelis, et teda näha on väga raske. Näha jääb pidev ja erilise kujuga kõikjal.",
-    "Ta ei nähes midagi, sest tema nukker oli katki.",
-    "Ma nähes neid, kes mind tundsid."
+    "Ma olen rõõmus nähes sind uuesti.",
+    "Ta tuli koju rõõmsalt nähes meid kõiki.",
+    "Nähes seda ilusat päikesetõusut, ta otsustis puhata."
   ],
   "translation": [
     "seeing",
-    "to see",
-    "vision"
+    "having seen"
   ],
-  "context": "The word 'näha' in Estonian is commonly used as a verb meaning to see or seeing. It can be used in various contexts such as literal sight, understanding, or perception."
+  "context": "The Estonian word 'nähes' is the elative case form of the verb 'nägema' (to see). It's used to indicate that an action happened after seeing something. In English, this would typically be translated as 'seeing' or 'having seen'. This form is often used at the beginning of a sentence to show the reason for the main clause, similar to how we use 'after seeing...' in English."
 }

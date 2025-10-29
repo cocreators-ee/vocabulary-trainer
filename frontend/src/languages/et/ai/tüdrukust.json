@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tema tüdruku sõbrad tegid meelelahutuse puhkepäeval.",
-    "Mina elasin koos oma vanema tüdruku ja tema sugulastega.",
-    "Ta soovis leida endale uusi naiste sõpru, aga kõik tüdrukud olid juba teada."
+    "Tüdrukust sai hea sõbranna.",
+    "Me rääkisime tüdrukust pikalt.",
+    "Kes see tüdrukust on?"
   ],
   "translation": [
-    "girl",
-    "young woman"
+    "from the girl",
+    "about the girl"
   ],
-  "context": "refers to a young female person"
+  "context": "The word 'tüdrukust' is an Estonian elative case form, derived from the root word 'tüdruk' (girl). The elative case (-st ending) indicates movement away from or origin from something. So 'tüdrukust' means 'from the girl' or can be used to mean 'about the girl' in certain contexts. It shows where an action originates from or what is being discussed as a topic."
 }

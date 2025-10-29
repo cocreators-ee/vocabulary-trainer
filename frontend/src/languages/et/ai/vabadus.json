@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan vabadust.",
-    "Vabadus on kallis asi.",
-    "Ta võitleb vabaduse eest."
+    "Vabadus on inimõigused.",
+    "Eestis väärad meie vabadust.",
+    "Ta võitles oma vabaduse eest."
   ],
   "translation": [
-    "freedom"
+    "freedom",
+    "liberty"
   ],
-  "context": "The word vabadus refers to the state of being free from oppression, restriction, or control, and is commonly used in Estonian to express a desire for independence or autonomy."
+  "context": "The word 'vabadus' is an Estonian noun that means freedom or liberty. It refers to the state of being free from control, restriction, or imprisonment, and having the power of self-determination. In Estonian, it's a feminine noun in nominative case."
 }

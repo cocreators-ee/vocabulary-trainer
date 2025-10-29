@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "See on hea projekt",
-    "Projektid on edukad",
-    "Ma olen projekti juht"
+    "Projekt algab järgmisel nädalal.",
+    "Me töötame uuel projektis.",
+    "See on huvitav projekt."
   ],
   "translation": [
-    "project"
+    "project",
+    "plan",
+    "scheme"
   ],
-  "context": "The word 'projekt' in Estonian refers to a planned set of interrelated tasks to be executed over a fixed period and within certain cost and other limitations. It is commonly used in professional and academic settings to describe a specific undertaking or initiative."
+  "context": "The Estonian word 'projekt' is a loanword from English that means project. It refers to a planned piece of work, especially one that is done over a period of time and designed to achieve something specific or produce something new. In Estonian grammar, it's typically used in the same grammatical contexts as the English word, though may follow Estonian case rules when inflected."
 }

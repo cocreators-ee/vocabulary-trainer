@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks tuju pärast koju.",
-    "Mul on täna hea tuju.",
-    "See uudis rikkus mul tuju."
+    "Mul on hea tuju.",
+    "Tema oli halva tunnega kogu päeva.",
+    "Kuidas sulle praegu meeleolu?"
   ],
   "translation": [
     "mood",
-    "spirit",
-    "temper"
+    "temperament",
+    "disposition",
+    "frame of mind"
   ],
-  "context": "The Estonian word 'tuju' refers to someone’s mood or emotional state. It is commonly used to describe how a person is feeling at a particular time, similar to the English words ‘mood’, ‘spirit’, or ‘temper’. It can also be used to express general well-being."
+  "context": "The word 'tuju' in Estonian refers to a person's current mood, temperament, or general disposition. It describes how someone is feeling emotionally at a particular moment - whether they are cheerful, sad, grumpy, or in some other emotional state. The word can be used in various contexts to ask about someone's well-being or describe their behavior."
 }

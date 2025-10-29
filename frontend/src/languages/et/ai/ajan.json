@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma ajan kodus toime.",
-    "Aja koos sõbra jaoks aega.",
-    "Ajalikult tuleb mulle aita."
+    "Tule meie juurde ajan.",
+    "Ma olen siin oma aja järele.",
+    "Kas sa tulid õigel ajal?"
   ],
   "translation": [
-    "manage",
-    "arrange",
-    "handle"
+    "time",
+    "moment",
+    "period"
   ],
-  "context": "'ajan' refers to managing or handling situations, often used in the context of taking care of something efficiently or dealing with tasks"
+  "context": "The word 'ajan' in Estonian is part of the genitive case form of 'aeg', which means 'time'. It appears to be a potential typo or incomplete form, as the standard genitive singular would typically be 'aega' and plural would be 'aegade'. However, it could represent an archaic dialectical form, poetic usage, or specific grammatical context. In Estonian grammar, case endings are crucial for indicating possession, direction, relationships between words, etc."
 }

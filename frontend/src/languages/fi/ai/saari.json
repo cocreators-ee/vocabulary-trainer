@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Saari on kaunis.",
-    "Olemme menossa saarelle.",
-    "Saaret ovat Suomen kauneimpia paikkoja."
+    "Olen saarella.",
+    "Saaret ovat kauniita.",
+    "Iso saari näkyy kaukaista."
   ],
   "translation": [
     "island"
   ],
-  "context": "The word saari refers to a piece of land that is surrounded by water, and it is commonly used in Finnish geography and travel contexts."
+  "context": "The word 'saari' is a Finnish noun meaning 'island'. It's a common word in Finnish language referring to a landmass surrounded by water. In the examples provided, 'saarella' shows it in the adessive case (on an island), 'saaret' is in the plural form (islands), and 'saari' appears as the basic nominative singular form (island)."
 }

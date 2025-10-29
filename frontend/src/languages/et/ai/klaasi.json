@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma joon klaasi vett.",
-    "Ta lõi klaasi vastu lauda.",
-    "See on ilus klaasist vaas."
+    "Klaas on läbipaistev materjal.",
+    "Sõklaasi võta endale!",
+    "Tere tulemast klaasi juurde!"
   ],
   "translation": [
-    "glass",
-    "a glass of"
+    "glass (material)",
+    "drinking glass",
+    "tumbler"
   ],
-  "context": "The word 'klaasi' in Estonian can refer to a physical glass object, or it can be used as a unit of measurement for liquids – ‘a glass of water’. It is also the genitive form of the noun 'klaas', meaning 'of glass'."
+  "context": "The word 'klaasi' is the partitive case form of 'klaas', meaning it typically follows certain verbs or expresses partiality/indefiniteness. It can refer to glass as a material, drinking glasses/tumblers, or be used in contexts like ordering drinks ('Sõklaasi võta endale!' - Take a glass!). The partitive case is commonly used with quantities and when the action affects only part of an object."
 }

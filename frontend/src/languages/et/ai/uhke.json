@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on uhke oma saavutuste üle",
-    "Uhked inimesed ei ole kunagi rahul",
-    "Uhkus on hea omadus, kuid liigne uhkus võib olla halb"
+    "Ta on uhke mees.",
+    "Naised on väga uhed.",
+    "Meie lapsed on üsna uhesed."
   ],
   "translation": [
     "proud",
-    "haughty",
-    "lofty"
+    "conceited",
+    "arrogant"
   ],
-  "context": "The word 'uhke' in Estonian generally means having or showing a great deal of pride and self-respect, often to the point of being considered arrogant or haughty."
+  "context": "The word 'uhke' in Estonian is an adjective that describes someone as proud, conceited, or arrogant. It can be used to describe both men and women, and it appears in different forms depending on the gender and number of the noun it modifies - 'uhke' for masculine singular, 'uhed' for plural, and 'uhesed' for plural when describing children or mixed groups."
 }

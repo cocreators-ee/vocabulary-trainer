@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen nii väsinud",
-    "See on nii ilus",
-    "Ta on nii hea inimene"
+    "Nii on meie elu.",
+    "Ta on nii armas.",
+    "Kas sa mõistad nüüd? Nii!"
   ],
   "translation": [
     "so",
-    "such"
+    "such",
+    "thus",
+    "in this way"
   ],
-  "context": "The word 'nii' in Estonian is used as an adverb to indicate a high degree of something, similar to the English words 'so' or 'such'."
+  "context": "The Estonian word 'nii' is a versatile adverb that can mean 'so', 'such', 'thus', or 'in this way'. It's commonly used to express degree, manner, or affirmation. In the examples provided, it shows different contexts: expressing a state of being ('so is our life'), indicating degree ('so cute'), and serving as an affirmative response ('yes!'). The word can modify adjectives, verbs, or stand alone as a confirmation."
 }

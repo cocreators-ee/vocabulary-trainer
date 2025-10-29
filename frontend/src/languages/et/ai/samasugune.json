@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on samasugune nagu tema vanem vend.",
-    "Nende huumor on samasugune.",
-    "Ma olen veendunud, et see on samasugune asi."
+    "Tema on samasugune nagu tema isa.",
+    "Meie majad on samasugused.",
+    "Sellel ja sellel on samasuguse värvi katted."
   ],
   "translation": [
-    "the same",
-    "identical",
-    "equivalent"
+    "the same kind of",
+    "similar",
+    "alike"
   ],
-  "context": "The word samasugune in Estonian means something or someone that is identical or equivalent to another thing or person, often used to describe a similarity or equivalence between two things."
+  "context": "The Estonian word 'samasugune' is an adjective that means 'of the same kind' or 'similar'. It's formed from 'sama' (same) and 'sugu' (kind/type), with the '-ne' suffix making it an adjective. The word can be declined in different cases and has plural forms like 'samasugused'. It describes things that are similar in nature, type, or kind to something else."
 }

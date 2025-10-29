@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma usun tõele.",
-    "Tõele vastavalt.",
-    "Ta rääkis tõele kohta."
+    "Tõele vastandub vale.",
+    "Sa pead tõele kindlalt usuma.",
+    "See väide ei vasta tõele."
   ],
   "translation": [
-    "truth"
+    "truth",
+    "reality",
+    "fact"
   ],
-  "context": "The word tõele is the allative case of the noun tõde, which means truth, and it is commonly used in Estonian to refer to something being true or factual."
+  "context": "The word 'tõele' is the allative case of 'tõde', meaning 'to truth' or 'to reality'. In Estonian, the allative case indicates movement toward something. So 'tõele' specifically means 'to truth' or 'toward reality/true things'. It's used when talking about moving towards truth or aligning with facts/reality."
 }

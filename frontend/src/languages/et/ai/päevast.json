@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen päeval välja.",
-    "See oli pikk päevast.",
-    "Päevast on ilus."
+    "Töölt koju päevast",
+    "Päevast algas uus projekt",
+    "Mõtlesin päevast üles"
   ],
   "translation": [
-    "daytime",
-    "during the day",
-    "by day"
+    "from the day",
+    "since the morning",
+    "starting from today",
+    "henceforth"
   ],
-  "context": "The Estonian word 'päevast' is derived from 'päev', meaning 'day'. It specifically refers to daytime or during the day, and can also be used as an adverbial phrase indicating a time frame. It’s commonly used when describing activities happening in daylight hours."
+  "context": "The Estonian word 'päevast' is an adverbial form derived from the noun 'päev' (day). It typically indicates temporal origin or starting point, meaning 'from the day', 'since the morning', or 'henceforth'. The '-st' suffix in Estonian often denotes separation, origin, or starting point. This word would commonly be used at the beginning of a sentence to indicate when something starts or from what time period it is being considered."
 }

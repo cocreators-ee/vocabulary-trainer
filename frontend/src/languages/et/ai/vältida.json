@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma vältin teda koolis.",
-    "Ta püüdis mind vältida.",
-    "Vältige teda homme kohtumas."
+    "Ta püüab vältida konflikte.",
+    "Me peame vältima võõraid küsimusi.",
+    "Vältisime ohtu."
   ],
   "translation": [
-    "avoid",
-    "evade"
+    "to avoid",
+    "to evade",
+    "to shun",
+    "to bypass"
   ],
-  "context": "The word 'vältida' in Estonian means to avoid or evade something or someone, often implying a deliberate action to prevent a meeting or confrontation."
+  "context": "The word 'vältida' is an Estonian verb that means to avoid, evade, or shun something. It's used when someone wants to keep away from a situation, person, thing, or danger. The word can be used in different tenses and forms - as shown in the examples: present tense (vältima), infinitive form, and past tense (vältisime)."
 }

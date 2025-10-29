@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me saame seda teha.",
-    "Saame koos ühiselt lahendusi leida.",
-    "Kui me ühiselt töötame, siis saame tulemusi saavutada."
+    "Saame homme kohtuda.",
+    "Me saame kõik hästi hakkama.",
+    "Milliseid toite saame teil pakkuda?"
   ],
   "translation": [
     "we can",
-    "we are able to"
+    "are able to",
+    "get"
   ],
-  "context": "The word 'saame' in Estonian is used to express ability or possibility in the first person plural form, similar to how 'we can' is used in English."
+  "context": "The word 'saame' is the 1st person plural present indicative form of the verb 'saa-' meaning 'to get/receive/be able to'. It's commonly used to express ability or possibility in Estonian. The 'me-' prefix indicates it's from the perspective of 'we', and the '-me' ending shows it's in the present tense for 1st person plural subjects."
 }

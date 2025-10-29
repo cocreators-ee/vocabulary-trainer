@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma külastan teda vahel.",
-    "Vahel on tal võimalik minna ka teatrisse.",
-    "Ta tuleb mulle vahel külla."
+    "Ma ei tea alati kõike, vahel on mulle ka midagi õpetada.",
+    "Töö ja puhkus tulevad vaheldumisi, meil on vahel aega koos veeta.",
+    "See juhtub harva, aga vahel võib see juhtuda."
   ],
   "translation": [
     "sometimes",
-    "occasionally",
-    "at times"
+    "at times",
+    "occasionally"
   ],
-  "context": "The word 'vahel' in Estonian is an adverb that means doing something from time to time, or at irregular intervals. It is commonly used to describe actions or events that happen occasionally, but not regularly."
+  "context": "In Estonian, 'vahel' is an adverb that means 'sometimes', 'at times', or 'occasionally'. It's used to indicate that something happens intermittently or not on a regular basis. The word doesn't change its form regardless of the context it's used in - it remains 'vahel' whether it's at the beginning, middle, or end of a sentence. This is similar to how English uses 'sometimes' without conjugation."
 }

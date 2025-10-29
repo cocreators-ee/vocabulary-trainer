@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Sään takia lentokone joutui oleilemaan odottamassa",
-    "Hän ei pitänyt säästä ja päätti jäädä sisälle",
-    "Sää oli niin kaunis, että he päättivät mennä ulos"
+    "Sää on tänään aurinkoinen.",
+    "Huomenna sää voi muuttua.",
+    "Hyvä sää tekee retkestä mukavan."
   ],
   "translation": [
-    "weather"
+    "weather",
+    "climate",
+    "atmospheric conditions"
   ],
-  "context": "The word sää refers to the state of the atmosphere at a particular place and time, such as whether it is hot or cold, dry or rainy, etc."
+  "context": "The word 'sää' in Finnish refers to weather or atmospheric conditions. It's a common noun used when talking about current weather conditions like temperature, precipitation, wind, etc. In Finnish grammar, it's an uter noun and follows normal declension patterns."
 }

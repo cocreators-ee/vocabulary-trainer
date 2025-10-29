@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean seda ndal-i kohta.",
-    "See on väga halb ndal.",
-    "Ndal oli täna eriti tugev."
+    "Mul on omaenda teade sellest, mis toimub ndal.",
+    "Me kohtume taas ndal päeval kell kolm.",
+    "Kui sa tuled ndal siis me võime arutada."
   ],
   "translation": [
-    "interval",
-    "pause",
-    "break",
-    "period of time"
+    "this week",
+    "during this week",
+    "in the current week"
   ],
-  "context": "The word 'ndal' in Estonian refers to a period of inactivity or rest between actions, events, or sounds. It can be used to describe a pause in speech, a break in a routine, or the time between occurrences."
+  "context": "The word 'ndal' is a colloquial or informal form of Estonian that appears to be derived from 'nädala', meaning 'week'. It's used in expressions referring to activities happening within the current or upcoming week. The 'n' at the beginning might be a reduced form of 'nä-', similar to how 'see nädal' (this week) is commonly shortened in spoken language."
 }

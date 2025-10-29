@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tööabiks on väike ja erinev kabinett.",
-    "Pealinnapea peab oma kabinetti.",
-    "Minu arst soovitas mind oma kabinettis ootama."
+    "Ta läheb kabinetti tööle.",
+    "Kabineti uks on avatud.",
+    "Me kohtume kabinetis kolmest."
   ],
   "translation": [
-    "cabinet"
+    "cabinet",
+    "office",
+    "study room"
   ],
-  "context": "The word 'kabinett' is used in Estonian to refer to a cabinet, both as an office room and as a group of officials such as the president's cabinet. It can also be used informally for individual workspaces."
+  "context": "The word 'kabinetti' is the inessive case (inessive) form of the Estonian noun 'kabinet', which means a private room or office. The '-i' ending indicates location within something, so 'kabinetti' specifically means 'in the cabinet/office'. This is commonly used for offices where people work, particularly professionals like doctors, lawyers, or managers."
 }

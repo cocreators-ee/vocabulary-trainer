@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sa võtad mind kaasa?",
-    "Ma võtan su käest kinni.",
-    "Ta võtab alati suurema osa."
+    "Kas võtad koju?",
+    "Ma ei tea, kuidas võtad.",
+    "Tööl võad hästi edasi liikuda."
   ],
   "translation": [
     "you take",
-    "to take"
+    "you are taking",
+    "you get"
   ],
-  "context": "The word võtad is the second person singular form of the verb võtma, which means to take or to catch, and it is commonly used in Estonian to express the action of taking something or someone."
+  "context": "Võtad is the second person singular present indicative form of the Estonian verb 'võtma', which means 'to take' or 'to get'. It's used when addressing one person informally (the 'sina' form). In English, this would correspond to 'you take', 'you are taking', or 'you get'. The word changes depending on who is performing the action and when it occurs in time."
 }

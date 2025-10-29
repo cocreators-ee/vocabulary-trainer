@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on pikk mees.",
-    "Pikad inimesed ei mahu selle autosse.",
-    "Pikkade puude all oli tore varjus."
+    "Tema on pikekas mees.",
+    "Lapsed on väga pikad.",
+    "Pikem tee on turvalisem."
   ],
   "translation": [
     "tall",
-    "long"
+    "long",
+    "high"
   ],
-  "context": "The word 'pikk' in Estonian means tall or long, and it is commonly used to describe the height of a person or the length of an object."
+  "context": "The Estonian word 'pikk' is an adjective that means 'tall' when referring to people's height, 'long' when describing the length of objects or distances, and can also mean 'high' in certain contexts. It's the basic form (nominative singular) and would change form based on case, number, and gender in different grammatical contexts."
 }

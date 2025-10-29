@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean kõiki asju.",
-    "Neil on palju asju teha.",
-    "See on keeruline asi."
+    "Ta käis asju ostmisel.",
+    "Ma pean koristama oma asju.",
+    "Tema toas on palju asju."
   ],
   "translation": [
     "things",
-    "stuff",
-    "matters"
+    "items",
+    "belongings",
+    "stuff"
   ],
-  "context": "The word 'asju' is the genitive plural form of the noun 'asi', which translates to 'thing' or 'matter' in English. It’s commonly used when referring to multiple things or issues, often indicating possession or a quantity of items."
+  "context": "'Asju' is the partitive form of 'asi' (thing) in Estonian. It's used when referring to things, items, belongings, or stuff in a general sense. The partitive case indicates an indefinite quantity or incomplete action, so 'asju' means some things/without specifying exact what things."
 }

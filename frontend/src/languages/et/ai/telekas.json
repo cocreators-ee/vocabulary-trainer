@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma vaatasin eile telekast saadet.",
-    "Telekas on köögis.",
-    "Lapsed mängivad teleka ees."
+    "Telekas on küsitud.",
+    "Olen vaadanud teleka kogu päeva.",
+    "Meil on uus telekas."
   ],
   "translation": [
     "television",
-    "TV set",
-    "tele"
+    "TV"
   ],
-  "context": "The word 'telekas' in Estonian refers to a television or TV set. It is commonly used in everyday conversation when discussing watching shows, the location of the TV, or activities related to it."
+  "context": "'Telekas' is a colloquial term for 'televisioon' (television) in Estonian. It's commonly used in everyday speech and informal contexts. The word appears to be a shortened form of the full word 'televisioon'."
 }

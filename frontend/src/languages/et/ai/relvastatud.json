@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on relvastatud ja ohtlik.",
-    "Relvastatud mehed tulid hoonesse.",
-    "Politsei pidas relvastatud kurjategija kinni."
+    "Politseinikud on relvastatud.",
+    "Sõdurid olid hästi relvastatud.",
+    "Mees oli relvastatud püstoliga."
   ],
   "translation": [
     "armed",
-    "weaponed"
+    "weaponized",
+    "equipped with weapons"
   ],
-  "context": "The word 'relvastatud' in Estonian means being equipped with a weapon or weapons, and it is commonly used to describe someone who is carrying a gun or other arms, often in a threatening or dangerous manner."
+  "context": "The Estonian word 'relvastatud' is the past participle form of the verb 'relvastama', which means 'to arm'. It describes something or someone that has been provided with weapons. The word is typically used to describe people (like police soldiers) who carry weapons, or equipment/weapons systems that are armed and ready for use."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen huvitatud uudistest.",
-    "Uudised olid väga põnevad.",
-    "Ta loeb igapäev uudiseid."
+    "Uudised on hea allikaks teabe saamiseks.",
+    "Lugesin täna hommikul uudiseid ajalehest Postimees.",
+    "Meedia edastab regulaarselt uudiseid maailma sündmustest."
   ],
   "translation": [
-    "news"
+    "news",
+    "information",
+    "reports"
   ],
-  "context": "The word 'uudiseid' refers to news or information about current events, and it is commonly used in Estonian to talk about what's happening in the world."
+  "context": "The word 'uudiseid' is the partitive plural form of 'uudis', which means 'news' in English. The ending '-id' indicates it's in plural form, and the '-d' at the end shows it's in the partitive case. In Estonian, the partitive case is often used to indicate indefinite objects or what something consists of. So 'uudiseid' can mean 'news (as an object)' or 'some news'. It commonly appears with verbs like 'lugema' (to read) or 'kuulama' (to listen to)."
 }

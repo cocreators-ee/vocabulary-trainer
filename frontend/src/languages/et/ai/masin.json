@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Masin on tööstuslik seade.",
-    "Ta kasutas masina oma töös.",
-    "Masinad on võtnud üle inimeste töö."
+    "Masin on tööriist.",
+    "Võta masinaga kaasa.",
+    "Mul on uus masin."
   ],
   "translation": [
     "machine",
-    "device"
+    "vehicle",
+    "engine"
   ],
-  "context": "The word 'masin' in Estonian refers to a machine or device, often used in an industrial context to perform specific tasks or operations."
+  "context": "In Estonian, 'masin' is a versatile noun that can refer to various types of machines, vehicles, or engines. It's commonly used for both mechanical devices and transportation vehicles. The word doesn't change form in these examples as they are in different cases showing its basic form."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli lihtsam kui minu vanaema",
-    "Lihtsamad lahendused on enamasti paremad",
-    "See on lihtsam variant"
+    "See on lihtsam variant.",
+    "Kas see on lihtsam kui eelmine?",
+    "Me leidsime lihtsa lahenduse."
   ],
   "translation": [
     "simpler",
-    "easier"
+    "easier",
+    "more straightforward"
   ],
-  "context": "The word lihtsam is an adjective in Estonian that means simpler or easier, it is commonly used to describe a situation or solution that is more straightforward or requires less effort."
+  "context": "The word 'lihtsam' is the comparative form of the Estonian adjective 'lihtne', which means simple or easy. As a comparative, it indicates that something is simpler or easier compared to another option. It's commonly used when comparing different solutions, methods, or approaches."
 }

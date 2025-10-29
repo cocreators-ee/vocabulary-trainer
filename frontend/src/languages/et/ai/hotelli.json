@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hotellis on palju tube.",
-    "Ma olen hotelli otsinud tundmatu aja.",
-    "Hotelli number on 314."
+    "Sõidad hotelli ära.",
+    "Tere tulemast meie hotelli!",
+    "Hotellis on hea restoran."
   ],
   "translation": [
-    "hotel"
+    "hotel",
+    "inn"
   ],
-  "context": "The word 'hotelli' refers to a building where people pay to stay overnight, typically when they are traveling or on vacation. It is commonly used in Estonian to denote a place of temporary accommodation."
+  "context": "The word 'hotelli' is the Estonian translation for the English word 'hotel'. It refers to a commercial establishment that provides lodging, usually for short-term stays. In Estonian grammar, this appears to be in the partitive case (ending -i), which typically indicates an object or destination being referred to. The basic form would be 'hotell'."
 }

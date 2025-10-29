@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hotellis on ilus vaade koridori aknast.",
-    "Koridori lõppu ei näe.",
-    "Tänaval oli täis inimesi, kuid koridori oli tühi."
+    "Minu kodus on lai koridor.",
+    "Koridor viib kööki.",
+    "Lapsed jooksavad mööda koridori."
   ],
   "translation": [
     "corridor",
-    "hallway"
+    "hallway",
+    "passageway"
   ],
-  "context": "The word koridori refers to a long, narrow passage or hallway, typically indoors, and is commonly used in Estonian to describe the layout of buildings or public spaces."
+  "context": "The Estonian word 'koridori' is the genitive case of 'koridor', meaning 'of corridor' or 'belonging to the corridor'. It's used when indicating possession or relationship with a corridor. For example, 'minu kodus on lai koridori' means 'in my home there is a wide corridor (of/in the house)', where 'koridori' indicates something belonging to or related to the corridor."
 }

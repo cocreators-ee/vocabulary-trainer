@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Maailm on ilus koht.",
-    "Ta reisis üle terve maailma.",
-    "Me elame sama maailmas."
+    "Maailm on ilus ja suur.",
+    "See maailm pakub palju võimalusi.",
+    "Me elame sellel maailmas."
   ],
   "translation": [
-    "world"
+    "world",
+    "globe",
+    "earth"
   ],
-  "context": "The word 'maailm' refers to the world as a whole, encompassing all aspects of human experience and the physical environment."
+  "context": "The word 'maailm' in Estonian means 'world'. It refers to the planet Earth, the human society, or existence itself. In Estonian grammar, it's a singular noun that can be used with different cases depending on context (like maailmas - in the world)."
 }

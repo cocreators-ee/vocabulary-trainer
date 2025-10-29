@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen rahul kõigist",
-    "Ta on tegelenud kõigist võimalikest asjadest",
-    "Kõigist sellest hoolimata on ta hea inimene"
+    "Kõik kõigist asjadest on meie jaoks olulised.",
+    "Ta rääkis hästi kõigest peale kõigist tähtsamat teemast.",
+    "See raamat kõigist teadmistest on parim mida olen lugenud."
   ],
   "translation": [
-    "of all",
     "from all",
-    "among all"
+    "of all",
+    "out of all"
   ],
-  "context": "The word kõigist is a postposition in Estonian that indicates a relationship between all things or people, often translated to English as of all, from all, or among all, and is commonly used in sentences to describe a connection or comparison between multiple entities."
+  "context": "The word 'kõigist' is the elative case (third position) plural form of the Estonian pronoun 'kõik', meaning 'all'. The '-st' ending indicates movement away from or origin, so 'kõigist' means 'from all' or 'out of all'. It's used when something comes out of a group that contains everything. In English, this would be translated as 'from all', 'of all', or sometimes 'out of all' depending on the context."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun pitäisi harkita vaihtoehtoja",
-    "Hän on harkinnut asiaa ja päättänyt olla mukana",
-    "He harkitsivat tilannetta ennen kuin tekivät päätöksensä"
+    "Minun täytyy harkita tätä päätöstä.",
+    "Hän harkitsee muuttoa ulkomaille.",
+    "Olemme harkinneet kaikki vaihtoehdot."
   ],
   "translation": [
     "to consider",
-    "to ponder",
-    "to weigh options"
+    "to weigh",
+    "to deliberate"
   ],
-  "context": "The word 'harkita' in Finnish means to carefully think about something, often in order to make a decision. It is commonly used in situations where one needs to evaluate different choices or possibilities before coming to a conclusion."
+  "context": "The Finnish verb 'harkita' means to consider or think about something carefully before making a decision. It implies taking time to evaluate options and possibilities. The word is derived from the noun 'harkinta' which refers to consideration or deliberation. In its basic form, it's used when talking about considering things in general. When conjugated with '-nne' as in 'harkinneet', it becomes a past participle indicating that the consideration has already taken place."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Olen veidi suuanu ja minu suuanus on väga kurb.",
-    "Tema suuanus oli nii jõuline, et kõik olid rahulolevad.",
-    "Kui sa ei suua seda teha, siis palun mitte proovida."
+    "Suudan sind.",
+    "Ma suudan homme.",
+    "Ta ei suuda seda teha."
   ],
   "translation": [
-    "sigh",
-    "exhalation"
+    "I can",
+    "I am able to",
+    "I manage"
   ],
-  "context": "The word 'suudan' in Estonian translates to 'to sigh' or 'exhale'. It is commonly used to express a deep breath as a reaction to emotions such as sadness, relief, or frustration. In context, it can indicate someone letting out a long breath due to tiredness or emotional weight."
+  "context": "The word 'suudan' is the first person singular present tense form of the Estonian verb 'suidama', which means 'to be able to' or 'can'. It indicates capability, possibility, or the ability to do something. The verb changes form depending on the subject (person and number) and tense."
 }

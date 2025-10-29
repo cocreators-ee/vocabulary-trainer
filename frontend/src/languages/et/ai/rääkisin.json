@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma rääkisin temaga neljapäeval.",
-    "Ta rääkis mulle, et see on hea raamat.",
-    "Rääkisin ükskord temaga selle kohta."
+    "Ma rääkisin eile telefoniga.",
+    "Ta rääkis kõik oma saladused minuga.",
+    "Meie rääkisime pikalt sellest projektist."
   ],
   "translation": [
-    "spoke",
-    "talked"
+    "I talked/said",
+    "I spoke",
+    "I discussed"
   ],
-  "context": "The word 'rääkisin' is the first person singular past tense form of the Estonian verb 'rääkima', which means to speak or talk. It is commonly used in sentences to describe a conversation that took place in the past."
+  "context": "Rääkisin is the 1st person singular past tense form of the Estonian verb 'rääkima', which means to talk, speak, or discuss. It indicates that someone (the speaker) performed the action of speaking/talking in the past."
 }

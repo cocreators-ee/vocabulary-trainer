@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta teeb tööd.",
-    "Tahad, et see teeks kiiremini?",
-    "See toatemat kõik tühjaks teeaks."
+    "Tema teeb head tööd.",
+    "Mis see teeb?",
+    "Lapsed teevad mängu."
   ],
   "translation": [
     "does",
-    "to do"
+    "makes",
+    "is doing"
   ],
-  "context": "'Teeb' means 'does' or 'to do' in Estonian. It's the third person singular of the verb 'teha,' commonly used for actions performed by someone or something, like tasks and activities."
+  "context": "The word 'teeb' is the third person singular present tense form of the Estonian verb 'tegema', which means 'to do' or 'to make'. It's used when referring to what someone or something does in the present moment. For example, 'Tema teeb head tööd' means 'He/She does good work.' The word follows the subject-verb-object pattern common in Estonian grammar."
 }

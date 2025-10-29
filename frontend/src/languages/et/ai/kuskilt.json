@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kuskilt tulnud.",
-    "Ta tuli kuskilt ja läks tagasi.",
-    "Kuskilt võid saada head uudiseid."
+    "Tule kuskilt lähemalt.",
+    "Ta tuli kuskilt eemale.",
+    "Kuskilt on tulnud heade uudistegi."
   ],
   "translation": [
     "from somewhere",
-    "somewhere"
+    "from any place"
   ],
-  "context": "The word kuskilt is an adverb in Estonian that means from somewhere or somewhere, it is often used to describe the origin or location of something without specifying the exact place."
+  "context": "The word 'kuskilt' is an Estonian adverbial form that means 'from somewhere'. It's formed from the pronoun 'kus' (where) with the suffix '-kilt', indicating direction away from a place. This interrogative-indefinite form is used when you don't know exactly where something came from, but you know it originated from some unspecified location."
 }

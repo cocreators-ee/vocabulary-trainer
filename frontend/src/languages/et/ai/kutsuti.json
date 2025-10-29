@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta kutsuti sündmusele.",
-    "Meil kutsutti palju külastajaid.",
-    "Tema perekond kutsuti tähistama sünnipäeva."
+    "Kutsuti meie juurde teemaga.",
+    "Tüdrukud kutsuti balli.",
+    "Meid kutsiti õhtusöögile."
   ],
   "translation": [
-    "was invited"
+    "was called",
+    "were invited",
+    "summoned"
   ],
-  "context": "The word 'kutsuti' is the past tense, passive voice of the verb 'to invite.' It indicates that someone was invited to an event or gathering in Estonian. The use of this form suggests a formal invitation or attendance at a social function, such as a party, ceremony, or meeting."
+  "context": "The word 'kutsuti' is the past tense passive form of the Estonian verb 'kutsuma', meaning 'to call' or 'to invite'. In this form, it indicates that someone was called, invited, or summoned in the past. The '-i' ending marks it as past tense and the absence of personal pronouns shows it's in passive voice."
 }

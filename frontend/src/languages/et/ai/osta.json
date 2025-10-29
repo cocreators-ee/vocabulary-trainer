@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan uue raamatu.",
-    "Ta ostis eile kinost uue filmi.",
-    "Kas sa tahad seda asja osta?"
+    "Osta see meeldiv ese.",
+    "Ta ostis uue auto.",
+    "Me ostame toitu poodi."
   ],
   "translation": [
     "buy",
     "purchase"
   ],
-  "context": "The word 'osta' is commonly used in Estonian to mean buying or purchasing something, and it can be used in different forms such as 'ostan' (I buy), 'ostis' (bought), and 'osta' (to buy)."
+  "context": "The Estonian word 'osta' is the imperative form of the verb 'ostama', which means 'to buy' or 'to purchase'. It's used as a command or suggestion to someone to buy something. In different forms, this verb can be conjugated for various tenses and subjects - for example, 'ostan' (I buy), 'ostad' (you buy), 'ostab' (he/she/it buys)."
 }

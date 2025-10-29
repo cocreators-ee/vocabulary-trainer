@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Poiss on hea laps.",
-    "See poiss on minu sõber.",
-    "Kaks poissi mängisid jalgpalli."
+    "Poiss on hea õpilane.",
+    "See poiss käis koolis.",
+    "Meie klassis on kolm poissi."
   ],
   "translation": [
     "boy",
-    "lad"
+    "lad",
+    "young man"
   ],
-  "context": "The word 'poiss' refers to a young male person, typically below the age of 18, and is commonly used in Estonian language to describe a boy or a youngster."
+  "context": "The Estonian word 'poiss' means boy in English. It is a masculine noun that refers to a male child or young person. In the examples, it's used in singular form as 'poiss' (a boy), and in plural form as 'poisse' (boys). The word follows typical Estonian grammatical patterns for nouns."
 }

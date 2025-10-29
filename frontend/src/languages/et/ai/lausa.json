@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlesin lausa, et see on hea mõte.",
-    "Lausa vastasime tema küsimusele.",
-    "Ta oli lausa üllatunud meie otsusest."
+    "Lause on ilus.",
+    "Laused meenutavad lapsepõlve.",
+    "Tema esines heade lausetega."
   ],
   "translation": [
-    "exactly",
-    "precisely",
-    "literally"
+    "sentence",
+    "phrase",
+    "expression"
   ],
-  "context": "The word 'lausa' in Estonian is used to emphasize the exactness or precision of something, similar to how 'exactly' or 'precisely' would be used in English. It can also be translated to 'literally' depending on the context."
+  "context": "The word 'lausa' appears to be an Estonian noun meaning 'sentence' or 'phrase'. It's likely in the nominative singular form. In Estonian, nouns can have different forms depending on case and number, so this could also potentially appear as 'lause' (standard spelling), 'lausas', 'lausasse', etc., when declined. The word refers to a grammatical unit of words expressing a complete thought."
 }

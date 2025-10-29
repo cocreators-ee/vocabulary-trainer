@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma parem ei tea",
-    "See on parem kui eile",
-    "Ta on parem sõber"
+    "Parem on alati hea.",
+    "Ta on parem matemaatik kui mina.",
+    "See on parem variant."
   ],
   "translation": [
-    "better"
+    "better",
+    "righter",
+    "more correct"
   ],
-  "context": "The word 'parem' in Estonian means 'better'. It is commonly used to compare two things and express that one is of higher quality or more desirable than the other."
+  "context": "The word 'parem' is the comparative form of 'hea' (good) in Estonian. It means 'better' when used as an adjective comparing two things, and can also mean 'righter' or 'more correct.' As a standalone word, it often indicates preference or superiority."
 }

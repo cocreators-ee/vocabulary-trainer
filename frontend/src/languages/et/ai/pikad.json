@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Need on pikad sõbrad.",
-    "Pikad jalatsid jooksisid kiiresti.",
-    "Ta rääkis pikad tõesed."
+    "Pikad on kõige ilusamad aastaaegade.",
+    "Tema pikad olid väga ilusad ja siidised.",
+    "Meie pikkuses on palju pikemad kui eelmisel aastal."
   ],
   "translation": [
     "long",
-    "tall"
+    "tall",
+    "lengthy"
   ],
-  "context": "The Estonian word 'pikad' is the plural form of 'pikk,' meaning either 'long' or 'tall' in English, depending on context. It can describe objects that are physically long (like a road) or people who are tall."
+  "context": "The Estonian word 'pikad' is the plural form of the adjective 'pika', which means 'long' or 'tall'. In Estonian adjectives change their endings based on number (singular/plural) and case. Here, '-d' at the end indicates the nominative plural form. 'Pikad' can be used to describe something that has great length or height in a plural context - for example, describing multiple long objects like legs ('pikad jalad'), tall people ('pikad inimesed'), or lengthy periods of time ('pikad päevad')."
 }

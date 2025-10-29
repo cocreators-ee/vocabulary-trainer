@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on endas kindel",
-    "Endas oleme väga head sõbrad",
-    "Ma usun endas"
+    "Minu lugu enam ei endas.",
+    "See raamat polegi hea, kui ta endas.",
+    "Ta endas oma eelkäijat."
   ],
   "translation": [
-    "in myself",
-    "myself",
-    "oneself"
+    "is no longer interesting",
+    "doesn't entertain anymore",
+    "has become boring"
   ],
-  "context": "The word endas is a reflexive pronoun in Estonian, used to refer to the subject of the sentence, similar to the English words myself or oneself, often used to emphasize the person performing the action."
+  "context": "The Estonian word 'endas' is a contraction of 'ei andda', meaning 'does not give' or 'no longer gives'. It's used to express that something has stopped being entertaining, interesting, or satisfying. The word appears in contexts where entertainment value, interest, or satisfaction has diminished over time."
 }

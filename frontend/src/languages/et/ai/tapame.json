@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meie tapame seda asja juba ammu.",
-    "Ta tapame oma vana auto ära.",
-    "Nad tapame palju aega tühiste asjadega."
+    "Me tapame ära selle projekti.",
+    "T nad tapavad need kaks lindu.",
+    "Ma ei tappa mitte inimesi."
   ],
   "translation": [
-    "to kill",
-    "to slaughter",
-    "to waste (time)",
-    "to destroy"
+    "we kill",
+    "they kill",
+    "I don't kill"
   ],
-  "context": "The verb 'tapma' in Estonian means 'to kill', but it can also be used more figuratively to mean 'to waste' or 'to destroy'. It is a relatively strong word, often implying a complete ending of something. The form 'tapame' is the first-person plural present tense ('we kill/waste')."
+  "context": "'Tapame' is the 1st person plural (me/we) present indicative form of the verb 'tappama', which means 'to kill'. It specifically refers to the action of killing in a general sense. The word can be used for both literal killing and metaphorical contexts, though it's most commonly associated with taking life. When conjugated, 'tappama' becomes 'tapame' for we/me in present tense."
 }

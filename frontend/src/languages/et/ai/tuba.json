@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema tubas on väga puht.",
-    "Ma ostsin uue maja koos suure toaga.",
-    "Ta elab väikestes tubades."
+    "Tuba on suur ruum.",
+    "Meie tuba on väga ilus.",
+    "Tubad olid täis inimesi."
   ],
   "translation": [
     "room",
-    "chamber"
+    "chamber",
+    "hall"
   ],
-  "context": "'tuba' refers to a room within a building, such as a bedroom or living room. It is commonly used in both everyday and formal contexts when discussing parts of a house or office space."
+  "context": "The Estonian word 'tuba' means room or chamber. It's a singular noun referring to an enclosed space within a building, typically used for living, working, or other activities. In plural form it becomes 'tubad', meaning rooms."
 }

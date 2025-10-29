@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tapahtuma oli menestyksekas.",
-    "Tapahtumat ovat olennaisia jokaisessa elamassa.",
-    "Tapahtumalla on suuri vaikutus yhteiskuntaan."
+    "Tämä on merkittävä tapahtuma kaupungissa.",
+    "Miten pääsen sinne tapahtumaan?",
+    "Tapahtumat järjestetään joka vuosi."
   ],
   "translation": [
     "event",
-    "occasion",
-    "happening"
+    "happening",
+    "occurrence"
   ],
-  "context": "The word tapahtuma refers to an event or occurrence, and it is commonly used in Finnish to describe something that happens or takes place, such as a meeting, a party, or a natural phenomenon."
+  "context": "The Finnish word 'tapahtuma' is a noun that means an event, happening, or occurrence. It's commonly used to refer to organized events like concerts, festivals, meetings, or other public gatherings. The word can be modified with case endings - for example, the genitive form would be 'tapahtuman', partitive 'tapahtumaa', and illative 'tapahtumaan'. When pluralized, it becomes 'tapahtumat'."
 }

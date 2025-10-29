@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lendas kiiresti ümber",
-    "Linnalendas mööda tänavat",
-    "Laps lendas õhupalliga"
+    "Esimene lennuk lendas hommikul.",
+    "Lendasid sa eile Tallinna?",
+    "Meie lendasime Pariisi."
   ],
   "translation": [
     "flew",
-    "was flying",
-    "did fly"
+    "traveled by air",
+    "flew in"
   ],
-  "context": "The word 'lendas' is the third person singular form of the verb 'lennama', which means to fly. It is commonly used in Estonian to describe the act of flying or moving through the air."
+  "context": "'Lendas' is the past tense singular third person form of the Estonian verb 'lennata', which means 'to fly'. It specifically indicates that someone or something flew (in an aircraft) in the past. The word can be used for both people flying in airplanes and other aerial transportation."
 }

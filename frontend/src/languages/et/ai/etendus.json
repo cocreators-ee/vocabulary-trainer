@@ -1,14 +1,15 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma ei suuda sellel etendusel jääda kuni lõpuni.",
-    "Etendus oli nii pikaajaline ja ma vajusin und peale.",
-    "Tema esimene etendus teatris oli väga edu."
+    "Täna on teatris etendus.",
+    "Meie koolis toimetati suur etendus.",
+    "Kell 19 algab ooperietendus."
   ],
   "translation": [
     "performance",
-    "show"
+    "show",
+    "play",
+    "theatrical performance"
   ],
-  "context": "The word 'etendus' in Estonian refers to a performance or show, commonly used for theatrical performances, concerts, or any event where something is performed. It can also be used more generally for events that are watched or attended as entertainment."
+  "context": "The Estonian word 'etendus' refers to a performance, show, or theatrical event. It can be used for various types of performances including plays, concerts, operas, and other staged events. The word is feminine in gender and is commonly used when talking about theater shows, school productions, or any kind of public performance."
 }

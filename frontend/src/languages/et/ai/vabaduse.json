@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võitleb vabaduse eest.",
-    "Vabaduse au nimel tehakse palju halba.",
-    "Meil on vabadus rändada."
+    "Vabaduse eest on alati väärt võidelda.",
+    "Meiega vabaduse nimel!",
+    "Vabadus on põhiseadusega tagatud õigus."
   ],
   "translation": [
     "freedom",
-    "liberty"
+    "liberty",
+    "independence"
   ],
-  "context": "The word 'vabaduse' refers to the state of being free from oppression or constraint, and is commonly used in Estonian to describe the concept of freedom or liberty."
+  "context": "The word 'vabaduse' is the genitive case form of 'vabadus', which means 'freedom'. In Estonian, this genitive case typically indicates possession or association - so it can be translated as 'of freedom' or 'for freedom'. This form is commonly used in phrases like 'eest vabadust' (for freedom) or 'nimel vabaduse' (in the name of freedom). It's an important concept in Estonian culture and history, reflecting the country's long struggle for independence."
 }

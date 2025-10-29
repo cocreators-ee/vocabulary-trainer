@@ -1,13 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vaheta lüliti.",
-    "Lülita sisse mõõteriistad.",
-    "Tänan, et lülitad kõik seadmed välja."
+    "Mul on vaja lülitada arvuti.",
+    "Sa pead seda nuppu lülitama.",
+    "Lülitasid sa valguse?"
   ],
   "translation": [
-    "switch"
+    "to turn on (an electrical device)",
+    "to switch",
+    "to toggle",
+    "to flip a switch"
   ],
-  "context": "The word 'lülita' can be translated as 'switch'. It is commonly used in the context of turning something on or off, such as a device, light, or electrical appliance. For example, when you use an electronic device, you might say: 'Lülita seadme sisse', which means 'Turn the device on.'"
+  "context": "The Estonian verb 'lülita' means to turn on, switch, or activate an electrical device. It is commonly used for operating lights, computers, and other electronic devices by flipping switches or pressing buttons. The word can be conjugated in different forms: lülitada (infinitive), lülitama (present tense active), lülitasid (past tense)."
 }

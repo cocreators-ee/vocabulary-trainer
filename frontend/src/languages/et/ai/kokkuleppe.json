@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See kokkuleppe kehtib alates homme.",
-    "Ta ei olnud nõus sellega ning soovis uut kokkulepet.",
-    "Kokkuleppe kohaselt peab firma tasuma kahju eest."
+    "Meil on kokkuleppe töö kohta.",
+    "Nad tegid olulise kokkuleppe.",
+    "Kokkuleppe allkirjastamine võtab aega."
   ],
   "translation": [
     "agreement",
+    "deal",
     "arrangement"
   ],
-  "context": "The word 'kokkuleppe' refers to a mutual understanding or agreement between two or more parties, and is commonly used in formal or business settings to describe a contract or deal."
+  "context": "The Estonian word 'kokkuleppe' is a noun that refers to an agreement, deal, or arrangement between two or more parties. It comes from the verb 'kokku leppima' which means 'to agree together'. The word implies a mutual understanding or consensus reached through discussion and negotiation."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta töövasakul on mõistlik pealik.",
-    "Pealikuga tuleb midagi teha.",
-    "Kuigi see ei oleks ainus võimalik pealik."
+    "Pealik käskis meil edasi liikuda.",
+    "Ta on selle grupi pealik.",
+    "Kes on teie uus pealik?"
   ],
   "translation": [
-    "title",
-    "heading"
+    "leader",
+    "commander",
+    "chief"
   ],
-  "context": "The word 'pealik' in Estonian translates to 'title' or 'heading'. It is commonly used to refer to the title of a book, article, document, or any such item. For example, it could be used when discussing what title should be given to something."
+  "context": "The Estonian word 'pealik' is a noun that means leader, commander, or chief. It refers to a person who has authority over others and leads a group, organization, or team. The word can be used in various contexts such as military (commander), workplace (team leader), or organizational settings (chief)."
 }

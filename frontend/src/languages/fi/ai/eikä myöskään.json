@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minä en pidä siitä eikä myöskään teidän mielipiteestänne.",
-    "Hän ei ollut viisaampi eikä myöskään paremmin asemoitunut.",
-    "Kukaan ei voittanut ja eikä myöskään hävinnyt."
+    "En ole koskaan käynyt Italiassa eikä myöskään Espanjassa.",
+    "Hän ei puhu suomea eikä myöskään ruotsia.",
+    "Minulla ei autoa eikä myöskään moottoripyörää."
   ],
   "translation": [
-    "either",
-    "nor"
+    "and not",
+    "also not",
+    "neither"
   ],
-  "context": "'eikä myöskään' is used to introduce a negative clause that adds another item or idea to an already negative statement, similar to 'either' or 'nor' in English."
+  "context": "The Finnish phrase 'eikä myöskään' is a compound expression meaning 'and not' or 'also not', used to add additional negative information. It's formed from the negation word 'ei' (not), the conjunction 'ja' (and, which becomes 'eikä' in this construction when following a negative statement), and 'myöskään' (also/either). This phrase is commonly used to extend a negative statement with another piece of contrasting or additional information. For example: 'En halua kahvia eikä myöskään teetä' means 'I don't want coffee and also not tea', indicating the speaker wants neither beverage."
 }

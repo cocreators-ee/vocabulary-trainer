@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mõte on lihtne: peate saadamas pangaarvest raha.",
-    "Ta andis mulle hea mõte.",
-    "Loomulikult, see mõte võib olla suureks edukaks."
+    "Mul on head mõted.",
+    "Mõtete vahetus on oluline.",
+    "Tal ei olnud head mõtet."
   ],
   "translation": [
-    "idea",
-    "thought",
-    "notion"
+    "thoughts",
+    "ideas",
+    "mind"
   ],
-  "context": "Mõte is commonly used to express an idea or concept. It can also mean a thought or notion in certain contexts."
+  "context": "The word 'mõtet' is the partitive singular form of 'mõte', which means 'thought' or 'idea'. It's commonly used in Estonian to indicate having thoughts, exchanging ideas, or referring to specific thoughts. The partitive case here shows that we're talking about some quantity of thoughts without specifying exact boundaries."
 }

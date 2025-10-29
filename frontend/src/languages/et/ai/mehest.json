@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mehest oli võetud kinni.",
-    "Ta räägib mehest, kes on väga hea sõber.",
-    "Mehe kohtuasi on täna arutamisel."
+    "Mehest sai hea tööline.",
+    "Tema mehest on väga targu.",
+    "Kes on parim mehest?"
   ],
   "translation": [
-    "man",
-    "husband"
+    "from the man",
+    "of the man",
+    "out of the man"
   ],
-  "context": "The word 'mehest' in Estonian refers to a man or husband, and is commonly used as a noun in various contexts to describe an adult male person."
+  "context": "The word 'mehest' is an Estonian prepositional case form derived from the word 'mees' (man). It's in the elative case, which indicates movement or origin away from something. In English, it would typically be translated as 'from the man', 'of the man', or 'out of the man'. This form is used when indicating where someone or something comes from or originates."
 }

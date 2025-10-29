@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Milliseid filme sa vaatad?",
-    "Milliseid raamatuid sa loed?",
-    "Ma ei tea milliseid kingi ta tahab."
+    "Milliseid sa otsid?",
+    "Milliseid raamatuid soovid?",
+    "Milliseid juhiseid vajad?"
   ],
   "translation": [
-    "what kind of",
-    "which sort of",
+    "which ones (plural)",
+    "what kind of ones",
     "of what type"
   ],
-  "context": "The word 'milliseid' is an interrogative pronoun in Estonian, used to ask about the type or kind of something. It’s similar to ‘what kind of’ or ‘which’ in English and requires a genitive case noun following it."
+  "context": "The word 'milliseid' is the partitive plural form of the interrogative pronoun 'mis' (what/which) in Estonian. It's used to ask about multiple items of a certain type, and indicates that we're looking for information about specific characteristics or types among multiple options. The '-d' ending shows it's in plural number, while the partitive case '-seid' indicates an incomplete or indefinite reference - asking about 'what kind of ones' rather than specifying particular items."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma loodan, et see lõpeb varsti.",
-    "Ta ütles, et see lõpeb homme.",
-    "Kui see lõpeb, siis ma lähen koju."
+    "Lõpeb päev.",
+    "Töö lõpeb kell viis.",
+    "Nädal lõpeb reedel."
   ],
   "translation": [
     "ends",
     "finishes",
-    "stops"
+    "concludes"
   ],
-  "context": "The word 'lõpeb' is commonly used in Estonian to indicate that something is coming to an end or will be finished at a certain point in time."
+  "context": "The word 'lõpeb' is the 3rd person singular present tense form of the Estonian verb 'lõppema', which means to end or finish. It describes when something comes to a conclusion, such as a day ending, work finishing at a certain time, or a week concluding on Friday."
 }

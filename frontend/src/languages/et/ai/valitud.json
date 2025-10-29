@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on valitud uueks ametiajaks.",
-    "Valitud komisjon koosneb viiest liikmest.",
-    "Kandidaat oli valitud kaheks ametniku poolt."
+    "Valitud sõbrad on alati usaldusväärsemad.",
+    "Oleme valitud parimaks tiimiks.",
+    "Tal oli valitud suur osa filmis."
   ],
   "translation": [
-    "elected",
+    "chosen",
     "selected",
-    "chosen"
+    "elected"
   ],
-  "context": "The word 'valitud' in Estonian means 'elected' or 'selected', and it is commonly used to describe someone who has been chosen for a position or role, often through a voting process."
+  "context": "The word 'valitud' is the past participle form of the Estonian verb 'valida', which means 'to choose' or 'to select'. It describes something that has been chosen, selected, or elected. As a past participle, it functions as an adjective and agrees with the noun it modifies in terms of number and gender."
 }

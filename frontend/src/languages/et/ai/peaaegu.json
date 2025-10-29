@@ -1,11 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen peaaegu valmis"
+    "Ma olen peaaegu valmis.",
+    "Ta on peaaegu kodus.",
+    "Me oleme peaaegu lõpetanud töö."
   ],
   "translation": [
-    "almost"
+    "almost",
+    "nearly",
+    "just about"
   ],
-  "context": "The word peaaegu is an adverb in Estonian that means almost or nearly, and it is commonly used to indicate that something is close to being complete or finished."
+  "context": "The Estonian word 'peaaegu' is an adverb that means 'almost' or 'nearly'. It is used to indicate that something is very close to happening or being true, but not quite there yet. For example, if someone says 'Ma olen peaaegu valmis', they mean 'I am almost ready' - they are nearly prepared but not completely finished."
 }

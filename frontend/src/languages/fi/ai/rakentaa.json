@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Talo rakentaa uuden kerroksen.",
-    "Rakentaja rakentaa taloa.",
-    "He rakentavat uutta siltaa."
+    "Minä rakennan talon.",
+    "Hän rakentaa siltaa.",
+    "Me olemme rakentaneet jo pitkään."
   ],
   "translation": [
-    "build",
-    "construct"
+    "to build",
+    "to construct",
+    "to erect"
   ],
-  "context": "The word 'rakentaa' is a verb in Finnish that means to build or construct something, and it is commonly used in sentences related to construction, creation, or development of structures or objects."
+  "context": "The Finnish verb 'rakentaa' means to build or construct something physical. It can be used in various tenses: rakennan (I build), rakentaa (he/she builds), rakentaneet (have built). The word is commonly used when referring to constructing buildings, bridges, roads, or other structures."
 }

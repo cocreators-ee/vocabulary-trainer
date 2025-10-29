@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma istusin tooli peale.",
-    "Ta istusis kogu päeva.",
-    "Nad istusid koos ja rääkisid tunde"
+    "Ma istusin tooli ääres.",
+    "Ta istusil pikka aega.",
+    "Me istusime terrassil."
   ],
   "translation": [
-    "I sat",
-    "sat down"
+    "I sat down",
+    "sat",
+    "was sitting"
   ],
-  "context": "The word 'istusin' is the first person singular past tense form of the Estonian verb 'istuma', which means to sit down. It is commonly used in sentences to describe an action of sitting down or taking a seat."
+  "context": "The word 'istusin' is the first person singular past tense form of the Estonian verb 'istuma', which means 'to sit'. It specifically indicates that the speaker performed the action of sitting down in the past. The '-sin' ending is characteristic of first person singular past tense verbs in Estonian."
 }

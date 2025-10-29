@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näeksin seda filmi eile.",
-    "Kui sa näeksid teda, siis ütle talle, et ma ootan teda.",
-    "Nad näeksid meid alles homme."
+    "Näeksid sa homme meid?",
+    "Kas näeksid seda pilti ka?",
+    "Täna ei näeksu"
   ],
   "translation": [
-    "would see",
-    "saw"
+    "could you see",
+    "would you see",
+    "might see"
   ],
-  "context": "The word näeksid is the second person plural form of the verb nägema, which means to see. It is commonly used in sentences to express that someone would see something or someone."
+  "context": "The word 'näeksid' is the conditional form of the verb 'nägema' (to see) in Estonian. It's used to express a polite request or possibility, similar to 'could you see' or 'would you see' in English. The '-ksid' ending indicates the conditional mood and second person singular form."
 }

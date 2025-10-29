@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta arvab, et teistest inimestest kõnelemine on lihtsam kui ise enda kohta.",
-    "Mõned inimesed hindavad teistest paremini välja, kui neid tegelikult tuleks.",
-    "Teistest jutte kuulamine aitab meil mõista maailma paremini."
+    "Teistest inimestest ei tea midagi.",
+    "Ta arvab, et on parem teistest.",
+    "Nad võrreldakse ennast teistega."
   ],
   "translation": [
-    "of others",
-    "from others"
+    "from others",
+    "than others",
+    "compared to others"
   ],
-  "context": "'teistest' is the elative case of 'teised', meaning 'others'. It is commonly used to indicate that something comes from or is related to other people or things, such as in expressions like 'teistest inimestest' (of/from other people)."
+  "context": "The Estonian word 'teistest' is the elative case (third position) form of the pronoun 'teised', meaning 'others'. The elative case typically indicates movement from or separation from something, so 'teistest' means 'from others' or 'than others' in comparative contexts."
 }

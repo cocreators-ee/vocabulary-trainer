@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ta on väga avage mees.",
-    "Ära ole nii avage!",
-    "See oli avage tegu."
+    "Avage uks.",
+    "Palun avake aknad.",
+    "Tegelikult ei ole see avatud."
   ],
   "translation": [
     "open",
-    "frank",
-    "candid"
+    "unlock",
+    "start"
   ],
-  "context": "The Estonian word 'avage' generally means open, but can also carry connotations of frankness or candor. It describes someone who is openly expressive and doesn’t hide their feelings or intentions."
+  "context": "The Estonian word 'avage' is an imperative form (command) of the verb 'avama', which means to open or unlock. It's used when giving direct commands to a group or someone you'd address formally. The singular formal form would be 'ava'. This word can refer to opening physical doors/windows, unlocking something, or starting/initiating activities."
 }

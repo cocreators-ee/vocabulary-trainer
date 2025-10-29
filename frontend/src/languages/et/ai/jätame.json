@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jätame kohe.",
-    "Nad jätavad homme.",
-    "Meie ei jäta teda rahatuks."
+    "Jätame homme hommikul koju.",
+    "Me jätame teie juurde kell 10.",
+    "Ta ei jätaks mind üksi."
   ],
   "translation": [
-    "we leave",
-    "leave"
+    "leave",
+    "abandon",
+    "give up"
   ],
-  "context": "The word 'jätame' is the first person plural form of the verb 'jätma', which means to leave something or someone in Estonian. It is commonly used when describing an action of departing from a place, ending an activity, or abandoning something."
+  "context": "The word 'jätame' is the present tense plural form of the Estonian verb 'jäta', which means to leave, abandon, or give up. In first person plural (me - we), it indicates that the speaker(s) are performing the action of leaving something behind. The base form 'jäta' can be conjugated in different tenses and moods: jäda (infinitive), jätan (I leave), jätad (you leave), jatab (he/she/it leaves), jätame (we leave), jätate (you [plural] leave), jätavad (they leave)."
 }

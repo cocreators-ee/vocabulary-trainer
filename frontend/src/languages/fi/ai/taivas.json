@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
     "Taivas on sininen.",
-    "Hän katsoi taivaalle.",
-    "Taivasta näkyy paljon pilviä."
+    "Näimme taivaalla tähtiä.",
+    "Menneisyyden taivas oli pilvinen."
   ],
   "translation": [
     "sky",
-    "heaven"
+    "heaven",
+    "firmament"
   ],
-  "context": "The word 'taivas' generally refers to the sky or heaven in Finnish, and it is commonly used when talking about the weather or something that is above or beyond human reach."
+  "context": "The Finnish word 'taivas' has multiple meanings depending on context. It can refer to the physical sky that we see above us, or it can mean heaven in a religious/spiritual sense. In its basic form, it's often used with adjectives to describe the appearance of the sky (e.g., 'sininen taivas' - blue sky). The word is commonly used in everyday Finnish conversation about weather, astronomy, and spiritual topics."
 }

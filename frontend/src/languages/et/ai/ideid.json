@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on palju ideid.",
-    "Ta esitas mitmeid ideid.",
-    "Ideid said võimsad."
+    "Mul on palju ideid uueks projektiks.",
+    "Tema arvates on need ideid head.",
+    "Meil oli väga head ideid."
   ],
   "translation": [
     "ideas"
   ],
-  "context": "The word 'ideid' is the plural form of the Estonian word 'idea', which refers to a thought or concept, and it is commonly used in everyday conversations to express opinions or suggestions."
+  "context": "The Estonian word 'ideid' is the plural genitive form of the word 'idea', which means 'ideas'. The '-id' ending indicates that it's in the plural form, and the extra 'd' at the end indicates the genitive case. In English translation, this would simply be rendered as 'ideas' without distinguishing between different cases."
 }

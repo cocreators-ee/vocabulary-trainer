@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen minema.",
-    "Ta hakkas minema.",
-    "Nad on juba minemas."
+    "Ma lähen minna",
+    "Tema on minnud",
+    "Me lähme homme"
   ],
   "translation": [
     "to go",
-    "going"
+    "leaving",
+    "departing"
   ],
-  "context": "The verb 'minna' in Estonian means 'to go'. It is a very common and fundamental verb used to express movement or progression from one place to another. It can also be used figuratively to indicate passing of time or entering a state."
+  "context": "The Estonian verb 'minna' is the basic verb for movement from one place to another, similar to 'to go' in English. It's an irregular verb that changes form depending on tense and subject."
 }

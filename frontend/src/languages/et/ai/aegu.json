@@ -1,13 +1,14 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Mingil aegu ma tean.",
-    "Ta tegi midagi väga aegu.",
-    "Aegu läbi järve."
+    "aegu on täis",
+    "Olen aegu väsinud",
+    "Mul pole aegu"
   ],
   "translation": [
-    "slowly"
+    "time",
+    "times",
+    "occasion"
   ],
-  "context": "Used to describe something being done slowly or moving at a slow pace"
+  "context": "In Estonian, 'aegu' is the partitive singular form of 'aeg', which means time. It's used when talking about portions or aspects of time, such as having enough time for something, being tired from doing things repeatedly (tired from times), or not having time. The word indicates a measurable period or instance rather than the general concept of time itself."
 }

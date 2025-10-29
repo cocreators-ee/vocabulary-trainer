@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kavatsete minna kauppaan.",
-    "Ta kavatsete teha ülesande.",
-    "Nad kavatsevad sõita välismaale."
+    "Kavatsete minuga kohtuda homme?",
+    "Me kavatsete reisida suvel Prantsusmaale.",
+    "Kas teie kavatsete oma kodu müüa?"
   ],
   "translation": [
-    "intend",
-    "plan"
+    "you are planning",
+    "you intend to",
+    "you mean to"
   ],
-  "context": "The word 'kavatsete' is a verb in Estonian that means to intend or plan to do something, often used to express future actions or goals."
+  "context": "The word 'kavatsete' is the formal/plural form of the Estonian verb 'kavatseda', which means 'to plan' or 'to intend'. It specifically addresses multiple people formally ('teie' form). The root word comes from the noun 'kava' (plan), with the suffix '-se-' indicating action, and '-te' being the ending for plural formal second person."
 }

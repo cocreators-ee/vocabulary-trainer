@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema pere tõusis varem kui ta nädalal üldse.",
-    "Minu lemmikfilm on alati erinev, sõltub millest ma just kinni jään näha nädalal.",
-    "Ta tegelikult elas nädalal inimese elus."
+    "Käin tööl nädalal.",
+    "Meil on kohtumine eile ja homme nädalal.",
+    "Ta saab oma koodi valmis alles järgmisel nädalal."
   ],
   "translation": [
     "during the week",
-    "in the course of a week",
-    "on weekdays"
+    "on weekdays",
+    "this week"
   ],
-  "context": "The Estonian word 'nädalal' is used to express time frames related to a week. It can mean during the week, or on weekdays depending on context, and is commonly used in daily conversations regarding schedules, events, or habitual actions."
+  "context": "The Estonian word 'nädalal' is an adessive case form of 'nädala' (week). It means 'during the week' or 'on weekdays'. This form typically indicates when something happens - during rather than on a specific day. The adessive case in Estonian often expresses location or time with '-l' ending, similar to English prepositions like 'at', 'in', or 'on' but used specifically for temporal expressions."
 }

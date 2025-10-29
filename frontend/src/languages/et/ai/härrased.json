@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Härrased, palun annake oma toetus!",
-    "Nad kõnelesid härrastena tänistele.",
-    "Härrased valisid uue juhataja."
+    "Tere härrased!",
+    "Head aega, härrased!",
+    "Kes need härrased on?"
   ],
   "translation": [
-    "Gentlemen",
-    "Mr.",
-    "Misters"
+    "gentlemen",
+    "sirs",
+    "men"
   ],
-  "context": "'härrased' is the plural form of 'härra', used when addressing or referring to multiple men formally. Commonly used in formal settings, such as meetings, presentations, or official speeches."
+  "context": "The word 'härrased' is the plural form of 'härra' (meaning 'gentleman' or 'sir'). It's a formal way to address multiple men, similar to how 'gentlemen' is used in English. This term shows respect when addressing unknown or older men in Estonian."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mängija on väga hea jalgpallur.",
-    "Ta on üks parimaid mängijaid meie meeskonnas.",
-    "Mängijad võivad osaleda mitmes turniirist."
+    "Mängija mängis hästi.",
+    "Tema on parim mängija meeskonnas.",
+    "Uus mängija liitus grupiga."
   ],
   "translation": [
     "player",
-    "gamer"
+    "gamer",
+    "participant"
   ],
-  "context": "The word 'mängija' in Estonian generally refers to a person who plays a game or sport, and it is commonly used in various contexts such as sports teams, video games, or other competitive activities."
+  "context": "The word 'mängija' in Estonian means 'player' or 'gamer'. It refers to someone who participates in games, sports, or other activities. This word is commonly used when talking about athletes in sports competitions, video game players, or participants in any kind of game or sport."
 }

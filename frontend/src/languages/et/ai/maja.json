@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maja on suur",
-    "Ma elan majas",
-    "Majas on kolm toa"
+    "Maja on punane.",
+    "Meil on väike maja metsas.",
+    "Majad olid vanad ja vanaaegsed."
   ],
   "translation": [
     "house",
+    "building",
     "home"
   ],
-  "context": "The word 'maja' refers to a building that is used as a dwelling, and it is commonly used in Estonian to describe one's place of residence."
+  "context": "The Estonian word 'maja' means house or building. It's a common noun used to refer to a structure where people live. In the examples, it appears in singular form ('maja') and plural form ('majad'). The first sentence states that the house is red, the second mentions having a small house in the forest, and the third describes houses as old and old-fashioned."
 }

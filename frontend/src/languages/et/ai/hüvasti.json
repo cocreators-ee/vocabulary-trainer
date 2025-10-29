@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ütle hüvasti",
-    "Hüvasti, võin minna?",
-    "Ta lausus hüvastit"
+    "Hüvasti, näeme homme!",
+    "Ta ütles mulle hüvasti.",
+    "Mis on su hüvasti?"
   ],
   "translation": [
     "goodbye",
-    "farewell"
+    "farewell",
+    "see you later"
   ],
-  "context": "The word is commonly used as a way to bid farewell to someone when parting ways."
+  "context": "The word 'hüvasti' is a common Estonian expression used when parting ways, equivalent to saying 'goodbye' in English. It's typically used at the end of conversations or meetings when people are separating. The word can stand alone as 'Hüvasti' for informal situations, and it's often followed by other expressions like 'näeme homme' (see you tomorrow). In some contexts, it may be shortened to just 'hüvä'. This is one of the most frequently used words in Estonian daily communication when saying farewell."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta teadis, et tuleb palusid raha.",
-    "Pank ei pakuks talle palusid laenu.",
-    "Rahandusminister ruttustas palusid sätteid."
+    "Palusin talle abi.",
+    "Me palume teiega kohtuda.",
+    "Ta palus mulle midagi."
   ],
   "translation": [
-    "demands",
-    "requests"
+    "asked",
+    "requested",
+    "begged",
+    "pleaded"
   ],
-  "context": "Used to describe a formal or forceful demand for something, often in financial contexts like loans or payments."
+  "context": "The word 'palusid' is the past tense (perfect) form of the Estonian verb 'paluma', which means to ask, request, beg, or plead. It indicates that someone made a request in the past. The '-sid' ending is characteristic of the 2nd person singular past tense in Estonian conjugation."
 }

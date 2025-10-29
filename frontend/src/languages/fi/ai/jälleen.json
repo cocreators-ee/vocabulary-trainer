@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minä tulen jälleen",
-    "Hän tulee jälleen myöhemmin",
-    "Meillä on jälleen yksi mahdollisuus"
+    "Minä tulen jälleen huomenna.",
+    "Hän oli jälleen myöhässä.",
+    "He tulevat jälleen ensi viikolla."
   ],
   "translation": [
     "again",
-    "once more"
+    "once more",
+    "another time"
   ],
-  "context": "The word jälleen is commonly used in Finnish to indicate that something happens or is done again, and it can be translated to English as 'again' or 'once more'."
+  "context": "The Finnish word 'jälleen' is an adverb that means 'again' or 'once more'. It indicates repetition of an action, occurrence, or state. The word can appear at various positions in a sentence but typically follows the verb it modifies. In its basic form, it's used to express that something happens for a second time or repeatedly."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vaatan telerit.",
-    "Ta vaatas akna välja.",
-    "Vaatame filmi koos."
+    "Tahan vaadata filmi.",
+    "Me vaatame telesaadet koos.",
+    "Sa vaatasid seda juba?"
   ],
   "translation": [
+    "to look",
     "to watch",
-    "looking",
-    "viewing"
+    "to observe"
   ],
-  "context": "The word 'vaatama' in Estonian means to watch or look at something, and it is commonly used in everyday conversations to describe the act of observing or paying attention to something."
+  "context": "The Estonian word 'vaatama' is an infinitive verb meaning 'to look', 'to watch', or 'to observe'. It's commonly used when talking about watching something like TV, movies, or performances. In different conjugations it can express looking at objects, observing things, or viewing entertainment content."
 }

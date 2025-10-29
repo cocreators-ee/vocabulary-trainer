@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen saanud kutsu sünnipäevale.",
-    "Ta kutsus mind kinno.",
-    "Kutsu oli võitnud mitmeid auhindade."
+    "Kutsu mind hommikul üles.",
+    "Ma ei võta kutsu vastu.",
+    "Tema on meie külaline kutsu peale."
   ],
   "translation": [
     "invitation",
-    "call"
+    "call",
+    "summons"
   ],
-  "context": "The word 'kutsu' in Estonian generally refers to an invitation or a call to something, such as an event or a meeting."
+  "context": "The Estonian word 'kutsu' is a noun that can mean invitation, call, or summons depending on the context. It refers to an act of inviting someone somewhere or asking them to do something. The word can be used in formal and informal contexts alike."
 }

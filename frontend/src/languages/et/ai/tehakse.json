@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tema kodus tehakse suurepärane kohv.",
-    "Eile tehakse üks tund kaasa minna.",
-    "See pole midagi, mida peaksime tegema, kuid see tehakse ikkagi."
+    "Tehakse uut maja.",
+    "Homme tehakse suur töö.",
+    "Alates järgmisest nädalast tehakse remonti."
   ],
   "translation": [
-    "is done",
-    "will be done",
-    "will happen"
+    "is made/being made",
+    "are made/being made",
+    "do/make"
   ],
-  "context": "The word 'tehakse' is the third person singular form of the verb 'teha', which means to do or make. It is commonly used in sentences to indicate an action that is being performed, will be performed, or must be performed."
+  "context": "The Estonian word 'tehakse' is the 3rd person plural form of the verb 'tegema' (to do/make) in the passive voice. It's commonly used when talking about actions being performed by an unspecified or general group of people, similar to English expressions like 'one does', 'they make', or using the passive construction with 'is/are made'. The word indicates that some action is happening but the person/people doing it are either unknown or not important in the context."
 }

@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostsin uued kaardid.",
-    "Kaardid on väga populaarsed Eestis.",
-    "Ta tegi kaardid ise."
+    "Ma võtan kaarte kaasa.",
+    "Kas sa oled näinud selles mängus kaarte?",
+    "Me paneme need kaardid lauale."
   ],
   "translation": [
     "cards"
   ],
-  "context": "The word 'kaardid' refers to a set of cards, often used for playing games or other activities, and is commonly used in Estonian language to describe something related to cards or card games."
+  "context": "The word 'kaardid' is the plural form of the Estonian noun 'kaar', which means card. In English, this translates to 'cards'. The word is used when referring to multiple playing cards in various contexts such as games, magic tricks, or general card objects."
 }

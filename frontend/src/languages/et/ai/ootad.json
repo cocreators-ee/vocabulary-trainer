@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ootan sind homme.",
-    "Nad ootasid meid juba tund aega.",
-    "Ootad sa mind?"
+    "ootad veel mind?",
+    "Ta ootab sind bussijaamas.",
+    "Mida oote?"
   ],
   "translation": [
-    "wait",
-    "expect",
-    "await"
+    "you wait",
+    "you are waiting",
+    "await",
+    "expect"
   ],
-  "context": "The Estonian word 'ootad' is the second-person singular present tense form of the verb 'oodata', meaning to wait or expect. It’s commonly used when asking someone if they are waiting for something or telling them you are waiting for them."
+  "context": "The word 'ootad' is the second person singular form of the Estonian verb 'ootama', which means 'to wait'. It specifically refers to what one person (you) does, either alone or in relation to others. The verb can be used both transitively and intransitively - when waiting for someone/something ('ootad mind' - you wait for me) or simply waiting in general ('mida oote?' - what are you waiting for?)."
 }

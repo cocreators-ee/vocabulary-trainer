@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tuo lause on kirjoitettu yhdellä rivillä.",
-    "Rivit ovat pitkiä.",
-    "Hän istui viimeisellä rivillä."
+    "Se oli pitkä rivi.",
+    "Rivit ovat täynnä ihmisiä.",
+    "Otan paikan tästä rivistä."
   ],
   "translation": [
+    "row",
     "line",
-    "row"
+    "queue"
   ],
-  "context": "The word \"rivi\" in Finnish generally refers to a line or row of something, which can be used in various contexts such as describing the layout of objects or people."
+  "context": "The Finnish word 'rivi' means row or line. It can refer to a physical arrangement of people or objects in a straight line, such as seating rows in a theater, lines of text on a page, or queues of people waiting. It's a common noun used in everyday Finnish language."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma valmistan homme hommikul kookidega",
-    "Ta valmistab praegu toitu köögis",
-    "Valmistage end homme tähtisaks"
+    "Ma valmistan hommikusööki.",
+    "Tema valmistab süüa täna õhtuks.",
+    "Meie valmistame ette koolireis."
   ],
   "translation": [
+    "to make",
     "to prepare",
-    "get ready"
+    "to manufacture"
   ],
-  "context": "The word 'valmistada' in Estonian means to prepare or get something ready, often used in the context of cooking or making arrangements."
+  "context": "The Estonian verb 'valmistada' means to make, prepare, or manufacture something. It's a transitive verb that requires an object indicating what is being made or prepared. The root form 'valmist-' relates to the concept of preparation or making ready, and it follows standard Estonian conjugation patterns for -da verbs."
 }

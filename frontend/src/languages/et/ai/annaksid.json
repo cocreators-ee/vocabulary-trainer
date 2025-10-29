@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma annaksin sulle kogu oma raha",
-    "Ta annaks muudkui võlausaldusi",
-    "Nende abielu polnud õnnelik ja nad annaksid lahutuse"
+    "Kas sa annaksid mulle oma raamatu?",
+    "Ta ei annaksid kunagi midagi väärtuslikku ära.",
+    "Ma olen väga tänuannaksid teile kõigi abi eest."
   ],
   "translation": [
     "would give",
-    "give away"
+    "would hand over",
+    "would provide"
   ],
-  "context": "The word 'annaksid' is the conditional form of the verb 'andma', which means to give. It is commonly used in Estonian to express a hypothetical or uncertain situation where something might be given."
+  "context": "The word 'annaksid' is the conditional mood (conditional tense) form of the Estonian verb 'anda', which means 'to give'. In English, it corresponds to 'would give' or similar constructions with auxiliary verbs. The '-ksid' ending indicates this is the second person singular conditional form (you would give). It's used for hypothetical situations, polite requests, or expressing what someone would do under certain conditions."
 }

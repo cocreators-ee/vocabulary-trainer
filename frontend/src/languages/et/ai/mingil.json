@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei tea, mis mingil hetkel juhtus.",
-    "Mingil põhjusel ta ei tulnud.",
-    "See on mingil moel võimalik."
+    "Mingil päeval me külastasime muuseumi.",
+    "Ta oli mingil moel eriline isiksus.",
+    "Kõnelus toimus mingil ajal öösel."
   ],
   "translation": [
-    "somehow",
-    "at some point",
-    "for some reason"
+    "at some time",
+    "on some day",
+    "in some way"
   ],
-  "context": "The word 'mingil' is an indefinite adverb in Estonian. It indicates that something happens or exists without specifying exactly when, why, or how. In English, it often translates to 'somehow', 'someday', 'at some point', or 'for some reason'. It’s used to express uncertainty or lack of specific details."
+  "context": "The Estonian word 'mingil' is an adverbial form of the pronoun 'mingi' (some/a certain). It typically appears in the adessive case (-l ending) and indicates occurrence at an unspecified point in time, on a particular day, or in a manner that isn't specified. It's used when you want to indicate something happened but don't specify exactly when, where, or how."
 }

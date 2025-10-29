@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma soovin, et te püsige terved.",
-    "Püsige rahus.",
-    "Ta on palveelnud, et kõik püsige terved."
+    "Püsige meiega veel veidi!",
+    "Palun püsige oma kohtades.",
+    "Kuidas sa võid nii kaua püsida?"
   ],
   "translation": [
-    "stay healthy",
-    "remain in good health"
+    "stay",
+    "remain",
+    "persist",
+    "keep going"
   ],
-  "context": "The word 'püsige' is a verb form that means to remain or stay in a certain state, often used to express good wishes for someone's health or well-being."
+  "context": "The word 'püsige' is the formal plural imperative form of 'püsima', which means 'to stay', 'to remain', or 'to persist'. It's used as a polite command to multiple people asking them to continue staying in place, keep going with an activity, or maintain their position or state. The '-ge' ending indicates it's addressed to more than one person in a formal context."
 }

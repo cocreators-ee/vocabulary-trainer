@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Küsi täna îlesannet.",
-    "Neiu küsis, mis väljundit ta peaks kasutama.",
-    "Vaatage, et nad ei küsiks midagi liiga palju."
+    "Küsi tal temalt abi.",
+    "Ma küsin emalt, kuidas koogi valmistada.",
+    "Küsite meilt täiendavat informatsiooni?"
   ],
   "translation": [
-    "ask"
+    "ask",
+    "inquire",
+    "request information"
   ],
-  "context": "The verb 'küsi' means to ask a question or request something. It is commonly used in daily conversations when seeking information or making requests."
+  "context": "The word 'küsi' is the second-person singular form of the verb 'küsima', which means 'to ask' in English. It's used when speaking directly to one person (informal you) to request information or something from them. The base form 'küsima' can be conjugated into different forms depending on who is asking and whether it's a formal or informal situation."
 }

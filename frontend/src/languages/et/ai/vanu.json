@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on vanu mees.",
-    "Vanu inimene vajab toetusülesannet.",
-    "Kui vanu sa oled?"
+    "See vanu tool töötab hästi.",
+    "Tema on vanu mees.",
+    "Mul oli vanu auto."
   ],
   "translation": [
-    "old man",
-    "aged person"
+    "old",
+    "aged",
+    "outdated"
   ],
-  "context": "The word 'vanu' in Estonian refers to something or someone that is old or aged, and it is commonly used to describe people, objects, or concepts that have been around for a long time."
+  "context": "The word 'vanu' appears to be an adjective form in Estonian, likely meaning 'old' or 'aged'. It's the nominative singular form of what might be the comparative or partitive case form. In the examples provided, it could describe something as old (tool), an elderly person (man), or an outdated item (car)."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen alla",
-    "Ta on alla võrgustikus",
-    "Alla käisime eile"
+    "Ta jooksis alla mäest.",
+    "Lapsed jäid alla linna keskuse.",
+    "Põrand on allapoole."
   ],
   "translation": [
     "down",
-    "below"
+    "below",
+    "under",
+    "downward"
   ],
-  "context": "The word 'alla' in Estonian means 'down' or 'below', and is commonly used to describe movement or location in a downward direction."
+  "context": "In Estonian, 'alla' is an adverb that means 'down', 'below', or 'under'. It indicates movement in a downward direction or position beneath something. The word can be used with various cases depending on what it's modifying - for example, 'alla mäest' (from down the mountain) shows the elative case being used after the adverb."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kaotan selle mängu",
-    "Ta kaotas oma viimase mängu",
-    "Meie kaotame sageli"
+    "Ma kaotan võimude.",
+    "Tema kaotas kõik oma raha.",
+    "Me peame kaotama selle võimaluse."
   ],
   "translation": [
     "lose",
+    "fail",
     "be defeated"
   ],
-  "context": "The word 'kaotan' is a verb in Estonian that means to lose or be defeated, it is commonly used in the context of games, competitions or other situations where someone is unable to win or succeed."
+  "context": "The word 'kaotan' is the first-person singular present form of the Estonian verb 'kaotama', which means to lose, fail, or be defeated. It's used when someone is currently in the process of losing something or experiencing a defeat. The root 'kaot-' relates to loss, and '-an' is the personal ending for 'I'. In different contexts it can refer to losing physical objects, money, games, competitions, opportunities, or abstract concepts like hope or confidence."
 }

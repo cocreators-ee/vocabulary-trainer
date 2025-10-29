@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tea paned paberile sõbra nime.",
-    "Ta paned oma asjad juba kassoni.",
-    "Ma panen endasi kohe magama, et hommikul väga vara unistada."
+    "Paned mind?",
+    "Sa paned mulle meelt.",
+    "Ei paneda midagi."
   ],
   "translation": [
-    "put (down)",
-    "placed"
+    "You put",
+    "You place",
+    "You set"
   ],
-  "context": "'Paned' is the past tense of 'pandma', which means to put or place something somewhere."
+  "context": "\"Paned\" is the second person singular form of the Estonian verb \"panna\", which means \"to put\" or \"to place\". It's used when addressing someone directly (you) in the present tense to indicate they are performing the action of putting something somewhere."
 }

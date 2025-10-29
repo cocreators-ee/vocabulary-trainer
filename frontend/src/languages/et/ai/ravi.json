@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis raviks valge leeki.",
-    "Ravi tulemus oli positiivne.",
-    "Uus ravi meetod lubab kiiremini paraneda."
+    "Ravi on vajalik haigete jaoks.",
+    "Arst annab patsiendile ravi.",
+    "See ravi aitab tal paranema."
   ],
   "translation": [
     "treatment",
-    "cure"
+    "care",
+    "therapy"
   ],
-  "context": "The word 'ravi' generally refers to a treatment or cure for an illness, and is commonly used in medical contexts to describe the process of healing or recovering from a disease."
+  "context": "The word 'ravi' is a noun in Estonian that refers to medical treatment, care, or therapy. It can be used in various contexts including healthcare settings when discussing patient care, medical procedures, or therapeutic interventions. The word is often used with the preposition 'on' (is) as in 'Ravi on vajalik haigete jaoks' (Treatment is necessary for the sick)."
 }

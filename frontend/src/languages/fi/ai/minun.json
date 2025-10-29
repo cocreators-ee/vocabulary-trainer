@@ -1,16 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun täytyy mennä kauppaan",
-    "Hän antoi minun kirjan",
-    "Se on minun auto"
+    "Minun nimeni on Anna.",
+    "Minun kirjani on kadonnut.",
+    "Hän auttaa minua koska hän rakastaa minun perhettäni."
   ],
   "translation": [
     "my",
-    "mine",
-    "I",
-    "me"
+    "mine"
   ],
-  "context": "The word minun is a possessive pronoun in Finnish, used to indicate that something belongs to the speaker, and it can be translated to English as my or mine, but it is also used as the object form of the personal pronoun I or me"
+  "context": "'Minun' is the Finnish possessive pronoun meaning 'my' or 'mine'. It's used to indicate possession and belongs to the genitive case in Finnish grammar. This word comes from the first person singular pronoun 'minä' (I), with the possessive suffix '-n added. In Finnish, possessives are commonly placed before the noun they modify, similar to English. The word can also be used alone as a standalone pronoun when the possessed object is clear from context."
 }

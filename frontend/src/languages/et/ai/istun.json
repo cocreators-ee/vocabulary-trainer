@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma istun tooli peal",
-    "Ta on istunud juba tund aega",
-    "Istun ja loen raamatut"
+    "Istun laual.",
+    "Ma istun koos perega.",
+    "Eile istime kinos."
   ],
   "translation": [
-    "sit",
-    "am sitting",
-    "to sit"
+    "I sit",
+    "I am sitting"
   ],
-  "context": "The word 'istun' is the first person singular form of the verb 'istuma', which means to sit, and it is commonly used in everyday conversations to describe the act of sitting down."
+  "context": "The word 'istun' is the first person singular present tense form of the verb 'istuma' in Estonian, meaning 'to sit'. It's used to describe the speaker currently being in a seated position. The verb follows Estonian conjugation patterns where the ending changes based on person and number."
 }

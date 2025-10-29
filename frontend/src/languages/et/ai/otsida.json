@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin seda raamatut.",
-    "Ta otsib tööd.",
-    "Nad otsivad lahendust."
+    "Ma otsin oma võtmeid.",
+    "Ta otsis kodus head raamatuid.",
+    "Meie pere otsib uut elukohta."
   ],
   "translation": [
-    "to search",
-    "to look for"
+    "to look for",
+    "to search for"
   ],
-  "context": "The word 'otsida' is commonly used in Estonian to describe the act of searching or looking for something, and it can be used in various contexts such as searching for a job, a person, or an object."
+  "context": "The word 'otsida' is an Estonian verb meaning 'to look for' or 'to search for'. It's the basic form of the verb. When conjugated, it changes according to the subject and tense: otsin (I look for), otsid (you look for), otsib (he/she/it looks for), otsime (we look for), otsite (you all look for), otsivad (they look for). This verb is commonly used in everyday situations when searching or looking for objects, people, places, or information."
 }

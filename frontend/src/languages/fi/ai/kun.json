@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kun menet pois, kiusaajat alkaa vahingoittaa.",
-    "Kun tämä sotku järjestyy, me saamme kaikki tietää siitä.",
-    "Kun he eivät löydä mitään, he lähtevät pois."
+    "Kun tulet kotiin, soita minulle.",
+    "Kun hän näki lintu, hän hymyili.",
+    "Me olemme onnellisia kun yhdessä."
   ],
   "translation": [
-    "if",
-    "when"
+    "when",
+    "while",
+    "as"
   ],
-  "context": "The word 'kun' is used to introduce a condition or time in Finnish sentences. It typically translates as 'if' when the situation is conditional and 'when' when referring to a specific point in time."
+  "context": "The Finnish word 'kun' is a conjunction that introduces time-related clauses, similar to the English words 'when', 'while', or 'as'. It's used to indicate that something happens at the same time as another action or event. In Finnish grammar, 'kun' can connect two clauses where one clause describes the time context for the main clause."
 }

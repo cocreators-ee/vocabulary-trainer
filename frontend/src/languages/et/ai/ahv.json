@@ -1,11 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ahv on väga ilus"
+    "Ahvid on väga intelligentseid loomi.",
+    "Nägin eile ahvi banaani söömas.",
+    "Selle ahvi käed olid väga pikad."
   ],
   "translation": [
-    "foal"
+    "monkey",
+    "ape"
   ],
-  "context": "A young horse, typically in its first year of life."
+  "context": "In Estonian, 'ahv' is a masculine noun that refers to monkeys or apes. It's used generally to refer to primates, similar to how English uses both 'monkey' and 'ape'. The word follows standard Estonian grammatical patterns for masculine nouns."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on vangi võttnud.",
-    "Vangid said head korda.",
-    "Vangi võtmine oli raske."
+    "Tema on vangi.",
+    "Vangid said õiguse vabaks saada.",
+    "Me peame võtma ühe kinnipeetava vangi."
   ],
   "translation": [
     "prisoner",
-    "captive"
+    "captive",
+    "inmate"
   ],
-  "context": "The word 'vangi' in Estonian refers to a person who is being held or detained, often in relation to a crime or conflict, and it can be translated to English as 'prisoner' or 'captive'."
+  "context": "The word 'vangi' in Estonian is a noun that means 'prisoner' or 'captive'. It refers to someone who is confined and deprived of their freedom, typically by being imprisoned. This word can be used for both male and female prisoners in the singular form."
 }

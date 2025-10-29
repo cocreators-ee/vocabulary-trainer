@@ -1,15 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta planeeris juba uut reisi.",
-    "Me peame oma tegevusi planeerima ette.",
-    "Planeeritud kohtumine tühistati."
+    "Lennuk lendab planeedile.",
+    "Mees külastas planeedile.",
+    "Tüdruk uuris planeedile."
   ],
   "translation": [
-    "planning",
-    "plan",
-    "scheduled"
+    "to the planet"
   ],
-  "context": "The word 'planeedile' is derived from the verb 'planeerida', which means 'to plan' or 'to schedule'. It often refers to making arrangements for future events or activities. In English, it’s commonly used in contexts like ‘event planning’, ‘business plans’, or simply describing someone who likes to organize things ahead of time."
+  "context": "The word 'planeedile' is an Estonian word that functions as a positional case form, specifically the illative case. It indicates movement toward or destination at a planet. The base word is 'planeet' (planet), and the '-le' suffix transforms it into the illative case meaning 'to/into/toward the planet'. This case is used to express motion towards something."
 }

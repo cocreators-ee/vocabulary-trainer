@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kontrollige oma telefoninumbri",
-    "Ta kontrollis oma arvutit",
-    "Kontrollige, kas see töötab"
+    "Palun kontrollige oma dokumente.",
+    "Kontrollige palun, kas olete kõik need vajalikud vormid täitnud.",
+    "Meie töötaja kontrollib teie tellimust ja kontrollib kaasatud materjale."
   ],
   "translation": [
     "check",
     "verify",
-    "control"
+    "examine",
+    "inspect"
   ],
-  "context": "The word 'kontrollige' is a verb in Estonian that means to check or verify something, and it is commonly used in various contexts such as checking one's phone number, verifying information, or controlling a system."
+  "context": "Kontrollige is the formal/plural form of the verb 'kontrollima' (to check/verify/examine). It's used when speaking to multiple people or in a formal context, meaning 'you all should check' or 'please check'. The word comes from 'kontroll' which means control or inspection. This form requires the subject to be in plural form (teie - you plural/formal) and is commonly used in service settings, instructions, or when addressing groups formally."
 }

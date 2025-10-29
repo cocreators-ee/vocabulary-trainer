@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean seda saamiseks vaja.",
-    "Ta ütles, et see on vaja selle saamiseks.",
-    "Meil on vaja veel üht dokumenti selleks, et see õnnestuks saamiseks."
+    "Mul on raha saamiseks.",
+    "Olen valmis tööle asumiseks.",
+    "Ta otsib head põhjust reisimiseks."
   ],
   "translation": [
+    "for getting",
     "in order to get",
-    "to obtain"
+    "for obtaining"
   ],
-  "context": "The word 'saamiseks' in Estonian means 'in order to get' or 'to obtain', and it is commonly used to indicate the purpose of an action, as in English 'in order to' or 'so that'."
+  "context": "The Estonian word 'saamiseks' is a translative case form of the noun 'saamine' (getting, obtaining). The '-ks' ending indicates purpose or intention - meaning something is done 'in order to get' or 'for obtaining'. It functions similarly to English expressions like 'for getting' or 'in order to get'. This construction is commonly used with verbs or activities that lead to acquiring something."
 }

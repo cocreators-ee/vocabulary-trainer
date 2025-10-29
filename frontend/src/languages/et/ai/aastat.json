@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina olin seal viimased kolm aastat.",
-    "Tema lõpetas ülikooli 2019. aasta jooksul kaks aastat.",
-    "Meie tundus, et see võtab vähemalt paarkümmend aastat."
+    "Mis aastal sa sündisid?",
+    "See oli raske aasta.",
+    "Oleme kolm aastat abielus."
   ],
   "translation": [
     "year",
     "years"
   ],
-  "context": "Used to denote the period of one or more years in past contexts."
+  "context": "The word 'aastat' is the partitive case form of the Estonian word 'aasta', which means 'year'. In Estonian, the partitive case is used to indicate partialness, indefiniteness, or after certain verbs. Here it appears to be functioning as an object complement after a number indicating duration (as in 'kolm aastat' - three years) or as an object referring to time period."
 }

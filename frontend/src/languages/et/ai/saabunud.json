@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on saabunud.",
-    "Külaline on juba saabunud.",
-    "Meie oleme alles saabunud."
+    "Saabusin kohale ja nägin, et saabunud on paljud inimesed.",
+    "Kõik saabunud said head vastuvõtu.",
+    "Meie külalised olid hiljuti saabunud."
   ],
   "translation": [
-    "arrived"
+    "arrived",
+    "come",
+    "present",
+    "newcomers"
   ],
-  "context": "The word 'saabunud' is a verb in Estonian that means to have arrived, and it is commonly used in sentences to indicate the completion of an action of coming to a place."
+  "context": "The word 'saabunud' is the past participle form of the Estonian verb 'saabuma', which means 'to arrive'. As a past participle, it functions like an adjective and describes someone or something that has arrived. It's commonly used in formal contexts to refer to guests, visitors, or people who have recently come to a place."
 }

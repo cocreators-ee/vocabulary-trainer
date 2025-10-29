@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Võtmed on laual.",
-    "Ma otsin võtuklahve.",
-    "Ta leidis võtmed tooli all."
+    "Võtmed on küünlariigis.",
+    "Kas sa oled kaotanud võtmed?",
+    "Mul on palju võtmeid."
   ],
   "translation": [
     "keys"
   ],
-  "context": "The word 'võtmed' refers to keys, such as those used to unlock doors or other locks, and is commonly used in everyday conversation to refer to these objects."
+  "context": "The word 'võtmed' is the plural form of 'võti' in Estonian. It means 'keys' and refers to multiple key objects used for opening locks or doors. In Estonian, like many other languages, nouns can have different forms depending on whether they refer to one item (singular) or more than one item (plural)."
 }

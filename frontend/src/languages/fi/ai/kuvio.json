@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mikä on tämän sähkökentän kuvio?",
-    "Kuvion tulisi olla symmetrinen akselin suhteen.",
-    "Hän piirsi pöytään kauniin kuvion."
+    "Tämä kuvio näyttää mielenkiintoiselta.",
+    "Kankaalla on kauniita kuviota.",
+    "Luonnonkuvioita löytyy monista perheenjäsenistä."
   ],
   "translation": [
     "pattern",
+    "design",
     "figure",
-    "configuration"
+    "shape"
   ],
-  "context": "The Finnish word 'kuvio' commonly refers to a pattern, figure, or configuration. It is often used in contexts such as describing visual patterns, mathematical figures, or the arrangement of elements."
+  "context": "In Finnish, 'kuvio' means pattern or design. It is a common noun used to refer to decorative patterns on textiles, wallpapers, and other surfaces. It can also refer to shapes, figures, or designs in a more general sense. The word comes from the root 'kuva' which means picture or image. Kuvio can appear in different contexts including artistic descriptions, design discussions, and everyday observations about patterns in nature or man-made objects."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ütles, et kõik on vastupidi.",
-    "Vastupidi sellele, mida nad arvasid, oli tulemus positiivne.",
-    "Ma olen veendunud, et olukord on hoopis vastupidi."
+    "Ta on vastupisi minuga eesrindlik.",
+    "Kaks last jooksid vastupidi teineteist mööda treppi.",
+    "Päike tõuseb idast ja paistab läände vastupidi."
   ],
   "translation": [
-    "on the contrary",
     "opposite",
-    "reverse"
+    "contrary to expectations",
+    "in reverse direction"
   ],
-  "context": "The word 'vastupidi' in Estonian means something that is opposite or reverse, often used to indicate a contrast or a change in direction or opinion."
+  "context": "The Estonian word 'vastupidi' is an adverb that means 'opposite' or 'in the opposite direction'. It can be used both literally (for physical directions) and figuratively (when describing situations contrary to expectations). The word breaks down as 'vasti-' (against, opposite) + '-pide' (direction), indicating its core meaning of being positioned against or in opposition to something else. When used with the genitive case ('vastupidi millelegi'), it indicates opposition to something specific."
 }

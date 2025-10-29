@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen täieliku kindlusega veendunud, et see on õige.",
-    "Ta on täielikus mõttes valmis.",
-    "Täielikuks muutumiseks vajab ta veel aega."
+    "Ta tegi täieliku pöörde.",
+    "Meie töö on veel täielikumalt lõpetamata.",
+    "Täielikus vormis oli tema etteaste imetlusväärne."
   ],
   "translation": [
     "complete",
-    "total",
-    "absolute"
+    "full",
+    "entire",
+    "whole"
   ],
-  "context": "The word 'täieliku' in Estonian means complete or total, and it is commonly used to describe something that is whole or entire."
+  "context": "The word 'täieliku' is the partitive case form of the adjective 'täie', meaning 'complete' or 'full'. It is used to indicate that something is entirely whole, finished, or comprehensive. In Estonian, adjectives change their endings based on case, number, and gender. Here, '-ku' ending indicates the partitive singular masculine/neuter form, commonly used when referring to an entire amount or complete state of something."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta rääkis aeglaselt ja selgelt.",
-    "Aeglaselt liigutas ta käed.",
-    "Kui me aeglaselt käime, siis näeme rohkem."
+    "Ta liikub aeglaselt.",
+    "Me töötame aeglaselt.",
+    "Auto sõitis aeglaselt linnast välja."
   ],
   "translation": [
     "slowly",
     "at a slow pace"
   ],
-  "context": "The word 'aeglaselt' in Estonian means to do something at a slow pace or speed, and it is commonly used to describe actions that are performed gradually or deliberately."
+  "context": "The Estonian adverb 'aeglaselt' means 'slowly' or 'at a slow pace'. It is formed by adding the '-lt' suffix to the adjective 'aeglane' (slow), which is a common way to form adverbs in Estonian. This word describes an action that takes place with low speed, without haste."
 }

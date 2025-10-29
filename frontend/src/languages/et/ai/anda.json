@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema pidi andma mulle oma nimi.",
-    "Ma ei suuda anda sind kuulda.",
-    "Kui palju sa annad selle eest?"
+    "Ma annan sulle raamatu.",
+    "Ta andis mulle kingi eelmisel nädalal.",
+    "Meie peaksime andma oma abi kõigile vajajatele."
   ],
   "translation": [
-    "to give",
     "give",
-    "grant"
+    "hand over",
+    "provide"
   ],
-  "context": "The word 'anda' is a verb in Estonian meaning 'to give'. It is commonly used to denote the action of giving something to someone, whether it's an object, information, or even abstract things like granting permission."
+  "context": "The Estonian word 'anda' is the basic verb form meaning 'to give'. It's an infinitive verb that can be conjugated in different tenses. In present tense it becomes 'annan' (I give), past tense 'andisin' (I gave), and it can take various objects depending on what is being given. The word follows Estonian grammar rules for verb conjugation and commonly appears in everyday contexts when transferring something from one person to another."
 }

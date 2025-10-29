@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on tähtsam kui sa arvad.",
-    "Tähtsamad asjad elus on perekond ja sõbrad.",
-    "Mis on sinu jaoks kõige tähtsam?"
+    "See on tähtsam küsimus.",
+    "Tema arvamus on tähtsam kui minu oma.",
+    "Kõige tähtsam asi on õppida."
   ],
   "translation": [
     "more important",
-    "significant",
-    "essential"
+    "more significant",
+    "greater importance"
   ],
-  "context": "The word 'tähtsam' in Estonian is a comparative adjective meaning 'more important'. It’s used to indicate that something holds greater significance or value than another thing. In English, it functions similarly to using 'more important than' when comparing two things."
+  "context": "The word 'tähtsam' is the comparative form of the Estonian adjective 'tähtis', which means 'important'. It translates to English as 'more important' or 'more significant'. This comparative form is used when comparing two things and indicating that one has greater importance than the other. The root word 'tähtis' derives from 'täht' meaning 'star', suggesting something stands out like a star."
 }

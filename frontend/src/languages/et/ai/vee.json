@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta joob veega täidetud klaasi.",
-    "Vee all on palju elu.",
-    "Veepuhastusseadme abil saab vett puhastada."
+    "Vesi on hea juua.",
+    "Tegelikult on vee kõrge temperatuur üsna ebamugav.",
+    "Meil pole piisavalt vett."
   ],
   "translation": [
     "water"
   ],
-  "context": "The word 'vee' in Estonian means water, which is a clear liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms."
+  "context": "In Estonian, 'vee' is the genitive case form of 'vesi', which means 'water'. The genitive case in Estonian indicates possession or relationship, similar to English possessive forms like 'of water' or constructions indicating origin/material. For example, 'vee' would be used when something belongs to, comes from, or is made of water."
 }

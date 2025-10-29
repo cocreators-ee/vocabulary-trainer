@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma teeksin hea meelega sulle kooki.",
-    "Ta tegi suure vea.",
-    "See tee viib otse randa."
+    "Tema teeks seda tööd.",
+    "Meie teeksime koos selle projekti.",
+    "Teeksid sa mind aitama?"
   ],
   "translation": [
-    "do",
-    "make",
-    "road"
+    "would do",
+    "would make",
+    "would perform"
   ],
-  "context": "The Estonian word 'teeks' is a versatile verb that can mean 'to do', 'to make', or even 'road/way' depending on the context. It’s commonly used in everyday conversation for expressing actions and intentions."
+  "context": "The word 'teeks' is the conditional mood form of the verb 'tegema', which means 'to do' or 'to make'. In Estonian grammar, this is used to express hypothetical actions or polite requests in the third person singular. It can be translated as 'would do/make/perform' and appears when talking about what someone would hypothetically do under certain conditions."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võisin seda teha",
-    "Sa võisid mind aidata",
-    "Ta võis olla õige"
+    "Ma võisin homme tööle minna.",
+    "Ta võisin eile õppida.",
+    "Meie võisin eelmisel nädalal kohtuda."
   ],
   "translation": [
     "could",
-    "was able to"
+    "was able to",
+    "managed to"
   ],
-  "context": "The word võisin is the first person singular form of the verb võima, which means to be able to or can in English. It is commonly used to express ability or possibility in the past tense."
+  "context": "The Estonian word 'võisin' is the first person singular past tense form of the verb 'võima', which means 'to be able to' or 'can'. It indicates possibility or ability in the past, similar to English 'could' or 'was able to'."
 }

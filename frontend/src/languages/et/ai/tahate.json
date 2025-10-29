@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahaksin minna kaugsile reisile.",
-    "Ta tahab saada hea töökoha.",
-    "Nemad tahavad abielluda."
+    "Tahate teiega koos minna?",
+    "Mida tahate süüa?",
+    "Nad ei taha täna õppida."
   ],
   "translation": [
-    "to want",
-    "wish"
+    "you want",
+    "you wish",
+    "you would like"
   ],
-  "context": "The word 'tahate' in Estonian means to want or wish for something, and it is commonly used in various contexts to express desire or intention."
+  "context": "The word 'tahate' is the second person plural form of the Estonian verb 'tahtma', meaning 'to want' or 'to wish'. It is used when addressing multiple people (formal or informal) and indicates desire or preference. In English, this translates to 'you want', 'you wish', or 'you would like'. The word follows the standard Estonian conjugation pattern where the infinitive form ends in '-ma', and present tense first person plural is 'tahame' (we want), while second person plural becomes 'tahate'."
 }

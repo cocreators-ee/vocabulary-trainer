@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis riided seljast.",
-    "Riided on puhas.",
-    "Ma ostan uusi riideid."
+    "Mul on uued riided.",
+    "Tema ostis rõivad kauplusest.",
+    "Kõik lapsed kannavad värvisidriide."
   ],
   "translation": [
     "clothes",
-    "garments"
+    "garments",
+    "apparel",
+    "attire"
   ],
-  "context": "The word 'riided' in Estonian refers to items that people wear to cover their bodies, and it is commonly used in everyday conversations when talking about what someone is wearing or when discussing shopping for new outfits."
+  "context": "Riided is the Estonian word for 'clothes' or 'garments'. It refers to items worn on the body, such as shirts, pants, dresses, and other apparel. The word can be used in various contexts - talking about one's own clothing, shopping for clothes, or describing what people are wearing."
 }

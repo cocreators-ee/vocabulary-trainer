@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lääne-Eesti on Eesti lääneosas asuv piirkond.",
-    "Tallinnas asub Lääne-Tallinna linnaosa.",
-    "Lääne maakond on üks Eesti maakondadest."
+    "Läänemaa on Eesti lääneosa.",
+    "Tartu asub Lõuna-Eestis, mitte läänes.",
+    "Mere tuleb põhjast ja lõunast aga ka läänest."
   ],
   "translation": [
     "west",
-    "western"
+    "western part"
   ],
-  "context": "The word 'lääne' in Estonian generally refers to the direction or location of something being in the west or western part of a region or country."
+  "context": "The Estonian word 'lääne' means 'west' or refers to the western direction/part. It can be used as a noun indicating the west, and often appears in geographical contexts like 'Läänemaa' (Western County/Region) which is one of Estonia's counties."
 }

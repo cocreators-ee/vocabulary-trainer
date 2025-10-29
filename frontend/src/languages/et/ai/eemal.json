@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen eemal tööl.",
-    "Ta on eemal reisil.",
-    "Nad on eemal linnast."
+    "Tema on eemal linnast.",
+    "Kas sa oled eemal?",
+    "Me oleme eemal ürituselt."
   ],
   "translation": [
     "away",
-    "absent"
+    "apart",
+    "separated"
   ],
-  "context": "The word 'eemal' in Estonian means being away or absent from a place, and it is commonly used to describe someone's physical absence or distance from a location."
+  "context": "The Estonian word 'eemal' is an adverb that means 'away', 'apart', or 'separated'. It indicates a position at a distance from something. In the first example sentence, it shows someone being physically away from the city. The second sentence asks if someone is away/present somewhere. The third example uses it to show they are separated from an event."
 }

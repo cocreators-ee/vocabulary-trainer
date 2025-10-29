@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole kaugel",
-    "Kaugel on parem",
-    "Ta elab väga kaugel"
+    "Kaugel on linn.",
+    "Ta elab kaugel siit.",
+    "Mees tuli kaugelt."
   ],
   "translation": [
     "far away",
-    "distantly",
-    "remotely"
+    "distant",
+    "remote"
   ],
-  "context": "The word kaugel is used in Estonian to describe something that is at a great distance, either physically or metaphorically."
+  "context": "The Estonian word 'kaugel' is an adverb that means 'far away' or 'at a distance'. It indicates a significant separation in space. This form appears to be the elative case (from where?) of the root word 'kauge', meaning far/distant. In the examples, it's used to describe locations that are distant from the speaker or reference point."
 }

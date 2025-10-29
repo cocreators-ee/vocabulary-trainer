@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta hoolib oma poja pärast.",
-    "Ära hooli, ma tegin vea.",
-    "Hoolitse enda eest!"
+    "Ta hoolib kõigest.",
+    "Ma ei tea, kas ta hoolib meist.",
+    "Kas sa hoolid lapsest?"
   ],
   "translation": [
-    "cares",
-    "worries",
-    "looks after"
+    "cares about",
+    "takes care of",
+    "is concerned with"
   ],
-  "context": "The Estonian word 'hoolib' generally means to care for someone or something, to worry about them, or to take responsibility for their well-being. It can also express concern or attention towards a person or object."
+  "context": "The Estonian word 'hoolib' is the 3rd person singular present tense form of the verb 'hoolima', which means to care, be concerned about, or take care of something or someone. It indicates that someone cares about something in the current moment."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Toote vormistamisel tuleb arvestada ka selle omadega.",
-    "See toode on mõeldud spetsiaalselt materjalide ja nende omadega töötamiseks.",
-    "Kui tean asja omadega, saan paremini hindama olukorda."
+    "Tema omadega on hea suhe.",
+    "Kas sa tuled omaenda omadega?",
+    "Meil on väga head omadega."
   ],
   "translation": [
-    "with properties",
-    "with features",
-    "with characteristics"
+    "with one's own",
+    "with one's possessions",
+    "with belongings"
   ],
-  "context": "'omadega' is the inessive form of 'omadus', meaning 'property' or 'feature'. It translates to 'with properties/features/characteristics'. Commonly used when referring to characteristics inherent to a thing or person."
+  "context": "The word 'omadega' is the inessive case (with/inside) plural form of the Estonian pronoun 'oma', which means 'one's own'. It indicates having or being accompanied by one's own things, people, or characteristics. The '-ga' suffix adds the meaning of 'with', and since it's plural, it refers to multiple items or people that belong to someone."
 }

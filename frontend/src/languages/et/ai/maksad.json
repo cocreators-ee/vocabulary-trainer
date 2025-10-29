@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mina maksin taas kinnispanna.",
-    "Ta peab maksma endale tervisekindlustust.",
-    "Kui sa ei maksa aega, siis nad võtavad sul alt asjad."
+    "Maksad arvet täna.",
+    "Sa maksad alati kõik õigeaegselt.",
+    "Kes maksas selle toitu?"
   ],
   "translation": [
-    "you pay",
-    "you would pay"
+    "pay (singular informal)",
+    "pays"
   ],
-  "context": "The word 'maksad' is the second person singular form of the verb 'maksta,' which means to pay. It can be used in both present and conditional contexts, such as 'you pay' or 'you would pay.' In everyday usage, it often appears in situations involving money transactions or obligations."
+  "context": "The word 'maksad' is the second person singular form of the verb 'maksta' in Estonian, meaning 'to pay'. It corresponds to the English 'you pay' when addressing someone informally using the 'sa' form. This is used when talking to a single person you're familiar with, not someone formal or unknown."
 }

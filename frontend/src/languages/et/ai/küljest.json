@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli küljest",
-    "Küljest näha on ilus",
-    "Meie elame küljest"
+    "Tule minu küljest lähemale.",
+    "Ta tuli küljelt poolt.",
+    "Lapsed seisid rõdul külje all."
   ],
   "translation": [
+    "from beside",
     "from the side",
-    "sideways"
+    "beside"
   ],
-  "context": "The word küljest is an adverb in Estonian that indicates something is done or seen from the side, and it is commonly used to describe the direction or perspective of an action."
+  "context": "The Estonian word 'küljest' is an adverb that means 'from beside' or 'from the side'. It indicates location or direction relative to something's side. This word comes from the root 'külg', which means 'side' in Estonian. The ending '-st' typically indicates the ablative case, showing source or origin - so 'küljest' literally means '(from) the side'. It's commonly used when describing movement away from a position beside something or when indicating someone is positioned next to something."
 }

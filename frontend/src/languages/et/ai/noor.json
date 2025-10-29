@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on noor mees.",
-    "Noored inimesed armastavad muusikat.",
-    "Noorele tüdrukule meeldib jalgpall."
+    "Noor mees on tööl.",
+    "Naised on noored ja ilusad.",
+    "See oli noor laps."
   ],
   "translation": [
     "young",
-    "youth"
+    "youthful"
   ],
-  "context": "The word 'noor' in Estonian means young or youthful, and it is commonly used to describe someone or something that is in the early stages of development or has a lively and energetic quality."
+  "context": "The Estonian word 'noor' is an adjective that means 'young'. It describes something or someone that is at a young age or in the early stage of development. The word doesn't change form when used before a noun (as Estonian adjectives generally don't have grammatical gender)."
 }

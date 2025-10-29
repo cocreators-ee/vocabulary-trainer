@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen töötanud palju aastaid.",
-    "Ta on töötanud mitmes erinevas ettevõttes.",
-    "Nad on töötanud ühiselt selle projekti kallal."
+    "Ma töötasin viimasel nädalal kodus.",
+    "Ta on juba töötanud firmas kolm aastat.",
+    "Meie meeskond on palju töötanud selle projekti kallal."
   ],
   "translation": [
     "worked",
-    "been working"
+    "has worked",
+    "labor"
   ],
-  "context": "The word töötanud is the past tense of the Estonian verb tööta, which means to work. It is commonly used to describe someone's professional experience or activities."
+  "context": "The word 'töötanud' is the past participle form of the Estonian verb 'töötama', which means 'to work'. It indicates completed action in the past. The '-nud' ending is characteristic of the perfect tense/past participle in Estonian, showing that the working has been done and completed."
 }

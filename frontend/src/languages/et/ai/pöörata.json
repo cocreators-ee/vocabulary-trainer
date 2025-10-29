@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pöörin ringi.",
-    "Ta pöörab tooli ümber.",
-    "Pöörake see ümber."
+    "Pöörasin auto ümber.",
+    "Ta pööras tähelepanu teistele asjadele.",
+    "Me peame pöörama rooli vasakule."
   ],
   "translation": [
     "to turn",
-    "to rotate"
+    "to rotate",
+    "to redirect",
+    "to change direction"
   ],
-  "context": "The word 'pöörata' in Estonian means to turn or rotate something, and it is commonly used in various contexts such as turning a chair around or rotating an object."
+  "context": "The Estonian word 'pöörata' is a versatile verb that primarily means to turn or rotate something. It can be used in various contexts: turning objects (like wheels, heads), changing direction while moving, redirecting attention or focus, and even metaphorically shifting perspective or emphasis. The verb can take different forms depending on the tense and object, such as 'pööran' (I turn) in present tense or 'pööratud' (turned) in passive voice."
 }

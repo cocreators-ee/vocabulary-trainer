@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan toidu.",
-    "Toidu valmistamine on minu lemmiktegevus.",
-    "Toidu müük on populaarne teenus."
+    "Toiduained on tähtsad meie tervise jaoks.",
+    "Müük toiduaineid on minu põhitöö.",
+    "Kas te ostate kallisemaid või odavamaid toiduaineid?"
   ],
   "translation": [
     "food",
-    "nutrition"
+    "provisions",
+    "groceries",
+    "foodstuffs"
   ],
-  "context": "The word 'toidu' in Estonian refers to food or nutrition, and it is commonly used in sentences related to eating, cooking, or selling food."
+  "context": "The word 'toidu' is the genitive singular form of the Estonian noun 'toit', which means 'food'. In this case, it functions as an adjectival modifier meaning 'of food' or 'related to food'. It's commonly used in compound words like 'toiduained' (food products) and 'toidupood' (food store)."
 }

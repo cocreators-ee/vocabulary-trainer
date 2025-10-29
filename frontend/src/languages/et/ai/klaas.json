@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta joob klaasi veini.",
-    "Klaas on täis vett.",
-    "Klaasi serva on ümmargune."
+    "Osta mind klaasi.",
+    "Tere tulemast klaas!",
+    "Klaas on kallis."
   ],
   "translation": [
-    "glass"
+    "glass (container)",
+    "drinking glass",
+    "tumbler"
   ],
-  "context": "The word 'klaas' in Estonian refers to a container, typically made of glass or plastic, used for holding liquids, and it is commonly used in everyday conversations when talking about drinking or serving beverages."
+  "context": "The Estonian word 'klaas' means a container for drinking liquids, typically made of glass material. It refers to the object itself rather than the material. In different contexts it can refer to a simple drinking glass, a tumbler, or more generally any glass container used for beverages."
 }

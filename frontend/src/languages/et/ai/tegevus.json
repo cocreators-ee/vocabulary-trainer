@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta osaleb tegevuses.",
-    "Tegevus toimub homme.",
-    "Tegevuse tulemus on hea."
+    "Tegelikult oli see tegevus väga edukas.",
+    "Kooli kõige olulisem tegevus on õpetamine.",
+    "Meie organisatsiooni peamise tegevuseks on sotsiaalne töö."
   ],
   "translation": [
     "activity",
-    "action"
+    "action",
+    "operation"
   ],
-  "context": "The word 'tegevus' in Estonian generally refers to an activity or action, and is commonly used to describe something that is being done or happening."
+  "context": "The Estonian word 'tegevus' is a noun that refers to activities, actions, or operations. It's derived from the verb 'tegema' (to do/to make) and can refer to various types of human activities, organizational work, operational processes, or general actions performed by someone or something."
 }

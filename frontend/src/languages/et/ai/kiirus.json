@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sõidab kiirusega.",
-    "Kiirus on oluline tegur võidusõidus.",
-    "Kiiruse ületamine on keelatud."
+    "Kiirus on suurim probleemi linnas.",
+    "Sõiduki kiirus peab olema alla 50 km/h.",
+    "Mees tegi kiirust ja sai trahvi."
   ],
   "translation": [
     "speed",
-    "velocity"
+    "velocity",
+    "pace"
   ],
-  "context": "The word kiirus refers to the rate at which something moves or happens, and it is commonly used in Estonian to describe the speed of vehicles, processes, or events."
+  "context": "The Estonian word 'kiirus' means speed or velocity. It refers to how fast something is moving, commonly used for vehicles, people walking, or the rate at which something happens. It can be both a noun and sometimes used in compound expressions."
 }

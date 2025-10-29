@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Järgmisena tuleb muusika",
-    "Ta rääkis järgmisena",
-    "Olen järgmisena"
+    "Järgmisena vaatame järgmist punkti.",
+    "Kõigepealt esimene punkt ja siis järgmisena teine punkt.",
+    "Kas sa tuled järgmisena esinema?"
   ],
   "translation": [
     "next",
-    "following",
-    "subsequent"
+    "then",
+    "following"
   ],
-  "context": "The word järgmisena is used in Estonian to indicate something that comes after or follows something else, often used to introduce a new topic or item in a sequence."
+  "context": "The Estonian word 'järgmisena' is an adverb that means 'next', 'then', or 'following'. It indicates the order of events or items, pointing to what comes after something else. In terms of grammar, it's formed from 'järgmine' (next) with the '-sena' suffix which often indicates a temporal or sequential position."
 }

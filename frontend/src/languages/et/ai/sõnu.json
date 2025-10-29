@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin sõnu, mis võiksid aidata mul seda mõistma.",
-    "Ta kasutas õigeid sõnu, et meile selgitada.",
-    "Need sõnad on tõepoolest väga tähtsad."
+    "Olen lugenud palju sõnu.",
+    "Selle sõna tähendus on selge.",
+    "Võõrsõnad võivad olla keerulised mõista."
   ],
   "translation": [
     "words",
-    "phrases"
+    "terms"
   ],
-  "context": "The word 'sõnu' in Estonian means 'words' and is commonly used to refer to a collection of words or phrases that convey a particular meaning or message."
+  "context": "The word 'sõnu' is the partitive plural form of the Estonian noun 'sõna', which means 'word'. In Estonian, nouns change their endings depending on case and number. The partitive case often indicates partialness or indefiniteness. So 'sõnu' refers to multiple words but in a context where they might be seen as an incomplete set, indefinite quantity, or when counting them."
 }

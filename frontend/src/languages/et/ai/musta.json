@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kandis musta kleiti",
-    "Musta suits on tema lemmik",
-    "Mustad pilved tõusevad taeva"
+    "Ta tõi musta kassi tuppa.",
+    "Mustad hobused jooksid väljakul.",
+    "Linnud lendasid mustade pilvede vahel."
   ],
   "translation": [
-    "black"
+    "black",
+    "dark",
+    "pitch-black"
   ],
-  "context": "The word 'musta' in Estonian means black, and it is commonly used to describe the color of objects or clothing."
+  "context": "The word 'musta' is the partitive case singular form of the Estonian adjective 'must', meaning 'black'. It is used when referring to a black object or objects in an incomplete sense, often as the direct object of a verb. The word can describe both literal darkness/black color and metaphorical darkness (like evil or sadness)."
 }

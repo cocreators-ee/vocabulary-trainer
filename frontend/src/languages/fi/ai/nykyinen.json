@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nykyinen tilanne on vaikea.",
-    "Hän on nykyisessä työssään erittäin onnellinen.",
-    "Nykyisen järjestelmän uudistamiseen tarvitaan paljon resursseja."
+    "Tämä on nykyinen tilanne.",
+    "Hän kertoi nykyisestä tilanteesta.",
+    "Mitä mieltä olet nykyisistä säännöistä?"
   ],
   "translation": [
     "current",
-    "present"
+    "present",
+    "existing"
   ],
-  "context": "The word 'nykyinen' in Finnish refers to something that is current or happening now, and it is commonly used to describe a situation, time period, or state of being that exists at the moment."
+  "context": "The Finnish word 'nykyinen' is an adjective that means 'current', 'present', or 'existing'. It's used to describe something that exists now or at the present time. The word can appear in different forms depending on the case and number of the noun it modifies, such as nykyinen (nominative singular), nykyistä (partitive singular), or nykyiset (nominative plural)."
 }

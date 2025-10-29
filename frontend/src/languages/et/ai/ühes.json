@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen ühes koos tema sõpradega.",
-    "Ta on ühes meiega.",
-    "Me oleme kõik ühes."
+    "Ühes toas oli kaks inimest.",
+    "Töölt koju ühes autoga sõidime.",
+    "Ühes päevas külastasin kolme linna."
   ],
   "translation": [
-    "together",
-    "in one"
+    "in one",
+    "in a single",
+    "together"
   ],
-  "context": "The word \"ühes\" in Estonian means to be together or in one, it is commonly used to describe a group of people being united or doing something collectively."
+  "context": "\"Ühes\" is the Estonian partitive case form of \"üks\", which means \"one\". In Estonian, this word typically appears with the preposition \"ühes\" meaning \"in one\" or \"in a single\" when referring to location within singular nouns, or it can mean \"together\" when used without a specific prepositional context. It is commonly used in expressions indicating something happening in one place among multiple options, or involving people doing something together."
 }

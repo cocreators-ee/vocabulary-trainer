@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kartsin hinge peale.",
-    "Hingega häälestus on oluline klaverimängudes.",
-    "Toa hinge oli külm."
+    "Tema hinge on rõõmsas meelest.",
+    "Ta näitas hinge head tarkust.",
+    "Vaimne hinge oli nii ilus."
   ],
   "translation": [
-    "key (as in musical)",
-    "keyboard",
-    "note"
+    "soul",
+    "spirit",
+    "mind"
   ],
-  "context": "The word 'hinge' can mean a key in the context of music, referring to the piano keys or a musical note. It can also refer literally as a part of a keyboard or as a musical note itself."
+  "context": "The Estonian word 'hinge' is in the partitive case of the noun 'hing', which means 'soul'. The partitive case indicates that it's referring to a portion, some, or an unspecified amount of soul/spirit. In English translations, it often corresponds to 'of the soul' or simply 'soul' depending on context."
 }

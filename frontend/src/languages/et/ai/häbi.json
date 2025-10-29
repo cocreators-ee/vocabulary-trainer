@@ -1,14 +1,14 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Miks nad tõid mulle see häbiväärne süüdistus?",
-    "Ma pole midagi selle häbiväärse tegu eest teinud.",
-    "See häbiväärne käitumine ei tohi jätta tagajärjedeta."
+    "Mul on häbi.",
+    "Ta tunneb häbi oma tegude eest.",
+    "Meil oli palju häbi selles olukorras."
   ],
   "translation": [
-    "shameful",
-    "disgraceful"
+    "shame",
+    "embarrassment",
+    "disgrace"
   ],
-  "context": "The word 'häbi' is an adjective in Estonian meaning 'shameful' or 'disgraceful'. It's often used to describe actions that bring shame or are morally wrong, typically implying a sense of dishonor."
+  "context": "The Estonian word 'häbi' is a noun that refers to the feeling of shame or embarrassment. It's used when someone feels remorse, guilt, or humiliation for their actions or situation. The word can be used in different contexts - personal feelings ('Mul on häbi' - I feel ashamed), moral feelings about one's actions ('Ta tunneb häbi oma tegude eest' - He/She feels shame for his/her deeds), or collective embarrassment in social situations ('Meil oli palju häbi selles olukorras' - We felt a lot of shame in that situation)."
 }

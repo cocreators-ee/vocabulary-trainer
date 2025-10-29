@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen sündinud Roomas.",
-    "Tema vanemad elavad Roomas.",
-    "Rooma on Itaalia pealinn."
+    "Roomas on palju ajaloolisi ehitisi.",
+    "Ma käisin Roomas viimati kolm aastat tagasi.",
+    "Rooma on üks ilusamaid linnu Euroopas."
   ],
   "translation": [
     "Rome"
   ],
-  "context": "The word 'rooma' refers to the city of Rome, which is the capital of Italy. In Estonian, it is used as a proper noun to denote the city."
+  "context": "The word 'rooma' is the Estonian form of 'Rome', referring to the capital city of Italy. It can be used in nominative case as shown in the examples, and would have different endings in other grammatical cases like 'Roomas' (in Rome), 'Rooma' (Rome/accusative), etc."
 }

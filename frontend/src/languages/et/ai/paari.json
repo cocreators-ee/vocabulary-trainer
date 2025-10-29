@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen paari aega tagasi sellest teadlik",
-    "Ta on hea paari mängija",
-    "Paari nädala pärast hakkab uus hooaeg"
+    "Ma olen paari nädala eest olnud haige.",
+    "Ta on paari aasta jooksul kaotanud palju kaalu.",
+    "Meil on veel paari päeva aega ettevalmistumiseks."
   ],
   "translation": [
-    "pair",
-    "couple",
-    "few"
+    "a few",
+    "several",
+    "couple of"
   ],
-  "context": "The word 'paari' in Estonian can be translated to English as 'pair', 'couple', or 'few', and is commonly used to refer to two things together, or a small number of something."
+  "context": "The Estonian word 'paari' is the partitive case form of ' paar', which means 'pair'. In this usage, it functions as an indefinite quantifier meaning 'a few' or 'several' when referring to a small number of items, time periods, or other countable nouns. It's commonly used with genitive plurals to express a quantity that is more than one but not many."
 }

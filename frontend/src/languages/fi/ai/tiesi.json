@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä tiesin, että hän tulee.",
-    "Hän tiesi, mitä tehdä.",
-    "He tiesivät, miten tehdä se."
+    "Tiesi totuuden salaisuuden.",
+    "Hän tiesi, että oli myöhäistä.",
+    "Tiedättekö te sen?"
   ],
   "translation": [
     "knew",
-    "was aware of"
+    "was aware of",
+    "had knowledge of"
   ],
-  "context": "The word 'tiesi' is the third person singular form of the verb 'tieta', which means to know or be aware of something. It is commonly used in Finnish language to express that someone had knowledge or understanding about a particular thing or situation."
+  "context": "The Finnish word 'tiesi' is the third person singular past tense form of the verb 'tietää', which means 'to know'. It indicates that someone had knowledge or awareness of something in the past. This conjugated form specifically refers to a single male or unspecified gender subject who knew something at a previous time."
 }

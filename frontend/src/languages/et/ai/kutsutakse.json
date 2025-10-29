@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kutsutakse Tallinna",
-    "Ta kutsutakse sageli kohtusse",
-    "Nad kutsutakse tihti konverentsile"
+    "Teda kutsutakse kontserdile.",
+    "Kõiki kutsutakse pidu.",
+    "Mind ei kutsuta üritusele."
   ],
   "translation": [
-    "is called",
-    "is invited",
-    "is summoned"
+    "is invited/are called/will be called",
+    "invited people",
+    "people being called"
   ],
-  "context": "The word 'kutsutakse' in Estonian is a passive voice verb that means to be called, invited or summoned. It is commonly used in formal and informal settings to indicate that someone is being requested to appear or participate in an event."
+  "context": "The word 'kutsutakse' is the third-person singular and plural passive form of the Estonian verb 'kutsuda'. In English, it can mean 'is invited', 'are called', or 'will be invited/called'. This form is used when someone receives an invitation or is being summoned to something. For example, when saying 'Teda kutsutakse kontserdile' (He/She is invited to the concert), the subject (the person receiving the invitation) is in the third person and the action is passive - they are not doing the inviting but are being invited."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kuulsid kuulsite seda?",
-    "Ma olen kuulnud, et see on hea film.",
-    "Kas te kuulsite, mida ta ütles?"
+    "Kuulsite seda häält?",
+    "Miks te kuulsite mind?",
+    "Meie kuulsime seda juba eile."
   ],
   "translation": [
-    "heard",
-    "listened"
+    "you heard (plural)",
+    "you listened",
+    "did you hear?"
   ],
-  "context": "The word 'kuulsite' is the second person plural form of the verb 'kuulma', which means to hear or listen in Estonian. It is commonly used in questions and statements to ask if someone has heard something."
+  "context": "The word 'kuulsite' is the past tense, plural form of the verb 'kulgema' or 'kuulama' in Estonian, meaning 'to hear' or 'to listen'. It specifically refers to the second person plural (you - formal/plural) or polite address form. In English, this would translate to 'you heard', 'you listened', or be used in questions like 'did you hear?'."
 }

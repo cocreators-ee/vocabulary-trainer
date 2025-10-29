@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma annan selle kahele lapsele.",
-    "Ta jagas oma varanduse kahele pojale.",
-    "Kahele külalisele pakuti pealeõhtupooliku veiniklaasi."
+    "Tema käis kahele poissiega kooli.",
+    "Lapsed mängsid kahele meeskonda jagatud palliga.",
+    "Poisid said kahele lemmikloomale uue pesa."
   ],
   "translation": [
     "to two",
-    "for both"
+    "for two",
+    "toward two"
   ],
-  "context": "The Estonian word 'kahele' is a dative form of the numeral 'kaks', which means two, and it is used to indicate that something is given or intended for two people or things."
+  "context": "The Estonian word 'kahele' is a partitive form that indicates direction or purpose toward something involving two entities. It's derived from the numeral 'kaks' (two) and typically appears in contexts where movement, transfer, or arrangement toward two people, objects, or groups is described."
 }

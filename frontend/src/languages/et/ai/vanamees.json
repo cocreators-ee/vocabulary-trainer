@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vanamees tuli koju.",
-    "Ta oli vanamees, kes armastas lugeda.",
-    "Vanamehed istusid pargis."
+    "Vanamees istuutas pargis.",
+    "Tema oli vanamees hea naljaga.",
+    "Vana mees tuli tuppa."
   ],
   "translation": [
-    "old man"
+    "old man",
+    "elderly man",
+    "senior citizen"
   ],
-  "context": "The word 'vanamees' is commonly used in Estonian to refer to an older male person, similar to how 'old man' would be used in English."
+  "context": "The word 'vanamees' in Estonian is a compound word consisting of 'vana' (old) and 'mees' (man). It refers specifically to an elderly or old man. This term can be used both neutrally and with some respect, though context may affect the connotation. The word combines age ('vana') with gender ('mees'), making it a specific descriptor for male elders rather than just any older person."
 }

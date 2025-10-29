@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean niiviisi.",
-    "Ta ütles mulle niiviisi.",
-    "Niiviisi see on."
+    "Tegime niiviisi kõik ära.",
+    "Niiviisi on meie lemmitud meetod.",
+    "Ta rääkis niiviisa selgeselt."
   ],
   "translation": [
-    "like that",
-    "in that way"
+    "in this way",
+    "thus",
+    "so",
+    "like this"
   ],
-  "context": "The word niiviisi is used in Estonian to describe something that is done or happens in a certain manner, similar to the English phrase 'like that' or 'in that way'. It is often used to provide more information about how something was said or done."
+  "context": "The Estonian word 'niiviisi' is an adverb that means 'in this way', 'thus', or 'so'. It's used to indicate a manner or method of doing something, similar to how we use expressions like 'this way' or 'like this' in English. The word doesn't change form for different grammatical contexts and functions as an intensifier or demonstrative adverb."
 }

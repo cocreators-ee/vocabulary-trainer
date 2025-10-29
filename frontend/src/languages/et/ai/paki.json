@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma panen asjad pakki.",
-    "Palun paki see kast kinni.",
-    "Ta on väga hea pakis."
+    "Paki mind sisse.",
+    "Tema paks on väga suur.",
+    "Kas sa saad mulle pakkida?"
   ],
   "translation": [
-    "bag",
-    "package",
-    "packing"
+    "put in",
+    "place inside",
+    "pack up",
+    "wrap"
   ],
-  "context": "The word 'paki' in Estonian can refer to a bag or package, but also the act of packing something. It’s a versatile word used in various contexts related to containing or preparing items for transport."
+  "context": "The Estonian word 'paki' is the imperative form of the verb 'pakkima', meaning 'to put in' or 'to place inside'. It's used as a command to tell someone to put something into something else. The word can also be related to packaging concepts, as it comes from the same root as 'pakend' (package). In different contexts, it might refer to packing items, wrapping objects, or placing things within containers."
 }

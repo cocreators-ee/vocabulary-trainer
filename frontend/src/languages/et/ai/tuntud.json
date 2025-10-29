@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on tuntud laulja.",
-    "Tuntud kirjanik külastas meie linna.",
-    "See on tuntud fakt."
+    "Tema on tuntud näitleja.",
+    "See koht on väga tuntud turismisihtkoht.",
+    "Olen kuulnud, et tegemist on tuntud probleemiga."
   ],
   "translation": [
-    "known",
+    "well-known",
     "famous",
-    "notable"
+    "known",
+    "recognized"
   ],
-  "context": "The word 'tuntud' in Estonian means something or someone that is widely recognized or has a certain level of fame, and it is commonly used to describe public figures, celebrities, or well-known facts."
+  "context": "The word 'tuntud' is the past participle form of the Estonian verb 'tundma', which means 'to know'. In its adjectival form, it describes something or someone that is widely known, famous, or recognized. It can be used to describe people (famous individuals), places (well-known locations), things (recognized concepts), or issues (known problems). The word agrees in number and case with the noun it modifies."
 }

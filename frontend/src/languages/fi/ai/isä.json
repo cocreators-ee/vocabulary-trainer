@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Isä tuli kotiin myöhään.",
-    "Hän on minun isäni.",
-    "Isällä on auto."
+    "Minun isä on lääkäri.",
+    "Isän syntymäpäivää juhlitaan huomenna.",
+    "Hän sai perinnön isältään."
   ],
   "translation": [
     "father",
-    "dad"
+    "dad",
+    "papa"
   ],
-  "context": "The word is used to refer to one's male parent or a father figure, similar to the English word 'father'."
+  "context": "The Finnish word 'isä' means 'father' in English. It's the basic form of this kinship term, used when referring to one's own father or speaking about fathers in general. In possessive constructions with family members like 'minun isäni' (my father), it takes the suffix '-n-' and then the possessive suffix '-i'. The word can be found in various contexts including family conversations, storytelling, and official documents."
 }

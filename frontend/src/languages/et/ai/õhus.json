@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on õhus.",
-    "Linn on õhus.",
-    "Õhus on ilus."
+    "Õhus on palju heaolu.",
+    "Kodus on väga õhus.",
+    "Tänaval ei ole head õhus."
   ],
   "translation": [
     "in the air",
-    "up in the air"
+    "in the atmosphere"
   ],
-  "context": "The word õhus is an adverb in Estonian that means something is located in the air or is up in the air, and it is commonly used to describe the location of objects or events."
+  "context": "The Estonian word 'õhus' means 'in the air' or 'in the atmosphere'. It is the inessive case (locative case indicating location within something) of the noun 'õhk', which means 'air'. The '-s' ending indicates that it's referring to being inside or within air. This form would be used when talking about something existing within the air, such as pollutants being in the air, or air quality conditions."
 }

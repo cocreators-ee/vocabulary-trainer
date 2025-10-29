@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hetkel tööl.",
-    "Hetkel on tal palju kohustusi.",
-    "Ta on hetkel väga kiirene."
+    "Hetkel on ilus ilm.",
+    "Me oleme hetkel Tallinnas.",
+    "Kuidas sa hetkel tunned?"
   ],
   "translation": [
     "at the moment",
     "currently",
-    "now"
+    "right now"
   ],
-  "context": "The word 'hetkel' in Estonian is used to describe something that is happening or true at the present time, similar to how 'at the moment' or 'currently' would be used in English."
+  "context": "The Estonian word 'hetkel' means 'at the moment', 'currently', or 'right now'. It is an adverb that indicates the present time when something is happening. The word comes from 'hetk' (moment) and the suffix '-el', which in Estonian often indicates location or state. So literally it could be understood as 'in the moment' or 'at this moment'. This word is commonly used in everyday conversation to specify that what you're referring to is true at this particular time, though it may change later."
 }

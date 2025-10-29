@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma kipasin naiste vahel.",
-    "Naiste suhtes peaksid mehed olema austuslikud.",
-    "Koolis toimub naiste ja meeste eraldatud treeningud."
+    "Ei naist naist naist.",
+    "Naist pole siin täna.",
+    "Mul on naist."
   ],
   "translation": [
-    "women",
-    "female"
+    "women (partitive case)",
+    "no women",
+    "without women"
   ],
-  "context": "The word 'naist' refers to women or the female gender. It is commonly used in contexts discussing groups of women, gender-related topics, or when specifying something exclusive to females."
+  "context": "The word 'naist' is the partitive form of 'naine' meaning 'woman'. In Estonian, the partitive case often indicates an incomplete or partial action. 'Naist' can be used with negative verbs to indicate absence (e.g., 'Ei naist' means 'no women'), or as a postposition indicating lack or exclusion (e.g., 'Mul on naist' means 'I have without women')."
 }

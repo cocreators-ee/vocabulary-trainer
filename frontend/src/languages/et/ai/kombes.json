@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Politsei kombes tuli kohale.",
-    "Kombes vaatas ringi ja küsis, mis juhtunud on.",
-    "Ta oli endine kombes."
+    "Tööl on kombes.",
+    "Miks sa oled nii kombes?",
+    "Ta käis kombeselt koju."
   ],
   "translation": [
-    "police officer",
-    "constable",
-    "law enforcement officer"
+    "awkward",
+    "embarrassing",
+    "unpleasant"
   ],
-  "context": "The word 'kombes' in Estonian refers to a police officer or constable. It is commonly used to denote someone who enforces the law and maintains order, similar to how we use 'police officer' in English."
+  "context": "The Estonian word 'kombes' is an adjective that describes something as awkward, embarrassing, or unpleasant. It often refers to social situations that cause discomfort or embarrassment. The word can be used to describe behavior, situations, or feelings of unease."
 }

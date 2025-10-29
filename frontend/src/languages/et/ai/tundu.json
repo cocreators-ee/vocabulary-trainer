@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mulle tundub, et ta on õnnelik.",
-    "See tundub olevat hea mõte.",
-    "Tundus, et keegi koputas ukse peal."
+    "Tundu, et see on hea idee.",
+    "Mul tundu, et ta ei tule täna kohale.",
+    "Meile tundu, et peaksime edasi liikuma."
   ],
   "translation": [
-    "seem",
-    "feel",
-    "appear"
+    "to seem",
+    "to appear",
+    "to feel"
   ],
-  "context": "The verb 'tundu' in Estonian is similar to 'to seem', 'to feel', or 'to appear' in English. It expresses a subjective impression or how something strikes someone. It can also indicate an apparent state of being."
+  "context": "The word 'tundu' is the third-person singular form of the Estonian verb 'tundma', which means 'to seem', 'to appear', or 'to feel'. It's used when someone has a perception or impression about something. In English, it corresponds to phrases like 'it seems', 'it appears', or 'I/they/we feel'. The word is commonly used in expressions where someone wants to express their subjective opinion or feeling about a situation."
 }

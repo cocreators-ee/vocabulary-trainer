@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Magneetti veti rautaa puoleensa.",
-    "Magneetit ovat hyvin voimakkaita.",
-    "Hänen koulussaan oli magneetteja fysiikan tunnilla."
+    "Magneetti vetää metalliesineitä itseensä.",
+    "Täällä on heikko magneettikenttä.",
+    "Pöytämagneetit ovat hyödyllisiä kotona."
   ],
   "translation": [
-    "magnet"
+    "magnet",
+    "magnetic"
   ],
-  "context": "The word magneetti refers to an object that produces a magnetic field, and it is commonly used in scientific and everyday contexts to describe magnets or magnetic forces."
+  "context": "The Finnish word 'magneetti' means magnet in English. It refers to a material or object that produces a magnetic field, capable of attracting certain materials like iron and steel. The word is used in various contexts from everyday objects like refrigerator magnets to scientific applications involving electromagnets."
 }

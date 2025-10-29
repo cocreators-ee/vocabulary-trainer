@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kukka on kaunis.",
-    "Hän osti kukat vaimolleen.",
-    "Kukkia löytyy puutarhasta."
+    "Kukka kauniisti kukkii keväällä.",
+    "Minulla on kukka kotona.",
+    "Tämä kukka vaatii paljon valoa."
   ],
   "translation": [
-    "flower"
+    "flower",
+    "bloom",
+    "blooming"
   ],
-  "context": "The word 'kukka' refers to a type of plant that is often given as a gift or used for decorative purposes, and it is commonly used in Finnish to describe something beautiful or delicate."
+  "context": "The Finnish word 'kukka' means 'flower' in English. It's a common noun referring to the colorful, often fragrant part of plants that is used for reproduction. In Finnish grammar, 'kukka' follows regular noun conjugation patterns. When pluralized, it becomes 'kukat', meaning 'flowers'. The word can also be used in various contexts like describing someone as beautiful (e.g., 'sinä olet kukka'), though this is more poetic and less common."
 }

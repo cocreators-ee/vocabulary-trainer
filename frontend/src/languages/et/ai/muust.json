@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin muusi kartulist.",
-    "See muus on väga maitsev.",
-    "Kas sa tahad rohkem muusi?"
+    "Muust ei saa midagi ära.",
+    "Ta ostis muu müügist.",
+    "Kas sa tead, mis on muust?"
   ],
   "translation": [
-    "mash",
-    "puree"
+    "other than",
+    "apart from",
+    "besides"
   ],
-  "context": "The word 'muus' in Estonian refers to mashed or pureed food, most commonly potatoes. It is a common side dish and can also refer to other types of fruit or vegetable puree."
+  "context": "The Estonian word 'muust' is an elative case form of the pronoun 'muu', meaning 'other'. It indicates coming out from or away from something else. This grammatical case (elative) shows movement or origin from within a place or thing. In English, it can be translated as 'other than', 'apart from', or 'besides' when indicating exclusion or difference."
 }

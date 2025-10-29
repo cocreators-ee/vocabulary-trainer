@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Need on samad inimesed",
-    "Ta ütles, et nad on samad",
-    "Samad probleemid esinesid eelmisel aastal"
+    "Nemad on samad.",
+    "Meil on samad huvid.",
+    "Tema ja tema õde näevad välja nagu samad inimesed."
   ],
   "translation": [
     "same",
     "identical",
-    "equal"
+    "alike"
   ],
-  "context": "The word 'samad' is an adjective in Estonian that means 'same' or 'identical', it is commonly used to describe things that are equal or identical in nature or character."
+  "context": "The Estonian word 'samad' is the plural nominative form of the adjective 'sama', meaning 'same'. It is used to describe that multiple things or people are identical, similar, or alike. In English, this corresponds to words like 'same', 'identical', or 'alike'. The word agrees in number and case with the nouns it modifies."
 }

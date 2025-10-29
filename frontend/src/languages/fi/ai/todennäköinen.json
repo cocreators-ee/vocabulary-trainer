@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Todennäköinen syypä on sairauden aiheuttaja",
-    "Hänen vastauksensa oli todennäköisesti oikein",
-    "Todennäköisyys teorian totuudesta voidaan laskea"
+    "Todennäköisesti huomenna tulee sateista.",
+    "Tämä on todennäköin selitys tapahtumalle.",
+    "Onko sinulla todennäköisyyttä voittaa kilpailu?"
   ],
   "translation": [
     "likely",
     "probable",
-    "plausible"
+    "possible"
   ],
-  "context": "The word todennäköinen is an adjective in Finnish that means likely or probable, and it is commonly used to describe the likelihood of something happening or being true."
+  "context": "The Finnish word 'todennäköinen' is an adjective that means 'likely', 'probable', or 'possible'. It refers to something that has a high probability of being true, happening, or existing. The word comes from 'todellisuus' (reality) and indicates what is in accordance with reality or likely to be real."
 }

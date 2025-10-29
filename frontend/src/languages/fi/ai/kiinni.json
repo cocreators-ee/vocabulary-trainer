@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän sai kiinni rosvojen.",
-    "Kiinni olet!",
-    "Olen saanut kiinni vihollisesta."
+    "Kiinni pysyminen on tärkeää liikenteessä.",
+    "Ovi oli kiinni.",
+    "Lapsi piti kättään kiinni äidin kädestä."
   ],
   "translation": [
-    "catch",
-    "grip",
-    "hold"
+    "closed",
+    "fastened",
+    "tight",
+    "stuck",
+    "caught"
   ],
-  "context": "The word 'kiinni' in Finnish generally means to catch or get hold of something, and it is commonly used in various contexts such as catching a thief, holding onto an object, or grasping an idea."
+  "context": "The Finnish word 'kiinni' is an adverb that indicates something is closed, fastened, tight, stuck or caught. It's commonly used to describe doors being shut (ovi on kiinni), things being held tightly (pitää kiinni), or someone/something being caught/caught in the act (saada kiinni). The word can also function as a particle indicating direction toward something."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Olen alati valmis hakakama sõita.",
-    "Ta hakkas kohe tegelema probleemiga.",
-    "Ära hakka midagi tegema ilma nõusolekuta."
+    "Hakake tööga!",
+    "Kas te hakkate homme?",
+    "Ma ei hakanud veel."
   ],
   "translation": [
-    "to start doing something",
-    "beginning to do",
-    "starting"
+    "start",
+    "begin",
+    "commence"
   ],
-  "context": "The word 'hakake' in Estonian is a verb meaning to begin or start an action. It is commonly used in everyday situations where someone starts performing a task or engaging in an activity."
+  "context": "The word 'hakake' is the second person plural imperative form of the Estonian verb 'hakkama', meaning 'to start' or 'to begin'. It's used when telling a group of people to begin doing something. The imperative mood gives a command or instruction, and the plural form indicates it's addressed to multiple people."
 }

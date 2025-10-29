@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta vaatas mind silma.",
-    "Silmad on suured ja ilusad.",
-    "Ma kardan, et ma kaotan silma valguse."
+    "Tema silmad olid sinised.",
+    "Ma nägin tema silmas pisaraid.",
+    "Tal on ilusad silmad."
   ],
   "translation": [
-    "eye",
-    "sight"
+    "eyes",
+    "eye"
   ],
-  "context": "The word 'silma' in Estonian refers to the eye or sight, and is commonly used in expressions related to vision or looking at something."
+  "context": "\"Silma\" is the partitive case form of \"silm\" (eye) in Estonian. It's used when you're talking about some eyes or a portion of eyes, often seen in contexts like \"ta oli oma silmas pisaraid\" (he had tears in his eye). The word \"silm\" means 'eye' and the partitive case indicates that it's an incomplete action or state."
 }

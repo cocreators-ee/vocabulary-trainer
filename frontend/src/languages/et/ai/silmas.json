@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma pean silmas, et kõik on korras.",
-    "Tema silmas näha muret.",
-    "Ära vaata vaid silma-silma."
+    "Tere silmas!",
+    "Ma vaatan sind silma pilguga.",
+    "Ta näeb oma last silmadest."
   ],
   "translation": [
-    "eyes",
-    "in mind",
-    "mind"
+    "in one's eyes",
+    "with one's gaze",
+    "visually"
   ],
-  "context": "The word 'silmas' in Estonian can refer to the physical eyes, as well as figurative expressions like having something in mind or looking directly into someone's eyes."
+  "context": "The Estonian word 'silmas' is an inessive case form of the word 'silm' (eye). It typically appears after verbs like 'näha' (to see) or 'vaadata' (to look/watch), and indicates that something is being looked at with one's eyes. This prepositional construction shows what someone is focusing their vision on."
 }

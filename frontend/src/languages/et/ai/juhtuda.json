@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See juhtus mulle eile.",
-    "Ta on juhtunud mitmeid katastroofe.",
-    "Juhtuda võib igaühele."
+    "Täna juhtub midagi head.",
+    "Juhtub nii et meil oli aega piisavalt.",
+    "Ei midagi ei juhtu ilma põhjuseta."
   ],
   "translation": [
     "to happen",
-    "occur"
+    "to occur",
+    "to take place"
   ],
-  "context": "The word 'juhtuda' in Estonian means to happen or occur, and it is commonly used to describe an event that takes place."
+  "context": "The verb 'juhtuda' in Estonian means to happen, occur or take place. It is an impersonal verb used when talking about events that happen without a specific agent doing the action. For example: 'Täna juhtub midagi good' (Today something good will happen). The word comes from 'juht-' meaning 'to lead' but in this form it's used for occurrences and events rather than leadership."
 }

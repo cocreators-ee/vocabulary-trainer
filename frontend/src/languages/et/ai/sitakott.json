@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma läksin poodi sitakotiga.",
-    "Kas sa võtaksid sitakoti kaasa?",
-    "See on väga tugev sitakott."
+    "Ta istub kodus ja loeb raamatuid.",
+    "Me istume koos lõuna ajal.",
+    "Kas sa istud praegu töölaua taga?"
   ],
   "translation": [
-    "plastic bag",
-    "carrier bag",
-    "shopping bag"
+    "sit down",
+    "be seated",
+    "take a seat"
   ],
-  "context": "The word 'sitakott' in Estonian commonly refers to a plastic or carrier bag, used for carrying groceries or other items. It is a relatively informal term."
+  "context": "The word 'sitakott' appears to be an Estonian word, but it's not immediately clear what it means. I'll try to analyze this word: 'istu-' relates to sitting or being seated (from the verb istuda - to sit), and '-kott' could mean bag or sack in some contexts. However, I'm not confident about this analysis as I don't recognize this specific word form in Estonian. It might be a specialized term or potentially a misunderstanding of the word form."
 }

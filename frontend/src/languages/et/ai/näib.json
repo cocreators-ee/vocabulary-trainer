@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta näib olevat väga õnnelik.",
-    "Näib, et tal on probleeme.",
-    "See näib olevat tema lemmikraamat."
+    "Näib et ta on väga hea õpetaja.",
+    "Mida see näib?",
+    "Väga ilus see näib!"
   ],
   "translation": [
     "seems",
-    "appears"
+    "appears",
+    "looks like"
   ],
-  "context": "The word 'näib' is a verb in Estonian that means to seem or appear, and it is commonly used to describe how something looks or feels without being certain about it."
+  "context": "The Estonian word 'näib' is the third person singular present form of the verb 'näima', which means 'to seem' or 'to appear'. It's used to express how something appears from an observer's perspective, similar to English words like 'seems', 'appears', or 'looks like'. This form is used with singular subjects in the present tense when describing what seems to be true or how something looks."
 }

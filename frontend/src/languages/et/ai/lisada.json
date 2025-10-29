@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma soovin lisada veel üks asi.",
-    "Lisage see loetelusse.",
-    "Ta lisas oma nimekirja veel ühe eseme."
+    "Ma pean lisama veel ühe lehe dokumenti.",
+    "Kas sa võiksid mulle lisada oma telefoninumber?",
+    "Tegelikult peaksime sellele lisama ka kommentaare."
   ],
   "translation": [
     "to add",
-    "addition"
+    "to append",
+    "to include"
   ],
-  "context": "The word 'lisada' is commonly used in Estonian to mean adding something to something else, and it can be used in various contexts such as adding an item to a list or adding a feature to a product."
+  "context": "The Estonian word 'lisada' is a verb that means 'to add'. It's used when you want to indicate that something should be included or attached to something else. The root form 'lisada' is the infinitive, and it can be conjugated for different persons and tenses. For example, 'lisan' (I add), 'lisab' (he/she/it adds), 'lisame' (we add). It's commonly used in both formal and informal contexts when referring to adding items to a list, information to a document, or content to something existing."
 }

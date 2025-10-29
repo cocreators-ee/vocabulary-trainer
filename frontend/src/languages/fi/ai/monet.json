@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Monet ihmiset ovat menettäneet työnsä.",
-    "Hänellä on monet ystävät.",
-    "Monella tavalla voidaan ratkaista tämä ongelma."
+    "Monet ihmiset käyvät töissä joka päivä.",
+    "Hänellä on monta ystävää.",
+    "Olemme nähneet monia elokuvia."
   ],
   "translation": [
     "many",
-    "several"
+    "several",
+    "numerous"
   ],
-  "context": "The word 'monet' in Finnish is used to describe a large, but indefinite number of something, similar to the English words 'many' or 'several'."
+  "context": "The Finnish word 'monet' is the plural form of 'moni', which means 'many' or 'several'. It's used to indicate a large quantity of people, things, or concepts. In the examples shown, it appears in different forms: as 'monet' (nominative plural), 'monta' (partitive singular), and 'monia' (partitive plural). This demonstrates how Finnish changes word endings based on grammatical case and number."
 }

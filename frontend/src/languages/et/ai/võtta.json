@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtsin raamatu laualt.",
-    "Ta võttis mind käest kinni.",
-    "Nad võtsid koos pildi."
+    "Ma võtan selle raamatu ära.",
+    "Ta võttis kinni oma lapse käest.",
+    "Võtmeid on vaja avuks."
   ],
   "translation": [
     "to take",
-    "to capture"
+    "to get",
+    "to catch",
+    "to receive"
   ],
-  "context": "The word 'võtta' in Estonian means to take or capture something, and it is commonly used in various contexts such as taking an object, capturing a moment, or taking someone's hand."
+  "context": "The Estonian word 'võtta' is a versatile verb that primarily means 'to take'. It's commonly used in everyday situations when referring to physically taking something, getting something, catching something, or receiving something. This verb belongs to the -a/-ma verb group and is irregular, as it has different stems in present (võta-) and past tense forms (võtt-). The word can be conjugated in various tenses and moods depending on context."
 }

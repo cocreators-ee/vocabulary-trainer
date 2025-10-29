@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen suurema osa ajast tööl.",
-    "Ta on suurema osa elust elanud välismaal.",
-    "Suurema tõenäosusega on see hea märk."
+    "See on suurem maja kui eelmine.",
+    "Ta sai suuremat palga kui teised.",
+    "Meie plaanid muutusid suurematesse."
   ],
   "translation": [
-    "bigger",
     "larger",
+    "bigger",
     "greater"
   ],
-  "context": "The word suurema is an adjective in Estonian that means bigger, larger, or greater, and it is commonly used to compare sizes or quantities."
+  "context": "Suurema is the comparative form of the Estonian adjective 'suur' (big/large). It means 'larger', 'bigger', or 'greater' and is used to compare two things, indicating that one has more size, quantity, or degree than another. The '-a' ending indicates it's in the partitive case, which is commonly used with comparatives in Estonian."
 }

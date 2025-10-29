@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Sa lõpetad oma töö täna.",
-    "Ta küsis, kas ma lõpetan õpingud järgmise aasta.",
-    "Rohkem ei saa me sellest rääkida, muidu läheb kõik lõpetada."
+    "Sa lõpetad kooli aastal 2024.",
+    "Ta lõpetas töö kell viis.",
+    "Meie lõpetame projektse järgmisel nädalal."
   ],
   "translation": [
-    "you end",
-    "you finish",
-    "you conclude"
+    "finish",
+    "complete",
+    "end"
   ],
-  "context": "'lõpetad' is the second person singular form of 'to end' or 'to finish'. It is commonly used in daily conversations when referring to ending an activity, completing a task, or concluding something. The word can be both literal and metaphorical."
+  "context": "The word 'lõpetad' is the second person singular present form of the Estonian verb 'lõpetama', which means 'to finish' or 'to complete'. It is used when addressing someone directly (you) in the present tense to indicate that they are finishing or completing something. For example, 'Sa lõpetad kooli aastal 2024' means 'You will graduate from school in 2024.' The word follows Estonian conjugation patterns where the ending changes based on person and number."
 }

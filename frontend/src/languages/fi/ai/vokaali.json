@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vokaali on äänne, jota voidaan muodostaa ilman, että kieli tai huulet estävät äänen kulkua.",
-    "Vokaalit ovat tärkeitä kielellisessä viestinnässä.",
-    "Sanan vokaali muoto voi vaihdella riippuen siitä, mihin kontekstiin se liittyy."
+    "Suomessa on vokaaleja a, e, i, o, u ja y.",
+    "Vokaalit ovat ääntämykseltään avoimia konsonantteja.",
+    "Tämä sana sisältää kolme vokaalia."
   ],
   "translation": [
     "vowel",
-    "vocal sound"
+    "a letter representing a vowel sound"
   ],
-  "context": "A vowel is a type of sound used in spoken language that is made without blocking the airflow with the tongue or lips."
+  "context": "The Finnish word 'vokaali' means 'vowel'. It refers to one of the letters in the alphabet that represents a vowel sound rather than a consonant sound. In Finnish, the vowels are a, e, i, o, u, y, and sometimes ä and ö. The word can be used both to refer to the concept of a vowel in general or specifically to a letter representing a vowel sound."
 }

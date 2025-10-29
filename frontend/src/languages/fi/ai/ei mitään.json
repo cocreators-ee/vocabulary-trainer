@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla ei ole mitään",
-    "Hänellä ei ollut mitään sanaa",
-    "Heillä ei ollut mitään valittamista"
+    "En halua mitään erityistä.",
+    "Hän ei sanonut mitään.",
+    "Meillä ei ollut mitään ruokaa."
   ],
   "translation": [
-    "nothing",
-    "not a thing"
+    "nothing at all",
+    "not anything",
+    "at all"
   ],
-  "context": "The phrase 'ei mitään' is commonly used in Finnish to convey that there is nothing or not a thing, often used as a response to indicate the absence of something."
+  "context": "The Finnish phrase 'ei mitään' is a negative expression that means 'nothing at all' or 'not anything'. It consists of two parts: 'ei' (no/not) and 'mitään' (anything). This construction is used to emphasize the complete absence or lack of something. When translated, it conveys the idea that there is absolutely nothing present or happening."
 }

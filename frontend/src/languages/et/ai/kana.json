@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan kanat.",
-    "Kana on minu lemmiktoit.",
-    "Kanalihha on väga populaarne."
+    "Kana sööb maisi.",
+    "Kanal on valge sulg.",
+    "Ma tahan süüa kanapasti."
   ],
   "translation": [
     "chicken",
     "hen"
   ],
-  "context": "The word 'kana' in Estonian refers to a chicken or hen, and it is commonly used in everyday language when talking about food or animals."
+  "context": "The word 'kana' in Estonian refers to a chicken or hen. It can be used as both a singular noun and can appear in different grammatical forms. In the first example, 'kana' is used as the subject meaning 'the chicken eats corn'. In the second example, 'kanal' means 'on the chicken' (using the elative case). In the third example, 'kanapasti' means 'chicken pasta', showing how it can be combined with other words to form compound nouns."
 }

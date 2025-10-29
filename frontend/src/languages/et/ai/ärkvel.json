@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Olen alati õhtul ära puhata ja siis olen liiga ärkvel, et und saada.",
-    "Kui ma ei joo kohvi, jään liiga vähe ärkvel.",
-    "Ta tegi nii palju hommikust peale, et ta läks soojendusele ja jäi äärmiselt äriklikuks."
+    "Tema on ärkvel hommikul kella seitsme paiku.",
+    "Lapsed ei ole veel ärkvel.",
+    "Kas sa oled juba ärkvel?"
   ],
   "translation": [
     "awake",
+    "conscious",
     "alert"
   ],
-  "context": "'ärkvel' means being awake or alert. It's commonly used to describe someone who is not asleep and mentally alert."
+  "context": "The Estonian word 'ärkvel' means awake or conscious. It's used to describe someone who is no longer asleep and has regained consciousness. The word comes from the verb 'ärkama' which means to wake up. When describing a person as 'ärkvel', it indicates they are fully conscious and aware of their surroundings, not just physically awake but mentally alert as well."
 }

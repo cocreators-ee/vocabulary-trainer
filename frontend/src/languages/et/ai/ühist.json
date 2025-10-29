@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on ühist toe võtnud.",
-    "Ühist majandamist peetakse üha olulisemaks.",
-    "Ühistu liikmed otsustavad ühiselt."
+    "Ühist tööd on alustatud.",
+    "Meie ühist eesmärk on õnnestuda.",
+    "Nad jagavad üist elamist."
   ],
   "translation": [
     "common",
-    "joint",
-    "shared"
+    "shared",
+    "joint"
   ],
-  "context": "The word \"ühist\" in Estonian refers to something that is shared or common among multiple people or entities, and it is often used to describe joint ownership, shared responsibilities, or collective decision-making."
+  "context": "The word 'ühist' is the partitive case form of the Estonian adjective 'ühine', which means 'common' or 'shared'. In this form, it typically follows a noun to indicate that something is shared among people. It's used when referring to collective efforts, common goals, or shared living arrangements."
 }

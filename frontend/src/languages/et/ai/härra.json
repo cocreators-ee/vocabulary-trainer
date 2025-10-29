@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Härra tuli meile külastama.",
-    "See härra on väga kõrgelt hinnatud.",
-    "Ta oli härra, kes ei rääkinud palju."
+    "Tere tulemast härraga Smith!",
+    "Härra Jones on meie uus kolleeg.",
+    "Kas te olete härra Johnson?"
   ],
   "translation": [
-    "mister",
+    "Mr.",
     "sir",
     "gentleman"
   ],
-  "context": "The word härra is a title of respect used to address a man in Estonian, similar to 'mister' or 'sir' in English."
+  "context": "The word 'härra' is the Estonian equivalent of 'Mr.' in English. It's a formal title used before a man's last name to show respect, similar to how 'Mister' is used in English. The word is always capitalized when used as a title and follows standard Estonian grammar rules for addressing men formally."
 }

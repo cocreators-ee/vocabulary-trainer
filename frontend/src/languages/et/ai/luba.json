@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on luba selleks.",
-    "Ta lubas mulle abi.",
-    "Luba on vajalik selle tegevuse jaoks."
+    "Mul on luba sellele tööle.",
+    "Ta saab luba koolist lahkuda.",
+    "Kas teil on luba sellele hoonele siseneda?"
   ],
   "translation": [
     "permission",
-    "allowance",
-    "consent"
+    "license",
+    "allowance"
   ],
-  "context": "The word 'luba' in Estonian generally refers to the concept of giving or receiving permission, consent, or an allowance for something to happen or be done, and it is commonly used in formal and informal contexts to convey the idea of granting or obtaining approval."
+  "context": "The Estonian word 'luba' is a noun that means permission, license, or allowance. It refers to official authorization to do something or the right to perform certain actions. In Estonian grammar, it can be used in various cases depending on its function in the sentence - nominative case (luba), genitive case (loa), partitive case (lubad/lubu), etc."
 }

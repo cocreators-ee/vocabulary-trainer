@@ -1,15 +1,14 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Ma vajane koolitust.",
-    "Ta vaikis ja seejärel ütles: \"Vaanke, aga ma ei tea.\" ",
-    "Mulle puudub teadmiste tasem... või olen lihtsalt pigem rahulik."
+    "Te vajate abi?",
+    "Kas te vajate midagi veel?",
+    "Vajame rohkem aega."
   ],
   "translation": [
-    "I need",
-    "lack",
+    "need",
+    "require",
     "want"
   ],
-  "context": "'vajane' is used to express a need or lack of something, commonly in contexts like requiring assistance, missing knowledge, or desiring an object. It can be translated as 'need', 'lack', or 'want', depending on context."
+  "context": "The word 'vajate' is the 2nd person plural (formal) form of the verb 'vajama', which means 'to need' or 'to require'. It's used when addressing multiple people formally, equivalent to 'you need' in English. This form specifically matches the formal plural address 'te' (you - formal plural)."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Seadus on kirjutatud riigi põhiseaduses.",
-    "Ta võttis osa seaduse loomisest.",
-    "Selle seaduse kohaselt on kohustik selge."
+    "Seadused on riigi põhikohustused.",
+    "See seadus kehtib alates järgmisest aastast.",
+    "Me peame kinni pidama seaduste nõuetest."
   ],
   "translation": [
     "law",
-    "act",
-    "statute"
+    "legislation",
+    "statute",
+    "act"
   ],
-  "context": "The word 'seadus' in Estonian refers to a law or act that is established and enforced by a government or other authority, and it is commonly used in legal and political contexts to describe a specific set of rules or regulations."
+  "context": "The Estonian word 'seadus' refers to a law or legislation established by authorities. It's typically used in formal contexts regarding legal requirements, rules, and regulations that must be followed. The word is singular neuter form of the noun."
 }

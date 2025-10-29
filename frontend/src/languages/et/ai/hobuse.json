@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hobuseid kasutati sõjas.",
-    "Ta armastab hobust.",
-    "Hobused on ilusad loomad."
+    "Tema ostis uue hobuse.",
+    "Hobused on tugevad loomad.",
+    "Vana hobuse mäletas teed."
   ],
   "translation": [
-    "horses",
     "horse"
   ],
-  "context": "The word 'hobuse' is the genitive plural form of the Estonian word for horse, and it is commonly used to refer to multiple horses in various contexts."
+  "context": "The word 'hobuse' is the partitive case form of the Estonian noun 'hobune', which means 'horse'. In Estonian grammar, the partitive case is used to indicate an incomplete action or indefinite quantity. So 'hobuse' would translate to '(a) horse' in English when referring to one horse in contexts like buying, seeing, or mentioning a horse without specifying it completely. This form appears after verbs that require the partitive case."
 }

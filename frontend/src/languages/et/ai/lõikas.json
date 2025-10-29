@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lõikas leivakulpide koorikut.",
-    "Lõikasime puidust puukujud.",
-    "Õpetaja lõikas õpilase teos"
+    "Tema lõikas selle ära.",
+    "Meilõikur on terav.",
+    "Kas sa lõikad seda õigesti?"
   ],
   "translation": [
     "cut",
-    "carved"
+    "chopped",
+    "sliced"
   ],
-  "context": "The word 'lõikas' in Estonian generally means to cut or carve something, often used in the context of cutting or shaping objects with a sharp tool."
+  "context": "The word 'lõikas' is the past tense third person singular form of the Estonian verb 'lõika', which means to cut. It's used when describing someone cutting something in the past, similar to how English uses 'cut'. The word can be used for various types of cutting actions - with scissors, knife, or other cutting tools."
 }

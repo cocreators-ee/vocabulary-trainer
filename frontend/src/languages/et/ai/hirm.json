@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hirmu käes",
-    "Ta nägi hirmsat vaatepilti",
-    "Hirm oli tema silmis"
+    "Mul on suur hirm.",
+    "Ta kõneleb oma hirmidest avalikult.",
+    "Lapsed taluvad hästi hirme."
   ],
   "translation": [
     "fear",
-    "horror",
+    "terror",
     "dread"
   ],
-  "context": "The word 'hirm' in Estonian generally refers to a strong feeling of fear or anxiety, often used to describe a state of being scared or intimidated."
+  "context": "The Estonian word 'hirm' means fear, terror, or dread. It refers to a strong emotion experienced in response to perceived danger or threat. In Estonian grammar, 'hirm' is a masculine noun that can appear in different cases - for example, 'hirmi' (genitive case meaning 'of fear'), 'hirmu' (partitive case), and 'hirmid' (plural form). The word can be used to describe both temporary fears and chronic anxiety states."
 }

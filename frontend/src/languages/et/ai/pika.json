@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kõikjal mujal ei saa inimesed pika ja vaba elu kui siin.",
-    "Pika häälestamise tulemus on sarnane tulemusega, mida meie andmeid kasutades saavutame.",
-    "Jagan sind kindlasti pika ja edukalt."
+    "Pika tee on kõva läbida.",
+    "Ta pikk oli ja pika juuksedega.",
+    "Pika elu eest."
   ],
   "translation": [
     "long",
-    "prolonged",
-    "extended"
+    "tall"
   ],
-  "context": "'Pika' in Estonian refers to something that is extended in duration or length. It can be used to describe periods of time, processes, and physical lengths. Commonly used with nouns like 'pikem aeg', meaning 'a longer time'. Often seen in contexts such as describing the length of life, projects, or distances."
+  "context": "In Estonian, 'pika' is the partitive form of the adjective 'pikk', meaning 'long' or 'tall'. It's used when referring to a long object or person in the context of quantity, extent, or measurement. When talking about a tall person (as opposed to height generally), the nominative form 'pikk' would be more common, but 'pika' can appear in certain expressions or contexts where the partitive case is required."
 }

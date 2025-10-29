@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen armastanud teda alates esimesest kohtumisest",
-    "Armastanud inimene on õnnelik",
-    "Ta on armastanud mind alati"
+    "Ma armastanud sind.",
+    "Ta on armastanud mind alati.",
+    "Me oleme armastanud üksteist aastaid."
   ],
   "translation": [
     "loved",
-    "been in love"
+    "have loved"
   ],
-  "context": "The word 'armastanud' is the past tense of the Estonian verb 'armastama', which means to love or be in love. It is commonly used to describe a strong affection or attachment towards someone."
+  "context": "The word 'armastanud' is the past participle form of the Estonian verb 'armastama', which means 'to love'. As a past participle, it indicates an action that has been completed in the past. It can be used with auxiliary verbs to form perfect tenses or as an adjective describing someone who has loved. The word contains the root 'armas-' (love) plus the past participle suffix '-tud/-d'."
 }

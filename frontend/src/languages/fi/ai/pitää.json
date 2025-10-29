@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minun pitää mennä.",
-    "Hänellä on hyvä muisti, joten hän muistaa aina mitä tuli sanoa, vaikka hänelle sanotaan \"Sinun pitää muistaa tämä\".",
-    "Jos et tiedä mihin menet, sinun pitää kysyä apua."
+    "Minun pitää mennä kotiin.",
+    "Hänellä on paljon töitä, joten hän ei ehdi pitää taukoa.",
+    "Meidän pitää varata lento huomista varten."
   ],
   "translation": [
     "must",
     "have to",
-    "ought to"
+    "need to"
   ],
-  "context": "The Finnish verb 'pitää' is used to express necessity or obligation. It often translates to English as 'must', 'have to,' or 'ought to.' The phrase typically follows the structure where it is conjugated according to the subject, followed by an infinitive verb."
+  "context": "The Finnish verb 'pitää' is an auxiliary verb that expresses obligation or necessity. It's commonly used with the infinitive form of another verb and corresponds to English phrases like 'must', 'have to', or 'need to'. In the first example, it indicates personal obligation ('I must go home'). The second sentence shows how it negates when someone doesn't have time to take a break. The third demonstrates plural obligation where 'meidän' (our) makes it clear that multiple people share this necessity."
 }

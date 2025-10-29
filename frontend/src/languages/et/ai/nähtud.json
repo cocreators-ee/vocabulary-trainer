@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen nähtud seda filmi.",
-    "Ta on nähtud palju üle maailma.",
-    "Nad on nähtud koos mitmes kohas."
+    "Ma olen nähtud selle filmi varem.",
+    "Olete te nähtud seda näitust?",
+    "Nähtud on hea, et sa tulid."
   ],
   "translation": [
     "seen",
-    "viewed",
+    "have seen",
     "watched"
   ],
-  "context": "The word 'nähtud' is a past participle form of the verb 'nägema', which means to see or to watch something, and it is commonly used in Estonian language to describe an action of viewing or observing something."
+  "context": "The Estonian word 'nähtud' is the past participle form of the verb 'näha' (to see/watch). It indicates that an action of seeing or watching has been completed. As a past participle, it can be used in perfect tenses or as an adjective to describe something that has been seen. The word follows Estonian grammatical patterns for participles and agrees with the subject in gender, number, and case when used adjectivally."
 }

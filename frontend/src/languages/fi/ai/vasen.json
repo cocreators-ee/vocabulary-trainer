@@ -1,12 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vasen käsi on vahvempi kuin oikea.",
-    "Hän on vasemmalla puolella.', "
+    "Minulla on vasen käsi.",
+    "Äiti asuu vasemmalla puolella taloa.",
+    "Auto oli pysähtynyt vasemmalle reunalle."
   ],
   "translation": [
-    "left"
+    "left",
+    "left-hand side"
   ],
-  "context": "The word 'vasen' is commonly used in Finnish to refer to something or someone that is located on the left side."
+  "context": "'Vasen' is the Finnish word for 'left'. It's commonly used to indicate direction, position on the left side, or the left hand. The word can appear in different forms depending on context - for example, 'vasen' is in nominative singular form. When indicating location with 'on' (olla), it would become 'vasemmalla' (inessive case), as in sentences 2 and 3."
 }

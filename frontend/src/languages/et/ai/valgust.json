@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Rohelised valgustid teevõrgus on häirivad.",
-    "Kodus ei jää kordagi piisavalt valgust akendest.",
-    "Valgust oli liiga palju sellest pildist."
+    "Valgust saabub homseks.",
+    "Valgust on väga hea tööks.",
+    "Kes valgust ei tea, see ei saa midagi teha."
   ],
   "translation": [
     "light",
-    "illumination"
+    "illumination",
+    "brightness"
   ],
-  "context": "The Estonian word 'valgust' means light, such as natural or artificial illumination. It is commonly used to describe the brightness in a room from windows or lamps and can refer to the amount of light present."
+  "context": "In Estonian, 'valgust' is the partitive case form of the word 'valgus', meaning 'light'. The partitive case typically indicates incomplete action or partial object. In this context, it often appears in expressions about having light, needing light, or being affected by light. It can be used with verbs like 'saama' (to get), 'olema' (to have/be), and other related to illumination."
 }

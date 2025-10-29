@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta elas oma elu täiel rinnal.",
-    "Nad elavad linnas.",
-    "Elu on ilus."
+    "Elate homme Tallinna.",
+    "Kus elate?",
+    "Milles elate?"
   ],
   "translation": [
-    "life",
-    "to live"
+    "you live",
+    "you reside",
+    "you are located"
   ],
-  "context": "The word 'elate' in Estonian means 'life' or 'to live'. It is a fundamental noun and verb used to describe existence, livelihood, and the state of being alive. It’s commonly used in everyday conversations and literature."
+  "context": "The word 'elate' is the formal/plural form of the Estonian verb 'ela', meaning 'to live'. In this case, it's specifically the second person plural present indicative form, used when addressing multiple people formally or when speaking to a group. It literally translates to 'you (plural/formal) live' or 'you are located/reside'."
 }

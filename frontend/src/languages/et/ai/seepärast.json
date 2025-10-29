@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen kinno sellepärast, et mulle meeldib film.",
-    "Ta ei tulnud koosseisule seepärast, et ta oli haige.",
-    "Koolid on suletud seepärast, et on sügisvaktsiin."
+    "Seepärast olen ma nii rõõmus.",
+    "Seepärast me ei saa täna hommikul kohtuda.",
+    "Seepärast on oluline planeerida eelnevalt."
   ],
   "translation": [
+    "for this reason",
     "therefore",
-    "because of that"
+    "that's why"
   ],
-  "context": "The word 'seepärast' is used in Estonian to indicate a reason or explanation for something, similar to the English words 'therefore' or 'because of that'."
+  "context": "The Estonian word 'seepärast' is a conjunction that indicates cause and effect, similar to English words like 'for this reason', 'therefore', or 'that's why'. It introduces an explanation for something previously mentioned. The word can be broken down as 'see' (this) + 'pärast' (because of/after), literally meaning 'because of this'. It is commonly used in written and spoken Estonian to connect related ideas and provide reasoning."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen trenni",
-    "Trenni on huvitav",
-    "Ta tegi trenni"
+    "Ma lähen trenni.",
+    "Trenn algab kell kaks.",
+    "Kas sa lähed meiega trenni?"
   ],
   "translation": [
-    "workout",
-    "exercise",
-    "training"
+    "training session",
+    "practice",
+    "workout"
   ],
-  "context": "The word 'trenni' in Estonian generally refers to a period of physical exercise or training, often used in the context of sports or fitness."
+  "context": "In Estonian, 'trenni' is the partitive case form of the word 'trenn', which means a training session or practice. The partitive case is often used to indicate incomplete action or when something is being done. In these examples, it's used in contexts like going to training, starting practice, or asking if someone will join for training."
 }

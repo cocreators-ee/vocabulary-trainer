@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vihm sajab üle kogu riigi.",
-    "Sajab päev otsa.",
-    "Homme sajab jälle."
+    "Sajab vihma.",
+    "Ilm sajab peale mängu.",
+    "Ma ei taha välja minna, kui sajab."
   ],
   "translation": [
-    "rains",
-    "is raining"
+    "is raining",
+    "rains"
   ],
-  "context": "The word 'sajab' is a verb in Estonian that means it is raining. It is commonly used to describe the weather."
+  "context": "The word 'sajab' is the third-person singular present tense form of the verb 'sadama', which means 'to rain'. It describes the current action of rain falling. This form is commonly used when talking about weather conditions in Estonia."
 }

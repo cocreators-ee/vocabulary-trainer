@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä ajan autoa.",
-    "Hän ajaa polkupyörällä.",
-    "He ajavat junalla."
+    "Ajaa autoa on hauskaa.",
+    "Minä ajoin Helsinkiin viime yönä.",
+    "Auto ajoi ohi nopeasti."
   ],
   "translation": [
     "to drive",
-    "drives"
+    "to operate",
+    "to propel"
   ],
-  "context": "The word 'ajaa' in Finnish means to operate or control a vehicle, and it is commonly used in everyday conversations when talking about transportation or travel."
+  "context": "The Finnish word 'ajaa' is a verb that primarily means 'to drive' (a vehicle) or 'to operate'. It can refer to driving cars, operating machinery, or propelling something forward. The word changes form depending on the subject and tense in Finnish conjugation."
 }

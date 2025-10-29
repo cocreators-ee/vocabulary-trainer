@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me võidame selle mängu",
-    "Nad võitsid meid eile",
-    "Kas me võidame homme?"
+    "Meie võidame selle mängu.",
+    "Tead sa, et nad võidavad?",
+    "Võidame alati!"
   ],
   "translation": [
+    "we win",
     "we will win",
-    "we win"
+    "we are winning"
   ],
-  "context": "The word võidame is the first person plural form of the verb võita, which means to win in English. It is commonly used to express confidence or determination in achieving a victory."
+  "context": "The Estonian word 'võidame' is the 1st person plural present indicative form of the verb 'võima', which means 'to win'. It specifically translates to English as 'we win', indicating that the subject (the group including the speaker) achieves victory in some competition, game, or struggle. The '-me' ending indicates it's 1st person plural (we/us), and the present tense shows this is happening currently or habitually."
 }

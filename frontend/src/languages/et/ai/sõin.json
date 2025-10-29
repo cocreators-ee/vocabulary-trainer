@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõin homme õuna",
-    "Ta sõid äsja leiba",
-    "Meie sõime eile kartuleid"
+    "Ma sõin hommikuti.",
+    "Tema ei sõi õhtul.",
+    "Meie oleme just söönud."
   ],
   "translation": [
     "ate",
-    "eaten"
+    "have eaten",
+    "consumed"
   ],
-  "context": "The word sõin is the first person singular form of the verb süüa, which means to eat in English. It is commonly used to describe the act of consuming food."
+  "context": "The word 'sõin' is the first person singular past tense form of the Estonian verb 'sööma', which means 'to eat'. It specifically refers to an action that has been completed in the past by the speaker. The stem changes from 'söö-' to 'sõi-' in the simple past tense for this conjugation."
 }

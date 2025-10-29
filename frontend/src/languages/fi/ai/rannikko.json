@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Rannikko on hyvin kaunis.",
-    "Taloni sijaitsee rannikon lähellä.",
-    "Rannikkokaupungit ovat suosittuja matkailukohteita."
+    "Rannikolla on kaunia rantoja.",
+    "Tämä maa on tunnettu sen pitkästä rannikosta.",
+    "Asutimme talon rannikon lähellä."
   ],
   "translation": [
-    "coast",
-    "shoreline"
+    "coastline",
+    "shore",
+    "seacoast"
   ],
-  "context": "The word 'rannikko' refers to the land along the edge of a sea, ocean, or lake, and is commonly used in Finnish to describe coastal areas or regions."
+  "context": "The Finnish word 'rannikko' means coastline, shore or seacoast. It refers to the land adjacent to a sea or ocean, particularly the edge where land meets water. In Finnish grammar, 'rannikko' is in the nominative singular form here. When used with the '-lla' suffix (as in 'rannikolla'), it indicates location meaning 'on the coast'. The word can also appear in other cases such as genitive ('rannikon') indicating possession or association, meaning 'of the coast' or 'coastal'."
 }

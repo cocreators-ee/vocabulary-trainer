@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin juttu sinust.",
-    "Juttudes võib olla mõningaid erinevusi.",
-    "See on tõeline juttu."
+    "Räägime juttu.",
+    "Tegelikult on see hea jutt.",
+    "Meil oli ilus jutt."
   ],
   "translation": [
-    "story",
-    "tale"
+    "talk",
+    "conversation",
+    "chat",
+    "story"
   ],
-  "context": "The word 'juttu' in Estonian generally refers to a story or tale, often used in informal contexts to share experiences or news with others."
+  "context": "The Estonian word 'juttu' can function as both a noun and part of verb constructions. As a noun, it means 'talk', 'conversation', or 'chat'. It's also commonly used in the phrase 'räägime juttu' meaning 'we're talking' or 'let's talk'. Additionally, 'juttu' can refer to a 'story' or 'tale'. The word is derived from the verb 'rääkima' (to speak/talk) and often appears in various idiomatic expressions."
 }

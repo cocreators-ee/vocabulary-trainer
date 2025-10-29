@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Rahvas on üksi.",
-    "Rahva hääled on kuulda.",
-    "Rahvastik kasvab aasta-aastalt."
+    "Eestis elab üle miljoni inimese.",
+    "Mees rahvast ei pea kõik mehed eesti rahvas.",
+    "Rahvas valis uue presidendi."
   ],
   "translation": [
     "people",
     "nation",
     "folk"
   ],
-  "context": "The word 'rahvas' generally refers to a group of people who share a common culture, language, or ethnicity, and is often used in the context of discussing national identity or demographics."
+  "context": "The Estonian word 'rahvas' can mean several related concepts: 1) people as in a group of human beings, 2) the nation or ethnic group specifically referring to Estonians as a collective, and 3) folk or populace. It's used both for general groups of people and specifically when referring to the Estonian nation. The word appears in various contexts from everyday descriptions of crowds to political references about the nation."
 }

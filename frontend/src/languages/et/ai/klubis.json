@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen klubis.",
-    "Ta käis klubis eile.",
-    "Klubis oli palju inimesi."
+    "Tule meie klubis",
+    "Ta töötab klubis",
+    "Me kohtume klubis"
   ],
   "translation": [
     "in the club",
     "at the club"
   ],
-  "context": "The word 'klubis' is an Estonian word that means 'in the club' or 'at the club', indicating a location or presence within a club, and it is commonly used to describe someone's whereabouts or activities."
+  "context": "The word 'klubis' is the inessive case form of the Estonian noun 'klubi', meaning 'club'. It indicates location or state within something, so 'klubis' specifically means 'in the club' or 'at the club'. This form shows where an action takes place or where someone is located."
 }

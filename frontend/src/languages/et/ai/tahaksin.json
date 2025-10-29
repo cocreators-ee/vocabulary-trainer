@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tahaksin sõita oma emale.",
-    "Ma tahaksin vajadusel abi pakkuda.",
-    "Kas sa tahaksid koos minu juurde tulla?"
+    "Tahaksin istuda kodus.",
+    "Ma tahaksin õppida eesti keelt.",
+    "Kes tahaks tulla kaasa?"
   ],
   "translation": [
-    "I would like",
-    "I want to",
-    "I'd be interested in"
+    "would like to",
+    "want to",
+    "wish to"
   ],
-  "context": "Used to express a polite or tentative desire to do something, often used in the conditional form."
+  "context": "Tahaksin is the conditional form of the verb 'tahma' (to want/wish) in Estonian, specifically used for expressing desires or wishes. It's formed by adding -ksin suffix, which indicates a polite or hypothetical desire rather than a direct command."
 }

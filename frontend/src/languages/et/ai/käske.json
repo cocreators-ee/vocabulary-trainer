@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma käsken teda teha seda.",
-    "Ta käsib mind alati võtma tema käske kuulda.",
-    "Kas sa oskad käske ära tunda?"
+    "Käsi palun!",
+    "Tema käib kooli.",
+    "Meie käime koos."
   ],
   "translation": [
-    "order",
-    "command"
+    "hand",
+    "to walk",
+    "to go"
   ],
-  "context": "The word 'käske' is a verb in Estonian that means to order or command someone to do something, and it is commonly used in formal or authoritative contexts."
+  "context": "The word 'käske' appears to be in the Estonian language. Based on the provided context and common Estonian vocabulary, this seems to be related to the word 'käsi' which means 'hand'. The '-e' ending suggests it could be an imperative form or part of a conjugated verb. However, without more specific context from actual usage examples, I'm providing analysis based on the most likely interpretation of this word in Estonian."
 }

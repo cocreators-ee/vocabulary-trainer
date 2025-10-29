@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen koju.",
-    "Kas sa oled juba kodus?",
-    "See on minu kodu."
+    "Koti kaks poissi kotis.",
+    "Mina olen kotis kodus.",
+    "Tema käis kotis poes."
   ],
   "translation": [
-    "home",
-    "house",
-    "at home"
+    "in the bag",
+    "at home",
+    "in the shop"
   ],
-  "context": "The word 'kotis' in Estonian primarily translates to 'home' or 'house' in English. It is commonly used to indicate the place where someone lives, or to express the feeling of being comfortable and safe."
+  "context": "The word 'kotis' is in the Estonian partitive case. It can have different meanings depending on context: 1) when referring to location with containers, it means 'in the bag'; 2) as a colloquial way of saying 'kodus', it means 'at home'; 3) when used with places like shops or businesses, it means 'in the shop' or 'in the store'. The form suggests it's from the root word 'koti' which relates to containers or locations."
 }

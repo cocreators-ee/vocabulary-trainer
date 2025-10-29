@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kaupungissa on paljon melua",
-    "Melu herätti minut kesken uneni",
-    "Melu oli niin kovaa, etten kuullut mitään"
+    "Meliä on kaupungilla.",
+    "Melu häirii unta.",
+    "Autot aiheuttavat paljon melua."
   ],
   "translation": [
     "noise",
-    "din"
+    "sound",
+    "clamor"
   ],
-  "context": "The word 'melu' in Finnish refers to a loud and unpleasant mixture of sounds, often used to describe urban environments or disruptive events."
+  "context": "The Finnish word 'melu' means noise or loud sound. It refers to unwanted, disturbing sounds that disrupt peace and quiet. The word can be used in various contexts such as traffic noise (liikenteen melu), construction noise (rakennusmelu), or general disturbance (yöllinen melu). In Finnish grammar, 'melu' is a common noun that doesn't change form for gender but does have different cases depending on how it's used in a sentence."
 }

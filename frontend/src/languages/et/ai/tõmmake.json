@@ -1,15 +1,14 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Kui see tõmatakse kinni, siis nad jäävad pankrotiks.",
-    "Töötleme oma andmeid ilma suvalist tõmmakemist võtmata.",
-    "Ära seda tõmmake ära, tean et sa soovid neil abi anda."
+    "Tõmmake selle aia uks lahti.",
+    "Palun tõmmake tooli lähemale.",
+    "Me tõmmame koos ära."
   ],
   "translation": [
-    "string",
-    "string",
-    "string"
+    "pull",
+    "draw",
+    "drag"
   ],
-  "context": "String"
+  "context": "The Estonian word 'tõmmake' is the plural imperative form of the verb 'tõmmama', which means to pull, draw, or drag. It's used when giving an instruction or request to a group of people to perform the action of pulling something."
 }

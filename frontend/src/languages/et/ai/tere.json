@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlen tere.",
-    "Tere hommik!",
-    "Ta vastas: \"Tere!\""
+    "Tere hommikust!",
+    "Mis on sinu nimi? Tere, olen Maria.",
+    "Tere päevast!"
   ],
   "translation": [
     "hello",
-    "hi"
+    "hi",
+    "greetings"
   ],
-  "context": "The word 'tere' is a common greeting in Estonian, used to say hello or hi to someone."
+  "context": "The Estonian word 'tere' is a common greeting used to say hello or hi. It's similar in usage to the English greetings and can be used throughout the day, not just at specific times like morning or evening. In informal contexts, it might stand alone as a simple greeting, but it's often combined with other words to specify the time of day, such as 'tere hommikust' for good morning."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on vale.",
-    "Vale vastus!",
-    "Ära unustada kontrollida, kas see on õige või vale."
+    "See on vale teade.",
+    "Ta rääkis valesid.",
+    "Me ei usu valemust."
   ],
   "translation": [
-    "wrong"
+    "false",
+    "lie",
+    "incorrect"
   ],
-  "context": "'Vale' means 'wrong' or 'incorrect'. It is commonly used to indicate that something is not correct, such as an answer, a statement, or a direction. For example, if someone gives the wrong answer to a question, you might say 'See on vale' (This is wrong)."
+  "context": "The Estonian word 'vale' can be used as an adjective meaning 'false' or 'incorrect', and also as a noun meaning 'lie'. It's a versatile word that appears in different contexts - describing something untrue (adjective form) or referring to falsehoods themselves (noun form). The pronunciation is roughly 'VAH-leh' with the stress on the first syllable."
 }

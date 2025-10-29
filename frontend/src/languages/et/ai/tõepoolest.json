@@ -1,15 +1,16 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen tõepoolest väsinud",
-    "Tema vastus oli tõepoolest üllatav",
-    "Oled sa tõepoolest kindel?"
+    "Tõepoolest, see on tõesti huvitav.",
+    "Kas sa tõepoolest tahad minna?",
+    "Me peaksime tõepoolemalt arutama seda küsimust."
   ],
   "translation": [
     "indeed",
     "really",
-    "truly"
+    "actually",
+    "truly",
+    "in fact"
   ],
-  "context": "The word tõepoolest is an adverb in Estonian that is used to emphasize the truth or reality of something, similar to the English words indeed, really, or truly."
+  "context": "The Estonian word 'tõepoolest' is an adverb that means 'indeed', 'really', 'actually', or 'in fact'. It's used to confirm something, express agreement, or emphasize the truthfulness of a statement. The word can be broken down into 'tõde' (truth) and 'poolest' (by/according to), literally meaning 'by truth' or 'according to truth'."
 }

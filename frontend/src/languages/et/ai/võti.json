@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta leidis võtme oma ukse avamiseks",
-    "Võtmepositsioon on oluline selle firma edukuse jaoks",
-    "See on võti edu saavutamiseks"
+    "Selle ruumi võti on kadunud.",
+    "Me vajame võtmeid selle ukselukku.",
+    "Kas sa oled võtnud oma võtmad endaga kaasa?"
   ],
   "translation": [
     "key",
-    "solution",
-    "answer"
+    "lock key"
   ],
-  "context": "The word 'võti' in Estonian generally refers to a key, but it can also be used figuratively to mean a solution or an answer to a problem."
+  "context": "The word 'võti' in Estonian means 'key'. It is used to refer to a physical object that opens locks, doors, or other secured items. In different contexts, it can also be used metaphorically to mean something essential or crucial."
 }

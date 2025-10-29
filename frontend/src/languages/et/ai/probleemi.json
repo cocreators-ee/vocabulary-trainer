@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on suur probleemi",
-    "Ta võtab iga probleemi ise kätte",
-    "Meil on selles probleemis ühisosa"
+    "Mul on suur probleem.",
+    "See lahendus võib põhjustada uusi probleeme.",
+    "Meil ei ole praegu ühtegi probleemi."
   ],
   "translation": [
     "problem",
-    "issue"
+    "issue",
+    "difficulty"
   ],
-  "context": "The word 'probleemi' in Estonian generally refers to a problem or issue that needs to be solved or addressed, often used in everyday conversations to describe a challenging situation."
+  "context": "The word 'probleemi' is the genitive singular form of the Estonian noun 'probleem', meaning 'problem'. In the genitive case, it indicates possession or relationship to something - typically meaning 'of a problem' or used with verbs that require the genitive case. The stem word 'probleem' comes from the same root as English 'problem' and is used similarly in Estonian to refer to difficulties, issues, or challenges."
 }

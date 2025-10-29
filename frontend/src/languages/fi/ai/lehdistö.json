@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lehdistö kuuli tapahtumasta myöhemmin.",
-    "Lehdistön edustajat ovat saapuneet paikalle.",
-    "Tapaamisessa olivat mukana lehdistön edustajia."
+    "Suomen lehdistö on vapaampi kuin monissa muissa maissa.",
+    "Lehdistönvapaus on tärkeä osa demokratiaa.",
+    "Journalistit kuuluvat lehdistöön."
   ],
   "translation": [
     "press",
-    "media"
+    "media",
+    "journalism"
   ],
-  "context": "The word lehdistö refers to the press or media in general, encompassing newspapers, television, radio, and other news outlets that provide information to the public."
+  "context": "The Finnish word 'lehdistö' refers to the press or media organization. It's a collective term that encompasses journalists, newspapers, and other news organizations as an institution. The word derives from 'lehti' (newspaper) with the suffix '-stö', which indicates a group or collection of people or things. In Finnish grammar, this is a singular noun that represents the entire press/media industry as an entity."
 }

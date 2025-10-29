@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tulemuse põhjal teame, et see on edukas katse.",
-    "Ta võitis konkursi tulemusena oma loomingulise töö eest.",
-    "Tulemuste analüüs näitab, et meil on veel palju tööd teha."
+    "Tulemused olid häired.",
+    "Meie tulemus oli parem kui eelmisel aastal.",
+    "Ta sai head tulemuse eksamilt."
   ],
   "translation": [
     "result",
     "outcome",
-    "consequence"
+    "finding"
   ],
-  "context": "The word 'tulemus' in Estonian generally refers to the outcome or result of a particular action, event, or process, and is commonly used in various contexts to describe the consequences or effects of something."
+  "context": "The word 'tulemus' is an Estonian noun that means 'result', 'outcome', or 'finding'. It's in the nominative singular form. In Estonian, nouns decline based on case and number, so this would change in different grammatical contexts - for example, 'tulemused' (nominative plural) means 'results', and adding suffixes would show possession or other relationships."
 }

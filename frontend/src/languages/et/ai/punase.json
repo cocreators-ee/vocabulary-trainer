@@ -1,15 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kandis punase seeliku.",
-    "Punased roosid on armastuse sümbol.",
-    "Punasest pluustikust tehtud kleit"
+    "Tema kandis punase kleiti.",
+    "Punased lilled olid ilusad.",
+    "Ta värvis maja punaseks."
   ],
   "translation": [
-    "red",
-    "reddish",
-    "crimson"
+    "red"
   ],
-  "context": "The word 'punase' is an adjective in Estonian, which means something has a red color."
+  "context": "The word 'punane' is the basic form meaning 'red' in Estonian. The word given 'punase' appears to be in the elative case, which typically indicates motion out of or from something, so it would mean '(from) red' or could be part of a larger construction like 'punastest' (from red ones). However, on its own as shown, it's likely meant to represent the basic form meaning 'red'."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõitsin rongiga Tallinnast Tartusse.",
-    "Rongid sõidavad tihti mööda raudteed.",
-    "Ta oli rongi juht."
+    "Rong sõidab Tallinna Tartust.",
+    "Poodasime rongis ühte kohta.",
+    "Mingi rong oli hiljuti kohal."
   ],
   "translation": [
-    "train"
+    "train",
+    "railway car"
   ],
-  "context": "The word 'rong' in Estonian refers to a train, which is a self-propelled vehicle on rails, used for transporting people or goods. It is commonly used in sentences related to traveling by rail."
+  "context": "The Estonian word 'rong' refers to a train or railway car. It's a singular noun used to describe the entire train system as well as individual cars on a train. The word is commonly used in everyday conversation when talking about transportation, schedules, and travel by rail."
 }

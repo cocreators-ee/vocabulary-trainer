@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tõde rääkinud",
-    "Tõde on see, mis on näha",
-    "Tõdeda saab ainult seda, mida on näha"
+    "Tõde on oluline.",
+    "Ta rääkis tõest.",
+    "Me leidsime tõe."
   ],
   "translation": [
     "truth",
-    "fact"
+    "the truth"
   ],
-  "context": "The word 'tõde' in Estonian refers to the state of being true or factual, and is commonly used to describe something that is real or actual."
+  "context": "The word 'tõde' is an Estonian noun meaning 'truth'. It is in the nominative singular form. The stem shows a clear connection to other related words like 'tões' (in truth) and 'tõest' (from truth). In Estonian grammar, this would decline through various cases: genitive tõde, partitive tõed, illative tõdesse etc."
 }

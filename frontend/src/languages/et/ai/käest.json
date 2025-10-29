@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis käest kinni.",
-    "Käest hoida tähendab toetada kellegi.",
-    "Ma panin käest jalga."
+    "Ta võtsi raamatu käest.",
+    "Käest antud kingad olid väga mugavad.",
+    "Meil on vaja abi käest."
   ],
   "translation": [
-    "from the hand",
+    "from someone's hand",
+    "given by hand",
     "by hand"
   ],
-  "context": "The word käest is a postposition in Estonian that indicates something is being done by hand or from someone's hand, often implying a sense of assistance or support."
+  "context": "The Estonian word 'käest' is an elative case form of the word 'käs' (hand). It means 'from a hand' or indicates that something was taken, given, or obtained by hand. It can also be used to indicate receiving help from someone, similar to English expressions like 'by hand' or 'from someone's hand'. The elative case in Estonian typically shows movement away from or out of something."
 }

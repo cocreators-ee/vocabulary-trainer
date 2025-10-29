@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nemad soovivad seda teha.",
-    "Ma soovin, et see oleks võimalik.",
-    "Ta soovib, et kõik läheks hästi."
+    "Nad soovivad head ööd.",
+    "Lapsed soovivad mängida.",
+    "Meie soovime aidata."
   ],
   "translation": [
-    "wish",
+    "want",
+    "wish for",
     "desire"
   ],
-  "context": "The word 'soovivad' is a verb in Estonian that means to wish or desire something, and it is commonly used in sentences to express someone's wants or intentions."
+  "context": "Soovivad is the third person plural form of the Estonian verb 'soovima', which means 'to want' or 'to wish'. It's used when talking about what multiple people (they) desire, hope for, or wish to have or do. The word indicates a present tense action where the subject desires something."
 }

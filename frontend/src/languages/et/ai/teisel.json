@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Teine lumi hoiab oma suve vaikselt.",
-    "Mina kinnitan teisel sõbraga liitu.",
-    "Ta naeratusest ja teisel küljel jääb silmapaistvaks."
+    "Tere tulemast teisel korrusel!",
+    "Me kohtume teisel päeval.",
+    "Küsimused on vastuvõetavad teisel e-posti aadressil."
   ],
   "translation": [
-    "the other",
-    "another"
+    "on the second",
+    "at the second",
+    "in the second"
   ],
-  "context": "In Estonian, 'teisel' is a form of the numeral adjective used to refer to something additional or different from one already mentioned. It is commonly used in comparisons and when introducing an extra example or element in a narrative."
+  "context": "The word 'teisel' is an Estonian adessive case form of the numeral 'kaks' (two). It means 'on/at/in the second' and is used to indicate location, time, or other contexts where something is positioned at the second instance. The adessive case typically answers the question 'where?' or 'when?', so 'teisel' indicates that something happens or exists on/at/in the second (floor, day, address, etc.)."
 }

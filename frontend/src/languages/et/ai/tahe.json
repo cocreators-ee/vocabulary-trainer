@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema esimese tahe oli \"A\".",
-    "Uurija leidis märkuse, kus jutti käis kahtlasest tahest.",
-    "Antud keele tähed on erinevad teistest keeltest."
+    "Ta on tugeva tahtega.",
+    "Mul oli olemas tahe minna teatri.",
+    "Tal pole piisavalt tahet midagi muuta."
   ],
   "translation": [
-    "letter",
-    "character"
+    "will",
+    "desire",
+    "intention",
+    "wish"
   ],
-  "context": "„tahe“ tõldub tähte sümboli või kirjavea asjakohaselt. See võib viidata ainult ühele tähele, mida kasutatakse nimes, vormis jne või kahtlastele sündmustele."
+  "context": "The Estonian word 'tahe' is a noun that means will, desire, intention, or wish. It refers to the capacity of making conscious choices or decisions about what one wants to do. In grammar, it's typically used in nominative case when talking about someone's will in general, and in other cases (like genitive) when modifying nouns or showing possession."
 }

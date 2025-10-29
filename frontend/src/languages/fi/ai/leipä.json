@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Leipä on päivittäin syötävä ruoka.",
-    "Ostan leivän kaupasta.",
-    "Leipämäinen on hyvin suosittu"
+    "Minulla on leipä kotona.",
+    "Syömme leivää päivälliseksi.",
+    "Leipä on Suomen suosituin ruoka-aine."
   ],
   "translation": [
-    "bread",
-    "loaf"
+    "bread"
   ],
-  "context": "The word leipä refers to bread, a common food item in Finnish cuisine, and is often used in everyday conversations about food and eating."
+  "context": "The Finnish word 'leipä' means bread in English. It is a common food item that refers to various types of baked goods made from flour dough. In Finnish grammar, it follows the basic noun pattern where the nominative form ends with '-ä' and the partitive (object) form adds an extra '-a' becoming 'leivää'."
 }

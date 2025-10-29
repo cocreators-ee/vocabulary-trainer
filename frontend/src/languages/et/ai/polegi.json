@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma polegi kodus.",
-    "Ta polegi uskmatu.",
-    "Polegi lihtne."
+    "Polegi asi nii lihtne.",
+    "Tööd polegi veel lõpetatud.",
+    "See ei olegi nii halvasti."
   ],
   "translation": [
-    "not at all",
-    "by no means"
+    "also not",
+    "not even",
+    "either"
   ],
-  "context": "'polegi' is a negative particle used to emphasize negation in Estonian, similar to 'not at all' or 'by no means' in English. It's often used for emphasis and can be part of more complex negative constructions such as with 'ei'. The word may appear in sentences where the speaker wants to stress the certainty of the negation."
+  "context": "The Estonian word 'polegi' is a combination of 'pole' (negative form of 'on', meaning 'is/are') and the particle 'gi' which adds emphasis or indicates 'also/either'. It's used to add emphasis to negation, similar to saying 'not even' or 'either not' in English. The word typically appears at the end of sentences and carries a sense of additional information or slight emphasis about what is not happening."
 }

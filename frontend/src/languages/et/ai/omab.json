@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
     "Ta omab suurt maja.",
-    "Nad omavad palju raamatuid.",
-    "See firma omab patente selle tehnoloogia kohta."
+    "Mees omab kahte autot.",
+    "Naised omavad palju rõõmu."
   ],
   "translation": [
-    "owns",
+    "has",
     "possesses",
-    "has"
+    "owns"
   ],
-  "context": "The verb 'omab' in Estonian means 'to own' or 'to possess'. It is used to indicate that someone has something as their property. It’s a common verb when discussing ownership of physical objects, intellectual property, or even qualities."
+  "context": "The word 'omab' is the 3rd person singular present form of the Estonian verb 'oma', which means 'to have' or 'to possess'. It's used to indicate ownership, possession, or having something. The base form 'oma' can be conjugated in different persons and tenses: omand (1st sg), omad (2nd sg), omavad (3rd pl plural)."
 }

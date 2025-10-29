@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin nuga.",
-    "Nuga on väga terav.",
-    "Ta leidis nuga laualt."
+    "Osta terav nuga.",
+    "Tema kasutas noaga leiba lõikama.",
+    "Nuga on ohtlik tööriist."
   ],
   "translation": [
-    "knife"
+    "knife",
+    "blade"
   ],
-  "context": "The word 'nuga' refers to a common kitchen tool used for cutting food in Estonian culture."
+  "context": "The Estonian word 'nuga' means knife or blade in English. It refers to a cutting tool with a sharp edge used for slicing, cutting, or piercing. In Estonian grammar, 'nuga' is in the nominative singular form."
 }

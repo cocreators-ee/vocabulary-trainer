@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma peab seda tegema",
-    "Ta peab homme koju minema",
-    "Nad peavad tulema"
+    "Ta peab kooli minema.",
+    "Mis ta peab tegema?",
+    "Meie peame homme tööd tegema."
   ],
   "translation": [
     "must",
     "has to",
-    "should"
+    "needs to",
+    "is obliged to"
   ],
-  "context": "The word 'peab' is commonly used in Estonian to express obligation or necessity, similar to the English words 'must' or 'have to'."
+  "context": "The word 'peab' is the 3rd person singular form of the Estonian verb 'pidama', which means 'to have to', 'must', or 'is obliged to'. It indicates necessity, obligation or requirement. In different conjugations, it can appear as 'pean' (I), 'pead' (you), etc."
 }

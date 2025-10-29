@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Läkikas teel.",
-    "Kass läks kõrvalt ära.",
-    "Mürgi jäid maale, sest neil oli palju tööd."
+    "Läki koju!",
+    "Me läksime linna.",
+    "Kuhu sa lähed?"
   ],
   "translation": [
-    "to run"
+    "go",
+    "leave",
+    "depart"
   ],
-  "context": "The Estonian word 'läki' means 'to run'. It is commonly used to describe the action of running or moving quickly from one place to another. The example sentences show different contexts: someone running along a road, a cat running away, and people rushing home because they have work to do."
+  "context": "The word 'läki' is an imperative form of the verb 'läheb' (he/she goes) in Estonian. It's used as a command telling someone to go or leave, similar to saying 'Go!' or 'Leave!' in English. In different grammatical forms, it appears as 'läksin' (I went), 'läksid' (you went), 'läkseme' (we went), etc."
 }

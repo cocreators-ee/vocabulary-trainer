@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtsin raamatu laualt.",
-    "Ta võttis mu käest koha.",
-    "Nad võtsid pildid memoriaalil."
+    "Võtsin raamatu üles.",
+    "Ma võtsin oma sõbraga kohtumisele.",
+    "Ta võtsid kaks piima."
   ],
   "translation": [
-    "I took",
-    "to take"
+    "took",
+    "took away",
+    "picked up"
   ],
-  "context": "The word võtsin is the first person singular past tense form of the verb võtma, which means to take or to pick up something. It is commonly used in Estonian language to describe an action of taking or picking up an object."
+  "context": "The Estonian word 'võtsin' is the first person singular past tense form of the verb 'võtta', which means 'to take'. It's used when someone (I) took something in the past. The word shows that the action was completed by the speaker, and it follows the conjugation pattern for -i verbs in Estonian past tense."
 }

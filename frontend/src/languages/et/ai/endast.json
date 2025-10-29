@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen endast teda.",
-    "Ta on endast üks võimalus.",
-    "Endast ei piisa."
+    "Ta rääkis endast palju.",
+    "Mõtle oma tegudest endast.",
+    "Ta näitas endast heana töötajana."
   ],
   "translation": [
-    "only",
-    "just"
+    "from oneself",
+    "about oneself",
+    "concerning oneself"
   ],
-  "context": "The word 'endast' in Estonian means 'only' or 'just' and is used to indicate that something is the sole thing being referred to, similar to how 'only' is used in English to convey a sense of exclusivity."
+  "context": "The Estonian word 'endast' is an adessive case form of the reflexive pronoun 'enda', meaning 'oneself'. It indicates origin, source, or what something comes from. In this specific form, it shows that the action originates from or concerns the subject themselves."
 }

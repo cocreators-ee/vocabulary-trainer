@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu nemad on väga ilusad.",
-    "Ta ei hooli oma nemadest.",
-    "Nemad said täna uue auto."
+    "Nemad tulid eile ära.",
+    "Kes on nemad?",
+    "Nemad on head sõbrad."
   ],
   "translation": [
-    "mothers",
-    "moms"
+    "they",
+    "them"
   ],
-  "context": "The word 'nemad' in Estonian directly translates to 'mothers' or 'moms' in English. It is the plural form of 'ema', which means 'mother'. It’s used to refer to one's female parents."
+  "context": "In Estonian, 'nemad' is the third person plural pronoun that corresponds to English 'they' or 'them'. It's used when referring to a group of people (or things) in the nominative case. The word follows the same grammatical rules as other Estonian pronouns and can be modified for different cases depending on its function in the sentence."
 }

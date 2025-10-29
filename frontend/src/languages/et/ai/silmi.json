@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina teen palju silme.",
-    "Tema silm oli roheline.",
-    "Silmad olid tumedad."
+    "Ta vaatab silmi.",
+    "Lapsed mängivad silmi.",
+    "Ma nägin tema silmis."
   ],
   "translation": [
-    "eyes"
+    "eyes",
+    "gaze",
+    "sight"
   ],
-  "context": "Used to refer to the eyes in singular and plural forms. In Estonian, 'silm' is singular for eye, while 'silma' can mean an eye or be part of a phrase like 'pea ja silm', which translates to 'head over heels'. The form 'silmi' usually comes up as part of expressions such as in idioms, but it's most commonly known as the plural accusative case for eyes."
+  "context": "The word 'silmi' is the partitive singular form of the Estonian noun 'silm', which means 'eye'. In Estonian, nouns change their endings depending on case and number. The partitive case indicates that something is being seen or experienced partially. So 'silmi' typically appears in contexts where someone is looking at eyes, mentioning eyes, or referring to sight. For example, 'Ta vaatab silmi' means 'He/She looks into the eyes', 'Lapsed mängivad silmi' means 'Children are playing with their eyes/peek-a-boo', and 'Ma nägin tema silmis' means 'I saw in his/her eyes'. The word represents the concept of eyes as objects of perception or attention."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elab kolmanda korrusele.",
-    "Kolmanda päeva hommikul tuli meile uus mängija.",
-    "Kolmanda maailmasõja alguses oli ta alles noor."
+    "See on kolmas päev.",
+    "Ta sai kolmandaks koht.",
+    "Meil on kolmenda klassi tudeng."
   ],
   "translation": [
     "third",
-    "of the third"
+    "3rd"
   ],
-  "context": "The word 'kolmanda' in Estonian is the genitive case of the ordinal number 'kolmas', which means 'third'. It is commonly used to indicate something that belongs to or is related to the third item in a sequence or series."
+  "context": "The Estonian word 'kolmanda' is the partitive case form of the ordinal number 'kolmas', meaning 'third'. The -nda ending indicates it's in the partitive singular case, which is commonly used with numbers and can indicate a portion or specific instance of something. This form would typically be used when referring to 'the third one' or in contexts where you're talking about a specific third thing or person."
 }

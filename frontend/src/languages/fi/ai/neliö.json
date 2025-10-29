@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Talo on suuri neliö.",
-    "Neliön pinta-ala on 100 neliômetriä.",
-    "Neliöllisessä muodossa se on 10x10"
+    "Tämä huone on neliön muotoinen.",
+    "Nelio senttimetriä on pieni mittayksikkö.",
+    "Laskimme alueen: se oli 25 neliömetriä."
   ],
   "translation": [
     "square",
-    "quadratic"
+    "squared",
+    "area unit"
   ],
-  "context": "The word neliö refers to a square shape or something that is related to the number four, and it is commonly used in Finnish to describe geometric shapes or mathematical concepts."
+  "context": "The Finnish word 'neliö' means 'square' as in a geometric shape with four equal sides and right angles. It can also refer to the squared unit of measurement (like square meters - neliömetri). In geometry, it describes anything having this shape or related to squares."
 }

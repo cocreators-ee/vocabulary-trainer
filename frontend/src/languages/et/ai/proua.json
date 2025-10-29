@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Proua on väga armsalt käitunud.",
-    "Ta rääkis prouaga kahekesi.",
-    "Kõik prouad olid uhked."
+    "Proua Mänd on meie uus õpetaja.",
+    "Kuidas sa prouaga vestled?",
+    "Tere hommikust, proua!"
   ],
   "translation": [
-    "Mrs",
-    "lady",
-    "woman"
+    "Mrs.",
+    "madam",
+    "lady"
   ],
-  "context": "The word 'proua' is a title or form of address used for a married woman, similar to 'Mrs' in English. It can also refer to a woman of high social status or respect."
+  "context": "The word 'proua' is the Estonian equivalent of Mrs. or madam in English. It's a formal title used to address married women respectfully, similar to how 'Mrs.' is used in English. The word is always capitalized when used as a title before someone's name. In informal contexts, it might also be used more broadly to politely address any woman, though this is less common than the specific marital status usage."
 }

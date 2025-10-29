@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hänellä on pitkä häntä.",
-    "Koira heilutti häntäänsä iloisesti.",
-    "Kissa jahtasi omaa häntäänsä."
+    "Näin kissan hännän puussa.",
+    "Koira heilutti häntään iloisesti.",
+    "Lampaalla on pitkä häntä."
   ],
   "translation": [
     "tail",
-    "rear"
+    "buttocks"
   ],
-  "context": "The word 'häntä' in Finnish most commonly refers to the tail of an animal. It can also, less frequently, refer to a queue or line of people."
+  "context": "The Finnish word 'häntä' means both 'tail' and 'buttocks'. It's commonly used to refer to the tail of animals (like cats, dogs) but can also mean human buttocks. In animal contexts it's neutral descriptive terminology, while in human contexts it may be considered slightly informal or vulgar depending on context."
 }

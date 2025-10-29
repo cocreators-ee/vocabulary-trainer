@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli turvaliselt koju.",
-    "Me sõidame turvaliselt autooga.",
-    "Turvaliselt läbi elu!"
+    "Sõidame turvaliselt koduteel.",
+    "Lapsed liiguvad alati turvaliselt lasteaias.",
+    "Pead liikuma turvaliselt tänaval."
   ],
   "translation": [
     "safely",
-    "securely"
+    "securely",
+    "with safety"
   ],
-  "context": "The word 'turvaliselt' is an adverb in Estonian that means doing something safely or securely, and it is commonly used to describe actions where protection or caution is needed."
+  "context": "The Estonian word 'turvaliselt' is an adverb that means 'safely' or 'securely'. It describes the manner in which an action is performed, indicating that something is done with care to avoid danger or risk. The word comes from 'turvaline' (safe) + '-lt' (adverbial suffix)."
 }

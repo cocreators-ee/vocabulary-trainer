@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma arvan, et see on oluline sellest põhjuse tõttu.",
-    "See oli väga halb ja ma ei taha sellest rääkida.",
-    "Kas sa tead midagi sellest asjast?"
+    "Sellest saab hästi aru.",
+    "Ta rääkis sellest teemast põhjalikult.",
+    "Kas sa mäletad seda sellest juhtumist?"
   ],
   "translation": [
+    "about this",
     "from this",
-    "of this",
-    "about this"
+    "of this"
   ],
-  "context": "The word 'sellest' is a versatile Estonian word that translates to 'from this', 'of this', or 'about this' in English. It’s commonly used as a genitive or ablative case form of the pronoun 'see' (this), indicating origin, possession, or topic."
+  "context": "The Estonian word 'sellest' is the elative case form of 'see' (this/that), meaning 'about this', 'from this', or 'of this'. It indicates movement away from something, origin, or topic. The '-st' ending in Estonian typically marks the elative case, which answers questions like 'where from?' or 'about what?'. In these examples, it's used to indicate the source of understanding (about this), the topic of discussion (about this theme), and the reference point for memory (from this incident)."
 }

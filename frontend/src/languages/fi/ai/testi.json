@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä on testi.",
-    "Hän teki hyvin testissä.",
-    "Testit tuloksia odotellessa."
+    "Minulla on testi huomenna.",
+    "Testi oli vaikea.",
+    "Sinun täytyy tehdä testi."
   ],
   "translation": [
     "test",
-    "exam",
+    "examination",
     "trial"
   ],
-  "context": "The word 'testi' in Finnish refers to a test or examination, and it is commonly used in various contexts such as education, science, and quality control."
+  "context": "The Finnish word 'testi' is a noun that means 'test', 'examination', or 'trial'. It can refer to academic tests, medical examinations, product trials, or any situation where something is evaluated. In Finnish, it doesn't change form in the nominative case (singular), but would have different endings in other cases (like testissä - in the test, testistä - from the test)."
 }

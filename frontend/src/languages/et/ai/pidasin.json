@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pidasin teda hea sõbrana.",
-    "Ta pidas mind ühe parima sõber.",
-    "Meie peame pidama teineteist"
+    "Ma pidasin kohtumist kolleegiga.",
+    "Ta pidas oma sõnadel kindlalt.",
+    "Me pidame homme uuesti kogunemist."
   ],
   "translation": [
     "held",
-    "considered",
-    "kept"
+    "kept",
+    "maintained"
   ],
-  "context": "The word 'pidasin' is the first person singular past tense form of the verb 'pidama', which means to hold or consider something. It can be used in various contexts such as holding an object, considering an idea, or keeping a promise."
+  "context": "The word 'pidasin' is the first person singular past tense form of the Estonian verb 'pida-' which means to hold, keep, or maintain. It indicates that someone performed an action of holding something (like a meeting), keeping their promise/word, or maintaining something in the past."
 }

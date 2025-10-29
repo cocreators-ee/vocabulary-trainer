@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma aitan sind.",
-    "Ta aitas mind üles.",
-    "Nende aitamine oli väga vajalik."
+    "Ma aitan sulle.",
+    "Ta aitab meid kodus.",
+    "Meie aitame teid alati."
   ],
   "translation": [
-    "help",
-    "assist"
+    "I help you",
+    "He helps us at home",
+    "We always help you"
   ],
-  "context": "The word 'aitan' in Estonian means to help or assist someone, and it is commonly used in sentences to describe providing support or aid to another person."
+  "context": "The word 'aitan' is the first person singular present tense form of the Estonian verb 'aida', which means 'to help'. It indicates that the speaker is currently helping someone. In Estonian, verbs conjugate according to person and number, so 'aitan' specifically refers to 'I help' or 'I am helping'."
 }

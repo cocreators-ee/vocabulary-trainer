@@ -1,13 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Sel õhtul oli hea ilm.",
-    "See on selge, et ta ei tea.",
-    "Tema mõttes pole see selge."
+    "Sel päeval oli ilus ilm.",
+    "Mida sa selles loos märkad?",
+    "Tema on sel hetkel tööl."
   ],
   "translation": [
-    "this"
+    "this",
+    "that",
+    "such",
+    "the"
   ],
-  "context": "The word 'sel' is a determiner used to indicate something close in space or time, similar to the English 'this'. It can be used with nouns it modifies directly or in more complex constructions. It's commonly used to point out specific instances that are near at hand."
+  "context": "In Estonian, 'sel' is an demonstrative pronoun or adjective that typically means 'this', 'that', or 'the'. It's the inessive case singular form of 'see' (this/that). Inessive case indicates location within something, so 'sel' often functions as 'in this', 'on this', or 'at this' depending on context. It's commonly used to specify which particular thing is being referred to within a larger context."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta vajus andestust tema ees.",
-    "Mõtle sellest andestusest täna õhtul.",
-    "Andestuse pakkumine oli teda segadusse viinud."
+    "Ma vajan andestust selle eest.",
+    "Ta ei saanud andestust oma tegude eest.",
+    "Andestus on raske aga vajalik."
   ],
   "translation": [
-    "mercy",
     "forgiveness",
-    "grace"
+    "pardon",
+    "absolution"
   ],
-  "context": "Refers to the act of showing mercy, forgiveness or grace. Commonly used in contexts involving moral or spiritual redemption, such as religious discussions, personal conflicts resolution, or legal situations where someone is given a second chance."
+  "context": "Andestust is the partitive case form of 'andestus', which means 'forgiveness' in English. It refers to the act of forgiving someone or being forgiven for something that was done wrong. The partitive case (-t ending) indicates an unspecified amount or instance of forgiveness, making it translate well as 'some forgiveness' or just 'forgiveness' in context."
 }

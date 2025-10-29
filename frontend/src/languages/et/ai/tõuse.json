@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tõuse homme varakult üles.",
-    "Ta tõusis püsti ja läks trepile.",
-    "Kui sa homsest tõused, ära unusta mind."
+    "Tõusis hommikul varak.",
+    "Päike tõuseb idast.",
+    "Laps tõusis toolilt püsti."
   ],
   "translation": [
+    "rise",
     "get up",
-    "rise"
+    "stand up"
   ],
-  "context": "The word 'tõuse' is the second person singular imperative form of the Estonian verb 'tõusma', which means to get up or rise. It is commonly used in everyday conversations to ask someone to stand up or wake up."
+  "context": "The word 'tõuse' is the 3rd person singular past tense form of the Estonian verb 'tõusta', which means to rise, get up, or stand up. It describes an action that has already happened in the past when someone or something rose from a lower position to a higher one."
 }

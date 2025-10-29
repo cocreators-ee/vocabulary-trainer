@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks ameerikasse puhkama.",
-    "Me plaanime reisida ameerikasse järgmisel aastal.",
-    "Kas sa oled kunagi käinud ameerikasse?"
+    "Tema kolis ameerikasse eelmisel aastal.",
+    "Meie plaan on reisida ameerikasse järgmisel nädalal.",
+    "Mõned inimesed unistavad elamisest ameerikasses."
   ],
   "translation": [
     "to America",
-    "into America"
+    "into the United States",
+    "to the USA"
   ],
-  "context": "The word 'ameerikasse' is an Estonian adverbial case form meaning 'to America' or 'into America'. It indicates movement or direction towards the United States of America. It’s formed by adding the ‘-sse’ suffix to the name of the country, 'Ameerika'."
+  "context": "The word 'ameerikasse' is an Estonian adessive case form of 'Ameerika' (America). It means 'to America' or 'into America' and indicates movement toward or into America. The '-sse' ending is a common suffix in Estonian that indicates direction, similar to the English prepositions 'to' or 'into'. This form is used when someone is going to America as a destination."
 }

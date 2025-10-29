@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tule ta töölt.",
-    "Minu isa on siin, kuna tuleb töölt.",
-    "Kui saabate sealt töölt, palun hoestage oma kingituse ette."
+    "Ta tuli töölt kell kuus.",
+    "Me läksime kohe peale töölt.",
+    "Töölt tulles otsustasin puhata."
   ],
   "translation": [
     "from work",
-    "at/from work"
+    "after work"
   ],
-  "context": "'töölt' is the elative form of 'töö', meaning 'work'. It translates to 'from work' or 'at work' depending on context. Commonly used in sentences to indicate someone coming from work, being at work, or something related to leaving/arriving from a workplace."
+  "context": "The Estonian word 'töölt' is an adessive case form of the noun 'töö', meaning 'work'. It indicates movement away from or position relative to work. As a locative case, it shows where something is coming from - in this case, from work or after finishing work."
 }

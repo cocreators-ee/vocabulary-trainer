@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu sünnipäev on mai kuus.",
-    "Ta ütles, et tema sünnipäev on laupäeval.",
-    "Sünnipäeva puhul anti kõigile kingitused."
+    "Tänan sünnipäevaks!",
+    "Õnne sünnipäevast!",
+    "Me peatsime tema sünnipäeva pidu."
   ],
   "translation": [
-    "birthday"
+    "birthday",
+    "birth day"
   ],
-  "context": "The word 'sünnipäeva' in Estonian refers to a birthday, which is an occasion when someone celebrates the day they were born, often with friends and family, and may receive gifts."
+  "context": "The Estonian word 'sünnipäeva' means 'birthday' in English. It is formed from the words 'sünni' (birth) and 'päev' (day). This term is commonly used when referring to someone's birthday, such as in congratulations or invitations. The genitive form is typically used in expressions like 'Õnne sünnipäevast!' meaning 'Happy birthday!'. When wishing someone a happy birthday, you would say 'Tänan sünnipäevaks!' which means 'Thank you for the birthday.'"
 }

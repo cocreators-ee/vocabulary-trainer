@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen uskunud oma luguja kogu elu.",
-    "Tema uskus oli tugev ja kindel.",
-    "Mina ei uskunud tema sõnu."
+    "Uskunud inimesed usuvad Jumalasse.",
+    "Ta on alati olnud uskunud.",
+    "Kas sa oled uskunud?"
   ],
   "translation": [
-    "believed",
-    "trusted"
+    "believing",
+    "faithful",
+    "convinced",
+    "trusting"
   ],
-  "context": "The word 'uskunud' is the past singular form of the verb 'usko', which means to believe or trust. It can be used in a religious context, but it also has everyday meanings such as trusting someone's words or believing in something."
+  "context": "The Estonian word 'uskunud' is the past participle form of the verb 'usuma' (to believe). It describes someone who has believed or was believing. This can refer to religious belief in God, faith in something/someone, or being convinced/trusting about something."
 }

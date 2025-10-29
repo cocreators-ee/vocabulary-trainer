@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma proovin seda kohe",
-    "Ta proovis mind ükskord",
-    "Proovin uut tooted"
+    "Proovin uut retsepti.",
+    "Ma proovin seda jõudu.",
+    "Tere! Proovin ära öelda."
   ],
   "translation": [
     "I try",
-    "to attempt",
-    "try out"
+    "I attempt",
+    "I test"
   ],
-  "context": "The word 'proovin' in Estonian means to try or attempt something, and it is commonly used in everyday conversations to express the act of testing or experimenting with something."
+  "context": "The word 'proovin' is the first-person singular present tense form of the Estonian verb 'proovima', which means 'to try', 'to attempt', or 'to test'. It indicates that the speaker is currently performing an action of trying something out. This form would be used when speaking about oneself in the present moment."
 }

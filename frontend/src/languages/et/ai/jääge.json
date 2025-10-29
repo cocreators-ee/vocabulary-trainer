@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma jäängi siia ootama.",
-    "Ära muretse, ma jääge sind aitama.",
-    "Ta jäi oma kodulinna."
+    "Jääge koju.",
+    "Kus te jääte peale homme?",
+    "Me ei jää siia kauaks."
   ],
   "translation": [
     "stay",
     "remain",
-    "linger"
+    "be left"
   ],
-  "context": "The word 'jääge' is the imperative form of the verb 'jääma', meaning 'to stay' or 'to remain'. It’s used to tell someone to stay put, or to indicate a continued state of being in a place."
+  "context": "The word 'jääge' is the plural imperative form of the Estonian verb 'jääma', which means to stay or remain. It's used when giving a command or request to multiple people telling them to stay somewhere, or indicating that something will be left behind. The form 'jääge' specifically addresses you (plural) - it would be different for singular address (jäi) or formal/plural third person (jäävad)."
 }

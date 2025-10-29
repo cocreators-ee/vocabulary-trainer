@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Valo palaa.",
-    "Hän sytytti valot.",
-    "Kaikki valot ovat sammuksissa."
+    "Valo tuli huoneeseen.",
+    "Auringon valo läpi ikkunan.",
+    "Pimeässä tarvitaan enemmän valoa."
   ],
   "translation": [
-    "light"
+    "light",
+    "brightness"
   ],
-  "context": "The word 'valo' in Finnish refers to light, which is a common noun used to describe something that makes things visible or a source of illumination."
+  "context": "The Finnish word 'valo' means light or brightness. It is a common noun used to refer to illumination, whether from natural sources like the sun or artificial sources like lamps. In Finnish grammar, it's an ordinary noun that doesn't have grammatical gender and follows standard noun declension patterns."
 }

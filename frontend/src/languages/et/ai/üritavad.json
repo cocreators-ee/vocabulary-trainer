@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Üritavad inimesed on tihti edukad.",
-    "Ta üritab alati paremat teha.",
-    "Me üritame teda aidata."
+    "Nad üritavad õppida eesti keelt.",
+    "Lapsed üritavad mängida puust maja.",
+    "Meie üritame lahendada seda probleemi."
   ],
   "translation": [
     "try",
     "attempt",
     "endeavor"
   ],
-  "context": "The word üritavad is commonly used in Estonian to describe people or actions that are trying or attempting to do something, often with a sense of effort or determination."
+  "context": "\"Üritavad\" is the 3rd person plural present tense form of the Estonian verb \"ürita\" which means 'to try' or 'to attempt'. It specifically refers to what other people (they) are trying to do. The root word shows action with a sense of effort toward achieving something."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kasvab üha suuremaks.",
-    "Kasvab see taim siin?",
-    "Temaga koos kasvab ka ta mõju."
+    "Taim kasvab päikesepaistelises kohas.",
+    "Lapsed kasvavad kiiresti.",
+    "Õunapuu kasvab aastate jooksul kõrgemaks."
   ],
   "translation": [
     "grows",
-    "is growing"
+    "is growing",
+    "develops"
   ],
-  "context": "The word 'kasvab' is a verb in Estonian that means to grow or increase in size, amount, or degree. It is commonly used to describe something that is getting bigger or expanding over time."
+  "context": "The word 'kasvab' is the 3rd person singular present form of the Estonian verb 'kasvama', which means 'to grow'. It can refer to physical growth (like plants, children, or animals getting bigger), development over time, or increase in size. The root 'kasva-' relates to growth and development."
 }

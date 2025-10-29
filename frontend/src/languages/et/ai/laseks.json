@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta laseks veele teada, et tal on see võimalus.",
-    "Ma ei saa aru, miks ta selleks laseks.",
-    "Laseks teda minna oma rahulikku elu edasi."
+    "Tuleksin meile laseks.",
+    "Laseks mind kodus üksi.",
+    "Kas sa laseksid mulle oma raamatut?"
   ],
   "translation": [
-    "would allow",
-    "would let",
-    "would permit"
+    "let",
+    "allow",
+    "permit"
   ],
-  "context": "'laseks' is the conditional form of 'lase,' which means 'to let' or 'to allow.' It's commonly used in hypothetical situations to express what someone would allow or permit."
+  "context": "The Estonian word 'laseks' is the conditional form of the verb 'lasma', which means 'to let' or 'to allow'. It's used in hypothetical situations or polite requests, similar to English 'would let' or 'could let'. The '-ks' ending indicates this is the conditional mood, often used for suggestions, requests, or hypothetical statements."
 }

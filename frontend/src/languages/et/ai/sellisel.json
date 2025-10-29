@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen sellisel päeval sündinud",
-    "Ta on sellisel moel riietunud",
-    "Me oleme sellisel ajal kohtunud"
+    "Sellisel ilmal on hea käia jalutada.",
+    "Sellisel juhul peaksid tegema midagi muud.",
+    "Mida sa teed sellisel päeval?"
   ],
   "translation": [
-    "such",
-    "like that"
+    "in such a way",
+    "on such an occasion",
+    "under these circumstances"
   ],
-  "context": "The word 'sellisel' in Estonian is used to describe something that is of a certain type or kind, similar to the English word 'such'."
+  "context": "The Estonian word 'sellisel' is the adessive case form of the demonstrative pronoun 'selline', which means 'such'. It indicates location or circumstance, showing that something happens in a particular manner or under specific conditions. The '-sel' ending marks it as being in the adessive case, similar to how English uses phrases like 'in this way' or 'under these circumstances'."
 }

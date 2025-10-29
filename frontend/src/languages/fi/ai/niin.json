@@ -1,15 +1,16 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Niin kuin olet sanonut.",
-    "Hän sanoi niin ja meni pois.",
-    "On niin, että emme voi mennä sinne."
+    "Niin on.",
+    "En ole niin varma.",
+    "Hän sanoo niin."
   ],
   "translation": [
     "so",
-    "thus",
-    "then"
+    "then",
+    "that way",
+    "very",
+    "really"
   ],
-  "context": "The word 'niin' is commonly used in Finnish as a conjunctive adverb to indicate agreement or confirmation, similar to the English words 'so', 'thus', or 'then'."
+  "context": "In Finnish, 'niin' is a versatile word that can function as an adverb meaning 'so', 'then', or 'that way'. It's also commonly used intensively to mean 'very' or 'really'. As an affirmation, it means 'yes' or 'correctly'. The exact meaning depends heavily on the context in which it appears."
 }

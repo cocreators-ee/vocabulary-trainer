@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta peidab tõtt.",
-    "Peidetud oht on palju ohtlikum kui avalik.",
-    "Küsimus on vaid selle kohta, kas see on piisavalt peidetud."
+    "See on peidetud koht.",
+    "Me leidsime peidetud asja.",
+    "Ta varjas peidetud objekti."
   ],
   "translation": [
     "hidden",
-    "concealed"
+    "concealed",
+    "secret"
   ],
-  "context": "The word 'peidetud' in Estonian means something that is hidden or concealed from view or knowledge, and it is commonly used to describe a secret or an unseen danger."
+  "context": "The word 'peidetud' is the past participle form of the Estonian verb 'peida', which means 'to hide'. As a participle, it describes something that has been hidden or concealed. It's used to modify nouns (like in English 'hidden treasure') and can appear in various positions within sentences depending on context."
 }

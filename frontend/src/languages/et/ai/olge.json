@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olge ausad! Palun, olge ausad!",
-    "Mina olen teie kallimaks juba vähemalt nii kaua, et see kestaks teie elu pikkusega. See ei saa olla tõsi. Olete lihtsalt liiga noor, et arusaada.",
-    "Ma pean tagasi minema ja öelda neile, et nad ei tohi seda midagi teha, kuid nad on väga väikesed poeg, olge hea koos teda!"
+    "Olge hea ja võtke istekoht!",
+    "Olge meeldiv koos veeta aega!",
+    "Kas sa olge kindel, et soovite edasi minna?"
   ],
   "translation": [
+    "please be",
     "be",
-    "you are (plural)"
+    "please"
   ],
-  "context": "'Olge' is the second person plural form of 'to be' in Estonian. It's used to say 'you all are' or as a polite imperative 'please be'. In sentences, it can translate to commands like 'be', requests such as 'please be', or describe states for multiple people."
+  "context": "The Estonian word 'olge' is the plural imperative form of the verb 'olema' (to be). It's used to address multiple people and means 'please be' or simply 'be'. This form is commonly used in formal requests, polite instructions, or when speaking to a group. The '-ge' ending indicates it's the second person plural imperative."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin vastuseid küsimustele",
-    "Vastused olid õiged",
-    "Ta andis mulle mitmeid vastuseid"
+    "Vastused on selged ja täpsed.",
+    "Lõpetan vastuseid edasi kirjutama.",
+    "Tema vastused olid väga õigupoolest head."
   ],
   "translation": [
     "answers",
+    "replies",
     "responses"
   ],
-  "context": "The word 'vastused' is a noun in Estonian that refers to answers or responses, and it is commonly used in contexts where someone is providing information or reacting to questions."
+  "context": "The word 'vastused' is the plural form of the Estonian word 'vastus', which means answer, reply, or response. It refers to multiple answers given in response to questions or statements. In Estonian grammar, this is formed by adding '-d' suffix to the root word."
 }

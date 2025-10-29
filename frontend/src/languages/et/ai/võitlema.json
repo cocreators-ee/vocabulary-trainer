@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võitlema ei saa",
-    "Ta on hea võitlema",
-    "Võitlema on raske"
+    "Ma võitleme eest vabaduse.",
+    "Ta on valmis võitlaks.",
+    "Nad võitlesid meie poolt."
   ],
   "translation": [
     "to fight",
-    "fighting"
+    "to struggle",
+    "to combat"
   ],
-  "context": "The word võitlema is an infinitive verb in Estonian that means to fight or struggle, and it is commonly used to describe the act of engaging in combat or competing against someone or something."
+  "context": "The Estonian word 'võitlema' is an infinitive verb that means to fight, struggle, or engage in conflict. It can be used both literally for physical fights and battles, as well as figuratively for struggles against difficulties or opposition. The verb changes form depending on the subject (person/number) - it becomes võitleme (we fight), võitlesid (you fought/vthey fought), etc."
 }

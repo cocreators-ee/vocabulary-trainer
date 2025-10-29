@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tarina on mielenkiintoinen.",
-    "Hän kertoi tarinan meille.",
-    "Tarinoita kerrotaan usein lapsille."
+    "Tämä on mielenkiintoinen tarina.",
+    "Olen kirjoittanut uuden tarinan lastenkirjaan.",
+    "Kuuntele tätä tarinaa huolellisesti."
   ],
   "translation": [
     "story",
     "tale",
     "narrative"
   ],
-  "context": "The word 'tarina' in Finnish refers to a story or narrative, and it is commonly used to describe a sequence of events or a tale told to entertain or educate others."
+  "context": "The Finnish word 'tarina' means 'story' or 'tale'. It's a common noun used to refer to an account of events, either real or fictional. In its basic form 'tarina', it can be modified with different suffixes for various grammatical functions - adding '-a/-ä' makes the partitive case ('tarinaa' meaning 'of a story' or 'some story'), and adding '-an' indicates the accusative case ('tarinan' meaning 'a story'). The word is commonly used in everyday conversation when discussing books, movies, personal experiences, or fictional narratives."
 }

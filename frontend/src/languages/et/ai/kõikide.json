@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan kõikide kohta",
-    "Kõikide meelest oli see hea mõte",
-    "Ta tegi kõikide jaoks midagi head"
+    "Kõikide õpilaste jaoks on see oluline.",
+    "See kinnitus kehtib kõikide puhul.",
+    "Kõikide eestlaste seas on palju erinevusi."
   ],
   "translation": [
+    "all",
     "everyone's",
-    "all people"
+    "of all",
+    "for all"
   ],
-  "context": "The word kõikide is a possessive pronoun in Estonian that means something belongs to everyone, and it is commonly used to describe things that are shared or owned by all people."
+  "context": "The Estonian word 'kõikide' is the partitive plural form of 'kõik', meaning 'all'. It functions as an adjective or pronoun indicating possession or relationship with multiple people or things. In English, it would translate to phrases like 'all's', 'everyone's', 'of all', or 'for all'. This form is used when referring to something that belongs to or affects everyone in a group."
 }

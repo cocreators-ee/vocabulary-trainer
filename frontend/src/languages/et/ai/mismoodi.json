@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea meeleolus.",
-    "Ma olen väga halvas moods.",
-    "Temaga on raske suhelda, kui ta on nii mürgises moods."
+    "Mismoodi sa said selle teada?",
+    "Ta ei tea mis moodi ta peaks tegema.",
+    "Kuidas mis moodi see töötab?"
   ],
   "translation": [
-    "bad mood",
-    "irritability"
+    "in what way",
+    "how",
+    "in what manner"
   ],
-  "context": "The word 'mismoodi' in Estonian refers to a person being in a bad or irritable mood, and is commonly used to describe someone who is grumpy or short-tempered."
+  "context": "The Estonian word 'mismoodi' is an interrogative adverb used to ask about the manner or way something is done. It combines 'mis' (what) with 'moodi' (way/manner) and functions similarly to English 'how' or 'in what way'. It's commonly used in questions seeking information about methods, processes, or ways of doing things."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu aeg on piiratud.",
-    "Pakutav summa oli piiratud.",
-    "Piiratud juurdepääs sellele teemale."
+    "See on piiratud hulk.",
+    "Tal on piiratud arv võimalusi.",
+    "Pood pakub piiratud valikut tooteid."
   ],
   "translation": [
-    "limited"
+    "limited",
+    "restricted",
+    "bounded"
   ],
-  "context": "The word 'piiratud' means limited. It is commonly used to describe something that has boundaries or restrictions placed upon it, such as time, access, quantity, etc."
+  "context": "The word 'piiratud' is the past participle form of the verb 'piirama' (to limit, to bound). It means something that has been restricted or bounded in some way - having limits on quantity, scope, access, or duration. It's commonly used when describing resources, opportunities, choices, or time frames that are not unlimited."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen sellise asja vastu",
-    "Ta on sellise inimese sõber",
-    "Sellise olukorra korral tuleb abi kutsuda"
+    "Selline ilm on täna väga ilus.",
+    "Meie kodu on nii selline ja mugav.",
+    "Olen harjunud selliste tingimustega."
   ],
   "translation": [
     "such",
-    "like this"
+    "like this",
+    "of this kind"
   ],
-  "context": "The word 'sellise' is used in Estonian to describe something that is of a certain type or kind, often used to compare or describe a situation."
+  "context": "'Sellise' is the instructive case of the Estonian pronoun 'selline', which means 'such' or 'of this kind'. It's used to describe qualities, characteristics, or states in a comparative or descriptive sense. The instructive case indicates how something is, its manner or quality. In English, it often translates as 'such', 'like this', or 'in such a way'."
 }

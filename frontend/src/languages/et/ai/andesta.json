@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma andestan sulle",
-    "Andesta mind olema",
-    "Ta andestas mulle"
+    "Ma ei tea, kas suudad andestada.",
+    "Ta palus andestust oma tegude eest.",
+    "Andesin talle andestuse."
   ],
   "translation": [
-    "forgive",
-    "pardon"
+    "to forgive",
+    "pardon",
+    "excuse"
   ],
-  "context": "The word andesta is commonly used in Estonian to mean forgive or pardon someone for a mistake or wrongdoing."
+  "context": "The Estonian word 'andesta' is a verb that means 'to forgive'. It's used when someone wants to pardon or excuse another person for something wrong they have done. The word can be conjugated in different forms depending on the tense and subject - 'andestad' (you forgive), 'andestab' (he/she/it forgives), 'andeks' (forgive as imperative). In Estonian, forgiveness is an important cultural concept related to reconciliation and moving forward after conflicts."
 }

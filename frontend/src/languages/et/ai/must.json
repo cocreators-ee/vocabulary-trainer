@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan musta kohvi",
-    "Mustad pilved tulevad",
-    "Ta kandis musta särgi"
+    "Must on väga ilus värv.",
+    "Tema must koer jooksis mööda teed.",
+    "Laps kandis musta mütsi."
   ],
   "translation": [
     "black",
     "dark"
   ],
-  "context": "The word 'must' in Estonian generally means the color black or something that is dark, and it is commonly used to describe objects or colors."
+  "context": "The word 'must' in Estonian is an adjective meaning 'black' or 'dark'. It's the basic form of the adjective (nominative singular masculine). In different grammatical contexts, it can change forms - for example, 'musta' is partitive case, 'must' in nominative plural remains the same, and 'muste' would be genitive/plural. The word describes color darkness or things that are black in color."
 }

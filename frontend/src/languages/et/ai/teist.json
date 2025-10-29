@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen teist.",
-    "Teist on võimatu näha.",
-    "Küsisin, kas teist on võimalik näha."
+    "Teine pool on veel teist.",
+    "Tema käis teist korda linna.",
+    "Meil on veel teisi planeedeid uurida."
   ],
   "translation": [
-    "you",
-    "yourself",
-    "yourselves"
+    "other",
+    "another",
+    "second"
   ],
-  "context": "The word 'teist' is a form of the Estonian pronoun for 'you' in the accusative or genitive case, used to refer to the person or people being addressed, similar to how 'you' is used in English."
+  "context": "In Estonian, 'teist' is the partitive case form of 'teine', which means 'other', 'another', or 'second'. It's used to indicate an indefinite quantity of something other than what has been mentioned before. In English translations, it often corresponds to 'some other', 'some another', or simply 'other' depending on context."
 }

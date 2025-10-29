@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Pelaan peliä tällä hetkellä",
-    "Hän on hyvä pelaamaan pelejä",
-    "Peli on jo päättynyt"
+    "Peli oli hauska.",
+    "Meidän peli men hyvin kaupaksi.",
+    "Lapsi rakastaa pelejä."
   ],
   "translation": [
     "game",
+    "match",
     "play"
   ],
-  "context": "The word 'peli' in Finnish refers to a game or play, and it is commonly used in various contexts such as sports, video games, or other forms of entertainment."
+  "context": "The Finnish word 'peli' is a noun that can be translated as 'game', 'match', or 'play'. It refers to an activity for entertainment, competition, or sport. When used in the nominative case, it means 'a game'. In the plural form 'pelit', it means 'games'. For example: 'Peli oli hauska' (The game was fun), 'Meidän peli men hyvin kaupaksi' (Our game sold well), 'Lapsi rakastaa pelejä' (The child loves games)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma küsin tema nime.",
-    "Küsin sind, kas see on sinu raamat?",
-    "Ta küsis mu vanemaid."
+    "Küsin abi.",
+    "Me küsime teie arvamust.",
+    "Ta küsis, kas sa tuled homme."
   ],
   "translation": [
-    "ask",
+    "I ask",
+    "to ask",
     "inquire"
   ],
-  "context": "The word 'küsin' is a verb in Estonian that means to ask or inquire about something, and it is commonly used in everyday conversations to request information or clarification."
+  "context": "The word 'küsin' is the first person singular present tense form of the Estonian verb 'küsima', which means 'to ask'. It specifically translates to 'I ask' in English. This form is used when the speaker is asking something themselves."
 }

@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma pidan sind armastama.",
-    "Ta peab seda tegema.",
-    "Me pidime talle aitäh ütlema."
+    "Ma pidame homsel esimest kohtumist.",
+    "Ta peab olema täna kell 18.00 kohal.",
+    "Pidage meile meeles."
   ],
   "translation": [
-    "to hold",
-    "must",
-    "should",
-    "to keep"
+    "to hold (an event)",
+    "to keep",
+    "to consider/think"
   ],
-  "context": "The Estonian verb 'pidada' is versatile and can express obligation ('must', 'have to'), possession ('to hold'), or continued existence ('to keep'). It often implies a degree of necessity or expectation."
+  "context": "The word 'pidada' is a versatile Estonian verb that can mean different things depending on context. It commonly means 'to hold' when referring to events or meetings, 'to keep' as in maintaining something over time, and 'to consider' or 'to think about'. As an imperative form (like the third example sentence), it means 'Keep in mind'. This verb belongs to the -da verb conjugation class in Estonian."
 }

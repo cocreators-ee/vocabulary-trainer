@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kardab koera",
-    "Koer kardab inimest",
-    "Lapsed kardavad öömusta"
+    "Tema kardab madusid.",
+    "Lapsed kardad öiseid jõudusid.",
+    "Ta ei karda riskida."
   ],
   "translation": [
     "is afraid of",
-    "fears"
+    "fears",
+    "dreads"
   ],
-  "context": "The word kardab is a verb that means to be afraid of or fear something, and it is commonly used in Estonian language to express fear or apprehension towards someone or something."
+  "context": "The Estonian word 'kardab' is the third person singular present tense form of the verb 'kartma', which means 'to fear' or 'to be afraid of'. It's used when talking about someone else who experiences fear. The root word 'kart-' appears in various forms: kartma (infinitive), kardan (I fear), kardad (you fear), kardab (he/she/it fears), kardame (we fear), kardate (y'all/plural you fear), kardavad (they fear)."
 }

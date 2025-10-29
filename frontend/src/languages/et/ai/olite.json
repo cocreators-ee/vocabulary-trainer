@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meie peres oli teel.",
-    "Nad olid väsinud.",
-    "Olime hiljaks jäänud."
+    "Olite meie külalised eile",
+    "Kus olite viimati?",
+    "Olite alati hea sõber"
   ],
   "translation": [
-    "were",
-    "was",
-    "had"
+    "you were (plural)",
+    "you all were"
   ],
-  "context": "The verb 'oli' is a past tense form of the verb 'olema' (to be) in Estonian. It’s used to express states or conditions that existed in the past, similar to ‘was’ and ‘were’ in English."
+  "context": "The word 'olite' is the past tense plural form of the verb 'olema' (to be) in Estonian. It specifically means 'you were' when addressing multiple people or using formal address to a single person. This is the 2nd person plural imperfect/past tense conjugation."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kirjutan artikli.",
-    "Kirjuta see üles!",
-    "Ta on kirjutanud mitu raamatut."
+    "Ma pean homme kirjutama esse.",
+    "Kas sa kirjutad mulle meili?",
+    "Tema kirjutas raamatu aastal 2020."
   ],
   "translation": [
-    "write",
-    "compose"
+    "to write",
+    "write"
   ],
-  "context": "The word 'kirjuta' is commonly used in Estonian to mean writing or composing something, such as an article, a letter, or a book."
+  "context": "The Estonian verb 'kirjuta' means 'to write' in English. It is the imperative form of the verb 'kirjutama', which means 'to write'. The word is used when giving a direct command or request to someone to write something. In different contexts, it can be used for writing letters, essays, books, emails, or any other form of written communication."
 }

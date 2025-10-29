@@ -1,15 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen hotellis",
-    "Hotelli number on 123",
-    "Hotellid on üsna kallid"
+    "Me peame leidma hea hotelli ööbimiseks.",
+    "See hotelis on väga kallis.",
+    "Tartus on paluusi uusi hoteleid."
   ],
   "translation": [
-    "hotel",
-    "inn",
-    "motel"
+    "hotel"
   ],
-  "context": "The word hotell refers to a building where people can stay for a short period of time, typically while traveling or on vacation."
+  "context": "The Estonian word 'hotell' directly corresponds to the English word 'hotel'. It refers to a commercial establishment that provides lodging, typically for short-term stays. The word is borrowed from English and maintains the same spelling and meaning in Estonian. It's commonly used when talking about accommodation during travel or business trips."
 }

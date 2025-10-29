@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Agendid töötavad salaja.",
-    "Ta on üks agentidest, kes on siin olnud.",
-    "Agente kasutatakse sageli luuretegevuses."
+    "Agendid on töötavad isikud.",
+    "Mehed said agendiks.",
+    "Naised olid agendid."
   ],
   "translation": [
     "agents"
   ],
-  "context": "The word 'agendid' refers to agents, which are people who work for an organization, often in a secret or unofficial capacity, and are commonly used in contexts such as espionage or law enforcement."
+  "context": "The word 'agendid' is the plural form of the Estonian noun 'agent'. It refers to multiple agents or people who act on behalf of others, typically in professional contexts such as business, intelligence, or representation. The singular form would be 'agent', and when used in plural, it indicates more than one person serving in this capacity."
 }

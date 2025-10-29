@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma istun paremal pool lauda.",
-    "Ta on paremal kaldel.",
-    "Paremal on hea ilm."
+    "Maja on paremal.",
+    "Paremal pool tee asub pood.",
+    "Kas sa näed seda autot paremal?"
   ],
   "translation": [
     "on the right",
-    "to the right"
+    "to the right",
+    "right"
   ],
-  "context": "The word 'paremal' in Estonian means 'on the right' or 'to the right', indicating direction or location. It is commonly used to describe the position of something or someone in relation to another object or person."
+  "context": "The Estonian word 'paremal' is an adverb meaning 'on the right' or 'to the right'. It indicates position relative to the right side. The word appears in its basic/adverbial form and would change for different cases, but in this form it's used to describe something being located to the right of a reference point."
 }

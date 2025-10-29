@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on osa tiimiä",
-    "Osa ravintoloista on avoinna illalla",
-    "Tämä on tärkeä osa elämääni"
+    "Osaan suomea.",
+    "Minulla on osa-alueiden ymmärrys.",
+    "Tämä kirja on tärkeä osa kokoelmaamme."
   ],
   "translation": [
     "part",
     "portion",
-    "some"
+    "share",
+    "division",
+    "section"
   ],
-  "context": "The word 'osa' in Finnish generally means a part or portion of something, and it is commonly used to describe a component or fraction of a whole."
+  "context": "The Finnish word 'osa' is a noun that means 'part,' 'portion,' or 'share.' It refers to a division, section, or component of something larger. The word can be used in various contexts - from talking about parts of objects (like car parts) to abstract concepts like parts of knowledge, portions of food, or shares of ownership. In Finnish grammar, it's an inflectional noun that changes form based on case and number."
 }

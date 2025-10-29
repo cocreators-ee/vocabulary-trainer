@@ -1,11 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastasin teda"
+    "Ma armastasin sind alati.",
+    "Ta armastas oma ema väga.",
+    "Meie lapsed armastasid mängida lasteaias."
   ],
   "translation": [
-    "loved"
+    "loved",
+    "was loving",
+    "had loved"
   ],
-  "context": "The word armastas is the simple past tense of the Estonian verb armastama, which means to love"
+  "context": "The word 'armastas' is the past tense form of the Estonian verb 'armastama', which means 'to love'. It is used in simple past tense to express that someone loved or was loving something/someone in the past. The verb belongs to the -ma conjugation class, and this specific form would be for 3rd person singular (he/she/it) in simple past."
 }

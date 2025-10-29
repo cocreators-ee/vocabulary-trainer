@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kuningas istui valtaistuimella.",
-    "Hän on kuningasmaisen näköinen.",
-    "Kuningattaren aviomies oli entinen kuningas."
+    "Kuningas hallitsee kuningaskuntaa.",
+    "Suomen kuningas oli Väinö I vuonna 1918.",
+    "Tämä kirja kertoo kuninkaan elämästä."
   ],
   "translation": [
-    "king"
+    "king",
+    "monarch",
+    "ruler"
   ],
-  "context": "The word kuningas refers to a male monarch or ruler, typically holding supreme power and authority over a kingdom or realm."
+  "context": "The Finnish word 'kuningas' means king or monarch. It is the singular form of a masculine noun referring to a male ruler who typically reigns over a kingdom. In Finnish, it belongs to the declension class where the genitive singular would be 'kuninkaan', as seen in the example sentences."
 }

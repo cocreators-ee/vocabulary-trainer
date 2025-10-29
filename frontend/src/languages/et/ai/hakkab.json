@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta hakkab laulma.",
-    "Me hakkame homme reisima.",
-    "Kas sa hakkad mind kuulama?"
+    "Tema hakkab kooli käima.",
+    "Poisid hakkad mängima palli.",
+    "Kell hakkab kellama."
   ],
   "translation": [
-    "begins",
     "starts",
-    "commences"
+    "begins",
+    "commences",
+    "is about to"
   ],
-  "context": "The Estonian word 'hakkab' is a verb that indicates the beginning of an action or state. It’s similar to ‘begins,’ ‘starts,’ or ‘commences’ in English and often implies an intention or process of starting something."
+  "context": "The Estonian word 'hakkab' is the 3rd person singular present form of the verb 'hakata', which means 'to start' or 'to begin'. It indicates that someone or something is starting to do an action. This verb is commonly used in everyday Estonian to describe when actions commence."
 }

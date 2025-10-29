@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma arvan, et see on paras variant",
-    "Paras võimalik tulemus on 10 punkti",
-    "Ta ütles, et tema paras väimees on sõber"
+    "See on paras lõuna päeval.",
+    "Tema oli paras sportlane.",
+    "Me leidsime parase restorani."
   ],
   "translation": [
     "best",
     "excellent",
-    "finest"
+    "superb",
+    "fine"
   ],
-  "context": "The word 'paras' is commonly used in Estonian to describe something or someone as being of high quality or excellent."
+  "context": "In Estonian, 'paras' is an adjective meaning 'the best' or 'excellent'. It's the superlative form of the adjective 'parem' which means 'better'. 'Paras' can be used to describe something as being of the highest quality, superior, or excellent. When using this word in different grammatical contexts, it may need to agree with the noun it modifies in terms of gender (naissool/naistel), number (mitmus) and case."
 }

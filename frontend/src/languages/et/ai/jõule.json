@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Jõule ootab kogu pere.",
-    "Ta on jõulude ajal väga rõõmsas meeleolus.",
-    "Meie pere armastab jõulesid."
+    "Jõule on meeldejääv aeg.",
+    "Me läheme jõulele perega.",
+    "Kodune õhk lõi jõule."
   ],
   "translation": [
     "Christmas",
-    "Yule"
+    "Yuletide",
+    "holiday season"
   ],
-  "context": "The word 'jõule' in Estonian refers to Christmas, and it is commonly used to express the holiday season or to wish someone a merry Christmas."
+  "context": "The word 'jõule' is the partitive case of 'jõulud', which means Christmas or Yuletide in Estonian. The partitive form is often used with prepositions and can indicate location, time, or duration. In this context, it refers to the Christmas period or holiday season."
 }

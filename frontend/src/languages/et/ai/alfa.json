@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on täielik alfa isiksus.",
-    "Meeskonnas oli selgelt näha, kes on alfa.",
-    "Alfa poiss juhtis mängu."
+    "Alfa on tähtkuju.",
+    "Ta oli alfa meeskonnas.",
+    "Alfa ja beeta on esimesed kaks tähendust."
   ],
   "translation": [
     "alpha",
-    "leader",
-    "dominant male"
+    "first letter of the Greek alphabet",
+    "dominant person in a group"
   ],
-  "context": "The word 'alfa' in Estonian, similar to its English counterpart, refers to the dominant individual within a group, often used to describe a strong and assertive personality. It can also refer to a leader or someone who takes charge."
+  "context": "The word 'alfa' is used in Estonian to refer to the first letter of the Greek alphabet (alpha). It can also be used more generally to describe someone who is dominant or takes the lead role in a group, similar to how 'alpha' is used in English slang. In astronomy contexts, it may refer to the brightest star in a constellation."
 }

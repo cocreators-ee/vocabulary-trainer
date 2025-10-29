@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin väljapääsu.",
-    "Väljapääsuga ei olnud probleemi.",
-    "Ta polnud kinderties väljapääsu."
+    "Väljapääsu leidsime lõpuks keldrist.",
+    "See on ainus väljapääs sellest hoonest.",
+    "Põgenemiseks oli vaja leida kiire väljapääsu."
   ],
   "translation": [
     "exit",
-    "way out"
+    "way out",
+    "escape route",
+    "outlet"
   ],
-  "context": "The word refers to a path or route that allows someone to leave a place or situation, often used in the context of finding a solution or escape from a difficult circumstance."
+  "context": "The Estonian word 'väljapääsu' is the partitive case form of 'väljapääs', which means 'exit' or 'way out'. It's commonly used when referring to an exit point, escape route, or way to get out of a location. The partitive case (-u ending) indicates that we're talking about some or one of the exits, rather than specifying a particular exit."
 }

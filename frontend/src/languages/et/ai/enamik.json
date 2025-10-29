@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Enamik inimesi ei oska sellest aru.",
-    "Ta võitis enamiku valimisringkondadest.",
-    "Kuulsus on vaid enimale inimestele lubatud."
+    "Enamik inimestest otsivad head tööd.",
+    "Enamik meie linnu on hästi kaitstud.",
+    "Enamik ajast on ta tööl."
   ],
   "translation": [
-    "majority",
-    "most"
+    "most",
+    "the majority of",
+    "the greater part"
   ],
-  "context": "The word enanik is commonly used in Estonian to refer to the majority or most of something, and it can be used in various contexts such as voting, statistics, or general statements."
+  "context": "The word 'enamik' is an Estonian noun meaning 'most' or 'the majority of'. It's used to indicate that something applies to the largest portion of a group. The word is typically followed by the genitive case in Estonian, so you would say 'enamik [something]' - for example, 'enamik inimestest' means 'most of the people'. This construction indicates that whatever follows refers to the larger or more significant part of a whole group."
 }

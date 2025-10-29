@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Leiagi meeldivat piletit!",
-    "Leinangu kvaliteet on väga oluline.",
-    "Ta otsis leianu, et laulda."
+    "Ma leian alati aega lugemiseks.",
+    "Meie leiame lahenduse sellele probleemile.",
+    "Sa leiad seda raamatu varsti."
   ],
   "translation": [
-    "melody",
-    "tune"
+    "find",
+    "discover",
+    "locate"
   ],
-  "context": "The word 'leian' in Estonian refers to a musical melody or tune. It is commonly used when talking about songs and music, such as finding the right melody for a song or describing the quality of a melody."
+  "context": "The Estonian word 'leian' is the first-person singular present tense form of the verb 'leidma', which means 'to find'. It's used when someone (I) finds or discovers something. The verb changes form based on the subject and tense, so 'leian' specifically refers to 'I find'. Other forms include 'leiad' (you find), 'leiab' (he/she/it finds), etc."
 }

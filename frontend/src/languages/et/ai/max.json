@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa seda maksimaalselt kasutada.",
-    "See on maksimum piir.",
-    "Ta saavutas oma maksimumi."
+    "Max on minu sõber.",
+    "Ma olen Max ja õpin Tartu Ülikoolis.",
+    "Max võitis spordivõistluse."
   ],
   "translation": [
     "maximum",
-    "most",
-    "peak"
+    "maximal"
   ],
-  "context": "The word 'max' in Estonian, similar to its English counterpart, refers to the highest possible amount or level. It can also denote a limit or peak performance."
+  "context": "The Estonian word 'max' is used as a proper noun, specifically as a name. It appears to be the Estonian form of the name Max, which can also serve as an abbreviation for 'maximum' or 'maximal' in some contexts."
 }

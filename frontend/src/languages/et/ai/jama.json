@@ -1,13 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Jama tekkis siis järele.",
-    "Kui sul tuleb jama, helista mulle.",
-    "Sul on vaid minut aega enne kui jama tekkib."
+    "Mul on jama.",
+    "See tekitab mulle jamu.",
+    "Ei taha rohkem jama."
   ],
   "translation": [
-    "trouble"
+    "trouble",
+    "problem",
+    "mess",
+    "hassle"
   ],
-  "context": "A problem or trouble that arises unexpectedly"
+  "context": "In Estonian, 'jama' is a noun that refers to trouble, problems, messes, or hassles. It's commonly used in everyday situations when something goes wrong or causes difficulty. The word can be used in various contexts - from small annoyances to more serious issues."
 }

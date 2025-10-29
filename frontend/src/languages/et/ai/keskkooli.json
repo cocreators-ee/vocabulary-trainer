@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu vanemad saatsid mind keskkooli.",
-    "Keskkoolis õpitakse mitmeid erinevaid asju.",
-    "Ta eelistab teisi koolipäevi keskkooli."
+    "Mina käisin keskkoolis Tallinnas.",
+    "Tema õpib praegu keskkooli lõpetama.",
+    "Keskkooli elu oli mul väga meeldejääv."
   ],
   "translation": [
     "high school",
     "secondary school"
   ],
-  "context": "Refers to secondary education institutions in Estonia, typically for students aged 14-18. It is used both as a noun and part of compound words or phrases."
+  "context": "The word 'keskkooli' is the genitive case of 'keskkool', which means 'high school'. In Estonian, '-i' ending often indicates possession or relationship. So 'keskkooli' can mean 'of high school', 'to high school', or be used in possessive constructions like 'my high school's'. It appears to be formed from 'kesk-' (middle) + 'kool' (school)."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma nägin teda viimati eile.",
-    "Viimati oli ta tööl.",
-    "Ta on viimati olnud haigeks."
+    "Viimati nägin sind eile.",
+    "Kas sa viimati küsisid sellest?",
+    "Me viimati vestlesime nädal tagasi."
   ],
   "translation": [
     "last time",
     "recently",
-    "lately"
+    "previously"
   ],
-  "context": "The word 'viimati' in Estonian means 'last time' or 'recently', and it is commonly used to indicate when something happened for the last time or has been done recently."
+  "context": "The Estonian word 'viimati' is an adverb that means 'last time', 'recently', or 'previously'. It indicates the most recent occurrence of something in the past. The word comes from the root 'viimane' which means 'last' or 'final'. When used with verbs, it typically refers to a past action that happened most recently before the present moment."
 }

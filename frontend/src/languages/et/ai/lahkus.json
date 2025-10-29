@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lahkus varahommikul.",
-    "Lahkus on sõna, mis tähendab lahkumist.",
-    "Meie vanemad lahkusid juba ammu."
+    "Eile lahkus meie kodus külastaja.",
+    "Ta lahkus hommikul varakella.",
+    "Lahkuge palun enne lõunaajast."
   ],
   "translation": [
     "left",
     "departed",
-    "went away"
+    "exited"
   ],
-  "context": "The word 'lahkus' is the third person singular form of the verb 'lahkuma', which means to leave or depart from a place, and it is commonly used in Estonian to describe someone's action of leaving somewhere."
+  "context": "The word 'lahkus' is the past tense of the Estonian verb 'lahkuma', which means to leave, depart, or exit. It's used when someone has departed from a location or situation. The root form 'lahkuma' indicates movement away from a place, and in its past tense form 'lahkus', it describes an action that has already been completed."
 }

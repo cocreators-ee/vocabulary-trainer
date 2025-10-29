@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on abielus.",
-    "Abitöölisus on tõesti abielus.",
-    "Abielupaaridel on sageli keeruline elu."
+    "Ta on abielus naisega.",
+    "Meie vanemad on abielus olnud üle 30 aasta.",
+    "Kas te olete abielus?"
   ],
   "translation": [
-    "married"
+    "married",
+    "in marriage"
   ],
-  "context": "The word 'abielus' in Estonian means being in a state of marriage, and it is commonly used to describe someone who is married or in a marital relationship."
+  "context": "The word 'abielus' is an adjective in Estonian that describes someone who is married or in a marital relationship. It can be used to indicate a person's marital status."
 }

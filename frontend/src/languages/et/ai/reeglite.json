@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Reeglid on kirjutatud reeglitele",
-    "Reegli vastu võiks olla mõni erand",
-    "Kui reegleid ei oleks, siis poleks meil ka ühiskonda"
+    "Mängu reeglite järgi me võidame alati.",
+    "Lapsevanemad peavad järgima koolireeglite.",
+    "Töökohustused määravad selgelt töötaja käitumisreeglite."
   ],
   "translation": [
     "rules",
-    "regulations"
+    "regulations",
+    "guidelines"
   ],
-  "context": "The word 'reeglite' refers to a set of rules or regulations that govern behavior or activities in Estonian. It is commonly used in formal and informal contexts to convey the idea of established norms or guidelines."
+  "context": "The word 'reeglite' is the partitive case plural form of 'reeglid', which means 'rules' in English. In Estonian, the partitive case often indicates partiality or indefiniteness, and when used with plural nouns like 'reeglit', it can suggest 'some rules' or refer to rules as a general concept without specifying exactly which ones."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma õpin inglise keelt.",
-    "Ta õppis eesti keelt koolis.",
-    "Õpi uusi sõnu igal päeval."
+    "Õpi uusi asju.",
+    "Ta õpib igapäevaselt.",
+    "Lapsed on head õpilased."
   ],
   "translation": [
-    "learn",
-    "study"
+    "learns",
+    "is learning",
+    "studies"
   ],
-  "context": "The word õpi is a verb in Estonian that means to learn or study something, and it is commonly used in the context of acquiring new knowledge or skills."
+  "context": "The Estonian word 'õpi' is the third person singular present form of the verb 'õppima', which means 'to learn' or 'to study'. It indicates that someone is currently in the process of acquiring knowledge or skills."
 }

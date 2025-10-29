@@ -1,11 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mul meeldib see film."
+    "Mul meeldib see raamat.",
+    "Talle ei meeldi sõda.",
+    "Mulle meeldiks lõuna."
   ],
   "translation": [
-    "I like this movie."
+    "to like",
+    "to enjoy",
+    "be fond of"
   ],
-  "context": "'Meeldima' is the first singular form of the verb 'meeldiv', which means to be pleasing or agreeable. It is commonly used in its infinitive form and can also function as a gerund when attached to other verbs."
+  "context": "Meeldima is an Estonian verb that means 'to like' or 'to enjoy'. It's used to express a preference for something or someone. The verb can be conjugated in different forms depending on the subject: mul meeldib (I like), sulle meeldib (you like), tal ei meeldi (he/she doesn't like). It often appears with the dative case pronoun indicating who is doing the liking (mul = for me, sulle = for you, etc.)."
 }

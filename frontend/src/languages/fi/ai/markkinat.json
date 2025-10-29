@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Markkinat ovat auki joka päivä",
-    "Olemme menossa markkinoille ostamaan hedelmiä",
-    "Markkinoiden tulisi olla avoinna myös sunnuntaisin"
+    "Markkinat avautuu tänään klo 10.",
+    "Tämä tuote on suosittu markkinoilla.",
+    "Meillä on hyvä maine markkinoilla."
   ],
   "translation": [
     "market",
-    "bazaar",
-    "fair"
+    "markets",
+    "the market"
   ],
-  "context": "The word 'markkinat' refers to a place where goods are sold, often outdoors or in a public area, and is commonly used in Finnish to describe a market or bazaar."
+  "context": "The Finnish word 'markkinat' means market or markets. It's in the plural form and typically refers to physical marketplaces, commercial markets, or economic markets where goods, services, or securities are bought and sold. The word is commonly used when talking about opening hours of shops, product popularity in commerce, or business reputation."
 }

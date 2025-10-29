@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on palju vastuseid",
-    "Ta sai mitmeid vastuseid",
-    "Vastused olid hämmastavad"
+    "Milliseid vastuseid ootad?",
+    "Ta ei andnud oodatuid vastuseid.",
+    "Palun kirjuta alla oma vastused."
   ],
   "translation": [
     "answers",
+    "replies",
     "responses"
   ],
-  "context": "The word 'vastuseid' is the plural form of 'vastus', which means answer or response in English, and it is commonly used to refer to replies or reactions to questions, statements, or situations."
+  "context": "The word 'vastuseid' is the partitive plural form of 'vastus', which means answer or reply in Estonian. The '-d' ending indicates that it's a plural noun, and the '-i-' vowel before the case marker shows it follows the weak-grade declension pattern. This form is used when referring to answers in an indefinite quantity or when they are objects of the sentence."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tuli minutiga kohale.",
-    "See töö tehti minutiga.",
-    "Ma ei saa seda minutiga aru."
+    "Minutiga on küsimus.",
+    "Ootan minutiga.",
+    "Me kohtume minutiga."
   ],
   "translation": [
     "in a minute",
-    "within a minute",
-    "instantly"
+    "momentarily",
+    "soon"
   ],
-  "context": "The Estonian word 'minutiga' is an adverbial form derived from the word 'minut', meaning 'minute'. It indicates that something happens or can be completed very quickly, within a short amount of time – essentially, ‘in a minute’ or ‘instantaneously’. It's used to express speed or immediacy."
+  "context": "The word 'minutiga' in Estonian is the adessive case form of 'minute', which means 'with minute'. It's commonly used to express that something will happen in or after a short period of time, similar to saying 'in a minute' or 'momentarily' in English. The '-ga' suffix indicates the adessive case, often translating to 'with' but in this temporal context it functions as 'within/in'."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma läksin ühel päeval metsa.",
-    "Neil on ühel ajal kohtumine.",
-    "See juhtus ühel suvel."
+    "Tule ühel päeval külastama.",
+    "Me kohtume ühel kellaaegadel.",
+    "Ta elab ühel tänaval."
   ],
   "translation": [
-    "one",
-    "a",
-    "certain"
+    "on",
+    "at",
+    "in",
+    "on the"
   ],
-  "context": "The word 'ühel' is the partitive singular form of the Estonian word 'üks', meaning 'one' or 'a'. It’s used to indicate an indefinite quantity or a portion of something. In English, it often translates as 'on one,' 'in a,' or simply implies indefiniteness when combined with other words."
+  "context": "Ühel is the Estonian elative case form of 'üks' (one). It's used with prepositions or in contexts where something happens at/in/on a particular time, place, or occasion. The elative case typically indicates location from within or source."
 }

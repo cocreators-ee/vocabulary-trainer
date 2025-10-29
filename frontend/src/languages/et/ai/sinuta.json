@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean sind sinuta.",
-    "Kas sa oled mind sinuta?",
-    "Ära ole sinuta."
+    "Sinuta ei saa siia tulla.",
+    "Ta tulles sinuta.",
+    "Kas sa tuleksid sinuta?"
   ],
   "translation": [
-    "you",
-    "yourself"
+    "without you",
+    "if not for you",
+    "unless you"
   ],
-  "context": "The Estonian word 'sinuta' is a personal pronoun used to refer to the person being addressed. It can be translated as 'you' or 'yourself', and it’s often used in informal contexts or when emphasizing direct address."
+  "context": "In Estonian, 'sinuta' is a compound word formed from 'sina' (you) and the suffix '-ta', which means 'without'. It functions as an adverbial expression meaning 'without you' or used conditionally to mean 'if not for you' or 'unless you'. The word indicates absence of someone's presence or contribution."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis sekundi pikkuse pausi.",
-    "Sekundiga sai ta aru, mida teha.",
-    "Ta ootas sekundi, enne kui vastas."
+    "Oota hetk sekundi aja.",
+    "Ta jooksis sekundiga läbi tuppa.",
+    "Kaks minutit ja kolmkümmend sekundit."
   ],
   "translation": [
-    "second"
+    "second (time unit)",
+    "moment",
+    "instant"
   ],
-  "context": "The word 'sekundi' is used to refer to a unit of time in Estonian, similar to the English word 'second', and it is commonly used to describe a short period of time or a pause."
+  "context": "\"Sekundi\" is the partitive form of the Estonian word \"sekund\", which means \"second\" as in time. The partitive case is used here to indicate a duration or amount - literally meaning \"a second's worth of time\" or \"for a second\". It's commonly used when referring to short durations, such as waiting for a moment or timing something briefly."
 }

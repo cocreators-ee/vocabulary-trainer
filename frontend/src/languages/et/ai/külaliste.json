@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Külalised tulevad homme.",
-    "Ta on hea külaline.",
-    "Meil on palju külalisi."
+    "Tere tulemast külalised!",
+    "Meie külalised jõuvarsti ära.",
+    "Külastasid meid oma külaliste."
   ],
   "translation": [
-    "guests"
+    "guests",
+    "visitors"
   ],
-  "context": "The word 'külaliste' is the genitive plural form of the Estonian word 'külaline', which means guest. It is commonly used to refer to people who are visiting someone or someplace, and is often seen in sentences where the subject is the guests or the action is related to them."
+  "context": "The word 'kylaliste' is the genitive plural form of 'külaline', meaning 'guest' in Estonian. In this form, it typically means 'of guests' or 'belonging to guests'. It can be used when talking about things that belong to guests, or when guests are mentioned as the subject in possessive constructions."
 }

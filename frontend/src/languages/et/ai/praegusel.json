@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Praegusel ajal on see üks populaarsemaid kohti.",
-    "Ta on praegusel hetkel väga haige.",
-    "Praegusel kuul on ta tööl."
+    "Praegusel aastal toimuvad Eestis palu üritused.",
+    "Olen praegusel hetkel oma töökohtades hõivatud.",
+    "Meie planeeritakse praegusel perioodil uue maja ehitamist."
   ],
   "translation": [
+    "at present",
     "currently",
-    "at the moment"
+    "at this time",
+    "nowadays"
   ],
-  "context": "The word 'praegusel' in Estonian is used to describe something that is happening or existing at the present time, and it is commonly translated to English as 'currently' or 'at the moment'."
+  "context": "The word 'praegusel' is the adessive case of the adjective 'praegune', which means 'current' or 'present'. In Estonian, the adessive case typically indicates location ('on') or state ('being at'). So 'praegusel' literally means 'at the current' and is used to express when something is happening in relation to the present time. It's commonly used with temporal contexts like periods of time (year, month, week) to indicate that something is occurring during the current timeframe."
 }

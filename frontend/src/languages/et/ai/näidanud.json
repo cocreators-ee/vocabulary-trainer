@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen näidanud talle minu tööd.",
-    "Ta on näidanud mind oma sõbrale.",
-    "Nad on näidanud mulle oma kodu."
+    "Ma näitan sulle seda raamatut.",
+    "Ta ei näidanud mulle oma pilti.",
+    "Nad on juba näidanud oma tulemusi."
   ],
   "translation": [
     "shown",
     "demonstrated",
     "exhibited"
   ],
-  "context": "The word 'näidanud' is the past participle form of the Estonian verb 'näitama', which means to show or demonstrate something, and it is commonly used in sentences to indicate that someone has been shown or presented with something."
+  "context": "The word 'näidanug' is the past participle form of the Estonian verb 'näidata', which means 'to show'. It indicates that an action of showing has been completed in the past. In English, it corresponds to words like 'shown', 'demonstrated', or 'exhibited'. This form is typically used with auxiliary verbs in compound tenses or as a modifier."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Maal on ilus aed.",
-    "Me elame maas, mitte linnas.",
-    "Mees viibis kaks nädala maas."
+    "Tema on maas.",
+    "Kaks meest läksid metsa ja said haavata, kuid üks neist jõudis siiski maas.",
+    "Pärast tormu oli palju puusid maas."
   ],
   "translation": [
-    "country"
+    "on the ground",
+    "fallen down",
+    "lying on the ground"
   ],
-  "context": "'maas' refers to the rural countryside as opposed to urban areas. It is used to describe living in or being located in a non-urban area with more open space and agriculture."
+  "context": "In Estonian, 'maas' is the adessive case form of 'maa', meaning 'ground' or 'earth'. It's used to indicate that something is located on the ground surface or has fallen/lie down. The adessive case typically shows location on/in something, so here it indicates position relative to the ground."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Käivad juba kooli?",
-    "Käivad koju?",
-    "Kas nad käivad siia?"
+    "Kodanikud käivad koolis.",
+    "Lapsed käivad mängima pargi.",
+    "Poisid käivad kinno."
   ],
   "translation": [
-    "to go",
     "go",
-    "are going"
+    "walk",
+    "attend"
   ],
-  "context": "The word 'käivad' is the second person plural or third person plural form of the verb 'käia', which means 'to go'. It is commonly used to ask where someone is going, such as in questions like 'Where are you going?'."
+  "context": "The word 'käivad' is the 3rd person plural present form of the Estonian verb 'käia', which means 'to go', 'to walk', or 'to attend'. It describes what a group of people are currently doing - they are going somewhere, walking to a location, or attending an event or institution."
 }

@@ -1,13 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta jättis oma käsi türki",
-    "Ma ei saa kedagi siin jätta",
-    "Jäta see pidi"
+    "Ma jätan homme hommikul varakella.",
+    "Ta jäti meid ilma hoiatamata.",
+    "Laps ei taha jätta mängu poolteistel."
   ],
   "translation": [
-    "leave"
+    "to leave",
+    "to abandon",
+    "to omit",
+    "to forget"
   ],
-  "context": "jätta is a verb in Estonian that means to leave or to put something somewhere. It can also mean to abandon."
+  "context": "The Estonian verb 'jätta' has multiple meanings depending on context. It can mean to leave something behind, to abandon or desert someone/something, to omit or skip something, or to forget to do something. The word is often used with different cases - for example, when leaving something somewhere, it might be in the partitive case 'jätta midagi' (to leave something), and when describing abandonment, it could be in the genitive case 'jätta kedagi ilma millegi' (to leave someone without something)."
 }

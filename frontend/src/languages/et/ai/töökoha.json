@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen töökohas",
-    "Töökoha leidmine võib olla raske",
-    "Töökohal on hea meeleolu"
+    "Töökoha leidmine on praegu raske.",
+    "Mul on hea töökoda ja head kolleegid.",
+    "Ta vahetas oma töökoha uue vastu."
   ],
   "translation": [
     "workplace",
+    "job position",
     "place of work"
   ],
-  "context": "The word refers to the location where someone works or a place of employment, and it is commonly used in Estonian to talk about one's job or profession."
+  "context": "The word 'töökoha' is a compound noun in Estonian formed from 'töö' (work) and 'koha' (place). It refers to a workplace or job position where someone works. The word can be used in singular form as shown, but it also has plural forms like 'töökohad'. This term commonly appears when discussing employment, job searches, or describing one's professional environment."
 }

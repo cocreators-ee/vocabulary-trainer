@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Toide viidi proovioks laborisse.",
-    "Pakkunud näidist saadakse tagasi ainult siis, kui see on mõeldud ainuks proovile ja testi tegemiseks.",
-    "Uus toote versioon antakse klientidele proovi ja parandamiseks."
+    "Minu esinemine proovile oli edukas.",
+    "Ta läheb proovile järgmisel nädalal.",
+    "Proovile panek on kõige tähtsam osa õppimisest."
   ],
   "translation": [
-    "for the test",
-    "as a sample"
+    "test",
+    "trial",
+    "examination"
   ],
-  "context": "'Proovile' is used to indicate that something is given or taken for testing, sampling, or evaluation purposes."
+  "context": "In Estonian, 'proovile' is the adessive case form of 'proov', meaning 'on test' or 'by trial'. It indicates a state or condition related to testing, examination, or trial. This form typically follows a verb and shows that something is being tested or examined."
 }

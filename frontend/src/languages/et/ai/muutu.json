@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kindel, et see muutu homme.",
-    "Ta muutus ühe öö jooksul.",
-    "Ilmastikumuutused on muutanud looduslikke protsesse."
+    "Muutus on see, mis toimub ühest olekust teise.",
+    "Klubi muutuste hõivates pole võimalik tagasi pöörduda.",
+    "Ta oli sunnitud oma plaane muutma."
   ],
   "translation": [
     "change",
-    "transform"
+    "to change",
+    "changing"
   ],
-  "context": "The word muutu is a verb in Estonian that means to change or transform something, it is commonly used to describe a shift or alteration in the state of something."
+  "context": "'Muutu' is the 3rd person singular present tense form of the Estonian verb 'muutuma', which means 'to change'. It's used when someone or something is changing in the present moment. The word comes from the root 'muut-' meaning 'change' and the suffix '-u' indicates it's in the present tense for a single subject."
 }

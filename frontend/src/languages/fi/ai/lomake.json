@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Täytä lomake huolellisesti.",
-    "Lomakkeen täyttäminen kestää vain muutaman minuutin.",
-    "Voit tulostaa lomakkeen ja täyttää sen käsin."
+    "Täytä tämä lomake.",
+    "Olen lähettämässä työnhakulomakeen.",
+    "Verkkolomake vaatii sähköpostiosoitteen."
   ],
   "translation": [
     "form",
-    "application form"
+    "application form",
+    "questionnaire"
   ],
-  "context": "The word 'lomake' refers to a document with blank spaces or fields that are to be filled in with information, typically for official purposes such as applying for something or providing personal details."
+  "context": "In Finnish, 'lomake' refers to a document or electronic interface with fields for information to be filled in by users. It's commonly used for application forms, registration documents, surveys, and any standardized paperwork that requires input. The word can refer to physical paper forms as well as digital forms found on websites."
 }

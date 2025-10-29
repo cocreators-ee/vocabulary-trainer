@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Peamine töö on valmis",
-    "Ta on peamiselt huvitunud ajaloost",
-    "Peamised probleemid on juba lahendatud"
+    "Peamine asi on see, et me saame teha oma tööd.",
+    "Tema peamine eesmärk oli õppida kõiki asju.",
+    "See on peamine põhjus, miks ta tuli."
   ],
   "translation": [
     "main",
     "primary",
-    "principal"
+    "principal",
+    "chief",
+    "most important"
   ],
-  "context": "The word 'peamine' in Estonian generally refers to something that is main or primary in importance, which can be used to describe a variety of things such as tasks, interests, or problems."
+  "context": "The Estonian word 'peamine' is an adjective that means 'main', 'primary', 'principal', or 'the most important'. It is used to indicate something that is of primary importance, the main element, or chief among other things. In Estonian grammar, it can appear in different forms depending on the case and number of the noun it modifies."
 }

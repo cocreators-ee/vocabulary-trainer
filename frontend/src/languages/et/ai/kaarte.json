@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan kaarte piletite jaoks.",
-    "Ta tegi homme kaarte.",
-    "Kaarte on väga populaarne mäng."
+    "Kaarte on kõrgeim punkt mängus.",
+    "Kas sa mängid kaarte praegu?",
+    "Meie eesmärk on võita need kaarte."
   ],
   "translation": [
-    "cards"
+    "cards",
+    "playing cards"
   ],
-  "context": "The word 'kaarte' in Estonian refers to a set of cards, often used for playing games or other activities, and is commonly used in contexts where people are engaging in recreational activities or social gatherings."
+  "context": "The word 'kaarte' is the partitive plural form of the Estonian noun 'kaart', which means 'card'. In this case, it specifically refers to playing cards. The partitive case in Estonian is often used with quantities or when referring to some of something. Here it indicates multiple playing cards without specifying an exact number."
 }

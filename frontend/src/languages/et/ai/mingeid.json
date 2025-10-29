@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen homme mingeid asju tegema.",
-    "Neil on mingeid probleeme sellega.",
-    "Kas sa tead mingeid laule sellest artistist?"
+    "Ma ei leia mingeid tooteid.",
+    "Kas sa nägid mingiid postimeest?",
+    "Tal on mingiid haigusi."
   ],
   "translation": [
+    "any",
     "some",
-    "certain",
     "a few"
   ],
-  "context": "The word 'mingeid' is an indefinite pronoun in Estonian, similar to 'some', 'any', or 'few' in English. It indicates an unspecified quantity or number of things. It’s often used before nouns in the partitive case."
+  "context": "The word 'mingeid' is the partitive plural form of 'mingi', which means 'some' or 'any'. It's used in Estonian when referring to an unspecified quantity of something, similar to how we use 'some' or 'any' in English. The partitive case in Estonian often indicates partialness or indefiniteness. In these examples, it's modifying plural nouns like 'tooteid' (products), 'postimeest' (mailmen/postmen), and 'haigusi' (illnesses)."
 }

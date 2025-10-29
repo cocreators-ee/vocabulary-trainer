@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä seuraan TV-sarjaa.",
-    "Hän seurasi peliä stadionilla.",
-    "He seuraavat ohjeita tarkkaan."
+    "Minun täytyy seurata sinua.",
+    "Hän seuraa jatkuvasti uutisia.",
+    "Meidän on seurattava ohjeita tarkasti."
   ],
   "translation": [
-    "follow",
-    "watch",
-    "track"
+    "to follow",
+    "to track",
+    "to observe",
+    "to monitor"
   ],
-  "context": "The word 'seurata' in Finnish means to follow or watch something, and it is commonly used in the context of observing or monitoring an event, activity, or situation."
+  "context": "The Finnish verb 'seurata' means to follow, track, observe or monitor someone or something. It can be used in various contexts such as following a person physically or on social media, tracking news or information, observing activities, or monitoring processes. The word is in infinitive form and changes depending on the subject and tense (e.g., 'seuraa' for 'he/she follows', 'seurataan' for passive 'is followed')."
 }

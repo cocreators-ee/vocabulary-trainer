@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minu sõbranna kõigele: mul on väga tore, et sa siin oled.",
-    "Mulle tundus, et ma olen juba kuulas.",
-    "Mul on palju murepilge, mis mind ära hoidavad."
+    "Mul on hea tuju.",
+    "Mul on palju tööd.",
+    "Mul ei ole aega."
   ],
   "translation": [
-    "me (possessive) I have"
+    "I have"
   ],
-  "context": "'mul' is used to indicate possession or the action of having something. It corresponds with 'mine' in some contexts and is often followed by a noun."
+  "context": "The Estonian word 'mul' is the first-person singular possessive pronoun, which means 'my' or indicates possession in the nominative case. It's commonly used with verbs to express what someone has or experiences (similar to 'I have' in English). In sentence structure, it typically appears at the beginning of clauses and is followed by a verb that expresses possession, experience, or state."
 }

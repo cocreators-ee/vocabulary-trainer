@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina tahan, et sa täitaksid minu käsu kohe.",
-    "Käsk on andnud sõjaväel kätte pöörata.",
-    "Järgige juhiseid ja käseid täpselt."
+    "Käsk on käsk.",
+    "Võta käsk!",
+    "Tegin käsu."
   ],
   "translation": [
     "command",
-    "instruction",
-    "order"
+    "order",
+    "instruction"
   ],
-  "context": "The word 'käsk' refers to a directive given by someone in authority to be followed. It is used when giving orders or instructions, often in formal or military contexts."
+  "context": "The Estonian word 'käsk' means command, order, or instruction. It is a noun that refers to an authoritative directive or instruction given by someone in authority. The word can be used in various contexts such as military commands, work instructions, computer programming (where it might mean 'command'), or everyday orders from superiors. In different grammatical forms, it can appear as käsu (genitive), käskma (infinitive), or käskis (past tense)."
 }

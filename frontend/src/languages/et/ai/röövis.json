@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli tõelane röövel.",
-    "Röövis sai kätte maksta.",
-    "Röövist peeti kogu aeg silmas."
+    "Ta oli röövitud öösel.",
+    "Röövi juhtus kesklinnas.",
+    "Politsei otsis röövimeest."
   ],
   "translation": [
-    "robber",
-    "thief",
-    "burglar"
+    "robbery",
+    "heist",
+    "theft"
   ],
-  "context": "The word röövis is used in Estonian to refer to a person who commits robbery or theft, and it is commonly used in sentences to describe someone who has stolen something or is known for their thieving behavior."
+  "context": "The word 'röövis' is the Estonian noun for robbery or heist. It refers to the act of stealing something using force or threat, often involving property crimes where valuables are taken from a person or location. In Estonian grammar, it's in the nominative case as a singular noun."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma võin absoluutselt kindel olla, et see on õige.",
-    "Ta oli absoluutselt üksinda.",
-    "Absoluutselt kõik inimesed võivad seda teha."
+    "Ta on absoluutselt õige.",
+    "Absoluutselt midagi ei saa teha.",
+    "See oli absoluutselt vajalik."
   ],
   "translation": [
     "absolutely",
     "completely",
-    "totally"
+    "totally",
+    "entirely"
   ],
-  "context": "The word 'absoluutselt' is an adverb in Estonian that means absolutely or completely, used to emphasize the extent or degree of something."
+  "context": "The Estonian adverb 'absoluutselt' is an intensified expression used to emphasize that something is completely, totally, or absolutely true, complete, or necessary. It functions similarly to the English word 'absolutely' but can also convey stronger emphasis depending on context."
 }

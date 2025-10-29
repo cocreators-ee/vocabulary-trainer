@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on paksu mees.",
-    "Paksu nahk ei lase vett läbi.",
-    "Paksud seined on tugevad."
+    "Tema on paksu mees.",
+    "Nägin paksu naist tänaval.",
+    "Laps sai paksu jala haavata."
   ],
   "translation": [
-    "thick",
-    "fat"
+    "fat (in the illative case)",
+    "thick (illative case)"
   ],
-  "context": "The word 'paksu' in Estonian means thick or fat, and it is commonly used to describe something that has a large amount of substance or density."
+  "context": "The word 'paksu' is the illative case form of the Estonian adjective 'paks', which means 'fat' or 'thick'. In Estonian, nouns have 14 cases that change their endings to indicate different grammatical functions. The illative case typically indicates movement into something or direction toward something. So 'paksu' would mean 'into fat/thickness' or 'to a fat/thick thing/person'. It's used when talking about moving toward or entering a person or object that is described as fat or thick."
 }

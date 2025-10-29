@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma austan sind oma südames.",
-    "Ta austab oma vanemaid.",
-    "Me peame austama seadusi."
+    "Ma austan oma vanemaid.",
+    "Ta austab oma õpetajat.",
+    "Me austame traditsioone."
   ],
   "translation": [
     "respect",
     "honor",
     "esteem"
   ],
-  "context": "The Estonian word 'austan' means to respect or honor someone or something. It is commonly used to express admiration, reverence, or politeness towards individuals, beliefs, or institutions."
+  "context": "The word 'austan' is the first person singular form of the verb ' austama' in Estonian, which means to respect or honor someone. It shows action and personal commitment - when you say 'austan', you are expressing that you actively show respect to someone. This is commonly used for showing respect towards parents, teachers, elders, traditions, or institutions."
 }

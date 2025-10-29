@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on elus.",
-    "Elus inimesed vajavad toitu.",
-    "See oli elus olend."
+    "Elu on ilus elus.",
+    "Ta naeratas rõõmsalt elus.",
+    "See on haruldane elus."
   ],
   "translation": [
     "alive",
-    "living"
+    "living",
+    "in life"
   ],
-  "context": "The word 'elus' is commonly used in Estonian to describe something or someone that is alive or has life, and it can be translated to English as 'alive' or 'living'."
+  "context": "The Estonian word 'elus' is an adjective that means 'alive' or 'living'. It's in the singular nominative form and describes something that has life or is currently alive. The word comes from the root 'elu' which means 'life'. When used with '-s' ending, it forms the adjectival form meaning 'having life' or 'being alive'. It can be used to describe people, animals, or even abstract concepts in a metaphorical sense."
 }

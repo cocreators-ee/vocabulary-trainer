@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kaotab kiiresti raha",
-    "Kaotab tema sõber töö",
-    "Kui ta kaotab, siis on kõik kadunud"
+    "Tema kaotab mängu.",
+    "Meie meeskond kaotab tiitli.",
+    "Kes kaotab?",
+    "Ta ei saa kunagi kaotada."
   ],
   "translation": [
     "loses",
-    "is losing",
-    "will lose"
+    "defeats",
+    "fails"
   ],
-  "context": "The word 'kaotab' in Estonian means to lose something, whether it be a physical object, a game, or an opportunity, and it is commonly used in everyday conversations to describe the act of losing or misplacing something."
+  "context": "The word 'kaotab' is the 3rd person singular present tense form of the Estonian verb 'kaotama', which means 'to lose'. It is used when someone or something loses in a competition, game, battle, or fails to achieve something. The word indicates the current action of losing from the perspective of one subject (he/she/it/they)."
 }

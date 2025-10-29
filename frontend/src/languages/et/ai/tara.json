@@ -1,17 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tara tulemast!",
-    "Su tara ei ole pahane, aga see võib olla valvav.",
-    "Mina saan sinna minna, aga tara on see, et mul peab olema aega.",
-    "Ta tõusis koju, kuid tema tara oli napp."
+    "Tara on kaunis lilledega.",
+    "Me ostime tarka arvuti.",
+    "See tarkade inimeste seminar."
   ],
   "translation": [
-    "welcome",
-    "condition",
-    "fact",
-    "state"
+    "beautiful",
+    "smart/intelligent"
   ],
-  "context": "'Tara' is primarily used to mean 'welcome' in Estonian. It can also refer to someone's physical or emotional condition, a fact, or a state of something depending on the context."
+  "context": "The word 'tara' appears to have multiple meanings in Estonian. In the first sentence, it seems to be used as an adjective meaning 'beautiful', likely a variation of the more common word 'kaunis'. In the second and third sentences, it appears to mean 'smart' or 'intelligent', related to the Estonian word 'tarka' which means intelligent or wise. The word may have regional variations or be used in specific contexts."
 }

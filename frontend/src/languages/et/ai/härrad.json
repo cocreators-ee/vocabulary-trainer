@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Härrad on üks kõige populaarsemaid meelelahutusprogramme.",
-    "Ta tundis end härradena ja preilidega.",
-    "Kui sa oled härra, siis pead sa olema uhke."
+    "Tere tulemast, härrad!",
+    "Härrad istuvad restoranis.",
+    "Kõik härrad on nüüd kohal."
   ],
   "translation": [
     "gentlemen",
-    "lords",
-    "men of high social class"
+    "sirs",
+    "men (formal)"
   ],
-  "context": "The word härrad refers to men of high social class or gentlemen, and is commonly used in Estonian to address or refer to a group of respected males."
+  "context": "\"Härrad\" is the plural form of \"härra\" in Estonian, which means \"gentleman\" or \"sir\". It's a formal term used to address multiple men respectfully, similar to how \"gentlemen\" is used in English. This word maintains its formal and respectful connotation when referring to more than one male person."
 }

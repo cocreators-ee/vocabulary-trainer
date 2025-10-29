@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tüdrukuga oli väga meeldiv suhelda.",
-    "Ma olen tüdrukuga juba mitu aastat sõbruna.",
-    "Tüdrukuga kohtumine oli mul väga rõõsas."
+    "Tüdrukuga on alati lõbus mängida.",
+    "Ma lähen tüdrukuga kinno.",
+    "Tüdrukuga kohtume homseks."
   ],
   "translation": [
-    "girl",
-    "with a girl"
+    "with a girl",
+    "with the girl"
   ],
-  "context": "The word 'tüdrukuga' is an Estonian word that means 'with a girl'. It is commonly used in sentences to indicate that someone is accompanied by a female, and it can be seen as a way to describe a social interaction or relationship."
+  "context": "The word 'tüdrukuga' is an Estonian noun phrase meaning 'with a girl' or 'with the girl'. It consists of 'tüdruk' (girl) and the '-ga' suffix indicating instrumental case, used to show accompaniment or means. The '-ga' ending indicates that something is done together with someone or using something as a tool."
 }

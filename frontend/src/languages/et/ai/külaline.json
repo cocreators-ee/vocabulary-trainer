@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on üks külaline, kes tuli meie juurde.",
-    "Külalised said meid ootama.",
-    "Meil oli külaline, kes rääkis inglise keelt."
+    "Tere tulemast! Külaline on jõudnud.",
+    "Meil oli täna palju külalisi.",
+    "Külalise kingituseks ostsin lillede."
   ],
   "translation": [
     "guest",
-    "visitor"
+    "visitor",
+    "caller"
   ],
-  "context": "The word 'külaline' refers to a person who is visiting someone or some place, often in a social or formal setting."
+  "context": "The Estonian word 'külaline' refers to a guest or visitor in English. It can be used for someone visiting your home, attending an event, or being hosted somewhere. In the first sentence it's in singular nominative form as the subject of the sentence. In the second sentence it appears in plural form ('külalisi') showing possession or association with many guests. The third example shows the genitive case ('külalise') indicating that the flowers are a gift from/to the guest."
 }

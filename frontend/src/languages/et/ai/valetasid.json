@@ -1,13 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ta valetasid mind kuradi."
+    "Sa valetasid talle.",
+    "Meie lapsevanemad valetasid meile.",
+    "Kas sa valetasid?"
   ],
   "translation": [
-    "lied",
-    "deceived",
-    "misled"
+    "you lied (singular)",
+    "they lied",
+    "did you lie?"
   ],
-  "context": "The verb 'valetada' in Estonian means to lie or deceive someone. The form 'valetasid' is the second-person plural past tense, meaning 'you (plural) lied'. It’s a relatively strong term for lying and can imply intentional deception."
+  "context": "The word 'valetasid' is the past tense plural form of the Estonian verb 'valema', meaning 'to lie'. It specifically refers to a situation where multiple people lied in the past. The root form 'vale-' relates to falsehoods or untruthfulness, which is common in many Indo-European languages."
 }

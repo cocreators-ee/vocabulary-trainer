@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta vajab kiiresti raha.",
-    "Ma vajan seda raamatu lugemiseks.",
-    "Kogu meeskond vajab treeningut."
+    "Vajab abi.",
+    "Tema vajab rohkem aega.",
+    "Kes vajab abi?",
+    "Ma ei tea, kes vajab.",
+    "Meie vajame head juhti."
   ],
   "translation": [
     "needs",
+    "requires",
+    "wants",
     "requires"
   ],
-  "context": "The word 'vajab' is commonly used in Estonian to express the need or requirement for something, similar to the English words 'needs' or 'requires'."
+  "context": "The Estonian word 'vajab' is the third person singular form of the verb 'vajama', which means 'to need' or 'to require'. It indicates that someone or something needs or requires something. In English, it can be translated as 'needs', 'requires', or sometimes 'wants' depending on context."
 }

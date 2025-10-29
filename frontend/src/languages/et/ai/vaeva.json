@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea, kuidas sa vaeva leiad",
-    "Ta on palju vaeva näinud",
-    "Vaeva ja raskuste hulka on suur"
+    "Tegin seda suure vaevaga.",
+    "Ta tegi töö väga suure vaevaga.",
+    "See nõuab palju vaeva."
   ],
   "translation": [
+    "effort",
     "trouble",
-    "effort"
+    "labor",
+    "painstaking work"
   ],
-  "context": "The word 'vaeva' in Estonian generally refers to trouble, effort or hardship, and is commonly used in sentences to describe a difficult situation or the act of putting in a lot of work."
+  "context": "The word 'vaeva' is the partitive form of 'vaev', which means effort, trouble, or labor in English. It represents a smaller amount or partial action of effort. The word is used when talking about some degree of effort being expended on something - it can be translated as 'effort', 'trouble', or 'painstaking work' depending on context."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan värskeid õunu.",
-    "See leib on väga värske.",
-    "Värsket õhku sisse hingata teeb head."
+    "See on väga värsket leib.",
+    "Ma ostan värsket piima igal päeval.",
+    "Värsked puuviljad on terved."
   ],
   "translation": [
     "fresh",
     "new",
-    "crisp"
+    "recent"
   ],
-  "context": "The word 'värsket' in Estonian generally translates to 'fresh' in English. It can describe food, air, or anything that has a new and pleasant quality. It implies recentness and good condition."
+  "context": "The Estonian word 'värsket' is the adessive case (ending -el) form of 'värske', meaning 'fresh'. The adessive case typically indicates location or means 'at/with/on something'. In this context, 'värsket' would mean 'with freshness' or 'in a fresh state', but it's commonly used to simply modify nouns to indicate they are fresh. It can refer to food that is recently made/harvested, news that is current, or things that are new and unspoiled."
 }

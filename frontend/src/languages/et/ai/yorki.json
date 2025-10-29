@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu naaber võttis yorki koerale mänguasja.",
-    "Yorki on väike ja armas koeratõug.",
-    "See yorki jooksis üle tee."
+    "Ma sõidan Yorki.",
+    "York on linn Inglismaal.",
+    "Minu sõber elab Yorkis."
   ],
   "translation": [
-    "Yorkie",
-    "Yorkshire Terrier"
+    "York (the city in England)",
+    "york"
   ],
-  "context": "The word 'yorki' in Estonian refers to the Yorkshire Terrier dog breed. It is commonly used when talking about this specific type of small, long-haired dog."
+  "context": "The word 'yorki' is the Estonian genitive case form of 'York', referring to the city of York in England. In Estonian, nouns change their endings based on grammatical cases - the genitive case typically indicates possession or association with something, often translated as 'of' or sometimes just the noun itself in context."
 }

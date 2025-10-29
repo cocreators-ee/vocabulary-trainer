@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän meni ulos talosta.",
-    "Ulos käynnistäminen tapahtuu automaattisesti.",
-    "Tieto siirretään ulos tietokannasta."
+    "Mennään ulos syömään.",
+    "Lähdetkö ulos kävelemään?",
+    "Oli ulos todella kylmä."
   ],
   "translation": [
     "out",
-    "outside"
+    "outside",
+    "out of"
   ],
-  "context": "The word 'ulos' in Finnish means moving or being outside of something, such as a house or a system, and it can be used as an adverb or a preposition to indicate direction or location."
+  "context": "The Finnish word 'ulos' means 'out' or 'outside'. It's used to indicate movement from inside to outside a location, or something being positioned outside. For example, 'Mennään ulos syömän' means 'Let's go out to eat', showing movement from indoors outdoors. When describing where something is, like 'Se on ulossa', it means 'It is outside'. The word can also express the concept of exiting a state or situation."
 }

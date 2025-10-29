@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Pudotan nyt kaikki ystävät",
-    "Hän pudotti korvakorunsa",
-    "Kivi pudoti alas"
+    "Minä pudotin kirjan pöydältä.",
+    "Hän pudotti lasinsa maahan.",
+    "Pudota se tuoliin."
   ],
   "translation": [
-    "fall",
-    "drop"
+    "to drop",
+    "to fall",
+    "let down"
   ],
-  "context": "The word 'pudota' in Finnish means to fall or drop something, and it is commonly used in everyday conversations to describe the act of something falling down or being dropped."
+  "context": "The Finnish verb 'pudota' means 'to drop' or 'to fall'. It can be used when something falls unintentionally from a height, or when you deliberately let something go. In different contexts it might also mean to disappoint someone (as in 'let down'). The word appears in both transitive and intransitive forms depending on whether there is a direct object."
 }

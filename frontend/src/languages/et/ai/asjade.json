@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Asjade seisukord on hea.",
-    "Ta tegeleb asjadega.",
-    "Asjade korraldaja on väga osav."
+    "Mul on palju asjade tähtsaid.",
+    "Ta kogub erinevaid asjade.",
+    "Me arutleme meie asjade üle."
   ],
   "translation": [
     "things",
-    "affairs",
-    "matters"
+    "belongings",
+    "matters",
+    "affairs"
   ],
-  "context": "The word 'asjade' in Estonian refers to things, affairs, or matters in general, and is commonly used to talk about the state of things or someone's involvement with them."
+  "context": "The word 'asjade' is the genitive plural form of 'asi' (thing) in Estonian. It means 'of things', 'of belongings', or 'of matters/affairs'. In this form, it's often used to possessively modify nouns that follow it, indicating something related to or concerning various items or subjects."
 }

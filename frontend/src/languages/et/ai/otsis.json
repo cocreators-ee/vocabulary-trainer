@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta otsis midagi poest.",
-    "Kas sa otsid abi?",
-    "Politsei otsib kurjategijat."
+    "Otsis kodus oma kaaslaste seast.",
+    "Ta otsis head kohta istumiseks.",
+    "Poisid otsisid mänguväljakut."
   ],
   "translation": [
-    "searches",
-    "looks for",
-    "is looking for"
+    "looked for",
+    "searched for",
+    "sought"
   ],
-  "context": "The Estonian word 'otsis' is a verb that means to search or look for something. It’s commonly used when someone is actively trying to find an object, person, or information."
+  "context": "The word 'otsis' is the past tense of the Estonian verb 'otsima', which means to look for or search for something. It's commonly used when describing someone who was searching or looking for something in the past."
 }

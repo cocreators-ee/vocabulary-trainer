@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa tähelepanu",
-    "Tähelepanu on vajalik",
-    "Ta nõuab tähelepanu"
+    "Tähelepanu palun!",
+    "Ta andis tähelepanu sellele detailile.",
+    "Meie nõud on saanud suurt tähelepanu."
   ],
   "translation": [
     "attention",
+    "notice",
     "care",
-    "notice"
+    "regard"
   ],
-  "context": "The word tähelepanu refers to the act of paying attention or notice to something, and is commonly used in contexts where focus or concentration is required."
+  "context": "The Estonian word 'tähelepanu' is a noun that refers to attention, notice, care, or regard. It's commonly used in situations where one needs to draw someone's focus to something important, when observing details carefully, or when giving consideration to something. The root 'täht-' relates to importance/significance and '-e-' connects with the verb stem 'panu' (to put), making it literally 'that which is placed as important'."
 }

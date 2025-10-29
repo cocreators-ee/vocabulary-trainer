@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen teda kõikjal.",
-    "Kõikjal on inimesi, kes vajavad abi.",
-    "Ta on olnud kõikjal maailmas."
+    "Kõikjal oli külm.",
+    "Ta nägi kõikjalt kauneid vaateid.",
+    "Lapsed mängisid kõikjal majas."
   ],
   "translation": [
-    "everywhere"
+    "everywhere",
+    "all over the place",
+    "in all directions"
   ],
-  "context": "The word kõikjal is an adverb that means everywhere or all over the place, it is commonly used to describe a location or situation where something is present or happens in all areas."
+  "context": "The Estonian word 'kõikjal' is an adverb that means 'everywhere' or 'all over'. It's formed from 'kõik' (all/every) and the suffix '-jal' which indicates location. This word describes something being present in every place, without exception."
 }

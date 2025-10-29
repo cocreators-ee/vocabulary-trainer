@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kaitse all.",
-    "Kaitset on vaja sõja ajal.",
-    "Kaitseministeerium tegeleb riigi kaitsega."
+    "Kaitset on vajalik kodus.",
+    "Meil on hea kaitset.",
+    "Ta otsib head kaitset."
   ],
   "translation": [
     "protection",
-    "defence"
+    "defense",
+    "safeguard"
   ],
-  "context": "The word 'kaitset' in Estonian refers to the act of protecting or defending something, and is commonly used in contexts such as national defence, personal protection, or environmental conservation."
+  "context": "The word 'kaitset' is the partitive case form of the Estonian noun 'kaitse', which means 'protection' or 'defense'. The partitive case in Estonian is used to indicate an incomplete action, an object affected by an action, or to specify a quantity/amount. In this form, it typically appears after verbs like 'on' (is), 'vajalik' (necessary), or when talking about having something ('meil on kaitset' - we have protection)."
 }

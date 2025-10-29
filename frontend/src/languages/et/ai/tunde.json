@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tundesime endale häbi",
-    "Ta on hea inimtunne",
-    "Tal on head tuju"
+    "Mul on tunded, et midagi on valesti.",
+    "Tundub, et ta ei ole meiega nõus.",
+    "Ta tunneb rõõmu uue töö üle."
   ],
   "translation": [
-    "feel",
+    "feeling",
     "sense",
-    "mood"
+    "impression",
+    "seems",
+    "appears"
   ],
-  "context": "The word 'tunde' is commonly used to describe emotions or feelings, and can be translated to English as 'to feel' or 'sensing', depending on the context in which it is used."
+  "context": "The Estonian word 'tunde' can function as both a noun and a verb. As a noun, it means 'feeling', 'sense', or 'impression'. As part of the compound verb 'tundub', it means 'seems' or 'appears'. The word derives from the root 'tund-' which relates to perception and awareness. In its different forms, it can express emotional states (feelings), intuitive sense, or how things appear to be."
 }

@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma annan selle minult.",
-    "See on kingitus minult.",
-    "Ta käis mul minult."
+    "Minult küsiti tänased plaanid.",
+    "Sõnum saabus minult eile õhtul.",
+    "Minult võeti juhised ära."
   ],
   "translation": [
     "from me"
   ],
-  "context": "The word minult is a postposition in Estonian that indicates the origin or source of something, similar to the English phrase 'from me'."
+  "context": "The Estonian word 'minult' is the elative case form of the personal pronoun 'mina' (I/me). It indicates motion away from or source, meaning 'from me'. This grammatical case is used when something comes from, originates from, or is taken away from the speaker."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Linnut lentävät taivaalla",
-    "Hän lentäi yli vuoren",
-    "Kone lentää kohti Helsinkiä"
+    "Minä lentelen talvisin.",
+    "Lennä minun kanssani!",
+    "Hän lennätteli lentokoneella."
   ],
   "translation": [
     "to fly",
-    "flies",
-    "flying"
+    "to float in air",
+    "to travel by air"
   ],
-  "context": "The word lentää is commonly used in Finnish to describe the act of flying, whether it be an animal, a plane, or any other object moving through the air."
+  "context": "The Finnish word 'lentää' means 'to fly'. It is an active verb that describes the action of moving through the air. This can be used for birds flying, airplanes flying, or anything else that moves through the air. The word changes form depending on the subject and tense - for example, 'lennen' (I fly), 'lentelet' (you fly), 'lentää' (he/she/it flies), etc."
 }

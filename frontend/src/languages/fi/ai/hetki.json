@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä hetki on tärkeä.",
-    "Hän odotti hetken ennen kuin puhui.",
-    "Meillä on vielä muutama hetki aikaa."
+    "Hetki on kulunut.",
+    "Anna minulle hetki aikaa.",
+    "Odotetaan vielä hetki."
   ],
   "translation": [
     "moment",
-    "instant"
+    "instant",
+    "second",
+    "while"
   ],
-  "context": "The word 'hetki' in Finnish refers to a short period of time or a moment, and it is commonly used to describe a brief instant or a specific point in time."
+  "context": "In Finnish, 'hetki' is a common noun that refers to a short period of time or an instant. It can mean moment, instant, second, or while depending on the context. The word is often used to express brief periods of time in everyday conversations."
 }

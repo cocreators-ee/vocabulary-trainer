@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jäin koduks",
-    "Ta jättis mind maha",
-    "Me jäime teineteisele truu"
+    "Tulevikku jäi veel palju tööd.",
+    "Ta jäi koju haiguse tõttu.",
+    "Meie plaanid jäid katki."
   ],
   "translation": [
-    "stayed",
     "remained",
+    "stayed",
     "was left"
   ],
-  "context": "The word 'jäi' is a verb in Estonian that means to stay or remain in a place, and it can also be used to indicate that something was left behind."
+  "context": "The word 'jäi' is the past tense third-person singular form of the Estonian verb 'jääma', which means to stay, remain, or be left. It's commonly used in contexts where something continues to exist in a certain state or location, or when plans/expectations are not fulfilled."
 }

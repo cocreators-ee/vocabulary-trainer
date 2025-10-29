@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea inimene igale inimesele.",
-    "Ma olen igale poole valmis.",
-    "Iga päev on igale inimesele uus võimalus."
+    "Igale inimesele on oma arvamus.",
+    "Kõik igale mehele hea öö!",
+    "See raamat sobib igale lapsele."
   ],
   "translation": [
-    "to everyone",
-    "for all"
+    "to each",
+    "for everyone",
+    "to every"
   ],
-  "context": "The word igale is a postposition in Estonian that means to or for everyone, and it is commonly used to indicate that something is intended for all people."
+  "context": "The Estonian word 'igale' is the allative case of 'iga', meaning 'each/every'. The allative case typically indicates direction or movement toward something, so 'igale' can be translated as 'to each', 'to every', or 'for everyone'. It's used when indicating that something applies to or goes towards each individual person or thing in a group."
 }

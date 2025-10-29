@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän näki pienen poikasen leikkimässä puistossa.",
-    "Poikanen oppi kävelemään äitinsä avulla.",
-    "Vanhemmat olivat ylpeitä poikasestaan."
+    "Ostin uuden poikasen.",
+    "Poikasen nimeksi tuli Vili.",
+    "Minulla on pieni poikasen."
   ],
   "translation": [
-    "boy",
     "son",
-    "lad"
+    "little boy",
+    "child"
   ],
-  "context": "The word 'poikanen' in Finnish refers to a young boy or son. It is often used affectionately, similar to how one might say 'little boy' or 'young lad' in English."
+  "context": "The Finnish word 'poikasen' is the partitive singular form of 'poika', which means son or boy. It's used when you're referring to some aspect of a son, but not the entire entity. For example, in the sentence 'Ostin uuden poikasen' (I bought a new son), it indicates you have acquired something that belongs to or relates to a son conceptually - though this is unusual phrasing as people typically don't buy sons literally. The '-nen' ending often denotes smallness or endearment in Finnish, making 'poikasen' suggestively mean 'little son' or 'small child'."
 }

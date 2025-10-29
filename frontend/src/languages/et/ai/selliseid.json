@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kuulnud selliseid jutte.",
-    "Ta on üks neist selliseid inimestest.",
-    "Selliseid asju ei tohi teha."
+    "Selliseid olukordi ei tohiks kunagi juhtuda.",
+    "Meil on selliseid vahendeid kui vaja.",
+    "Selliseid asju pole vaja teha."
   ],
   "translation": [
     "such",
-    "like that"
+    "of such kind",
+    "like this"
   ],
-  "context": "The word 'selliseid' is an Estonian adjective meaning 'such' or 'like that', used to describe something that has a certain quality or characteristic."
+  "context": "The word 'selliseid' is the plural partitive form of the demonstrative pronoun 'selline' in Estonian. It means 'such' or 'of such kind' and is used to indicate examples or types of things that have been mentioned previously. The '-d' ending indicates it's in the plural case, while the partitive case '-id' suffix shows we're talking about some or certain instances of these things without specifying exact quantity. It functions similarly to English words like 'such', 'like this', or 'of such kind'."
 }

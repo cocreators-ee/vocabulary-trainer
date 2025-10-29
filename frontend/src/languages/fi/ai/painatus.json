@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Painatus on yleinen menetelmä tekstien ja kuvien tuottamiseen.",
-    "Painatuksen avulla voidaan tehdä esimerkiksi kirjoja ja sanomalehtiä.",
-    "Painatusmenetelmät ovat kehittyneet viime vuosina merkittävästi."
+    "Tämä lehti on uusi painatus.",
+    "Painatuksen laatu oli hyvä.",
+    "Hän työskentelee painatuksessa."
   ],
   "translation": [
     "printing",
-    "pressing"
+    "print",
+    "printed material"
   ],
-  "context": "The word 'painatus' in Finnish refers to the act of printing or pressing, and is commonly used in contexts related to publishing and mass production of texts and images."
+  "context": "The Finnish word 'painatus' refers to the process of printing or printed materials. It is derived from the verb 'painaa' (to press/print) with the suffix '-us', which in Finnish often indicates a process or result. This noun typically describes the action of putting ink on paper through mechanical means, or it can refer to the printed products themselves."
 }

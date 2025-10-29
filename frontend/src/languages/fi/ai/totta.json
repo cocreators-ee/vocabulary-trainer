@@ -1,15 +1,15 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Totta kai, meidän tulee olla huolellisia.",
-    "Hän ei usko siihen tottaan.",
-    "Tota totea ei ole vielä kerrottu ketkään."
+    "Totta kai.",
+    "Totta on, että hän tuli.",
+    "Onko totta?"
   ],
   "translation": [
     "true",
-    "truth",
-    "actually"
+    "really",
+    "indeed",
+    "factually"
   ],
-  "context": "'totta' is a Finnish word that commonly translates to 'true', 'truth', or 'actually'. It is used in sentences to express something being factually correct, to refer to the truth itself, or to emphasize something as actually happening or being the case."
+  "context": "In Finnish, 'totta' is an adverb that expresses truthfulness or confirmation. It can be used as a standalone response meaning 'yes', 'true', or 'really'. In the phrase 'totta kai', it means 'of course' or 'certainly'. The word derives from the noun 'totuus' (truth) and is commonly used in everyday Finnish to affirm statements."
 }

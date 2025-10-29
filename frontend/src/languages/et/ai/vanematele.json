@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vanematele meeldib see film.",
-    "Laps vanematele ütles, et tahab koju minna.",
-    "Õpilased kirjutasid vanematele tänukirja."
+    "Vanematele oli kõige tähtsam laste heaolu.",
+    "Tema vanematele meeldis tema edasijõudmine koolis.",
+    "Vanematele oli raske näha oma lapse valu."
   ],
   "translation": [
     "to parents",
     "for parents"
   ],
-  "context": "The word 'vanematele' is a dative plural form of the noun 'vanem', which means 'parent' or 'guardian'. It is used to indicate that something is done for or directed towards the parents."
+  "context": "The word 'vanematele' is the allative case of 'vanemad', which means 'parents'. In Estonian, the allative case (-le ending) indicates movement towards or direction to something/someone. So 'vanematele' specifically means 'to parents' or 'for parents' - indicating that something is directed toward, intended for, or going to the parents. This form is commonly used when talking about things given to, said to, or happening for parents."
 }

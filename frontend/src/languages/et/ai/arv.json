@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu lemmikarv on seitse.",
-    "Arvuks jääb vaid kaks võimalust.",
-    "Kui palju see maksma läheb? Palun öelge kindlat arvu."
+    "See arv on suur.",
+    "Kas teil on telefoninumber?",
+    "Arvud olid täpsed."
   ],
   "translation": [
-    "number"
+    "number",
+    "figure",
+    "count"
   ],
-  "context": "The word 'arv' in Estonian refers to a numerical value or quantity used for counting and measuring."
+  "context": "The Estonian word 'arv' means number or figure. It can refer to a numerical value, a count of something, or a digit. In different contexts, it might be used for telephone numbers, mathematical figures, or quantities of items."
 }

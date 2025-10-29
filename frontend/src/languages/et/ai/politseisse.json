@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta läks politseisse tööle.",
-    "Politseisse on võimalik pöörduda erinevate küsimuste korral.",
-    "Politseiisse kuulub mitmeid osakondi."
+    "Mõtlesin minna politseisse.",
+    "Politseisse minek võtab tavaliselt 15 minutit.",
+    "Ta sõitis kiiremini politseisse."
   ],
   "translation": [
-    "police",
-    "to the police"
+    "to the police",
+    "into the police station",
+    "to the police department"
   ],
-  "context": "The word 'politseisse' is used in Estonian to refer to something related to or belonging to the police, and it can be translated to English as 'police' or 'to the police', depending on the context in which it is used."
+  "context": "The word 'politseisse' is an Estonian inessive case form of 'politsei' (police), indicating movement into or location within a police-related place. It means 'to the police' or 'into the police station'. The suffix '-sse' indicates direction/inward motion to a specific location, similar to how English uses 'to' with destinations."
 }

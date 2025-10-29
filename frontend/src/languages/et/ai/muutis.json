@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta muutis oma meelt.",
-    "See muudab kõike.",
-    "Ma ei saa seda muuta."
+    "Muutisin oma meelt.",
+    "Ta muutis oma plaani.",
+    "Loodetavasti muutis ta oma käitumist."
   ],
   "translation": [
-    "changes",
-    "modifies",
-    "alters"
+    "changed",
+    "altered",
+    "modified"
   ],
-  "context": "The word 'muutis' is the past tense of the verb 'muutma', which means 'to change' or 'to modify'. It’s commonly used to describe alterations in state, opinion, or physical form."
+  "context": "The word 'muutis' is the past tense, third person singular form of the Estonian verb 'muuta', which means 'to change'. It indicates that someone or something underwent a change in the past. In context, it would be used to describe how a person changed their mind, plan, behavior, or how something was altered from its previous state."
 }

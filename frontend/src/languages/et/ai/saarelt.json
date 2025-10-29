@@ -1,14 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tulin saarelt.",
-    "Nad tulid saarelt tagasi.",
-    "Saarelt on näha ilusat päikeseloojangut."
+    "Tuli saarelt.",
+    "Lennuk saabus saarelt.",
+    "Kalurid tulid saarelt."
   ],
   "translation": [
-    "from the island",
-    "off the island"
+    "from the island"
   ],
-  "context": "The word 'saarelt' is an Estonian adverb meaning 'from an island' or 'off an island'. It indicates a location of origin or departure. It’s formed from the noun 'saar' (island) with the adessive case ending '-lt'."
+  "context": "The word 'saarelt' is an Estonian adessive case form of the word 'saar' (island). The ending '-lt' indicates the source or origin, meaning 'from'. So 'saarelt' specifically means 'from the island' and is used to indicate that someone or something comes from an island."
 }

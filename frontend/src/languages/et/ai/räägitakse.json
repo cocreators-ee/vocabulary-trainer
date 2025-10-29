@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlen, et räägitakse sellest palju.",
-    "Räägitakse, et see on hea film.",
-    "Kõik räägitakse tema kohta."
+    "Räägitakse et tegu on headusega.",
+    "Meie koolis räägitakse palju keeli.",
+    "Kodus ei räägitakse nii tihti eesti keelt."
   ],
   "translation": [
     "it is said",
     "they say",
-    "people are talking"
+    "one speaks"
   ],
-  "context": "The word 'räägitakse' is a verb that means 'to be said' or 'to be told', often used to express that something is being talked about or rumored, and it is commonly used in Estonian language to refer to gossip or hearsay."
+  "context": "The Estonian word 'räägitakse' is the 3rd person plural present tense form of the verb 'rääkima' (to speak, to talk). It is commonly used in impersonal constructions where someone or something is mentioned as speaking. This form follows the passive voice pattern common in Estonian for expressing general statements about what people say or discuss."
 }

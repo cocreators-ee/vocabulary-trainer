@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma annan teistele oma kodu.",
-    "Teistele meeldib see film.",
-    "Ta on teistele alati abiks."
+    "Ta jagas oma saladusi teistele inimestele.",
+    "See mõjuvad hästi teistele lastel.",
+    "Me peame arvestama teiste soovidega."
   ],
   "translation": [
     "to others",
-    "for others"
+    "for other people",
+    "with other people"
   ],
-  "context": "The word 'teistele' is a dative plural pronoun in Estonian, meaning 'to others' or 'for others', used to indicate that something is done for the benefit of other people."
+  "context": "The Estonian word 'teistele' is the allative case of 'teised', meaning 'others'. It indicates movement towards or direction to other people. The ending '-le' marks the allative case in Estonian, similar to English prepositions like 'to' or 'for' when indicating destination or recipient."
 }

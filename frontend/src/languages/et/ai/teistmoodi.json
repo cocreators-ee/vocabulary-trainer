@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ütles, et see on teistmoodi",
-    "Ma olen teistmoodi inimene",
-    "Teistmoodi mõtlejad on vajalikud"
+    "Mõtlen teistmoodi kui sa.",
+    "Ta on väga teistmoodi inimene.",
+    "Kas sulle meeldib see teistmoodi?"
   ],
   "translation": [
-    "different",
+    "differently",
+    "in another way",
     "otherwise",
-    "alternatively"
+    "uniquely"
   ],
-  "context": "The word 'teistmoodi' is an adverb in Estonian that means 'differently' or 'in a different way', and it is commonly used to describe something that is not the same as before, or to indicate a change in perspective or behavior."
+  "context": "The word 'teistmoodi' is an Estonian adverb that means 'differently' or 'in another way'. It's formed from 'teine' (other/another) and 'moode' (ways), so literally it means 'in other ways'. This adverb is used to describe something that is done, thought of, or exists in a manner different from the usual or expected."
 }

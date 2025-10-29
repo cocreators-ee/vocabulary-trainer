@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See teenindus on tasuta.",
-    "Tasuta WiFi on saadaval kogu hotellis.",
-    "Kõik tasuta müügis olevad tooted on kvaliteetsed."
+    "Tasuta parkimine on siin keelatud.",
+    "Saad tasuta juua kuni tund.",
+    "Meie teenused on täiesti tasutad."
   ],
   "translation": [
-    "free",
-    "for free",
-    "at no cost"
+    "free of charge",
+    "complimentary",
+    "without cost"
   ],
-  "context": "The word 'tasuta' in Estonian means something that is provided or offered without charge, and it is commonly used in various contexts such as services, products, or amenities that are offered at no cost to the user."
+  "context": "The Estonian word 'tasuta' is an adverb that means 'free of charge' or 'complimentary'. It's used to indicate something provided without any payment required. The word can be placed before nouns (e.g., 'tasuta parkimine' - free parking) or stand alone in sentences where costlessness is emphasized."
 }

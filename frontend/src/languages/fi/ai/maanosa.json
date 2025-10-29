@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maanosa on suuri maa-alue",
-    "Hän asuu Etelä-Amerikan maanosassa",
-    "Eurooppa on osa Euraasian maanosalta"
+    "Suomi sijaitsee Euroopassa, joka on maanosia.",
+    "Maanosat ovat yleensä määritelty mannerlaattojen mukaan.",
+    "Merennevoyages kattavat useita mantereita."
   ],
   "translation": [
     "continent",
-    "part of the world"
+    "landmass",
+    "mainland"
   ],
-  "context": "The word maanosa refers to a large continuous area of land, and it is commonly used in Finnish to describe different parts of the world, such as continents or regions."
+  "context": "The Finnish word 'maanosa' is a compound noun formed from 'maa' (land/earth) and 'osa' (part/piece). It refers to one of the large land divisions or continents of the Earth. The term is commonly used in geography when discussing the major continental landmasses that make up our planet, such as Europe, Asia, Africa, North America, South America, Australia, and Antarctica."
 }

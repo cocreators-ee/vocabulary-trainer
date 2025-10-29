@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma päästsin koera jalust üles.",
-    "Ta päästis mind oma süütusest.",
-    "Päästsin endale uue raamatu."
+    "Ma päästsin lapse tulest.",
+    "Ta päästis koera veest.",
+    "Me päästsime linna üleujutusest."
   ],
   "translation": [
     "saved",
-    "rescued"
+    "rescued",
+    "delivered",
+    "liberated"
   ],
-  "context": "The word 'päästsin' is the first person singular past tense form of the verb 'päästma', which means to save or rescue something or someone from a dangerous or unpleasant situation in English."
+  "context": "The word 'päästsin' is the past tense first person singular form of the Estonian verb 'päästa', which means to save, rescue, deliver or liberate someone or something from danger, harm, or difficulty. It indicates that the speaker performed the action of saving/rescuing in the past."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta õpid väga hästi.",
-    "Ma ei oska seda õpid lahendada.",
-    "Nad õpisid koos matemaatikat."
+    "Õpid uusi asju iga päev.",
+    "Tüdruk õpib matemaatikat.",
+    "Meie lapsed õpivad kiiresti."
   ],
   "translation": [
-    "learns",
-    "studies",
-    "is learning"
+    "learn",
+    "study"
   ],
-  "context": "The verb 'õpid' is the third-person singular present tense form of the Estonian verb 'õppida', which means 'to learn' or 'to study'. It indicates that someone is currently in the process of acquiring knowledge or skills. It’s commonly used to describe a student’s progress or someone actively engaging in learning."
+  "context": "The word 'õpid' is the second person singular present tense form of the Estonian verb õppima, which means 'to learn' or 'to study'. It specifically refers to what 'you' are learning or studying right now. For example: 'Õpid uusi asju iga päev' means 'You learn new things every day'. The infinitive form is 'õppida', and other forms include 'õpib' (he/she learns), 'õpime' (we learn), etc."
 }

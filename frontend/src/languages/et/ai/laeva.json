@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Laev sõitis mööda lahte.",
-    "Laeva kapten andis korralduse ankruda.",
-    "Me ostame pileti laevale."
+    "Laeva ees seisab sadam.",
+    "Me otsime oma laeva.",
+    "Vaata, milline ilus laeva!"
   ],
   "translation": [
     "ship",
+    "boat",
     "vessel"
   ],
-  "context": "The word 'laeva' is a genitive form of the noun 'laev', which refers to a ship or vessel, commonly used in Estonian to describe a large boat or a seafaring vehicle."
+  "context": "The word 'laeva' is the partitive case form of the Estonian noun 'laev', which means ship or boat. In Estonian grammar, the partitive case is often used after certain prepositions and verbs to indicate partiality or indefinite reference. Here it appears as a direct object in sentences meaning 'a ship'."
 }

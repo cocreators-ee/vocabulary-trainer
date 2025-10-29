@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu ema ütles, et ma peaksin käima põrguses.",
-    "Tema meel on sarnane põrgusele.",
-    "Ära too mulje, et sa oled põrgus."
+    "Tema läks põrgusse.",
+    "Sinu koer läks põrgusse.",
+    "Minge põrgusse!"
   ],
   "translation": [
-    "Hell",
-    "the fires of hell"
+    "to hell",
+    "into hell",
+    "go to hell"
   ],
-  "context": "The word 'põrgusse' in Estonian directly translates to 'hell'. It is used in both a literal and metaphorical sense. In religious contexts, it refers to the afterlife destination for the damned. In everyday language, it might be used to describe something that feels extremely unpleasant or like a nightmare."
+  "context": "The word 'põrgusse' is the illative case of 'põrgu' (hell), indicating direction or movement toward hell. It's used to express someone going to hell, being sent to hell, or as an exclamation telling someone to go to hell."
 }

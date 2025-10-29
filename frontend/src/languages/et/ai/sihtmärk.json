@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Meil on selge sihmärg alustada.",
-    "Ta aimas vahelt sihmal ja läks vahele.",
-    "Igas etapis tuleb mäšta sihtmärk."
+    "Sihtmärgid on olulised igas sõjanduses.",
+    "Lennuki sihtmärk oli naftatööstus.",
+    "Snaipri peamine sihtmärk oli kogu meeskond."
   ],
   "translation": [
-    "goal",
+    "target",
+    "aim",
     "objective"
   ],
-  "context": "Used to refer to a specific target or objective one aims to achieve, common in both everyday and formal contexts."
+  "context": "The Estonian word 'sihtmärk' is a compound noun formed from 'siht' (aim, goal) and 'märk' (mark, sign). It refers to something that is designated as the object of an action or attack. In military contexts, it's commonly used for targets in combat. More broadly, it can refer to any objective or goal one aims to achieve."
 }

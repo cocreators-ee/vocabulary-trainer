@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kehv toit.",
-    "Minu kehv suhtlemine teda ärritas.",
-    "Selle filmi kvaliteet on üsna kehv."
+    "Töö oli kehv kvaliteediga.",
+    "Ta on kehv sportlane.",
+    "See restoran pakub kehveid toite."
   ],
   "translation": [
     "bad",
-    "poor"
+    "poor",
+    "inferior",
+    "low quality"
   ],
-  "context": "Used to describe something that is of low quality or not good. It can refer to things like food, behavior, or the quality of a movie."
+  "context": "The Estonian word 'kehv' is an adjective that means bad, poor, or inferior. It's used to describe something of low quality or lacking in goodness. The word can be declined in different cases and forms - for example 'kehvad' would be the plural form meaning 'bad' (plural), and 'kehas' would be the translative case form."
 }

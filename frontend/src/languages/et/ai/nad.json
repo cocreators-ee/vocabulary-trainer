@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen nad koolis kohtunud",
-    "Nad on minu parimad sõbrad",
-    "Nad elavad Tallinnas"
+    "Nad jooksid parki.",
+    "Nad ei tulnud koos meiega.",
+    "Nad on head sõbrad."
   ],
   "translation": [
-    "they",
-    "them"
+    "they/them"
   ],
-  "context": "The word 'nad' is a pronoun in Estonian that means 'they' or 'them', used to refer to a group of people or things."
+  "context": "The Estonian word 'nad' is the third person plural pronoun meaning 'they' or 'them'. It's used as both subject and object pronouns in Estonian, unlike English where we distinguish between 'they' (subject) and 'them' (object). For example: 'Nad jooksid parki' means 'They ran to the park', and 'Nad ei tulnud koos meiega' means 'They didn't come with us'."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän sanoi minulle, että hän tulee myöhemmin.",
-    "Sanoitko sinä jotain?",
-    "Sanoin jo, että en voi tulla."
+    "Sanoi hän totta.",
+    "Mies sanoi hyvää huomenta.",
+    "Lapsi sanoi kiitos."
   ],
   "translation": [
     "said",
-    "told",
-    "spoke"
+    "spoke",
+    "told"
   ],
-  "context": "The word 'sanoi' is the third person singular form of the verb 'sanoa', which means to say or tell something. It is commonly used in Finnish sentences to express that someone has said something."
+  "context": "The Finnish word 'sanoi' is the third person singular past tense form of the verb 'sanoa', which means 'to say' or 'to speak'. It is commonly used when referring to what someone has said in the past. This form follows the regular consonant gradation pattern where the stem 'san-' loses its final consonant in the basic form but gains it back in the past tense."
 }

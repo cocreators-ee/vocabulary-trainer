@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Keskityit taitojeni kehittämiseen kaikkien muiden vastustusten välillä.",
-    "Sotahuudot kuuluvat yhä kirkkaammin kuusien välistä, kunnes saavat täyden voimansa aamulla.",
-    "Kun pääsin hukkuneiden tunkemaan alueelle, tunnetuin vain hänen välillämme vallinnut rauha."
+    "Minulla on välillä tauko töistä.",
+    "Autot ajavat välillä pitkin katua.",
+    "Me puhumme välillä englanniksi."
   ],
   "translation": [
-    "during",
-    "in the middle of",
-    "between"
+    "between",
+    "among",
+    "in between"
   ],
-  "context": "The Finnish word 'välillä' can mean 'during', 'in the middle of', or 'between'. It is used to indicate a time period or spatial positioning between things."
+  "context": "The Finnish word 'välillä' is an adverb that means 'between', 'among', or 'in between'. It indicates a position in the middle of two or more things, or refers to something happening intermittently. For example, it can describe physical positioning (something between two objects) or temporal intervals (something happening at certain times but not continuously)."
 }

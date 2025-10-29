@@ -1,13 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta teadis et ma poleme siin olemegi.",
-    "Ehk ma olen siin vaid üks päev, aga olemegi mitte rohkem",
-    "Tema ei uskunud mulle, kuidas ma poleme olemegi."
+    "Olemegi koos selles projektis.",
+    "Töötabgi see hästi.",
+    "Kas sa oledgi kindel?"
   ],
   "translation": [
-    "I won't be here / I'm not going to be here"
+    "indeed",
+    "really",
+    "actually",
+    "after all"
   ],
-  "context": "The word 'olemegi' is used to express that the speaker will definitely not be in a certain place at all. It can translate into English as 'I won't be here' or similar phrases depending on context."
+  "context": "The word 'olemegi' is a compound form in Estonian. It consists of 'oleme' (we are) + the particle 'gi' which adds emphasis or confirmation. The particle 'gi' typically means 'also', 'too', 'indeed', or 'really', and when added to verb forms, it adds emphasis or indicates that something is obvious or expected. In this case, 'olemegi' would be used with plural first person (we are) but the structure can be adapted for other persons as well. It's similar to adding 'actually' or 'indeed' in English to add emphasis to a statement."
 }

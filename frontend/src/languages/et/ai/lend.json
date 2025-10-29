@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lendan lennukiga Tallinnasse.",
-    "Lend on lühike.",
-    "Ta võttis lennujaama bussi."
+    "Lend algab kell 14:30.",
+    "Pardal lendav lendur oli väga kogenud.",
+    "Meil on veel üks lend homme."
   ],
   "translation": [
     "flight",
     "fly"
   ],
-  "context": "The word 'lend' in Estonian means 'flight' or 'to fly', and it is commonly used to describe the act of flying or traveling by air."
+  "context": "In Estonian, 'lend' can mean either 'flight' (the act or instance of flying) as a noun, or it can be the verb form 'lennata' which means 'to fly'. As a noun, it refers to an aircraft journey. The word is used in contexts like scheduled flights, aviation, or describing the experience of flying."
 }

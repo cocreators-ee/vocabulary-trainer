@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Need on saadavad sõbrad.",
-    "Ta pakkus mulle saadavat abistust.",
-    "Minu käsitled pole saadavad."
+    "Tuleviku saavad palju paremad.",
+    "Lapsed saavad homseks valmis.",
+    "Meie projekt saadab täna lõpuni."
   ],
   "translation": [
-    "available",
-    "accessible",
-    "reachable"
+    "get",
+    "receive",
+    "obtain"
   ],
-  "context": "'Saadavad' refers to something that can be obtained, accessed or reached. It is commonly used in a variety of contexts including availability of people for communication and accessibility of resources or information."
+  "context": "The word 'saadavad' is the 3rd person plural present form of the Estonian verb 'sama', meaning 'to get' or 'to receive'. It indicates that multiple people or entities are currently getting, receiving, or obtaining something. This form is commonly used when talking about what someone or some group will get in the future, though it can also indicate current reception."
 }

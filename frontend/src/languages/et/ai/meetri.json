@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen meetri kaugusel.",
-    "Ta on üks meetris.",
-    "Me jõuame sinna ühe meetriga."
+    "Mõõdasin pika meetri.",
+    "See on kahe meetri pikkune.",
+    "Vajame veel ühte meetrit juurde."
   ],
   "translation": [
     "meter",
-    "one meter"
+    "metre"
   ],
-  "context": "The word 'meetri' is a noun that refers to the unit of measurement for length or distance in the metric system, equivalent to one meter."
+  "context": "'Meetri' is the Estonian word for 'meter' (the unit of length). It's in the singular nominative case. In Estonian, measurement units often don't require a separate plural marker when used with numbers - you might say 'kahe meetri pikkune' (two meter long) instead of 'kaks meetrit'. The word can be declined in different cases depending on how it's used in the sentence."
 }

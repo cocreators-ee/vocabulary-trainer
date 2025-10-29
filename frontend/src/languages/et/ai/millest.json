@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mulle kinnitasid, et tean, millest on jutustamisest küsimust.",
-    "Ma ei tea isegi, millest sa rääkid.",
-    "Kas saate öelda mulle, millest see arvestus koosneb?"
+    "Millest sa räägid?",
+    "Millest tegelikult tegu on?",
+    "Ta ei tea, millest ta räägib."
   ],
   "translation": [
     "about what",
-    "from what",
-    "in respect to what"
+    "of what",
+    "from what"
   ],
-  "context": "The word 'millest' in Estonian is a question word or relative pronoun used to ask about the source, cause, topic, or aspect of something. It is often translated as 'about what,' 'from what,' or 'in respect to what.' Commonly used when asking for clarification on topics, origins, or reasons."
+  "context": "The Estonian word 'millest' is an interrogative pronoun formed from the root 'mis' (what) with the adessive case ending '-st'. It means 'from what', 'about what', or 'of what' and is used to ask questions about origin, cause, or topic. The word follows Estonian grammar rules for forming question words about things."
 }

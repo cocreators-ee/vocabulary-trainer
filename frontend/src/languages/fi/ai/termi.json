@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Termi tarkoittaa suomen kielessä jotakin, joka on rajattu tai määritelty.",
-    "Lääketieteellinen termi viittaa tiettyyn sairauteen tai oireyhtymään.",
-    "Tekninen termi liittyy usein tietokoneisiin tai ohjelmistoihin."
+    "Termi on tärkeä osa akateemista viestintää.",
+    "Hän käytti termiä väärin kontekstissa.",
+    "Mitkä ovat tämän alan keskeisimmät termit?"
   ],
   "translation": [
     "term",
-    "definition",
-    "concept"
+    "terminology",
+    "technical expression"
   ],
-  "context": "The word 'termi' in Finnish generally refers to a defined or limited concept, and it is commonly used in various contexts such as law, medicine, or technology to describe a specific idea, condition, or phenomenon."
+  "context": "The Finnish word 'termi' is a noun that means 'term' in English. It refers to a word or phrase used with a specific meaning, particularly in academic, technical, or professional contexts. The word can be used when discussing specialized vocabulary, scientific terminology, or precise expressions within particular fields of study."
 }

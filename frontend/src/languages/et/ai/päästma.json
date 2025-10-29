@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma päästan ta endale.",
-    "Ta päästab mind.",
-    "Nad päästavad meid."
+    "Ma pääsen autojuhtimist.",
+    "Meie peame pääsema kodust eemale.",
+    "Kes sa oled? Ma ei tea sind. Aga ma olen siin ja ma võin aidata sind pääsema."
   ],
   "translation": [
-    "to release",
-    "to let go"
+    "to save",
+    "to rescue",
+    "to let someone pass",
+    "to allow to go"
   ],
-  "context": "The word 'päästma' is commonly used in Estonian to mean releasing or letting something or someone go, and it can be used in various contexts such as freeing a person or an animal from captivity or simply allowing something to happen."
+  "context": "The Estonian verb 'päästma' means primarily 'to save' or 'to rescue', but it can also mean 'to let someone pass' or 'to allow to go'. It's a transitive verb that takes an object. The first person singular form is ' pääsen' (I save/let pass), the third person plural is 'pääsevad' (they save/let pass). The negative forms would be 'ei päästa' and 'ei pääse', respectively."
 }

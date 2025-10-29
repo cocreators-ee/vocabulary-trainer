@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Ma sündisin Tallinnas.",
-    "Ta sündis sügisel.",
-    "Nad sündisid erinevatel aastatel."
+    "Tema sündis 1990. aastal.",
+    "Meie sündisime erinevates linnades."
   ],
   "translation": [
     "was born",
     "born"
   ],
-  "context": "The word 'sündisin' is the first person singular form of the verb 'sündima', which means to be born. It is commonly used in Estonian to express the fact that someone was born in a certain place or at a certain time."
+  "context": "The word 'sündisin' is the first person singular past tense form of the Estonian verb 'sünnima', which means 'to be born'. It is formed by adding the personal ending '-n' to the stem 'sündis-', which comes from the noun 'sündmus' (event) related to birth. In Estonian, this verb is used specifically for expressing that someone was born at a particular time or place."
 }

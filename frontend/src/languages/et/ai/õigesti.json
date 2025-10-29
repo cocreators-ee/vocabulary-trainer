@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean, et see on õigesti.",
-    "Ta ütles, et ma olen õigesti mõistnud.",
-    "Õigesti aru saamiseks tuleb luuletust tähelepanelikult lugeda."
+    "Õigesti kirjutad oma nime?",
+    "Sa tegid õigesti.",
+    "Kas sa tead seda õigesti?"
   ],
   "translation": [
     "correctly",
-    "rightly",
-    "properly"
+    "properly",
+    "right"
   ],
-  "context": "The word õigesti is an adverb in Estonian that means doing something correctly or properly, and it is commonly used to describe actions or decisions that are made in a right or appropriate manner."
+  "context": "The Estonian word 'õigesti' is an adverb that means 'correctly', 'properly', or 'right'. It modifies verbs to describe an action being performed in the right manner. The '-sti' ending is a typical Estonian adverbial suffix used to form adverbs from adjectives and other parts of speech."
 }

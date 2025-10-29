@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vaatavad inimesed on huvitatud sellest, mis toimub.",
-    "Ta vaatamas aknast välja.",
-    "Nende vaatamiseks tulebpilet ostma."
+    "Nad vaatavad filmi.",
+    "Lapsed vaatavad telesaadet.",
+    "Mees ja naine vaatavad koos televsioonit."
   ],
   "translation": [
-    "looking",
-    "watching"
+    "look at",
+    "watch",
+    "observe"
   ],
-  "context": "The word 'vaatavad' in Estonian means to watch or look at something, and it is commonly used in sentences to describe the act of observing or paying attention to something."
+  "context": "The word 'vaatavad' is the 3rd person plural present tense form of the Estonian verb 'vaadata', which means 'to look at', 'to watch', or 'to observe'. It's used when referring to multiple people who are currently performing the action of looking/watching. The ending '-avad' indicates this is the present tense for plural subjects (they)."
 }

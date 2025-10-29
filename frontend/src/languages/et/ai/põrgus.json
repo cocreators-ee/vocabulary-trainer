@@ -1,15 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei taha minna põrgusse",
-    "Põrgus on koht, kus kurjad inimesed lõppavad",
-    "Ta uskus, et põrgus on tuli, mis põletab igavesti"
+    "Tema on põrgus.",
+    "Me läksime põrgusse.",
+    "Kuidas saad elada põrgus?"
   ],
   "translation": [
-    "hell",
-    "inferno",
-    "perdition"
+    "in hell"
   ],
-  "context": "The word põrgus refers to a place of suffering or punishment, often associated with religious beliefs, and is commonly used in Estonian to describe a situation or place that is unpleasant or undesirable."
+  "context": "The word 'põrgus' is the Estonian word for 'hell'. It's an inessive case form, indicating location inside or within something. The base form would be 'põrgu', and this -s ending indicates the location/inessive case."
 }

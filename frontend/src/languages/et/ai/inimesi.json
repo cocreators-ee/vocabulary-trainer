@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen palju inimesi.",
-    "Inimesed elavad linnas.",
-    "Inimesi on üleüldse palju."
+    "Inimesed on loomad.",
+    "Nägin täna palju inimesi tänaval.",
+    "Inimeste arv kasvab pidevalt."
   ],
   "translation": [
     "people",
-    "humans",
-    "persons"
+    "human beings"
   ],
-  "context": "The word 'inimesi' is the plural form of 'inimene', which means 'person' or 'human being' in English, and it refers to individuals or a group of people in general."
+  "context": "The word 'inimesi' is the partitive form of the Estonian noun 'inimene', which means 'person' or 'human being'. In this case, it's in the plural form and indicates an unspecified quantity of people. The suffix '-i' marks the partitive case, often used to indicate objects without specific boundaries, or partial amounts."
 }

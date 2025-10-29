@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on liha purkissa.",
-    "Hän syö vain lihaa ja kalaa.",
+    "Syön lihaa joka päivä.",
+    "Tämä jauhelihassa on maukasta.",
     "Liha on hyvä proteiinin lähde."
   ],
   "translation": [
     "meat",
     "flesh"
   ],
-  "context": "The word liha refers to meat or flesh, and it is commonly used in Finnish to describe food products that come from animals."
+  "context": "The Finnish word 'liha' means meat or flesh. It is a common noun used to refer to animal tissue that is consumed as food. In Finnish, 'liha' can refer to any type of meat including beef (naudanliha), pork (sianliha), chicken (kana), etc. The word doesn't change in form when referring to different types of meats - they are distinguished by adding the animal name before 'liha'. For example, 'sianliha' means pork (pig + meat)."
 }

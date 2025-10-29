@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta kogus oma isaprobleemidega seotud dokumendid.",
-    "Teeme ettevalmistava töö ette, nii et vajadusel saaksime esitada kõik vajalikud dokumendid.",
-    "Kui soovid, võid pakkuda toetuse taotlemisel täiendavaid dokumente."
+    "Ma olen vaadanud kõik vajalikud dokumendid.",
+    "Palun esitage oma dokumendid kontrolliks.",
+    "Dokumendid on valmis ja ootavad allkirja."
   ],
   "translation": [
     "documents",
-    "documentation"
+    "papers",
+    "records"
   ],
-  "context": "Dokumendid refers to documents or documentation. It is commonly used when referring to official papers, files, or records needed for processes like applying for something, legal matters, or organizational procedures."
+  "context": "The word 'dokumendid' is the plural form of the Estonian noun 'dokument', which means a document or paper. It refers to official papers, certificates, records, or other written materials that serve as proof or evidence. In Estonian, '-id' is the typical suffix for forming plurals of masculine nouns ending in a consonant."
 }

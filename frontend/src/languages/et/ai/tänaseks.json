@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mõtle pärast tänaseks.",
-    "Ei tea, kuidas sa tänaseks hakkad said.",
-    "Tunne, et see on su tänaseks parim valik."
+    "Kõik on valmis tänaseks.",
+    "Palun võta need dokumendid sinuga tänaseks.",
+    "Me peaksime olema kohal tänaseks kell 10."
   ],
   "translation": [
-    "for today"
+    "by today",
+    "for today",
+    "as of today"
   ],
-  "context": "The word 'tänaseks' means 'for today'. It is used to refer to an action or decision made with reference to the current day only. Commonly appears in contexts where decisions are limited to a specific timeframe, particularly when talking about what one will do on that particular day."
+  "context": "The word 'tänaseks' is an Estonian adverbial form that means 'by today', 'for today', or 'as of today'. It indicates a deadline or target date that is the current day. The '-ks' ending transforms the temporal adjective 'täna' (today) into an adessive case, indicating purpose or destination - essentially meaning 'made for today's timeframe' or 'arriving at the point of today'."
 }

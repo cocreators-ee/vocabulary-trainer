@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on ettepaneku, kuidas seda teha.",
-    "Ta esitas ettepaneku, mida me kõik toetasime.",
-    "Ettepaneku arutamine võttis palju aega."
+    "Mul on hea ettepaneku teile.",
+    "Ta tegi huvitava ettepaneku uuest projektist.",
+    "Kas teil on mõni ettepaneku meie kohtumiseks?"
   ],
   "translation": [
     "proposal",
-    "suggestion"
+    "suggestion",
+    "recommendation",
+    "offer"
   ],
-  "context": "The word ettepaneku refers to a proposal or suggestion made by someone, often in a formal or professional setting, and is commonly used in Estonian to convey the idea of putting forward an idea or plan for consideration."
+  "context": "The word 'ettepaneku' is the partitive case form of 'ettepanek', which means a proposal or suggestion. In Estonian, the partitive case is used to indicate an object that is indefinite or partial. Here it functions as the direct object in sentences where someone makes or receives a proposal/suggestion."
 }

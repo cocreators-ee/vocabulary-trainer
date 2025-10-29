@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen niikaua oodanud seda hetke",
-    "Ta on niikaua ära olnud",
-    "Niikaua kui me teame"
+    "Niikaua kui teie ei ole valmis, me ootame.",
+    "Ta töötab niikaua, kuni ta on väsinud.",
+    "Me peame tegema seda tööd niikaua, kuni see on valmis."
   ],
   "translation": [
     "as long as",
+    "while",
     "for as long as"
   ],
-  "context": "The word niikaua is used in Estonian to express the duration of a situation or action, and it can be translated to English as 'as long as' or 'for as long as'."
+  "context": "The Estonian word 'niikaua' is a conjunction that expresses duration or condition. It means 'as long as', 'while', or 'for as long as' in English. This word introduces a clause that specifies the time period during which something happens or continues. In the examples, it shows how an action continues for a certain duration - waiting while someone isn't ready, working until tiredness occurs, and doing work until completion."
 }

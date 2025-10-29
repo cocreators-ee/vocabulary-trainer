@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lõpetan selle töö homme.",
-    "Ta lõpetas kooli viis aastat tagasi.",
-    "Lõpeta see kohe!"
+    "Lõpeta see töö kella kuueks.",
+    "Sa pead lõpetama selle projektit nädalaks.",
+    "Ta on lõpetanud oma õpingud edukalt."
   ],
   "translation": [
     "finish",
-    "end",
-    "stop"
+    "complete",
+    "end"
   ],
-  "context": "The word 'lõpeta' is commonly used in Estonian to mean finishing or stopping something, and it can be used in different forms such as an imperative or in the past tense."
+  "context": "The Estonian word 'lõpeta' is a verb that means to finish, complete or end something. It's the imperative form (command) of the verb, telling someone to do the action. The related infinitive form would be 'lõpetada'. In different contexts, it can refer to finishing work, completing studies, ending activities, or bringing something to a conclusion."
 }

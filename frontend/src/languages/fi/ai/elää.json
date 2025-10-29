@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän elää yksin.",
-    "He elävät onnellisina.",
-    "Elämme maaseudulla."
+    "Minä elän Suomessa.",
+    "Hän ei elä yksin.",
+    "He elävät onnellisena."
   ],
   "translation": [
     "to live",
-    "live"
+    "to be alive",
+    "to exist"
   ],
-  "context": "The word 'elää' is a verb in Finnish that means to live or reside somewhere, and it is commonly used in everyday conversations to describe one's place of residence or lifestyle."
+  "context": "The Finnish verb 'elää' means to live or be alive. It's an intransitive verb that describes the state of existing, being alive, or residing somewhere. The verb has different forms depending on subject: elän (I live), eläät (you live/singular), hän/elii (he/she/it lives), emme elä (we don't live), ette elä (you plural don't live), he eivät elä (they don't live). The word can refer to both physical existence and the quality of life."
 }

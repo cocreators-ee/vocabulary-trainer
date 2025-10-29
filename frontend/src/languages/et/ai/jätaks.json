@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jätan selle ülesande sinu peale.",
-    "Ta otsustas jätta kooli.",
-    "Nad jätsid oma auto parkla."
+    "Ma jätaksin sinu lauale kirja.",
+    "Ta jätaks oma taskusse võtmed.",
+    "Me jätaksime varsti kodust."
   ],
   "translation": [
-    "to leave",
-    "leave something behind"
+    "would leave",
+    "would put",
+    "would place"
   ],
-  "context": "The word 'jätaks' is a verb that means to leave or abandon something in Estonian, often used when referring to leaving a task or responsibility for someone else to handle."
+  "context": "The word 'jätaks' is an Estonian verb form that would be the conditional mood (conditional tense) of the verb 'jätta', meaning 'to leave' or 'to put/place'. It indicates a hypothetical future action. The ending '-ks' marks this as the 3rd person singular conditional form, which translates to English as 'would leave' or 'would put'. This is used when talking about what someone would do under certain conditions."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Need te on ainsad lapsed.",
-    "Ainsad võimalused on piiratud.",
-    "Ta tundis end ainsana selles toas."
+    "Ainsad neede saavad selle koha.",
+    "Tema on ainsad kes seal olid.",
+    "Meie oleme ainsad kes seda teame."
   ],
   "translation": [
     "only",
     "sole",
-    "alone"
+    "the only ones"
   ],
-  "context": "The word 'ainsad' in Estonian translates to 'only', 'sole', or 'alone' in English. It is commonly used to indicate that something is the single instance of its kind, or to describe a state of being solitary."
+  "context": "The word 'ainsad' is the plural form of 'ainus' in Estonian. It means 'only' or 'the only ones'. In sentences, it's used to indicate exclusivity - when something is limited to a specific group and no others have access to it or can do it. The word agrees with the subject (plural) that follows it."
 }

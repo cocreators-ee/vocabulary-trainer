@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ootame veidi, et jõuda aja jooksul.",
-    "Ma olen huvitatud sellest, mida nad ootavad.",
-    "Neil on vaja midagi teha enne kui nad saavad oma ootamiseks õiguse."
+    "Me ootame sind.",
+    "Ootame sind homme.",
+    "Kas teie ootate meid?"
   ],
   "translation": [
-    "to wait",
-    "we are waiting",
-    "expect"
+    "wait for",
+    "expect",
+    "await"
   ],
-  "context": "The word 'ootame' is commonly used in Estonian to express the act of waiting for something or someone. It can also imply an expectation of a future event."
+  "context": "The Estonian word 'ootame' is the first person plural form of the verb 'ootama', meaning 'to wait for', 'to expect', or 'to await'. It is used when we (the speaker and others) are waiting for someone or something. The conjugation shows it's present tense, 1st person plural (we)."
 }

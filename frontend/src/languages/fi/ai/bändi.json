@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Bändi soitti hyvän konsertin.",
-    "Olen kuullut, että bändillä on uusi albumi.",
-    "Hän on ollut monen bändin johtaja."
+    "Minulla on suosikkibändi.",
+    "Tämä bändi soittaa rock-musiikkia.",
+    "Mietin, miltä tuo bändi kuulostaa live-esiintymisessä."
   ],
   "translation": [
-    "band"
+    "band",
+    "music group",
+    "rock band"
   ],
-  "context": "The word 'bändi' refers to a group of musicians who play music together, and it is commonly used in Finnish to talk about music groups or bands."
+  "context": "The Finnish word 'bändi' is a loanword from English 'band', commonly used to refer to music groups or bands. It's used in the same way as in English, to describe organized groups of musicians who play together and create music. The word can be used for any type of musical group - rock bands, pop groups, jazz ensembles, etc."
 }

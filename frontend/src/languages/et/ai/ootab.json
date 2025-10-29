@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ootab bussi.",
-    "Ma ootan teisi.",
-    "Nad ootasid mind."
+    "Ta ootab sind.",
+    "Meie ootame teid hommikul.",
+    "Lapsed ootavad kingitust."
   ],
   "translation": [
-    "waits",
-    "is waiting"
+    "waits for",
+    "is waiting for",
+    "awaits"
   ],
-  "context": "The word 'ootab' is a verb in Estonian that means to wait for something or someone, and it is commonly used in everyday conversations to describe the act of waiting."
+  "context": "The word 'ootab' is the 3rd person singular present form of the verb 'ootama', which means 'to wait'. It's commonly used to express that someone or something is waiting for another person, object, or event. The verb follows Estonian grammar rules where the ending '-b' indicates the 3rd person singular present tense."
 }

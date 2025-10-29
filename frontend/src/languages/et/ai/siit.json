@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tulen siit.",
-    "Ta tuli siit eile.",
-    "Me oleme siit Tallinnast."
+    "Siit siia!",
+    "Tuli siit poolt.",
+    "Sa tuled siit!"
   ],
   "translation": [
     "from here",
-    "here"
+    "hence",
+    "thence"
   ],
-  "context": "The word 'siit' is an adverb in Estonian that means 'from here' or 'here', indicating the starting point of a movement or action."
+  "context": "The Estonian word 'siit' is an adverb that indicates location or origin. It means 'from here' and is used to specify something originates from the current location or point of reference. The word can also be translated as 'hence' or 'thence' depending on context, but always refers to movement or direction away from the speaker's current position."
 }

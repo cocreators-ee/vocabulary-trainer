@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma helistan tema juurde homme",
-    "Ta helistas mulle eile",
-    "Helista mind homme üles"
+    "Ma helistan sina hommikul.",
+    "Tema helistas meile eile.",
+    "Helke helistas politseile."
   ],
   "translation": [
-    "to call",
-    "to phone",
-    "to ring"
+    "to call (by phone)",
+    "to telephone",
+    "to ring someone up"
   ],
-  "context": "The word 'helista' is commonly used in Estonian to mean making a phone call to someone, and it can be used in different forms such as in the sentences provided."
+  "context": "The Estonian verb 'helista' means to make a phone call or to telephone someone. It's used when referring to the action of calling someone on the telephone. The word derives from 'heli' meaning sound/voice, with the suffix '-sta' indicating action. In different contexts, it can be conjugated in various tenses: helistan (I call), helistasid (you called), helistas (he/she called)."
 }

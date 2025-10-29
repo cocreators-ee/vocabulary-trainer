@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin jutu, et ta on haige.",
-    "Ta rääkis mulle jutu enda elust.",
-    "Jutu lõpp oli üllatav."
+    "Jutu lõpetas kohe kui saabus ema.",
+    "Me räägime jutu all väga naljakaid asju.",
+    "See oli pikk ja igav jutu."
   ],
   "translation": [
-    "story",
-    "tale"
+    "conversation",
+    "talk",
+    "chat",
+    "story"
   ],
-  "context": "The word 'jutu' in Estonian refers to a story or tale, and is commonly used in everyday conversation to share experiences or recount events."
+  "context": "In Estonian, 'jutu' is a noun that refers to conversation, talk, or chat. It can also mean story depending on the context. The word appears in both singular and plural forms (jutud), and is commonly used when discussing social interactions, narratives, or discussions between people. When someone says 'rääkima jutu', it means to have a conversation."
 }

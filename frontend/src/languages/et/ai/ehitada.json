@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ehitab uue maja.",
-    "Meil on plaan ehitada uus paberfabriik.",
-    "Mina ehitasin oma isa abiga kodus toa."
+    "Ma ehitan uue maja.",
+    "Ta ehitab sillu.",
+    "Me ehitame kooli."
   ],
   "translation": [
-    "to build"
+    "to build",
+    "to construct",
+    "to erect"
   ],
-  "context": "'ehitada' means 'to build' and is commonly used in the context of constructing buildings or structures."
+  "context": "The Estonian verb 'ehitada' means to build or construct something physical. It is used when referring to the act of creating buildings, structures, or other physical objects. The verb follows Estonian conjugation patterns and can be used in different tenses with various subjects."
 }

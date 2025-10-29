@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meie paat on väga vana.",
-    "Ta remondib paati juba mitu päeva.",
-    "Paadi allosas oli auk."
+    "Tema paati oli väga kaunis.",
+    "Nägin ühe väikese paati sadamas.",
+    "Mehed ehitasid uue paati."
   ],
   "translation": [
     "boat",
-    "raft",
-    "vessel"
+    "small boat"
   ],
-  "context": "The word 'paat' in Estonian refers to a small watercraft, typically propelled by oars or a motor. It is commonly used to describe boats for fishing, recreation, or transportation on lakes and rivers."
+  "context": "The word 'paati' is the partitive form of 'paat' (boat) in Estonian. It indicates that something is being done with or to a boat, rather than referring to the entire boat as a complete entity. In English, it would translate to 'a boat' or 'some boat', but often just 'boat' depending on context."
 }

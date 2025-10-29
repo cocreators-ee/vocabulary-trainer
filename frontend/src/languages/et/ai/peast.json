@@ -1,16 +1,15 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Kui sa ei tea, kuhu minna peale õhtusööki, siis võid alati minna peast pankama. (If you don't know where to go after dinner, you can always go for a walk in the park.)",
-    "Ta jooksis kuni peast kõhvat ja tundus, et see oli ainuke viis sellest vabaneda. (He ran until he threw up and it seemed like that was the only way to get rid of it.)",
-    "Mõned lapsed mängivad alati peast ära, isegi kui nad juba väga väikesed on. (Some children always play outside until they're worn out even when they are already very small.)"
+    "Tegin selle peast meelde.",
+    "Ta ütles seda pealt ära.",
+    "Ma kuulsin seda suust."
   ],
   "translation": [
-    "afterward(s)",
-    "then",
-    "next",
-    "later"
+    "from memory",
+    "by heart",
+    "from the head",
+    "orally"
   ],
-  "context": "'Peast' in Estonian is used to indicate a time or sequence following an event or action, similar to English words like 'afterward(s)', 'then', or 'next'. It suggests what comes after something else either chronologically or logically."
+  "context": "The Estonian word 'peast' is an adverb that means 'from memory', 'by heart', or 'from the head'. It's used to indicate that something is being recalled without using written materials, or to specify that information comes from verbal communication rather than written sources. The word derives from the partitive case of ' pea' (head), indicating origin or source."
 }

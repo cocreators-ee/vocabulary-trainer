@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtin ööl ühe klaasi veini.",
-    "Ööl oli tal väga hea meel.",
-    "Me kõik joome ööl kokku."
+    "Ööl on külm.",
+    "Me jõime öölkui.",
+    "Tuleb ööl appi."
   ],
   "translation": [
     "at night",
-    "tonight"
+    "during the night",
+    "in the evening"
   ],
-  "context": "The word \"ööl\" in Estonian is used to describe something that happens or is done at night, and it can also be translated to English as 'tonight' depending on the context of the sentence."
+  "context": "The word 'ööl' is the Estonian adessive case form of 'öö', meaning 'night'. It indicates location or time, specifically meaning 'at night' or 'during the night'. This form is used when something happens at a particular time during the night, similar to how English uses prepositions like 'at' with 'night'."
 }

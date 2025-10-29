@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kui suured on sinu plaanid?",
-    "Nad tegutsesid suured kujundid.",
-    "Oled sa valmis suured sammud tegema."
+    "Suured lapsed vajavad rohkem ruumi.",
+    "Linnas on suured hooned.",
+    "Meil on suured plaanid järgmiseks aastaks."
   ],
   "translation": [
     "big",
-    "great",
-    "large"
+    "large",
+    "great"
   ],
-  "context": "The word 'suured' is the plural form of 'suur,' meaning big, great, or large. It's used to describe something in a significant way, whether in size, scale, or importance."
+  "context": "The word 'suured' is the plural form of the Estonian adjective 'suur', which means 'big' or 'large'. It's used to describe multiple things that are big in size, importance, or quantity. The '-d' ending at the end indicates it's in the plural nominative case."
 }

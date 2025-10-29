@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen saanud uusi sõbru.",
-    "Meil on vaja teha uusi planeerimisi.",
-    "Toode sisestati turule suvel ja see on väga uusi."
+    "Tere tulemast uusi kodanikke!",
+    "Meie firma otsib uisi töötajaid.",
+    "Ta ostis uise auto."
   ],
   "translation": [
-    "new"
+    "new",
+    "fresh"
   ],
-  "context": "The Estonian word 'uusi' is the plural form of 'uus', which means 'new'. It's used to describe something that has just come into existence or been created recently. Commonly, it refers to new items, information, people (like friends), or situations."
+  "context": "The Estonian word 'uusi' is the partitive case form of the adjective 'uus', which means 'new'. In Estonian, adjectives change their endings depending on the grammatical case. The partitive case (ending -i) is commonly used with certain verbs and in specific constructions. 'Uisi' can be translated as 'new' or 'fresh' in English."
 }

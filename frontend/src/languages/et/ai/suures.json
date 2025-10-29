@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan suures linnas.",
-    "Ta töötab suures firmas.",
-    "Suures osas on see hea mõte."
+    "Suurte rõõmustega",
+    "Talve suures linnas",
+    "Suures hoones"
   ],
   "translation": [
     "big",
-    "large"
+    "large",
+    "great",
+    "in the big/large/great (inessive case)"
   ],
-  "context": "The word 'suures' in Estonian is an adjective that means big or large, often used to describe something of a great size or extent."
+  "context": "The word 'suures' is the inessive singular form of the Estonian adjective 'suur', meaning 'big' or 'large'. It specifically means 'in the big/large/great' and follows the grammatical pattern where the adjective takes an -s ending when used with the inessive case. This form indicates location within something big."
 }

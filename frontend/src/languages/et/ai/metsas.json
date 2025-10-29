@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maja asus metsas",
-    "Metsas oli väga ilus",
-    "Ta läks jalutama metsas"
+    "Metsas on palu puid.",
+    "Olen metsas kaks päeva olnud.",
+    "Me lähime metsas jalutama."
   ],
   "translation": [
     "in the forest",
-    "woods"
+    "in woods"
   ],
-  "context": "The word 'metsas' is used to describe something that is located in or related to a forest, often indicating a location or setting."
+  "context": "The word 'metsas' is an Estonian adessive case form of the noun 'mets', meaning 'forest'. The adessive case typically indicates location or state, so 'metsas' means 'in the forest' or 'in woods'. It's used to express where something is located physically - when someone or something is in a forest area."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean teed Tallinna.",
-    "Teed on suletud remonti ajal.",
-    "Ta ei tea teed kodu."
+    "Mida sa teed?",
+    "Ma ei tea.",
+    "Ta teab kõiki vastuseid."
   ],
   "translation": [
-    "road",
-    "way",
-    "path"
+    "know",
+    "be aware of",
+    "have knowledge of"
   ],
-  "context": "The word 'teed' in Estonian generally refers to a path or road, and is commonly used when giving directions or describing locations."
+  "context": "The word 'tead' is the third person singular form of the verb 'tema' in Estonian. It means 'he/she knows'. The infinitive form is 'teada', and other forms include 'tean' (I know), 'tead' (you know, informal), 'teame' (we know), and 'tate' (they know)."
 }

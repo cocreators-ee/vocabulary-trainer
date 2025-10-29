@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Olen siis kaome eestlane. (I am then a proud Estonian.)",
-    "Kas sa oled kaome ja tänaseks? (Are you proud and for today?)",
-    "Tema oli alati kaome oma tegude üle. (He was always proud of his actions.)"
+    "Me kaome hommikuti.",
+    "Kaome koos pärast tööd.",
+    "Kas teie kaome lõunaaja?"
   ],
   "translation": [
-    "proud"
+    "we eat",
+    "let's eat",
+    "shall we eat?"
   ],
-  "context": "The word 'kaome' in Estonian translates to 'proud' in English. It is used to describe a feeling of pride, either about oneself or something one is associated with."
+  "context": "The word 'kaome' is the 1st person plural present indicative form of the verb 'sööma' (to eat) with an imperative/hortative meaning. It functions as a suggestion or invitation to eat together, similar to English expressions like 'let's eat' or 'shall we eat?'. The word includes the subject pronoun 'me' (we) and the present tense ending '-me', but uses the imperative form rather than indicative mood for making a collective proposal."
 }

@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei ole kursis sellega.",
-    "Kas sa oled kursis, mis toimub?",
-    "Ta on kursis kõigi detailidega."
+    "Kursis on tähtis osa õppimisprotsessist.",
+    "Õpilased peavad olema kursis kõige uuemate teadmisega.",
+    "Ta jääb kursis viimasest arengust oma valdkonnas."
   ],
   "translation": [
-    "aware",
-    "informed",
-    "up to date",
-    "in the know"
+    "on track",
+    "up-to-date",
+    "informed"
   ],
-  "context": "The word 'kursis' in Estonian means being aware of or informed about something. It is commonly used to ask if someone knows about a particular situation or topic, or to state that you are not familiar with it."
+  "context": "The Estonian word 'kursis' is an adjective that means being up-to-date, informed, or on track with current information, knowledge, or developments. It indicates that someone has the latest and most relevant information about a particular topic or subject area."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on halb mängija.",
-    "Halb ilm ei meeldi kedagi.",
-    "See film oli halb."
+    "Töö oli halb.",
+    "Ta oli väga halb nendest mängudest.",
+    "Kes on sinu parim ja halvim õpetaja?"
   ],
   "translation": [
     "bad",
-    "poor"
+    "poor",
+    "awful"
   ],
-  "context": "The word 'halb' in Estonian generally means something or someone that is of poor quality or not good, and it can be used to describe various things such as a person's skills, the weather, or an object."
+  "context": "The Estonian word 'halb' means bad or poor in English. It's an adjective used to describe something of low quality, unsatisfactory, or unpleasant. In the examples: 1) 'Töö oli halb' means 'The work was bad.' 2) 'Ta oli väga halb nendest mängudest' means 'He was very bad at those games.' 3) 'Kes on sinu parim ja halvim õpetaja?' means 'Who is your best and worst teacher?' The word can be modified with adverbs like 'väga' (very) to intensify its meaning, as shown in the second example."
 }

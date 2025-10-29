@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen küllalt kindel",
-    "Ta on küllalt hea sõber",
-    "See on küllalt tore koht"
+    "Kyllalt toitu on olemas.",
+    "Tegelikult kyllalt aega jäi alles.",
+    "Kyllalt palju tööd tehti."
   ],
   "translation": [
     "enough",
-    "quite",
-    "rather"
+    "sufficiently",
+    "adequately"
   ],
-  "context": "The word küllalt is an adverb in Estonian that means enough or quite, and it is commonly used to express a moderate degree of something."
+  "context": "The Estonian word 'kyllalt' is an adverb that means 'enough' or 'sufficiently'. It's used to indicate that there is a sufficient quantity, amount, or degree of something. The word comes from 'küll', which expresses affirmation or certainty, combined with '-alt', indicating manner or extent. When using 'kyllalt', it typically follows the verb in a sentence and modifies the action by showing adequacy."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen minevikus elanud.",
-    "Mineviku sündmused on olulised.",
-    "Ta rääkis mineviku kohta."
+    "Minevik on möödunud aeg.",
+    "Me arutame mineviku sündmusi.",
+    "See juhtum kuulub minevikku."
   ],
   "translation": [
     "past",
     "history"
   ],
-  "context": "The word 'minevik' refers to a period of time that has already happened, and is commonly used in Estonian to talk about historical events or personal experiences."
+  "context": "The Estonian word 'minevik' means 'past' or 'history'. It refers to the time that has already occurred and gone by, as opposed to the present or future. In Estonian grammar, it's a masculine noun in nominative case. When used in different cases, it would change form (e.g., genitive: 'mineviku', partitive: 'minevikku')."
 }

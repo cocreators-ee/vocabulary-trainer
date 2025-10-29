@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tapaaminen oli pitkä aikana.",
-    "Hän oli sairaalassa usean viikon aikana.",
-    "Meillä oli paljon keskusteltavaa lyhyen aikana."
+    "Olimme Suomessa aikana talvella.",
+    "Hän luki kirjaa aikana junamatkalla.",
+    "Koulu alkoi aikana syyskuussa."
   ],
   "translation": [
     "during",
-    "in the course of"
+    "while",
+    "in the time of"
   ],
-  "context": "The word 'aikana' is a postposition in Finnish that indicates something happens or is done during a certain period of time, and it is commonly used to provide more information about when an event takes place."
+  "context": "The Finnish word 'aikana' is an inessive case form of the noun 'aika' (time), meaning 'during' or 'while'. It indicates when something happens within a specific time period. This grammatical case expresses location in time rather than physical space."
 }

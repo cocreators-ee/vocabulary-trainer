@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Jõuan tänan sind palju.",
-    "Ma jõuan märkida, et sa ei tea seda.",
-    "Kas sa jõuan nendest üldse midagi mõista?"
+    "Jõuan homme hommikul kell viis.",
+    "Kas te jõuate oma eesmärkidele?",
+    "Ma ei jõua täna kohtumisele ajaga."
   ],
   "translation": [
-    "I understand",
-    "I can understand",
-    "Do you understand"
+    "I manage",
+    "I reach",
+    "I succeed",
+    "I am able to"
   ],
-  "context": "'jõuan' is used to express understanding or the ability to comprehend something. It can also be used in questions to check if someone understands."
+  "context": "The word 'jõuan' is the first-person singular present tense form of the Estonian verb 'jõudma', which means 'to be able to', 'to manage', 'to reach', or 'to succeed'. It indicates capability or successful achievement. The stem changes in conjugation - from 'jõud-' to 'jõua-' before adding the personal ending '-n' for first person singular present tense."
 }

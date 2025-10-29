@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Rahvast tervitab president.",
-    "Rahvastik on suurenenud.",
-    "Rahva hääled on kuulda."
+    "Suur rahvast kogunes linnaväljakule.",
+    "Kooliüritusele tuli palju rahvast.",
+    "Meie korraldatud festivalil oli väga suur rahvast."
   ],
   "translation": [
-    "people",
-    "population"
+    "crowd",
+    "gathering of people",
+    "large number of people"
   ],
-  "context": "The word 'rahvast' generally refers to a group of people or the population of a country, and it is commonly used in Estonian language to describe the citizens or inhabitants of a place."
+  "context": "The word 'rahvast' is the partitive form of 'rahvas' (people), which means 'of people' or 'from among the people'. It's used when referring to an unspecified amount or portion of people. In English, it can be translated as 'crowd', 'gathering of people', or 'large number of people'. This form is commonly used in Estonian when talking about gatherings of people without specifying an exact quantity."
 }

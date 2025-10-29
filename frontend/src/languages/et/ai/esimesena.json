@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli esimesena, kes seda ütles.",
-    "Esimesena tuli tema.",
-    "Meil ei olnud esimesena võimalik seda teha."
+    "Tema oli esimesena kohal.",
+    "Esimesena saabusid noored sportlased.",
+    "Meie oleme alati esimesena valmis."
   ],
   "translation": [
     "first",
-    "as the first one"
+    "in first place",
+    "the first one"
   ],
-  "context": "The word 'esimesena' in Estonian means 'as the first one' or 'first', and it is commonly used to indicate that someone or something is doing something before others."
+  "context": "The Estonian word 'esimesena' is an adverb that means 'first' or 'in the first position'. It's formed from 'esimene' (first) with the '-na' suffix indicating an adverbial form, similar to how English uses '-ly' for many adverbs. This word indicates being in the first position or doing something before others."
 }

@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta saabus kohe.",
-    "Buss saabus õigeaegselt.",
-    "Külaline saabus juba enne neljat."
+    "Saabus hommikul vihm.",
+    "Ta saabus kell kolm."
   ],
   "translation": [
-    "arrived"
+    "arrived",
+    "came"
   ],
-  "context": "The word 'saabus' is the third person singular form of the verb 'saabuma', which means to arrive in Estonian. It is commonly used to describe the act of someone or something arriving at a destination."
+  "context": "The word 'saabus' is the past tense third person singular form of the Estonian verb 'saabuma', which means to arrive or come. It's used when talking about someone or something that arrived in the past, specifically from a third-person perspective (he/she/it)."
 }

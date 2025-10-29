@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tunneb mind.",
-    "Ma tundsin rõõmu selle pärast.",
-    "Ta toimunud sündmusega tutvustab meid."
+    "Tunnen head.",
+    "Me tunneme rõõmsad.",
+    "Ta ei tunne valu."
   ],
   "translation": [
-    "knows",
-    "felt (emotion)",
-    "introduces (in context of events)"
+    "feels",
+    "senses",
+    "recognizes"
   ],
-  "context": "Tunneb can mean 'knows' in a personal or factual sense, 'felt' when referring to emotions, and can also mean 'introduces' when used with events. Commonly used in daily conversation."
+  "context": "The word 'tunneb' is the 3rd person singular form of the Estonian verb 'tundma', which means to feel, sense, or recognize. It can be used when describing someone's physical sensations, emotions, or recognition of something."
 }

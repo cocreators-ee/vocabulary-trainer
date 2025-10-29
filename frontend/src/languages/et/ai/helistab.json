@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta helistab mind iga päev.",
-    "Ma olen helistanud talle juba mitu korda.",
-    "Kui ta helistab, ma võtan alati vastu."
+    "Ta helistab oma emale.",
+    "Ma helistan teile homme kell seitse.",
+    "Kas sa võiksid helista meie juhendajale?"
   ],
   "translation": [
-    "calls",
-    "rings",
+    "calls (by phone)",
+    "rings up",
     "phones"
   ],
-  "context": "The word 'helistab' is a verb in Estonian that means to call someone on the phone, and it is commonly used in everyday conversations to describe the act of making a phone call to someone."
+  "context": "The word 'helistab' is the 3rd person singular present tense form of the Estonian verb 'helisema', which means to call or ring someone by telephone. It's commonly used in everyday communication for making phone calls. The stem 'heli-' relates to sound/ringing, and '-tab' indicates the 3rd person singular present ending."
 }

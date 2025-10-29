@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema nimi on Lilli.",
-    "Lilli jooksis tänava kallal.",
-    "Minu venna nimeks on Lilli."
+    "Lilli on hea laps.",
+    "Lilli käis koolis.",
+    "Lilli luges raamatut."
   ],
   "translation": [
-    "Flower (name)"
+    "Lilly (female name)",
+    "Lily (flower)"
   ],
-  "context": "'lilli' is a name, possibly derived from the Estonian word for 'flower'. It can be used as a girl's name and sometimes refers to someone who is lively or cheerful. In this context, it is primarily a proper noun."
+  "context": "The word 'lilli' is an Estonian female name, equivalent to the English names Lilly or Lily. It can also refer to the lily flower in Estonian. As a proper noun/name, it would be capitalized as 'Lilli' when referring to a person named Lilli. In its common noun form, it refers to the beautiful flowering plant known as lily in English."
 }

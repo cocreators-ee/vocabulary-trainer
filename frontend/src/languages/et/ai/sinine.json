@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta võttis sinise pluusi selga.",
-    "Sinine on ilus värv.",
-    "Sinine meelespea on tavaline kalade liik."
+    "Taevas on sinine.",
+    "Sinised lilled on ilusad.",
+    "Ta kannab sinist kleiti."
   ],
   "translation": [
-    "blue"
+    "blue",
+    "bluish"
   ],
-  "context": "The word 'sinine' is an adjective in Estonian that means blue, and it is commonly used to describe the color of objects or the sky."
+  "context": "The Estonian word 'sinine' is an adjective that means 'blue' in English. It describes the color blue and can be used to modify nouns referring to objects or concepts that are blue in color. In the examples, it's used with different cases: nominative case (sinine), genitive plural (sinised), and partitive singular (sinit)."
 }

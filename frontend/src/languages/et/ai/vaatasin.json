@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma vaatasin täna filmi.",
-    "Ta vaataski vahel raamatuid.",
-    "Pere pidi väga palju filmidesse vaatama."
+    "Vaatasin telesoovid eile öösel.",
+    "Ma vaatasin seda filmi kolm korda.",
+    "Ta vaatasin mind ootamatult."
   ],
   "translation": [
-    "looked",
-    "watched"
+    "I watched",
+    "I looked at",
+    "I observed"
   ],
-  "context": "The word 'vaatasin' is the past tense form of 'to look' or 'to watch', typically used for watching films, shows, or reading books. It implies that someone spent time observing something with interest or attention."
+  "context": "\"Vaatasin\" is the past tense first person singular form of the Estonian verb \"vaatama\", which means 'to look' or 'to watch'. It indicates that the speaker performed an action of looking or watching in the past. The word combines the stem \"vaata-\" with the past tense suffix \"-sin\" and is commonly used when describing actions completed by the speaker in the past, such as watching television, observing something, or looking at someone/something."
 }

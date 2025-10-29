@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlen seda öösel.",
-    "Ta ütles mulle, et see on hea mõte.",
-    "Ütleme talle, et me ootame teda."
+    "Tahan sulle midagi öelda.",
+    "Ma ei tea, mida sulle öelda.",
+    "Mis sulle öelda?"
   ],
   "translation": [
+    "to tell",
     "to say",
-    "to tell"
+    "to inform"
   ],
-  "context": "The word \"ütelda\" is commonly used in Estonian to express the act of saying or telling something, and it can be translated to English as 'to say' or 'to tell'."
+  "context": "The Estonian word 'ütelda' is the basic infinitive form of the verb meaning 'to tell' or 'to say'. It's commonly used when conveying information to someone. The word follows regular Estonian conjugation patterns and can be modified for different tenses, moods, and subjects."
 }

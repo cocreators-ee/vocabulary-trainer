@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan oma õde.",
-    "Õe auto on punane.",
-    "Tal on kaks õde."
+    "Õel on kaks venda.",
+    "Mul on õde ja vend.",
+    "Minu õe nimi on Anne."
   ],
   "translation": [
     "sister"
   ],
-  "context": "The word õe is a possessive form of the Estonian word for sister, and it is commonly used to refer to one's sibling in informal settings."
+  "context": "The Estonian word 'õe' is the genitive case form of 'õde', meaning 'of sister' or 'belonging to sister'. It's used in contexts where you're expressing possession or relationship with a female sibling. The nominative form is 'õde' (sister), and 'õe' shows that something belongs to or relates to the sister."
 }

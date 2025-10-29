@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen ühe kodutööga tegeleval õpilane.",
-    "Ta on ühe kooli õpilane.",
-    "Ühe töökoha puhul tuleb arvestada ka muude asjaoluga."
+    "Ühe minuti pärast jõuame siia.",
+    "Mul on ühe hinnanguga asi.",
+    "Tema nägi seda ühes öösel."
   ],
   "translation": [
     "one",
-    "a"
+    "single",
+    "of one"
   ],
-  "context": "The word \"ühe\" is used in Estonian to indicate a single item or unit, similar to the English word 'one' or 'a'."
+  "context": "The Estonian word 'ühe' is the partitive case singular form of the numeral number 'üks' (one). It indicates a single unit or item, typically used when counting or referring to something in an incomplete sense. In English, this can be translated as 'one', 'single', or 'of one'. This form is commonly used with nouns that require the partitive case in Estonian grammar."
 }

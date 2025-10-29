@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostanud püstoli turult.",
-    "Püstolid on levinud relvad.",
-    "Ta tegi endale püstoli tööriista."
+    "Ma olen püstoliga.",
+    "Püssid ja püstolid on tulirelvad.",
+    "Kas sul on püss või püstol?"
   ],
   "translation": [
     "pistol",
-    "gun",
     "handgun"
   ],
-  "context": "The word püstol refers to a type of firearm, commonly used for self-defense or as a weapon in various situations."
+  "context": "The Estonian word 'püstol' means 'pistol' or 'handgun' in English. It refers to a type of firearm designed to be held and operated with one hand. The word can appear in different forms such as 'püssid' (plural form meaning 'pistols') and 'püstoliga' ('with a pistol' in the instrumental case)."
 }

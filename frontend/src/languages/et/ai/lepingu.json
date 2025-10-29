@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lepingu tingimused on selged.",
-    "Ta kirjutas lepingu ära.",
-    "Lepingute sõlmimine on oluline."
+    "Tegime lepingu ettevõttega.",
+    "Kas teil on selle lepinguga seotud küsimusi?",
+    "Lepingu tingimused on selged ja mõistlikud."
   ],
   "translation": [
     "agreement",
-    "contract"
+    "contract",
+    "deal"
   ],
-  "context": "The word 'lepingu' in Estonian generally refers to a formal agreement or contract between two or more parties, outlining the terms and conditions of their arrangement."
+  "context": "The Estonian word 'lepingu' is the partitive case form of 'lepik', which means agreement or contract. It's used when referring to an agreement in a partial sense or as the object of an action. In these examples, it appears as the direct object indicating that there is an existing agreement being discussed, referenced, or acted upon."
 }

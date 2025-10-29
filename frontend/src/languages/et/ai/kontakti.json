@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis kontakti tema vanematega",
-    "Kontakti võtmine ei õnnestunud esimesel katsel",
-    "Meil on hea kontakt tema kolleegadega"
+    "Kontakti kasutamisel peate olema ettevaatlik.",
+    "Võtke meiega ühendust kontakti kaudu.",
+    "Tal on head kontaktid äris"
   ],
   "translation": [
     "contact",
-    "connection"
+    "connection",
+    "contacts (plural form)"
   ],
-  "context": "The word 'kontakti' is a noun in Estonian that refers to the act of getting in touch with someone or establishing a connection, and it can be used in various contexts such as business, personal relationships, or communication."
+  "context": "'Kontakt' is an Estonian noun meaning 'contact'. The word 'kontakti' appears to be in the genitive case or partitive case, indicating possession or relation. In English, this would translate to 'of contact', 'with contact', or simply 'contact' depending on context. It's commonly used when referring to connections between people or communication links."
 }

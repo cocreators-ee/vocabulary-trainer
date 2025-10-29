@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Jumalad olid vanade eestlaste jaoks tähtsaimad jumalad.",
-    "Ta uskus, et jumalad on kõikjal.",
-    "Jumalad said temaga vihased."
+    "Jumalaid on paljudes religioonides.",
+    "Mõned jumalad on seotud loodusega.",
+    "Vana-Kreeka jumalad olid väga populaarsed."
   ],
   "translation": [
-    "gods"
+    "gods",
+    "deities"
   ],
-  "context": "The word 'jumalad' refers to gods or deities in Estonian mythology and is commonly used to describe supernatural beings with divine powers."
+  "context": "The word 'jumalad' is the plural form of 'jumal', meaning 'god' in English. In Estonian, nouns have grammatical cases and numbers, with '-d' being a common ending for the plural nominative case. This term refers to multiple deities or gods in religious contexts."
 }

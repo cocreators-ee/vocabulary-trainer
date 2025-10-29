@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen jälginud teda kogu päeva.",
-    "Ta on mind jälginud juba nädal aega.",
-    "Me oleme jälginud neid kõiki."
+    "Ma olen järjest jälginud uudiseid.",
+    "Ta on pidevalt jälgitud meie liikumisi.",
+    "Laps ei ole veel piisavalt jälginud oma käitumist."
   ],
   "translation": [
+    "watched",
     "followed",
-    "tracked",
-    "pursued"
+    "monitored",
+    "tracked"
   ],
-  "context": "The word 'jälginud' is the past tense of the verb 'jälitama', which means to follow or track someone or something, often in a physical sense, but can also be used figuratively to describe monitoring or observing something closely."
+  "context": "\"Jälginud\" is the past participle form of the Estonian verb 'jälgima', which means to watch, follow, monitor, or track. It describes something that has been observed or followed in the past. The word is formed by adding the '-nud' suffix to the stem 'jäg-', indicating completed action. In context, it can be used for watching news programs, monitoring activities, or tracking behavior."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tere õhtust!",
-    "Head ööd ja head õhtut.",
-    "Ma soovin sulle head õhtut."
+    "Õhtut on meeldiva ilmaga.",
+    "Tahaksin õhtuti koos sinuga jalutada.",
+    "Õhtuti tuleme kohtuma vanas linnaosas."
   ],
   "translation": [
-    "Good evening",
-    "Evening"
+    "at evening",
+    "in the evening",
+    "during the evening"
   ],
-  "context": "The word 'õhtut' is a common greeting in Estonian used to say 'good evening'. It’s typically used from late afternoon or early evening onwards. It can also be used as a standalone greeting when meeting someone in the evening."
+  "context": "The word 'õhtut' is an Estonian adessive case form of 'õhtu', which means 'evening'. The -t suffix in the adessive case indicates location or time, so 'õhtut' specifically means 'at evening' or 'in the evening'. It refers to a period of time during the evening hours. This is different from the nominative form 'õhtu' (evening) and would be used when talking about being located at or happening during the evening time."
 }

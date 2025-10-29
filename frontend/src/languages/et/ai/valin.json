@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta valin sind oma kätega.",
-    "Ma ei tea, mida ta valib.",
-    "Valin endale uue kleidi."
+    "Ma valin sobiva ruumi.",
+    "Tüdrukud valisid kingitusi.",
+    "Meie pere valis uue auto."
   ],
   "translation": [
-    "chooses",
-    "selects",
-    "picks"
+    "choose",
+    "select",
+    "pick"
   ],
-  "context": "The verb 'valin' in Estonian means 'to choose' or 'to select'. It is used to indicate the act of making a decision between different options. In English, it’s commonly used when someone is deciding what they want, like choosing food at a restaurant or selecting an item from a store."
+  "context": "The word 'valin' is the first person singular present tense form of the Estonian verb 'valida', which means 'to choose' or 'to select'. It indicates that someone (I) is making a choice or selection among options. This form specifically refers to actions performed by the speaker in the current moment."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kuldkell on väga ilus.",
-    "Ta kingib kuldmünti.",
-    "Kuld on kallis metal."
+    "Kuld on väärismetall.",
+    "Ta kandis kulda käes.",
+    "Mul oli päeval kuldne päev."
   ],
   "translation": [
-    "gold"
+    "gold",
+    "golden"
   ],
-  "context": "The word 'kuld' refers to the chemical element gold, which is a valuable and highly sought-after metal, often used in jewelry and other decorative items."
+  "context": "The word 'kuld' is an Estonian noun meaning 'gold'. It refers to the precious metal gold. In different forms, it can appear as 'kulda' (partitive case, meaning 'some gold') or 'kuldne' (adjective form meaning 'golden')."
 }

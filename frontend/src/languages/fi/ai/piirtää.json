@@ -1,13 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän piirtää hyvin.",
-    "Piirrän kuvan.",
-    "He piirtävät yhdessä."
+    "Minä piirrän kuvan.",
+    "Hän piirsi kauniin maiseman.",
+    "Lapsi piirtää värikkäitä kuvia."
   ],
   "translation": [
-    "to draw"
+    "to draw",
+    "to sketch",
+    "to paint",
+    "to portray"
   ],
-  "context": "The word 'piirtää' is a verb in Finnish that means to draw or sketch something, often used in the context of creating art or designs."
+  "context": "The Finnish verb 'piirtää' means to create an image by drawing or painting. It's commonly used for creating visual representations on paper, canvas, or other surfaces. The word can be used in various tenses and forms - the infinitive form is 'piirtää', present tense first person singular is 'piirrän', past tense third person singular is 'piirsi', and it follows regular conjugation patterns."
 }

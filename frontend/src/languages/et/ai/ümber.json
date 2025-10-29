@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen ümber maja.",
-    "Ta tegi ümber pöörde.",
-    "Ümber on hea koht jalutada."
+    "Ta käis ringi ümber linna.",
+    "Põhja poole sõidame ümber järve.",
+    "Me paneme kõik oma asjad ümbre."
   ],
   "translation": [
     "around",
     "about",
-    "over"
+    "through"
   ],
-  "context": "The word \"ümber\" in Estonian is commonly used to describe something that is located around or about something else, or to indicate a change in direction, such as turning over or around."
+  "context": "\"Ümber\" is an Estonian adverb that can mean 'around' when indicating movement in a circular path, or 'about/through' when describing movement past something. It's often used with verbs of motion to indicate completing a circuit or going around an obstacle."
 }

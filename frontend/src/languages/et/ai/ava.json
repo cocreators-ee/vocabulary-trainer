@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta avas uksed.",
-    "Ava see pakend!",
-    "Avatud süda on hea omadus."
+    "Ava uks.",
+    "Ta avas akna.",
+    "Meie ava meie aed."
   ],
   "translation": [
     "open",
-    "to open"
+    "open up",
+    "uncover"
   ],
-  "context": "The word 'ava' in Estonian means to open something, and it is commonly used in various contexts such as opening doors, packages, or even one's heart to be more receptive."
+  "context": "In Estonian, 'ava' is the imperative form of the verb 'avatama', which means 'to open'. It's used as an instruction or command to someone to open something. The word can be applied to opening doors, windows, boxes, or other containers."
 }

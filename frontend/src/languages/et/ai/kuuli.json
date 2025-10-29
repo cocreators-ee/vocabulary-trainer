@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin seda öelda.",
-    "Kuuli ta midagi?",
-    "Ta ei kuulnud mind."
+    "Kuulisin sulle ühe nalja.",
+    "Ma kuulsin raadioajastust.",
+    "Oled sa seda kuulnud?"
   ],
   "translation": [
     "heard",
-    "listened"
+    "listened to"
   ],
-  "context": "The word 'kuuli' is the simple past tense of the Estonian verb 'kuulma', which means to hear. It is commonly used in sentences where someone has perceived a sound or some information through their ears."
+  "context": "The word 'kuuli' is the past tense (past perfect) form of the Estonian verb 'kuidama', which means 'to hear' or 'to listen'. In this specific form, it indicates that someone heard something in the past. The difference between 'hear' and 'listen to' depends on context - 'hear' refers to perceiving sound, while 'listen to' implies paying attention to what is being heard."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tuul tuli viimast koos külma õhuga.",
-    "Jää viimased jäänukid kadusid kevaditi.",
-    "Külm viima puhas õhk on vajalik."
+    "Tuleb viima.",
+    "Viimas on külm tuul.",
+    "Meid tabas ootamatult viima."
   ],
   "translation": [
-    "gust",
-    "blast",
-    "squall"
+    "cold wind",
+    "chill",
+    "gust of cold air"
   ],
-  "context": "The word 'viima' in Estonian generally refers to a strong and sudden gust of wind, often associated with cold air or a stormy weather pattern."
+  "context": "In Estonian, 'viima' refers to a cold wind or chill in the air. It's typically used when describing weather conditions that feel colder than what might be expected based on temperature alone. This word describes the sensation of being hit by a sudden burst of cold air."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kutigan teda iga päev.",
-    "Ta on mind kutinud juba mitu korda.",
-    "Kutige teda homme uuesti."
+    "Koti kutiga oli väga ilus.",
+    "Lõin supi köögiviljadega ja lisasin põhja kuidagi.",
+    "Meie koer käis parkis käies oma eelmise kutiga."
   ],
   "translation": [
-    "to call",
-    "to invite",
-    "to summon"
+    "with a dog",
+    "accompanied by a dog",
+    "having a dog with"
   ],
-  "context": "The word 'kutiga' in Estonian means to call or invite someone, often used in formal or official contexts, such as inviting someone to a meeting or calling them for an interview."
+  "context": "The Estonian word 'kutiga' is the instrumental case form of 'koer' (dog), meaning 'with a dog' or 'accompanied by a dog'. The '-ga' suffix indicates accompaniment or means in Estonian. This form is used when you want to express that something was done with or using a dog."
 }

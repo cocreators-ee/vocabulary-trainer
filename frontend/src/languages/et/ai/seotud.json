@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen selle küsimusega seotud",
-    "Seotud inimesed on need, kes on omavahel suguluses",
-    "See on seotud teise küsimusega"
+    "Seotud on kaks inimest.",
+    "Ta oli seotud kuriteoga.",
+    "Põhjused on omavahel seotud."
   ],
   "translation": [
-    "related",
     "connected",
-    "associated"
+    "related",
+    "bound"
   ],
-  "context": "The word seotud is commonly used to describe a connection or relationship between two things, such as people, ideas, or events."
+  "context": "The word 'seotud' is the past participle form of the Estonian verb 'siduda', which means 'to tie, to bind, or to connect'. It is used as an adjective to indicate that something is connected, related, bound, or linked together. In different contexts, it can describe relationships between people (connected), connections between events or things (related), or physical bindings (bound)."
 }

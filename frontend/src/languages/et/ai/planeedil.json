@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma unistan planeedil reisida.",
-    "Planeedil on palju erinevaid kultuure.",
-    "Kas sa oled kunagi mõelnud, milline elu planeedil võiks olla?"
+    "Me oleme planeedil.",
+    "Tema elab planeedil.",
+    "Kas sa oled planeedil?"
   ],
   "translation": [
-    "planet",
-    "world",
-    "globe"
+    "on the planet",
+    "on a planet"
   ],
-  "context": "The word 'planeet' in Estonian refers to a celestial body orbiting a star. It is commonly used in discussions about space, astronomy, and science fiction, similar to its English counterpart 'planet'."
+  "context": "The word 'planeedil' is an Estonian inessive case form of the word 'planeet', which means 'planet'. The '-l' ending indicates location or being on/in something. It translates to English as 'on the planet' or 'on a planet'."
 }

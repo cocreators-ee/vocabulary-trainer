@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks kaugele.",
-    "Me läksime kinosse.",
-    "Kas sa lähed homme tööle?"
+    "Eile läksin linna.",
+    "Tema ei läks koju.",
+    "Meie lähme homme."
   ],
   "translation": [
     "went",
     "left",
-    "gone"
+    "departed"
   ],
-  "context": "The word 'läks' is the past tense of the verb 'minna', which means 'to go'. It indicates a completed action of going or leaving. In English, it’s commonly used to describe movement from one place to another in the past."
+  "context": "The word 'läks' is the past tense singular form of the Estonian verb 'minema', which means 'to go'. It indicates movement away from the current location. In this case, it's used in the simple past tense (3rd person singular). The verb 'minema' can have different forms depending on the subject and tense: läksin (I went), läksid (you went/singular), läks (he/she/it went), lähme (we go/went), lähete (you go/went/plural), lähed (they go/went)."
 }

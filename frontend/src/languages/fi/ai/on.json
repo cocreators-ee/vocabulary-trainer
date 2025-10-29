@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän on opettaja.",
-    "Aurinko on kirkas tänään.",
-    "Minulla on nälkä."
+    "Minä olen koulussa.",
+    "Hän on ystäväni.",
+    "Se on kaunis talo."
   ],
   "translation": [
     "is",
+    "am",
     "are",
-    "being"
+    "was",
+    "were"
   ],
-  "context": "The Finnish word 'on' is a very common verb meaning 'to be'. It functions similarly to the English verbs 'is', 'are', and 'am', but it’s used more broadly in many contexts where English would use other auxiliary verbs or constructions."
+  "context": "The Finnish word 'on' is the third person singular form of the verb 'olla', which means 'to be'. It's used to indicate existence, identity, or state in the present tense. For example: 'Minä olen koulussa' (I am at school), 'Hän on ystäväni' (He/She is my friend), 'Se on kaunis talo' (It is a beautiful house)."
 }

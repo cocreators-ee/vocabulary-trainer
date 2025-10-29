@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tervitas mind pühalikult.",
-    "Me tervitasime külalisi soojalt.",
-    "Tervitused perekonnale!"
+    "Terved on meie kodus!",
+    "Tere tulemast meie juurde!",
+    "Kas sa tuled meiega? Tervet!"
   ],
   "translation": [
     "hello",
     "greetings",
+    "hi",
     "welcome"
   ],
-  "context": "The word 'terved' is a common greeting in Estonian, similar to 'hello', 'hi', or 'greetings' in English. It can also be used as a verb meaning 'to greet' or 'to welcome'. It’s often used when meeting someone for the first time or offering friendly acknowledgement."
+  "context": "The word 'terved' appears to be a plural or variant form of the Estonian greeting 'tere'. In Estonian, 'tere' means hello or hi, and 'terved' might be used as an informal plural greeting or a regional variation. It's commonly used when welcoming people or expressing greetings in social situations."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Politseiskoleti inspektor on tunnustatud ekspert oma valdkonnas.",
-    "Inspektoril oli väga hea meel, kui ta sai uue auto.",
-    "Inspektoreid oli mitu ja nad olid kõik erinevaid"
+    "Inspektor kontrollis tooteid.",
+    "Inspektori arvamus oli oluline.",
+    "Tema on hea inspektor."
   ],
   "translation": [
     "inspector",
-    "supervisor"
+    "examiner",
+    "controller"
   ],
-  "context": "The word inspektor in Estonian refers to a high-ranking official or authority figure responsible for examining and supervising something, similar to the English term inspector."
+  "context": "The word 'inspektor' is a masculine noun in Estonian that refers to an inspector or examiner. It comes from the same root as English 'inspector'. In Estonian grammar, it would typically be declined with endings depending on its role in the sentence (nominative, genitive, etc.). The word can refer to various types of inspectors - quality control inspectors, government inspectors, school inspectors, etc."
 }

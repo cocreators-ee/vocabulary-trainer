@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen kinno peale.",
-    "Ta on väga hea peale.",
-    "Peale seda, kui meie läheme koju."
+    "Kõige peale tuleb teada võtta kõik vajalikud dokumendid.",
+    "Peale selle jooksis ta metsa poole.",
+    "Ta on alati minu peale nõus."
   ],
   "translation": [
-    "on top of",
     "after",
+    "on top of",
+    "above",
+    "besides",
     "in addition to"
   ],
-  "context": "The word 'peale' in Estonian is commonly used as a preposition or postposition to indicate something being on top of something else, after something happens, or in addition to something."
+  "context": "The word 'peale' in Estonian is a versatile preposition that can mean 'after' (temporal), 'on top of' or 'above' (spatial), and 'besides' or 'in addition to'. It's commonly used to indicate sequence, position, or additional information."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän oli varhainen nousija.",
-    "Varhaiset lähtivät jo kello kuusi.",
-    "Varhain herännyt lintu saa madon."
+    "Varhainen aamu on hiljainen.",
+    "Hän saapui varhaisessa vaiheessa.",
+    "Varhainen kevät tuo jo kukkia."
   ],
   "translation": [
-    "early"
+    "early",
+    "premature",
+    "ahead of schedule"
   ],
-  "context": "The word 'varhainen' in Finnish means something that happens or is done before the usual or expected time, and it is commonly used to describe someone who wakes up early or does things ahead of schedule."
+  "context": "The Finnish word 'varhainen' is an adjective meaning early or premature. It's in the singular form and typically describes something that happens before the usual or expected time. For example, 'varhainen aamu' means early morning, and 'saapui varhaisessa vaiheessa' means arrived at an early stage. The word can be used for both positive contexts (early spring) and negative ones (premature birth)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen seda filmi igal nädalal.",
-    "Ta näeb mind ja ma näen teda.",
-    "Näeme teineteist ja me oleme õnnelikud."
+    "Näen sinu sõpra täna.",
+    "Ma näen seda hästi.",
+    "Näete meid kodus?"
   ],
   "translation": [
-    "see",
-    "sees"
+    "I see",
+    "I can see",
+    "I am seeing"
   ],
-  "context": "The word 'näen' in Estonian means to see or to notice something, and it is commonly used in sentences to describe the act of seeing or perceiving something."
+  "context": "The word 'näen' is the first person singular present tense form of the Estonian verb 'nägema', which means 'to see'. It corresponds to English 'I see' or 'I can see'. The '-n' ending indicates it's in the first person singular (I), and the vowel change from 'ä' to 'e' is part of the present tense conjugation pattern for this verb."
 }

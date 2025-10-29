@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma arvan, et sa oled väga tore inimene.",
-    "Kas sa tead, mida ma sinust tahan?",
-    "Mida sa minult soovid sinust kuulda?"
+    "Ta arvab sinust.",
+    "Ma mõtlen sinust tihti.",
+    "Kas sa tunned sinust hästi?"
   ],
   "translation": [
-    "of you",
-    "from you"
+    "from you",
+    "about you",
+    "concerning you"
   ],
-  "context": "The word 'sinust' is the genitive or partitive case of the personal pronoun 'sina', meaning 'you'. It translates to 'of you' or 'from you' in English and indicates possession, origin, or separation related to the person being addressed."
+  "context": "The Estonian word 'sinust' is the elative case form of 'sina' (you). It indicates movement or origin from someone, or can show concern about someone. This case is used when something comes out of, originates from, or is said about the person being addressed directly."
 }

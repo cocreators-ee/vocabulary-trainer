@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma teeksin seda homme",
-    "Ta teksis selle eile",
-    "Me teeksime seda koos"
+    "Teeksin linna keskusele.",
+    "Meie teksime homme puhkama.",
+    "Ta teksis kiiresti mööda tänava."
   ],
   "translation": [
-    "I would do it",
-    "he/she would do it",
-    "we would do it"
+    "I walked",
+    "walked",
+    "was walking"
   ],
-  "context": "The word teeksin is the first person singular form of the conditional mood of the Estonian verb teha, which means to do. It is used to express a hypothetical or uncertain situation in the past."
+  "context": "The word 'teeksin' is the first-person singular past tense form of the Estonian verb 'tulla', which means 'to walk'. It specifically indicates that the speaker performed an action of walking in the past. The '-sin' ending is typical for first person singular past tense verbs in Estonian."
 }

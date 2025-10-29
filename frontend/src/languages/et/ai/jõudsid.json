@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Jõudsid kodusse?",
-    "Kuidas jõudsid siia?",
-    "Ta ei jõa kunagi aja jooksul"
+    "Jõudsin koju kell kolm.",
+    "Nad jõudisid siia varakult hommikul.",
+    "Meie lapsed jõudsid kooli õigel ajal."
   ],
   "translation": [
-    "you arrived",
-    "you reached",
-    "you managed (to do something)"
+    "arrived",
+    "reached",
+    "managed to get"
   ],
-  "context": "'jõudsid' is the past tense of 'jõuda', which means to arrive, reach, or manage. It is commonly used in situations where someone has successfully completed a journey or task."
+  "context": "The word 'jõudsid' is the past tense plural form of the Estonian verb 'jõuda', which means 'to arrive' or 'to reach'. It specifically indicates that multiple subjects performed the action of arriving or reaching a destination at some point in the past. The root word 'jõu-' relates to power, strength, or ability, suggesting the concept of successfully making one's way to a place through one's own efforts."
 }

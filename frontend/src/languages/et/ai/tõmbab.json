@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tõmbab mind nagu magnet.",
-    "Ma olen tõmmanud kogu päeva.",
-    "Tõmbab mind see film."
+    "Tõmbab ukselt kinni.",
+    "See tõmbab tähelepanu enda poole.",
+    "Lapsed tõmbavad palli üles."
   ],
   "translation": [
-    "attracts",
     "pulls",
-    "draws"
+    "draws",
+    "attracts"
   ],
-  "context": "The word tõmbab is a verb in Estonian that means to attract or pull something, and it is commonly used to describe a physical or emotional force that draws something or someone towards itself."
+  "context": "The Estonian word 'tõmbab' is the 3rd person singular present tense form of the verb 'tõmmata', which means 'to pull'. It can be used to describe the physical action of pulling something, or more figuratively to mean attracting attention or interest. The word follows Estonian conjugation patterns and agrees with the subject in number (singular here) and person (3rd person)."
 }

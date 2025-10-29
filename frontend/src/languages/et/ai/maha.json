@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Olen juba maha tõusnud.",
-    "Ta ei lähe kunagi maha.",
-    "Maha jäämine oli vajalik."
+    "Mina läksin maha.",
+    "Ta panis raamatu maha.",
+    "Auto seisab maha."
   ],
   "translation": [
     "down",
     "off",
     "away"
   ],
-  "context": "'maha' is an Estonian word used to indicate movement in a downward or away direction, often used in phrases like going down somewhere or removing something from above. It can also be part of compound verbs indicating actions related to lowering or taking off."
+  "context": "The Estonian word 'maha' is a versatile adverb that indicates movement or position in a downward direction, removal from something, or departure to a different location. It can be translated as 'down', 'off', or 'away' depending on the context. For example, when used with verbs of motion like 'läksin' (went), it means 'down'. With verbs indicating placement or action on objects like 'panis raamatu maha' (put the book down/off), it indicates removal from a surface or position. When describing something stationary, as in 'auto seisab maha' (the car is parked), it can indicate being left behind or stopped."
 }

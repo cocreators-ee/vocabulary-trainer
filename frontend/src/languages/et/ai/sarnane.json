@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on sarnane tema vanemale vennale.",
-    "Sarnased olid nende elukogemused.",
-    "Need kaks maja on sarnased."
+    "See raamat on sarnane teise raamatuga.",
+    "Mõlemad lapsed on väga sarnased omavahel.",
+    "Tema käitumine pole mulle sarnane."
   ],
   "translation": [
     "similar",
     "alike",
-    "analogous"
+    "resembling"
   ],
-  "context": "The word sarnane is an adjective in Estonian that means similar or alike, often used to describe things that have common characteristics or features."
+  "context": "The Estonian word 'sarnane' is an adjective meaning similar or alike. It's the singular nominative form of the word and is used to describe things or people that have resemblance or likeness to each other. The comparative form would be 'samasarnane' (more similar) and the superlative 'kõige sarnane' (most similar). When describing masculine subjects, it takes no ending; for feminine subjects it becomes 'sarnane'; and in plural it's 'sarnased'."
 }

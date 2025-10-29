@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Valvurid olid kogu öö pikkuseks valvas.",
-    "Ta oli üks valvuritest, kes hoidsid linna müüri juures vahti.",
-    "Kui valvurid said teada, et linn on ohus, siis käskisid nad kõikjal tuld põletada."
+    "Valvurid kontrollisid sissepääsu.",
+    "Öösel olid valvurid valveil.",
+    "Valvurid peavad olema ettevaatlikud."
   ],
   "translation": [
     "guards",
     "watchmen",
-    "sentries"
+    "security officers"
   ],
-  "context": "The word 'valvurid' refers to individuals who are responsible for watching or guarding something, such as a city or a building, typically at night or during a period of vulnerability."
+  "context": "The word 'valvurid' is the plural form of 'valvur' in Estonian. It refers to people who are responsible for watching over, protecting, or monitoring a place, area, or activity. The singular form 'valvur' means guard or watchman. These individuals typically maintain security and ensure that rules are followed."
 }

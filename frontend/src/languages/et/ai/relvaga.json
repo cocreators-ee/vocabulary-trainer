@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis relvaga enda kaitsmiseks seisa.",
-    "Relvaga on lihtsam kaitsta end.",
-    "Relvaega ei tohiks iial üldse olla."
+    "Ta oli relvaga kaasas.",
+    "Politsei saabus relvaga kohale.",
+    "Mehhanismid töötavad automaatselt ja relvaga."
   ],
   "translation": [
     "armed",
-    "with weapons"
+    "with a weapon"
   ],
-  "context": "The word 'relvaga' in Estonian means 'with a weapon' or 'armed', and is used to describe someone who has a weapon for self-defense or other purposes."
+  "context": "The Estonian word 'relvaga' is an adverbial form meaning 'armed' or 'with a weapon'. It's formed by combining the noun 'relv' (weapon) with the adessive case ending '-ga', which indicates possession, accompaniment, or means. In this construction, it functions as an adverb expressing how someone is equipped or in what manner they are acting - specifically that they have a weapon."
 }

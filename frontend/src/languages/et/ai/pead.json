@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pean seda tegema",
-    "Ta peab olema õnnelik",
-    "Me peaksime minema"
+    "Tema pead on suur.",
+    "Ma nägin tema peade palju.",
+    "Pead tuleb meie juurde öösel."
   ],
   "translation": [
-    "must",
-    "have to",
-    "should"
+    "head",
+    "leader",
+    "boss"
   ],
-  "context": "The word 'pead' is the first person singular form of the verb 'peama', which means to have to or must do something, and it can also be translated as 'should' in some contexts, indicating a recommendation or suggestion."
+  "context": "The word 'pead' is the genitive singular form of 'pea', which means 'head'. In Estonian, it can also be used to refer to a leader or boss in certain contexts. The word appears to be in the genitive case (possessive/attributive form), indicating possession or relationship - as in 'his head' or 'of the head'. It's important to note that 'pead' specifically refers to one head, not multiple heads."
 }

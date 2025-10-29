@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vahetus toimus homme.",
-    "Ta teatas vahetusest.",
-    "Vahetus on vajalik."
+    "Tegime vahetuse teisel pool platsi.",
+    "See on hea vahetus!",
+    "Vahetus oli edukas."
   ],
   "translation": [
+    "change",
     "exchange",
-    "swap"
+    "switch",
+    "substitution"
   ],
-  "context": "The word 'vahetus' in Estonian refers to the act of exchanging or swapping something, and it is commonly used in various contexts such as trading, substituting, or replacing one thing for another."
+  "context": "The Estonian word 'vahetus' is a noun that means change, exchange, switch or substitution. It can refer to various types of changes such as replacing something with something else, exchanging items, or making a switch in position or role. The word can be used in different contexts like sports (player substitution), business (exchange of goods), or general situations involving replacement."
 }

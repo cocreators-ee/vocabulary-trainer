@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Valitsus otsustas toetada ettevõtjaid.",
-    "Ettevõtluse valitsus on tihedalt seotud majanduse arenguga.",
-    "Riigi valitsus vastutab riigi majanduspoliitika eest."
+    "Eesti valitsus koosneb peaministrist ja ministritest.",
+    "Valitsus vastutab riigi sise- ja välispoliitika eest.",
+    "Uue valitsuse moodustamine võtab aega."
   ],
   "translation": [
     "government",
+    "administration",
     "cabinet"
   ],
-  "context": "The word 'valitsus' in Estonian refers to the government or administration of a country, and it is commonly used in political and economic contexts to describe the group of people responsible for making decisions and governing the state."
+  "context": "In Estonian, 'valitsus' refers to the government or ruling body of Estonia. It is a common noun that can refer to either the national government as an institution, or specifically to the cabinet of ministers headed by the prime minister. The word derives from the verb 'valitsema' (to rule/govern) + the suffix '-sus' (state/condition), literally meaning 'the state of ruling'. It is used in formal and political contexts when discussing national governance."
 }

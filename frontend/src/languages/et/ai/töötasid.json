@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma töötasin ööd läbi",
-    "Ta töötas kogu päeva",
-    "Nad töötasid koos meeskonnas"
+    "Töötasin töös hommikul.",
+    "Meie töötasime koos projektis.",
+    "Ta ei töötanud eile."
   ],
   "translation": [
     "worked",
-    "were working"
+    "was working",
+    "did work"
   ],
-  "context": "The word töötasid is the plural past tense form of the Estonian verb töötama, which means to work. It is commonly used to describe an action of working that occurred in the past."
+  "context": "The word 'töötasid' is the past tense, plural form of the verb 'töötama', which means 'to work'. It specifically refers to multiple people who worked in the past. The stem 'tööt-' relates to employment or labor activities."
 }

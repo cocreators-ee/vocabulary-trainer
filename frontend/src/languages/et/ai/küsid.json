@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kas sa küsid teda eile?",
-    "Ta küsis mind oma nimes",
-    "Ma küsin sind oma kodus"
+    "Kas sa küsid mind?",
+    "Mis ta küsib? Ta küsib teist.",
+    "Meie küsime alati õiget vastust."
   ],
   "translation": [
-    "ask (2nd person singular)"
+    "ask",
+    "inquire",
+    "question"
   ],
-  "context": "The word 'küsid' is the second person singular form of the verb 'to ask' in Estonian. It is commonly used when directly addressing someone and asking them a question or requesting something."
+  "context": "The word 'küsid' is the second person singular form of the Estonian verb 'küsima', which means to ask or inquire. It specifically refers to what 'you' are asking in present tense."
 }

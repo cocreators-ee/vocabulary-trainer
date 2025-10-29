@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen ülesse korterisse.",
-    "Ta tõusis ülesse ja hakkas jalutama.",
-    "Ülesse minek on raske."
+    "Ta tõusis ülesse kõrgemale vaateplatvormile.",
+    "Puhkusel ei tahtnud ta enam ülesse minna.",
+    "Kodu poole liikudes nad läksid ülesse mägede suunas."
   ],
   "translation": [
-    "upwards",
-    "up"
+    "upstairs",
+    "to go up",
+    "upward"
   ],
-  "context": "The word \"ülesse\" in Estonian means upwards or up, and it is commonly used to indicate direction or movement towards a higher position."
+  "context": "\"Ülesse\" is an Estonian adverb that means \"upstairs\" or \"in the upward direction.\" It's in the illative case (directional case), indicating movement toward something. The word comes from the root \"üle-\" meaning \"over\" or \"across,\" with the directional suffix \"-sse\" indicating motion toward a place. This form is specifically used when referring to moving upward, like going upstairs, climbing up a hill, or traveling toward a higher elevation."
 }

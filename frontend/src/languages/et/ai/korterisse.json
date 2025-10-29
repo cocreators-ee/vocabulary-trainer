@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen korterisse.",
-    "Ta on juba korteris.",
-    "Korteri uksest tuli valgus."
+    "Korterisse on raske sisse saada.",
+    "Mõtlesin kolida ümber oma esimesse korterisse.",
+    "Ta ostis suure korteri kesklinna."
   ],
   "translation": [
-    "apartment",
-    "flat"
+    "into an apartment",
+    "to an apartment",
+    "inside the apartment"
   ],
-  "context": "The word 'korterisse' is the illative case of the noun 'korter', which refers to an apartment or a flat, and it is commonly used in Estonian to indicate movement into an apartment."
+  "context": "The word 'korterisse' is the illative case form of the Estonian noun 'korter', which means 'apartment'. The '-sse' suffix indicates movement into or inside a place. This case is used when someone moves into an apartment, enters an apartment, or refers to being inside an apartment space."
 }

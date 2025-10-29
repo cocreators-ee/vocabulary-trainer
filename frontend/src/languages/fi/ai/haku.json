@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Haku ei tuottanut tuloksia.",
-    "Hän kertoi olevansa haukoissaan.",
-    "Kirja sisältää hakua ja selkeyttä."
+    "Haku on menossa.",
+    "Minulla oli haku viime kuussa.",
+    "Mitä haita sinulla on?",
+    "Haun tulokset olivat hyviä."
   ],
   "translation": [
     "search",
-    "hunting",
-    "inquisition"
+    "inquiry",
+    "application",
+    "hunt"
   ],
-  "context": "The word 'haku' in Finnish can mean a search, hunting (as in pursuing something or someone), or an inquisition. It is commonly used as search, especially when referring to the act of searching for information or something specific."
+  "context": "In Finnish, 'haku' is a versatile noun that can mean several related concepts depending on the context. Most commonly it refers to a search or inquiry (like an internet search), but it also means an application for something (such as a job application). It can additionally refer to hunting in the sense of searching for animals. The word's core meaning relates to the act of seeking, looking for, or applying for something."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Oma mõistusest punast maale pöörates...",
-    "Ma ei tea, kas see on punast või rohelist.",
-    "Ta lõi oma poja jalga punast voodi."
+    "Tema lõi punase värvi.",
+    "Punased õied on ilusad.",
+    "Me ostime punasi rõivaid."
   ],
   "translation": [
-    "red",
-    "reddish",
-    "blood-red"
+    "red (partitive case)",
+    "red ones"
   ],
-  "context": "'punast' is the genitive and partitive form of 'punane', meaning red in Estonian. It describes something that has a red color or a reddish hue, often used to describe objects, skin tones, wounds, etc."
+  "context": "The word 'punast' is the partitive form of 'punane' (red) in Estonian. The partitive case is used to indicate partial quantity, indefinite objects, or when talking about a property. It can translate to 'red' with an implied object, or 'red ones' depending on context."
 }

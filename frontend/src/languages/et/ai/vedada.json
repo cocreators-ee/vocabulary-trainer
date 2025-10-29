@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vedan autosid tagasi laomaile.",
-    "Vedaja ei suutnud vedada autot üles rampidele.",
-    "Ta oskab hästi veoautot vedada."
+    "Ma vedasin kasti ühest oost teise.",
+    "Lapse vedas käest ära.",
+    "Me peame seda voodit vedama."
   ],
   "translation": [
-    "to tow",
     "to pull",
-    "to drag"
+    "to drag",
+    "to haul",
+    "tow"
   ],
-  "context": "The word 'vedada' in Estonian means to move something, typically a vehicle, by pulling or towing it, often using a rope or a tow truck. It can also be used more broadly to mean to pull or drag something behind one."
+  "context": "The Estonian verb 'vedada' means to pull, drag, or haul something. It's used when applying force to move an object along a surface by grasping it and pulling it in the direction of movement. The word can be used for both physical objects (like furniture) and metaphorical situations. In different contexts, it might imply gentle pulling (like leading someone by the hand) or more forceful dragging."
 }

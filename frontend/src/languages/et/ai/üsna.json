@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on üsna hea jalgpallur.",
-    "See on üsna raske töö.",
-    "Ma olen üsna kindel, et see on õige."
+    "Töö on üsna raske.",
+    "Ta oli üsna hea näitleja.",
+    "Meeskond tegi üsna head tulemuse."
   ],
   "translation": [
-    "pretty",
+    "quite",
     "rather",
-    "quite"
+    "fairly"
   ],
-  "context": "The word üsna in Estonian is an adverb that is used to express a moderate degree of something, similar to the English words pretty, rather, or quite, and it is commonly used to describe someone or something that has a certain quality to a moderate extent."
+  "context": "The Estonian word 'üsna' is an adverb used to indicate a moderate or medium degree of something. It's similar in meaning and usage to English words like 'quite', 'rather', or 'fairly'. It often expresses that something is more than just average but not extremely so - it occupies a middle ground between minimal and maximum intensity. For example, 'töö on üsna raske' means the work is quite difficult (not impossible, but definitely challenging)."
 }

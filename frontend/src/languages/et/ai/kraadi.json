@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kui palju kraadi on täna?",
-    "Neid kraade ei saa jätta vahele.",
-    "Soovitan sind, et vahetult pärast kraadide saamist alustaksid oma uue karjääri otsingutega."
+    "Temperatuur on +25 kraadi.",
+    "Kraadid võivad olla negatiivsed.",
+    "Mõõdame temperatuuri kraadides."
   ],
   "translation": [
-    "degree",
-    "grade"
+    "degrees",
+    "degree"
   ],
-  "context": "The word 'kraadi' in Estonian refers to a degree or grade. It is commonly used in the context of academic degrees and temperature measurements, as well as grades in school subjects."
+  "context": "The Estonian word 'kraadi' is the genitive singular form of 'kraad', which means 'degree'. It's used to indicate measurement units, most commonly for temperature (e.g., Celsius degrees), but can also be used for angles or other measurements. The '-i' ending indicates possession or relation in the genitive case."
 }

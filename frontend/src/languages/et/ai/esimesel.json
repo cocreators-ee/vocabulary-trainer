@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elab esimesel kohtumisel",
-    "Esimesel päeval tuli palju inimesi",
-    "Meie oldime esimesel kohal"
+    "Tere tulemast esimesel korrusel!",
+    "Me kohtume esimesel nädalal.",
+    "Esimesel päeval oli ilm väga ilus."
   ],
   "translation": [
-    "first",
-    "at first",
-    "on the first occasion"
+    "on the first floor",
+    "in the first week",
+    "on the first day"
   ],
-  "context": "The word 'esimesel' is used to indicate something that happens or is done for the first time, and it can also be translated to English as 'on the first', depending on the context in which it is being used."
+  "context": "The word 'esimesel' is the Estonian inessive case form of 'esimene', meaning 'first'. It indicates location or time when something happens. The '-l' ending signifies the inessive case, which typically means 'in' or 'at' a location or during a period of time."
 }

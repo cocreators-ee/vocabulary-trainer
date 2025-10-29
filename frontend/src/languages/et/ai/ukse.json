@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta avas ukse.",
-    "Ukse on suletud.",
-    "Ma olen ukse taga."
+    "Ava ukse.",
+    "Nägin ukse avatud.",
+    "Lase mul läbi ukse."
   ],
   "translation": [
-    "door"
+    "door",
+    "gate"
   ],
-  "context": "The word 'ukse' is used to refer to a door in Estonian. It can be used in various contexts, such as when talking about entering or exiting a room, or describing the location of something in relation to a door."
+  "context": "The Estonian word 'ukse' is the partitive form of 'uks', which means 'door'. In Estonian, the partitive case often indicates an incomplete action or partial object. So 'ukse' can mean '(a) door' in contexts where we're talking about some aspect of a door or when it's the object of an action that doesn't fully consume the door. This form is commonly used with verbs that involve interaction with doors, like opening (ava), closing (sulge), or going through (läbi minna)."
 }

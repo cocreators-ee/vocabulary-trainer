@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Paistavad tähed on nähtavad öise taeva all",
-    "Taevast paistavad kirkad tähed",
-    "Kui päike looja läheb siis paistavad tähed"
+    "Paistavad päikesed.",
+    "Päike paistab.",
+    "Ilm paistab ilusalt."
   ],
   "translation": [
-    "visible",
-    "shining",
-    "appear"
+    "shine",
+    "appear",
+    "show"
   ],
-  "context": "The word 'paistavad' in Estonian means something that is visible or can be seen, often used to describe things that are shining or appearing in the sky."
+  "context": "The word 'paistavad' is the 3rd person plural present form of the Estonian verb 'paistma', which means to shine, appear, or show. It's commonly used when talking about weather conditions (like sunshine), visibility, or things becoming apparent."
 }

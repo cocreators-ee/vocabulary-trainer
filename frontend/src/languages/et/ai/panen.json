@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma panen raamatu lauale.",
-    "Sa panid tordid ahju.",
-    "Ta pane oma asjad kotti."
+    "Panen oma raamatu lauale.",
+    "Ma panen endale hommikuti koha.",
+    "Päike paistab, ma panen pähe päikesevarju."
   ],
   "translation": [
     "put",
     "place",
     "set"
   ],
-  "context": "The Estonian verb 'panen' is a versatile word meaning to put, place, or set something somewhere. It’s commonly used when describing the action of positioning an object."
+  "context": "The Estonian word 'panen' is the first-person singular present form of the verb 'pandama', which means 'to put', 'to place', or 'to set'. It indicates an action performed by the speaker where they are placing something somewhere. The root form would be 'pandama', and it follows Estonian conjugation patterns for regular verbs ending in '-ma'."
 }

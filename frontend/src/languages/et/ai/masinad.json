@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Masinad on tootjad.",
-    "Masina kasutamine on lihtne.",
-    "Masinade arendamine on pidevalt toimuv protsess."
+    "Tööstusmasinad on tähtsad tootmiseks.",
+    "Sõiduautod ja bussid on kerged masinad.",
+    "Pangamasina abil võin raha võtta."
   ],
   "translation": [
     "machines",
-    "engines"
+    "vehicles",
+    "cars"
   ],
-  "context": "The word 'masinad' in Estonian refers to machines or engines, and it is commonly used in the context of technology and industry."
+  "context": "The word 'masinad' is the plural form of Estonian noun 'masin'. It refers to machines, vehicles, or cars in general. In Estonian, '-d' is a common ending for forming plurals of nouns, so 'masinad' literally means multiple machines or vehicles."
 }

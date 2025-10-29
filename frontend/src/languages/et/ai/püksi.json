@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tõmbas püksid jalga.",
-    "Minu püksi on rebenenud.",
-    "Püksid said märjaks vihmas."
+    "Ma sõin hommikust püksid ära.",
+    "Talvel kannan soojaid pükse.",
+    "Lapsed jooksid puude vahel oma püksites."
   ],
   "translation": [
-    "pants",
     "trousers",
-    "slacks"
+    "pants"
   ],
-  "context": "The word 'püksi' in Estonian refers to a pair of pants or trousers. It is commonly used to describe the lower garment worn by both men and women, covering the legs."
+  "context": "The word 'püksi' is in the illative case (directional case) of the Estonian noun 'püksid', meaning 'to trousers/into trousers'. In Estonian, the illative case indicates movement into or toward something. So 'püksi' literally means '(movement) into trousers' or '(going) into pants'. This form is used when someone is putting on trousers, entering trousers, or in contexts involving movement related to wearing trousers."
 }

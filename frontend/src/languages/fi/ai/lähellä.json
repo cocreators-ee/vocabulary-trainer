@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Talo on lähellä kaupunkia.",
-    "Hän asuu lähellä kouluansa.",
-    "Hotelli sijaitsee lähellä rautatieasemaa."
+    "Tämä kaupunki on lähellä järveä.",
+    "Asunmoi on lähellä keskustaa.",
+    "Koti on vain muutaman kilometrin päässä lähellä."
   ],
   "translation": [
     "near",
-    "close to"
+    "close to",
+    "by"
   ],
-  "context": "The word 'lähellä' in Finnish is commonly used to describe something that is physically close or near to another thing or location, and it can be translated to English as 'near' or 'close to'."
+  "context": "The Finnish word 'lähellä' is an inessive form of the adjective 'läheinen', meaning 'near' or 'close to'. It's used when something is located near another place or object. The '-llä' ending indicates that it's in the inessive case, which means 'in' or 'at' a location. This word commonly appears in contexts describing proximity or closeness of places."
 }

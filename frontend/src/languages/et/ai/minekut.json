@@ -1,15 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Minu minekud on alati korduvaid.",
-    "Ta jättis minekut väärtusemaks.",
-    "Mõne mineku saab märkimatuks ajas."
+    "Minekut ei saa peatada.",
+    "Päevane minek oli äge.",
+    "Alustasime hommikuse mineku."
   ],
   "translation": [
-    "mine",
-    "the mind's eye",
-    "a mental image"
+    "departure",
+    "leaving",
+    "going away"
   ],
-  "context": "'Minekus' is a noun in Estonian referring to the act of thinking or considering, often metaphorically representing something that can be visualized mentally. It could also refer to a thought process or an idea."
+  "context": "The word 'minekut' is the partitive case form of Estonian noun 'minek', which means departure or leaving. The -t ending indicates it's in the partitive singular case, often used to express 'of a departure' or 'the act of departing'. This form commonly appears when talking about specific departures or the concept of leaving in general."
 }

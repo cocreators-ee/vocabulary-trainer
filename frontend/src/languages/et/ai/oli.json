@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma oli sinu juures.",
-    "Ta oli äsja saabunud.",
-    "Nad olid juba läinud."
+    "Kool oli suur ja ilus.",
+    "Laps oli õnnelik.",
+    "Tema oli hea sportlane."
   ],
   "translation": [
     "was",
-    "were",
-    "been"
+    "were"
   ],
-  "context": "The word 'oli' is the past tense of the verb 'olema', which means 'to be' in English. It is commonly used to describe a state or condition that existed in the past."
+  "context": "\"Oli\" is the past tense third person singular form of the Estonian verb \"olema\", which means \"to be\". It corresponds to English \"was\" and is used when referring to a single subject in the past. For example, \"Kool oli suur\" means \"The school was big.\" The verb \"olema\" has different forms for different persons and tenses - \"oli\" specifically indicates third person singular (he/she/it) in the simple past tense."
 }

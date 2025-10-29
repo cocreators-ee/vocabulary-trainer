@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän asuu kaupungin keskellä.",
-    "Olemme keskellä kaupunkia.",
-    "Keskellä pöytää on suuri kukka-asetelma."
+    "Olen keskellä kaupunkia.",
+    "Hän asuu keskellä metsää.",
+    "Auto pysähtyi keskellä tietä."
   ],
   "translation": [
     "in the middle of",
-    "in the center of"
+    "amidst",
+    "among"
   ],
-  "context": "The word 'keskellä' is a Finnish preposition that indicates something is located in the middle or center of something else, often used to describe physical locations or positions."
+  "context": "The Finnish word 'keskellä' is an inessive case form of the word 'keskus', which means center or middle. It's used to indicate location within the middle of something. The '-llä' ending indicates that it's in the inessive case, which typically shows being inside or within a place. This word is commonly used when describing someone's position as being physically located in the middle of an area or surrounded by something."
 }

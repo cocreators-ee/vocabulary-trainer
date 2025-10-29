@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
     "Taivas on sininen.",
-    "Hänellä on siniset silmät.",
-    "Sininen väri on kaunis."
+    "Minulla on sininen takki.",
+    "Silmät ovat siniset."
   ],
   "translation": [
     "blue"
   ],
-  "context": "The word sininen is an adjective in Finnish that means blue, and it is commonly used to describe colors of objects, eyes, or the sky."
+  "context": "The word 'sininen' is the Finnish adjective meaning 'blue'. It's in the singular nominative form and would change depending on gender, number, and case. For example, 'sininen' (masculine/singular), 'sininen' (feminine/singular), 'siniset' (plural), etc."
 }

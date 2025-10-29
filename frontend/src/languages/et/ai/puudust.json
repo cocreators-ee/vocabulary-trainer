@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta puudus töölt haiguse tõttu.",
-    "Puudust tundsin alles hiljem, kui kõik juba otsas oli.",
-    "Meil on suur puudust vajalikest materjalidest."
+    "Puudust on teadmata.",
+    "Ta oli puuduses.",
+    "Meil on suur puudus headest töötajatest."
   ],
   "translation": [
     "lack",
-    "need",
     "shortage",
-    "absence"
+    "deficiency"
   ],
-  "context": "The word 'puudust' in Estonian generally refers to a lack of something necessary or desired. It can indicate a physical shortage, like not having enough materials, or an emotional absence, such as missing someone. It is often used to express a feeling of deficiency or want."
+  "context": "The word 'puudust' is the partitive case form of 'puudus', which means lack or shortage. It's used to express the absence of something needed or wanted, such as a lack of knowledge, being short on something, or deficiency in resources or people."
 }

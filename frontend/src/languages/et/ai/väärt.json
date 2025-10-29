@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on väga väärt teave.",
-    "Minu soovitus on alati väärtuslik.",
-    "Väärta oma aega ja energia."
+    "See on väärsti.",
+    "Temperatuur oli väärt null kraadi.",
+    "Ta tegi vääri asju."
   ],
   "translation": [
-    "valuable",
-    "worthwhile",
-    "to value"
+    "wrong",
+    "incorrect",
+    "bad"
   ],
-  "context": "'väärt' in Estonian is commonly used to describe something as valuable, worthwhile, or the act of valuing. It can be an adjective describing worth or importance and also appear as part of verbs expressing appreciation or respect."
+  "context": "The word 'väärt' is an Estonian adjective that means wrong, incorrect, or bad. It's used to describe something that is not right, proper, or acceptable in terms of morality, behavior, or accuracy. In the examples shown, it can be used to describe actions that are morally wrong (wrong/bad things) or situations that are factually incorrect."
 }

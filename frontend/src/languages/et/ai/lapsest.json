@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema lapsest on ta armastanud mänguasju.",
-    "Ta tundis seda liiki müra juba lapsest.",
-    "Lapsest peale on ta kartsnud ratsitamist."
+    "Lapsest ei saa midagi aru.",
+    "Ta rääkis lapsest veidi kergemalt.",
+    "Kõik algas lapsest."
   ],
   "translation": [
-    "from a child",
-    "since childhood"
+    "from the child",
+    "about the child",
+    "starting from the child"
   ],
-  "context": "'Lapsest' is the elative form of 'laps', meaning 'child'. It translates to 'from a child' or 'since childhood', typically used in expressions like 'I can't stand loud noises since childhood' ('Ma ei suuda kõrgesidest lapsest')."
+  "context": "The Estonian word 'lapsest' is an elative case form of the noun 'laps', which means 'child'. The elative case in Estonian indicates movement away from or separation from a location, and can also be used to indicate source or origin. So 'lapsest' typically translates to English as 'from the child' but depending on context can also mean 'about the child' or 'starting from the child'. It's formed by adding the elative suffix '-st' to the root word 'laps'."
 }

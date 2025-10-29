@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks endaga kaasa.",
-    "Ma ei saa aru, miks sa teed seda endaga.",
-    "Sa pead ennast aitama, mitte endaga."
+    "Endaga on kõik korras.",
+    "Mul oli hea endaga kohtumine.",
+    "Ta rääkis endaga hästi."
   ],
   "translation": [
     "with oneself",
     "by oneself",
-    "on one's own"
+    "oneself"
   ],
-  "context": "The Estonian word 'endaga' is a reflexive pronoun meaning 'with oneself' or 'by oneself'. It indicates that the action of the verb is performed by the subject on themselves. It’s similar to using ‘myself’, ‘yourself’, ‘himself/herself/itself’ in English."
+  "context": "The Estonian word 'endaga' is a reflexive form that indicates doing something by oneself or with oneself. It combines the reflexive pronoun 'enda' (oneself) with the adessive case ending '-ga' (meaning 'with'). This construction emphasizes that the action is performed without external assistance and highlights the self-referential nature of the activity."
 }

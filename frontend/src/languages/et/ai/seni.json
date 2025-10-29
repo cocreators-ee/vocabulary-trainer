@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen seni oodanud.",
-    "Ta on seni tööta.",
-    "Seni kui ma mäletan."
+    "Seni olen elanud Tallinnas.",
+    "Kuni seni pole me veel lõpetanud.",
+    "Millal sa seni jõuad?"
   ],
   "translation": [
+    "so far",
     "until now",
-    "so far"
+    "up to this point"
   ],
-  "context": "The word 'seni' is used to indicate a point in time up to the present moment, similar to the English phrase 'until now' or 'so far'."
+  "context": "The word 'seni' is an Estonian adverb that indicates time up to a certain point. It's commonly used to refer to something that has happened or been the case until the present moment, similar to English expressions like 'so far', 'until now', or 'up to this point'. In sentences, it often appears at the beginning but can also be positioned elsewhere depending on emphasis and sentence structure."
 }

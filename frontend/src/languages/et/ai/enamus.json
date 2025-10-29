@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Enamus inimesi ei oska sellest aru saada.",
-    "Ta võitis enamus valimisringkondade seas.",
-    "Enamuse elanike arvates on see hea mõte."
+    "Enamus inimestest on meie poolel.",
+    "Tööliseskord oli enamus poolt.",
+    "Meil on enamus hääli."
   ],
   "translation": [
     "majority",
-    "most"
+    "most",
+    "the greater number"
   ],
-  "context": "The word 'enamus' in Estonian refers to the majority or most of something, and is commonly used to describe a situation where a larger group or quantity is involved."
+  "context": "The word 'enamus' is an Estonian noun that means 'majority', 'most', or 'the greater number'. It refers to the larger part or quantity of something, typically used when talking about votes, people, or quantities. In Estonian grammar, it's in the nominative singular form here."
 }

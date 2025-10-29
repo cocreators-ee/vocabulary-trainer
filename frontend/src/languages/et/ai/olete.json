@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen täna väsinud",
-    "Sa oled minu parim sõber",
-    "Ta on alles noor"
+    "Olete meie külalised.",
+    "Kus olete praegu?",
+    "Mida olete tegemas?"
   ],
   "translation": [
-    "you are",
-    "to be"
+    "are (plural formal)",
+    "you are (formal)"
   ],
-  "context": "The word 'olete' is the second person plural form of the verb 'to be' in Estonian, used to describe a state of being or condition."
+  "context": "The Estonian word 'olete' is the 2nd person plural formal present tense form of the verb 'olla' (to be). It translates to 'you are' in English, used when addressing multiple people formally. This is different from informal 'lete' which would be used for friends or family."
 }

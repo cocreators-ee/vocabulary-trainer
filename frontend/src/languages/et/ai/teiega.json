@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen teiega rahul.",
-    "Lugege see raamat enne teiega rääkimist.",
-    "Tema meel on alati teiega."
+    "Tere teiega!",
+    "Mul on hea meel teiega kohtuda.",
+    "Kas sa tuled meiega?"
   ],
   "translation": [
-    "with you"
+    "with you",
+    "together with you",
+    "along with you"
   ],
-  "context": "The word 'teiega' is the partitive case form of the pronoun 'teie', which means 'you'. In English, it translates to 'with you'. It is used in sentences where someone is indicating an action taken or something associated with you."
+  "context": "The Estonian word 'teiega' is a translative case form of the pronoun 'teie', meaning it indicates accompaniment or association. It translates to English as 'with you' and is used when someone is accompanying or being associated with the person being addressed. The '-ga' ending in Estonian typically means 'with' or 'accompanied by'."
 }

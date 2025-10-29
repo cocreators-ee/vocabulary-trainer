@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga rikkaks saanud.",
-    "Ma ei taha olla rikkaks, ma tahan olla õnnelik.",
-    "Rikkaks saada on tema suurim unistus."
+    "Ta sai rikkaks kõigest ühest heast ärist.",
+    "Meie pere on juba aastaid olnud rikkaks.",
+    "Pärast lotovõitu muutus ta ükssarvikult rikkaks."
   ],
   "translation": [
     "rich",
     "wealthy",
     "affluent"
   ],
-  "context": "The word 'rikkaks' in Estonian means 'rich' or 'wealthy' in English. It is commonly used to describe someone who has a lot of money, possessions, or resources. It can also refer to the state of being rich."
+  "context": "The Estonian word 'rikkaks' is the translative case form of 'rikas', meaning 'rich' or 'wealthy'. It describes someone who has become rich through some action or process (indicated by the translative case). The root word 'rikas' means 'rich' in the nominative case, but when we add '-ks' it transforms to indicate a change of state - becoming rich. This is similar to English expressions like 'he became rich' where 'became' indicates the transition to wealth."
 }

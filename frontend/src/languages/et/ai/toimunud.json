@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on toimunud mitmel korral.",
-    "Ta on veendunud, et see on toimunud.",
-    "Me teame, et see on toimunud."
+    "Täna on toimunud mitu olulist sündmust.",
+    "Kõik plaanitud on edukalt toimunud.",
+    "Õnnetus juhtus eile ja see on juba toimunud."
   ],
   "translation": [
     "happened",
-    "occurred"
+    "occurred",
+    "taken place"
   ],
-  "context": "The word 'toimunud' is the past tense of the verb 'toimuma', which means 'to happen' or 'to occur'. It is commonly used in Estonian language to describe an event that has taken place."
+  "context": "The word 'toimunud' is the past participle form of the Estonian verb 'tulema', which means 'to happen' or 'to occur'. It indicates that an action has already been completed in the past. The '-nud' ending is typical for past participles in Estonian, indicating a finished action."
 }

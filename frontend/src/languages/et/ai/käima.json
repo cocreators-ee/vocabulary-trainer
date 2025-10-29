@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma käin kohe kinno.",
-    "Ta on käimas.",
-    "Nad on käimased."
+    "Ma käin poes.",
+    "Ta käis eile koos sõpradega.",
+    "Me käime igal reedel kinno."
   ],
   "translation": [
     "to go",
-    "to walk"
+    "to walk",
+    "to visit"
   ],
-  "context": "The word käima is a verb in Estonian that means to go or to walk. It is commonly used in everyday conversations to describe the act of moving from one place to another on foot."
+  "context": "The Estonian verb 'käima' is a frequentative verb that means 'to go', 'to walk', or 'to visit'. It indicates repeated, habitual action rather than a one-time event. Unlike the simple verb 'minema' (to go), which suggests movement from A to B without return, 'käima' implies going somewhere and typically coming back, often for a short duration or specific purpose. The verb is commonly used with the illative case (-sse) to indicate destination, such as 'käida poes' (go to the store)."
 }

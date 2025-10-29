@@ -1,13 +1,15 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Sulge kraami kotti.",
-    "Kas sa soovid kraami koos teega?",
-    "Ma valmistasin maitsevaid kraamisoojendisi."
+    "Mul on palju kraami kodus.",
+    "Ma olen oma vana kraami ära visanud.",
+    "Kas sa võtad kaasa oma endise kraami?"
   ],
   "translation": [
-    "cream"
+    "stuff",
+    "junk",
+    "belongings",
+    "goods"
   ],
-  "context": "The word 'kraami' in Estonian refers to cream, commonly used in cooking and everyday language for various dairy products containing cream."
+  "context": "In Estonian, 'kraami' is a colloquial term referring to various kinds of stuff, belongings, or goods. It's often used in informal contexts to describe miscellaneous items, personal possessions, or sometimes unwanted things that might be considered junk. The word can be used for both valuable and worthless items depending on the context."
 }

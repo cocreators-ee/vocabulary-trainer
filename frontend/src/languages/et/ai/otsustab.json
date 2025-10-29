@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta otsustab ise, mida teha.",
-    "Otsustasime koos, et sellest ei räägita.",
-    "Otsus on juba tehtud."
+    "Ta otsustab uue töö võtma.",
+    "Meie eestlane otsustab kõik ise.",
+    "Tema otsustab, millal lahkuda."
   ],
   "translation": [
     "decides",
-    "make a decision"
+    "determines",
+    "chooses"
   ],
-  "context": "The word 'otsustab' in Estonian means to make a decision or come to a conclusion, and it is commonly used in everyday conversations to describe the act of choosing or resolving something."
+  "context": "The Estonian word 'otsustab' is the third-person singular present tense form of the verb 'otsustama', which means 'to decide'. It indicates that someone (he/she/it) is making a decision or choice about something at the current moment. The root word 'otsus' means 'decision' and '-tab' is the third-person singular ending for present tense verbs in Estonian."
 }

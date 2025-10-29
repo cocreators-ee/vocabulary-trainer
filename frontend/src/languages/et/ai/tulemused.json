@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tulemused on oodatud homme.",
-    "Ta analüüsib tulemusi.",
-    "Tulemused olid ootuslikud."
+    "Tulemused avaldatakse esmaspäeval.",
+    "Kas sa näidavad mulle oma tulemusi?",
+    "Meie meeskonna tulemused olid häired."
   ],
   "translation": [
     "results",
-    "outcomes"
+    "outcomes",
+    "findings"
   ],
-  "context": "The word tulemused refers to the outcome or consequences of a particular action, event, or situation, and is commonly used in Estonian to discuss the effects or end result of something."
+  "context": "The Estonian word 'tulemused' is the plural form of 'tulemus'. It refers to outcomes, results or findings from something like a competition, examination, research study or any process that produces measurable output. The word comes from the verb 'tulema' (to come/happen) with the suffix '-mus', indicating a result or outcome."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lõpule jõudnud.",
-    "Lõpp tuleb kiiresti.",
-    "Ta on juba lõpuks valmis."
+    "Tööpäeva lõpp lähki kiiresti.",
+    "Kooliaasta lõpp on alati rõõmus.",
+    "Film sai hea lõpu."
   ],
   "translation": [
     "end",
-    "finish"
+    "finish",
+    "conclusion"
   ],
-  "context": "The word 'lõpp' in Estonian generally refers to the end or conclusion of something, such as a project, a story, or an event."
+  "context": "The word 'lõpp' is an Estonian noun that means 'end', 'finish', or 'conclusion'. It can refer to the end of a period of time, event, story, process, or sequence. In Estonian grammar, it's in the nominative singular form here. When declined for different cases (genitive, partitive, etc.), it would change slightly - e.g., lõpu (genitive), lõppu (partitive)."
 }

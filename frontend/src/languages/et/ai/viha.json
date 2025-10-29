@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tundsin viha tema suhtes",
-    "Viha on halb tunne",
-    "Ta oli vihane"
+    "Tal on suur viha.",
+    "Vihane mees nägi ümbritsevaid inimesi.",
+    "Põgenen oma vihast."
   ],
   "translation": [
     "anger",
-    "hatred",
-    "rage"
+    "rage",
+    "fury",
+    "resentment"
   ],
-  "context": "The word 'viha' in Estonian generally refers to a strong feeling of anger or hostility towards someone or something, and it is commonly used in various contexts to describe negative emotions."
+  "context": "The Estonian word 'viha' is a noun that refers to anger, rage, fury, or resentment. It's the state of feeling angry or hostile toward someone or something. In the examples, it can be used as 'suur viha' (great anger), 'vihane mees' (angry man - where 'vihane' is an adjective form from 'viha'), and 'oma vihast' (from one's own anger/with one's own anger)."
 }

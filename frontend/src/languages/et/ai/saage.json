@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Sellest saab endiselt vabastada.",
-    "Muidu saage kõikjalt teada, et see on mälestuslik.",
-    "Kui keegi saadab sõnumit, saab see kätte tunduvalt kiiremini."
+    "Saage siin istuda.",
+    "Külalised saavad kohe kohale.",
+    "Lapsed saavad varsti kooli."
   ],
   "translation": [
-    "obtain",
-    "acquire",
+    "may",
+    "can",
+    "be able to",
     "get"
   ],
-  "context": "The word 'saage' can mean to obtain or acquire something, and it is often used in the context of getting information or items. It is commonly seen in phrases such as 'saage teada' (find out) or 'saage kätte' (receive)."
+  "context": "In Estonian, 'saage' is the plural formal imperative form of the verb 'sama', which means 'to get' or 'to be able'. It's used when giving permission or making requests to multiple people in a formal context. The word expresses the idea of allowing someone to do something or granting them access/permission."
 }

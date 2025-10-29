@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Küsimusele vastas ta kiiresti.",
-    "Ma küsisin talt küsimusele vastamiseks aega.",
-    "Ta ei osanud küsimusele vastata."
+    "Kes küsimusele vastas?",
+    "Ta ei osanud küsimusele vastata.",
+    "Kõik said küsimusele kohe vastuse."
   ],
   "translation": [
     "to the question",
-    "question"
+    "regarding the question"
   ],
-  "context": "The word 'küsimusele' is used in Estonian to refer to something related to or directed towards a question, and it can be translated to English as 'to the question' or simply 'question' depending on the context of the sentence."
+  "context": "\"Küsimusele\" is an Estonian adessive case form of \"küsimus\" (question), meaning \"to the question\" or \"regarding the question.\" It indicates that something relates to or responds to a specific question. This form shows motion toward or association with the question."
 }

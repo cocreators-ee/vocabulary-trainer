@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sündis Tallinnas.",
-    "Ma olen sündinud Eestis.",
-    "Kui ta sündis, oli ta väga väike."
+    "Ta sündis Tallinnas aastal 1990.",
+    "Laps sündis tervena ja terve.",
+    "Mina sündisin väikeses Eesti külas."
   ],
   "translation": [
     "was born",
-    "born"
+    "gave birth",
+    "occurred"
   ],
-  "context": "The word sündis is the past tense of the verb sünnima, which means to be born. It is commonly used in Estonian to describe someone's birthplace or origin."
+  "context": "The word 'sündis' is the past tense third person singular form of the verb 'sünnima' in Estonian. It means 'to be born' or 'to give birth'. In English, it translates to 'was born' when referring to someone's birth event. For example, 'Ta sündis Tallinnas aastal 1990' means 'He/She was born in Tallinn in the year 1990'. The word can also be used more broadly to mean something occurred or came into being."
 }

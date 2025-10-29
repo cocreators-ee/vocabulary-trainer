@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma panen seda raamatu siia lauale.",
-    "Ta pani oma käed taskusse.",
-    "Nad panid kõik oma allkirjad dokumendile."
+    "PANEKS PANEKS PANEB - EESTI KUI TEKSTISÕNASTAMISE KORDUS ÕPPEAINENA",
+    "Kuidas ta paneb?",
+    "Mis paneb sind nii rõõmsaks?"
   ],
   "translation": [
     "puts",
-    "place",
-    "set"
+    "places",
+    "sets"
   ],
-  "context": "The word 'paneb' is the third person singular form of the Estonian verb 'panema', which means to put or place something somewhere."
+  "context": "The word 'paneb' is the 3rd person singular present tense form of the Estonian verb 'panema'. It means 'to put', 'to place', or 'to set' something somewhere. This verb is commonly used when describing someone's action of putting objects in specific locations or arranging things."
 }

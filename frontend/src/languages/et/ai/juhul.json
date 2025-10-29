@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen sinna juhul, kui sa oled kaasa.",
-    "Juhul, kui ta tuleb, me kohtume.",
-    "Ta tuli alles juhul, kui me juba lahkuksime."
+    "Tule juhul kella viisi",
+    "See on raske juhul",
+    "Juhul, kui sa ei saa tulla, helista"
   ],
   "translation": [
     "in case",
-    "if"
+    "if",
+    "in the event that"
   ],
-  "context": "The word 'juhul' in Estonian is a conjunction used to indicate a possible or hypothetical situation, and it can be translated to English as 'in case' or 'if'."
+  "context": "The Estonian word 'juhul' is a preposition or conjunction used to introduce conditional situations. It can be translated as 'in case', 'if', or 'in the event that'. It's commonly used when talking about hypothetical scenarios or conditions, similar to how we use 'just in case' or 'in the event' in English."
 }

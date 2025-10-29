@@ -1,15 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga verdlane inimene.",
-    "Verd tekkis haava sisse.",
-    "Pärast tantsu oli ta verine."
+    "Verd on vesi.",
+    "Mul on verd ninal.",
+    "Lapsed said verd peale."
   ],
   "translation": [
-    "blood",
-    "bloody",
-    "sanguine"
+    "blood"
   ],
-  "context": "The word 'verd' in Estonian directly translates to 'blood' in English. It can refer to the biological fluid, or be used figuratively to describe someone as ruthless or bloodthirsty. The adjective form 'verine' means bloody."
+  "context": "In Estonian, 'verd' is the partitive form of the word 'veri', which means 'blood'. The partitive case is used to indicate partialness or indefiniteness. In these examples, it shows possession ('on verd' - has blood), describes something that contains blood ('ninal verd' - blood in the nose), or indicates having gotten blood on oneself ('said verd peale' - got blood on themselves)."
 }

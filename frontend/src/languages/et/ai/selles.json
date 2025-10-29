@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen selles hämmingus",
-    "Ta on selles kindlalt veendunud",
-    "Me oleme selles ühel nõul"
+    "Selles majas elab meie pere.",
+    "Selles aias kasvab palu puid.",
+    "Ta näitas mulle selles raamatus üheksa lehekülge."
   ],
   "translation": [
     "in this",
-    "on this"
+    "at this",
+    "in that",
+    "at that"
   ],
-  "context": "The word 'selles' in Estonian is a postposition that indicates a location or situation, and it is commonly used to describe something that is happening or existing within a particular context or environment."
+  "context": "The Estonian word 'selles' is an inessive case form of the demonstrative pronoun 'see', which means 'this'. It indicates location within or at a specific place, functioning similarly to English prepositions like 'in' or 'at' combined with 'this' or 'that'. The inessive case answers the question 'where?' (kus/kust?)."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Otsida www-le.",
-    "Tema www on väga kasulik.",
-    "Kas saan sinu www-ile ligi?"
+    "Kasuta veebilehte www.example.com",
+    "Teave leiti www.search.ee-st",
+    "See on www.meisite.ee aadress"
   ],
   "translation": [
-    "website",
-    "web address",
-    "World Wide Web"
+    "www (World Wide Web)",
+    "world wide web",
+    "web address"
   ],
-  "context": "The word 'www' is used as an abbreviation for website, web address, or World Wide Web in Estonian. It typically refers to a specific internet location or the internet itself."
+  "context": "In Estonian, 'www' is commonly used as an abbreviation for the World Wide Web. It's typically placed at the beginning of website addresses to indicate that they are web pages on the internet. This usage follows international conventions where www serves as a subdomain prefix for websites. The Estonian language adopts this technical term directly from English without modification, maintaining its standard form across all contexts."
 }

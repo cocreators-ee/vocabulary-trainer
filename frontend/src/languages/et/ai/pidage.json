@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Pidage kinni kokkuleppest.",
-    "Ma pidan sind väga lugupidamisega.",
-    "Palun pidage meid kursis."
+    "Pidage head ööd!",
+    "Põgenege, pidage end kinni!",
+    "Te ei pea seda tegema, aga palun pidake seda meeles."
   ],
   "translation": [
-    "hold",
     "keep",
-    "maintain"
+    "hold",
+    "observe",
+    "celebrate"
   ],
-  "context": "The Estonian word 'pidage' is a versatile verb that can mean to hold, keep, or maintain something. It’s often used in the context of adhering to agreements ('pidage kinni') or showing respect ('pidan sind lugupidamisega')."
+  "context": "The Estonian word 'pidage' is the plural imperative form of the verb 'pida', which means to keep, hold, observe, or celebrate. It's used when addressing multiple people (formal 'you') and telling them to perform an action. The word can appear in various contexts such as asking someone to keep something safe, hold onto something, follow a rule, or celebrate an occasion."
 }

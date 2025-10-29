@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kõlas hästi.",
-    "Kõlas seesmiselt.",
-    "See lause kõlas veidralt."
+    "Kõla hea.",
+    "Mis kõla see on?",
+    "See laul kõlab hästi."
   ],
   "translation": [
-    "sounded",
-    "rang out",
-    "resonated"
+    "sounds like",
+    "has the sound of",
+    "resonates as"
   ],
-  "context": "The word kõlas is a verb in Estonian that means to produce a sound or to resonate, and it is commonly used to describe the way something sounds or the impression it gives."
+  "context": "The word 'kõlas' is the past tense form of the Estonian verb 'kõlama', which means 'to sound' or 'to have a particular quality when heard'. It describes how something sounded at a specific time in the past. For example, it can be used to describe music, voices, or sounds in general."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minä tiedän, että hän on oikeassa.",
-    "Hän sanoi, että hän tulee myöhässä.",
-    "On tärkeää, että yrität parhaasi."
+    "Minä sanon, että hän tulee.",
+    "Odotan, että saavut pian.",
+    "Hän uskoo, että onnistumme."
   ],
   "translation": [
     "that",
-    "so that"
+    "because",
+    "so"
   ],
-  "context": "\"Että\" is a conjunction in Finnish used to introduce subordinate clauses. It's similar to \"that\" or \"in order that\" in English and often connects a statement to another verb."
+  "context": "\"Että\" is a common Finnish conjunction that has multiple uses. It can introduce subordinate clauses (similar to 'that' in English), indicate cause-effect relationships (similar to 'because'), or serve as a connector between independent clauses (similar to 'so'). In its most common usage, it connects main clauses with subordinate clauses containing what someone says, thinks, believes, etc."
 }

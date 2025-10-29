@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen ida poole",
-    "Ida on üks neljast põhilistest suunast",
-    "Ta tuli idast"
+    "Tulevane Ida on täis võimalusi.",
+    "Päikeseloojang ja päikesetõus näitavad ida ja lääne suuna.",
+    "Idapoolne tuul puhus nõrgalt."
   ],
   "translation": [
-    "east"
+    "east",
+    "eastern direction"
   ],
-  "context": "The word 'ida' in Estonian refers to the direction east, and it is commonly used to describe locations or directions in relation to this cardinal point."
+  "context": "The Estonian word 'ida' means 'east' and refers to the eastern direction or cardinal point. It is used to describe geographical orientation, directions on a compass, or anything related to the east side of something. In Estonian grammar, it's typically in nominative case when referring to the general concept of 'east'. The word can also be found in compounds like 'idapoolne' (eastern) to indicate directionality."
 }

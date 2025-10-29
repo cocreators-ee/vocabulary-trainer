@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen torule.",
-    "Toru on taies.",
-    "Ta müüs oma vanad torud."
+    "Vesi voolab torust.",
+    "Toru on ummended.",
+    "Tore toru!"
   ],
   "translation": [
     "pipe",
-    "tube"
+    "tube",
+    "cylinder"
   ],
-  "context": "The word 'toru' in Estonian refers to a long, hollow tube used for conveying fluids, gases, or small objects, similar to the English word 'pipe' or 'tube'."
+  "context": "In Estonian, 'toru' is a noun that can refer to various types of cylindrical objects through which substances flow or are contained. It commonly means 'pipe' for water/gas systems, 'tube' for medical or laboratory equipment, or 'cylinder' in mechanical contexts. The word remains the same regardless of gender in Estonian as it doesn't grammatical genders."
 }

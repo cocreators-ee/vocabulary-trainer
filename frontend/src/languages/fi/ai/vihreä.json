@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Talossa on vihreä ovi.",
-    "Vihreät kasvit tarvitsevat vettä.",
-    "Hän pukeutuu vihreään paitaan."
+    "Tämä vihreä auto on uusi.",
+    "Vihreät lehdet putoavat puusta syksyllä.",
+    "Hän pitää vihreistä väristä."
   ],
   "translation": [
     "green"
   ],
-  "context": "The word 'vihreä' is an adjective in Finnish that means something is of the color green, and it can also describe something as being environmentally friendly or related to nature."
+  "context": "The Finnish word 'vihreä' means green in English. It is an adjective that describes the color green. In Finnish, adjectives agree with the noun they modify in number and case. For example, 'vihreä' is singular nominative form, while 'vihreät' is plural nominative form. This word can describe objects, colors in nature, or other green-colored things."
 }

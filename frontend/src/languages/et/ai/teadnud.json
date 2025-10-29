@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tean seda.",
-    "Ta teab seda juba kaks nädalat.",
-    "Meil on teada, et see toiming ei ole soovitatav."
+    "Te tuled teadnud.",
+    "Ma ei tea seda veel, aga ma saan peagi teadnud.",
+    "Teadnud on tähtis osa õppimisel."
   ],
   "translation": [
-    "know",
-    "be aware"
+    "known",
+    "to know",
+    "aware of"
   ],
-  "context": "Teadnud is a past participle of the verb \"teha\" meaning 'to do' but in context when used as part of verbs like 'tean', it actually comes from 'tunnetama' meaning to know or be aware."
+  "context": "The word 'teadnud' is the past participle form of the Estonian verb 'teada', which means 'to know'. It functions similarly to English participles like 'known' and can be used as an adjective or in perfect tense constructions. In its masculine nominative singular form, it would be 'tunnevat', but 'teadnud' appears to be a past participle that can function both adjectivally and verbally. It often appears with the auxiliary verb 'on' (is/are) to form present perfect constructions like 'on teadnud' (has known/is aware)."
 }

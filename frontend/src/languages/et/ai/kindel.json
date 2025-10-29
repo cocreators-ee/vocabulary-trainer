@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kindel, et see on õige valik.",
-    "Kindel inimene peab olema aus.",
-    "Kogu küla oli kindel, et nad ei saa enam kohtuda."
+    "Ta on kindel mees.",
+    "Olen kindel et see õige vastus.",
+    "Kontor oli kindelt teada."
   ],
   "translation": [
     "certain",
     "sure",
-    "confident"
+    "confident",
+    "firm",
+    "definite"
   ],
-  "context": "The word 'kindel' is commonly used to express certainty or confidence about something, similar to how 'certain' or 'sure' would be used in English. It can also describe a person who is reliable and steadfast."
+  "context": "The Estonian word 'kindel' is an adjective that means certain, sure, confident, firm, or definite. It can be used to express certainty about something or confidence in someone's abilities. In the first example sentence 'Ta on kindel mees,' it describes a man who is reliable or trustworthy. In the second example 'Olen kindel et see õige vastus,' it expresses personal certainty that this is the correct answer. In the third example 'Kontor oli kindelt teada,' it shows that the location of the office was definitely known."
 }

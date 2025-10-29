@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Voisi olla hyvä idea.",
-    "Hän voisi tulla huomenna.",
-    "Voisimme mennä elokuviin."
+    "Voisitko auttaa minua?",
+    "Hän voisi tulla myöhemmin.",
+    "Me voisimme mennä kahville."
   ],
   "translation": [
     "could",
     "might",
-    "may"
+    "would be able to"
   ],
-  "context": "The word 'voisi' is a verb in Finnish that expresses possibility or potential, and it can be translated to English as 'could', 'might', or 'may', depending on the context in which it is used."
+  "context": "The Finnish word 'voisi' is the conditional form of the verb 'voida', which means 'to be able' or 'can'. It's used to express possibility, suggestion, or politeness. In English, it corresponds to modal verbs like 'could', 'might', or 'would be able to'. The conditional mood in Finnish is often used for polite requests (like 'Voisitko auttaa minua?' meaning 'Could you help me?'), suggestions ('Hän voisi tulla myöhemmin' meaning 'He could come later'), or possibilities ('Me voisimme mennä kahville' meaning 'We could go for coffee')."
 }

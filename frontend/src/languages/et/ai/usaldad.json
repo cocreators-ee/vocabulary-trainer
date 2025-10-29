@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma usaldan sind",
-    "Ta usaldab mind",
-    "Me usaldame neid"
+    "Ma usaldan sind täielikult.",
+    "Ta ei usu oma eakaaslast ja ei usalda teda.",
+    "Kas sa usaldad mind või mitte?"
   ],
   "translation": [
     "trust",
+    "rely on",
     "believe in"
   ],
-  "context": "The word 'usaldad' is a verb in Estonian that means to trust or believe in someone or something, and it is commonly used in everyday conversations to express confidence or faith in a person, idea, or situation."
+  "context": "The word 'usaldad' is the Estonian verb meaning 'to trust' or 'to rely on'. It appears to be in the present tense, third person singular form. The root word 'usald-' relates to trust and confidence, and '-d' is a typical ending for verbs in this conjugation pattern. In Estonian, this verb can be used to express trust in someone's abilities, character, or reliability."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vihkan teda.",
-    "Ta on inimene, kelle vastu ma vihkad.",
-    "Vihkan teda südamest."
+    "Ma vihkan seda inimest.",
+    "Ta ei vihka mind.",
+    "Meie vihkame neid lapsi."
   ],
   "translation": [
-    "I hate him",
-    "hate"
+    "I hate this person.",
+    "He/she doesn't hate me.",
+    "We hate those children."
   ],
-  "context": "The word 'vihkan' is a first person singular form of the Estonian verb 'vihkama', which means to hate. It is commonly used in sentences to express strong dislike or hatred towards someone or something."
+  "context": "The word 'vihkan' is the first-person singular present indicative form of the Estonian verb 'viha', which means 'to hate'. It expresses a strong feeling of dislike or animosity towards someone or something. The conjugation shows it's from the verb stem 'vih-', with '-an' being the ending for 'I' in present tense."
 }

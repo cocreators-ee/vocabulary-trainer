@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Väärä lääkitys voi aiheuttaa vakavia haittoja.",
-    "Hän sanoi väärän valan oikeudessa.",
-    "Väärä tulkkaus voi johtaa väärään ymmärrykseen."
+    "Olet väärässä.",
+    "Tämä on väärä vastaus.",
+    "Väärät tiedot aiheuttivat sekaannusta."
   ],
   "translation": [
     "wrong",
     "incorrect",
     "false"
   ],
-  "context": "The word 'väärä' in Finnish generally means something that is incorrect, false or wrong, it can be used to describe a wide range of things from mistaken ideas to wrongful actions."
+  "context": "The Finnish word 'väärä' is an adjective that means wrong, incorrect, or false. It's used to describe something that is not right according to facts, rules, standards, or expectations. The word can be declined in different cases and numbers - here we see it in the nominative singular form ('väärä'), partitive singular form ('väärää' implied), and partitive plural form ('väärät')."
 }

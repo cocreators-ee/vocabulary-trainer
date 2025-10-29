@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tõusis õhku.",
-    "Õhk on täis saasteid.",
-    "Laps lendas õhku kuuelabal."
+    "Ta tõi õhku rõivad aknast.",
+    "Õhk on väga puhas ja värskne siin mägedes.",
+    "Lapsele anti rohtu õhu puhastamiseks."
   ],
   "translation": [
     "air",
-    "into the air"
+    "breath"
   ],
-  "context": "The word õhku is used to describe something that is in the air or moving into the air, and it can be translated to English as 'air' or 'into the air', depending on the context of the sentence."
+  "context": "The Estonian word 'õhku' is in the partitive case of the noun 'õhk', which means 'air'. In this form, it typically indicates an unspecified or indefinite amount of air. It can refer to bringing something in from outside, describing air quality, or using substances for air purification/breathing purposes."
 }

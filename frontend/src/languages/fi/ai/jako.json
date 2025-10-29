@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä jako on hyvin epätasainen.",
-    "Jako tapahtuu sattumanvaraisesti.",
-    "Jako on tehty jo"
+    "Tämä jako on melko epätasainen.",
+    "Jakaoikeus jaetaan tasapuolisesti osakkaiden kesken.",
+    "Veronjako tapahtuu vuosittain."
   ],
   "translation": [
     "division",
+    "distribution",
     "sharing",
-    "distribution"
+    "ratio",
+    "fraction"
   ],
-  "context": "The word 'jako' in Finnish refers to the act of dividing or sharing something, and it is commonly used in various contexts such as mathematics, social sciences, and everyday conversations."
+  "context": "The Finnish word 'jako' is a noun that primarily refers to the concept of division, distribution, or sharing. It can be used in mathematical contexts to mean ratio or fraction, but more commonly it appears in everyday language when talking about dividing something among people, distributing resources, or splitting responsibilities. The word comes from the verb 'jakaa' (to divide/share), and 'jako' represents the noun form of this action."
 }

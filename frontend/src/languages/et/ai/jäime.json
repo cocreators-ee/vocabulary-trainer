@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jäime koju",
-    "Nad ja jäime öösel",
-    "Meie oleme sellest külast ajalehe lugemiseks jäime"
+    "Me jäime kodu tuppa.",
+    "Nad jäid teele.",
+    "Minu pere jäi Eestisse."
   ],
   "translation": [
+    "remained",
     "stayed",
-    "remained"
+    "were left behind"
   ],
-  "context": "The word jäime is the first person plural form of the verb jääma, which means to stay or remain in Estonian. It is commonly used in sentences to indicate that someone stayed or remained somewhere."
+  "context": "The word 'jäime' is the 1st person plural past tense form of the Estonian verb 'jääma', which means 'to remain' or 'to stay'. It indicates that a group including the speaker stayed somewhere or were left behind in a particular place. This verb can be used for both staying by choice (remaining) and being left behind (when others depart)."
 }

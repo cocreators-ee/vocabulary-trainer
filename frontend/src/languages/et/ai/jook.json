@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta jõi klaasi veini.",
-    "Jook on hea ja tervislik.",
-    "Laps joob piima."
+    "Tere! Ma olen jook.",
+    "Meie pood müüb erinevaid jooke.",
+    "Kas sa tahad midagi juua? See jook on väga hea."
   ],
   "translation": [
-    "drink",
-    "beverage"
+    "drink (noun)",
+    "beverage",
+    "liquid for consumption"
   ],
-  "context": "The word 'jook' in Estonian generally refers to a drink or beverage, and it is commonly used in everyday conversations to talk about consuming liquids."
+  "context": "The Estonian word 'jook' is a noun that refers to any liquid beverage or drink meant for consumption. It can refer to water, juice, soda, alcohol, or any other type of drink. The word is in singular form and would have different endings when declined in cases (genitive: jooki, partitive: jooki, etc.)."
 }

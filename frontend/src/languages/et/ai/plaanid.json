@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu plaanid on suunatud kooli.",
-    "Tema plaanide põhjal saime aru, et ta soovib siirduda.",
-    "Plaanid tuleb alati täita.",
-    "Nad teostasid oma plaane juba eelmisel nädalal."
+    "Plaanid on tähtsad.",
+    "Tal on head plaanid järgmiseks aastaks.",
+    "Me peame muutma oma plaane."
   ],
   "translation": [
     "plans",
-    "planning"
+    "intentions",
+    "arrangements"
   ],
-  "context": "Pronounced as 'plaanid', it refers to either a plan or the act of planning. It is used in both singular and plural contexts depending on what is being referred to, often associated with future intentions or strategies."
+  "context": "The word 'plaanid' is the plural form of the Estonian word 'plan', which means plans or arrangements. It refers to multiple planned activities, intentions, or organized courses of action that someone has made for future events."
 }

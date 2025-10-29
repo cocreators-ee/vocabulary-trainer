@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tema ema elab tema küljes.",
-    "Minu vennad jäävad mind alati küljes.",
-    "Sünnipäeval olid kõik lähedased küljes."
+    "Töökoht on külas küljes.",
+    "Pood asub tee küljes.",
+    "Me elasime jõe küljes."
   ],
   "translation": [
+    "next to",
     "beside",
-    "at one's side",
-    "with"
+    "by"
   ],
-  "context": "The word 'küljes' in Estonian is used to indicate being next to or with someone, commonly in a supportive context such as family members staying close during events or living together."
+  "context": "The Estonian word 'kyljes' is an inessive case form of the word kylj, which means 'side'. It indicates location next to or beside something. This grammatical case (inessive) shows being inside or within a location. When used with prepositions like 'küla' (village), it forms compound expressions meaning 'in the village' but more commonly it's used as 'kyljes' to mean physically located adjacent to an object or place."
 }

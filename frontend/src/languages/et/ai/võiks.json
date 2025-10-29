@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võiks seda teha",
-    "Sa võiksid mind aidata",
-    "Ta võiks olla õige"
+    "Võiks öelda, et see on hea idee.",
+    "Kas võiks saada veidi vett?",
+    "Tema peaks olema kohal, võiks olla juba siin."
   ],
   "translation": [
     "could",
     "might",
-    "may"
+    "should",
+    "ought to"
   ],
-  "context": "The word võiks is the conditional form of the verb võima, which means to be able to or can, and it is commonly used in Estonian to express possibility or potentiality."
+  "context": "The Estonian word 'võiks' is the conditional form of the verb 'võima' (to be able to/can) and functions as a modal auxiliary verb. It expresses possibility, suggestion, or politeness in conditional or hypothetical situations. It can translate to English equivalents like 'could', 'might', 'should', or 'ought to'. The word is commonly used when making polite requests, suggestions, or expressing what might happen under certain conditions."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema jaoks see olid hoopis teisi võimalusi.",
-    "Võimalused, et see peaks töötama, on väikesed.",
-    "Sul on alati võimalust kõrvaldada selle menüü."
+    "Mul on võimalusi oma tööd täita.",
+    "See pakub palju võimalusi arenguks.",
+    "Tuleviku võimalused on lõputud."
   ],
   "translation": [
-    "chance"
+    "opportunities",
+    "possibilities",
+    "chances"
   ],
-  "context": "The word 'võimalust' is the partitive singular form of the noun 'võimalus', meaning 'chance' or 'possibility'. In English, it might appear similar to phrases like 'a chance for something', and in context may refer to opportunities, probabilities, or permissions depending on usage. In the first example sentence, it refers to different chances or opportunities; in the second, a low probability that something will work; and in the third, an option to eliminate or remove from the menu."
+  "context": "The Estonian word 'võimalust' is the partitive case form of 'võimalus', meaning 'opportunity' or 'possibility'. The '-st' ending indicates it's in the partitive singular case, which typically denotes a partial object or indefinite quantity. This form would be used when saying something like 'I have opportunities' (Mul on võimalusi) or referring to unspecified or multiple possibilities."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on taito pelata pianoa.",
-    "Hänen taitonsa johtaa joukkuetta voittoon.",
-    "Taito oli hänen vahvuutensa."
+    "Minulla on hyvä taito käsityöissä.",
+    "Sinulla on taidot, joista voisi olla hyötyä tässä työssä.",
+    "Hän opetteli uusia taitoja vapaa-aikanaan."
   ],
   "translation": [
     "skill",
-    "talent"
+    "ability",
+    "talent",
+    "expertise"
   ],
-  "context": "The word taito refers to a natural ability or skill that someone possesses, often used to describe a person's talent or aptitude for something."
+  "context": "The Finnish word 'taito' refers to a learned ability or skill that has been developed through practice and experience. It can refer to practical skills (like crafts), professional abilities, or talents in various areas. Unlike some innate qualities, 'taito' emphasizes the acquired nature of the competence - something that can be improved with effort."
 }

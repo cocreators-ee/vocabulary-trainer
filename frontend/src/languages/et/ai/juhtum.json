@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on juhtum, mida ma ei ole kunagi varem kogenud.",
-    "Juhtum oli väga ebameeldiv.",
-    "Ta rääkis mulle ühest juhtumist, mis tema elus juhtus."
+    "See on harvane juhtum.",
+    "Juhtumid esinevad regulaarselt.",
+    "Politsei uurib seda juhtumit."
   ],
   "translation": [
+    "incident",
     "case",
-    "event",
-    "incident"
+    "occurrence",
+    "event"
   ],
-  "context": "The word 'juhtum' in Estonian generally refers to a specific event or incident that has occurred, and it is commonly used in everyday conversation to describe something that has happened."
+  "context": "The Estonian word 'juhtum' is a noun that means an incident, case, occurrence, or event. It's commonly used to refer to specific happenings, occurrences, or cases in various contexts such as legal proceedings (court case), everyday situations (unusual incident), or general events. The word comes from the verb 'juhtuma' which means 'to happen' or 'to occur'. In Estonian grammar, it can appear in different forms like the genitive singular 'juhtumi' and plural form 'juhtumid'."
 }

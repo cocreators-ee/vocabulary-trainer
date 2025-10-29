@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta viskas palli laiali.",
-    "Lapsed viskasid kivid järve.",
-    "Mees viskas paberit prutti."
+    "Kas viskad mulle seda raamatut?",
+    "Viskasin võtme lahti.",
+    "Ta viskasi kivi aknast."
   ],
   "translation": [
     "threw",
-    "tossed",
-    "cast"
+    "cast",
+    "flung"
   ],
-  "context": "'Viskas' means 'he/she/it threw' or 'they threw'. It is the past tense of the verb 'visata', which means to throw. Common in sentences describing actions involving throwing objects."
+  "context": "The Estonian word 'viskas' is the past tense third-person singular form of the verb 'viskama', which means 'to throw'. It can be used when someone throws or casts something in a specific direction. The root form changes depending on conjugation - for first person singular it would be 'viskasin', and for second person singular it would be 'viskad'."
 }

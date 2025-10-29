@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu toa värv on sinine",
-    "Ta läks oma toasse magama",
-    "Toas oli üks võõras mees"
+    "Minu toas on palju raamatuid.",
+    "Ta käis oma toas ja võtis midagi kaasa.",
+    "Toal pole akent."
   ],
   "translation": [
     "room",
-    "space"
+    "bathroom"
   ],
-  "context": "The word 'toa' is commonly used in Estonian to refer to a room or space, similar to the English word 'room', and it can be used in various contexts such as describing a physical space or a personal area."
+  "context": "In Estonian, 'toa' is the genitive singular form of the word 'toode', which means 'room'. However, it most commonly refers specifically to a bathroom or toilet room. The word 'toa' can be used in possessive constructions where it indicates belonging to or located in a specific room."
 }

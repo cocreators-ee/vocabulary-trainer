@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlen ha!",
-    "Ta ütles ha ja läks minu juurde.",
-    "Kas sa ütled ha või ei?"
+    "Ha! See on naljakas.",
+    "Tema naerab haks.",
+    "Mis on ha?"
   ],
   "translation": [
-    "yes",
-    "okay",
-    "alright"
+    "laugh",
+    "laughter",
+    "haha",
+    "lol"
   ],
-  "context": "The word 'ha' in Estonian is commonly used as an expression of agreement or confirmation, similar to the English words 'yes', 'okay', or 'alright'."
+  "context": "\"ha\" is an interjection used to express laughter in Estonian. It's similar to \"ha ha\" or \"haha\" in English and is often written as \"Ha!\" when expressing surprise or amusement at something funny. The word can also be part of other expressions related to laughing, such as when describing someone who laughs (naerab haks - laughs a lot)."
 }

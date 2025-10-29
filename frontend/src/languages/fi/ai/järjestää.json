@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän järjestää juhlat tänään.",
-    "Järjestämme kokouksen huomenna.",
-    "He järjestivät matkan viime vuonna."
+    "Minun täytyy järjestää kokous.",
+    "Hän järjestää syntymäpäiväjuhlansa perheelleen.",
+    "Me järjestämme tapahtuman joka vuosi."
   ],
   "translation": [
     "to arrange",
-    "to organize"
+    "to organize",
+    "to set up"
   ],
-  "context": "The word 'järjestää' is commonly used in Finnish to mean making arrangements or preparations for something, such as planning an event or organizing a meeting."
+  "context": "The Finnish word 'järjestää' is a verb that means to arrange, organize, or set up something. It can be used in various contexts such as arranging meetings (kokous), organizing parties (juhla), or setting up events (tapahtuma). The verb changes form depending on the subject - for example 'minun täytyy järjestää' (I have to arrange), 'hän järjestää' (he/she arranges), and 'me järjestämme' (we arrange)."
 }

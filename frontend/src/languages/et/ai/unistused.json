@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina unistan sõbra kohta.",
-    "Tema unistused tegid ta liiga naeruliku.",
-    "Kas sind isegi huvitavad minu unistused?"
+    "Unistused on elu ilusaim osa.",
+    "Tal oli palju unistusi nooruses.",
+    "Meie unistused täituvad kunagi."
   ],
   "translation": [
-    "dreams"
+    "dreams",
+    "aspirations",
+    "visions"
   ],
-  "context": "The word 'unistused' refers to dreams, either in the literal sense of things you imagine while sleeping or metaphorically as aspirations and hopes."
+  "context": "The word 'unistused' is the plural form of the Estonian noun 'unisus', meaning dreams or aspirations. It refers to hopes, wishes, or mental images that occur during sleep or represent one's desires and goals for the future."
 }

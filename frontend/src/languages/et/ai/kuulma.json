@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kuulsin sind selgelt.",
-    "Ta ei suutnud midagi kuulda müra tõttu.",
-    "Kuulma on meil täna hea."
+    "Ma kuulan muusikat.",
+    "Tuleksin kuulama teie ettepanekuid.",
+    "Kas sa kuuled mind?"
   ],
   "translation": [
-    "hear",
-    "listen",
-    "audition"
+    "to hear",
+    "to listen to"
   ],
-  "context": "The word 'kuulma' in Estonian refers to the act of perceiving sounds with the ears, or simply 'to hear'. It can also mean 'to listen', but often implies a passive reception of sound. In some contexts it can refer to an audition or hearing test."
+  "context": "The Estonian word 'kuulma' is an infinitive verb that means 'to hear' or 'to listen to'. It's used when referring to the action of perceiving sound through one's ears. In different contexts, it can imply both passive hearing (sounds reaching your ears) and active listening (paying attention to what you're hearing)."
 }

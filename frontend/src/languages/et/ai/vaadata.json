@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vaatan telerit",
-    "Ta vaatas akna välja",
-    "Me vaatame filme"
+    "Ma vaatan televisiooni.",
+    "Ta vaatab lapse mängu.",
+    "Meie vaatame filmi teis päeval."
   ],
   "translation": [
+    "to look",
     "to watch",
-    "to look at"
+    "to see"
   ],
-  "context": "The word 'vaadata' is a verb in Estonian that means to watch or to look at something, and it is commonly used in everyday conversations to describe the act of observing or paying attention to something."
+  "context": "The Estonian word 'vaadata' is a verb that means to look, watch, or observe something. It's commonly used for watching television, films, performances, observing activities, or simply looking at objects. The verb conjugates based on the subject and tense."
 }

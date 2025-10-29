@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ta viltus mind üllatas.",
-    "Ära viltu mulle!",
-    "See oli lihtsalt vilt."
+    "Ta läks viltu teelt.",
+    "Auto sõitis viltu tee äärde.",
+    "Lapsed jooksid viltu parki."
   ],
   "translation": [
-    "lie",
-    "deceit",
-    "falsehood"
+    "off the road",
+    "astray",
+    "away from the proper path"
   ],
-  "context": "The Estonian word 'viltu' refers to something that is false or deceptive. It can be used as a verb meaning 'to lie' or 'to deceive', or as an adjective describing something fake or untrue. In English, it’s commonly used when discussing dishonesty or trickery."
+  "context": "The word 'viltu' is an Estonian adverb meaning to be off course, astray, or away from the proper path. It describes a position that is not on the intended route or track. This word can be used both literally (physically being off a road) and metaphorically (being on the wrong path in life)."
 }

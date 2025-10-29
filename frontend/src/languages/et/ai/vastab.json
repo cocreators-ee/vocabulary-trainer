@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta vastab küsimustele.",
-    "Ma vastan telefonile.",
-    "Vastab ainult ühele küsimusele."
+    "Ta vastab küsimusele.",
+    "Vastame kohtumisele kell 14:00.",
+    "Kas sa vastad sellele kõnele?"
   ],
   "translation": [
-    "answer",
-    "respond",
-    "reply"
+    "answers",
+    "responds to",
+    "replies"
   ],
-  "context": "The word 'vastab' in Estonian means to answer or respond to something, often used in the context of replying to a question or a call."
+  "context": "The Estonian word 'vastab' is the third-person singular form of the verb 'vastama', which means to answer, respond, or reply. It's commonly used when someone is answering a question, responding to an invitation, or replying to a message."
 }

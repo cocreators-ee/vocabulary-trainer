@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen perele tänuline.",
-    "Perele jääb kogu vara.",
-    "Tema toetusest tulenev pidevus on perele oluline."
+    "perele meeldis kohtumine",
+    "ta andis kingi perele",
+    "tere tulemast perele!"
   ],
   "translation": [
     "to the family",
     "for the family",
-    "family"
+    "to one's family"
   ],
-  "context": "'perele' is an Estonian word meaning 'to/for the family'. It is used in sentences where something is directed towards or beneficial for a family unit, expressing care, responsibility, or belonging. Commonly appears in contexts discussing family matters, inheritance, support, or gratitude."
+  "context": "The Estonian word 'perele' is an allative case form of the noun 'pere', which means 'family'. The allative case indicates direction or movement toward something, so 'perele' specifically means 'to the family' or 'toward the family'. It answers the question 'kuhu?' (where to?). This ending '-le' is commonly used in Estonian to indicate direction toward a person, place, or thing."
 }

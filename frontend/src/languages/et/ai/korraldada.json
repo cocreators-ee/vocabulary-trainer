@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma korraldan öösel kontserti.",
-    "Ta oskab korraldada üritusi.",
-    "Nad korraldasid võistluse edukalt."
+    "Ma korraldan kohtumise homme.",
+    "Korraldame su sündmust tänaval.",
+    "Tema oli kõige paremini korraldanud ürituse."
   ],
   "translation": [
+    "to arrange",
     "to organize",
-    "to arrange"
+    "to manage",
+    "to conduct"
   ],
-  "context": "The word 'korraldada' in Estonian means to organize or arrange something, such as an event or a task, and it is commonly used in the context of planning and management."
+  "context": "The Estonian verb 'korraldada' is used to describe the action of arranging, organizing, managing, or conducting something. It can be used in various contexts such as planning meetings (kohtumine), events (sündmus, üritus), activities, or processes. The word follows standard Estonian conjugation patterns and appears in different forms depending on the subject and tense."
 }

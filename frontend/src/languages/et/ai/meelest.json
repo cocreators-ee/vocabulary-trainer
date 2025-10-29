@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma hoolitan sellest küsimusest kindlasti meeles.",
-    "Ta läks minu mõtteid meeles pidades.",
-    "Palun pidage seda arvesse, et ma ei suuda tänasööda. Meelest, kuidas ma tean."
+    "Arvan, et meelest on see hea mõte.",
+    "Kas sa oled meelega?",
+    "Tema arvamus on meeldejääv."
   ],
   "translation": [
-    "Memory",
-    "Mind (in the sense of thinking about something)",
-    "Remember"
+    "in my opinion",
+    "I think",
+    "it seems to me"
   ],
-  "context": "'Meelest' in Estonian is used to indicate remembering or keeping something in mind. It can be part of phrases that mean 'remembering that,' often seen in expressions where someone recalls a past event or keeps information in their memory."
+  "context": "The word 'meelest' is an Estonian adverbial form that means 'in my opinion' or 'I think'. It is derived from the noun 'meel' (mind/opinion) combined with the locative case ending '-st', indicating a position or perspective. This construction is commonly used in spoken and written Estonian to express personal viewpoints."
 }

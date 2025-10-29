@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän teki kaiken yksin.",
-    "Olen tehnyt tämän ennen.",
-    "He tekivät virheen."
+    "Minä teki kakun.",
+    "Hän teki harjoituksen.",
+    "He tekivät uuden projektin."
   ],
   "translation": [
-    "did",
     "made",
-    "performed"
+    "did",
+    "created"
   ],
-  "context": "The word 'teki' is the third person singular form of the verb 'tehdä', which means to do or make something, and it is commonly used in Finnish language to describe an action that someone has completed."
+  "context": "The word 'teki' is the third person singular past tense form of the Finnish verb 'tehdä', which means 'to make' or 'to do'. It's used to describe an action that was completed in the past by a single subject (he/she/it). The verb 'tehdä' is one of the most common verbs in Finnish and can be used for both physical creation and performance of actions."
 }

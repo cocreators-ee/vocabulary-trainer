@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on hirmus väike kodu.",
-    "Tema suhted olid hirmuks keerulised.",
-    "Ma ei mõista seda hirmsat vastust."
+    "See on hirmus ilm!",
+    "Meeldiva oleks näha sind uuesti, sest viimane kohtumine oli hirmus.",
+    "Tal on hirmus hääl."
   ],
   "translation": [
     "terrible",
-    "awfully"
+    "awful",
+    "dreadful",
+    "horrible"
   ],
-  "context": "The word 'hirmus' in Estonian is used to describe something as terrible or awful. It can be used both literally and metaphorically, often emphasizing the severity of a situation or the negative quality of something."
+  "context": "The Estonian word 'hirmus' is an adjective that describes something as terrible, awful, dreadful, or horrible. It expresses a strong negative quality about something - it could be describing weather ('hirmus ilm' means 'terrible weather'), an experience ('hirmus kohtumine' means 'awful meeting'), or a characteristic like someone's voice ('hirmus hääl' means 'horrible voice'). The word conveys intense disapproval or disappointment with the quality of something."
 }

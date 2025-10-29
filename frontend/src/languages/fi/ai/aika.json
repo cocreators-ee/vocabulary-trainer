@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Aika on raha.",
-    "Hänellä ei ollut aikaa.",
-    "Ajan myötä kaikki muuttuu."
+    "Minulla on aikaa kahvilassa.",
+    "Milloin sinulla on aikaa?",
+    "Käytämme aikaa hyödyllisesti."
   ],
   "translation": [
     "time",
-    "era"
+    "period of time",
+    "opportunity"
   ],
-  "context": "The word 'aika' generally refers to time in the sense of a duration or an era, and it is commonly used in Finnish language to express the idea of something happening at a certain point or during a specific period."
+  "context": "The Finnish word 'aika' means 'time' in English. It can refer to a specific period, duration, or opportunity. In its basic form, it's used to talk about temporal concepts like when something happens how long things take, or chances/opportunities that arise."
 }

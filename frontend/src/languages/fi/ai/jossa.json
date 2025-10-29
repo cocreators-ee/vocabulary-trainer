@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Talo oli suuri, jossa asui koko perhe.",
-    "Paikka, jossa hän syntyi, on nyt puisto.",
-    "Hän etsi paikkaa, jossa voisi asua."
+    "Tämä on talo, jossa asun.",
+    "Koti, josta olen kotoisin.",
+    "Paikka, jossa tapahtui seurue."
   ],
   "translation": [
+    "where",
     "in which",
-    "where"
+    "at which"
   ],
-  "context": "The word 'jossa' is a Finnish inessive relative pronoun that corresponds to the English words 'in which' or 'where', and it is used to indicate a location or a situation."
+  "context": "The Finnish word 'jossa' is an inessive form of the relative pronoun 'joka', meaning 'which' or 'that'. It indicates location within a place and functions as a conjunction introducing relative clauses. The -ssa/-ssä suffix indicates the inessive case, showing being inside or within something. It's commonly used to specify locations within larger entities like buildings, cities, or abstract spaces."
 }

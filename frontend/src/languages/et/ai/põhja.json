@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen põhja poole.",
-    "Põhja-Eesti on suurepärane koht.",
-    "Talvel sõidan põhja suunas."
+    "Tuleme põhjale.",
+    "Põhi on hea koht linnapuhkuseks.",
+    "Me läksime põhja."
   ],
   "translation": [
     "north",
-    "northern"
+    "bottom",
+    "base"
   ],
-  "context": "The word 'põhja' is commonly used in Estonian to refer to the direction or region of north, and it can be used in various contexts such as giving directions or describing geographical locations."
+  "context": "The Estonian word 'põhja' has multiple meanings depending on context. It can mean 'north' as in a direction, 'bottom' as the lowest part of something, or 'base/foundation'. In different cases and forms, it might appear as 'põhja' (genitive case), 'põhi' (nominative case), etc. For example: 'Tuleme põhjale' means 'Let's go to the north', 'Põhi on hea koht linnapuhkuseks' means 'The bottom is a good place for city relaxation', and 'Me läksime põhja' means 'We went north'."
 }

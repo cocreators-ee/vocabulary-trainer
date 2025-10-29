@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen teiste seas",
-    "Teiste hulgas olen ma",
-    "Ta on üks teiste hulgast"
+    "Teised inimesed tulevad homme.",
+    "Ta arutles teistega päevaks.",
+    "Me vaatame teiste lahendusi."
   ],
   "translation": [
     "others",
-    "other people"
+    "other people",
+    "different ones"
   ],
-  "context": "The word 'teiste' is a genitive plural form of the Estonian word 'teine', which means 'other' or 'another', and it is commonly used to refer to other people or things in a general sense."
+  "context": "'Teiste' is the partitive plural form of 'teine' (other) in Estonian. It's used when referring to other people or things in a general sense, often appearing with the genitive case marker '-de'. The word indicates multiple others or different entities and commonly appears in contexts where distinguishing from a group or showing variety is important."
 }

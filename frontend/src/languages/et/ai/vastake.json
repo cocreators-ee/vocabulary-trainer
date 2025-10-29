@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Vastake mulle kohe! - Answer me immediately!",
-    "Ta vastake küsimusele otsekoheselt. - He answered the question directly.",
-    "Ma ei tea, kuidas sellele vastake. - I don't know how to answer this."
+    "Palun vastake küsimusele.",
+    "Võite meiega ühendust võtta ja vastake oma kommentaaridega.",
+    "Miks te ei vasta kellelegi?"
   ],
   "translation": [
+    "respond",
     "answer",
-    "reply",
-    "respond"
+    "reply"
   ],
-  "context": "The word 'vastake' is an imperative form of the verb 'vastata', meaning 'to answer'. It’s used when directly telling someone to respond or reply to something, similar to ‘answer me’ or ‘respond to this’ in English."
+  "context": "The word 'vastake' is the second person plural imperative form of the Estonian verb 'vasta', which means 'to respond, answer, or reply'. It's used when addressing multiple people and telling them to give a response. The singular form would be 'vasta' (addressing one person), and other forms include 'vastan' (I answer) and 'vabavad' (they answer). This verb is commonly used in both formal and informal contexts when asking someone or a group of people to provide an answer or reaction."
 }

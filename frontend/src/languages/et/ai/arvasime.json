@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvasin, et see on hea mõte.",
-    "Ta arvas, et me peaksime minema.",
-    "Meie arvasime, et see on vale."
+    "Arvasime, et ta tuleb homme.",
+    "Meie arvasime, et see on õige vastus.",
+    "Kes te arvasite, et nad võidavad?"
   ],
   "translation": [
-    "thought",
-    "supposed",
-    "assumed"
+    "we thought",
+    "we guessed",
+    "we assumed"
   ],
-  "context": "The word 'arvasime' is the first person plural past tense form of the Estonian verb 'arvama', which means to think or suppose something. It is commonly used in sentences to express a thought or assumption that was made in the past."
+  "context": "The word 'arvasime' is the 1st person plural past tense form of the Estonian verb 'arvama', which means 'to think' or 'to guess'. It specifically translates to 'we thought', 'we guessed', or 'we assumed' in English. The '-me' ending indicates first person plural (we) and the past tense is formed with the '-sime' suffix."
 }

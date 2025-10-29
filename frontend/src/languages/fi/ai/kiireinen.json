@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on kiireinen ja ei voi tulla tapaamiseen.",
-    "Kiireiset päivät ovat vaikeita.",
-    "Kiireisyydestä johtuen emme voi tehdä sitä."
+    "Tämä on kiireinen päivä.",
+    "Hän oli kiireisin opiskelija luokassa.",
+    "Keskustelu oli liian kiireinen."
   ],
   "translation": [
     "busy",
+    "hectic",
     "rushed"
   ],
-  "context": "The word kiireinen is an adjective in Finnish that means being busy or having a lot to do, it is commonly used to describe someone who has many tasks or responsibilities and does not have much free time."
+  "context": "The Finnish word 'kiireinen' is an adjective meaning busy, hectic, or rushed. It describes a state where there is much to do in little time, often resulting in pressure and lack of free time. The word comes from the root 'kiire' (hurry), and when used as 'kiireisin', it becomes the superlative form meaning 'the busiest'."
 }

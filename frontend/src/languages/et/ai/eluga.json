@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema lugu on tõeline eluga kujund",
-    "Eluga maailm on alati paks",
-    "Mina teen alati eluga valikuid"
+    "Eluga head!",
+    "Kas te eluga?",
+    "Ta elab eluga"
   ],
   "translation": [
     "with life",
-    "full of life"
+    "alive",
+    "living with"
   ],
-  "context": "'eluga' is a form of the Estonian word 'elu', which means 'life'. The suffix '-ga' denotes the illative case in some contexts but here functions as part of an adjectival form meaning 'with life' or 'lively'. It can be used to describe something dynamic, vibrant, or teeming with activity."
+  "context": "The Estonian word 'eluga' is an adessive case form that typically means 'with life' or 'alive'. It's used to indicate being alive or living in a certain state. The word derives from the root 'elu' (life) and the '-ga' suffix which indicates accompaniment or instrumentality in Estonian grammar."
 }

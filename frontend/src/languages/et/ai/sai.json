@@ -1,14 +1,14 @@
 {
-  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Minu nimi on Sai.",
-    "Tema lemmiktoit on sai.",
-    "Oled sa siis ega tead, et see on sai?"
+    "Tema sai kingituse.",
+    "Lapsed said suvepuhkuse alguses vabaid päevi.",
+    "Mees sai haigeks ja pidi töölt eemal olema."
   ],
   "translation": [
-    "sai",
-    "dumplings"
+    "received",
+    "got",
+    "obtained"
   ],
-  "context": "The word 'sai' can refer to the person's name Sai or the Chinese dumpling."
+  "context": "'Sai' is the past tense third-person singular form of the Estonian verb 'saama', which means 'to receive' or 'to get'. It indicates that someone obtained or received something. In Estonian grammar, this is one of the most commonly used verbs in the simple past tense."
 }

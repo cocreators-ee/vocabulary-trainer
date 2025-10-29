@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan sind igaveseks.",
-    "Ta on mind igaveseks võtnud.",
-    "Igaveseks lahku mind ei saa."
+    "See muutub igaveseks",
+    "Ta teeb selle igaveseks",
+    "Möödunud aeg on igaveseks jäänud"
   ],
   "translation": [
+    "eternally",
     "forever",
-    "for good"
+    "permanently"
   ],
-  "context": "The word igaveseks is an adverb in Estonian that means forever or for good, indicating a permanent or lasting state."
+  "context": "The Estonian word 'igaveseks' is the adessive case form of 'igavene', which means eternal or everlasting. It functions as an adverb meaning 'eternally' or 'forever'. The '-ks' ending indicates that it's in the adessive case, which often indicates transformation or becoming something."
 }

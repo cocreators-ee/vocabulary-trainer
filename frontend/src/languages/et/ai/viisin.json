@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma viisin oma poja arsti juurde.",
-    "Ta viisib mind tagasi kodule.",
-    "Sa võid viisinud olla."
+    "Ma olen viisin päeva Tallinnas.",
+    "Ta käis viisa nädalat Soomes.",
+    "Me oleme viis aastat abielus."
   ],
   "translation": [
-    "take",
-    "carry",
-    "bring"
+    "for five days",
+    "for five weeks",
+    "for five years"
   ],
-  "context": "The verb 'viisin' in Estonian means to take or carry someone or something somewhere. It is often used when transporting a person or object from one location to another, and can also imply bringing something back."
+  "context": "In Estonian, 'viisin' is the partitive form of the number five ('viis') used to express duration. It indicates that something has lasted or will last for a period of five units (days, weeks, months, years, etc.). The partitive case in Estonian is commonly used with time expressions to indicate duration."
 }

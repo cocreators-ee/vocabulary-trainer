@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta osaleb võitluses tiitli eest.",
-    "Võitlus oli ägeda ja pika.",
-    "Meie võitlus ei olnud lihtne."
+    "Meie ees on võitlus vabaduse eest.",
+    "See oli raske võitlus kaks vastane vastu.",
+    "Kokkuvõttes oli see pikem ja keerulisem võitlus."
   ],
   "translation": [
     "fight",
     "struggle",
-    "battle"
+    "battle",
+    "contest"
   ],
-  "context": "The word võitlus generally refers to a fight, struggle or battle in Estonian, and it is commonly used to describe a situation where someone or something is competing or opposing another."
+  "context": "The Estonian word 'võitlus' is a noun that means fight, struggle, battle or contest. It typically refers to a physical confrontation, an intense effort to overcome something difficult, or a competition between opposing forces. The word comes from the root 'võit-' which relates to victory ('võit'), suggesting it's about the process of fighting toward achieving victory."
 }

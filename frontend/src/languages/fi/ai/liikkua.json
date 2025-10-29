@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä liikun hitaasti",
-    "Hän liikkui nopeasti",
-    "He liikkuvat yhdessä"
+    "Minä liikuin kaupungilla.",
+    "Hän liikkuu paljon ulkona.",
+    "He liikkuvat nopeasti."
   ],
   "translation": [
-    "move",
-    "go",
-    "walk"
+    "to move",
+    "to be in motion",
+    "to go around"
   ],
-  "context": "The word liikkua is commonly used to describe the act of moving from one place to another, and can be translated to English as move, go, or walk, depending on the context in which it is used."
+  "context": "The Finnish verb 'liikkua' means to move or to be in motion. It's an active verb that describes movement from one place to another, and can refer to both people and objects moving. The word changes form depending on the subject and tense: present singular is 'liikun', third person singular is 'liikkuu', plural forms are 'liikkumme', 'liikutte', 'liikkuvat', etc."
 }

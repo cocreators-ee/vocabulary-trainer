@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma oodake sind homme",
-    "Ta oodab mind juba tund aega",
-    "Nad ootavad meie tulekut"
+    "Oodake mind hommikul.",
+    "Palun oodake veidi aega.",
+    "Meie ootame teid, oodake palun."
   ],
   "translation": [
-    "wait for",
-    "expect"
+    "wait",
+    "please wait"
   ],
-  "context": "The word 'oodake' is used in Estonian to mean waiting for someone or something, and it can also imply expectation or anticipation."
+  "context": "The word 'oodake' is the plural second person imperative form of the verb 'ootama', which means 'to wait'. It's used when addressing multiple people and telling them to wait. The suffix '-ke' can be an affixative particle that softens the command, making it more polite or gentle."
 }

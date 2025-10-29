@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Väline on tärkeä työkalu monissa ammateissa.",
-    "Hän käytti välinettä saadakseen työn tehokkaasti valmiiksi.",
-    "Uusi väline helpottaa prosessia merkittävästi."
+    "Minulla on hyvät työvälineet.",
+    "Tämä on hyvä apuväline opiskeluun.",
+    "Tarvitsemme oikeat välineet tehtävään."
   ],
   "translation": [
     "tool",
-    "means",
-    "medium"
+    "instrument",
+    "equipment",
+    "implement",
+    "means"
   ],
-  "context": "The word 'väline' in Finnish generally refers to a tool, means, or medium used to achieve something, and it is commonly used in various contexts such as work, communication, and problem-solving."
+  "context": "The Finnish word 'väline' is a noun that refers to tools, instruments, equipment, or implements used for various purposes. It's commonly used in contexts of work, study, hobbies, and activities where specific items are needed as aids or means to accomplish tasks. The word can be singular ('väline') or plural ('välineet'), and it often appears with possessive suffixes (like 'työvälineet' - work tools) or as part of compound words (like 'apuväline' - aid tool/auxiliary equipment)."
 }

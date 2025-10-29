@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elas vasakul asuvat köögi.",
-    "Vasakul oleva ukse taga oli väike tuba.",
-    "Kõigepealt tuleb keerata vasakul."
+    "Minu auto on vasakul.",
+    "Pank asub vasakul tänaval.",
+    "Vaata vasakult!"
   ],
   "translation": [
-    "on the left",
+    "on the left side",
+    "to the left",
     "leftward"
   ],
-  "context": "The word 'vasakul' is an adverb in Estonian that means on the left or to the left, indicating direction or location."
+  "context": "The Estonian word 'vasakul' is an adverb that indicates position or direction to the left. It's formed by adding the '-ul' ending to the root 'vasak-', which relates to 'left'. This form is used when something is located on the left side (in case of location) or when indicating movement toward the left."
 }

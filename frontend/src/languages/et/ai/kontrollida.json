@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kontrollin tema taustat.",
-    "Kontrollige, kas see on õige.",
-    "Ta ei suutnud enda emotsioone kontrollida."
+    "Kontrollin oma dokumente.",
+    "Peame kontrollima seda õigust.",
+    "Tegid head tööd kontrollides kõiki üksikasju."
   ],
   "translation": [
     "to check",
-    "to control",
-    "to verify"
+    "to verify",
+    "to inspect",
+    "to control"
   ],
-  "context": "The word 'kontrollida' in Estonian means to check, control or verify something, and it is commonly used in various contexts such as checking information, controlling emotions, or verifying the accuracy of something."
+  "context": "The Estonian verb 'kontrollida' means to check, verify, inspect, or control. It is a regular -da verb that takes the object in partitive case when referring to checking something specific. The root form 'kontrolli-' comes from the international word 'control', and it follows standard Estonian conjugation patterns (e.g., kontrollin, kontrollid, kontrollib)."
 }

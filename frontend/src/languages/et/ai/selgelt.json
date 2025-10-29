@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ütles selgelt, et ei saa enam kannatada",
-    "See on selgelt näha võimalik",
-    "Olen selgelt üle kahe"
+    "Selgelt on tähtis kõik oma teguanded mõelda üle.",
+    "Ta selgitas probleemi selgelt ja arusaadavalt.",
+    "Lahendus on selgelt parem kui eelnev variant."
   ],
   "translation": [
     "clearly",
-    "obviously"
+    "distinctly",
+    "unequivocally"
   ],
-  "context": "The word 'selgelt' is an adverb in Estonian that means clearly or obviously, often used to describe a situation or statement that is easy to understand or perceive."
+  "context": "The Estonian adverb 'selgelt' is formed from the adjective 'selge' (clear) and the adverbial suffix '-lt'. It means clearly, distinctly, or unequivocally. This adverb modifies verbs to indicate that something is being done in a clear manner or with clarity."
 }

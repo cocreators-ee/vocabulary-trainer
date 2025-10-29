@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Taloni sijaitsee rannikolla.",
-    "Rannikolla asuminen on kallista.",
-    "Rannikko on suosittu matkailukohde."
+    "Meren rannikolla on kaunis hiekkaranta.",
+    "Vierailimme rannikolla viime kesänä.",
+    "Talo sijaitsee rannikolla."
   ],
   "translation": [
-    "coast",
-    "seaside",
-    "shore"
+    "on the coast",
+    "by the sea",
+    "along the shoreline"
   ],
-  "context": "The word 'rannikolla' is used to describe something that is located on or near the coast, and it is commonly used in Finnish to talk about places or activities related to the sea or the beach."
+  "context": "The word 'rannikolla' is an inessive case form of 'rannikko', meaning 'coast'. The '-lla' suffix indicates location ('in/at/on'), so 'rannikolla' specifically means 'on the coast' or 'by the sea'. It's used to describe being physically located on the coastal area. The word is commonly used when referring to vacation spots, beaches, or seaside activities in Finnish."
 }

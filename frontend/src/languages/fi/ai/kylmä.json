@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän on kylmä ja välinen.",
-    "Kylmä sade alkaa päästää.",
-    "Rakkaus ei ole ollut kylmä, mutta se on ainoa mahdollisuus."
+    "Ilma on kylmä tänään.",
+    "Hän pitää kylmistä juomista.",
+    "Minun käteni ovat kylmät."
   ],
   "translation": [
     "cold",
-    "frosty",
-    "unfeeling"
+    "chilly"
   ],
-  "context": "'kylmä' translates to 'cold' in English and is used both literally to describe low temperatures or something chilly, and figuratively to depict someone who is emotionally distant, indifferent, or unemotional. It can also be part of compound words that convey specific meanings like frosty weather conditions."
+  "context": "The Finnish word 'kylmä' is an adjective that means 'cold'. It describes low temperature, either in the weather or when referring to objects. In its basic form it's used for masculine nouns and singular subjects. When modifying feminine nouns or plural forms, it would take different endings (like 'kylmä' for masculine singular, 'kylmät' for plural). It can also be used metaphorically to mean 'unfriendly' or 'heartless'. The word comes from the same Germanic root as English words like 'chill'."
 }

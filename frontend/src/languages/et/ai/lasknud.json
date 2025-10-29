@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta laskis kõrvale asuda.",
-    "Lase minu lastel rahu!",
-    "Ei tohi järjekohalikult tegevust laskida."
+    "Ta laskis kaks kasti juustu.",
+    "Ma olen juba lasknud e-maili.",
+    "Lasksin selle maha."
   ],
   "translation": [
-    "to let",
-    "to allow",
-    "to leave"
+    "let go of",
+    "released",
+    "dropped"
   ],
-  "context": "The word 'lasknud' is a form of the verb meaning 'let' or 'allow'. It is often used in contexts where someone gives permission to another person, but it can also mean to leave something as it is."
+  "context": "The Estonian word 'lasknud' is the past participle form of the verb 'lasta'. It means to let go, release, or drop something. In its participle form, it functions as an adjective and can be used with different subjects depending on the case. For example, when combined with pronouns like 'ta' (he/she) it indicates that someone has performed the action of releasing/letting go."
 }

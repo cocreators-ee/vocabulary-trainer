@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen koju.",
-    "See on minu koti juures.",
-    "Nad said oma kotis."
+    "Koti on ilus väike linn.",
+    "Meie kodu oli väga mugav.",
+    "Kas sa tahad minna koti poole?"
   ],
   "translation": [
     "home",
     "house",
-    "dwelling"
+    "residence"
   ],
-  "context": "The word 'koti' in Estonian generally translates to 'home' or 'house' in English. It refers to the place where someone lives, and can be used both as a noun (a physical building) and sometimes to indicate the concept of being at home."
+  "context": "In Estonian, 'koti' is the partitive form of the noun 'kodu', which means home or house. The partitive case typically indicates an incomplete action or partial object. In these examples, it can be used in contexts like 'going toward home' or referring to aspects related to one's dwelling."
 }

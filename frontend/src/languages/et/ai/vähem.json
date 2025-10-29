@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen vähem kindel",
-    "Ta on vähem kui üks",
-    "See on vähem oluline"
+    "Ta on vähemalt kolmekümne aasta vanus.",
+    "Me vajame vähem aega selleks tööks.",
+    "Tema lapsepõlv oli vähem rõõms kui ta omab."
   ],
   "translation": [
     "less",
-    "fewer"
+    "fewer",
+    "not as much"
   ],
-  "context": "The word 'vähem' in Estonian means 'less' or 'fewer' and is used to describe a smaller quantity of something, it can also be used to compare two things."
+  "context": "The word 'vähem' is the comparative form of 'vähe', meaning 'little' or 'a few'. It functions similarly to English words like 'less', 'fewer', and 'not as much', indicating a smaller quantity, degree, or amount compared to something else. In Estonian grammar, it's used with both countable and uncountable nouns, similar to how English uses 'less' for uncountable and 'fewer' for countable nouns."
 }

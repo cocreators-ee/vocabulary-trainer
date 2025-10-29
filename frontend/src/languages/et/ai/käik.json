@@ -1,15 +1,17 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina käin koolis igasoojas. (I go to school every day.)",
-    "Ta tõi käigu oma mängu läbi. (He carried out his game through movement.)",
-    "Rohevad jühid käes. (The rough edges are in motion.)"
+    "Kuidas on sinu käik?",
+    "Tema tegi esimese käigu mängus.",
+    "Mul oli hea käik tööle minnes."
   ],
   "translation": [
-    "go",
-    "walk",
-    "movement"
+    "move",
+    "step",
+    "turn",
+    "action",
+    "play (in a game)",
+    "way"
   ],
-  "context": "The Estonian word 'käik' primarily translates to 'movement', especially in the context of physical motion such as walking or any kind of movement."
+  "context": "The Estonian word 'käik' is a versatile noun that can mean several things depending on context. It most commonly refers to a move or step in games like chess, but also more generally as an action, turn, or way of doing something. In different contexts it can refer to progress, advancement, or the manner in which something is done. The word captures both physical movement and figurative progression."
 }

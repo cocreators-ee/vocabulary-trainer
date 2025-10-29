@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tämä tietokoneohjelma paikantaa vahingon ajoissa.",
-    "Paikannuksen jälkeen hänellä oli selkeä käsitys omasta sijainnistaan.",
-    "Onko kyseessä todella se, mitä nyt pyritään paikantaamaan?"
+    "Hänen tehtävänsä on paikantaa kadonnut eläin.",
+    "Käytämme GPS-järjestelmää paikantaaksemme reaaliaikaista liikennettä.",
+    "Satelliitit auttavat meitä paikantamaan tarkkoja koordinaatteja."
   ],
   "translation": [
     "to locate",
-    "to determine the location of"
+    "to pinpoint",
+    "to find the position of"
   ],
-  "context": "The verb 'paikantaa' is used to describe finding or determining a physical location. It often refers to using technology such as GPS or other methods to identify where someone or something is."
+  "context": "The Finnish verb 'paikantaa' means to locate or determine the exact position of something. It's commonly used when finding physical locations, positions on maps, or coordinates. The word is derived from 'paikka' (place/location) with the causative suffix '-taa', indicating an action that causes something to be positioned or identified."
 }

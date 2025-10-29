@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Unelma on kaikki mitä voi toivoa",
-    "Hänellä oli unelma voittaa kilpailu",
-    "Unelmien toteutuminen vaatii kovaa työtä"
+    "Minulla on unelma matkustaa Japaniin.",
+    "Hänen unelmansa oli tulla lääkäriksi.",
+    "Unelmat voivat joskus toteutua."
   ],
   "translation": [
     "dream",
-    "goal",
-    "aspiration"
+    "aspiration",
+    "fantasy"
   ],
-  "context": "The word 'unelma' in Finnish refers to a desired or imagined situation or outcome, and is commonly used to describe someone's aspirations or goals."
+  "context": "The Finnish word 'unelma' means dream or aspiration. It is a noun that can refer to both night dreams and life goals/aspirations. The word has different forms in different cases - for example, 'unelmanen' would be the genitive form meaning 'of a dream', and 'unelmia' is partitive form meaning 'dreams'. When used with verbs likeolla (to have), it's commonly said 'minulla on unelma' (I have a dream)."
 }

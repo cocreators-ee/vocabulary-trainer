@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tegi karjääri muusikuna.",
-    "Minu isa on arst ja tema karjäär on edukas.",
-    "Kari on raske, kuid rahuldav."
+    "Kas sa nägid kari üles?",
+    "Meie naabruses on väike kari.",
+    "Laps mängis kari küljes."
   ],
   "translation": [
-    "career",
-    "profession",
-    "calling"
+    "cage",
+    "crate",
+    "basket",
+    "hamper"
   ],
-  "context": "The word 'kari' in Estonian refers to a person’s long-term work life or profession. It is similar to the English word ‘career’, and can also imply a calling or vocation."
+  "context": "The Estonian word 'kari' refers to a container or enclosure, typically made of wire, wood, or other materials. It can mean a cage for animals, a crate for storage or transport, a basket for carrying items, or a hamper for laundry. The word is used in various contexts depending on what type of container it refers to."
 }

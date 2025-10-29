@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vastas tema küsimusele.",
-    "Ta võttis telefoni ja vastas.",
-    "Kui ma talle helistasin, ei vastanud keegi."
+    "Ta vastas küsimusele.",
+    "Mees ei vastanud kõigele.",
+    "Naised vastavad kiiresti."
   ],
   "translation": [
     "answered",
-    "responded"
+    "responded to",
+    "replied"
   ],
-  "context": "The word 'vastas' is a verb in Estonian that means to answer or respond to something or someone."
+  "context": "The word 'vastas' is the past tense form of the Estonian verb 'vasta', which means 'to answer' or 'to respond'. It is used when someone has given a response or reply to something, such as a question, statement, or situation. In the examples provided: 1) 'Ta vastas küsimusele' means 'He/she answered the question.' 2) 'Mees ei vastanud kõigele' means 'The man did not respond to everything.' 3) 'Naised vastavad kiiresti' means 'The women answer quickly.' - note that here we see the present tense plural form 'vastavad' showing how this verb conjugates in different tenses."
 }

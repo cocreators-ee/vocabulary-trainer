@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kirjutatud palju raamatuid.",
-    "Kirjutatud tekstid on sageli valesti mõistetud.",
-    "See dokument on kirjutatud vanas keeles."
+    "Raamat on kirjutatud eesti keeles.",
+    "Artikkel oli täielikult kirjutatud ühe päevaga.",
+    "See dokument on hästi kirjutatud ja selge."
   ],
   "translation": [
-    "written"
+    "written",
+    "composed",
+    "drafted"
   ],
-  "context": "The word 'kirjutatud' is the past participle form of the Estonian verb 'kirjutama', which means to write. It is commonly used in sentences to describe something that has been written, such as a book or a document."
+  "context": "The word 'kirjutatud' is the past participle form of the Estonian verb 'kirjutama', which means 'to write'. It indicates that something has been written or composed. The '-tud' ending is a common suffix for forming past participles in Estonian, similar to '-ed' in English. This word can be used to describe books, articles, documents, or any text that has been created through writing."
 }

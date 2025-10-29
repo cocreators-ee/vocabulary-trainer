@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on tavaline inimene.",
-    "Tavalised inimesed ei saa seda teha.",
-    "See on tavaline nähtus."
+    "See on tavaline nähtus.",
+    "Tavaliselt saabub buss kell seitse.",
+    "Meie kooli tavalised õpetajad on head."
   ],
   "translation": [
     "ordinary",
-    "usual",
-    "normal"
+    "common",
+    "normal",
+    "typical",
+    "usual"
   ],
-  "context": "The word 'tavaline' is commonly used to describe something that is normal or usual, and it can be translated to English as 'ordinary', 'usual', or 'normal'."
+  "context": "The Estonian word 'tavaline' is an adjective that means ordinary, common, normal, typical or usual. It describes something that is regular, not special or unusual. The word can be used to describe everyday situations, common occurrences, or things that are considered standard or average. In Estonian adjectives have gender and number agreement, so 'tavaline' would change form depending on what it's describing (e.g., tavalised for plural masculine)."
 }

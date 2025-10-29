@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kui tõeline paadi.",
-    "Minu isiklik paadi.",
-    "Paadist kandis kergesti."
+    "Ma ostsin uue paadi.",
+    "Paadid hulpuvad sadamas.",
+    "See väike paadi on meie parim."
   ],
   "translation": [
-    "a small boat",
-    "small ship"
+    "boat",
+    "small boat"
   ],
-  "context": "The term refers to a type of watercraft that's smaller in size, often used for leisure or fishing activities."
+  "context": "The word 'paadi' is the partitive form of 'paat', meaning 'boat' in English. In Estonian, the partitive case is often used to indicate an object that is being acted upon or exists partially. So 'paadi' can mean 'of a boat', 'some boat', or refer to the concept of a boat in general when it's not the direct subject but rather what is being possessed, modified, or exists partially."
 }

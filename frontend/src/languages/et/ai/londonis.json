@@ -1,14 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta elab Londonis.",
-    "Me läheme homme Londonisse.",
+    "Londonis on ilus linn.",
+    "Me peame minema Londonisse.",
     "Kas sa oled kunagi käinud Londonis?"
   ],
   "translation": [
-    "in London",
-    "to London"
+    "in London"
   ],
-  "context": "The word 'londonis' is an Estonian adverbial case form meaning 'in London'. It indicates location and is used to specify where something or someone is situated. It’s formed by adding the adessive case ending '-s' to the name of the city, London."
+  "context": "The word 'londonis' is the inessive case form of the proper noun 'London', indicating location within the city. In Estonian, the inessive case (-s ending) answers the question 'where?' and typically translates to 'in' + location name."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kurssi on hea.",
-    "Ma olen õppinud kurssil palju uut.",
-    "Kursused on erinevad."
+    "Tema läheb eesti keele kurssi.",
+    "Meie õpime prantsuse keelt kursil.",
+    "Õpilased on juba lõpetanud inglise keele kursi."
   ],
   "translation": [
     "course",
-    "class"
+    "class",
+    "lesson"
   ],
-  "context": "The word 'kurssi' in Estonian generally refers to a series of lessons or classes taught at a school or university, similar to the English words 'course' or 'class'."
+  "context": "In Estonian, 'kurssi' is the partitive case form of the word 'kursus', which means a course or class. The partitive case in Estonian typically indicates an incomplete action, but here it's used to specify being enrolled in or attending a specific course. This form would be used when talking about being in a particular class or studying a particular subject."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tema kõnnes oli rõõmus hääletoon.",
-    "Ta õppis kõnni lugeda enne kui ta saab teha eksami.",
-    "See raamat selgitab hästi kõnni ja kirja vahet."
+    "Kõnni siia!",
+    "Ma olen kõndinud parkis.",
+    "Sa peaksid rohkem kõndima."
   ],
   "translation": [
-    "speech",
-    "reading (in the context of learning to read)"
+    "walk",
+    "go on foot",
+    "stroll"
   ],
-  "context": "'kõnni' primarily refers to speech or spoken language. In educational contexts, especially for children, it can also refer to reading aloud or the act of reading. It is commonly used in phrases related to speaking and literacy development."
+  "context": "The word 'kõnni' is the imperative form of the verb 'kõndima' which means 'to walk'. It's a command telling someone to walk or go somewhere. In Estonian, it follows the standard conjugation pattern where '-ma' verbs become '-mi' in the imperative form when addressing someone directly (singular)."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Viimasel aastal läks meie kooli arvutite arv kahekordseks.",
-    "Ta sündis viimasel sajandil.",
-    "Minu õde tõusis viimase laine korral."
+    "Tere tulemast meie viimasel päeval!",
+    "Kõige ilusamad on sellel aasta viimasel nädalavahetusel.",
+    "Ta jõudis linnaga viimasel hetkel."
   ],
   "translation": [
-    "last"
+    "last",
+    "final",
+    "latest"
   ],
-  "context": "'Viimasel' is used to indicate the last in a sequence, such as the last year, century or wave. It is commonly used in temporal contexts to denote something that happened most recently before now."
+  "context": "The word 'viimasel' is the adessive case of the Estonian superlative adjective 'viimane', meaning 'last' or 'final'. In this form, it indicates location, time, or relationship with something. It functions as an adverbial modifier that shows when something happened (at the last moment), where something occurred (in the last place), or refers to something being final in a sequence of things."
 }

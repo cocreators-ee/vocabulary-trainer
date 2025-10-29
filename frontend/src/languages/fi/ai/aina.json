@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on aina valmis auttamaan",
-    "Aina kun hän tulee, meillä on hauskaa",
-    "Tämä tapahtuu aina kesällä"
+    "Aina on hieno päivä.",
+    "Hän tulee aina ajoissa.",
+    "Meidän talossa on aina valoa."
   ],
   "translation": [
     "always",
-    "every time"
+    "constantly",
+    "continuously"
   ],
-  "context": "The word 'aina' in Finnish means 'always' or 'every time', and it is commonly used to describe a recurring action or a permanent state."
+  "context": "The Finnish word 'aina' is an adverb that expresses the concept of perpetuity or continuous occurrence. It corresponds to English words like 'always,' 'constantly,' or 'continuously.' This word doesn't change form based on gender or number in Finnish as it's an adverb. In sentences, it typically appears before the verb it modifies, similar to many other adverbs in Finnish."
 }

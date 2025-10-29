@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen vaba inimene",
-    "Ta on vabad mehed",
-    "Nad on vabade inimeste hulgas"
+    "Ta on vabad mehed.",
+    "Naised said vabaduse pärast sõja.",
+    "Meie vabad päevad on möödas."
   ],
   "translation": [
     "free",
-    "liberated"
+    "liberated",
+    "independent"
   ],
-  "context": "The word 'vabad' in Estonian means being free or liberated, and it is commonly used to describe someone who has the ability to make their own choices or is not restricted by external factors."
+  "context": "The word 'vabad' is the plural nominative form of an adjective in Estonian. It means 'free' when referring to multiple people or things that are not bound, restricted, or under control. The root 'vaba' indicates freedom or liberty, and the ending '-d' makes it plural. This form is used with plural subjects in the nominative case."
 }

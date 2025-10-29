@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See puutub mindagi",
-    "Ta teatas, et see puutub teda otseselt",
-    "Kas see puutub sind"
+    "Tema puudutas mind oma käega.",
+    "Kes puutub sellele kile?",
+    "Meie tegevused puutuvad kokku igapäevaselt."
   ],
   "translation": [
+    "touches",
+    "reaches",
+    "relates to",
     "concerns",
-    "affects"
+    "involves"
   ],
-  "context": "The word 'puutub' in Estonian is commonly used to describe something that has an impact or influence on someone or something, often in a direct or significant way."
+  "context": "The Estonian word 'puutub' is the third-person singular present form of the verb 'puuduma/puutuda'. It means 'touches', 'reaches', or 'relates to/concerns/involves'. This verb can be used both physically (touching something with a hand) and metaphorically (when topics, people, or situations are related or connected). The root word is 'puud-', which relates to contact or connection."
 }

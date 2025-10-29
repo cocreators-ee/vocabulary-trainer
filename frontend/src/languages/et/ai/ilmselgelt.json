@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta vastas ilmselgelt",
-    "Ilmselgelt see polnud võimalik",
-    "Kõik oli ilmselgelt vale"
+    "See on ilmselgelt tõsi.",
+    "Ilmselgelt tuleb ta homme kohale.",
+    "Ta tegi ilmselgelt viga."
   ],
   "translation": [
     "obviously",
     "clearly",
-    "evidently"
+    "evidently",
+    "plainly"
   ],
-  "context": "The word ilmselgelt is an adverb in Estonian that means something is obvious or evident, often used to convey a sense of certainty or clarity."
+  "context": "The word 'ilmselgelt' is an Estonian adverb that means 'obviously', 'clearly', or 'evidently'. It's used to indicate that something is self-evident or apparent without needing further explanation. The word can be broken down as 'ilm-' (related to 'ilm' meaning world/surface) and '-selgelt' (meaning clearly/evidently), so literally it suggests something is clear on the surface."
 }

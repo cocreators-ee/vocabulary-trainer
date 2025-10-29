@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mäletad sa mind?",
-    "Ma ei mäleta seda.",
-    "Kas sa mälled kellegi?"
+    "Mäleta mind homsel.",
+    "Tere tulemast, ma ei mäleta sind.",
+    "Kas sa mäletad seda päeva?"
   ],
   "translation": [
-    "remember",
-    "recall"
+    "to remember",
+    "to recall",
+    "to keep in mind"
   ],
-  "context": "Used to express the act of remembering or recalling something. Common in both spoken and written Estonian."
+  "context": "The Estonian word 'mäleta' is the infinitive form of a verb meaning 'to remember' or 'to recall'. It's commonly used when referring to the act of remembering something, whether it's an event, person, piece of information, or instruction. The verb can be conjugated in various tenses and moods depending on the context (mäletan - I remember, mäletas - he/she/it remembered, mäleta mind - remember me)."
 }

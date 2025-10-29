@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on õppinud kogu tema elu üksnes enda isale.",
-    "Miks sa ei olnud siis eelmisel nädalal õppinud?",
-    "Ma ei mõista, miks nad pole kunagi õppinud."
+    "Õppisin eesti keelt kolm aastat.",
+    "Ta on õppinud meditsiini ülikoolis.",
+    "Meie lapsed on juba head lugemist õppinud."
   ],
   "translation": [
     "learned",
-    "studied"
+    "studied",
+    "acquired knowledge of"
   ],
-  "context": "'Õppinud' means that someone has studied or learned something. It is often used to describe the process of acquiring knowledge through study or experience."
+  "context": "Õppinud is the past participle form of the Estonian verb 'õppima', which means 'to learn' or 'to study'. It indicates that someone has completed the action of learning something. The word can be used to describe what a person has learned (e.g., subjects, skills) where it typically follows the subject and often requires an object specifying what was learned."
 }

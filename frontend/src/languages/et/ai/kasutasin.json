@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kasutasin seda asja juba varem.",
-    "Ta kasutasin suuviimaseks kassidega leitakse.",
-    "Ma ise kasutasin oma tarkvara selleks.",
-    "Oled sa kindel, et ta kasutasin selles kontekstis õigesti?"
+    "Ma kasutasin oma nutitelefonist.",
+    "Ta kasutasis eelmisel nädalal uut programmi.",
+    "Mees kasutasin kõrgeid kingaid tööle minnes."
   ],
   "translation": [
     "used",
-    "have used"
+    "utilized",
+    "made use of"
   ],
-  "context": "The word 'kasutasin' is the past tense form of the Estonian verb 'kasutada', which means to use. It indicates that an action of using something was completed in the past."
+  "context": "The word 'kasutasin' is the 1st person singular past tense form of the verb 'kasutama', which means 'to use' in English. It indicates that the speaker performed the action of using something in the past. The '-sin' ending is characteristic of Estonian past tense conjugation for the first person singular (I)."
 }

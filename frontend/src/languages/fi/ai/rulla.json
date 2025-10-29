@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän meni rullaamaan koiransa kanssa",
-    "Rullaus on hyvä liikunta",
-    "Rulla on myös joidenkin urheilulajien väline"
+    "Minä rullan paperia toimistossa.",
+    "Hän on rullannut mattoja yli vuoden ajan.",
+    "Lapset rulivat alas mäkeä."
   ],
   "translation": [
-    "to roll",
-    "roller",
-    "roll"
+    "roll",
+    "roller-skate",
+    "tumble down"
   ],
-  "context": "The word 'rulla' in Finnish can be translated to English as 'to roll' or 'roller', and it is commonly used to describe the act of rolling something or someone, or referring to a roller as an object or device."
+  "context": "In Finnish, 'rulla' is a verb that means to roll or move by rolling. It can refer to rolling objects (like paper), performing activities like roller skating, or tumbling/downhill movement depending on context. The word changes form with suffixes: rullan (I roll), rullannut (has rolled)."
 }

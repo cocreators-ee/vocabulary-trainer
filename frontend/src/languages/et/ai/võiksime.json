@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Me võiksime minna kinno.",
-    "Võiksime aidata teda.",
-    "Kas võiksime teha midagi?",
-    "Ma võiksime olla abivalmis."
+    "Võiksime kohtuda homme kell kaks.",
+    "Me võiksime arutada seda küsimust veel veidi.",
+    "Võiksin teil midagi pakkuda?"
   ],
   "translation": [
-    "we could",
-    "we might"
+    "could (we)",
+    "might (we)",
+    "should (we)"
   ],
-  "context": "The word \"võiksime\" in Estonian is the first person plural form of the verb \"võiksin\", which means to be able or can, used in the conditional mood to express possibility or ability."
+  "context": "The Estonian word 'võiksime' is the conditional form of the verb 'võima' (to be able/can) with the first person plural pronoun suffix. It expresses possibility, suggestion, or politeness in a hypothetical situation, equivalent to 'could we', 'might we', or 'should we' in English. It's commonly used when making suggestions or expressing what might be possible under certain conditions."
 }

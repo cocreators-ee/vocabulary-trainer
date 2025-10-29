@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Se on hyvin mukava henkilö",
-    "Henkilöllä on oikeus salassapitosopimukseen",
-    "Tuntematon henkilö astui sisälle"
+    "Tämä henkilö on minun ystäväni.",
+    "Henkilö auttoi minua kadulla.",
+    "Olemme tavanneet monta tätä henkilöä."
   ],
   "translation": [
     "person",
-    "individual"
+    "individual",
+    "human being"
   ],
-  "context": "The word henkilö refers to a person or an individual in Finnish, and it is commonly used in formal and informal contexts to denote a human being."
+  "context": "The Finnish word 'henkilö' means person or individual. It's a common noun used to refer to any human being, whether male or female. The word is in the singular nominative form in these examples. When used in different grammatical cases or with plural forms, it would change (e.g., 'henkilön' for genitive case meaning 'of a person', 'henkilöt' for plural meaning 'persons')."
 }

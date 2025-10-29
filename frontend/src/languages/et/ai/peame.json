@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me peame seda tegema.",
-    "Ta peab olema õigel ajal kohal.",
-    "Nad peavad tulema homme."
+    "Me peame minema kohe.",
+    "Tead sa, et me peame tegema kodutööd?",
+    "Kuidas me peame seda lahendama?"
   ],
   "translation": [
     "must",
-    "have to"
+    "have to",
+    "need to"
   ],
-  "context": "The word 'peame' is used in Estonian to express necessity or obligation, similar to the English phrase 'have to'."
+  "context": "The word 'peame' is the first person plural form of the Estonian verb 'pidama', which means 'to must' or 'to have to'. It's used when talking about what we (the speaker and others) need to do. The word combines the pronoun 'me' (we) with the modal verb 'pea' (must/have to) in a specific conjugated form for first person plural present tense."
 }

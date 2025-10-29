@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen saksa keelt kuidagi õppinud.",
-    "Saksa on keeruline keel.",
-    "Ta räägib saksa keelt väga hästi."
+    "Ma õpin saksa keelt.",
+    "Tema on pärit Saksamaalt ja räägib saksa keelt natively.",
+    "Meil on vaja tõlkida dokument saksa keelde."
   ],
   "translation": [
     "German",
-    "Germany"
+    "German (language)",
+    "German language"
   ],
-  "context": "The word 'saksa' in Estonian refers to something related to Germany or the German language, and is commonly used when talking about the country, its culture, or its people."
+  "context": "In Estonian, 'saksa' is an adjective that means 'German'. It refers to anything related to Germany or the German language. When used as a noun, it specifically means the German language. For example, when someone says 'õpin saksa keelt', they mean 'I am learning the German language'. The word can also refer to German people or things from Germany in general."
 }

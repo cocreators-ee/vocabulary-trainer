@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Miks ta kingi siia?",
-    "Ta kartsis kinga jäle.",
-    "Ära kingi!"
+    "Kingi oli väga hea näitleja.",
+    "Me käisime kingi eelkontserdil.",
+    "Ta sai kingi auhinna parima näitleja kategoorias."
   ],
   "translation": [
-    "come here",
-    "to come here",
-    "here"
+    "king",
+    "royalty",
+    "monarch"
   ],
-  "context": "The word 'kingi' is used to indicate coming to a specific place, often with an imperative or question form."
+  "context": "The word 'kingi' appears to be in the Estonian genitive case, meaning it translates to 'of the king' or 'belonging to the king'. In Estonian grammar, the -i ending often indicates possession or association. The base form would likely be 'kuningas' which means 'king' in nominative case."
 }

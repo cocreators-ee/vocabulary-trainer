@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Valtameret peittävät suuren osan maapallosta.",
-    "Hänen unelmansa on purjehtia valtamerellä.",
-    "Valtameri on täynnä saloja."
+    "Atlantin valtameri on maailman suurin meri.",
+    "Tyynenmeren valtameri kattaa yli puolet Maan pinnasta.",
+    "Valkoisessa merialueella on useita pienempiä saaria ja lahtia."
   ],
   "translation": [
-    "ocean"
+    "ocean",
+    "great sea"
   ],
-  "context": "The word valtameri refers to a vast body of saltwater that covers a significant portion of the Earth's surface, and it is commonly used in Finnish to describe the world's oceans."
+  "context": "The word 'valtameri' is a compound Finnish word meaning 'ocean' or 'great sea'. It's formed from 'valta-' (meaning great, mighty) and '-meri' (meaning sea). In Finnish, this term specifically refers to the world's large oceans rather than smaller seas. The plural form would be 'valtamereet'. This word is commonly used in geography contexts when discussing the Earth's major bodies of water."
 }

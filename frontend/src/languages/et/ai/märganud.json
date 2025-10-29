@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen märganud, et see on hea film.",
-    "Ta oli märganud, et auto oli vigane.",
-    "Me oleme kõik märganud, et ilm on soeja."
+    "Märganud, et sa tuled homme.",
+    "Ta on märganud mu uue juuksestiili.",
+    "Oleme märganud, et ta on viimaste päevadega väga väsinud."
   ],
   "translation": [
     "noticed",
+    "spotted",
     "observed",
-    "perceived"
+    "seen"
   ],
-  "context": "The word 'märganud' is the first person singular form of the verb 'märkama', which means to notice or observe something. It is commonly used in sentences where someone has become aware of a fact, situation, or object."
+  "context": "Märganud is the past participle form of the Estonian verb 'märgama', which means to notice or observe. It indicates that someone has seen or noticed something in the past. The word can be used as an adjective or as part of compound tenses, often appearing before a clause starting with 'et' (that) to introduce what was noticed."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta näeb mind silmist.",
-    "Ma olen tema silmist välja.",
-    "Ta ei võta mind silmast."
+    "Tema vaatab meid silmist.",
+    "Ta sai selle teada silmis.",
+    "Põgeneda silmi alt."
   ],
   "translation": [
-    "from the eyes",
-    "out of sight"
+    "from the eye",
+    "from sight",
+    "visually"
   ],
-  "context": "The word 'silmist' in Estonian is used to indicate something is seen or perceived from someone's point of view, often literally meaning 'from the eyes', but can also imply that something or someone is no longer visible or has been ignored."
+  "context": "The Estonian word 'silmist' is an adessive case form derived from 'silma' (eye). It typically means 'from the eye' or 'from sight', indicating something originating visually or being perceived through sight. In English, it can be translated as 'from the eye', 'from sight', or more contextually as 'visually'. This form is used when describing something that comes from visual perception or escapes one's gaze."
 }

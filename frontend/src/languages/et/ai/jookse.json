@@ -1,17 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Jookse peale!",
-    "Mina ei jooksa.",
-    "Joo pideva käigu.",
-    "Tema eest jookseb kiiresti."
+    "Jookse kiiresti!",
+    "Tüdruk jooksis mööda teed.",
+    "Meie koer jookseb alati pargis."
   ],
   "translation": [
     "run",
-    "to run",
-    "run (imperative)",
-    "runs"
+    "sprint",
+    "dash"
   ],
-  "context": "'jookse' is the first person singular form of 'to run', as well as the imperative. It can also be a noun meaning 'a run'. Commonly used in physical activity contexts like exercise or fleeing."
+  "context": "The word 'jookse' is the imperative form of the verb 'jooksma', which means 'to run'. In Estonian, the imperative form is used to give a command or instruction. The infinitive form would be 'jooksma', while other forms include 'jooksen' (I run), 'joostud' (he/she/it runs), etc."
 }

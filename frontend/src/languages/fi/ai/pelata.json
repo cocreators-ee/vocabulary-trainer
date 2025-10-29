@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä pelasin paljon videopelien kanssa lapsena",
-    "Hän on pelaamassa jalkapalloa puistossa",
-    "He pelasivat koko illan shakkia"
+    "Minä pelaan lautapelejä viikonloppuisin.",
+    "Hän pelaa jalkapalloa hyvin.",
+    "Me pelaamme tennistä joka päivä."
   ],
   "translation": [
     "to play",
-    "play"
+    "to participate in a game or sport"
   ],
-  "context": "The word 'pelata' is a verb in Finnish that means to play, and it is commonly used in various contexts such as playing games, sports, or musical instruments."
+  "context": "The Finnish verb 'pelata' means 'to play' and is used for games, sports, musical instruments, and other activities where one participates actively. It's commonly followed by the partitive case when indicating what activity is being played."
 }

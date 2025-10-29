@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä on suuri auto",
-    "Suuret talot ovat kalliita",
-    "Hänellä on suuri intohimo elokuviin"
+    "Tämä on suuri talo.",
+    "Hän on suuri mies.",
+    "Minulla on suuri unelma."
   ],
   "translation": [
     "big",
     "large",
-    "great"
+    "great",
+    "huge"
   ],
-  "context": "The word 'suuri' in Finnish means something that is of a considerable or impressive size, amount, or extent, and it is commonly used to describe objects, places, or ideas."
+  "context": "The Finnish word 'suuri' is an adjective that means big, large, great, or huge. It's used to describe the size of objects or people, or to express greatness in a qualitative sense (like a dream or achievement). The word appears in different cases depending on how it's used in a sentence. For example, 'suuri talo' means 'a big house', with 'suuri' in nominative case."
 }

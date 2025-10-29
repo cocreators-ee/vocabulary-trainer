@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta helistab kõige rohkem öösel.",
-    "Helistamine on väga müra tekitav.",
-    "Kui palju inimesi helistavad samal ajal?"
+    "Ma helistan oma emale.",
+    "Ta helistas sõbrale ja küsis, kas too tuleb kohtumisele.",
+    "Helistasin numbril 555-1234."
   ],
   "translation": [
+    "to call",
     "to ring",
-    "to call"
+    "to phone"
   ],
-  "context": "The word 'helistada' is commonly used to describe the act of making a phone call or causing a ringing sound, and it is often used in everyday conversations to talk about communication or noise."
+  "context": "The Estonian verb 'helistada' means to call someone on the telephone. It's used when you intentionally make a phone call to someone, similar to how we use 'call', 'ring', or 'phone' in English. The word can be conjugated into different forms depending on the subject and tense (e.g., helistan - I call, helistas - he/she called)."
 }

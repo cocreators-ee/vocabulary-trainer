@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma töötan tunnis.",
-    "Ta sai tunnis head arvestust.",
-    "Tunnis on õpilasele vajalik."
+    "Tööd tunnis on raske.",
+    "Õpilased kirjutavad tunnis kontrolltööd.",
+    "Mees rääkis tunnis pikkalt."
   ],
   "translation": [
-    "hour",
-    "lesson"
+    "in the hour"
   ],
-  "context": "The word 'tunnis' in Estonian refers to a period of time, typically an hour, often used in the context of school lessons or classes."
+  "context": "The word 'tunnis' is an Estonian adessive case form of 'tund', which means 'hour'. It indicates location or time within an hour. The '-s' ending indicates it's in the adessive case, meaning 'in/at on/upon' something - in this case, 'in the hour'."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See ei juhtunud ennegi.",
-    "Ma ei usknda seda ennegi.",
-    "Kas sa arhi mõista mind? - Etnegi mitte."
+    "Ennegi ei ole nii kallis.",
+    "Mul on ennegi palju tööd.",
+    "See oli ennegi parem variant."
   ],
   "translation": [
-    "not at all",
-    "by no means"
+    "not yet",
+    "still not",
+    "even so far"
   ],
-  "context": "'en' is a negative particle in Estonian while 'egi' is a form of the word 'ei' (which also can be used as a negation). The word 'ennegi' is an emphatic expression for total denial or negation and literally translates to 'not at all'. It emphasizes that something did not happen, cannot happen or should not happen."
+  "context": "The Estonian word 'ennegi' is used to express that something has not happened or been achieved up to the present moment. It functions as an adverb indicating a lack of completion, similar to English phrases like 'not yet', 'still not', or 'even so far'. The word typically appears in sentences where there's an expectation that something should have occurred but hasn't happened at the time of speaking."
 }

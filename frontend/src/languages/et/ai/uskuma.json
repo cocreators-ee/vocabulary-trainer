@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma uskun, et see on tõsi.",
-    "Ta ütles, et uskuma ei saa.",
-    "Uskuma on raske, kuid see on vajalik."
+    "Uskume et ta tuleb homme.",
+    "Ma uskun, et see on õige vastus.",
+    "Kas sa usud sellesse?"
   ],
   "translation": [
-    "believe",
-    "trust"
+    "to believe",
+    "to trust",
+    "to have faith in"
   ],
-  "context": "The word 'uskuma' in Estonian means to believe or trust something, and it is commonly used in sentences to express conviction or faith in a particular idea or statement."
+  "context": "The word 'uskuma' is an Estonian verb meaning to believe or trust. It's the infinitive form of the verb. The stem 'usku-' relates to belief, trust, or faith, and '-ma' is the infinitive suffix in Estonian. This verb can be used when expressing belief in something, trusting someone, or having faith in an idea or person."
 }

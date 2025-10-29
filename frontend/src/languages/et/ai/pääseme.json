@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me pääseme sinna homme",
-    "Kas me pääseme täna õhtul kinno?",
-    "Ta pääses tööle"
+    "Pääseme homme linna.",
+    "Me pääseme kohe.",
+    "Kas teie pääsete ka?"
   ],
   "translation": [
-    "we get",
-    "we can go"
+    "we will arrive",
+    "we get to",
+    "we manage to reach"
   ],
-  "context": "The word 'pääseme' is the first person plural form of the verb 'pääseda', which means to get, arrive or be able to do something."
+  "context": "The Estonian word 'pääseme' is the 1st person plural present/future tense form of the verb 'pääsima', which means 'to arrive', 'to get to', or 'to reach'. It indicates that the speaker and others will be able to successfully arrive at a destination or achieve something. The word combines the root pääse- with the -me suffix indicating we (1st person plural) and has present/future tense aspect."
 }

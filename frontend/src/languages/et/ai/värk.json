@@ -1,13 +1,16 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina kiusin teda värka tegema.",
-    "Tema värk oli üpriski hämberlik.",
-    "Ära teha värki, kui me juba laulma alustasime."
+    "Värv on hea värk.",
+    "Töövõime on suur väärtus ja värk peab olema kvaliteetne.",
+    "Mehhanism töötab täiuslikult, kuid see väike värk tuleb parandada."
   ],
   "translation": [
-    "fart"
+    "work",
+    "job",
+    "labor",
+    "piece of work",
+    "handicraft"
   ],
-  "context": "A fart is a natural bodily function that can be intentionally done to embarrass or amuse others. In Estonian, it's referred to as 'värk' and using this word in daily conversation may vary from playful teasing to actual intentional flatulence."
+  "context": "The word 'värk' in Estonian has several related meanings. It can refer to work or labor in general, a specific job or task, handicrafts or handiwork, and can also mean a mechanical repair or fix needed on something. The connotation varies depending on context - from everyday tasks to professional work to mechanical repairs."
 }

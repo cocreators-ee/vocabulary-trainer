@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan veel koera",
-    "Veel inimesed ei tea seda",
-    "Ta on veel noor"
+    "Ma olen veel kodust ära.",
+    "Kas sa veel tahad midagi juua?",
+    "Töö veel ei ole valmis."
   ],
   "translation": [
-    "more",
     "still",
-    "yet"
+    "yet",
+    "more",
+    "again"
   ],
-  "context": "The word 'veel' is commonly used in Estonian to indicate a sense of addition or continuation, and can be translated to English as 'more', 'still', or 'yet', depending on the context in which it is used."
+  "context": "The Estonian word 'veel' has multiple meanings depending on context. It can mean 'still' or 'yet' when indicating continuation of a state (like in the first two examples), and it can also mean 'more' or 'again' when requesting additional quantity or repetition. In its basic form, it's an adverb that modifies verbs to show ongoing action or to indicate something hasn't changed yet."
 }

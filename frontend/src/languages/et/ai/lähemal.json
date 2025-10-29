@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lähemal koduseid olusid",
-    "Ta on lähemal õpetajat kui teised õpilased",
-    "Lähemal sügisele on ilm halb"
+    "Ma elan lähemal linna keskusest.",
+    "Töökoha jaoks otsin kinnisvara lähemalt äärest.",
+    "Sõbra maja on minu omaist lähemal."
   ],
   "translation": [
     "closer",
-    "nearer"
+    "nearer",
+    "more closely"
   ],
-  "context": "The word 'lähemal' in Estonian means closer or nearer to something, often used to describe physical proximity or a sense of closeness to someone or something."
+  "context": "The Estonian word 'lähemal' is the comparative form of the adjective 'lähi', meaning 'near'. It translates to English as 'closer' or 'nearer'. This form typically appears with the partitive case (-t) in sentences, indicating something that is nearer than another reference point. It's used when comparing distances between two objects."
 }

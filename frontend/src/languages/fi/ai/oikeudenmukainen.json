@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on oikeudenmukainen ja reilu tuomari.",
-    "Oikeudenmukaisuus on tärkein asia kaikessa.', "
+    "Oikeudenmukainen tuomari antoi oikean päätöksen.",
+    "Hänen toimintansa oli hyvin oikeudenmukainen.",
+    "Meidän pitää olla oikeudenmukaisia kaikkia kohtaan."
   ],
   "translation": [
+    "fair",
     "just",
-    "fair"
+    "impartial"
   ],
-  "context": "The word oikeudenmukainen is commonly used to describe something or someone that is just and fair, often in the context of law or morality."
+  "context": "The Finnish word 'oikeudenmukainen' is an adjective that means fair, just or impartial. It describes someone who acts according to what is morally right and proper, without favoritism or bias. The word is derived from 'oikeus' (justice/right) and the suffix '-en' indicating quality, with '-mukainen' meaning 'according to' or 'in accordance with'. So it literally means 'acting in accordance with justice'. When used, it typically describes people who are fair-minded in their decisions and actions."
 }

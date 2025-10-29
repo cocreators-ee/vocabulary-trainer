@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean vähe tema kohta.",
-    "Tal on vähe raha.",
-    "Vähesed inimesed oskavad seda keelt."
+    "Ma söö vähe juustu.",
+    "Ta räägib väe palju.",
+    "Meil on vähe aega."
   ],
   "translation": [
     "little",
-    "few"
+    "few",
+    "not much"
   ],
-  "context": "The word 'vähe' is an adverb and adjective in Estonian that means a small amount or quantity of something, and it is commonly used to describe the extent or degree of something."
+  "context": "The Estonian word 'vähe' is an adverb that means 'little', 'few', or 'not much'. It's used to indicate a small quantity of something. In the first example, it modifies 'juustu' (cheese) to mean 'I eat little cheese'. In the second example, it contrasts with 'palju' (much/many) to show minimal speech. In the third example, it indicates limited time availability."
 }

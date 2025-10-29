@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on pakko lähteä matkalle huomenna",
-    "Olen käynyt monilla matkoilla eri puolilla maailmaa",
-    "Matka kestää useita tunteja"
+    "Minulla on pitkä matka töihin.",
+    "Hän teki matkan Ranskaan.",
+    "Matka oli upea ja täynnä seikkailuja."
   ],
   "translation": [
-    "trip",
     "journey",
-    "travel"
+    "trip",
+    "travel",
+    "voyage"
   ],
-  "context": "The word 'matka' in Finnish refers to traveling from one place to another, and it is commonly used to describe a trip or a journey, whether it's for business or pleasure."
+  "context": "The Finnish word 'matka' means journey, trip, or travel in English. It refers to a journey from one place to another, whether it's for pleasure, business, or any other purpose. The word can be used both as a noun (a trip) and sometimes as part of compound words related to traveling."
 }

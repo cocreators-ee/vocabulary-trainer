@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän viettää suurimman osan ajastaan ulkomailla.",
-    "Me vietimme koko illan baarissa.",
-    "He viettävät kesälomansa Espanjassa."
+    "Vietän viikonlopun perheeni kanssa.",
+    "He vietivät illan ravintolassa.",
+    "Me vietämme juhlat kotona."
   ],
   "translation": [
-    "spend",
-    "pass",
-    "while away"
+    "to spend (time)",
+    "to pass (time)",
+    "to celebrate"
   ],
-  "context": "The word 'viettää' is commonly used in Finnish to mean spending or passing time, often in a leisurely or enjoyable manner, and it can be translated to English as 'spend', 'pass', or 'while away' depending on the context."
+  "context": "The Finnish verb 'viettää' is primarily used to describe spending time or passing time in a particular way. It's commonly followed by an object indicating the duration of time (like 'viikonloppu' - weekend, 'ilta' - evening) and how it's spent (often with the adessive case: 'perheen kanssa' - with family). The verb can also be used in contexts of celebrating occasions or events."
 }

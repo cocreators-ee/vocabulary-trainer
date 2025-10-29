@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma näen sind hiljem.",
-    "Hiljem võin minna kinno.",
-    "Ta läheb hiljem kaubamaja."
+    "Ma saan hiljem tööd.",
+    "Tuleme hillem kokku kohtumiseks.",
+    "Hiljem on parem mõelda kui tegutseda. "
   ],
   "translation": [
     "later",
-    "afterwards"
+    "afterwards",
+    "in the future"
   ],
-  "context": "The word 'hiljem' in Estonian means later or afterwards, and it is commonly used to indicate a future time or action that will take place after something else has happened."
+  "context": "The Estonian word 'hiljem' is an adverb that means 'later', 'afterwards', or 'in the future'. It indicates that something will happen at a time subsequent to the present moment. The word doesn't change form in different contexts and is commonly used in both spoken and written Estonian."
 }

@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan kunsti",
-    "Kunsti on võimalik õppida",
-    "Tema looming on tõeliselt kunst"
+    "Kunst on ilu.",
+    "Tema armastab kunsti.",
+    "Me vaatame kunstimuuseumi."
   ],
   "translation": [
-    "art",
-    "skill"
+    "art"
   ],
-  "context": "The word 'kunsti' in Estonian refers to art or skill, and it is commonly used to describe creative activities or talents."
+  "context": "The word 'kunsti' appears to be an Estonian word related to art. In the provided examples, it seems to function in contexts where 'art' would be used in English. However, 'kunsti' specifically appears to be in a possessive or partitive form rather than the nominative case. The base word 'kunst' means 'art', and '-i' is likely an ending indicating possession (like English \"of art\" or \"in art\")."
 }

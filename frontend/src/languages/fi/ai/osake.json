@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on osake yrityksessä.",
-    "Osakkeen arvo nousi.",
-    "Hän omistaa useita osakkeita."
+    "Minulla on osake yhtiössä.",
+    "Hän osti osakkeita pörssissä.",
+    "Osakekurssit nousivat tänään."
   ],
   "translation": [
-    "share",
-    "stock"
+    "stock",
+    "share"
   ],
-  "context": "The word 'osake' in Finnish refers to a share or stock in a company, and it is commonly used in financial contexts to describe ownership or investment in a business."
+  "context": "The Finnish word 'osake' means stock or share in English. It refers to a unit of ownership in a company or corporation. In Finnish, it's used when talking about investments in companies, stock markets, and corporate ownership. The word can appear in different forms depending on context - for example, 'osakkeet' would be the plural form meaning 'stocks/shares', and you might see genitive forms like 'osakkeen' meaning 'of a stock'."
 }

@@ -1,15 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän ei sanonut sanaakaan.",
-    "Tämä on tärkeä sana.",
-    "Sanoitko sinä sen?"
+    "Sana tarkoittaa sanaa.",
+    "Minulla on sanakirja.",
+    "Sanat ovat hauskoja."
   ],
   "translation": [
-    "word",
-    "say",
-    "speech"
+    "word"
   ],
-  "context": "The Finnish word 'sana' primarily translates to 'word' in English. It can also function as a verb meaning 'to say', and generally refers to units of language or speech."
+  "context": "The Finnish word 'sana' means 'word' in English. It is a common noun used to refer to a unit of language that has meaning and can be spoken or written. The word is used in various contexts when talking about vocabulary, definitions, or the concept of words themselves."
 }

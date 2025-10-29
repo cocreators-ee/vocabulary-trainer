@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See juhtus mulle eile.",
-    "Ta rääkis sellest juhtumist.",
-    "Juhtus talle midagi"
+    "Midagi juhtus teel kooli.",
+    "Õnnetus juhtus eile.",
+    "Täna ei midagi juhtus."
   ],
   "translation": [
     "happened",
-    "occurred"
+    "occurred",
+    "took place"
   ],
-  "context": "The word 'juhtus' is a verb in Estonian that means something happened or occurred to someone or something."
+  "context": "The word 'juhtus' is the past tense, 3rd person singular form of the Estonian verb 'juhtuma', which means to happen or occur. It's commonly used in everyday language to describe events that took place in the past. The root word 'juht-' relates to guidance or management, but in this context it simply indicates something happening or occurring without human intervention."
 }

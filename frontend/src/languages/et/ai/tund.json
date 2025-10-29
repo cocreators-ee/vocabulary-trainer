@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tundsin end hämmastunud.",
-    "Ta tundis mind väga.",
-    "Me tundime üksteist."
+    "Olen selles küsimuses nädal aega töötanud.",
+    "Kui sa tahad, et me kohtume kell viis tundi õhtul.",
+    "See on esimene kord, et ma olen siin nädal tundi."
   ],
   "translation": [
-    "feel",
+    "hour",
+    "time period",
+    "feeling",
     "sense"
   ],
-  "context": "The word 'tund' in Estonian means to feel or sense something, and it is commonly used in sentences to describe emotions or physical sensations."
+  "context": "The Estonian word 'tund' has multiple meanings. It can mean 'hour' (as in time measurement), a 'time period', or it can refer to feelings/senses like 'feeling' or 'sense'. For example, when referring to time: kell viis tundi = 5 o'clock; nädal aega = for a week's time. When referring to feelings: mul on hea tund = I have a good feeling."
 }

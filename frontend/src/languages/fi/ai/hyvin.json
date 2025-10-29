@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hyvin hänellä kului aika.",
-    "Ei hyvin, ei huonosti.",
-    "Hyvin suuret tappiot."
+    "Hyvin menee!",
+    "Hän puhuu hyvin suomea.",
+    "Olen hyvin väsynyt."
   ],
   "translation": [
-    "very well",
     "well",
-    "quite"
+    "very",
+    "good"
   ],
-  "context": "'hyvin' is an adverb in Finnish meaning 'very well', 'well', or 'quite'. It can describe the state of something, the quality of performance, and often modifies verbs to indicate how an action is performed. In some contexts it might translate to 'quite' when used with adjectives."
+  "context": "The Finnish word 'hyvin' is an adverb that means 'well' or 'very'. It's commonly used to indicate the quality of an action (how well something is done) or as an intensifier to mean 'very' when modifying adjectives. In colloquial speech, it can also serve as a standalone response meaning 'good' or 'fine'. Its usage varies depending on context - with verbs it modifies how the action is performed, while with adjectives it intensifies their degree."
 }

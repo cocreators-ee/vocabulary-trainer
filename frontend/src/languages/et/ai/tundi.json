@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See film kulus mulle ühe tundi.",
-    "Ma olen sellest huvipakkuvast teemast juba kaks nädalat järjest tundideks kirgutanud.",
-    "Kooliõhtu algas ja kestis kolm tundi."
+    "Tund aega on möödunud.",
+    "Olen tundi töötanud.",
+    "Palun oota natuke tundi."
   ],
   "translation": [
     "hour",
-    "hours"
+    "time",
+    "o'clock"
   ],
-  "context": "Tundi is the partitive plural form of 'tund' meaning hour. It's commonly used to denote a period or duration, often with verbs like spend, take, last."
+  "context": "The word 'tundi' is the partitive case of 'tund', meaning hour or time. It's used to indicate duration, quantity, or specific time references in Estonian."
 }

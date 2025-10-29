@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu isad on väga tänulikud sulle.",
-    "Ta isad tegi kõnealuse projektide elluviimiseks.",
-    "Kas sa tean, miks tema isad kannatavad?"
+    "Ta on id.",
+    "Me oleme id.",
+    "Nad on id."
   ],
   "translation": [
-    "fathers",
-    "father did (in a general sense)",
-    "dads'"
+    "they",
+    "those people"
   ],
-  "context": "'id' refers to fathers or dads in plural form. It's used when talking about more than one father figure."
+  "context": "The Estonian word 'id' is a third person plural pronoun meaning 'they' or 'those people'. It is used to refer to multiple persons or entities, typically as the subject of a sentence. In its base form without any suffixes or cases, it represents the nominative case used for subjects."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Desimaalinen lukuarvo on tarkka.",
-    "Hänen desimaalitaitonsa oli erinomainen.",
-    "Desimaalin muunnos tehtiin nopeasti."
+    "Tässä on desimaalin mittainen viiva.",
+    "Minun piti desimaalin tarkkuudella mitata.",
+    "Hän kirjoitti numeron desimaalin precision."
   ],
   "translation": [
-    "decimal",
+    "decimal place",
     "decimal point",
-    "decimal system"
+    "tenth"
   ],
-  "context": "The word 'desimaalin' in Finnish refers to something related to decimals, such as a decimal number or the decimal system, and is commonly used in mathematical contexts to describe numerical values or conversions involving decimal points."
+  "context": "\"Desimaalin\" is a Finnish word that refers to \"a decimal place\" or \"a tenth part of something.\" It comes from the root word \"desimaali\" (decimal) and the suffix \"-in\" which indicates location or position. In mathematics, it specifically means one digit after the decimal point, representing tenths. For example, in the number 3.14, the '1' is in the first desimaalin place (tenths place). The word is commonly used when discussing precision in measurements or calculations."
 }

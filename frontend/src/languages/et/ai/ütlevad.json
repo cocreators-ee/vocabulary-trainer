@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nad ütlevad, et see on hea raamat.",
-    "Ma ütlen, et ta on ilus tüdruk.",
-    "Ta ütles, et tema nimi on Mari."
+    "Kes ütlevad?",
+    "\"Mis ütlevad?\"",
+    "Mehed ütlevad, et see on hea idee."
   ],
   "translation": [
     "say",
     "tell",
-    "speak"
+    "state"
   ],
-  "context": "The word ütlevad is a verb in Estonian that means to say or tell something, and it is commonly used in sentences to express opinions or statements."
+  "context": "Ütlevad is the 3rd person plural present indicative form of the Estonian verb 'ütelda' (to say/tell). It means 'they say' or 'they tell'. This form is used when referring to what a group of people are saying. The root word 'ütle-' relates to speaking or expressing, and the '-vad' ending indicates present tense plural subject."
 }

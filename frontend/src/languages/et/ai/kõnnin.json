@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kõnnin lõunani päikeseloojanguks.",
-    "Ta kõnnis huviorbiidi juurde põgenemiseks.",
-    "Neid ei jäänud kunsti mõista, et nad alahindavad kõnnet."
+    "Ma kõnnin mööda tänavat.",
+    "Ta kõnnis pargis hommikul.",
+    "Me kõnnime rannas päeval."
   ],
   "translation": [
-    "to walk"
+    "walked (past tense)",
+    "was walking",
+    "went on foot"
   ],
-  "context": "'kõnnin' means to walk or go somewhere on foot. It's commonly used in describing movements through places like streets, forests, or during daily routines."
+  "context": "The word 'kõnnin' is the first-person singular past tense form of the Estonian verb 'kõndima', which means 'to walk'. It indicates that someone walked or was walking in the past. This form specifically refers to a male speaker saying 'I walked'."
 }

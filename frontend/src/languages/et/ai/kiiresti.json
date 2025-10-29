@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis kiiresti üldvaade",
-    "Kiiresti kasvav turism on muutnud kohalikku elu",
-    "Me peame tegutsema kiiresti"
+    "Kiiresti palun!",
+    "Ta jooksis kiiresti mööda teed.",
+    "Me peame liikuma kiiresti."
   ],
   "translation": [
     "quickly",
     "fast",
-    "promptly"
+    "rapidly"
   ],
-  "context": "The word kiiresti is an adverb in Estonian that means doing something quickly or fast, it is commonly used to describe actions that need to be performed promptly or without delay."
+  "context": "The word 'kiiresti' is an adverb in Estonian that means quickly or fast. It modifies verbs to indicate speed or haste. The base form of the adjective is 'kiire' (quick/fast), and when formed into an adverb, it takes the '-sti' suffix which is a common way to form adverbs from adjectives in Estonian."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta hoolitses oma vanemate eest",
-    "Hoolt on väga oluline osa hoolduses",
-    "Hoolitsemine on meditsiini valdkond"
+    "Hoolt on hea tervis.",
+    "Ta võtab oma töö hoolt.",
+    "Me peaksime olema rohkem hooltsad."
   ],
   "translation": [
-    "care",
-    "nursing"
+    "careful",
+    "attentive",
+    "cautious"
   ],
-  "context": "The word 'hoolt' in Estonian generally refers to the act of taking care of someone or something, often in a medical or professional context."
+  "context": "The word 'hoolt' is an adverbial form in Estonian that means 'carefully' or 'attentively'. It indicates doing something with care, attention, and caution. In the example sentences, it shows how this adverb modifies actions to emphasize careful execution."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tahan seda justkui ema.",
-    "Ta räägib justkui isa.",
-    "Justkui sa oled minu vend."
+    "Justkui oleks ta olnud siin",
+    "Ta tegutses justkui tal oleks kõik lubatud",
+    "Justkui ta ei peaks midagi tasuma"
   ],
   "translation": [
-    "just like",
-    "as if"
+    "as if",
+    "like",
+    "seeming to be"
   ],
-  "context": "The word justkui is used in Estonian to make comparisons, indicating that something is similar or equivalent to something else."
+  "context": "The Estonian word 'justkui' is a conjunction used to introduce hypothetical or imagined situations. It corresponds to English expressions like 'as if', 'like', or 'seeming to be'. The word introduces clauses that describe something that appears to be true but may not actually be the case, often used for comparisons and hypothetical scenarios."
 }

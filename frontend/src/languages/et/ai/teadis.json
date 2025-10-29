@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma teadis seda juba ammu.",
-    "Ta teadis vastuseid kõigile küsimustele.",
-    "Nende vanemad teadsid asjaolu."
+    "Teenisin, et ta teadis vastust.",
+    "Teadsin alati, et meie jooksme võidu.",
+    "Kas sa teadist, mis kell on?"
   ],
   "translation": [
     "knew",
-    "was aware of"
+    "was aware of",
+    "realized"
   ],
-  "context": "The word 'teadis' is the third person singular form of the verb 'teadma', which means to know or be aware of something in Estonian. It is commonly used to describe a state of knowledge or understanding about a particular topic or situation."
+  "context": "'Teadis' is the past tense (3rd person singular) form of the Estonian verb 'teada', which means 'to know'. It specifically refers to knowledge or awareness that someone had in the past. The word indicates possession of information or understanding about something."
 }

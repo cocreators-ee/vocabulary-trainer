@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta kavatseb teha seda järjemisi.",
-    "Mina kavatsen põgeneda.",
-    "Oled sa kindel, et sina ei kavatsa tagasi minna?"
+    "Kavatseb ta tulööda homme?",
+    "Me kavatseminna linnu külastada",
+    "Ta ei kavatseks tööd alustada"
   ],
   "translation": [
-    "intends",
-    "plans to (do something)"
+    "plans to",
+    "intends to",
+    "is going to",
+    "expects to"
   ],
-  "context": "The word 'kavatseb' is used in Estonian to express someone's intention or plan to do something. It is often used when talking about future actions that are decided upon."
+  "context": "The word 'kavatseb' is the 3rd person singular present indicative form of the Estonian verb 'kavatseda', which means 'to plan', 'to intend', or 'to expect'. It indicates that someone has made a plan or intention about something they will do in the future. This form specifically refers to what 'he/she/it' plans or intends to do."
 }

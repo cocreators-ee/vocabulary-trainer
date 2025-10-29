@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vabandage, ma olen hiljaks",
-    "Ta ütles vabandage ja läks minu juurde",
-    "Kui ma võin aidata, siis ütle vabandage"
+    "Vabandage viivitus.",
+    "Vabandage, ma ei saanud kohale õigeaegselt.",
+    "Ma palun vabandage eelmise päeva eest."
   ],
   "translation": [
+    "please apologize",
     "excuse me",
-    "sorry",
-    "pardon"
+    "forgive me"
   ],
-  "context": "The word 'vabandage' is a polite way to get someone's attention or express regret for a mistake in Estonian. It can be translated to English as 'excuse me' or 'sorry', and is commonly used in formal and informal settings."
+  "context": "The Estonian word 'vabandage' is the formal plural imperative form of the verb 'vabandama', which means to apologize, excuse oneself, or ask for forgiveness. It is used when addressing multiple people formally or in polite speech to express regret for something that has happened."
 }

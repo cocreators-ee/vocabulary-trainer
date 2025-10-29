@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei röövi keegi",
-    "Röövitud oli palju vara",
-    "Ta soovib röövida panka"
+    "Ta röövis valuutakoti.",
+    "Me ei saa last röövida.",
+    "Kes röövis auto?"
   ],
   "translation": [
     "to rob",
-    "to plunder"
+    "to steal",
+    "to plunder",
+    "to hijack"
   ],
-  "context": "The word röövida is commonly used in Estonian to describe the act of taking something away from someone or somewhere by force, often in a violent manner."
+  "context": "The Estonian verb 'röövida' means to take something from someone by force, typically referring to robbery or theft. It can be used for stealing physical objects like money or valuables, and also metaphorically for taking things away improperly. The word comes from the same root as English 'rob' and belongs to the category of violent crimes involving unlawful taking."
 }

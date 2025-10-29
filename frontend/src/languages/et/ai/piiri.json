@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan piiri servas.",
-    "Piiril on palju puudeid.",
-    "Tema kodu asub linna piiris."
+    "Piiri ületamine nõuab piirivalvurilt tähelepanu.",
+    "Ta oli viimane inimese piiril.",
+    "Maa piirid on määratud rahvusvahelise õigusega."
   ],
   "translation": [
-    "perimeter",
     "boundary",
-    "border"
+    "border",
+    "limit",
+    "frontier"
   ],
-  "context": "The word 'piiri' in Estonian generally refers to the border or boundary of something, whether it be a physical area or an abstract concept. It is often used in contexts where someone is describing the limits or edges of an object, place, or idea."
+  "context": "The word 'piiri' is the genitive singular form of the Estonian noun 'piir', which means boundary, border, limit, or frontier. It indicates possession or association with a border/boundary (e.g., 'of the border'). In Estonian grammar, this case shows what something belongs to or relates to."
 }

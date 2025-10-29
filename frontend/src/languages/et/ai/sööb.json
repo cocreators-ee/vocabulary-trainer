@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta sööb õunu.",
-    "Nad söövad hommikust.",
-    "Kas sa sööd lõunat?"
+    "Sööb hommikust õhtuni.",
+    "Tema sööb palju.",
+    "Lapsed söövad suurega."
   ],
   "translation": [
     "eats",
     "is eating",
     "to eat"
   ],
-  "context": "The verb 'sööma' in Estonian means 'to eat'. The form 'sööb' is the third-person singular present tense, equivalent to 'he/she/it eats' in English. It’s a very common and basic verb used daily."
+  "context": "The word 'sööb' is the third person singular present indicative form of the Estonian verb 'sööma', which means 'to eat'. It describes the action of consuming food and is used when talking about what someone or something eats in the present tense."
 }

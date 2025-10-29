@@ -1,18 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta valetab oma kaotatud koera pärast.",
-    "Ma valetasin talle, et teda ei kurvastada.",
-    "Ära vale!",
-    "See on valeks.",
-    "Valetamine pole hea."
+    "Ma valetasin sulle.",
+    "Ta alati valetab.",
+    "Me ei taha teiega valetada."
   ],
   "translation": [
     "to lie",
-    "falsehood",
-    "lie",
-    "deceit"
+    "to tell lies",
+    "to deceive"
   ],
-  "context": "The verb 'valetada' in Estonian means 'to lie' or 'to tell a falsehood'. It is commonly used to describe the act of intentionally misleading someone with untrue information. The word can also be used as an adjective, meaning 'false', such as 'valeks teave' (false information)."
+  "context": "The verb 'valetada' is the infinitive form in Estonian and means 'to lie' or 'to tell lies'. It's a regular first conjugation verb. The word comes from the root 'vale' which means 'false' or 'untrue', so literally it means to speak falsely. In different forms, it can be used in present tense (valetan - I lie), past tense (valetasin - I lied), and other grammatical constructions."
 }

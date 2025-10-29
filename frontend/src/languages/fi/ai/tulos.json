@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tulos oli odotettu",
-    "Hänen tulosensa oli hyvä",
-    "Tulokset olivat positiivisia"
+    "Tulos oli hyvä.",
+    "Hän saavutti tuloksen.",
+    "Meillä on hyvät tulokset."
   ],
   "translation": [
     "result",
     "outcome",
-    "consequence"
+    "profit"
   ],
-  "context": "The word tulos refers to the outcome or consequence of an event, action, or process in Finnish."
+  "context": "The Finnish word 'tulos' is a noun that means 'result', 'outcome', or 'profit'. It's commonly used to refer to the outcome of an action, process, or experiment. In business contexts, it can specifically mean profit or earnings. The word appears in various forms depending on case and number - for example, 'tulokset' is the plural form meaning 'results', while 'tuloja' would be partitive form meaning 'of results/profits'. It's a very common word in everyday Finnish language used across different contexts."
 }

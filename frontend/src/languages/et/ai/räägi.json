@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Räägi mulle rohkem selle kohta.",
-    "Ei räägu kunagi oma privaasest elust keisegagi.",
-    "Ta algatavad alati rahulikud dialoogid ja kuuluvad hästi, kuid vähe räägi.",
-    "Rändurite suhtes kasutatakse sageli seeptiivset keelt, kuid nad räägi ka oma vabaduse ja õiguste kohta."
+    "Räägi mulle oma plaanidest.",
+    "Kas sa räägid eesti keelt?",
+    "Räägime homme kohtumisest."
   ],
   "translation": [
     "speak",
-    "talk"
+    "talk",
+    "say"
   ],
-  "context": "'räägi' is the first person singular form of 'to speak/talk', commonly used in conversational contexts. It indicates an ongoing or habitual action of speaking, such as in daily conversations or discussions on various topics."
+  "context": "The word 'räägi' is the second person singular imperative form of the verb 'rääkima', which means 'to speak' or 'to talk'. It's used to command someone to speak or talk. The imperative form indicates a direct address and request for action."
 }

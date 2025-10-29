@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me leiame endale uue töö",
-    "Ta leidis endale head sõbra",
-    "Nad said aru, et nad on üksteist leiandanud"
+    "Me leiame homme uue restorani.",
+    "Kas te leiate mind homme kell kümme?",
+    "Nad leidsid varsti oma kodu."
   ],
   "translation": [
-    "find ourselves",
-    "found themselves",
-    "find each other"
+    "find",
+    "discover",
+    "come across"
   ],
-  "context": "The word 'leiame' is the first person plural form of the verb 'leidma', which means to find. It is commonly used in Estonian to express the idea of discovering or finding something, whether it be a physical object, a solution to a problem, or one's own identity."
+  "context": "Leiame is the 1st person plural present tense form of the Estonian verb 'leidma', which means 'to find' or 'to discover'. It translates to English as 'we find' or 'we discover'. The word follows the conjugation pattern for -ma verbs in Estonian, where the stem 'leid-' is formed by dropping the final '-a' from the infinitive form."
 }

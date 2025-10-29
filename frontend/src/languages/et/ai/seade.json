@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Seade on väga täpne.",
-    "Ta kasutas seda seadet oma uuringutes.",
-    "Selle seade abil saame paremini mõista protsessi."
+    "See on hea seade.",
+    "Mida see seade teeb?",
+    "Seaded on tähtsad."
   ],
   "translation": [
     "device",
-    "appliance",
-    "instrument"
+    "setting",
+    "arrangement",
+    "setup"
   ],
-  "context": "The word 'seade' in Estonian refers to a device, appliance, or instrument, and is commonly used in technical or scientific contexts to describe a tool or machine used for a specific purpose."
+  "context": "In Estonian, 'seade' is a noun that refers to a device, setting, arrangement, or setup. It can be used to refer to physical devices (like machines or equipment), digital settings or configurations on computers/phones, or organizational arrangements. The word has a neuter gender in Estonian and typically follows the basic declension patterns for nouns ending in -e."
 }

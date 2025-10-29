@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen poodi, et osta lauda.",
-    "See laud on väga vana ja tugev.",
-    "Palun seadke laud valmis."
+    "La la la la la...",
+    "Laulin lauluga laulu.",
+    "Tuli linnast linna."
   ],
   "translation": [
-    "board",
-    "table",
-    "plank"
+    "la-la-la (nonsense syllables)",
+    "with",
+    "from"
   ],
-  "context": "The word 'laud' in Estonian commonly refers to a flat piece of material used for various purposes, such as building or furniture. It can translate to 'board', 'table', or 'plank' depending on the context."
+  "context": "The Estonian word 'la' has multiple meanings depending on context. When used as a repeated nonsense syllable like 'La la la...', it's similar to English 'la-la-la'. However, when appearing in words like 'lauluga', it functions as the instrumental case suffix meaning 'with'. In other contexts, it can be part of prepositions or have different meanings based on word formation. The exact meaning must be determined by how it appears within specific words and sentences."
 }

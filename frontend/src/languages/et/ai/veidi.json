@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen veidi haige",
-    "Ta on veidi noorem kui mina",
-    "Veidi aega tagasi oli ta väga üksik"
+    "Ma olen veidi väsinud.",
+    "Ta sai veidi paremini tulemuse kui eelmisel korral.",
+    "Veidi aega pärast saabus ta lõpuks."
   ],
   "translation": [
     "a little",
-    "slightly",
-    "somewhat"
+    "somewhat",
+    "slightly"
   ],
-  "context": "The word 'veidi' in Estonian is an adverb that means to a small extent or degree, and it is commonly used to express a slight or moderate amount of something."
+  "context": "The Estonian word 'veidi' is an adverb that means 'a little', 'somewhat', or 'slightly'. It's used to modify verbs, adjectives, or other adverbs to indicate a small degree or quantity. For example, it can express slight fatigue ('veidi väsinud'), a modest improvement in results ('veidi paremini tulemus'), or a short delay ('veidi aega'). The word is commonly used in everyday Estonian conversation to convey that something is just a bit of what's being described."
 }

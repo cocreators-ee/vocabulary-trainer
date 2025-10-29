@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Annan raamat mehele.",
-    "Olen kurb, sest mehele ei läinud töö haiglatesse.",
-    "Kui soovid, saad minna koos mehele oma õnnitlustega."
+    "Mehele tuli külaline.",
+    "Ta andis kingi mehele.",
+    "Mees sai kinga mehele."
   ],
   "translation": [
     "to the man",
-    "for the husband"
+    "for the man",
+    "towards the man"
   ],
-  "context": "'mehele' is the dative form of 'meh', which means a male person or a husband. It translates to 'to/for the man' in English, and is used when indicating direction towards someone for receiving something or benefiting them."
+  "context": "The Estonian word 'mehele' is a directional case form of the noun 'mees' (man). It appears to be in the allative case, which indicates movement toward or direction toward someone/something. This suffix '-le' transforms the nominative form 'mees' into 'mehele', showing motion toward a man or destination being a man."
 }

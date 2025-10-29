@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Võistlus oli väga tasavägiline",
-    "Ta võitis võistluse suurepäraselt",
-    "Me osaleme sel võistlusel"
+    "Võistlus algab kell kaks.",
+    "Me osalesime võistlusele.",
+    "See on rahvusvaheline võistlus."
   ],
   "translation": [
     "competition",
     "contest",
-    "tournament"
+    "match"
   ],
-  "context": "The word võistlus refers to a competition or contest where individuals or teams compete against each other, often with the goal of winning a prize or achieving a higher rank."
+  "context": "The Estonian word 'võistlus' is a noun that means competition, contest, or match. It refers to an event where participants compete against each other to determine who is the best in some skill or activity. The word can be used for various types of competitions including sports contests, academic competitions, talent shows, and any organized competitive event."
 }

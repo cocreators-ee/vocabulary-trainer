@@ -1,11 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tämä on yllättävää, mutta näyttää siltä että vähiten taitavaa on olla täysin välinpitämätön."
+    "Hän on vähiten suosittu opettaja koulussa.",
+    "Tämä on vähiten vaihtoehtoista ratkaisua.",
+    "Minulla on vähiten aikaa kuin kukaan muu."
   ],
   "translation": [
-    "This is surprising, but it seems like the least skilful thing is to be completely indifferent."
+    "the least",
+    "at the minimum",
+    "to the smallest degree"
   ],
-  "context": "Vähiten is the inessive form of 'vähiten', which means 'in the smallest quantity' or 'to the smallest degree'. It can be used to describe something that has been done minimally."
+  "context": "Vähiten is the superlative form of vähä (little/few) in Finnish. It means 'the least' or 'at the minimum' and is used to indicate the smallest amount, quantity, or degree when comparing three or more things. It's formed by adding the suffix '-en' to the comparative form vähemmän (less), which follows Finnish superlative formation patterns."
 }

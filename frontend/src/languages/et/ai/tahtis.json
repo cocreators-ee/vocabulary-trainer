@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minu tahtis sain täidetuks.",
-    "Tahtis saab mõju oma tegevusest.",
-    "Oled sa mind siiski tahtnud?",
-    "Mulle on see väga tahtis."
+    "Tahtis mind aidata.",
+    "Ta tahtis minuga jalutada.",
+    "Meie poiss tahtis kooli minna."
   ],
   "translation": [
-    "important",
-    "intention"
+    "wanted",
+    "desired",
+    "wished"
   ],
-  "context": "'tahtis' is used to describe something that is important or an intention. It can be used as a noun referring to an intention, or an adjective describing the importance of something."
+  "context": "The word 'tahtis' is the past tense third person singular form of the Estonian verb 'tahta', which means 'to want' or 'to desire'. It is used to express that someone wanted something in the past. In English, it would correspond to 'wanted' and is conjugated for he/she/it (third person) in the simple past tense."
 }

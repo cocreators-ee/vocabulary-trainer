@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma oleks tahtnud minna kaasa.",
-    "Ta oleks võinud olla õnnelik.",
-    "Me oleksime saanud abi kergesti."
+    "Kui oleks ilmaks, siis minna parki.",
+    "Ta oleks meile väga aidanud.",
+    "Mis oleksid sa teinud tema asemel?"
   ],
   "translation": [
-    "would have",
-    "could have"
+    "would be",
+    "might be",
+    "could be"
   ],
-  "context": "The word 'oleks' is the conditional form of the verb 'olema', which means 'to be'. It is used to express a hypothetical or uncertain situation in the past, and it is commonly translated to English as 'would have' or 'could have'."
+  "context": "'Oleks' is the conditional form of the Estonian verb 'olema' (to be). It's used to express hypothetical situations, possibilities, or polite suggestions. In English, it corresponds to 'would be', 'might be', or 'could be'. The word appears in conditional clauses where something depends on a certain condition being met."
 }

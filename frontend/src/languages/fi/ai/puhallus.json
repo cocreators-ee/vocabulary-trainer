@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hänellä on iloinen puhallus äänestään.",
-    "Pian hän kuuli puhalluksen tuulesta.",
-    "Puhallus tuntui vahvalta käskyksi."
+    "Tämä hengitys on puhallus.",
+    "Hän antoi puhalluksen purjeveneeseen.",
+    "Puhalluksella saatiin tulipalo syttymään."
   ],
   "translation": [
     "breath",
-    "whisper"
+    "blast",
+    "exhalation",
+    "puff of air"
   ],
-  "context": "Puhallus typically means 'breath' in Finnish, as in the air that one exhales. It can also refer to a 'whisper,' especially when something is said very quietly or softly."
+  "context": "The Finnish word 'puhallus' refers to an act of blowing or exhaling, creating a current of air. It can be used literally for the physical action of blowing (like with your mouth) or metaphorically for bursts of wind or even figurative expressions of forceful expression. The noun form suggests it's referring to the result or instance of blowing rather than the continuous act."
 }

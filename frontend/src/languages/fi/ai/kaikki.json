@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kaikki on hyvin",
-    "Hän syö kaiken ruuan",
-    "Kaikilla oli hauskaa"
+    "Kaikki ovat tällä hetkellä paikalla.",
+    "Kaikki nämä kirjat kuuluvat minulle.",
+    "Hän haluaa kokeilla kaikkea."
   ],
   "translation": [
     "all",
     "everything",
-    "everybody"
+    "everyone",
+    "entire"
   ],
-  "context": "The word 'kaikki' is commonly used in Finnish to mean all or everything, and it can be used in various contexts such as describing a quantity or referring to a group of people."
+  "context": "The Finnish word 'kaikki' is an indefinite pronoun that means 'all', 'everything', or 'everyone'. It can be used to refer to all people, all things, or the entirety of something. In Finnish grammar, it's invariable and doesn't change form based on case or number. For example, it remains 'kaikki' whether referring to one thing or many items. The word is commonly used in everyday language to express totality or completeness."
 }

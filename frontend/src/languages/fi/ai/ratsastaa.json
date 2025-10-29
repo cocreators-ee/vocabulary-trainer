@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä ratsastan hevosen selässä.",
-    "Hän on opettanut minua ratsastamaan.",
-    "Hevonen oli liian nopea minulle ratsastaa."
+    "Hän ratsastaa hevosella joka päivä.",
+    "Me ratsastamme kesäleirillä.",
+    "Lapsi oppii ratsastamaan."
   ],
   "translation": [
-    "to ride",
-    "ride"
+    "to ride (horseback)",
+    "to ride a horse",
+    "horseriding"
   ],
-  "context": "The word 'ratsastaa' means to ride, typically referring to riding a horse, and is commonly used in contexts such as equestrian activities or transportation by horseback."
+  "context": "The Finnish word 'ratsastaa' is an infinitive verb meaning to ride or to ride horseback. It's specifically used for riding horses, not other forms of transportation. The verb belongs to the first conjugation group in Finnish and follows regular conjugation patterns with changes like ratsastan (I ride), ratsatat (you ride), ratsastaa (he/she/it rides), ratsastamme (we ride), ratsastatte (you plural ride), and ratsastavat (they ride)."
 }

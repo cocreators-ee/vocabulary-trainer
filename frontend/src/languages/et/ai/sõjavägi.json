@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Eesti sõjavägi on väike, kuid tugev.",
-    "Sõjavägi on riigi kaitseks.",
-    "Ta astus sõjaväega ühisesse sõjateenistusse."
+    "Sõjavägi on kaitsevõimega organisatsioon.",
+    "Eesti sõjavägi koosneb maaväest, õhuväest ja mereväest.",
+    "Sõjaväge rahastab valitsus."
   ],
   "translation": [
     "army",
-    "military"
+    "military force",
+    "armed forces"
   ],
-  "context": "The word sõjavägi refers to the armed forces of a country, responsible for its defense and security."
+  "context": "The word 'sõjavägi' in Estonian refers to the armed military forces of a country, consisting of land, air, and naval components. It is typically funded and organized by the government for national defense purposes."
 }

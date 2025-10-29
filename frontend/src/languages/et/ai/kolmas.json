@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kolmas inimene, kes seda teinud on.",
-    "Kolmandal korrustel on restoran.",
-    "Me oleme kolmandal kohal tabelleis."
+    "Kolmas inimene on olnud siin.",
+    "Ta on kolmas laps perekonnas.",
+    "See on kolmas kord, et me kohtume."
   ],
   "translation": [
     "third",
-    "thirdly"
+    "the third one"
   ],
-  "context": "The word 'kolmas' is an ordinal number in Estonian that means 'third' and it is commonly used to indicate the position or order of something, similar to how 'third' is used in English."
+  "context": "The word 'kolmas' is the Estonian ordinal number meaning 'third'. It's used to indicate position in a sequence or order. As an adjective, it agrees with the noun it modifies in case and gender. For example: 'kolmas inimene' (the third person), 'kolmas päev' (the third day). The word form remains consistent regardless of case endings when modifying nouns."
 }

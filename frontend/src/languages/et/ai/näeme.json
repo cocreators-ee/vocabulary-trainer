@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen seda filmi homme",
-    "Me näeme teda täna õhtul",
-    "Nad on näinud seda juba mitu korda"
+    "Näeme homme!",
+    "Me näeme veel uuesti.",
+    "Kus me näeme end?"
   ],
   "translation": [
     "we see",
-    "we will see"
+    "we meet",
+    "let's see",
+    "we'll see"
   ],
-  "context": "The word 'näeme' is the first person plural form of the verb 'nägema', which means to see, and it is commonly used in sentences to express that the speaker and others are able to perceive something with their eyes."
+  "context": "The Estonian word 'näeme' is the 1st person plural present tense form of the verb 'nägema', which means 'to see'. It can be used in several contexts: 1) When people are saying goodbye, it functions like 'see you tomorrow' (Näeme homme!), 2) In statements about what we currently perceive (Me näeme uut linna - We see a new city), and 3) As an expression of future intention or arrangement to meet again. The word is commonly used in everyday conversation as both a literal description of seeing something and as a farewell expression similar to 'see you'."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma näen täna kuud.",
-    "Kuud on väga ilus täna õhtul.",
-    "Nad vaatasid kuud aknast."
+    "Kuud on meie naabri linn.",
+    "Naised külastasid kahte kuude jaoks.",
+    "Need kuud asuvad Eestis."
   ],
   "translation": [
+    "months",
+    "months' (possessive)",
     "moon"
   ],
-  "context": "The word 'kuud' in Estonian translates to 'moon' in English. It is commonly used to refer to the Earth's natural satellite, and can be used in poetic or descriptive contexts."
+  "context": "The word 'kuud' is the genitive plural form of the Estonian word 'kuu', which can mean either 'month' or 'moon'. In Estonian, the same root word is used for both concepts. The genitive case in Estonian typically indicates possession or association, so 'kuud' could translate to 'months' (possessive) when referring to something belonging to months, or it could simply be the plural form of 'month' depending on context. It can also refer to 'moons' as the plural form of 'moon'. The specific meaning would depend on the context in which it's used."
 }

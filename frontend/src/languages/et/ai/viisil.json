@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tegi seda väga viisiliselt.",
-    "See oli tark ja viisiline otsus.",
-    "Kas sa oskad käituda viisilt?"
+    "Ta on alati viisil head nalja.",
+    "Kuidas sa seda viisil teed?",
+    "Me peame leidma parema viisil."
   ],
   "translation": [
-    "wisely",
-    "skillfully",
-    "cleverly"
+    "in a certain way",
+    "in a manner",
+    "in such a way"
   ],
-  "context": "The Estonian word 'viisil' generally translates to 'way', 'manner', or 'method' in English, but often implies doing something with skill, cleverness, or wisdom. It can also be used as an adverb meaning 'wisely' or 'skillfully'."
+  "context": "The Estonian word 'viisil' is an adessive case form of the noun 'viis', which means 'way' or 'manner'. It functions as an adverbial expression indicating how something is done. The '-l' ending indicates it's in the adessive case, meaning 'on/in/at a way/manner'. This word is commonly used to describe the manner or method by which an action is performed."
 }

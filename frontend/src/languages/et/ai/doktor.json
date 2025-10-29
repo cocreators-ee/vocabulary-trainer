@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu doktor soovitas mulle uut ravimit",
-    "Ta on teada saanud meditsiini doktor",
-    "Doktor, mina tunnen end halvasti"
+    "Tema on doktor.",
+    "Ta on tuntud arst ja doktor.",
+    "Kõik austavad seda doktorit."
   ],
   "translation": [
-    "doctor"
+    "doctor",
+    "physician",
+    "Dr."
   ],
-  "context": "'doktor' refers to a medical professional qualified to treat patients and provide healthcare services."
+  "context": "The Estonian word 'doktor' means doctor or physician and is used to refer to a medical practitioner who has completed doctoral studies. It can be used as both a noun referring to the person's profession and as a title prefix before someone's name, similar to how it's used in English."
 }

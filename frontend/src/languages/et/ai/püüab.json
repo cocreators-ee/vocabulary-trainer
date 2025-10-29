@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta püüab mind aidata.",
-    "Ma olen püüanud teda kutsuda.",
-    "Nad püüavad meid veenda."
+    "Tüdruk püüab õunat.",
+    "Poiss püüab kala jões.",
+    "Kass püüab hiirt."
   ],
   "translation": [
-    "try",
-    "attempt"
+    "tries to catch",
+    "attempts to catch",
+    "seeks to capture"
   ],
-  "context": "The word 'püüab' is a verb in Estonian that means to try or attempt something, often used in the context of making an effort or taking action towards a goal."
+  "context": "The word 'püüab' is the 3rd person singular present indicative form of the Estonian verb 'püüdma', which means 'to try to catch' or 'to attempt to catch'. It indicates someone's action of trying to capture something, whether it's an object, animal, or opportunity. The word is commonly used in contexts where describing attempts to grasp or seize something physical."
 }

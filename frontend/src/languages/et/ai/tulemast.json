@@ -1,16 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema elu oli tulemust.",
-    "Kõikjal mujal tuleb meie kätte, aga pole siin tulemast.",
-    "Jääge tulemast!",
-    "See film on kindlasti tulemas."
+    "Tulemasse!",
+    "Tere tulemast meie lauda.",
+    "Palun tulemasse kõige lähemale kohta."
   ],
   "translation": [
-    "coming",
-    "arriving",
-    "due"
+    "Welcome",
+    "Come in",
+    "Please come"
   ],
-  "context": "In Estonian, 'tulemast' is the fourth infinitive form of 'tulla', which means to come. It can describe something as being about to arrive or happen, often used in contexts like people arriving, events happening soon, or things becoming available."
+  "context": "The word 'tulemast' is an imperative form of the verb 'tulla' (to come) used as a polite invitation or welcome. It's commonly used when greeting guests and inviting them to enter a place, particularly in hospitality contexts like restaurants or homes. The '-mast' suffix indicates it's in the elative case, often used for directional movement out of something, but here functioning as an imperative command."
 }

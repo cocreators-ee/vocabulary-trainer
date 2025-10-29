@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on pärit Tallinnast",
-    "Päritolu on tähtis",
-    "Ma olen pärit saarelt"
+    "Ta on pärit Tallinnast.",
+    "Kuidas sa oled päritolult?",
+    "Need inimesed on pärit erinevatest maadest."
   ],
   "translation": [
-    "originated",
-    "native",
-    "came from"
+    "from (origin)",
+    "originating from",
+    "coming from"
   ],
-  "context": "The word \"pärit\" in Estonian means to have originated or come from a place, and is often used to describe someone's native town or country."
+  "context": "The word 'pärit' is the partitive case form of the noun 'päritolu', which means origin or source. It's used to indicate where someone or something comes from. In Estonian, it appears in sentences describing places of origin - both for people and things."
 }

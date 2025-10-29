@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lugesin raamatut eile.",
-    "Ta luges lehte hommikul.",
-    "Nad lugesid uudiseid internetist."
+    "Ma lugesin raamatu ära.",
+    "Ta lugesis hommikul ajalehte.",
+    "Meie lugesime eile koos artiklit."
   ],
   "translation": [
-    "I read",
-    "He/She reads",
-    "They read"
+    "read (past tense)",
+    "I read"
   ],
-  "context": "The Estonian verb 'lugesin' is the first-person singular past tense of the verb 'lugema', which means 'to read'. It indicates that someone has completed the action of reading. In English, it’s commonly used to describe the act of processing written information."
+  "context": "The word 'lugesin' is the first person singular past tense form of the Estonian verb 'lugema', which means 'to read'. It specifically translates to 'I read' in English. The '-gin' ending indicates the past tense and first person singular subject."
 }

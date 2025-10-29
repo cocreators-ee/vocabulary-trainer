@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän juo lasillisen vettä.",
-    "Juomana on kahvi.",
-    "Juo kaljaa!"
+    "Minulla on juoma.",
+    "Hän osti mehun juomaksi.",
+    "Juomat ovat jääkaapissa."
   ],
   "translation": [
     "drink",
-    "beverage"
+    "beverage",
+    "liquid to drink"
   ],
-  "context": "The word 'juoma' in Finnish refers to a drink or beverage, and it is commonly used in everyday conversations to talk about drinking something."
+  "context": "The Finnish word 'juoma' is a noun that refers to any liquid that people consume, typically for refreshment or hydration. It's the general term for drinks and beverages in Finnish. The word can be used in singular form as shown in the examples, and it follows normal Finnish declension patterns. For instance, in the plural form 'juomat', it refers to multiple types of drinks."
 }

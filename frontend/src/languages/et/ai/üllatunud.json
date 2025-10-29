@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen üllatunud",
-    "Ta oli üllatunud võidust",
-    "Üllatunud nägu oli tal"
+    "Ma olin üllatunud tema tulemusega.",
+    "Ta oli üllatunud kuuldes uudiseid.",
+    "Me oleme kõik väga üllatunud."
   ],
   "translation": [
     "surprised",
+    "astonished",
     "amazed"
   ],
-  "context": "The word \"üllatunud\" is commonly used in Estonian to express a feeling of being surprised or amazed, often in response to an unexpected event or situation."
+  "context": "The Estonian word 'üllatunud' is the past participle form of the verb 'ullata', meaning 'to surprise'. It describes a state of being surprised or astonished. As a past participle, it typically follows the auxiliary verb 'olema' (to be) to form compound tenses, such as 'Ma olin üllatunud' (I was surprised). The word is commonly used in everyday Estonian to express an unexpected reaction to news, events, or outcomes."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kirjutanud selle artikli.",
-    "Ta on kirjutanud mitmeid raamatuid.",
-    "Nad on kirjutanud ühiselt kaks luuletust."
+    "Ma olen kirjutanud raamatu.",
+    "Ta on kirjutanud palu esseid.",
+    "Me oleme kirjutanud kõik ülesanded ära."
   ],
   "translation": [
     "written",
-    "authored"
+    "has written",
+    "have written"
   ],
-  "context": "The word 'kirjutanud' is the past tense of the verb 'kirjutama', which means to write or author something in Estonian. It is commonly used to describe the act of creating written content, such as books, articles, or letters."
+  "context": "The word 'kirjutanud' is the past participle form of the Estonian verb 'kirjutama', which means 'to write'. It indicates that an action of writing has been completed. This form is commonly used in perfect tenses and can be translated as 'written', 'has written', or 'have written' depending on the context and subject."
 }

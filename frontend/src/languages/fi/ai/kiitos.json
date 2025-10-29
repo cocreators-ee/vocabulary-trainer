@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kiitos tästä ruoasta",
-    "Hän sanoi kiitos ja poistui",
-    "Olen kiitollinen kaikista avustuksista"
+    "Kiitos avustasi.",
+    "Kiitos paljon!",
+    "Hän sanoi kiitos."
   ],
   "translation": [
     "thanks",
     "thank you"
   ],
-  "context": "The word 'kiitos' is commonly used in Finnish to express gratitude or appreciation, similar to the English phrase 'thank you'."
+  "context": "The Finnish word 'kiitos' is a common expression of gratitude and can be translated as 'thanks' or 'thank you' in English. It's used to express appreciation for something someone has done, given, or said. The word is versatile and can be used in various contexts - from casual everyday situations to more formal expressions of thanks."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mina näha suuri lumihiide.",
-    "Neil oli suuri kulusid kogutud.",
-    "Suuri asju on juhuslikult sündinud."
+    "Tema on suur mees.",
+    "Nad said väga suuri kingitusi.",
+    "Meie kodu on väga suur."
   ],
   "translation": [
     "big",
-    "large"
+    "large",
+    "great"
   ],
-  "context": "`Suuri` is the plural form of `suur`, meaning big or large in size."
+  "context": "The word 'suuri' is the partitive singular form of the Estonian adjective 'suur', which means 'big', 'large', or 'great'. It's used when referring to an indefinite quantity or part of something that is big. In Estonian grammar, the partitive case is commonly used with adjectives to indicate incomplete action or partial object."
 }

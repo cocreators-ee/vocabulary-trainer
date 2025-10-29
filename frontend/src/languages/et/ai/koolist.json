@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma läksin koolist koju",
-    "Koolist tulnud lapsed olid väsinud",
-    "Ta lahkus koolist enne lõpetamist"
+    "Tule homme koolist kell 15:00.",
+    "Lapsed tulid koolist rõõmsalt naasma.",
+    "Ta ootas mind kooli ees mitte koolist."
   ],
   "translation": [
     "from school",
     "out of school"
   ],
-  "context": "The word 'koolist' in Estonian means 'from school' or 'out of school', indicating movement away from a school, and it is commonly used to describe someone leaving school, either temporarily or permanently."
+  "context": "The Estonian word 'koolist' is an elative case form of the noun 'kool', meaning 'school'. The elative case indicates movement away from or out of a place. So 'koolist' specifically means 'from school' or 'out of school'. It's used to express where someone came from or exited."
 }

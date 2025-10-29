@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän on parempi kuin minä",
-    "Paremmat tulokset saavutetaan harjoittelulla",
-    "Tämä on parempi vaihtoehto"
+    "Tämä on parempi kuin edellinen.",
+    "Hän tekee paremmin kuin minä.",
+    "Minkälainen olisi parempi ratkaisu?"
   ],
   "translation": [
     "better",
-    "improved"
+    "improved",
+    "superior"
   ],
-  "context": "The word 'parempi' in Finnish means something or someone that has a higher quality or is more skilled than another, it is commonly used to compare two things."
+  "context": "Parempi is the comparative form of hyvä (good) in Finnish. It means 'better' and is used to compare two things, indicating that one is superior or improved compared to another. The word follows Finnish grammar rules for comparatives where the root word 'hyvä' changes to 'parem-' with the '-i' ending added."
 }

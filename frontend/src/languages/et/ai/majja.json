@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Päikeseloojanguga tuleme majja.",
-    "Minu vanad on alati varem kui ma endine majja tulnud.",
-    "Kas sa oled juba enne eile öösel majja tulnud?"
+    "Tule majja!",
+    "Lapsed jooksid majja.",
+    "Meie maja on suur."
   ],
   "translation": [
-    "home",
-    "house",
-    "to go home"
+    "into the house",
+    "home"
   ],
-  "context": "The Estonian word 'majja' means to go home. It is often used in the context of returning from a place to one's residence."
+  "context": "The word 'majja' is the illative case form of 'maja', meaning 'house' in Estonian. The illative case indicates movement into or towards a place, so 'majja' specifically means 'into the house' or can be used to mean 'home' when referring to returning to one's own dwelling."
 }

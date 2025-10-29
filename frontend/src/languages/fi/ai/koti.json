@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun koti on Helsingissä",
-    "Hän lähti kodistaan aikaisin aamulla",
-    "Meillä on mökki maalla kesäksi"
+    "Koti on minun turvapaikkani.",
+    "Menemme kotiin illalla.",
+    "Minulla on pieni koti maaseudulla."
   ],
   "translation": [
     "home",
     "house"
   ],
-  "context": "The word 'koti' generally refers to one's own home or residence, and is commonly used in everyday conversations to talk about where someone lives."
+  "context": "The Finnish word 'koti' means home or house. It refers to a place where one lives, usually with emotional significance as a dwelling place and sanctuary. While 'talo' specifically refers to a building or house structure, 'koti' encompasses the concept of home including the feeling of belonging and comfort associated with it."
 }

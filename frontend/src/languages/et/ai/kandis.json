@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta kandis oma poega käes.",
-    "Kandis vett kaevu juurde.",
-    "Sa võid seda kanda."
+    "Kandis kaelarüüd.",
+    "Tüdruk kandis punast kleiti.",
+    "Mees kandis halli mantlit."
   ],
   "translation": [
-    "carry",
-    "bear",
-    "transport"
+    "carried",
+    "wore (clothing)",
+    "bore"
   ],
-  "context": "The Estonian word 'kandis' is the past tense of the verb 'kanda', which means to carry, bear or transport something. It describes the action of physically holding and moving an object or person from one place to another."
+  "context": "The word 'kandis' is the past tense third-person singular form of the Estonian verb 'kandma', which means 'to carry' or 'to wear'. In Estonian, this verb has multiple meanings - it can refer to physically carrying something or wearing clothing/accessories. The '-s' ending indicates that it's in the past tense and refers to a third person singular subject (he/she/it)."
 }

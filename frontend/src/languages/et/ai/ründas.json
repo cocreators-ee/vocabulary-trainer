@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ründas mind koera ja karjus mulle.",
-    "Koer ründas postiljonit.",
-    "Ründajad ründasid öösel politseijaoskonda."
+    "Politsei ründas kurjategijat.",
+    "Vastane ründas meie positsioone öösel.",
+    "Sõdur ründas vastuvaenlast lahingus."
   ],
   "translation": [
     "attacked",
-    "assaulted"
+    "assaulted",
+    "stormed"
   ],
-  "context": "The word 'ründas' is a verb in Estonian that means to attack or assault someone, often in a physical manner."
+  "context": "The word 'ründas' is the past tense third person singular form of the Estonian verb 'ründa', which means to attack or assault. It describes an action where someone aggressively approaches and engages with a target, often in a military or confrontational context. The '-s' ending indicates it was performed by a single male subject in the past."
 }

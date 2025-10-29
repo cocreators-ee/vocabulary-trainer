@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tükk puitu",
-    "Tükid puud on väga kasulikud",
-    "See on ilus tükk kunsti"
+    "Tükke sai müüa",
+    "Tükid olid väga head",
+    "Osta üks tükk"
   ],
   "translation": [
     "piece",
+    "part",
+    "portion",
+    "bit",
     "chunk"
   ],
-  "context": "The word 'tükk' in Estonian generally refers to a part or portion of something, often used to describe a fragment or a section of an object."
+  "context": "The Estonian word 'tükk' is a noun that means 'piece', 'part', 'portion', 'bit', or 'chunk'. It's used to refer to a fragment, section, or portion of something larger. This versatile term can be used in various contexts - for example with food ('üks tükk leiba' = one piece of bread), objects ('tükk metalli' = piece of metal), or abstract concepts. The word is commonly encountered in everyday Estonian language and can appear in both singular and plural forms."
 }

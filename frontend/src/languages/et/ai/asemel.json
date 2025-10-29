@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tema asemel.",
-    "Ta tegutseb minu asemel.",
-    "See on tehtud tema asemel."
+    "Tema käis minu asemel tööl.",
+    "Isa läks lapsevanema päeva selle asemel, et minna kontorisse.",
+    "Sõda algas selle asemel, et diplomaatia toimiks."
   ],
   "translation": [
     "instead of",
-    "in place of"
+    "in place of",
+    "on behalf of"
   ],
-  "context": "The word 'asemel' in Estonian is used to indicate a replacement or substitution for something or someone, and it is commonly used in sentences to show that one thing is being used or done in place of another."
+  "context": "The Estonian word 'asemel' is a postposition that indicates substitution or replacement. It means 'instead of', 'in place of', or 'on behalf of'. When used, it shows that one person or thing is taking the role or position of another. For example: 'Tema käis minu asemel tööl' means 'He went to work in my place/instead of me'. The word follows what it's replacing and indicates who or what is doing the substituting."
 }

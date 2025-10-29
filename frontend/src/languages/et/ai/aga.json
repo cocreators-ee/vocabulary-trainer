@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen aga väga rõõmus",
-    "Aga see ei ole hea",
-    "Ta on aga minu sõber"
+    "Aga ma tahan minna kinno.",
+    "Tule homme aga kell 10.",
+    "Ta oli väga hea, aga tema vend halb."
   ],
   "translation": [
     "but",
-    "however"
+    "however",
+    "yet"
   ],
-  "context": "The word 'aga' in Estonian is a conjunction used to indicate a contrast or exception, similar to the English words 'but' or 'however'."
+  "context": "The Estonian word 'aga' is a conjunction that functions similarly to English 'but', 'however', or 'yet'. It's used to contrast two ideas or clauses in a sentence. Like other conjunctions, it can appear at different positions within a sentence - sometimes at the beginning of a clause (like 'However...' in English) and sometimes connecting two independent clauses."
 }

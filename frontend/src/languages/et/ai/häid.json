@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Häid külalisi! Tere kõikjale!",
-    "Kas sa oled häid?",
-    "Olen väga häid."
+    "Head aega!",
+    "Tere hommikust, head päeva!",
+    "Head ööd!"
   ],
   "translation": [
-    "good"
+    "good",
+    "well",
+    "fine"
   ],
-  "context": "This is the informal form of 'you are good' or 'are you good?'"
+  "context": "The word 'häid' is the partitive case singular form of the adjective 'hea' which means 'good'. In Estonian, adjectives change their endings depending on the case they're in. The partitive case often indicates incomplete action or indefinite quantity. So 'häid' would typically be used after certain verbs or in specific grammatical contexts where the partitive case is required. It's essentially saying 'some good' or 'good (in partitive form)'. Examples include common greetings like 'Head aega!' (Have a good time!), 'Tere hommikust, head päeva!' (Good morning, have a good day!), and 'Head ööd!' (Good night!)."
 }

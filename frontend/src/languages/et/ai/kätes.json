@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Võta mu kätes.",
-    "Ta surus mulle kättesse.",
-    "Ma pesen kätesi."
+    "Kätes on külm.",
+    "Tema kätes oli raamat.",
+    "Lapsed jooksid kätes."
   ],
   "translation": [
-    "hands",
-    "your hands"
+    "in one's hands",
+    "in the hands of",
+    "held in the hands"
   ],
-  "context": "The word 'kätes' is the genitive plural form of the Estonian word 'käsi', meaning 'hand'. It’s used to indicate possession or association with hands, similar to saying ‘of hands’ or ‘your hands’ in English. It can also be used as a dative case when giving something *to* someone's hands."
+  "context": "The Estonian word 'kätes' is the plural form of 'käsi' (hand) and is used with the preposition 'käsitles' to indicate something is held or located in someone's hands. It shows possession or location associated with hands."
 }

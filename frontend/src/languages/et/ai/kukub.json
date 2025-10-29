@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kukkude kogumine on populaarne meie piirkonnas.",
-    "Ta kannab alati oma mõmmi kukkuvate lilli koju.",
-    "Mära pärast kusikaid jääb laialivalguvad värvilised kukud."
+    "Kukkumine algab kolmest.",
+    "Pois kukuvad puult alla.",
+    "Linnukukk on kaunis nähtus."
   ],
   "translation": [
-    "flowers",
-    "petals",
-    "flower"
+    "falls",
+    "drops",
+    "collapses"
   ],
-  "context": "The term 'kukub' refers to flowers or petals, commonly used in contexts like flower collecting and describing floral arrangements."
+  "context": "The word 'kukub' is the 3rd person singular present form of the Estonian verb 'kukkuma', which means to fall, drop, or collapse. It describes something descending due to gravity, often from a higher position to a lower one."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma armastan mu sõbra.",
-    "Sõbrad on alati koos.",
-    "Ta on minu vanim sõber."
+    "Sõber on mul alati meeldiv.",
+    "Mul on palju sõpru koolis.",
+    "Tema on hea sõber."
   ],
   "translation": [
-    "friend"
+    "friend",
+    "buddy",
+    "pal"
   ],
-  "context": "The word sõber refers to a person with whom one has a strong bond of affection, loyalty, or friendship, and is commonly used in everyday conversations to describe a close relationship with someone."
+  "context": "The Estonian word 'sõber' is a noun that means 'friend' in English. It refers to a person with whom one has a bond of mutual affection and trust. In Estonian, nouns like 'sõber' can change form depending on case (nominative, genitive, partitive, etc.) and number (singular/plural). For example, the plural form would be 'sõbrad' meaning 'friends'. This word is commonly used in everyday conversation to refer to close companions."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän puhui nopeasti ja selvästi.",
-    "Nopeasti kasvava yritys tarvitsee lisää rahoitusta.",
-    "Lapsi oppii uusia sanoja nopeasti."
+    "Hän juoksi nopeasti kohti ulos.",
+    "Auton pitää kulkea nopeasti ohi.",
+    "Heidän piti toimia nopeasti."
   ],
   "translation": [
     "quickly",
-    "fast",
-    "swiftly"
+    "rapidly",
+    "fast"
   ],
-  "context": "The word 'nopeasti' is an adverb in Finnish that means doing something quickly or at a high speed, it is commonly used to describe actions that are performed with haste or rapidity."
+  "context": "The Finnish word 'nopeasti' is an adverb that means 'quickly', 'rapidly', or 'fast'. It describes the manner in which an action is performed - at high speed or with great efficiency. This word comes from the root adjective 'nopea' (meaning 'fast' or 'quick') and the adverbial suffix '-sti', which is commonly used to form adverbs from adjectives in Finnish. When describing how someone should perform an action, 'nopeasti' can also imply urgency."
 }

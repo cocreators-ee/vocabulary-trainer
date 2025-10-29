@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea, millestki rääkida.",
-    "Ta rääkis millestki ülihullust.",
-    "Mulle tundub, et see on millestki muust."
+    "Ta ei öelnud millestki.",
+    "Millestki sa mõtled?",
+    "See tuleb millestki kogemusest."
   ],
   "translation": [
-    "something",
-    "some matter"
+    "from something",
+    "about something",
+    "out of something"
   ],
-  "context": "The word 'millestki' is used in Estonian to refer to something or some matter, often in a vague or unspecified way, similar to how 'something' is used in English."
+  "context": "The Estonian word 'millestki' is an elative case form that means 'from something', indicating origin or source. It's formed by adding the '-st-' suffix to the stem and then the '-i' ending, which indicates the singular partitive case with a separative meaning."
 }

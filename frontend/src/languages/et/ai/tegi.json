@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tegi seda tööd.",
-    "Ta tegi homme kinno.",
-    "Nad tegid koostööd."
+    "Töötaja tegi kõvasti tööd.",
+    "Laps tegi oma kodutööd.",
+    "Kes tegi selle viga?"
   ],
   "translation": [
     "did",
     "made",
-    "done"
+    "performed"
   ],
-  "context": "The word 'tegi' is the third person singular form of the verb 'tegema', which means to do or make something in Estonian. It is commonly used in everyday conversations to describe actions or accomplishments."
+  "context": "The Estonian word 'tegi' is the past tense third person singular form of the verb 'tegema', which means 'to do', 'to make', or 'to perform'. It's commonly used in everyday language to indicate that someone performed an action. The verb belongs to the -ma type infinitive verbs and follows regular conjugation patterns in the simple past tense."
 }

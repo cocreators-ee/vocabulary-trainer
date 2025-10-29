@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tein toime ühe töö",
-    "Toime on hea kvaliteediga",
-    "Ta tegi toime kiiresti"
+    "Ta on hea toimetaja.",
+    "Töö tuleb õigel ajal ära teha ja toime tulla.",
+    "Me peame selle probleemi koos toime tullima."
   ],
   "translation": [
-    "work",
-    "task",
-    "job"
+    "to handle",
+    "to cope with",
+    "to manage",
+    "to deal with"
   ],
-  "context": "The word 'toime' in Estonian generally refers to a task, work, or job that needs to be done, and it is commonly used in sentences to describe someone's occupation or activities."
+  "context": "The Estonian word 'toime' is primarily used in the reflexive verb construction 'toime tulla', which means to be able to handle something, cope with it, or manage a situation. It refers to successfully dealing with challenges, responsibilities, or tasks. The word can also appear as part of other compound expressions related to capability and ability."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olen kindel, et sa suudaks selle teha.",
-    "Tema ei suuda seda teha, aga sa suudaks.",
-    "Kas sa suudaks judu õhtul valmis kanda?"
+    "Ma suudaksin aidata sind kodus.",
+    "Kas sa suudaksid tuua mulle veega?",
+    "Ta ei suudakski öelda, miks ta oli hilinen."
   ],
   "translation": [
     "could",
-    "can"
+    "would be able to",
+    "might manage"
   ],
-  "context": "Used to indicate possibility or ability in a hypothetical situation."
+  "context": "The word 'suudaks' is a conditional form of the verb 'suda', which means 'to be able to' or 'to manage'. It's used in hypothetical situations, expressing capability or possibility under certain conditions. This is similar to English modals like 'could' and 'would be able to' when discussing what might happen or what someone could do in a particular situation."
 }

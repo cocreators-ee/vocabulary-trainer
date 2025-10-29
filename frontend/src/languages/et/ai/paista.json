@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Päike paistab kuldne õhtu taevasse.",
-    "Ta valas vahemaalt helgete sõnade järgi, et tähel pärast paista.",
-    "Soo sadamas paistas musta taeva all suvi ilus mõmm."
+    "Päike paistab.",
+    "Paistab päike.",
+    "Taevas paistab sinine."
   ],
   "translation": [
-    "shine",
-    "glow"
+    "to shine (of the sun)",
+    "to show",
+    "to appear"
   ],
-  "context": "The word 'paista' is used to describe the action of shining or glowing light, typically from a source like the sun, a lamp, or fire."
+  "context": "The word 'paista' is an Estonian verb that means 'to shine', typically used for the sun shining. It can also mean 'to show' or 'to appear'. In its basic form, it's in the 3rd person singular present tense. The first letter changes depending on conjugation - when starting a sentence with this word, it would be capitalized as 'Paistab'. This verb is often used to describe weather conditions or when something becomes visible."
 }

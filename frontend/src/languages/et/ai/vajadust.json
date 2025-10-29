@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ei saanud enamasti vajadust.",
-    "Vajadust selle järele pole.",
-    "Kõige suurem vajadus on see, et inimesed tahaksid teha midagi."
+    "Mul on suured vajadused",
+    "Temal on palju vajadusi",
+    "Meie vajadused erinevad"
   ],
   "translation": [
-    "need",
-    "necessity"
+    "needs",
+    "requirements",
+    "demands"
   ],
-  "context": "The word 'vajadust' generally refers to a need or necessity for something, often used in the context of requiring or lacking something."
+  "context": "The word 'vajadust' is the partitive singular form of 'vajadus', which means 'need' or 'requirement'. In Estonian, the partitive case is used to indicate partialness, indefiniteness, or an object that is being acted upon. The '-st' ending indicates it's in the partitive case and the word is singular."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea teadmata asju.",
-    "Teadmata on see, mida me ei tea.",
-    "Ta oli teadmata isik."
+    "Teadmata põhjusel oli ta hilinenud.",
+    "Mees oli teadmata kaotanud oma telefon.",
+    "Tulemus on veel täiesti teadmata."
   ],
   "translation": [
     "unknown",
-    "unfamiliar"
+    "unspecified",
+    "undetermined"
   ],
-  "context": "The word 'teadmata' in Estonian refers to something or someone that is not known or familiar, and it is commonly used to describe a lack of knowledge or understanding about a particular topic or person."
+  "context": "The Estonian word 'teadmata' is an adverb or adjective that means 'unknown', 'unspecified', or 'undetermined'. It's formed from the verb 'teadma' (to know) with the negative suffix '-ta', indicating a lack of knowledge about something. This word is commonly used when the cause, reason, status, or outcome of something is not known."
 }

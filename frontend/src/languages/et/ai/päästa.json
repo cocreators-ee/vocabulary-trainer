@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma päästan ta endale.",
-    "Ta päästab mind.",
-    "Me päästame koeri."
+    "Ta päästis lapse tulekahjust.",
+    "Me peame pääsema oma kodust.",
+    "Kas sa päästad mind?"
   ],
   "translation": [
-    "save",
-    "rescue"
+    "to save",
+    "to rescue",
+    "to deliver from danger"
   ],
-  "context": "The word 'päästa' in Estonian generally means to save or rescue someone or something from a dangerous or unpleasant situation."
+  "context": "The Estonian verb 'päästa' means to save or rescue someone or something from danger, harm, or a difficult situation. It can be used for saving people from physical dangers (like fires), delivering them from troubles, or protecting them from various threats. The word belongs to the -da/-dä infinitive conjugation class and changes form depending on tense and subject."
 }

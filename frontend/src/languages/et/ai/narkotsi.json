@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sõidab narkotsi äriga seotud inimeste juurde.",
-    "Narkotsi kasutamine on Eestis keelatud.",
-    "Politsei leidis autost narkotsi ja vahistas sõitja."
+    "Narkotsid on illegaalsed ja ohtlikud.",
+    "Politsei vahistas mehe, kellel oli narkotsi.",
+    "Ta kasutas narkotsi juba mitu aastat."
   ],
   "translation": [
+    "drugs",
     "narcotics",
-    "drugs"
+    "illegal substances"
   ],
-  "context": "The word 'narkotsi' in Estonian refers to narcotics or drugs, and it is commonly used in the context of discussing substance abuse or illegal drug trade."
+  "context": "The word 'narkotsi' is the Estonian genitive singular form of 'narkootikum', meaning drugs or narcotics. In this form, it means 'of drugs' or 'about drugs'. It's commonly used when referring to illegal or controlled substances in Estonia."
 }

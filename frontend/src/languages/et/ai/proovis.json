@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tegeles selle proovi puhul tõhusalt.",
-    "See pole ainus proovis esitatud vorm.",
-    "Proovis saab näha ka muid samme."
+    "Ma proovisin uut retsepti.",
+    "Ta proovis kõike.",
+    "Meie proovisime õnnestuda."
   ],
   "translation": [
-    "in the test",
-    "in the sample"
+    "tried",
+    "attempted",
+    "tested"
   ],
-  "context": "The word 'proovis' is used to indicate that something is taking place within a test or trial setting, or it can refer to being part of a sample. It commonly appears in academic contexts such as exams and scientific samples."
+  "context": "The word 'proovis' is the past tense form of the Estonian verb 'proovima', which means to try, attempt, or test. In English, it corresponds to 'tried'. This form specifically indicates a completed action in the past - someone attempted or tried something and that action has already happened."
 }

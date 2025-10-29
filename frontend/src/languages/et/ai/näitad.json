@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näitan sulle oma kodu.",
-    "Ta näitas mulle tema uut telefonid.",
-    "Nad näitavad meile õige teed."
+    "Näitan sulle oma uut kodu.",
+    "Me näitasime linna külastajatele.",
+    "Mis sa näidad? Ma ei näe midagi."
   ],
   "translation": [
     "show",
+    "display",
     "demonstrate"
   ],
-  "context": "The word 'näitad' in Estonian means to show or demonstrate something, and it is commonly used in sentences to indicate that someone is presenting or explaining something to someone else."
+  "context": "The word 'näitad' is the second person singular present tense form of the Estonian verb 'näidata', which means 'to show' or 'to display'. It's used when addressing someone directly (you) in the present moment. For example, if you want to tell someone what you're showing them, you would use 'näitad'. The word comes from the root 'näi-' related to seeing and visual presentation."
 }

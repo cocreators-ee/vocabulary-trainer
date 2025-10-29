@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa üldse uni",
-    "Tal on hea uni",
-    "Uni on vajalik tervisele"
+    "Mul on hea uni.",
+    "Tulevane uni on kallis.",
+    "See oli põnev uni."
   ],
   "translation": [
     "sleep",
-    "dream"
+    "dream",
+    "slumber"
   ],
-  "context": "The word 'uni' in Estonian generally refers to the state of sleep or a dream, and is commonly used in everyday conversation to discuss rest or a vision experienced during sleep"
+  "context": "The Estonian word 'uni' can refer to both sleep (the state of being asleep) and dreams. It is a singular noun in its base form. In different contexts, it might be used to describe the quality of someone's sleep ('hea uni' - good sleep), future rest periods ('tulevane uni' - upcoming sleep/dream), or interesting dream experiences ('põnev uni' - exciting dream). The word can appear in singular and plural forms depending on context."
 }

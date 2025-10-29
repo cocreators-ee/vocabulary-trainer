@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu naabri kodus on vana mees, kes ei suuda ise talitsema. Ma aitan talle igapäevaselt.",
-    "Aitama saab sinu ülesannet lihtsalt lõpetada, kui kasutad seda tarkvara.",
-    "Ta tundub olevat väga lahendusmeelne inimene; ta aitab alati kellegi vajadustele vastama."
+    "Ma aitan teda.",
+    "Ta aitab meid alati.",
+    "Aitake mulle palun see kott!"
   ],
   "translation": [
-    "to help"
+    "to help",
+    "to aid",
+    "to assist"
   ],
-  "context": "the verb 'aid' in the present tense; commonly used to express willingness or ability to assist someone with a task."
+  "context": "The Estonian word 'aitama' means 'to help' in English. It is an infinitive verb form used when talking about the action of helping someone or something. The verb can be conjugated into different forms depending on who is performing the action and the tense. For example, 'ma aitan' (I help), 'ta aitab' (he/she helps), 'me abime' (we help)."
 }

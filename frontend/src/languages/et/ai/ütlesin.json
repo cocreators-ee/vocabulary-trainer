@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlesin talle, et ma lähen kinno.",
-    "Ta ütlesin, et ta on valmis.",
-    "Ütlesin endale, et see on hea mõte."
+    "Ma ütlesin talle, et ma olen tulemas.",
+    "Ta ütlesin, et ta ei saa tulla.",
+    "Kes sulle seda ütlesin?"
   ],
   "translation": [
-    "said",
-    "told",
-    "spoke"
+    "I said",
+    "I told",
+    "I spoke"
   ],
-  "context": "The word ütlesin is the first person singular past tense form of the verb ütlema, which means to say or tell something. It is commonly used in Estonian language to express that someone has said something."
+  "context": "The word 'ütlesin' is the first-person singular past tense form of the Estonian verb 'ütlema', which means 'to say' or 'to tell'. It is formed by adding the past tense suffix '-sin' to the root 'ütlet-'. This form would be used when you want to indicate that 'I said something' in the past. The stem 'ütlete-' comes from the Proto-Finnic word for speaking, and it's commonly used in everyday Estonian conversation."
 }

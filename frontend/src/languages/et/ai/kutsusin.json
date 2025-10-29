@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kutsusin ta lapsepõlve sõbra",
-    "Kutsusin ära doktori",
-    "Ta kutsus mind koosolekule"
+    "Kutsusin sõpra külla.",
+    "Kutsusime kõik lapsed peole.",
+    "Kas sa tuled? Ma kutsusin sind juba eile."
   ],
   "translation": [
     "invited",
-    "called"
+    "called",
+    "summoned"
   ],
-  "context": "The word 'kutsusin' is the first person singular past tense form of the Estonian verb 'kutsuma', which means to invite or call someone."
+  "context": "The word 'kutsusin' is the first person singular past tense form of the Estonian verb 'kutsuma', which means to invite, call or summon. It specifically refers to the action done by the speaker in the past."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma enamasti homme lähen.",
-    "Enamasti on see hea mõte.",
-    "Ta räägib enamasti öösel."
+    "Enamasti me töötame koos.",
+    "Ta enamasti jõuab õigel ajal kohale.",
+    "Enamasti nad ei tule"
   ],
   "translation": [
-    "mostly",
-    "generally",
-    "usually"
+    "usually",
+    "most of the time",
+    "generally"
   ],
-  "context": "The word \"enamasti\" is an adverb in Estonian that means mostly or generally, and it is commonly used to indicate that something happens or is true most of the time."
+  "context": "The Estonian word 'enamasti' is an adverb that means 'usually', 'most of the time', or 'generally'. It indicates something that happens with high frequency but not always. The word can be used in various contexts to describe habitual actions or typical situations."
 }

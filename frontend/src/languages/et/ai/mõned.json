@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõned inimesed armastavad loodusvahte.",
-    "Ta on mõndagi õppinud.",
-    "Mõnel päeval oli ilm väga ilus."
+    "Mõned inimesed tulid täna peole.",
+    "Mulle meeldis mõned teie kommentaarid.",
+    "Ta ostis mõnesid õunu."
   ],
   "translation": [
     "some",
-    "certain"
+    "a few"
   ],
-  "context": "The word 'mõned' is used to describe a certain number of things or people, similar to the English word 'some'."
+  "context": "The word 'mõned' is the plural form of the Estonian demonstrative pronoun meaning 'some' or 'a few'. It is used to refer to an indefinite quantity of items, typically in the nominative case. The singular form would be 'mõni', and it agrees with the gender and number of the noun it modifies."
 }

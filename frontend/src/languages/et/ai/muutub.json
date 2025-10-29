@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta muutub üha enam vastuvõetavaks.",
-    "Muutub see võimalikuks?",
-    "Kolm aastat tagasi ei oleks ma arvanud, et see muutub nii kiiresti."
+    "Ilm muutub kiiresti.",
+    "Tööde hulk muutub päevasel ajal.",
+    "Hinnad muutuvad regulaarselt."
   ],
   "translation": [
     "changes",
-    "is changing"
+    "becomes",
+    "turns into"
   ],
-  "context": "The word 'muutub' is a verb in Estonian that means to change or become something else. It is commonly used to describe a transformation or a shift in something or someone."
+  "context": "The word 'muutub' is the 3rd person singular present tense form of the Estonian verb 'muutuma', which means 'to change'. It describes something that is currently changing or becoming different. The word belongs to the -ma infinitive verb class and follows regular conjugation patterns in Estonian."
 }

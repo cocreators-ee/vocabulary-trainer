@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kindel, et see on õige.",
-    "Ta oli kindel, et ta võidab.",
-    "Kindla tulemuse saamiseks tuleb rohkem tööd teha."
+    "Ei ole kindlat kuupäeva.",
+    "Ta on kindlasti õige vastus.",
+    "Me teeme kindlasti kohtumise."
   ],
   "translation": [
+    "definite",
     "certain",
     "sure",
-    "definite"
+    "positive"
   ],
-  "context": "The word 'kindla' in Estonian means being completely sure or convinced about something, often used to express confidence or certainty in a situation or decision."
+  "context": "The Estonian word 'kindla' is the partitive singular form of 'kindel', which means definite, certain, sure or positive. It's used to indicate that something is specific rather than general, or that there is certainty about a matter. In the examples, it shows different contexts: 1) referring to a specific date (definite), 2) emphasizing certainty about an answer (sure/certain), and 3) expressing definite intention (will definitely do)."
 }

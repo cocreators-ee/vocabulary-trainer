@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kahvi on kuumaa.",
-    "Onpa kuuma päivä!",
-    "Vesi oli niin kuumaa, että poltin suuni."
+    "Tämä päivä on todella kuuma.",
+    "Kuumaa vettä, kiitos.",
+    "Pakkaa vaatteet kuumiin maihinnousuun."
   ],
   "translation": [
     "hot",
     "warm",
-    "heated"
+    "fiery"
   ],
-  "context": "The word 'kuuma' in Finnish translates to 'hot' or 'warm' in English. It is used to describe temperature, and can apply to objects, weather, or even feelings."
+  "context": "The Finnish word 'kuuma' can function as both an adjective and a noun. As an adjective, it means 'hot' (referring to temperature) or 'warm'. It can also mean 'fiery' when describing personality traits like passion or anger. In some contexts, it may refer to attractiveness in people. The word changes form based on case - for example, 'kuumaa' is the partitive singular form used with objects, and 'kuumiin' is an illative (into) form."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me soovime sulle head õnne.",
-    "Soovime teile kõige paremat.",
-    "Nende soovime õnneliku elu."
+    "Me soovime head õhtust!",
+    "Tüdrukud soovivad suurt koju tagasi.",
+    "Mehed soovisid head ööbikut."
   ],
   "translation": [
-    "We wish you good luck.",
-    "We wish you all the best.",
-    "They wish a happy life."
+    "we want",
+    "we wish",
+    "we would like"
   ],
-  "context": "The word 'soovime' is a verb in Estonian that means 'to wish' and it is commonly used to express good intentions or kind thoughts towards someone."
+  "context": "The Estonian word 'soovime' is the 1st person plural present form of the verb 'soovima', which means 'to want' or 'to wish'. It is formed by adding the ending '-me' to the stem 'soovi-', indicating that the subject is 'we' and the action is happening in the present tense. This word expresses a desire, preference, or wish from the perspective of the speaker including others."
 }

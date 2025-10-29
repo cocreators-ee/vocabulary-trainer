@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on paljon ongelmia taloudellisella eturivillani.",
-    "Hnelt ei ollut koskaan ollut ongelmia tienvarsilla.",
-    "Tm aiheuttaa monia ongelmia nuorille, jotka yrittvt pst alalle."
+    "Minulla on paljon ongelmia koulussa.",
+    "Heidän perheensä kohtasi taloudellisia ongelmia.",
+    "Yrityksellä oli teknisiä ongelmia uuden järjestelmän kanssa."
   ],
   "translation": [
     "problems",
-    "troubles",
-    "issues"
+    "issues",
+    "difficulties"
   ],
-  "context": "The word 'ongelmia' is a plural form of the Finnish word 'ongelma', which means problem or issue. It is commonly used to refer to difficulties or challenges that someone is facing."
+  "context": "Ongelmia is the partitive plural form of 'ongelma' (problem) in Finnish. It indicates problems/issues/difficulties that are being experienced or discussed. The partitive case often indicates an incomplete action, ongoing state, or undefined quantity, which fits well with experiencing problems - they may not be fully resolved yet."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See lugu lõppeb hästi.",
-    "Ta ütles, et see lõppeb varsti.",
-    "Kui see lõppeb, siis ma lähen koju."
+    "Lõuna-Eestis lõppeb talv.",
+    "Koolilõpped on alati rõmsad.",
+    "Päevane tööaja lõpeb kell 17."
   ],
   "translation": [
     "ends",
-    "finishes"
+    "finishes",
+    "concludes"
   ],
-  "context": "The word 'lõppeb' is a verb in Estonian that means to end or finish something, and it is commonly used to describe the completion of an event, action, or period of time."
+  "context": "The word 'lõppeb' is the third-person singular present form of the verb 'lõppema' in Estonian. It means 'ends', 'finishes', or 'concludes'. This word is used when something comes to an end or reaches its conclusion, such as a season (like winter ending), an event (like school finishing), or a period of time (like work hours concluding)."
 }

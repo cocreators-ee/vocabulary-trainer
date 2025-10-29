@@ -1,13 +1,13 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta juuab tee.",
-    "Mäletad juua vett enne treeningut.",
-    "Juu peenras vee ja mina teen sulle midagi soojustavat."
+    "Ma olen näljane ja ma tahan juua.",
+    "Kas sa tahad juua midagi?",
+    "Meie sõbrad joodavad õlut."
   ],
   "translation": [
-    "to drink"
+    "to drink",
+    "drink"
   ],
-  "context": "'juua' means 'to drink.' It is commonly used in the context of consuming liquids such as water, tea, or other beverages. The verb can be conjugated into different forms for past tense, future tense, and imperative mood depending on context."
+  "context": "The Estonian word 'juua' is an infinitive verb that means 'to drink'. It's used to express the action of consuming liquids. The root form changes for different persons and tenses: 'joo' (I/you/he/she drinks), 'joon' (we drink), 'joodav' (drinking/participle). This is a very common verb in everyday Estonian language for expressing thirst, offering beverages, or describing drinking habits."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Voodi on magamisvoodi.",
-    "Ta võttis voodist jalga.",
-    "Vooditööstus on suur tööstusharu."
+    "Voodis magasin kuni hommikuni.",
+    "Lapsed mängivad oma voodite all.",
+    "Tema rääkis voodi peal olevast raamatust."
   ],
   "translation": [
     "bed",
-    "bedframe"
+    "sleeping place"
   ],
-  "context": "The word 'voodi' in Estonian generally refers to a bed or bedframe, and is commonly used in contexts related to furniture or sleeping arrangements."
+  "context": "The word 'voodi' is a noun in Estonian that refers to a bed or sleeping place. It can be used in various contexts such as sleeping, playing under beds, or objects on beds. The form shown is singular nominative, but it can also appear in other cases like the partitive case ('voodis') meaning 'in bed'."
 }

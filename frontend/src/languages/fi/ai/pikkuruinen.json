@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on pikkuruinen tyttö.",
-    "Pikkuruiset kissat ovat suloisia.",
-    "Pikkuruinen auto on helppo parkkeerata."
+    "Tämä pikkuruinen poika on hyvin leikkisä.",
+    "Pikkuruiset sienet kasvoivat metsän pohjalla.",
+    "Minulla on pikkuruinen kissa kotona."
   ],
   "translation": [
     "tiny",
-    "small"
+    "very small",
+    "little",
+    "minute"
   ],
-  "context": "The word pikkuruinen is a Finnish adjective that means something or someone is very small in size, it is often used to describe things like children, animals or objects in an affectionate way."
+  "context": "The Finnish word 'pikkuruinen' is a compound adjective formed from 'pieni' (small) and the diminutive suffix '-ruinen'. It describes something as being very small, tiny, or minute. The word often carries a slightly affectionate or endearing connotation when referring to living things. It can be used for both physical size metaphorical smallness."
 }

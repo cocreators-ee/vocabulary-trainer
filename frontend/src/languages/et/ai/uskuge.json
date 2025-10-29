@@ -1,13 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Uskuge, mis ma leidsin!",
-    "Uskuge see siia!",
-    "Pole midagi väga erilist - uskuge siis tuletan."
+    "Uskuge mind, see on tõesti huvitav!",
+    "Uskuge või mitte, aga ma ei tulnud siia selleks.",
+    "Kas uskuge et ta tuleb?"
   ],
   "translation": [
-    "look"
+    "believe",
+    "trust",
+    "have faith"
   ],
-  "context": "Implies asking someone to look in a specific direction."
+  "context": "The Estonian word 'uskuge' is the plural imperative form of the verb 'usuma' which means 'to believe'. It literally translates to 'you (plural) believe' and is used when addressing multiple people or a formal group, telling them to believe something. This form carries an encouraging or emphatic tone."
 }

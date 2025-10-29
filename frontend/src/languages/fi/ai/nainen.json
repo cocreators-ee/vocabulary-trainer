@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Nainen oli kaunis.",
-    "Naisen vaatteet olivat viimeisimmän muodin mukaisia.",
-    "Naisilla on usein erilaiset oikeudet ja velvollisuudet kuin miehillä."
+    "Nainen istuu pöydän ääressä.",
+    "Minun nimeni on Anna ja olen nainen.",
+    "Tämä nainen on lääkäri."
   ],
   "translation": [
     "woman",
+    "female",
     "lady"
   ],
-  "context": "The word 'nainen' refers to an adult human female in Finnish, and it is commonly used in various contexts to denote a woman or women in general."
+  "context": "The Finnish word 'nainen' is a noun that refers to an adult human female. It's the basic term for woman in Finnish, and it can be used in various contexts similar to how we use 'woman', 'female', or 'lady' in English. The word follows standard Finnish grammatical patterns for nouns, including having different cases depending on its function in a sentence (as seen in the examples where it appears in nominative case)."
 }

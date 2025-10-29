@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen unustanud oma võtmed.",
-    "Ta on unustanud oma parooli.",
-    "Nad olid unustanud oma telefoni koju."
+    "Ma unustasin oma võtmed.",
+    "Ta on unustanud meie kohtumise aja.",
+    "Unustasin sinu nime jälle."
   ],
   "translation": [
+    "have forgotten",
     "forgotten",
-    "left something behind"
+    "forgot"
   ],
-  "context": "The word 'unustanud' is commonly used in Estonian to describe the act of forgetting or leaving something behind, and it is often used in everyday conversations to express that someone has forgotten something important."
+  "context": "The word 'unustanud' is the past participle form of the Estonian verb 'unustama', which means 'to forget'. In English, this corresponds to the perfect tense forms like 'have forgotten', 'forgot', or simply 'forgotten'. It indicates that the forgetting action has been completed in the past. The word can be used with different subjects (I have forgotten, he/she/it has forgotten, etc.) and is commonly used in everyday Estonian to express memory loss regarding something specific."
 }

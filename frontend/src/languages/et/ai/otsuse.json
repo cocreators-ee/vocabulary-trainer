@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsusin minna kinno.",
-    "Ta oli võtnud otsuse kohe pärast seda.",
-    "Otsuse tegemine on raske."
+    "Võttis otsuse ehitada uue maja.",
+    "Otsuse tegemine võtab aega.",
+    "Meie lõppotsus oli positiivne."
   ],
   "translation": [
     "decision",
-    "resolution"
+    "resolution",
+    "conclusion"
   ],
-  "context": "The word 'otsuse' in Estonian means a decision or resolution, and it is commonly used to describe the act of making up one's mind or coming to a conclusion about something."
+  "context": "The word 'otsuse' is the partitive singular form of the Estonian noun 'otsus', which means 'decision'. The partitive case is used in Estonian to indicate incomplete action, ongoing process, or when referring to something as a mass/quantity rather than a complete unit. In this form, it could be used with verbs like 'võtma' (to take/make) or 'tegema' (to do), indicating the process of making decisions or the decision itself in various contexts."
 }

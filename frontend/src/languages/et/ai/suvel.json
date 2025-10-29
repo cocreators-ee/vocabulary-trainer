@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen suvel Tallinnas.",
-    "Suvel on Eestis palav.",
-    "Ta veetis suvel terve kuu saarel."
+    "Kodanikud veedavad suvel aega mere ääres.",
+    "Talvel on külm, aga suvel on soe ja ilus.",
+    "Meie pere käib igal suvel metsas marju korjamas."
   ],
   "translation": [
     "in the summer",
-    "during summer"
+    "during summer time"
   ],
-  "context": "The word suvel is a postposition meaning in or during the summer, and it is commonly used in Estonian to indicate a time period."
+  "context": "The word 'suvel' is an Estonian inessive case form of 'suvi', meaning 'summer'. It indicates that something happens or exists during the summer period. The -l ending shows location/time within, making it equivalent to saying 'in the summer' or 'during summer time' in English."
 }

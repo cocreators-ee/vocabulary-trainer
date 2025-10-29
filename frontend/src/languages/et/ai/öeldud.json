@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlesin öeldud.",
-    "Öeldud on tõsi.",
-    "Ta kordas öeldud sõnad."
+    "See on öeldud selgelt.",
+    "Ta oli öelnud, et tuleb homme.",
+    "Kõik, mis oli öeldud, oli tõsi."
   ],
   "translation": [
     "said",
-    "spoken"
+    "stated",
+    "expressed",
+    "mentioned"
   ],
-  "context": "The word \"öeldud\" is the past participle of the Estonian verb \"ütlema\", which means to say or speak, and it is commonly used to describe something that has been said or spoken."
+  "context": "The word 'öeldud' is the past participle form of the Estonian verb 'öelda', which means 'to say' or 'to tell'. As a past participle, it functions as an adjective and indicates that something has been said by someone. It agrees with the subject in gender, number and case. In its nominative singular form 'öeldud', it can be used to describe something that is stated or expressed."
 }

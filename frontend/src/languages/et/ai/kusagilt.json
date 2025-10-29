@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kusagilt tulnud.",
-    "Ta tuli kusagilt mujalt.",
-    "See on pärit kusagilt mujalt."
+    "Kusagilt tuleb külm tuul.",
+    "Ma ei tea kust ta tuli, aga ilmselt kusagilt siid ümbruskonnast.",
+    "Ta läks kusagilt kaugelt."
   ],
   "translation": [
     "from somewhere",
-    "somewhere"
+    "from some place"
   ],
-  "context": "The word 'kusagilt' is used in Estonian to indicate that something or someone comes from an unspecified location, similar to the English phrase 'from somewhere'."
+  "context": "The Estonian word 'kusagilt' is an adverb meaning 'from somewhere' or 'from some place'. It's formed from the interrogative pronoun 'kust' (where/from where) and the suffix '-agilt', which indicates an unspecified location. This construction follows a common pattern in Estonian where question words are modified to indicate uncertainty or indefiniteness."
 }

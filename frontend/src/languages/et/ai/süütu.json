@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on süütu.",
-    "Süütud inimene ei võta kunagi oma elus üldsegi relva.",
-    "Kõik süütu inimesed kannatavad."
+    "Ta on süütu mees.",
+    "Selle lapse süütus mõjus kõigile.",
+    "Olen süütuna selle eest."
   ],
   "translation": [
     "innocent",
-    "guiltless"
+    "guiltless",
+    "blameless"
   ],
-  "context": "The word 'süütu' is an adjective that means being free from guilt or blame, and it is commonly used to describe someone who has not committed a crime or wrongdoing."
+  "context": "The Estonian word 'süütu' is an adjective that means innocent or guiltless. It describes someone who is not guilty of a crime, offense, or wrongdoing. In different forms: 'süütuna' (in the instrumental case, meaning 'as innocent'), and 'süütus' (the singular partitive form)."
 }

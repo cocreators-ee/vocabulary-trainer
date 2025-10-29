@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hoopis teine inimene",
-    "Ma olen hoopis rahul",
-    "Hoopis parem asi oleks see"
+    " hoopis on ilus päev.",
+    "Ma tegin hoopis midagi muud.",
+    "See oli hoopis teine asi."
   ],
   "translation": [
-    "completely",
-    "totally",
-    "entirely"
+    "actually",
+    "in fact",
+    "really",
+    "quite",
+    "rather"
   ],
-  "context": "The word 'hoopis' is an adverb in Estonian that means completely or totally, and it is used to emphasize the extent of something."
+  "context": "Hoopis is an Estonian intensifier and adverb used to express contrast, emphasis, or surprise. It's often translated as 'actually', 'in fact', 'really', 'quite', or 'depending on context. It can be used to correct a misconception or emphasize that something is different from what was expected."
 }

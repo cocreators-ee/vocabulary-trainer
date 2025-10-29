@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma aitad teda.",
-    "Ta aitab mind.",
-    "Me aitasime vanainimest."
+    " aitad meid aidata?",
+    " aitad öelda seda uuesti?",
+    " aitad tuua vett?"
   ],
   "translation": [
-    "help",
-    "assist"
+    "you help",
+    "you assist",
+    "you lend a hand"
   ],
-  "context": "The word 'aitad' is the second person singular form of the Estonian verb 'aitama', which means to help or assist someone. It is commonly used in sentences where the subject is providing assistance or support to another person."
+  "context": "The Estonian word 'aitad' is the informal second person singular present tense form of the verb 'aitama', which means 'to help'. It's commonly used in everyday situations when asking someone for assistance. The word comes from the root 'aita-' and follows regular Estonian conjugation patterns."
 }

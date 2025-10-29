@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen õiget teed käinud",
-    "Ta ütles, et see on õiget sorti asi",
-    "Õiget inimest on raske leida"
+    "Õiget tegu!",
+    "Tegin õigest asjast.",
+    "Mul on õige vastus."
   ],
   "translation": [
     "right",
     "correct",
     "proper"
   ],
-  "context": "The word õiget is an adjective in Estonian that means right, correct or proper, it is commonly used to describe something that is accurate or appropriate."
+  "context": "The word 'õiget' is the partitive case form of the Estonian adjective 'õige', meaning 'right' or 'correct'. In this form, it typically follows a verb (like 'tegema' - to do) and indicates that something was done correctly, properly, or appropriately. The partitive case here shows that we're talking about some aspect or instance of being correct/right rather than the entirety."
 }

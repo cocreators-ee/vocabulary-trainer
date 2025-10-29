@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mõtlen sellele",
-    "Ta mõtleb tulevikku",
-    "Me mõtleme koos"
+    "Mõtleme järgmise sammu peale.",
+    "Me mõtleme lahendusele.",
+    "Kuidas me mõtleme sellest probleemist?"
   ],
   "translation": [
     "let's think",
-    "think about it"
+    "we think",
+    "we are thinking"
   ],
-  "context": "The word 'mõtleme' is the first person plural form of the verb 'mõtlema', which means to think or consider something, and in this context, it is used to suggest thinking about something together."
+  "context": "The word 'mõtleme' is the 1st person plural present indicative form of the Estonian verb 'mõtlema', which means 'to think'. It is formed by adding the suffix '-me' to the stem 'mõtl-' (from 'mõtle-'), indicating that we (the speaker and at least one other) are engaged in thinking or considering something. This is a common form used when suggesting collective thought processes or expressing current mental activity of a group."
 }

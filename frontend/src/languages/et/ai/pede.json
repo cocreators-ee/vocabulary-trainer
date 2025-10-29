@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tema jalad hakkasid peda.",
-    "Ta pedas kui jõul saabas.",
-    "Pidev voolikas teekond sunnib mind pedama."
+    "Peda mind!",
+    "Pedasid mind!",
+    "Olen pedanud."
   ],
   "translation": [
-    "to walk with difficulty, to stumble"
+    "to beat up",
+    "to hit",
+    "to strike"
   ],
-  "context": "The word 'peda' in Estonian is a verb meaning to walk with difficulty, as if one's feet are not cooperating. It describes the act of stumbling or shuffling along, often due to tiredness, illness, or intoxication."
+  "context": "The Estonian verb 'pede' is the first person singular form of the verb 'pedia', which means to beat, hit or strike someone. It's an informal colloquial term used in spoken language. The word changes form depending on the subject and tense - as seen in the examples showing different conjugations (present, past)."
 }

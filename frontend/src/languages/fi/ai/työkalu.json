@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun on oltava tarkkana työkalujen kanssa",
-    "Työkalu on hyvä apu tässä tilanteessa",
-    "Hän on ostanut uuden työkalun"
+    "Minulla on hyvä työkalu tähän projektiin.",
+    "Tämä on työkalu, jota tarvitsen käsityöhön.",
+    "Työkalut ovat olennaisia kaikessa rakentamisessa."
   ],
   "translation": [
     "tool",
-    "instrument"
+    "instrument",
+    "implement"
   ],
-  "context": "The word työkalu refers to an object used to help perform a particular task, and it is commonly used in Finnish to describe various tools or instruments."
+  "context": "The Finnish word 'työkalu' means 'tool' in English. It refers to an instrument or device used to carry out a particular function, especially for mechanical purposes. The word is commonly used when referring to physical tools like hammers, screwdrivers, saws, etc., but can also refer to more abstract tools such as software applications or methods that help accomplish tasks."
 }

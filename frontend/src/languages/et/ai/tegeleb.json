@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta tegeleb oma kodu juures.",
-    "Mina ei tea, miks ta tegeleks selliste asjadega.",
-    "Tegeled kindlasti väga hästi selle ülesandega."
+    "Ta tegeleb koolitöödga.",
+    "Mees tegeleb äriga.",
+    "Naised tegelevad igapäevaste ülesannetega."
   ],
   "translation": [
-    "manages",
+    "deals with",
+    "engages in",
     "handles",
-    "deals with"
+    "is concerned with"
   ],
-  "context": "'tegeleb' is used to indicate someone managing or handling a situation, task, or aspect of their life. It can also mean dealing with something in a practical way. The verb often implies taking responsibility for something."
+  "context": "The word 'tegeleb' is the 3rd person singular form of the Estonian verb 'töötelda', which means to deal with, handle, or be engaged in something. It indicates what someone is currently doing or working on."
 }

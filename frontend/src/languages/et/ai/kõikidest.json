@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kuulnud kõikidest neist.",
-    "Ta on õppinud kõikidest erinevatest keeltest.",
-    "Kõikidest asjadest hoolimata oli ta väga õnnelik."
+    "Kõikidest õpilastest osales kooliüritusel.",
+    "Ta oli parem kui kõikidest teistest konkurentidest.",
+    "Kõikidest võimalustest valis ta kõige kasulikuma."
   ],
   "translation": [
     "from all",
+    "from everyone",
     "of all"
   ],
-  "context": "The word kõikidest is a postposition in Estonian that indicates the origin or source of something, and it is commonly used to express the idea of something coming from all directions or sources."
+  "context": "The word 'kõikidest' is the elative case (from/out of) plural form of 'kõik', meaning 'all' or 'everyone'. It indicates something coming out from among all people, things, or options. In English, this would translate to phrases like 'from all', 'from everyone', or 'of all' depending on context."
 }

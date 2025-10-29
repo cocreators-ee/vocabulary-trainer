@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on tehniliselt võimeline seda tegema.",
-    "See on tehniliselt võimalik, kuid pole praktiline.",
-    "Tehniliselt on see õige, aga mitte praktiline."
+    "Tehniliselt on see lahendus kehtetav.",
+    "Me peame tehniliselt kontrollima kõik dokumendid.",
+    "See projekt on tehniliselt keeruline realiseerida."
   ],
   "translation": [
     "technically",
+    "in technical terms",
     "from a technical standpoint"
   ],
-  "context": "The word 'tehniliselt' is an adverb in Estonian that means from a technical standpoint or technically, it is used to describe something that is possible or correct from a technical perspective, but may not be practical or feasible in reality."
+  "context": "The Estonian word 'tehniliselt' is an adverb that means 'technically' in English. It's formed by adding the '-lt' suffix to the adjective form of the word, which modifies it to indicate manner or perspective. This word is commonly used when discussing something from a technical viewpoint, focusing on technical aspects rather than practical or human elements."
 }

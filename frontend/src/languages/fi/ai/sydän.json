@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun sydämeni lyö nopeasti.",
-    "Hänellä on sydän kultaa.",
-    "Sydäninfarkti voi johtua monista tekijöistä."
+    "Minun sydämeni on täynnä rakkautta.",
+    "Sydämesi on hyvänlaatuinen.",
+    "Hänellä on vahva sydän."
   ],
   "translation": [
-    "heart"
+    "heart",
+    "center",
+    "core"
   ],
-  "context": "The word 'sydän' refers to the heart, which is a vital organ that pumps blood throughout the body, and it can also be used figuratively to describe emotions or feelings, such as love or kindness."
+  "context": "In Finnish, 'sydän' means 'heart' and can refer to either the physical organ or metaphorically to the center/core of something. It's a common noun in Finnish language that appears in various contexts, from medical descriptions to emotional expressions."
 }

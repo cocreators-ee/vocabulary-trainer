@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "See on juba tehtud, kuidas ka tõestada.",
-    "Miks otsid sind ikka ja jälle?",
-    "Kui see ei tööta, siis peame tegema midagi mujad."
+    "Ongi kõik valmis.",
+    "Töö ongi tehtud.",
+    "Ta ongi alati õigel ajal kohal."
   ],
   "translation": [
     "indeed",
-    "in fact",
-    "after all"
+    "already",
+    "exactly",
+    "precisely"
   ],
-  "context": "The word 'ongi' in Estonian is used to express emphasis or confirmation of a statement. It can mean 'indeed', 'in fact', or 'after all'. It's commonly used to add clarity or stress the truth of what has been said."
+  "context": "The Estonian word 'ongi' is an intensifier particle that emphasizes the truth or certainty of a statement. It's commonly used to add emphasis, similar to saying 'indeed', 'already', or 'exactly' in English. This particle typically follows the verb and serves to confirm or strengthen what has been said."
 }

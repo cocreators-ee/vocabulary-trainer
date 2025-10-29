@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma käisin kirikus.",
-    "Kiriku torn on väga ilus.",
-    "Kirik on pühakoda."
+    "Tallinna vanalinnas on hästi säilinud keskaegne kirik.",
+    "Meie külas on kaks väikest kirikut.",
+    "Kirikus peeti hommikul missa."
   ],
   "translation": [
-    "church"
+    "church",
+    "house of worship"
   ],
-  "context": "The word 'kirik' refers to a building where Christians gather for worship and other religious activities, and is commonly used in Estonian to describe such a place of worship."
+  "context": "The word 'kirik' is an Estonian noun that means 'church' or 'house of worship'. It refers to a building used for Christian religious services, particularly Protestant churches. In Estonia, which has a Lutheran tradition, this term specifically denotes church buildings where congregations gather for worship services, ceremonies, and community events."
 }

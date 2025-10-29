@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mulle meeldiks see film",
-    "Meeldiks sulle see raamat?",
-    "Meeldib, kui meeldiks!"
+    "Meeldiks, kui sa tulaksid koos meiega.",
+    "Mul meeldiks näha sind uuesti.",
+    "Kas sulle meeldiks mind aidata?"
   ],
   "translation": [
-    "I like it",
-    "you like it"
+    "would like",
+    "would enjoy",
+    "appeal to"
   ],
-  "context": "The word meeldiks is a verb in Estonian that means to like something, and it is commonly used in sentences to express preference or enjoyment."
+  "context": "The Estonian word 'meeldiks' is a conditional form of the verb 'meelda' (to please/like). It's used in hypothetical situations or polite requests, similar to English expressions like 'I would like...' or 'it would be pleasing if...'. This form typically appears in sentences expressing desires, preferences, or suggestions in a courteous manner."
 }

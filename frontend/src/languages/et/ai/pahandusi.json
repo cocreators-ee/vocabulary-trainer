@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tegi mulle pahandusi.",
-    "Ma ei taha olla pahandusi.",
-    "Pahandusi on halb."
+    "Vabandan eile tekitatud pahanduste eest.",
+    "Ta tegi palju pahandusi oma käitumisega.",
+    "Kõik need pahandused muutsid kõigi elu keerulisemaks."
   ],
   "translation": [
-    "trouble",
-    "problem",
-    "difficulty"
+    "troubles",
+    "problems",
+    "difficulties",
+    "inconveniences"
   ],
-  "context": "The word 'pahandusi' in Estonian generally refers to a troublesome situation or problem. It can also describe causing trouble or being a nuisance, similar to the English words 'trouble', 'problem', or 'difficulty'."
+  "context": "The word 'pahandusi' is the partitive plural form of 'pahandus', which means trouble or problem in Estonian. The '-i' ending indicates it's in the partitive case, and the '-duse' suffix suggests a state or condition of being problematic. This form would typically be used when referring to multiple unspecified troubles or problems that are experienced as objects, often with verbs like 'tekitama' (to cause) or 'tegema' (to make/do)."
 }

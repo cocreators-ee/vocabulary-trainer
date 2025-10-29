@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lõpetan selle punkti kohta.",
-    "Punktid on olulised kirjutamisel.",
-    "Ta teatas sellest punktist juba eile."
+    "See on tähtis punkt arutelus.",
+    "Ma olen sama meeli selles punktis.",
+    "Punkt number kolm on kõige olulisem."
   ],
   "translation": [
     "point",
-    "item"
+    "dot",
+    "period",
+    "full stop"
   ],
-  "context": "The word 'punkt' in Estonian generally refers to a point or an item, and it is commonly used in the context of listing or discussing specific topics or issues."
+  "context": "The Estonian word 'punkt' has multiple meanings depending on context. It can mean 'point' (as in a location or argument), 'dot' (punctuation mark like periods in decimal numbers), 'period/full stop' (the punctuation ending sentences). The word is commonly used in both mathematical contexts and everyday language to mark specific locations, arguments, or punctuation marks."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma aitasin teda homme.",
-    "Ta aitas mind selles asjas.",
-    "Nad aitavad meid alati."
+    "Ta aitas vanematel.",
+    "Meie aitame lastel.",
+    "Nad aitasid meil."
   ],
   "translation": [
-    "helped"
+    "helped",
+    "assisted"
   ],
-  "context": "The word 'aitas' is the past tense of the Estonian verb 'aitama', which means to help. It is commonly used in sentences to describe actions where someone assisted or supported another person."
+  "context": "'Aitab' is the third-person singular form of the Estonian verb 'aitama', which means 'to help' or 'to assist'. It's used when describing what someone (he/she/it) does to provide assistance. The word changes form depending on the subject performing the action and can appear in different tenses as well."
 }

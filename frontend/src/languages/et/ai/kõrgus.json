@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elab kõrgus 100 meetrit üle merepinna.",
-    "Kõrgus on oluline tegur lennunduses.",
-    "Mäe kõrgus oli väga suur."
+    "Kõrgus mäe tipul on üle tuhande meetri.",
+    "Tolmu kõrgus õhus oli väga suur täna hommikul.",
+    "Lennuki kõrguse muutmine toimub automaatselt."
   ],
   "translation": [
     "height",
-    "altitude"
+    "altitude",
+    "elevation"
   ],
-  "context": "The word kõrgus refers to the measure of how tall or high something is, and it is commonly used in Estonian to describe the height of objects, mountains, or buildings."
+  "context": "The Estonian word 'kõrgus' means height, altitude or elevation in English. It refers to the measurement of how high something is above a reference point. This can be used for physical heights of objects (like mountains, buildings), as well as altitude when referring to aircraft or geographical elevations."
 }

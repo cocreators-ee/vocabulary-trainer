@@ -1,15 +1,16 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Se on hieno päivä.",
-    "Hienot maisemat ovat aina ihastuttavia.",
-    "Hienoa työtä!"
+    "Tämä on hieno talo.",
+    "Hän puhui hyvin hienosti.",
+    "Olemme nähneet hienon elokuvan."
   ],
   "translation": [
     "fine",
+    "nice",
     "beautiful",
-    "excellent"
+    "excellent",
+    "wonderful"
   ],
-  "context": "The word 'hieno' in Finnish generally means something or someone that is of high quality, beautiful, or excellent, and it can be used to describe a wide range of things, from the weather to a person's appearance or achievements."
+  "context": "The Finnish word 'hieno' is an adjective that means fine, nice, beautiful, or excellent. It can be used to describe something as being of good quality or appearance. When describing a masculine singular noun (like talo - house), it appears in its basic form 'hieno'. When modifying the verb (as in the second example with '-sti' adverbial ending), it becomes 'hienosti'. The word can be used for both tangible objects and abstract qualities."
 }

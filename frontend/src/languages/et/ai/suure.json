@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan suure perekonna.",
-    "Suure huviga loen raamatut.",
-    "Suure maiuspinnaga klahvikestad on hästi võimas."
+    "Müük suure põhjalusega.",
+    "Ta on väga suure iseloomuga.",
+    "See on suure tähtsusega asi."
   ],
   "translation": [
     "big",
+    "large",
     "great"
   ],
-  "context": "The word 'suure' in Estonian is used to describe something as big or great in size or extent, and it can be used in various contexts such as describing a large family or expressing enthusiasm for an activity."
+  "context": "The word 'suure' is the elative case (from what/where) of the Estonian adjective 'suur', meaning 'big', 'large', or 'great'. It's used when something is coming out from, resulting from, or characterized by a big/large/great quality. In these examples: 1) Sales with great foundation (from a great basis), 2) He has a very great character, 3) This is an affair of great importance."
 }

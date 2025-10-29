@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lubasin tema taotlust.",
-    "Ta lubas mulle uut ketti osta.",
-    "Lubasin talle appi võtta."
+    "Ma lubasin homme kohtuda temaga.",
+    "Tema lubas meile aidata.",
+    "Me oleme lubanud seda teha."
   ],
   "translation": [
     "promised",
-    "agreed"
+    "assured",
+    "guaranteed"
   ],
-  "context": "The word 'lubasin' is the first person singular past tense form of the Estonian verb 'lubama', which means to promise or agree to something. It is commonly used in everyday conversations to express a commitment or agreement to do something."
+  "context": "The word 'lubasin' is the first person singular past tense form of the Estonian verb 'luba', which means to promise or assure. It indicates that someone (the speaker) made a promise in the past. In this case, it's specifically 'I promised'."
 }

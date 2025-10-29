@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mõtlesin seda välja.",
-    "Ta mõtles, et see on hea idee.",
-    "Nad mõtlesid, et see on liiga raske."
+    "Mõtlesin oma sõpradega eile kohtumise üle.",
+    "Sa mõtlesid kuidas reisida Tallinnast Pärnusse?",
+    "Nad ei mõtlenud seda ette."
   ],
   "translation": [
     "thought",
-    "considered"
+    "considered",
+    "pondered"
   ],
-  "context": "The word 'mõtlesid' is the past tense of the verb 'mõtlema', which means to think or consider something. It is commonly used in Estonian to express thoughts or opinions about a particular topic or situation."
+  "context": "The word 'mõtlesid' is the past tense, second person singular form of the verb 'mõtlema', which means 'to think'. It is used when addressing someone directly (you) in the past tense to indicate that they were thinking about something."
 }

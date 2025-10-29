@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen korraliku tööga hõivatud.",
-    "Korralik inimene peab olema aus.",
-    "Ta on väga korralik ja töökus."
+    "Korralikult töötasid.",
+    "Töö korras oli hästi tehtud.",
+    "Meil on kõik korras."
   ],
   "translation": [
-    "order",
-    "arrangement",
-    "organization"
+    "properly",
+    "orderly",
+    "in order"
   ],
-  "context": "The word 'korral' in Estonian generally refers to something being in order or organized, and is commonly used to describe a system or structure that is well-planned and functioning properly."
+  "context": "In Estonian, 'korral' is an adverbial form derived from the root word 'kord' meaning 'time' or 'occasion'. As an adverb, it means 'properly', 'orderly', or 'in order'. It's often used to describe actions done in a correct, organized manner. The related adjective form would be 'korralik' (proper/orderly) and the noun 'kord' (time/occurrence)."
 }

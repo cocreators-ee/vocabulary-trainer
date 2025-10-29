@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Valik on hea.",
-    "Ta tegi valiku.",
-    "See on minu valik."
+    "Mul on hea valik raamatuid lugeda.",
+    "Tegelikult olin väga hästi valiku tegemise osas.",
+    "Meil on lai valik tooteid."
   ],
   "translation": [
     "choice",
-    "selection"
+    "selection",
+    "option",
+    "range"
   ],
-  "context": "The word 'valik' in Estonian refers to the act of choosing or selecting something, and it is commonly used in various contexts such as making decisions, picking options, or preferring one thing over another."
+  "context": "The Estonian word 'valik' is a noun that means choice, selection, option, or range. It refers to the act of choosing from different alternatives or the set of options available for selection. In Estonian grammar, it would typically be in nominative singular form as shown."
 }

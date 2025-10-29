@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän teki lipsahduksen kävelyllä.",
-    "Lipsahdukset ovat yleisiä vanhoissa taloissa.",
-    "Talon perustuksissa on lipsahdus."
+    "Hänen huulillaan oli pieni lipsahdus hymy.",
+    "Tuli muistikuksi vain nopea lipsahdus menneisyyteen.",
+    "Lipsahduksen jälkeen kaikki palasi normaaliin."
   ],
   "translation": [
-    "crack",
-    "fissure"
+    "slip",
+    "slight movement",
+    "twitch",
+    "brief appearance"
   ],
-  "context": "The word lipsahdus refers to a crack or fissure, often used to describe a small gap or split in something, such as a wall or a foundation."
+  "context": "The Finnish word 'lipsahdus' is a noun referring to a small, quick movement or slip that happens briefly. It can describe physical movements like a slight twitch of lips or a brief mental slip where something appears fleetingly in memory. The word derives from the verb 'lipsahtaa' (to slip) and typically implies something momentary rather than sustained."
 }

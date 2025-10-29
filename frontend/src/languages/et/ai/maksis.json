@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta maksis arve kohe.",
-    "Ma ei saa seda maksta.",
-    "Palun makske sularahas."
+    "Tema maksis eile arve.",
+    "Meie lapsed maksid kooli eest.",
+    "Nad maksid teretulnud külalised."
   ],
   "translation": [
     "paid",
-    "pay",
-    "to pay"
+    "covered (the cost)",
+    "settled"
   ],
-  "context": "The Estonian word 'maksis' is the past tense of the verb 'maksta', which means 'to pay'. It indicates that someone has already completed a payment for something. In English, it’s commonly used to describe a finished transaction or settlement of a debt."
+  "context": "The Estonian word 'maksis' is the third-person singular past tense form of the verb 'maksta', meaning 'to pay'. It's used when referring to someone who paid for something in the past. The word can refer to payment for goods, services, debts, or expenses. In different contexts, it might specifically mean covering costs, settling accounts, or paying bills."
 }

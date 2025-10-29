@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tõusis pinnale pärast pikka sukeldumist.",
-    "Uued probleemid kerkisid taas pinnale.",
-    "Pinnale pääsemiseks tuli palju vaeva näha."
+    "Ta läks pinnale vaatama",
+    "Kala ujus pinnale",
+    "Laps tõusis pinnale"
   ],
   "translation": [
-    "surface",
-    "top",
-    "ashore"
+    "onto the surface",
+    "to the top",
+    "up to the surface"
   ],
-  "context": "The word 'pinnale' in Estonian refers to the surface of something, or coming to the surface. It can also be used metaphorically to mean that a problem or issue has become apparent."
+  "context": "The Estonian word 'pinnale' is an adessive case form of 'pinna', meaning 'surface'. It indicates movement or placement onto a surface. The '-le' ending in Estonian typically shows destination or location, similar to English prepositions like 'onto', 'to the top of', or 'up to'. This word is commonly used when referring to something reaching or being placed on a physical surface."
 }

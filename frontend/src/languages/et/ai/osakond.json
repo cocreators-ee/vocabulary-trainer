@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on üks osakond.",
-    "Osakonnad on erinevad.",
-    "Ta töötab finantsosakonnas."
+    "Töötan meie finantsiosakonnas.",
+    "Mingi osaüksusest lahkus töölt.",
+    "Kõik osakonnad peavad esitama aruande kolme päeva jooksul."
   ],
   "translation": [
-    "department"
+    "department",
+    "division",
+    "branch"
   ],
-  "context": "The word 'osakond' in Estonian refers to a department or division within an organization, and is commonly used in contexts such as business, education, or government."
+  "context": "The word 'osakond' in Estonian is a noun that refers to an organized unit or division within a larger organization, such as a department in a company, a branch of an institution, or a subdivision. It's commonly used in business and organizational contexts to denote specific functional areas like the finance department, marketing department, etc."
 }

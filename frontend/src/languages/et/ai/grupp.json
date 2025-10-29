@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Meie grupp võitis mängu.",
-    "Grupp meie sõbrad koos erinevates situatsioonides.",
-    "Ta liitus uue gruppiga.",
-    "Tema lugu oli gruppide vahel väga populaarne."
+    "Meie grupp koosneb viiest inimesest.",
+    "Tüdrukud moodustavad omaette grupi.",
+    "See on väga hea grupp tööks."
   ],
   "translation": [
-    "group"
+    "group",
+    "team",
+    "band",
+    "crew"
   ],
-  "context": "Used to refer to a collection of people or things that belong together for some reason, such as in an organization, team, category, etc."
+  "context": "The word 'grupp' is an Estonian noun that means 'group'. It can refer to any collection of people or things that are together for a common purpose. In different contexts, it could translate as 'team', 'band', 'crew', or simply 'group'. The word is used in both formal and informal settings in Estonia."
 }

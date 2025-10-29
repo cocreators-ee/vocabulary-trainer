@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tundsin rõõmu",
-    "Rõõm on hea tunne",
-    "Ta naeris rõõmsalt"
+    "Rõõm on meeldiv tunne.",
+    "Ta täitis rõõmuga oma südame.",
+    "Lapsed naersid rõõmsalt mängu ajal."
   ],
   "translation": [
     "joy",
-    "delight",
-    "happiness"
+    "happiness",
+    "delight"
   ],
-  "context": "The word rõõm refers to a feeling of great pleasure or happiness, often used to describe a positive emotional state."
+  "context": "The Estonian word 'rõõm' is a noun that means joy or happiness. It describes a feeling of great pleasure and delight, often associated with positive emotions and celebrations. In the first sentence it's used as the subject, in the second it shows possession ('with joy'), and in the third it's an adverbial form indicating how something was done (joyfully)."
 }

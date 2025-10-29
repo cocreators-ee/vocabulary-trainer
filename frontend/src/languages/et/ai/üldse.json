@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma üldse ei tea",
-    "Ta üldse ei räägi inglise keelt",
-    "Üldse võib öelda, et see on hea raamat"
+    "Mul ei ole üldse aega.",
+    "Ta ei tule üldse täna.",
+    "Mis üldse toimub?"
   ],
   "translation": [
     "at all",
-    "generally",
-    "on the whole"
+    "really",
+    "completely"
   ],
-  "context": "The word \"üldse\" in Estonian is an adverb that can be translated to English as 'at all' or 'generally', and it is used to indicate a general or overall situation."
+  "context": "\"Üldse\" is an Estonian adverb that means \"at all\" or \"completely\". It's used to emphasize negation or totality, often appearing in negative sentences but can also be used in questions to express surprise or emphasis. The word intensifies the meaning of what follows it."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on palju sõpru.",
-    "Ta on minu sõber.",
-    "Nad on head sõbrad."
+    "Mul on head sõpru.",
+    "Tema käis oma sõpruga kohtumas.",
+    "Meie sõpru külastasid täna."
   ],
   "translation": [
-    "friends"
+    "friends (partitive case)",
+    "people one is friendly with",
+    "companions"
   ],
-  "context": "The word sõpru is the plural form of the Estonian word sõber, which means friend. It is commonly used to refer to close relationships or acquaintances."
+  "context": "The word 'sõpru' is the partitive form of the Estonian noun 'sõber', which means 'friend'. In Estonian, nouns have different cases that indicate their grammatical function in a sentence. The partitive case (ending -u) is often used to indicate partialness or indefiniteness, and here it shows that we're talking about some friends or an unspecified number of friends. This form would typically be used with certain verbs or when the object is indefinite."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahaksin teha seda tööd.",
-    "Ta teeb oma parima, et olla õnnelik.",
-    "Teadmisel, et see on hea tegu."
+    "Teha midagi tähendab luua või korrata tegevust.",
+    "Meie pere teeb iga päev hommikuti sporti.",
+    "Ta teeb hästi tööd koolis."
   ],
   "translation": [
-    "do",
-    "make"
+    "to do",
+    "to make",
+    "to create",
+    "to perform"
   ],
-  "context": "The word 'teha' in Estonian generally means to do or make something, and it is commonly used in various contexts to express the act of performing an action or creating something."
+  "context": "The Estonian word 'teha' is a versatile verb that means 'to do', 'to make', or 'to create'. It's one of the most fundamental verbs in Estonian and can be used in many contexts similar to how we use 'do' and 'make' in English. The verb can indicate performing an action, creating something, or being involved in activities."
 }

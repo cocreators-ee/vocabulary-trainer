@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sageli käin kaupas.",
-    "Sageli tuleb sadu.",
-    "Ta on sageli haige."
+    "Sageli käin poodis.",
+    "Me sageli kohtume.",
+    "Ta sageli jookseb hommikul."
   ],
   "translation": [
     "often",
-    "frequently"
+    "frequently",
+    "regularly"
   ],
-  "context": "The word 'sageli' in Estonian means doing something regularly or many times, it is an adverb that indicates frequency."
+  "context": "The Estonian word 'sageli' is an adverb that means 'often', 'frequently', or 'regularly'. It indicates something that happens with some regularity but not necessarily every time. In Estonian grammar, it's used to express frequency of actions."
 }

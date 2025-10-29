@@ -1,13 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on lista ostoksille.",
-    "Hän laati listan tehtävistä.",
-    "Lista oli pitkä ja monimutkainen."
+    "Tämä on lista ostoslistani.",
+    "Hän teki listan kaikista tehtävistä.",
+    "Voitko antaa minulle listan?",
+    "Listat ovat järjestettynä aakkosjärjestyksessä."
   ],
   "translation": [
-    "list"
+    "list",
+    "schedule",
+    "roster"
   ],
-  "context": "The word 'lista' in Finnish refers to a series of items or tasks written or printed in a specific order, and it is commonly used in everyday life to organize and prioritize tasks or items to be done or purchased."
+  "context": "The Finnish word 'lista' means 'list' in English. It's used to refer to any kind of organized enumeration or record - shopping lists, to-do lists, guest lists, schedules, etc. The word is commonly used in everyday situations when organizing information or tasks."
 }

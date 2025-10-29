@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tunnistan seda meest.",
-    "Ta ei tunnista enda süüd.",
-    "Tunnista see number."
+    "Tunnista see kujutis.",
+    "Ta tunnistas oma sõbra üles.",
+    "Kas sa suudad seda meloodiat tuvastada?"
   ],
   "translation": [
     "recognize",
-    "acknowledge",
-    "identify"
+    "identify",
+    "determine"
   ],
-  "context": "The word 'tunnista' in Estonian means to recognize or acknowledge something, and it is commonly used in sentences to describe the act of identifying a person, object, or fact."
+  "context": "The Estonian word 'tunnista' is a verb that means to recognize, identify, or determine something. It's used when you acknowledge someone or something as familiar or known, or when you establish the identity of something. This word comes from the root 'tunne' which relates to knowing or being familiar with something."
 }

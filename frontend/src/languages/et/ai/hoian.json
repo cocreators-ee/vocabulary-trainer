@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ta hoiatas mind selle eest.",
-    "Politsei hoiatas inimesi tormi eest.",
-    "Hoiatus tuli liiga hilja."
+    "Ma hoian oma koera.",
+    "Ta hoia lapse käest.",
+    "Me peame hoopis hästi hoima."
   ],
   "translation": [
-    "warn",
-    "caution",
-    "alert"
+    "hold",
+    "keep",
+    "maintain"
   ],
-  "context": "The Estonian word 'hoian' is a verb that means to warn or caution someone about a potential danger or problem. It’s commonly used when alerting others to risks, like bad weather or a hazardous situation."
+  "context": "The Estonian word 'hoian' is the 1st person singular present tense form of the verb 'hoida', which means 'to hold', 'to keep', or 'to maintain'. It indicates an ongoing action where the speaker is actively holding something in their possession, keeping it safe, or maintaining a state. The word follows Estonian conjugation patterns with the '-n' ending indicating 1st person singular present tense."
 }

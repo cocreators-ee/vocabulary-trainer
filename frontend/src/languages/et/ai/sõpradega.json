@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minu sõbrad on väga head.",
-    "Tema parim sõber elab teises linnas.",
-    "Meil on palju ütekaaslasi."
+    "Minu sõbradega kohtume kinos.",
+    "Tüdrukud jooksevad sõpradega pargis.",
+    "Meie lapsed mängivad alati sõpradega."
   ],
   "translation": [
     "with friends",
-    "friends",
-    "friend"
+    "together with friends"
   ],
-  "context": "'sõpradega' is the inessive form of 'sõbrad', which means 'friends'. It is used to indicate being with or among friends. In Estonian, it can also be translated as just 'friends' depending on context."
+  "context": "The word 'sõpradega' is the Estonian instrumental plural form of 'sõbrad' (friends), where '-ga' means 'with'. It indicates accompaniment or association - that someone is doing something along with their friends. The singular form would be 'sõbraga' (with a friend)."
 }

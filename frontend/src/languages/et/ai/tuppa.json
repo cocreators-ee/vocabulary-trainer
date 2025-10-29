@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks tuppasse magama.",
-    "Meie tuppa on väga soe.",
-    "Kas sa saad tulla mu tuppa?"
+    "Tuppa koju ja puhka!",
+    "Ma tuppasin hommikul magama jääma.",
+    "Ärge tuppagi praegu!"
   ],
   "translation": [
-    "room",
-    "chamber",
-    "space"
+    "go to sleep",
+    "fall asleep",
+    "nod off"
   ],
-  "context": "The word 'tuppa' in Estonian generally refers to a room within a house, often implying a living room or bedroom. It can also refer to any enclosed space."
+  "context": "The Estonian word 'tupper' (and its imperative form 'tuppa') means 'to fall asleep' or 'to go to sleep'. It's commonly used in everyday speech when telling someone to go rest, similar to how we might say 'go to bed' in English. The verb implies the action of starting to sleep and is often used with children or when speaking casually."
 }

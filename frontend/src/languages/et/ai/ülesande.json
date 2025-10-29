@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen valmis ülesande täitmiseks",
-    "Ülesande lahendamiseks on vaja rohkem aega",
-    "See ülesanne on liiga raske minu jaoks"
+    "Ma olen täna ülesande ära teinud.",
+    "Õpetaja andis meile uue ülesande.",
+    "Kas sa oled veel oma ülesande lõpetanud?"
   ],
   "translation": [
-    "task",
     "assignment",
-    "mission"
+    "task",
+    "problem",
+    "exercise"
   ],
-  "context": "The word ülesande is commonly used in Estonian to refer to a task or assignment that needs to be completed, and it can be used in various contexts such as work, school, or personal projects."
+  "context": "The Estonian word 'ülesande' is the partitive form of 'ülesanne', which means assignment or task. It refers to something that needs to be completed, particularly in an educational or work context. The partitive case here indicates that it's being referred to as an object - something that exists or is being discussed."
 }

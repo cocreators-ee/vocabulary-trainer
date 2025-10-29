@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Talo muistuttaa kolmiota.",
-    "Kolmion muotoinen purkki on hyvin vakaa.",
-    "Geometriset kuviot koostuvat useista kolmioista."
+    "Kolmion kulmat ovat suorat.",
+    "Tämä on kolmiomainen muoto.",
+    "Minun huoneeni on pieni kolmio."
   ],
   "translation": [
     "triangle",
-    "triangular"
+    "triangular shape"
   ],
-  "context": "The word kolmio refers to a geometric shape with three sides and three angles, commonly used in mathematics, architecture, and design."
+  "context": "The Finnish word 'kolmio' means triangle or triangular shape. It is a noun that refers to a geometric figure with three sides and three angles. In the examples, it's used in different contexts: as a simple statement about right angles of a triangle, describing something triangular in shape, and referring to a room with a triangular layout."
 }

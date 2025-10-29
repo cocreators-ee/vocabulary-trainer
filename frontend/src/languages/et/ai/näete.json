@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen seda.",
-    "Sa näed mind.",
-    "Me näeme teineteist."
+    "Kas te näete seda?",
+    "Meie ei näeta midagi erilist.",
+    "Näetes tulemust oli meeldejääv."
   ],
   "translation": [
-    "see",
-    "notice"
+    "you see",
+    "you look",
+    "you observe"
   ],
-  "context": "The word näete is the second person plural form of the verb nägema, which means to see or notice something, and it is commonly used in Estonian language to convey the idea that someone is seeing or perceiving something."
+  "context": "The Estonian word 'näete' is the second person plural present tense form of the verb 'nägema', which means 'to see'. It's used when addressing multiple people and asking or stating what they are currently seeing. The '-te' ending indicates it's in the polite/formal 'you' form for a group."
 }

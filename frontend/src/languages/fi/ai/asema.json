@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Asema on kaupungin keskustassa.",
-    "Tämä asema on helppo löytää.",
-    "Hän meni rautatieasemalle."
+    "Helsinkiin on uusi rautatieasema.",
+    "Tämä on bussiasema numero 5.",
+    "Lähetysasema lähettää signaalia jatkuvasti."
   ],
   "translation": [
     "station",
-    "position",
-    "location"
+    "terminal",
+    "base"
   ],
-  "context": "The word 'asema' in Finnish generally refers to a station, such as a train or bus station, but it can also mean position or location, depending on the context in which it is used."
+  "context": "The Finnish word 'asema' is a noun that refers to various types of stations or bases. It can be used for transportation facilities like train stations (rautatieasema), bus stations (bussiasema), broadcasting stations (lähetysasema), or other establishments where specific activities are centered. The word comes from the German 'Station' and has become a common term in Finnish for places designated as centers of activity, particularly related to transportation or communication."
 }

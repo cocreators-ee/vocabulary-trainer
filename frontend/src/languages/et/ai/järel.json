@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on minu järel",
-    "Järel on sõna mis tähendab midagi pärast seda",
-    "Ma olen tema järel"
+    "Tule järel!",
+    "Ta käis järel meiega.",
+    "Pärast saabusid teised järel."
   ],
   "translation": [
     "after",
-    "behind"
+    "behind",
+    "following",
+    "later"
   ],
-  "context": "The word järel is commonly used in Estonian to indicate something that is located behind or after something else, it can also be used to describe a sequence of events."
+  "context": "The Estonian word 'järel' is a postposition that typically indicates position behind something or temporal sequence after something. It can function both spatially (meaning 'behind') and temporally (meaning 'after' or 'later'). As a postposition, it usually follows the noun it modifies."
 }

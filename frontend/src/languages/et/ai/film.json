@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma armastan seda filmi",
-    "Filmis on palju tegevust",
-    "Ta on üks mu lemmikfilmidest"
+    "Mulle meeldib filmid vaadata.",
+    "Täna õhtul olen näinud head filmi.",
+    "Kas sa leiad hea filmi?"
   ],
   "translation": [
     "movie",
-    "film"
+    "film",
+    "cinema"
   ],
-  "context": "The word 'film' in Estonian refers to a movie or a film, and it is commonly used in the context of cinema or video production."
+  "context": "The word 'film' in Estonian means a movie or motion picture. It is borrowed directly from English and has the same meaning and spelling as the English word 'film'. In Estonian, it follows similar grammatical patterns where you can add endings to make different forms like filmis (in a film), filmid (films plural), etc."
 }

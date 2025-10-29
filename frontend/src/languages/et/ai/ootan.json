@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ootan bussi.",
-    "Ta ootas mind kohvikus.",
-    "Nad ootavad meid õhtul."
+    "Ma ootan sind.",
+    "Ootame kohtumist homme.",
+    "Ta ei oota mind."
   ],
   "translation": [
-    "I wait",
     "wait for",
-    "to wait"
+    "expect",
+    "await"
   ],
-  "context": "The word 'ootan' in Estonian means to wait for something or someone, and it is commonly used in everyday conversations to express the act of waiting."
+  "context": "The Estonian word 'ootan' is the first person singular present form of the verb 'ootama', which means to wait, expect or await. In English, this translates to 'I wait', 'I am waiting', 'I expect', or 'I await'. The word shows that the speaker is currently performing the action of waiting for someone or something."
 }

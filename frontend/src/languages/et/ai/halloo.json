@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ütles halloo",
-    "Ma kuulsin halloo hüüdu",
-    "Halloo oli kõige sagedamini kasutatud tervitus"
+    "Halloo! Kuidas sa oled?",
+    "Tere halloo! Kas sa kuuled mind?",
+    "Ta ütles halloo ja lahkus kiiresti."
   ],
   "translation": [
     "hello",
-    "hi"
+    "hi",
+    "greetings"
   ],
-  "context": "The word halloo is a common greeting in Estonian, used to acknowledge someone's presence or to get their attention, similar to the English words hello or hi."
+  "context": "The word 'halloo' is an Estonian exclamation used to get someone's attention, similar to 'hello' in English. It's often used when calling out to someone or initiating a conversation. The word can be used as both a greeting and a way to attract attention, typically pronounced with emphasis on the first syllable."
 }

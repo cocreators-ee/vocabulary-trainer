@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Aallot olivat korkeat merellä",
-    "Hän laski aallon harjalle",
-    "Aalto huuhti pois hiekkarannan"
+    "Aalto on kaunis maisema.",
+    "Helsinkiin rakennettiin uusi aalto.",
+    "Talvenaalto voitti kilpailun."
   ],
   "translation": [
     "wave",
-    "surge",
-    "swell"
+    "billow",
+    "surge"
   ],
-  "context": "The word aalto refers to a movement of water, such as a wave in the sea or a surge of water, and is commonly used in Finnish to describe natural phenomena like ocean waves or flooding."
+  "context": "In Finnish, 'aalto' means wave and refers to a raised ridge of water that moves across the surface of an ocean, lake, or other body of water. It can also be used more broadly to describe any undulating movement or pattern, similar to how it might be used in English for things like radio waves or sound waves."
 }

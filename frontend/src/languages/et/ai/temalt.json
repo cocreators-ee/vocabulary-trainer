@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma saan temalt kirja.",
-    "Tema sõbrad külastasid teda kodu temalt.",
-    "Pakutud kätt, mille sai järelejälgida, leiti tema voodist, temalt kolm meetrit kaugusel."
+    "Ta tuli temalt.",
+    "Mul oli suur sõprus temalt.",
+    "Pean aru saama temalt."
   ],
   "translation": [
     "from him",
-    "from her"
+    "from her",
+    "from it"
   ],
-  "context": "Temalt is a prepositional form of 'ta' (he/she). It's used to indicate something coming from him or her."
+  "context": "The Estonian word 'temalt' is a separative case form of the pronoun 'tema', meaning 'him/her/it'. It indicates that something originates, comes from, or is received from a specific person or entity. The '-lt' suffix is characteristic of the separative case in Estonian, indicating separation or origin."
 }

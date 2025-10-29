@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks semudega välja.",
-    "Semud on väga populaarsed noorte seas.",
-    "Meie klassis on palju semusid."
+    "Semud on täna kodus.",
+    "Kas sa näed semusid?",
+    "Semudega käime koos."
   ],
   "translation": [
-    "friends",
-    "mates",
-    "buddies"
+    "semes",
+    "husband"
   ],
-  "context": "The word 'semud' is an informal Estonian term for friends or close companions, often used among younger people. It’s similar to ‘mates’ in British English or ‘buds’ in American English and implies a casual, friendly relationship."
+  "context": "The word 'semud' is the plural form of 'semes', which means husband in Estonian. It refers to married men, specifically a woman's spouse. The word comes from the Proto-Finnic *semmes and is related to similar words in other Finnic languages meaning husband or man."
 }

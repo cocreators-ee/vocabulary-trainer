@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta heitis kaela põrandale.",
-    "Põrandale jalga ei tohi visata.",
-    "Laps mängis põrandal."
+    "Panin raamatud põrandale.",
+    "Lapsed jooksid põrandale ja mängisid.",
+    "Põrandale kukkus vasi."
   ],
   "translation": [
-    "on the floor",
-    "to the floor"
+    "onto the floor",
+    "to the floor",
+    "on the floor"
   ],
-  "context": "The word 'põrandale' is an allative case of the noun 'põrand', which means floor in English. It is used to indicate movement or direction towards something, in this case, the floor."
+  "context": "The word 'põrandale' is an Estonian adessive case form of 'põrand', meaning 'floor'. It indicates movement toward or location on a surface. The '-le' ending shows that something is being placed, moved, or exists on the floor surface. This case is commonly used to show where things are put or where action takes place in relation to the floor."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Se on villi eläin.",
-    "Villin eläimen käytös on arvaamatonta.",
-    "Hän on villi ja vapaa."
+    "Tämä kissa on villi.",
+    "He näkivät villin eläimen metsässä.",
+    "Villien eläimien suojeleminen tärkeää."
   ],
   "translation": [
     "wild",
-    "savage"
+    "untamed",
+    "feral"
   ],
-  "context": "The word 'villi' in Finnish means something that is wild, untamed, or uncontrolled, often used to describe animals or behavior that is unpredictable or fierce."
+  "context": "The Finnish word 'villi' is an adjective meaning 'wild', 'untamed', or 'feral'. It describes something that exists in a natural state without domestication, control, or cultivation. When used for animals, it indicates they are not domesticated and live freely in nature. For plants, it means growing wild rather than being cultivated. The word can also describe behavior as untamed or unrestrained."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen üllatunud.",
-    "See on tõeline üllatus.",
-    "Ta ei olnud üllatunud."
+    "See oli suur üllatus.",
+    "Mul oli väga hea üllatus.",
+    "Tulemused olid täielikult ootamatud ja üllatavad."
   ],
   "translation": [
     "surprise",
-    "amaze"
+    "astonishment",
+    "shock"
   ],
-  "context": "The word \"üllatus\" in Estonian means a feeling of being surprised or astonished, and it is commonly used to describe a sudden and unexpected event."
+  "context": "The Estonian word 'üllatus' is a noun that means surprise or astonishment. It refers to the feeling of being surprised by something unexpected or unusual. The word can be used in various contexts, such as expressing pleasant surprises (like a gift) or more neutral/unexpected discoveries. In the example sentences, we see it used as both 'suur üllatus' (big surprise) and 'heal üllatus' (good surprise), showing its versatility."
 }

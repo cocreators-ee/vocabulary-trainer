@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Säädös oli hyväksytty vuonna 2015.",
-    "Uusi säädös tuli voimaan tänään.",
-    "Säädökset ovat usein monimutkaisia."
+    "Tämä säädös koskee kaikkia yrityksiä Suomessa.",
+    "Uusi säädös astuu voimaan ensi kuussa.",
+    "Säännökset on selitetty tarkasti laissa."
   ],
   "translation": [
     "regulation",
     "statute",
-    "act"
+    "provision",
+    "rule"
   ],
-  "context": "The word säädös refers to a law or regulation that has been enacted by a government or other authority, and is commonly used in formal or official contexts to describe rules or standards that must be followed."
+  "context": "In Finnish, 'säädös' refers to a formal regulation, statute, or legal provision that has been officially enacted. It typically represents laws, rules, or provisions created by authorities to govern certain areas of activity. The word comes from the verb 'säästää' (to save/establish) and is commonly used in legal contexts referring to official regulations and statutes."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma annan sulle nõu.",
-    "Ta vajab head nõu oma probleemide lahendamiseks.",
-    "See oli halb nõuanne."
+    "Ma nõuasin teda tulema.",
+    "Ta ei nõunud mulle midagi head.",
+    "Kas sa nõuad mind tegema seda tööd?"
   ],
   "translation": [
-    "advice",
-    "counsel",
-    "guidance"
+    "to advise",
+    "to recommend",
+    "to counsel"
   ],
-  "context": "The word 'nõuan' in Estonian translates to 'advice' or 'counsel' in English. It is commonly used when someone offers guidance or a recommendation to another person regarding a particular situation."
+  "context": "The word 'nõuan' is the first person singular present indicative form of the Estonian verb 'nõuma', which means to give advice or recommendations. It's used when speaking about oneself giving advice to someone else."
 }

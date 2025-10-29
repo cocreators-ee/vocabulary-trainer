@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma teadsin seda juba ammu",
-    "Ta teadis või ei teadnud sellest asjast",
-    "Nad teadsid kõike"
+    "Teadsin, et ta tuleb homme.",
+    "Ma teadsin seda juba ammu.",
+    "Kas sa teadsid, et see on nii kallis?"
   ],
   "translation": [
     "knew",
-    "was aware of"
+    "was aware of",
+    "realized"
   ],
-  "context": "The word 'teadsin' is the first person singular form of the verb 'teadma', which means to know or be aware of something. It is commonly used in Estonian language to express that someone had knowledge of something in the past."
+  "context": "Teadsin is the past tense first person singular form of the verb 'teadma', which means 'to know' or 'to be aware of'. It indicates that in the past, I had knowledge or awareness of something. The word is formed by adding the past tense ending '-s-' to the stem 'tead-', with the personal pronoun integrated into the verb form."
 }

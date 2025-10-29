@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma õpin eesti keelt ja samuti lisan ma sellele rohkemat teadmisi.",
-    "Lisan sinna ka kõikjal mujal samuti midagi väärtlikku.",
-    "Samuti on see väga kasulik näiteks õppimisel."
+    "Ta samuti oli meie külaline.",
+    "Samuti tuli ta hilja ära.",
+    "Meie kodused lemmikloomad samuti vajavad hoolt."
   ],
   "translation": [
     "also",
-    "as well"
+    "as well",
+    "too"
   ],
-  "context": "'samuti' is used to add additional information or items, similar to 'also' in English. It can be translated as 'also' or 'as well', and it often follows what was just mentioned, indicating that there's more to the statement."
+  "context": "The Estonian word 'samuti' is an adverb that means 'also', 'as well', or 'too'. It's used to add additional information or emphasize that something else shares a similar characteristic. The word typically appears in different positions within sentences, often at the beginning but can also appear elsewhere depending on emphasis and sentence structure."
 }

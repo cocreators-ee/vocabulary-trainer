@@ -1,12 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on täielik profesional"
+    "Tema teos on täielik.",
+    "Me peame leidma täieliku lahenduse.",
+    "See ei ole veel täielik."
   ],
   "translation": [
     "complete",
-    "total"
+    "entire",
+    "whole",
+    "full"
   ],
-  "context": "The word täielik is an Estonian adjective that means complete or total, and it is commonly used to describe something that is entire or whole."
+  "context": "The word 'täielik' is an adjective in Estonian that means complete, entire, whole, or full. It describes something that has all the necessary parts and is not missing anything. The adjective can be used to modify nouns in both singular and plural forms, and its meaning doesn't change significantly based on case."
 }

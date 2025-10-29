@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on ainus, kes saab mind mõista.",
-    "Ainus võimalus on minna koju.",
-    "Ainus asi, mida ma tean, on see, et ma ei tea midagi."
+    "Ainus on see, mis jääb alles.",
+    "Ta oli ainsaks ellujäänud inimene.",
+    "See on ainus võimalus."
   ],
   "translation": [
     "only",
-    "alone",
-    "single"
+    "single",
+    "sole",
+    "unique"
   ],
-  "context": "The word 'ainus' in Estonian means something or someone that is the only one of its kind, or a single instance of something, and it can be used to describe a unique situation or a person who is alone."
+  "context": "The Estonian word 'ainus' means 'only', 'single', 'sole', or 'unique'. It is used to emphasize that something is the one and only, with no others like it. In grammar, 'ainus' can appear in different cases depending on its function in a sentence - nominative (ainsus), genitive (ainsa), partitive (ainust), etc. For example: nominative 'Ainus on see' means 'The only one is this'; genitive 'Ta oli ainsaks ellujäänud' means 'He was the only one to survive'; and in the sentence 'See on ainus võimalus', it's used as an adjective modifying 'võimalus' (possibility)."
 }

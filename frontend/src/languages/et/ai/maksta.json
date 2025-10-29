@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma makstan selle eest.",
-    "Ta on maksnud kõik arved.",
-    "Nad makstavad rendi iga kuu."
+    "Maksa palju!",
+    "Tema ei maksa midagi.",
+    "Meie peaksime maksma"
   ],
   "translation": [
-    "to pay"
+    "to pay",
+    "to make a payment",
+    "to settle an account"
   ],
-  "context": "The word 'maksta' is commonly used in Estonian to mean 'to pay', and it can be used in various contexts, such as paying bills or rent."
+  "context": "The Estonian word 'maksta' means to pay or make payments. It is used in various contexts involving financial transactions, settling bills, or paying for goods and services. The verb can be conjugated into different forms depending on the subject and tense (like maksa, maksad, maksab, maksame, maksate, maksavad)."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma helistasin ta ",
-    "Ta helistas mind",
-    "Helistasin kiiresti"
+    "Helistasin sõbrale.",
+    "Ma helistasin tööandjale.",
+    "Kas sa helistasid arstile?"
   ],
   "translation": [
-    "called",
+    "I called",
     "phoned",
     "rang"
   ],
-  "context": "The word 'helistasin' is the first person singular past tense form of the Estonian verb 'helistama', which means to call or phone someone."
+  "context": "The word 'helistasin' is the first-person singular past tense form of the Estonian verb 'helisema', which means 'to call' (on the telephone). The '-sin' ending indicates that this is a completed action by the speaker in the past. This is commonly used when referring to making phone calls."
 }

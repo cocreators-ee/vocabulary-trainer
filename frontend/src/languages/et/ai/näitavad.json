@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Näitavad tulemused on hea näide sellest, kuidas see funktsioon töötab.",
-    "Ta on näitanud head tulemusi oma karjääri jooksul.",
-    "Nende näitajad on olulised, et mõista, mismoodi see toimib."
+    "Nad näitavad oma töid.",
+    "Lapsed näitavad oma mänge.",
+    "Meie pere näitavad meelde.",
+    "Tegelikult nad ei näita midagi."
   ],
   "translation": [
-    "demonstrate",
     "show",
+    "display",
+    "point out",
     "indicate"
   ],
-  "context": "The word 'näitavad' is a verb in Estonian that means to demonstrate or show something. It is commonly used to describe the act of presenting evidence or proving a point."
+  "context": "The word 'näitavad' is the 3rd person plural present indicative form of the verb 'näidata', which means 'to show'. It indicates that a group of people or things are currently showing, displaying, pointing out, or indicating something. This is a regular verb conjugation in Estonian where the ending '-dav' changes to '-avad' for 3rd person plural."
 }

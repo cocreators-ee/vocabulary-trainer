@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Lõunademeelne inimene jookseb tänaval.",
-    "Me lõunasid rahva tänaval.",
-    "Poiss sõitis rattaga tänaval."
+    "Tänaval on palju inimesi.",
+    "Me lähme tänavale jalutama.",
+    "Lapsed mängivad tänaval."
   ],
   "translation": [
     "on the street",
-    "in the street"
+    "in the street",
+    "outdoors"
   ],
-  "context": "Tänaval is an Estonian word that means 'on/in the street.' It's commonly used to describe someone or something being located on a public road where people walk and vehicles drive. For example, if you see a dog running on the street, in Estonian it would be 'koer jookseb tänaval'."
+  "context": "The word 'tänaval' is an Estonian adessive case form of 'tänav', meaning 'street'. In Estonian grammar, the adessive case typically indicates location or position on something. So 'tänaval' specifically means being located on a street - it can be translated as 'on the street', 'in the street', or sometimes more broadly as 'outdoors' when referring to activities happening in a street area."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lootsin sind täna kohtuda.",
-    "Ta lootsi, et ilm muutub paremaks.",
-    "Loodan, et sa saad terveks."
+    "Ma lootsin sulle.",
+    "Ta ei lootsin meid.",
+    "Meie lootsime headele tulemustele."
   ],
   "translation": [
-    "hope",
-    "expect",
-    "trust"
+    "hoped",
+    "expected",
+    "relied on"
   ],
-  "context": "The word 'lootsin' is the past tense of the verb 'lootama', which means to hope or expect something will happen. It expresses a desire for a particular outcome and can also imply trust in someone or something."
+  "context": "The Estonian word 'lootsin' is the first person singular past tense form of the verb 'loodama', which means 'to hope' or 'to expect'. It indicates that someone had hopes or expectations in the past. The root form is 'looda' and it follows regular conjugation patterns for -ma verbs in Estonian."
 }

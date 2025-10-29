@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olen teinud see projekt kaks nädala ajal.",
-    "Ajal kui jõgi lõi maa, tekivad uued pinnad.",
-    "Toas oli rahulikus ja valguses tänu ajale, mis oli 11:00."
+    "Ta töötab ajal.",
+    "Me kohtume homseks ajal.",
+    "Mis toimub praegu ajal?"
   ],
   "translation": [
-    "time"
+    "at the time",
+    "during",
+    "when"
   ],
-  "context": "'Ajal' refers to a period of time or during the time. It is used to indicate how long something lasts or when an event occurs in relation to another event."
+  "context": "The Estonian word 'ajal' is an adessive case form of the word 'aeg' (time). It functions as a temporal preposition or adverb meaning 'at the time,' 'during,' or 'when.' This form indicates that something happens at a specific point in time or during a particular period. The adessive case typically shows location on or at, but with time words it marks when an action occurs."
 }

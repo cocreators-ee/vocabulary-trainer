@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jutustasin talle kogu loo.",
-    "Ta jutustas mulle oma elukäigu kohta.",
-    "Jutustasin talle kõigepealt, mis juhtus."
+    "Ma jutustasin talle oma reisi kogemused.",
+    "Jutustasime õhtuti lõbusaid lugusid.",
+    "Ta jutustas väga huvitava loo endast."
   ],
   "translation": [
+    "told",
     "narrated",
-    "told"
+    "related"
   ],
-  "context": "The word 'jutustas' is the third person singular form of the Estonian verb 'jutustama', which means to narrate or tell a story. It is commonly used in sentences where someone is recounting an event or experience to another person."
+  "context": "The word 'jutustas' is the past tense singular form of the Estonian verb 'jutustama', which means to tell, narrate, or relate a story. It's used when someone has already told something in the past."
 }

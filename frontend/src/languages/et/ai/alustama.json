@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma alustan uut projektiga.",
-    "Ta alustas õpinguid Tallinna ülikoolis.",
-    "Nad alustavad koostööd homme."
+    "Ma alustan töid hommikul.",
+    "Ta alustas kõnelust küsimusega.",
+    "Me alustame uut projekti järgmisel nädalal."
   ],
   "translation": [
     "to start",
-    "begin"
+    "to begin",
+    "to commence"
   ],
-  "context": "The word 'alustama' in Estonian means to start or begin something, and it is commonly used in various contexts such as starting a new project, beginning studies, or commencing cooperation."
+  "context": "The Estonian verb 'alustama' means to start or begin something. It is a regular first-conjugation verb in Estonian that takes the -ma ending, which indicates it's an infinitive form. When conjugated, it would appear as 'alustan' (I start), 'alustad' (you start), etc. The word is commonly used when initiating activities, projects, conversations, or processes."
 }

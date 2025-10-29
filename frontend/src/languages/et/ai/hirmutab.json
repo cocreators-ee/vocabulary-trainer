@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta hirmutas mind väga.",
-    "See film hirmutab palju inimesi.",
-    "Ära lase end hirmutada!"
+    "See hirmutab mind.",
+    "Hirmutavad loomad põgenevad.",
+    "Ta hirmutas last."
   ],
   "translation": [
     "frightens",
-    "scares",
-    "terrifies"
+    "terrifies",
+    "scares"
   ],
-  "context": "The verb 'hirmutab' means to frighten or scare someone. It is commonly used to describe something that causes fear or anxiety in another person."
+  "context": "The Estonian word 'hirmutab' is the third person singular present form of the verb 'hirmutama', which means to frighten or scare someone. It describes causing fear or terror in another being."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli arreteeritud kahtluse alusel",
-    "Arreteeritud isikud viiakse kohtu ette",
-    "Politsei arreteeris mitmeid inimesi"
+    "Politsei arreteeris kinnipeetava.",
+    "Mees on juba arreteeritud.",
+    "Arreteeritud isik viiakse vanglasse."
   ],
   "translation": [
     "arrested",
-    "detained"
+    "detained",
+    "apprehended"
   ],
-  "context": "The word 'arreteeritud' in Estonian means to be arrested or detained by the authorities, often in relation to a suspected crime."
+  "context": "The word 'arreteeritud' is the Estonian past participle form of the verb 'arreteerima', which means 'to arrest'. It describes someone who has been arrested or apprehended by authorities. The '-tud' suffix in Estonian indicates that this is a passive voice construction, meaning the person has had the action done to them rather than performing it themselves."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta põgenes kohe.",
-    "Põgenemiseks oli liiga hilja.",
-    "Me põgenesime öösel."
+    "Ta põgenes kodu eest.",
+    "Loomad põgenesid metsa.",
+    "Põgenemine oli edukas."
   ],
   "translation": [
-    "escaped",
     "fled",
+    "escaped",
     "ran away"
   ],
-  "context": "The word 'põgenes' is the third person singular form of the verb 'põgenema', which means to escape or flee from a place or situation, often in a hurry or due to danger."
+  "context": "The word 'põgenes' is the past tense third person singular form of the verb 'põgenema', which means to flee or escape. It describes someone who has run away from a dangerous situation, threat, or undesirable place. The root form is used when describing the action itself, while this conjugated form specifically refers to 'he/she/it fled' in Estonian."
 }

@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen pool teel",
-    "Ta on pool paljas",
-    "Meil on pool võimalus"
+    "Ta jõudis pool tundi enne algust",
+    "Pool meie klassist on eestlased",
+    "Sellest sai suur poolsündmus"
   ],
   "translation": [
     "half",
-    "some"
+    "part",
+    "portion",
+    "dividing line",
+    "middle",
+    "center"
   ],
-  "context": "The word 'pool' in Estonian means half or some of something, and it is commonly used to describe a part of a whole."
+  "context": "The Estonian word 'pool' is a versatile word that primarily means 'half' or 'part'. It can refer to half of something (like time, quantity, or space), a portion or division, the middle point between two things, or a dividing line. In different contexts, it may function as a noun, adjective, or part of compound words."
 }

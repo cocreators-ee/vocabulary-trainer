@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen armee ohvitser.",
-    "Armee on riigikaitse peamine jõud.",
-    "Ta oli armee kapten."
+    "Eesti armee on professionaalne vägi.",
+    "Armee kaitseb riigi iseseisvust.",
+    "Talvised sõjaväeõppused toimuvad igal aastal."
   ],
   "translation": [
-    "army"
+    "army",
+    "military force"
   ],
-  "context": "The word 'armee' in Estonian refers to a large organized body of soldiers who are trained to fight on land, and it is commonly used in the context of national defense or military operations."
+  "context": "The Estonian word 'armee' means 'army' in English. It refers to the organized military forces of a nation or state. In Estonian, it's used to describe the professional military organization that defends a country's sovereignty and security."
 }

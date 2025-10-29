@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See tekitab mulle suuri rõõmu",
-    "Ta tekitas palju probleeme",
-    "Selle võimaluse tekitamiseks on vaja palju tööd"
+    "See tekitab mulle muret.",
+    "Tegemised tekitavad palju müra.",
+    "Päike tekitab soojust."
   ],
   "translation": [
-    "causes",
     "creates",
-    "generates"
+    "causes",
+    "generates",
+    "produces"
   ],
-  "context": "The word 'tekitab' is a verb in Estonian that means to cause or create something, and it is commonly used to describe the act of making or producing an effect or a result."
+  "context": "The Estonian word 'tekitab' is the 3rd person singular present form of the verb 'tegema' (to make, to do). It means 'creates', 'causes', 'generates', or 'produces'. This verb indicates that something brings about a result, effect, or condition. In different contexts, it can refer to creating physical objects, causing emotions or reactions, generating effects, or producing various outcomes."
 }

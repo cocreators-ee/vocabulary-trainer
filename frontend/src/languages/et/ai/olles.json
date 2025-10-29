@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olin olles koos temaga.",
-    "Olles ära läinud, ei näinud midagi.",
-    "Ta oli olles kogu aeg minu kõrval."
+    "Olles kodune töö teinud, läks ta puhkama.",
+    "Ta oli rõõmus olles oma sõpradega kohtumas.",
+    "Pärast pikka päeva olles, oli ta väga väsinud."
   ],
   "translation": [
     "being",
-    "while being"
+    "while being",
+    "after being"
   ],
-  "context": "The word 'olles' in Estonian is a form of the verb 'olema', which means 'to be'. It is used to describe a state of being or a condition, often in combination with other verbs to indicate a continuous or simultaneous action."
+  "context": "\"Olles\" is the Estonian partitive case form of the verb \"olema\" (to be). It functions as an adverbial participle, indicating a state or condition that exists while another action takes place. In English, it's typically translated as \"being,\" \"while being,\" or \"after being.\" This form connects two actions - one in progress and another completed or ongoing."
 }

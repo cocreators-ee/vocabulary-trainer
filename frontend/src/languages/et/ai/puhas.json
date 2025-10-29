@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on puhas ja üllatunud.",
-    "Puhas veepuhastusvahend annab head tulemust.",
-    "Kõikjal on puhas lumi."
+    "See on puhas vesi.",
+    "Tegelikult oli see väga puhas keskkond.",
+    "Puhastage nende käsivarred."
   ],
   "translation": [
     "clean",
-    "pure"
+    "pure",
+    "clear"
   ],
-  "context": "The word 'puhas' in Estonian generally means something that is clean or pure, and it can be used to describe various things such as water, air, or even someone's intentions."
+  "context": "The Estonian word 'puhas' is an adjective that means 'clean', 'pure', or 'clear'. It can describe objects, environments, or substances that are free from dirt, contamination, or impurities. The word changes form depending on the case and number of the noun it modifies - for example, it becomes 'puhast' in the translative singular case as seen in the third sentence where it means 'clean' (in instrumental/comitative function)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma istun kivi peal.",
-    "Kivid on müügil.",
-    "Ta tõstis suure kivi."
+    "Kivi on tahke looduslik materjal.",
+    "Tegime kiviga skulptuuri.",
+    "Lõi vastu kivi."
   ],
   "translation": [
     "stone",
-    "rock"
+    "rock",
+    "pebble"
   ],
-  "context": "The word 'kivi' refers to a stone or rock in Estonian and is commonly used in everyday language to describe objects or features in the environment."
+  "context": "The Estonian word 'kivi' means stone or rock and refers to a hard, solid natural material. It can be used for small pebbles as well as larger stones and rocks. In different contexts, it might refer to building materials, geological formations, or even gemstones."
 }

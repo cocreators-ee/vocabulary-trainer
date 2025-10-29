@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tulin tervitama sind.",
-    "Tervitus sõnad olid väga soojad.",
-    "Ta ütles mulle tervituseks head päeva."
+    "Tervitused!",
+    "Saada tervitused perele.",
+    "Kas sa saad mulle edastada tervitused?"
   ],
   "translation": [
-    "greeting",
-    "hello"
+    "greetings",
+    "salutations",
+    "regards"
   ],
-  "context": "The word 'tervitus' in Estonian generally refers to a greeting, which is a common way to acknowledge someone's presence when meeting them, and it can be used both formally and informally depending on the situation."
+  "context": "The word 'tervitus' is a noun in Estonian that means greetings, salutations, or regards. It typically refers to expressions of goodwill when meeting someone or conveying messages of greeting to others. The plural form 'tervitused' is commonly used and means 'greetings'. This word is often used in both written and spoken contexts for polite social exchanges."
 }

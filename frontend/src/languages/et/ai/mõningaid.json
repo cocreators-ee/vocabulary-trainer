@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen mõningaid raamatuid lugenud",
-    "Mõningaid inimesi on selle kohta arvamus",
-    "Ta tegi mõningaid katseid"
+    "Ta on mõningaid küsimusi esitanud.",
+    "Mõningad inimesed arvavad sedasi.",
+    "See sisaldab mõningaid keemilisi aineid."
   ],
   "translation": [
     "some",
-    "certain"
+    "certain",
+    "various"
   ],
-  "context": "The word 'mõningaid' is used to describe a subset or an unspecified amount of something, similar to the English word 'some'."
+  "context": "The word 'mõningaid' is the partitive plural form of 'mõni', which means 'some'. It's used to indicate an unspecified quantity or number of things, often in the sense of 'a few' or 'several'. The partitive case is commonly used with negative statements and questions, but also with certain verbs. In this plural form, it refers to multiple items without specifying exactly how many."
 }

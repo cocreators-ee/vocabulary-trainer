@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta jäi lõksus omaenda valedesse.",
-    "Meie autod on lõksus lumme.",
-    "Põder oli lõksus okastraadi."
+    "Tema oli lõksus vanglas.",
+    "Väike laps jäi metsa lõksusse.",
+    "Loomade kaitse üritas vabastada lõksu saanud loomi."
   ],
   "translation": [
     "trapped",
-    "in a trap",
-    "stuck"
+    "caught in a trap",
+    "confined"
   ],
-  "context": "The word 'lõksus' in Estonian means being physically or figuratively caught, confined, or stuck in a situation. It can refer to being trapped in a place, a problem, or even one’s own thoughts."
+  "context": "The word 'lõksus' is an Estonian noun derived from the root 'lõks' (trap). It describes the state of being caught, confined, or trapped in some way. The '-s' suffix indicates that this is likely partitive form or a related case form showing confinement within something."
 }

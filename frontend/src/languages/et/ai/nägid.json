@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Nägid seda filmi?",
-    "Kas nägid tema esinemist eile?",
-    "Mina olen nägin sind juba kümne aastaga."
+    "Nägin sind eile.",
+    "Mina nägin seda filmi.",
+    "Nad ei näinud mind."
   ],
   "translation": [
-    "you saw",
-    "did you see"
+    "saw",
+    "have seen",
+    "looked at"
   ],
-  "context": "The word 'nägid' is the past tense second person singular form of the Estonian verb 'näha,' which means 'to see.' It is commonly used in conversations to ask or state that someone saw something, such as an event, object, or another person. The verb can also be conjugated into other forms like 'näha' (infinitive), 'nähad' (present tense second person singular), and 'olen näinud' (past perfect)."
+  "context": "The word 'nägid' is the second-person plural past tense form of the Estonian verb 'näema', which means 'to see' or 'to look'. It specifically translates to English as 'you (plural) saw' or 'you all have seen'. In the present tense, it would be 'näete' for you (plural) see/look. The singular past form is 'nägi' (he/she/it saw)."
 }

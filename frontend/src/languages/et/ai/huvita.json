@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See film on huvitamatu. (This movie is boring.)",
-    "Ma kõlasin huvitamatule kooliklassile. (I gave a lecture to an uninterested class.)",
-    "Selle lugu oli liiga huvitamatu, et seda jällega lugeda. (The story was too tiresome to read again.)"
+    "Huvita mind teie projektis.",
+    "Ma ei huvitu sellest filmist.",
+    "Kas sa huvitud?"
   ],
   "translation": [
-    "bored",
-    "uninteresting",
-    "tiresome"
+    "to interest",
+    "to attract attention",
+    "to fascinate"
   ],
-  "context": "The word 'huvita' is used to describe something that causes a lack of interest or excitement; it can be applied to situations, people, or objects perceived as unengaging."
+  "context": "The Estonian verb 'huvita' is the imperative form of the verb 'huvi', meaning to cause someone to be interested or curious about something. It's used when addressing someone directly and asking them to pay attention to or show interest in something, similar to 'interest!' or 'fascinate!' in English as commands."
 }

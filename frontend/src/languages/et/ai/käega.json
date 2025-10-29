@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegi käega viibutuse.",
-    "Käega tehtud esemed on üksikud.",
-    "Käega maalitud pildid on väga populaarsed."
+    "Kätega palun!",
+    "Tema käega oli hästi näha.",
+    "Mul on hea käega."
   ],
   "translation": [
+    "with hand",
     "by hand",
-    "handmade",
-    "manual"
+    "manually"
   ],
-  "context": "The word käega is an adverb in Estonian that means something is done by hand or manually, often implying a sense of craftsmanship or personal touch."
+  "context": "The Estonian word 'käega' is the adessive case form of 'käsi' (hand), meaning it indicates something is done with or by hand. It functions as an instrumental case, showing the instrument or means by which an action is performed."
 }

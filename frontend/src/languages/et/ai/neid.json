@@ -1,14 +1,13 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Neid keegi ei mõista.",
-    "Olen neid näha saanud.",
-    "Praegu neid kuulan."
+    "Nad on meie sõpru.",
+    "Nad tulevsi homme.",
+    "Nad ei saa täna tulla."
   ],
   "translation": [
-    "them (plural object)",
-    "they/them (in some contexts)"
+    "they (nominative case)",
+    "those"
   ],
-  "context": "'Neid' is the plural form of 'ta/teid' in the partitive case, used mainly as an object pronoun. It typically means 'them' when referring to a group previously mentioned or understood from context."
+  "context": "The word 'neid' is the partitive plural form of the Estonian demonstrative pronoun/noun 'nad', which means 'they'. It's used when referring to multiple people or things in the partitive case. In English, it can be translated as 'them' (in accusative/objective case) or 'those' when used as a demonstrative."
 }

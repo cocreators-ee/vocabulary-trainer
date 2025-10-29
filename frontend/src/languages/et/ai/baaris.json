@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen baaris.",
-    "Ta on baaris.",
-    "Baaris oli täis inimesi."
+    "Töötan baaris kell üheksa öösel.",
+    "Oleme baaris koos sõpradega.",
+    "Kas sa lähed meiega baaris peale tööd?"
   ],
   "translation": [
-    "at the bar",
-    "in a bar"
+    "in the bar",
+    "at the bar"
   ],
-  "context": "The word 'baaris' is used to describe being physically present at a bar or pub, often ordering drinks and socializing with others."
+  "context": "The Estonian word 'baaris' is a locative case (inessive) form of the noun 'baar', which means 'bar'. It indicates location or where an action takes place, meaning 'in the bar' or 'at the bar'. The '-is' ending shows it's in the inessive case, used when something is inside a location."
 }

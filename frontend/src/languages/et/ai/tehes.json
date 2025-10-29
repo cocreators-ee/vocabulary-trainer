@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tehes tööd",
-    "Ta on tehes head tööd",
-    "Nad on tehes ühiselt"
+    "Ma olen tehes kodutööd.",
+    "Tema on tehis meeskonda.",
+    "Nad olid tehes plaane järgmiseks nädalaks."
   ],
   "translation": [
-    "doing",
     "making",
+    "doing",
     "creating"
   ],
-  "context": "The word 'tehes' in Estonian means to be doing or making something, and it is commonly used in sentences to describe an action that is currently taking place."
+  "context": "The word 'tehes' is the elative case (fromative) form of the verb 'tegema', which means 'to make' or 'to do'. In Estonian, this form indicates that something is being made/done from a source or point in time. It shows an ongoing action in progress and can be translated to English as 'making' or 'doing' with the '-ing' form of verbs."
 }

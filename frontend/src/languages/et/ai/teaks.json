@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Teaks, et sa tuleks pärast lõunat.",
-    "Ma tean, et ta on õigus, kuid teaks ta seda?",
-    "Rohkem võis ta ei teaks."
+    "Ma ei teaks täpselt kella.",
+    "Teaksid sa, kus ta elab?",
+    "Kes teaks seda vastust?"
   ],
   "translation": [
-    "(he/she/it) knows",
-    "(one) would know"
+    "would know",
+    "might know",
+    "could know"
   ],
-  "context": "'teaks' is the third person conditional form of 'teha', meaning to know. It is used in hypothetical or polite situations, such as suggestions or conditions that are not certain."
+  "context": "The word 'teaks' is the conditional mood (conditional I) form of the Estonian verb 'tema' meaning 'to know'. It's used in hypothetical or uncertain situations, similar to how we use 'would know', 'might know', or 'could know' in English. This form indicates a possibility rather than certainty about someone knowing something."
 }

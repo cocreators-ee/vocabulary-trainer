@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen aidanud talle.",
-    "Ta aitab mulle alati.",
-    "Meie peame aidama vanainimestele."
+    "Ma aitan lapsest kodus.",
+    "Ta aitaks sõpra õppima.",
+    "Meie aitame teisi inimesi."
   ],
   "translation": [
-    "to help"
+    "to help",
+    "to assist",
+    "to aid"
   ],
-  "context": "The word 'aidata' is a verb that means to help or assist someone in Estonian, it is commonly used in everyday conversations to offer or request assistance."
+  "context": "The word 'aidata' is an Estonian verb that means 'to help', 'to assist', or 'to aid'. It's the infinitive form of the verb. In different contexts, it can be conjugated to show tense, mood, and subject. For example: 'aitan' (I help), 'abite' (you help), 'aidab' (he/she/it helps). The word is commonly used in everyday situations when offering assistance or providing support to someone."
 }

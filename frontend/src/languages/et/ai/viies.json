@@ -1,11 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on viies laps pereas"
+    "Ma olen viues klassi õpilane.",
+    "Tema on viies järjestikune meistre maailmas.",
+    "See on vies kord, et me kohtume."
   ],
   "translation": [
-    "fifth"
+    "fifth",
+    "ordinal number five"
   ],
-  "context": "The word viies is an ordinal number in Estonian that means fifth in English, used to describe the position of something in a sequence."
+  "context": "The Estonian word 'viies' is an ordinal number meaning 'fifth' in English. It refers to the position of something in a sequence or order, specifically the fifth position. In Estonian grammar, ordinal numbers like 'viies' are used to indicate order or position rather than quantity."
 }

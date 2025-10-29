@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen võitnud palju auhindu.",
-    "Ta on võitnud kõik oma mängud.",
-    "Nende meeskond on võitnud turniiri."
+    "Ta võitis kaks matši ja on nüüd võitnud meister.",
+    "Klassi parim õpilane oli ta, kes võitnud enim punkte.",
+    "Lõpuks said nad võitnud pärast pikka võitlust."
   ],
   "translation": [
     "won",
-    "conquered",
-    "defeated"
+    "has won",
+    "had won"
   ],
-  "context": "The word võitnud is the past tense of the Estonian verb võita, which means to win or conquer something. It is commonly used in sentences to describe a victory or achievement."
+  "context": "The word 'võitnud' is the past participle form of the Estonian verb 'võidma', which means 'to win'. It can function as an adjective or be used in compound tenses to indicate that someone has achieved victory or accomplished something successfully. The '-d' ending indicates it's the past participle form, and it agrees with the subject gender/number when used attributively."
 }

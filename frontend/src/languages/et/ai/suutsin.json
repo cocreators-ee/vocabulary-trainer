@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Suutsin lahendada probleemi.",
-    "Ta suutis jõuda aja jooksul.",
-    "Kas sa suudad mõista seda lauset?"
+    "Suutsin lõpetada töö õigel ajal.",
+    "Ei suuda veel hästi kõneleda, aga suutsin palju paremini kui eile.",
+    "Ta suutsis lahendada keerulise matemaatilise ülesande."
   ],
   "translation": [
-    "I managed to",
-    "I succeeded in"
+    "managed to",
+    "was able to",
+    "succeeded in"
   ],
-  "context": "'suutsin' is the first-person past tense of 'succead' in Estonian, which means to manage or succeed. It's commonly used when explaining that you managed to do something successfully."
+  "context": "The word 'suutsin' is the first-person singular past tense form of the Estonian verb 'suutma', which means 'to be able to', 'to manage', or 'to succeed'. It indicates that someone had the capability, skill, or opportunity to accomplish something and actually did so in the past. This word emphasizes successful completion of an action where there might have been difficulty involved."
 }

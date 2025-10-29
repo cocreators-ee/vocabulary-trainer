@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan uued raamatud.",
-    "Uutele töötajatele antakse juhendid.",
-    "Ta on üks uutest õpilastest."
+    "Uued inimesed tulevad täna õhtul.",
+    "Meie uued naabrid on väga sõbralikud.",
+    "Ma ostan uue raamatu."
   ],
   "translation": [
     "new"
   ],
-  "context": "The word 'uued' is an adjective in Estonian that means 'new' and is used to describe something that has been recently created, introduced, or discovered. It can be used in various contexts, such as describing new products, ideas, or relationships."
+  "context": "The word 'uued' is the plural nominative form of the Estonian adjective 'uus', meaning 'new'. It describes multiple new items or people in the subject position of a sentence. In Estonian, adjectives must agree with nouns in number and case."
 }

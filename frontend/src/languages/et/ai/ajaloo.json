@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma õpin ajaloo.",
-    "Ajaloo raamatud on põnevad.",
-    "Tema isa oli ajaloo õpetaja."
+    "Ajaloo tund on kolmandat tunni.",
+    "Ta luges ajaloost raamatut.",
+    "Ajalugu on huvitavaine teadus."
   ],
   "translation": [
     "history"
   ],
-  "context": "The word 'ajaloo' in Estonian refers to the study or account of past events, particularly human affairs, and is commonly used in academic and everyday contexts to describe historical events or studies."
+  "context": "The word 'ajaloo' is the genitive case form of 'ajalugu', which means 'history'. In Estonian, the genitive case typically shows possession or association, so 'ajaloo' can mean 'of history', 'in history', or related to history. It's commonly used in phrases like 'ajaloo tund' (history class) or 'raamat ajaloost' (a book about history)."
 }

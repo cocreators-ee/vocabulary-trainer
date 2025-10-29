@@ -1,14 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks mehega kinno.",
-    "Mehega oli väga tore vestelda.",
-    "Kas sa nägid teda mehega pargis?"
+    "Tema tuleb mehega kohtuma.",
+    "Naised räägivad mehega sõprusest.",
+    "Laps näitas oma isa mehega."
   ],
   "translation": [
-    "with the man",
     "with a man"
   ],
-  "context": "The word 'mehega' is an Estonian word meaning 'with the man' or 'with a man'. It’s formed by combining 'mees' (man) with the genitive case ending '-ga', indicating accompaniment or being together with someone."
+  "context": "The Estonian word 'mehega' is the elative case form of 'mees' (man), meaning 'from with a man' or more naturally 'with a man'. The '-ga' suffix indicates accompaniment or means in Estonian. It shows that someone is accompanying a man or doing something together with him."
 }

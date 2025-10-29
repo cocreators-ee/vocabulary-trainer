@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean seda meest, härra.",
-    "Kas sa oled härra Smith?",
-    "Härrasmees aitas mind ülekäigurajal."
+    "Ta sööris kõrva.",
+    "Lapsed söörivad tihti.",
+    "Mees sööris käega."
   ],
   "translation": [
-    "sir",
-    "mister",
-    "gentleman"
+    "to slap",
+    "to strike with the palm of the hand",
+    "to smack"
   ],
-  "context": "The word 'söör' (or 'härra') is a polite form of address for men in Estonian, similar to 'sir' or 'mister' in English. It can also refer to a gentleman."
+  "context": "The Estonian word 'söör' is a verb that means to hit something or someone with an open hand, typically using the palm. It describes the action of slapping, which can be done as punishment, in play, or out of frustration. The word specifically refers to hitting with the flat part of the hand rather than with a fist."
 }

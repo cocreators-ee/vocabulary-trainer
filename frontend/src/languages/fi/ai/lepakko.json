@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lepakko lentää öisin.",
-    "Lepakot ovat yöaktiivisia eläimiä.",
-    "Lepakkopopulaatio on vähenemässä."
+    "Lepakot ovat yöllisiä eläimiä.",
+    "Tässä talossa on paljon lepakkoja. Lepakot asuvat ullakolla.",
+    "Näitkö sen pienen lepakon lentävän?"
   ],
   "translation": [
-    "bat"
+    "bat",
+    "bats (plural)"
   ],
-  "context": "The word lepakko refers to a bat, which is a small flying mammal that is typically active at night."
+  "context": "The Finnish word 'lepakko' means bat in English. It is a noun referring to the flying mammal that is active at night. In Finnish, words ending with '-o' often become plural by adding '-t', so 'lepakot' would mean bats. Bats are commonly found attics or dark spaces and are known for their nocturnal habits and ability to fly."
 }

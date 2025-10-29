@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga taolist inimest.",
-    "See tundub olevat taolise käitumisega seotud.",
-    "Nad tegid taolisi lubadusi."
+    "Selliseid taolisi asju olen ma varem näinud.",
+    "Meil on palju taolisi võimalusi.",
+    "Taoliselt käituvad lapsed ei ole haruldased."
   ],
   "translation": [
-    "kind of",
-    "sort of",
-    "like"
+    "such",
+    "like this",
+    "of that kind",
+    "similar"
   ],
-  "context": "The word 'taolist' is an indefinite pronoun in Estonian, similar to 'kind of', 'sort of', or 'like' in English. It’s used to express a resemblance or similarity without being precise."
+  "context": "The word 'taolist' is an Estonian adjective in the partitive case, plural form. It means 'such', 'like this', or 'of that kind'. It's used to describe things that are similar to something previously mentioned or known. The -t ending indicates it's in the partitive plural form, which is commonly used with quantities or types of objects."
 }

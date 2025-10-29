@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mul on abikaasa ja kaks last.",
-    "Abikaasa on minu parim sõber.",
-    "Ta abiellus oma abikaasaga 10 aastat tagasi."
+    "Minu abikaasa on arst.",
+    "Ta sai oma abikaasaga lahutada.",
+    "Abikaasad peavad omavahel hästi läbi saama."
   ],
   "translation": [
     "spouse",
-    "husband or wife"
+    "husband",
+    "wife",
+    "partner"
   ],
-  "context": "The word 'abikaasa' refers to the person one is married to, and it can be used in both formal and informal settings to denote a husband or wife."
+  "context": "The word 'abikaasa' in Estonian refers to a spouse or marriage partner. It can be used for both husbands and wives, as Estonian does not have gender-specific terms for spouses like English does. The word comes from 'abi' (help) + 'kaasane' (companion), literally meaning 'helping companion'. In plural form it becomes 'abikaasad', referring to multiple spouses or married couples."
 }

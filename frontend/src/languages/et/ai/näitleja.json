@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on kuulus näitleja.",
-    "Näitleja tuli lavale.",
-    "Näitlejad said auhinnad."
+    "Tema on kuulus näitleja.",
+    "Näitlejad esinevad teatris ja filmides.",
+    "Kes on parim näitleja Eestis?"
   ],
   "translation": [
     "actor",
-    "actress"
+    "actress",
+    "performer"
   ],
-  "context": "The word 'näitleja' refers to a person who performs in a play or film, and is commonly used in Estonian to describe someone who works in the acting profession."
+  "context": "The Estonian word 'näitleja' refers to a performer who acts in plays, films, or other performances. It can be used for both male and female actors/actresses. The word comes from the verb 'näidata' meaning 'to show' or 'to act', combined with the suffix '-ja' which indicates an agent or doer of an action. In Estonian, this is a gender-neutral term that doesn't distinguish between actor and actress - both are referred to as näitleja."
 }

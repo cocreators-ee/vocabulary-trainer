@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen pärastlõunal vaba.",
-    "Pärastlõunal on mul õppetund.",
-    "Ta tuli pärastlõunali juurde."
+    "Töötan pärastlõunal.",
+    "Pärastlõunal käis meid külastamas ema.",
+    "Kuidas läheb sinu pärastlõuna?"
   ],
   "translation": [
-    "afternoon",
-    "in the afternoon"
+    "in the afternoon",
+    "during the afternoon"
   ],
-  "context": "The word 'pärastlõunal' is an adverb in Estonian, referring to something that happens or is done after lunch, typically between noon and evening."
+  "context": "The word 'pärastlõunal' is an Estonian adverbial expression that means 'in the afternoon' or 'during the afternoon'. It combines 'pärast' (after) and 'lõuna' (midday/south), literally meaning 'after midday'. This time period typically refers to the hours between noon and evening in Estonia."
 }

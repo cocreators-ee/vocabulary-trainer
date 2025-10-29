@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hidas auto kulki hitaasti",
-    "Hidastaminen on tarpeen",
-    "Hidas kävely ilman kiirettä"
+    "Olen hidas juoksija.",
+    "Hidasta vauhtia!",
+    "Auto oli liian hidas."
   ],
   "translation": [
     "slow",
-    "sluggish"
+    "unhurried",
+    "gradual"
   ],
-  "context": "The word 'hidas' in Finnish generally means something or someone that is moving or operating at a lower speed than usual, often implying a lack of hurry or urgency."
+  "context": "The Finnish word 'hidas' is an adjective that means slow or unhurried. It's commonly used to describe things that move at a low speed or take more time than usual. The word can appear in different forms depending on context and grammatical case - for example, it becomes 'hidasta' in the partitive case when used with verbs like 'to slow down' (hidastaa)."
 }

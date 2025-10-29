@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ole lihtne.!",
-    "Mina olen siin.",
-    "Sa oled tore!"
+    "Olen õpilane.",
+    "Ta on hea sõber.",
+    "Me oleme pere."
   ],
   "translation": [
-    "be (infinitive)",
-    "am/are/is",
-    "are"
+    "am",
+    "is",
+    "are",
+    "be"
   ],
-  "context": "'ole' is the infinitive form of 'to be' in Estonian, used as a command or instruction to be something. In spoken language it's often replaced by 'siin on'. The third person forms are commonly used as 'on', meaning 'is'."
+  "context": "The Estonian word 'ole' is a form of the verb 'olema' which means 'to be'. It's primarily used in present tense conjugations. In the first person singular, it becomes 'olen' (I am), and in the third person singular, it becomes 'on' (he/she/it is). The word 'ole' itself often appears as part of compound verb forms or questions. This is a fundamental verb in Estonian used to express existence or identity."
 }

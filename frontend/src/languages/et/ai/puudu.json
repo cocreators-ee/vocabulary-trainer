@@ -1,14 +1,15 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Tema puudumine põhjustas meile palju probleeme.",
-    "Kui see puudub, jääb kogu süsteem töötamatuks.",
-    "Ma ei tea, miks ta siin pole - teda lihtsalt puudus."
+    "Mul on puudu raha.",
+    "Teil puudub õigus seda teha.",
+    "Puudu on heade mõtete asemel halvad mõtted."
   ],
   "translation": [
-    "absence",
-    "lack"
+    "to lack",
+    "to be missing",
+    "to need",
+    "to want for"
   ],
-  "context": "'Puudu' refers to the state of something not being present or available. It can describe a person's absence, or indicate that an object, quality, or element is missing in a situation."
+  "context": "The Estonian word 'puudu' is an intransitive verb that means something is lacking, missing, or not present. It's used to indicate absence or deficiency of something - whether it's a physical object, quality, quantity, or abstract concept. The word can be conjugated depending on the subject (like 'mul on puudu' for 'I lack', 'teel puudub' for 'you lack'). It's commonly used in everyday Estonian to express what someone needs or is missing."
 }

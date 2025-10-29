@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ütles, et seesama asi on toimunud enne.",
-    "Seesama mees tuli tagasi.",
-    "Ma olen seesamasugune, nagu sa oled."
+    "Tema on seesama mees, kellest rääkisid.",
+    "Kas see on seesame raamat, mida otsite?",
+    "Meie jaoks on seesama oluline kui teile."
   ],
   "translation": [
+    "the same",
     "same",
     "identical"
   ],
-  "context": "The word 'seesama' in Estonian is used to describe something that is identical or the same as something else, often referring to a person, thing, or situation that has remained unchanged or is being compared to another."
+  "context": "\"Seesama\" is the Estonian word meaning \"the same\" or \"identical.\" It's used to indicate that something is identical to what was previously mentioned. The word can appear in different forms depending on case and number, but \"seesama\" typically refers to singular nominative form. For example: \"Tema on seesame mees\" means \"He is the same man.\" The word is commonly used when comparing things or emphasizing that something hasn't changed from what was previously discussed."
 }

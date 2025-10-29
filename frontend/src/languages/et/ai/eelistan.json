@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma eelistan sügise talvele.",
-    "Tema eelistanud võistkond kaotas finaalis.",
-    "Eelistan töötada öösiti."
+    "Eelistan teist värvi.",
+    "Ma eel sind alati.",
+    "Ta ei eelista kõrget elustiili."
   ],
   "translation": [
     "prefer",
+    "favor",
     "like better"
   ],
-  "context": "The word 'eelistan' in Estonian means to prefer something over another, and it is commonly used in sentences where someone is expressing their liking for one thing more than the other."
+  "context": "The word 'eelistan' is the first person singular form of the Estonian verb 'eelistama', which means to prefer or favor something over another option. It expresses a personal preference or choice when comparing alternatives. The root stem is 'eelis-' with the '-tan' ending indicating present tense first person conjugation."
 }

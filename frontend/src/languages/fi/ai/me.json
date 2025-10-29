@@ -1,13 +1,13 @@
 {
-  "confidence": 0.5,
   "understood": true,
   "sentences": [
-    "Minä olen meijerimaitoa.",
-    "He ovat meijereissä.",
-    "Mehilliä on hyvä juoda talvella."
+    "Me olemme ystäviä.",
+    "Menemme kauppaan.",
+    "Meillä on auto."
   ],
   "translation": [
-    "milk"
+    "we",
+    "us"
   ],
-  "context": "The word 'me' translates to 'milk' in English. It is commonly used to refer to the white liquid produced by mammals, typically cows or goats for consumption."
+  "context": "The Finnish pronoun 'me' is the first-person plural pronoun that corresponds to English 'we' or 'us'. It's used when referring to a group that includes the speaker. This word can function as either a subject pronoun ('we') or an object pronoun ('us'). In Finnish, personal pronouns are often omitted in sentences since verb endings already indicate who is performing the action, but 'me' is used for emphasis or clarity."
 }

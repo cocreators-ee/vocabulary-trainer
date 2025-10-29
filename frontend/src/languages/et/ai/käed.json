@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis tema käed oma omade vahele.",
-    "Käed olid tal väga külmad.",
-    "Tal oli väga ilusad käed."
+    "Kaks käed on külmad.",
+    "Tema käed on väga töökas.",
+    "Lapsed mängivad oma kätega."
   ],
   "translation": [
     "hands"
   ],
-  "context": "The word 'käed' is the plural form of 'käsi', which means hand in English, and it is commonly used to refer to a person's hands or to describe something that is done with one's hands."
+  "context": "The word 'käed' is the plural form of 'käsi', which means 'hand' in English. In Estonian, nouns change their endings to indicate plurality, and '-d' is a common ending for plural nouns. This word specifically refers to hands (plural) rather than a single hand."
 }

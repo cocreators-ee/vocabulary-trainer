@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ei, ma ei usu sugugi.",
-    "See pole sugugi tõsi.",
-    "Ta tegevus oli sugugi ebaefektiivne."
+    "Suguki on ilus päev.",
+    "Kas sa suguksti tuled?",
+    "Mul ei ole suguid midagi öelda."
   ],
   "translation": [
-    "Not at all",
-    "Not even a little bit",
-    "Hardly"
+    "certainly",
+    "definitely",
+    "for sure",
+    "indeed"
   ],
-  "context": "The word 'sugugi' is used to express strong negation or denial. It can be translated as 'not at all', 'not even a little bit', or 'hardly'. It's commonly used in response to questions where the expected answer might be positive, but the speaker wants to emphasize that the opposite is true."
+  "context": "The word 'sugugi' is an Estonian adverb used to express certainty or agreement. It's similar in meaning and usage to English words like 'certainly', 'definitely', or 'for sure'. This adverb typically appears at the beginning of a sentence, though it can also appear elsewhere depending on emphasis needs."
 }

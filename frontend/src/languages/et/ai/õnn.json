@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma soovin sulle õnne.",
-    "Õnn on hea asi.",
-    "Ta on väga õnnelik inimene."
+    "Õnn on ilus asi.",
+    "Ta otsib õnne oma elus.",
+    "Meie ees seisab suur õnn."
   ],
   "translation": [
     "happiness",
-    "luck"
+    "luck",
+    "fortune",
+    "joy"
   ],
-  "context": "The word õnn refers to a state of happiness or good fortune, and is commonly used in Estonian to express well-wishes or congratulations."
+  "context": "The Estonian word 'õnn' is a noun that translates to concepts like happiness, luck, fortune, or joy in English. It represents the state of being happy and fortunate, often associated with good fortune and positive emotions. In Estonian culture, õnn can refer to both internal emotional states (happiness) and external circumstances (luck)."
 }

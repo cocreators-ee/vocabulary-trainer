@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Olkaa hyvä ja istukaa",
-    "Hän sanoi olkaa hyvä ja antoi meille ruokaa",
-    "He ovat sanoneet olkaa hyvä ja auttavat meitä"
+    "Olkaa hyvä ja tule sisään.",
+    "Voinko saada yhden kahvin, olkaa hyvä?",
+    "Olkaa hyvä, odottakaa hetki."
   ],
   "translation": [
-    "be welcome",
     "please",
-    "you are welcome"
+    "be so kind as to",
+    "excuse me"
   ],
-  "context": "The phrase 'olkaa hyvä' is a polite expression used in Finnish to invite someone to do something or to offer something, similar to 'please' or 'you're welcome' in English."
+  "context": "'Olkaa hyvä' is a polite Finnish phrase used to make requests or ask for something in a courteous manner. It literally translates to 'be good,' but functions similarly to the English 'please.' The phrase consists of 'olkaa' (imperative plural form of 'olla' - to be) and 'hyvä' (good). It's commonly used in service situations, when asking someone to do something, or as a polite way to get attention."
 }

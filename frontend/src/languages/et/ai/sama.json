@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa aru, mida sama tähendab selles kontekstis.",
-    "Sama asi on mulle täiesti võõras.",
-    "Ta ütles, et see on sama mis eile."
+    "Tema on sama mees kui eile.",
+    "Meie arvamus on sama.",
+    "Kas sa tahad sama asja?"
   ],
   "translation": [
     "same",
-    "identical"
+    "equal",
+    "identical",
+    "alike",
+    "the same"
   ],
-  "context": "The word 'sama' in Estonian is commonly used to describe something that is identical or the same as something else."
+  "context": "The Estonian word 'sama' is an adjective that means 'same', 'equal', or 'identical'. It can be used to indicate that two things are equal or identical in some way. In different contexts, it might refer to the same person, same opinion, same object, etc. The word doesn't change form based on gender but may need to be declined according to case when used in sentences with different grammatical structures."
 }

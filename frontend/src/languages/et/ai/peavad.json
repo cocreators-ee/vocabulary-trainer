@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pean seda tegema",
-    "Sa pead mind aidama",
-    "Ta peab homme koju minema"
+    "Naised peavad meeste abist.",
+    "Lapsed peavad kooli minema.",
+    "Meie peavad kohe lahkuma."
   ],
   "translation": [
     "must",
     "have to",
-    "should"
+    "need to"
   ],
-  "context": "The word 'peavad' is the third person plural form of the verb 'peama', which means to have to or must do something, indicating obligation or necessity in Estonian."
+  "context": "The word 'peavad' is the 3rd person plural form of the Estonian verb 'pidama', which means 'to have to' or 'must'. It indicates obligation, necessity or requirement in the present tense. When used with a subject like 'nad' (they) or implied subjects like 'naised' (women), it expresses what those people are required to do."
 }

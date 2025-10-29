@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on rõve inimene",
-    "Rõvedad inimesed ei ole populaarsed",
-    "Rõvet teha on vale"
+    "Kuidas on teie rõved?",
+    "Mul on täna väga rõve meel.",
+    "Tere tulemast rõve päev!"
   ],
   "translation": [
-    "cruel",
-    "evil",
-    "wicked"
+    "mood",
+    "disposition",
+    "spirits",
+    "humor",
+    "temperament"
   ],
-  "context": "The word \"rõve\" is commonly used to describe someone or something that is cruel, evil, or wicked in Estonian."
+  "context": "The Estonian word 'rõve' refers to one's mood, disposition, or general emotional state. It can describe how someone is feeling emotionally at a particular moment - whether they are in good spirits, have a pleasant temperament, or are experiencing positive emotions. The word often appears in phrases asking about someone's mood or wishing them a good day with positive vibes."
 }

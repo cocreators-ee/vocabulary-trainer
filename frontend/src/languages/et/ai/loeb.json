@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma loen raamatut.",
-    "Ta loeb ajalehte.",
-    "Nad loevad ühiselt kirjanduskuuri."
+    "Ta loeb raamatut.",
+    "Tüdrukud loevad palju.",
+    "Meie loeme koos."
   ],
   "translation": [
     "reads",
-    "is reading"
+    "is reading",
+    "performs the action of reading"
   ],
-  "context": "The word 'loeb' is a verb in Estonian that means to read something, and it is commonly used in everyday conversations to describe the act of reading a book, article, or any other written material."
+  "context": "The word 'loeb' is the third person singular present form of the Estonian verb 'lugema', which means 'to read'. It specifically refers to someone currently reading or who habitually reads. In Estonian, verbs conjugate based on person and number, so 'loeb' would be used for 'he/she/it reads' in English."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen üks kohtumine tulevikus",
-    "Kohtumine toimus homme",
-    "Ta on korraldanud mitu kohtumist"
+    "Meie kohtumine on kell kaks pärastlõunal.",
+    "Olen meeldivalt oodanud meie kohtumist.",
+    "Kas teil on vaba aega järgmiseks nädalaks meie kohtumiseks?"
   ],
   "translation": [
     "meeting",
-    "encounter"
+    "encounter",
+    "rendezvous"
   ],
-  "context": "The word kohtumine refers to a meeting or encounter between two or more people, and is commonly used in Estonian to describe both formal and informal gatherings."
+  "context": "The Estonian word 'kohtumine' is a noun that means meeting or encounter. It refers to the act of people coming together, usually by appointment or arrangement. The word can be used for both formal business meetings and social gatherings between friends or family members. It's derived from the verb 'kohtuma' (to meet)."
 }

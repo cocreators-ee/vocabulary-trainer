@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sain selle teada.",
-    "Ta sai mind üles kutsuma.",
-    "Me saidime koos ära."
+    "Sain head uudiseid.",
+    "Tema sai kingi eelmisel nädalavahetusel.",
+    "Me saime palju rõõmu sellest reisist."
   ],
   "translation": [
     "got",
-    "received"
+    "received",
+    "have"
   ],
-  "context": "The word 'sain' is the first person singular form of the verb 'saama', which means to get or receive something in Estonian. It is commonly used in everyday conversations to express that someone has obtained or acquired something."
+  "context": "The Estonian word 'sain' is the first person singular past tense form of the verb 'saama', which means 'to get' or 'to receive'. It indicates that the speaker has received something or has obtained a result in the past. This form is specifically used when the speaker (I) did the action of getting/receiving."
 }

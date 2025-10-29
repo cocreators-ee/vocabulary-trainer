@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis haara tooli seljast.",
-    "Haara jaoks on vaja kaks käega hoida.",
-    "Tal on hea haara spordiga."
+    "Haara käsi!",
+    "Haarake enda eest kinni!",
+    "Haaramine on keelatud."
   ],
   "translation": [
-    "grip",
-    "hold",
-    "grasp"
+    "to grab",
+    "to seize",
+    "to hold",
+    "catch"
   ],
-  "context": "The word haara in Estonian refers to the act of holding or grasping something firmly, often requiring a strong physical grip."
+  "context": "The word 'haara' in Estonian is the imperative form of the verb 'haardama', which means to grab, seize, or hold. It's used as a command telling someone to grab something or someone. The word can be seen as derived from the root 'haar-' which relates to grasping and holding actions."
 }

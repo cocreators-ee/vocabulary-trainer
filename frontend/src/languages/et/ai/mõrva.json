@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mõrva neid!",
-    "See on tõeline mõrv.",
-    "Ta soovis mõrva teha."
+    "Eestis on palju mõrvi juhtumeid.",
+    "Politsei uurib mõrva.",
+    "Mõrva eest võidakse anda karm karistus."
   ],
   "translation": [
-    "kill",
-    "murder"
+    "murder (genitive case)",
+    "killing",
+    "homicide"
   ],
-  "context": "The word 'mõrva' primarily means to kill or commit murder in Estonian. It is commonly used as a verb in contexts involving violence, such as in the sentences provided where it's part of commands and descriptions related to violent actions."
+  "context": "The word 'mõrva' is the genitive singular form of the Estonian noun 'mõrv', which means murder. In Estonian grammar, the genitive case is used to indicate possession or origin, so 'mõrva' can mean 'of murder,' 'belonging to murder,' or be used in constructions where something relates to murder. It's commonly found in phrases like 'mõrva juhtum' (murder case) or 'mõrva eest' (for murder)."
 }

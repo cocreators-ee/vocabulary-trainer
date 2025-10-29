@@ -1,14 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta teos oli väga mõjus.",
-    "Igal mehel on oma teod.",
-    "Teose eest said ta tänud."
+    "Tema teeneid on imetavad.",
+    "Ta tegi suure teene kogukonnale.",
+    "Selle teene eest olen tänulik."
   ],
   "translation": [
-    "deed",
-    "action"
+    "merit",
+    "credit",
+    "service",
+    "honor",
+    "virtue"
   ],
-  "context": "The word 'teene' refers to an action or deed someone has done. It is often used in contexts discussing moral actions, achievements, or specific tasks performed."
+  "context": "In Estonian, 'teene' is a noun that refers to merit, credit, or honor earned through good deeds or virtues. It can be used in various contexts such as praising someone's achievements (tema teeneid), acknowledging contributions (suure teene), or expressing gratitude for services rendered (selle teene eest). The word carries a positive connotation and relates to moral excellence and recognition."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Ta lõpetas kooli.",
-    "Kool lõpetas õppeaasta.",
-    "Lõpetasid nad töö"
+    "Mina lõpetasin töö kell 17.00.",
+    "Nad lõpetavad projektist eile."
   ],
   "translation": [
     "finished",
     "completed",
     "ended"
   ],
-  "context": "The word 'lõpetas' is a verb in Estonian that means to finish or complete something, and it is commonly used to describe the end of an activity, project, or period of time."
+  "context": "The word 'lõpetas' is the past tense third person singular form of the Estonian verb 'lõpetama', which means to finish, complete, or end. It indicates that someone finished doing something in the past. The root form 'lõpet-' relates to completion and conclusion, while the '-as' ending marks it as simple past tense for the third person (he/she/it)."
 }

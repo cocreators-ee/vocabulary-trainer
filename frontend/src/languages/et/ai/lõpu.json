@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lõpuks koju jõudnud.",
-    "Ta on selle raamatu lõpuni lugenud.",
-    "Meie eksam lõpeb homme."
+    "Lõpuni jõudsin",
+    "Töö lõpetati õigel ajal",
+    "Keskus lõpeb kell 18"
   ],
   "translation": [
     "end",
-    "finish"
+    "finish",
+    "conclusion",
+    "termination",
+    "completion"
   ],
-  "context": "The word 'lõpu' in Estonian generally refers to the end or finish of something, such as a period of time, a process, or an activity."
+  "context": "The word 'lõpu' is the genitive case of the Estonian noun 'lõpp', which means 'end' or 'finish'. In the genitive case, it shows possession or relationship to something - so 'lõpu' can mean 'of the end', 'belonging to the end', or used with prepositions indicating direction toward an ending. It's commonly used in phrases like 'kuni lõpuni' (until the end) and is often seen before nouns that complete a phrase, similar to English constructions using 'end' as a modifier."
 }

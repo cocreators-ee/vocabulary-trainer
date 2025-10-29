@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta saabub homme",
-    "Buss saabub peagi",
-    "Külaline saabub varsti"
+    "Saabub homme kell kaks.",
+    "Tema saabub varsti.",
+    "Kes saabub täna õhtul?"
   ],
   "translation": [
     "arrives",
-    "will arrive",
+    "comes",
     "is coming"
   ],
-  "context": "The word 'saabub' in Estonian means to arrive or come to a place, and it is commonly used in sentences to indicate the arrival of someone or something."
+  "context": "The word 'saabub' is the third person singular present tense form of the Estonian verb 'saabuma', which means to arrive or to come. It describes when someone or something arrives at a destination, similar to how we say 'he/she/it comes' or 'he/she/it arrives' in English."
 }

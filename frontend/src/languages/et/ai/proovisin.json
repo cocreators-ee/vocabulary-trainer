@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma proovisin teda aidata.",
-    "Ta proovis mind veenda.",
-    "Me proovisime seda üheskoos teha."
+    "Proovisin seda toitu.",
+    "Ma proovisin uut restorani.",
+    "Proovisin jooksma hommikul."
   ],
   "translation": [
-    "I tried",
-    "tried to"
+    "tried"
   ],
-  "context": "The word 'proovisin' is the first person singular past tense form of the verb 'proovima', which means 'to try' in English. It is commonly used to describe an attempt or effort to do something."
+  "context": "The word 'proovisin' is the past tense form of the Estonian verb 'proovima', which means 'to try'. It indicates that the action was attempted in the past. The first-person singular ending '-sin' marks it as 'I tried'."
 }

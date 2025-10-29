@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen juba söönud.",
-    "Juba homme lähen kinno.",
-    "Ta on juba korduvalt öelnud, et..."
+    "Juba olen kohal.",
+    "Oleme juba valmis.",
+    "Kas sa juba tead?"
   ],
   "translation": [
     "already",
-    "soon"
+    "yet",
+    "now"
   ],
-  "context": "The word 'juba' is commonly used in Estonian to indicate that something has already happened or will happen soon."
+  "context": "In Estonian, 'juba' is an adverb that indicates something has already happened or exists at the present moment. It can be used to emphasize completion of an action or state, similar to English words like 'already', 'yet', or 'now'. The placement of 'juba' in a sentence can affect emphasis but it typically appears before the verb it modifies."
 }

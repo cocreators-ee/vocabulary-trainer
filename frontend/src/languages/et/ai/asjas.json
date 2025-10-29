@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on tõesti keeruline asjas.",
-    "Ma ei tea midagi sellest asjast.",
-    "Lõpuks said nad selle asja korda."
+    "Ma olen selles asjas nõus.",
+    "See asi on keerulises asjas.",
+    "Kas sa mõisted seda asjast?"
   ],
   "translation": [
-    "thing",
-    "matter",
-    "issue",
-    "affair"
+    "in this matter",
+    "in this case",
+    "about this subject"
   ],
-  "context": "The word 'asjas' in Estonian generally translates to 'thing', 'matter', or 'issue' in English. It is a versatile word used to refer to an object, situation, or topic being discussed. It can also imply something that needs to be dealt with or resolved."
+  "context": "The Estonian word 'asjas' is the inessive case of 'asi', which means 'matter' or 'case'. It indicates location within something, so 'asjas' translates to 'in the matter' or 'in this case'. It's used when talking about being inside a particular subject, situation, or issue."
 }

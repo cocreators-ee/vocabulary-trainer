@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma teaksin selle kohe ära.",
-    "Ta teeks seda hea meelega.",
-    "Me peaksime seda tegema."
+    "Teaksin, kuidas see töötab.",
+    "Ma teaksin seda paremini, kui saaksin rohkem infot.",
+    "Kui ta oleks olnud seal, ma teaksin kindlasti."
   ],
   "translation": [
-    "to do",
-    "to make",
-    "to perform"
+    "I would know",
+    "I could tell",
+    "I might know"
   ],
-  "context": "The verb 'tegema' in Estonian means 'to do', 'to make', or 'to perform'. The form 'teaksin' is the conditional mood, first-person singular, indicating what one would do."
+  "context": "The Estonian word 'teaksin' is the first person singular conditional form of the verb 'teadma', which means 'to know'. It expresses a hypothetical or future possibility - what someone would know under certain conditions. This form combines the knowledge aspect with conditional mood, indicating that knowing depends on some circumstance being met."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kirjutanud koodi C++ keeles.",
-    "Koodi võib olla keeruline.",
-    "Ta on väga osav programmeerimiskeelte koodi loomisel."
+    "Kas sa tead seda koodi?",
+    "Mul on saladuskoodi.",
+    "See kood on keeruline."
   ],
   "translation": [
     "code",
-    "program"
+    "cipher",
+    "key"
   ],
-  "context": "The word 'koodi' in Estonian generally refers to a set of instructions or a program written in a specific programming language, and it is commonly used in the context of computer science and software development."
+  "context": "The word 'koodi' is the partitive case form of 'kood', which means code or cipher. In Estonian, the partitive case is used to indicate a partial object, indefinite quantity, or when something is being acted upon. It often answers questions like 'what?', 'how much?', or 'which one?'."
 }

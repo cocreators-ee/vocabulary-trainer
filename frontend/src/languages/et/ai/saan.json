@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen saaniga jalutama.",
-    "Saan on hea viis ilu ilma käia.",
-    "Talv on saanihooaeg."
+    "Ma saan homme koju.",
+    "Ta ei saa täna tööd.",
+    "Saan sind aidata?"
   ],
   "translation": [
-    "sled",
-    "sledge"
+    "get",
+    "receive",
+    "can",
+    "am able to"
   ],
-  "context": "The word 'saan' refers to a sled or sledge, commonly used for transportation or recreation in snowy conditions, and is often associated with winter activities in Estonian culture."
+  "context": "In Estonian, 'saan' is the first person singular present form of the verb 'sama', which means 'to get/receive'. It can also be used as an auxiliary verb expressing ability or possibility (similar to English 'can'). The word changes form depending on tense and person: I get/am able to get."
 }

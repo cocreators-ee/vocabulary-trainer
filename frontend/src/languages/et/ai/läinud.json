@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen juba läinud.",
-    "Läinud kuu oli väga sammuline.",
-    "Kas sa oled tõesti läinud?"
+    "Ma olen läinud linna.",
+    "Ta on juba läinud kooli.",
+    "Me oleme läinud teatri."
   ],
   "translation": [
-    "left",
-    "past"
+    "gone",
+    "have gone",
+    "left"
   ],
-  "context": "The word 'läinud' in Estonian is primarily a past participle of the verb 'lnnu' meaning 'to go away' or 'to leave', and can also mean 'past' when referring to time. It commonly indicates that someone has left a place, or something occurred previously."
+  "context": "The word 'läinud' is the past participle form of the Estonian verb 'minema', which means 'to go'. It indicates a completed action of going or leaving. In Estonian, this form can be used with different auxiliary verbs to form various tenses and aspects."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulen seda hästi",
-    "Kuuled mind?",
-    "Ta ei kuule meid"
+    "Ma kuulen häält häält.",
+    "Ta ei kuule midagi.",
+    "Me kuulime muusikat."
   ],
   "translation": [
     "hear",
-    "listen"
+    "listen to"
   ],
-  "context": "The word 'kuulen' is a verb in Estonian that means to hear or listen, and it is commonly used in everyday conversations to indicate that someone is able to perceive sounds or pay attention to what is being said."
+  "context": "The word 'kuulen' is the first person singular present tense form of the Estonian verb 'kulgama', which means 'to hear'. It indicates that someone (I) hears or listens to something. In Estonian, verbs have different forms depending on the subject and tense, so 'kuulen' specifically refers to 'I hear' or 'I am hearing'."
 }

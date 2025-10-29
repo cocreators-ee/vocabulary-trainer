@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän istui sohvalle.",
-    "Istuuiko hän jo?",
-    "He istuvat puutarhassa."
+    "Minä istun tuolissa.",
+    "Hän istui pitkään pöydässä.",
+    "He istuivat puistonpenkillä."
   ],
   "translation": [
-    "sit",
-    "to sit"
+    "to sit",
+    "sitting",
+    "be seated"
   ],
-  "context": "The word 'istua' is a verb in Finnish that means to sit down or be seated, and it is commonly used in everyday conversations to describe the act of sitting or being in a seated position."
+  "context": "The Finnish verb 'istua' means 'to sit' and is used to indicate the action or state of being seated. It's an important basic verb in Finnish vocabulary for describing posture and position. The word can appear in different forms depending on tense, person, and number - for example, 'istun' (I sit), 'istuit' (you sit), 'istuu' (he/she/it sits), 'istuimme' (we sat), etc."
 }

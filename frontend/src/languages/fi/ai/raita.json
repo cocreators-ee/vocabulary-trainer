@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän asuu tässä raita vastaan.",
-    "Raidan vieressä on kauppa.",
-    "Tien raita on melko suora."
+    "Musiikki on hyvää ja melodia on kaunis ja raita.",
+    "Tämä laulu on siisti, koska siinä on hyvä raita.",
+    "Raidoissa on paljon eri instrumentteja."
   ],
   "translation": [
     "track",
+    "line",
     "stripe",
-    "line"
+    "path"
   ],
-  "context": "The word 'raita' in Finnish generally refers to a line, stripe, or track, and it is commonly used to describe something that is long and narrow, such as a road or a boundary."
+  "context": "In Finnish, 'raita' can mean several related things. Most commonly it refers to a musical track or recording (like a song on an album). It can also mean a line, stripe, path, or trail. The word often suggests something that follows a linear path or has a distinct separation from its surroundings."
 }

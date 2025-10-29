@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa aru sellest tükist.",
-    "Tükkideks lõhki.",
-    "See on hea tükk raamatust."
+    "Tükki leiba palun.",
+    "Sain tükki juustu kaasa.",
+    "Mul on veel üks tükki kooke."
   ],
   "translation": [
     "piece",
-    "part"
+    "bit",
+    "slice",
+    "chunk"
   ],
-  "context": "The word 'tükki' in Estonian generally refers to a part or piece of something, often used to describe a portion of an object or a fragment of a whole."
+  "context": "The Estonian word 'tükki' is part of the partitive case form, specifically the illative case (directional) of the root word 'tükk'. It means 'a piece of' or 'into a piece'. This grammatical structure indicates taking or receiving a portion of something. In examples like 'Tükki leiba palun' ('A piece of bread please'), it shows someone requesting a portion of bread. The word can refer to various types of portions depending on context - slices, bits, chunks, etc."
 }

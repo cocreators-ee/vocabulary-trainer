@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Aine on tärkeä osa luonnonfilosofiassa.",
-    "Hän opiskelee aineita yliopistossa.",
-    "Aineen ominaisuuksia tutkitaan laboratoriossa."
+    "Tämä aine on vaarallinen.",
+    "Oppiminen uusista aineista on mielenkiintoista.",
+    "Kemiallinen koostumukseltaan tämä aine on monimutkainen."
   ],
   "translation": [
     "substance",
+    "material",
+    "subject (of study)",
     "matter"
   ],
-  "context": "The word 'aine' in Finnish refers to a substance or matter, and it is commonly used in scientific and philosophical contexts to describe the fundamental nature of things."
+  "context": "The Finnish word 'aine' has multiple meanings depending on context. It can refer to physical substances or materials, such as chemicals or compounds. In educational contexts, it means 'subject' like a field of study. As a singular noun, it refers to one substance/material/subject. When used in compound words, it often appears in the partitive form 'ainetta', indicating an unspecified amount of something."
 }

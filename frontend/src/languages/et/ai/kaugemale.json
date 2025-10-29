@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen kaugemale metsa",
-    "Ta läks kaugemale kui eile",
-    "Kaugemale ei ole võimalik minna"
+    "Ta käis kaugemale ära.",
+    "Me sõitsime kaugemale linna.",
+    "Kaugemale eemaldumine oli hea idee."
   ],
   "translation": [
     "further away",
-    "farther"
+    "farther",
+    "to a greater distance"
   ],
-  "context": "The word kaugemale is an adverb in Estonian that means further away or farther, it is commonly used to describe physical distance from the current location."
+  "context": "The Estonian word 'kaugemale' is the comparative form of 'kauge' (far) and means 'further away' or 'farther'. It indicates movement to a more distant position than the current one. The '-le' ending in Estonian often indicates direction or movement towards something, so 'kaugemale' specifically conveys the idea of moving farther from a reference point."
 }

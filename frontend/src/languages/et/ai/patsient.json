@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Arst vaatas patsienti",
-    "Patsient ootab arsti juures",
-    "Patsientide arv haiglas on suur"
+    "Arst kontrollis patsienti.",
+    "Patsient vajab rohtu.",
+    "Meil on uus patsient haiglas."
   ],
   "translation": [
-    "patient"
+    "patient",
+    "case"
   ],
-  "context": "The word 'patsient' refers to a person who is receiving medical care or treatment, and it is commonly used in Estonian to describe someone who is under the care of a doctor or other medical professional."
+  "context": "In Estonian, 'patsient' means 'patient' and refers to a person receiving medical care or treatment. It is a cognate of the English word 'patient' and has similar usage in medical contexts. The word can be used in both singular and plural forms (patsiendid), and may appear in various grammatical cases depending on its role in the sentence."
 }

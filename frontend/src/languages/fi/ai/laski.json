@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän laski kynän paperille.",
-    "Poika laski lennonvuoroon.",
-    "Neuvos laski hänelle tarkan hinnan."
+    "Laski alas mäeltä.",
+    "Hän laski rahaa pankkiin.",
+    "Lasken sinulle laskun."
   ],
   "translation": [
-    "wrote",
-    "landed (airplane)",
-    "quoted"
+    "fell",
+    "deposited",
+    "billed"
   ],
-  "context": "'Laski' is the past tense of 'ladata', which means to land or write in Finnish. It can also mean quoted in a business context when giving prices."
+  "context": "The Finnish word 'laski' is the third-person singular past tense of the verb 'laskea'. It has multiple meanings depending on context: 1) to fall or descend (like from a height), 2) to deposit money, and 3) to bill or invoice someone. The exact meaning can only be determined by the surrounding words in the sentence."
 }

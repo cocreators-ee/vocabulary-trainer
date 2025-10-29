@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Poissa käynnissä.",
-    "Hän oli poissa koulusta viikoksi.",
-    "Poissa olo on yleistynyt."
+    "Minä olen poissa huomenna.",
+    "Hän oli poissa viime viikolla.",
+    "He ovat poissa tällä hetkellä."
   ],
   "translation": [
-    "away"
+    "away",
+    "absent",
+    "not here"
   ],
-  "context": "Indicates absence from a place or event in Finnish."
+  "context": "The Finnish word 'poissa' means away, absent or not here. It's an inessive case form of the verb 'puuttua' (to lack/be missing), but it's commonly used as a standalone adverb to indicate someone's absence or location away from somewhere. The word doesn't change form regardless of gender or number - it remains 'poissa' whether referring to one person or many."
 }

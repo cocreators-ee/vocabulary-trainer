@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võlgnen sulle raha",
-    "Ta võlgnen mulle ühe euro",
-    "Meie võlgneme pankile laenu"
+    "Ma võlgnen sulle raha homseks.",
+    "Ta võlgneb alati kellelegi midagi.",
+    "Meie võlgneme pangale kuus makset."
   ],
   "translation": [
-    "I owe you money",
     "owe",
-    "debt"
+    "be in debt to"
   ],
-  "context": "The word võlgnen is commonly used in Estonian to express that someone owes something, usually money, to someone else. It can be used in different forms, such as võlgnen (I owe) or võlgneb (he/she/it owes)."
+  "context": "The word 'võlgnen' is the first-person singular present tense form of the Estonian verb 'võlma', which means 'to owe'. It indicates that I currently have a debt or obligation to pay something back to someone. This form is specifically used when speaking about oneself in the present moment - when you yourself are the one who owes."
 }

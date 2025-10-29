@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma soovin sulle õnnelikuks sünnipäevaks",
-    "Ta on väga õnnelikuks inimene",
-    "Õnnelikuks eluks vaja head tervist"
+    "Ta tegi selle õnnelikuks",
+    "Meie teeme õnnelikuks kõik need inimesed",
+    "Õnnelikuks saamine nõuab tööd"
   ],
   "translation": [
     "happy",
+    "fortunate",
+    "blessed",
     "lucky"
   ],
-  "context": "The word õnnelikuks is an adjective in Estonian that means happy or lucky, it is commonly used to express good wishes for someone's well-being or to describe a positive situation."
+  "context": "The word 'õnnelikuks' is the elative case form of 'õnnelik', which means happy or fortunate. In Estonian grammar, the elative case (-ks ending) indicates movement out of something or transformation into a state. So 'õnnelikuks' specifically means 'into happiness' or 'making [someone/something] happy/fortunate'. It's often used when describing the process or result of becoming happy or fortunate."
 }

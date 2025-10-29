@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä kaksinkertainen vuode on hyvin mukava.",
-    "Kaksinkertaiset ovat harvinaisia.",
-    "Hän on kaksinkertainen äiti."
+    "Kaksinkertainen työ vaatii kaksinkertaiset palkkat.",
+    "Hän sai kaksinkertaisen rangaistuksen teostaan.",
+    "Tämä on vain kaksinkertainen petos."
   ],
   "translation": [
     "double",
-    "twofold"
+    "twofold",
+    "doubled"
   ],
-  "context": "The word kaksinkertainen is a Finnish adjective that means double or twofold, and it is commonly used to describe something that has two parts or layers, or something that is repeated twice."
+  "context": "The Finnish word 'kaksinkertainen' is an adjective that means double, twofold, or doubled. It describes something that has been multiplied by two or exists in twice the normal amount/size. The word is formed from 'kaksi' (two) + '-kerta-' (fold/multiple) + '-inen' (adjective suffix), literally meaning 'twice-fold'."
 }

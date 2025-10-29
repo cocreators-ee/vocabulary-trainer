@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on lapsega koos.",
-    "Laps ei ole lapsega.",
-    "Lapsega on raske töö."
+    "Mõtlen lapsega koos",
+    "Töötan lapsega ühes klassis",
+    "Joonistan lapsega joonistusi"
   ],
   "translation": [
-    "with a child"
+    "with a child",
+    "along with a child",
+    "accompanied by a child"
   ],
-  "context": "The word 'lapsega' in Estonian means 'with a child' and is commonly used to describe a situation where someone is accompanied by a child."
+  "context": "The word 'lapsega' is the Estonian instrumental case form of 'laps', meaning 'child'. The '-ga' suffix indicates accompaniment or means 'with'. So 'lapsega' literally means 'with a child' and is used when indicating that someone is doing something together with or accompanied by a child."
 }

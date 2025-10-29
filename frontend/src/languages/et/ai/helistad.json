@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta helistas mulle eile õhtul.",
-    "Palun ärge helistage enne kella kaheksat hommikul.",
-    "Helistad sa homme?"
+    "Sa helistad koju.",
+    "Ta helistas minu perele.",
+    "Me helistame tihti oma vanematele."
   ],
   "translation": [
+    "you call",
     "to call",
-    "ring",
-    "phone"
+    "ringing up"
   ],
-  "context": "The verb 'helistad' in Estonian means 'to call' someone on the phone or to ring a bell. It is commonly used in everyday conversations when discussing making or receiving phone calls."
+  "context": "The word 'helistad' is the second person singular present tense form of the Estonian verb 'helista', which means 'to call' (usually by telephone). It's commonly used when telling someone that they are making a phone call right now. The root 'heli-' relates to sound, and '-sta' is an infinitive ending in Estonian."
 }

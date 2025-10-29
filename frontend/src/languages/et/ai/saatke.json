@@ -1,13 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Saatke see dokument kohe.",
-    "Saatke mulle teada, kui saab valmis.",
-    "Palun saatke vastus e-mailiga."
+    "Palun saatke see kiri homme.",
+    "Ma olen saanud palju kirju, aga ma ei ole veel saadetud oma vastust.",
+    "Saatke meile teave kohe."
   ],
   "translation": [
-    "send"
+    "send",
+    "mail",
+    "dispatch",
+    "forward"
   ],
-  "context": "'saatke' is the imperative form of 'saata', which means to send. It is used when giving a command or instruction to someone to send something, such as a message, document, or package."
+  "context": "The word 'saatke' is the second person plural imperative form of the verb 'saata', which means 'to send'. It's used when speaking to a group of people and instructing them to send something. The ending '-ke' indicates the plural imperative form in Estonian."
 }

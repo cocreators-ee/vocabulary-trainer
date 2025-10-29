@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis käe otsast.",
-    "Käed olid tal suured.",
-    "Ta lükkas mind tagasi käega."
+    "Käed on külmad.",
+    "Tema käsi oli väga tugev.",
+    "Lapse käe oli väike ja peen."
   ],
   "translation": [
-    "hand"
+    "hand",
+    "paw"
   ],
-  "context": "The word käe is the genitive form of the Estonian word käsi, which refers to a person's hand, and it is commonly used in various contexts such as describing physical actions or body parts."
+  "context": "The word 'käe' is the genitive singular form of the Estonian noun 'käsi', which means 'hand'. In this case, it indicates possession or association - meaning 'of a hand' or 'with/from a hand'. It's used to show that something belongs to or comes from a hand. This grammatical form (genitive) is commonly used in Estonian to express relationships between nouns."
 }

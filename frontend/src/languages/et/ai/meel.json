@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hea meel",
-    "Tema meel on halb",
-    "Meie meelt on erinev"
+    "See meel on väga hea.",
+    "Temas on head meel.",
+    "Meel ei ole alati usaldusväärne."
   ],
   "translation": [
     "mind",
-    "opinion",
-    "mood"
+    "soul",
+    "spirit",
+    "feeling"
   ],
-  "context": "The word 'meel' in Estonian generally refers to a person's mind, opinion, or mood, and is commonly used in various contexts to convey one's thoughts or feelings."
+  "context": "In Estonian, 'meel' can refer to the mind as a faculty of thinking and reasoning, the soul or spirit of a person, or feelings and emotions. It's similar to how English uses 'mind' for both the thinking process and sometimes emotional states."
 }

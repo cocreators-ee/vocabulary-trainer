@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen ajaks tööl.",
-    "Ta on ajaks haigeks jäänud.",
-    "See on ajaks piisav."
+    "Kogu meie ajaks jääme koos",
+    "Talveks olin valmis",
+    "Selleks ööks oli kõik läbi"
   ],
   "translation": [
-    "for the time being",
-    "temporarily"
+    "for a while",
+    "until",
+    "for the duration of"
   ],
-  "context": "The word 'ajaks' in Estonian is used to indicate a temporary or limited period of time, and it can be translated to English as 'for the time being' or 'temporarily'."
+  "context": "The Estonian word 'ajaks' is an inessive case form of the word 'aeg' meaning time. It typically functions as a postposition indicating duration or purpose, often translated as 'for a while', 'until', or 'for the duration of'. In grammar terms, it shows that something is happening within a certain timeframe."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma arvan, et see on parim variant",
-    "Parim lahendus oleks otsida abi spetsialistelt",
-    "Ta on üks parimaid sportlasi Eestis"
+    "See on parim raamat, mida ma olen lugenud.",
+    "Tema on parim õpilane klassis.",
+    "Me leidsime parima lahenduse probleemile."
   ],
   "translation": [
     "best",
-    "excellent",
-    "finest"
+    "most excellent",
+    "finest",
+    "superior"
   ],
-  "context": "The word 'parim' in Estonian means the best or of the highest quality, it is commonly used to describe something that stands out as superior to others."
+  "context": "The Estonian word 'parim' is the superlative form of 'hea' (good). It means 'the best' or 'most excellent'. This word typically appears in its basic singular nominative form as shown, but it can also be declined into different cases and numbers. For example: parima (genitive/illative), parimad (nominative plural), parimate (genitive plural). It's used to indicate the highest degree of quality or excellence among options being compared."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Inimese õigused on universaalsed.",
-    "Inimesed on erinevad.",
-    "Igal inimesel on oma isiklikkus."
+    "Inimesed on loomad.",
+    "Tema on hea inimene.",
+    "Paljud inimesed elavad linnas."
   ],
   "translation": [
-    "human",
-    "person"
+    "human being",
+    "person",
+    "man",
+    "woman"
   ],
-  "context": "The word 'inimese' refers to a human being or person, and is commonly used in Estonian to describe an individual or people in general."
+  "context": "The word 'inimese' is the genitive singular form of the Estonian noun 'inimene', which means 'human being' or 'person'. It indicates possession, relationship, or association with a person. In the nominative case (basic form), it would be 'inimene'. The genitive case often translates to English as 'of a human/person', 'belonging to a human', or simply shows connection without direct translation."
 }

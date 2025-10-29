@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on tugev võitleja.",
-    "Võitlejad olid valmis.",
-    "Võitluse võitleja oli vapaa."
+    "Võitlejad on väga julged.",
+    "Ta on hea võitleja.",
+    "Meie võitlejas pole veel lõpetanud."
   ],
   "translation": [
+    "warrior",
     "fighter",
     "combatant"
   ],
-  "context": "The word 'võitleja' in Estonian refers to a person who engages in physical or mental combat, and is commonly used to describe someone who participates in sports, such as boxing or wrestling, or someone who fights for a cause."
+  "context": "The word 'võitleja' is an Estonian noun meaning warrior or fighter. It refers to someone who engages in combat or struggle, whether physically in battle or metaphorically in life challenges. The word is in the nominative case (singular form) and can be used to describe soldiers, athletes in competitive sports, or anyone who fights for a cause."
 }

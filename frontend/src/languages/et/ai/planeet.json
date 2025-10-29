@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma nägin planeeti öisel taeva all.",
-    "Planeedid on Päikese süsteemi osad.",
-    "Uus planeet avastati tänapäeval."
+    "Planeet on taevakeha.",
+    "Mars on neljas planeet päikesest.",
+    "Meie otsime uut elu planeedilt."
   ],
   "translation": [
     "planet"
   ],
-  "context": "The word 'planeet' in Estonian refers to a large celestial body that orbits a star, similar to how the word 'planet' is used in English. It is commonly used in astronomical contexts to describe objects like Earth or Mars."
+  "context": "The Estonian word 'planeet' is a masculine noun that means 'planet'. It refers to large celestial bodies that orbit around stars, including planets in our solar system like Mars and Earth. The word follows standard Estonian grammar rules for nouns."
 }

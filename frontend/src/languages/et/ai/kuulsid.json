@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin seda eile.",
-    "Ta kuulis mu ütlust.",
-    "Nad kuulsid kõike."
+    "Kuulsid seda laulu varem?",
+    "Tema kuulis hästi sellest filmist.",
+    "Me kuulsime oma sõpradega kohtumise."
   ],
   "translation": [
     "heard",
-    "listened"
+    "listened to"
   ],
-  "context": "The word 'kuulsid' is the plural past tense form of the verb 'kuulma', which means to hear or listen in Estonian. It is commonly used to describe the act of perceiving sound with one's ears."
+  "context": "The word 'kuulsid' is the second person singular past tense form of the verb 'kuulama', which means 'to hear' or 'to listen'. It specifically refers to what 'you heard' in the past. In Estonian, this distinction between hearing and listening is important - 'kuulama' can mean both depending on context, similar to English."
 }

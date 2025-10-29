@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olin juba ammu kohal.",
-    "Sa ei saa aru, ma olen lihtsalt väsinud.",
-    "Jah, olengi."
+    "Olen olnud siin kauem kui olengi.",
+    "Kas sa oled kunagi mõelnud, et oleksin sinna läinud nagu ta olengi?",
+    "Ta oli seal nii kaua, et meiegi olengime nähtavasti juba lahkunud."
   ],
   "translation": [
-    "I already am",
-    "I am",
-    "That's right, I am"
+    "you have been",
+    "you had been",
+    "one has been"
   ],
-  "context": "The word 'olengi' is a form of the verb 'olema' (to be) in Estonian. It’s used to express that something *already* is or has become a certain way, often emphasizing a state that exists currently. It can also function as an affirmation – meaning ‘yes, I am’. The 'n' at the end indicates present tense."
+  "context": "The word 'olengi' is an Estonian verb form that combines the auxiliary verb 'olema' (to be) with the conditional mood suffix '-gi'. It typically appears in compound past tenses, often expressing a hypothetical or counterfactual situation where someone was somewhere or had been somewhere. The '-gi' particle adds emphasis and can sometimes indicate contrast or addition to what was previously mentioned."
 }

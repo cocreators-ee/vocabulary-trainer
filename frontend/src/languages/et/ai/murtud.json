@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on murtud mees.",
-    "Murtud süda on valus.",
-    "Murtud unistused ei tapa."
+    "Ta on murtud südamega.",
+    "Lapsed said murtud nukid.",
+    "Murtud klaas oli lõhkes."
   ],
   "translation": [
     "broken",
-    "fractured",
-    "shattered"
+    "cracked",
+    "fractured"
   ],
-  "context": "The word 'murtud' in Estonian means something that is broken or fractured, and it can be used to describe both physical objects and abstract concepts like hearts or dreams."
+  "context": "The Estonian word 'murtud' is the past participle form of the verb 'murda', meaning 'to break'. It describes something that has been broken, fractured, or cracked. This can refer to physical objects (like glass, toys), body parts (broken bones), or abstract concepts (broken heart). The adjective form agrees with the noun it modifies in gender and number."
 }

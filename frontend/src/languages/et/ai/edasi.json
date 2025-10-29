@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen edasi",
-    "Ta oli sunnitud minema edasi",
-    "Edasi mind võib olla vaja"
+    "Edasi!",
+    "Minu edasistööd",
+    "Tule edasi!"
   ],
   "translation": [
     "forward",
+    "onward",
     "ahead",
-    "onward"
+    "further",
+    "continue"
   ],
-  "context": "The word 'edasi' is commonly used in Estonian to indicate movement or progression forward, ahead, or onward, often referring to physical movement but also used in more abstract contexts such as continuing a process."
+  "context": "The Estonian word 'edasi' is an adverb that means forward, onward, ahead, or further. It's used to indicate movement in a forward direction, progression, or continuation of action. In commands, it can mean 'go forward' or 'come on'. As part of compound words like 'edasistööd', it indicates future work or progress."
 }

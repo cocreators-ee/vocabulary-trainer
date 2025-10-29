@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on pestavksi hampaat.",
-    "Hänellä on valkoinen hampaat.",
-    "Hampaiden harjaus on tärkeää."
+    "Minulla on puhdas hampaat.",
+    "Hänen hampaat ovat valkoiset.",
+    "Lapsilla on pienet hampaat."
   ],
   "translation": [
     "teeth"
   ],
-  "context": "The word 'hampaat' refers to teeth in the human mouth, and is commonly used in Finnish to describe oral health and hygiene."
+  "context": "The Finnish word 'hampaat' means 'teeth'. It is the plural form of 'hammas' (tooth). In Finnish, nouns often have different forms depending on whether they are singular or plural. The suffix '-t' at the end indicates that this is a plural form referring to multiple teeth."
 }

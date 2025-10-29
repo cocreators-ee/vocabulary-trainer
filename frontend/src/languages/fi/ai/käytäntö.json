@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Käytännössä kaikki oli toisin.",
-    "Hänellä on oikea käytäntö asioiden hoitamiseen.",
-    "Tämä käytäntö on hyvin yleinen Suomessa."
+    "Tässä yrityksessä on hyvä käytäntö.",
+    "Käytännöt vaihtelevat eri maissa.",
+    "Hän noudattti vanhoja käytäntöjä."
   ],
   "translation": [
     "practice",
+    "custom",
+    "convention",
     "procedure"
   ],
-  "context": "The word käytäntö refers to a usual way of doing something, and it is commonly used in Finnish to describe a standard procedure or practice."
+  "context": "The Finnish word 'käytäntö' refers to a common practice, custom, or established way of doing things. It can refer to general practices in society, business procedures, traditional customs, or methods that have become standardized over time. The word is often used when describing how things are typically done in organizations, cultures, or specific contexts."
 }

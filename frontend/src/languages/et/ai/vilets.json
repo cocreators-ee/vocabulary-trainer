@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on võrdlemisi vilets mängija.",
-    "Viletsilmeline mees istus trepil.",
-    "See film oli väga vilets."
+    "See on vilets ilm.",
+    "Ta elab viletes korteris.",
+    "Vilets olukord nõuab kohe lahendust."
   ],
   "translation": [
     "poor",
     "bad",
+    "wretched",
+    "miserable",
     "wretched"
   ],
-  "context": "The word 'vilets' in Estonian is commonly used to describe something or someone that is of poor quality or unpleasant, similar to the English words 'poor', 'bad', or 'wretched'."
+  "context": "The word 'vilets' is an Estonian adjective meaning poor, bad, wretched or miserable. It describes something of low quality, in a bad condition, or that causes suffering or discomfort. In the examples, it's used to describe weather (poor weather), living conditions (bad apartment), and situations (miserable situation)."
 }

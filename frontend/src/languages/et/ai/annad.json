@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma annan sulle raamatu.",
-    "Ta annab mulle kingituse.",
-    "Nad annavad meile abi."
+    "Annad mulle kohe vastuse?",
+    "Mis sa annad selle eest?",
+    "Sa ei anna midagi tagasi."
   ],
   "translation": [
     "give",
-    "offers",
-    "provide"
+    "provide",
+    "offer"
   ],
-  "context": "The word 'annad' is the second person singular form of the verb 'anna', which means to give something to someone. It is commonly used in everyday conversations to express the act of giving or offering something."
+  "context": "'Annad' is the second person singular present tense form of the Estonian verb 'anna', which means 'to give'. It specifically translates to English as 'you give'. The word can be used in various contexts where giving or providing something, whether physical objects, information, help, or services."
 }

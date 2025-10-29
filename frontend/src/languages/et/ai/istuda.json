@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta istus tooli",
-    "Istuda mind ära",
-    "Kutsuda istuma"
+    "Ma istuin aknal.",
+    "Ta istub laual.",
+    "Me istume koos hommikul."
   ],
   "translation": [
     "to sit",
-    "sit down"
+    "be seated"
   ],
-  "context": "The word 'istuda' is a verb in Estonian that means to sit or sit down, and it is commonly used in everyday conversations to describe the action of taking a seat."
+  "context": "The Estonian verb 'istuda' means to sit or be seated. It's an -uda ending verb indicating action, and can be used in various tenses and forms. For example, 'istun' = I sit, 'isteda' = to sit (infinitive), 'istanud' = sat (past participle)."
 }

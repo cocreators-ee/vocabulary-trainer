@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun täytyy lukea kirja",
-    "Hän luki sanomalehden",
-    "He luettiin läpi koko raportti"
+    "Lue tämä kirja.",
+    "Hän luki lehden ääneen.",
+    "Me luemme joka ilta."
   ],
   "translation": [
     "read"
   ],
-  "context": "The word 'lue' is a verb in Finnish that means to read, and it is commonly used in various contexts such as reading books, newspapers, or documents."
+  "context": "The Finnish word 'lue' is the imperative form of the verb 'lukea', which means 'to read'. It's used when giving a direct command to someone (singular) to read something. The infinitive form is 'lukea', and other forms include 'luen' (I read), 'luet' (you read), 'lukee' (he/she/it reads), 'luemme' (we read), 'luette' (you all read), and 'luelivat/lukivat' (they read)."
 }

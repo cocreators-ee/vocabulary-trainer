@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma püüan seda teha",
-    "Ta püüb mu kannul",
-    "Nad püüavad meid aidata"
+    "Ma püüdin kala.",
+    "Ta ei püüdu midagi.",
+    "Meie peaksime püüdma õigust rääkida."
   ],
   "translation": [
-    "try",
-    "attempt",
-    "strive"
+    "to try",
+    "to attempt",
+    "to catch"
   ],
-  "context": "The word püüda is commonly used in Estonian to mean trying or attempting to do something, and it can be seen in various forms such as püüan, püüb, and püüavad."
+  "context": "The Estonian word 'püüda' has multiple meanings. It can mean 'to try' or 'to attempt' when used with verbs of action, such as 'püüda rääkida' (try to speak). It also means 'to catch' in the context of catching something physical like fish, as in 'püüda kala' (catch a fish). The verb is conjugated based on the subject and tense - for example, 'ma püün' (I try/catch), 'sa püüd' (you try/catch), 'ta ei püüdu' (he/she does not try/catch)."
 }

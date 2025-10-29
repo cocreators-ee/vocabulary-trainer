@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen mõne inimese sõber.",
-    "Mõned inimesed on hea arvamus.",
-    "Ta on üks neist mõnest tüdrukust."
+    "Mõne inimese arvamus on erinev.",
+    "Ta ootas mõne minuti.",
+    "Mõnel päeval sajab vihma."
   ],
   "translation": [
     "some",
-    "someone"
+    "a few"
   ],
-  "context": "The word 'mõne' is used to indicate a small, unspecified number of something or someone, similar to the English word 'some' or 'someone'."
+  "context": "The Estonian word 'mõne' is the partitive singular form of the pronoun 'mõni' meaning 'some' or 'a few'. It is used with countable nouns to indicate an unspecified small quantity. In Estonian grammar, the partitive case is commonly used for partial objects or indefinite quantities. 'Mõne' specifically modifies masculine gender singular nouns in the partitive case."
 }

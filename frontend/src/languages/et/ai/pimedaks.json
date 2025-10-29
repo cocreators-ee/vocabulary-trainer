@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta muutus pimedaks.",
-    "Pimedaks ajaks olid nad teinud kõik ettevalmistused.",
-    "See ei ole hea, sest see võib teha kogu ruumi pimedaks."
+    "Tuleme pimedaks.",
+    "Ta jooksis pimedaks.",
+    "Pimedaks tegemine on hea idee."
   ],
   "translation": [
-    "dark",
-    "darkly",
-    "to darken"
+    "into darkness",
+    "blind",
+    "dark"
   ],
-  "context": "The word 'pimedaks' in Estonian means to become or make something dark, it is commonly used to describe a change in lighting or atmosphere."
+  "context": "The word 'pimedaks' is the elative case form of the Estonian adjective 'pime', meaning 'dark' or 'blind'. It indicates movement into a state of darkness or becoming blind. The -ks ending in Estonian typically shows transition or change of state, making this an adessive-case form used to express 'into darkness' or 'becoming blind'. It's commonly used with verbs like tulema (to come), jooksma (to run), or tegema (to make/do) to describe entering a dark place or losing one's sight."
 }

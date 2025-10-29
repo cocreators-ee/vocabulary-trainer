@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ootan bussi.",
-    "Ta ootas mind koolis.",
-    "Nad ootavad meile koju."
+    "Oodame sind homme.",
+    "Ta ootab bussi.",
+    "Meie ootame teid ees ukse juures."
   ],
   "translation": [
-    "to wait",
+    "to wait for",
+    "to expect",
     "await"
   ],
-  "context": "The word 'oodata' is commonly used in Estonian to describe the act of waiting for someone or something, and it can be translated to English as 'to wait' or 'await'."
+  "context": "The Estonian verb 'oodata' means to wait for or expect something/someone. It can be used in various contexts - waiting for a person, expecting an event, or looking forward to something. The word is conjugated according to the subject: ootad (you), ootab (he/she/it), ootame (we), ootate (you plural)."
 }

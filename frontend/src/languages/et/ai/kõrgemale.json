@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tõusen kõrgemale",
-    "Ta on kõrgemal kui mina",
-    "Meil õnnestus tõusta kõrgemale mäe otsa"
+    "Ta tõusis kõrgemale mäe tipule.",
+    "Purilennuk lendab kõrgemale kui lennuk.",
+    "Vesi voolas kõrgemale üles."
   ],
   "translation": [
     "higher",
-    "to a higher place"
+    "upward",
+    "to a higher position"
   ],
-  "context": "The word kõrgemale is an adverb in Estonian that means to a higher place or position, and it is commonly used to describe movement or progression upwards."
+  "context": "The word 'kõrgemale' is an adverb in Estonian that means 'to a higher position' or 'upward'. It is formed from the root word 'kõrge' (high) with the suffix '-le' indicating movement toward, and the comparative ending '-m(a)' which indicates direction. This adverb is used to describe movement or position to a higher place or level."
 }

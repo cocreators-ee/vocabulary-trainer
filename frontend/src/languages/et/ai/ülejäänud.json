@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ülejäänud raha kulutati kinokülastusele.",
-    "Ta kasutas ülejäänud aja selleks, et lõpetada oma töö.",
-    "Ülejäänud meeskond oli hämmingus."
+    "Ülejäänud tooted tuleb ära viia.",
+    "Kõik ülejäänud kohad on täidetud.",
+    "Me peame arvestama ülejäänud rahaga."
   ],
   "translation": [
     "remaining",
-    "leftover",
-    "residual"
+    "left over",
+    "left"
   ],
-  "context": "The word \"ülejäänud\" in Estonian is commonly used to describe something that is left over or remaining after something has been removed or used, and it can be used in various contexts such as time, money, or objects."
+  "context": "The Estonian word 'ülejaänud' is the past participle form of the verb 'jääma' (to remain/leave). It means 'remaining', 'left over', or 'left' and refers to something that has been left behind after others have taken their share or after some portion has been used up. It's commonly used when talking about leftover items, remaining people, money, time, or resources."
 }

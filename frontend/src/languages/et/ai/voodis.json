@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on voodis",
-    "Voodis oli väga mugav",
-    "Ma olen väsinud ja lähen voodisse"
+    "Magasin voodis kõik õhtu.",
+    "Laps magas voodis nädalavahetuseks.",
+    "Tema magas hea tundega voodis."
   ],
   "translation": [
-    "in bed",
-    "bed"
+    "in bed"
   ],
-  "context": "The word 'voodis' is an adverb in Estonian meaning in or at the bed, it can be used to indicate the location where someone is or will be."
+  "context": "The word 'voodis' is the Estonian inessive case form of 'voodi', meaning 'bed'. The '-s' ending indicates location inside something, so it translates to 'in bed' in English. This is used when someone is physically located within a bed."
 }

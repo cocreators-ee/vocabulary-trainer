@@ -1,15 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mõned väikest vähki tõid põhja.",
-    "Ta jättis oma vähke kodus ja läks tööle.",
-    "Kui sa vähkelähe peale aitad, siis see on vaba."
+    "Vähi ennetamine on tähtis.",
+    "Tal on vähk.",
+    "Minu isa diagnoositi vähiga."
   ],
   "translation": [
-    "crab",
-    "crawfish",
-    "lobster"
+    "cancer"
   ],
-  "context": "The Estonian word 'vähk' primarily translates to 'crab'. It can also refer to other crustaceans like crawfish or lobster depending on the context. It is commonly used in everyday conversation when talking about seafood or cooking."
+  "context": "The word 'vähk' in Estonian means 'cancer'. It is a noun that refers to the disease characterized by uncontrolled cell growth. The word can appear in different contexts related to health, diagnosis, and medical conditions. In the examples provided, it's used in phrases about cancer prevention ('vähi ennetamine'), having cancer ('tal on vähk'), and being diagnosed with cancer ('minu isa diagnoositi vähiga')."
 }

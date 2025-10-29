@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä tuote on yksi yrityksen tärkeimmistä segmenteistä.",
-    "Segmentti on liian pieni meille.",
-    "Markkinointistrategia kohdistuu eri segmentteihin eri tavoin."
+    "Tämä segmentti on tärkeä elokuvassa.",
+    "Radio-ohjelman viimeinen segmentti oli erityisen mielenkiintoinen.",
+    "Olemme jakaneet datan useisiin eri segmentteihin."
   ],
   "translation": [
     "segment",
-    "section"
+    "part",
+    "section",
+    "portion"
   ],
-  "context": "The word 'segmentti' refers to a part or portion of something, such as a market segment or a section of a product line, and is commonly used in business and marketing contexts to describe a specific group or category."
+  "context": "In Finnish, 'segmentti' is a loanword from English that means 'segment'. It refers to a distinct part or section of something larger. This word is commonly used in various contexts such as media (TV/radio segments), data analysis (data segments), film editing (movie segments), and business (market segments). The Finnish spelling follows the original English form but adheres to Finnish pronunciation rules."
 }

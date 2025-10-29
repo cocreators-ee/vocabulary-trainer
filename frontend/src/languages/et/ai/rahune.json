@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on rahune inimene.",
-    "Rahune olemine on hea.",
-    "Kui ma olen rahune, siis ma saan enam tööd teha."
+    "Rahune on kena inimene.",
+    "Ma rahunen alati, kui olen väsinud.",
+    "Kas sa tõesti rahuned?"
   ],
   "translation": [
     "calm",
-    "peaceful"
+    "peaceful",
+    "serene",
+    "tranquil"
   ],
-  "context": "The word 'rahune' is commonly used to describe someone who is calm and peaceful, often in a positive context."
+  "context": "The word 'rahune' is an adjective that describes someone or something as being calm, peaceful, serene, or tranquil. It comes from the root 'rahu' meaning peace/calmness and the suffix '-ne' which forms adjectives in Estonian. This word is used to describe people who are peaceful/natured or situations that have a calm atmosphere."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tulin koju",
-    "Ta tuli homme",
-    "Me tulime eile"
+    "Tulin homme kell 10.",
+    "Kuhu sa tuled?",
+    "Tule meie juurde külastama."
   ],
   "translation": [
     "I came",
-    "came"
+    "I arrive",
+    "I have come"
   ],
-  "context": "The word 'tulin' is the first person singular form of the verb 'tulema', which means to come in Estonian. It is commonly used to describe the act of arriving at a place."
+  "context": "The word 'tulin' is the past tense singular first-person form of the Estonian verb 'tulla', which means 'to come'. It specifically indicates that the speaker has completed the action of coming in the past. In Estonian, verbs are conjugated based on person (I, you, he/she/it, we, you (plural), they) and number (singular/plural). The root form is 'tulla', and 'tulin' is specifically for the first person singular in past tense."
 }

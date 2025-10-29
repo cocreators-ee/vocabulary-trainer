@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on päris hea sõber.",
-    "Ma olen päris kindel, et see on õige.",
-    "Päris ilus koht!"
+    "See on päris hea raamat.",
+    "Tema on päraselt targem kui mina.",
+    "Kas see on päris tõsi?"
   ],
   "translation": [
-    "real",
+    "really",
+    "truly",
+    "very",
     "genuine",
-    "true"
+    "actual"
   ],
-  "context": "The word 'päris' in Estonian means something that is real or genuine, and it is often used to emphasize the authenticity of something."
+  "context": "The Estonian word 'päris' is an adverb and adjective that means 'really', 'truly', or 'very'. It can be used to emphasize the quality or truthfulness of something. As an adverb, it modifies verbs and other adjectives (e.g., 'päraselt' - really/properly). As an adjective, it indicates authenticity (e.g., 'päris raamat' - a real book). The word is commonly used in everyday Estonian to add emphasis or to distinguish between genuine and counterfeit things."
 }

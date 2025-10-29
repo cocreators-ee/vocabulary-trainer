@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on kaksikymmentä euroa taskussani.",
-    "Hänellä on kaksikymmentä vuotta kokemusta.",
-    "Kaksikymmentä opiskelijaa osallistui kurssille."
+    "Kaksikymmentä miestä odotti ovella.",
+    "Hänellä on kaksikymmentä euroa taskussaan.",
+    "Lapset keräsivät kaksikymmentä puuhalastua."
   ],
   "translation": [
-    "twenty"
+    "twenty",
+    "20"
   ],
-  "context": "The word kaksikymmentä is a Finnish numeral that means twenty, and it is commonly used to express quantities or counts in everyday conversations."
+  "context": "The Finnish word 'kaksikymmentä' means twenty or the number 20. It's a compound word formed from 'kaksi' (two) and 'kymmenen' (ten), literally translating to 'twoten'. In Finnish, numbers are typically written as one word rather than separated like in English. This word is used when counting objects, people, money, or expressing quantities of twenty items."
 }

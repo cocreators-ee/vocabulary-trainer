@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on suur pardal.",
-    "Pardal oli täis inimesi.",
-    "Me sõitsime pardal üle jõe."
+    "Pardal oli hea mängija.",
+    "Me nägime pardali eile mängimas.",
+    "Pardalit peetakse üheks parimaks mängijaks."
   ],
   "translation": [
-    "barge",
-    "pontoon",
-    "raft",
-    "float"
+    "player",
+    "participant",
+    "competitor"
   ],
-  "context": "The word 'pardal' in Estonian refers to a flat-bottomed boat, often used for transportation on rivers or lakes. It can be similar to a barge, pontoon, raft, or float, and is commonly used in rural areas for crossing water bodies."
+  "context": "In Estonian, 'pardal' appears to be a word that refers to a player or participant in a game or competition. It could be used for athletes, gamers, or anyone participating in some form of competitive activity. The word seems to function as a noun designating someone who plays or takes part in games."
 }

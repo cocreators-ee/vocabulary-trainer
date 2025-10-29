@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on viimast korda käinud doktori juures.",
-    "Viimast korda nägin teda eile.",
-    "Olen viimast päevad olnud väga haige."
+    "Mul on viimast korda sel aastal kohtumine juhatusega.",
+    "Ta teeb alati oma parimat viimast hetkel.",
+    "Me peame viimaseid asju lahendama enne reisi."
   ],
   "translation": [
     "last",
-    "latest"
+    "final",
+    "ultimate"
   ],
-  "context": "The word 'viimast' in Estonian generally refers to something or someone that is the last one, often implying a sense of finality or being the most recent in a series. It can be used in various contexts such as time, events, or sequences."
+  "context": "The word 'viimast' is the partitive form of 'viimane' in Estonian, meaning 'last' or 'final'. It's used to indicate something being the final one or ultimate occurrence. The -st ending indicates this is the partitive case, which often relates to having a limited amount of something or referring to an instance of something."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lööb palli",
-    "Laps lööb koera",
-    "Koer lööb hamba"
+    "Lõi mulle kätt.",
+    "Ta lööb värava kohe peale palli saamist.",
+    "Me lõime uue rekordi."
   ],
   "translation": [
-    "hit",
-    "beat",
-    "strike"
+    "to hit",
+    "to strike",
+    "to beat"
   ],
-  "context": "The word 'löö' in Estonian means to hit or strike something, and it is commonly used in sentences to describe physical actions."
+  "context": "The Estonian verb 'löö' is an infinitive form that means to hit, strike, or beat. It's a common action verb used in various contexts like hitting objects, striking someone, or beating records. The word changes its ending based on conjugation: 'lööb' (he/she hits), 'lõi' (past tense - hit), and 'lõime' (we hit)."
 }

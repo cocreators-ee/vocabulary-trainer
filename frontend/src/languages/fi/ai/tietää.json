@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä tiedän, että hän on oikeassa.",
-    "Hän ei tiennyt mitään siitä.",
-    "Tiedän, että se on vaikeaa."
+    "Tiedän vastauksen tähän kysymykseen.",
+    "Hän ei tiedä minun menneisyyttäni.",
+    "He tietävät kaiken siitä tapahtumasta."
   ],
   "translation": [
-    "know",
-    "be aware of"
+    "to know",
+    "be aware of",
+    "have knowledge of"
   ],
-  "context": "The word 'tietää' in Finnish means to know or be aware of something, and it is commonly used in sentences to express knowledge or understanding about a particular topic or situation."
+  "context": "The Finnish verb 'tietää' means 'to know' in English. It is used to express having information, awareness, or knowledge about something. This verb indicates a state of knowing rather than the process of learning or acquiring knowledge (which would use 'oppia'). 'Tietää' is conjugated according to person and number, like most Finnish verbs."
 }

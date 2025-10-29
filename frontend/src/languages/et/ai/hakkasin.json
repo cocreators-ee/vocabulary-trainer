@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mina hakkasin tüdrukut armastama.",
-    "Ta hakkas vihaselt karjuma.",
-    "Nad hakkasid koos mängima."
+    " hakkasin tööle kella kaheksa hommikul.",
+    " hakkasime lõuna ajal jalutama linna keskusesse.",
+    " ta hakkab öösel magama kell üksteist."
   ],
   "translation": [
-    "began",
     "started",
-    "commenced"
+    "began"
   ],
-  "context": "The word 'hakkasin' is the first-person singular past tense of the verb 'hakkama', which means to begin or start doing something. It indicates the commencement of an action or state."
+  "context": "The word 'hakkasin' is the first-person singular past tense form of the Estonian verb 'alustama', meaning 'to start' or 'to begin'. It indicates that the speaker began an action in the past. The stem of the verb is 'hakka-', and this form uses the -s- infix to indicate first person singular past tense, followed by the -n suffix which is typical for Estonian past tense verbs."
 }

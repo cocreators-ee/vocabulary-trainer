@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kotiin pääsee kauniilla rannatietä.",
-    "Tieltä tuli valtava tieliikenne.",
-    "Ajelkaapa varovasti tiehen ja pois siitä."
+    "Tie on suora ja leveä.",
+    "Auto ajoi tiellä hitaasti.",
+    "Mennään kävelemään pitkää tietä."
   ],
   "translation": [
     "road",
     "street",
-    "highway"
+    "path",
+    "way"
   ],
-  "context": "Tie is the Finnish word for a road or street. It can be used to refer to various types of roads, including small streets and major highways. The usage is general and common in describing where one travels by foot or vehicle."
+  "context": "In Finnish, 'tie' is a noun that means road or street. It's the basic word for a way or path that vehicles travel on. The word can be used to refer to any kind of thoroughfare, from small paths to major highways. In compound words and different grammatical forms, it can describe specific types of roads or directions."
 }

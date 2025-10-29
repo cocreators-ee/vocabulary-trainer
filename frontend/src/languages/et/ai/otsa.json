@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lõpetan selle töö otsa.",
-    "Ta on väsinud ja tahab minna magama otsa.",
-    "Otsa saab kätte ainult ühe teatud meetodi abil."
+    "Läksin otsa tänavat.",
+    "Tuli otsa teed.",
+    "Jõudsid juba otsa?"
   ],
   "translation": [
     "end",
-    "edge"
+    "tip",
+    "extremity"
   ],
-  "context": "The word 'otsa' in Estonian generally refers to the end or edge of something, and it is commonly used to indicate the completion or boundary of an object or activity."
+  "context": "The Estonian word 'otsa' is the inessive case singular form of the word 'ots', which means 'end'. It indicates location at or within something's end. The word can be used to refer to the physical end of an object (like a road, street, or line) or metaphorical ends (like deadlines or periods)."
 }

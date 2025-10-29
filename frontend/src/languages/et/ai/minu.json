@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu nimi on Anna.",
-    "Minu lemmikvärv on roheline.",
-    "See raamat kuulub minu õigale."
+    "Minu nimi on Kati.",
+    "See on minu raamat.",
+    "Kas see on sinu või minu auto?"
   ],
   "translation": [
-    "my"
+    "my",
+    "mine"
   ],
-  "context": "'minu' is a possessive pronoun used to indicate ownership or personal connection. It can be used before nouns to show that something belongs to the speaker, such as in 'Minu auto' (My car)"
+  "context": "The Estonian word 'minu' is the possessive pronoun that means 'my' or 'mine'. It indicates possession and is used to show that something belongs to the speaker. The word changes form depending on what it modifies (e.g., minu raamat - my book, minu auto - my car). In questions like 'Kas see on sinu või minu auto?', it's used to distinguish between whose item is being discussed."
 }

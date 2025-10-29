@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta kukkus tooli pealt maha.",
-    "Laps kukkus mängides.",
-    "Kass kukkus puult."
+    "Kukkuvad lehed valjad värvivad.",
+    "Lind kukkus puult.",
+    "Ta kukkus trepist alla."
   ],
   "translation": [
     "fell",
     "dropped",
     "collapsed"
   ],
-  "context": "The word 'kukkus' in Estonian means 'fell' or 'dropped'. It describes the action of someone or something falling down, often used to describe an accidental fall or a sudden drop. It is the past tense form of the verb 'kukkuma'."
+  "context": "The word 'kukkus' is the past tense form of the Estonian verb 'kukkuma', which means to fall or drop. It specifically describes an action that has already happened - someone or something fell down from a height or collapsed. The word can be used for people, objects, or natural phenomena falling due to gravity."
 }

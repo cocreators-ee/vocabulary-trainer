@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta oli väga närvis eksami pärast.",
-    "Ära ole nii närvis, kõik läheb hästi.",
-    "See film tegi mind närviks."
+    "Ta on närvis inimene.",
+    "Närvis kõht ei lase tähelepanu juhtida.",
+    "Lapsed olid väga närvis pärast sündmust."
   ],
   "translation": [
     "nervous",
     "anxious",
-    "tense"
+    "jumpy"
   ],
-  "context": "The word 'närvis' in Estonian is commonly used to describe a state of anxiety or nervousness. It’s similar to the English words ‘nervous’, ‘anxious’, or ‘on edge’. It can refer to feeling worried, stressed, or apprehensive about something."
+  "context": "The word 'närvis' is the Estonian adjective form meaning 'nervous'. It describes someone who feels anxious, jumpy, or easily agitated. The root word comes from ' närvi ' (nerve), with '-s' being an adjective suffix in Estonian. This would be used to describe a person's state of mind when they are feeling tense or uneasy."
 }

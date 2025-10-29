@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kutsuge mind sisse.",
-    "Ta kutsus mind telefonile.",
-    "Me kutsusime teda külla."
+    "Palun kutsuge mind oma juubeliks.",
+    "Meie lapsed ei kutsu alati vanemaid ööseks.",
+    "Kas te saaksid mind kutsuda homme?"
   ],
   "translation": [
-    "call me",
-    "invite"
+    "invite",
+    "call",
+    "summon"
   ],
-  "context": "The word 'kutsuge' in Estonian is a verb that means to call or invite someone, and it can be used in different forms to convey various shades of meaning, such as calling someone over the phone or inviting them to an event."
+  "context": "The word 'kutsuge' is the plural form of the Estonian verb 'kutsuma', which means to invite, call or summon. It specifically refers to the 3rd person plural imperative form (command/request). The root verb can mean inviting someone to an event, calling out to someone, or formally summoning them."
 }

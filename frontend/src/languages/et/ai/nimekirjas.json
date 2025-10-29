@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on nimekirjas.",
-    "See sõna on võetud nimekirjast.",
-    "Nimekirja peab olema täpne."
+    "Ta oli nimekirjas.",
+    "Kõik osalejad on nimekirjas.",
+    "Palun kontrollige oma nimekirja."
   ],
   "translation": [
     "on the list",
-    "in the list"
+    "in the list",
+    "listed"
   ],
-  "context": "The word 'nimekirjas' in Estonian means being included or contained within a list, often used to describe something that is part of a collection or enumeration of items."
+  "context": "The Estonian word 'nimekirjas' is an adessive case form of the noun 'nimekiri', meaning 'list'. It indicates that someone or something is located on or included in a list. The -s at the end indicates the adessive case, which often translates to 'on/with/in' in English."
 }

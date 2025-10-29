@@ -1,15 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma sain kuusest lemmikuks.",
-    "Ta istutas aedadesse mitu kuust.",
-    "Kuused on tänapäeval väga väärtuslikud."
+    "Kuus on igal aastal erineva värvi.",
+    "Meil kuus puitu aias.",
+    "Need kuused kasvavad kõrgelt mägedes."
   ],
   "translation": [
-    "birch",
-    "birches",
-    "birch tree"
+    "pine tree"
   ],
-  "context": "The word \"kuus\" translates to birch in English. It is commonly used to refer to the birch tree or its plural form when describing multiple trees. It can also be part of expressions involving actions with or related to birch trees."
+  "context": "The word 'kuus' is the nominative singular form of an Estonian noun meaning 'pine tree'. It refers to the coniferous evergreen tree known as pine in English. In Estonian, it follows normal declension patterns for common nouns and would change form depending on case and number (e.g., plural 'kuused', genitive singular 'kuuse')."
 }

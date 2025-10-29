@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Masina on väga kiire.",
-    "Ta ostis uue masina.",
-    "Masinad on tänapäeval väga levinud."
+    "Olen ostnud uue masina.",
+    "Masinad on väga kiired.",
+    "Tema juhib masinat osavalt."
   ],
   "translation": [
     "car",
-    "machine"
+    "machine",
+    "automobile"
   ],
-  "context": "The word 'masina' in Estonian generally refers to a car or machine, and it is commonly used in everyday conversations to talk about vehicles or devices that perform specific tasks."
+  "context": "The Estonian word 'masina' is a noun that can refer to either a car or any type of machine. It's the general term for mechanical devices, though it most commonly refers to automobiles in everyday usage. The word doesn't change form based on gender since Estonian doesn't have grammatical gender. In different contexts, it could mean anything from a simple tool to a complex industrial machine."
 }

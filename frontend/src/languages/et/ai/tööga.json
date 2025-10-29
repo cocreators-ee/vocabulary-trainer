@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin tööd kogu päeva.",
-    "Neil on palju tööd teha.",
-    "Ta otsib uut tööga seotud väljakutset."
+    "Tööga oli küll raske.",
+    "Mul on head tööga hakkama saada.",
+    "Ta tegi seda tööga hästi."
   ],
   "translation": [
     "with work",
-    "at work",
-    "working"
+    "by working",
+    "through labor"
   ],
-  "context": "The word 'tööga' is derived from the Estonian word 'töö', meaning 'work'. It’s often used as a prepositional phrase indicating being engaged in work, or relating to work. It can also imply ‘being at work’ or ‘with work’ in terms of having tasks to complete."
+  "context": "The word 'tööga' is an Estonian adessive case form of the noun 'töö', which means 'work'. In this form, it indicates accompaniment or instrumentality - showing that something is done with work, by using work as a tool or method, or through labor. It answers the question 'how?' or 'with what?'. The '-ga' suffix in Estonian typically indicates accompaniment when used with nouns."
 }

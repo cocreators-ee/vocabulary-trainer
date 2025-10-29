@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Poiste kirik on suurepärane.",
-    "Poiste ülem võtab vastu uue töötaja.",
-    "Poiste klassis õpetab noor õpetaja."
+    "Poised on uuel kooliaastal.",
+    "Need poisted head ja töökasid.",
+    "Poiste ees seisab palju väljakutseid."
   ],
   "translation": [
-    "boys"
+    "boys",
+    "sons"
   ],
-  "context": "The word 'poiste' is the genitive plural form of the Estonian word for 'boy', and it is commonly used to refer to a group of boys or something belonging to them."
+  "context": "The word 'poiste' is the plural genitive form of the Estonian noun 'poiss', which means 'boy'. In this case, it expresses possession or relationship, meaning 'of boys' or 'belonging to boys'. It can be translated as 'of the boys' or 'boys'' in English. The ending '-te' indicates the plural genitive case in Estonian."
 }

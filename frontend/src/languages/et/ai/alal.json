@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema arvates on see alal kehtiv.",
-    "Päikeseloojanguks jääb alal valdavalt külmaks.",
-    "See ehitusmeetod kasutatakse alat metsades."
+    "Alal on hea tööda.",
+    "Tule lähemale ja näe mis alal juhtub.",
+    "Me peame olema valmis eriolukordadele mis võivad tekkida alal."
   ],
   "translation": [
-    "still",
-    "continuing",
-    "ongoing"
+    "on the spot",
+    "at the place",
+    "locally",
+    "in that area"
   ],
-  "context": "'Alal' is used in Estonian to express something that remains the same, continues without change, or is ongoing. It can function as an adverb indicating continuity."
+  "context": "The Estonian word 'alal' is an adessive case form of the noun 'ala', which means 'place', 'area', or 'field'. It's used to indicate location - something happening at a particular place, on the spot, or in a specific area. The adessive case typically answers the question 'where?' and indicates location near someone or something."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä on valtava rakennus.",
-    "Valtavat määrät rahaa katosivat.",
-    "Hänellä oli valtava vaikutus taidepiiriin."
+    "Tämä on valtava talo.",
+    "Hänellä on valtava määrä töitä tehtävänä.",
+    "Valtava joukko ihmisiä kokoontui torille."
   ],
   "translation": [
-    "enormous",
     "huge",
-    "massive"
+    "enormous",
+    "massive",
+    "immense"
   ],
-  "context": "The word 'valtava' is commonly used in Finnish to describe something that is very large or immense in size, amount, or degree, similar to how the English words 'enormous', 'huge', and 'massive' are used."
+  "context": "The Finnish word 'valtava' is an adjective that means huge, enormous, massive, or immense. It describes something of very great size, quantity, or extent. The word is commonly used to emphasize the large scale of physical objects, amounts, or gatherings."
 }

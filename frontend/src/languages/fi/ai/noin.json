@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä olen noin kuusi",
-    "Hän on noin metrin pituinen",
-    "Tämä on noin viisi euroa"
+    "Noin viisi minuuttia meni aikaa.",
+    "Hän asui noin kilometrin päässä kaupungista.",
+    "Puhelimet maksavat nykyään noin sata euroa."
   ],
   "translation": [
+    "approximately",
     "about",
-    "around",
-    "approximately"
+    "around"
   ],
-  "context": "The word 'noin' in Finnish is used to indicate an approximation or a rough estimate of something, similar to how 'about' or 'around' are used in English."
+  "context": "The Finnish word 'noin' is an adverb used to indicate approximation or vagueness. It corresponds to English words like 'approximately', 'about', and 'around'. It's commonly used when giving rough estimates of time, distance, quantity, or value without being precise."
 }

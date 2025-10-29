@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kui sa ei tea midagi teha, siis alles las püksid peale!",
-    "Kõikjal mujal ei jää sellest vaimustus enne kui just siin, alles siin.",
-    "Jäta alles ja oled kaotaja."
+    " Alles veel midagi vaja?",
+    "Olen alles jõudnud koju.",
+    "Tööd tehti alles eile."
   ],
   "translation": [
-    "still",
-    "only",
-    "just"
+    "only just",
+    "only now",
+    "not until",
+    "yet"
   ],
-  "context": "'Alles' is used to emphasize that something remains or continues unchanged. It can also mean 'only' or 'just' when used in a sentence to limit the scope of an action or situation."
+  "context": "The Estonian word 'alles' is an adverb that indicates something has happened very recently, not until a certain time, or only just occurred. It can express temporal immediacy or delay, similar to English expressions like 'just now', 'only just', 'not until', or 'yet'. In questions, it often means 'still needed/required'."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen sellist inimest näinud",
-    "Sellist asja ma pole kunagi teinud",
-    "Ta on sellist tüüpi inimene"
+    "Sellist ilu pole näinud kunagi.",
+    "Selliseid asju ei saa osta siin.",
+    "Mul on selline tunne et midagi on valesti."
   ],
   "translation": [
     "such",
+    "this kind of",
     "like this"
   ],
-  "context": "The word 'sellist' is used in Estonian to describe something that is of a certain type or kind, similar to the English word 'such'."
+  "context": "The word 'sellist' is the partitive form of the demonstrative pronoun 'selline', which means 'such' or 'of this kind'. It's used to indicate a specific type or quality, often functioning as an adjective in Estonian. The partitive case here indicates that we're talking about some amount or instance of something of this particular kind."
 }

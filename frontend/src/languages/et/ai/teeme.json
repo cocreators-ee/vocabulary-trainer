@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me teeme seda igal päeval",
-    "Ta teeb tööd hästi",
-    "Nad teevad koostööd"
+    "Me teeme homme uue projekti.",
+    "Tüdrukud teavad, et meie teeme kohe.",
+    "Mina ja minu sõber teeme alati midagi huvitavat."
   ],
   "translation": [
+    "we make",
     "we do",
-    "make",
-    "do"
+    "we create"
   ],
-  "context": "The word 'teeme' is the first person plural form of the verb 'tegema', which means 'to do' or 'to make' in English, and it is commonly used to describe an action that is being performed by a group of people."
+  "context": "The word 'teeme' is the 1st person plural present indicative form of the Estonian verb 'tegema', which means 'to make', 'to do', or 'to create'. It indicates that a group including the speaker is performing an action in the current time."
 }

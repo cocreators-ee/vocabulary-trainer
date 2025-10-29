@@ -1,17 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen juba valmis õhtusöögile.",
-    "Tema ei tule õhtusöögile täna kella viiepärast.",
-    "Kas sa soovid minu koos elama kahjuks õhtusöögi läbi?"
+    "Tule meie õhtusöögile!",
+    "Kas tulled õhtusöögile kell 7?",
+    "Meil on tänal õhtusöögile kaks külalist."
   ],
   "translation": [
-    "dinner",
-    "for dinner",
     "to dinner",
-    "at dinner time",
-    "during dinner"
+    "for dinner",
+    "for the evening meal"
   ],
-  "context": "'õhtusöögile' refers to the act of having dinner or a specific instance of dinner, typically in the evening. It is often used when referring to plans around eating dinner."
+  "context": "The word 'õhtusöögile' is an Estonian noun phrase meaning 'to dinner' or 'for dinner'. It consists of 'õhtu-' (evening) + 'söök' (meal/food) + '-le' (a directional case ending indicating movement towards). This is the illative case form used to indicate motion toward a destination - in this case, going to have an evening meal. The word implies the purpose of the action is to attend or participate in dinner."
 }

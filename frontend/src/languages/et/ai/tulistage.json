@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tuletage nõutavalt!",
-    "Vale peatus, tuleb tülistage.",
-    "Päikeseloojangu puhul tuld tuleb vaheldust taolistada ja tulistada."
+    "Tulistage siia!",
+    "Tulistage vastu seina.",
+    "Kas te tulistate?"
   ],
   "translation": [
-    "shoot"
+    "Shoot!",
+    "Fire!",
+    "Open fire!"
   ],
-  "context": "The imperative form used to command someone (or a group) to shoot something"
+  "context": "The word 'tulistage' is the second person plural imperative form of the verb 'tulista', which means 'to shoot'. It's a command or instruction telling multiple people to shoot. This form is used when addressing a group of people informally (using 'te' as the informal plural pronoun). The root 'tuli-' relates to fire/weaponry, and '-stage' is the imperative ending for second person plural verbs in Estonian."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Haigla on kallis.",
-    "Haiglas saab teada uusi asju.",
-    "Ta külastas haiglat."
+    "Haiglas elab väike perenaine.",
+    "Meie naasmine haiglasse oli vajalik.",
+    "Töötaja lahkus haiglast kell viis."
   ],
   "translation": [
-    "hospital"
+    "from the hospital",
+    "out of the hospital"
   ],
-  "context": "This word refers to a hospital in English. It is commonly used when talking about medical institutions where people receive treatment and care."
+  "context": "The Estonian word 'haiglast' is an inessive case form (inessitive) of the noun 'haigla', which means 'hospital'. The '-st' ending indicates motion away from or out of a place. It functions as an adverbial phrase meaning 'from the hospital' or 'out of the hospital', indicating movement originating from that location."
 }

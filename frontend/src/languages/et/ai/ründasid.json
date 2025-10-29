@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nad ründasid vaenlast.",
-    "Meie väed ründasid öösel.",
-    "Ründasid nad või ei?"
+    "Nad ründasid vaenlase positsioone.",
+    "Poksijad ründasid üksteist intensiivselt.",
+    "Meie väed ründasid öösel."
   ],
   "translation": [
     "attacked",
-    "assailed"
+    "raided",
+    "assaulted"
   ],
-  "context": "The word 'ründasid' is the third person plural past tense form of the Estonian verb 'ründama', which means to attack or assail something or someone. It is commonly used in sentences to describe a physical or verbal attack on an enemy, a person, or an idea."
+  "context": "The word 'ründasid' is the past tense plural form of the Estonian verb 'ründa', which means 'to attack'. It indicates that multiple subjects performed the action of attacking in the past. The root word 'ründa' can be conjugated for different tenses, persons and numbers: ründan (I attack), rändad (you attack), ründab (he/she/it attacks), ründame (we attack), ründate (you plural attack)."
 }

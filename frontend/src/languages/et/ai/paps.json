@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan papsi",
-    "Papsid on hästi tehtud",
-    "Ta tegi papsi õige"
+    "Tema isa on vana paps.",
+    "Meie paps armastab lugeda ajalehti.",
+    "Papsed olid rõõmsad nägemise eest."
   ],
   "translation": [
-    "beans",
-    "bean"
+    "father",
+    "dad",
+    "papa"
   ],
-  "context": "The word 'paps' in Estonian refers to a type of legume, commonly known as beans in English. It is often used in cooking and is a popular ingredient in various dishes."
+  "context": "The Estonian word 'paps' is an informal term for father or dad. It's commonly used in everyday speech to refer to one's father, similar to how 'dad' or 'papa' is used in English. The word can be used in both singular and plural forms (papsed)."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ütles, et tuleb kohe.",
-    "Ma ütlesin talle, et see on hea mõte.",
-    "Ütle mulle, mis sa arvad."
+    "Tema ütles, et tuleb homme.",
+    "Mina ei öelnud midagi, ta on see, kes ütles.",
+    "Mis sa ütled?"
   ],
   "translation": [
     "said",
     "spoke",
     "told"
   ],
-  "context": "The word \"ütles\" is the simple past tense of the verb \"ütlema\", which means to say or speak in Estonian. It is commonly used in sentences to indicate that someone expressed an opinion, made a statement, or conveyed information."
+  "context": "\"Ütles\" is the past tense singular form of the Estonian verb \"ütlema\", which means 'to say' or 'to speak'. It's commonly used in narrative contexts to report what someone has said. The word conjugates as: ütlen (I say), ütled (you say), ütleb (he/she says), ütles (he/she/it said)."
 }

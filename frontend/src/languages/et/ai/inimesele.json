@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võin seda öelda inimesele.",
-    "See on hea uudis inimesele, kes otsib tööd.",
-    "Inimesele, kes armastab loodust, on see koht ideaalne."
+    "Tere tulemast inimesele!",
+    "See asi on keeruline inimesele.",
+    "Kõigepealt peame arvestama inimesega."
   ],
   "translation": [
     "to a person",
-    "for people",
-    "human being"
+    "for a person",
+    "toward a person"
   ],
-  "context": "The word 'inimesele' is a dative form of the noun 'inimene', which means 'person' or 'human being' in Estonian. It is commonly used to indicate that something is done for or directed towards a person."
+  "context": "The word 'inimesele' is the allative case form of 'inimene', which means 'person' or 'human being'. In Estonian, the allative case (-le ending) indicates motion toward or direction to someone or something. So 'inimesele' specifically means 'to a person' or 'for a person', indicating that something is directed towards or intended for a human being. It's used when showing movement towards or giving something to a person."
 }

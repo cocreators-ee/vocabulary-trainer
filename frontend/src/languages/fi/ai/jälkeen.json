@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän lähti kotiin elokuvan jälkeen.",
-    "Juhlien jälkeen olin todella väsynyt.",
-    "Mitä tapahtui sen jälkeen?"
+    "Mennin heti työn jälkeen kotiin.",
+    "Hän tuli meidän juhlamme jälkeen.",
+    "Tämä tapahtui vuoden 2020 jälkeen."
   ],
   "translation": [
     "after",
-    "behind",
-    "following"
+    "following",
+    "subsequent to"
   ],
-  "context": "The word 'jälkeen' in Finnish primarily translates to 'after' in English. It indicates a point in time or event that occurs following another. It can also, less commonly, mean 'behind', but this usage is context-dependent."
+  "context": "The Finnish word 'jälkeen' is a postposition that means 'after' in English. It's used to indicate that something occurs following another event or time point. In Finnish grammar, it typically follows the noun or pronoun it modifies and can be combined with the genitive case. For example, 'työn jälkeen' means 'after work', where 'työ' (work) is in the genitive case."
 }

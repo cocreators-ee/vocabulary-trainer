@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean, kellest räägime.",
-    "Ta ei tea, kellest me räägime.",
-    "Kellest sa võid rääkida?"
+    "Kellest sa räägid?",
+    "Mees, kellest me vaidlesime, on tulnud tagasi.",
+    "See on raamat, mille otsin kellestki."
   ],
   "translation": [
+    "whom",
     "about whom",
-    "who"
+    "of whom"
   ],
-  "context": "The word kellest is a pronoun in Estonian that means about whom or who, and it is commonly used to ask for or provide information about someone."
+  "context": "The Estonian word 'kellest' is the elative case form of 'kes' (who), used when asking about or indicating the source or origin of something. It functions as the ablative form in the declension system and can be translated as 'whom,' 'about whom,' or 'of whom' depending on context. It answers questions like 'from whom?' or 'about whom?'"
 }

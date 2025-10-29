@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võite seda teha",
-    "Ta võite mind aidata",
-    "Nad võite meile appi tulla"
+    "Võite tulla homme kell seitse.",
+    "Ma ei tea, kuidas nad võite teha seda.",
+    "Võite aidata mulle palun?"
   ],
   "translation": [
-    "can",
-    "are able to"
+    "you may",
+    "you can",
+    "might",
+    "could"
   ],
-  "context": "The word 'võite' is the second person plural form of the verb 'võima', which means 'to be able to' or 'can' in English, and it is commonly used to express ability or permission in Estonian."
+  "context": "The Estonian word 'võite' is the 2nd person plural formal/imperative form of the verb 'võima', which means 'to be able to' or 'can'. It's used in polite requests, suggestions, or statements about possibility. In English, it translates to 'you may', 'you can', 'might', or 'could' depending on the context."
 }

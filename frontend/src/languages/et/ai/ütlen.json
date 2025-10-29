@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlen sulle, et see on hea mõte.",
-    "Ta ütles, et talle meeldib see film.",
-    "Ütle mulle, mis sa arvad."
+    "ütlen alati tõese.",
+    "Ma ütlen sulle saladuse.",
+    "Me ütleme homme kohtumist."
   ],
   "translation": [
+    "say",
     "tell",
-    "say"
+    "speak"
   ],
-  "context": "The word \"ütlen\" is a verb in Estonian that means to tell or say something to someone. It is commonly used in everyday conversations to convey information or express opinions."
+  "context": "\"Ütlen\" is the first-person singular present form of the Estonian verb \"ütelda,\" which means 'to say' or 'to tell.' It's commonly used when someone wants to express what they are saying at the current moment. The word can be followed by direct speech, indirect speech, or information being communicated. In different contexts, it can translate to English as 'I say,' 'I tell,' or 'I speak.' When conjugated for other persons or tenses, the stem changes: \"ütelda\" (infinitive), \"ütleme\" (we say/tell), \"ütleksid\" (you would say)."
 }

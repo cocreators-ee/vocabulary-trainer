@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lugeda raamatut.",
-    "Ta on lugeda ajalehte.",
-    "Lapsele meeldib lugeda muinasjutte."
+    "Ma lugesin raamatu läbi.",
+    "Tema lugeb regulaarselt ajalehti.",
+    "Me peame lugema selle dokumendi täpset."
   ],
   "translation": [
     "to read"
   ],
-  "context": "The word 'lugeda' is a verb in Estonian that means to read, and it is commonly used in everyday conversations to describe the act of reading books, articles, or other written materials."
+  "context": "The Estonian verb 'lugeda' means 'to read'. It is an infinitive form and can be conjugated in different tenses. In the examples, it appears in past tense (lugesin - I read), present tense (lugeb - he/she reads), and imperative mood (peame lugema - we must read)."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on tapaks läinud.",
-    "See oli lihtsalt tapaks tehtud.",
-    "Ma ei tea, kas see on tapaks."
+    "Kui ta tapaks selle mehe, siis ta pääseks vabadusse.",
+    "Ma ei tea, kas ta jõuaks tapaks mind.",
+    "Tema käsi tärkas nii kiiresti, et ta tapaks kõik."
   ],
   "translation": [
-    "customary",
-    "habitual",
-    "in the habit of"
+    "would kill",
+    "could kill",
+    "might kill"
   ],
-  "context": "The Estonian word 'tapaks' refers to something done out of habit or custom. It describes an action that is typically performed in a certain way due to established practice or personal inclination. It can also imply doing something automatically, without much thought."
+  "context": "Tapaks is the conditional mood (conditional tense) of the Estonian verb 'tappama' which means 'to kill'. In English, this translates to 'would kill', 'could kill', or 'might kill' depending on context. The form indicates a hypothetical action that might happen under certain conditions. This is formed by adding '-ks' to the stem of the verb in Estonian."
 }

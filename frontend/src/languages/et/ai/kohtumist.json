@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meil on homme kohtumine.",
-    "Ta ootas mind kohtumisel.",
-    "Kohtumist edasi lükati."
+    "Kohtume homme kell kaks.",
+    "Meie kohtumine oli edukas.",
+    "Kas sa tuled meiega kohtuma?"
   ],
   "translation": [
     "meeting",
     "encounter",
-    "appointment"
+    "rendezvous"
   ],
-  "context": "The word 'kohtumine' in Estonian refers to a formal or informal gathering of people, an appointment, or a meeting. It is commonly used to describe planned events where individuals come together to discuss something."
+  "context": "The word 'kohtumist' is the partitive case form of 'kohtumine', which means 'meeting' or 'encounter'. In Estonian, this form typically indicates an incomplete action or a partial object. It's commonly used when referring to a specific instance of meeting that hasn't been fully completed yet."
 }

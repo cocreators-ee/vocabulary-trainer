@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen õhtuks töölt tagasi.",
-    "Õhtuks on meil plaanis kino minna.",
-    "Ta lubas mulle õhtuks helistada."
+    "Õhtuks tuleme tagasi.",
+    "Tema saabus õhtuks linna.",
+    "Me peaksime valmis olema õhtuks."
   ],
   "translation": [
-    "in the evening",
-    "tonight"
+    "by evening",
+    "for the evening",
+    "until evening"
   ],
-  "context": "The word õhtuks is an adverb in Estonian that means in the evening or tonight, often used to indicate a time frame for an event or action."
+  "context": "The word 'õhtuks' is an Estonian adessive case form of the noun 'õhtu' (evening), used to indicate a deadline or purpose - something that needs to be done by, for, or until the evening. It's commonly used with verbs of arrival, completion, or preparation to show when something should occur."
 }

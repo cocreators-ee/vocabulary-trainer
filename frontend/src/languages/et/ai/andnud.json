@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen andnud talle kõik vajalikud dokumendid.",
-    "Ta on andnud mulle head nõuanded.",
-    "Nende on andnud meile palju abi."
+    "Ta on andnud hea nõu.",
+    "Oleme andnud lubaduse.",
+    "Mina olen alati andnud oma parima."
   ],
   "translation": [
     "given",
-    "provided"
+    "provided",
+    "yielded",
+    "delivered"
   ],
-  "context": "The word 'andnud' is the past tense of the verb 'andma', which means to give or provide something. It is commonly used in Estonian language to express that someone has given or provided something to someone else."
+  "context": "The word 'andnud' is the past participle form of Estonian verb 'anda', which means 'to give'. It indicates that something has been given, provided or yielded in the past. This form is used to describe completed actions involving giving."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lepinud sellega.",
-    "Nad leppisid kokku kohtumisel.",
-    "Sa pead temaga leppima."
+    "Leppisime lõpuks ära.",
+    "Ta ei leppinud oma saamistega rahule.",
+    "Kas teie leppite selles asjas kokku?"
   ],
   "translation": [
-    "agree",
-    "come to terms",
-    "reconcile"
+    "to agree",
+    "to reconcile",
+    "to come to terms"
   ],
-  "context": "The verb 'leppida' in Estonian generally means to agree on something, come to an understanding or reconcile with someone. It implies reaching a mutual agreement or resolving a conflict."
+  "context": "The Estonian verb 'leppida' means to agree, reconcile, or come to terms with something. It is often used when parties reach a mutual understanding after conflict or negotiation. The word can be used in various contexts - from agreeing on simple matters to reconciling after serious disagreements."
 }

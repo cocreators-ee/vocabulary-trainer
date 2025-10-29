@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma otsustasin lõpetada kooli.",
-    "Ta lõpetas töö varakult.",
-    "Me lõpetame projekti homme."
+    "Me lõpetame töö kell viis.",
+    "Täna lõpetame selle projekti.",
+    "Kas te lõpetate oma uuringu järgmisel nädalal?"
   ],
   "translation": [
     "we finish",
-    "to finish"
+    "we complete",
+    "we end"
   ],
-  "context": "The word 'lõpetame' is the first person plural form of the verb 'lõpetama', which means to finish or complete something in English. It is commonly used to indicate the completion of a task, project, or activity."
+  "context": "The word 'lõpetame' is the 1st person plural present indicative form of the verb 'lõpeta', meaning 'to finish, to complete, to end'. It is used when the speaker(s) are talking about themselves finishing something in the present or near future. The '-me' ending indicates that it's 1st person plural (we), and the lack of additional endings shows it's in the present tense."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kandis musti saapaid.",
-    "Saapad on talvised jalanõud.",
-    "Ta otsis endale uued saapad."
+    "Saapad homme koju?",
+    "Kuhu saapad eile?",
+    "Millal saapad linna?"
   ],
   "translation": [
-    "boots"
+    "arrive",
+    "come to",
+    "reach"
   ],
-  "context": "The word 'saapad' refers to boots in English, which are types of footwear typically worn during winter or cold weather."
+  "context": "The word 'saapad' is the second person singular present tense form of the Estonian verb 'saabuma', which means 'to arrive' or 'to come'. It's used when addressing one person informally about their current arrival. The root word 'saabu-' relates to coming, arriving, or reaching a destination."
 }

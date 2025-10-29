@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on kohas,",
-    "See ei ole kohas,",
-    "Me peame leidma koha."
+    "Kohas on kool.",
+    "Me leidsime hea kohas lõuna jaoks.",
+    "Tema oli koha sees."
   ],
   "translation": [
-    "place",
-    "location",
-    "spot"
+    "in",
+    "at",
+    "on",
+    "in the place of"
   ],
-  "context": "The Estonian word 'kohas' translates to 'place', 'location', or 'spot' in English. It is commonly used to indicate a physical location, a position, or even someone being in the right place."
+  "context": "The Estonian word 'kohas' is an adessive case form of 'koht', meaning 'place'. It indicates location or position, similar to English prepositions like 'in', 'at', or 'on'. The adessive case typically shows where something is located or happens."
 }

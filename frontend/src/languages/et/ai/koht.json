@@ -1,15 +1,16 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina olen oma kohas.",
-    "Tema ei tea oma kohta.",
-    "Sinu kohad on alati suvalised."
+    "Minu koht on siin.",
+    "Kohtame teist päeval samas kohal.",
+    "Kes võtab selle koha?"
   ],
   "translation": [
     "place",
+    "location",
+    "spot",
     "position",
-    "spot"
+    "seat"
   ],
-  "context": "The word 'koht' in Estonian refers to a location or position, either physical or metaphorical. It can mean where someone is supposed to be, an actual spot, or even an opportunity in some contexts."
+  "context": "The Estonian word 'koht' is a noun that means place, location, spot, or position. It can refer to both physical places (like where something is located) and abstract positions (like a job opening or seat). It's one of the most common words in Estonian for describing locations."
 }

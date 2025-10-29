@@ -1,16 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä itse tein sen",
-    "Hän on itse vastuussa tästä",
-    "He itse päättivät lähtee"
+    "Olen itse tehnyt tämän kakun.",
+    "Itse asiassa se oli melko helppoa.",
+    "Sinä et tee sitä itse."
   ],
   "translation": [
-    "myself",
-    "himself",
-    "herself",
-    "itself"
+    "oneself",
+    "personally",
+    "in person",
+    "actually"
   ],
-  "context": "The word 'itse' in Finnish is a reflexive pronoun used to indicate that the subject of the sentence is performing the action on themselves, similar to how 'myself', 'himself', and 'herself' are used in English."
+  "context": "The Finnish word 'itse' is an adverb that can function in several ways: 1) As a reflexive pronoun meaning 'oneself', similar to English oneself, used when the subject and object are the same; 2) To emphasize personal involvement or action, similar to 'personally' or 'in person'; 3) In certain constructions like 'itse asiassa' (actually/in fact), where it serves as an intensifier. The word can appear in different forms depending on context and sentence structure."
 }

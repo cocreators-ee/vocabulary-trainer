@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma söön kohe.",
-    "Sa oled juba sõinud.",
-    "Meie ei ole veel söönu."
+    "Ma söön hommikuti.",
+    "Tema sööb õhtul.",
+    "Me sööme koos."
   ],
   "translation": [
     "eat",
-    "to eat"
+    "consume food"
   ],
-  "context": "The word 'söö' is a verb in Estonian that means to eat, and it is commonly used in everyday conversations to describe the act of consuming food."
+  "context": "The Estonian verb 'söö' is the basic form of the verb meaning 'to eat'. It's used in various forms depending on the subject and tense: söön (I eat), sööd (you eat, informal singular), sööb (he/she/it eats), sööme (we eat), sööte (you all eat), söövad (they eat). The verb is commonly used daily when talking about meals and food consumption."
 }

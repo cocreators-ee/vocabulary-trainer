@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mina ladin poodist nendest kõrgedest laudadelt.",
-    "Näha on nendest aegade tähemärke.",
-    "Ostsin need kingitused, kuid ma ei saa mõista nendest."
+    "Mul on head meeldumist nendest raamatutest.",
+    "Ta rääkis nendest sündmustest pikalt.",
+    "Kas sa mäletad nendest hetkedest?"
   ],
   "translation": [
-    "these",
-    "from these (things)",
+    "about these",
+    "concerning these",
     "of these"
   ],
-  "context": "'nendest' is the Estonian word for 'these,' used to refer to specific things that are near in space or time. It can also be used as a prepositional form meaning 'from these.' The examples show different contexts where it's commonly used."
+  "context": "The word 'nendest' is the elative plural form of the Estonian demonstrative pronoun 'need'. It means 'from these', 'out of these', or 'about these'. In English, it's often translated as 'about these', 'concerning these', or simply 'of these'. The elative case indicates movement away from something or source/origin. When used with plural nouns, it refers to a group of things the speaker is talking about."
 }

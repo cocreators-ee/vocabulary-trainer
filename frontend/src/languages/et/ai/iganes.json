@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen iganes selle küsimusega tegelenud.",
-    "Iganesti on võimalik seda teha.",
-    "Ta on igas mõttes iganes inimene."
+    "Iganes ta on alati täpselt aja peal.",
+    "Kas sa tuled igal või mitte?",
+    "Olen olnud igal suve seal."
   ],
   "translation": [
-    "anyway",
-    "in any case"
+    "anytime",
+    "whenever",
+    "no matter when"
   ],
-  "context": "The word iganes is used to indicate that something is true or happening regardless of other factors, and it can be translated to English as anyway or in any case."
+  "context": "The Estonian word 'iganes' is an adverb that means 'anytime', 'whenever', or 'no matter when'. It's used to express the idea of at any time, without restriction. The word can be used in different contexts such as scheduling ('come anytime'), asking about availability ('will you come?'), or describing recurring events ('every summer')."
 }

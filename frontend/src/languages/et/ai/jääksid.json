@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jääksin töötlejaks",
-    "Ta jääks teiseks kandidaadiks",
-    "Nad jääksid alles"
+    "Ma jään siin kuni nad jääksid ära.",
+    "Kui sa ei tulnud, siis meie lõpetasid ja jäimekse.",
+    "Ta oli nii hea ettekuulutaja, et ta pidi jääma."
   ],
   "translation": [
-    "would stay",
-    "would remain",
-    "would be left"
+    "remained",
+    "stayed behind",
+    "were left"
   ],
-  "context": "The word 'jääksid' is the second person plural form of the verb 'jääma', which means to stay or remain in Estonian. It is commonly used to express a hypothetical or conditional situation where someone would stay or remain in a certain place or state."
+  "context": "The word 'jääksid' is the past tense plural form of the Estonian verb 'jääma', which means to remain, stay behind, or be left. It's often used when describing people or things that stayed in a particular place while others departed."
 }

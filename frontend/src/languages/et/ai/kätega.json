@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegutses kätega.",
-    "Kätega tehtud esemed on ühed kaunimad.",
-    "Kätega maalitud pilt oli väga ilus."
+    "Kätega mind üles",
+    "Ta kätega kõik oma tööd ära",
+    "Meile kätega head hommikut"
   ],
   "translation": [
     "by hand",
-    "manual",
-    "handmade"
+    "with hands",
+    "manually"
   ],
-  "context": "The word \"kätega\" in Estonian means something that is done or made by hand, often implying a sense of craftsmanship or manual skill."
+  "context": "The Estonian word 'kätega' is the instrumental case form of 'käed' (hands). It means 'by hand', 'with hands', or 'manually'. This form indicates that something is done using one's hands rather than with tools, machines, or other methods. The instrumental case in Estonian shows the instrument or means by which an action is performed."
 }

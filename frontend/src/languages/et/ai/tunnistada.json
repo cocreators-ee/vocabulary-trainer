@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tunnistan seda meest.",
-    "Ta oskab tunnistada erinevaid linnuliike.",
-    "Tunnistamine on raske protsess."
+    "Ta tunnistas oma viga.",
+    "Me peame tunnistama etteheidet.",
+    "Tunnistan vastutuse selle eest."
   ],
   "translation": [
-    "recognize",
-    "identify"
+    "to admit",
+    "to acknowledge",
+    "to confess",
+    "to recognize"
   ],
-  "context": "The word 'tunnistada' is commonly used in Estonian to mean 'to recognize' or 'to identify', and it is often used in contexts where someone or something is being identified or recognized, such as recognizing a person, identifying a species, or acknowledging a fact."
+  "context": "The Estonian verb 'tunnistada' means to admit, acknowledge, or confess something. It can be used in various contexts such as admitting mistakes, acknowledging truths, or recognizing one's responsibility. The word is often used with the genitive case in Estonian grammar when referring to what is being admitted."
 }

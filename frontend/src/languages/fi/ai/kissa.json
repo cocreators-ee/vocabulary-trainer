@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kissa on pöydällä.",
-    "Kissat ovat kauniita eläimiä.",
-    "Hän on kissaihminen."
+    "Minulla on kissa.",
+    "Kissat ovat söpöitä eläimiä.",
+    "Kissanpentu nukkuu sohvalla."
   ],
   "translation": [
     "cat",
-    "kitty"
+    "kitty",
+    "feline"
   ],
-  "context": "The word \"kissa\" refers to a cat, which is a common household pet known for its agility and playfulness."
+  "context": "\"Kissa\" is the Finnish word for \"cat\". It's a common noun referring to the domestic feline animal. In Finnish, nouns have grammatical cases and can appear in different forms depending on their role in a sentence. The basic form \"kissa\" is used as the subject or when identifying the cat. When you need to say \"a cat\", it would be \"kissa\" (indefinite). For plural, \"kissat\" means \"cats\". The word can also appear in other cases such as genitive \"kissan\" (of a/cat) or partitive \"kissaa\" (some/a cat), depending on the grammatical context."
 }

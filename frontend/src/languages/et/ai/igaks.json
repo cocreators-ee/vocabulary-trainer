@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen igaks juhuks valmis.",
-    "Ta on igaks olukorras abivalmis.",
-    "Igaks sündmuseks on meil valmis plaan."
+    "Olen igaks meelestatud.",
+    "Ta on alati igaks ja rõõmsameelne.",
+    "Kas sa oled ikka veel igaks?"
   ],
   "translation": [
-    "in any case",
-    "for all occasions",
-    "under any circumstances"
+    "cheerful",
+    "happy",
+    "glad"
   ],
-  "context": "The word 'igaks' in Estonian is used to express that something is true or applies in all situations or under any circumstances, and it can be translated to English as 'in any case', 'for all occasions', or 'under any circumstances'."
+  "context": "The word 'igaks' is the elative case form of the adjective 'igane', which means cheerful or happy. In Estonian, the elative case typically indicates movement out from something or being in a state resulting from some action. When used with 'olema' (to be), it describes someone's emotional state as cheerful or happy."
 }

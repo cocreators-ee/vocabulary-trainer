@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kerge inimene.",
-    "Kerge töö on kiiresti tehtud.",
-    "Kerge muusika on popmuusika."
+    "See on kerge kaal.",
+    "Tegemist on kergema versiooniga.",
+    "Lapse on kerge kannatada."
   ],
   "translation": [
-    "light",
-    "easy"
+    "light (in weight)",
+    "easy",
+    "gentle",
+    "mild"
   ],
-  "context": "The word 'kerge' in Estonian means something that is not heavy or serious, it can be used to describe a person, work, or music that is easy-going or effortless."
+  "context": "The Estonian word 'kerge' is an adjective that primarily means light in weight, but can also refer to something being easy, gentle, or mild. It's the comparative form of 'kerg', with 'kerge' being the positive/comparative form and 'kergem' being the superlative form. When used for physical objects, it describes things that are not heavy. When used for tasks or experiences, it means they are easy or not difficult."
 }

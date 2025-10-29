@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Laua all on laud",
-    "Ta istus laua taha",
-    "Laud on ümmargune"
+    "Tule laua juurde.",
+    "Laua peal on nali.",
+    "Meil oli ilus lauasöök."
   ],
   "translation": [
-    "table",
-    "board"
+    "table's",
+    "of the table"
   ],
-  "context": "The word 'laua' in Estonian refers to a piece of furniture with a flat surface, typically used for eating, working or gathering, and is commonly translated to English as 'table' or 'board'."
+  "context": "The word 'laua' is the genitive singular form of the Estonian noun 'laud', which means 'table'. In the genitive case, it indicates possession or belonging - something that belongs to or is associated with the table. This form is commonly used when describing objects on a table, furniture near a table, or things related to the table in general."
 }

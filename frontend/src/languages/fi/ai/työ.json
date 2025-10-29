@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on löydettävä uusi työ",
-    "Hänellä on hyvä työ ja maineikas ura",
-    "Työntekijät ovat tyytyväisiä palkkaansa"
+    "Työ on tärkeä osa monien ihmisten elämää.",
+    "Hän työskentelee sairaalassa lääkärinä.",
+    "Minulla on paljon töitä tämän viikonlopun aikana."
   ],
   "translation": [
     "work",
     "job",
-    "labour"
+    "labor",
+    "task"
   ],
-  "context": "The word 'työ' in Finnish generally refers to an activity or task that someone is paid to do, and it is commonly used in various contexts such as employment, occupation, or daily tasks."
+  "context": "In Finnish, 'työ' is a noun that means work or job. It can refer to employment in general, specific tasks one has to do, or laborious activities. In the examples provided, it appears in its basic form ('työ') and partitive case ('töitä'), which is commonly used when talking about some amount of work."
 }

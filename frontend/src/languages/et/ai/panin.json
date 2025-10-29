@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma panin täna hommikul kohvi tegema.",
-    "Ta pani oma asjad kotti ja lahkus.",
-    "Nad panid plaani, kuidas probleemi lahendada."
+    "Panin põlema.",
+    "Ma panin raamatu lauale.",
+    "Tema paneb alati midagi ära."
   ],
   "translation": [
     "put",
-    "placed",
-    "laid"
+    "place",
+    "set"
   ],
-  "context": "The Estonian word 'panin' is the past tense of the verb 'pannma', which generally translates to 'to put' or 'to place' in English. It indicates the action of setting something somewhere, or initiating a process. It’s a very common and versatile verb used in many everyday situations."
+  "context": "'Panin' is the past tense (first person singular) of the Estonian verb 'panema', which means 'to put', 'to place', or 'to set'. It indicates that someone performed the action of putting something somewhere in the past. For example, 'panin põlema' means 'I lit/started a fire', and 'panin raamatu lauale' means 'I put the book on the table'. The verb can be used with various objects depending on what is being placed or set down."
 }

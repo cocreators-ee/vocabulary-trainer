@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta lubas mulle helistada.",
-    "Ma ei saa sind lubada.",
-    "Luban on tähtis."
+    "Ma luban sulle aidata.",
+    "Ta ei luba meil kasutada tema arvutit.",
+    "Nad lubavad homsel kohtuda."
   ],
   "translation": [
     "promise",
     "allow",
-    "permission"
+    "permit"
   ],
-  "context": "The Estonian word 'luban' can function as a noun meaning 'promise' or 'permission', or as a verb meaning 'to promise' or 'to allow'. It is commonly used in everyday conversation to express agreements, requests, and granting of permission."
+  "context": "The Estonian word 'luban' is the first person singular present indicative form of the verb 'lubama', which means to promise, allow, or permit. It translates to 'I promise' or 'I allow/permit'. In different contexts, it can express commitment (promise) or authorization (allow)."
 }

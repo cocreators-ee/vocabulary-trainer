@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on pyörä.",
-    "Pyörä on rikki.",
-    "Hänellä on uusi pyörä."
+    "Minulla on uusi pyörä.",
+    "Pyörät ovat hyvä kulkuväline kaupungissa.",
+    "Lapsioppilaat oppivat ajamaan pyörällä."
   ],
   "translation": [
-    "wheel",
     "bike",
-    "cycle"
+    "bicycle"
   ],
-  "context": "The word pyörä refers to a wheel or a bike in Finnish, and it is commonly used in everyday conversations to talk about vehicles or machinery."
+  "context": "The Finnish word 'pyörä' means bike or bicycle in English. It refers to a two-wheeled vehicle that is propelled by pedaling. The word is neutral and can be used for any type of bicycle - mountain bikes, road bikes, children's bikes, etc. In Finnish grammar, it follows standard noun declension patterns with different cases like pyörä (nominative), pyörän (genitive), pyörällä (adessive), etc."
 }

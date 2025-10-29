@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hei, kuidas sul läheb?",
-    "Kas sa kuuled heita?",
-    "Ta nägi, et ma tahan käia.",
-    "Ma olen väga heidne."
+    "Hei, kuidas läheb?",
+    "Tere, hei!",
+    "Mingisugust heid ei oleks?"
   ],
   "translation": [
-    "to want",
-    "wanting"
+    "hello",
+    "hi",
+    "hey"
   ],
-  "context": "'Hei' is an archaic or dialectal form of 'soov', meaning to desire or wish for something. It's not commonly used in modern Estonian and appears more in literary contexts or older texts."
+  "context": "In Estonian, 'hei' is a common informal greeting used to say hello or hi to someone. It's similar in usage to English 'hey' and can be used in casual social situations when meeting people."
 }

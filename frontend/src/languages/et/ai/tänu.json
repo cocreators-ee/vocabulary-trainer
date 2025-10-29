@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tänan sind",
-    "Tänu sulle",
-    "Tänud olen teile"
+    "Tänan sind tänu eest.",
+    "Ta sai tänu hea tulemuse eest.",
+    "Me oleme tänu teile selle võimaluse eest."
   ],
   "translation": [
     "thanks",
+    "gratitude",
     "thank you"
   ],
-  "context": "The word tänu is commonly used in Estonian to express gratitude or appreciation, similar to the English phrase thank you."
+  "context": "The word 'tänu' is Estonian and means 'thanks', 'gratitude', or 'thank you'. It's used to express appreciation or acknowledgment for something someone has done. In the examples, it appears in different contexts: as a noun expressing gratitude (tänan sind tänu eest - I thank you for this), as part of an expression receiving thanks (ta sai tänu... - he/she received thanks...), and as an expression of collective appreciation (me oleme tänu teile selle võimaluse eest - we are grateful to you for this opportunity)."
 }

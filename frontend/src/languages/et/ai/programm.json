@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Programm on hästi kirjutatud.",
-    "Ma olen programmeerija ja kirutan programme.",
-    "See programm on väga populaarne."
+    "Tegelikult on see programm väga huvitav.",
+    "Kas sa oled selles programmis osaleja?",
+    "Meie kooli programm algab kell 9 hommikul."
   ],
   "translation": [
-    "program"
+    "program",
+    "schedule",
+    "curriculum"
   ],
-  "context": "The word 'programm' in Estonian refers to a set of instructions that is used to control the operation of a computer or other machine, and it is commonly used in the context of computer science and technology."
+  "context": "In Estonian, 'programm' means a plan or sequence of activities. It can refer to a TV/radio program, a computer program (software), an event schedule, or educational curriculum. The word is borrowed from English and has similar meanings across contexts."
 }

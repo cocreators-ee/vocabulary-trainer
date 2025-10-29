@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõtle pärast seda kohe lumi peale ja loo oma maja!",
-    "See on teie esimene aasta universiteedis - alustage uue loo kirjutamist.",
-    "Kui sa ei tea, mida soovid, siis su loo jääb tühjaks."
+    "Tegelikult oli see vaid lugu.",
+    "See on hea lugu.",
+    "Me kuulsime põnevat loo."
   ],
   "translation": [
-    "Story",
-    "Tale",
-    "Narrative"
+    "story",
+    "tale",
+    "narrative"
   ],
-  "context": "'Loo' refers to a story or narrative and is commonly used in the context of telling tales or writing narratives. It can also be used metaphorically for creating something new, such as building snowmen or beginning university studies by starting with a new chapter."
+  "context": "In Estonian, 'loo' is the genitive singular form of the noun 'lugu', which means 'story' or 'tale'. It's used to indicate possession or relationship with a story. For example, in the phrase 'Tegelikult oli see vaid lugu', it translates to 'Actually, it was only a story'. The word belongs to the declension type II masculine noun in Estonian grammar."
 }

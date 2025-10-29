@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahan kaitseks võtta selle metsa.",
-    "Kaitseks tuleb see piirkond Sulguda.",
-    "Ta ütles, et see on kaitseks vaja."
+    "Kodu kaitseks on olulised turvameetmed.",
+    "Põgenikud põgenesid kodumaalt kaitseks sõja eest.",
+    "Selleks et oma pere kaitseks ta tegi kõike võimaliku."
   ],
   "translation": [
     "for protection",
-    "to protect"
+    "for defense",
+    "for safeguarding"
   ],
-  "context": "The word 'kaitseks' in Estonian is used to indicate that something is being done for the purpose of protection or defense, and it is commonly used in sentences to convey the idea of taking measures to safeguard or secure something."
+  "context": "The word 'kaitseks' is the Estonian instrumental case form of the noun 'kaitse', meaning 'protection' or 'defense'. In this form, it functions as an adverbial phrase indicating purpose - something done 'for protection' or 'for defense'. It follows the pattern where '-ks' is added to the genitive stem to create the instrumental case. This word appears in contexts describing actions taken for safety, security, or defensive purposes."
 }

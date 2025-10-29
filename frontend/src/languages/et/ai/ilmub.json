@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ilmub homme tagasi.",
-    "Ilmub, et tema on väga hea.",
-    "Kui palju kordi ilmub see sõna?"
+    "Ilmub uus film kinodesse täna.",
+    "Autor ilmus raamatu autogrammisessioonile.",
+    "Päike ilmus pilvede taga."
   ],
   "translation": [
     "appears",
     "emerges",
+    "comes out",
     "shows up"
   ],
-  "context": "The word 'ilmub' is commonly used in Estonian to indicate that something or someone becomes visible, appears, or emerges into a situation."
+  "context": "The Estonian word 'ilmub' is the 3rd person singular present form of the verb 'ilmuma', meaning to appear, emerge, come out or show up. It describes something coming into view or becoming visible, whether it's a person arriving at an event, something being published/released, or naturally occurring phenomena like the sun emerging from behind clouds."
 }

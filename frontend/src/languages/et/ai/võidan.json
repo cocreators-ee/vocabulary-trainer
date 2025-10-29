@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võidan seda mängu",
-    "Ta võidab alati maleturniiril",
-    "Võitsime me koos selle võistluse"
+    "Ma võin mängu.",
+    "Ta võitis kergega.",
+    "Meie võidame alati."
   ],
   "translation": [
-    "win",
-    "conquer",
-    "triumph"
+    "to win",
+    "to be able to",
+    "can"
   ],
-  "context": "The word võidan is a verb that means to win or conquer something, and it is commonly used in Estonian language to express success or victory in various contexts, such as games, competitions, or challenges."
+  "context": "The Estonian word 'võidan' is the first person singular present tense form of the verb 'võima', which means both 'to win' and 'to be able to/can'. This dual meaning exists in several languages including English where 'win' and 'can/be able to' are distinct words. In Estonian, the same root form can express both concepts depending on context."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hea meelt.",
-    "Ta on halb meelt.",
-    "Nende meelt ei ole võimalik muuta."
+    "Meelt teadmine on oluline.",
+    "Ta ei saa meelt sellest aru.",
+    "Kas sa oled meelt vahetanud?"
   ],
   "translation": [
-    "opinion",
-    "mind"
+    "mind",
+    "understanding",
+    "comprehension",
+    "sense"
   ],
-  "context": "The word 'meelt' in Estonian refers to a person's opinion or point of view, and is commonly used in expressions related to agreeing or disagreeing with someone."
+  "context": "The Estonian word 'meelt' is the partitive case form of 'mõistus' (mind, intellect) or can be related to verbs of understanding. It often appears in expressions meaning 'to understand something' or refers to one's mind or comprehension. In different contexts it can mean literally 'of/from the mind' or indicate that someone understands grasps a concept."
 }

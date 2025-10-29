@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma rääkisin sinuga",
-    "Sa rääkisid mulle",
-    "Meie oleme rääkinud"
+    "Eesrindlased rääkisid poliitikast.",
+    "Tüdrukud rääkisid telefoni vahel.",
+    "Meie vanemad rääkisid eelmisel nädalal."
   ],
   "translation": [
-    "would speak",
-    "you were speaking"
+    "spoke",
+    "talked",
+    "conversed"
   ],
-  "context": "The word rääkisid is the second person singular form of the verb rääkima, which means to speak or talk, and it is commonly used in Estonian language to express the act of speaking or communicating with someone."
+  "context": "The word 'rääkisid' is the past tense plural form of the Estonian verb 'rääkima', which means 'to speak' or 'to talk'. It refers to multiple people who were speaking or talking in the past. The '-sid' ending indicates third person plural (they) and past tense in Estonian."
 }

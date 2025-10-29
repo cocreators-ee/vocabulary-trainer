@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kohtunud paljude naistega.",
-    "Naistega on raske leppida.",
-    "Meil on probleeme meeste ja naistega."
+    "Naistega kohtume homme kell kolm.",
+    "Tema on hästi läbi naistega.",
+    "Meeldiva koos veeta aega naistega."
   ],
   "translation": [
     "with women",
-    "women"
+    "together with women",
+    "alongside women"
   ],
-  "context": "The word 'naistega' is a plural form of the noun 'naine', which means woman, and the suffix '-ga' indicates that it is used with the verb 'kohtuda', meaning to deal with or to meet, so in this context 'naistega' can be translated as 'with women'."
+  "context": "The word 'naistega' is the Estonian instrumental plural form of 'naine', meaning 'woman'. The '-ga' ending indicates accompaniment or means 'with'. So 'naistega' literally means 'with women' and is used when you want to express that something is done together with or alongside women."
 }

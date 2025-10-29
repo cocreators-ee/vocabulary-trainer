@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun täytyy valmistella ruokaa",
-    "Hän valmisteli matkaa jo viikkoja",
-    "He valmistelivat yrityskauppaa kuukausien ajan"
+    "Minun pitää valmistella ruokaa illalliselle.",
+    "Hän valmistelee esitelmää huomista varten.",
+    "Olemme valmistelleet juhlia koko viikon."
   ],
   "translation": [
-    "prepare",
-    "get ready"
+    "to prepare",
+    "to get ready",
+    "to make preparations for"
   ],
-  "context": "The word valmistella is commonly used in Finnish to mean preparing or getting something ready, often used in the context of planning or organizing an event or activity."
+  "context": "The Finnish verb 'valmistella' means to prepare or make preparations for something. It's commonly used when getting ready for events, meals, presentations, or other activities that require advance preparation. The word can be conjugated in different forms depending on the context and subject."
 }

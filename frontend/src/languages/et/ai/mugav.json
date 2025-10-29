@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on mugav inimene.",
-    "Mugava eluviisi on hea.",
-    "See tool on väga mugav."
+    "See on mugav tool.",
+    "Tegin mugava kohtumise sõbraga.",
+    "Elu on siin väga mugav."
   ],
   "translation": [
-    "convenient",
-    "comfortable"
+    "comfortable",
+    "pleasant",
+    "cozy",
+    "convenient"
   ],
-  "context": "The word 'mugav' is commonly used to describe something that is convenient or comfortable, making it easy to use or interact with."
+  "context": "The word 'mugav' in Estonian is an adjective that describes something as comfortable, pleasant, cozy, or convenient. It can be used to describe physical comfort (like a comfortable chair), pleasant experiences (a nice meeting), or convenience factors. The word remains the same form regardless of gender but would change in case and number when used with different nouns."
 }

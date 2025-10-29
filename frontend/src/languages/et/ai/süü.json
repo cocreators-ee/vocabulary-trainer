@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on süüdi",
-    "Süü tuleb selgitada",
-    "Süütuse tõestamiseks on vaja tõendeid"
+    "Tal on süü.",
+    "Ta tunnistas oma süüd.",
+    "Selle eest ei ole tal mingit süü."
   ],
   "translation": [
     "guilt",
     "fault",
     "blame"
   ],
-  "context": "The word 'süü' in Estonian generally refers to guilt or fault, and is commonly used in legal contexts to describe someone's responsibility for a crime or wrongdoing."
+  "context": "The Estonian word 'süü' means guilt, fault, or blame. It refers to the state of being responsible for wrongdoing or having committed an offense. The word is in the nominative singular form here. In different contexts it can express moral responsibility, legal culpability, or simply blame assigned by others."
 }

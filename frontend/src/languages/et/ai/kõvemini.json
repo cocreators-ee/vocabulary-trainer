@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ei saanud kõvemini teha",
-    "Kõvemini läheb see ilm ikka",
-    "Sellest tuleb kõvemini"
+    "Ta tegi seda kõvemini kui me oletasime.",
+    "Pead tööd tegema kõvemini.",
+    "Kõvemini ei saa enam midagi muuta."
   ],
   "translation": [
-    "harder",
-    "more severe",
-    "tougher"
+    "more forcefully",
+    "more strongly",
+    "harder"
   ],
-  "context": "The word kõvemini is an adverb in Estonian that means to a higher degree or more severely, often used to describe something that is becoming more intense or extreme."
+  "context": "The word 'kõvemini' is the comparative form of 'kõva' (hard/strong). It means 'more forcefully', 'more strongly', or 'harder'. It's used to indicate a greater degree of force, intensity, or difficulty in performing an action. In Estonian, adjectives typically have comparative forms created with specific suffixes, and this word follows that pattern by adding '-mini' to the base form."
 }

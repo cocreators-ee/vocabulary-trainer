@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen teisest küljest õnnelik",
-    "Teisest korrusest on ilus vaade",
-    "Ta on teisest riigist"
+    "Ma vaatasin teist filmi ja see oli hea.",
+    "Ta sai teise sõna õigesti.",
+    "Kolmas on parem kui teine."
   ],
   "translation": [
-    "from the other side",
-    "on the other hand"
+    "other",
+    "second",
+    "another"
   ],
-  "context": "The word 'teisest' in Estonian is used to indicate something that is on the other side or from a different perspective, often used to contrast two ideas or viewpoints."
+  "context": "The word 'teisest' is an Estonian partitive case form of 'teine', which means 'other', 'second', or 'another'. It's used to indicate the second item in a sequence, or something different from what was previously mentioned. The partitive case in Estonian often indicates partialness or indefiniteness, and when combined with ordinal numbers like 'teine' (second), it helps specify which particular instance is being referred to."
 }

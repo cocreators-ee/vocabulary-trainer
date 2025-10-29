@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ilmakehässä on runsaasti happia.",
-    "Hengitysilman happi on välttämätöntä elämälle.",
-    "Laboratoriossa käytetään usein hapen eri yhdisteitä."
+    "Ilmassa on paljon happea.",
+    "Kasvit tuottavat happia fotosynteesin kautta.",
+    "Oikeanlainen hapen määrä on tärkeää ihmisten terveydelle."
   ],
   "translation": [
-    "oxygen"
+    "oxygen",
+    "air"
   ],
-  "context": "The word 'happi' refers to a chemical element that is essential for human life and is commonly found in the air we breathe."
+  "context": "The Finnish word 'happi' means oxygen in English. It is a common noun referring to the chemical element that humans and animals breathe to survive. Plants produce oxygen through photosynthesis, while animals consume oxygen for respiration. The word can be used in various contexts related to air, breathing, chemistry, and biological processes."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Eelmise aasta suvel käisin ma Soomes.",
-    "Ta oli eelmise kuu jooksul väga haige.",
-    "Eelmise nädala kohtumisel otsustasime muuta plaane."
+    "Eelmisel nädalal külastasime muuseumi.",
+    "Ta meenutas eelmist ööd.",
+    "Mul on head mälestused eelmisest suvest."
   ],
   "translation": [
     "previous",
-    "last"
+    "last",
+    "former"
   ],
-  "context": "The word 'eelmise' is used in Estonian to refer to something that happened or existed before something else, similar to the English words 'previous' or 'last'."
+  "context": "The Estonian word 'eelmise' is the genitive singular form of the adjective 'eelmine', which means 'previous' or 'last'. It's used to indicate something that came before another in time or sequence. This form specifically shows possession or relationship with the thing being described (genitive case). The root 'eel-' comes from 'eel' meaning 'before', and '-m' is a common adjective-forming suffix, while '-se' indicates the genitive singular ending."
 }

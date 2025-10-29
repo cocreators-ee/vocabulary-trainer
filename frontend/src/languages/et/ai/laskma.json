@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta hakkas mind laskma.",
-    "Ära laskma seda võimalust käest!",
-    "Ma ei saa sind laskma."
+    "Laskme meie lapse minema.",
+    "Ta laskis endale uue auto osta.",
+    "Lasksin sellel teel olla."
   ],
   "translation": [
-    "to let go",
+    "to let",
     "to allow",
-    "to release"
+    "to permit"
   ],
-  "context": "The Estonian verb 'laskma' is versatile and commonly used to express permission, allowing something to happen, or physically letting go of someone or something. It can also imply a degree of resignation or acceptance when used in the context of letting someone leave or not interfering with their actions."
+  "context": "The Estonian verb 'laskma' is used to express permission, allowance, or the act of letting someone do something. It can be translated as 'to let', 'to allow', or 'to permit'. This verb takes an indirect object (the person being allowed) and a direct object (the action being permitted). For example, in 'Laskme meie lapse minema' we're saying 'Let our child go' where the child is being allowed to leave. In its different forms, it can express past permission ('Ta laskis endale uue auto osta' - He let himself buy a new car) or first person perspective ('Lasksin sellel teel olla' - I let him be on that road)."
 }

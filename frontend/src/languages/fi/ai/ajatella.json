@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä ajattelen lähteväni kaupungista.",
-    "Hän ajattelee, että meidän pitäisi mennä kotiin.",
-    "He ajattelevat, että se on hyvä idea."
+    "Ajattelen suomea joka päivä.",
+    "Hän ajattelee, että tämä on vaikeaa.",
+    "Meidän pitää ajatella tätä huolellisesti."
   ],
   "translation": [
-    "think",
-    "consider",
-    "ponder"
+    "to think",
+    "to consider",
+    "to believe",
+    "to suppose"
   ],
-  "context": "The word 'ajatella' in Finnish means to think or consider something, and it is commonly used in sentences to express one's thoughts or opinions."
+  "context": "The Finnish verb 'ajatella' means to think or consider something. It's the basic word for mental activity - thinking, pondering, reflecting on ideas or concepts. In different contexts it can mean to think about something specific, to form an opinion, or to assume/believe that something is true."
 }

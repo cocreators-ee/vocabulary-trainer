@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä yksikkö on tärkeä osa armeijaa.",
-    "Yksiköt ovat eri kokoisia ja tehtävistään riippuen erikoistuneita.",
-    "Yksikkö on myös mittayksikkö fysiikassa."
+    "Oletko tämän talon yksikkö?",
+    "Yksiköt on siirretty uuteen osoitteeseen.",
+    "Tässä rakennuksessa on kolme erilaista yksikköä."
   ],
   "translation": [
     "unit",
-    "module"
+    "single room",
+    "apartment"
   ],
-  "context": "The word yksikkö refers to a unit or module, which can be a part of an organization, such as an army unit, or a standard unit of measurement in physics."
+  "context": "The Finnish word 'yksikkö' means 'unit' and is commonly used to refer to a single, self-contained entity. In housing contexts, it often refers to an apartment or separate unit within a larger building. It can also be used in mathematical or organizational contexts to mean a single element of a system."
 }

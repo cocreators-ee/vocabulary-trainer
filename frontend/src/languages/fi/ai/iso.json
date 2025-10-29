@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Iso auto on punainen.",
-    "Isot talot ovat kallisia.",
-    "Isoäiti on tullut käymään."
+    "Iso talo on valtava.",
+    "Hänellä on iso perhe.",
+    "Minulla on iso auto."
   ],
   "translation": [
     "big",
-    "large"
+    "large",
+    "great"
   ],
-  "context": "The word 'iso' in Finnish means big or large in size, and it is commonly used to describe objects, people, or places."
+  "context": "The Finnish word 'iso' is an adjective that means 'big', 'large', or 'great'. It's used to describe something of considerable size, importance, or quality. In Finnish, adjectives change their form depending on the gender and number of the noun they modify, but 'iso' in its basic form is masculine singular."
 }

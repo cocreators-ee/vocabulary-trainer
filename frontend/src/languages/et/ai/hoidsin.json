@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma hoidsin ta käest.",
-    "Sa hoidsid mu käest.",
-    "Ta hoiab meie kõiki."
+    "Ma hoidsin oma eemaldist.",
+    "Ta hoidis laste mänge.",
+    "Meie hoidsime kõiki dokumenti."
   ],
   "translation": [
     "held",
-    "kept"
+    "kept",
+    "saved",
+    "preserved"
   ],
-  "context": "The word 'hoidsin' is the first person singular past tense form of the verb 'hoidma', which means to hold or keep something in one's hands or arms, and it is commonly used in Estonian language to describe an action of holding onto something."
+  "context": "The Estonian word 'hoidsin' is the first-person singular past tense form of the verb 'hoidma', which means 'to hold', 'to keep', or 'to save'. It indicates that the speaker performed the action of holding, keeping, or saving something in the past. The root 'hoit-' relates to maintaining possession or control over something."
 }

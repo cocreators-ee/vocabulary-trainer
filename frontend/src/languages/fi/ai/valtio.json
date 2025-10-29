@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Valtion velka kasvoi viime vuonna.",
-    "Valtion tulot tulevat pääosin verotuloista.",
-    "Valtio tarjoaa paljon julkisia palveluita kansalaisille."
+    "Suomi on itsenäinen valtio.",
+    "Valtio vastaa koulutusjärjestelmän rahoituksesta.",
+    "Euroopassa on monia erilaisia valtioita."
   ],
   "translation": [
     "state",
     "nation",
-    "country (government)"
+    "country"
   ],
-  "context": "The term 'valtio' refers to a political entity with sovereignty, often used to denote the government or nation-state. It is commonly used in contexts related to governance, public services, and national policies."
+  "context": "The Finnish word 'valtio' refers to a political entity with defined territory, population, government, and sovereignty. It is commonly used in reference to countries or nations as political organizations rather than geographical areas. The word can appear in various grammatical forms depending on context - for example, 'valtion' (genitive case) means 'of the state', while 'valtiot' (plural form) means 'states'. In Finnish politics and society discussions, this term is frequently used when talking about government functions, national identity, or international relations."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma panen riided kasti.",
-    "See kasti on täis vanu asju.",
-    "Palun võta see kasti ja vii ta välja."
+    "Kasti otsin kõik oma asjad.",
+    "Me panime kirjad kasti.",
+    "Tema tõi kotti toitu."
   ],
   "translation": [
     "box",
-    "crate",
+    "case",
     "container"
   ],
-  "context": "The word 'kasti' in Estonian directly translates to 'box' in English. It is a common noun used to refer to a container typically made of cardboard or wood, used for storing or transporting items."
+  "context": "The word 'kasti' is the partitive case form of the Estonian noun 'kast', which means box or container. It indicates that something is placed into a box or refers to the contents/indefinite quantity of a box. In these examples, it shows different usages: searching for things in boxes, putting letters into boxes, and bringing food in a box."
 }

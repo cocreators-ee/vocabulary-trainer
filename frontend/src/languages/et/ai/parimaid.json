@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin parimaid kohti",
-    "Parimaid asju elus on tasuta",
-    "Ta oli üks parimaid sõpradest"
+    "See on üks parimaid päevi aastas.",
+    "Olen kuulanud palju parimaid lugusid.",
+    "Meie eesmärk on pakkuda parimaid teenuseid."
   ],
   "translation": [
-    "the best",
-    "best ones"
+    "best",
+    "finest",
+    "top"
   ],
-  "context": "The word 'parimaid' is the plural partitive form of the Estonian adjective 'parim', which means 'best'. It is commonly used to refer to something or someone that is of high quality or excellent."
+  "context": "The word 'parimaid' is the partitive plural form of the Estonian adjective 'parem', which means 'better'. In this case, it functions as a superlative form meaning 'the best ones' or 'the finest ones'. The '-id' ending indicates partitive plural case, suggesting an indefinite or partial quantity of the best items or qualities."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei puuduta seda teemat.",
-    "Ta puudutas mind õlast.",
-    "Puudutage mind mitte!"
+    "Ma puudutan sind.",
+    "Tema ei puuduta mind kunagi.",
+    "Meie peame seda puudutama."
   ],
   "translation": [
-    "touch",
-    "feel",
-    "handle"
+    "to touch",
+    "to contact",
+    "to reach"
   ],
-  "context": "The word 'puuduta' is commonly used in Estonian to mean touching or making physical contact with something or someone, and it can also be used figuratively to describe influencing or affecting something."
+  "context": "The Estonian word 'puuduta' is the 3rd person singular form of the verb 'puududa', which means 'to touch' or 'to make contact'. It can refer to physical touching as well as making contact with someone (like by phone). The verb belongs to the -da/-dA conjugation group in Estonian."
 }

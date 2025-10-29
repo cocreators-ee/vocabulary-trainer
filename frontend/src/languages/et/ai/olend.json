@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on tore olend.",
-    "Olendid elasid seal.",
-    "See olend on väga ilus."
+    "Olendid elavad planeedil.",
+    "Võõrastest olendeid on uuritud palju.",
+    "Need olendid ei ole meile tuntud."
   ],
   "translation": [
     "being",
-    "creature"
+    "creature",
+    "entity"
   ],
-  "context": "The word 'olend' in Estonian refers to a living being or creature, and it is commonly used in sentences to describe something that exists or has life."
+  "context": "The Estonian word 'olend' means being, creature, or entity. It refers to any living being or existence, whether human, animal, alien, or supernatural. The word can refer to real creatures in nature, fictional beings like aliens or monsters, or even philosophical concepts of existence."
 }

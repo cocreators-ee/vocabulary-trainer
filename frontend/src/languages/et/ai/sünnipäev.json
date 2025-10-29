@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minu sünnipäev on mai kuus.",
-    "Ta sai sünnipäevaks uue jalgratta.",
-    "Sünnipäeva puhul anti kõigile kingitused."
+    "Tänaseks sünnipäevaks tegin sinule kingituse.",
+    "Meie peres tähistatakse sünnipäeva pidu.",
+    "Sünnipäev on hea põhjus pidutseda."
   ],
   "translation": [
-    "birthday"
+    "birthday",
+    "birth day"
   ],
-  "context": "The word \"sünnipäev\" refers to the day of the year when someone was born, and is commonly used in Estonian to wish someone a happy birthday or to celebrate the anniversary of their birth."
+  "context": "The word 'sünnipäev' is the Estonian word for 'birthday'. It is a compound word formed from 'sünni-' (related to birth) and '-päev' (day). This word specifically refers to the anniversary of someone's birth. In Estonian culture, birthdays are often celebrated with family gatherings, parties, gifts, and traditional birthday songs."
 }

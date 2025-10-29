@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta võttis sekundi pikalt sisse.",
-    "Sekundiga sai ta aru, et see on tõesti nii.",
-    "Ühe sekundi pärast hakkasid kõik naerma."
+    "Ta alustas uut ettevõtet sekunditega.",
+    "See kell näitab sekundeid täpselt.",
+    "Arvuti töötab kiiresti - vähemalt üheksa sekundit."
   ],
   "translation": [
-    "second"
+    "second",
+    "moment",
+    "instant"
   ],
-  "context": "The word 'sekund' is used in Estonian to refer to a unit of time, similar to the English word 'second'. It can be used in various contexts, such as measuring time or describing a brief moment."
+  "context": "In Estonian, 'sekund' is a masculine noun that means 'second' as in the unit of time. It's commonly used when referring to short periods of time or precise timing measurements. The word comes directly from Latin 'secundus' meaning 'following' and is cognate with English 'second'. In usage, it can refer to both the time measurement and figuratively mean a brief moment or instant."
 }

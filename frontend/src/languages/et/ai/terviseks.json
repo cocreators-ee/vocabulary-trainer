@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ütle terviseks!",
-    "Terviseks külastajatele!",
-    "Ta tervitas mind terviseks!"
+    "Tervist terviseks!",
+    "Head aega ja head tervist!",
+    "Kõik on hea terviseks."
   ],
   "translation": [
-    "cheers",
-    "good health"
+    "for health",
+    "to your health",
+    "for the sake of health"
   ],
-  "context": "The word 'terviseks' is commonly used in Estonian as a way to say 'cheers' when drinking, similar to how 'good health' is used in English."
+  "context": "The word 'terviseks' is an Estonian adessive case form of 'tervis' (health), used to indicate purpose or benefit related to health. It's commonly used in expressions like 'tervist terviseks' (cheers for health) or when referring to things being done for health benefits."
 }

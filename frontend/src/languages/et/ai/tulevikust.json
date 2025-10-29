@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arutan tulevikust.",
-    "Tulevikust on raske rääkida.",
-    "Ta ei tea midagi tulevikust."
+    "Olen väga ootav tulevikust.",
+    "Mis me saame tulevikust?",
+    "Tulevikust on alati midagi õpetust."
   ],
   "translation": [
-    "future",
-    "from the future"
+    "from the future",
+    "in the future",
+    "of the future"
   ],
-  "context": "The word 'tulevikust' in Estonian is used to describe something that is related to or comes from the future, and it is commonly used in sentences when talking about upcoming events or predicting what will happen next."
+  "context": "The Estonian word 'tulevikust' is an elative case form of the noun 'tulevik', which means 'future'. The '-st' ending indicates that it's in the elative case, meaning 'from' or 'out of'. So 'tulevikust' specifically means 'from the future' or 'out of the future'. This form is used when something comes from the future perspective."
 }

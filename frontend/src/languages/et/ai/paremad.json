@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Usame, et meie kool on parem kui nende. ",
-    "Minu õde arvab, et tema sõbranna on mulust paremad.",
-    "Paremad suunad keelpildi juurde jäävad täpsustada."
+    "Tere tulemast! Meil on paremad uudised.",
+    "Kõik õpilased said paremad hinded.",
+    "Kas teil on paremaid pakkumisi?"
   ],
   "translation": [
-    "better"
+    "better",
+    "best",
+    "improved"
   ],
-  "context": "'Paremad' is the comparative form of 'good' in Estonian and translates to 'better'.  It is used to compare two things, indicating that one is superior or more favorable than the other."
+  "context": "The word 'paremad' is the comparative and superlative form of the Estonian adjective 'parem', meaning 'good'. As a comparative, it means 'better', and as a superlative, it means 'best'. It's used when comparing things or indicating something has improved. The '-d' ending indicates plural form in this case."
 }

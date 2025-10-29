@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Praanipuhurid teevad palju müra ja piisab ühe eest, et saada hävitu õnnetus.",
-    "Muidugi, kui sul on piisavalt raha, võid hakata mõelda su perekonna rikkusele.",
-    "Piisab ainuüksne tõe olemasolu, et muuta meie arusaam teadusest."
+    "Piisavalt palju on piisav.",
+    "See asi ei ole veel piisanud.",
+    "Kas piisab teie jaoks?"
   ],
   "translation": [
-    "enough",
-    "sufficient"
+    "is enough",
+    "suffices",
+    "will do"
   ],
-  "context": "'piisab' is commonly used to indicate that something is enough or sufficient. It can be used in various contexts such as quantity, information, evidence, etc., and may appear in different grammatical forms depending on the sentence structure."
+  "context": "The Estonian word 'piisab' is a verb that means 'to be sufficient', 'to be enough', or 'to suffice'. It's derived from the root word 'piisav' (adjective meaning 'sufficient'). When used in its basic form, it typically indicates that something meets the minimum requirement or standard needed. The word can be used in various contexts such as expressing adequacy of resources, time, quality, or quantity."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ütlen terekest sulle!",
-    "Terekest, kuidas läheb?",
-    "Lapsed hüüavad: \"Terekest!\""
+    "Terekest hommikul!",
+    "Terekest, kuidas teil läheb?",
+    "Terekest ja head aega!"
   ],
   "translation": [
-    "Hello",
-    "Hi",
-    "Greetings"
+    "good day",
+    "hello",
+    "greetings"
   ],
-  "context": "This is an informal and friendly way to say hello in Estonian. It's often used with children or close friends and family. It’s a diminutive form of ‘tervis’, meaning health, so it literally means 'a little health' as a greeting."
+  "context": "Terekest is an informal greeting in Estonian, similar to 'terev' (cheerful) + '-est' (superlative suffix). It's used as a friendly way to say hello or good day, often with a cheerful connotation. This form is less formal than the standard 'tere' and carries a warm, positive tone when greeting someone."
 }

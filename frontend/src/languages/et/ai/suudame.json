@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma suudan sind.",
-    "Meie pere valmistab alati suupidet pühapäeval.",
-    "Ta võttis haigusega lapsel suu asemel pilli."
+    "Me suudame seda ülesannet lahendada.",
+    "Nad ei suuda seda teha aga me suudame.",
+    "Suudaksid sa aidata? Me suudame vajutada nuppu."
   ],
   "translation": [
-    "mouth",
-    "oral",
-    "mouth-related"
+    "can",
+    "are able to",
+    "manage to"
   ],
-  "context": "'suu' refers to the mouth in Estonian. 'Suudame' is its partitive plural form, often used when talking about multiple mouths or parts of the body generally, such as in medical contexts or family activities."
+  "context": "The word 'suudame' is the 1st person plural present indicative form of the verb 'suda', which means 'to be able to' or 'can'. It specifically refers to what 'we' can do in the present tense. This is a modal auxiliary verb used to express capability, possibility, or permission."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lastega koos.",
-    "Lapsed on väga rumalad.",
-    "Lapsevanemad ei saa lastega hakkama."
+    "Olen viimane last kodus.",
+    "Last on minu eesmine koht järjekorras.",
+    "Ta oli esimene last lõpetada eksami."
   ],
   "translation": [
-    "child",
-    "children"
+    "last",
+    "in the end",
+    "finally",
+    "at last"
   ],
-  "context": "The word 'last' in Estonian generally refers to a child or children, and it is commonly used in various contexts to denote a young human being or offspring."
+  "context": "The Estonian word 'last' means 'in the end', 'finally', or 'at last'. It's used to indicate that something has happened after a period of waiting or delay. This is an adverbial usage showing conclusion or achievement after preceding events."
 }

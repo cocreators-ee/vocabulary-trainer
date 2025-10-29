@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin andmeid internetist.",
-    "Andmeid on palju.",
-    "Need andmed on väga olulised."
+    "Kogu andmeid on salvestatud.",
+    "Vajalikud andmed tuleb esitada homme.",
+    "Andmete analüüs näitas huvitavaid mustreid."
   ],
   "translation": [
     "data",
     "information"
   ],
-  "context": "The word 'andmeid' is the plural form of 'andmed', which refers to data or information, and it is commonly used in contexts related to computing, research, or analysis."
+  "context": "The word 'andmeid' is the partitive form of 'andmed', which means 'data' or 'information'. In Estonian, this represents data in an unspecified amount - similar to saying 'some data' or 'information' in English. The '-d' ending indicates it's in the partitive case, commonly used for objects that are being acted upon or exist in a non-complete quantity."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen rahul kõigega",
-    "Ta on võimeline kõigega toime tulema",
-    "Kõigega koos oli see väga raske"
+    "Ma olen kõigega nõus.",
+    "Ta oli väga kõigega rahul.",
+    "Kas sa oled kõigega sama meelt?"
   ],
   "translation": [
     "with everything",
-    "along with everything"
+    "entirely",
+    "completely"
   ],
-  "context": "The word kõigega is a postposition in Estonian that means with or along with everything, and it is commonly used to indicate inclusion of all things."
+  "context": "The Estonian word 'kõigega' is a combination of 'kõik' (everything/all) and the '-ga' suffix meaning 'with'. It's used to express complete agreement, satisfaction, or being in total accord with something. The word can be translated as 'with everything', 'entirely', or 'completely' depending on the context."
 }

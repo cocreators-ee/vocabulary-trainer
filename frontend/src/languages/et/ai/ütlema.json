@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma tahan ütlema õppida.",
-    "Ta juba kõik teab, mida sa soovid ütlema hakata.",
-    "Tema eesmärk on oma soovide puhul kõrvale juhtumist, et kellegi teisele midagi rohkem ütlema. Selleks pean ma seda juba nüüd tegema."
+    "Ma ütlen sulle tere.",
+    "Ta ütles, et tuleb homme.",
+    "Me peame midagi ütlema."
   ],
   "translation": [
-    "to tell"
+    "to say",
+    "to tell",
+    "to speak"
   ],
-  "context": "'Ütlema' means 'to tell'. It is commonly used in the context of expressing something verbally to someone else."
+  "context": "The Estonian verb 'ütlema' means 'to say', 'to tell', or 'to speak'. It is used to express the act of uttering words or communicating information. The word can be conjugated in different tenses and forms depending on the subject and context, such as 'ütles' (past tense), 'ütleme' (imperative plural form)."
 }

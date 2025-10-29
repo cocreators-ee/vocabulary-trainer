@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Valus on haiguse sümptom",
-    "Tal oli valus kõhualune",
-    "Väsimus tekitab valut"
+    "Tal on valus hammust.",
+    "Valu on valu, kuid see möödub.",
+    "Peavalu võib olla väga valus."
   ],
   "translation": [
-    "pain",
-    "ache"
+    "painful",
+    "ache",
+    "hurt"
   ],
-  "context": "The word 'valus' in Estonian refers to a feeling of physical discomfort or pain, and is commonly used to describe symptoms of illness or injury"
+  "context": "The Estonian word 'valus' is an adjective that means painful or causing pain. It describes something that causes physical discomfort or hurt. The word comes from the same root as 'valu' (pain), and is used to describe sensations, injuries, or conditions that are unpleasant due to physical suffering."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma suundub koju",
-    "Ta suundus ära",
-    "Nad suunduvad kinno"
+    "Auto suundub põhja poole.",
+    "Lennuk suundub peagi Tallinna.",
+    "Mees suundub tööle."
   ],
   "translation": [
-    "seems",
-    "appears to be",
-    "is heading"
+    "is heading towards",
+    "is going to",
+    "is proceeding in the direction of"
   ],
-  "context": "The word suundub is commonly used in Estonian to indicate that something or someone appears to be going in a certain direction or has a certain intention."
+  "context": "The word 'suundub' is the 3rd person singular present form of the Estonian verb 'suunuma', which means to head, go, or proceed in a particular direction. It indicates movement toward a destination or direction and is commonly used when describing someone or something's current trajectory or intended path."
 }

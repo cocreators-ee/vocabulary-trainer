@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Need on õiged vastused.",
-    "Oled sa kindel, et see on õige?",
-    "Ma ei tea, mis on õiged sõnad."
+    "Õiged on meie parimad sõbrad.",
+    "Need õiged olid täpselt need, mida otsime.",
+    "Kas sa tuled õigele peole?"
   ],
   "translation": [
     "correct",
     "right"
   ],
-  "context": "'Õiged' means correct or right. It is used to describe something that is accurate, true, or morally acceptable in a given context."
+  "context": "The word 'õiged' is the plural form of the Estonian adjective 'õige', which means 'correct' or 'right'. In its plural nominative form, it describes multiple things that are correct. This could refer to people (the right ones), statements (the correct ones), or other nouns in plural."
 }

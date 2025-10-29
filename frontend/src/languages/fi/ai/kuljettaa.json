@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Auto kuljettaa matkustajia",
-    "Tavarat kuljetetaan laivalla",
-    "Kuljettaa paketin postissa"
+    "Minun täytyy kuljettaa autoa huoltoon.",
+    "Hän kyydittää lapset kouluun joka aamu.",
+    "Onko sinulla autoa kuljettaa tavarat kotiin?"
   ],
   "translation": [
-    "to carry",
     "to transport",
-    "to convey"
+    "to carry",
+    "to convey",
+    "to drive (a vehicle)",
+    "to haul"
   ],
-  "context": "The word 'kuljettaa' is commonly used in Finnish to describe the act of moving something or someone from one place to another, and it can be translated to English as 'to carry', 'to transport', or 'to convey'."
+  "context": "The Finnish verb 'kuljettaa' means to transport or carry something from one place to another. It can refer to driving a vehicle, transporting goods, or conveying people. This verb is transitive and requires an object indicating what is being transported."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kasutatud auto.",
-    "Kasutatud raamatud on odavamad.",
-    "Kasutatud esemed on müügil."
+    "Tegelikult kasutatud kõik oma aega ja energiat.",
+    "See on hea näide kasutatud raamatute müügist.",
+    "Kasutatud rõivad võivad olla samalgi ajal stiilsed."
   ],
   "translation": [
     "used",
-    "second-hand"
+    "second-hand",
+    "utilized"
   ],
-  "context": "The word 'kasutatud' in Estonian means something that has been previously used or owned by someone else, and is often used to describe second-hand items or products."
+  "context": "The Estonian word 'kasutatud' is a past participle form of the verb 'kasutama' (to use). It means something that has been used or utilized, and is commonly used to describe second-hand items. The word can be translated as 'used', 'second-hand', or 'utilized' depending on context."
 }

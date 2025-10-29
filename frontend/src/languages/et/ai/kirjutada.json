@@ -1,13 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma kirjutan raamatut.",
-    "Ta kirjutas artikli.",
-    "Nad kirjutavad meili."
+    "Ma pean homme kirjutama essee.",
+    "Ta kirjutas kirja oma sõbrale.",
+    "Kas sa oskirjutada selgituse?"
   ],
   "translation": [
-    "to write"
+    "to write",
+    "writing",
+    "compose",
+    "draft"
   ],
-  "context": "The word 'kirjutada' is commonly used in Estonian to mean the act of writing something, whether it be a book, an article, or an email."
+  "context": "The Estonian verb 'kirjutada' is the basic infinitive form meaning 'to write'. It's a regular verb that follows standard Estonian conjugation patterns. The word can refer to writing in general - handwriting, composing texts, filling out forms, or creating content. In different contexts it might mean anything from physically writing with pen and paper to typing on a keyboard or even composing music or literary works."
 }

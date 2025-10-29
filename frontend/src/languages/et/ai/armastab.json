@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastab sind",
-    "Ta on armastanud teda juba mitu aastat",
-    "Meie kõik armastame seda kohta"
+    "Ta armastab oma peret.",
+    "Meie kool armastab spordi.",
+    "Minu koer armastab jalutada."
   ],
   "translation": [
     "loves",
-    "is in love with"
+    "likes very much",
+    "is fond of"
   ],
-  "context": "The word 'armastab' is the third person singular form of the verb 'to love' in Estonian, and it is commonly used to express affection or strong feelings towards someone or something."
+  "context": "The word 'armastab' is the third-person singular present tense form of the Estonian verb 'armastama', which means 'to love'. It is used when someone loves or likes something very much. The word follows the standard Estonian conjugation pattern where the third-person singular takes '-b' ending in present tense."
 }

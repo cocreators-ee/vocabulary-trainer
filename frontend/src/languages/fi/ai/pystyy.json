@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän pystyy puhumaan sujuvasti englantia",
-    "Pystytkö sinä auttamaan minua?",
-    "Pystymme ratkaisemaan ongelman yhdessä"
+    "Pystytkö auttaa minua?",
+    "Hän pystyy juoksemaan nopeasti.",
+    "Me emme pysty tulemaan huomenna."
   ],
   "translation": [
     "is able to",
     "can",
-    "manages to"
+    "manages to",
+    "succeeds in"
   ],
-  "context": "The word 'pystyy' is a verb in Finnish that means to be able to do something, and it is commonly used to express ability or capability."
+  "context": "The Finnish word 'pystyy' is the third person singular form of the verb 'pystyä', which means 'to be able' or 'to manage'. It indicates capability, skill, or ability to do something. This is commonly used when talking about someone's capacity to perform an action."
 }

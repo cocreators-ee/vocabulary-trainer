@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me jõudsime õigeaegselt kohale.",
-    "Ta jõudis enne mind sinna.",
-    "Nad jõudsid kiiresti otsusele."
+    "Jõudsime kohale õigel ajal.",
+    "Me jõudsime lõpuni.",
+    "Jõudsime koju pärast pikka sõitu."
   ],
   "translation": [
     "we arrived",
-    "arrived"
+    "we reached",
+    "we made it"
   ],
-  "context": "The word 'jõudsime' is the first person plural form of the verb 'jõudma', which means to arrive. It is commonly used in sentences to indicate that a group of people has reached their destination."
+  "context": "The word 'jõudsime' is the past tense, first person plural form of the Estonian verb 'jõudma', which means 'to arrive' or 'to reach'. It indicates that a group of people (including the speaker) successfully arrived at a destination or reached a certain point."
 }

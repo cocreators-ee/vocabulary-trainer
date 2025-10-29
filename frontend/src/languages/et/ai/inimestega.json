@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hea inimestega.",
-    "Ta on väga populaarne noorte inimeste hulgas.",
-    "Inimestega suhtlemine on tema jaoks väga oluline."
+    "Inimesed on head inimestega.",
+    "Kohtusime paljude heade inimestega.",
+    "Ta elab naabritega ja jagab elu teiste inimestega."
   ],
   "translation": [
     "with people",
-    "among humans"
+    "together with people",
+    "among people"
   ],
-  "context": "The word 'inimestega' is a postposition meaning 'with people' or 'among humans', used to describe interactions or relationships between individuals."
+  "context": "The word 'inimestega' is the Estonian instrumental case form of 'inimesed' (people), meaning it indicates accompaniment or instrumentality - essentially showing that something is done 'with people'. The '-ga' suffix at the end transforms the nominative plural 'inimesed' into the instrumental plural form, indicating the action involves other people as instruments or companions."
 }

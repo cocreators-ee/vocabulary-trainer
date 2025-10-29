@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See film on põnev.",
-    "Põnevat ei olnud.",
-    "Ma loodan, et see raamat on põnev."
+    "See film oli väga põnev.",
+    "Põneva raamatu lugemine võib kesta tundi.",
+    "Meil on põnev planeerida üritust."
   ],
   "translation": [
     "exciting",
-    "thrilling"
+    "thrilling",
+    "fascinating",
+    "interesting"
   ],
-  "context": "The word põnev is an adjective in Estonian that means something is exciting or thrilling, often used to describe a movie, book, or experience that keeps you engaged and interested."
+  "context": "The Estonian word 'põnev' is an adjective that describes something as exciting, thrilling, or fascinating. It conveys a sense of anticipation and interest, making the experience engaging and enjoyable. This word can be used to describe events, stories, activities, or things that create excitement and curiosity."
 }

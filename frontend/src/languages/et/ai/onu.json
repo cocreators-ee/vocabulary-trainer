@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minu onu on arst.",
-    "Onu kohtus mulle suur üllatus.",
-    "Ta võttis mind oma onu juurde."
+    "Olen onu kodus.",
+    "Minu onu elab Tallinnas.",
+    "Kas sa tuled kohtama oma onut?"
   ],
   "translation": [
     "uncle"
   ],
-  "context": "The word 'onu' in Estonian refers to the brother of one's mother or father, and is commonly used to address or refer to this family member in a similar way as the English term 'uncle'."
+  "context": "The Estonian word 'onu' means 'uncle'. It refers to the brother of one's parent or the husband of one's aunt. In Estonian, 'onu' is used regardless of whether it's the maternal or paternal uncle, unlike some languages that distinguish between these relationships."
 }

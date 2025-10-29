@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Film lõppes äkki.",
-    "Pidu lõppes alles hommikul.",
-    "Ma ei tea, kuidas see lugu lõppema peaks."
+    "Töö lõppes kell kuus.",
+    "Protsess on veel lõpemas.",
+    "Ta soovis, et projekt lõppeks edukalt."
   ],
   "translation": [
     "to end",
     "to finish",
-    "to cease"
+    "to conclude"
   ],
-  "context": "The verb 'lõppema' in Estonian means 'to end' or 'to finish'. It is used to describe the conclusion of an event, activity, or process. It can also refer to the termination of a relationship or situation."
+  "context": "The Estonian verb 'lõppema' means 'to end' or 'to finish'. It is an infinitive form of the verb that describes the action of something coming to a close or reaching its conclusion. This verb can be used in various contexts - for describing when work finishes, processes conclude, or projects reach their endpoint."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma astun kohe sisse.",
-    "Ta astus välja toast.",
-    "Nad astuvad üles ühisel meeleavaldusel."
+    "Ma astume sisse.",
+    "Ta astus välja ruumist.",
+    "Poisid astsid treppidel alla."
   ],
   "translation": [
     "to step",
-    "to move"
+    "to enter",
+    "to mount",
+    "to go up"
   ],
-  "context": "The word 'astuma' in Estonian means to take a step or to move, and it is commonly used in various contexts such as walking, stepping forward, or moving from one place to another."
+  "context": "The Estonian verb 'astuma' means to take a step or enter. It can be used when climbing stairs, entering a room, or taking steps forward. The word changes form depending on the subject and tense - 'astun' (I step), 'astud' (you step), 'astub' (he/she/it steps), 'astume' (we step), 'astute' (you plural step), 'avad' (they step). In past tense it becomes 'astus'. It's commonly used for both literal stepping and entering spaces."
 }

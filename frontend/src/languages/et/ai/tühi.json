@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tõi tühi kast",
-    "Tühi ruum on ohtlik",
-    "Need tühjad aknad vajavad kiiresti uusi klaase"
+    "Tühi laev sõitis sadamasse.",
+    "See ruum on täiesti tühi.",
+    "Temal oli tühi pea pärast head ööd."
   ],
   "translation": [
     "empty",
-    "vacant",
+    "blank",
     "hollow"
   ],
-  "context": "The word 'tühi' in Estonian means something that is empty or without contents, and it can be used to describe a room, a container, or any other space that lacks substance or material."
+  "context": "The Estonian word 'tühi' is an adjective that means empty, blank, or hollow. It can describe physical spaces (like an empty room), containers with nothing inside them, or abstract concepts like an empty mind or void. The word changes form based on case and number - for example in the nominative case it's 'tühi', but in other cases it would change appropriately to fit Estonian grammar rules."
 }

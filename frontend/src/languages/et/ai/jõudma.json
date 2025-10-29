@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei jõudnud sinna äksi.",
-    "Ta jõudis kooli õige ajal.",
-    "Jõudsin kaasaegseks saada."
+    "Ma jõuan homme kell 10 tööle.",
+    "Tüdruk ei jõua bussi otsa.",
+    "Me ei jõunud lõpuni."
   ],
   "translation": [
     "to reach",
-    "to arrive"
+    "to arrive",
+    "to make it",
+    "to succeed in getting somewhere"
   ],
-  "context": "The word 'jõudma' is commonly used in Estonian to indicate the act of reaching or arriving at a destination, and it can be used in different forms such as 'jõudnud' (reached) or 'jõudsin' (I reached)."
+  "context": "The Estonian word 'jõudma' is a verb that means to reach, arrive at a destination, or successfully get somewhere. It can be used in various contexts - reaching physical locations (like work), catching transportation, or achieving goals. The word changes form depending on the subject and tense: first person singular is 'jõuan', third person singular negative is 'ei jõua', past negative plural is 'ei jõunud'."
 }

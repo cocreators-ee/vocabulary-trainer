@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kutsusid mind kodusse?",
-    "Mina kutsusin sind koju.",
-    "Ta kutsus mind tantsima."
+    "Kutsusin sind õhtule.",
+    "Ta kutsus meid kohtuma.",
+    "Meie kutsusid nad peole."
   ],
   "translation": [
-    "You invited",
-    "You asked (to come)",
-    "Called"
+    "invited",
+    "called",
+    "summoned"
   ],
-  "context": "The verb 'kutsuda' means to invite or call someone somewhere. In these examples it is used in different persons and with different activities like coming home or going dancing."
+  "context": "The word 'kutsusid' is the past tense (pl.) form of the Estonian verb 'kutsuma', which means 'to invite' or 'to call'. It specifically indicates that the action of inviting/calling was performed by a group of people in the past. The root form is 'kuts-' meaning to summon or call, and the suffix '-usid' indicates past tense plural subject."
 }

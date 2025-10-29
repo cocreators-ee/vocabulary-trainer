@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta rääkis temast väga kena.",
-    "Ma ei tea midagi temast.",
-    "Olen kindel, et meie lugupeatus on ka temale suunatud, mida tõestab see, et me räägime palju tema kohta."
+    "Tuleb temaga kohtuda.",
+    "Mul on kõik temast aru saanud.",
+    "Rääkisin temaga eile."
   ],
   "translation": [
+    "from him",
     "about him",
-    "about her",
-    "about it"
+    "concerning him"
   ],
-  "context": "The word 'temast' in Estonian is the 3rd person singular partitive case form of the pronoun used to mean about him/her/it. It's typically found after prepositions meaning 'about,' such as 'võta' (take) or verbs that require indirect objects with a preposition indicating direction. The form depends on gender and number, but in neutral contexts it can be translated more broadly."
+  "context": "'Temast' is the elative case form of the Estonian pronoun 'tema' (he/him). The elative case indicates movement from or origin, so 'temast' means 'from him' or can be used more generally to indicate something coming from, about, or concerning someone. It's used when talking about where information comes from, who something originates from, or when discussing characteristics of a male person."
 }

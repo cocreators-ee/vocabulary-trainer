@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Akna taga on ilus vaade.",
-    "Ta avas akna ja lasi sisse õhku.",
-    "Aknad olid kinni."
+    "Akna avas tuul.",
+    "Vaata aknast välja!",
+    "Põrandal on kaheksa akent."
   ],
   "translation": [
-    "window"
+    "window",
+    "aperture",
+    "opening"
   ],
-  "context": "The word 'akna' refers to a window, which is an opening in a building or vehicle for letting in light and air."
+  "context": "The word 'akna' is the nominative singular form of a noun meaning window in Estonian. It refers to an opening in a wall or door that allows light and air to enter, typically with glass panes. In Estonian grammar, nouns change their endings based on case (nominative, genitive, partitive, etc.) and number (singular/plural). 'Akna' would become 'akna' in genitive singular, 'aknat' in partitive singular, 'aknad' in nominative plural, etc."
 }

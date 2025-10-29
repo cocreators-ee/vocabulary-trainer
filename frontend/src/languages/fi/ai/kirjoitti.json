@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän kirjoitti kirjeen ystävälleen.",
-    "Kirjoitin muistiinpanoja luennosta.",
-    "Kirjoittaminen on hänen intohimonsa."
+    "Hän kirjoitti kirjeen.",
+    "Minä kirjoitin esseet.",
+    "He kirjoittivat runoja."
   ],
   "translation": [
     "wrote",
-    "written"
+    "has written",
+    "did write"
   ],
-  "context": "The word 'kirjoitti' is the past tense of the verb 'kirjoittaa', which means to write something, and it is commonly used in Finnish language to describe the act of writing or composing a text."
+  "context": "Kirjoitti is the past tense third-person singular form of the Finnish verb 'kirjoittaa', which means 'to write'. It specifically refers to a completed action in the past, typically used when someone (he/she) has already finished writing something. The word follows the basic conjugation pattern for -aa verbs in Finnish where the stem 'kirjoit-' remains unchanged and the past tense ending '-i' is added."
 }

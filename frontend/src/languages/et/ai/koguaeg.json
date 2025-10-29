@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on olnud koguaeg heas ühiskondlikus positsioonis.",
-    "Koguaeg tähendab siin elu kestvust.",
-    "Inimene saab koguaeg õppida."
+    "Koguaeg ta ootis sind.",
+    "Me kogu aega räägime sellest teemast.",
+    "Ta on koguaeg valmis aitama."
   ],
   "translation": [
-    "total time",
-    "whole time",
-    "lifetime"
+    "always",
+    "constantly",
+    "continuously",
+    "all the time"
   ],
-  "context": "The word 'koguaeg' in Estonian refers to the total or whole amount of time something lasts or has lasted, and is commonly used to describe the duration of an event, activity, or a person's life."
+  "context": "The Estonian word 'koguaeg' is an adverb that means 'always', 'constantly', or 'continually'. It's formed from 'kogu' meaning 'whole' or 'entire' and 'aeg' meaning 'time', so literally it translates to 'all time' or 'whole time'. This word is used to indicate that something happens continuously, without interruption. For example, 'Koguaeg ta ootis sind' means 'He was always waiting for you.' The word doesn't change form in different grammatical contexts as it's an adverb."
 }

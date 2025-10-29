@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan õlle",
-    "Õlled on hea jook",
-    "Tema õlle on väga maitsev"
+    "Mul on hea õlle.",
+    "Me ostisime õlle poest.",
+    "Kas sa soovid juua üks õlle?"
   ],
   "translation": [
-    "beer",
-    "ale"
+    "beer"
   ],
-  "context": "The word õlle refers to a type of alcoholic beverage, specifically beer or ale, and is commonly used in Estonian culture to refer to this drink."
+  "context": "Õlle is the Estonian word for 'beer'. It's a singular form of the noun. In Estonian, it can be used with different cases depending on its function in a sentence - for example, 'õlle' (nominative), 'õllet' (genitive), etc. The word refers to the alcoholic beverage made from fermented grain."
 }

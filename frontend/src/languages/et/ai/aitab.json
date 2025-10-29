@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta aitab mulle kõige keerukamates olukordades.",
-    "Aitab see talle?",
-    "Ma aitan teie vanemaid otsima."
+    "Tema aitab mulle.",
+    "Ta aitaksid mind alati.",
+    "Nad aitasid tal."
   ],
   "translation": [
     "helps",
-    "is helping"
+    "assists",
+    "aids"
   ],
-  "context": "The word 'aitab' is the third person singular form of the Estonian verb 'aitama', which means to help. It is commonly used in sentences where someone is providing assistance or support to another person."
+  "context": "The word 'aitab' is the third-person singular present form of the Estonian verb 'aida', which means 'to help'. It is used when someone helps another person in the present tense. The verb belongs to the conjugation class that forms its present tense by adding '-b' for third person singular."
 }

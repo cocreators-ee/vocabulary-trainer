@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma õppisin eesti keelt koolis.",
-    "Ta õppis inglise keelt kolm aastat.",
-    "Nad õppisid matemaatikat ülikoolis."
+    "Õppisin eesti keelt.",
+    "Ma õppisin matemaatikat koolis.",
+    "Ta õppisin uusi oskuseid."
   ],
   "translation": [
-    "I learned",
+    "learned",
     "studied"
   ],
-  "context": "The word õppisin is the first person singular past tense form of the verb õppima, which means to learn or study something. It is commonly used in Estonian to describe the act of acquiring knowledge or skills."
+  "context": "\"Õppisin\" is the past tense first person singular form of the Estonian verb \"õppima\", which means \"to learn\" or \"to study\". It indicates that the speaker has acquired knowledge or skills in the past. The word follows Estonian grammar rules for past tense conjugation, where the ending changes based on the subject and tense."
 }

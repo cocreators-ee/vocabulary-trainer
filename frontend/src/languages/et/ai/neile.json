@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta vastas neile kohe.",
-    "Neile meeldis see film.",
-    "Ma saatsin neile kaks kirja."
+    "Neile meeldib muusika.",
+    "Tema räägib neiega.",
+    "Meie kingid on neile mõeldud."
   ],
   "translation": [
-    "to them"
+    "to them",
+    "for them"
   ],
-  "context": "The word 'neile' is a pronoun in Estonian that means 'to them', it is used as an indirect object to show that something is being done for or given to them."
+  "context": "The Estonian word 'neile' is the allative case of the pronoun 'nad', meaning 'they'. It indicates movement towards or direction toward someone, and can be translated as 'to them' in English. In this form, it shows that something is going to or intended for a group of people (third person plural)."
 }

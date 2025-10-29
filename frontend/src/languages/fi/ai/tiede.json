@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tiede on tieteenalana hyvin laaja.",
-    "Hänen erikoisalaansa ovat matematiikka ja luonnontieteet.",
-    "Luonnontiede tutkii luonnonlakeja ja ilmiöitä."
+    "Tiede on tärkeä osa yhteiskuntaamme.",
+    "Hän opiskelee tiedettä yliopistossa.",
+    "Tieteen kehitys on jatkuvaa prosessia."
   ],
   "translation": [
     "science",
-    "field of study"
+    "knowledge",
+    "scholarship"
   ],
-  "context": "The word 'tiede' refers to a field of study or science in general, and it is commonly used in Finnish to describe various areas of research and academic disciplines."
+  "context": "The Finnish word 'tiede' primarily means 'science' or 'knowledge'. It refers to systematic study of the natural world through observation and experimentation. The word is used in academic contexts but also more generally to refer to knowledge-based inquiry and understanding. In its basic form, it's a feminine noun that can take various endings depending on context (tiede -> tiedeet in plural, tieteen in genitive case)."
 }

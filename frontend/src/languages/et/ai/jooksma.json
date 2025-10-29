@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jooksin kiiresti.",
-    "Ta oskab hästi jooksma.",
-    "Jooksjad on hea sport."
+    "Ma jooksme hommikul pargis.",
+    "Ta jooksis kiiresti lõpuni.",
+    "Jookske!"
   ],
   "translation": [
     "to run",
-    "runner"
+    "to jog",
+    "to race"
   ],
-  "context": "The word 'jooksma' is commonly used in Estonian to describe the act of running, and it can also be used as a noun to refer to a runner or the sport of running itself."
+  "context": "The Estonian word 'jooksma' is the infinitive form of a verb that means 'to run', 'to jog', or 'to race'. It's used to express the action of running quickly on foot. The verb can be conjugated in different tenses and moods, such as past tense (jooksis - ran), imperative mood (jookske! - run!)."
 }

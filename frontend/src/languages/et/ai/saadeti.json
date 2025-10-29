@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta saadeti koju",
-    "Kiri saadeti ära homme",
-    "Pakid saadeti ümber"
+    "Saadi teade ja saadeti kohe.",
+    "Meil saadeti kiri täna hommikul.",
+    "Paketid saadeti eile."
   ],
   "translation": [
     "was sent",
-    "send"
+    "were sent",
+    "dispatched"
   ],
-  "context": "The word 'saadeti' is the third person singular form of the verb 'saatma', which means 'to send' in English. It is commonly used to describe the action of sending something or someone."
+  "context": "The word 'saadeti' is the past tense third-person plural form of the Estonian verb 'saada', which means 'to send'. It indicates that something was sent by someone in the past. The '-i' ending at the end of this word signifies it's in the simple past tense and refers to multiple subjects or a single subject with formal address."
 }

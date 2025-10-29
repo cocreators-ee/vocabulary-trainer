@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kahjuks ei olnud mul tema numbrit.",
-    "Ma olen kahjuks nii üksi.",
-    "Kahjuks pole ma võimeline seda tegema."
+    "Kahjuks ei saanud ta kohale.",
+    "Me peame ära jõudma, kahjuks.",
+    "Kahjuks pole võimalik seda teha."
   ],
   "translation": [
     "unfortunately",
+    "regrettably",
     "sadly"
   ],
-  "context": "The word 'kahjuks' is used to express regret or disappointment about something, similar to the English words 'unfortunately' or 'sadly'."
+  "context": "The word 'kahjuks' is an Estonian adverb that means 'unfortunately', 'regrettably', or 'sadly'. It's used to express disappointment, regret, or sorrow about a situation. The word comes from the root 'kahju' (damage, harm) and the suffix '-ks', which forms adverbs in Estonian. It typically appears at the beginning of a sentence but can also appear elsewhere depending on emphasis."
 }

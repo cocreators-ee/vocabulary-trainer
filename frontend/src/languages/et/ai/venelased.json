@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Venelased elavad peamiselt Ida-Euroopas.",
-    "Ta on üks tuntud venelastest kirjanik.",
-    "Venelased on võitnud palju olümpiamedaleid."
+    "Veneleste on naabermaa.",
+    "Paljud venelased külastavad Eestit igal aastal.",
+    "Venelaste kultuur on väga rikas ja mitmekesine."
   ],
   "translation": [
-    "Russians"
+    "Russians",
+    "the Russian people"
   ],
-  "context": "The word 'venelased' refers to people from Russia, and is commonly used in Estonian language to describe Russians or people of Russian descent."
+  "context": "The word 'venelased' is the plural form of 'venelane', which means 'Russian person'. In Estonian, it refers to ethnic Russians or citizens of Russia. The word follows standard Estonian plural formation where '-d' is added to the base form."
 }

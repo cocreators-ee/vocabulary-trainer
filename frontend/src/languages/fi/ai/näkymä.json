@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tässä on kaunis näkymä.",
-    "Näkymä merelle on upea.",
-    "Näkymät ovat vaihtelevia."
+    "Kaunis näkymä avautui vuorelta.",
+    "Talon näkymä merelle on upea.",
+    "Hän ihaili järven näkymää."
   ],
   "translation": [
     "view",
     "sight",
-    "landscape"
+    "vista",
+    "prospect"
   ],
-  "context": "The word näkymä refers to a visual perception or a scene that can be seen, and it is commonly used in Finnish to describe a beautiful or noteworthy view."
+  "context": "The Finnish word 'näkymä' is a noun that refers to what can be seen from a particular place - the view, sight, or vista. It's derived from the verb 'nähdä' (to see) and indicates something that is visible or observable. The word can refer to physical views like landscapes as well as more abstract concepts of how things appear or seem."
 }

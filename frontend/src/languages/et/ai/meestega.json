@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea meestega.",
-    "Meestega on raske töötada.",
-    "Meestega peab olema ettevaatlik."
+    "Tule meie juurde meeste-ga.",
+    "Õpetaja rääkis meeste-ga tunnis.",
+    "Kohtunikust sai hea sõber meestega."
   ],
   "translation": [
     "with men",
-    "among men"
+    "among men",
+    "together with men"
   ],
-  "context": "The word 'meestega' is a postpositional phrase in Estonian that means 'with men' or 'among men', and it is used to indicate a relationship or interaction between people, where 'mees' means 'man'."
+  "context": "The word 'meestega' is in the Estonian instrumental case, formed by adding the suffix '-ga' to the plural form 'meeste'. It indicates accompaniment or association, meaning 'with men' or 'among men'. The '-ga' ending is a common grammatical marker in Estonian that shows something is done together with someone or something."
 }

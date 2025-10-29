@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Poika juoksi nopeasti.",
-    "Poikaa odotettiin tulevan pian.",
-    "Pojan käytös oli hyvä."
+    "Poikani on kymmenen vuotta vanha.",
+    "Näin pojan kadulla.",
+    "Tämä poika on erittäin älykäs."
   ],
   "translation": [
     "boy",
-    "lad"
+    "son"
   ],
-  "context": "The word poika refers to a young male human being, typically under the age of 18, and is commonly used in Finnish language to describe a son, a boy or a young man."
+  "context": "The Finnish word 'poika' means both 'boy' and 'son'. It can refer to a male child or young person, or it can be used to refer to one's own son. The form remains the same regardless of whether it means a generic boy or one's own son."
 }

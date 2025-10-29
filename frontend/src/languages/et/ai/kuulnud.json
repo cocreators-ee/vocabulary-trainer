@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kuulnud seda enne",
-    "Ta oli kuulnud sellest juba kaua",
-    "Kuulnud rumalusi inimeste suust"
+    "Ma ei ole kuulnud sellest.",
+    "Kas sa oled kuulnud seda laulu?",
+    "Ta on juba kuulnud uutest reeglitest."
   ],
   "translation": [
-    "heard",
-    "listened"
+    "have heard",
+    "heard"
   ],
-  "context": "The word kuulnud is the past tense of the verb kuulma, which means to hear or listen, and it is commonly used in Estonian language to express that someone has perceived something with their ears."
+  "context": "The word 'kuulnud' is the past participle form of the verb 'kuulma', which means 'to hear'. In Estonian, this form is used to indicate that someone has experienced hearing something. It's commonly used in perfect tense constructions with auxiliary verbs like 'on' (has) or with negative forms like 'ei ole' (have not)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän mittaa huoneen",
-    "Mitataan lämpötila",
-    "Se on helppo mitata"
+    "Minun täytyy mitata huoneen koko.",
+    "Mittaamme tarkasti kaiken ennen rakentamista.",
+    "Hän mittasi piirustuksia uudelleen."
   ],
   "translation": [
-    "measure",
-    "to measure"
+    "to measure",
+    "to gauge",
+    "to take measurements"
   ],
-  "context": "The word 'mitata' is commonly used in Finnish to mean taking the measurement of something, such as the size of a room or the temperature outside."
+  "context": "The Finnish verb 'mitata' means to measure or take measurements. It is an active verb used when someone performs the action of measuring something. The word follows regular conjugation patterns in Finnish, changing based on person and number. For example, it becomes 'mittaamme' (we measure), 'mittaat' (you measure - informal singular), etc. This verb is commonly used when referring to taking measurements of physical dimensions, quantities, or even abstract concepts."
 }

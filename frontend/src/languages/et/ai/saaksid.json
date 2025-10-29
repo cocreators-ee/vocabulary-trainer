@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Sa saaksid midagi rohkem teada.",
-    "Ta võib saaksid aru.",
-    "Mina saaksin sulle aitada."
+    "Saaksid tuua mulle veeni?",
+    "Kas sa saaksid aidata mind?",
+    "Miks sa ei saanud tulla, kuigi sa saaksid?"
   ],
   "translation": [
-    "you would get",
     "you could",
-    "you might"
+    "would you be able to",
+    "could you"
   ],
-  "context": "'saaksid' is the second person singular conditional form of the verb 'to get' or 'can', commonly used in hypothetical situations to express possibility or outcome. It's used after verbs like 'võtma' (to take) or 'võib-olla' (maybe) to suggest what could happen under certain conditions."
+  "context": "The word 'saaksid' is the conditional form of the verb 'saa' meaning 'to get/receive/understand'. It's used in Estonian to make polite requests or ask about possibilities. The form combines the subject 'sa' (you) with the conditional '-ksid' ending, creating a soft, indirect way of asking someone if they are able to do something. This construction is commonly used for making requests sound more courteous and less demanding."
 }

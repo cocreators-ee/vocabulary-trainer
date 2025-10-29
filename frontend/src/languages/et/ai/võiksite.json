@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sa võiksite aidata mul",
-    "Te võiksite minu sõber olla",
-    "Nad võiksite meile appi tulla"
+    "Võiksite teata, mis kell on?",
+    "Kas võiksid tuua mulle vett?",
+    "Poleksin väga tänuväärne, kui võiksite aidata."
   ],
   "translation": [
-    "you can",
-    "you could"
+    "could",
+    "might",
+    "may",
+    "should"
   ],
-  "context": "The word võiksite is the second person plural form of the verb võima, which means to be able to or can. It is commonly used in Estonian to express ability or possibility."
+  "context": "Võiksite is the formal/plural form of the Estonian modal verb 'võima' (can/may/should). It's used when addressing someone formally or multiple people, expressing possibility, permission, or a polite request. The word appears in conditional or potential forms and indicates capability or willingness to do something."
 }

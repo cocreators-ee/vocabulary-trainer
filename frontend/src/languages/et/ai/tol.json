@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tänan sind tol vastu võtmise eest.",
-    "Tol aitab meil mõista olukorda täpsemalt.",
-    "Sul on suurepärane tol suhtes minu rahu hoidmiseks."
+    "Tol õhtul me ei läinud kinno.",
+    "Tol päeval oli ilus ilm.",
+    "Me rääkisime temaga tol nädalavahetusest."
   ],
   "translation": [
-    "thanks",
-    "gratitude",
-    "acknowledgment"
+    "that",
+    "then",
+    "at that time"
   ],
-  "context": "The Estonian word 'tol' refers to expressing thanks or appreciation for something received, similar to the English word 'thank you.' It is commonly used in social interactions to show politeness and acknowledge others' actions or gifts."
+  "context": "The Estonian word 'tol' is a demonstrative pronoun used to refer to something in the past, similar to English 'that' when referring to a specific previous time or event. It's typically used with temporal expressions to indicate a particular moment in the past."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tuodaan kaikki tavarat tänne huomenna.",
-    "Häneltä ei saa mitään tuotua ilman lupausta.",
-    "Tämä näköala on hyvin helppo tuoda mukaan matkaan."
+    "Minä tuon maitoa kaupasta.",
+    "Hän tuo kirjoja kouluun.",
+    "He tuovat kukkia juhlaan."
   ],
   "translation": [
     "to bring",
     "to carry",
-    "to take"
+    "to fetch",
+    "to deliver"
   ],
-  "context": "'tuoda' is the third person singular form of the verb 'tuoda', which means to bring, carry or take something from one place to another. In Finnish, verbs are conjugated for different subjects and tense."
+  "context": "The Finnish verb 'tuoda' means to bring or carry something from one place to another. It is typically used when bringing items towards the speaker's location or a specific destination mentioned in context. The verb follows regular conjugation patterns: tuon (I bring), tuot (you bring), tuo (he/she/it brings), tuomme (we bring), tuotte (you plural bring), tuovat (they bring)."
 }

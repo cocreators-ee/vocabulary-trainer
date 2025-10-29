@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lind lendas puul.",
-    "Linnul oli ilus laul.",
-    "Lindu nägin eile õues."
+    "Lend on lind.",
+    "Nägin väga ilusat linda.",
+    "Linnud pesitsevad puudes."
   ],
   "translation": [
     "bird"
   ],
-  "context": "The word 'lind' refers to a bird in Estonian, commonly used to describe any type of bird or as a metaphor for freedom and beauty."
+  "context": "The word 'lind' is Estonian for 'bird'. It's a singular noun. In the plural form, it becomes 'linnud'. For example: 'Lend on lind' means 'Flying is bird-like', 'Nägin väga ilusat linda' means 'I saw a very beautiful bird', and 'Linnud pesitsevad puudes' means 'Birds nest in trees'. The word can be used to refer to any type of bird, from small songbirds to larger birds."
 }

@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ympyrän keskipiste on yleensä merkitty O-kirjaimella.",
-    "Hän piirsi ympyrän paperille.",
-    "Ympyrän säde on puolet sen halkaisijasta."
+    "Minulla on ympyrä paperilla.",
+    "Tämä ympyrä on täydellinen.",
+    "Ympyrät ovat geometrisia muotoja."
   ],
   "translation": [
     "circle"
   ],
-  "context": "The word ympyrä refers to a geometric shape where every point on the circle is equidistant from a central point called the center. It is commonly used in mathematics, design, and everyday language to describe something that is round or curved."
+  "context": "The Finnish word 'ympyrä' means 'circle' in English. It is a noun referring to the geometric shape that is perfectly round, with all points equidistant from the center point. In Finnish grammar, it's an inanimate object and follows normal inflection patterns for nouns."
 }

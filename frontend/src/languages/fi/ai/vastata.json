@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun täytyy vastata tähän kysymykseen",
-    "Hän vastasi kaikkiin kysymyksiin",
-    "Vastaus oli selvä"
+    "Minun vastata siihen kysymykseen.",
+    "Hän ei voi vastata puhelimeen juuri nyt.",
+    "Vastaa hänelle heti kun näet tämän viestin."
   ],
   "translation": [
     "to answer",
     "to respond",
-    "response"
+    "to reply"
   ],
-  "context": "The word 'vastata' in Finnish means to give an answer or response to something, and it is commonly used in various contexts such as replying to a question, reacting to a situation, or providing feedback."
+  "context": "The Finnish word 'vastata' is a verb that means to answer, respond, or reply. It's commonly used in contexts of responding to questions, phone calls, messages, or situations. The word can be conjugated in different forms depending on the subject and tense: vastaan (I answer), vastaat (you answer), vastaa (he/she/it answers), vastaamme (we answer), vastaatte (you plural answer), vastaavat (they answer)."
 }

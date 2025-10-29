@@ -1,15 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta lahkus pärast tööd kohe koju.",
-    "Meie lahkumine oli ootamatu ja valuline.",
-    "Lahkudes andis ta mulle viimase pilgu."
+    "Ma lahkun töölt kella viie.",
+    "Tema lahkus linnast eile.",
+    "Me lahkume homme hommikul."
   ],
   "translation": [
-    "departure",
-    "leaving",
-    "farewell"
+    "I leave",
+    "he/she leaves",
+    "we leave",
+    "to depart",
+    "to quit"
   ],
-  "context": "The word 'lahkud' in Estonian refers to the act of leaving a place, person, or situation. It can also imply a farewell or parting. In English, it is commonly used when someone is going away, either temporarily or permanently."
+  "context": "Lahkud is the 2nd person singular present tense form of the Estonian verb 'lahkuma', which means 'to leave' or 'to depart'. It's used when addressing someone directly, as in 'you leave'. The root 'lahk-' relates to separation or going away. In Estonian verb conjugation, this would be part of the -ma verb type."
 }

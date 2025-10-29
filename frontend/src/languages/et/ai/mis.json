@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mis sa teeb?",
-    "Ma ei tea, mis juhtus.",
-    "See on küsimus, mis mind huvitab."
+    "Mis on see?",
+    "Kas sa tead, mis kell on?",
+    "Mis juhtus?"
   ],
   "translation": [
-    "what"
+    "what",
+    "which"
   ],
-  "context": "The Estonian word 'mis' is a versatile interrogative pronoun and relative pronoun equivalent to the English word 'what'. It’s used in questions seeking information about things or actions, and also introduces relative clauses."
+  "context": "The Estonian word 'mis' is an interrogative pronoun that means 'what' or 'which'. It's used to ask questions about information or identification. In its basic form 'mis', it can function as the subject of a question asking for information, similar to English 'what'. It doesn't change form for gender but may change in different grammatical contexts (though Estonian has relatively simple pronoun declension)."
 }

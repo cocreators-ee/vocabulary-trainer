@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea seda sellist asja",
-    "Ta on selline hea inimene",
-    "Sellisel juhul peame olema ettevaatlikud"
+    "Sell on see asi.",
+    "Sellest tuleb hästi.",
+    "Mida sa sellest arvad?"
   ],
   "translation": [
-    "such",
-    "like that"
+    "this",
+    "that"
   ],
-  "context": "The word 'sell' is used in Estonian to indicate a similarity or likeness to something, often translated to English as 'such' or 'like that'."
+  "context": "The Estonian word 'sell' is a demonstrative pronoun meaning 'this' or 'that'. It's used to point out specific things, either near ('this') or distant ('that'). In Estonian, it can change form depending on the grammatical case needed in the sentence."
 }

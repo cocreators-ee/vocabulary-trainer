@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis ravimeid ja tundis end paremini.",
-    "Ravimeid on võimalik osta apteegist.",
-    "Arst kirjutas talle ravimeid."
+    "Tegin ravimeid apteegis.",
+    "Kas sa võtad ravimeid regulaarselt?",
+    "Arst kirjutas mulle ravimeid kõhuprobleemideks."
   ],
   "translation": [
     "medicines",
-    "medications",
-    "drugs"
+    "drugs",
+    "medications"
   ],
-  "context": "The word 'ravimeid' refers to substances used for medical treatment, and it is commonly used in Estonian to talk about prescription or over-the-counter drugs."
+  "context": "The word 'ravimeid' is the partitive plural form of the Estonian noun 'ravi', which means medicine or medication. The '-eid' ending indicates it's in the partitive case and plural, so 'ravimeid' translates to 'medicines' or 'drugs'. This form is used when referring to medicines in a general sense or as objects."
 }

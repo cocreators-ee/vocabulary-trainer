@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Joon on joonistatud papierile.",
-    "Ta tõmbas pikka horisontaalset joont.",
-    "Märkasin väikest musta joont kui lind märjaks käes."
+    "Tegin joone paberile.",
+    "Joon on sirge.",
+    "Võta üks joon siit."
   ],
   "translation": [
-    "line"
+    "line",
+    "stroke",
+    "mark"
   ],
-  "context": "The word refers to a physical or imaginary mark on a surface. It is commonly used in geometry and drawing contexts."
+  "context": "In Estonian, 'joon' is a noun that means line, stroke, or mark. It refers to a straight line drawn or written, and can be used in various contexts such as drawing lines on paper, mathematical lines, or marks made by a writing instrument."
 }

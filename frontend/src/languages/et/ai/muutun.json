@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen muutunud.",
-    "Ta on muutunud inimene.",
-    "Me oleme muutunud"
+    "Muutun väga kergesti stressituks.",
+    "Ta muutus täiesti erinevaks inimeseks.",
+    "Päev muutub ööks."
   ],
   "translation": [
-    "change",
-    "transform",
-    "alter"
+    "I change",
+    "I become",
+    "I turn into"
   ],
-  "context": "The word 'muutun' is a verb that means to change or transform into something else, and it is commonly used in Estonian language to describe a person or thing that has undergone a significant alteration."
+  "context": "The word 'muutun' is the first person singular present tense form of the Estonian verb 'muutuma', which means 'to change', 'to become', or 'to turn into'. It's an intransitive verb that describes a transformation or alteration of state. The subject undergoes a change rather than causing something else to change."
 }

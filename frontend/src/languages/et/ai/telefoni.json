@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtsin telefoni ja helistasin emale.",
-    "Telefoni number on 123456.",
-    "Ta ei vastanud telefoni."
+    "Olen telefonis tööl.",
+    "Kas sa näed telefoni?",
+    "Telefonid on laual."
   ],
   "translation": [
-    "phone",
-    "telephone"
+    "telephone",
+    "phone"
   ],
-  "context": "The word 'telefoni' is the Estonian word for phone or telephone, and it refers to a device used for communication over long distances."
+  "context": "The word 'telefoni' is the Estonian genitive case form of the noun 'telefon', meaning 'telephone'. In genitive case, it typically indicates possession or association, similar to English possessive forms like 'of the phone' or related expressions. It can be used in contexts where something belongs to a phone or is associated with it."
 }

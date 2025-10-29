@@ -1,15 +1,17 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen täiega kindel, et see on õige.",
-    "Ta oli täiega üksi.",
-    "Täiega selge, mis siin toimub."
+    "Töö tehti täiega.",
+    "Ta oli täiega rõõmus.",
+    "Kodus on täiega"
   ],
   "translation": [
+    "truly",
+    "really",
+    "indeed",
     "completely",
-    "entirely",
-    "totally"
+    "fully",
+    "absolutely"
   ],
-  "context": "The word täiega is an adverb in Estonian that means completely or entirely, and it is used to emphasize the extent or degree of something."
+  "context": "The Estonian word 'täiega' is an adverb that means 'truly', 'really', 'indeed', or completely/fully. It's used to emphasize the degree or truthfulness of a statement, similar to how we might use words like 'very' or 'really' in English but with stronger emphasis. The word is formed from 'tõde' (truth) plus '-ie-' suffix and '-ga' which often indicates accompaniment or means 'with', so literally something like 'with truth'."
 }

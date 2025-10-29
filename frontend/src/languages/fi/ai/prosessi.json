@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Prosessi on melko yksinkertainen.",
-    "Hän osallistui prosessin suunnitteluun.",
-    "Prosessia parannetaan jatkuvasti."
+    "Prosessi on juuri alkanut.",
+    "Kehitysprosessi vaatii kärsivällisyyttä.",
+    "Tämä prosessi kestää noin viikon."
   ],
   "translation": [
-    "process"
+    "process",
+    "procedure",
+    "development"
   ],
-  "context": "The word 'prosessi' refers to a series of actions or operations taken in order to achieve a specific goal, similar to the English concept of a process."
+  "context": "The Finnish word 'prosessi' is a loanword from English and directly translates to 'process' in English. It refers to a series of actions or steps taken to achieve a particular end, often used in technical, business, or administrative contexts. The word can be used in various contexts such as development processes, manufacturing processes, bureaucratic procedures, or natural occurring sequences of events."
 }

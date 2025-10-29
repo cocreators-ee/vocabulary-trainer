@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen täpsemalt vaadanud seda probleemi.",
-    "Täpsemalt öeldes on see väga raske ülesanne.",
-    "Ta seletas täpsemalt, mida me peame tegema."
+    "Kas sa saad täpsemalt selgitada?",
+    "Täpselt öeldes oli see viga.",
+    "Soovin teada täpsemalt planeerimise detaile."
   ],
   "translation": [
     "more precisely",
-    "in more detail",
-    "exactly"
+    "more specifically",
+    "in more detail"
   ],
-  "context": "The word täpsemalt is an adverb in Estonian that means more precisely or in more detail. It is commonly used to provide additional information or clarify something that has already been stated."
+  "context": "The Estonian word 'täpsemalt' is an adverb that means 'more precisely' or 'more specifically.' It is formed by adding the comparative suffix '-malt' to the adjective 'täpsed' (precise). This adverb is used to ask for or provide more detailed information when something needs clarification. In sentences, it typically appears before the verb or at the beginning of a clause to indicate that greater precision should be applied."
 }

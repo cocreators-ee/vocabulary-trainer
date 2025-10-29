@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli röövitud oma kalli auto",
-    "Röövitud inimene ei saa enam midagi teha",
-    "Kui keegi on röövitud, siis tuleb tema aitamiseks appi tulla"
+    "Ta oli röövitud metsast.",
+    "Lapsed olid röövitud koolist.",
+    "Tüdruk oli röövitud õhtul."
   ],
   "translation": [
-    "stolen",
-    "robbed"
+    "robbed",
+    "abducted",
+    "kidnapped"
   ],
-  "context": "The word röövitud means to be stolen or robbed of something, and is commonly used in Estonian to describe a situation where someone has been deprived of their property or valuables."
+  "context": "The Estonian word 'röövitud' is the past participle form of the verb 'röövima', which means to rob or kidnap. It describes a state where someone has been taken away forcefully by criminals or abductors against their will. This word indicates that the action was completed in the past and that the person was victimized through being stolen or abducted."
 }

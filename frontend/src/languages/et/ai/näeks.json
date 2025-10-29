@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma näeksin sind homme.",
-    "Ta tahaks, et saaksime jälle näeks.",
-    "Kas sa näeksid mind sel õhtul?"
+    "Kuidas näeksite seda?",
+    "Ta ei näeks seda.",
+    "Näeksime head aega."
   ],
   "translation": [
-    "would see",
-    "could see",
-    "to see"
+    "to look at",
+    "to see",
+    "would look"
   ],
-  "context": "The word 'näeks' is the conditional form of the verb 'nähma' (to see) in Estonian. It expresses what someone *would* see or be able to see, often used in hypothetical situations or polite requests."
+  "context": "The word 'näeks' is the conditional mood (optative) form of the Estonian verb 'nägema', which means 'to see' or 'to look'. It's used to express a hypothetical action, suggestion, or polite request. The form '-ks' indicates it's in the 3rd person singular conditional, but can also be used as part of first-person plural conditional forms when combined with pronouns like 'me'."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Käisime koos kooli.",
-    "Eile käisime kinno minema.",
-    "Me käisime seal suveks."
+    "Käisime poes.",
+    "Käisime koos sõpradega kinos.",
+    "Käisime vanavanemate juures."
   ],
   "translation": [
-    "we went"
+    "went",
+    "visited",
+    "traveled to"
   ],
-  "context": "The word is the past tense of 'to go', used to describe that a group including the speaker went somewhere. Commonly used in everyday situations, e.g., 'We went to school together' or 'Yesterday we went to the movies.'"
+  "context": "The word 'käisime' is the 1st person plural past tense form of the Estonian verb 'käima', which means 'to go', 'to visit', or 'to travel'. It indicates that a group (including the speaker) went somewhere in the past. The '-me' ending clearly shows this as first person plural ('we') and the past tense is indicated by the vowel change from 'a' to 'i' plus the typical Estonian past tense marker '-s'."
 }

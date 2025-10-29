@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kujutan ette, mis seal toimub.",
-    "Ta kujutas endale, kuidas see võiks minna.",
-    "Kujutage ette, kui ilus see oleks."
+    "Kujutan ette, kuidas see töötab.",
+    "Ta kujutab endast heie õpetajat.",
+    "Meie lapsed kujutavad mänge."
   ],
   "translation": [
     "imagine",
     "picture",
-    "envision"
+    "represent"
   ],
-  "context": "The word 'kujutan' in Estonian means to imagine or picture something in one's mind, and it is commonly used in the context of thinking about a situation or scenario."
+  "context": "The word 'kujutan' is the first-person singular present tense form of the Estonian verb 'kujutama', which means to imagine, picture, or represent. It's used when speaking about oneself imagining something (I imagine/picture). The root 'kujut-' relates to concepts of visualization and representation."
 }

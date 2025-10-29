@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on haiget ja vajab arstiabi.",
-    "Haiget inimest tuleb kohe haiglasse toimetada.",
-    "Kui keegi on haiget, peab ta võtma ravimeid."
+    "Mul on haiget jalga.",
+    "Ta oli haiget peast päeval.",
+    "Lapsed said haigelt käest üle kogu keha."
   ],
   "translation": [
-    "sick",
-    "ill",
-    "unwell"
+    "sore",
+    "painful",
+    "aching"
   ],
-  "context": "The word 'haiget' in Estonian means being sick or ill, and it is commonly used to describe someone who is not feeling well and needs medical attention."
+  "context": "The word 'haiget' is the partitive case form of the Estonian adjective 'haige', meaning sore or painful. It's used to describe body parts or areas that are experiencing pain or discomfort. In Estonian grammar, the partitive case often indicates partiality or indefinite nature, so 'haiget' would be used when referring to a sore area rather than something specifically identified as sore."
 }

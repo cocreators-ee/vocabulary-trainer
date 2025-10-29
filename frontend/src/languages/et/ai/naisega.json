@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli koos naisega.",
-    "Naisega koos oli mees.",
-    "Mees oli naisega üksi."
+    "Ma lähen naisega kinno.",
+    "Ta rääkis naisega telefoonil.",
+    "Me kohtume naisega homse päeval."
   ],
   "translation": [
-    "with a woman"
+    "with a woman",
+    "together with a woman",
+    "accompanied by a woman"
   ],
-  "context": "The word 'naisega' is used in Estonian to indicate that something is done together with a woman, it is in the comitative case and means 'with a woman' or 'together with a woman'."
+  "context": "The word 'naisega' is the Estonian instrumental case form of 'naine', meaning 'woman'. The '-ga' suffix indicates accompaniment or means, indicating that something is done together with or using a woman. It literally translates to 'with a woman' and is used when answering questions like 'kellega?' (with whom?) or 'millega?' (with what/what tool?)."
 }

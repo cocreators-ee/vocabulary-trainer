@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen harjun asjade käsitsemisega.",
-    "Ta tegelikult ei tea, kuidas lõpetada asjadega.",
-    "Asjadega hoolitsemine on oluline selleks, et neil pikaajaline kasu oleks."
+    "Mul on head asjadega töödelda.",
+    "Tema käis asjadega kauplusesse.",
+    "Meie tegime kõik asjadega valmis."
   ],
   "translation": [
     "with things",
-    "in dealing with things"
+    "with stuff",
+    "with items"
   ],
-  "context": "'asjadega' is an Estonian phrase meaning 'with things'. It's commonly used in contexts involving handling or managing matters. The phrase can also be part of more specific expressions like 'asjade käsitsemine', which translates to the management or handling of affairs."
+  "context": "The word 'asjadega' is the Estonian instrumental case plural form of 'asjad' (things), where '-ga' is a suffix indicating accompaniment or means. It translates to English as 'with things' or 'with stuff'. This form is used when describing what something is done with or accompanied by."
 }

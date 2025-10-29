@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on igalt poolt õige.",
-    "Igalt juhult ei saa ma sind aidata.",
-    "See tundub igalt kahtlane."
+    "Mulle tuli igalt küljest hirm",
+    "Isegi parim näitleja sai igalt poolt kriitikat",
+    "Lapsed naervad temalt igalt poolt"
   ],
   "translation": [
     "from all sides",
-    "in every way",
-    "completely"
+    "from every direction",
+    "completely",
+    "thoroughly"
   ],
-  "context": "The Estonian word 'igalt' is an adverb that means 'from all sides', 'in every way', or 'completely'. It indicates totality or comprehensiveness, similar to the English adverbs 'entirely' or 'absolutely'."
+  "context": "The word 'igalt' is an Estonian adverb derived from the root 'iga-' (every/all) and the '-lt' suffix indicating source/origin. It means 'from all sides,' 'from every direction,' or can intensify to mean 'completely' or 'thoroughly.' In the sentences, it describes something coming from multiple directions (fear coming from all sides, criticism from both sides, laughter from all around) or emphasizes completeness of an action."
 }

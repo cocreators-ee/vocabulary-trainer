@@ -1,12 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kiirabi saabus paugutusega.",
-    "Ta helistas kiirabile, kui märkas, et lastel on kuumne."
+    "Kiirabi on kohale jõudnud kiiresti.",
+    "Vajame kiirabid kohe haiglasse minema.",
+    "Kõrvalduskiirabitöötaja oli väga sõbralik."
   ],
   "translation": [
-    "ambulance"
+    "ambulance",
+    "emergency medical service",
+    "paramedic"
   ],
-  "context": "A vehicle and team that provides emergency medical care to people who are injured or ill. Used when someone is in urgent need of help."
+  "context": "Kiirabi is an Estonian noun meaning 'ambulance' or 'emergency medical service'. It's composed of two parts: 'kiire' (quick) and 'abi' (help), literally translating to 'quick help'. The word refers to emergency vehicles and services that provide urgent medical assistance. In different contexts, it can refer to the ambulance vehicle itself, the emergency medical service system, or paramedics who work in emergency medicine."
 }

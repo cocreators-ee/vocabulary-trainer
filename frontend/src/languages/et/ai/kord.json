@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma käisin seal kord.",
-    "Ta on olnud seal mitmel korral.",
-    "See on esimene kord, kui ma näen seda."
+    "Tuleb öelda seda kord veel.",
+    "Me kohtusime eelmisel nädalal esmakordselt.",
+    "Ta tegi sama vea kolmandat korda järjest."
   ],
   "translation": [
     "time",
-    "times",
-    "once"
+    "occasion",
+    "instance",
+    "round"
   ],
-  "context": "The word 'kord' in Estonian generally refers to a point or period in time, and is commonly used to indicate the number of times something happens or has happened."
+  "context": "The word 'kord' in Estonian is a versatile noun that primarily means 'time', 'occasion', or 'instance'. It can also refer to 'round' as in repetition. When used with numbers (esmakord - first time, teinekord - second time) it indicates ordinal occurrences. In expressions like 'kolm korda' three times), it functions as a counter for repetitions."
 }

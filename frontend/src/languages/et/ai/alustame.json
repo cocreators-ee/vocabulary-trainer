@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Alustame uut päeva.",
-    "Me alustame kohe.",
-    "Nad alustasid tööd varakult."
+    "Alustame teist poolt.",
+    "Me alustame homse kell kaheksa.",
+    "Kas sa tahad alustada?"
   ],
   "translation": [
-    "let's start",
-    "we begin"
+    "start",
+    "begin",
+    "commence"
   ],
-  "context": "The word 'alustame' is a verb in Estonian that means to start or begin something, often used in the first person plural form, indicating that the speaker and others are starting an action together."
+  "context": "The word 'alustame' is the 1st person plural form of the verb 'alustama', which means 'to start' or 'to begin'. It literally translates to 'we start/begin' and is used when referring to a group that will initiate an action. The root word 'alus-' relates to foundation or base, suggesting starting from a solid beginning point."
 }

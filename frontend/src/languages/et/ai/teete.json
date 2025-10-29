@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma joon teete iga hommik.",
-    "Kas sa võtaksid teete suhkruga?",
-    "See teete on väga maitsev."
+    "Teete hästi tööd.",
+    "Töötades teete head palju kogemust.",
+    "Teete midagi imelist!"
   ],
   "translation": [
-    "tea",
-    "teatime"
+    "You do",
+    "You are doing",
+    "You make"
   ],
-  "context": "The word 'teete' in Estonian directly translates to 'tea' in English. It is commonly used to refer to the beverage, and can be enjoyed with or without sugar or milk. The word is often used in social settings as a gesture of hospitality."
+  "context": "The word 'teete' is the 2nd person plural present indicative form of the verb 'tegema' (to do/to make) in Estonian. It means 'you do' or 'you are doing'. This form is used when addressing multiple people informally, equivalent to 'you all do' or 'y'all do' in English."
 }

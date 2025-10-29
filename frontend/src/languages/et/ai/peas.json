@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma peasin sind täna hommikul.",
-    "Ta peab oma tööd tegema.",
-    "Peame seda arutama."
+    "Ta on peas meeskonnas.",
+    "Peas on hea ilm täna.",
+    "Meie peas oli rõõmus päev."
   ],
   "translation": [
-    "must",
-    "have to",
-    "need to"
+    "head of",
+    "at the head",
+    "in charge",
+    "leader"
   ],
-  "context": "The Estonian word 'peas' is a versatile auxiliary verb that expresses obligation or necessity, similar to 'must', 'have to', or 'need to' in English. It indicates what someone is required or expected to do."
+  "context": "The word 'peas' in Estonian is the adessive case form of 'pea', which means 'head'. In this form, it typically indicates position or location - being at the head, leading, or in charge. It can refer to physical position (at the head of something) or metaphorical leadership/incharge position."
 }

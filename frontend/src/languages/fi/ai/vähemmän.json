@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä syön vähemmän lihaa kuin ennen.",
-    "Hän on saanut vähemmän palkintoja kuin veljensä.",
-    "Tämä auto kuluttaa vähemmän bensiiniä."
+    "Minulla on vähemmään aikaa kuin sinulla.",
+    "Hän käyttää vähemmän rahaa kuin ennen.",
+    "Tämä auto kuluttaa vähemmän polttoainetta."
   ],
   "translation": [
     "less",
-    "fewer"
+    "fewer",
+    "not as much"
   ],
-  "context": "The word 'vähemmän' is a Finnish adverb that means 'less' or 'to a smaller extent'. It is commonly used to compare quantities or degrees of something, and it can be translated to English as 'less' or 'fewer', depending on the context."
+  "context": "The Finnish word 'vähemmän' is the comparative form of 'vähä' (little/few). It means 'less' or 'fewer' in English and is used to indicate a smaller quantity or amount compared to something else. It's commonly used with both countable and uncountable nouns, though when referring to countable nouns in Finnish, the partitive case is typically used."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän seisoi oven edessä.",
-    "Seisoi siinä hiljaa ja odotti.",
-    "Auto seisoi tiellä."
+    "Seisoi siinä liikkumatta.",
+    "Hän seisoi portilla odottamassa.",
+    "Lapset seisivat rivissä koulun edessä."
   ],
   "translation": [
     "stood",
     "was standing",
-    "stopped"
+    "remained standing"
   ],
-  "context": "The word 'seisoi' is the third person singular form of the verb 'seisoa', which means to stand or be in a standing position, and it can also imply stopping or halting, depending on the context."
+  "context": "The Finnish word 'seisoi' is the third-person singular past tense form of the verb 'seisoa', which means 'to stand'. It describes someone or something that was in a standing position in the past, without moving. This word follows the typical Finnish conjugation pattern where the -i ending indicates the past tense for third-person subjects (he/she/it)."
 }

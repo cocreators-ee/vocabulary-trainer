@@ -1,13 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen kolmel aastal haridusega.",
-    "Meil on kolm last.",
-    "Kolmandal proovil saavutati edu."
+    "Kolm on suurem kui kaks.",
+    "Ma tegin kolm tööd.",
+    "Tema käis kolmas järjekorras."
   ],
   "translation": [
     "three"
   ],
-  "context": "'kolm' is the number three in Estonian and is used to count objects, people or events. It does not change form regardless of grammatical case or gender like some other numbers do."
+  "context": "The word 'kolm' is the Estonian number for 3. It's used in counting, ordering (when declined), and can be part of larger numerical expressions or measurements."
 }

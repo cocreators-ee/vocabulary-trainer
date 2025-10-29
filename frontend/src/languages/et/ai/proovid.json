@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin proove, et näidata oma oskusi.",
-    "Proovid on olulised enne suurt esinemist.",
-    "Ta võttis proovid vastu hea meelega."
+    "Ma proovin uut restorani.",
+    "Ta ei proovi midagi.",
+    "Me proovisime seda retsepti."
   ],
   "translation": [
-    "attempts",
-    "trials",
-    "tests"
+    "try",
+    "attempt",
+    "test"
   ],
-  "context": "The word 'proovid' in Estonian refers to attempts, trials or tests. It is commonly used to describe efforts made to achieve something, rehearsals before a performance, or samples taken for analysis."
+  "context": "The word 'proovid' is the 3rd person plural form of the Estonian verb 'proovima', which means 'to try'. It indicates that multiple people are attempting or testing something. This verb can be used in various contexts such as trying food, attempting a task, or testing an idea."
 }

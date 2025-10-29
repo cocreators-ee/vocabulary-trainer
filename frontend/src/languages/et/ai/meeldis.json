@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meeldib mulle see lugu.",
-    "Ei meeldiva midagi sellest.",
-    "Meeldivad mulle kaunid laulud."
+    "Meeldis sulle film?",
+    "Mul meeldis see kontsert.",
+    "Mulle ei meeldida seda tüüpi muusika."
   ],
   "translation": [
-    "likes",
-    "like",
-    "is pleasing to"
+    "liked",
+    "enjoyed",
+    "pleased"
   ],
-  "context": "The word 'meeldis' is used in Estonian to express that someone or something is liked, enjoyed or appreciated by the speaker. It can also be used to describe an emotional response of pleasure when referring to objects, events, or people."
+  "context": "The word 'meeldis' is the past tense form of the Estonian verb 'meeldima', which means 'to like' or 'to enjoy'. It's used to express that someone liked something in the past. The singular 3rd person form ('meeldis') corresponds to English 'he/she/it liked' or more generally, 'someone liked'. For other persons, the forms would be: mulle meeldis (I liked), sulle meeldis (you liked), meile meeldis (we liked)."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kallis mees.",
-    "Kalliste hinnad on üle maailma.",
-    "See kallis auto on minu unistuste auto."
+    "Kallis sõber, tere tulemast!",
+    "Olen kõrgelt hinnatud ja kallis spetsialist.",
+    "Tema on minu kallim sõber."
   ],
   "translation": [
-    "expensive",
     "dear",
-    "beloved"
+    "expensive",
+    "beloved",
+    "precious"
   ],
-  "context": "The word 'kallis' in Estonian generally means something or someone that is expensive or dear, but it can also be used to describe a beloved person."
+  "context": "The Estonian word 'kallis' is an adjective that has two main meanings: 1) meaning 'dear' or 'beloved' when used as a term of endearment, and 2) meaning 'expensive' or 'costly' when referring to price. It can be used in different forms depending on the context - 'kallis' is the nominative singular form for both meanings."
 }

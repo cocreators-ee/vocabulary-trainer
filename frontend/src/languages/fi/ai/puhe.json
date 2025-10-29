@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän piti puheni aiheesta.",
-    "Puheet olivat kiinnostavia ja hyvin valmisteltuja.",
-    "Puhetta käytetään usein esimerkiksi poliittisissa kannanotoissa."
+    "Puhe on tärkeä osa ihmisviestintää.",
+    "Hän puhui puheen lopussa.",
+    "Meillä oli hyvä puhe viime yönä."
   ],
   "translation": [
     "speech",
-    "talk"
+    "talk",
+    "conversation"
   ],
-  "context": "The word 'puhe' in Finnish refers to a speech or talk, and it is commonly used in various contexts such as political speeches, lectures, or discussions."
+  "context": "The Finnish word 'puhe' is a noun that refers to speech, talk, or conversation. It can be used to describe the act of speaking in general (e.g., 'puhe on tärkeä osa viestintää' - speech is an important part of communication), a formal address or lecture, or a dialogue between people. The word belongs to the regular consonant declension group with stem 'puhe-' and has forms like 'puheen' (genitive), 'puhetta' (partitive), and 'puheet' (plural)."
 }

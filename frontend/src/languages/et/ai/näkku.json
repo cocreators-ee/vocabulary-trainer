@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma näen sind näkku peal.",
-    "Ära tee näkku!",
-    "Ta tegi mulle näkku."
+    "Tema käis nädalavahetusel näkku külastamas.",
+    "Lapsed käivad tihti suvel näkku vanavanemate juurde.",
+    "Me lähme siin talveks näkku linnapoodi."
   ],
   "translation": [
-    "face",
-    "grimace",
-    "make a face"
+    "to visit",
+    "to go to see someone"
   ],
-  "context": "The Estonian word 'näkku' refers to the face or making a facial expression, often a grimace. It can also be used as an adverb meaning 'to someone’s face'. It is commonly used in everyday conversation and can sometimes carry a slightly playful or teasing tone."
+  "context": "The word 'näkku' is in the illative case, which indicates direction or movement toward a place. It comes from the verb 'näkkama' meaning 'to visit' or 'to go to see'. In this form, it means 'to [somewhere]' specifically for visiting purposes. The illative case adds '-sse/-u' suffixes depending on the word's ending."
 }

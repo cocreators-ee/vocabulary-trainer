@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hänellä on saha pöydällä.",
-    "Lapsi hajautti sahan käyttöön.",
-    "Sahan voi ostaa myymälöstä."
+    "Minulla on sahalevyjä.",
+    "Saha on työkalu puun leikkaamiseen.",
+    "Hän käyttää sahaa kaivertamaan puusta kuvion."
   ],
   "translation": [
-    "saw",
-    "handsaw"
+    "saw (tool)",
+    "saws",
+    "to saw"
   ],
-  "context": "The word 'saha' in Finnish refers to a tool used for cutting, typically wood. It can mean either a saw or handsaw. It is commonly used when talking about carpentry tasks or DIY projects."
+  "context": "The Finnish word 'saha' means saw, which is a tool used for cutting materials like wood. It can be used as a noun to refer to the tool itself or as a verb in various conjugated forms to describe the action of sawing."
 }

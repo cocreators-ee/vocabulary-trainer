@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli juba ammu olnudki õnnelik.",
-    "Meie plaanid olidki teada juba eile.",
-    "See oli olnudki varem kokku lepitud."
+    "Ta on olnudki selles ametis kümme aastat.",
+    "Meie oleme olnudki siin varem.",
+    "Mina ei tea, kas ta on olnudki kunagi õnnelik."
   ],
   "translation": [
+    "has been",
     "had been",
-    "indeed was",
-    "was already"
+    "has indeed been"
   ],
-  "context": "The Estonian word 'olnudki' is a form of the verb 'olema' (to be) in the past tense. It emphasizes that something *already* was in a certain state or condition, often implying a sense of completion or inevitability. It’s similar to saying ‘had been’ or ‘indeed was’ in English, but carries a stronger nuance of already being so."
+  "context": "The Estonian word 'olnudki' is a combination of the past participle 'olnud' (meaning 'been' or 'having been') and the particle 'ki', which adds emphasis. It can be translated as 'has been', 'had been', or 'has indeed been' in English, depending on the context. The word emphasizes that something has definitely happened or was true."
 }

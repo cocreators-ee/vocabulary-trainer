@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kohtasin teda eile.",
-    "Ta on kohtanud palju inimesi.",
-    "Nad kohtasid üksteist koolis."
+    "Ma kohtasin sõpra tänaval.",
+    "Me kohtasime eile kontoris.",
+    "Kes teiega kohtasime?"
   ],
   "translation": [
     "met",
+    "came across",
     "encountered"
   ],
-  "context": "The word 'kohtasin' is the first person singular past tense form of the verb 'kohtama', which means to meet or encounter someone, and it is commonly used in Estonian to describe a chance meeting or encountering someone in a specific situation."
+  "context": "The word 'kohtasin' is the past tense first person singular form of the Estonian verb 'kohtama', which means 'to meet'. It indicates that the speaker met someone or something in the past. The root 'kohta-' relates to meeting or encountering, and the '-sin' suffix indicates first person singular past tense."
 }

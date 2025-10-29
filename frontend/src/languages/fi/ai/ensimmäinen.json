@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ensimmäinen vuosi oli vaikea.",
-    "Hän on ensimmäinen jonossa.",
-    "Ensimmäiset asiakkaat saavat alennuksen."
+    "Ensimmäinen päivä oli haastava mutta hauska.",
+    "Hän on ensimmäinen kerran Suomessa.",
+    "Ensimmäinen kirja tässä sarjassa on paras."
   ],
   "translation": [
     "first",
+    "number one",
     "initial"
   ],
-  "context": "The word 'ensimmäinen' is an adjective in Finnish that means first or initial, and it is commonly used to describe something that comes before others in a sequence or order."
+  "context": "The Finnish word 'ensimmäinen' is the ordinal form meaning 'first'. It's used to indicate something that comes before all others in time or sequence. As an adjective, it must agree in number and case with the noun it modifies. For example, 'ensimmäinen päivä' means 'the first day', while 'ensimmäiset päivät' would mean 'the first days' (plural form)."
 }

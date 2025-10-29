@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on väga kummaline inimene.",
-    "Kummalised asjad juhtuvad sageli.",
-    "See oli kummaline kogemus."
+    "See on kummaline lugu.",
+    "Tundub kummaline, et ta ei tulnud kohale.",
+    "Need kummalised asjad juhtuvad tihti."
   ],
   "translation": [
     "strange",
-    "odd"
+    "odd",
+    "peculiar",
+    "weird"
   ],
-  "context": "The word 'kummaline' is commonly used to describe something or someone that is unusual or out of the ordinary, often in a way that is surprising or unexpected."
+  "context": "The Estonian word 'kummaline' is an adjective that describes something as strange, odd, peculiar, or weird. It can refer to unusual situations, people's behavior, or things that seem out of the ordinary. The word carries a neutral connotation and doesn't necessarily imply anything negative - it simply indicates that something deviates from what would be considered normal or expected."
 }

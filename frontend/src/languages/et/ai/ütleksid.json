@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütleksin, et see on hea mõte.",
-    "Ta ütleks, et tema sõber on haigeks jäänud.",
-    "Nad ütleksid, et see film on väga huvitav."
+    "Mis ütleksid selles olukorras?",
+    "Kas sa ütleksid nõnda?",
+    "Temaga peaksin ütleksid midagi head."
   ],
   "translation": [
     "would say",
-    "said"
+    "might say",
+    "could say"
   ],
-  "context": "The word \"ütleksid\" is the conditional mood of the verb \"ütlemine\", which means to say or tell. It is commonly used in Estonian language to express what someone would say or think in a hypothetical situation."
+  "context": "The word 'ütleksid' is the conditional mood (conditional present) of the Estonian verb 'ütlema', which means 'to say'. It translates to English as 'would say' and indicates what someone might or would say in a hypothetical situation. The form '-ksid' indicates it's in second person singular, meaning 'you would say'."
 }

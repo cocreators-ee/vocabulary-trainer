@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Sa rääkisite mulle sellest eile.",
-    "Kas te rääkisite temaga juba?",
-    "Nad rääkisid palju."
+    "Tere hommikust! Kuidas rääkisite täna?",
+    "Meie eestlased on alati head inimesed - me rääkisite hea ja selgelt.",
+    "Kas te rääkisite sellest ülesandest?"
   ],
   "translation": [
-    "you spoke",
-    "you talked",
-    "you said"
+    "you (plural) spoke",
+    "you (plural talked",
+    "you (plural) said"
   ],
-  "context": "The verb 'rääkisite' is the past tense, second-person plural form of the Estonian verb 'rääkida', which means 'to speak' or 'to talk'. It indicates that you are addressing multiple people and referring to something they spoke about in the past."
+  "context": "The word 'rääkisite' is the past tense, plural form of the Estonian verb 'rääkima', which means 'to speak' or 'to talk'. The '-site' ending indicates that this is addressing multiple people in the past tense. It would typically be used when speaking to a group of people who have already spoken or engaged in conversation."
 }

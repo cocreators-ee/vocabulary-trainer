@@ -1,15 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Mees jättis kirja seljas.",
-    "Tema teekond läbib saari seljaga.",
-    "Kas oled sind kuula seljas?"
+    "Tema on seljas punane kleit.",
+    "Mees oli seljas musta jakiga.",
+    "Naised olid seljas ilusad suvikleidid."
   ],
   "translation": [
-    "back",
-    "with the back of (something)",
-    "in (someone's) mind"
+    "wearing",
+    "in",
+    "dressed in"
   ],
-  "context": "'seljas' primarily means 'back' as a noun. It can also be part of phrases meaning something is in one's mind or thought about. The form varies based on grammatical context."
+  "context": "The Estonian word 'seljas' is the partitive case form of 'selge' which means 'clear' or 'bright', but when used with clothing, it functions as a postposition meaning 'wearing' or 'in'. It indicates that someone has clothes on their body. This form is commonly used to describe what someone is wearing in Estonian."
 }

@@ -1,16 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks välja.",
-    "Meie peame selle välja mõtlema.",
-    "Välja on ilus."
+    "Tule välja!",
+    "Minge välja kodust.",
+    "Ta jooksis välja"
   ],
   "translation": [
     "out",
     "outside",
-    "to take out",
-    "to figure out"
+    "to come out",
+    "to go outside",
+    "exit"
   ],
-  "context": "The Estonian word 'välja' is a versatile preposition and adverb that generally indicates movement or direction outwards, or the act of bringing something out. It can also mean ‘to figure something out’ or simply ‘out’ as in ‘going out’. It frequently appears in compound words and phrases."
+  "context": "The Estonian word 'välja' is an adverb that means 'out' or 'outside'. It's commonly used to indicate movement from inside to outside, similar to how we use 'out' in English. The word can be part of verb constructions like tule välja (come out), minge välja (go out), or used as a standalone command for someone to exit or come out."
 }

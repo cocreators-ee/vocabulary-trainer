@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on tietty ihminen",
-    "Tiedän tietyn asian",
-    "Se on jokin tietty juttu"
+    "Tämä on tietty asia.",
+    "Hän on aina tietty ajankohtiin.",
+    "Meidän pitäisi olla tiettyjä asiakkaita."
   ],
   "translation": [
     "certain",
     "specific",
-    "particular"
+    "sure",
+    "definite"
   ],
-  "context": "The word 'tietty' in Finnish is used to describe something that is specific, certain, or particular. It can be used in various contexts, such as when referring to a specific person, thing, or idea."
+  "context": "The Finnish word 'tietty' is an adjective that means certain, specific, sure or definite. It's used to indicate that something is known for sure or refers to a particular thing rather than general things. For example, 'Tämä on tietty asia' means 'This is a certain/specific matter'. When describing people, it can mean 'definite' or 'sure', as in 'Hän on aina tietty ajankohtiin' (He is always sure about timings). The word can be inflected for different grammatical cases and numbers - when pluralized to 'tiettyjä', it means 'certain ones' or 'specific ones'. It's commonly used both in everyday conversation and more formal contexts."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma küsin tema nime",
-    "Ta ei tahtnud mulle midagi küsida",
-    "Küsima on hea komme"
+    "Ma küsikselt sinult ühe küsimuse.",
+    "Kas sa võiksid mulle aidata küsida teavet?",
+    "Me peame küsima ta arvamust selle kohta."
   ],
   "translation": [
     "to ask",
-    "question"
+    "to request",
+    "to inquire"
   ],
-  "context": "The word kysima is commonly used in Estonian to mean asking someone something, and it can be used in various contexts such as inquiring about information or requesting clarification."
+  "context": "The Estonian word 'küsima' is a verb that means to ask or request something. It can be used in various contexts such as asking questions, requesting information, or inquiring about something. The word follows regular Estonian conjugation patterns and appears in different forms depending on the subject and tense."
 }

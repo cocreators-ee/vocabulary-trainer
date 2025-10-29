@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta viib mind vanglasse",
-    "Vangla on üsna suur",
-    "Vanglas elas ta kolm aastat"
+    "Mees oli vanglas kolm aastat.",
+    "Tüdruk nägi vanglat läbi akna.",
+    "Politsei viis kurjategija vanglasse."
   ],
   "translation": [
-    "prison",
-    "jail"
+    "in prison",
+    "in jail",
+    "in the detention center"
   ],
-  "context": "The word 'vanglas' in Estonian refers to a place where people are kept as a punishment for a crime, similar to the English words 'prison' or 'jail'."
+  "context": "The word 'vanglas' is an Estonian adessive case form of the word 'vangla', meaning 'prison' or 'jail'. The '-s' ending indicates location or state, so it translates to 'in prison' or 'in jail'. It's used when someone is physically located within a correctional facility."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõidan tööle.",
-    "Ta sõitis Tallinnasse.",
-    "Nad sõidavad jalgratastel."
+    "Ma sõidan autoga linna.",
+    "Ta ei sõida enam tööle.",
+    "Kas sa sõidad koju?"
   ],
   "translation": [
-    "to drive",
-    "to ride",
-    "to travel"
+    "drive",
+    "travel by vehicle",
+    "ride"
   ],
-  "context": "The word 'sõida' is commonly used in Estonian to mean driving or riding a vehicle, and can also be used to describe traveling from one place to another."
+  "context": "The word 'sõida' is an Estonian verb in the basic form (infinitive) that means to drive, travel by vehicle, or ride. It's a common action verb used when referring to operating a motor vehicle or traveling somewhere using transportation."
 }

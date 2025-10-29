@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta liigub kiiresti",
-    "Liikuda aeglaselt",
-    "Me liikume koos"
+    "Ma liikusin mööda tänavat.",
+    "Ta liikub kodus väga aeglaselt.",
+    "Lapsed liiguvad parkis mängimas."
   ],
   "translation": [
-    "move",
-    "walk",
-    "go"
+    "to move",
+    "to move about",
+    "to travel"
   ],
-  "context": "The word liikuda is commonly used in Estonian to describe the act of moving from one place to another, and can be translated to English as move, walk, or go, depending on the context."
+  "context": "The Estonian verb 'liikuda' means to move or travel. It's an infinitive form that can be conjugated into different tenses and aspects. The root 'liik-' relates to movement, and the '-uda' ending is typical for Estonian infinitives. This verb describes physical motion from one place to another, similar to English 'to move' but specifically focused on the action of moving itself rather than relocation."
 }

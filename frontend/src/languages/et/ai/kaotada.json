@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kaotan selle mängu",
-    "Ta kaotas kõik oma raha",
-    "Nad kaotavad oma kodu"
+    "Ei taha kaotada oma sõpra.",
+    "Meie meeskond võitis ja nad said kaotada.",
+    "Ta püüdis kaotada kogu oma raha."
   ],
   "translation": [
-    "lose",
-    "misplace"
+    "to lose",
+    "to miss (something)",
+    "to be defeated"
   ],
-  "context": "The word 'kaotada' in Estonian means to lose something or someone, and it is commonly used in everyday conversations to describe the act of misplacing an object or failing to win a game."
+  "context": "The Estonian word 'kaotada' is a verb that means to lose, to be defeated, or to miss something. It's commonly used in contexts where someone doesn't win a competition, loses possession of something, or fails to achieve something they were aiming for."
 }

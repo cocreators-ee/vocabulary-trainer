@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen teadlik sellest, et sa ütled tõesid.",
-    "Ta näeb, et ma juba midagi ütlen ja ta järeldab, et ma ütlen tõe.",
-    "Ma ei mõista, mida sa seal ütleksid."
+    "ütled alati seda sama asja",
+    "mis sa ütled?",
+    "ta ütleb, et tuleb hiljem"
   ],
   "translation": [
     "you say",
-    "you tell"
+    "you tell",
+    "you speak"
   ],
-  "context": "The word 'ütled' is the second person singular form of the verb 'ühe' which means 'to say' or 'to tell'. It is commonly used in everyday conversations to express what someone is saying."
+  "context": "\"Ütled\" is the second person singular present tense form of the Estonian verb \"ütelda/ütelda\" which means \"to say\" or \"to tell\". It specifically refers to what \"you\" are saying in the current moment. The word comes from the root \"üt-\" (related to speaking) and the ending \"-led\" indicates second person singular present tense."
 }

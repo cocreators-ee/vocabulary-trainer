@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on segaduses, mida ta tegelikult tahab.",
-    "Ma olen segaduses, kuidas seda lahendada.",
-    "Nende vahel valitseb suur segaduses."
+    "Ta oli segaduses.",
+    "Lapsed on täielikus segaduses.",
+    "Me peame lahendama segadused."
   ],
   "translation": [
-    "confusion",
-    "mess"
+    "in confusion",
+    "in a mess",
+    "disorderly"
   ],
-  "context": "The word 'segaduses' in Estonian refers to a state of confusion or disorder, where something is unclear or chaotic. It is commonly used to describe a situation where someone is unsure or puzzled about what to do or what is happening."
+  "context": "The word 'segaduses' is the Estonian inessive case form of 'segadus', meaning 'confusion' or 'mess'. It describes being in a state of disorder, chaos, or uncertainty. In the inessive case (-s ending), it indicates location within that state - someone/something is located inside confusion."
 }

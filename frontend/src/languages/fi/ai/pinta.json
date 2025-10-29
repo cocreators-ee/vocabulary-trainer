@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Pinta on tärkeä tekijä maalauksessa.",
-    "Vesipinta on rauhallinen.",
-    "Pinnan kiillottaminen vaatii taitoa."
+    "Pinta on siisti.",
+    "Tämä pinta on pehmeä.",
+    "Pinnoilla on pinta."
   ],
   "translation": [
     "surface",
-    "face"
+    "area",
+    "top layer"
   ],
-  "context": "The word pinta refers to the surface of an object, and it is commonly used in Finnish to describe the outer layer or appearance of something."
+  "context": "The Finnish word 'pinta' primarily means 'surface' or 'top layer'. It can refer to the physical surface of an object, such as the surface of a table or ground. As in the examples, it's used to describe characteristics like cleanliness ('siisti') and texture ('pehmeä'). The word is also used in compound words with '-pinta' meaning 'surface', and when pluralized (pinnoilla) means 'on surfaces'."
 }

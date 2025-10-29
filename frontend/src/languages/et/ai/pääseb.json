@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta pääseb tööle kell 10.",
-    "Ma pääsen koju varakult.",
-    "Me pääseme kinno homme."
+    "Ta pääseb kooli.",
+    "Tüdruk pääseb läbi akna.",
+    "Päev pääseb lõpule."
   ],
   "translation": [
-    "gets in",
-    "enters"
+    "gets through",
+    "manages to pass",
+    "enters",
+    "is able to"
   ],
-  "context": "The word 'pääseb' is a verb that means to get into or enter a place, and it is commonly used in Estonian language to describe the act of entering or accessing somewhere."
+  "context": "The word 'pääseb' is the 3rd person singular present tense form of the Estonian verb 'pääsma', which means 'to get through', 'to manage', or 'to enter'. It's commonly used when someone successfully passes an obstacle, achieves something difficult, or gains access to a place. The word can be translated as 'gets through', 'manages to', 'enters', or 'is able to' depending on the context."
 }

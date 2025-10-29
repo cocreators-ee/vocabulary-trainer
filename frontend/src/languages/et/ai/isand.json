@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema isand pidi tõestama raha omandamise illegaalsuseks.",
-    "Isadast saab kasu ainult siis, kui see on hea juhendaja.",
-    "Poiss ei julge end oma isanda ees väga hästi tundma."
+    "Isand käib poodi.",
+    "Tere tulemast, isand!",
+    "Vana isand oli väga hea mees."
   ],
   "translation": [
-    "father",
-    "daddy"
+    "sir",
+    "master",
+    "lord",
+    "gentleman"
   ],
-  "context": "The word 'isand' refers to a father or daddy. It's commonly used in family contexts and can also be used more formally or affectionately depending on the situation."
+  "context": "The Estonian word 'isand' is a masculine noun that means 'sir', 'master', 'lord', or 'gentleman'. It's used to address men respectfully, similar to how 'sir' is used in English. The word can be used as a form of address, referring to someone who has authority or status, or simply as a polite term for an adult male."
 }

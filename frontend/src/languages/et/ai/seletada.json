@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta seletas mulle asju, mida ma ei mõistnud.",
-    "Palun seleta see mulle veelkord.",
-    "Õpetaja seletas meile keerulisi teemasid."
+    "Ma seletasin talle selle mõiste.",
+    "Kas sa suudad seda paremini seletada?",
+    "Tegelikult pole midagi seletada."
   ],
   "translation": [
     "to explain",
-    "explain",
-    "clarify",
-    "elucidate"
+    "to clarify",
+    "to elucidate"
   ],
-  "context": "The Estonian word 'seletada' means 'to explain' or 'to clarify' something. It is commonly used when someone is making information understandable to another person, or detailing a process."
+  "context": "The Estonian word 'seletada' is a verb that means 'to explain' or 'to clarify'. It's used when providing information to make something understandable. The infinitive form is 'seletada', and it can be conjugated in different tenses like past tense 'seletasin' (I explained), present tense 'seletan' (I explain), and imperative form 'seleta!' (explain!)."
 }

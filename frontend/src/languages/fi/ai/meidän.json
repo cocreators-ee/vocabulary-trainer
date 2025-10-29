@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
     "Meidän talo on suuri.",
-    "Meidän auto on punainen.",
-    "Meidän ystävät tulevat illalla."
+    "He auttavat meidän perhettämme.",
+    "Tämä on meidään kirjasto."
   ],
   "translation": [
     "our",
-    "ours"
+    "of us",
+    "belonging to us"
   ],
-  "context": "The word meidän is a possessive pronoun in Finnish that means something belongs to us, and it is commonly used to express ownership or relationship."
+  "context": "The Finnish word 'meidän' is a possessive pronoun meaning 'our' or 'of us'. It indicates possession or belonging and agrees with the noun it modifies in number (singular/plural) but not in gender. This form specifically shows possession by the inclusive 'we' group."
 }

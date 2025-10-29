@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean paljusid asju.",
-    "Ta on õppinud paljusid keeli.",
-    "Paljusid inimesi käisid festivalil."
+    "Paljusid inimesi külastas muuseumis.",
+    "Ta oli paljusid kordi seal käinud.",
+    "Meie pere on paljusid aastaid elanud selles majas."
   ],
   "translation": [
     "many",
-    "a lot of"
+    "several",
+    "numerous"
   ],
-  "context": "The word 'paljusid' is used in Estonian to refer to a large quantity or amount of something, and it is commonly translated to English as 'many' or 'a lot of'."
+  "context": "The word 'paljusid' is the partitive plural form of the Estonian adjective 'palju', which means 'much/many'. The '-sid' ending indicates it's in the partitive case and plural number, commonly used with countable nouns to indicate quantity. This form appears when we're talking about many things or people, often as the object of a verb."
 }

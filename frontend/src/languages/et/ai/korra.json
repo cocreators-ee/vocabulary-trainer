@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen korra poodi.",
-    "See oli alles korra tehtud.",
-    "Kas sa võid seda korra üle vaadata?"
+    "Korra päeva tagasi tuli ta kodu.",
+    "Me peame korra tegema kõik selged.",
+    "Ta käis korra aastas pere juures."
   ],
   "translation": [
-    "time",
-    "occasion",
     "once",
-    "order"
+    "in order",
+    "orderly"
   ],
-  "context": "The Estonian word 'korra' is versatile and can mean 'time', 'occasion', or 'once'. It’s often used to indicate a single instance of something, or a brief period dedicated to an activity. In some contexts it also means 'order' as in sequence."
+  "context": "The Estonian word 'korra' is an adverb that means 'once' when referring to frequency or one time occurrence. It can also mean 'in order' or indicate something done in an orderly fashion. In the first sentence, it indicates a past event happened one day ago; in the second, it suggests doing things properly or systematically; and in the third, it shows periodic annual visits."
 }

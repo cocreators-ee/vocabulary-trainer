@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Talon monikko on talot.",
-    "Monikko on kieliopin osa.",
-    "Sanan monikko muodostetaan useimmiten lisäämällä sanan perään tietty päätteinen."
+    "Monikko on kielitieteessä sanaa tai ilmausta koskeva käsite.",
+    "Suomen kielessä monikolla tarkoitetaan usein sanamuotoja.",
+    "Lingvistiikan peruskäsitteisiin kuuluu monikon opettelu."
   ],
   "translation": [
     "plural",
-    "noun plural form"
+    "plural form"
   ],
-  "context": "The word monikko refers to the plural form of a noun in Finnish grammar, which is formed by adding specific suffixes to the end of the word."
+  "context": "In Finnish linguistics, 'monikko' refers to the plural form of a word or expression. It's one of the fundamental grammatical concepts in Finnish language studies, used to describe forms that indicate more than one thing or person. The concept is essential for understanding Finnish grammar as nouns and adjectives have specific plural forms."
 }

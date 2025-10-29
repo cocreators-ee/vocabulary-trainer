@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvan, et see on hea mõte",
-    "Arvasin, et ta on õige",
-    "Ta arvab, et ma olen vale"
+    "Ma arvan, et see on hea idee.",
+    "Tema ei arva nii.",
+    "Meie arvame, et peaksime minema."
   ],
   "translation": [
-    "think",
+    "I think",
     "believe",
     "suppose"
   ],
-  "context": "The word 'arvan' is the first person singular form of the verb 'arvama', which means to think or believe something. It is commonly used in Estonian language to express one's opinion or assumption about something."
+  "context": "The word 'arvan' is the first person singular present form of the Estonian verb 'arvama', which means to think or believe. It's commonly used to express one's opinion or assumption about something. In English, it can be translated as 'I think', 'I believe', or 'I suppose'. The word conjugates based on person and number: 'arvan' (I think), 'arvad' (you think), 'arvab' (he/she/it thinks), 'ame' (we think), 'ate' (you all think), 'avad' (they think)."
 }

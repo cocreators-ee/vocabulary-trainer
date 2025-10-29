@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kui sina pääsed selle kaudu, saab mina ka endale tee teha.",
-    "Ta otsustas, et ei pääse eksamit läbi ilma õppimata",
-    "Ma ei saa sind lubada, et sa pääseksid läbi igavalt"
+    "Tere tulemast! Pääsesin õigel ajal.",
+    "Ta ei pääsenud eksamilt vabalt.",
+    "Meie lapsed pääsevad kooli kell 8."
   ],
   "translation": [
-    "to pass",
-    "pass"
+    "to manage",
+    "to be able to",
+    "to succeed",
+    "to get through"
   ],
-  "context": "The word 'pääse' is the first person singular form of the verb 'to pass'. It can refer to moving forward through something or successfully completing a task such as an exam."
+  "context": "The Estonian word 'pääse' is the 3rd person singular present form of the verb 'pääsma'. It means to manage, to be able to, to succeed, or to get through something. This word typically indicates successful completion or achievement of access or passage."
 }

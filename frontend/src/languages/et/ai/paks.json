@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Paks vili tõi külma sisse.",
-    "Paks karusoo on mugav talvel.",
-    "Ta on paks ja rahulik mees."
+    "Tema on paks mees.",
+    "Naised said paksemad.",
+    "See on üsna paks raamat."
   ],
   "translation": [
-    "thick",
     "fat",
-    "stout"
+    "thick",
+    "chubby"
   ],
-  "context": "The word 'paks' in Estonian is used to describe something or someone that is thick, fat, or stout. It can be applied both literally, such as a thick carpet, and metaphorically, like describing a person's build."
+  "context": "In Estonian, 'paks' is an adjective that means both 'fat' (referring to a person's body size) and 'thick' (referring to physical dimensions). It can be used to describe people who are overweight or objects that have considerable thickness. The word changes form based on case, number, and gender - for example, 'paksem' is the comparative form meaning 'fatter' or 'thicker', while 'pakseim' would be the superlative form."
 }

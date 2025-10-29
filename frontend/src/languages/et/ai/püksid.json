@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma panin püksid pesumasina.",
-    "Tal on helesinised püksid.",
-    "Püksid on mu lemmikriided."
+    "Minu püksid on sinised.",
+    "Ta ei kandnud pükse.",
+    "Püksid on pesemisel."
   ],
   "translation": [
+    "trousers",
     "pants",
-    "trousers"
+    "jeans"
   ],
-  "context": "The word 'püksid' refers to an article of clothing that covers the legs, typically worn from the waist down, and is commonly used in everyday conversations about attire."
+  "context": "The word 'püksid' is the plural form of Estonian noun meaning trousers or pants. It's commonly used to refer to any type of leg covering garment worn below the waist, similar to English 'trousers' or 'pants'. In Estonian, this word belongs to a specific declension class and is always used in plural form when referring to this item of clothing."
 }

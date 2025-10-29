@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maja asus rannas.",
-    "Rannas oli palju inimesi.",
-    "Me jalutasime mööda rannas."
+    "Me oleme rannas.",
+    "Tüdrukud mängivad rannas.",
+    "Perekond käis rannas päevitamas."
   ],
   "translation": [
-    "coast",
-    "shore"
+    "at the beach",
+    "by the shore",
+    "on the coast"
   ],
-  "context": "The word 'rannas' is commonly used to refer to the coastal area or shoreline, often in the context of geography or travel."
+  "context": "The word 'rannas' is an Estonian inessive case form of 'rand' (beach/shore), indicating location or state being at/on the beach. It answers the question 'where?' and shows that someone or something is located at the seaside."
 }

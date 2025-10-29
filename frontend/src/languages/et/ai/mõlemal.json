@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõlemal poisil on hallid silmad.",
-    "Ta oskab mõlemat keelt.",
-    "Mõlemal koolil on oma spetsiifika."
+    "Mõlemad poisid said kingitused.",
+    "Nägin mõlemat poissi poes.",
+    "Mõlemal oli hea tuju."
   ],
   "translation": [
-    "both",
-    "each"
+    "both of them",
+    "on both",
+    "for both"
   ],
-  "context": "The word mõlemal is used in Estonian to mean both or each, and it is commonly used when referring to two things that have something in common."
+  "context": "The word 'mõlemal' is the adessive case form of 'mõlemad', which means 'both'. In Estonian, this case indicates location or position near something. So 'mõlemal' typically translates to 'at/on/for both' depending on context - it could refer to being at both places, having something for both people, or describing a state that applies to both of them."
 }

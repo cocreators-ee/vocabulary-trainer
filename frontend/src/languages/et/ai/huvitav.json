@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on huvitav raamat.",
-    "Ma olen huvitav isik.",
-    "Ta on väga huvitav inimene."
+    "See raamat on väga huvitav.",
+    "Seda filmi peeti üsna huvitavaks.",
+    "Huvitavad faktid meelitasid tähelepanu."
   ],
   "translation": [
-    "interesting"
+    "interesting",
+    "fascinating",
+    "curious"
   ],
-  "context": "The word 'huvitav' is an adjective that means something or someone is interesting or engaging, and it is commonly used to describe a person, thing, or situation that captures one's attention."
+  "context": "The Estonian word 'huvitav' is an adjective that describes something as interesting, fascinating, or curious. It's the positive form of the adjective and agrees in gender and number with the noun it modifies. The base form 'huvitav' is masculine singular, but it can take different endings for feminine ('huvitav'), plural ('huvitavad'), etc., depending on what it describes. The word comes from the root 'huvi' (interest) plus the suffix '-tav', which forms adjectives."
 }

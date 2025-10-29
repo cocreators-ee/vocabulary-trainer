@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Küsimuse vastus on lihtne.",
-    "Ta esitas küsimuse kohtunikele.",
-    "Olen väga huvitatud selle küsimuse vastusest."
+    "Kes küsis seda küsimust?",
+    "Tema vastas küsimusele hästi.",
+    "Meil on veel üks tähtis küsimus."
   ],
   "translation": [
     "question",
-    "issue"
+    "inquiry",
+    "query"
   ],
-  "context": "The word 'küsimuse' is a noun in Estonian that refers to a question or an issue, it is commonly used in formal and informal conversations to ask for clarification or to raise a topic for discussion."
+  "context": "The word 'küsimuse' is the genitive case of 'küsimus', meaning 'of the question' or 'belonging to the question'. In Estonian, the genitive case typically shows possession or relationship. The base form 'küsimus' means 'question', and when it takes the '-e' ending in genitive case, it indicates that something belongs to or is related to a question. This form would be used after certain prepositions or in possessive constructions."
 }

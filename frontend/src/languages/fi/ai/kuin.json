@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän on kuin äitinsä.",
-    "Elämä on kuin maratonjuoksu.",
-    "Tämä kirja on kuin unelma."
+    "Kuin kissa puussa.",
+    "Se on kuin unta.",
+    "Hän puhuu kuin suomalainen."
   ],
   "translation": [
-    "as",
     "like",
-    "than"
+    "as if",
+    "as though"
   ],
-  "context": "The word 'kuin' is a versatile conjunction in Finnish, primarily meaning 'as' or 'like' when making comparisons. It can also function similarly to 'than' in comparative sentences, though other constructions are more common for expressing direct comparison."
+  "context": "The Finnish word 'kuin' is a conjunction used for comparison. It functions similarly to English words like 'like', 'as if', or 'as when making comparisons between two things or describing something as being similar to something else. It's commonly used in everyday Finnish to express resemblance or similarity."
 }

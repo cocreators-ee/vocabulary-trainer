@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Opiskelija meni kirjastoon.",
-    "Opiskelijat tekevät paljon töitä.",
-    "Hän on opiskelija Helsingin yliopistossa."
+    "Opiskelijat lukevat kirjastossa.",
+    "Minä olen opiskelija.",
+    "Uusi opiskelija tuli kouluun."
   ],
   "translation": [
-    "student"
+    "student",
+    "pupil",
+    "learner"
   ],
-  "context": "The word 'opiskelija' refers to a person who is studying at a university or other educational institution, and it is commonly used in Finnish to describe someone who is pursuing higher education."
+  "context": "The Finnish word 'opiskelija' is a noun that refers to a person who studies, typically in an educational institution such as a university or college. It comes from the verb 'opiskella' (to study) and the suffix '-ja' which indicates a doer or agent of the action. The word can be used for students at any level of education but is most commonly associated with higher education. In Finnish, nouns have cases, so this word might appear in different forms depending on its grammatical role in a sentence (e.g., nominative case 'opiskelija', partitive case 'opiskelijaa', genitive case 'opiskelijan')."
 }

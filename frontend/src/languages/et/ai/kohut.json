@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kogu linna inimesed jääd kohutavate piltide eest silmitsi.",
-    "Ta kuulgas oli kohutavalt madal.",
-    "Olgu see siis kohut, aga meil on sellest mõnda õppida."
+    "Kohu all olev inimese tunded on mõned kõige tugevamad.",
+    "See kohustus tekitas mulle palju stressi.",
+    "Me peame täitma oma kohustusi."
   ],
   "translation": [
-    "terrible",
-    "awful",
-    "horrific"
+    "duty",
+    "obligation",
+    "responsibility"
   ],
-  "context": "The word 'kohut' is used to describe something that causes extreme horror or is very bad in a shocking way."
+  "context": "In Estonian, 'kohut' is a noun that refers to duty, obligation, or responsibility. It's the genitive singular form of the word 'kohus', which means 'duty' or 'obligation'. This form typically appears in contexts where something belongs to duty (e.g., 'kohu all' - under duty), expresses what is required by duty ('kohustus' - obligation derived from duty), or indicates possession of duties ('oma kohustusi' - one's own responsibilities)."
 }

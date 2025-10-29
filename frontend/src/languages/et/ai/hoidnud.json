@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hoidnud seda saladuses.",
-    "Ta on hoidnud oma sõprade ees hea maine.",
-    "Nende on hoidnud see saladus mitme aasta"
+    "Ta on hoidnud seda kinni nädalate viisi.",
+    "Hoidnud oma sõpru alati.",
+    "Meie hoidnud koos palju aega."
   ],
   "translation": [
+    "kept",
     "held",
-    "kept"
+    "maintained",
+    "preserved"
   ],
-  "context": "The word 'hoidnud' is the past participle form of the Estonian verb 'hoidma', which means to hold or keep something, and it is commonly used in the context of keeping something secret or holding onto something."
+  "context": "The word 'hoidnud' is the past participle form of the Estonian verb 'hoima', which means to keep, hold, maintain, or preserve. It indicates that an action of keeping or maintaining something was completed in the past."
 }

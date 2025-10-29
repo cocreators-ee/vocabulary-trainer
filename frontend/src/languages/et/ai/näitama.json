@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näitan sulle oma kodu.",
-    "Ta näitas mulle pildi.",
-    "Näitama tuleb uusi film."
+    "Ma näitan sulle kõike.",
+    "Näiteks ta näitas mulle oma uut kodu.",
+    "Me näitasime enda tööd."
   ],
   "translation": [
     "to show",
-    "display"
+    "to demonstrate",
+    "to exhibit"
   ],
-  "context": "The word 'näitama' is commonly used in Estonian to mean showing or displaying something to someone, often in a physical or visual sense."
+  "context": "The Estonian verb 'näitama' means 'to show, to demonstrate, or to exhibit'. It is a common verb used when presenting something to someone, displaying items, or demonstrating how something works. The word follows regular Estonian conjugation patterns and can be used in various tenses depending on the context of showing something."
 }

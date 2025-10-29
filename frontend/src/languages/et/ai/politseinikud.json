@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Politseinikud tulid kiiresti kohale.",
-    "Ta on üks parematest politseinikudest linna politseijuhatuses.",
-    "Politseinikud ei olnud valmis sellise olukorra vastuvõtmiseks."
+    "Politseinikud kontrollisid juhtimise mõju.",
+    "Politseinikud on meie linna kaitseks.",
+    "Politseinikud otsivad kadunud inimest."
   ],
   "translation": [
+    "police officers",
     "policemen",
-    "police officers"
+    "policewomen"
   ],
-  "context": "The word 'politseinikud' refers to police officers or policemen in English, and it is commonly used to describe law enforcement officials in Estonia."
+  "context": "The word 'politseinikud' is the plural form of 'politseinik' which means police officer. In Estonian, the '-d' ending indicates that it's referring to multiple police officers or the police force as a whole. It can refer to both male and female officers collectively."
 }

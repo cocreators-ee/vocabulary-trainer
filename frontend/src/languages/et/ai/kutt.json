@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mu kutt on väga nutikas.",
-    "Minu noorem küdru sõbrad tegid oma tütrega pilti.",
-    "Oma kutri juhited maailm ei muudunud."
+    "Kas sa näed kutti?",
+    "Meie linnas on palju kutte.",
+    "Lemmikloomana kutt võib olla väga armastav."
   ],
   "translation": [
-    "aunt (paternal)",
-    "male cousin"
+    "dog (female)",
+    "bitch",
+    "female dog"
   ],
-  "context": "The word \"kutt\" in Estonian refers to a paternal aunt or a male cousin. It is used when addressing or referring to these family members specifically within the context of one's father's siblings or their children."
+  "context": "In Estonian, 'kutt' specifically refers to a female dog. It's the feminine form of the word 'koer' which means dog in general. While it can literally translate to 'bitch' in English, this term is often considered offensive when referring to dogs in English, whereas 'kutt' is a neutral and commonly used term in Estonian to specify that you're talking about a female dog."
 }

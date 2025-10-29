@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Palun järgnege mulle.",
-    "Ta järgnes talle täiega.",
-    "Järgnevad sündmused olid ettearvamatud."
+    "Järgnege mind ära!",
+    "Palun järgnege oma juhtidele.",
+    "Meie küsimused järgnevad allpool."
   ],
   "translation": [
     "follow",
-    "accompany",
-    "subsequent"
+    "obey",
+    "come after"
   ],
-  "context": "The word 'järgnege' in Estonian means 'to follow' or 'to accompany' someone, and can also refer to something happening after another event. It is commonly used when giving instructions or describing a sequence of events."
+  "context": "The Estonian word 'järgnege' is the formal/plural imperative form of the verb 'järgnema', meaning to follow, obey, or come after. It's used when giving instructions to multiple people or in formal contexts to tell them to follow something or someone."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta muudab endale uue elu.",
-    "Muudab see asja oluliselt?",
-    "Me ei saa seda muuta."
+    "Muudan oma plaani.",
+    "Ta muutis oma arvamust.",
+    "Meie muudame kodu."
   ],
   "translation": [
     "changes",
-    "alters"
+    "alters",
+    "modifies"
   ],
-  "context": "The word muudab is a verb in Estonian that means to change or alter something, and it is commonly used in everyday conversations to describe making modifications or adjustments to something."
+  "context": "The word 'muudab' is the third person singular form of the Estonian verb 'muutma', which means 'to change'. It indicates that someone or something changes, alters, or modifies something. The verb is commonly used in everyday contexts to express transformation, modification, or alteration of plans, opinions, physical objects, situations, etc."
 }

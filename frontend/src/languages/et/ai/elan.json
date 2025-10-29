@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
     "Ma elan Tallinnas.",
-    "Ta elab Pariisis.",
-    "Nad elavad Londonis."
+    "Ta elab koos oma perega.",
+    "Me elame õnnelikult."
   ],
   "translation": [
     "live",
-    "reside"
+    "reside",
+    "dwell"
   ],
-  "context": "The word 'elan' is a verb in Estonian that means to live or reside somewhere, and it is commonly used to describe someone's place of residence or where they are currently living."
+  "context": "The word 'elan' is the first-person singular present form of the verb 'elama', which means 'to live'. It's used to express where someone currently resides. The root form 'elama' can be conjugated in different persons and tenses: 'elasin' (I lived), 'ela' (live! imperative), 'elanud' (lived/participle). In Estonian, the verb shows who is doing the action through its endings."
 }

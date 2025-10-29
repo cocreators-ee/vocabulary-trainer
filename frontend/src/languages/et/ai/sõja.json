@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sõja ajal oli toidupuudus.",
-    "Ta osaleb sõjas Ukrainas.",
-    "Sõja tõttu ei saanud ta koju naasta."
+    "Sõda on olnud inimkonnale suur tragöödia.",
+    "Talvel 1940. aastal algas sõja Eesti ja Nõukogude Liidu vahel.",
+    "Pärast pikka sõja oli riik hävinenud."
   ],
   "translation": [
     "war",
-    "of war"
+    "conflict"
   ],
-  "context": "The word 'sõja' in Estonian is a genitive form of the noun 'sõda', which means 'war'. It is commonly used to indicate something related to or belonging to war, such as consequences of war or participation in war."
+  "context": "The word 'sõja' appears to be the illative case form of the Estonian noun 'sõda', which means 'war'. The illative case in Estonian indicates motion into or toward something, so 'sõja' could mean 'into war' or 'to war'. It's used when referring to entering into a state of conflict or war."
 }

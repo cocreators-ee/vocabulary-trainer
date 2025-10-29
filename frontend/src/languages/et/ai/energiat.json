@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta töötab energiaettevõttes energiat tootva seadme operaatorina.",
-    "Energiat kasutatakse mitmel viisil.",
-    "Energia hinnad tõusid ja nüüd maksab energia rohkem kui enne."
+    "Ta vajab rohkem energiät.",
+    "Päikesest saame energiät.",
+    "See projekt nõuab palju energiät."
   ],
   "translation": [
-    "energy"
+    "energy",
+    "power"
   ],
-  "context": "The word energiat is the plural form of the Estonian word energia, which refers to energy as a physical or mental force. It can be used in various contexts such as physics, where it describes the ability to do work, or in everyday life, where it refers to the vitality or vigor of a person."
+  "context": "The word 'energiat' is the partitive case form of the Estonian noun 'energia'. In Estonian, the partitive case is used to indicate partial amount or indefinite quantity. So 'energiat' means 'some energy' or 'energy (in general)' rather than a specific amount. It's commonly used when talking about consuming, needing, or obtaining energy in an unspecified or partial sense."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta leiab oma kodu",
-    "Ma leian selle raamatu",
-    "Nad leidsid head lahenduse"
+    "Tüdruk leiab oma nukke.",
+    "Poisid leidsid kasti täie asju.",
+    "Me peame leidma paremaid lahendusi."
   ],
   "translation": [
     "finds",
-    "is finding",
-    "will find"
+    "find",
+    "discovering",
+    "discovery"
   ],
-  "context": "The word leiab is a verb in Estonian that means to find something, and it is commonly used in sentences to describe the act of discovering or locating an object or a place."
+  "context": "The Estonian word 'leiab' is the third person singular present form of the verb 'leidma', which means 'to find'. It is used when talking about what someone finds or discovers. The root form is 'leidma' and it follows regular conjugation patterns in Estonian."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma saan sõita koolis.",
-    "Ta said järele tulla.",
-    "Kas sa saad minna?"
+    "Saame homme kohtuda.",
+    "Ma ei saa täna tulema.",
+    "Tema sai kinga ostetud."
   ],
   "translation": [
     "to get",
-    "to obtain"
+    "to receive",
+    "to become",
+    "to manage to"
   ],
-  "context": "The word 'saama' is an infinitive verb in Estonian meaning 'to get' or 'to obtain'. It is used to express the action of acquiring something, receiving something, or achieving a result. The verb can be conjugated for different persons and tenses."
+  "context": "The Estonian verb 'saama' is highly versatile and commonly used. It can mean 'to get' or 'to receive' something, as in receiving a gift or information. It also means 'to become' when describing a change of state or profession. Additionally, it's used to express ability or possibility, similar to English 'can' or 'manage to', often with negative constructions like 'ei saa tulla' (cannot come). Its meaning varies significantly based on context and grammatical construction."
 }

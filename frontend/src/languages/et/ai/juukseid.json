@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on väga hea juukseid tegema.",
-    "Mul on pikad juukseid.",
-    "Juukseid on värvitud punaseks."
+    "Ta lõi juukseid.",
+    "Tema juuksed on pikad.",
+    "Lõikame juukseid."
   ],
   "translation": [
-    "hair"
+    "hair",
+    "locks of hair",
+    "strands of hair"
   ],
-  "context": "The word 'juukseid' refers to hair on a person's head, and it is commonly used in Estonian to describe someone's hairstyle or the act of cutting or styling hair."
+  "context": "The word 'juukseid' is the partitive form of 'juuksed', which means 'hair' in Estonian. In this form, it typically refers to individual strands or portions of hair rather than hair as a whole concept. The partitive case is used when talking about an unspecified amount or some of something, so 'juukseid' would translate to 'some hair' or refer to specific strands of hair."
 }

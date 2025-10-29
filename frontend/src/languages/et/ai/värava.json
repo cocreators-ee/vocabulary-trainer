@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mängija lõi palli väravasse.",
-    "Värava kaitse oli nõrk.",
-    "Meie meeskond kaitses enda väravat."
+    "Värava on suletud.",
+    "Avage värava palun.",
+    "Lapsed mängisid väravas."
   ],
   "translation": [
+    "door",
     "gate",
-    "goal"
+    "entrance"
   ],
-  "context": "The word 'värava' generally refers to a gate or goal, often used in the context of sports, particularly football, where it denotes the objective of scoring by kicking or heading the ball into the opponent's goal."
+  "context": "The Estonian word 'värava' is a noun that means door, gate, or entrance. It can refer to various types of openings in structures through which people enter or exit, similar to how we use 'door' or 'gate' in English."
 }

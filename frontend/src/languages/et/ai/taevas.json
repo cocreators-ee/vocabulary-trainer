@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Taeva alla ma ei käi",
-    "Taevas on sinine",
-    "Taevas on kaetud pilvedega"
+    "Taevas on sinine ja pilviline.",
+    "Päike paistab taevasest.",
+    "Me vaatleme tähti öösel taevas."
   ],
   "translation": [
-    "heaven",
-    "sky"
+    "sky",
+    "heaven"
   ],
-  "context": "The word 'taevas' in Estonian refers to the sky or heaven, and is commonly used to describe the atmosphere or the celestial realm."
+  "context": "The Estonian word 'taevas' can refer to both the physical sky (the expanse above the Earth) and heaven as a spiritual or religious concept. It's similar to how English uses 'sky' for the atmospheric space and 'heaven' for the divine realm, though 'taevas' can cover both meanings depending on context."
 }

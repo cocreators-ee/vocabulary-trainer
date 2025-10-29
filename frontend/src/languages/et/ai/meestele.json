@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Meestele on antud õigus sõita kiiresti.",
-    "Meestele meeldib jalgpall.",
-    "Meestele ei meeldi tantsida."
+    "Mees tuli mees telegraafi juurde.",
+    "Mees istus lauda ja vaatas raamatut.",
+    "Mees oli kodus."
   ],
   "translation": [
-    "to men",
-    "for men"
+    "man",
+    "male person",
+    "gentleman"
   ],
-  "context": "The word 'meestele' is a dative plural form of the Estonian word 'mees', which means 'man'. It is commonly used to indicate that something is intended for or directed towards men."
+  "context": "The word 'meestele' appears to be in the Estonian language. In Estonian, this is likely the allative case of the word 'mees', which means 'man'. The allative case in Estonian typically indicates motion towards or direction to something. So 'meestele' would mean 'to a man' or 'towards a man'. This form shows movement toward a male person."
 }

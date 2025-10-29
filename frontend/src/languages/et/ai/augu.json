@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta auku läheb lahti.",
-    "Auk on seinas.",
-    "Palun sulge aken ja auk."
+    "Töötajad on augu ümbruses.",
+    "Kassi augud olid täidetud.",
+    "Nägi augu teises otsas."
   ],
   "translation": [
     "hole",
-    "opening",
-    "gap"
+    "gap",
+    "opening"
   ],
-  "context": "The word 'augu' in Estonian refers to a physical opening or hole. It can be used literally, like a hole in the wall, or figuratively to describe an opening or gap in something else."
+  "context": "The Estonian word 'augu' is the partitive case form of the noun 'auk', which means a hole, gap, or opening. In English, it can refer to any type of hole in a surface, such as a hole in the ground, a hole in fabric, or a gap between objects. The partitive case indicates that something is partially related to or contained within the hole."
 }

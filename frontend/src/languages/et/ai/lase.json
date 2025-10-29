@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lase ta muusikasse",
-    "Lase mind rahule!",
-    "Ta lasi koera jalutama."
+    "Lase mind minema.",
+    "Laske meil läbi.",
+    "Tuleb laskma."
   ],
   "translation": [
     "let",
-    "allow"
+    "allow",
+    "permit"
   ],
-  "context": "The word 'lase' in Estonian means to let or allow something to happen, and it is commonly used in sentences to convey permission or giving someone freedom to do something."
+  "context": "The Estonian word 'lase' is the imperative singular form of the verb 'lasma', which means to let, allow, or permit someone to do something. It's used when giving permission in a direct command to one person."
 }

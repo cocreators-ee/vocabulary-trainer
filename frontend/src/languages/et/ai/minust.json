@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma teen midagi pidevalt minust.",
-    "Tema arvates on minust vaimu kõrgeimad inimesed.",
-    "Olen veendunud, et see ei lähe meile muidugi üldse minust."
+    "Minust on ilus päev.",
+    "Ta arvab minust palju.",
+    "Kas sa tunned minust midagi?"
   ],
   "translation": [
     "from me",
-    "of/from myself",
-    "myself"
+    "about me",
+    "in my opinion"
   ],
-  "context": "'Minust' is an Estonian word that means 'from me' or 'myself,' commonly used in expressions to show something done by oneself, originating from the self, or to indicate personal involvement or origin."
+  "context": "The Estonian word 'minust' is an elative case form of the pronoun 'mina' (I/me). It indicates movement away from, separation, or source. It can mean 'from me', 'about me', or 'in my opinion' depending on context. The '-st' ending is characteristic of the elative case in Estonian."
 }

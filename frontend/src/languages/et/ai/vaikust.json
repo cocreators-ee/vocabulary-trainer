@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis vaikust kaitsva asendisse.",
-    "Vaikust oli vaja selleks, et kontsentreerida.",
-    "Õpetaja palus vaikust klassis."
+    "Tegin ülesanne ja nüüd on vaikust.",
+    "Lapsed said karistuse ning nüüd valitseb vaikust.",
+    "Me ootame, et keegi ei rikuks vaikust."
   ],
   "translation": [
     "silence",
-    "quietness"
+    "quietness",
+    "stillness"
   ],
-  "context": "The word 'vaikust' in Estonian refers to the state of being quiet or silent, and is commonly used to describe a lack of noise or sound."
+  "context": "The word 'vaikust' is the partitive case form of the Estonian noun 'vaikus', which means 'silence' or 'quiet'. The -st ending indicates it's in the partitive case, often used to indicate partialness or indefinite quantity. In these sentences, it refers to a state of quiet or silence that exists in a particular context."
 }

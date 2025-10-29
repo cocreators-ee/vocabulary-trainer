@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Inimesed jäävad rahulikud.",
-    "See inimene on väga nutikas.",
-    "Isegi suur inimene võib teha vigu."
+    "Inimene on elusorganism.",
+    "Meie kõik oleme inimesed.",
+    "Inimeste arv maailmas kasvab."
   ],
   "translation": [
-    "person"
+    "human being",
+    "person",
+    "people"
   ],
-  "context": "The word 'inimene' means person. It is used to refer to a human being, typically an adult."
+  "context": "The word 'inimene' is the Estonian noun for 'human being' or 'person'. It's a common singular form of the word, with the plural form being 'inimesed'. In Estonian grammar, '-ne' is a typical ending for nouns referring to people. The word can be used in various contexts to refer to any human individual or humanity as a whole."
 }

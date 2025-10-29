@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on meister oma alal",
-    "Meistriks saamine võtab aega",
-    "Meister ei tee kunagi vigu"
+    "Ta on meister oma ala poolest.",
+    "Meisterlik esitus võitis kõigi hinnangu.",
+    "See töö tegi temast meistri."
   ],
   "translation": [
     "master",
-    "expert"
+    "expert",
+    "skilled worker",
+    "champion"
   ],
-  "context": "The word meister refers to a person who has achieved a high level of skill or expertise in a particular field or activity, and is commonly used to describe someone who is highly skilled or accomplished."
+  "context": "In Estonian, 'meister' is a noun that refers to a master or expert in a particular field. It can be used for someone who has reached the highest level of skill in their profession or craft, similar to how it's used in English but with strong connotations of expertise and mastery rather than just being an ordinary professional."
 }

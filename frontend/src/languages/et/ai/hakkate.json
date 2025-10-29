@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma hakkasin teha oma kodutõó.",
-    "Ta hakkab juba tundma koolis.",
-    "Hakkate juba trenni tegema?"
+    "Hakkate kohe lahkuma?",
+    "Kuidas hakkate tööga?",
+    "Tema hakkati õppima uusi oskuseid."
   ],
   "translation": [
-    "start to do",
-    "begin to"
+    "you (plural) start/begin",
+    "you (plural) begin to",
+    "you (plural) are about to"
   ],
-  "context": "The verb 'hakkata' means to start or begin doing something. It is often used in the second person plural form 'hakkate', which translates to 'you all are starting/beginning'."
+  "context": "Hakkate is the 2nd person plural present tense form of the Estonian verb 'hakata', which means 'to start' or 'to begin'. It's used when addressing a group of people and indicates that they are starting some action or process. The word carries the meaning of initiating an activity, often implying a transition from one state to another."
 }

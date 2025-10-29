@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kandis valgeid pükse.",
-    "Valged linnud lendasid taeva all.",
-    "Kõik valged asjad on müügis."
+    "Valged on kaunid lilledega.",
+    "Ma tahan valgete kardinatega tuba.",
+    "Lapsed jooksevad valges pargis."
   ],
   "translation": [
     "white",
     "whites"
   ],
-  "context": "The word 'valged' is an adjective in Estonian that means white, and it is commonly used to describe objects or people that have a white color."
+  "context": "The word 'valged' is the plural nominative form of the adjective 'valge' meaning 'white' in Estonian. It describes multiple objects that are white in color. The '-d' ending indicates it's in plural form, and since there's no case marker after this, it's in nominative case (the basic dictionary form)."
 }

@@ -1,14 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olemme iloisia sairaalassa.",
-    "Olemme menossa autolla.",
-    "Kotiin olemme päästy tänään."
+    "Olemme kotona.",
+    "He ovat meillä ja olemme yhdessä.",
+    "Kunnes olemme valmiita lähteä."
   ],
   "translation": [
-    "we are",
-    "we're"
+    "we are"
   ],
-  "context": "We are is a Finnish phrase used to express that the speaker and others are in a certain state or doing something. It's commonly used when describing actions, feelings, or locations involving 'we' (the first person plural)."
+  "context": "The Finnish word 'olemme' is the 1st person plural present tense form of the verb 'olla', which means 'to be'. It translates to English as 'we are'. This form indicates that the speaker(s) and possibly others currently exist or are in a particular state. The '-mme' ending indicates first person plural (we) subject, while the '-e-' represents the present tense marker."
 }

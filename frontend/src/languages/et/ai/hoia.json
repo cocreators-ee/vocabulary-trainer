@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma hoian seda raamatu.",
-    "Ta hoiab koera.",
-    "Nad hoivad last."
+    "Hoia mind kätt!",
+    "Ta hoias last käest.",
+    "Me peame hoidma oma sõpru."
   ],
   "translation": [
-    "keep",
     "hold",
-    "protect"
+    "keep",
+    "maintain"
   ],
-  "context": "The word 'hoia' in Estonian means to keep or hold something, and it can also imply protection or preservation, commonly used in various contexts such as keeping a secret, holding an object, or protecting someone or something."
+  "context": "The Estonian word 'hoia' is the imperative form of the verb 'hoida', meaning 'to hold'. It's used to instruct someone to keep something in their hands or maintain a position. The basic verb 'hoida' means to hold, keep, maintain, or preserve. In different contexts it can mean physical holding (like holding hands), keeping something safe, maintaining a state, or preserving something."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mulle meeldib kaupa käia.",
-    "Ta on hea kaupa tegema.",
-    "Ma ostan selle kaupa internetist."
+    "Tere tulemast kaupadesse!",
+    "Me ostame palju kaupa.",
+    "See on hea kauba liik."
   ],
   "translation": [
-    "shopping",
-    "trade"
+    "goods",
+    "merchandise",
+    "products"
   ],
-  "context": "The word 'kaupa' in Estonian generally refers to the act of shopping or trading, where goods or services are exchanged for money or other forms of compensation. It is often used in various contexts such as going shopping, engaging in trade, or purchasing something online."
+  "context": "The word 'kaupa' in Estonian is the partitive form of 'kaub', which means goods, merchandise, or products. It's used to refer to items being bought, sold, or discussed as commercial products. The partitive case indicates an incomplete or indefinite quantity of something."
 }

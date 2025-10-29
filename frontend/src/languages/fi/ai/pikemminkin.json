@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän on pikemminkin väsynyt kuin nukuessaan",
-    "Pikemminkin hänen täytyy olla hereillä",
-    "Olen pikemminkin huolissani lapsen terveydestä"
+    "Hän valitsi pikemminkin kävellä kuin käyttää bussia.",
+    "Pikemminkin olen kotona kuin ulkona pakkasessa.",
+    "Ensin yritin ohjelmoa, mutta pikemminkin tein piirustuksia."
   ],
   "translation": [
     "rather",
-    "more likely"
+    "preferably",
+    "sooner"
   ],
-  "context": "The word 'pikemminkin' is used in Finnish to indicate a preference or likelihood for something, often translated to English as 'rather' or 'more likely'."
+  "context": "The Finnish word 'pikemminkin' is an adverb meaning 'rather' or 'preferably'. It's used to express a preference for one option over another, often in comparative contexts. The word consists of 'pikeä' (fast/quick) combined with the comparative suffix '-mminkin', which creates a nuanced expression of preference that goes beyond simple speed comparison."
 }

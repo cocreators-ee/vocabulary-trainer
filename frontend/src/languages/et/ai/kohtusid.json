@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kohtusin oma ema teel kooli.",
-    "Meie meeskond kohtus vastaste meeskonnaga turniiril.",
-    "Ta kohtusid oma vana sõbraga pärast aastakümneid."
+    "Kohtusime eile vanas linnuses.",
+    "Nad kohtusid kohvikus kell kolm.",
+    "Meie kohtumine on täna õhtul."
   ],
   "translation": [
     "met",
     "met with",
-    "encountered"
+    "encountered",
+    "came across"
   ],
-  "context": "The word 'kohtusid' is the past tense second person singular form of the verb 'kohtuda', which means to meet or encounter. It is commonly used in everyday situations, such as meeting someone by chance or arranging a meeting."
+  "context": "The word 'kohtusid' is the past tense plural form of the Estonian verb 'kohtuma', which means to meet or encounter. It specifically refers to multiple people meeting each other in the past. The root form 'kohtu-' relates to meeting points or places where people gather, and the '-sid' suffix indicates past tense plural conjugation."
 }

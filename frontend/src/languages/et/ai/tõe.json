@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin tõe.",
-    "Tõe on raske leida.",
-    "Ta rääkis tõe."
+    "Tõde on ilus asi.",
+    "Me otsime tõde.",
+    "See ei ole tõde."
   ],
   "translation": [
-    "truth"
+    "truth",
+    "fact",
+    "reality"
   ],
-  "context": "The word 'tõe' is a form of the Estonian word for truth, often used to refer to a fact or reality."
+  "context": "The Estonian word 'tõe' is the genitive singular form of 'tõde', which means 'truth'. In Estonian grammar, the genitive case typically indicates possession or relationship, so 'tõe' literally means 'of truth' or 'belonging to truth'. This form is commonly used in contexts where something belongs to or relates to truth. The root word 'tõde' is a feminine noun that refers to the concept of truth as an abstract quality."
 }

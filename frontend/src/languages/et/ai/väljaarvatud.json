@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen väljaarvatud sellest tööst.",
-    "Ta oli väljaarvatud kandidaatide hulgast.",
-    "Väljaarvatud inimesed said erilist kohtlemist."
+    "Kõik need asjad on väljaarvatud.",
+    "See tulemus on väljaarvatud erandist.",
+    "Väljaarvatud olid ka mõned teised tegurid."
   ],
   "translation": [
-    "except",
+    "except for",
     "excluding",
-    "excluding from"
+    "with the exception of"
   ],
-  "context": "The word \"väljaarvatud\" is used to indicate exclusion or exception from something, similar to the English preposition \"except\" or verb \"excluding\"."
+  "context": "The Estonian word 'väljaarvatud' is a past participle form meaning 'excluded' or 'left out'. It comes from the verb väljama (to leave, to exit) plus the particle arvata (to consider, to count). As a passive construction, it indicates that something has been left out or excluded from consideration. This word is commonly used in contexts where exceptions are being specified, such as 'all things except...' constructions."
 }

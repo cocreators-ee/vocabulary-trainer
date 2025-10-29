@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea poiss.",
-    "Poissid mängivad jalgpalli.",
-    "See poiss on minu sõber."
+    "Poissi jooksis mööda tänavat.",
+    "Ma nägin poissi koolis.",
+    "Lapsed mängisid poissiga."
   ],
   "translation": [
-    "boy",
-    "lad"
+    "boy (partitive case)",
+    "young male child"
   ],
-  "context": "The word 'poiss' in Estonian refers to a young male person, typically below the age of 18, and is commonly used to describe someone who is still in their childhood or teenage years."
+  "context": "The word 'poissi' is the partitive singular form of the Estonian noun 'poiss', which means 'boy'. The partitive case in Estonian is used to indicate partialness, indefiniteness, or object status. In this form, it would typically be used as the direct object of a verb or to express an incomplete action. For example, 'Nägin poissi' means 'I saw (a) boy', where the partitive indicates that we're talking about some unspecified boy."
 }

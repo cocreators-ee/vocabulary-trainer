@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Meil on palju kotte täis riideid.",
-    "Ta võttis poest kaks suurt kotti.",
-    "See kotikas on väga praktiline."
+    "Kotid on pesu jaoks hästi sobivad.",
+    "Ostan uusi kotid kauplusest.",
+    "Tema kõik kotid olid täis kingitusi."
   ],
   "translation": [
     "bags",
-    "sacks",
-    "pouches"
+    "sacks"
   ],
-  "context": "The word 'kotid' in Estonian refers to multiple bags or sacks, used for carrying items. It is a plural form of the noun 'kott', which simply means 'bag'. In English, it’s commonly used to describe containers made of cloth, paper, plastic, or other materials."
+  "context": "The word 'kotid' is the plural form of the Estonian noun 'kott', which means bag or sack. It refers to containers made of flexible material used for carrying things. In Estonian, words ending in '-id' typically indicate plural form, so 'kotid' specifically means multiple bags or sacks."
 }

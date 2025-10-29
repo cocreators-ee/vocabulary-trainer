@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Meie eesmärk on saavutada kõrgeimad tulemused.",
-    "Ta selgitas oma uue eesmärgi.",
-    "Eesmärk ei ole alati lihtne."
+    "Eesmärgi saavutamiseks peame tööle pühenduma.",
+    "Tal oli selge eesmärk oma karjääri arendada.",
+    "Meie eesmärk on parandada teenuse kvaliteeti."
   ],
   "translation": [
     "goal",
-    "objective"
+    "aim",
+    "purpose"
   ],
-  "context": "Used to express a purpose or target one is aiming to achieve, commonly in personal, professional, or project contexts."
+  "context": "Eesmärk is an Estonian noun that means 'goal', 'aim', or 'purpose'. It refers to the intended outcome or objective that someone wants to achieve. The word can be used in various contexts, from personal aspirations (like career goals) to organizational objectives. In Estonian grammar, it's a common masculine noun ending with '-k' which is typical for many abstract concepts."
 }

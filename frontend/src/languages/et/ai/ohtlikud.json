@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ohtlikud olukordaded on tihti traagilised.",
-    "Ta oli ohtlik mees.",
-    "Need tegevused on ohtlikud inimelu ja tervise jaoks."
+    "Ohtlikud asjad võivad põhjustada vigastusi.",
+    "Tema käitumine on ohtlikud lastele.",
+    "Me peame vältima ohtlikud olukordi."
   ],
   "translation": [
-    "hazardous",
     "dangerous",
-    "perilous"
+    "hazardous",
+    "risky"
   ],
-  "context": "The word 'ohtlikud' is an adjective in Estonian that means something or someone is dangerous or poses a threat to others, and it is commonly used to describe situations or activities that could potentially cause harm."
+  "context": "The word 'ohtlikud' is the plural nominative form of the adjective 'ohtlik', meaning dangerous or hazardous. It describes things that pose a threat, risk, or potential harm to people or property. The '-d' ending indicates it's in plural form, and since there's no genitive case marker like '-de' or '-da', this appears to be the nominative plural case used when the dangerous things are the subject of the sentence."
 }

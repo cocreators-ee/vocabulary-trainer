@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sai aru, et asjad on hästi",
-    "Asi on selge",
-    "Need asjad ei ole minu meelest olulised"
+    "Asjad on laual.",
+    "Tema korjab oma asju üles.",
+    "Meie asjad on selgelt nähtavad."
   ],
   "translation": [
     "things",
-    "stuff",
-    "affairs"
+    "items",
+    "belongings"
   ],
-  "context": "The word 'asjad' in Estonian generally refers to things or objects, and is often used in a broad sense to describe a collection of items or a situation."
+  "context": "The word 'asjad' is the plural form of Estonian noun 'asi', which means 'thing'. In Estonian, nouns ending in '-d' typically indicate plural forms. The word 'asjad' refers to multiple objects or items belonging to someone or something. It can be translated as 'things', 'items', or 'belongings' depending on the context. This is a common everyday word used when referring to personal possessions, household items, or general objects."
 }

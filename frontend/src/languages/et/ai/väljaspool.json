@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen väljaspool tööaega",
-    "Ta elab väljaspool linna",
-    "Väljaspool riigi piire on keelatud"
+    "Töötab väljaspool linnu.",
+    "Me elame väljaspool kesklinna.",
+    "See hoone on väljaspool kaitseala."
   ],
   "translation": [
     "outside",
-    "out of bounds"
+    "out of",
+    "beyond"
   ],
-  "context": "The word 'väljaspool' is commonly used in Estonian to indicate something or someone being outside of a certain area, boundary or time frame."
+  "context": "The Estonian word 'väljaspool' is a preposition that means 'outside' or 'out of'. It indicates location outside a particular area, boundary, or limit. The word consists of 'välja-' meaning 'out' and the postposition '-sPool' indicating place or space. It's used to specify being external to something physical like a building, city, or abstract areas like protection zones."
 }

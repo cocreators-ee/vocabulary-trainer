@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Oled sa saatsinud tänaseks oma last kooli?",
-    "Ta saatsid mind kindlustama, et olen hästi.",
-    "Kas sa saatsid selle meile juba eelmisel nädalal?"
+    "Saatsid mulle e-kirja?",
+    "Tüdruk saatis meile kingi.",
+    "Meie isa saadi täna varakult töölt."
   ],
   "translation": [
-    "send",
-    "sent (past tense)"
+    "sent",
+    "delivered",
+    "dispatched"
   ],
-  "context": "'saatsid' is the second person singular past tense of 'saata', which means to send. It can refer to sending a message, an email, or even a person somewhere."
+  "context": "The Estonian word 'saatsid' is the second person singular past tense form of the verb 'saata', which means 'to send'. It specifically refers to an action that was performed by 'you' in the past. The word follows Estonian conjugation patterns where verbs change their endings based on the subject and tense."
 }

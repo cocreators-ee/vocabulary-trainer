@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tabas mind üllatas.",
-    "See oli tabas otsa peale.",
-    "Sa tabasid täppi!"
+    "Täna tabas meid õnnetus.",
+    "Jooksja tabas joone esimesena.",
+    "Pilt tabas vaatajat sügavalt."
   ],
   "translation": [
     "hit",
-    "strike",
-    "impact",
-    "touch"
+    "struck",
+    "reached",
+    "affected"
   ],
-  "context": "The Estonian word 'tabas' generally translates to 'hit' or 'strike' in English. It can refer to physically hitting something, but also to achieving a goal or being exactly right – like ‘hitting the mark’. It’s often used in contexts where something makes an impression or has an effect."
+  "context": "The Estonian word 'tabas' is the past tense third-person singular form of the verb 'tabama', which means to hit, strike, reach or affect something. It indicates that an action of hitting, striking, reaching, or affecting occurred in the past directed at a target."
 }

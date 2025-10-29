@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma töötasin kogu päeva.",
-    "Ta töötab üksi.",
-    "Nad töötasid koos."
+    "Töötas ta eile kõik päevad.",
+    "Mina töötasin nädala jooksul palju tundi.",
+    "Tema töötas suvekuu jooksul pühapäevalti."
   ],
   "translation": [
     "worked",
-    "was working",
-    "used to work"
+    "was working"
   ],
-  "context": "The word töötas is the simple past tense of the verb töötama, which means to work. It is commonly used in Estonian to describe a completed action of working in the past."
+  "context": "The word 'töötas' is the past tense singular form of the Estonian verb 'töötama', which means 'to work'. It indicates that someone worked in the past. The verb can be conjugated for different persons and tenses, with 'töötas' specifically meaning 'he/she/it worked' or 'one worked'."
 }

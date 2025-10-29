@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks segamini oma asjadega.",
-    "Meie plaanid said segamini viimase hetkel.",
-    "See lugu on mul peas segamini."
+    "Ta on segamini omaenda töödega.",
+    "Lapsed jooksid segamini pargis.",
+    "Ma ei saa segamini mõelda, kuidas see toimub."
   ],
   "translation": [
-    "mixed up",
     "confused",
     "in a mess",
-    "disordered"
+    "disorganized",
+    "mixed up"
   ],
-  "context": "The word 'segamini' in Estonian describes a state of disarray, confusion, or being mixed up. It can refer to physical objects being disorganized or to someone’s thoughts being jumbled. In English, it is similar to saying something is ‘all over the place’ or ‘a mess’."
+  "context": "The Estonian word 'segamini' is an adverb that describes a state of being confused, disorganized, or in a mess. It's derived from the root word 'sega-' (meaning mixed) and the suffix '-mini', indicating a resulting state. When someone is 'segamini', they are unable to think clearly or organize their thoughts/actions properly. This word can be used to describe both mental confusion ('Ta on segamini omaenda töödega' - He is confused about his own work) and physical disorganization ('Lapsed jooksid segamini pargis' - The children were running around in a mess/disorganized way in the park)."
 }

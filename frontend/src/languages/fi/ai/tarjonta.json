@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Markkinointi vaikuttaa tarjonnan saataville asettamiin hinnoille.",
-    "Tarjonta on suurelta osin riippuvainen tuotanto- ja jalostusteollisuuden kehittymisestä.",
-    "Kysynnän ja tarjonnan tasapaino on olennainen tekijä markkinataloudessa."
+    "Kauppojen tarjonta on nyt laajempaa kuin ennen.",
+    "Tämä ravintolan ruokatarjonta vaikuttaa mielenkiintoiselta.",
+    "Taloyhtiön asuntotarjontaan kuului neljä erilaista perheasuntoa."
   ],
   "translation": [
-    "supply",
-    "offer"
+    "selection",
+    "range of products/services",
+    "offering"
   ],
-  "context": "The word 'tarjonta' refers to the total amount of a particular product or service that is available for purchase or use at any given time, and it plays a crucial role in determining prices and resource allocation in a market economy."
+  "context": "The Finnish word 'tarjonta' refers to the range or variety of goods, services, or options that are available for people to choose from. It's commonly used in commercial contexts to describe what shops, restaurants, companies, or other organizations have to offer customers. The word comes from the verb 'tarjota' (to offer), and 'tarjonta' represents the noun form meaning 'offering' or 'assortment'."
 }

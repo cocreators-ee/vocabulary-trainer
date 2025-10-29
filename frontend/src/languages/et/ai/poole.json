@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen poole teed.",
-    "Ta on pooleldi valmis.",
-    "Poole tunni pärast tuleb buss."
+    "Tema jooksis poole tunni aja.",
+    "Me oleme poole teel koju.",
+    "Ta tegi töö poolepäevaks."
   ],
   "translation": [
-    "toward",
+    "half",
     "towards",
-    "halfway"
+    "for half",
+    "by"
   ],
-  "context": "The word 'poole' in Estonian generally indicates direction or a midpoint, commonly used to describe movement towards something or being halfway through an action or process."
+  "context": "The Estonian word 'poole' is an adessive case form that typically means 'half', 'towards', or indicates a duration or direction. It's commonly used to express time (half hour), distance (halfway), or purpose (for half the day). The word can also indicate movement toward something when used with motion verbs."
 }

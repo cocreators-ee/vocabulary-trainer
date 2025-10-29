@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ütles, et see oli mõttetu.",
-    "Mõttetud tegu on see, mis pole kasulik.",
-    "Ma arvan, et see on liiga mõttetu."
+    "See mõttetu tegevus ei anna midagi head.",
+    "Tema kommentaar oli täielikult mõttetu.",
+    "Mõtlemine selle üle on täiesti mõttetu."
   ],
   "translation": [
-    "meaningless",
-    "senseless",
-    "pointless"
+    "useless",
+    "pointless",
+    "futile",
+    "senseless"
   ],
-  "context": "The word 'mõttetu' in Estonian means something that lacks meaning or purpose, and is commonly used to describe actions, ideas, or situations that are considered futile or without value."
+  "context": "The word 'mõttetu' is an adjective in Estonian that describes something as being without meaning, purpose, or value. It can be translated to English words like 'useless', 'pointless', or 'futile'. The word is formed from the noun 'mõte' (meaning/thought) with the suffix '-tu', which typically indicates a state of being without something. In Estonian grammar, adjectives like this would decline based on case, number, and gender in context."
 }

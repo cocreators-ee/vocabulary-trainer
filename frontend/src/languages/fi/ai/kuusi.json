@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kuusille ei ole aikuisen kuume.",
-    "Metsässä kasvaa vanha kuusi.",
-    "Kuusi on suosittu maa- ja rakennusaine."
+    "Kuusi on kaunis puu.",
+    "Olemme kuusihenkilöisessä ryhmässä.",
+    "Näin kuusi joulukuuta."
   ],
   "translation": [
-    "Yew tree",
-    "yew"
+    "six",
+    "spruce tree",
+    "Christmas"
   ],
-  "context": "The Finnish word 'kuusi' translates to English as 'yew'. It's a type of evergreen coniferous tree known for its needle-like leaves and red berries. Commonly found in forests, it is also used in construction due to its durability."
+  "context": "The Finnish word 'kuusi' has three common meanings: 1) the number six, 2) a spruce tree (Christmas tree), and 3) referring to Christmas month. The context determines which meaning is intended. As 'kuusi', it's nominative singular form. In other forms like 'kuutta' (partitive), it means 'six of something'. When used with 'joulukuussa' (in December), it specifically refers to Christmas."
 }

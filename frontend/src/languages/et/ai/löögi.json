@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta andis talle löögi",
-    "Löögid olid väga tugevad",
-    "Löök oli nii tugev, et ta kukkus maha"
+    "Tegin löögi käega.",
+    "Ta sai löögi pea küljele.",
+    "Meie meeskond tegi võidulöögi."
   ],
   "translation": [
     "blow",
     "hit",
-    "punch"
+    "strike"
   ],
-  "context": "The word 'löögi' in Estonian generally means a physical strike or impact, and it is commonly used to describe an act of hitting or punching someone or something."
+  "context": "The Estonian word 'löögi' is the genitive singular form of the noun 'löök', which means a blow or strike. It indicates something that belongs to, comes from, or relates to a blow/strike. In English translations, it can correspond to phrases like 'of a blow,' 'from a hit,' or simply be translated as 'blow'/'hit' depending on context. The word appears in contexts describing physical impacts, sports moves, or figurative strikes."
 }

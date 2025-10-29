@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen koos tema",
-    "Nad on koos",
-    "Koos sinuga"
+    "Me koos lähme kinno.",
+    "Tüdrukud said hästi läbi ja elasid koos.",
+    "Kõik nad töötasid koos sellel projektil."
   ],
   "translation": [
     "together",
-    "along with"
+    "jointly",
+    "with"
   ],
-  "context": "The word 'koos' is commonly used in Estonian to mean together or along with someone, indicating accompaniment or association."
+  "context": "The Estonian word 'koos' is an adverb that means 'together'. It's used to indicate that people or things are in the company of each other, acting jointly, or sharing something. In grammar, it typically appears before verbs or after certain cases. For example, when saying 'we go together', you would say 'me koos lähme' where 'koos' modifies the verb 'lähme' (we go)."
 }

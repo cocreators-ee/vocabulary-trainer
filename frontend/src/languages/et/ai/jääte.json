@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Jäätmekaitse on oluline keskkonna kaitseks.",
-    "Ta käis jäätmehallakutel koos sõpradega.",
-    "Jäätme püük on üks võimalik lahendus."
+    "Palun jääte oma kohale.",
+    "Jäete palun oma istumiskohtadele.",
+    "Mida te soovite ette jätta?"
   ],
   "translation": [
-    "waste",
-    "garbage"
+    "stay",
+    "remain",
+    "leave behind"
   ],
-  "context": "The word 'jääte' in Estonian generally refers to waste or garbage, and is commonly used when discussing environmental protection and waste management."
+  "context": "The word 'jääte' is the plural second person imperative form of the verb 'jääma' in Estonian. It means 'stay!' or 'remain!' when used as a command to multiple people. In other contexts, it can also mean 'leave behind' depending on the sentence structure."
 }

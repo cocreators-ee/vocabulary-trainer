@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahtsin seda filmi vaata",
-    "Sa tahtsid mind petta",
-    "Meie tahtsime koos minna"
+    "Tahtsin homme käia kinno.",
+    "Tahtsid sa minuga koos käia?",
+    "Me tahtsime oma perega aega veeta."
   ],
   "translation": [
     "wanted",
-    "wished"
+    "wished for",
+    "desired"
   ],
-  "context": "The word 'tahtsid' is the second person singular past tense form of the verb 'tahma', which means to want or wish for something, and it is commonly used in sentences to express a desire or intention in the past."
+  "context": "The word 'tahtsid' is the past tense, plural form of the Estonian verb 'tahma', which means to want or wish. It is specifically used in the second person singular (you) and plural (you all) forms in the past tense. This word appears frequently in everyday conversation when expressing desires, wishes, or wants that someone had in the past."
 }

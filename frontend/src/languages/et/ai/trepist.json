@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta trepib järjatu kodusse.",
-    "Minu broneeritud trepi oli tõesti suurepärase kvaliteediga.",
-    "Trepis saab väga rahu leida."
+    "Trepist on kaks inimest.",
+    "Kõrgelt trepist saab vaadata linnu.",
+    "Põgenemisel läksid nad trepist alla."
   ],
   "translation": [
-    "stairs",
-    "staircase"
+    "from the stairs",
+    "off the stairs"
   ],
-  "context": "The word 'trepist' in Estonian is the first person singular, present tense of the verb 'trepib', meaning to go up or down stairs. It can also refer to a staircase itself depending on context."
+  "context": "The Estonian word 'trepist' is an elative case form of the noun 'trepp', meaning 'stairs'. The '-st' ending indicates that something is coming from or originating from the stairs. It's used to show movement away from or position relative to stairs."
 }

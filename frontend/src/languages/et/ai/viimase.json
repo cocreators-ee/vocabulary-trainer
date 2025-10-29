@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on viimase aasta jooksul olnud väga edukas.",
-    "Viimase kuu jooksul on toimunud palju muudatusi.",
-    "See on viimase sajandi üks suurimaid avastusi."
+    "Ta ostis viimase koha kinopiletid.",
+    "Ma nägin viimast filmi eile.",
+    "See on viimane võimalus."
   ],
   "translation": [
-    "latest",
     "last",
-    "recent"
+    "final",
+    "latest"
   ],
-  "context": "The word 'viimase' in Estonian is used to describe something that has happened recently or is the most recent in a series of events. It can be translated to English as 'latest', 'last', or 'recent', depending on the context."
+  "context": "The word 'viimase' is the partitive case form of 'viimane', which means 'last' or 'final'. In Estonian, adjectives change their endings based on the grammatical case. The partitive case (-se ending) is used to indicate partiality, indefiniteness, or when referring to a quantity of something. So 'viimase' specifically refers to 'the last one (of many)' or 'a final instance' rather than definitively 'the very last'."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta lõikas leiba.",
-    "Lõika see paber pooleks.",
-    "Sa pead juuksuris oma juukseid lõikama."
+    "Lõikan lehed ära.",
+    "Ta lõikas juustu. Ma lõikan veel ühe kord.",
+    "Meie lõikame seda toitu."
   ],
   "translation": [
     "cut",
-    "slice",
-    "chop"
+    "slice"
   ],
-  "context": "The verb 'lõikan' means to cut or slice something. It is a common verb used in everyday language when referring to cutting food, paper, hair, or other materials."
+  "context": "The word 'lõikan' is the first person singular present indicative form of the verb 'lõikama', which means 'to cut' or 'to slice'. It indicates that I am currently performing the action of cutting something. The root verb belongs to the -ma conjugation class in Estonian."
 }

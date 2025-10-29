@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen muudkui üsna rahulolev",
-    "Ta on muudkui hea inimene",
-    "Muudkui ei ole midagi paremat"
+    "Muudkui vaatas aknast välja.",
+    "Ta muudkui jõi hommikuti kohvi.",
+    "Lapsed muudkui mängisid aias."
   ],
   "translation": [
-    "however",
-    "though",
-    "on the other hand"
+    "just",
+    "only",
+    "merely"
   ],
-  "context": "The word muudkui is used to indicate a contrast or unexpected turn of events, similar to however or though in English."
+  "context": "The Estonian word 'muudkui' is an adverb that means 'just', 'only', or 'merely'. It's used to indicate that something is done in a simple, uncomplicated way without additional complexity or elaboration. The word consists of 'muu' (other/another) and 'kui' (than/comparative), but as an adverb it functions similarly to English words like 'just', 'only', or merely'. It modifies verbs to show that the action is simple and straightforward."
 }

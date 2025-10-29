@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma las siin olen.",
-    "Ta las seal on.",
-    "Nad las koos käisid."
+    "Las mind edasi!",
+    "Lahkusin varakult las ma kodust.",
+    "Ta las meid oma majja."
   ],
   "translation": [
-    "forest",
-    "woods"
+    "let",
+    "allow",
+    "permit"
   ],
-  "context": "The word 'las' in Estonian refers to a forest or woods, and it is commonly used to describe a wooded area or a place with many trees."
+  "context": "The Estonian word 'las' is the imperative form of the verb 'lasta', which means 'to let' or 'to allow'. It's used when giving permission for someone to do something. In different contexts, it can be translated as 'let me', 'let him/her/them', depending on who is being addressed."
 }

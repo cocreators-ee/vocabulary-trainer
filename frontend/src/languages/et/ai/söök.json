@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma söön hommikusööki",
-    "Söök oli väga maitsev",
-    "Ta ei sööud õhtusööki"
+    "Mulle meeldib söök.",
+    "Tänane söök oli väga hea.",
+    "Kes teeb homme õhtul söögi?"
   ],
   "translation": [
-    "dinner",
-    "supper",
-    "meal"
+    "meal",
+    "food",
+    "dish"
   ],
-  "context": "The word 'söök' in Estonian generally refers to a meal, especially the main meal of the day, often eaten in the evening."
+  "context": "The Estonian word 'söök' is a noun that refers to food or meals. It can be used to refer to the act of eating, the food itself, or a particular dish. The word belongs to the common Estonian vocabulary and is used in everyday contexts when talking about food consumption."
 }

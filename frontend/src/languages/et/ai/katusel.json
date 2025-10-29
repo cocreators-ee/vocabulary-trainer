@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maja on katusel",
-    "Katusel on palju lumet",
-    "Ta istub katusel ja loeb raamatut"
+    "Kass istub katusel.",
+    "Linnud lennavad katuselt alla.",
+    "Me vaatame päikesetõusu katuse pealt."
   ],
   "translation": [
     "on the roof",
-    "roof top"
+    "onto the roof"
   ],
-  "context": "The word 'katusel' is used in Estonian to describe something that is located on the roof of a building, it can also be translated to 'roof top' in English and is commonly used when describing the location of an object or person."
+  "context": "The Estonian word 'katusel' is an inessive case form of the noun 'katus', meaning 'roof'. The '-el' suffix indicates location on or within something. It literally means being located on the surface of a roof."
 }

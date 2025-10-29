@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta ostis endale uusi mänge.",
-    "Lapsed mängivad mänge.",
-    "Mänge meelitab see suurepärane graafika."
+    "Lapsed mängivad palli.",
+    "Tema armastab mänge.",
+    "Õhtupoolikul toimuvad mitmed suured mänge."
   ],
   "translation": [
     "games",
-    "to play games"
+    "play",
+    "sports"
   ],
-  "context": "'mänge' refers to games in general or the act of playing games. It is a plural form commonly used when talking about video games, board games, or sports."
+  "context": "The word 'mänge' is the partitive case form of 'mäng', which means 'game' or 'play'. In Estonian, the partitive case often indicates an incomplete action or partial object. Here, 'mänge' can refer to games in general, playing activities, or sports events."
 }

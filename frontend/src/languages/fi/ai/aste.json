@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kun meillä on kaksi asteetta vedenkäsittelyyn.",
-    "Hänen asemaansa ei tullut ymmärtämän ilman viidettä eri asteisiin.",
-    "Erilaiset asteet voivat johtaa erilaisiin tuloksiin."
+    "Lämpötila on plus kymmenen astetta.",
+    "Tänään on viisi astetta pakkasta.",
+    "Seuraavaksi käytämme asteita ja minuutteja."
   ],
   "translation": [
     "degree",
-    "stage",
+    "step",
+    "grade",
     "level"
   ],
-  "context": "'aste' translates to degree, stage, or level in English. It is commonly used in contexts discussing education (degrees), processes (stages), and rankings or measurements (levels)."
+  "context": "The Finnish word 'aste' primarily means 'degree' and is commonly used to measure temperature (e.g., astetta pakkasta = degrees of frost/cold), angles, or academic qualifications. It can also refer to a step or level in progression, similar to English 'step'. In academic contexts, it may refer to educational degrees like bachelor's or master's degrees."
 }

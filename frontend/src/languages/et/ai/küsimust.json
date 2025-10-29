@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on üks küsimus.",
-    "Ta esitas mitu küsimust.",
-    "Küsimust ei olnud."
+    "Kas sa sulle küsimust?",
+    "Ma ei tea vastust sellele küsimust.",
+    "Tuleb veel üks küsimust."
   ],
   "translation": [
     "question",
-    "issue"
+    "query",
+    "inquiry"
   ],
-  "context": "The word 'küsimust' is the genitive form of 'küsimus', which means a question or an issue, and it is commonly used in Estonian to refer to a problem or a topic that needs to be discussed or resolved."
+  "context": "The word 'küsimust' is the partitive case singular form of the Estonian noun 'küsimus', which means 'question'. The partitive case in Estonian is used to indicate an incomplete action, object, or state. In this case, 'küsimust' would typically be used with verbs that require the partitive case, such as when asking about having a question (mul on küsimust), needing a question (vajan küsimust), or similar constructions where the question exists in some but not fully completed form."
 }

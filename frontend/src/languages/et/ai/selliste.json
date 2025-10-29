@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen selliste inimeste seas",
-    "Need on selliste asjade juured",
-    "Selliste olukordade korral tuleb olla ettevaatlik"
+    "Mul on selliseid mõtteid.",
+    "Sellised asju pole vaja.",
+    "Ta tegi selliseid samme."
   ],
   "translation": [
     "such",
-    "like this"
+    "these kinds of",
+    "of this sort"
   ],
-  "context": "The word 'selliste' is used in Estonian to describe something that is of a certain type or kind, often in the context of describing people, things, or situations."
+  "context": "The word 'selliste' is the inessive plural form of 'selline', which means 'such'. It indicates that something belongs to or exists within a category or type. The '-te' ending makes it plural and the '-s-' suffix with inessive case '-s' shows location within or belonging to something."
 }

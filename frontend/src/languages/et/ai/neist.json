@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sai teada, et neist kõigist on kirjutatud raamatuid.",
-    "Neist üks oli väga populaarne laulja.",
-    "Kuulsaim neist on taevas"
+    "Kes neist on sinu sõbrad?",
+    "Mida sa arvad nendest raamatutest? Neist üks on minu lemmik.",
+    "Tule lähemale ja vaata neid lilli!"
   ],
   "translation": [
-    "of these",
-    "from these",
-    "among them"
+    "of them",
+    "from among them",
+    "about those"
   ],
-  "context": "The word 'neist' is a pronoun in Estonian that means 'of these', 'from these', or 'among them'. It is commonly used to refer back to previously mentioned things."
+  "context": "The Estonian word 'neist' is a partitive case form of the demonstrative pronoun 'need'. It functions as an adverbial phrase meaning 'of them', 'from among them', or 'about those'. In the partitive case, it indicates that we are talking about some members from a group of people or things. The word follows the same pattern other Estonian demonstrative pronouns like 'sellest' (of this) and 'sealt' (from there)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta vaatab telekat.",
-    "Ma olen tundnud, et ta vaatab mind.",
-    "Me vaatame filmi."
+    "Vaatab televiisorit.",
+    "Ta vaatab piletit.",
+    "Meie koer vaab linna."
   ],
   "translation": [
-    "looks",
-    "watches"
+    "looks at",
+    "watches",
+    "is watching"
   ],
-  "context": "The word 'vaatab' is the third person singular form of the verb 'vaatama', which means to look or watch something. It is commonly used in Estonian to describe the act of observing or paying attention to something."
+  "context": "The word 'vaatab' is the third-person singular present tense form of the Estonian verb 'vaatama', which means 'to look' or 'to watch'. It indicates someone is currently looking at something, watching television, observing an event, or paying attention to something. In Estonian grammar, this is formed by dropping the '-ma' ending from the infinitive and adding '-b' for third person singular present tense."
 }

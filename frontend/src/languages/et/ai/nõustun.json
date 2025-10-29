@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma nõustun sinuga.",
-    "Ta nõustus mu ettepanekuga.",
-    "Nõustun, et see on hea mõte."
+    "Ma nõustan selle otsusega.",
+    "Kas sa nõustud minu plaaniga?",
+    "Me ei nõustunud tema ettepanekuga."
   ],
   "translation": [
-    "I agree",
-    "agree with"
+    "agree",
+    "accept",
+    "approve of"
   ],
-  "context": "The word nõustun is a verb that means to agree or consent to something in Estonian. It is commonly used in formal and informal conversations to express agreement or acceptance."
+  "context": "The Estonian word 'nõustun' is the 1st person singular present form of the verb 'nõustuma', which means to agree, accept, or approve. It indicates that the speaker is in agreement with something or accepts a proposal or decision."
 }

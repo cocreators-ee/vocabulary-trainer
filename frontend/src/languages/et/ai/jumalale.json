@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tänan jumalale seda ilusamat päeva.",
-    "Jumalale on see asi tähtis.",
-    "Ta palub andestust jumalale."
+    "Jumalale kiitust!",
+    "Me palume jumalale abi.",
+    "Tema annaks jumalale tänu."
   ],
   "translation": [
     "to God",
-    "for God"
+    "for God",
+    "toward God"
   ],
-  "context": "The word 'jumalale' is a dative form of the Estonian word for God, used to indicate that something is being done for or directed towards God."
+  "context": "The word 'jumalale' is the allative case form of 'Jumala', which means 'God'. In Estonian grammar, the allative case (-le suffix) indicates motion toward or destination. So 'jumalale' specifically means 'to God' or 'toward God', indicating movement in the direction of God or something being given to/for God. It's used when expressing actions directed toward God, such as prayer, giving thanks, or making requests."
 }

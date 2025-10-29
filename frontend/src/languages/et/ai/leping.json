@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sõlmis lepingu tööandjaga",
-    "Leping lõpeb homme",
-    "Tööleping on tähtis dokument"
+    "Me sõlmime uue lepingi firmaga.",
+    "Lepingu tingimused on selged ja õiglased.",
+    "Ta luges läbi kogu lepingu enne allkirjastamist."
   ],
   "translation": [
+    "contract",
     "agreement",
-    "contract"
+    "treaty"
   ],
-  "context": "The word 'leping' in Estonian refers to a formal agreement or contract between two or more parties, outlining the terms and conditions of their relationship."
+  "context": "The word 'leping' is a noun in Estonian that means contract or agreement. It refers to a formal written document between two or more parties that outlines their mutual rights and obligations. In legal contexts, it can also refer to treaties between organizations or governments."
 }

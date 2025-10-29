@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei ole kindel, et see on võimatu",
-    "Võimatu on väga raske ülesanne",
-    "Ta ütles, et see on võimatu teha"
+    "See on võimatu!",
+    "Töö tegemine ilma koolita on väga võimatu.",
+    "Mul oli võimatu päev."
   ],
   "translation": [
     "impossible",
+    "not possible",
     "unfeasible"
   ],
-  "context": "The word võimatu means something that cannot be done or is not feasible, and it is commonly used in Estonian to describe a situation or task that is not possible to achieve."
+  "context": "The word 'võimatu' is an Estonian adjective that means 'impossible' or 'not possible'. It's formed from the root word 'võima' (to be able, can) with the negative suffix '-tu', creating the meaning of 'unable to be done'. In Estonian grammar, this would be considered a negative adjective. When used in sentences, it typically follows the verb or appears in predicate position. For example, 'See on võimatu' means 'This is impossible'."
 }

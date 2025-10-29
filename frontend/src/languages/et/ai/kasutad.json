@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kasutan seda iga päev.",
-    "Kas sa kasutad seda tihti?",
-    "Ta ei kasuta enam seda programmeerimiskeeelt."
+    "Kas sa kasutad seda arvutit?",
+    "Ma ei kasuta krediitkaarti.",
+    "Naised kasutasid punaseid kleiteid."
   ],
   "translation": [
     "use",
+    "employ",
     "utilize"
   ],
-  "context": "The word 'kasutad' is the second person singular form of the verb 'kasutama', which means to use or utilize something, and it is commonly used in Estonian language to ask or tell someone about their usage of an object or a skill."
+  "context": "The Estonian word 'kasutad' is the second person singular present tense form of the verb 'kasutama', which means 'to use'. It specifically translates to 'you use/are using' and refers to what one person currently does. The stem 'kasuta-' indicates action, and the ending '-d' marks it as second person singular (you) in present tense. This is a commonly used verb in everyday Estonian for talking about utilizing objects, employing methods, or applying resources."
 }

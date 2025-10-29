@@ -1,14 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Minu algusest on palju aastaid läbi.",
-    "Tema algust algas kogu selle probleemi põhjus.",
-    "Selle linna algust võib leida ajaloolistest allikatest."
+    "Algustame kohe!",
+    "Ta algust tööd kell kuus.",
+    "Kas sa oled alustanud? Ei, veel ei ole alustanud."
   ],
   "translation": [
+    "start",
     "beginning",
-    "origin"
+    "commencement"
   ],
-  "context": "The word 'algusest' is the elative (from/out of) form of 'algus,' which means 'beginning.' It's used to indicate something coming from or relating to a beginning, origin, or start. Commonly seen in phrases like 'from the beginning' or 'originating from the start.'"
+  "context": "\"algust\" is the partitive case form of \"algus\" (beginning, start). It typically follows a verb indicating the action has not yet been completed or emphasizes the process rather than the result. The word can mean 'a beginning' or 'some start' and often appears in constructions discussing ongoing or planned activities."
 }

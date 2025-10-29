@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See sord on liiga sorte.",
-    "Ta ostis endale uue sorti kohvikus.",
-    "Mulle meeldib see musta sorti."
+    "Tema sortis meid ära.",
+    "Kas sa ei tea, et ta alati sorteerib meid?",
+    "Sortimine on tema lemmiktegevus."
   ],
   "translation": [
-    "type",
-    "kind",
-    "sort"
+    "sorts",
+    "classifies",
+    "organizes",
+    "separates"
   ],
-  "context": "'Sorti' refers to a type or kind of something, often used when categorizing objects or concepts."
+  "context": "The word 'sorti' in Estonian appears to be a verb form (likely 3rd person singular present indicative of 'sortima') meaning to sort, classify, organize, or separate things into categories. It is commonly used when arranging items systematically according to certain criteria."
 }

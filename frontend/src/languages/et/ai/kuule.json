@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kuule maale! Kõikjal mujal ma ei saa seda kogeda.",
-    "Ma kuulen hästi, aga ma ei kuula sind ikka.",
-    "Tema isegi ei märka, et ta keegagi suhtlemiseks ei kuula."
+    "Kuule, mis aeg on praegu?",
+    "Kuule mind, palun!",
+    "Sa oled kuule väga hea tööline."
   ],
   "translation": [
-    "to hear",
-    "hearing",
-    "listen"
+    "listen",
+    "hear",
+    "pay attention",
+    "excuse me"
   ],
-  "context": "The word 'kuule' in Estonian translates to 'to hear', 'hearing', or 'listen'. It is commonly used in the context of perception through sound, and can also be used as a polite way to request someone's attention."
+  "context": "The word 'kuule' is the imperative form of the verb 'kulema' in Estonian. It means 'listen!' or 'hear!' and is used to get someone's attention, similar to saying 'excuse me' or 'hey there' before making a request. In some contexts, it can also be used informally as an interjection to express surprise or disbelief."
 }

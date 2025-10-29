@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen kuhugi.",
-    "Ta on kuhugi minema.",
-    "Kuhugi peaksime kohe minema."
+    "Ma lähen kuhugi kohe.",
+    "Kas sa lähed kuhugi homme?",
+    "Me peame minema kuhugi uude kohta."
   ],
   "translation": [
     "somewhere",
-    "to somewhere"
+    "to some place",
+    "anywhere"
   ],
-  "context": "The word 'kuhugi' is used in Estonian to indicate a movement or direction towards an unspecified location, similar to how 'somewhere' or 'to somewhere' would be used in English."
+  "context": "The word 'kuhugi' is an Estonian adverb that means 'somewhere' or 'to someplace'. It's formed from the interrogative pronoun 'kuhu' (where to) with the suffix '-gi', which adds a sense of uncertainty, approximation, or inclusiveness. This construction indicates movement toward an unspecified location. The word is commonly used when talking about going somewhere without specifying exactly where."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kustannukset olivat suuret.",
-    "Hän tiesi kustannusten olevan korkeat.",
-    "Yhtiön kustannukset kasvoivat viime vuonna."
+    "Yrityksen kustannukset nousivat viime vuonna.",
+    "On laskettava kaikki mahdolliset kustannukset ennen päätöstä.",
+    "Minimoidaan kustannukset ja maximoidaan voitot."
   ],
   "translation": [
     "costs",
-    "expenses"
+    "expenses",
+    "charges"
   ],
-  "context": "The word \"kustannukset\" refers to the amount of money spent or required to achieve something, and it is commonly used in financial contexts to describe expenditures or outlays."
+  "context": "The Finnish word 'kustannukset' is the plural form of 'kustannus' and refers to costs, expenses, or charges incurred in business, projects, or personal finances. It's commonly used when discussing financial matters, budgets, and economic planning. The word follows standard Finnish grammar for plural nouns ending with -et."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Ma tõestan kuni teeme mängu.",
-    "Kung on lihtne ja tore mehe nimi.",
-    "Ta ei saa midagi teha - see on kuni tal."
+    "Kung on hea mees.",
+    "Mul on kung oma klassis.",
+    "Kung tuli homme kooli."
   ],
   "translation": [
-    "king",
-    "until",
-    "(name) Kung"
+    "good",
+    "kind",
+    "nice"
   ],
-  "context": "The word 'kung' in Estonian can have different meanings: as a noun it refers to the monarch, but more commonly it is used as a preposition meaning 'until'. Additionally, it may also function as part of personal names."
+  "context": "In Estonian, 'kung' is an adjective that means 'good', 'kind', or 'nice'. It's used to describe someone with positive qualities. The word doesn't change form for gender in modern usage and can be applied to both males and females."
 }

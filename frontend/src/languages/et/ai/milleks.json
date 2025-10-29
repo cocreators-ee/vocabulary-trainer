@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei tea, milleks see on vaja.",
-    "Ta ütles, et milleks ta seda teeb?",
-    "Mulle on võimatu aru saada, milleks nad seda tahavad."
+    "Miks sa tule? - Milleks sa tulid?",
+    "Millal sa lähed? - Milleks sa lähed?",
+    "Mis sa teed? - Milleks sa teed?"
   ],
   "translation": [
     "why",
-    "for what reason"
+    "for what purpose",
+    "what for"
   ],
-  "context": "The word 'milleks' is an interrogative pronoun in Estonian that is used to ask about the purpose or reason for something, similar to the English word 'why'."
+  "context": "The Estonian word 'milleks' is an interrogative pronoun or adverb that means 'why', 'for what purpose', or 'what for'. It's used to ask about the reason, purpose, or cause of something. The word combines the root 'millal' (when/what) with the suffix '-eks' which indicates a question about purpose or reason."
 }

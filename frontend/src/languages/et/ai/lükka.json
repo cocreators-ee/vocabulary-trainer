@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta lükkas ukse lahti.",
-    "Lükka seda nuppu!",
-    "Poisid lükkasid mind."
+    "Ta lükas ukse lahti.",
+    "Lükake palun sedu nupule.",
+    "Ei lüka mind kuskile!"
   ],
   "translation": [
-    "push",
-    "shove",
-    "thrust"
+    "to push",
+    "to shove",
+    "to press"
   ],
-  "context": "The Estonian word 'lükka' translates to 'push', 'shove', or 'thrust' in English. It describes the action of applying force to something in order to move it away from oneself, and is commonly used when describing physical actions."
+  "context": "The verb 'lükka' in Estonian means to push, shove or press. It is an active action where someone applies force to move something or someone else away from themselves. The word can be used in various contexts - physical pushing of objects, pressing buttons, or even figurative expressions about moving things along."
 }

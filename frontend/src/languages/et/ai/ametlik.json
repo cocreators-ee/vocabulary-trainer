@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ametlik keskus on Tallinnas.",
-    "Ta võitis ametliku võistluse.",
-    "See ei ole ametliku allika teave."
+    "Töö on ametlikult registreeritud.",
+    "Ametlikud dokumendid on vajalused piiril ületamisel.",
+    "Kõik need nõuded on ametlikult kuulutatud."
   ],
   "translation": [
     "official",
-    "formal"
+    "formal",
+    "authorized"
   ],
-  "context": "The word 'ametlik' in Estonian refers to something that is official or formal, often related to government, institutions, or authoritative sources."
+  "context": "The Estonian word 'ametlik' is an adjective that means 'official', 'formal', or 'authorized'. It describes something that has proper authority, recognition, or follows established procedures. This word is often used for documents, announcements, regulations, or any situation where formal status or official approval is required."
 }

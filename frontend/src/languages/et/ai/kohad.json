@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen käinud paljudes kohtades.",
-    "Kohad on erinevad.",
-    "Ta on olnud mitmes kohas."
+    "Külastame palju kohasid Eestis.",
+    "Need on head kohad puhkama.",
+    "Mingil kohal peaks olema hea restoran."
   ],
   "translation": [
     "places",
     "locations",
     "spots"
   ],
-  "context": "The word 'kohad' in Estonian refers to places or locations, and it is commonly used to describe different areas or sites."
+  "context": "The word 'kohad' is the plural form of the Estonian noun 'koht', which means 'place' or 'location'. In English, it translates to 'places', referring to multiple locations or spots. This form indicates that we are talking about more than one place in the context."
 }

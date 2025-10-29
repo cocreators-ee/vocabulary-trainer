@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ööseks tuleb tagasi",
-    "Ta ütles ööseks tervitab",
-    "Kuidas sa ütled ööseks inglise keeles?"
+    "Tema läks ööseks lähedusse.",
+    "Ta oli pikalt ööseks jäänud.",
+    "Ööseks saamiseks vajalik on hea planeerimine."
   ],
   "translation": [
-    "good night"
+    "to go to bed",
+    "to become dark/dusk",
+    "to prepare for the evening"
   ],
-  "context": "The word ööseks is a way of saying good night in Estonian, used when parting ways for the evening."
+  "context": "In Estonian, 'ööseks' is an adessive case form of öö (night). It can be used in several contexts: 1) As a temporal expression meaning 'for the night' or 'overnight', 2) To describe someone going to bed or staying somewhere for the night, and 3) In expressions related to evening/darkness. The adessive case indicates location or state being at/with something."
 }

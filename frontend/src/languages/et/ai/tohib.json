@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See tohib homme.",
-    "Midagi ei tohi juhtuda.",
-    "Kas see tohib täna õhtul?"
+    "Tohib homme minna kinno.",
+    "Lapsed ei tohi mängida tänaval.",
+    "Tema tohib öelda oma arvamust."
   ],
   "translation": [
-    "will happen",
-    "happens",
-    "is happening"
+    "is allowed/allowed/permitted",
+    "may/might",
+    "can/could"
   ],
-  "context": "'Tohib' is the third person form of the verb 'toha', which means 'to happen'. It is commonly used in Estonian when talking about events that will or do happen."
+  "context": "The word 'tohib' is the 3rd person singular present form of the Estonian modal verb 'tööma' (to allow/permit). It indicates that someone has permission or authorization to do something. In English, it corresponds to 'is allowed', 'may', or 'can'. The negative form would be 'ei tohi' (is not allowed/may not/cannot)."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin huvitava jutu.",
-    "Ta rääkis mulle pikk jutt.",
-    "Jutut meie vahel said liiga pikaks."
+    "Meil oli huvitav jutt.",
+    "Tuleb veel palju jutte.",
+    "Jutti võib-olla ka edasi jätkame."
   ],
   "translation": [
-    "story",
     "talk",
-    "conversation"
+    "conversation",
+    "story",
+    "tale"
   ],
-  "context": "The word 'jutt' in Estonian generally refers to a story, talk, or conversation, and is commonly used in everyday language to describe an exchange of ideas or experiences between people."
+  "context": "The Estonian word 'jutt' is a versatile noun that can refer to either a conversation/talk or a story/tale. It's used in everyday situations for casual discussions and also when telling stories or narratives."
 }

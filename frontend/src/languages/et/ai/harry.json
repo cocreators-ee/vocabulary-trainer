@@ -1,9 +1,13 @@
 {
-  "confidence": 0.2,
   "understood": true,
-  "sentences": [],
+  "sentences": [
+    "Harry Potter on kuulus nõid.",
+    "Harry käis koolis eile.",
+    "Harry's sõber tuleb külastama."
+  ],
   "translation": [
+    "Harry (male name)",
     "Harry"
   ],
-  "context": "This is a proper noun (a name) and does not have a translation as such. It refers to a person named Harry."
+  "context": "The word 'harry' in Estonian is used as a male given name. It appears to be the same as the English name Harry, commonly known from characters like Harry Potter. In Estonian, it functions as a proper noun referring to a person named Harry."
 }

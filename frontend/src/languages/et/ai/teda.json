@@ -1,15 +1,13 @@
 {
-  "confidence": 0.2,
   "understood": true,
   "sentences": [
-    "Ma olen teadlik sellest, et teda ei tohi raiestada.",
-    "Ta arvab, et teda juba tean.",
-    "Minu lugu on see, et neid kaks inimest, kes mind teda teha soovivad."
+    "Teda ei nähtud eile kodus.",
+    "Ma olen teda külastanud viimase kuue kuu jooksul.",
+    "Kas te olete seda inimest või tema kohta midagi kuulanud?"
   ],
   "translation": [
-    "(to) know",
-    "(that) I already know",
-    "knowing"
+    "him",
+    "her"
   ],
-  "context": "'Teda' refers to knowing or being aware of something. It is used as a verb meaning 'to know', and can also be found in phrases like 'I already know it' (et teda juba tean)."
+  "context": "The Estonian word 'teda' is a third person singular pronoun used to refer to someone who is not present or being discussed. It's the accusative/genitive form of the pronoun 'tema', meaning 'him/her'. In Estonian, this form is used for both masculine and feminine third person singular subjects in object position (when they are the object of a verb) or possession (genitive case)."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tundsin end suurepiljal.",
-    "Ta tundis, et kõik läheb hästi.",
-    "Tundsid sa ka seda valgust?"
+    "Tundsin hädaabi vajadust.",
+    "Tundsin end väga rahulikult.",
+    "Me tõid endale ära, mida me ei saanud tunda."
   ],
   "translation": [
-    "felt"
+    "felt",
+    "sensed",
+    "perceived"
   ],
-  "context": "The word 'tundsin' is the first-person singular past tense form of the verb 'tunda', which means 'to feel'. It is commonly used to express a personal experience or sensation in the past."
+  "context": "The word 'tundsin' is the 1st person singular past tense form of the Estonian verb 'tundma', which means to feel, sense, or perceive. It's commonly used to express sensations, emotions, or intuitive feelings that someone has experienced in the past."
 }

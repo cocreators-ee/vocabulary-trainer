@@ -1,15 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on tegu tegevus.",
-    "Tegudega teeme palju.",
-    "Rohkem tegude tuleb järgmisel nädalal."
+    "Tegude tagajärjed olid katastrofaalsed.",
+    "Ta oli vastutav oma tegude eest.",
+    "Me peame arvestama nende tegudega."
   ],
   "translation": [
-    "Deeds",
-    "Actions",
-    "Acts"
+    "actions",
+    "deeds"
   ],
-  "context": "The word 'tegude' refers to deeds or actions taken by someone. It is commonly used in contexts discussing activities, behaviors, or specific tasks performed."
+  "context": "The word 'tegude' is the genitive plural form of the Estonian noun 'tegu', which means 'action' or 'deed'. In this case, it functions as an object in sentences and indicates possession or relationship to actions. For example, 'tagajärjed tegude' means 'consequences of the actions', 'oma tegude' means 'one's own actions', and 'nende tegudega' means 'with those actions'."
 }

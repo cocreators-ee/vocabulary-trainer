@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma saaksite seda teha",
-    "Sa saaksite mind aidata",
-    "Meie saaksite selle küsimuse arutada"
+    "Kas saaksite aidata mind?",
+    "Saaksite te öelda mis kell on?",
+    "Saaksite palun tuua mulle veini?"
   ],
   "translation": [
-    "you could",
-    "you might be able to"
+    "could you",
+    "might you",
+    "would you be able to"
   ],
-  "context": "The word 'saaksite' is the second person plural form of the verb 'saama', which means 'to get' or 'to be able to do something'. It is commonly used in Estonian to express possibility or ability."
+  "context": "The word 'saaksite' is the polite conditional form of the verb 'saama' (to get, to be able to). It's used when asking someone politely if they could or would be able to do something. This form shows respect and politeness in Estonian communication."
 }

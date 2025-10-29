@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän vetää vaatteita ylleen.",
-    "Auto vetää perävaunua.",
-    "Vetää kuin kala."
+    "Minun täytyy vetää ovi kiinni.",
+    "Vetäisitkö tuolua lähemmäs?",
+    "Hän veti köyttä kovasti."
   ],
   "translation": [
-    "pull",
-    "draw",
-    "drag"
+    "to pull",
+    "to draw",
+    "to drag"
   ],
-  "context": "The word 'vetää' in Finnish means to pull or draw something towards oneself, and it is commonly used in various contexts such as physical actions, like pulling clothes on, or figurative expressions, like being attracted to something."
+  "context": "The Finnish verb 'vetää' primarily means to pull or draw something towards oneself. It's commonly used for physical actions like pulling doors, objects, or people closer. In different contexts, it can also mean dragging, towing, or even leading someone somewhere. The word is conjugated regularly in Finnish and appears frequently in everyday conversation."
 }

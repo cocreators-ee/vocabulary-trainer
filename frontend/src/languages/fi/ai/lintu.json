@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Lintu lensi taivaalla.",
-    "Hän on lintuharrastaja.",
-    "Lintujen laulua kuultiin puistossa."
+    "Lintu lauloi puussa.",
+    "Sinulla on kaunis lintu kotona.",
+    "Kasvattaja myi linnut markkinoilla."
   ],
   "translation": [
     "bird"
   ],
-  "context": "The word 'lintu' refers to a bird in Finnish, and it is commonly used in everyday conversations to talk about birds or birdwatching."
+  "context": "The Finnish word 'lintu' means bird in English. It is a common noun referring to feathered, winged animals that can fly. The word appears in singular form in the examples provided: 'lintu' (singular), 'linnut' (plural)."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen õnnelik, kui sa oled minu elus.",
-    "Ta on väga õnnelik inimene.",
-    "Õnneliku eluga on meil palju ühist."
+    "Ta on õnnelik mees.",
+    "Õnnelikud lapsed naeravad alati.",
+    "Tema oli väga õnnelik nägema oma sõpru."
   ],
   "translation": [
     "happy",
-    "lucky",
-    "fortunate"
+    "fortunate",
+    "lucky"
   ],
-  "context": "The word õnnelik is commonly used to describe someone who is feeling happy or fortunate, often due to a positive event or circumstance in their life."
+  "context": "The Estonian word 'õnnelik' is an adjective that means 'happy' or 'fortunate'. It describes a state of joy, contentment, or good fortune. The word comes from the root 'õnn', which means happiness or luck. In Estonian grammar, adjectives like this typically have different forms for different cases and numbers, though in these examples we see it in its basic positive form."
 }

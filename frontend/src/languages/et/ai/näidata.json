@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näitan sulle oma kodu.",
-    "Ta näitas mulle pildi.",
-    "Nad näitavad meile uut filmi."
+    "Näitan sulle pilti.",
+    "Tema näitas oma uue autot.",
+    "Me näidame teatrile."
   ],
   "translation": [
-    "to show"
+    "to show",
+    "to demonstrate",
+    "to display"
   ],
-  "context": "The word 'näidata' is a verb in Estonian that means to show something to someone, and it is commonly used in various contexts such as giving directions or presenting information."
+  "context": "The Estonian verb 'näidata' means to show, demonstrate or display something. It is a regular -da ending verb in the infinitive form and belongs to the I conjugation class. In present tense, it would be näitan (I show), näidad (you show), näitab (he/she/it shows), näitame (we show), näitate (you [pl.] show), näitavad (they show). The verb is used when presenting or revealing something to someone else."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lähedal",
-    "Tallinn on lähedal mereäärde",
-    "Lähedal asuvad inimesed said teavitusi"
+    "Tallinn on lähedal Tallinna lennujaamast.",
+    "Pood on lähedal kodust.",
+    "See koht on lähedal rannast."
   ],
   "translation": [
-    "nearby",
-    "close by",
-    "in the vicinity of"
+    "near",
+    "close to",
+    "by"
   ],
-  "context": "The word lähedal is used to describe something that is close by or nearby, often used to indicate physical proximity."
+  "context": "The Estonian word 'lähedal' is an adverb meaning 'near', 'close to', or 'by'. It describes the proximity of something in relation to another location. The word comes from 'lähine' (near) and the '-al' suffix indicating position or state, so it essentially means 'in a near state/location'. In Estonian grammar, this would typically be used with the elative case when forming sentences about locations."
 }

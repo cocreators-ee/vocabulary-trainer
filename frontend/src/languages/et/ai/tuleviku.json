@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tuleviku suhtes optimist.",
-    "Tuleviku plaanid on juba tehtud.",
-    "Tuleviku küsimus on väga oluline."
+    "Tulevik on täis võimalusi.",
+    "Me planeerime tuleviku ette.",
+    "Kas sa mõtled tulevikku?"
   ],
   "translation": [
     "future",
-    "futures"
+    "the future"
   ],
-  "context": "The word 'tuleviku' is used to refer to a period of time that has not yet happened, and it is commonly used in sentences to describe plans, expectations, or uncertainty about what is going to happen."
+  "context": "The word 'tuleviku' is the partitive case of the Estonian noun 'tulevik', which means 'future'. The partitive case (-u ending) indicates that it's referring to the concept or idea of the future in a general sense. It can be used in contexts where we're talking about possibilities, plans, or contemplation regarding what is yet to come."
 }

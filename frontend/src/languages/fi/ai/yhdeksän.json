@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on yhdeksän euroa taskussani.",
-    "Yhdeksänkymmentäviisi prosenttia suomalaisista puhuu suomea äidinkielenään.",
-    "Kello on yhdeksän ja kolme neljäsosaa."
+    "Minulla on yhdeksän koiraa.",
+    "Yhdeksän tuntia nukun yöllä.",
+    "Kymmenen miinus yhdeksän on yksi."
   ],
   "translation": [
-    "nine"
+    "nine",
+    "9"
   ],
-  "context": "The word yhdeksän is a Finnish numeral that corresponds to the English number nine, and it is commonly used in various contexts such as counting, time-telling, and basic arithmetic operations."
+  "context": "The Finnish word 'yhdeksän' is the cardinal number nine. It's used to count or indicate quantity, just like the English word 'nine'. In Finnish, numbers are typically placed before the noun they modify (e.g., 'yhdeksän koiraa' means 'nine dogs')."
 }

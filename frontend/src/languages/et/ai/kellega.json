@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma küsisin kellega sa räägid?",
-    "Ta on kellega kaasa elanud?",
-    "Kellega sa siis kohtad?"
+    "Mis on see kellega?",
+    "Ta tuleb kellega kohtuma.",
+    "Kellega sa räägid?"
   ],
   "translation": [
-    "with whom",
-    "who with"
+    "with which",
+    "with whom"
   ],
-  "context": "The word 'kellega' in Estonian is used to ask about the person someone is interacting or associating with, and it is often translated to English as 'with whom' or 'who with'."
+  "context": "'Kellega' is an Estonian interrogative pronoun that combines the question word 'kelle' (whose/whom) with the case ending '-ga' (with/instrumental case). It's used to ask about a person or thing that something is associated with. The form shows it's in the instrumental case, indicating association or accompaniment."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Sada inimest tõid kodusse kaasa sörkimisega.",
-    "Ta tegi sadasid silmapiiril.",
-    "Kaks sada tühja boksi olid ladustatud laua alla."
+    "Sada on suur arv.",
+    "Mul on sada eurot.",
+    "Ta sai sajapunktilise hinde."
   ],
   "translation": [
+    "one hundred",
     "a hundred"
   ],
-  "context": "Used to denote the quantity of 100."
+  "context": "The Estonian word 'sada' means 'one hundred' or 'a hundred'. It is the numeral for 100 in Estonian. In different grammatical cases, it changes form: nominative/superlative 'sada', genitive/illative/etc. forms change as well (like 'sadakümmend' for hundreds). The word is used when counting, referring to quantities of 100, or expressing the number 100 in general contexts."
 }

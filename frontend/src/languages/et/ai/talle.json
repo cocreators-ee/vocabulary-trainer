@@ -1,15 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta talle läks.",
-    "Ma olen talle andnud kõik vajalikud dokumendid.",
-    "Talle meeldib lugeda raamatuid."
+    "Talle andis kinga.",
+    "Mina talle rääkisin.",
+    "Tule talle appi."
   ],
   "translation": [
-    "to him",
-    "for him",
-    "he"
+    "to him/her"
   ],
-  "context": "The word 'talle' is a pronoun in Estonian that means 'to him' or 'for him', and it is commonly used to indicate the recipient of an action."
+  "context": "In Estonian, 'talle' is the allative case form of 'tema' (he/she/it). It means 'to him/her' and indicates motion toward or direction to a person. The allative case is used to show where something is going or who is receiving an action."
 }

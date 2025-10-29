@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei tea, mis kordagi juhtus.",
-    "See oli alles kordagi nähtud nähtus.",
-    "Kas sa oled seda varem kordagi teinud?"
+    "Ta ei tulnud kordagi kohtumisele",
+    "Meie pole veel kordagi käinud selles kohvikus",
+    "Sa pead proovima kordagi"
   ],
   "translation": [
-    "ever",
-    "once",
-    "at any time"
+    "never",
+    "not even once",
+    "at no time"
   ],
-  "context": "The word 'kordagi' in Estonian is used to emphasize that something has not happened before, or only happened once. It’s similar to saying ‘ever’ or ‘even once’ in English, often used in negative sentences or questions about past experiences."
+  "context": "The Estonian word 'kordagi' is an adverb that means 'never' or 'not even once'. It's composed of 'korra' (once) and the suffix '-gi' (also/either), forming a negative construction. This word indicates that something has not happened at any time in the past and implies it won't happen either."
 }

@@ -1,13 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Sellepärast ma ei suutnud tulema.",
-    "Ta jättis tööd sellepärast, et tunda kodusolekut.",
-    "Sellepärast otsustasin minna kuninglikesse armeedesse."
+    "Sellepärast olen hilinenud.",
+    "Ta ei tulnud sellepärast et ta oli haige.",
+    "Sellepärast me peame kiirustama."
   ],
   "translation": [
-    "because of that"
+    "therefore",
+    "that's why",
+    "for that reason",
+    "so"
   ],
-  "context": "Used to indicate a reason for an action or situation that is directly caused by something previously mentioned. It's similar to 'because of that' in English and links the consequence with its cause."
+  "context": "The Estonian word 'sellepärast' is an adverb meaning 'therefore', 'that's why', or 'for that reason'. It is used to indicate a cause-and-effect relationship, typically appearing at the beginning of a clause to introduce a consequence or result. The word can be broken down as 'selle' (this/that) + 'pärast' (after/because of), literally meaning 'because of this/that'."
 }

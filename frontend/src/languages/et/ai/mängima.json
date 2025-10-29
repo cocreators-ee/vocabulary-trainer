@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan mängima jalgpalli.",
-    "Ta tahab minna mängima pargis.",
-    "Lapsed on väljas mängimas."
+    "Mängin klaverit.",
+    "Lapsed mängivad pargis.",
+    "Meie bänd mängsi täna õhtul."
   ],
   "translation": [
-    "to play"
+    "to play",
+    "to perform",
+    "to act"
   ],
-  "context": "The word 'mängima' is a verb in Estonian that means to play, and it is commonly used in sentences to describe the act of engaging in a game or activity for enjoyment."
+  "context": "The Estonian word 'mängima' is a verb that means 'to play'. It can be used in various contexts such as playing games (e.g., 'mängu mängima'), playing musical instruments (e.g., 'klaverit mängima'), performing on stage (e.g., 'näidendis mängima'), or acting in a film/production. The word changes form depending on the subject and tense - for first person singular present it becomes 'mängin', third person plural present is 'mängivad', past tense could be 'mängis' etc."
 }

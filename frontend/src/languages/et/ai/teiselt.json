@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin selle teiselt päeval",
-    "Ta ütles seda teiselt poolt",
-    "Teiselt küljelt vaadates on see hea"
+    "Ta tuli teiselt poolt tänavat.",
+    "Me läksime teiselt ajal tööle.",
+    "Kõik on muutunud teiselt nägemisele."
   ],
   "translation": [
-    "on the other hand",
-    "secondly",
-    "from the other side"
+    "from the other side",
+    "from another time",
+    "in a different way"
   ],
-  "context": "The word 'teiselt' in Estonian is used to indicate something that is done or seen from another perspective, often translated to English as 'on the other hand' or 'secondly'. It can be used in various contexts to provide an alternative view or to contrast two ideas."
+  "context": "The Estonian word 'teiselt' is an adverbial form meaning 'from the other side', 'from another place/time', or 'in a different manner'. It's derived from 'teine' (other/another) and the '-lt' suffix indicating direction or source. This word is commonly used to indicate movement away from something, a perspective change, or an alternative approach to something."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "En ole käynyt siellä ei koskaan.",
-    "Hän ei ole nähnyt sitä ei koskaan.",
-    "Me emme ole tulleet tänne ei koskaan."
+    "Minä en koskaan mene sinne.",
+    "Hän ei koskaan saavu ajoissa.",
+    "He eivät koskaan puhu totta."
   ],
   "translation": [
     "never",
     "not ever"
   ],
-  "context": "The phrase 'ei koskaan' is used in Finnish to indicate that something has never happened or will never happen, and it can be translated to English as 'never' or 'not ever'."
+  "context": "\"Ei koskaan\" is a Finnish negative adverbial phrase that means \"never\" or \"not ever.\" It's formed by combining the negation word \"ei\" (no/not) with \"koskaan\" (ever). This phrase is used to express that something will never happen or has never happened. In Finnish, this construction follows the standard word order where the negative comes before the adverb."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan külas.",
-    "Küla on väike asula.",
-    "Külalised said külast ajast aega."
+    "Tere tulemast külasse!",
+    "Elame väikeses külas maal.",
+    "Külastasime vanu külasid Eestis."
   ],
   "translation": [
-    "village"
+    "village",
+    "hamlet"
   ],
-  "context": "The word 'küla' refers to a small village or rural settlement in Estonia, and it is commonly used to describe a person's place of residence or origin."
+  "context": "The word 'küla' means village or hamlet in Estonian. It refers to a small rural settlement, typically smaller than a town but larger than a single farmstead. In the first sentence, it's used with the '-sse' suffix indicating movement into the village. In the second sentence, it appears in the singular nominative case describing where they live. The third sentence shows the partitive form 'külasid' meaning multiple villages."
 }

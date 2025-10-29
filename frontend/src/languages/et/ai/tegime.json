@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me tegime seda tööd kiiresti.",
-    "Nad tegid ülesande õigesti.",
-    "Ta tegi oma osa hästi."
+    "Me tegime kohti kodu.",
+    "Tegime selle projekti kokku nädalaga.",
+    "Mis tegite eile? Me ei teginud midagi erilist."
   ],
   "translation": [
-    "did",
-    "made",
-    "done"
+    "we did",
+    "we made",
+    "we have done"
   ],
-  "context": "The word 'tegime' is the first person plural past tense form of the verb 'teha', which means 'to do' or 'to make' in English, and it is commonly used to describe completed actions in the past."
+  "context": "The word 'tegime' is the past tense first person plural form of the Estonian verb 'teha', which means 'to do' or 'to make'. It corresponds to English 'we did' or 'we have done'. This form indicates that the speaker(s) performed an action in the past. The root verb 'teha' belongs to the -da/-d infinitive group, and this is its simple past tense form for the first person plural (me/we)."
 }

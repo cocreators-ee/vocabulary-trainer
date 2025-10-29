@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtan kaasa raamatu.",
-    "Ta on hea kaasa komposiitor.",
-    "Kaasa ei ole lihtne."
+    "Ta tuli kaasa.",
+    "Ma võtsin kaasa oma raamatud.",
+    "Kas sa võtad kaasa oma kingad?"
   ],
   "translation": [
     "along with",
     "together with",
-    "with"
+    "take along"
   ],
-  "context": "The word 'kaasa' in Estonian is commonly used to indicate accompaniment or association, similar to the English preposition 'with'."
+  "context": "The Estonian word 'kaasa' is a versatile adverb or particle that can mean 'along with', 'together with', or be used as an imperative to indicate taking something. It's commonly used in contexts where someone or something is accompanying another person, or when indicating that items should be brought or taken along."
 }

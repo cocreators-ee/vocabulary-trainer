@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on õige lahendus.",
-    "Kas see vastus on õige?",
-    "Ta tegi õigesti märke."
+    "Õige on see vastus.",
+    "Ta alati annab õiged nõuanded.",
+    "Kas teie arvamus on õige?"
   ],
   "translation": [
     "correct",
-    "right"
+    "right",
+    "proper"
   ],
-  "context": "'õige' means correct or right. It is commonly used to describe something that is accurate, morally good, or appropriate."
+  "context": "The Estonian word 'õige' is an adjective that means correct, right, or proper. It's used to describe something that is accurate, true, follows the rules, or meets a standard. The word doesn't change form in these examples as it appears in its basic nominative singular form."
 }

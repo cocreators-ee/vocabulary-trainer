@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen jätnud auto maja juurde.",
-    "Ta on jätnud töö kõrvale.",
-    "Nad on jätnud oma varandid seal."
+    "Ta on jäänud kodus töö tegemata.",
+    "Meie projekt on veel pooleli, me pole veel lõpetanud ega jätanud ära.",
+    "Kas oled midagi jätnud?"
   ],
   "translation": [
     "left",
-    "abandoned"
+    "omitted",
+    "forgotten",
+    "failed to complete"
   ],
-  "context": "The word 'jätnud' is a verb in Estonian that means to leave something or someone behind, often in the sense of abandoning or quitting. It can be used in various contexts, such as leaving a place, ending a relationship, or giving up an activity."
+  "context": "The word 'jätnud' is the past participle form of the Estonian verb 'jätta', which means 'to leave', 'to omit', or 'to forget'. It indicates something that has been left behind, not completed, or forgotten in the past. The form shows completion of an action and agreement with a subject (though no specific case ending is visible here as it may depend on sentence context)."
 }

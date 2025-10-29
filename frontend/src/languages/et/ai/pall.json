@@ -1,15 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta viskas palli väga kaugele",
-    "Palli lennutas üle müüri",
-    "Pall on ümar ja punane"
+    "Põrandal on pall.",
+    "Lapsed mängivad palli.",
+    "Tegin uue palli."
   ],
   "translation": [
-    "ball",
-    "globe",
-    "sphere"
+    "ball"
   ],
-  "context": "The word 'pall' in Estonian generally refers to a round or spherical object, often used in the context of sports equipment, such as a basketball or football, but can also refer to other types of balls or globes."
+  "context": "The word 'pall' in Estonian means 'ball'. It is a common noun that refers to a round object typically used for games or sports. The word can be declined in different cases: nominative case 'pall', genitive case 'palli', partitive case 'palli', and illative case 'palli'. Example sentences show its usage in various contexts - having a ball on the floor, children playing with a ball, and making a new ball."
 }

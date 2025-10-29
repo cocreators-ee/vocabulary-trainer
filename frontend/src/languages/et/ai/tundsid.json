@@ -1,14 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Oled sa tundnud värtsit? Kas see oli kurb või pahane?",
-    "Kui sul on väike lapsukene, siis sageli tundsid vere ja teatavate raseduse hormonite muutused.",
-    "Mina ei tundsid midagi. Kui sa tundsid midagi, siis see oli hoopis teistsugune."
+    "Ma tundsin sind eile.",
+    "Tundsite mind ära?",
+    "Kuidas sa tundsid end?"
   ],
   "translation": [
     "felt",
-    "felt"
+    "recognized",
+    "knew"
   ],
-  "context": "Tundsid is the past tense of 'tunda,' meaning to feel or to sense something physically or emotionally."
+  "context": "The word 'tundsid' is the second person singular past tense form of the Estonian verb 'tundma', which means to feel, to sense, or to recognize. It can express physical sensations (feeling something), emotional feelings, or recognition/sensing a person or thing. In different contexts, it can translate to English words like 'felt', 'recognized', 'knew', or 'sensed'."
 }

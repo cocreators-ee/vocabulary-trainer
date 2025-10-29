@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tegelikult armastan pilti.",
-    "Pildi kvaliteet on hea.",
-    "Ta oskab joonistada ilusaid pilte."
+    "Ma olen pilt.",
+    "See on ilus pilt.",
+    "Pildid meenutavad head aegu."
   ],
   "translation": [
     "picture",
-    "image"
+    "image",
+    "photo"
   ],
-  "context": "The word 'pilt' in Estonian refers to a picture or image, and it is commonly used in everyday conversation to describe a visual representation of something."
+  "context": "The word 'pilt' is Estonian for 'picture', 'image', or 'photo'. It's a common noun used to refer to visual representations. In the examples, it appears in different contexts: as an identification ('I am a picture'), describing quality ('It is a beautiful picture'), and discussing memories ('Pictures remember good times'). Note that while 'pilt' typically refers to static images, not videos or moving pictures."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks vanglasse pärast kohtuotsust.",
-    "Politsei viis ta vanglasse.",
-    "Pärast aastaid vanglases vabanemine oli kergendus."
+    "Ta viidi vanglasse.",
+    "Meie lapsed läksid vanglasse külastama.",
+    "Politsei saatis mehed vanglasse."
   ],
   "translation": [
-    "prison",
-    "jail",
-    "penitentiary"
+    "to prison",
+    "into jail",
+    "to the penitentiary"
   ],
-  "context": "The word 'vanglasse' refers to the state of being in prison or jail. It is commonly used to describe someone who has been sentenced to serve time as punishment for a crime."
+  "context": "The word 'vanglasse' is an Estonian adessive case form meaning 'into prison/jail'. It's formed by adding the '-sse' suffix to 'vangla' (prison), indicating movement into or direction toward a place. This directional case shows where someone is being sent or taken."
 }

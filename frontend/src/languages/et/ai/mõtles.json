@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mõtlesin seda üle",
-    "Ta mõtles tulevikku",
-    "Me mõtlesime võimalustest"
+    "Ta mõtles hea plaanile.",
+    "Mina ei mõtelnud sellele piisavalt.",
+    "Me mõtlesime kõik võimalused läbi."
   ],
   "translation": [
     "thought",
     "considered",
     "reflected"
   ],
-  "context": "The word 'mõtles' is the past tense of the Estonian verb 'mõtlema', which means to think or consider something. It is commonly used in sentences to describe a person's thought process or mental state."
+  "context": "The word 'mõtles' is the past tense third person singular form of the Estonian verb 'mõtlema', which means to think, consider, or reflect. It describes someone who thought about something in the past."
 }

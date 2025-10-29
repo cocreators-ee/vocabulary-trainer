@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma joon lasi vett.",
-    "Lasi oli täis veest.",
-    "Ta tegi lasi klaasist."
+    "Tema lasi mind sisse.",
+    "Lase mul aidata.",
+    "Lasin endale kohvi teha."
   ],
   "translation": [
-    "glass"
+    "let",
+    "allow",
+    "permit"
   ],
-  "context": "The word 'lasi' is a noun in Estonian that refers to a glass, typically one used for drinking liquids."
+  "context": "The Estonian word 'lasi' is the past tense third person singular form of the verb 'laskma', which means 'to let', 'to allow', or 'to permit'. In English, it corresponds to verbs like 'let', 'allowed', or 'permitted' when referring to someone in the third person doing the action in the past. This word is commonly used to express permission or the act of allowing someone to do something."
 }

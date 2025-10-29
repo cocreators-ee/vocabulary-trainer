@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa voolu alla",
-    "Voolu all olek on ohtlik",
-    "Ta püüdis hoida end voolust eemal"
+    "Ei leidnud voolu majas.",
+    "Voolu on katkestatud.",
+    "Kontrollige voolu olemasolu."
   ],
   "translation": [
     "current",
-    "stream",
-    "flow"
+    "flow",
+    "power supply"
   ],
-  "context": "The word 'voolu' in Estonian generally refers to a flow of fluid, such as water or air, and can also be used metaphorically to describe a flow of ideas or events."
+  "context": "The word 'voolu' is the partitive case form of the Estonian noun 'vool'. In this form, it typically means 'of current', 'of flow', or 'of power supply'. It's used when talking about electricity (electrical current), water flow, or any type of flowing substance in a partial sense. For example, 'ei leidnud voolu majas' means 'didn't find current/power in the house', referring to electrical power."
 }

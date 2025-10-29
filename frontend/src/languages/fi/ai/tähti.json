@@ -1,15 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tähti on taivaalla.",
-    "Hän on tähdistössään tähti.",
-    "Romaanissa hahmo tuli esiin tähtinä."
+    "Tähti loistaa yöllä.",
+    "Taivaalla on monta tähteä.",
+    "Minä rakastan katsoa tähtiä."
   ],
   "translation": [
-    "star",
-    "celebrity",
-    "prominent person"
+    "star"
   ],
-  "context": "The Finnish word 'tähti' primarily means 'star,' but it can also refer to a celebrity or someone prominent in their field. The term is used both literally and metaphorically."
+  "context": "The word 'tähti' in Finnish means 'star'. It's a noun that refers to the celestial bodies we see in the night sky. In Finnish, nouns have grammatical cases and can appear in different forms depending on their role in the sentence. The basic form 'tähti' is the nominative case (subject form). When used as an object of the verb 'katsoa' (to look at), it appears in the partitive case as 'tähtiä', which shows that we're looking at multiple stars without specifying a particular number. Finnish also has plural forms, so 'tähti' becomes 'tähdet' when referring to multiple stars in nominative case."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kütust on võimalik valmistada erinevatest biomassist koosnevatest materjalidest.",
-    "Ta kasutas kütust, et auto käima panna.",
-    "Kütuse hinnad on viimastel aastatel oluliselt kõikunud."
+    "Auto vajab kütust.",
+    "Lisame tankimiseks kütust.",
+    "Kütushind on kõrge."
   ],
   "translation": [
     "fuel",
-    "propellant"
+    "gasoline",
+    "petrol"
   ],
-  "context": "The word 'kütust' in Estonian generally refers to fuel or propellant, which is commonly used in the context of energy sources for vehicles or other machines."
+  "context": "The word 'kütust' is the partitive case form of Estonian noun 'kütus', which means fuel. In Estonian, the partitive case is often used to indicate an unspecified amount or partial quantity of something. So 'kütust' literally translates to 'of fuel' or some fuel. It's commonly used when talking about needing fuel, adding fuel, or referring to fuel in a non-specific quantity context."
 }

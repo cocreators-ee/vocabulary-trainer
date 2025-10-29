@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kannan sind.",
-    "Kas sina kannad seda?",
-    "Ta kannab jääta."
+    "Kannab kooli kinga.",
+    "Ta kannab punast värvi.",
+    "Laps kannab palli peal."
   ],
   "translation": [
-    "carry",
-    "bear"
+    "wears",
+    "carries",
+    "bears"
   ],
-  "context": "'kannab' is the third person singular form of 'to carry' in Estonian. It's used to express physical carrying, as well as metaphorical or moral responsibilities."
+  "context": "In Estonian, 'kannab' is the third-person singular present tense form of the verb 'kandma', which means 'to wear', 'to carry', or 'to bear'. This verb can be used in various contexts - for clothing and accessories (wearing), physical objects (carrying), or abstract concepts (bearing/bearing responsibility). The conjugation shows it's specifically about what someone/something currently does."
 }

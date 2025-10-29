@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä on suuri ongelma meillä",
-    "Hänellä oli monia ongelmia elämässään",
-    "Ongelman ratkaisu vaati paljon aikaa"
+    "Minulla on pieni ongelma.",
+    "Tämä ongelma vaatii ratkaisun.",
+    "Ongelman selvittäminen kesti kauan."
   ],
   "translation": [
     "problem",
     "issue",
     "trouble"
   ],
-  "context": "The word 'ongelma' in Finnish refers to a problem or issue that needs to be solved or addressed, and it is commonly used in everyday conversations to describe difficulties or challenges."
+  "context": "The Finnish word 'ongelma' is a noun that means 'problem', 'issue', or 'trouble'. It's commonly used when referring to difficulties, challenges, or situations that need solutions. The word follows standard Finnish grammar with its stem 'ongelm-' and the '-a' ending indicating it's in the basic form (nominative case). In different contexts, it can appear in various cases such as partitive case ('ongelmaa'), genitive case ('ongelman'), or illative case ('ongelmaan') depending on how it functions in a sentence."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Magan ööd siirdud käes.",
-    "Ruttu mässan pärast sõita magama.",
-    "Ta ei suuda õhtul magada kuna tal on liiga palju energiat."
+    "Magan hommikul.",
+    "Ta magab hästi.",
+    "Me magasime pikalt."
   ],
   "translation": [
-    "to sleep",
-    "sleeping"
+    "sleep",
+    "be asleep",
+    "slumber"
   ],
-  "context": "'magan' is the first person singular form of 'magama', meaning to sleep. It refers to resting in a state where one's eyes are closed and consciousness fades, often used when talking about bedtime or lack of sleep"
+  "context": "The Estonian word 'magan' is a verb that means to sleep or be asleep. It is in the first person singular present form (I sleep). The root form would be 'magama'. This word can refer to both the act of sleeping and the state of being asleep, similar to English 'sleep' and 'be asleep'."
 }

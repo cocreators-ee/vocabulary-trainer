@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Lääkäri tuli juuri sairaalasta",
-    "Hänen äitinsä oli lääkäri",
-    "Lääkärin ammatti on erittäin vaativa"
+    "Minun täytyy mennä lääkärin luokse.",
+    "Lääkari tarkistaa potilaan verenkierrosta.",
+    "Lääkärit työskentelevät sairaaloissa ja terveyskeskuksissa."
   ],
   "translation": [
     "doctor",
-    "medical doctor",
-    "physician"
+    "physician",
+    "medical practitioner"
   ],
-  "context": "The word lääkäri refers to a medical professional who has completed their education and training in the field of medicine, and is licensed to practice as a doctor."
+  "context": "The Finnish word 'lääkäri' is a noun that refers to a medical doctor or physician. It can be used in singular form (lääkäri) when referring to one doctor, and in plural form (lääkärit) when referring to multiple doctors. The term is commonly used for any qualified medical professional who diagnoses and treats illnesses."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jalutan öösel",
-    "Jalutame koos pargis",
-    "Ta on hea jalutaja"
+    "Ma jalutan parkis.",
+    "Ta jalutas linna tänavaid.",
+    "Me jalutasime metsas."
   ],
   "translation": [
     "to walk",
-    "hike",
-    "stroll"
+    "to stroll",
+    "to wander"
   ],
-  "context": "The word 'jalutada' is commonly used in Estonian to describe the act of walking, often in a leisurely or casual manner, and can be used in various contexts such as hiking, strolling, or simply taking a walk."
+  "context": "The Estonian word 'jalutada' is a verb that means to walk, stroll, or wander. It's typically used for walking for pleasure or exercise rather than just moving from one place to another. The word follows Estonian verb conjugation patterns and can be found in various tenses and forms like 'jalan', 'jaldad', 'jalutasime' etc."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma nägin peole tüdrukut.",
-    "Peole läks palju inimesi.",
-    "Ta on peole väga hea."
+    "Tule meie peole!",
+    "Kas sa tulid eile peole?",
+    "Meil on täna öösel suur peole."
   ],
   "translation": [
-    "party",
-    "celebration",
-    "gathering"
+    "to a party",
+    "to the party"
   ],
-  "context": "The Estonian word 'peole' refers to a social event where people gather for enjoyment, typically involving music, dancing, and conversation. It is commonly used to describe parties, celebrations or gatherings."
+  "context": "The Estonian word 'peole' is an inessive case form of 'peo', which means 'party'. It indicates movement toward or location at a party. The '-le' suffix indicates the allative case, suggesting direction toward something. In context, it would typically be used when inviting someone to go to a party or asking if someone attended a party."
 }

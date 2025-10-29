@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen väljas jalutama.",
-    "Ta on väljas tööl.",
-    "Väljas on ilus ilm."
+    "Maga väljas külmas ilmas.",
+    "Tere tulemast meie rõdusse, mis on väljas päikesepaistes.",
+    "Naised olid väljas peol ja tantsisid kuni hommikuni."
   ],
   "translation": [
-    "out",
-    "outside"
+    "outside",
+    "outdoors",
+    "open air"
   ],
-  "context": "The word 'väljas' in Estonian generally refers to something or someone being outside, either physically or in a broader sense, and it is commonly used in various contexts to convey the idea of being out or outside of a particular place or situation."
+  "context": "The Estonian word 'väljas' is an adverb that means 'outside' or 'outdoors'. It's the inessive case of the adjective 'väline', which means 'external' or 'outer'. The word indicates location outside, as opposed to inside. In different contexts it can refer to being physically outdoors, or in some cases, it might be used more abstractly to indicate something is external to a certain context."
 }

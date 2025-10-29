@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Õnneks oli mul kaasas vihmavari.",
-    "Ma olen õnneküll, et ma sellest puudust ei kannata.",
-    "Õnneks on tal suurepärane mälu."
+    "Õnneks jõudsime varakult.",
+    "Õnneks ei olnud vihma.",
+    "Õnnekspolegi meil aega järgmisteks testideks."
   ],
   "translation": [
     "luckily",
-    "fortunately"
+    "fortunately",
+    "thankfully"
   ],
-  "context": "The word õnneks is an adverb in Estonian that is commonly used to express relief or gratitude for a fortunate situation, similar to the English words luckily or fortunately."
+  "context": "The Estonian word 'õnneks' is an adverb that means 'luckily', 'fortunately', or 'thankfully'. It's derived from the noun 'õnn' (luck, fortune) and the suffix '-eks' which forms adverbs indicating cause or reason. This word is used to express that something fortunate happened or that a potentially negative situation was avoided due to luck or good circumstances."
 }

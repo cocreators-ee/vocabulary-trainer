@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegi mulle pakkumise.",
-    "Pakkumise tingimused olid selgelt kirjeldatud.",
-    "Firma esitas klientile pakkumise."
+    "Selle pakumise eest olen väga tänulik.",
+    "Meie ettevõte on teinud olulise pakkumise.",
+    "Kas sa oled näinud seda uut pakkumist?"
   ],
   "translation": [
     "offer",
     "proposal",
     "bid"
   ],
-  "context": "The word 'pakkumise' in Estonian refers to a proposal or offer made by someone, often in a business or formal setting, and is commonly used in contexts where a suggestion or recommendation is being put forward for consideration."
+  "context": "The Estonian word 'pakkumise' is the genitive singular form of 'pakkumine', which means 'offer' or 'proposal'. It indicates something that is being offered to someone, often in a business context like a job offer, business proposal, or bid. The '-ise' ending shows possession or relation - so it literally means 'of an offer' or 'related to an offer'. This form is commonly used when you want to express what belongs to or is associated with the offer."
 }

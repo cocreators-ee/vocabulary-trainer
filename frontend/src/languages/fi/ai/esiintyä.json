@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä esiintyn lavalla huomenna.",
-    "Hän on esiintynyt monissa elokuvissa.",
-    "He esiintyvät yhdessä tänään."
+    "Hän esiintyi konsertissa viime yönä.",
+    "Artisti esiintyy joka kesä tässä festivaalilla.",
+    "Musiikkitapahtumaan on vapaa pääsy, ja monet tunnetut artistit esiintyvät."
   ],
   "translation": [
-    "to appear",
-    "to perform"
+    "appear",
+    "perform",
+    "present oneself"
   ],
-  "context": "The word 'esiintyä' is commonly used in Finnish to mean appearing or performing somewhere, such as on a stage or in a movie."
+  "context": "The Finnish verb 'esiintyä' means to appear, perform, or present oneself in public. It's commonly used when referring to people performing on stage (musicians, actors, speakers) or appearing publicly in some capacity. The word can be conjugated into different forms such as esiinnytän (I appear/perform), esiinnymme (we appear/perform), and esiintyvät (they appear/perform)."
 }

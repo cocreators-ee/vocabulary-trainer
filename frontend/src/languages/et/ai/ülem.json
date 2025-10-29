@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on ülem valitsuse otsusest.",
-    "Ülem sai teada, et tal on sünnipäev.",
-    "Ta oli ülem ohvitseride hulgas."
+    "Ülem on meie uus juht.",
+    "Tal on ülem positsioon ettevõttes.",
+    "Ta sai ülemaks pärast eelmist juhti lahkumist."
   ],
   "translation": [
-    "upper",
     "superior",
-    "senior"
+    "higher",
+    "above",
+    "chief",
+    "top"
   ],
-  "context": "The word \"ülem\" in Estonian generally means something or someone that is higher in rank or position, and it can be used to describe a physical location or a person's status in a hierarchy."
+  "context": "The Estonian word 'ülem' is an adjective and noun that refers to something or someone positioned above others in hierarchy, status, or position. It can mean superior, higher-ranking, chief, or top-level. As an adjective it describes the quality of being above or superior to something else, while as a noun it often refers to a person with authority over others."
 }

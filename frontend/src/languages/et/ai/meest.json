@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minu mees on saabunud.",
-    "See mees jättis oma kassidele toitu.",
-    "Temaga tegutsus hea mees."
+    "Meest on tore koht.",
+    "Tema on mees ja temast saab meheks.",
+    "Kaks meest läksid linna."
   ],
   "translation": [
     "man",
-    "husband"
+    "male person"
   ],
-  "context": "'meest' is the genitive singular form of 'mee' which means man or husband. It's commonly used in sentences where a male person is referenced, often indicating ownership or relationship such as my man, his husband etc."
+  "context": "The word 'meest' is the elative case form of Estonian noun 'mees', meaning 'from a man'. The elative case indicates movement or origin from something. In this case, it would translate to English as 'from a man' or 'out of a man'. This is one of the 14 grammatical cases in Estonian that modifies nouns to show different relationships."
 }

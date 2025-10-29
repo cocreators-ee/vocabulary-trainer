@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän ansaitsee paljon dollareita vuodessa.",
-    "Dollari on vahva valuutta.",
-    "Yhdysvaltain dollari on maailmanlaajuisesti hyväksytty valuutta."
+    "Minulla on viisi dollaria.",
+    "Dollarit ovat arvokkaampia euroja vastaan kuin ennen.",
+    "Hän ansaiti sadan dollarin palkkion."
   ],
   "translation": [
-    "dollar"
+    "dollar",
+    "US dollar"
   ],
-  "context": "The word 'dollari' refers to the US dollar or a unit of currency, and it is commonly used in Finnish to talk about money or financial transactions."
+  "context": "The Finnish word 'dollari' refers to the US dollar currency. It's a loanword from English and is used in Finland just like in English when referring to American currency. The word follows normal Finnish inflection patterns - for example, 'dollaria' (partitive case), 'dollarit' (nominative plural)."
 }

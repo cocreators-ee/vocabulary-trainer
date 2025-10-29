@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta vihkab mind.",
-    "Nad vihkavad valetamist.",
-    "Ma ei vihka kedagi."
+    "Ta vihkab kõiki.",
+    "Mees vihkab teist mehe.",
+    "Tüdruk ei vihka kedagi."
   ],
   "translation": [
-    "hate",
-    "detest",
-    "loathe"
+    "hates",
+    "detests",
+    "loathes"
   ],
-  "context": "The verb 'vihkab' in Estonian means 'to hate'. It expresses a strong dislike or aversion towards someone or something. It is commonly used to express intense negative feelings."
+  "context": "The Estonian word 'vihkab' is the third person singular present form of the verb 'vihatsema', which means 'to hate'. It describes a strong feeling of dislike or animosity towards someone or something. This word expresses intense negative feelings and is used when talking about what someone currently hates or detests."
 }

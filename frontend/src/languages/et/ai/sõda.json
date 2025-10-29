@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sõda on hävitanud maad.",
-    "Ta osales sõjas.",
-    "Sõja tagajärjel said paljud inimesed kannatada."
+    "Eestis on palju ajalugu sõdade kohta.",
+    "Sõda on kohutav nähtus.",
+    "Me peame vältima tulevaseid sõdu."
   ],
   "translation": [
-    "war"
+    "war",
+    "conflict",
+    "battle"
   ],
-  "context": "The word sõda refers to a state of armed conflict between nations or states, and is commonly used in Estonian to describe historical or ongoing wars."
+  "context": "The word 'sõda' in Estonian means 'war'. It is a noun that refers to armed conflict between nations or large groups. The word can be used in various contexts to describe historical wars, ongoing conflicts, or the concept of war in general."
 }

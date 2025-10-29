@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta seisab seal",
-    "Seisab keset tuba",
-    "Need seisavad kõige paremini"
+    "Tere! Tema seisab siin.",
+    "Kes seal seisab?",
+    "Mees seisab postitoas."
   ],
   "translation": [
     "stands",
-    "is standing"
+    "is standing",
+    "sits (of a chair)"
   ],
-  "context": "The word 'seisab' is a verb in Estonian that means to stand or be standing, and it is commonly used to describe the physical act of standing upright."
+  "context": "The word 'seisab' is the third-person singular present indicative form of the Estonian verb 'seisma', which means 'to stand'. It describes someone or something that is in an upright position on their feet. In some contexts, it can also refer to furniture like chairs being placed or positioned."
 }

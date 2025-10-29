@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks kabinetis.",
-    "Kabinetis oli palju raamatuid.",
-    "Me arutasime probleemi kabinetis."
+    "Töötan kabinetis.",
+    "Kuningas istus oma kabinetis.",
+    "Külastame kabineti kõige ilusamates ruumides."
   ],
   "translation": [
-    "in the cabinet",
     "in the office",
-    "in the study"
+    "in the study",
+    "in the cabinet"
   ],
-  "context": "The word 'kabinetis' in Estonian translates to 'in the cabinet', 'in the office', or 'in the study' in English. It indicates a location, specifically an enclosed room used for work, storage, or private meetings. It is similar to the English words 'cabinet', 'office', and 'study'. The word can also refer to a political cabinet."
+  "context": "The word 'kabinetis' is in the inessive case of Estonian, meaning it indicates location within something. It comes from 'kabinet' which means 'office', 'study', or 'cabinet'. The '-is' ending indicates the inessive case (inside). So 'kabinetis' specifically means 'in the office/study/cabinet'."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kaugelt siin",
-    "Kaugelt vaadatuna oli see hea otsus",
-    "Ta on kaugelt parem kui eelmised"
+    "Kaugelt kuulsin heli.",
+    "Ta tuli kaugelt linnast.",
+    "Mäed paistavad kaugelt."
   ],
   "translation": [
-    "from afar",
-    "distantly",
-    "far away"
+    "from far away",
+    "from a distance"
   ],
-  "context": "The word kaugelt is an adverb in Estonian that means from a distance, either physically or figuratively, and is commonly used to describe something that is seen or perceived from far away."
+  "context": "The Estonian word 'kaugelt' is an adverb that means 'from far away' or 'from a distance'. It describes the origin or direction of something coming from a remote location. The word derives from 'kauge' (far) with the '-lt' suffix indicating ablative case, showing movement from a place."
 }

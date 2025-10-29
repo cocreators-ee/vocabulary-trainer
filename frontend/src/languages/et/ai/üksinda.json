@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen üksinda kodus.",
-    "Ta on alati üksinda.",
-    "Üksinda või mitte, see ei ole hea."
+    "Ta elas üksindas metsa ääres.",
+    "Lapsed said ööseks kodus üksinda olemisest piisavalt kartuse.",
+    "Õde jättis lapse üksinda tuppa."
   ],
   "translation": [
     "alone",
-    "lonely"
+    "by oneself",
+    "single-handedly"
   ],
-  "context": "The word \"üksinda\" in Estonian means being alone or having no one else present, and it is commonly used to describe a state of solitude or isolation."
+  "context": "The Estonian word 'üksinda' is an adverb that means alone or by oneself. It emphasizes being in a solitary state without company, either physically alone or functioning independently of others. The word combines 'üksi-' (from 'üks' meaning one) with the suffix '-da' indicating manner or state. This construction clearly conveys the concept of singularity and independence."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See on minu kodu.",
-    "Seal on suur viktoriiniakula.",
-    "Mina hoolitan sellest lõunast."
+    "See on meie maja.",
+    "Mis see asi on?",
+    "Seda eset ei näe kuskagi."
   ],
   "translation": [
-    "this"
+    "this",
+    "that"
   ],
-  "context": "A common word to indicate something close at hand or previously mentioned. Used in both singular and plural contexts depending on the situation, but always refers to concrete objects or concepts that are clear from context."
+  "context": "The Estonian word 'see' is a demonstrative pronoun that means 'this' or 'that'. It's used to point out specific objects, people, or concepts. In its basic form, it can refer to something near the speaker ('this') but doesn't have strict distance distinctions like some other languages. The word changes form depending on case: nominative 'see', accusative 'seda', genitive 'selles', etc."
 }

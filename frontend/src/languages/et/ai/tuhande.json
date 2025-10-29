@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen tuhande krooni võlakirja omanik.",
-    "Ta on tuhande euro suuruse kahjumiga lõppenud.",
-    "Tuhande inimese koosolekul räägiti poliitikast."
+    "Tuhande inimese ees",
+    "Meil on tuhandeid küsimusi",
+    "Ta läks tuhandesse linna"
   ],
   "translation": [
-    "thousand"
+    "thousand",
+    "of thousands",
+    "a thousand"
   ],
-  "context": "The word 'tuhande' is an Estonian adjective that means one thousand and is commonly used to express large quantities or numbers."
+  "context": "The word 'tuhande' is the partitive case form of the Estonian numeral 'tuhat' (meaning 'thousand'). In Estonian, numerals can change their ending depending on grammatical case. The partitive case is often used with numbers when they indicate an unspecified quantity or are followed by a noun in the genitive case. For example, 'tuhande inimese' means 'of thousands of people' or 'thousands of people', where 'inimeste' is the genitive plural of 'inimene' (person)."
 }

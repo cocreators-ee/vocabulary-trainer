@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mäe otsas on loss.",
-    "Ta elab mäe all.",
-    "Mäe tipus on vaateplatvorm."
+    "Mäe olen teinud palju tööd.",
+    "Kõrgemal mäel on ilus vaade.",
+    "Mäed ulatuvad pilvedeni."
   ],
   "translation": [
     "mountain",
     "hill"
   ],
-  "context": "The word 'mäe' is a genitive form of the Estonian word for mountain or hill, often used to describe locations or geography."
+  "context": "The word 'mäe' is the partitive case form of 'mägi' (mountain) in Estonian. In the partitive case, it typically indicates an incomplete action or an unspecified quantity of something. For example, 'Mäe olen teinud palju tööd' means 'I have done a lot of work on the mountain.' The word can refer to both mountains and hills depending on context."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma päriselt ei tea",
-    "Ta rääkis päriselt tõsiselt",
-    "Päriselt võin ma seda teha"
+    "Ta rääkis päriselt hästi.",
+    "Olen päriselt väsinud.",
+    "See oli päriselt hea idee."
   ],
   "translation": [
     "really",
+    "truly",
     "actually",
-    "truly"
+    "genuinely"
   ],
-  "context": "The word \"päriselt\" in Estonian is an adverb that means really or actually, and it is commonly used to emphasize the truth or reality of something."
+  "context": "The Estonian word 'päriselt' is an adverb that means 'really', 'truly', or 'actually'. It's used to emphasize the truthfulness, genuineness, or intensity of what is being said. The word comes from 'päris' (real/true) with the '-elt' suffix indicating manner or way. In sentences, it modifies verbs or adjectives to add emphasis about how something truly is or was done."
 }

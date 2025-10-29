@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Need luuserid jäi meist kõigi ees.",
-    "Ma olen lihtsalt suurepärane luuser, mida nad siin iga päev otsivad.",
-    "See film oli nii halb, et see pani isegi tugevaima luusersel rasketusega."
+    "Ta on ilmselt luuser, kui ta ei osa seda asja ära teha.",
+    "Mul oli alati kalduvus olla klassi luuser.",
+    "Tüdrukud naervad temast, sest ta on nii suur luuser."
   ],
   "translation": [
-    "loser"
+    "loser",
+    "failure",
+    "unsuccessful person"
   ],
-  "context": "'luuser' is a slang term used to describe someone who is considered a failure or an unfortunate person. It often carries a negative connotation and may be used in casual speech among friends."
+  "context": "The Estonian word 'luuser' is a loanword from English 'loser'. It refers to someone who is unsuccessful, incompetent, or fails to achieve what others expect. It's often used in informal contexts and can be somewhat pejorative when referring to someone who consistently performs poorly socially, academically, or in other areas where success is measured."
 }

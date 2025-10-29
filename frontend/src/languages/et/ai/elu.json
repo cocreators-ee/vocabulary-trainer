@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan elu.",
-    "Elul on palju üllatusi.",
-    "Tema elu oli täis võitlusi."
+    "Elu on ilus.",
+    "Ta elab rõõmsalt elu.",
+    "Meie jagame elu teistega."
   ],
   "translation": [
-    "life"
+    "life",
+    "existence",
+    "living"
   ],
-  "context": "The word 'elu' generally refers to the state of being alive or a living being, and is commonly used in Estonian to express a broad range of concepts related to existence, experience, or vitality."
+  "context": "The Estonian word 'elu' primarily means 'life' in English. It refers to the state of being alive, human existence, or the experience of living. As a feminine noun, it can appear in various cases depending on its function in a sentence - nominative form is 'elu', but it can take other endings like '-ga' (with life), '-de' (lives), etc., depending on grammatical context. It's a fundamental concept in Estonian language and culture."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Esine on pöydällä.",
-    "Hän otti esineen käteensä ja tutki sitä tarkkaan.",
-    "Esineet ovat kauniita ja arvokkaita."
+    "Esineet ovat museossa.",
+    "Hän esittää taidenäyttelyssä.",
+    "Esineet pitää järjestellä hienovaraisesti."
   ],
   "translation": [
-    "object",
-    "item",
-    "thing"
+    "to appear",
+    "to be present",
+    "to exhibit"
   ],
-  "context": "The word 'esine' in Finnish refers to an object or item, and it is commonly used in everyday language to describe something that can be held in one's hand or seen in the environment."
+  "context": "The Finnish word 'esine' primarily means an object or item, but as a verb form (from the verb 'esiintyä'), it can mean to appear, to be present, or to exhibit. In its noun form, 'esine' refers to an inanimate object or thing."
 }

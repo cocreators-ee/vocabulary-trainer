@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen teda igal hommikul.",
-    "Nad näevad mind kui võõras.",
-    "Ta näeb unes midagi."
+    "Nemad näevad päikest.",
+    "Lapsed näevad lindu.",
+    "Meie näeme nüüd kõiki."
   ],
   "translation": [
     "see",
-    "sees"
+    "watching",
+    "are watching"
   ],
-  "context": "The word 'näevad' is the third person plural form of the verb 'näha', which means to see in English. It is commonly used to describe the act of perceiving something with one's eyes."
+  "context": "The word 'näevad' is the 3rd person plural present tense form of the Estonian verb 'näema', which means 'to see'. In this conjugated form, it specifically translates to 'they see' or 'they are watching'. It follows Estonian verb conjugation patterns where the ending changes according to the subject and tense."
 }

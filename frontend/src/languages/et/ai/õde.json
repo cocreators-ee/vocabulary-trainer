@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
+    "Õde on haiglas töötanud kümme aastat.",
     "Minu õde elab Tallinnas.",
-    "Õdedel on ühistest huvist.",
-    "Ta on väga hea õde."
+    "Tal on kaks õde ja vend."
   ],
   "translation": [
     "sister"
   ],
-  "context": "The word õde is a noun that refers to a female sibling, and it is commonly used in Estonian language to express familial relationships."
+  "context": "In Estonian, 'õde' means sister. It is a feminine noun that refers to a female sibling. The word follows Estonian grammar rules for gender and number. When plural forms are used (like 'õed'), it would mean sisters."
 }

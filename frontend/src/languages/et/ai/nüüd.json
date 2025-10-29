@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lähen nüüd koju",
-    "Nüüd on aeg ära minna",
-    "Ta tuleb nüüd tagasi"
+    "Nüüd on kõik korras.",
+    "Miks sa tuled nüüd?",
+    "Ta tuleb nüüd koju."
   ],
   "translation": [
-    "now"
+    "now",
+    "right now",
+    "at this moment"
   ],
-  "context": "The word 'nüüd' is an adverb that means 'now' in English, and it is commonly used to indicate the present moment or a change in time."
+  "context": "The Estonian word 'nüüd' means 'now' in English. It is used to indicate the present time or current moment. This is a common temporal adverb that can stand alone or be part of longer phrases indicating immediacy or currentness."
 }

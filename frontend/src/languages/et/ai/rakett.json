@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Rakett lendas üle maja.",
-    "Ta tegi oma esimese raketi.",
-    "Raketid lendasid õhus."
+    "Meil on uus rakett.",
+    "Raketid lendavad kosmose poole.",
+    "Ta konstrueeris esimese eesti raketti."
   ],
   "translation": [
     "rocket"
   ],
-  "context": "The word 'rakett' refers to a vehicle that uses propulsion to achieve high speed, often used in space exploration or military contexts."
+  "context": "The Estonian word 'rakett' is a noun that means 'rocket'. It refers to a projectile, spacecraft, or missile propelled by a rocket engine. In plural form it becomes 'raketid', and in the genitive case it would be 'raketti' (as in 'esimest eesti raketti')."
 }

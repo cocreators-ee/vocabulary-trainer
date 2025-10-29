@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Olen täällä saakka",
-    "Hän tulee takaisin saakka",
-    "Me olemme naimisissa saakka"
+    "Mene autotalliin saakka.",
+    "Kello viiteen asti tai saakka?",
+    "Hän juoksi portaita pitkin aina katutasoon saakka."
   ],
   "translation": [
     "until",
-    "till"
+    "up to",
+    "as far as"
   ],
-  "context": "The word 'saakka' is a postposition in Finnish that indicates the end of a period or duration, similar to the English words 'until' or 'till'."
+  "context": "The Finnish word 'saakka' is a postposition used to indicate the limit or endpoint of an action, movement, or time period. It functions similarly to English 'until' or 'up to', specifying how far something extends in space, time, or degree. For example, 'Mene autotalliin saakka' means 'Go until/into the garage', indicating that the destination is the garage."
 }

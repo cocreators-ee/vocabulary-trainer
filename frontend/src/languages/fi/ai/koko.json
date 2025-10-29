@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kokoa ei saa ruumiin kautta.",
-    "Ei ole koko suurta eron vuoksi.",
-    "Rouva oli aivan liian pitkä kokoon pukeutumaan."
+    "Koko perhe oli paikalla juhlassa.",
+    "Hän luki koko kirjan yhdessä iltana.",
+    "Tämä on koko totuus asiasta."
   ],
   "translation": [
+    "whole",
     "entire",
-    "whole"
+    "complete",
+    "full"
   ],
-  "context": "The word 'koko' in Finnish is used to denote something as complete, all of it, or the entirety. It often precedes a noun to emphasize that nothing is missing from it."
+  "context": "In Finnish, 'koko' is an adjective that means 'whole', 'entire', or 'complete'. It's used to indicate something in its entirety without any parts missing. For example, when referring to a whole family ('koko perhe'), an entire book ('koko kirja'), or the complete truth ('koko totuus'). The word doesn't change form based on gender but may need to be declined according to case and number agreement with the noun it modifies."
 }

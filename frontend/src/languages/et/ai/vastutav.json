@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on vastutav meeskonna juht.",
-    "Vastutavad inimesed peavad olema valmis töö eest vastutama.",
-    "Firma vastutav osanik on selle asutaja."
+    "Ta on vastutav meie projektist.",
+    "Kõik need inimesed on vastutavad oma tegude eest.",
+    "Pead olema vastutav oma sõprade ees."
   ],
   "translation": [
     "responsible",
+    "accountable",
     "liable"
   ],
-  "context": "The word 'vastutav' in Estonian means being responsible or answerable for something, and it is commonly used to describe a person who has control over a task or project and can be held accountable for its outcome."
+  "context": "The word 'vastutav' is an adjective that means responsible or accountable. It describes someone who takes responsibility for their actions, duties, or obligations. In Estonian, this form indicates the nominative singular masculine/feminine form of the adjective. The word comes from the verb 'vastama' (to answer/respond) and typically implies a sense of duty and obligation."
 }

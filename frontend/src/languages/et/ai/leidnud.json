@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen leidnud oma kodu.",
-    "Ta on leidnud head töökoha.",
-    "Nad on leidnud oma unistuste auto."
+    "Olen leidnud oma kadunud koera.",
+    "Ta oli leidnud uue töö.",
+    "Meie lapsed on leidnud häid mänge."
   ],
   "translation": [
-    "found"
+    "found",
+    "discovered",
+    "came across"
   ],
-  "context": "The word 'leidnud' is the past tense of the Estonian verb 'leidma', which means to find something. It is commonly used in sentences to describe discovering or locating an object, person, or place."
+  "context": "Leidnud is the past tense form of the Estonian verb 'leida', meaning 'to find' or 'to discover'. It indicates that someone has found something in the past. In English, it corresponds to the simple past tense 'found' or the present perfect tense 'have found'. The word is commonly used when reporting the discovery of lost objects, places, opportunities, or information."
 }

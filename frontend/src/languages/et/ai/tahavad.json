@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahavad seda filmi vaadata",
-    "Nad tahavad minuga koos käia",
-    "Meie tahavad sinna homme minna"
+    "Tahavad minna poodi.",
+    "Naised tahavad head elu.",
+    "Lapsed ei taha magada."
   ],
   "translation": [
-    "want to",
-    "wish to",
-    "desire to"
+    "want",
+    "desire",
+    "wish"
   ],
-  "context": "The word 'tahavad' is the third person plural form of the verb 'tahtma', which means to want or wish something, and it is commonly used in Estonian language to express desire or intention."
+  "context": "The word 'tahavad' is the third person plural present indicative form of the Estonian verb 'tahtma', which means 'to want' or 'to wish'. It specifically refers to what a group of people (they) currently desire or want. The word shows that the action or state of wanting applies to multiple subjects in the present tense."
 }

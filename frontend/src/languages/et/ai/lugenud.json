@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lugenud seda raamatu.",
-    "Ta on lugenud palju raamatuid.",
-    "Nad on lugenud kogu öö."
+    "Ma olen lugenud seda raamatut.",
+    "Ta on lugenud palju ajaloolisi tekste.",
+    "Lugenud mees tõi uue teabe."
   ],
   "translation": [
-    "read",
-    "have read"
+    "read (past tense/past participle)",
+    "have read",
+    "has read"
   ],
-  "context": "The word 'lugenud' is the past participle form of the verb 'lugema', which means to read in English. It is commonly used to describe an action that has been completed in the past, such as having read a book."
+  "context": "The Estonian word 'lugenud' is the past tense and past participle form of the verb 'lugema', which means 'to read'. It indicates that reading has been completed. The ending '-d' in Estonian marks this as a past participle or perfective aspect verb form, similar to how English uses 'read' (pronounced differently) for both present and simple past, but with the implication of completion in many contexts."
 }

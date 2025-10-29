@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän tekee hyvää työtä.",
-    "Tekee hän kohtuullisen hyviä urheilusuorituksia.",
-    "Mikä tekee sinut onnelliseksi?"
+    "Tekee mieli juoda kahvia.",
+    "Se tekee hyvää terveydelle.",
+    "Hän tekee paljon töitä."
   ],
   "translation": [
     "does",
     "makes",
-    "performs"
+    "is doing"
   ],
-  "context": "The word 'tekee' is a verb in Finnish that means to do or make something, and it is commonly used in everyday conversations to describe actions or activities."
+  "context": "The Finnish word 'tekee' is the third person singular present tense form of the verb 'tehdä', which means 'to do' or 'to make'. It's commonly used to describe actions performed by someone (he/she/it does/makes something). This form appears frequently in everyday conversations and is essential for expressing current actions."
 }

@@ -1,14 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mind meelub, et see pole hea mõte.",
-    "Mind kõlatab see lihtsalt sarnaselt inglise keelele.",
-    "Mind see jääb teada ainult mulle."
+    "Mind ei tea.",
+    "Tüdruk mind küsib.",
+    "Kus mind on?"
   ],
   "translation": [
-    "I think",
-    "It seems"
+    "me"
   ],
-  "context": "'mind' is a first person singular form of the verb 'ma pean', which means to think. It can be used in various sentences when expressing one's opinion or thought process. The word has different meanings depending on the context it's being used in, including thinking about something, considering something important, or indicating ownership."
+  "context": "In Estonian, 'mind' is the partitive case of the personal pronoun 'mina', which means 'I'. The partitive case is used when the pronoun is the object of a verb or follows certain prepositions. It can be translated as 'me' in English contexts where it refers to oneself as an object."
 }

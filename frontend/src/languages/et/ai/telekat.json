@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma vaatasin eile telekat terve õhtu.",
-    "Telekas on täna väga hea saade.",
-    "Lapsed armastavad telekat vaadata."
+    "Telekat on toas.",
+    "Vaata teleka!",
+    "Mul pole teleka."
   ],
   "translation": [
-    "television",
-    "TV",
-    "the telly"
+    "television set",
+    "TV"
   ],
-  "context": "The word 'telekat' is a colloquial and shortened form of 'televisioonikasti', meaning television or TV in Estonian. It’s commonly used in everyday speech to refer to watching television programs."
+  "context": "The word 'telekat' is an Estonian noun meaning 'television set' or simply 'TV'. It's a colloquial form of the more formal word 'televisioon'. In Estonian, '-kat' is a diminutive suffix that can be used to create informal versions of words. The word is in singular nominative case here."
 }

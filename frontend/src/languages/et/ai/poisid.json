@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Poisid mängisid jalgpalli.",
-    "Tal on poisid, kes armastavad jalgpalli.",
-    "Poisid läksid kooli."
+    "Tule poisid koju!",
+    "Need poisid on head mängijad.",
+    "Kes need poisid on?"
   ],
   "translation": [
-    "boys"
+    "boys",
+    "lads",
+    "young men"
   ],
-  "context": "The word 'poisid' is the plural form of 'poiss', which means boy in English. It is commonly used to refer to young males, often in an informal setting."
+  "context": "The word 'poisid' is the plural form of 'poiss' in Estonian, meaning 'boy'. It refers to multiple boys or young males. In Estonian grammar, this follows the regular declension pattern where masculine nouns ending in -s in singular become -d in plural when referring to subjects/nominative case."
 }

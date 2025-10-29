@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elab keset linna.",
-    "Keset ööd helises ukseklapp.",
-    "Keset suve läksin puhkusele."
+    "Keset linna asub peahoone.",
+    "Me istusime keset teed ootama.",
+    "Lapsed mängisid keset parki."
   ],
   "translation": [
+    "amidst",
     "in the middle of",
-    "amidst"
+    "among",
+    "surrounded by"
   ],
-  "context": "The word 'keset' is commonly used in Estonian to indicate something is located in the middle of something else, such as a city or an event. It can also be used to describe something happening amidst another activity or time period."
+  "context": "The Estonian word 'keset' is an adessive case form that means 'in the middle of', 'amidst', or 'among'. It indicates being positioned in the center or surrounded by something. The word follows the noun it modifies and typically appears with the genitive case in constructions like 'keset + genitive'. It's used to describe location or position within a larger area or group."
 }

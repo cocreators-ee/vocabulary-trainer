@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olete juba teanud, et see on ohtlik?",
-    "Kuidas saite teada sellest?",
-    "Ma ei tea, mida teadsite."
+    "Teadsite seda?",
+    "Miks te ei teadsinud seda?",
+    "Nad teadsid vastust kohe."
   ],
   "translation": [
-    "you knew"
+    "knew (plural)",
+    "were aware of (plural)",
+    "had knowledge of (plural)"
   ],
-  "context": "The Estonian word 'teadsite' is the second person plural past tense of the verb 'tahksida', meaning to know. It is commonly used in sentences where a group of people is being addressed and it is stated or asked that they had prior knowledge about something."
+  "context": "The word 'teadsite' is the past tense plural form of the Estonian verb 'tundma', which means 'to know'. It specifically refers to a situation in the past where multiple people had knowledge or awareness of something. The '-site' ending indicates the 3rd person plural past tense form, making it equivalent to English 'they knew' or 'you (plural) knew'."
 }

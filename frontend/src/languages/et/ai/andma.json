@@ -1,15 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma andan sulle raamatu.",
-    "Ta on andnud mulle head õpetust.",
-    "Andsin talle kingituse."
+    "Ma tahan andma sulle abi.",
+    "Ta annab alati head nõuandeid.",
+    "Meie peaksime andma rohkem aega lastele."
   ],
   "translation": [
-    "to give",
-    "donate",
-    "grant"
+    "to give"
   ],
-  "context": "The word 'andma' is a verb in Estonian that means to give or donate something to someone, and it is commonly used in everyday conversations to express the act of providing or offering something."
+  "context": "The word 'andma' is an Estonian verb that means 'to give'. It's in the infinitive form. In different contexts, it can be conjugated to show who is giving (subject) and what is being given (object). For example, 'annab' means he/she/it gives, 'anname' means we give, and 'andke' is an imperative form meaning 'give!'."
 }

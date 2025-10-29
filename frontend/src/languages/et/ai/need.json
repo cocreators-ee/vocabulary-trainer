@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vajan seda raamatu lugemiseks",
-    "Ta ei vajagi raha",
-    "Vajan abi selle ülesande täitmiseks"
+    "Need on väga oluline.",
+    "Nead teavad kõik vastused.",
+    "Tule meiega need inimesed."
   ],
   "translation": [
-    "need",
-    "require",
-    "necessitate"
+    "they",
+    "those",
+    "these"
   ],
-  "context": "The word is commonly used to express a necessity or requirement for something, similar to the English word 'need'."
+  "context": "The word 'need' is a demonstrative pronoun in Estonian used to indicate or point out specific people, things, or ideas. It's the plural form that can mean both 'they', 'those', and 'these' depending on context. In first position it typically means 'these', while in second position it means 'those'. When used with verbs like 'teavad' (know), it functions as the subject pronoun 'they'."
 }

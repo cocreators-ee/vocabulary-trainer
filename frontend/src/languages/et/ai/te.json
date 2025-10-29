@@ -1,14 +1,14 @@
 {
-  "confidence": 0.3,
   "understood": true,
   "sentences": [
-    "Te teate seda juba.",
-    "Kas tean ma seda?",
-    "Ma tean, et see on tõsi."
+    "Tere tulemast!",
+    "Te ei saa seda teha.",
+    "Kas sa tuled?"
   ],
   "translation": [
-    "to know",
-    "knowing"
+    "you (formal)",
+    "your",
+    "yours"
   ],
-  "context": "'te' is the second person plural form of 'teada', meaning to know. It can also be used in different forms like 'tea' for third person singular and 'tean' for first person singular, depending on context."
+  "context": "\"Te\" is the formal second-person plural pronoun in Estonian. It's used when speaking to multiple people formally or to a single person in a formal context, similar to \"vous\" in French or \"ustedes/usted\" in Spanish. The informal singular form is \"sa\" and informal plural is \"teie\"."
 }

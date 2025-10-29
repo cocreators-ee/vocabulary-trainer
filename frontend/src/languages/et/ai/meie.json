@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Meie kodu on väike.",
-    "Meie ema on õpetaja.",
-    "Meie peres on kaks last."
+    "Meie koer on väga sõbralik.",
+    "Kas meie lapsed tulevad kaasa?",
+    "Meie kodu on suur ja ilus."
   ],
   "translation": [
     "our",
-    "we",
-    "us"
+    "we"
   ],
-  "context": "The word 'meie' is a pronoun in Estonian that means 'we' or 'us' and is used to refer to a group of people including the speaker, similar to how 'we' is used in English to denote a collective entity."
+  "context": "The Estonian word 'meie' has two main uses: as a first-person plural pronoun meaning 'we', and as a possessive adjective meaning 'our'. In its pronominal form, it refers to the speaker including others (speaker + at least one other person). As a possessive adjective, it shows possession or ownership by the group including the speaker. The word declines in Estonian depending on case and number, but this is the basic nominative singular form."
 }

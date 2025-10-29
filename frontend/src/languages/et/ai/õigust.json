@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ei saa õigust oma riigi kodakondsusele.",
-    "Õigust ei anta kellelegi ainult selle pärast, et ta on sündinud teatud peres.",
-    "Inimõiguste ühendus võitleb selle eest, et igaüks saaks õigust endale kuuluvale."
+    "Tal on õigust seda teha.",
+    "Ta käitus oma õigust.",
+    "Õigus võõrandada vara kuulus tema õigust."
   ],
   "translation": [
-    "right",
-    "justice"
+    "as a right",
+    "in the capacity of",
+    "by right"
   ],
-  "context": "The word õigust refers to the concept of justice or right in Estonian, and it is commonly used in contexts related to law, morality, and ethics."
+  "context": "The word 'õigust' is the translative case form of the Estonian noun 'õigus'. It means 'as a right' or 'in the capacity/right of'. This case indicates transformation into something, so it suggests someone becoming or acting in the role/right of something else. It's commonly used to indicate that someone has rights or authority in certain situations."
 }

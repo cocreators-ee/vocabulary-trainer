@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma jään õhtul koju.",
-    "Meet meid öösel kodusse.",
-    "Ta tõi õhtusalt uue idee ette."
+    "Õhtune tuul puhus mööda tänavat.",
+    "Meil oli õhtune koosolek tööl.",
+    "Tüdruk käis õhtulisel jõul."
   ],
   "translation": [
     "evening",
-    "night time"
+    "nighttime",
+    "dusk"
   ],
-  "context": "'Õhtust' refers to the evening or night time in Estonian. It's commonly used to denote the latter part of the day, often associated with settling down for rest or leisure activities at home."
+  "context": "The Estonian word 'õhtust' appears to be in the partitive case form of an adjective. It derives from the root word 'õhtu' meaning evening, and likely means 'of the evening', 'evening-like', or related to evening time. The partitive case is often used to indicate partialness or indefiniteness."
 }

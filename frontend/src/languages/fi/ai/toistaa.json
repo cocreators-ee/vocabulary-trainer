@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän toistaa usein vanhoja vitsejä.",
-    "Toistan, että en ole tehnyt mitään väärää.",
-    "Lääkäri toisti potilaalle tärkeät ohjeet."
+    "Minun täytyy toistaa se viesti.",
+    "Hän ei halunnut toistaa virhettään.",
+    "Toistaanpa tuo lause ääneen."
   ],
   "translation": [
     "repeat",
-    "reiterate"
+    "reiterate",
+    "recite",
+    "echo"
   ],
-  "context": "The word 'toistaa' is a verb in Finnish that means to repeat or reiterate something, often used in the context of repeating words, actions, or ideas."
+  "context": "The Finnish verb 'toistaa' means 'to repeat' or 'to reiterate'. It can be used when asking someone to say something again, recite text, or echo what was said. The word is in the basic form (infinitive) and follows regular conjugation patterns in Finnish. When conjugated, it becomes 'toistan', 'toistat', 'toistaa' etc. in present tense."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean teatud asju.",
-    "Ta on teatud mõttes õigekiri.",
-    "Teatud inimesed ei saa aru."
+    "Teatud tingimused peavad olema täidetud.",
+    "See on teatud tüüpi probleem.",
+    "Meil oli teatud aega selleks tööks."
   ],
   "translation": [
     "certain",
-    "specific"
+    "specific",
+    "particular"
   ],
-  "context": "The word 'teatud' is commonly used to describe something that is known or specific, often referring to a particular aspect or detail."
+  "context": "The Estonian word 'teatud' is an adjective that means 'certain', 'specific', or 'particular'. It is used to indicate that something is definite, particular, or specific rather than general or indefinite. The word can be modified for gender and number in Estonian grammar."
 }

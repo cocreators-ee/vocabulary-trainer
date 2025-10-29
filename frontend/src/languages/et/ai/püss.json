@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtsin püssi ja lasksin",
-    "Tema püss oli väga suur",
-    "Püsside kasutamine on keelatud"
+    "Ta tõi endaga püssi.",
+    "Püssid olid vajalikud jahipidamisel.",
+    "Vanapõlvest pärit mees näitas oma vana püssi."
   ],
   "translation": [
     "gun",
-    "rifle"
+    "rifle",
+    "firearm"
   ],
-  "context": "The word püss refers to a firearm, typically a rifle or gun, and is commonly used in Estonian to describe such weapons."
+  "context": "The Estonian word 'püss' refers to a gun or rifle. It's typically used for firearms that have a long barrel and are designed for shooting at targets, either in hunting contexts or historically in warfare. The term can refer specifically to rifles, but is also commonly used as a general term for guns."
 }

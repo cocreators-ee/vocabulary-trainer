@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Meilt ei ole piisavalt raha.",
-    "Ma olen tulnud meilt ülejäänud külast.",
-    "Kas see on meilt või teistest?"
+    "Tule meilt küsima abi.",
+    "Kõik need tooted on meilt saadaval.",
+    "Meilt tuleb homme koosolek."
   ],
   "translation": [
     "from us",
-    "of us"
+    "from our side",
+    "by us"
   ],
-  "context": "The word meilt is a pronoun in Estonian that means from us or of us, it is used to show something belongs to us or is coming from us."
+  "context": "The Estonian word 'meilt' is an adessive case form of the pronoun 'meie' (we/us). It functions as a prepositional phrase meaning 'from us' or 'from our side'. In grammatical terms, it's formed by adding '-lt' to the genitive plural form 'meid', resulting in meilt. This word is commonly used when indicating origin or source - something comes from us or is available through us."
 }

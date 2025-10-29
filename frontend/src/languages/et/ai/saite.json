@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Saite täna koju?",
-    "Kas saite meiega õhtä?",
-    "Saime teada saitete kavatsustest."
+    "Tere tulemast meie saidile!",
+    "Olen olnud paljudel veebisaitidel.",
+    "Kas te olete külastanud seda saiti?"
   ],
   "translation": [
-    "will you come (plural)?"
+    "website",
+    "webpage",
+    "site"
   ],
-  "context": "This is a question used to ask if a group of people will come. The word 'saite' comes from the verb 'sõita', which means 'to come'. It's commonly used in situations where someone wants to know if a group of people will join them, for example at an event or meeting."
+  "context": "The word 'saite' in Estonian is actually the translative case of 'sait' (website). However, this form would typically mean 'as a website' or 'into a website'. In common usage, people would more likely use the allative form 'saidile' (to the website) for expressions like 'Welcome to our website.'"
 }

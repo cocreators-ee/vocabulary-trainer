@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sind olen.",
-    "Ta on sind olnud.",
-    "Meie oleme sind võinud."
+    "Ma nägin sind eile",
+    "Kas sa tunned sind hästi?",
+    "Sind vajab abi"
   ],
   "translation": [
-    "you"
+    "you (singular)",
+    "yourself",
+    "to you"
   ],
-  "context": "The word 'sind' is the accusative form of the second person singular pronoun in Estonian, which means 'you' and is used as a direct object in sentences."
+  "context": "'Sind' is the Estonian accusative case form of 'sina', which means 'you'. It's used when the person being addressed is the direct object of a verb, meaning they are receiving the action directly. In English, this corresponds to 'you' as in 'I see you' or 'yourself'. This form is specifically for singular address."
 }

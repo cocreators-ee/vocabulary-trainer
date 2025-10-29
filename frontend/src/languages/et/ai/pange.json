@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pange seda tööd",
-    "Ta panges selle küsimuse",
-    "Nad pangesid oma allkirjad"
+    "Pange koht!",
+    "Pange tähele!",
+    "Pange oma kingad jalga!"
   ],
   "translation": [
     "put",
     "place",
-    "set"
+    "set",
+    "lay down"
   ],
-  "context": "The word 'pange' is a verb in Estonian that means to put or place something somewhere, and it is commonly used in various contexts such as setting things down or putting them in a specific position."
+  "context": "The Estonian word 'pange' is the imperative plural form of the verb 'panema', which means 'to put' or 'to place'. It's used as a command to a group of people, meaning 'you (plural) put/place/set/lay down.' This form is commonly used in instructions, commands, or requests directed at multiple people."
 }

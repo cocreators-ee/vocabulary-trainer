@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "See on hea kood",
-    "Kood on liiga keeruline",
-    "Ta oskab mitut programmeerimiskeelt ja koodi"
+    "Kas sa tunned seda koodi?",
+    "Arvuti vajab head koodi töötamiseks.",
+    "See programm on kirjutatud hea koodiga."
   ],
   "translation": [
     "code",
-    "program"
+    "program code",
+    "source code"
   ],
-  "context": "The word 'kood' in Estonian refers to a set of instructions or a program used in computer science, and is commonly used in the context of programming and software development."
+  "context": "The Estonian word 'kood' is a noun that directly corresponds to English words like 'code', 'program code', or 'source code'. In computing contexts, it refers to the written instructions and programming language text that make up computer programs. The word is used in technical discussions about software development, programming, and computer science."
 }

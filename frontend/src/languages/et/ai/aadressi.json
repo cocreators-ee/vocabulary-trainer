@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kirjutasin aadressi ümber.",
-    "Aadressi muutmine võtab aega.",
-    "Tema aadress on juba uuendatud."
+    "Tema aadress on tänavanumbriga 15.",
+    "Me otsime tema aadressi.",
+    "Kas sa tead oma aadressi?"
   ],
   "translation": [
-    "address"
+    "address",
+    "location"
   ],
-  "context": "The word 'aadressi' in Estonian refers to the concept of an address, which is a location where someone or something can be found, and it is commonly used in various contexts such as mailing, navigation, and identification."
+  "context": "The word 'aadressi' is the partitive case form of the Estonian noun 'aadress', which means 'address'. In this case, it's used to indicate that something belongs to or is associated with an address. The partitive case is commonly used in Estonian for partial objects or when referring to a specific instance of something."
 }

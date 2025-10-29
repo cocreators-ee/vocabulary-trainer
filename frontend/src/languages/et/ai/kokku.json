@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kokku võtnud kõik vajalikud asjad.",
-    "Ta on kokku saanud palju raha.",
-    "Kokku on see väga raske töö."
+    "Kokku oli viis inimest.",
+    "Meil kokku kaks last.",
+    "Mida kokku saad?"
   ],
   "translation": [
+    "together",
     "altogether",
-    "totally",
-    "completely"
+    "total",
+    "in total"
   ],
-  "context": "The word 'kokku' in Estonian is commonly used to indicate that something is done completely or totally, and it can also mean 'all together' or 'in total'."
+  "context": "The word 'kokku' is a versatile Estonian adverb that can mean 'together', 'altogether', or 'total/in total'. It's commonly used to indicate sum, combination of people/things, or the totality of something. For example, when counting people present ('Kokku oli viis inimest' - There were five people altogether), when stating a number of items ('Meil kokku kaks last' - We have two children total), or asking about a combined result ('Mida kokku saad?' - What can you make/come up with together?)."
 }

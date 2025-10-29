@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lähen kinno, muidu jään koju.",
-    "Muidu oleksin tulnud kaasa.",
-    "Ta on hea inimene, muidu ma ei teeks seda."
+    "Muidu tuleb hilja jälle.",
+    "Peaksin ära tegema muidugi, kuid praegu ei ole aega.",
+    "Kui sa ei tulla koos minuga, lähen ma üksi."
   ],
   "translation": [
     "otherwise",
-    "or else"
+    "else",
+    "if not"
   ],
-  "context": "The word 'muidu' is commonly used in Estonian to indicate a possible alternative or consequence, similar to the English words 'otherwise' or 'or else'."
+  "context": "The Estonian word 'muidu' is an adverb that means 'otherwise', 'else', or 'if not'. It's used to indicate a consequence or alternative scenario when some condition isn't met. For example, in the sentence 'Muidu tuleb hilja jälle', it means 'Otherwise we'll be late again' - implying that if something doesn't happen (or happens), there will be this consequence. The word is commonly used in conditional statements to present alternatives or consequences."
 }

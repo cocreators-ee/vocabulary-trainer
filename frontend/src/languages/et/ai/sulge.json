@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sulgen ukse.",
-    "Sulge akna!",
-    "Ta suletas võrguühenduse."
+    "Sulge uks.",
+    "Täna tuleb sulgeda aed.",
+    "Palun sulge aknad enne lahkumist."
   ],
   "translation": [
     "close",
-    "shut"
+    "shut",
+    "lock"
   ],
-  "context": "The word 'sulge' in Estonian means to close or shut something, and it is commonly used in various contexts such as closing doors, windows, or connections."
+  "context": "The Estonian word 'sulge' is the imperative form (command) of the verb 'sulgama', which means to close, shut, or lock. It's used when giving someone an instruction to close something like a door, window, gate, etc."
 }

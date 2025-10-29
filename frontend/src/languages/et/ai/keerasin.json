@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma keerasin auto ringi.",
-    "Ta keerasin jalgrattaga.",
-    "Me keerasin tänava ääres."
+    "Keerasin võtme ümber.",
+    "Ma keerasin ukseluku kinni.",
+    "Ta keerasisid päevikku avama."
   ],
   "translation": [
-    "I turned the car around.",
-    "He turned with his bicycle.",
-    "We turned at the corner of the street."
+    "I turned",
+    "I twisted",
+    "I rotated"
   ],
-  "context": "The word 'keerasin' is the first person singular past tense form of the Estonian verb 'keerama', which means to turn something or someone around, and it can be used in various contexts such as driving a vehicle or changing direction while walking or cycling."
+  "context": "The word 'keerasin' is the past tense first person singular form of the Estonian verb 'keerama', which means to turn, twist or rotate. It indicates that the speaker performed an action of turning something in the past. This verb can be used for physical rotation of objects (like keys, doors) as well as figurative turning movements."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Se olisi hyvä idea",
-    "Hän olisi pitänyt tulla täällä",
-    "Meidän olisi pitänyt lähteä aikaisemmin"
+    "Olisin iloinen, jos tulisit.",
+    "Olisi kiva nähdä sinut taas.",
+    "Hän olisi voinut auttaa, jos olisi ollut kotona."
   ],
   "translation": [
     "would be",
     "could be",
-    "should be"
+    "might be",
+    "were to be"
   ],
-  "context": "The word 'olisi' is the conditional form of the verb 'to be' in Finnish, used to express hypothetical or uncertain situations."
+  "context": "The Finnish word 'olisi' is the conditional form of the verbolla' (to be). It's used in hypothetical situations, polite requests, or when talking about what might have happened. In English, it corresponds to 'would be', 'could be', 'might be', or 'were to be'. This form appears in conditional sentences and often depends on context for its exact translation."
 }

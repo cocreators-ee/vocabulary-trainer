@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen terve.",
-    "Ta on terve inimene.",
-    "Terves inimesed ei vaja arsti."
+    "Tervist!",
+    "Kuidas terved?",
+    "Tere päevast!"
   ],
   "translation": [
-    "healthy",
-    "well"
+    "hello",
+    "greetings",
+    "hi"
   ],
-  "context": "The word 'terves' is an adjective in Estonian that means being in good health or free from illness, and it is commonly used to describe a person's physical or mental well-being."
+  "context": "The word 'terves' in Estonian is the imperative form of the verb 'tere' (to say hello/greet). It's commonly used as a greeting when meeting someone. The most common usage is in the phrase 'Tervist!' which means 'Hello!' orGreetings!'. While literally meaning 'be healthy/well', it has evolved to be the standard greeting in Estonian, similar to 'hello' in English. When asking about someone's wellbeing, one might say 'Kuidas terved?' (How are you/are you well?)."
 }

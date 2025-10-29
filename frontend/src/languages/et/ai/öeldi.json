@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta öeldi, et see on hea mõte.",
-    "Ma öeldi talle, et ta peab olema ettevaatlik.",
-    "Öeldi, et kõik on korras."
+    "Öeldi: \"Tere päevast!\"",
+    "Meie juht öeldi meile täna hommikul.",
+    "Kõigepealt öeldi, et koguneme kell kolm."
   ],
   "translation": [
     "was said",
-    "said",
-    "told"
+    "it was said",
+    "one said"
   ],
-  "context": "The word \"öeldi\" is the passive voice of the verb \"ütlema\", which means to say or tell. It is commonly used in Estonian to express that something was said or told, often without specifying who said it."
+  "context": "The word 'öeldi' is the past tense form of the Estonian verb 'öelda', which means 'to say'. It's in the 3rd person singular passive form, used when someone says something but the speaker isn't specifying who exactly said it. This construction is common in narrative contexts where the focus is on what was communicated rather than who communicated it."
 }

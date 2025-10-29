@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võtab raamatu laualt.",
-    "Võtan kohe võtmed ja lähen poisiga jalutama.",
-    "Kui ma võtan ühe sammu edasi, siis lähen ma sinna."
+    "Ta võtab koha",
+    "Meie võtame kohti",
+    "Tema võttis koha"
   ],
   "translation": [
     "takes",
-    "will take"
+    "taking",
+    "will take",
+    "took"
   ],
-  "context": "The word võtab is a verb in Estonian that means to take something, and it is commonly used in sentences to describe the act of taking or picking up an object."
+  "context": "The word 'võtab' is the third person singular form of the Estonian verb 'võtma', which means 'to take'. It's used in present tense to describe someone taking or getting something. The verb follows Estonian conjugation patterns where different forms change based on subject (I, you, he/she/it, we, you plural, they) and tense (present, past, future)."
 }

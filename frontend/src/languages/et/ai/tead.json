@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma joon tead.",
-    "Tead on hea jook.",
-    "Olen tead joomiseks valmis."
+    "Tead seda vastust?",
+    "Mida tead selle kohta?",
+    "Meie teame kõik tõesed fakte."
   ],
   "translation": [
-    "tea"
+    "you know",
+    "do you know",
+    "we know"
   ],
-  "context": "In Estonian, 'tead' means tea, which is a popular hot beverage made from leaves of the tea plant. It is commonly consumed at social gatherings and everyday life."
+  "context": "\"Tead\" is the second person singular form of the Estonian verb \"teada\", which means \"to know\". It's commonly used in questions and statements to indicate knowledge or awareness. In this form, it specifically addresses one person (the informal \"you\"). The word appears frequently in everyday conversations when asking if someone has information about something or stating that you have knowledge of facts."
 }

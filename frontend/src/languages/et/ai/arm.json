@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on armastanud teda juba palju aega.",
-    "Arm on väga oluline inimese elus.",
-    "Ma olen armunud tema vastu."
+    "Arm on üks kahest peamisest tundedest.",
+    "Ta oli armas lapsega.",
+    "Need õied on armas."
   ],
   "translation": [
     "love",
-    "tender love"
+    "dear",
+    "sweet",
+    "beloved"
   ],
-  "context": "The word 'arm' in Estonian generally means love or tender love, and it is commonly used to express affection or strong feelings towards someone or something."
+  "context": "The word 'arm' in Estonian is an adjective that means 'lovely', 'sweet', or 'dear'. It's used to express affection and endearment towards someone or something. In the first sentence, it appears as the singular nominative form 'arm' meaning 'love' (though this usage might be less common). In the second sentence, it's in the partitive case 'armas' modifying the word 'lapsega' (with a child) to mean 'was dear/lovely with a child'. In the third sentence, it's again in the nominative plural form 'armad' describing flowers as being lovely/sweet."
 }

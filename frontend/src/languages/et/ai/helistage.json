@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Helistage minu vanematele!",
-    "Juht said: \"Helistage meile kui vajate abi\".",
-    "Ei saa helistada? Helistage!"
+    "Palun helistage mulle hiljem.",
+    "Helistage meile kui sa jõuad kohale.",
+    "Ta helistas oma emale pärast tööd."
   ],
   "translation": [
-    "call (imperative)",
-    "phone call (imperative)"
+    "call (by phone)",
+    "ring",
+    "telephone"
   ],
-  "context": "It is the imperative form of 'to call' or 'to phone', used to tell someone (plural) to make a telephone call."
+  "context": "The word 'helistage' is the second person plural imperative form of the verb 'helista', which means 'to call by phone'. It's used when giving an instruction or request to a group of people. The infinitive form would be 'helista', and in other forms it could be 'helin' (I call), 'helid' (you call, singular), 'helistab' (he/she calls), etc."
 }

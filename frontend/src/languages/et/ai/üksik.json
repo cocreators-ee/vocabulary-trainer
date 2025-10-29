@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on üksik inimene.",
-    "Üksikud inimesed elavad linnas.",
-    "Üksik asja oli kaotatud."
+    "Tema on üksik mees.",
+    "See üksik saar asub merelähedases piirkonnas.",
+    "Üksikud linnud lendavad sügisese rändu käigus."
   ],
   "translation": [
-    "individual",
     "single",
+    "individual",
+    "solitary",
     "alone"
   ],
-  "context": "The word üksik is commonly used to describe something or someone that is single, individual, or alone."
+  "context": "The word 'üksik' is an Estonian adjective meaning single, individual, solitary, or alone. It describes something that exists separately from others or stands alone rather than being part of a group. In its basic form it modifies masculine nouns, but it changes form based on the gender and number of the noun it modifies - for feminine nouns it becomes 'üksik', for plural nouns it can take various forms depending on case."
 }

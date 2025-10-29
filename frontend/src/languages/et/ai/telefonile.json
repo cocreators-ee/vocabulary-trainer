@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma helistan telefonile.",
-    "Ta ütles, et helistab telefonile kohe.",
-    "Telefonile helistamine on lihtne."
+    "Kõneleb telefonile.",
+    "Saatsin短信telefonile.",
+    "Telefonile jääda on raske."
   ],
   "translation": [
     "to the phone",
     "on the phone"
   ],
-  "context": "The word 'telefonile' is an Estonian prepositional phrase that means 'to the phone' or 'on the phone', indicating a direction or location related to a telephone."
+  "context": "The Estonian word 'telefonile' is an inessive case form of 'telefon', meaning 'phone'. It indicates location or state - that something is happening 'in/on/with the phone' or directed toward the phone. It's used to show where an action is taking place (talking on the phone) or what an object is going to (sending a message to the phone)."
 }

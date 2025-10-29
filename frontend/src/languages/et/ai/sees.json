@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Sees on minu kodu.",
-    "Minu nimi on sees.",
-    "Kass liigutus seest."
+    "Töökoht on sees.",
+    "Kodu on sees ja ilus.",
+    "Päike paistab läbi akna."
   ],
   "translation": [
-    "here"
+    "inside",
+    "in",
+    "within"
   ],
-  "context": "'sees' is a demonstrative pronoun and an adverb meaning 'here'. It can also be used as a personal pronoun referring to oneself, similar to 'I/me', in some contexts."
+  "context": "The Estonian word 'sees' is a preposition/adverb that indicates location inside something. It can be used to describe where someone or something is located in relation to an enclosed space, similar to English words like 'inside', 'in', or 'within'. For example, when saying 'Töökoht on sees,' it means 'The workplace is inside/in.' This word helps specify that the location is within boundaries rather than outside."
 }

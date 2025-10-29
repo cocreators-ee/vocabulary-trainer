@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma muudan oma meelt.",
-    "Ta muutis oma arvamust.",
-    "Nad muutsid oma plaane."
+    "Muuda oma parooli!",
+    "Kas sa suudad seda muuta?",
+    "Ta muutis oma plaane."
   ],
   "translation": [
     "change",
+    "modify",
     "alter"
   ],
-  "context": "The word 'muuda' is a verb in Estonian that means to change or alter something, and it is commonly used in everyday conversations to express the idea of making modifications or adjustments to plans, opinions, or decisions."
+  "context": "The word 'muuda' is the imperative form (command) of the verb 'muutma', which means 'to change' or 'to modify'. It's used to tell someone to make a modification or alteration to something. In English, it would correspond to commands like 'Change!', 'Modify!', or 'Alter!'. The root word 'muuta' is in the basic form (infinitive) of the verb."
 }

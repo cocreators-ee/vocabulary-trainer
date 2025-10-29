@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean, et sa oled õige.",
-    "See on väga hea ning ma olen rahul.",
-    "Ning siis me läksime koju."
+    "Tule homme kell kaheksa ning me kohtume kohvikus.",
+    "Esimene sõit oli raske, teine aga oli kerge ning me saime kiiresti lõpetada.",
+    "Ta õpib päevas ja töötab öösel ning ei pea end väga väsinuks."
   ],
   "translation": [
     "and",
     "also",
-    "moreover"
+    "furthermore",
+    "in addition"
   ],
-  "context": "The Estonian word 'ning' is a conjunction used to connect words, phrases, or clauses. It functions similarly to the English 'and', but can also be translated as 'also' or 'moreover' depending on the context."
+  "context": "The Estonian word 'ning' is a conjunction that connects two clauses, phrases or ideas. It's similar to English 'and', but often carries a slightly more formal or literary tone than the simple 'ja' (which means 'and'). 'Ning' can be used to add additional information, show contrast between connected elements, or link sequential events. Unlike some other conjunctions in Estonian, 'ning' remains unchanged regardless of the grammatical context."
 }

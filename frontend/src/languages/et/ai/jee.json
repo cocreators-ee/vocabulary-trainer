@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Jee, kas sa mind kuulad?",
-    "Jee, ma ei tea, mida öelda!",
-    "Jee, ära liigagi kiirelt ronima!"
+    "Jee, ma tulin!",
+    "Jee, see on hea idee.",
+    "Jah, jee, muidugi!"
   ],
   "translation": [
-    "Jee",
-    "Just a minute",
-    "Hold on"
+    "yes",
+    "yeah",
+    "yep"
   ],
-  "context": "'Jee' is an interjection in Estonian used to express surprise or hesitation, similar to 'Hey' or 'Wait a minute'. It's commonly used in casual speech."
+  "context": "The Estonian word 'jee' is an informal affirmative response similar to English 'yes', 'yeah', or 'yep'. It's commonly used in casual conversation as a way to agree with something or confirm information. The word can also be repeated for emphasis, such as 'jee, jee' meaning 'yes, yes' or definitely."
 }

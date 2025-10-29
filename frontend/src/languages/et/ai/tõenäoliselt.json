@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma arvan, et see on tõenäoliselt õige.",
-    "Ta oli tõenäoliselt väsinud pika päeva järel.",
-    "Tema otsus oli tõenäoliselt mõjutatud tema emotsioonidest."
+    "Tõenäoliselt saab homme vihma.",
+    "Me tõenäoliselt jääme homme koju.",
+    "Ta on tõenäoliselt hea sportlane."
   ],
   "translation": [
     "probably",
     "likely",
-    "presumably"
+    "perhaps"
   ],
-  "context": "The word 'tõenäoliselt' is an adverb in Estonian that is commonly used to express probability or likelihood, similar to the English words 'probably', 'likely', or 'presumably'."
+  "context": "The Estonian word 'tõenäoliselt' is an adverb that expresses probability or likelihood. It indicates that something is likely to happen or be true, but with some degree of uncertainty. The word can be translated into English as 'probably', 'likely', or 'perhaps'. In Estonian grammar, this adverb typically modifies verbs and appears before them in sentence structure."
 }

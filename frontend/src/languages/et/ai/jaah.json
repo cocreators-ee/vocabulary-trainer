@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu nimi on Jaan ja ma elan Tallinnas.",
-    "Jaan tõusis varahommikul koos oma tüdruksõbraga sisse kooli.",
-    "Eile öelnud: 'Jaan, miks oled sa siin?'"
+    "Jaah on väga hea mäng.",
+    "Meie meeskond võitis jaah!",
+    "Kas sa tahad mängida jaah?"
   ],
   "translation": [
-    "John/Johnny (a male given name)"
+    "game",
+    "sport",
+    "play"
   ],
-  "context": "'Jaah' is an Estonian male first name equivalent to the English names John or Johnny. It is commonly used in Estonia and often abbreviated as J. or Jaan."
+  "context": "The word 'jaah' appears to be a noun in Estonian that refers to games or sports. It's commonly used in contexts where people engage in recreational activities or competitions."
 }

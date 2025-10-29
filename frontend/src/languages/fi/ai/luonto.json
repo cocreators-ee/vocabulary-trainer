@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Luonto on kaunis.",
-    "Lapsi oppii tuntemaan luonnon jo pienestä pitäen.",
-    "Luonnonkauniit maisemat ovat Suomen tunnusomaisia."
+    "Luonto on kaunis ja monimuotoinen.",
+    "Suomen luonto on tunnettu sen metsistä ja järvistä.",
+    "Meidän tulee suojella luontoa tuleville sukupolville."
   ],
   "translation": [
     "nature",
+    "natural world",
     "environment"
   ],
-  "context": "The word 'luonto' refers to the natural world, including landscapes, plants, and animals, and is often used to describe the beauty of the outdoors."
+  "context": "The Finnish word 'luonto' refers to nature or the natural world. It encompasses all of creation - plants, animals, landscapes, and ecosystems. The term is used in both singular form as shown here, and can also appear in other forms such as 'luonnon' (genitive case meaning 'of nature') or 'luontoon' (illative case meaning 'into nature'). It's commonly used when discussing environmental protection, natural beauty, outdoor activities, and the relationship between humans and the natural environment."
 }

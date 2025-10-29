@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Järjestelmä on hyvin monimutkainen.",
-    "Hän on kehittänyt uuden järjestelmän.",
-    "Järjestelmässä on useita virheitä."
+    "Tämä yrityksen järjestelmä on hyvin kehittynyt.",
+    "Käytämme uutta tietojärjestelmää kirjanpidossa.",
+    "Järjestelmän huolto on tehtävä säännöllisesti."
   ],
   "translation": [
-    "system"
+    "system",
+    "structure",
+    "organization"
   ],
-  "context": "The word järjestelmä is commonly used in Finnish to refer to a complex set of connected things or a set of processes that work together, similar to how the English word system is used."
+  "context": "The Finnish word 'järjestelmä' refers to a system or structured organization of components that work together as a whole. It can be used in various contexts such as computer systems, organizational structures, mechanical systems, or conceptual frameworks. The word follows standard Finnish grammar rules and is commonly used in both technical and everyday language."
 }

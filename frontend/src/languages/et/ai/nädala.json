@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen nädala möödudes väsinud.",
-    "Ta on tööl nädalaid.",
-    "See toimub iga nädala viimasel päeval."
+    "Nädal algab esmaspäeval.",
+    "See on hea nädala.",
+    "Kas sa tead mis nädalal me oleme?"
   ],
   "translation": [
-    "week"
+    "week",
+    "weekly"
   ],
-  "context": "The word 'nädala' is used to refer to a period of seven days in Estonian, and it is commonly used in sentences to describe timeframes or schedules."
+  "context": "The word 'nädala' is the partitive case form of the Estonian noun 'nädal', which means 'week'. In Estonian, the partitive case is used to indicate partialness or indefiniteness. So 'nädala' can mean '(of) a week', 'some weeks', or be used in various contexts where the partitive case is required grammatically."
 }

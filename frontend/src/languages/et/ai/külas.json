@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen külas.",
-    "Ta on külas.",
-    "Külas oli palju inimesi."
+    "Tere tulemast külast!",
+    "Me oleme külas oma vanavanemate juures.",
+    "Kus on lähim küla?"
   ],
   "translation": [
-    "visiting",
-    "guest"
+    "in the village",
+    "at a place/village",
+    "home/visiting someone's home"
   ],
-  "context": "The word 'külas' is used to describe someone who is visiting or a guest, often in the context of being at someone's home."
+  "context": "\"Külas\" is an Estonian adessive case form of \"küla\" (village). It indicates location in or at a village, or can mean being as a guest somewhere. The word is commonly used to express being in a village setting, either literally visiting a village or figuratively meaning \"visiting\" someone's home or place."
 }

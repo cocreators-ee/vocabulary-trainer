@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See tekib siis, kui sa oled surnud.",
-    "Mina usun, et see tekib ainult siis, kui inimene on tõesti armunud.",
-    "Kui see tekib, siis on võimalik, et see ei ole hea."
+    "Mul tekis küsimusi.",
+    "Tal tekis uusi ideid.",
+    "Millest on tekkinud?"
   ],
   "translation": [
-    "happens",
-    "occurs"
+    "arises",
+    "emerges",
+    "comes into being",
+    "develops"
   ],
-  "context": "The word 'tekib' is a verb that means something happens or occurs, often used to describe an event or situation that takes place."
+  "context": "The Estonian word 'tekib' is the 3rd person singular present form of the verb 'tulema' (to come) with a reflexive suffix. It means something that arises, emerges, or comes into being naturally over time. This word typically describes situations where new ideas, questions, problems, or opportunities develop organically without deliberate planning."
 }

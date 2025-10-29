@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen poodi leiba ostma.",
-    "See pood on väga suur ja seal on palju kaupu.",
-    "Poodi ees oli palju inimesi."
+    "Tulen poodi ostma leiba.",
+    "Minna poodi on meeldiv.",
+    "Poodis on odavamaid tooteid."
   ],
   "translation": [
-    "shop",
-    "store"
+    "to the shop",
+    "into the shop",
+    "to store"
   ],
-  "context": "The word 'poodi' in Estonian translates to 'shop' or 'store' in English. It is commonly used to refer to a place where goods are sold, similar to how we use 'shop' or 'store' in everyday conversation."
+  "context": "The word 'poodi' is the illative case form of the Estonian noun 'pood', which means 'shop' or 'store'. It indicates movement toward a location, similar to English prepositions like 'to' or 'into' when referring to entering a shop. The illative case is used to show direction or destination."
 }

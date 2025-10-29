@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen võimaluse otsinud.",
-    "Ta ei näinud võimalust.",
-    "Võimalused on piiratud."
+    "Mul on võimalus käia teatris.",
+    "Sa pead kasutama oma võimalusi ära.",
+    "See anned meile võimaluse uuesti alustada."
   ],
   "translation": [
     "opportunity",
-    "chance"
+    "chance",
+    "possibility"
   ],
-  "context": "The word 'võimaluse' in Estonian refers to an opportunity or chance, and it is commonly used in sentences to describe a situation where someone has the possibility to do something or achieve something."
+  "context": "Võimaluse is an Estonian word that means 'opportunity', 'chance', or 'possibility'. It is derived from the root word 'võimalus' which relates to ability and capability. In Estonian grammar, this form appears in various cases depending on its function in a sentence - here it's likely in the partitive case (ending '-e') indicating what one has available."
 }

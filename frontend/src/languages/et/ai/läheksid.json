@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen sinna homme.",
-    "Kas sa läheksid minuga?",
-    "Ta ei läinudki."
+    "Minu eesmärk on läheksid edasi.",
+    "Tema plaan oli läheksid koju homseks.",
+    "Meie eesmärgiks on alati läheksid paremale."
   ],
   "translation": [
-    "go",
-    "would go",
-    "to go"
+    "to proceed",
+    "to go forward",
+    "to advance"
   ],
-  "context": "The verb 'läheksid' is a conditional form of the Estonian verb 'minema', meaning 'to go'. It expresses what someone *would* do, or a polite request/suggestion. It’s often used in questions like ‘Would you go with me?’ or to express hypothetical situations."
+  "context": "The word 'läheksid' is the second person singular/plural conditional form of the verb 'lähiema', which means 'to go' or 'to move'. In this conditional form, it expresses a hypothetical action that would happen if certain conditions were met. It can be used to express plans, intentions, or actions that someone would undertake in different scenarios."
 }

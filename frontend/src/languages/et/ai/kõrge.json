@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kõrge mees.",
-    "Kõrged mäed asuvad siin.",
-    "Kõrge puu kasvab aias."
+    "Torn on kõrge.",
+    "Mägi on kõrgem kui maa.",
+    "Me ehitasime uue kõrge hoone."
   ],
   "translation": [
+    "tall",
     "high",
-    "tall"
+    "lofty"
   ],
-  "context": "The word kõrge is an adjective in Estonian that means high or tall, and it is commonly used to describe something that has a great vertical extent or something that is greater than normal in degree or intensity."
+  "context": "The Estonian word 'kõrge' is an adjective meaning tall or high. It describes something that has great height, either vertically (like a building) or in elevation (like a mountain). The comparative form would be 'kõrgem' (higher/taller), and the superlative would be 'kõrgeim' (highest/tallest)."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma räägin inglise keelt",
-    "Ta on inglise kirjanik",
-    "Inglise keel on rahvusvaheline"
+    "Tema räägib inglise keelt.",
+    "Inglise keel on maailmas laialt levinud keel.",
+    "Ma õpin inglise keelt."
   ],
   "translation": [
     "English",
-    "English language"
+    "British"
   ],
-  "context": "The word 'inglise' refers to anything related to England or the English language, and is commonly used to describe people, culture, or language from England."
+  "context": "The word 'inglise' is an adjective in Estonian that means 'English' or 'British'. It typically refers to something related to England, Great Britain, or the English language. When used as a noun, it can refer to the English language itself (e.g., 'räägin inglise' - I speak English) or to English people. The word is commonly used in everyday Estonian when talking about languages, nationalities, and cultural matters."
 }

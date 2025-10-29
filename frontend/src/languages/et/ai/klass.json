@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma käisin klassis.",
-    "Ta on hea klassikaasike.",
-    "Klassi lõpptöö on täna."
+    "Klass on avatud kell 9-17.",
+    "Meie klassil on hea õppekeskkond.",
+    "Klassid algavad homme hommikul."
   ],
   "translation": [
-    "class"
+    "class",
+    "grade (of students)",
+    "formal setting/group"
   ],
-  "context": "The word 'klass' in Estonian refers to a class or group of students, similar to the English word 'class', and is commonly used in educational settings to denote a group of people learning together."
+  "context": "In Estonian, 'klass' has multiple related meanings. It can refer to a classroom or physical space where classes are held, the group of students in a particular grade level, or a formal gathering/group of people. The word is similar to English 'class' and covers both educational settings and social classifications."
 }

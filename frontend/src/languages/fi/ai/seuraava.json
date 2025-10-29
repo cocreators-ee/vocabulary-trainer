@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Seuraava junalaiskausi alkaa huomenna",
-    "Tämä on seuraava askel urallani",
-    "Hän odottaa seuraavaa mahdollisuutta"
+    "Seuraava buss lähtee kymmeneltä.",
+    "Odotan seuraavaa junaa.",
+    "Seuraava luento on huomenna."
   ],
   "translation": [
     "next",
-    "following",
-    "upcoming"
+    "following"
   ],
-  "context": "The word seuraava is commonly used in Finnish to refer to something that comes after something else, such as the next event, the following day, or the upcoming opportunity."
+  "context": "The Finnish word 'seuraava' means 'next' or 'following'. It is used to indicate something that comes immediately after the current one in a sequence. The word can be used for various contexts such as time (next hour), transportation (next bus), events (next meeting), etc. In Finnish grammar, it's an adjective that agrees with the noun it modifies in number and case."
 }

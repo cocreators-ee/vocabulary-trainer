@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on peata maas.",
-    "Peatama läks läbi metsa.",
-    "Ma ei saa aru, miks ta nii peatama käitub."
+    "Peatan autole.",
+    "Ta peatab sõiduki.",
+    "Meie peame kohtumise."
   ],
   "translation": [
-    "head first",
-    "headlong",
-    "recklessly"
+    "to stop",
+    "to cease",
+    "to halt"
   ],
-  "context": "The Estonian word 'peatama' literally translates to 'head first', but is commonly used to describe doing something recklessly or headlong into a situation without thinking of the consequences. It can also refer to someone acting foolishly."
+  "context": "The Estonian verb 'peatama' means to stop or cease an action. It can be used for stopping vehicles, activities, or processes. The word belongs to the -ma conjugation class and appears in various forms such as peatan (I stop), peatab (he/she/it stops), and peame (we must)."
 }

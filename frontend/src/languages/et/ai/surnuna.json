@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta vaatas mind surnuna.",
-    "See oli surnuna juba mitu päeva.",
-    "Surnuna olemine on lõplik."
+    "Ta oli surnuna nädal aega.",
+    "Pärast pikka matust oli ta küll surnuna.",
+    "Kesksöösel olin ma juba surnuna väsinud."
   ],
   "translation": [
-    "dead",
-    "lifeless",
-    "deceased"
+    "as if dead",
+    "dead tired",
+    "exhausted",
+    "worn out"
   ],
-  "context": "The word 'surnuna' in Estonian directly translates to 'dead' or 'as a dead person' in English. It is used to describe the state of being deceased, often emphasizing the lack of life."
+  "context": "The word 'surnuna' is the adessive case form of 'surnud' (dead) in Estonian. It's commonly used as an intensifier to express extreme exhaustion or fatigue, meaning someone feels so tired they feel dead or lifeless. This colloquial usage transforms the literal meaning of death into a metaphorical expression for being completely worn out."
 }

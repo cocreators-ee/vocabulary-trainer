@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Olen kartsinud tunde, et ma ei saa seda teha.",
-    "Tema kartsis oli märkamatult meeleolu muutus.",
-    "Ma arvasin, et ta kartsis muu sõbraga kohtuda."
+    "Ma kartsin hiiri.",
+    "Ta kartsis koera.",
+    "Meie laps kartsis öiseid müsteeriume."
   ],
   "translation": [
-    "fear",
-    "dread",
-    "anxiety"
+    "I was afraid of",
+    "he/she/it feared/was afraid of",
+    "we were afraid of"
   ],
-  "context": "The word 'kartsin' refers to a feeling of fear or anxiety about something that is anticipated but not yet happening. It often conveys apprehension."
+  "context": "The word 'kartsin' is the 1st person singular past tense form of the Estonian verb kartma, which means 'to fear' or 'to be afraid of'. It indicates that the speaker had a feeling of fear or anxiety toward something in the past."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tulin eest",
-    "Ta on minu eest",
-    "Nad on selle eest"
+    "Tere tulemast eest!",
+    "Meil on hea elamine eest.",
+    "Aitäh eest abi!"
   ],
   "translation": [
     "for",
-    "in favor of"
+    "on behalf of",
+    "because of"
   ],
-  "context": "The word 'eest' in Estonian is a preposition that indicates support or being in favor of something, similar to the English word 'for'."
+  "context": "The Estonian word 'eest' is a preposition that means 'for', 'on behalf of', or 'because of'. It indicates the reason, purpose, or beneficiary of an action. In Estonian grammar, it's used to show who benefits from something or why something is done."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean, mida sa soovid.",
-    "Mul on suur soov reisida.",
-    "Ta täitis kõik oma soovid."
+    "Soovin sind külastada.",
+    "Tal on hea soov.",
+    "Meil on ühine soov."
   ],
   "translation": [
-    "wish",
     "desire",
-    "want"
+    "wish",
+    "want",
+    "request"
   ],
-  "context": "The Estonian word 'soovi' translates to 'wish', 'desire', or 'want' in English. It is commonly used to express a hope for something to happen, a strong feeling of wanting something, or simply what someone would like to have or do."
+  "context": "The word 'soovi' is the partitive case form of 'soov', which means wish, desire, or want in English. It's used to express what someone desires or wants, often appearing with verbs like 'to want' or as an object indicating a wish."
 }

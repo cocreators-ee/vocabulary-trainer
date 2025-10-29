@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta viis mind koju.",
-    "Ma viin sinda kinosse.",
-    "See viib meid õigele teele."
+    "Ta viib hommikuti.",
+    "Laps viib oma ema käest kätt.",
+    "Meie pere viib aega koos."
   ],
   "translation": [
-    "leads",
-    "takes",
-    "brings"
+    "carries",
+    "brings",
+    "takes"
   ],
-  "context": "The Estonian word 'viib' is a verb that generally means to lead, take or bring someone or something somewhere. It indicates movement from one place to another with the implication of guidance or conveyance."
+  "context": "The word 'viib' is the third person singular present form of the Estonian verb 'viima', which means to carry, bring, or take. It indicates an action where someone or something is being transported from one place to another by a subject."
 }

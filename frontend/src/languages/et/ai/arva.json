@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arva, et see on hea mäng.",
-    "Ta arvas õige vastuse.",
-    "Arva, mis toimub homme."
+    "Arva, mis kell on.",
+    "Ma arvan, et see on õige vastus.",
+    "Kas sa arvad, et ta tuleb homme?"
   ],
   "translation": [
     "guess",
-    "suppose",
-    "think"
+    "think",
+    "suppose"
   ],
-  "context": "The word 'arva' in Estonian means to guess or suppose something, and it is commonly used in sentences where someone is trying to figure out or assume what might happen or what the truth is."
+  "context": "The Estonian word 'arva' is the imperative form of the verb 'arvama', which means to guess or think. It can be used as a command to tell someone to guess something, or it can function as the first-person singular present tense form meaning 'I think/suppose'. The root 'arv-' relates to thinking and calculating."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Väikest tüdrukut ei kuuldu koolis.",
-    "Väikest tähepanekut palutakse teha esimeses peatükis.",
-    "Tema väikest elu oli rikas ja tähenduslik."
+    "Tegelikult väikest viga.",
+    "See on väikest tüüpi auto.",
+    "Ma ei tea väikest asja selle kohta."
   ],
   "translation": [
     "small",
-    "little"
+    "little",
+    "tiny"
   ],
-  "context": "'Väikest' is the genitive form of 'väike,' meaning small or little in Estonian. It's commonly used to describe something of lesser size, extent, or importance and functions as an adjective before a noun when indicating diminutive characteristics."
+  "context": "Väikest is the partitive singular form of the Estonian adjective 'väike', meaning 'small' or 'little'. It's used when referring to an unspecified amount of something small, or in contexts where the quantity isn't emphasized. In Estonian grammar, adjectives change their endings depending on case and number - here it's in the partitive case (which typically indicates incomplete action or indefinite quantity) and singular form."
 }

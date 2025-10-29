@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kass on kassi omanik.",
-    "Kassi on väga armas.",
-    "Tal on kassi, kes magab päeval."
+    "Kassi on hea lemmikloom.",
+    "Mul on kassi ja koer.",
+    "Olen ostetud uue kassi."
   ],
   "translation": [
-    "cat"
+    "cat",
+    "kitten"
   ],
-  "context": "The word 'kassi' in Estonian means cat, and it is commonly used to refer to a domesticated feline animal."
+  "context": "The word 'kassi' is the genitive case form of the Estonian word 'kass', which means 'cat'. In Estonian grammar, the genitive case typically indicates possession or association. So 'kassi' would translate to 'of cat', 'for cat', or sometimes simply 'cat' depending on context. It can also refer to a kitten in some contexts."
 }

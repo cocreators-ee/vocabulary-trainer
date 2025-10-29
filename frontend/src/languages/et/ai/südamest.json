@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahan seda südamest",
-    "Ta räägib südamest",
-    "Südamest tuleb armastus"
+    "Ta tuli südamest.",
+    "Sellest tuleb südamest.",
+    "Mul oli südamest hea meel."
   ],
   "translation": [
     "from the heart",
-    "heartfelt",
-    "sincerely"
+    "sincerely",
+    "genuinely"
   ],
-  "context": "The word 'südamest' in Estonian means something is done or said from the heart, emphasizing sincerity and genuine emotions."
+  "context": "The word 'südamest' is an Estonian adverbial form that means 'from the heart'. It is formed from the root word 'süda' (heart) with the elative case ending '-st', indicating origin or source. This construction shows movement or direction away from something - in this case, expressing that feelings, thoughts, or actions come genuinely and sincerely from one's innermost being."
 }

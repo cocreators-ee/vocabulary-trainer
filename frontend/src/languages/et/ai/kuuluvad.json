@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Need kuuluvad minu lemmikraamatute hulka.",
-    "Kas need kuuluvad siia?",
-    "Need kuuluvad meie pere traditsioonide hulka."
+    "Kõik need asjad kuuluvad meile.",
+    "Need tooted kuuluvad uuele kategooriale.",
+    "Mida sinu unistused kuuluvad?"
   ],
   "translation": [
-    "belong",
+    "belong to",
     "are part of",
-    "pertaining to"
+    "fall under"
   ],
-  "context": "The word 'kuuluvad' is a verb in Estonian that means to belong or be part of something, and it is commonly used to describe relationships between things or people."
+  "context": "The word 'kuuluvad' is the 3rd person plural present form of the Estonian verb 'kuuluma', which means 'to belong' or 'to be part of'. It indicates that multiple subjects are in possession of, associated with, or categorized within something else. In Estonian grammar, this form shows that the action is being performed by a third-person subject (they) and is plural in nature."
 }

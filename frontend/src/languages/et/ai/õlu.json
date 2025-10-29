@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma jõi õlle",
-    "Õlled on hea joogiline alkohol",
-    "Tema armastab head õlut"
+    "Ma sööin õlut söögikohas.",
+    "Mul on hea õlu kodust.",
+    "Osta palun head õlu poest."
   ],
   "translation": [
     "beer"
   ],
-  "context": "The word õlu refers to beer in Estonian and is commonly used in everyday conversations when talking about drinking or ordering at a bar."
+  "context": "The Estonian word 'õlu' means 'beer'. It is a common noun referring to the alcoholic beverage made from fermented grains. In Estonian, 'õlu' follows standard grammatical patterns and can appear in different cases depending on its function in a sentence. For example, it might be used in nominative case as 'õlu', genitive case as 'õlve', or partitive case as 'õlu'."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on täielik idioot.",
-    "Idioodid ei saa seda teha.",
-    "Idiootidel pole midagi karta."
+    "Ta on idioot.",
+    "Idioodid ei mõtle enne kui nad räägivad.",
+    "Kas sa tõesti oled nii suur idioot?"
   ],
   "translation": [
-    "fool",
     "idiot",
+    "fool",
     "moron"
   ],
-  "context": "The word 'idioot' is commonly used in Estonian to describe someone who is foolish or stupid, and it can be used in various forms to convey different levels of idiocy."
+  "context": "The word 'idioot' in Estonian means idiot or fool. It is a noun used to describe someone who behaves foolishly or lacks common sense. The word comes from the same root as English 'idiot' and has similar meaning and usage. It can be used in singular form (idioot) or plural form (idioodid)."
 }

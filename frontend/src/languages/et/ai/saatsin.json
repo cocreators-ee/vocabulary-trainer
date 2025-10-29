@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma saatsin talle kirja.",
-    "Saatsin paki postiga.",
-    "Ta saatis mulle teate."
+    "Ma saatsin kirja.",
+    "Ta saatis meile e-kirja.",
+    "Me saatsime pakki jõuludeks."
   ],
   "translation": [
-    "I sent him a letter.",
-    "I sent the package by mail.",
-    "He/She sent me a message."
+    "sent",
+    "mailed",
+    "dispatched"
   ],
-  "context": "The verb 'saata' in Estonian means 'to send'. The form 'saatsin' is the first-person singular past tense, meaning 'I sent'. It’s commonly used to describe the act of transmitting something – a letter, package, message, or even an email – to another person."
+  "context": "The word 'saatsin' is the first person singular past tense form of the Estonian verb 'saata', which means 'to send'. It is used when referring to sending something by mail, email, or any other means of transmission in the past. The form indicates that the speaker performed the action of sending."
 }

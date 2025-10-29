@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vaatan telerit",
-    "Ta vaatas akna välja",
-    "Me vaatame filmi"
+    "Ma vaadan televiisorit.",
+    "Tema vaatab lapse mängimas.",
+    "Meie vaatame filmi koos."
   ],
   "translation": [
-    "look",
-    "watch",
-    "gaze"
+    "I watch",
+    "he/she/it watches",
+    "we watch"
   ],
-  "context": "The word 'vaatan' is a verb in Estonian that means to look or watch something, and it is commonly used in everyday conversations to describe the act of observing or paying attention to something."
+  "context": "The word 'vaatan' is the first-person singular present tense form of the Estonian verb 'vaadata', which means 'to watch'. It indicates that the speaker is currently watching something. The verb changes its ending based on the subject and tense: 'vaadan' (I watch), 'vaatab' (he/she/it watches), 'vaatame' (we watch)."
 }

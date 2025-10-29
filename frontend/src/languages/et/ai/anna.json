@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Anna mulle veidi aega",
-    "Anna see mulle",
-    "Ta annab mulle raamatu"
+    "Anna mulle midagi juua.",
+    "Tema annab alati head nõuandeid.",
+    "Palun anna mulle oma number."
   ],
   "translation": [
     "give",
-    "to give"
+    "provide",
+    "hand over"
   ],
-  "context": "The word 'anna' is commonly used in Estonian to mean 'to give', and it is often used in various contexts, such as asking someone to give something or offering something to someone."
+  "context": "The Estonian word 'anna' is the imperative form of the verb 'andma', which means to give or provide. It's used when directly telling someone to give something to someone else. For example, 'Anna mulle midagi juua' means 'Give me something to drink.' The word can be used in various contexts where you're asking for or commanding someone to hand over an object, information, or assistance."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen esmaspäeval kinno.",
-    "Ta töötab esmaspäevast neljapäevani.",
-    "Esmaspäeval on mu nimi päris võõras."
+    "Tulen esmaspäeval kell kümme.",
+    "Meie kohtumine on esmaspäeval hommikul.",
+    "Ta tuleb tööle esmaspäeval."
   ],
   "translation": [
     "on Monday",
-    "Monday"
+    "at Monday"
   ],
-  "context": "The word esmaspäeval is an adverb in Estonian that refers to something happening or being done on Mondays, and it is commonly used when talking about plans or schedules for the week."
+  "context": "The word 'esmaspäeval' is the Estonian adessive case of 'esmaspäev', meaning 'Monday'. The '-l' ending at the end indicates location or time - when something happens. It literally translates to 'on/at Monday' and is used to indicate that an action occurs on a Monday."
 }

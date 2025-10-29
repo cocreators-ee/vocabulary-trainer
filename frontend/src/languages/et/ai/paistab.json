@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta paistab olevat väga hea inimene",
-    "Paistab, et ta on haige",
-    "Temast paistab, et tal on palju kogemusi"
+    "Paistab päike.",
+    "Täna paistab päike hästi.",
+    "Eile ei paistanud päike."
   ],
   "translation": [
-    "seems",
+    "shines",
+    "is shining",
     "appears",
-    "looks like"
+    "seems"
   ],
-  "context": "The word 'paistab' is commonly used in Estonian to express that something seems or appears to be a certain way, often based on visible signs or evidence."
+  "context": "The word 'paistab' is the 3rd person singular present form of the Estonian verb 'paistma'. It means shines, appears or seems depending on context. It's commonly used to describe weather conditions (the sun shining) or when something becomes visible or apparent."
 }

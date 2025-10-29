@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Teame, et see on vahetut oluline.",
-    "Me teame seda juba aastate kestel.",
-    "Kas sa tead, et me teame vastust?"
+    "Me teame seda vastust.",
+    "Nad ei tea seda aga me teame.",
+    "Kas teate, et me teame kõik?",
+    "Teame peaksime olema valmis."
   ],
   "translation": [
-    "know",
-    "are aware"
+    "we know",
+    "we are aware of",
+    "we understand"
   ],
-  "context": "'Teame' is the first person plural form of 'teha' in Estonian meaning 'to know'. It is used to indicate that a group including the speaker knows something."
+  "context": "The Estonian word 'teame' is the 1st person plural present tense form of the verb 'teda', which means 'to know'. It translates to English as 'we know' or 'we are aware of'. The word follows Estonian conjugation patterns where the ending '-me' indicates first person plural (we) in present tense."
 }

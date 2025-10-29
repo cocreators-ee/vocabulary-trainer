@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sai keelatud ainete tarbimise tõttu kaheks aastaks keelatud osaleda olümpiamängudel.",
-    "Keelatud tulu saamiseks kasutati võltsitud dokumente.",
-    "Koolis on keelatud suitsida ja joobedat oleku juures käia."
+    "See tegevus on keelatud.",
+    "Sissepääs on keelatud sellel alal.",
+    "Tuba oli täis keelatud esemeid."
   ],
   "translation": [
     "forbidden",
     "prohibited",
-    "banned"
+    "banned",
+    "not allowed"
   ],
-  "context": "The word 'keelatud' in Estonian means something that is not allowed or is prohibited by rules or laws, and it can be used in various contexts such as describing banned substances, forbidden activities, or restricted areas."
+  "context": "The word 'keelatud' is the past participle form of the Estonian verb 'keelama', meaning 'to forbid' or 'to prohibit'. It functions as an adjective in Estonian, describing something that has been forbidden or prohibited. This form indicates a state where something is not permitted by rules, laws, or authority."
 }

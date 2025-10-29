@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan jooki.",
-    "Jook on hea ja tervislik.",
-    "Ta valmistas endale jooki."
+    "Osta mind jooki!",
+    "Võta üks jooki.",
+    "Milline on see jooki?"
   ],
   "translation": [
-    "juice"
+    "drink",
+    "beverage",
+    "liquid"
   ],
-  "context": "The word 'jook' in Estonian means juice, and it is commonly used to refer to a liquid extract of fruits or vegetables."
+  "context": "The word 'jooki' is the partitive case form of the Estonian noun 'jook', which means drink or beverage. In Estonian, nouns change their endings depending on their grammatical function in a sentence. The partitive case (-i ending) typically indicates that something is being partially consumed or referred to in an incomplete sense. So 'jooki' would be used when talking about having some drinks, ordering drinks, or referring to the concept of drinking in general."
 }

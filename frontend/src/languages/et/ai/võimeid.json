@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on võimeline mees.",
-    "Ta võimeid on hämmastavad.",
-    "Ta tunneb enda võimeid."
+    "Mul on hea võimed kõiges.",
+    "Tema võimid on uskumatud.",
+    "Meie võeid peaks arendama."
   ],
   "translation": [
+    "skills",
     "abilities",
-    "powers",
     "capacities"
   ],
-  "context": "The word 'võimeid' in Estonian refers to a person's abilities or capabilities, and is commonly used to describe someone's skills or talents."
+  "context": "The word 'võimeid' is the partitive plural form of 'võime', which means skill or ability. In Estonian, the partitive case is often used to indicate partiality or indefiniteness, and when combined with plural, it suggests 'some skills' or 'abilities in general'. The root word comes from 'võima' (to be able), making this concept related to capabilities and competencies that someone possesses."
 }

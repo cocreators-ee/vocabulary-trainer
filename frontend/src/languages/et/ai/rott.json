@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis roti käest kinni",
-    "Rott oli väga suur",
-    "Rotid on valge hiire eellased"
+    "rott sööb leiba",
+    "rott on väike ja must",
+    "rott jooksis möda seina"
   ],
   "translation": [
-    "rat"
+    "rat",
+    "rodent",
+    "vermin"
   ],
-  "context": "The word 'rott' in Estonian refers to a common rat, often considered a pest, and is used in various contexts to describe the animal or its behavior."
+  "context": "Rott is the Estonian word for 'rat'. It refers to a small rodent animal that has a long tail and typically lives in urban areas or sewers. In Estonian, 'rott' can be used both literally to refer to the animal itself, and figuratively to describe someone as sneaky or unpleasant, similar to how English uses 'rat' metaphorically."
 }

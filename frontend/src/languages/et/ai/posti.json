@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen posti juurde.",
-    "Tema post on tema töö.",
-    "Posti pakid olid suured."
+    "Sa oled saadetud posti.",
+    "Posti on siin.",
+    "Täna tuleb posti."
   ],
   "translation": [
+    "post",
     "mail",
-    "post"
+    "delivery"
   ],
-  "context": "The word 'posti' in Estonian generally refers to mail or the postal service, and is commonly used when talking about sending letters or packages."
+  "context": "In Estonian, 'posti' is the partitive case form of 'post', which refers to mail or postal deliveries. It's used when talking about the concept of post in general, or referring to an unspecified amount of mail/post."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on tüübi mees.",
-    "Tüübidega ei saa rääkida.",
-    "Ma olen tüübi inimene."
+    "See on tüübi korralikult koostatud dokument.",
+    "Tema käitumine ei olnud eriti tüübi järgi.",
+    "Me peame leidma paremaid tüübi näiteid."
   ],
   "translation": [
-    "dude",
-    "guy"
+    "type",
+    "kind",
+    "sort",
+    "category"
   ],
-  "context": "The word 'tüübi' is a colloquial term used to refer to a man or a guy, often in an informal setting."
+  "context": "The word 'tüübi' is the genitive singular form of the Estonian noun 'tüüp', which means 'type' or 'kind'. In this form, it typically follows a preposition like 'of' and indicates possession or association. For example, in the first sentence 'See on tüübi korralikult koostatud dokument', it means 'This is a document of/type proper composition'. The genitive case is commonly used in Estonian to express relationships between nouns."
 }

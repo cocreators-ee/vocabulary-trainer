@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näitan sulle oma kodu.",
-    "Näidake mulle tee.",
-    "Ta ei näitanud mulle midagi."
+    "Näidakese meie uut toodet.",
+    "Kas sa näidad mulle seda dokumenti?",
+    "Me palume teil näidata oma isikutunnistust."
   ],
   "translation": [
-    "show"
+    "show",
+    "display",
+    "present"
   ],
-  "context": "The word 'näidake' is the plural imperative form of the verb 'näitama', which means to show something to someone. It is commonly used when asking or instructing someone to display or demonstrate something."
+  "context": "The word 'näidake' is the second person plural imperative form of the Estonian verb 'näidata', which means 'to show'. It is used when addressing a group of people and instructing them to show or display something. The ending '-ke' indicates that it's the polite/plural form, commonly used in formal contexts or when speaking to multiple people."
 }

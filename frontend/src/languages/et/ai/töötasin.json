@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma töötasin kohalikus restoranis.",
-    "Ta öeldes, et ta juba varasemalt töötasin sellel projektis.",
-    "Kuidas sa siin töötasin?",
-    "Mina ei töötanud, vaid lihtsalt aidasin."
+    "Töötasin eile kogu päevä.",
+    "Ta töötas firmas viis aastat.",
+    "Me töötasime koos sellel projektil."
   ],
   "translation": [
-    "I worked"
+    "worked",
+    "was working",
+    "had worked"
   ],
-  "context": "The word is used to express that one was working in the past tense. It's a common verb form for describing previous work experience or actions taken during a certain period of time."
+  "context": "The word 'töötasin' is the first person singular past tense form of the Estonian verb 'töötama', which means 'to work'. In English, this translates to 'I worked' and indicates completed action in the past. The '-sin' ending is characteristic of first person singular past tense in Estonian."
 }

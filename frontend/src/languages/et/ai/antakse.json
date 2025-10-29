@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kui kõik käib hästi, antakse sulle tagasi oma pass.",
-    "Antakse väärtus järgmise korrani.",
-    "Riigikogu otsustas, et antakse tugevama toetuse."
+    "Antakse meile häid uudiseid.",
+    "Millest antakse teada?",
+    "Täna antakse palju rõhku praktilisele tööle."
   ],
   "translation": [
-    "is given"
+    "is given",
+    "are provided",
+    "will be given"
   ],
-  "context": "The word 'antakse' is used in Estonian to indicate that something is being given or granted. It often appears in formal contexts such as legal procedures, government decisions, or when referring to the granting of rights and privileges."
+  "context": "\"Antakse\" is the third person singular/plural present tense passive form of the Estonian verb \"andma\" (to give). It means something that is being or will be given, provided, or delivered to someone. This construction uses the -takse ending which is typical for passive voice in Estonian present tense."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga vedas, et ta pääses õnnelikult.",
-    "Ma olen vedas, et sind kohtusin.",
-    "See oli lihtsalt vedas juhus."
+    "Tema vedas koju.",
+    "Meie vennad veavad mängu.",
+    "Ta on vedanud palju aega."
   ],
   "translation": [
-    "lucky",
-    "fortunate",
-    "blessed"
+    "pulled",
+    "dragged",
+    "drew",
+    "led"
   ],
-  "context": "The word 'vedas' in Estonian is used to describe someone who experiences good fortune or luck. It’s similar to the English words ‘lucky’ or ‘fortunate’, and can be used in various contexts to express that something positive happened by chance."
+  "context": "The word 'vedas' is the past tense form of the Estonian verb 'võtma'. It means to pull, drag, draw or lead something. In different contexts it can refer to physically pulling an object, dragging someone along, drawing a line or picture, or leading people somewhere. The word changes form based on tense and subject - 'vedas' is specifically the 3rd person singular past tense form."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sajandi alguses elas seal umbes 300 inimest.",
-    "Täna on see sajandi suurimaid linnu.",
-    "20. sajandi keskel toimus seal suur pööre."
+    "See on sajandi suurim sündmus.",
+    "Me elame sajandi alguses.",
+    "Ta kirjutas raamatu sajandi lõpul."
   ],
   "translation": [
-    "century",
-    "hundred years"
+    "of the century",
+    "century's"
   ],
-  "context": "The word 'sajandi' is used to refer to a period of 100 years, similar to the English word 'century'. It is commonly used in Estonian language to describe historical events or time periods."
+  "context": "The word 'sajandi' is the genitive case of the Estonian noun 'sada', meaning 'hundred'. In this form, it means 'of the century' or 'century's'. It's used to indicate possession or relationship with a century. The word changes based on grammatical cases in Estonian - here we see the genitive singular form."
 }

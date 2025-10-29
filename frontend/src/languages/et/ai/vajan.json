@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vajan abi",
-    "Ta vajan süüa",
-    "Me vajan teineteist"
+    "Ma vajan abi.",
+    "Ta vabanduse küsib, sest ta ei tea vastust.",
+    "Meie meeskond vajaks rohkem harjutusaega."
   ],
   "translation": [
-    "I need",
-    "need to"
+    "need",
+    "require",
+    "want",
+    "have to"
   ],
-  "context": "The word 'vajan' is the first person singular form of the verb 'vajama', which means to need or require something, and it is commonly used in Estonian to express a necessity or requirement."
+  "context": "The Estonian word 'vajan' is the first-person singular form of the verb 'vaja', which means 'to need' or 'to require'. It indicates that the speaker needs something. In English, this would translate to 'I need' or 'I want'. The word belongs to the conjugation pattern for the present tense in Estonian."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Järgmine buss saabub kell üheksa.",
-    "Ta oli järgmine, kes seda tegi.",
-    "Järgmise aasta suvel lähen taas Itaaliasse."
+    "Järgmine kord näeme uuesti.",
+    "See on järgmine peatükk raamatus.",
+    "Kas sa tuled järgmisele päeval?"
   ],
   "translation": [
     "next",
     "following"
   ],
-  "context": "The word 'järgmine' in Estonian means 'next' or 'following', and it is commonly used to indicate something that comes after something else in a sequence or order, such as the next bus, the next person in line, or the following year."
+  "context": "The word 'järgmine' is an adjective in Estonian that means 'next' or 'following'. It's used to indicate something that comes after the current one in a sequence. The word appears in various contexts such as referring to the next time, the next chapter, or what follows in order."
 }

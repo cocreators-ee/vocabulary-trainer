@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Talossa on keltainen ovi.",
-    "Keltaiset kukat ovat kauniita.",
-    "Hän pukeutui keltaiseen paitaan."
+    "Keltainen auto parkkeerui autotalliin.",
+    "Lapset maalivat talon keltaiseksi.",
+    "Keltainen kukka oli kaunis."
   ],
   "translation": [
-    "yellow"
+    "yellow",
+    "yellow-colored"
   ],
-  "context": "The word keltainen is an adjective in Finnish that means yellow, and it is commonly used to describe objects or things that have a yellow color."
+  "context": "The Finnish word 'keltainen' is an adjective that means 'yellow' in English. It describes something that has the color yellow, like objects, flowers, or animals. In Finnish adjectives change form based on case and number - for example, the singular nominative form is 'keltainen', but it would become 'keltaisen' in partitive case or 'keltaiset' in plural nominative."
 }

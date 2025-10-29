@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma paistan hommikuti pannkoogid.",
-    "Ta paistab kala grillil.",
-    "Kas sa paistad kooki?"
+    "Täna paistab päike.",
+    "Kuidas sa paistad?"
   ],
   "translation": [
-    "to bake",
-    "to fry",
-    "to roast"
+    "shine",
+    "appear",
+    "look"
   ],
-  "context": "The Estonian verb 'paistad' generally translates to baking, frying or roasting in English. It describes the process of cooking food using dry heat, often in an oven or on a pan."
+  "context": "The word 'paistad' is the 2nd person singular form of the verb 'paistma', which means 'to shine', 'to appear', or 'to look'. It's used when addressing someone directly (you) and describes how they appear or seem to others."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin uudise varahommiku vores.",
-    "Uudised tuli homme.",
-    "See on uudis, mida ma ootasin."
+    "Uudised on väga olulised.",
+    "Ma loen uudiseid igal hommikul.",
+    "Täna on head uudised."
   ],
   "translation": [
-    "news"
+    "news",
+    "tidings",
+    "information"
   ],
-  "context": "The word 'uudis' in Estonian refers to news or information about recent events, and it is commonly used in various contexts such as media, conversations, and official announcements."
+  "context": "The word 'uudis' in Estonian means 'news'. It's a singular noun that refers to information about recent events or happenings. In everyday usage, it often appears in the plural form 'uudised' when referring to news items or news broadcasts. The word is commonly used in media contexts and daily conversation to stay informed about current affairs."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan autost uue sõiduki.",
-    "Autost on võetud kinni palju kurjategijaid.",
-    "Ta töötab autost müügiga."
+    "Tulen autost välja.",
+    "Meil oli hea aeg autost vaadates.",
+    "Poisid said autost lahti."
   ],
   "translation": [
-    "car",
-    "automobile",
-    "vehicle"
+    "from the car",
+    "out of the car"
   ],
-  "context": "The word 'autost' is the elative form of the noun 'auto', which means car or automobile in Estonian, and it is commonly used to indicate movement out of a car."
+  "context": "The Estonian word 'autost' is an elative case form, derived from the root word 'auto' (car). The '-st' suffix indicates movement out of or away from something. It's used when someone exits a car or comes out from inside the car."
 }

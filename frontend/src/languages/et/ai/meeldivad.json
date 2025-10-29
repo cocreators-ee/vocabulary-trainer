@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul meeldivad koerad",
-    "Meeldivad inimesed on sõbralikud",
-    "Meeldivad asjad on need, mis meeldivad kõigile"
+    "Mulle meeldivad sinu kingitused.",
+    "Lapsed meeldivad mulle väga.",
+    "Kõik need asjad meeldivad talle."
   ],
   "translation": [
-    "nice",
-    "pleasant",
-    "likeable"
+    "please",
+    "are pleasing to",
+    "are liked by",
+    "appeal to"
   ],
-  "context": "The word meeldivad is used to describe something or someone that is pleasant or likeable, and it is commonly used in Estonian language to express a positive feeling towards something."
+  "context": "The word 'meeldivad' is the 3rd person plural present form of the verb 'meeldima', which means 'to please' or 'to like'. It is used when something pleases someone or is liked by them. In Estonian, this construction uses the dative case for the person being pleased and the nominative case for the thing that pleases them."
 }

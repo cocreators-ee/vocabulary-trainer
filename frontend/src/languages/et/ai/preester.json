@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Preester oli väga armuline.",
-    "Preestrid said jumalateenistuse läbi.",
-    "Preestrina on ta väga populaarne."
+    "Preester oli jumalateenistuse juht.",
+    "Eelmisel nädalal külastasime preestrit.",
+    "Kõik preestrid pidavad koolitust."
   ],
   "translation": [
     "priest",
     "clergyman",
-    "minister"
+    "pastor"
   ],
-  "context": "The word preester refers to a religious leader or a member of the clergy in the Estonian language, commonly used in Christian contexts to denote a person who has been ordained to perform sacred rites and lead worship services."
+  "context": "In Estonian, 'preester' is a masculine noun that refers to a religious leader who conducts religious services and ceremonies in the Christian church. It specifically denotes a priest within various Christian denominations. The word follows Estonian grammatical patterns and can be used in different forms depending on context (singular/plural)."
 }

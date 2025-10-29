@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mulle huvitab see film",
-    "Ta huvitab mind oma looga",
-    "See ei huvita teda"
+    "Huvitab mind, mis sa teed.",
+    "Mis huvitab sind?",
+    "Mind huvitaks seda näha."
   ],
   "translation": [
     "interests",
-    "concerns"
+    "fascinates",
+    "is interesting to"
   ],
-  "context": "The word huvitab is commonly used in Estonian to express interest or curiosity about something, and it can be translated to English as interests or concerns."
+  "context": "The word 'huvitab' is the 3rd person singular present form of the verb 'huvitama', which means 'to interest' or 'to fascinate'. In Estonian, this form is commonly used when talking about what interests someone else. For example, 'Huvitab mind' means (it) interests me, while 'huvitab sind' means (it) interests you."
 }

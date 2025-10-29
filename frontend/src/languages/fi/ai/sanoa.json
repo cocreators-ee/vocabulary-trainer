@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun pitää sanoa, että se on vaikea tehtävä",
-    "Hän sanoo, että hän tulee myöhemmin",
-    "Sanoin hänelle, että olen pahoillani"
+    "Minun on sanottava, että olen iloinen.",
+    "Hän sanoi minulle totuuden.",
+    "He sanoivat kaiken hyvin."
   ],
   "translation": [
     "to say",
-    "say",
-    "tell"
+    "to tell",
+    "to speak"
   ],
-  "context": "The word 'sanoa' is a verb in Finnish that means to say or tell something, and it is commonly used in various contexts to express thoughts, opinions, or messages."
+  "context": "The Finnish verb 'sanoa' is a common word meaning 'to say', 'to tell', or 'to speak'. It's used when someone expresses words verbally. In its basic form (infinitive), it's 'sanoa'. When conjugated, it becomes 'sanon' (I say), 'sanot' (you say), 'sano' (he/she/it says), etc. This verb is fundamental in Finnish for communication and expressing thoughts verbally."
 }

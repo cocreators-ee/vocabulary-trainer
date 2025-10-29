@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Seaduse järgi on see lubatud.",
-    "Ta võttis osa seaduse loomisel.",
-    "Seaduse muutmiseks on vaja enamiku toetus."
+    "See on seadusega kooskõlas.",
+    "Pead seadust järgima.",
+    "Vaatame seda seadust lähemalt."
   ],
   "translation": [
     "law",
-    "legislation"
+    "act",
+    "statute"
   ],
-  "context": "The word 'seaduse' in Estonian refers to a law or legislation, and is commonly used in formal and official contexts to describe rules and regulations that govern a society or institution."
+  "context": "The word 'seaduse' is the genitive singular form of the Estonian noun 'seadus', which means 'law'. In the genitive case, it indicates possession or relationship to something - in this case, 'of the law' or 'related to law'. This form is commonly used when talking about compliance with laws, referring to specific legal acts, or discussing legal matters where ownership or association with legislation is implied."
 }

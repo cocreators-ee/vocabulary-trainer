@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on pelko lentää",
-    "Pelko esti häntä menemästä yliopistoon",
-    "Hänellä oli suuri pelko epäonnistumista"
+    "Minulla on pelkoa koiria kohtaan.",
+    "Pelkäämme pimeyttä.",
+    "Hän tunsi pelkoa ensimmäistä kertaa lentokoneessa."
   ],
   "translation": [
     "fear",
-    "apprehension",
+    "anxiety",
     "dread"
   ],
-  "context": "The word pelko in Finnish refers to a feeling of anxiety or apprehension about something, and it is commonly used to describe a person's emotional state in situations that make them feel uneasy or threatened."
+  "context": "The Finnish word 'pelko' means fear or anxiety in English. It is a noun that refers to the emotion of being afraid of something, often in anticipation of danger. The word can be used in various contexts - from everyday fears (like fear of dogs) to more serious anxieties."
 }

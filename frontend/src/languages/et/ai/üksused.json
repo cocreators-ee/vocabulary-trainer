@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen teadlik üksuste vajadusest.",
-    "Ta õpetab last arvutada erinevaid üksusi.",
-    "Üksused on olulised täpse mõõtmise jaoks."
+    "Üksused on olulised igapäevases elus.",
+    "Need üksused on väga täpsed.",
+    "Paljud üksused tulevad teistest riikidest."
   ],
   "translation": [
     "units",
-    "elements"
+    "single items",
+    "individuals"
   ],
-  "context": "'üksused' refers to 'units' or 'elements', commonly used in contexts like mathematics (units of measurement), sets, or individual items in a collection. It can also imply the basic components that form part of a larger system."
+  "context": "The Estonian word 'üksused' is the plural form of 'üksus', which means 'unit' or 'single item'. It refers to individual entities, components, or distinct elements that make up a larger whole. The word can be used in various contexts such as military units (sõjaväe üksused), measurement units (mõõtühikud), or simply referring to individual items or people (üksikisendid)."
 }

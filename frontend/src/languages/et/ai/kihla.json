@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kihlasin temaga.",
-    "Kihla on hea sõna.",
-    "Ta oli kihlunud mehega."
+    "Meie kihi on täna õnnelik.",
+    "Kihla oli väga romantiline pidu.",
+    "Ta rääkis oma kihlajast."
   ],
   "translation": [
     "engagement",
-    "fiancé"
+    "betrothal",
+    "fiancée"
   ],
-  "context": "The word 'kihla' in Estonian refers to the state of being engaged or a fiancé, and is commonly used in contexts related to marriage and relationships."
+  "context": "The Estonian word 'kihla' refers to an engagement or betrothal - the formal agreement between two people who intend to marry. It can refer to the event, ceremony, or the state of being engaged. The related form 'kihlaja' means fiancé/fiancée, and 'kihlati' is past tense for 'became engaged'."
 }

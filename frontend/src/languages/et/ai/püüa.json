@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma püüan seda koera",
-    "Ta püüab kala järvest",
-    "Nad püüavad palju hobuseid"
+    "Püüa pall!",
+    "Ma püüan kala.",
+    "Tule meiega püüdma!"
   ],
   "translation": [
-    "try",
-    "attempt",
-    "strive"
+    "catch",
+    "try to catch",
+    "attempt to do something"
   ],
-  "context": "The word 'püüa' in Estonian means to try or attempt to do something, and it is commonly used in sentences to describe making an effort to achieve a goal."
+  "context": "The Estonian word 'püüa' is an imperative form of the verb 'püüma', meaning 'to catch'. In its base form it's used as a command or suggestion, telling someone to attempt catching something. It can refer to physically catching objects (like balls) or animals (like fish), and is also commonly used in the more general sense of trying to accomplish something."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea, kes on see tundmatu inimene.",
-    "Tundmatud inimesed elavad üksi.",
-    "Ta oli tundmatu kunstnik, kuni ta sai auhinna."
+    "Tundmatu mees tuli tuppa.",
+    "Ta on mulle täiesti tuntud.",
+    "Me ei tea, kes see tundmatu oli."
   ],
   "translation": [
     "unknown",
-    "stranger",
+    "unrecognized",
     "unfamiliar"
   ],
-  "context": "The word 'tundmatu' is commonly used to describe someone or something that is not known or recognizable, often implying a sense of mystery or unfamiliarity."
+  "context": "The Estonian word 'tundmatu' means unknown or unfamiliar. It is formed from the root word 'tundma' (to know/recognize) with the negative suffix '-tu', indicating something that cannot be recognized or is not known. The adjective can be used to describe people, places, things, or situations that are unfamiliar to someone. When referring to a person, it means 'unknown person'."
 }

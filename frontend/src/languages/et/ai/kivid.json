@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma leidsin kivi metsast.",
-    "Kivid on ümarad ja ilusad.",
-    "Ta tõstis suure kivi üles."
+    "Kivid on suured ja kõvad.",
+    "Meie ees seisavad kividega täidetud aed.",
+    "Ta lõi oma käega kivi puruks."
   ],
   "translation": [
     "stones",
     "rocks"
   ],
-  "context": "The word 'kivid' refers to stones or rocks, and it is commonly used in Estonian to describe small rock formations or pebbles."
+  "context": "The word 'kivid' is the plural form of Estonian noun 'kivi', which means 'stone' or 'rock'. In Estonian, nouns typically have different forms for singular and plural. The '-d' ending indicates plurality here. This word refers to hard mineral materials found naturally in nature."
 }

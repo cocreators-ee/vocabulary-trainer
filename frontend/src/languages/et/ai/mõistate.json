@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mõistan seda väga hästi",
-    "Ta mõistab mu keelt",
-    "Me mõistame üksteist"
+    "Mõistate seda küsimust?",
+    "Kas te mõistate, mis toimub?",
+    "Mõistame, et see on raske otsus."
   ],
   "translation": [
-    "understand",
-    "comprehend"
+    "you understand",
+    "you comprehend",
+    "you grasp"
   ],
-  "context": "The word 'mõistate' is a verb in Estonian that means to understand or comprehend something, and it is commonly used in sentences to express the ability to grasp an idea or concept."
+  "context": "The word 'mõistate' is the second person plural (formal) present indicative form of the verb 'mõistma', which means 'to understand'. It is commonly used in formal or polite address when speaking to multiple people. The root stem '-t-' indicates it's part of the verb conjugation pattern for this tense and person."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa kaduma minna.",
-    "Ta läks kaduma.",
-    "Kaduma minek on keelatud."
+    "Kass kadus öösel.",
+    "Ta on kadunud juba nädal aega.",
+    "Me leidsime kaotatud asja."
   ],
   "translation": [
+    "to disappear",
     "to get lost",
-    "to lose one's way"
+    "to be missing"
   ],
-  "context": "The word 'kaduma' is commonly used in Estonian to describe the act of getting lost or losing one's way, often in a physical sense, such as in a forest or while traveling."
+  "context": "The Estonian verb 'kaduma' means to disappear, get lost or be missing. It's an imperfective verb indicating the ongoing process of something no longer being accessible or visible. The perfective form is 'kadunud' (disappeared/gone). This word can refer to physical objects disappearing as well as people going missing."
 }

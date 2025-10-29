@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hevonen on kaunis eläin.",
-    "Hän omistaa hevosen.",
-    "Hevoset ovat voimakkaita."
+    "Minulla on hevonen.",
+    "Hevoset ovat suuria eläimiä.",
+    "Tämä on uusi hevosen satula."
   ],
   "translation": [
-    "horse"
+    "horse",
+    "equine",
+    "steed"
   ],
-  "context": "The word hevonen refers to a horse, which is a large, hoofed, herbivorous mammal often domesticated by humans."
+  "context": "The Finnish word 'hevonen' means horse. It's a common noun referring to the large four-legged animal used for riding, work, or transportation. The word is in singular nominative form here. In plural form it would be 'hevoset', and in genitive case (possessive) it becomes 'hevosen'."
 }

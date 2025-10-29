@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olnud sinuga koos",
-    "Ta oli olnud haigekamberis",
-    "Me olnud seal varem"
+    "Olnud olemas.",
+    "Ta on olnud seal.",
+    "Mees oli juba olnud kodu."
   ],
   "translation": [
-    "have been",
     "been",
-    "was"
+    "was (past tense)",
+    "existed"
   ],
-  "context": "The word 'olnud' is the past participle form of the verb 'olema', which means 'to be' in English, and it is commonly used to describe a state or condition that existed in the past."
+  "context": "The word 'olnud' is the past participle form of the Estonian verb 'olema', which means 'to be'. It functions as the third-person singular past perfect form and can indicate that someone or something was in a particular state or location at some point in the past. It's commonly used with auxiliary verbs to form compound tenses."
 }

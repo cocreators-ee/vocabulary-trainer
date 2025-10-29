@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsustasin minna kinno.",
-    "Ta otsustas ära müüa oma maja.",
-    "Nende otsustasid koos ühiselt."
+    "Otsustasin osta uue telefoni.",
+    "Ma ei tea, mida ta otsustas.",
+    "Meie klass otsustas korraldada pikniku."
   ],
   "translation": [
+    "I decided",
     "decided",
-    "made a decision"
+    "I made a decision"
   ],
-  "context": "The word 'otsustasin' is the first person singular past tense form of the Estonian verb 'otsustama', which means to decide or make a decision. It is commonly used in sentences where the subject has made up their mind about something."
+  "context": "The word 'otsustasin' is the 1st person singular past tense form of the Estonian verb 'otsustama', which means 'to decide'. It indicates that someone (the speaker) has made a decision in the past. The root 'otsust-' comes from 'otsus' meaning 'decision', and '-sin' is the typical ending for 1st person singular past tense verbs in Estonian."
 }

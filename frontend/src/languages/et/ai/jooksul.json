@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta töötas selle kooli juures jooksul aastaid.",
-    "Me olime jooksul aastaid väga lähedased.",
-    "Jooksul kogu protsessi oli väga palju probleeme."
+    "Ta jooksis kiiresti jooksul.",
+    "Meil oli hea jooksul tänaval.",
+    "Päike paistis selles ilusal jooksul."
   ],
   "translation": [
-    "during",
-    "in the course of"
+    "during the run",
+    "while running",
+    "in running"
   ],
-  "context": "The word 'jooksul' is commonly used in Estonian to indicate that something happens or is done during a particular period of time or process."
+  "context": "The word 'jooksul' is an Estonian adessive case form of the noun 'jooks', which means 'run'. In this case, it functions as a temporal preposition meaning 'during' or 'while something is happening'. The -l ending indicates location/time in the adessive case. It's commonly used to indicate when an action occurs during another activity."
 }

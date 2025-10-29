@@ -1,14 +1,16 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän tuumi häneltä paikalta.",
-    "Poika tuumasi isäänsä.",
-    "Älä tuuaa tätä seinää!"
+    "Tuuman on tehty virhe.",
+    "Hän tuumasi, että tulisi sataa.",
+    "Tuumatkaa asia rauhassa."
   ],
   "translation": [
-    "to push",
-    "to shove"
+    "to think",
+    "to guess",
+    "to suppose",
+    "to ponder",
+    "to speculate"
   ],
-  "context": "The word 'tuuma' in Finnish means to push or shove something or someone. It often implies a forceful or aggressive action, commonly used in contexts of physical movement or conflict."
+  "context": "'Tuuma' is the third-person singular form of the Finnish verb 'tuumata', which means to think, consider, or ponder. It's commonly used when referring to someone else's thinking process or mental activity. The word belongs to a group of verbs that describe cognitive processes and reflection."
 }

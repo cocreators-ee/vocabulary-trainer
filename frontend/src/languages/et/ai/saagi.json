@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Me saame selle tööga saagi.",
-    "Põllumees lootis suurt saaki.",
-    "Saak oli tänavu kehv."
+    "Saagi mind hommikul üles.",
+    "Saad mind siit ära?",
+    "Me saime oma lapse kooli."
   ],
   "translation": [
-    "harvest",
-    "yield",
-    "crop",
-    "catch (as in fishing)"
+    "get",
+    "fetch",
+    "obtain"
   ],
-  "context": "The word 'saagi' in Estonian refers to the result of effort, whether it be a harvest from farming, the yield from work, or a catch from fishing. It generally implies something gained or obtained through labor or activity."
+  "context": "The Estonian word 'saagi' is the 1st person singular past tense form of the verb 'saama' meaning 'to get', 'to fetch', or 'to obtain'. It appears to be in the perfective aspect, indicating that the action has been completed. This form would typically translate to English as 'I got', 'I fetched', or 'I obtained' depending on context."
 }

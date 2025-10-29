@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Meil on vaja rohkem naiseõde koolis.",
-    "Naisi tundus huvitatud uue projektist.",
-    "Ta tegutses alati naisi ja lapsed tagasi panna turvalisse kohta."
+    "Naised käivad poes.",
+    "Tema naise nimi on Kati.",
+    "Paljud naised töötavad ettevõtetes."
   ],
   "translation": [
-    "women"
+    "women",
+    "ladies",
+    "females"
   ],
-  "context": "naisi is the plural form of 'naine' which means woman in Estonian. It refers to female adults."
+  "context": "The Estonian word 'naisi' is the partitive plural form of 'naine', meaning 'woman'. In this case, it specifically means 'of women' or indicates a quantity of women. The partitive case is commonly used to indicate partial amounts or unspecified quantities."
 }

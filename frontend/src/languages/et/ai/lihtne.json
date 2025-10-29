@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See ülesanne on lihtne.",
-    "Lihtne lahendus leidis end kindlalt.",
-    "Tema põhjendused olid alati lihtsad ja selged."
+    "See on lihtne ülesanne.",
+    "Lihtsalt räägi mulle kõik oma mured.",
+    "Kas see töö on piisavalt lihtne?"
   ],
   "translation": [
     "simple",
-    "easy"
+    "easy",
+    "straightforward"
   ],
-  "context": "The word 'lihtne' in Estonian is commonly used to describe something that is simple or easy to do/understand. It can be applied to tasks, explanations, solutions, and more."
+  "context": "The Estonian word 'lihtne' is an adjective that means 'simple', 'easy', or 'straightforward'. It's commonly used to describe tasks, problems, explanations, or situations that are not complicated and can be easily understood or accomplished. The word doesn't change form for gender but may change for case number in sentences."
 }

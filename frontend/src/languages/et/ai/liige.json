@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen klubi liige.",
-    "Ta on meie tiimi tugevaim liige.",
-    "Igal liigjal peaks olema häälesoo."
+    "Ta on organisatsiooni liige.",
+    "Selle klubiliikmed peavad maksma liikmemaksu.",
+    "Liikmed said teada uutest reeglitest."
   ],
   "translation": [
     "member",
-    "memberof"
+    "participant",
+    "component"
   ],
-  "context": "'liige' means a member of an organization, group or family. It can refer to any individual that is part of a larger whole."
+  "context": "The Estonian word 'liige' can be translated as 'member' when referring to a person belonging to an organization or group, as 'participant' for someone taking part in activities, and as 'component' or 'element' when referring to parts of something. It's the basic form (nominative case) and appears in various contexts such as organizational membership, club participation, and technical components."
 }

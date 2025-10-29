@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ajadasin autot",
-    "Ta ajab autosid kiiresti",
-    "Me ajame ühiselt"
+    "Mina ajad koju.",
+    "Ta aitas mind autoga ära.",
+    "Meie lähme auto ajama."
   ],
   "translation": [
-    "to drive",
-    "to operate a vehicle"
+    "to drive (a vehicle)",
+    "to herd (animals)",
+    "to chase away"
   ],
-  "context": "The word 'ajada' in Estonian means to drive or operate a vehicle, and it is commonly used in various contexts such as driving a car, operating heavy machinery, or even driving animals."
+  "context": "In Estonian, 'ajada' is a versatile verb that primarily means to drive a vehicle or to herd animals. It can also mean to chase someone or something away. The conjugation changes based on the subject and tense - for example 'mina ajad' (I drive), 'sa ajad' (you drive), 'ta ajab' (he/she drives). When used with vehicles, it specifically means operating or controlling a car, bus, or other motor vehicle. With animals, it refers to guiding livestock from place to place."
 }

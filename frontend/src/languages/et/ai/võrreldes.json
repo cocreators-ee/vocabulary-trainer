@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Võrreldes eelmise aastaga on müügid tunduvalt suurenenud.",
-    "Ta võrdles kahe erineva mudeli omadusi.",
-    "Hind võrreldes kvaliteediga on väga hea."
+    "Võrreldes eelmise aastaga, on see aasta palju parem.",
+    "Töö on kergem võrreldes teiste töödega.",
+    "Linn on suurem võrreldes väikeste külade."
   ],
   "translation": [
     "compared to",
     "in comparison with"
   ],
-  "context": "The word 'võrreldes' is a preposition in Estonian that is used to make comparisons between two things, similar to the English phrase 'compared to'."
+  "context": "The word 'võrreldes' is the Estonian ablative case form of the verb 'võrdlema', which means 'to compare'. It is used when making comparisons between two or more things, indicating that something should be looked at in relation to something else. In English grammar terms, it functions similarly to 'compared to' or 'in comparison with'. The ablative case shows separation or source, but here specifically indicates the object of comparison."
 }

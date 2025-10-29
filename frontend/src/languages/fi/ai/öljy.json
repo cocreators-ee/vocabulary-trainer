@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Autossa on öljyvälihyödytön moottori.",
-    "Öljyn hinta nousee jatkuvasti.",
-    "Öljylämmitys on yksi vaihtoehto talojen lämmittämiseen."
+    "Öljy on tärkeä raaka-aine teollisuudelle.",
+    "Auton moottori vaatii öljyn voiteluun.",
+    "Öljypäästöt haittaavat ympäristöä."
   ],
   "translation": [
-    "oil"
+    "oil",
+    "petroleum",
+    "grease"
   ],
-  "context": "The word \"öljy\" refers to oil, which is commonly used in various contexts such as vehicle fuel, industrial applications, and heating."
+  "context": "The Finnish word 'öljy' means oil in English. It refers to a viscous liquid that does not mix with water and is used as fuel, lubricant, or raw material in industry. The term can refer to various types of oils including petroleum (crude oil), cooking oil, machine oil, or grease. In Finnish grammar, 'öljy' is in the basic form (nominative singular)."
 }

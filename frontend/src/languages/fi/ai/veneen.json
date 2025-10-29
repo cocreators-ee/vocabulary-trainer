@@ -1,14 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minua pyydettiin odottamaan veneen vieressä.",
-    "Kuljettaja juoksi kiertelemään veneen ympäri.",
-    "Hänen mielellensä hän ajaa veneen aina itse."
+    "Minulla on uusi vene.",
+    "Veneessä oli paljon ihmisiä.",
+    "Ostimme veneen viime kesänä."
   ],
   "translation": [
-    "to a car",
-    "into the vehicle"
+    "boat"
   ],
-  "context": "'veneen' is the third person singular form of the verb 'venetä', which means 'to approach or to move towards something'. In these examples, it can be translated as 'approach the car', 'circle around the vehicle', and 'he would rather drive the car himself.'"
+  "context": "The Finnish word 'veneen' is the partitive singular form of the noun 'vene', which means 'boat'. In Finnish, the partitive case is used to indicate an incomplete or partial object. So 'veneen' can be translated as '(a) boat' or '(some) boat' depending on context. It's commonly used when referring to a boat in various situations - having a boat, being in a boat, buying a boat, etc."
 }

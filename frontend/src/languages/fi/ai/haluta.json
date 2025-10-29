@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä haluan kalaan",
-    "Hän halusi mennä kauppaan",
-    "He haluavat nukkua"
+    "Minä haluan mennä kauppaan.",
+    "Hän ei halua puhua siitä.",
+    "Meidän täytyy päättää, mitä haluamme tehdä."
   ],
   "translation": [
-    "want",
-    "wish",
-    "desire"
+    "to want",
+    "to wish for",
+    "to desire"
   ],
-  "context": "The word 'haluta' is a verb in Finnish that means to want or wish for something, and it is commonly used in everyday conversations to express one's desires or intentions."
+  "context": "The Finnish verb 'haluta' means 'to want' or 'to wish for'. It's an infinitive form and is used to express desire or wanting something. When conjugated, it changes forms like 'haluan' (I want), 'et halua' (you don't want), 'me haluamme' (we want). This verb is commonly used in everyday Finnish to express personal desires, wishes, or preferences."
 }

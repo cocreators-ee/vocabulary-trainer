@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See poiss jookseb.",
-    "Kas sa oled poiss või tüdruk?",
-    "Minu poeg on väga tubli poiss."
+    "Tema poisu oli väga hea mees.",
+    "Minu sõbra poisu on tore tüdruk.",
+    "Ta sai oma isa pojaks."
   ],
   "translation": [
-    "boy",
-    "lad",
-    "male child"
+    "son's",
+    "boyfriend's",
+    "male child's"
   ],
-  "context": "The word 'poiss' in Estonian directly translates to 'boy' in English. It is used to refer to a young male person, typically one who is still a child or adolescent. The term is commonly used in everyday conversation and formal contexts alike."
+  "context": "The word 'poisu' is the genitive singular form of 'poiss', which means 'boy'. In Estonian grammar, the genitive case indicates possession or relationship. So 'poisu' translates to 'of a boy' or 'belonging to a boy'. It can be used to show possession (like 'son's') or relationship ('boyfriend')."
 }

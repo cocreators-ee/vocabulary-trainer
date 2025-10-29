@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Talon palo sai alkunsa keittiöstä",
-    "Palo levisi nopeasti koko taloon",
-    "Palopommit suihkivat taivaalle"
+    "Tuli sytytti talon palaamaan.",
+    "Palo riehui koko yön ajan.",
+    "Pelastimme tavarat palavasta talosta."
   ],
   "translation": [
-    "fire"
+    "fire",
+    "blaze",
+    "conflagration"
   ],
-  "context": "The word 'palo' in Finnish refers to a fire, and it is commonly used to describe an uncontrolled burning of something, such as a house or a forest."
+  "context": "The Finnish word 'palo' means fire or blaze and refers to the phenomenon of combustion or uncontrolled burning. It can be used to describe anything from a small flame to a large destructive fire, as well as instances where something catches on fire."
 }

@@ -1,16 +1,10 @@
-from orjson import orjson
 from rich import print
 from rich.console import Console
 from rich.table import Table
 
-from data_processing.settings import LANGUAGES_DST, conf
-from data_processing.utils import GenerateResponse, list_words
-
-
-def get_word_data(language_id: str, word: str) -> GenerateResponse:
-    ai_path = LANGUAGES_DST / f"{language_id}/ai/"
-    result_file = ai_path / f"{word}.json"
-    return GenerateResponse(**orjson.loads(result_file.read_text(encoding="utf-8")))
+from data_processing.ai import get_word_data
+from data_processing.settings import conf
+from data_processing.utils import list_words
 
 
 def main():

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on sanakirja koulussa",
-    "Sanakirjan avulla voimme oppia uusia sanoja",
-    "Hänen sanakirjansa on hyvin laaja"
+    "Sanakirja on hyödyllinen työkalu kielen opiskelussa.",
+    "Hän etsi sanaa sanakirjasta.",
+    "Minulla on taskusanakirja matkalla."
   ],
   "translation": [
     "dictionary",
-    "vocabulary book"
+    "lexicon"
   ],
-  "context": "A sanakirja is a book or electronic resource that lists words and their meanings, often used for learning new languages or understanding unfamiliar terms."
+  "context": "The Finnish word 'sanakirja' means 'dictionary' in English. It is a compound word formed from 'sana' (word) and 'kirja' (book), literally meaning 'word book'. In Finnish, this term refers to any type of dictionary - whether it's a physical book, an online resource, or a mobile application used for looking up words and their meanings in different languages."
 }

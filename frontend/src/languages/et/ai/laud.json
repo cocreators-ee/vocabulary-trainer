@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta istus lauda taga.",
-    "Laud on ümmargune.",
-    "Laual oli palju süüa."
+    "Laud on magamistoas.",
+    "Meil on laud ja toolid köögis.",
+    "Pestakse laud pärast sööki."
   ],
   "translation": [
     "table",
-    "board"
+    "desk"
   ],
-  "context": "The word 'laud' generally refers to a piece of furniture with a flat surface, typically supported by legs, used for holding objects, eating, or working."
+  "context": "The word 'laud' in Estonian means 'table'. It's a common noun referring to a piece of furniture with a flat top and one or more legs. It can be used for dining tables, work desks, or other similar surfaces. The word is in nominative singular form."
 }

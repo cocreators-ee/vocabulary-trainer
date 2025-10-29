@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen ennem sinna.",
-    "Ta tegi seda enne mind.",
-    "Kõik olid juba enne minu tulekut läinud."
+    "enne lõuna sööme enne kooli",
+    "enne homset ta jõuab kohale",
+    "enne tuleb meil plaan teha"
   ],
   "translation": [
     "before",
-    "earlier",
-    "prior to"
+    "previously",
+    "in advance"
   ],
-  "context": "The word 'enne' is commonly used in Estonian to indicate something happens before another event or action, similar to the English preposition 'before'."
+  "context": "The Estonian word 'enne' is an adverb that means 'before' or 'previously'. It indicates something happening at an earlier time than another event. In the examples, it shows temporal sequence - doing something before lunch, arriving before morning, making a plan in advance."
 }

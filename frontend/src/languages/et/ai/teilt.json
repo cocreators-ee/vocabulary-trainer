@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulsin selle teilt.",
-    "See on tõde, mida ma olen teilt kuulnud.",
-    "Kas te olete kindlad, et teilt on õige info?"
+    "Ma teilte oma uue raamatu.",
+    "Teiltasid nad hästi läbi.",
+    "See teilt on tähtis küsimus."
   ],
   "translation": [
-    "from you",
-    "by you"
+    "divide",
+    "split",
+    "separate"
   ],
-  "context": "The word 'teilt' is a pronoun in Estonian that means 'from you' or 'by you', it is used to indicate the origin or agent of an action."
+  "context": "'teilt' is the 3rd person singular form of the Estonian verb 'telda', which means to divide or split something into parts. It's used when someone (he/she/it) performs the action of dividing or separating things."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma leian raamatu.",
-    "Ta leidiski võti.",
-    "Nad leiavad lahendi."
+    "Ma leiad oma kaardi üles.",
+    "Kus sa leiad head restorani?",
+    "Meie laps ei leia oma mänguasju."
   ],
   "translation": [
-    "find",
-    "discover"
+    "you find",
+    "finds",
+    "finding"
   ],
-  "context": "The word 'leiad' is a verb in Estonian that means to find or discover something, and it is commonly used in everyday conversations to describe the act of locating an object, person, or solution."
+  "context": "The word 'leiad' is the second person singular present form of the verb 'leidma' in Estonian, which means 'to find'. It is used when addressing someone informally (using 'sa') and indicates that the person you are speaking to is currently finding or will find something. In English, it corresponds to 'you find' in the present tense."
 }

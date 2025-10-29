@@ -1,17 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta elas metsa ääres.",
-    "Pood on jõe ääres.",
-    "Nad kohtusid tee ääres."
+    "Tule ääresse istuma.",
+    "Raamat on laual ääres.",
+    "Äärele jooksid kõik lapsed."
   ],
   "translation": [
-    "edge",
-    "border",
-    "rim",
-    "bank (of a river)",
-    "verge"
+    "on the edge",
+    "at the side",
+    "beside",
+    "alongside"
   ],
-  "context": "The word 'ääres' in Estonian generally refers to the edge or border of something. It can describe the side of a forest, a road, a river, or any other defined area. It indicates being located next to or at the boundary of a place."
+  "context": "The Estonian word 'ääres' is an adessive case form of the noun 'äär', which means 'edge'. It indicates location next to or along something - on its edge, at its side, or beside it. This form is commonly used when describing where someone or something is positioned relative to another object."
 }

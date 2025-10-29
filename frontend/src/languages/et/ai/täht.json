@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on täht tema elukutses",
-    "Tähtede vaate on ilus",
-    "See täht on väga hea"
+    "Täht on kõrgel taevas.",
+    "Me vaatleme tähti öösel.",
+    "Päike on meie päritolutähth."
   ],
   "translation": [
     "star",
-    "celebrity",
-    "luminary"
+    "celestial body"
   ],
-  "context": "The word täht in Estonian generally refers to a star, but it can also be used to describe a celebrity or someone who is very talented in their field."
+  "context": "The Estonian word 'täht' means 'star' in English. It is used to refer to celestial bodies that appear as points of light in the night sky, similar to how we use 'star' in English. The word can be used in various contexts such as astronomy (täheteleskoop - star telescope), everyday conversation about stars, or metaphorical expressions (näidata tähtedest - show from stars). It's a common noun that appears both in singular and plural forms ('tähed')."
 }

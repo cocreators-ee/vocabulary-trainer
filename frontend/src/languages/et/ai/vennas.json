@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mina sõidan vennaga koju.",
-    "Vennal on rohkem küsimusi kui mul.",
-    "Ta tundub olevat saanud venna toetuse."
+    "Olen vennas oma vanema õega.",
+    "Ta on minu hea sõber ja vennas.",
+    "Vennad mängivad koos"
   ],
   "translation": [
     "brother",
-    "sibling"
+    "male sibling",
+    "kinsman"
   ],
-  "context": "A male sibling or a close friend. It can also be used metaphorically for someone who shares common goals or interests."
+  "context": "The Estonian word 'vennas' is the inessive case (inessive -s suffix) of 'vend', which means 'brother'. The inessive case indicates location within or inside something, so 'vennas' would translate to 'in a brother' or 'among brothers', but it's commonly used when talking about being with one's brothers or the concept of brotherhood. In Estonian grammar, nouns have 14 cases, and the -s ending is added to the genitive stem for inessive case formation."
 }

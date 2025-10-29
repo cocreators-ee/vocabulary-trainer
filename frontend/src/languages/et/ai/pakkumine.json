@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta tegi minule heada pakkumise.",
-    "Pangad teevad erinevaid laenu pakkumisi.",
-    "Selle ettevõtte suurim väärtus on nende tugev pakkumine turul."
+    "Pakkumine on tähtis äritegevuses.",
+    "Tere tulemast meie pakkumistele!",
+    "Selle pakkumise eest saad 20% allahindlust."
   ],
   "translation": [
-    "offer"
+    "offer",
+    "proposition",
+    "proposal"
   ],
-  "context": "Pakkumine refers to an offer or proposal, commonly used in business contexts for products, services, or deals."
+  "context": "In Estonian, 'pakkumine' is a noun that refers to an offer, proposition, or proposal. It derives from the verb 'pakkuma' (to offer). The word can be used in various contexts such as business offers, special deals, proposals of marriage, or suggestions. It typically implies something being presented for consideration by another party."
 }

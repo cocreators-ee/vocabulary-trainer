@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Esiteks, see on väga oluline.",
-    "Teiseks, esiteks ei saa jätta vahele.",
-    "Kõigepealt, esiteks peaks kõikjal olema teada."
+    "Esiteks tule siia.",
+    "Esiteks lõpetame selle töö.",
+    "Esiteks me peame otsima üles need failid."
   ],
   "translation": [
-    "First",
-    "Firstly"
+    "firstly",
+    "in the first place",
+    "to begin with"
   ],
-  "context": "Used to introduce the first point in a list or when giving reasons. Commonly used at the beginning of arguments or explanations."
+  "context": "The Estonian word 'esiteks' is an adverb that means 'firstly', 'in the first place', or 'to begin with'. It's used to introduce the first point in a list or sequence of arguments. The word breaks down as 'esi-' (meaning first/initial) + '-teks' (an instrumental case ending indicating purpose or manner), literally meaning 'as the first one' or 'for the first place'. This is commonly used in both spoken and written Estonian when someone wants to emphasize that they are starting with their primary point."
 }

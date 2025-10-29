@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kõigest 20 aastat vana.",
-    "Ta on kõigest üks õpilane.",
-    "Kõigest sellest, mis ta tegi."
+    "Kõigest meie peaksime olema rõõmsad.",
+    "Ta on kõigest laps ja veel ei saa aru keerulisest asjast.",
+    "See on kõigest esimene samm suuremas projektis."
   ],
   "translation": [
-    "at most",
     "only",
-    "merely"
+    "just",
+    "merely",
+    "simply"
   ],
-  "context": "The word 'kõigest' in Estonian is used to indicate a limitation or a maximum amount, and it can be translated to English as 'at most', 'only', or 'merely'. It is commonly used in sentences to show that something is limited to a certain extent."
+  "context": "The Estonian word 'kõigest' is an adverb that means 'only', 'just', 'merely', or 'simply'. It's used to indicate that something is limited in scope, quantity, or importance. The word comes from 'kogu' (all/whole) combined with the '-gi' particle and the genitive case ending '-st'. It emphasizes limitation rather than totality."
 }

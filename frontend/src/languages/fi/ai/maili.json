@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän juoksi yhden mailin",
-    "Matka on noin kymmenen mailia pitkä",
-    "Auton tankki mahtuu noin kuudenkympin maili"
+    "Se on vain maili päässä.",
+    "Auto kulki yli mailin mittaisen matkan.",
+    "Minun piti juosta viisi mailia."
   ],
   "translation": [
-    "mile"
+    "mile",
+    "a unit of distance"
   ],
-  "context": "The word 'maili' is a Finnish noun that refers to a unit of distance, equivalent to the English word 'mile'. It is commonly used in Finland to measure long distances, such as the length of a road or the distance between two cities."
+  "context": "The Finnish word 'maili' means mile, which is a unit of distance measurement. It's commonly used to express longer distances in everyday conversation and sports contexts. The word comes from the English word 'mile' and is widely understood throughout Finland."
 }

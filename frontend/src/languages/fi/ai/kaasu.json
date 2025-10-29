@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Autossa on kaasu.",
-    "Hän käytti kaasua autonsa tankkaamiseen.",
-    "Kaasu on tärkeä polttoaine."
+    "Kaasu on tarpeessa autossa.",
+    "Leivonnaiset kaasivat nopeasti uunissa.",
+    "Väistyykö sinulta kaasu?"
   ],
   "translation": [
     "gas",
-    "fuel"
+    "fart",
+    "to rise/to swell"
   ],
-  "context": "The word 'kaasu' in Finnish generally refers to gas or fuel, often used in the context of vehicles or energy production."
+  "context": "The Finnish word 'kaasu' has multiple meanings depending on context. It can refer to gas (like in cars or chemistry), it can mean fart (as in flatulence), and when used as a verb form ('kaa-'), it means to rise or swell, often used in baking contexts where dough rises."
 }

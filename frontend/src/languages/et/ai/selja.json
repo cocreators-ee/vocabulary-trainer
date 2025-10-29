@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta jalutas mööda selja",
-    "Selja taga paistab kõrguv mägi",
-    "Külas elasid vanad inimesed seljas"
+    "Ta kõndis seljasi.",
+    "Tal oli halb selja.",
+    "Lõin talle selga."
   ],
   "translation": [
     "back",
-    "hill",
-    "ridge"
+    "spine",
+    "dorsum"
   ],
-  "context": "The word 'selja' generally refers to the back of something, such as a person's back or the back of an object, but it can also be used to describe a hill or ridge, often in relation to its position or shape."
+  "context": "The word 'selja' in Estonian refers to the back part of the body, particularly the spine or dorsal area. It is commonly used when talking about physical positioning (walking with one's back showing), ailments related to the back region, or as a location where something hits ('lõi selga' means to hit someone on their back)."
 }

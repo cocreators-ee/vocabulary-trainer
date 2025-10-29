@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma sõitsin autosse.",
-    "Ta sõitis jalgrattaga.",
-    "Nad sõidavad bussiga."
+    "Ma sõitsin Tallinnast Tartusse.",
+    "Täna hommikul sõitsin autoga tööle.",
+    "Eile õhtul sõitsin koju jalgsi."
   ],
   "translation": [
-    "drove",
-    "was driving"
+    "I drove",
+    "I went by vehicle",
+    "I traveled"
   ],
-  "context": "The word sõitsin is the first person singular form of the verb sõitma, which means to drive or ride in a vehicle. It is commonly used to describe an action of operating a vehicle or being a passenger in one."
+  "context": "The word 'sõitsin' is the first person singular past tense form of the Estonian verb 'sõitma', which means 'to drive' or 'to travel by vehicle'. It specifically indicates that the speaker performed the action of driving or traveling in a vehicle (like a car) in the past. The '-sin' suffix at the end marks it as first person singular past tense in Estonian."
 }

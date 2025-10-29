@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma märkasin seda homme.",
-    "Ta märkas sellest homme.",
-    "Meie oleme sellest teadlikud, kuidas see märgitakse."
+    "Märkasin selle nähtuse.",
+    "Ta märkis kõik olulised detailid.",
+    "Meie meeskond märkis edu saavutamise."
   ],
   "translation": [
     "noticed",
+    "marked",
+    "recorded",
     "observed"
   ],
-  "context": "The word 'märkasin' is the first person singular form of the verb 'märkama', which means to notice or observe something. It is commonly used in sentences where the speaker wants to express that they have become aware of something."
+  "context": "The Estonian word 'märkasin' is the first-person singular past tense form of the verb 'märkima'. It means 'I noticed', 'I marked', or 'I recorded'. The root 'märk-' relates to marking, noticing, or recording something. This verb can be used in various contexts such as observing details, making notes, or acknowledging something that has been seen or observed."
 }

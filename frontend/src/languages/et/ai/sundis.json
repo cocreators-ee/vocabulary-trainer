@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga sundis inimene.",
-    "See oli lihtsalt sundis käitumine.",
-    "Ära ole nii sundis!"
+    "Ta sundis mind minema.",
+    "Ei ole võimalik sundida inimest midagi tegema.",
+    "Poliitiline surve sundis palju inimesi emigreeruma."
   ],
   "translation": [
     "forced",
     "compelled",
-    "constrained"
+    "made to",
+    "coerced"
   ],
-  "context": "The word 'sundis' in Estonian describes someone or something that is forced, compelled, or constrained. It can refer to behavior, a personality trait (being pushy or insistent), or a situation where there is no freedom of choice."
+  "context": "The word 'sundis' is the past tense third person singular form of the Estonian verb 'sundima', which means to force, compel, or coerce someone to do something. It describes an action where someone was made to do something against their will."
 }

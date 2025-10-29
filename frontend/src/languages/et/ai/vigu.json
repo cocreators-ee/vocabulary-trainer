@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta teekski tõsiselt viga.",
-    "Minu esimene suve selle kooli tegemisel oli suur vigu.",
-    "Vigu polegi nii halb, nagu me neid tooimeen."
+    "Temas on vigu.",
+    "Tegelikult pole siin vigu.",
+    "Leidsin oma töös mõned vigu."
   ],
   "translation": [
-    "mistake"
+    "mistakes",
+    "errors",
+    "faults"
   ],
-  "context": "The Estonian word 'vigu' means mistake. It is commonly used to describe an error made in action or judgment. The word can also be used as a noun or verb."
+  "context": "The Estonian word 'vigu' is the genitive singular form of the noun 'viga', which means mistake or error. It's used to indicate possession or relationship with mistakes - something has mistakes, there are mistakes in something, or one has found mistakes."
 }

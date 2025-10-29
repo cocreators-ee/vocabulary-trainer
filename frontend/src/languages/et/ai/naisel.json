@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Naisel on rohkem rahuldust kui mehel.",
-    "Tema naisel oli paks juuksed.",
-    "Naisel tõusis vererõhk."
+    "Naisel on kaks last.",
+    "Tüdrukul naisel hea maitse.",
+    "Mul oli naisel väga ilus suvi."
   ],
   "translation": [
-    "on a woman",
-    "a woman's",
-    "to a woman"
+    "woman",
+    "female"
   ],
-  "context": "The word 'naisel' is the illative case of 'naine', meaning 'woman'. It can translate to English as 'on a woman', 'a woman's', or 'to a woman', depending on context."
+  "context": "The word 'naisel' is the adessive case form of 'naine', which means 'woman' or 'female'. In Estonian grammar, the adessive case typically indicates location near something (similar to English 'on' or 'at') but can also be used for possession or relationship. Here it appears to indicate a woman has something or is in a certain state."
 }

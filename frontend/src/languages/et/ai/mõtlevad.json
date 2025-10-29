@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõtlevad inimesed teavad, et see on oluline.",
-    "Ta on väga mõtlev ja analüütiline.",
-    "Mõtlevad õpilased saavutavad paremaid tulemusi."
+    "Mida nad mõtlevad?",
+    "Lapsed mõtlevad tulevikku.",
+    "Te mõtlete alati kõige halvemaid asju."
   ],
   "translation": [
-    "thoughtful",
-    "thinking",
-    "reflective"
+    "think",
+    "are thinking",
+    "ponder"
   ],
-  "context": "The word 'mõtlevad' in Estonian means being thoughtful or having a thinking nature, it is commonly used to describe people who are considerate and reflective in their thoughts and actions."
+  "context": "The word 'mõtlevad' is the 3rd person plural present indicative form of the Estonian verb 'mõtlema', which means 'to think'. It specifically refers to what a group of people are currently thinking or pondering about. The verb stem 'mõtl-' appears in all forms, and the ending '-evad' indicates 3rd person plural present tense."
 }

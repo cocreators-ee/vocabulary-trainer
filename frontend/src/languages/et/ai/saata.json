@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma saadan sulle kirja",
-    "Ta saatis mulle meili",
-    "Nad saadavad koos ühisürituse"
+    "Saadame postiti.",
+    "Saada see kiri homme.",
+    "Tema saatis mulle e-kirja."
   ],
   "translation": [
-    "send",
-    "to send"
+    "to send",
+    "to dispatch",
+    "to forward"
   ],
-  "context": "The word 'saata' in Estonian means to send something or someone to another place, and it is commonly used in various contexts such as sending letters, emails, or packages."
+  "context": "The Estonian word 'saata' is a verb that means to send, dispatch, or forward something. It's commonly used when referring to sending mail, packages, messages, or emails. In different grammatical forms, it can be conjugated as 'saadan' (I send), 'saadab' (he/she/it sends), 'saatma' (infinitive form), and so on."
 }

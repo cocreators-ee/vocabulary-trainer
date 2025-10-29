@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma järgnen tema juurde",
-    "Ta on minu järgnev",
-    "Järgnevatel päevadel toimub midagi"
+    "Järgmisel nädalal on pühad.",
+    "Ta järgnes kõige tähtsamale reeglile.",
+    "Mees vaatas järjekorda ja ootas oma käest."
   ],
   "translation": [
-    "follow",
-    "next"
+    "next",
+    "following",
+    "successive"
   ],
-  "context": "The word järgne in Estonian generally means to follow or come after something, often used in the context of time or sequence."
+  "context": "The Estonian word 'järgne' is related to the concept of sequence or order. It can appear in different forms depending on context - as 'järgmine' (next), 'järgnev' (following), or other derived forms. In its basic form it conveys the idea of something that comes after or follows something else, similar to English words like 'next', 'following', or 'successive'. It's commonly used to indicate temporal sequence or order in both everyday and more formal contexts."
 }

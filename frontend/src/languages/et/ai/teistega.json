@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kohtun teistega ööklubis.",
-    "Ta on üks neist, kes võivad mind aidata.",
-    "Nende hulgas on ka teistega, kes soovivad meiega koostööd teha."
+    "Tema sõbrastab teistega.",
+    "Mees rääkis teistega hästi.",
+    "Naised lõid teistega head suhtlust."
   ],
   "translation": [
     "with others",
-    "among others"
+    "together with people",
+    "among themselves"
   ],
-  "context": "The word 'teistega' is a postposition in Estonian that means 'with others' or 'among others', it is used to indicate that something is done together with other people."
+  "context": "The word 'teistega' is the Estonian instrumental case plural form of 'teine' (other/another), meaning 'with others' or 'among themselves'. It indicates that the action is performed together with other people."
 }

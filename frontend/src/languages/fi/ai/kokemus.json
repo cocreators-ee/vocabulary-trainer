@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hänellä on paljon kokemusta tiettyjen asioiden käsittelyssä.",
-    "Lapsi sai mielikuvituksellaan vahvan kokemuksen luonnosta.",
-    "Tutkimus antoi tiedemiehille arvokkaan kokemuksen avaruuksista."
+    "Minulla on paljon kokemusta tästä työstä.",
+    "Hänen kokemuksensa auttoi meitä ratkaisemaan ongelman.",
+    "Olen saanut uusia kokemuksia matkoillani."
   ],
   "translation": [
-    "experience"
+    "experience",
+    "skill",
+    "knowledge gained through practice"
   ],
-  "context": "Kokemus refers to a personal experience or an instance of something happening to someone. It can also mean 'experience' in the sense of professional expertise."
+  "context": "The Finnish word 'kokemus' is a noun that refers to experience, knowledge gained through practice, or familiarity with something. It can be used in various contexts such as work experience (työkokemus), life experience (elämän kokemus), or general experience gained from activities. The word is commonly used in both singular and plural forms, and it's an important concept in Finnish when discussing someone's background or level of familiarity with a particular subject."
 }

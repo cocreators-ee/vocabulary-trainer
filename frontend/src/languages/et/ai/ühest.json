@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks sõbra ühest kodu.",
-    "Meist kaks inimest tean ühest linnast.",
-    "Raamat räägib sündmusest ühest persoonast."
+    "Ühest küljest...",
+    "Ühest teisest küljest...",
+    "Ta tuleb ühest linnast."
   ],
   "translation": [
-    "from one",
-    "from the one",
-    "from a single (context-dependent)"
+    "from one side",
+    "from one place",
+    "from a single"
   ],
-  "context": "'ühest' is an Estonian prepositional form of 'one', commonly used with the preposition 'from'. It can indicate origin, source, or derivation from a singular entity. In sentences, it often appears in expressions like 'from one person/place/thing', and its exact translation might vary depending on context."
+  "context": "The word 'ühest' is an Estonian adessive case form of the number 'üks' (one). It means 'from one', 'from a single', or 'from one side'. The adessive case typically indicates location from or origin. In common usage, it appears in phrases like 'ühest küljest' meaning 'from one side' and is often used to indicate starting points or origins."
 }

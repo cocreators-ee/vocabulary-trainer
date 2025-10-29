@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kohtusin sinuga seal kohvikus.",
-    "Ma elasin seal palju aastaid enne kolimist siia.",
-    "Seal on tore viimased uudised."
+    "Seal on ilus park.",
+    "Tule seal juurde!",
+    "Me lähime sinna sealsesse kohale."
   ],
   "translation": [
-    "there"
+    "there",
+    "in that place",
+    "at that location"
   ],
-  "context": "The word \"seal\" in Estonian is a pronoun meaning 'there'. It refers to a location that has been mentioned or is known from the context."
+  "context": "The Estonian word 'seal' is a demonstrative pronoun used to indicate something at a distance from the speaker, similar to English 'there'. It points to a location or place not immediately near the person speaking."
 }

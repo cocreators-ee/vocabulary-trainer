@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tämä on oma taloni.",
-    "Oma maku vaikuttaa ruoanlaiton tulokseen.",
-    "En usko sairauteen ilman omaa lääkärin suositusta."
+    "Oma talo on suuri.",
+    "Sinun oma autosi on kaunis.",
+    "He omistavat oma kodin."
   ],
   "translation": [
-    "own",
-    "personal",
-    "self-"
+    "one's own",
+    "my/your/his/her/our/their own"
   ],
-  "context": "'oma' means 'one's own', used to indicate possession or belonging, often emphasizing that something is personal and not shared with others"
+  "context": "The Finnish word 'oma' is a possessive pronoun that means 'own' or 'one's own'. It indicates possession and shows something belongs to the subject of the sentence. In Finnish, this pronoun agrees in number with the noun it modifies (singular 'oma', pluralomat/omat)."
 }

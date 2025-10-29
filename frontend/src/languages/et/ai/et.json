@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma armastan teid mõlemad ja et teil oleks hea suhe.",
-    "Et saaksime paremini aru, peame kõigepealt üksteist paremini tundma.",
-    "Ta soovis, et see juhtum ei leviaks."
+    "Tere tulemast!",
+    "Kuidas läheb?",
+    "Mingi ilus päev!"
   ],
   "translation": [
-    "and",
-    "that"
+    "hello",
+    "greetings",
+    "welcome"
   ],
-  "context": "The word 'et' in Estonian is a conjunction used to connect words or phrases, and it can also be used to indicate a wish or desire that something happens, similar to the English word 'and' or 'that'."
+  "context": "The word 'tere' is a common Estonian greeting used to say hello or welcome. It's often combined with other words like 'tere tulemast' (you're welcome/welcome) or used as a standalone greeting. This informal expression reflects the friendly nature of Estonian social interactions."
 }

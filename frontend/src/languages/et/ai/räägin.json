@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma räägin inglise keelt",
-    "Ta räägib eesti keelt",
-    "Me räägime soome keelt"
+    "Ma räägin eesti keelt.",
+    "Tüdruk räägib oma sõpradega.",
+    "Me räägime homme kohtumisest."
   ],
   "translation": [
     "speak",
-    "talk"
+    "talk",
+    "say"
   ],
-  "context": "The word 'räägin' is the first person singular form of the verb 'rääkima', which means to speak or talk in Estonian. It is commonly used in sentences to describe the act of speaking a language."
+  "context": "The word 'rääkin' is the first person singular present tense form of the Estonian verb 'rääkima', which means 'to speak' or 'to talk'. In English, this would correspond to 'I speak' or 'I talk'. The verb indicates the action of communicating verbally with someone."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Liikumist ei tohi takistada.",
-    "Ta oskab liikumist kontrollida.",
-    "Liikumine on vajalik tervisele."
+    "Tartu kesklinnas on liikumisest keelatud.",
+    "Loomulikult me peame jätkama liikumist.",
+    "Ei saa lõpetada liikumist."
   ],
   "translation": [
     "movement",
-    "motion"
+    "motion",
+    "moving"
   ],
-  "context": "The word liikumist refers to the act of moving or motion, and it is commonly used in Estonian to describe physical movement or action."
+  "context": "The word 'liikumist' is the partitive case form of the Estonian noun 'liikumine', which means 'movement' or 'motion'. In English, it would be translated as 'movement,' 'motion,' or 'moving.' The partitive case in Estonian typically indicates an incomplete action, object, or something that doesn't have a complete whole. It is often used with negations and to indicate partial aspects of activities."
 }

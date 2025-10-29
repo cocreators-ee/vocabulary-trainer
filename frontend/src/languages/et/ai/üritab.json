@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta üritab mind aidata.",
-    "See firma üritab turule tuua uue toote.",
-    "Me üritame seda küsimust lahendada."
+    "Ta üritab laulda.",
+    "Lapsed üritavad uue mängu õppida.",
+    "Me üritame lahendust leida."
   ],
   "translation": [
     "tries",
-    "attempt",
-    "endeavor"
+    "attempts to"
   ],
-  "context": "The word \"üritab\" is commonly used in Estonian to describe an attempt or effort to do something, and it can be translated to English as \"tries\", \"attempt\", or \"endeavor\"."
+  "context": "The word 'üritab' is the 3rd person singular form of the Estonian verb 'ürita', which means 'to try' or 'to attempt'. It's commonly used when someone is making an effort to do something, often implying that there might be some difficulty involved. The root form 'ürita' belongs to the -ma infinitive class in Estonian."
 }

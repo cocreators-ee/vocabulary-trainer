@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Üksus on väike üksikasja",
-    "See üksus on eraldatud",
-    "Üksused on liidetud"
+    "Üksus on huvitav mõiste.",
+    "See üksus vajab tähelepanu.",
+    "Tegelikult, meie üksus on hea."
   ],
   "translation": [
     "unit",
-    "entity"
+    "entity",
+    "oneness",
+    "individuality"
   ],
-  "context": "The word üksus in Estonian generally refers to a unit or entity, which can be used in various contexts such as mathematics, physics, or even organizational structures."
+  "context": "The word 'üksus' in Estonian primarily means 'unit' or 'entity'. It can refer to a single item, group, or organizational component. The word derives from the numeral 'üks' which means 'one', so it carries the sense of singularity or individuality while also being used to denote organized groups as cohesive units."
 }

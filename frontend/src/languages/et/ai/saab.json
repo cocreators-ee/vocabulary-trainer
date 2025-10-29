@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma saan aru, mida saab teha.",
-    "Saab olla, et see on tõsi.",
-    "Ta saab sageli külastada oma vanemaid."
+    "Saab hakkama.",
+    "Tema saab hästi kodus.",
+    "Meie saame homme kinno."
   ],
   "translation": [
     "can",
-    "may",
+    "is able to",
     "gets"
   ],
-  "context": "The word 'saab' is a verb in Estonian that means to be able to do something or to have permission to do something, and it can also mean to receive or get something."
+  "context": "The Estonian word 'saab' is the 3rd person singular form of the verb 'saa', which means 'to get' or 'to receive'. It's commonly used in different contexts: 1) To indicate ability/capacity ('can', 'is able to') - e.g., 'Ta saab hästi lugeda' (He can read well); 2) To indicate receiving/getting something - e.g., 'Laps sai kingi' (The child got a gift); and 3) In expressions like 'saama hakkama' (to manage, to cope). The verb is irregular in Estonian and has multiple forms depending on context."
 }

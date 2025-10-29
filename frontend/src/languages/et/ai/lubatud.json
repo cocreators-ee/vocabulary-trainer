@@ -1,14 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See tegevus pole lubatud.",
-    "Pilet sisaldab ainult lubatud tooteid.",
-    "Kas see keelatud? Ei, see on lubatud."
+    "Lubatud on kõik, mis meiega toimub.",
+    "See on lubatud ala tegevuseks.",
+    "Kas sa oled kindel, et see on lubatud?",
+    "Tegelikult pole see enam lubatud.",
+    "Meil on lubatud kasutada seda tehnikat."
   ],
   "translation": [
     "allowed",
-    "permitted"
+    "permitted",
+    "authorized"
   ],
-  "context": "'lubatud' means something is allowed or permitted in a situation. It's used when an action is not forbidden and follows the rules of a particular context like laws, social norms or official policies"
+  "context": "The word 'lubatud' is the past participle form of the Estonian verb 'lubama', which means 'to allow' or 'to permit'. In this form, it functions as an adjective meaning something that has been permitted or is allowed. It can describe rules, permissions, areas where certain activities are authorized, or situations where something has been approved for use."
 }

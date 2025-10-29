@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Illalla menen elokuvateatteriin.",
-    "Päivän ilta on kaunein aika vuorokaudesta.",
-    "Iltaa kannattaa viettää ulkona."
+    "Hyvää iltaa!",
+    "Iltapäivällä on lämmin.",
+    "Hän vietti illan kirjojen parissa."
   ],
   "translation": [
     "evening",
-    "night"
+    "nightfall"
   ],
-  "context": "The word 'ilta' refers to the evening or night, and it is commonly used in Finnish to describe the time of day between afternoon and nighttime."
+  "context": "The Finnish word 'ilta' means evening or nightfall. It refers to the time of day when it gets dark, typically from late afternoon until bedtime. The word can be used in various contexts such as greeting someone (Hyvää iltaa! - Good evening!), describing activities that happen in the evening, or simply referring to the nighttime period."
 }

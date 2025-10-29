@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta usub mind.",
-    "Ma ei usu sind.",
-    "Kas sa usud teda?"
+    "Usub ta et ta saaks tööd?",
+    "Ta usub oma sõpru.",
+    "Meie usume et see töö on hea."
   ],
   "translation": [
-    "believe",
-    "trust"
+    "believes",
+    "trusts in",
+    "has faith in"
   ],
-  "context": "The verb 'usuma' in Estonian means 'to believe' or 'to trust'. It is a common verb used to express faith in someone or something, or to indicate acceptance of an idea as true. It can also be used negatively, meaning 'to not believe' or 'to distrust'."
+  "context": "The word 'usub' is the third person singular form of the Estonian verb 'usuma', which means to believe, trust, or have faith. It's used when referring to what someone else believes."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta nõuab kiiret lahendust",
-    "Nõuab meilt rohkem aega",
-    "Kliendid nõuavad paremat teenindust"
+    "Ta nõuab täpsustust.",
+    "Kas te nõuate abi?",
+    "Me ei nõua midagi erilist."
   ],
   "translation": [
     "demands",
     "requires",
-    "calls for"
+    "asks for"
   ],
-  "context": "The word 'nõuab' is a verb in Estonian that means to demand or require something, often in a strong or insistent manner. It is commonly used in situations where someone is asking for something to be done or provided, and is often translated to English as 'demands' or 'requires'."
+  "context": "The word 'nõuab' is the third person singular form of the verb 'nõuda', which means 'to demand', 'to require', or 'to ask for'. It indicates that someone is making a request, often with authority or insistence. In Estonian, this verb is used in various contexts where something is being requested as necessary or obligatory."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kahtlusalune mees oli vahistatud.",
-    "Kahtlusalused inimesed olid politsei küsis.",
-    "Kahtlusaliased asjad olid läbi vaadatud."
+    "Politsei otsib kahtlusalust isikut",
+    "Ta oli kahtlusalune selles varguses juhtumis",
+    "Kahtlusaluste loend koosnes kolmest inimesest"
   ],
   "translation": [
     "suspect",
-    "defendant"
+    "person under suspicion",
+    "accused person"
   ],
-  "context": "The word kahtlusalune is used to refer to a person who is suspected of committing a crime, similar to the English words suspect or defendant."
+  "context": "The Estonian word 'kahtlusalune' is a noun that refers to a suspect or someone who is under suspicion. It's derived from 'kahtlus' (suspicion/doubt) and the suffix '-alne' which indicates a state of being. This term is commonly used in legal contexts, police reports, and news articles when referring to individuals suspected of having committed a crime. The word can be singular or plural depending on context."
 }

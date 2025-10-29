@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen väga issake.",
-    "Issake inimene on tavaliselt väga kuum.",
-    "Kui sa oled issake, siis võid juba kuuma tunne võtta."
+    "Issake oli väga armas.",
+    "Minu issake on tööl.",
+    "Issake tõi koju maiustused."
   ],
   "translation": [
-    "feverish",
-    "hot"
+    "daddy",
+    "papa",
+    "father"
   ],
-  "context": "The word 'issake' in Estonian is used to describe someone who has a fever or feels hot, and it is commonly used in everyday conversations to express that someone is not feeling well due to a high body temperature."
+  "context": "The word 'issake' is an affectionate diminutive form of the Estonian word 'isa' (father), similar to how English speakers might say 'daddy' instead of 'father'. It's a term used primarily by children when speaking to or about their fathers, conveying warmth and familiarity. The '-ke' suffix in Estonian creates diminutives and affectionate forms of words."
 }

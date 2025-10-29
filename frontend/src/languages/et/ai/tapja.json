@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on tapja.",
-    "Tapjad on ohtlikud inimesed.",
-    "Politsei otsib tapjat."
+    "Tapja oli vangis.",
+    "Politsei otsib tapjat.",
+    "Me teame, kes on tapja."
   ],
   "translation": [
+    "killer",
     "murderer",
-    "killer"
+    "assassin"
   ],
-  "context": "The word 'tapja' refers to a person who has committed murder or is capable of killing, and it is commonly used in Estonian to describe someone who has taken another person's life."
+  "context": "The word 'tapja' in Estonian is a masculine noun that refers to someone who kills or has killed another person. It comes from the verb 'tappa' meaning 'to kill'. The '-ja' suffix indicates an agent - one who performs the action of killing. This would be used to refer to male killers, murderers, or assassins in Estonian."
 }

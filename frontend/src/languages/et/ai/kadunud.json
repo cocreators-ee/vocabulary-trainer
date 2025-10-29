@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kadunud.",
-    "Ta on kadunud.",
-    "Me oleme kõik kadunud."
+    "Kadunud koer leiti tänavalt.",
+    "Ta on juba kaks päeva kadunud.",
+    "Lapsed otsivad oma kadunud mänguasju."
   ],
   "translation": [
     "lost",
-    "missing"
+    "missing",
+    "disappeared"
   ],
-  "context": "The word 'kadunud' in Estonian means to be lost or missing, and it is commonly used to describe someone or something that cannot be found."
+  "context": "The word 'kadunud' is the past participle form of the Estonian verb 'kada', meaning to lose something or someone. It describes a state where something or someone has been lost, missing, or disappeared and their current location is unknown. This form is commonly used with the verb 'olema' (to be) - for example, 'on kadunud' means 'is lost/missing'. The word can refer to both physical objects that have been misplaced and people who have gone missing."
 }

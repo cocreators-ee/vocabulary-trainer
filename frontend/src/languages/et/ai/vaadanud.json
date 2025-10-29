@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen vaadanud teda kogu oma elu.",
-    "Ta on vaadanud mind armastusega.",
-    "Me oleme vaadanud teineteist pikalt."
+    "Ma vaadanud seda raamatut.",
+    "Ta on vaadanud palju filme.",
+    "Me oleme vaadanud uue teatrietenduse."
   ],
   "translation": [
-    "looked",
-    "watched"
+    "looked at",
+    "watched",
+    "examined"
   ],
-  "context": "The word 'vaadanud' is the past tense of the Estonian verb 'vaatama', which means to look or watch something. It is commonly used in sentences to describe an action of observing or paying attention to someone or something."
+  "context": "The word 'vaadanud' is the past participle form of the Estonian verb 'vaadata', which means 'to look', 'to watch', or 'to examine'. As a past participle, it indicates that an action of looking/watching has been completed. It agrees with the subject in gender and number when used predicatively."
 }

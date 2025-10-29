@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei lasti teda minna.",
-    "Ta lastis mind koju.",
-    "Nad on lastinud juba mitu korda."
+    "Mees lasti koera.",
+    "Naised lastid linnu.",
+    "Laps ei lasta mitte midagi."
   ],
   "translation": [
-    "let go",
-    "release"
+    "shot",
+    "fired (weapon)",
+    "released",
+    "let go"
   ],
-  "context": "The word 'lasti' in Estonian means to let something or someone go, often used in the context of releasing physical hold on an object or allowing someone to leave."
+  "context": "The Estonian word 'lasti' is the past tense singular form of the verb 'laskma', which means to shoot, fire a weapon, or release/let go. It follows the conjugation pattern where the third-person singular (-i ending) is used for both masculine and feminine subjects in the past tense."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan selles riigis.",
-    "Ta on selle riigi pealinn.",
-    "See toimub ühes riigis."
+    "Ta töötab riigis.",
+    "Riigis on palu huvitavaid kohti.",
+    "Meie elame väikeses riigis."
   ],
   "translation": [
+    "in the state",
     "in the country",
-    "in the state"
+    "in the republic"
   ],
-  "context": "The word 'riigis' is a postposition in Estonian that indicates location within a country or state, often translated to English as 'in the country' or 'in the state'."
+  "context": "\"Riigis\" is the inessive case (location where) of \"riik\", which means \"state\" or \"country\". It indicates location within a state or country. The word shows how Estonian uses different cases to express spatial relationships, with the inessive case specifically showing being inside something."
 }

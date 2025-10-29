@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen nõnda üsna kindel",
-    "Ta ütles nõnda ja läks ära",
-    "Nõnda see on tõesti"
+    "Nõnda on asi.",
+    "Ta nõndas ütles midagi naljakat.",
+    "Me lähme nõnda."
   ],
   "translation": [
-    "so",
     "thus",
-    "in this way"
+    "so",
+    "in this way",
+    "therefore"
   ],
-  "context": "The word nõnda is used in Estonian to indicate a manner or way of doing something, and it can be translated to English as 'so', 'thus', or 'in this way'."
+  "context": "The Estonian word 'nõnda' is an adverb that means 'thus', 'so', or 'in this way'. It indicates the manner in which something is done or said. The word can be used at the beginning of a sentence to introduce a conclusion, or within a sentence to describe how something was accomplished or stated."
 }

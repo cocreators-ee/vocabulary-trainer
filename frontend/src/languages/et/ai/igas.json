@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Igas mõisas on teistsugune arhiiv.",
-    "Igas asjas peaks olema selge eesmärk.",
-    "Igas suusatehases valmistatakse erinevalt."
+    "Igas on hea päev.",
+    "Mees igas majas küsib abi.",
+    "Kõik igad asjad peaksid olema head."
   ],
   "translation": [
-    "every",
-    "each"
+    "in every",
+    "in each",
+    "in all"
   ],
-  "context": "The word 'igas' is used in Estonian to indicate that something applies to every individual member of a group, similar to the English words 'every' or 'each'. It can function as an adjective or pronoun depending on context and is often followed by a noun it modifies."
+  "context": "The Estonian word 'igas' is the inessive case (local case indicating location within) of pronoun/kõige-words like 'iga-' meaning 'every' or 'each'. It indicates being inside or located within something that is distributed everywhere. This form shows location within multiple things rather than just one specific thing."
 }

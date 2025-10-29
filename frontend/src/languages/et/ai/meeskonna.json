@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Meeldiv meeskonna tööga",
-    "Meeskonnal on head suhted",
-    "Meeste meeskonna liider"
+    "Meeskonna juht on kogenud manager.",
+    "Töötame oma meeskonna eest.",
+    "Kokku oli viis liiget meeskonnas."
   ],
   "translation": [
-    "team",
-    "crew",
-    "staff"
+    "team's",
+    "of the team"
   ],
-  "context": "The word meeskonna is a noun in Estonian that refers to a group of people working together, often used to describe a team or crew in a workplace or sports setting."
+  "context": "The Estonian word 'meeskonna' is the genitive singular form of 'meeskond', which means 'team'. In this case, it indicates possession or relationship to a team. The suffix '-na' transforms the word into the genitive case, showing that something belongs to or relates to a team. It's commonly used in contexts like 'the team's leader' (meeskonna juht) or working for/with a team."
 }

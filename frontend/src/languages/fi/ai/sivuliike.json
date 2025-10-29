@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sivuliike on yksi yrityksen liiketoimintamuodoista.",
-    "Hän avasi oman sivulikeensa kaupungin keskustaan.",
-    "Sivuliikkeen avaaminen vaatii paljon suunnittelua."
+    "Sivuliikkeellä on hyvä asiakaspalvelu.",
+    "Yrityksellä on useita sivuliikkeitä eri kaupungeissa.",
+    "Tämä toimisto on pääkonttori ja siellä on myös sivuliike."
   ],
   "translation": [
-    "side business",
-    "subsidiary"
+    "branch office",
+    "satellite branch",
+    "auxiliary business"
   ],
-  "context": "A side business or subsidiary is a business or undertaking that is separate from one's main occupation or primary source of income, often providing additional financial support or pursuing a different passion or interest."
+  "context": "In Finnish, 'sivuliike' is a compound word where 'sivi-' means 'side' or 'auxiliary', and 'liike' means 'business' or 'activity'. The term refers to a secondary business location that operates under the main company. It's commonly used for branches of businesses that are not the primary headquarters but still function as official business locations with similar services."
 }

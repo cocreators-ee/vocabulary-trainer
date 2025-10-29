@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on minu elu aasta.",
-    "Ta on olnud selle aasta kangelane.",
-    "Aasta lõpuks oleme kõik väsinud."
+    "Tulevane aasta on 2024.",
+    "Eelmisel aastal käisime Soomes.",
+    "Paljud inimesed ootavad uut aastat pidu."
   ],
   "translation": [
-    "year"
+    "year",
+    "annum"
   ],
-  "context": "The word 'aasta' refers to a period of 12 months, commonly used to express time or age in Estonian."
+  "context": "The word 'aasta' is the Estonian noun for 'year'. It can appear in different forms depending on grammatical case and number. In nominative singular it means 'a year', while in genitive singular ('aasta') it typically indicates possession or time reference. The word comes from Proto-Finnic origins and is used to refer to a period of 365/366 days."
 }

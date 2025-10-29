@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta testis käis läbi tule ja vee.",
-    "See on raske testi ülesanne.",
-    "Mul oli eksamil väga raske test."
+    "Testi seda meetodit.",
+    "Ma olen testinud seda palju kordi.",
+    "Kas sa tahad testida?"
   ],
   "translation": [
     "test",
-    "exam",
-    "trial"
+    "to test",
+    "testing"
   ],
-  "context": "The Estonian word 'testi' is a direct borrowing from English and generally refers to a test, exam, or trial. It can be used in similar contexts as its English counterpart, such as academic tests, technical trials, or even metaphorical challenges."
+  "context": "\"Testi\" is an Estonian word that can function as a noun meaning \"test\" or as the imperative form of the verb \"testima\" (to test). When used in its imperative form, it means \"test!\" or \"test it!\". The word is commonly used when referring to testing methods, products, or procedures."
 }

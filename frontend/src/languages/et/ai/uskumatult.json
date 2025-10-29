@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma uskumatult kiiresti sain tööd.",
-    "Ta rääkis uskumatult palju.",
-    "See on uskumatu, kuid tõsi."
+    "uskumatult ilus",
+    "Ta on uskumatult hea sportlane.",
+    "Mees tegi uskumatult kiiresti tööd."
   ],
   "translation": [
     "incredibly",
-    "unbelievably"
+    "amazingly",
+    "unbelievably",
+    "remarkably"
   ],
-  "context": "The word uskumatult is an adverb in Estonian that means incredibly or unbelievably, used to describe something that is hard to believe or astonishing."
+  "context": "The Estonian word 'uskumatult' is an adverb formed from the adjective 'uskumatu' (incredible, unbelievable) with the '-lt' suffix which is commonly used to form adverbs in Estonian. It means incredibly, amazingly, or unbelievably and is used to emphasize the degree of some quality or action."
 }

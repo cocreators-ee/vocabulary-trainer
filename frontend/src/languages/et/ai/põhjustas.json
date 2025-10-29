@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta põhjustas suure skandaali.",
-    "See sündmus põhjustas palju kahju.",
-    "Klienditeeninduse puudulikkus põhjustas negatiivse tagasiside."
+    "Põhjustas suurt segadust koguses.",
+    "Tulenevad tingimused põhjustasid viivitusi projektis.",
+    "See sündmus põhjustas palju inimeste hirmu."
   ],
   "translation": [
     "caused",
-    "led to"
+    "triggered",
+    "led to",
+    "resulted in"
   ],
-  "context": "The word 'põhjustas' is the past tense of the Estonian verb 'põhjustama', which means to cause something or lead to a certain consequence. It is commonly used in sentences to describe an action or event that resulted in a specific outcome."
+  "context": "The word 'põhjustas' is the past tense third-person singular form of the Estonian verb 'põhjustama', which means 'to cause' or 'to bring about'. It indicates that someone or something was the reason or originator of a particular situation, event, or condition. In English translations, it can be rendered as 'caused', 'triggered', 'led to', or 'resulted in', depending on the context. The root form is 'põhjus' meaning 'reason' or 'cause', with the '-ta-' suffix and '-ma' ending forming the verb infinitive."
 }

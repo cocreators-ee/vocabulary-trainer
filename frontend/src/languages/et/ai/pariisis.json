@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen käinud pariisis.",
-    "Tal on sõber, kes elab Pariisis.",
-    "Meie oleme kohtunud mitmel korral Pariisis."
+    "Ma olin pariisis eelmisel nädalavahetusel.",
+    "Ta kolis pariisi tänavale.",
+    "Me plaanime minna pariisesse suvel."
   ],
   "translation": [
-    "in Paris"
+    "in Paris",
+    "to Paris"
   ],
-  "context": "The word 'pariisis' is an Estonian word that means 'in Paris', it is used to describe something that is located or happening in the city of Paris, France."
+  "context": "The word 'pariisis' is the inessive case form of 'Pariis' (Paris), meaning 'in Paris'. It indicates location within the city. This is one of the local cases used in Estonian to show where something is located."
 }

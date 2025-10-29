@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma oskan seda teha",
-    "Sa oskad mind häirida",
-    "Ta oskab ainult rääkida"
+    "Oska sa laulda?",
+    "Ta oskab hästi klaverimängu.",
+    "Meie oskamist on veel palju arendada."
   ],
   "translation": [
     "know how to",
-    "can",
-    "are able to"
+    "be able to",
+    "can"
   ],
-  "context": "The word 'oskad' is the second person singular form of the verb 'oskama', which means 'to know how to' or 'to be able to do something'. It is commonly used in Estonian to express ability or capability."
+  "context": "'Oskad' is the second person singular present tense form of the Estonian verb 'oskama', which means 'to know how to' or 'to be able to'. It's used when asking someone if they have a skill or ability, similar to asking 'Can you...?' in English. The word indicates possession of knowledge or capability to perform an action."
 }

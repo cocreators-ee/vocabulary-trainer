@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nad ootasid bussi.",
-    "Ma ootasin teda tund aega.",
-    "Ta ootas mind kohvikus."
+    "Ma ootasin sind koolis.",
+    "Ta ootas mind bussijaamas.",
+    "Meie ootasime teie tulekut."
   ],
   "translation": [
-    "waited",
-    "were waiting"
+    "waited for",
+    "awaited"
   ],
-  "context": "The word 'ootasid' is the third person plural past tense form of the verb 'ootama', which means to wait. It is commonly used in Estonian language to describe a situation where someone or a group of people were waiting for something or someone."
+  "context": "The word 'ootasid' is the past tense, plural form of the Estonian verb 'ootama', which means 'to wait'. It specifically indicates that multiple people were waiting in the past. The root form 'ootama' can be conjugated into different tenses and numbers: ootab (he/she waits), ootame (we wait), ootate (you wait/plural)."
 }

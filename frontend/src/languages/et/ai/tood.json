@@ -1,16 +1,16 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma olen tood aastaks.",
-    "Ta on väga toad inimese.",
-    "Toadus ei ole alati kasulik.",
-    "Tema suhtumine on liiga toadlik."
+    "Tood on hea.",
+    "Ma tegin tood.",
+    "Kas sa tead seda tood?"
   ],
   "translation": [
-    "prickly",
-    "spiny",
-    "thorny"
+    "it",
+    "that",
+    "this",
+    "the thing",
+    "stuff"
   ],
-  "context": "The word 'tood' in Estonian is used as an adjective to describe something or someone that is difficult to approach, often due to being defensive, having a bad temper, or showing sharpness. It can be used both literally and metaphorically."
+  "context": "The word 'tood' is an Estonian demonstrative pronoun used to refer to something previously mentioned or known from context. It can be translated as English equivalents like 'it', 'that', 'this', or 'the thing/stuff'. The form shown appears to be in the nominative case, and it's commonly used in everyday speech to point to specific objects or concepts."
 }

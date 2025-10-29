@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta ei suutnud oma viha kontrollida.",
-    "Ma suutsin lõpuks eksami sooritada.",
-    "Nad suutsid raske ülesande lahendada."
+    "Ta on suutnud lahendada keerulise probleemi.",
+    "Me oleme suutnud saavutada head tulemusi.",
+    "Sa ei ole veel suutnud lõpetada projekti."
   ],
   "translation": [
-    "managed",
-    "succeeded",
-    "could"
+    "managed to",
+    "was able to",
+    "succeeded in"
   ],
-  "context": "The word 'suutnud' is the past tense of the verb 'suuta', which means to be able to, to manage to, or to succeed in doing something. It implies effort and accomplishment."
+  "context": "The Estonian word 'suutnud' is the past participle form of the verb 'suda', which means 'to be able to' or 'to manage'. It indicates successful completion of an action after effort. This form is commonly used with negation (ei ole suutnud) when someone has not yet achieved something, or positively when they have successfully accomplished a task despite difficulties."
 }

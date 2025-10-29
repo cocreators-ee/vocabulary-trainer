@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lubage mind täita teie soove",
-    "Ma luban sulle seda teha",
-    "Kas lubate mul teil küsimusi esitada"
+    "Palun lubage mind sisse.",
+    "Lubage mulle lõpetada kõne enne lahkumist.",
+    "Kas sa võiksid lubage mulle kasutada sinu arvutit?"
   ],
   "translation": [
     "allow",
-    "permit"
+    "permit",
+    "let"
   ],
-  "context": "The word 'lubage' is a polite form of the verb 'luba', which means to allow or permit something, and it is commonly used in formal situations or when showing respect."
+  "context": "The word 'lubage' is the formal/plural second person imperative form of the verb 'luba', meaning 'to allow' or 'to permit'. It's used when speaking to multiple people formally or as a polite singular address. This form carries the connotation of permission being granted rather than just making something possible."
 }

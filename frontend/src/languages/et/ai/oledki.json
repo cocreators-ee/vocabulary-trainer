@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Oledki juba tõesti vanaks?",
-    "Oledki mulle ikka hea sõber.",
-    "Kas sa oledki meie juures?"
+    "Oledki hea sõber.",
+    "Oledki alati nii abivalmis.",
+    "Oledki õige selles küsimuses."
   ],
   "translation": [
-    "you are indeed",
-    "you actually are"
+    "are indeed",
+    "really are",
+    "truly are"
   ],
-  "context": "The word 'oledki' is used in Estonian to express something that the speaker finds surprising or to add emphasis, similar to saying 'you are indeed' or 'you actually are'. It often shows realization or correction of a previous assumption."
+  "context": "The word 'oledki' is an emphatic form of the verb 'olema' (to be) in Estonian. It combines 'oled' (you are) with the particle 'ki', which adds emphasis or confirmation to the statement. This construction is used to affirm something strongly, often when responding to a question or expressing agreement with enthusiasm."
 }

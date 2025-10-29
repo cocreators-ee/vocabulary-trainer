@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mootor on autole väga oluline.",
-    "Ta ostis uue mootori.",
-    "Mootorite arendamine on pidevalt toimuv protsess."
+    "Mootor on seade, mis teeb energiat mehaaniliseks tööks.",
+    "Sõiduki mootor vajab regulaarset hooldust.",
+    "Paadi mootor ei käinud hästi."
   ],
   "translation": [
     "engine",
     "motor"
   ],
-  "context": "The word 'mootor' in Estonian refers to a machine that converts energy into motion or mechanical work, commonly used in vehicles and other devices."
+  "context": "The Estonian word 'mootor' refers to an engine or motor, which is a device that converts energy into mechanical motion. It can be used in various contexts like car engines, boat motors, or other powered machinery."
 }

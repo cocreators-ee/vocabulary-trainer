@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän syö viikunaa aamiaiseksi.",
-    "Viikunat ovat terveellisiä hedelmiä.",
-    "Olen ostanut viikunoita markkinoilta."
+    "Viikunapuu kasvaa hyvin lämpimissä ilmastoissa.",
+    "Tämä viikuna on kypsynyt ja makea.",
+    "Meillä on viikunoita puutarhassa."
   ],
   "translation": [
-    "fig"
+    "fig",
+    "fig tree"
   ],
-  "context": "The word 'viikuna' refers to a type of fruit, specifically the fig, which is commonly eaten fresh or used in baking."
+  "context": "In Finnish, 'viikuna' refers to either the fig fruit or the fig tree. It's a common word used in everyday language when talking about this Mediterranean fruit that grows well in warm climates. The word can be used in singular form (viikuna) or plural form (viikunoita)."
 }

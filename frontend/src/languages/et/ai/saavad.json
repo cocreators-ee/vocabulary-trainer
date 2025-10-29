@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma saavad seda teha",
-    "Nad on need, kes saavad võita",
-    "Meie ei saavad enam oodata"
+    "Nad saavad homme kohtumisel.",
+    "Tema saab alati hea tulemuse.",
+    "Meie saame nädalavahetuseks oma töö valmis."
   ],
   "translation": [
     "get",
-    "obtain",
-    "receive"
+    "receive",
+    "obtain"
   ],
-  "context": "The word 'saavad' is the third person plural form of the verb 'saama', which means to get or obtain something. It is commonly used in Estonian sentences to indicate that someone is receiving or acquiring something."
+  "context": "The word 'saavad' is the 3rd person plural form of the Estonian verb 'saa-' which means to get, receive or obtain. It indicates that multiple people are receiving or getting something in the present tense."
 }

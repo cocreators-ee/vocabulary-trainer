@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Laulan koko ajan.",
-    "Hän laulaa kauniasti.",
-    "He laulavat yhdessä."
+    "Minä laulan",
+    "Hän laulelee",
+    "He lauloivat"
   ],
   "translation": [
-    "sing",
+    "to sing",
+    "singing",
     "song"
   ],
-  "context": "The word 'laulaa' is commonly used in Finnish to mean singing or producing musical sounds with one's voice."
+  "context": "The Finnish verb 'laulaa' means 'to sing'. It is an action word that describes the act of producing musical sounds with one's voice. The word can appear in different forms depending on the subject and tense: 'laulan' (I sing), 'laulelee' (he/she sings), 'lauloivat' (they sang). This is a regular verb following standard Finnish conjugation patterns."
 }

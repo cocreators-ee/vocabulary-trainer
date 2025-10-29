@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on beebi.",
-    "Beebil on palju mänge.",
-    "Beebid on väga armsad."
+    "Beebi on väga armas.",
+    "Kas sa oled näinud seda beebit?",
+    "Meil on uus beebi pere."
   ],
   "translation": [
-    "baby"
+    "baby",
+    "infant"
   ],
-  "context": "The word beebi refers to a human infant or a very young child, and it is commonly used in Estonian language to describe a baby or to express affection towards someone."
+  "context": "The Estonian word 'beebi' is a loanword from English, meaning 'baby' or 'infant'. It's commonly used to refer to young children, especially newborns and infants. The word follows the same grammatical patterns as other Estonian nouns, so it can take case endings like '-ga' (with), '-le' (to), etc."
 }

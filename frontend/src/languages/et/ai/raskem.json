@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen raskem kui tema.",
-    "Ta on raskem kui mina.",
-    "Raskem on see, kes rohkem kaalub."
+    "See on raskem kui ma arvasin.",
+    "Töö oli raskem eelmisest nädalast.",
+    "Kõige raskem osa oli õppida uusi reegleid."
   ],
   "translation": [
-    "heavier",
-    "more difficult"
+    "harder",
+    "more difficult",
+    "tougher"
   ],
-  "context": "The word 'raskem' in Estonian can be translated to 'heavier' or 'more difficult' in English, depending on the context in which it is used. It is commonly used to describe something that has more weight or is harder to do."
+  "context": "The word 'raskem' is the comparative form of the Estonian adjective 'raske', meaning 'heavy' or 'difficult'. When used as 'raskem', it means 'heavier' or 'harder/more difficult' in comparison to something else. It's commonly used to describe tasks, challenges, or physical objects that are more weighty or problematic than another reference point."
 }

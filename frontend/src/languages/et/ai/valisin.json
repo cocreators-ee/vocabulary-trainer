@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma valisin endale uue raamatukogu liikmeks",
-    "Ta valis enda lemmikraamatu",
-    "Me valisime koos head raamatud"
+    "Ma valisin uue sõbra.",
+    "Ta valis õige vastuse.",
+    "Meie valisime parima variandi."
   ],
   "translation": [
-    "I chose",
-    "chose myself",
-    "selected"
+    "chose",
+    "selected",
+    "picked"
   ],
-  "context": "The word 'valisin' is the first person singular form of the verb 'valima', which means to choose or select something in Estonian. It is commonly used in everyday conversations when talking about making decisions or picking something."
+  "context": "The word 'valisin' is the first person singular past tense form of the Estonian verb 'valida', which means 'to choose' or 'to select'. It indicates that someone (specifically 'I') made a selection in the past."
 }

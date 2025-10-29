@@ -1,15 +1,14 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Mingit ei tohi kasutada siin.",
-    "Tema mingit käib üle mõtlema.",
-    "Räägi mulle rohkem sellest mingist."
+    "Tema on mingit kõrget mees.",
+    "Mingit head sööki tänaks!",
+    "Mul on mingit häda."
   ],
   "translation": [
-    "Something",
-    "Some",
-    "Any"
+    "some kind of",
+    "some sort of",
+    "any"
   ],
-  "context": "'Mingit' is an Estonian word that can mean 'something', 'some', or 'any'. It's a pronoun used in different contexts to refer to unspecified things or people, similar to how 'something' is used in English."
+  "context": "The word 'mingit' is the partitive case form of 'mingi', which means 'some' or 'any'. In Estonian, 'mingit' would be used to indicate an indefinite quantity or type of something. It's often used when referring to objects or concepts that are not specifically identified or named."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta istus tooli peale",
-    "Istuma on mugavam kui seisma",
-    "Vana mees armastas istuda pargis"
+    "Istu alla tooli.",
+    "Tüdruk istub akna lähedal.",
+    "Me istume hommikul kohvikus."
   ],
   "translation": [
-    "to sit",
-    "sitting"
+    "to sit down",
+    "to be seated"
   ],
-  "context": "The word 'istuma' is a verb in Estonian that means to be in a seated position or to take a seat, and it is commonly used in everyday conversations to describe the act of sitting down."
+  "context": "The Estonian verb 'istuma' means 'to sit down' or 'to be seated'. It's an imperfective verb that describes the action of taking a seat. In first person singular present tense it becomes 'istan', in third person singular 'istub', and when negated, you would use 'ei istu'. The word follows Estonian conjugation patterns with different forms for different persons and tenses."
 }

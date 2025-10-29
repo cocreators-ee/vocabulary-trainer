@@ -1,17 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta väldas oma vanema juurde minemist.",
-    "Meil tundus, et ta lihtsalt valetas.",
-    "Ära valeta mind!",
-    "Ta tegi valed vastused eksamitel."
+    "Ta valetas mulle.",
+    "Sa ei taha valeta?",
+    "Meie laps valetas koolis."
   ],
   "translation": [
-    "To lie",
-    "Lie(s)",
-    "False",
-    "Lying"
+    "lied",
+    "told a lie",
+    "fibbed"
   ],
-  "context": "'Valetada' is the Estonian verb meaning 'to lie', both in the sense of to tell lies, and as an adjective meaning false. It can be used as a verb or in compound words."
+  "context": "The word 'valetas' is the past tense third person singular form of the verb 'valema', which means 'to lie' or 'to tell lies'. It indicates that someone lied in the past. The root 'vale-' relates to falsehoods, and the suffix '-tas' forms the past tense for third person singular."
 }

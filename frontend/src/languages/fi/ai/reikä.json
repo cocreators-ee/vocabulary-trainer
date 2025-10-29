@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tällä paitalla on reikä.",
-    "Housuissa on useita reikiä.",
-    "Reikä seinässä tarvitsee korjaamista."
+    "Reikä on seinässä.",
+    "Minulla on reikä taskussa.",
+    "Talossa oli iso reikä katossa."
   ],
   "translation": [
     "hole",
+    "opening",
     "gap"
   ],
-  "context": "The word 'reikä' in Finnish generally refers to an opening or a hole in something, such as a piece of fabric, a wall, or any other object, and is commonly used to describe damage, defects, or natural openings in various contexts."
+  "context": "The Finnish word 'reikä' means a hole or opening in something. It can refer to any kind of empty space that goes through an object or surface, like a hole in the wall, a gap in teeth, or an opening in clothing. The word is neuter gender and appears in singular form here."
 }

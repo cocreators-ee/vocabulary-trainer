@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kiriku on ehitatud 13. sajandil.",
-    "Ta läks kirikusse palvetama.",
-    "Kiriku torn on väga kõrge."
+    "Tema käis kirikus.",
+    "Meie külastasime vana kirikut.",
+    "Kiriku uks oli avatud."
   ],
   "translation": [
-    "church",
+    "church (genitive case)",
     "of the church"
   ],
-  "context": "The word 'kiriku' is a genitive form of the Estonian word for 'church', and it is commonly used to indicate possession or relation to a church, as in 'the church's tower'."
+  "context": "The word 'kiriku' is the genitive singular form of the Estonian noun 'kirik', which means 'church'. In Estonian, the genitive case typically indicates possession or relationship, so 'kiriku' translates to 'of the church' or shows that something belongs to or is associated with the church. This form is used when the noun is in the possessive position or as an object of certain prepositions."
 }

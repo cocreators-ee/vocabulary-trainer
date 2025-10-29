@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "See raamat pakub palju teadmisi ja kasuõpet.",
-    "Mitu kasu sul on sellest projektist?",
-    "Sul on suur kasu õppimisel, kui saad juhendit."
+    "Kasume alati head asju.",
+    "Tal on suur kasu sellest projektist.",
+    "Mida sa kasust otsid?"
   ],
   "translation": [
-    "use",
-    "benefit"
+    "benefit",
+    "advantage",
+    "profit"
   ],
-  "context": "'Kasu' refers to the advantage or benefit gained from something. It can be used in both concrete and abstract contexts."
+  "context": "The Estonian word 'kasu' is a noun that means benefit, advantage, or profit. It refers to the positive gain, usefulness, or favorable outcome obtained from something. In the first sentence, it's in its basic form; in the second, it shows possession with '-l' suffix indicating 'his/her/its'; and in the third, it appears in the partitive case showing what one is looking for."
 }

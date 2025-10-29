@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu number on viis null kaks kolm seitse.",
-    "Palun kirjutage oma number siia.",
-    "See number ei vasta."
+    "Nägin number ühel televiisori ekraanil.",
+    "Kas sa tead oma telefoninumbrit?",
+    "Number 5 on minu lemmiknumber."
   ],
   "translation": [
-    "number",
     "digit",
-    "figure"
+    "figure",
+    "numeral"
   ],
-  "context": "The Estonian word 'number' is directly equivalent to the English word 'number'. It refers to a numerical digit or a sequence of digits used for counting, identification, or measurement. It can also refer to a telephone number."
+  "context": "The word 'number' in Estonian refers to a digit, figure, or numeral. It's used for individual numerical symbols (0-9) as well as numbers in general contexts. The word is the same form whether referring to a single digit or a multi-digit number."
 }

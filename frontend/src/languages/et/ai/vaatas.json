@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta vaatas akna välja",
-    "Ma vaatan telerit",
-    "Nad vaatasid mind"
+    "Vaatasin filmi.",
+    "Ta vaatas aknast välja.",
+    "Meie laps vaatas televeisorit."
   ],
   "translation": [
     "looked",
     "watched",
-    "gazed"
+    "observed"
   ],
-  "context": "The word 'vaatas' is the third person singular form of the verb 'vaatama', which means to look or watch something. It is commonly used in Estonian language to describe the act of directing one's gaze at something or someone."
+  "context": "The word 'vaatas' is the past tense singular form of the Estonian verb 'vaatama', which means 'to look', 'to watch', or 'to observe'. It indicates that someone was looking at something in the past. The '-s' ending signifies it's 3rd person singular (he/she/it) past tense."
 }

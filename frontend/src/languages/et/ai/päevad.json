@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen olnud siin mitmed päevad.",
-    "Tal on küllalt päevad, et valmistuda.",
-    "Päevad möödusid kiiresti."
+    "Päevad on lühikesed talvel.",
+    "Meie päevad mööduvad kiiresti.",
+    "Keskpäevane päeva kestab kauem kui teised päevad."
   ],
   "translation": [
-    "days"
+    "days",
+    "daytimes"
   ],
-  "context": "The word 'päevad' is the plural form of 'day' in Estonian and is commonly used to refer to a period of time consisting of days."
+  "context": "The word 'päevad' is the plural form of the Estonian noun 'päev', which means 'day'. It refers to multiple days or daytime periods. In Estonian, nouns have grammatical number - singular and plural forms. The '-d' ending indicates this is in the plural case."
 }

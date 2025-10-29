@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Valvur vaatas mind.",
-    "Ta on hea valvur.",
-    "Valvuri ülesanne on valve pidamine."
+    "Valvur kontrollis siseõue.",
+    "Tööl oli öine valvur.",
+    "Lasteaias on alati üks valvur."
   ],
   "translation": [
     "guard",
-    "watcher"
+    "watchman",
+    "sentry",
+    "warden"
   ],
-  "context": "The word 'valvur' refers to a person who watches or guards something, often in a protective or surveillance capacity. It is commonly used in Estonian to describe a security guard or someone responsible for monitoring a particular area or activity."
+  "context": "The Estonian word 'valvur' means a guard or watchman who is responsible for watching over, protecting, and maintaining security of a particular area, building, or premises. It refers to someone whose job is to monitor activities and ensure safety by being alert for potential threats or disturbances."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Eelmine nädal ma olin haigekassa.",
-    "Ta näitas mulle eelmise kuu aruande.",
-    "Eelmine aasta oli väga edukas."
+    "Eelmine päev oli pikk",
+    "Ta meenutas eelmist aastat",
+    "Me arutasime eelmist juhtumit"
   ],
   "translation": [
     "previous",
-    "former"
+    "last",
+    "former",
+    "preceding"
   ],
-  "context": "The word 'eelmine' in Estonian means 'previous' or 'former', referring to something that happened or existed before the current one, and it is commonly used to describe time periods or events in the past."
+  "context": "The Estonian word 'eelmine' is an adjective that means 'previous', 'last', or 'former'. It refers to something that came before in time or sequence. The word can be used for days, years, events, people, or any noun that has a preceding counterpart in a sequence."
 }

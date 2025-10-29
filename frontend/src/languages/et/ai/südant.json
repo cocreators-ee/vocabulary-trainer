@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta puudutas mind südant.",
-    "Südant lööb kiiresti.",
-    "Tema südant on purustatud."
+    "Südant on elutähtis organ.",
+    "Terviseks südant ei tohi kahjustada.",
+    "Arst kontrollis patsiendi südant."
   ],
   "translation": [
-    "heart",
-    "core"
+    "heart"
   ],
-  "context": "The word 'südant' in Estonian generally refers to the heart, whether it be the physical organ or the emotional center of a person."
+  "context": "The word 'südant' is the partitive case form of the Estonian noun 'süda', which means 'heart'. In Estonian, nouns change their endings depending on their grammatical function in a sentence. The partitive case ending '-t' indicates that the heart is being referred to in an incomplete or indefinite manner - it could mean 'a heart', 'some heart', or be used in contexts where the object is not fully completed or definite."
 }

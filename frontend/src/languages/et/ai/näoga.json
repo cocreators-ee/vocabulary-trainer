@@ -1,13 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Tema sõbrad mängisid mängu näoga.",
-    "Pildistamisel pead hoidma näoa suvalt.",
-    "Ta naeratas tühja näogaga."
+    "Tema tuleb näuga meie juurde.",
+    "Ma tulin sinu juurde näoga.",
+    "Kas sa tulid ka näoga?"
   ],
   "translation": [
-    "with face"
+    "in person",
+    "face to face",
+    "physically present"
   ],
-  "context": "'näoga' is an Estonian word that means 'with face'. It can be used in contexts involving facial expressions or physical appearance, such as describing someone's expression during a game, taking photos where one needs to keep the face still, or describing someone who smiles with an empty expression."
+  "context": "The Estonian word 'näoga' is an adverbial form that means 'with the face' or 'in person'. It indicates physical presence rather than virtual, telephone, or other remote communication. The word comes from 'nägü' (face) with the '-ga' suffix meaning 'with', so literally it means 'with one's face'. It's used to emphasize that someone is physically present somewhere rather than communicating remotely."
 }

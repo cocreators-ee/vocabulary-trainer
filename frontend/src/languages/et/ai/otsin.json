@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin seda raamatut.",
-    "Ta otsis mind kogu öö.",
-    "Nad otsivad uut kodu."
+    "Ma otsin oma nutitelefonit.",
+    "Otsisid sa kuskord oma võtmeid?",
+    "Meie otsime head restorani lõuna jaoks."
   ],
   "translation": [
     "I am looking for",
-    "search",
-    "seek"
+    "I look for",
+    "he/she/it looks for"
   ],
-  "context": "The word 'otsin' is the first person singular form of the verb 'otsima', which means to search or look for something in Estonian. It is commonly used in sentences where the speaker is actively trying to find an object, person, or solution."
+  "context": "The word 'otsin' is the 1st person singular present tense form of the Estonian verb 'otsima', which means 'to search for' or 'to look for'. It specifically refers to what 'I am looking for' in the present moment. In Estonian, verbs conjugate based on person and number, so 'otsin' is only used when speaking about oneself (first person) doing the action of searching or looking for something right now."
 }

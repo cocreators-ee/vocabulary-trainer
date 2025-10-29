@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hea inimene.",
-    "Ta on olev võõras.",
-    "Nad on olnud siin varem."
+    "Olen olev hea.",
+    "Ta on alati olev meeldiv.",
+    "Me oleme olevad õnnelikud."
   ],
   "translation": [
     "being",
-    "existing"
+    "existing",
+    "current"
   ],
-  "context": "The word 'olev' is a present participle of the verb 'olemama', which means to exist or be, it is commonly used in Estonian to describe something that is currently happening or something that has existence."
+  "context": "The word 'olev' is the partitive case form of the Estonian verb 'olema', which means 'to be'. In this form, it functions as a present participle or gerund. It indicates an ongoing state or existence and can be translated into English as 'being' or 'existing'. The word shows the continuous nature of an action or state that is currently happening."
 }

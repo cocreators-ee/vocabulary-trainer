@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Esimesel päeval käisin ma poes.",
-    "Esimene inimene, kes sellele küsimusele vastas, oli meie juhi vend.",
-    "Ta oli esimene, kes mulle üldse midagi ütles."
+    "Esimene on parem kui teine.",
+    "Ta oli esimene, kes saabus kohale.",
+    "See on esimene päev kevadel."
   ],
   "translation": [
     "first",
-    "initial"
+    "number one"
   ],
-  "context": "The word 'esimene' is an adjective in Estonian that means 'first' or 'initial', often used to describe something that happens or exists before others, and it is commonly used in everyday conversations to indicate the beginning or the start of a sequence."
+  "context": "The Estonian word 'esimene' means 'first' in English. It is an adjective that indicates something comes before all others in a sequence or order. In Estonian grammar, adjectives need to agree with the noun they modify in case and number - for example, if referring to a feminine subject in the nominative case, it would be 'esimene naine' (first woman), but if referring to multiple people or objects, the plural form would be used. The word can be used to indicate priority, importance, or sequence."
 }

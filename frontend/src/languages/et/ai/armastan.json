@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
     "Ma armastan sind.",
-    "Ta on armastanud mind juba aastaid.",
-    "Me armastame üksteist."
+    "Ta armastab last.",
+    "Meie armastame oma linna."
   ],
   "translation": [
-    "I love you",
+    "love",
     "to love"
   ],
-  "context": "The word 'armastan' is commonly used in Estonian to express the feeling of love or affection towards someone, and it is often used in romantic relationships."
+  "context": "The word 'armastan' is the first person singular present tense form of the Estonian verb 'armastama', which means 'to love'. It specifically translates to 'I love' in English. In Estonian, this verb follows regular conjugation patterns where the ending changes based on the subject and tense: 'armastan' (I love), 'armastad' (you love), 'armastab' (he/she/it loves), etc."
 }

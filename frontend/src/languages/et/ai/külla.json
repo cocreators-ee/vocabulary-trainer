@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma külla lähen.",
-    "Külla minna on tore.",
-    "Ta ei saanud külla tulla."
+    "Tule külla homme!",
+    "Külalised tulid külla külastama.",
+    "Me ootame sind külla öösel."
   ],
   "translation": [
     "to visit",
-    "visit"
+    "to come over",
+    "drop by"
   ],
-  "context": "The word 'külla' is used in Estonian to mean visiting someone or someplace, often in an informal setting, and it can be translated to English as 'to visit' or simply 'visit'."
+  "context": "The Estonian word 'külla' is an illative case form of the word 'koda', which means a dwelling, house or home. It indicates direction towards a place where someone lives. In English, it translates to phrases like 'to visit', 'to come over', or 'drop by'. The word shows movement toward someone's home for a visit."
 }

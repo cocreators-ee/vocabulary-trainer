@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema hing elas jätkata surmast.",
-    "Surnu ei püütud surmast.",
-    "Pärast surmast keeldus ta oma isaga rääkimisest."
+    "Tema surmast oli palju kõneainet.",
+    "Pärast isa surmast muutus ta täielikult.",
+    "Surmast rääkimine oli raske kõigile."
   ],
   "translation": [
-    "death",
-    "deadness"
+    "about death",
+    "from death",
+    "of death"
   ],
-  "context": "'Surmast' refers to the state of being dead or death itself. It can be used in both literal contexts, such as describing someone who has died, and metaphorically, though less commonly."
+  "context": "The Estonian word 'surmast' is an elative case form of the noun 'surm', which means 'death'. In the elative case, it indicates movement away from or origin from something. So 'surmast' means 'from death', 'about death', or 'of death'. It's used to indicate that something comes from death, relates to death, or is concerning death."
 }

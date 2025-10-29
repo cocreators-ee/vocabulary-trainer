@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta maksab kalli",
-    "Maksab see siis?",
+    "Ta maksab arve ära.",
+    "Maksad sa seda kauba eest?",
     "Kui palju see maksab?"
   ],
   "translation": [
     "pays",
-    "costs"
+    "costs",
+    "charges"
   ],
-  "context": "The word 'maksab' is a verb in Estonian that means to pay or cost something, and it is commonly used in sentences to describe the act of paying for goods or services."
+  "context": "The word 'maksab' is the third-person singular present form of the Estonian verb 'maksama', which means 'to pay'. It indicates that someone or something pays a certain amount for goods, services, or other items. In English, it can be translated as 'pays' when referring to the action of paying, or 'costs/charges' when referring to the price of something."
 }

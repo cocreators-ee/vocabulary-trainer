@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma annan selle kingituse sõbrale.",
-    "Sõbrale on see väga oluline.",
-    "Ta on alati olnud hea sõbrale."
+    "Tere tulemast sõbrale!",
+    "Sõbrale kingituse tegemine on alati hea mõte.",
+    "Ma lähen külastama oma head sõbrale."
   ],
   "translation": [
     "to a friend",
     "for a friend"
   ],
-  "context": "The word sõbrale is a dative form of the Estonian word sõber, which means friend, and it is commonly used to indicate that something is given or done for the benefit of a friend."
+  "context": "The word 'sõbrale' is the allative case of the Estonian noun 'sõber', which means 'friend'. The allative case in Estonian indicates movement towards or direction to something/someone, so it can be translated as 'to a friend' or 'for a friend' depending on context. This form is used when indicating that something is going toward a friend or being done for the benefit of a friend."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tulevad päevad on olulised.",
-    "Ta tulevad homme tagasi.",
-    "Need tulevad küsimused on tähtsad."
+    "Tulevad homme meeldejääv päev.",
+    "Naised tulevad teistest riikidest.",
+    "Mis sa arvad, et nad tulevad?"
   ],
   "translation": [
-    "coming",
-    "future"
+    "come",
+    "are coming",
+    "will come"
   ],
-  "context": "The word 'tulevad' in Estonian generally refers to something that is coming or happening in the future, and it is commonly used as an adjective or verb to describe upcoming events or actions."
+  "context": "\"Tulevad\" is the 3rd person plural present tense form of the Estonian verb \"tulla\", which means \"to come\". It indicates that a group of people or things are coming in the present moment, but with future implications (similar to the English present continuous for future actions). The word can be translated as \"come\", \"are coming\", or \"will come\" depending on context. It's commonly used to announce arrival or ask about expected arrivals."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kas saad maksma ainult dollaritega?",
-    "Minu suurem osa sääst on dollarites.",
-    "Tema tulus kattus peaaegu täielikult dollari müügist."
+    "Mul on dollarit.",
+    "Ta annab dollarit eest.",
+    "Mehhiko dollari on väärt rohkem kui USA dollarit."
   ],
   "translation": [
+    "dollars",
     "dollar"
   ],
-  "context": "'Dollarit' is the partitive singular form of 'dollar' in Estonian and it refers to an unspecified amount or portion of dollars."
+  "context": "\"Dollarit\" is the partitive case form of \"dollar\" in Estonian, meaning \"dollars\" or \"some dollars\". It's used when referring to an unspecified quantity or amount of dollars. The word follows Estonian grammatical rules for loanwords from English, with the -it ending indicating the partitive case."
 }

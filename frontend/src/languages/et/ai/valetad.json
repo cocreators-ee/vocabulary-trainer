@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kas sa valetad mind?",
-    "Tean, et sa valetad.",
-    "Sa alati valetad."
+    "Sa valetad tavaliselt kui teed midagi halba.",
+    "Ta valetas mulle eile.",
+    "Me ei usu et sa valetad meid."
   ],
   "translation": [
-    "you are lying"
+    "you lie",
+    "he/she lies",
+    "they don't believe you are lying to them"
   ],
-  "context": "Expresses that someone is not telling the truth and is intentionally deceiving others through false statements or omissions."
+  "context": "The word 'valetad' is the 2nd person singular present tense form of the Estonian verb 'valema', which means 'to lie'. It specifically refers to when someone (the person being addressed) tells a falsehood or makes an untrue statement. This is commonly used in everyday situations when addressing someone directly about their dishonest behavior."
 }

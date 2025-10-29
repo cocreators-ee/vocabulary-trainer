@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta teatas lahkumisest.",
-    "Lahkumine toimus homme.",
-    "Me ootame tema lahkumist."
+    "Lahkumisel palume jätta toolid algusesse.",
+    "Tere tulemast meie lahkumisele!",
+    "Lahkumist mõtlesin pikalt üle."
   ],
   "translation": [
     "departure",
-    "parting"
+    "leave-taking",
+    "goodbye"
   ],
-  "context": "The word 'lahkumist' in Estonian refers to the act of leaving or departing from a place, and it is commonly used in sentences to describe someone's exit or separation from others."
+  "context": "The word 'lahkumist' is the partitive case form of the Estonian noun 'lahkumine', which means departure or leave-taking. It's used when talking about the act of departing, leaving a place, or saying goodbye. The partitive case often indicates partial action or ongoing process, so 'lahkumist' can refer to the process of departure rather than just the completed action. This form is commonly used in contexts like announcing departures, discussing travel arrangements, or expressing farewell wishes."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma käisin kaupassa eile.",
-    "Ta käis koos sõpradega kinos.",
-    "Me käisime vanemate juures."
+    "Käisin poes ostmas leiba.",
+    "Me käisime eile teatris.",
+    "Kas sa käid tihti spordiklubis?"
   ],
   "translation": [
     "went",
-    "visited"
+    "visited",
+    "was"
   ],
-  "context": "The word käisin is the first person singular form of the verb käima, which means to go or visit a place, and it is commonly used in Estonian to describe past actions of going somewhere."
+  "context": "The word 'käisin' is the first person singular past tense form of the Estonian verb käima (to go, to visit). It indicates that the speaker performed an action of going somewhere in the past. This verb is commonly used when talking about visiting places, attending events, or making short trips."
 }

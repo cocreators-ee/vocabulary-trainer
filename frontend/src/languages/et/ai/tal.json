@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Tal on kodus uus kuuluv.",
-    "Tal tundub, et see on õige teekond.",
-    "Ma näha, et tal on hea meel."
+    "Tal on hea meel.",
+    "Tema talub hästi rõhku.",
+    "Oleme talunud mitmeid ebaõnnestumisi."
   ],
   "translation": [
-    "has",
-    "seems",
-    "is in good spirits"
+    "he/she/it has",
+    "endures/bears/suffers",
+    "has experienced"
   ],
-  "context": "'tal' is used to indicate possession or a state of being. It can mean 'has', 'seems', or be used in expressions like 'is in good spirits'. The form changes based on the context, typically following the verb structure in Estonian."
+  "context": "The Estonian word 'tal' can function as a third person singular verb form meaning 'has' or 'possesses', but it also appears in compound verbs where it means 'to endure,' 'to bear,' or 'to suffer.' In its main usage as 'has,' it follows the subject and precedes the object. When used in compound forms like 'taluma' (to endure), it functions as a verbal component indicating endurance or tolerance of something difficult or unpleasant."
 }

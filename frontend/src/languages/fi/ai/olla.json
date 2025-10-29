@@ -1,16 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minä olen opettaja.",
-    "He ovat ystäviäni.",
-    "Olisitko halukas auttamaan?"
+    "Minä olen opiskelija.",
+    "Sinä olet kotona.",
+    "He ovat ystäviäsi."
   ],
   "translation": [
-    "to be",
-    "is",
-    "are",
-    "am"
+    "to be"
   ],
-  "context": "The verb 'olla' is the Finnish equivalent of 'to be'. It’s a highly irregular verb and essential for forming many grammatical structures, including present tense, past tense, conditional mood, and passive voice. It functions similarly to 'to be' in English, indicating existence or state of being."
+  "context": "The Finnish word 'olla' is the basic verb meaning 'to be'. It's an irregular verb that changes its form depending on the subject. In singular first person (I), it becomesolen'; in singular second person (you), it's 'olet'; in singular third person (he/she/it), it's 'on'; and in plural forms, it appears as 'olemme' (we), 'olette' (you pl.), or 'ovat' (they). This verb is essential for expressing existence and identity in Finnish."
 }

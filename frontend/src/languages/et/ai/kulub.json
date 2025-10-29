@@ -1,15 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Muutud olukord ei kuluta midagi meie plaanimise efektiivsusest.",
-    "See meetod vähendab kulusid märkimisväärselt.",
-    "Kas saab nii suurt kasvu saavutada väikeste kulusid?"
+    "Mul kulub kaks tundi sellest tööst.",
+    "Teisel nädalal kulub rohkem aega kodutööde tegemiseks.",
+    "Mulle kulub igapäevaselt umbes üks tunnijupp aega."
   ],
   "translation": [
-    "cost",
-    "expense",
-    "spending"
+    "takes",
+    "requires",
+    "consumes",
+    "spends"
   ],
-  "context": "'kulub' refers to the cost or expense associated with an activity, project, or item. It is commonly used in financial and everyday contexts to discuss what something costs."
+  "context": "The word 'kulub' is the 3rd person singular present form of the Estonian verb 'kulduma' meaning to take, require, consume or spend (time, money, resources). It indicates how much time, effort, or something else is needed for an action or task. For example, when someone says 'Mul kulub kaks tundi', they mean 'It takes me two hours'. The word shows the amount of resources consumed or required for a particular activity."
 }

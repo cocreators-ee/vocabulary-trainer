@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vajan seda raamatu",
-    "Ta vajab abi",
-    "Me vajame rohkem aega"
+    "Mul on vajad teie abi",
+    "Ma vajan rohkem aega",
+    "Tal on vaja magada"
   ],
   "translation": [
     "need",
-    "require",
-    "lack"
+    "requirement",
+    "necessity",
+    "need for"
   ],
-  "context": "The word 'vajad' in Estonian is commonly used to express the need or requirement for something, and it can be translated to English as 'need', 'require', or 'lack', depending on the context."
+  "context": "The word 'vajad' is the Estonian verb 'vajama' (to need) in the singular first person form ('ma vajan'). It indicates that someone has a requirement, necessity or lacks something that they desire. The verb can be conjugated into different persons and tenses to express who needs what."
 }

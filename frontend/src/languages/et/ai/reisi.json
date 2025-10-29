@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen homme reisile.",
-    "Neil oli pikk reisi ette võetud.",
-    "See reisi muutis tema elu."
+    "Mul on hea reisi planeerida.",
+    "Ta tegi pikka ja raske reisi.",
+    "Meie reisi algab homme."
   ],
   "translation": [
     "trip",
     "journey",
-    "voyage"
+    "travel"
   ],
-  "context": "The Estonian word 'reisi' commonly translates to 'trip', 'journey', or 'voyage' in English. It refers to the act of traveling from one place to another, often for pleasure or a specific purpose. It can also refer to the journey itself."
+  "context": "The word 'reisi' is the genitive singular form of the Estonian noun 'reis', which means 'trip' or 'journey'. In Estonian, genitive case indicates possession or relationship, so 'reisi' can be translated as 'of a trip/journey' or used with prepositions like 'on reisi' (on a trip). It's commonly used when talking about travel experiences and planning."
 }

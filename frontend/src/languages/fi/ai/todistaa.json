@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän todistaa olevansa syytön.",
-    "Todistaa hänellä oli aikaa tehdä se.",
-    "Lääkäri todistaa potilaan terveydentilasta."
+    "Hän todisti totuuden.",
+    "Meidän täytyy todistaa syyllisyys.",
+    "Todistan, että olen oikeassa."
   ],
   "translation": [
-    "prove",
-    "demonstrate",
-    "testify"
+    "to prove",
+    "to witness",
+    "to testify"
   ],
-  "context": "The word 'todistaa' in Finnish means to prove or demonstrate something, often used in the context of providing evidence or testimony to support a claim."
+  "context": "The Finnish verb 'todistaa' can be translated into English as 'to prove', 'to witness', or 'to testify'. It's used when someone presents evidence to establish the truth of something (prove), observes an event firsthand and can attest to it (witness), or gives formal testimony in a legal setting (testify). The verb is often conjugated depending on the subject pronoun: todistan (I prove/testify/todistelen), todistat (you prove/testify/todistelen), todistaa (he/she/it proves/testifies/todistellen), todistamme (we prove/testify/todistemme), todistatte (you prove/testify/todistatte), and todistavat (they prove/testify/todistavat)."
 }

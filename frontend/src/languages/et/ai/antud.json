@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on antud andmeid, mida me vajame.",
-    "Tahaksin antud arvutit tagasi saada.",
-    "Antud ülesanne on väga keeruline."
+    "Antud päeval on ilus ilm.",
+    "Meil on antud ülesanne lõpetada projekt.",
+    "Antud info on tähtne kõigile."
   ],
   "translation": [
-    "given"
+    "given",
+    "provided",
+    "specified"
   ],
-  "context": "The Estonian word 'antud' is the past passive participle of the verb 'anda,' which means 'to give.' It is commonly used to describe something that has been given or provided in a particular context."
+  "context": "'Antud' is the Estonian word for 'given' or 'provided'. It's typically used as an adjective to indicate something that has been specified, provided, or mentioned previously. In the first sentence, it means 'this day', in the second it refers to a task that has been assigned, and in the third it indicates information that has been provided."
 }

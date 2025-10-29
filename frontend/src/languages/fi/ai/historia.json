@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Historia on mielenkiintoinen aihe",
-    "Hän opiskeli historian ja kirjallisuuden yliopistossa",
-    "Tämä kirja kertoo Suomen historiasta toisen maailmansodan aikana"
+    "Historia on mielenkiintoinen aine.",
+    "Minä opiskelen historiaa yliopistossa.",
+    "Tämä kirja kertoo Rooman historiasta."
   ],
   "translation": [
     "history",
-    "story"
+    "story",
+    "account of past events"
   ],
-  "context": "The word historia refers to the study of past events, particularly in human affairs, and is commonly used in academic and everyday contexts to describe historical events or narratives."
+  "context": "The Finnish word 'historia' is used to refer to the academic study of past events and also to mean story or narrative. It can be used in different forms: as a singular noun (historia), in partitive case (historiaa - meaning history as an object of study), and in elative case (historiasta - meaning from/about history)."
 }

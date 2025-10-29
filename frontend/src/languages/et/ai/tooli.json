@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on tooli koduks",
-    "Ta istus toolile ja jäi ootama",
-    "Toolid olid ümber laua paigutatud"
+    "Ta on tooli.",
+    "Tooli on hea koht istuda.",
+    "Meie vajame rohkem tooli."
   ],
   "translation": [
-    "chair",
-    "stool"
+    "to sit down",
+    "to take a seat",
+    "to be seated"
   ],
-  "context": "The word 'tooli' in Estonian refers to a chair or stool, and it is commonly used in everyday conversations to talk about furniture."
+  "context": "In Estonian, 'tooli' is the partitive case form of the noun 'tool', which means chair. The partitive case in Estonian indicates an incomplete action or object. When used with verbs like 'on' (is), it suggests sitting down or taking a seat. This construction is commonly used when talking about chairs as objects that someone sits on or occupies."
 }

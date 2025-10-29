@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän otti kirjan",
-    "Otin uuden puhelimen",
-    "He ottelevat"
+    "Hän otti kirjan käteensä.",
+    "He ottivat kahvia yhdessä.",
+    "Otin auton käyttöön viime viikolla."
   ],
   "translation": [
     "took",
+    "took hold of",
     "grabbed",
-    "caught"
+    "accepted"
   ],
-  "context": "The word 'otti' is the third person singular form of the verb 'ottaa', which means to take or grab something, and it is commonly used in Finnish language to describe an action of taking possession of an object."
+  "context": "'Otto' is the past tense third-person singular form of the Finnish verb 'ottaa', meaning 'to take'. In this case, 'otti' specifically refers to someone (he/she/it) taking something in the past. It's a very common Finnish verb used for physical actions like picking up objects, accepting things, or starting to use something."
 }

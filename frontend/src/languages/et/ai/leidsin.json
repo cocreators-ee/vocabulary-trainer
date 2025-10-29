@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma leidsin endale uue töökoha",
-    "Ta leidis oma koduukse võtmed",
-    "Nad leidsid ühiskeele"
+    "Ma leidsin oma võtmed taskust.",
+    "Ta leidis kaotatud koera pargist.",
+    "Meie leidsime härest restorani."
   ],
   "translation": [
     "found",
     "discovered"
   ],
-  "context": "The word 'leidsin' is the first person singular past tense form of the Estonian verb 'leidma', which means to find or discover something."
+  "context": "Leidsin is the past tense (first person singular) form of the Estonian verb 'leidma', which means 'to find' or 'to discover'. It specifically indicates that 'I found' or 'I discovered' something. The word follows Estonian grammatical rules where verbs are conjugated according to person, number and tense."
 }

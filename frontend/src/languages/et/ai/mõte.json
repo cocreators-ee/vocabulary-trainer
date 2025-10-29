@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mõte on see, et me peaksime minema.",
-    "Ta mõtles, et see oleks hea mõte.",
-    "Mõtted olid segased."
+    "Mõte on hea.",
+    "Tal oli huvitav mõte.",
+    "Me peame arutama seda mõtet."
   ],
   "translation": [
     "thought",
     "idea",
     "notion"
   ],
-  "context": "The word 'mõte' in Estonian generally refers to a thought or idea in one's mind, and is commonly used in sentences to express opinions or notions."
+  "context": "The Estonian word 'mõte' means thought or idea. It is a singular noun that refers to a mental concept, opinion, or consideration. In Estonian grammar, it's in the nominative case here. When used with different cases or plural forms, it would change accordingly - for example, 'mõttes' (in thought), 'mõtted' (thoughts)."
 }

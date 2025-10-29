@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta ütles seda öeldes, et see on tõsi.",
-    "Ma olen seda juba varem öeldes, et see ei ole hea.",
-    "Öeldes tuleb arvestada kõigepealt selle asjaoluga."
+    "Tere öeldes, kuidas läheb?",
+    "Öeldes talle oma arvamust, ta ei olnud nõus.",
+    "Kõigepealt öeldes, ma ei tea midagi selle kohta."
   ],
   "translation": [
-    "having said that",
-    "in saying that"
+    "saying",
+    "speaking",
+    "stating"
   ],
-  "context": "The word \"öeldes\" is used in Estonian to indicate that something has been said or stated, often to provide additional information or to clarify a point. It can be translated to English as 'having said that' or 'in saying that', and is commonly used in formal writing and speech."
+  "context": "The Estonian word 'öeldes' is the elative case of the verb 'öelda' (to say/speak). It functions as an adverbial participle meaning 'when saying', 'by speaking', or 'in stating'. This form is commonly used to introduce a quote, opinion, or thought process. In the examples provided, it appears at the beginning of sentences to frame what follows as something being said or spoken about."
 }

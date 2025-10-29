@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Õpetaja seletas õpilastele uut teemat.",
-    "Õpetajad said suurepärase tunnustuse.",
-    "Ta on hea õpetaja, kes hoolib oma õpilastest."
+    "Õpetaja on tubli.",
+    "Minu õpetaja räägib heaks eesti keelt.",
+    "Tüdrukud küsivad oma õpetajalt abi."
   ],
   "translation": [
     "teacher",
-    "instructor"
+    "instructor",
+    "educator"
   ],
-  "context": "The word õpetaja refers to a person who teaches or instructs others, typically in a school or educational setting, and is commonly used in Estonian to denote a profession or occupation."
+  "context": "The Estonian word 'õpetaja' is a noun that refers to a person who teaches or instructs others. It can be used for any teacher, whether in school, university, or other educational settings. The word follows normal Estonian grammar rules and can appear in different cases depending on its role in the sentence (nominative form shown here)."
 }

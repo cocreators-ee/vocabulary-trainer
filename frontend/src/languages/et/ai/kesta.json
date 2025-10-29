@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei kesta seda tööd",
-    "Ta on väga tugev ja kkestab kõike",
-    "Kesta see asi veel natuke aega"
+    "Kestus kaks tundi.",
+    "Ta kestab väga kaua.",
+    "Pole teada, kuidas see kestab."
   ],
   "translation": [
-    "endure",
-    "withstand",
-    "bear"
+    "to last",
+    "to endure",
+    "to continue"
   ],
-  "context": "The word 'kesta' in Estonian means to endure or withstand something, often used to describe someone's ability to tolerate difficult situations or physical pain."
+  "context": "The Estonian word 'kesta' is a verb that means to last, endure, or continue over time. It's commonly used to describe the duration of events, processes, or situations. The conjugation can vary depending on the subject and tense, but it follows regular Estonian verb patterns."
 }

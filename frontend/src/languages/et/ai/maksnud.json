@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on maksnud kõik oma võlad tagasi.",
-    "Kas sa oled juba maksnud elektroonika puhul?",
-    "Maksnud meie arvestus tõi meile raskeust kevadkäes."
+    "Olen maksnud eile arve.",
+    "Ta on maksnud tasu õpetuse eest.",
+    "Mees on juba maksnud oma kohustused."
   ],
   "translation": [
     "paid",
-    "to have paid"
+    "has paid",
+    "have paid"
   ],
-  "context": "The word 'maksnud' is the past participle of the Estonian verb 'maksta', which means to pay. It is commonly used in sentences to indicate that a payment has been made or completed."
+  "context": "The word 'maksnud' is the past participle form of the Estonian verb 'maksma', which means 'to pay'. It indicates that the action of paying has been completed. The '-nud' suffix in Estonian creates past participles, similar to how English uses '-ed' for regular verbs or irregular forms like 'paid'. This word is typically used with auxiliary verbs like 'on' (has) or 'olen' (have) to form compound tenses in the present perfect tense."
 }

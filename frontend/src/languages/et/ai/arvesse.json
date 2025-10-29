@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvestan sinusinuga.",
-    "Ta võtab asja arvesse.",
-    "Me peame selle arvesse võtma."
+    "Arve on arvesse võetud.",
+    "Lisasime uue konto arvesse.",
+    "Eelarve on koostatud arvestades eelnevat aastat."
   ],
   "translation": [
     "into account",
-    "consider"
+    "on record",
+    "counted in",
+    "included"
   ],
-  "context": "The word 'arvesse' is commonly used in Estonian to mean taking something into consideration or account, often in the context of decision-making or problem-solving."
+  "context": "The Estonian word 'arvesse' is the illative case form of 'arv', which means 'number'. It indicates movement toward or inclusion in something. In usage, it typically means that something has been taken into account, recorded, included, or counted as part of a whole system. This grammatical construction shows directionality - going into the state of being accounted for."
 }

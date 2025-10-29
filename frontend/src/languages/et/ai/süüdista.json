@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta süüdistas mind valetamises",
-    "Kohtus süüdistati teda vargusega",
-    "Politsei süüdistas mehe kuriteos"
+    "Sina ei süüdista mind.",
+    "Ta süüdistas end oma halva käitumise eest.",
+    "Me ei taha sind süüdistada."
   ],
   "translation": [
-    "accuse",
-    "blame",
-    "indict"
+    "to blame",
+    "to accuse",
+    "to reproach"
   ],
-  "context": "The word süüdista in Estonian means to accuse or blame someone of something, and it is commonly used in legal contexts to indicate that someone has been formally charged with a crime."
+  "context": "The Estonian word 'süüdista' is a verb that means to blame, accuse, or reproach someone for something. It comes from the noun 'süütus' (blame) and the verb-forming suffix '-ta'. This verb is used when attributing fault or responsibility to someone for an action or omission."
 }

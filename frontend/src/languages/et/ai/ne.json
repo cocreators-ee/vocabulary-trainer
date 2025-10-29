@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ne võin seda teha",
-    "Sa ei ne saa mind aidata",
-    "Ta ne oska sellest midagi öelda"
+    "Tema tuleb homme.",
+    "Meie ei tule homme.",
+    "Kas sa tulebd homme?"
   ],
   "translation": [
-    "not",
-    "does not",
-    "cannot"
+    "he/she/it comes/will come",
+    "we do not come/will not come",
+    "do you come/will you come?"
   ],
-  "context": "The word 'ne' in Estonian is used as a negation, similar to the English word 'not', and is commonly used in sentences to indicate the absence or denial of something."
+  "context": "\"Ne\" is the third person singular form of the verb \"tulema\" (to come) in Estonian. It appears to be a typo or mishearing as it should likely be \"ta\" (he/she/it) followed by \"tuleb\" (comes). The word \"ne\" by itself doesn't make sense in standard Estonian grammar when referring to coming."
 }

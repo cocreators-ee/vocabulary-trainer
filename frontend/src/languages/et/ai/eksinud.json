@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen eksinud metsas.",
-    "Ta eksis ümbruskonnas.",
-    "Lapsed said eksteinud ja ei leidnud teed koju."
+    "Ekson linna kesklinnas.",
+    "Ta oli eksiinud metsa.",
+    "Lapsed on olnud eksis."
   ],
   "translation": [
-    "got lost",
-    "lost"
+    "lost",
+    "stranded",
+    "wandering"
   ],
-  "context": "The word 'eksinud' is a verb in Estonian that means to get lost or lose one's way, and it is commonly used to describe situations where someone has become disoriented or unable to find their direction."
+  "context": "The Estonian word 'eksinud' is the past participle form of the verb 'eksima', meaning to get lost or go astray. It describes someone who has been lost, stranded, or wandering without finding their way. This word can be used in various contexts - for people getting lost in physical locations (forest, city), but also metaphorically for feeling lost or disoriented."
 }

@@ -1,11 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastasin teda"
+    "Mul on palju armastust sinu vastu.",
+    "Ta annab armastust oma perenikele.",
+    "Armastust on vaja kõigil inimestel."
   ],
   "translation": [
-    "love"
+    "love",
+    "affection",
+    "care"
   ],
-  "context": "The word armastust is the genitive form of the Estonian noun armastus which means love"
+  "context": "The word 'armastust' is the partitive singular form of 'armastus', which means love or affection. It indicates an unspecified amount or some love, often used with verbs like 'on' (is) or when referring to having/feeling love for someone/something."
 }

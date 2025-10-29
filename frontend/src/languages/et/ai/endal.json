@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta ei taha endal olla.",
-    "Ma pean endal otsustama.",
-    "Nad said endal hakkama."
+    "Tule endale!",
+    "Kas sa oled endal?",
+    "Endal on hea koht."
   ],
   "translation": [
+    "yourself",
     "oneself",
-    "by oneself",
-    "on one's own"
+    "personally"
   ],
-  "context": "The Estonian word 'endal' is a reflexive pronoun meaning 'oneself' or 'by oneself'. It indicates that the action of the verb reflects back on the subject. It’s commonly used to express doing something independently or for oneself."
+  "context": "\"Endal\" is an Estonian reflexive pronoun used in the adessive case, meaning \"by yourself,\" \"on your own,\" or \"for oneself.\" It indicates that someone is doing something independently or without help. The word belongs to the reflexive pronoun system where different cases are formed from the root \"enda-\" (oneself). In this adessive form, it specifically conveys the idea of being alone or acting on one's own initiative."
 }

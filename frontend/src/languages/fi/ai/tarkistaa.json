@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän tarkistaa kaikki tiedot ennen kuin lähtee.",
-    "Tarkista, onko tämä oikein.",
-    "Tarkistaminen on tärkeää ennen kuin tekee mitään."
+    "Minun täytyy tarkistaa kalenterini.",
+    "Tarkista vielä kerran, että olet tehnyt kaiken tarvittavan.",
+    "Hän tarkisti sähköpostinsa ennen lähtöä."
   ],
   "translation": [
-    "check",
-    "verify",
-    "examine"
+    "to check",
+    "to verify",
+    "to examine"
   ],
-  "context": "The word 'tarkistaa' in Finnish means to check or verify something, and it is commonly used in situations where one needs to ensure the accuracy or correctness of information."
+  "context": "The Finnish word 'tarkistaa' is a verb that means to check, verify, or examine something carefully. It's commonly used when you need to confirm information, ensure accuracy, or look over details. The infinitive form ends in -aa, which is typical for Finnish first-conjugation verbs."
 }

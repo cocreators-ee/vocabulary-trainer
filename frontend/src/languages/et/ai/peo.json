@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen peo läinud.",
-    "Peole minna on tore.",
-    "Ta tantsis peol õhtuni."
+    "Tule meie peole!",
+    "Õhtune peo algab kell seitse.",
+    "Ma olen oma sünnipäeva peol."
   ],
   "translation": [
     "party",
-    "wedding"
+    "celebration",
+    "gathering"
   ],
-  "context": "The word 'peo' generally means a social gathering or celebration in Estonian, often used to describe events like parties or weddings."
+  "context": "The word 'peo' is the genitive singular form of the Estonian noun 'pidu', which means a party, celebration, or social gathering. In this case, it would be translated as 'of the party' or 'belonging to the party'. For example: 'Tule meie peole!' means 'Come to our party!', where 'peole' is the allative case form meaning 'to the party'."
 }

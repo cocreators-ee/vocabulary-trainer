@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma läksin kusagil käima.",
-    "Nad peitsid oma asjad kusagil majas.",
-    "Kas sa oled kunagi olnud kusagil välismaal?"
+    "Kusagil on tore kodu.",
+    "Ma lähen kusagile puhkama.",
+    "Ta elab kusagil Soomes."
   ],
   "translation": [
     "somewhere",
-    "anywhere",
-    "nowhere"
+    "anywhere"
   ],
-  "context": "The word 'kusagil' is an Estonian adverb meaning 'somewhere', 'anywhere', or sometimes even 'nowhere' depending on the context. It indicates a place that is not specific, but rather indefinite. It’s commonly used to express location in a vague manner."
+  "context": "The Estonian word 'kusagil' is an adverb that means 'somewhere' or 'anywhere'. It's the inessive case form of 'kusagi', which indicates location within a place. The '-l' suffix at the end indicates it's in the inessive case, meaning 'in somewhere' or 'at somewhere'. This word is used when referring to an unspecified location."
 }

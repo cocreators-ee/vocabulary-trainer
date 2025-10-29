@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis selle õigeks",
-    "See on tõesti õigeks otsustatud",
-    "Ma usun, et see on õigeks"
+    "Ta tegi õigeks oma viga.",
+    "Meie plaan tehti õigeks ära.",
+    "Kas sa suudad seda õigeks panna?"
   ],
   "translation": [
-    "rightly",
-    "justly",
-    "fairly"
+    "correctly",
+    "properly",
+    "right"
   ],
-  "context": "The word õigeks is an adverb in Estonian that means doing something justly or rightly, it is commonly used to describe a decision or action that is fair and reasonable."
+  "context": "Õigeks\" on elatiivvorm sõnast õige’ (correct/right). In Estonian, the elative case often indicates movement out of or transformation into a state. When used with verbs like \"teha\" (to make) or \"panna\" (to put), it means to make something correct, proper, or right. This form is commonly used when correcting errors or fixing things."
 }

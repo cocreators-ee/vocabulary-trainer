@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin pildi oma telefoniga.",
-    "See on ilus pilti loodusest.",
-    "Pilti näitab hästi tema stiili."
+    "Ma võtsin pilti.",
+    "Ta tegi pildi meiega.",
+    "Meie vaimdavad pilti."
   ],
   "translation": [
-    "picture",
-    "image",
-    "photo"
+    "picture (partitive case)",
+    "photo (partitive case)",
+    "image (partitive case)"
   ],
-  "context": "The word 'pilti' in Estonian refers to a visual representation, such as a photograph or painting. It is commonly used when discussing images or taking pictures."
+  "context": "The word 'pilti' is the partitive form of the Estonian noun 'pilt', which means 'picture', 'photo', or 'image'. In Estonian, the partitive case is used to indicate an incomplete action, object, or state. When someone takes a photo (võtta pilt), they say 'võtan pilti' - taking picture (partitive). The word ends in '-i' which is typical for the partitive singular of Estonian nouns."
 }

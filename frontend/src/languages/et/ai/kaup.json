@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis kaupu ostma.",
-    "Kaup oli väga kallis.",
-    "Kaubad olid laos olemas."
+    "Kaup on laos.",
+    "Võta kaasa oma kaubad.",
+    "Poodis on hea kaup."
   ],
   "translation": [
-    "stuff",
     "goods",
-    "commodities"
+    "merchandise",
+    "ware"
   ],
-  "context": "The word 'kaup' in Estonian generally refers to goods, products, or commodities that are bought or sold, and it is commonly used in the context of shopping or trade."
+  "context": "In Estonian, 'kaup' is a noun that refers to goods, merchandise, or wares. It's commonly used in commercial contexts to refer to products being sold or traded. The word can be used in both singular and plural forms (kaubad), and often appears in phrases related to shopping, stores, and commerce."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta käis koolis iga päev.",
-    "Meie lugu käib järsku edasi.",
-    "Kas sa käid juba suveks rannale?"
+    "Käin koju pärast tööd.",
+    "Mees käib poes igal päeval.",
+    "Tüdrukud käivad koolis hommikuti."
   ],
   "translation": [
     "to go",
     "to walk",
-    "to happen / to proceed"
+    "to visit"
   ],
-  "context": "'käia' is an Estonian verb primarily meaning 'to go'. In different contexts, it can mean 'to walk', or be used figuratively for events proceeding. The example sentences show common usage in daily situations such as going somewhere, the progression of a story, and asking if someone has gone to the seaside."
+  "context": "The Estonian word 'käia' is a versatile verb that means to go, walk, or visit. It's an imperfective verb indicating repeated or ongoing action rather than completed movement. The conjugation changes based on subject and tense - käin (I go/walk), käid (you go/walk), käib (he/she/it goes/walks), etc."
 }

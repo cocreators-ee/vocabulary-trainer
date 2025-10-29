@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Maja oli tugevalt ehitatud.",
-    "Ta on hästi ehitatud kujul.",
-    "Uus linnake ehitatud 20 aastat tagasi."
+    "See hoone on ehitatud aastal 1990.",
+    "Uus kool on juba ehitatud.",
+    "Mööbel oli hästi ehitatud ja pika elueaga."
   ],
   "translation": [
     "built",
-    "well-built",
     "constructed"
   ],
-  "context": "The word 'ehitatud' is the past participle of the verb 'ehitama,' meaning to build. It is commonly used to describe something that has been constructed or built, such as buildings, structures, or even people in terms of their physical build."
+  "context": "The Estonian word 'ehitatud' is the past participle form of the verb 'ehitada', which means 'to build' or 'to construct'. As a past participle, it functions as an adjective to describe something that has been built or constructed. It typically follows the noun it modifies in Estonian syntax."
 }

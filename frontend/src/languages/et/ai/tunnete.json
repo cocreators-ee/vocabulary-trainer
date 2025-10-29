@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olen kindel, et mul on õigus ja oled sa valel teed.",
-    "Nad ütlesid mind pahaks hingeks, kuid ma näha tõde!",
-    "Ma tunnen, et midagi on valesti."
+    "Kuidas tunete praegu?",
+    "Tunete end hästi täna?",
+    "Mida tunete selle kohta?"
   ],
   "translation": [
-    "feelings",
-    "emotions",
-    "sentiments"
+    "you feel",
+    "do you feel",
+    "are feeling"
   ],
-  "context": "Tunnete refers to a plural form of 'tune,' which translates to feelings or emotions in English. It is commonly used when expressing emotional states, reactions, or sentiments towards something."
+  "context": "The word 'tunnete' is the plural second person present form of the verb 'tundma', which means 'to feel'. In Estonian, this form corresponds to English 'you feel' or 'do you feel' when addressing multiple people (or using formal singular). It's commonly used in questions about emotional states, physical sensations, or opinions."
 }

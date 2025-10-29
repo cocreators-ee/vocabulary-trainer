@@ -1,14 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kiväri osui tarkasti maaliin.",
-    "Hänellä on hyvä osumatarkkuus ampumahiiressa.",
-    "Raketti kaatoi useita panssarivaunuja yhdellä osumalla."
+    "Osuma! Peli on osumia.",
+    "Minä osuin maaliin.",
+    "Tämä arvonta oli osuma oikeaan."
   ],
   "translation": [
     "hit",
-    "strike"
+    "success",
+    "to hit",
+    "to succeed",
+    "to reach"
   ],
-  "context": "'osuma' refers to a successful impact or strike, often used in contexts like hitting a target accurately with a weapon or an object. It can also metaphorically mean achieving success after effort."
+  "context": "The Finnish word 'osuma' is a noun that refers to a successful hit, strike, or achievement. It can be used in various contexts such as sports (hitting a target), games (scoring points), or general success in endeavors. The verb form 'osua' means 'to hit' or 'to reach'. As a noun, it often indicates something that has successfully reached its intended target or achieved the desired result."
 }

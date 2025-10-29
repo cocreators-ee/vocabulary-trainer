@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kaavio on tärkeä työkalu insinöörille.",
-    "Hän piirsi kaavion auton moottorista.",
-    "Kaaviosta voidaan nähdä, miten järjestelmä toimii."
+    "Tämä on kaavio talouskasvusta.",
+    "Kaaviot auttavat visualisoimaan dataa.",
+    "Piirrä kaavio prosessista."
   ],
   "translation": [
     "diagram",
     "chart",
-    "scheme"
+    "graph"
   ],
-  "context": "The word kaavio refers to a visual representation of information, such as a diagram or chart, and is commonly used in fields like engineering and design to illustrate complex systems or concepts."
+  "context": "The Finnish word 'kaavio' is a noun that refers to a graphical representation of information, typically used for organizing or displaying data in a structured visual format. It's commonly used in business, education, and technical contexts to show relationships between different elements over time or across categories."
 }

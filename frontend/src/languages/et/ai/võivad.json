@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
     "Nad võivad tulla homme.",
-    "Sa võid seda proovida.",
-    "Me võime kaotada."
+    "Lapsed võivad mängida pärast kooli.",
+    "Meie lapsed võivad minna kontserdile."
   ],
   "translation": [
     "may",
-    "can",
-    "might"
+    "might",
+    "can"
   ],
-  "context": "The word 'võivad' is a form of the Estonian verb 'võima', meaning 'to be able to' or 'to may'. It expresses possibility, permission, or ability. It’s often used similarly to ‘may’ or ‘can’ in English."
+  "context": "The Estonian word 'võivad' is the 3rd person plural present form of the modal verb 'võima', which expresses possibility, permission, or ability. It corresponds to English words like 'may', 'might', or 'can'. In sentences, it typically indicates that something is possible or permitted for a group of people (third person plural)."
 }

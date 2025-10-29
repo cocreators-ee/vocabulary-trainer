@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nemad teevad seda.",
-    "Kõik inimesed teevad vigu.",
-    "Meie teeme kõik, mis suudame."
+    "Tead teevad head tööd.",
+    "Lapsed teevad kodutöid.",
+    "Meie teevad koos jalgrattaga sõitu."
   ],
   "translation": [
     "do",
-    "make"
+    "make",
+    "perform"
   ],
-  "context": "The word 'teevad' is the third person plural form of the verb 'teha', which means to do or make something. It is commonly used in Estonian language to describe actions performed by multiple people or a group."
+  "context": "The Estonian word 'teevad' is the 3rd person plural present tense form of the verb 'tegema', which means 'to do'. It is used when talking about what a group of people or entities are doing in the present moment. This form follows the subject-verb-object structure common in Estonian sentences."
 }

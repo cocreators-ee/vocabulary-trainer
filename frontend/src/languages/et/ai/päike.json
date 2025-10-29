@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Päike tõusis taevasse.",
-    "Päikeseloojanguks said meie kodu külalisteks.",
-    "Päikesevalguses leidis ta teed oma südames."
+    "Päike paistab taevas.",
+    "Meil oli päikeselinnik hommikul.",
+    "Päike läheb varsti loojangusse."
   ],
   "translation": [
-    "sun"
+    "sun",
+    "sunshine"
   ],
-  "context": "Päike refers to the sun in Estonian. It is commonly used in everyday language and can also appear in poetic or metaphorical contexts."
+  "context": "The word 'päike' is Estonian for 'sun'. It's a common noun referring to the star at the center of our solar system. In Estonian, it can be used in various contexts such as describing weather (e.g., 'päike paistab' means 'the sun shines'), time of day (e.g., päikeselõuna means noon/sun high point), or as part of compound words."
 }

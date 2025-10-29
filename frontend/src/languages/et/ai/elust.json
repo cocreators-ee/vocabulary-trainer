@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan elust.",
-    "Elust ei ole võimalik põgeneda.",
-    "Ta räägib elust ja surmast."
+    "Elust on ilusaid hetki.",
+    "Ta rääkis elust oma lapsepõlvest.",
+    "Me vestleme elust ja surmast."
   ],
   "translation": [
-    "from life",
-    "of life"
+    "about life",
+    "of life",
+    "from life"
   ],
-  "context": "The word 'elust' is a prepositional phrase in Estonian meaning 'from life' or 'of life', often used to describe something that is derived from or related to life."
+  "context": "The word 'elust' is the elative case form of the Estonian noun 'elu', which means 'life'. The elative case in Estonian indicates motion away from something or origin from something. So 'elust' specifically means 'about life', 'of life', or 'from life' - indicating that something is coming from life, being discussed in relation to life, or originating from life."
 }

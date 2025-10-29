@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Saadik tuli meile ütlema, et kohtumine on edasi lükatud.",
-    "Ta oli saadik, kes esindas oma riiki rahvusvahelisel konverentsil.",
-    "Saadiku ametiaeg kestis kolm aastat."
+    "Saadik saabus teie juurde.",
+    "Välismaa saadik pidab kõnet.",
+    "Eesti saadik esindas oma riiki rahvusvahelisel konverentsil."
   ],
   "translation": [
     "ambassador",
     "envoy",
-    "delegate"
+    "representative"
   ],
-  "context": "The word 'saadik' refers to an official representative or messenger, typically of a country or organization, and is commonly used in the context of diplomacy or international relations."
+  "context": "The Estonian word 'saadik' means ambassador or envoy. It refers to a diplomatic representative sent by one government to another, typically with the rank of minister. In official contexts, it can also refer to any appointed representative who speaks on behalf of an organization, group, or country."
 }

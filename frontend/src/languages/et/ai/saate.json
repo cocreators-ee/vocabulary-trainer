@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma saate telekat.",
-    "Saate mind ära?",
-    "Tema saate oli väga tore."
+    "Saate tulevikku head!",
+    "Meie saadame teile kingitusi.",
+    "Tema ei saa sellest aru."
   ],
   "translation": [
-    "you get",
-    "get",
-    "batch"
+    "send",
+    "deliver",
+    "give",
+    "can be able to"
   ],
-  "context": "The word 'saate' is the second person plural form of the verb 'saama', which means 'to get' in English. It is commonly used in Estonian to convey the idea of receiving or obtaining something."
+  "context": "The word 'saate' in Estonian can have multiple meanings depending on context. It is the plural form of 'saada' which means 'to send/deliver/give'. It can also be part of modal verb constructions where it indicates ability or possibility, similar to English 'can' or 'may'. The specific meaning depends on whether it's used as a finite verb form or in compound structures. When used in the plural imperative form, it would mean something like 'You all send/deliver/give'."
 }

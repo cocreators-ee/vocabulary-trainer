@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on järjekorras.",
-    "Järjekorra muutmine ei ole lihtne.",
-    "Kõik on järjekorras."
+    "Tule järjekorras palun.",
+    "Meie oleme järjekorras kolmas.",
+    "Pangad on alati täpselt järjekorras."
   ],
   "translation": [
+    "in line",
     "in order",
-    "okay"
+    "in sequence",
+    "in turn"
   ],
-  "context": "The word järjekorras is an Estonian adjective that means something is in order or okay, and it is commonly used to describe a situation where everything is as it should be."
+  "context": "The Estonian word 'järjekorras' is an adverb that means someone or something is in the correct position, following proper order or sequence. It indicates arrangement according to a specific rule or system."
 }

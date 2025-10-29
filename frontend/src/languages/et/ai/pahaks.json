@@ -1,15 +1,14 @@
 {
-  "confidence": 0.75,
   "understood": true,
   "sentences": [
-    "Olen pahaks saanud.",
-    "Määrat pidades teda pahaks silmas",
-    "Ta teeb kõik selleks et pahaks saada."
+    "See tegu teeb mind pahaks.",
+    "Tema sõnad muutsid ta enda pahaks.",
+    "Mul on väga pahaks tema käitumise üle."
   ],
   "translation": [
-    "Angry",
-    "Annoying",
-    "Offended"
+    "angry",
+    "upset",
+    "annoyed"
   ],
-  "context": "The word 'pahaks' is often used to express being angry, annoyed or feeling offended. It can be used in different contexts when someone feels upset about a situation."
+  "context": "The word 'pahaks' is the elative case form of 'paha', which means 'bad'. In Estonian, when something becomes bad or makes one feel bad in an emotional sense, it can be expressed using this case. The elative case often indicates movement out from something, but here it's used to express a state of becoming angry or upset about something. This is similar to English expressions like 'it makes me angry' or 'I get upset about'."
 }

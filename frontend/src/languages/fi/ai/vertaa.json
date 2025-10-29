@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on vertailtava hinnat ennen kuin teken ostoksen.",
-    "Hän vertaa usein autoja toisiinsa.",
-    "Vertaamalla hintoja pystymme säästämään rahaa."
+    "Vertaa tämä tuote toiseen.",
+    "Hän vertaa hintoja ennen ostopäätöstä.",
+    "Miten voit vertata näitä kahden eri mallia?"
   ],
   "translation": [
     "compare",
-    "to compare"
+    "contrast"
   ],
-  "context": "The word 'vertaa' is a verb in Finnish that means to compare something, and it is commonly used when evaluating or analyzing the differences between two or more things."
+  "context": "The Finnish word 'vertaa' is the imperative form of the verb 'vertaista', meaning 'to compare'. It's used when telling someone to make a comparison between two or more things, people, or concepts. In the first sentence, it's used as a command ('Compare this product to another'), in the second as an infinitive after another verb ('He compares prices before making a purchase decision'), and in the third as part of a question asking how one can compare ('How can you compare these two different models?')."
 }

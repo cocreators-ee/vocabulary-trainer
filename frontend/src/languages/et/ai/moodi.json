@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea moodi.",
-    "Moodi on täna väga halb.",
-    "Ma olen viimasel ajal üsna ebastabiilse moodiga."
+    "Tema on praegu moodi.",
+    "See rõivas pole enam moodi.",
+    "Mingil moel ta jõudis siiani."
   ],
   "translation": [
-    "mood",
-    "temper",
-    "humor"
+    "fashionable",
+    "in style",
+    "trendy",
+    "according to fashion"
   ],
-  "context": "The word 'moodi' in Estonian generally refers to a person's emotional state or mood at a particular time, and is commonly used in everyday conversations to describe how someone is feeling."
+  "context": "The Estonian word 'moodi' is an adverb that means 'fashionably' or 'according to fashion'. It indicates something that follows current trends and styles. When used with 'on moodi', it means 'is in fashion' or 'is fashionable'. When used negatively like 'pole moodi', it means 'is not in fashion' or 'out of style'. The word can also be part of expressions meaning 'in some way' or 'to some extent', but this is less common."
 }

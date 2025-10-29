@@ -1,15 +1,14 @@
 {
-  "confidence": 0.65,
   "understood": true,
   "sentences": [
-    "Toimik viiakse kinnispanusse.",
-    "Loomad viiakse mõisa.",
-    "Kiri peab olema kohe saadetud või viidav läbi.",
-    "Märksõnad viiakse automaatselt sisse.",
-    "Varud viiakse kuskahin."
+    "Tema viiakse koju.",
+    "Meie vajalikud asjad viiakse ära.",
+    "Kõik vajalik dokumentatsioon viiakse üle."
   ],
   "translation": [
-    "are brought"
+    "is taken",
+    "are carried",
+    "will be transported"
   ],
-  "context": "The Estonian word 'viiakse' is the third person plural form of the verb 'viia', which means to bring or take. It is commonly used in contexts where multiple people, things, or animals are being brought somewhere by someone else."
+  "context": "The word 'viiakse' is the passive voice form of the Estonian verb 'viia', which means 'to take' or 'to carry'. In this case, it's in the 3rd person singular/plural present/future tense. The '-kse' suffix indicates the passive voice construction in Estonian. It describes an action being done to something or someone without specifying who is performing the action."
 }

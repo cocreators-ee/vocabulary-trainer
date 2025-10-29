@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kena inimene",
-    "Kena ilm teeb mind õnnelikuks",
-    "Ta on väga kena tüdruk"
+    "See on kena ilm.",
+    "Tema oli kena mees.",
+    "Mõeldi midagi kenat."
   ],
   "translation": [
-    "kind",
     "nice",
-    "pleasant"
+    "pleasant",
+    "good",
+    "fine"
   ],
-  "context": "The word 'kena' in Estonian is commonly used to describe someone or something that is kind, nice, or pleasant, and it can be used in various contexts to express a positive attitude or feeling."
+  "context": "The Estonian word 'kena' is an adjective that means nice, pleasant, good or fine. It's commonly used to describe something as being agreeable, pleasing, or of acceptable quality. The word can be used for describing weather, people, objects, or situations."
 }

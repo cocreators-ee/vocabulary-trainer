@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Vestlus toimus eesti keeles.",
-    "Ta oskab vestelda mitme keele.",
-    "Meil oli pikk ja sisukas vestlus."
+    "Meil oli pikk vestlus töökohtadest.",
+    "Tegime head vestluse sellest projektist.",
+    "Vestlus kestis mitu tundi."
   ],
   "translation": [
     "conversation",
-    "dialogue",
+    "talk",
     "discussion"
   ],
-  "context": "The word 'vestlus' in Estonian refers to a conversation or dialogue between two or more people, and it is commonly used in everyday language to describe discussions or talks on various topics."
+  "context": "The word 'vestlus' is a feminine noun in Estonian that refers to a conversation or discussion between people. It's derived from the verb 'vestlema' (to talk/discuss). The word can be used for both casual conversations and more serious discussions, similar to how English uses 'conversation'. In Estonian grammar, it would typically be declined with -s in the genitive case when indicating possession or relation."
 }

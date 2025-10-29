@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Proovige seda kohe",
-    "Ma olen proovinud teda mitmel korral",
-    "Kas te proovite seda?"
+    "Proovige seda retsepti!",
+    "Kas te proovite mind kuulda?",
+    "Proovime uut restorani homme."
   ],
   "translation": [
-    "try it",
-    "give it a shot",
-    "test this out"
+    "try",
+    "attempt",
+    "test"
   ],
-  "context": "The word proovige is the plural form of an imperative verb in Estonian, which translates to try or test something in English. It is commonly used when encouraging someone to attempt something new."
+  "context": "The word 'proovige' is the formal/plural form of the Estonian verb 'proovima', which means 'to try'. It's used when addressing multiple people or showing respect to one person. The verb indicates attempting something, testing it out, or giving something a try."
 }

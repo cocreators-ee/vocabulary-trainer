@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma usun, et õigus on alati õige.",
-    "Õigusemõistmine on oluline igaühe jaoks.",
-    "Tema õigused olid piiratud seadusega."
+    "Õigused on kodanike põhilised vabadused.",
+    "Tal on õigus sellele territooriumile.",
+    "Õiguste kaitse on oluline demokraatlikes ühiskondades."
   ],
   "translation": [
     "right",
-    "law"
+    "law",
+    "entitlement"
   ],
-  "context": "The word õigus generally refers to the concept of law or right in Estonian, often used in contexts related to legal rights, justice, or moral entitlement."
+  "context": "The Estonian word 'õigus' is a versatile noun that can mean 'right', 'law', or 'entitlement'. It's used in various contexts such as human rights ('inimõigused'), property rights ('omandiõigus'), and legal systems. The word can refer to both abstract principles of justice and concrete legal entitlements that individuals possess."
 }

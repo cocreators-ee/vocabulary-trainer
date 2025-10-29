@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma oskan seda teha",
-    "Ta oskab hästi eesti keelt",
-    "Nad oskavad muusikat mängida"
+    "Oska sa eesti keelt?",
+    "Ta osab hästi matemaatikat.",
+    "Meie klassis paljud õpilased oskavad mitmeid keeli."
   ],
   "translation": [
-    "know",
+    "to know how to",
     "can",
     "be able to"
   ],
-  "context": "The word 'oska' in Estonian means 'to know' or 'to be able to do something', and it is commonly used to express ability or skill in a particular area."
+  "context": "The Estonian word 'oska' is the first person singular form of the verb 'osama', which means 'to know how to do something' or 'to be able to do something'. It indicates possession of a skill or ability. The word is commonly used when asking about someone's abilities or stating what skills they have."
 }

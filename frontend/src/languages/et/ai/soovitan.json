@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma soovitan seda restorani.",
-    "Ta soovitas mind aidata.",
-    "Nende soovitused olid väga kasulikud."
+    "Soovasin sulle head ööd.",
+    "Ma ei soovi täna minna kinno.",
+    "Ta soovib alati parimat. I need the word to appear in the sentences as given."
   ],
   "translation": [
+    "advise",
     "recommend",
-    "suggest"
+    "wish"
   ],
-  "context": "The word 'soovitan' is a verb that means to recommend or suggest something, and it is commonly used in Estonian language to give advice or propose an idea."
+  "context": "The Estonian word 'soovitan' is the first person singular present tense form of the verb 'soovita', which means to advise, recommend or wish. It expresses what someone currently recommends or advises."
 }

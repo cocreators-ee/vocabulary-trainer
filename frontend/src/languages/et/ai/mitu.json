@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mitu raamatut sa ostad?",
-    "Ta on mitu korda Eestis käinud.",
-    "Mul on mitu sõber."
+    "Mitu inimest on kohal?",
+    "Ma olen mitu aastat Eestis elanud.",
+    "Selles toas on mitu akent."
   ],
   "translation": [
-    "how many",
-    "several"
+    "several",
+    "a few",
+    "multiple"
   ],
-  "context": "The word 'mitu' is commonly used in Estonian to ask for or express the quantity of something, similar to 'how many' in English. It can also be used to indicate an unspecified number of things, like 'several'."
+  "context": "The word 'mitu' is an Estonian interrogative pronoun that means 'how many?' or 'several'. It's used in questions asking about quantity when the expected answer is more than one but not a specific large number. For example, 'Mitu inimest on kohal?' means 'How many people are present?'. The word can also be used declaratively to indicate an indefinite quantity of several items."
 }

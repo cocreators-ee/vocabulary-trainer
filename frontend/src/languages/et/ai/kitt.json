@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu kass on väga armas.",
-    "Kass magas päikese käes.",
-    "Nad said uue kassi."
+    "Kas sa oled meie uue kassi?",
+    "Tere tulemast meie pere juurde!",
+    "Lemmikloomade hoolitsemine on tähtis."
   ],
   "translation": [
     "cat",
-    "feline"
+    "kitty",
+    "pet"
   ],
-  "context": "The word 'kitt' in Estonian directly translates to 'cat' in English. It is a common domestic animal and the term is used in everyday conversation."
+  "context": "The word 'kass' is the Estonian word for a domestic cat, which is a common household pet. It can be used in singular form to refer to one cat, and there are variations like 'kassi' (possessive case - of/to/from a cat) and 'kasse' (plural form). The word is commonly used when talking about pets, animal care, or referring to cats in general."
 }

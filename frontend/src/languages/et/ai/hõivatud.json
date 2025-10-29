@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hõivatud tööga.",
-    "See koht on juba hõivatud.",
-    "Hõivatud inimene ei saa enam midagi teha."
+    "Hõivatud tööga",
+    "Ta on hõivatud õpetajana",
+    "Hõivatud ajaga"
   ],
   "translation": [
     "occupied",
     "engaged",
-    "busy"
+    "busy",
+    "taken up"
   ],
-  "context": "The word hõivatud is commonly used to describe a state of being busy or engaged with something, often implying that one's attention or time is fully taken up by an activity or task."
+  "context": "The word 'hõivatud' is an Estonian adjective that describes someone or something as being occupied, engaged, busy, or having their attention/time taken up. It is the past participle form of the verb 'hõivama', meaning to occupy or take up (time/attention). The word can be used in various contexts such as describing someone's work engagement, time commitments, or when something occupies one's focus."
 }

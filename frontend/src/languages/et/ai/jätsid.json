@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Oled sa juba kõik oma asjad jätnud?",
-    "Kas soovid mind endale jäada või oled juba keegagi seotud?",
-    "Ära jätka seda rohkem!"
+    "Jätsin oma taskusse.",
+    "Jätsid sa oma võtmed? Jah, ma jätan alati oma võtmega.",
+    "Kuidas te jätsite mind ilma hoiatamata?"
   ],
   "translation": [
-    "left",
-    "stay with",
-    "continue doing"
+    "left behind",
+    "forgot",
+    "abandoned"
   ],
-  "context": "The word 'jätsid' is the second person past tense form of the Estonian verb 'jätta', meaning to leave, abandon or stop. It is used when someone has left something behind, stopped an action, or let go in different contexts."
+  "context": "The word 'jätsid' is the past tense plural form of the Estonian verb 'jätta', which means to leave something behind, forget, or abandon. It's used when talking about multiple people who performed this action in the past."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lõpusele jäänud.",
-    "Ta on lõpus ikka õigus.",
-    "Lõpus on kõige tähtsam see, mis on oluline."
+    "Töö lõpus tuli ta kodusse tööd tegema.",
+    "Lõpus sai ta viimaseks järele jäänud inimeseks selles piirkonnas.",
+    "Päeva lõpus oli ta väga väsinud."
   ],
   "translation": [
     "in the end",
+    "at the end",
     "finally"
   ],
-  "context": "The word 'lõpus' in Estonian is used to indicate something that happens at the end of a process or a period of time, similar to the English phrase 'in the end' or 'finally'."
+  "context": "The Estonian word 'lõpus' is an adverb that means 'in the end', 'at the end', or 'finally'. It typically indicates the conclusion of something, whether it's time periods (end of a day/work), processes, or sequences of events. The word appears to be in the adessive case form, which commonly expresses location or temporal relationships in Estonian."
 }

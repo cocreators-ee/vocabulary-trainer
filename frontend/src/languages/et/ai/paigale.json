@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli paigale.",
-    "Paigale jõudnud mees näitas mulle kaarti.",
-    "Külastajad tulid paigale ja istusid laua taha."
+    "Ta jääks paigale.",
+    "Auto peatub paigale.",
+    "Laps seisab paigale."
   ],
   "translation": [
-    "to the place",
-    "on the spot"
+    "stays in place",
+    "stops moving",
+    "stands still"
   ],
-  "context": "The word 'paigale' in Estonian generally means to or at a place, often used to indicate someone's arrival at a location."
+  "context": "The Estonian word 'paigale' is an adverb that means staying in one place or remaining stationary. It's formed from the root word 'paik' (place) with the '-le' ending indicating location. This word is commonly used to describe something that stops moving or remains fixed in position."
 }

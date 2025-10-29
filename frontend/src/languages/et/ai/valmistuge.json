@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Valmistuge kohtumiseks!",
-    "Me valmistume selleks, et minna teatrisse.",
-    "Ta ütles, et nemad valmistuvad sündmuseks."
+    "Valmistuge eksamiks.",
+    "Palun valmistuge järgmiseks ülesandeks.",
+    "Me peame valmistuma talveks."
   ],
   "translation": [
-    "get ready",
-    "prepare"
+    "prepare for",
+    "get ready for",
+    "be prepared for"
   ],
-  "context": "The word 'valmistuge' is an imperative form of the verb 'valmistuma', which means to get ready or prepare for something. It is commonly used in Estonian to urge someone to prepare themselves for an event or activity."
+  "context": "The word 'valmistuge' is the imperative/plural form of the verb 'valmistuda', which means to prepare or get ready. It is used when addressing multiple people and telling them to prepare for something specific."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta läheneb mind.",
-    "Läheneb aeg, mil ma pean minema.",
-    "Kui tema läheneb, siis ma lähen ära."
+    "Läheneb aeg, mil sa oled vaba.",
+    "Me läheme linna lähemale.",
+    "Tema läheneb lõppu oma tööle."
   ],
   "translation": [
     "approaches",
-    "comes near"
+    "comes closer",
+    "draws near"
   ],
-  "context": "The word 'läheneb' is commonly used in Estonian to describe something or someone getting closer to the speaker or a location."
+  "context": "The word 'läheneb' is the 3rd person singular present form of the Estonian verb 'läheneda', which means 'to approach' or 'to come closer'. It describes something that is getting nearer in distance, time, or progress. The root word 'lähi-' relates to closeness or proximity, and '-neb' indicates the 3rd person singular present tense ending."
 }

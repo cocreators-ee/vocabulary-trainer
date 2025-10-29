@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuleb värkides koju",
-    "Värki on raske taluda",
-    "Väike värki ei olegi nii hull"
+    "Värvime laua värki.",
+    "Kas sa näed värki?",
+    "Meie lapsed värkivad väga rõõmsalt."
   ],
   "translation": [
-    "pain",
-    "ache"
+    "painting",
+    "artwork",
+    "coloring",
+    "drawing"
   ],
-  "context": "The word värki in Estonian refers to a physical discomfort or pain, and is commonly used to describe a sore or ache in the body."
+  "context": "The word 'värki' is a noun in Estonian that refers to an artwork, painting or drawing. It can be used to describe any visual creation made with colors. The root word comes from 'värv' meaning color, and '-ki' appears to be a suffix related to the object being created (though this may be part of a larger compound). In different contexts it could refer to a specific painting, artwork in general, or even the act of coloring depending on context."
 }

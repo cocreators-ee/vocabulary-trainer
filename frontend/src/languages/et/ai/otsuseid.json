@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsustasin minna kinno.",
-    "Ta tegi otsuseid kiiresti.",
-    "Nende otsused olid õiged."
+    "Võtsime mitu otsust.",
+    "Meie otsused olid õiged.",
+    "Kes tegi need otsused?"
   ],
   "translation": [
-    "decisions",
-    "resolutions"
+    "decisions"
   ],
-  "context": "The word 'otsuseid' is the plural form of the Estonian word 'otsus', which means decision or resolution, and it refers to the act of making a choice or coming to a conclusion about something."
+  "context": "The word 'otsuseid' is the partitive plural form of the Estonian noun 'otsus', which means 'decision'. The suffix '-d' indicates it's in plural, and the ending '-id' shows it's in the partitive case. This form is typically used when referring to decisions as objects or when discussing multiple decisions without specifying the exact number."
 }

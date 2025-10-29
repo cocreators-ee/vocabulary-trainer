@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tänan sind päeva hea ilmaga.",
-    "Päeva jooksul oli meil palju tööd.",
-    "Ta läks välja päeva valguse saatel."
+    "Tänane päeva on ilus.",
+    "Meil on hea päeva tööl.",
+    "Päeva algas kella üheksa."
   ],
   "translation": [
-    "day",
+    "day (partitive form)",
     "of the day"
   ],
-  "context": "The word 'päeva' is a genitive form of the Estonian word 'päev', which means 'day'. It is commonly used to indicate something that happens during the day or is related to the day."
+  "context": "The word 'päeva' is the partitive case form of the Estonian noun 'päev', which means 'day'. In Estonian, the partitive case is used to indicate an incomplete action, a partial object, or when referring to something in general. Here it can mean 'a day' (incomplete sense) or 'of the day' as possession or relationship."
 }

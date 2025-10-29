@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on oluline tegur selle otsuse langetamisel.",
-    "Oluline roll selles protsessis oli meie meeskonnal.",
-    "Ta leidis, et see on oluline asi, mida tuleb arvestada."
+    "See on oluline teade kõigile töötajatele.",
+    "Kas see on sinule oluline?",
+    "Olulised faktid tuleb meelde jätta."
   ],
   "translation": [
     "important",
     "significant",
-    "crucial"
+    "essential"
   ],
-  "context": "The word 'oluline' in Estonian means something that has a significant or crucial impact, and is commonly used to describe a factor or aspect that plays a key role in a decision or process."
+  "context": "The word 'oluline' is an adjective in Estonian that means important or significant. It's used to describe something that has value, meaning, or requires attention. The word can be declined in different cases and forms: oluline (nominative singular), olulisest (elative singular), olulist (partitive singular), olulised (nominative plural), etc."
 }

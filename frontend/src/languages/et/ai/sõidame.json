@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me sõidame autos",
-    "Nad sõidavad jalgrattaga",
-    "Ta sõidab bussiga"
+    "Sõidame Tallinna",
+    "Me sõidame koos",
+    "Kus me sõidame?"
   ],
   "translation": [
-    "we drive",
-    "they are driving",
-    "he drives"
+    "we travel",
+    "we go",
+    "we ride"
   ],
-  "context": "The word sõidame is a verb in Estonian that means to drive, and it is commonly used in sentences to describe the act of operating a vehicle."
+  "context": "The word 'sõidame' is the 1st person plural present indicative form of the Estonian verb 'sõitma', which means 'to travel', 'to go by vehicle', or 'to ride'. It specifically refers to movement using some form of transportation, like a car, bus, train, etc. The '-me' ending indicates it is used for 'we' (the speaker and others)."
 }

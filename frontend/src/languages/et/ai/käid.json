@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma käisin poes.",
-    "Ta käib tööl igapäev.",
-    "Kas sa oled juba kinos käinud?"
+    "Käid kohe poodi.",
+    "Me käime homse päeval koolis.",
+    "Tema ei käigu tihti linna."
   ],
   "translation": [
-    "to go",
-    "to visit",
-    "to attend"
+    "go",
+    "walk",
+    "visit"
   ],
-  "context": "The verb 'käid' in Estonian generally means 'to go', 'to walk', or 'to visit'. It can also imply regular attendance, like going to work or school. The form of the verb changes depending on the tense and person."
+  "context": "The word 'käid' is the formal/plural form of the Estonian verb 'käima' which means to go, walk, or visit. It's used when speaking formally or when referring to multiple people going somewhere. The first-person singular form would be 'käin', while this form indicates either a formal address or plural subject."
 }

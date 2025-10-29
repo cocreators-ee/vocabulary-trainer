@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "See on algus uuele elule.",
-    "Ta otsis võimalust algusest alustada.",
-    "Alguses oli see väga raske."
+    "Alguses oli sõna.",
+    "Töö algus kell 9 hommikul.",
+    "See on hea algus uue projektile."
   ],
   "translation": [
     "beginning",
-    "start"
+    "start",
+    "commencement"
   ],
-  "context": "The word 'algus' refers to the starting point or initial stage of something, and is commonly used in Estonian to describe the commencement of an event, process, or activity."
+  "context": "The word 'algus' is an Estonian noun that means 'beginning', 'start', or 'commencement'. It's the nominative singular form of the word. In Estonian grammar, this would be the basic form used to indicate the start of something, such as the beginning of a story, day, project, etc."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin millegi abielu.",
-    "Ta on millegi sarnane.",
-    "Millegi poole liigub kogu maailm."
+    "Mul on millegi häda.",
+    "Ta otsib millegi juurde.",
+    "Meil on millegi vaja."
   ],
   "translation": [
-    "something",
-    "anything"
+    "something's",
+    "someone's",
+    "of something/someone"
   ],
-  "context": "The word millegi is used in Estonian to refer to an unspecified or unknown thing, similar to the English words something or anything."
+  "context": "The Estonian word 'millegi' is the elative case form of 'midagi' (something) or 'kellegi' (someone). It indicates movement away from something or someone, or possession/association with something. In English translations, it often corresponds to possessive forms like \"someone's\" or \"something's\", or prepositional phrases indicating source or origin."
 }

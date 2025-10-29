@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on neljä kirjaa.",
-    "Hänellä on neljä autoa.",
-    "Heillä on neljä lasta."
+    "Minulla on neljä kissaa.",
+    "Neljä on parillinen luku.",
+    "Hän saapui neljän jälkeen."
   ],
   "translation": [
-    "four"
+    "four",
+    "4"
   ],
-  "context": "The word 'neljä' is a Finnish numeral that means the number four in English, and it is commonly used to count objects or people."
+  "context": "\"Neljä\" is the Finnish word for the number four. It's a cardinal number used to indicate quantity or count of items. In Finnish, numbers have different forms depending on case and context, but \"neljä\" represents the base form for the number four."
 }

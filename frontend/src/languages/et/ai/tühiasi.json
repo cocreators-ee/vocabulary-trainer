@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta räägib tühiasju.",
-    "See on tühiasi, mida sa ei pea võtma ernestina.",
-    "Ma ei tahaks kuulata selliseid tühisasi."
+    "Tühiasjad ei huvita mind.",
+    "Me tegime tühiasju kogu päeva.",
+    "Ta on meister tühiasjade tegemises."
   ],
   "translation": [
     "nonsense",
-    "rubbish"
+    "rubbish",
+    "foolishness",
+    "trivial matters"
   ],
-  "context": "The word 'tühiasi' is used in Estonian to refer to something that is considered meaningless or worthless, often used to express disdain or dismissal."
+  "context": "The word 'tühiasi' is the plural partitive form of 'tühiasja', which means nonsense, foolishness, or trivial matters. In Estonian, '-i-' can be a connecting vowel in partitive forms, and '-d' indicates plural. This construction typically refers to activities, actions, or things that are considered pointless, meaningless, or not worth doing."
 }

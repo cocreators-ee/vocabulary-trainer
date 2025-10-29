@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta rääkis erinevat keelt",
-    "Erinevad inimesed elavad erinevatel maadel",
-    "Need kaksikud on erinevat tüüpi"
+    "Ma olen näinud erinevaid linnu.",
+    "See on üks erinevatest võimalustest.",
+    "Mõlemad sündmused olid väga erinevat."
   ],
   "translation": [
     "different",
     "various",
     "diverse"
   ],
-  "context": "The word 'erinevat' is an adjective in Estonian that means different or various, and it is commonly used to describe things that are not the same."
+  "context": "The word 'erinevat' is the partitive plural form of the Estonian adjective 'erinev', meaning 'different'. In this case, it's in the partitive case (ending -t) indicating that something consists of or includes different elements. It can be translated as 'different ones', 'various things', or 'diverse items' depending on context."
 }

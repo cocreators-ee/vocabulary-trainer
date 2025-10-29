@@ -1,15 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Nämä ovat hyviä esimerkkejä.",
-    "Minä näen nämä asiat joka päivä.",
-    "Hän puhuu näistä asioista usein."
+    "Nämä ovat kirjoja.",
+    "Nämä pojat ovat koulussa.",
+    "Nämä kukat ovat kauniita."
   ],
   "translation": [
     "these",
-    "those",
-    "these things"
+    "this"
   ],
-  "context": "The word 'nämä' is a demonstrative pronoun in Finnish, used to point out specific things or people, similar to the English words 'these' or 'those', and is commonly used in sentences to identify or describe something."
+  "context": "The Finnish word 'nämä' is a demonstrative pronoun that means 'these'. It's used to point out specific items or people near the speaker. Like other Finnish words, it changes form based on context - for example, 'tämä' means singular 'this', while 'nämä' indicates plural 'these'. The word follows the vowel harmony rules of Finnish and is commonly used in everyday speech when referring to multiple objects that are close to the speaker."
 }

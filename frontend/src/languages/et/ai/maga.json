@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma magan võin",
-    "Sa magad liiga palju",
-    "Ta on magas juba tunde"
+    "Maga hästi öösel.",
+    "Ta magab veel.",
+    "Lapsed on hea magajad."
   ],
   "translation": [
     "sleep",
-    "to sleep"
+    "be asleep"
   ],
-  "context": "The word 'maga' in Estonian means to sleep or be asleep, and it is commonly used in everyday conversations to talk about resting or sleeping."
+  "context": "The word 'maga' is the basic form of the verb meaning 'to sleep' in Estonian. It's used to describe the action of sleeping or being in a state of sleep. In different conjugations, it can appear as 'magab' (he/she/it sleeps), 'magame' (we sleep), 'maga' (imperative: sleep!), etc."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Dokument saadetakse allkirjastamiseks.",
-    "Ta saadetakse tagasi koju.",
-    "Kiri saadetakse postiga."
+    "Saadetakse kirja homme.",
+    "Tegemist saadetakse homseks.",
+    "See dokument saadetakse kohe."
   ],
   "translation": [
     "is sent",
-    "will be sent"
+    "will be sent",
+    "gets sent"
   ],
-  "context": "The word 'saadetakse' is the third person singular form of the verb 'saata', which means 'to send'. It is commonly used in Estonian to indicate that something is being sent or will be sent to someone or somewhere."
+  "context": "The word 'saadetakse' is the 3rd person singular present tense passive form of the Estonian verb 'saada' (to send). It indicates that something is being sent or will be sent, with no specific agent performing the action. This is a common construction in Estonian for describing actions where the doer is unknown, unimportant, or not specified."
 }

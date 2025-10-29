@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mul on kaheksa õde.",
-    "Kaheksa inimest võitis auhinna.",
-    "Ta on kaheksa aastat vana."
+    "Ma olen kaheksa aastat vana.",
+    "Tema on kaheksa aastat vana.",
+    "Lapsed on kümme ja kaheksa aastat vana."
   ],
   "translation": [
-    "eight"
+    "eight",
+    "the number eight"
   ],
-  "context": "The word kaheksa is an Estonian numeral that means eight, and it can be used in various contexts to indicate the quantity of something."
+  "context": "The word 'kaheksa' is the Estonian word for the number 8. It's used to indicate quantity or age when referring to eight items, years, or units of measurement. In Estonian, numbers like kaheksa follow similar grammatical patterns as other numerals but may have specific declension forms depending on case and context."
 }

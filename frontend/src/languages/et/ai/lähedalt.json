@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta vaatas mind lähedalt.",
-    "Lähedalt võib näha, et see on vanalinn.",
-    "Ma ei saa lähedaltki seda objektiga ühendust."
+    "Ta tuleb lähedalt.",
+    "Kõrval asuvad linnad on lähedal teineteisest.",
+    "Pole midagi lähedal."
   ],
   "translation": [
-    "closely",
-    "nearby"
+    "nearby",
+    "close by",
+    "from close up"
   ],
-  "context": "The word 'lähedalt' is an adverb in Estonian that means to be close by or near something, often used to describe physical proximity or paying attention to details."
+  "context": "The word 'lähedalt' is the adverbial form of 'lähedal', meaning 'nearby' or 'close by'. It indicates that something is done from a short distance or in proximity. In Estonian, '-lt' is a common ending for adverbs indicating location or direction derived from the corresponding adjective (in this case, lähedal)."
 }

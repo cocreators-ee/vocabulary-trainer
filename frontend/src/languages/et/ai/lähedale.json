@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen lähedale.",
-    "Lähedale on väga ilus.",
-    "Ta ei lähe lähedale."
+    "Tule lähedale!",
+    "Pöördu lähemale.",
+    "Lähedale ei saa."
   ],
   "translation": [
-    "nearby",
-    "close by"
+    "near",
+    "close by",
+    "approach"
   ],
-  "context": "The word 'lähedale' in Estonian means a location that is near or close to something else, often used to describe physical proximity."
+  "context": "The Estonian word 'lähedale' is an adverb that means 'near', 'close by', or 'to approach'. It's often used in commands to tell someone to come closer, as in the first example sentence. In its basic form, it indicates proximity or movement toward something nearby."
 }

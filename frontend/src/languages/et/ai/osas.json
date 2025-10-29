@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen osas sellest teatrist",
-    "Ta oskas seda osa hästi",
-    "See on ainult osa minu elust"
+    "Tema osas on kõik hästi.",
+    "Meie linnas on palju huvitavaid kohti. Osad neist on avalikud teistele külalistele.",
+    "Kes võiks iseenda osa ette võtta?"
   ],
   "translation": [
     "part",
+    "share",
     "portion",
-    "share"
+    "role"
   ],
-  "context": "The word 'osas' in Estonian generally means a part or portion of something, and it is commonly used to describe a component or fraction of a whole."
+  "context": "The word 'osas' is the partitive case of 'osa', which means 'part' or 'share'. In Estonian, it's used when talking about an indefinite or unspecified quantity of something. It can refer to a physical portion (like a piece of cake) but also more abstract concepts like someone's role or share in something."
 }

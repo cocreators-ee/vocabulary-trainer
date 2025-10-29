@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta oli piinlikult üllatunud",
-    "See oli väga piinlik olukord",
-    "Piinlikkus oli selgelt näha"
+    "Mul on piinlik tunne.",
+    "Ta oli väga piinlik.",
+    "Piinlikkus on ebamugav tunne."
   ],
   "translation": [
-    "embarrassing",
-    "awkward"
+    "embarrassed",
+    "ashamed",
+    "uncomfortable"
   ],
-  "context": "The word piinlik is used to describe a situation or feeling that is embarrassing or awkward, often causing discomfort or self-consciousness."
+  "context": "The Estonian word 'piinlik' is an adjective that describes the feeling of embarrassment, shame, or discomfort in social situations. It's commonly used to express feelings of awkwardness or self-consciousness when one feels they've done something inappropriate or are in an uncomfortable situation."
 }

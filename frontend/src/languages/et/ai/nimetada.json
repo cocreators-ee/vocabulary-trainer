@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma nimetan ta ametikohale.",
-    "Ta on juba varem nimetatud.",
-    "Nimetamine toimub homme."
+    "Ma nimetasin oma koera Mustaks.",
+    "Tema nimetati presidendiks.",
+    "Kuidas sa seda nimetada võiksid?"
   ],
   "translation": [
-    "to appoint",
-    "to nominate"
+    "to name",
+    "to call",
+    "to designate",
+    "to appoint"
   ],
-  "context": "The word 'nimetada' in Estonian means to appoint or nominate someone to a position or role, and it is commonly used in formal or official contexts."
+  "context": "The Estonian word 'nimetada' is a verb that means to give someone or something a name, or to formally assign a title or position. It can be used in various contexts such as naming pets, people being appointed to positions, or giving titles to things."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga minnes inimene.",
-    "Nad said minnes tuju peale.",
-    "Minnes päev oli täis rõõmu."
+    "Minnes kooli, nägin sõpra.",
+    "Tüdruk jooksis minnes poodi.",
+    "Pärast lõuna käisime minnes linna."
   ],
   "translation": [
-    "gone",
-    "lost",
-    "past"
+    "while going",
+    "when going",
+    "as we go"
   ],
-  "context": "The word 'minnes' in Estonian generally refers to something that is gone, lost, or past. It can describe a state of being, like someone who is no longer with us, or a feeling of loss related to time passing."
+  "context": "\"Minnes\" is the Estonian elative case form of \"mine\" (to go). It functions as an adverbial participle meaning \"while going\", \"when going\", or \"as one goes\". The elative case indicates movement from within a place, and in this construction, it creates temporal clauses showing simultaneous actions - something happens while the subject is in the process of going somewhere."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Temperatuur on soe.",
-    "Soe ilm on talvel haruldane.",
-    "Soega vanni on hea jalgu pesemiseks."
+    "Täna on soe ilm.",
+    "Soe toit on meeldiv.",
+    "Kas soe tee on valmis?"
   ],
   "translation": [
     "warm",
-    "hot"
+    "hot",
+    "heated"
   ],
-  "context": "The word 'soe' in Estonian means warm or hot, and it is commonly used to describe the temperature or weather."
+  "context": "The Estonian word 'soe' means warm or hot in English. It is typically used to describe temperature, whether referring to weather, food, drinks, or other objects that are at a comfortable high temperature but not scalding. In the given examples: 'Täna on soe ilm' means 'Today it is warm weather'; 'Soe toit on meeldiv' means 'Warm/hot food is nice'; 'Kas soe tee on valmis?' means 'Is the hot/warm tea ready?'. The word can be used for both pleasant warmth (like a warm day) and for heated items like food or beverages."
 }

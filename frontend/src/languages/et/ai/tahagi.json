@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tahan sind näha.",
-    "Nad tahavad reisida.",
-    "Kas sa tahad teed?"
+    "Tahaksin midagi juua.",
+    "Me tahame homme minna linna.",
+    "Ta tahab õppida eesti keelt."
   ],
   "translation": [
-    "want",
-    "desire",
-    "wish"
+    "want to",
+    "would like to",
+    "wish for"
   ],
-  "context": "The word 'tahagi' in Estonian is a verb meaning 'to want'. It expresses a desire for something or to do something. It’s a very common and versatile verb used in everyday conversation."
+  "context": "In Estonian, 'tahagi' is a conjugated form of the verb 'tahtma' (to want/wish). It appears to be in the 3rd person singular present tense form 'tahtub' or possibly part of another construction. The word expresses desire or wishing for something. In the example sentences provided, we see different forms of the root concept: 'tahaksin' (I would like), 'tahame' (we want), and 'tahab' (he/she wants)."
 }

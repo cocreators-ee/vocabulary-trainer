@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tema vaim aitas tal sidu.",
-    "Neid sidus tugev sõprus.",
-    "See meel on liiga sidav."
+    "Olen sidunud need kaks eset kokku.",
+    "Tema sidus kingad üles.",
+    "Meie on sõprused juba pikka aega."
   ],
   "translation": [
-    "bond",
     "tie",
-    "bind"
+    "bind",
+    "connect"
   ],
-  "context": "'Sid' is commonly used to refer to something that physically or metaphorically connects two things together, such as a bond between friends or a legal binding contract."
+  "context": "In Estonian, 'sid' is the 3rd person singular present form of the verb 'siduda' which means to tie, bind, or connect. It's used when someone performs an action of tying or binding something or someone."
 }

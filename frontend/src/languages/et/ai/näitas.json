@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta näitas mulle oma uut auto.",
-    "Näitas keegi sulle, kuidas seda teha?",
-    "Ma olen näidanud talle kõik pildid."
+    "Ta näitas mulle pilti.",
+    "Naised ei näidanud huvi.",
+    "Mis sa talle näitasid?"
   ],
   "translation": [
     "showed",
-    "demonstrated",
-    "displayed"
+    "displayed",
+    "indicated"
   ],
-  "context": "The word näitas is the third person singular form of the verb näitama, which means to show or demonstrate something, and it is commonly used in Estonian language to describe the act of presenting or exhibiting something to someone."
+  "context": "The word 'näitas' is the past tense third person singular form of the Estonian verb 'näidata', which means 'to show' or 'to display'. It indicates that someone showed something to someone else in the past. The root 'näit-' relates to showing or presenting information, and '-as' is the typical ending for past tense third person singular verbs in Estonian."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahan seda kohe teha",
-    "Ta on alati tahab õppida",
-    "Tal on hea taha"
+    "Ma tahan sõita Tallinna.",
+    "Tahad sa minuga koos käia?",
+    "Me tahame päevitada rannas."
   ],
   "translation": [
-    "to want",
-    "wish",
-    "desire"
+    "want",
+    "desire",
+    "wish"
   ],
-  "context": "The word 'taha' in Estonian means to want or wish for something, and it is commonly used in everyday conversations to express one's desires or intentions."
+  "context": "The Estonian word 'taha' is the 1st person singular form of the verb 'tahta', which means to want, desire, or wish. It's commonly used in everyday speech to express personal desires or preferences. In present tense: ma tahan (I want), sa tahad (you want), ta tahab (he/she wants), me tahame (we want), te tahate (you all want), nad tahavad (they want)."
 }

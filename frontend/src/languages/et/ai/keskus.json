@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on kooli keskus.",
-    "Keskväljak on linna keskus.",
-    "Tallinna keskus on väga ilus."
+    "Keskus on tähtis osa linna.",
+    "Me läheme keskuse poole.",
+    "Tule keskusesse kohtuma."
   ],
   "translation": [
     "center",
-    "middle"
+    "hub"
   ],
-  "context": "The word 'keskus' refers to the central or middle part of something, such as a city or a building."
+  "context": "\"Keskus\" is an Estonian noun meaning \"center\" or \"hub\". It refers to a central point, place, or area that serves as the main location for activities, services, or functions. In Estonian grammar, it's in the nominative singular form here and would change forms like \"keskuse\" (genitive), \"keskusesse\" (illative), etc., depending on its grammatical role in a sentence."
 }

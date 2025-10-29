@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Pidi jääma siia naiseks.",
-    "Mina ei tahtnud tulla naiseks ja pöörata oma elu ümber.",
-    "Võtsin maha kaitsest naiseks."
+    "Tema sai naisteks.",
+    "Ta on hea naiseks.",
+    "Lapse jaoks oli see keeruline naiseks."
   ],
   "translation": [
     "as a woman",
-    "in the role of a woman",
-    "to be (oneself) as a woman"
+    "into a woman",
+    "woman-like"
   ],
-  "context": "'naiseks' is an Estonian adverbial form meaning 'as a woman', often used to describe someone taking on or acting in the role of a woman. It can be used literally, such as describing gender identity or transformation, and also metaphorically."
+  "context": "The word 'naiseks' is the translative case form of 'naine', which means 'woman'. In Estonian, the translative case (-ks) indicates transformation or change into something. So 'naiseks' literally means 'as a woman' or 'into a woman'. It's used to express that someone becomes or is considered as a woman, either physically (like in a transformation), socially, or functionally."
 }

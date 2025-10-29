@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta ei luba kedagi sinna minema.",
-    "Oled sa vanemal juba luba kodus rändamiseks antud?",
-    "Miks nad sulle selleks luba ei andnud?"
+    "Ma lubanud sulle ette tulla.",
+    "Ta on lubanud aidata meid.",
+    "Meie oleme lubanud tasuda tagasi."
   ],
   "translation": [
-    "allowed"
+    "promised",
+    "assured",
+    "guaranteed"
   ],
-  "context": "Lubanud is the past participle of 'lubama', which means to allow or to permit. It is commonly used in sentences where someone has given permission for something."
+  "context": "The word 'lubanud' is the past participle form of the Estonian verb 'lubama', which means to promise or assure. It indicates that someone has made a commitment or given their word about something they will do or not do."
 }

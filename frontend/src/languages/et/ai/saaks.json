@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma saaksin seda teha.",
-    "Ta saaks võtta selle.",
-    "Me saaksime minna koos."
+    "Saaksin selle kätte homme?",
+    "Kas saaksid aidata?",
+    "Me peaksime olema varakult, et saaksime paremaid kohti."
   ],
   "translation": [
-    "could",
-    "may",
-    "might"
+    "could I get",
+    "would you be able to help",
+    "we should leave early"
   ],
-  "context": "The word 'saaks' is the conditional form of the verb 'saama', which means 'to get' or 'to receive', but in this context, it is used to express possibility or ability, similar to the English words 'could', 'may', or 'might'."
+  "context": "'Saaks' is the conditional form of the verb 'saama' (to get/receive/can) in Estonian. It's used to make requests, ask for permission, or express possibility in a polite way. In English, it corresponds to phrases like 'could I', 'would you be able to', or 'might'. The word appears in various contexts such as asking for something ('Saaksin selle kätte?' - Could I get this?), requesting help ('Kas saaksid aidata?' - Would you be able to help?), or expressing what needs to happen for something to be possible ('Me peaksime olema varakult, et saaksime paremaid kohti.' - We should leave early so that we could get better seats)."
 }

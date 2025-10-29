@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen valmis.",
-    "Ta on valmis.",
-    "Me oleme valmis."
+    "Olen valmis lähtema",
+    "Töö on tehtud ja ta on valmis",
+    "Valmista homme hommikul"
   ],
   "translation": [
     "ready",
-    "prepared"
+    "prepared",
+    "complete",
+    "finished"
   ],
-  "context": "The word 'valmis' in Estonian means to be ready or prepared to do something, and it is commonly used in everyday conversations to express one's state of being prepared or finished with a task."
+  "context": "The Estonian word 'valmis' is an adjective meaning 'ready', 'prepared', 'complete', or 'finished'. It indicates that something has been completed and is prepared for use, action, or consumption. In different contexts it can refer to a person being ready (Olen valmis lähtema - I am ready to leave), an object being complete (Töö on tehtud ja ta on valmis - The work is done and it's finished), or food being prepared (Valmista homme hommikul - Prepare tomorrow morning)."
 }

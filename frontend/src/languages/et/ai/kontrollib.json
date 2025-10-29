@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kontrollib oma meeleheitest.",
-    "Kontrollime, kas see töötab.",
-    "Me kontrollisime kõiki võimalikke veaksid."
+    "Kontrollib oma dokumente.",
+    "Politseinik kontrollib liiklust.",
+    "Arst kontrollib patsiendi vererõhku."
   ],
   "translation": [
-    "check",
-    "control"
+    "checks",
+    "examines",
+    "controls",
+    "verifies"
   ],
-  "context": "The word kontrollib is commonly used in Estonian to mean checking or controlling something, and it is a verb that can be translated to English as check or control, depending on the context of its usage."
+  "context": "The word 'kontrollib' is the third person singular present form of the verb 'kontrollima', which means to check, examine, control, or verify. It refers to the action of inspecting something carefully to ensure it meets certain standards or requirements."
 }

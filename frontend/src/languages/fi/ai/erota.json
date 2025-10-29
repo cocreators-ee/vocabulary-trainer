@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän erosi työstään",
-    "Tässä on eroa edelliseen versioon",
-    "He erosivat viime vuonna"
+    "Eroin perheestäni.",
+    "He erosivat viime vuonna.",
+    "Olemme eronneet jo kuukauden ajan."
   ],
   "translation": [
-    "separate",
-    "distinguish",
-    "divorce"
+    "to separate",
+    "to part",
+    "to divorce"
   ],
-  "context": "The word 'erota' in Finnish means to separate or distinguish something from another, and it can also be used to mean divorce in the context of a marriage."
+  "context": "The Finnish verb 'erota' means to separate or part from someone, often used in the context of relationships ending. It's an inflected verb that changes form depending on the subject and tense. In present tense it becomes 'eron', past tense 'eroin', and when referring to separation between people it can be reflexive as in 'erota jostakin' (to separate from someone)."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tulen Vierailulle",
-    "Vierailun aikana tapaamme monia ihmisiä",
-    "Olen odottanut tätä vierailua jo viikkoja"
+    "Hän teki vierailun vanhan ystävänsä luona.",
+    "Seuraava vierailu on perjantaina.",
+    "Vierailujen aikana näimme paljon mielenkiintoisia paikkoja."
   ],
   "translation": [
     "visit",
-    "tour",
-    "trip"
+    "call",
+    "calling"
   ],
-  "context": "The word Vierailun is a noun that refers to an act of visiting or traveling, and it is commonly used in Finnish language to describe a trip or a tour to a place."
+  "context": "The Finnish word 'vierailun' is the partitive singular form of 'vierailu', which means 'visit'. The '-n' ending indicates it's in the partitive case, often used to indicate an incomplete action or when the object doesn't have a definite boundary. In English, this would be expressed as 'a visit' or 'of the visit' depending on context."
 }

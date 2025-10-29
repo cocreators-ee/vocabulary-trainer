@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on noormees.",
-    "Noormehele meeldib sport.",
-    "Noormehed mängivad jalgpalli."
+    "Noormees oli rõõmus.",
+    "Väike noormees jooksis pargis.",
+    "Kaks noormeest said sõpradeks."
   ],
   "translation": [
-    "young man"
+    "young man",
+    "youth",
+    "lad"
   ],
-  "context": "The word noormees refers to a young man, typically in his late teens or early twenties, and is commonly used in Estonian to describe someone of this age group."
+  "context": "The word 'noormees' is an Estonian noun that refers to a young man or youth. It's composed of two parts: 'noor' meaning 'young' and 'mees' meaning 'man'. The word is in singular nominative form, referring specifically to one young male person."
 }

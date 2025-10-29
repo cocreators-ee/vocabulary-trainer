@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jätkan tööd homme",
-    "Ta jätkab õpinguid sügisel",
-    "Nad jätkavad koostööd"
+    "Jätkame hommikust alates.",
+    "Me jätkame tööd täna.",
+    "Jätkame homme edasi."
   ],
   "translation": [
     "continue",
-    "proceed with",
-    "carry on"
+    "proceed",
+    "go on"
   ],
-  "context": "The word jätkame is the first person plural form of the verb jätkama, which means to continue or carry on doing something."
+  "context": "The word 'jätkame' is the 1st person plural present tense form of the verb 'jätkama', which means 'to continue'. It is used when a group of people (including the speaker) are continuing an action. The '-me' ending indicates that it's 1st person plural (we), and the '-a' at the end shows the infinitive form of the verb."
 }

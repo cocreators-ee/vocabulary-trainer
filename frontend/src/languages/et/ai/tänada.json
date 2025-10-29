@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tänan sind",
-    "Ta tänab mind alati",
-    "Nad tänavad meid kogu aja"
+    "Tänan sind head ööbuse eest.",
+    "Ma ei tea, mida peaksin tänama.",
+    "Kas sa taksid mind aidata? Tahan sind tänada."
   ],
   "translation": [
-    "thank",
-    "appreciate",
-    "be grateful"
+    "to thank",
+    "to express gratitude",
+    "to be grateful"
   ],
-  "context": "The word tänada is commonly used in Estonian to express gratitude or thanks, similar to the English word thank."
+  "context": "The Estonian word 'tänada' is a verb that means to thank someone or to express gratitude. It's the infinitive form of the verb, and it follows regular conjugation patterns in Estonian. The word comes from the same Proto-Finnic root as Finnish 'kiittää'. In different tenses and forms, it can mean 'I thank', 'you thank', 'he/she thanks', etc. This is a very common everyday word used to express appreciation for help or kindness received."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "See on selge.",
-    "Tema mõtete sissevool oli suvaliselt selge ja kooskõlas.",
-    "Ma ei saa seda selgete sõnadega öelda."
+    "Tuleb selge ilm.",
+    "Ta on selge mees.",
+    "See on selge tegelikkus."
   ],
   "translation": [
     "clear",
-    "obvious"
+    "obvious",
+    "distinct",
+    "evident"
   ],
-  "context": "Used to describe something that is easy to understand or obvious."
+  "context": "The Estonian word 'selge' is an adjective that means clear, obvious, or evident. It can be used to describe weather (clear sky), people (clear-headed/reasonable person), or abstract concepts (clear reality). In different contexts, it helps convey ideas of transparency, distinctness, and lack of ambiguity."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen minevikku õppinud",
-    "Ta rääkis minevikku sündmustest",
-    "Me mõtlesime minevikku tagasi"
+    "Minevikku on meie kogemus.",
+    "Me õpime minevikust.",
+    "Ta vaatab tagasi oma minevikkusse."
   ],
   "translation": [
-    "past",
-    "history"
+    "into the past",
+    "to the past",
+    "back in time"
   ],
-  "context": "The word minevikku refers to a past event or situation in Estonian, it is commonly used when describing historical events or memories."
+  "context": "'Minevikku' is an Estonian noun that means 'into the past' or 'to the past'. It's in the illative case (direction into), indicating movement toward or entry into the past. The word comes from 'minevik' which means 'past', with '-ku' being the illative case suffix."
 }

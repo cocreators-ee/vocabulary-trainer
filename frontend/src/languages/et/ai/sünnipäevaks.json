@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tema jahele helisid sünnipäevaks kaks tükki vanu jutte, mida ta olgu nii kaugele ega üldse ei unustanud.",
-    "Ma olen teinud selle filmi sinu sünnipäevaks!",
-    "Ootad sünnipäevaks üllatust? Võibolla ma seda tahan andma hakata."
+    "Tema sünnipäevaks tegin kook.",
+    "Sünnipäevaks tuleb kingitus valida.",
+    "Meie pere tähistab sünnipäevaks pidu."
   ],
   "translation": [
-    "as a birthday gift",
-    "for one's birthday"
+    "for birthday",
+    "as a birthday present",
+    "by the birthday"
   ],
-  "context": "The word 'sünnipäevaks' is used to express giving something as a birthday gift or for the purpose of celebrating someone's birthday."
+  "context": "The Estonian word 'sünnipäevaks' is an inessive case form of 'sünnipäev', which means 'birthday'. It indicates that something is done for, as, or by the time of someone's birthday. The ending '-ks' transforms it into a translative case, suggesting movement towards or purpose related to the birthday."
 }

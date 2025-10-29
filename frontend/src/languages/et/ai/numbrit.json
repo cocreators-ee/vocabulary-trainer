@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa numbreid õigesti",
-    "Numbrit on liiga palju",
-    "Tema numbri ei olnud kättesaadav"
+    "Tegin numbrit.",
+    "Mul on palju numbreid.",
+    "Võta see number."
   ],
   "translation": [
-    "numbers"
+    "number",
+    "digit",
+    "numeral"
   ],
-  "context": "The word 'numbrit' is the plural form of the Estonian word for 'number', and it refers to a quantity or amount, often used in mathematical or counting contexts."
+  "context": "The word 'numbrit' is the partitive case of the Estonian noun 'number', which means 'number' or 'digit' in English. It is used when referring to some or a few numbers, indicating an incomplete action or partial possession."
 }

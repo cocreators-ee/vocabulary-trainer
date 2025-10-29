@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tüdrukuid nähti tantsimas",
-    "Ta armastab tüdrukuid",
-    "Tüdrukuid oli palju seal"
+    "Mul on head sõbrad tüdrukud.",
+    "Tüdrukud käivad koolis.",
+    "Vaata, need ilusad tüdrukuid!"
   ],
   "translation": [
-    "girls"
+    "girls",
+    "female children",
+    "young women"
   ],
-  "context": "The word tüdrukuid is the plural partitive form of the Estonian word tüdruk, which means girl, and is used to refer to girls in general."
+  "context": "The word 'tüdrukuid' is the plural partitive form of 'tüdruk', which means 'girl'. In Estonian grammar, the partitive case is used to indicate an unspecified or partial quantity. So 'tüdrukuid' can mean 'some girls' or refer to girls in a general sense when they are the object of an action rather than the subject."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin suurima püüdega leida seda.",
-    "Suurima osa ajast veedan ma seal.",
-    "Ta võttis suurima osa rahast endale."
+    "See on suurima hoone linnas.",
+    "Ta sai suurima osa pärastlõunast.",
+    "Me vajame suurimat võimalust edu saavutamiseks."
   ],
   "translation": [
     "biggest",
     "largest",
     "greatest"
   ],
-  "context": "The word suurima is a superlative form of the adjective suur, which means big or large in English, it is commonly used to describe something that has the most size or amount compared to others."
+  "context": "The word 'suurima' is the superlative form of the Estonian adjective 'suur', which means 'big' or 'large'. As a superlative, it indicates the biggest, largest, or greatest in comparison to others. It's formed by adding the suffix '-ma' to the stem and then the partitive case ending '-a', making it the partitive form of the superlative. This form is typically used when referring to the object being compared as the most prominent one among alternatives."
 }

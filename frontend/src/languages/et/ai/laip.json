@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Laip on toas",
-    "Laiba ei ole siin",
-    "Ta lebas laial"
+    "Laip leiti metsast lähedalt.",
+    "Politsei uurib laiba lähimust.",
+    "Ta nägi laipa ja karjus ära."
   ],
   "translation": [
     "corpse",
-    "body",
-    "cadaver"
+    "dead body"
   ],
-  "context": "The word 'laip' in Estonian refers to a dead body or corpse, and it is commonly used in contexts related to death, mourning, or forensic science."
+  "context": "The Estonian word 'laip' refers to a corpse or dead body. It's typically used in contexts where someone has died and their remains are being referred to, such as in crime scenes, accidents, or other situations involving death. The word is neutral in tone but clearly associated with mortality."
 }

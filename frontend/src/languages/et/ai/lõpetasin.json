@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lõpetasin kooli.",
-    "Ta on lõpetanud ülikooli.",
-    "Nad lõpetasid töö varakult."
+    "Lõpetasin kooli viimaseeks.",
+    "Ta lõpetas töö kell 17:00.",
+    "Meie pere lõpetas suvekuumusega."
   ],
   "translation": [
     "finished",
-    "completed"
+    "completed",
+    "ended"
   ],
-  "context": "The word 'lõpetasin' is the first person singular form of the verb 'lõpetama', which means to finish or complete something in English. It is commonly used to describe the act of finishing a task, project, or educational program."
+  "context": "The word 'lõpetasin' is the first person singular past tense form of the Estonian verb 'lõpetama', which means 'to finish' or 'to complete'. It indicates that the speaker has completed some action in the past. The root form 'lõpet-' relates to ending or concluding something, and '-sin' is the personal suffix for first person singular past tense."
 }

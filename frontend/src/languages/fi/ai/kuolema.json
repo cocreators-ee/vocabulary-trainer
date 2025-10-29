@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kuolema on lopullinen päätepiste kaikille eläville olleille",
-    "Hän pelkää kuolemaa",
-    "Kuoleman jälkeen ei ole enää mitään"
+    "Kuolema on luonnollinen osa elämää.",
+    "Pelkään kuolemaa.",
+    "Hänen kohtalonsa oli väistämätön kuolema."
   ],
   "translation": [
     "death",
-    "demise"
+    "demise",
+    "mortality"
   ],
-  "context": "The word kuolema refers to the state of being dead or the end of life, and it is commonly used in Finnish to discuss mortality or the afterlife."
+  "context": "In Finnish, 'kuolema' is a noun that means death. It's the state of being dead or the act of dying. This word is in the nominative case (basic form) and can be declined for different cases depending on its role in a sentence. For example, it becomes 'kuolemasta' (from death), 'kuolemaan' (to death), etc."
 }

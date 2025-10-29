@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me jõuame sinna homme",
-    "Jõuame ikka veel kooli õigeaegselt",
-    "Kas me jõuame linnakeskusse enne südaööd?"
+    "Jõuame homme hommikul kell kaheksa.",
+    "Me jõuame siia varsti.",
+    "Kui nad jõuavad, me oleme juba kohal."
   ],
   "translation": [
     "we arrive",
-    "we get",
-    "we reach"
+    "we reach",
+    "we get there"
   ],
-  "context": "The word 'jõuame' is the first person plural form of the Estonian verb 'jõudma', which means to arrive or reach a place, and it is commonly used in everyday conversations to express the idea of getting somewhere."
+  "context": "The word 'jõuame' is the 1st person plural present indicative form of the Estonian verb 'jõudma', which means 'to arrive', 'to reach', or 'to get somewhere'. It indicates that a group of people (including the speaker) will arrive at or reach a destination in the present or near future."
 }

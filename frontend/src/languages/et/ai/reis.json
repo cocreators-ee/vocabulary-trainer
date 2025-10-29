@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta pani oma reisi alustada.",
-    "Reisijad said kohale õhtul.",
-    "Linnas toimub suvireisi esinekond."
+    "Ma olen teel reisil.",
+    "Meie pere on planeerinud suure reisi.",
+    "Reisijad paluvad istuda oma kohtadele."
   ],
   "translation": [
+    "journey",
     "trip",
-    "journey"
+    "travel"
   ],
-  "context": "A journey or a trip, often used in the context of traveling from one place to another."
+  "context": "The Estonian word 'reis' refers to a journey, trip, or travel. It's commonly used when talking about going somewhere, whether for business, pleasure, or other purposes. The word can be modified with case endings in Estonian grammar depending on its role in the sentence (e.g., reisil = on a trip, reisi = to/for a trip)."
 }

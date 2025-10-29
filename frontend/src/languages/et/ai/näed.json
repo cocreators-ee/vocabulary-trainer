@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen sind.",
-    "Sa näed mind.",
-    "Nad näevad meid."
+    "Näed seda kohta?",
+    "Ma ei näe midagi.",
+    "Kas sa näed lindu?"
   ],
   "translation": [
     "see",
-    "perceive"
+    "look at",
+    "watch",
+    "see (verb form)"
   ],
-  "context": "The word näed is a verb in Estonian that means to see or perceive something, and it is commonly used in everyday conversations to express the act of seeing or noticing something."
+  "context": "The word 'näed' is the 2nd person singular present tense form of the Estonian verb 'näema', which means 'to see'. It translates to English as 'you see' or 'do you see?'. This form is used when addressing one person informally (singular 'you') in the present tense. The verb 'näema' is a common verb in Estonian for vision and perception."
 }

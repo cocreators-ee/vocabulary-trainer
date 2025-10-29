@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Saabusime hilja ja ei pääsenud sisse.",
-    "Pääsesid sa lõpuks eksamilt läbi?",
-    "Ta pääsis õnnetusest napilt."
+    "Ta pääses eksamist ilma koolitamata.",
+    "Meie lapsed pääseid hästi uuele klassile.",
+    "Kõik õpilased pääsedid edasi järgmisse etappi."
   ],
   "translation": [
-    "managed to",
-    "succeeded in",
-    "got in",
-    "made it"
+    "managed to pass",
+    "succeeded in getting through",
+    "were able to advance"
   ],
-  "context": "The word 'pääsesid' is the second-person singular past tense of the verb 'pääseda', which means 'to get through,' 'to succeed,' or 'to manage to.' It implies overcoming an obstacle or reaching a desired outcome. In English, it’s commonly used when someone successfully enters a place, passes an exam, or escapes from danger."
+  "context": "The word 'pääsesid' is the past tense plural form of the verb 'pääsema', which means 'to get through', 'to pass', or 'to succeed'. It's commonly used when referring to someone successfully passing an exam, getting into a school/class, advancing in a competition, or generally overcoming some obstacle or requirement. The '-sid' ending indicates past tense and plural subject."
 }

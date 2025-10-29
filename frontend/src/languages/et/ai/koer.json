@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Koer on kodu?",
-    "Ma ei armasta koeri.",
-    "Tema koer on väga suur."
+    "Koera nägin täna parkis.",
+    "Meie koer on väga sõbralik.",
+    "Kas sa oled kunagi koera pidanud?"
   ],
   "translation": [
     "dog"
   ],
-  "context": "The word 'koer' refers to a domesticated carnivorous mammal in Estonian, commonly used to describe a pet or an animal that is often kept at home."
+  "context": "The word 'koer' is the Estonian noun for 'dog'. It's in nominative singular form. In Estonian, nouns decline according to case, so this would change in different grammatical contexts - for example, 'koera' (partitive singular), 'koeri' (genitive plural), etc. Dogs are common pets in Estonia and the word is used daily when referring to dogs."
 }

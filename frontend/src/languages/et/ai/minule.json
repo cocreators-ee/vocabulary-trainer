@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võin seda minule teha.",
-    "See on minu jaoks väga oluline.",
-    "Ta ütles, et see oli tema minule."
+    "Minule meeldib muusika.",
+    "Ta andis raamatu minule.",
+    "Kas sa tulid minule?"
   ],
   "translation": [
     "to me",
     "for me",
-    "mine"
+    "toward me"
   ],
-  "context": "The word minule is a pronoun in Estonian that means to me or for me, and it is commonly used to indicate that something belongs to or is intended for the speaker."
+  "context": "The Estonian word 'minule' is a dative case form of the pronoun 'mina', meaning 'I/me'. In Estonian grammar, the dative case indicates the indirect object or direction toward someone. So 'minule' specifically means 'to me' or 'for me', indicating that something is given to, done for, or directed toward the speaker. It's commonly used when receiving things, directions being given to you, or when expressing that something benefits or affects you."
 }

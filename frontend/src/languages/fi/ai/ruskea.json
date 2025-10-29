@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Talossa on ruskea ovi.",
-    "Ruskeat silmät ovat yleisiä Suomessa.",
-    "Ruskeita hiuksia voi vaihtaa vaaleampiin."
+    "Minun housuni ovat ruskeat.",
+    "Hänellä on ruskea hiukset.",
+    "Ruska-aika syksyllä on kaunis."
   ],
   "translation": [
-    "brown"
+    "brown",
+    "dark brown",
+    "chestnut"
   ],
-  "context": "The word 'ruskea' is commonly used in Finnish to describe something that is brown in color, and it can be used to describe various objects or features such as eyes, hair, or clothing."
+  "context": "The Finnish adjective 'ruskea' means brown in English. It's used to describe things that are brown in color, such as hair (ruskeat hiukset - brown hair), eyes (ruskeat silmät - brown eyes), clothing items like trousers (ruskeat housut - brown pants), or natural phenomena like autumn foliage (ruska - autumn colors). It can be used to describe various shades of brown from light tan to dark chocolate brown."
 }

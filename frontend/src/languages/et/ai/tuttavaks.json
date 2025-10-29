@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sai kiiresti tuttavaks kohaliku elanikega.",
-    "Olen hea tuttavaks saanud temaga.",
-    "Ma olen tuttavaks tulnud paljude inimestega."
+    "Tema tuttavaks saamine võtab aega.",
+    "Ma tean inimest tema tuttavaks.",
+    "Ta sai kõigepealt tuttavaks meie grupiga."
   ],
   "translation": [
-    "acquaintance",
-    "friend"
+    "becoming acquainted",
+    "getting to know",
+    "making acquaintance"
   ],
-  "context": "The word 'tuttavaks' is used to describe someone who has become familiar or friendly, often through repeated interactions or shared experiences."
+  "context": "The Estonian word 'tuttavaks' is the transitive form of the verb 'tuttama' meaning 'to become acquainted'. The '-ks' suffix indicates transformation or change of state. It describes the process of getting to know someone or becoming familiar with them, often used in contexts where people are introduced or start forming relationships."
 }

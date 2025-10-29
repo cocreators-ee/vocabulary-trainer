@@ -1,13 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma lähen siiapoole peole,\" ütles ta., \"See on nii hea siiapoole koht!\", \"Kas sa tead, kus see siiapoole asub?\""
+    "Tule siiapoole!",
+    "Käisime kõik siiapoole.",
+    "Siiapoole on ilus vaade."
   ],
   "translation": [
-    "towards",
-    "in the direction of",
-    "to"
+    "over here",
+    "to this side",
+    "this way"
   ],
-  "context": "The word 'siiapoole' in Estonian indicates movement or direction towards something. It’s similar to saying ‘toward’ or ‘in the direction of’ in English, and is often used when describing where someone or something is going."
+  "context": "The Estonian word 'siiapoole' is a directional phrase meaning 'over here' or 'to this side'. It's composed of 'sia' (here/this direction) and 'poole' (toward), indicating movement toward the speaker's location. This expression is commonly used to beckon someone closer or indicate direction toward oneself."
 }

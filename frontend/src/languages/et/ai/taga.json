@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen taga aiast.",
-    "Ta on tulnud tagasi.",
-    "Laps on jäänud taga."
+    "Ta tuleb taga",
+    "Auto on parkinud taga majja",
+    "Me lähme taga"
   ],
   "translation": [
-    "back",
-    "behind"
+    "behind",
+    "after",
+    "at the back of"
   ],
-  "context": "The word 'taga' in Estonian generally means something that is located at the back or behind something else, and it can also be used to indicate a location or position."
+  "context": "In Estonian, 'taga' is an adverb that means 'behind' or 'at the back of'. It's used to indicate position in relation to something else - when something follows another thing or is located at the rear side. The word doesn't change form regardless of case or number."
 }

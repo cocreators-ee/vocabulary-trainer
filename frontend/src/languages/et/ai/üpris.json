@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma üpris armastan seda filmi",
-    "Ta on üpris hea sõber",
-    "See on üpris huvitav raamat"
+    "See on üpris hea raamat.",
+    "Mingisuguses mõttes oli see üpis keeruline.",
+    "Ta tegi üpris head tööd."
   ],
   "translation": [
-    "rather",
     "quite",
+    "rather",
     "pretty"
   ],
-  "context": "The word \"üpris\" in Estonian is an adverb that is used to express a moderate degree of a quality or quantity, similar to the English words \"rather\", \"quite\", or \"pretty\"."
+  "context": "The Estonian word 'üpris' is an adverb used to express a moderate degree or extent of something. It's similar in meaning to English words like 'quite', 'rather', or 'pretty'. This adverb is commonly used before adjectives or other adverbs to soften their intensity. For example, 'üpris hea' means 'quite good', and 'üpis keeruline' means 'rather difficult'. The word doesn't have a direct equivalent in English but functions similarly to these moderate intensifiers."
 }

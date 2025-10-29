@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on pool kinni.",
-    "Pole oluline, mis seal toimub.",
-    "Pole tähtis, kes seda teeb."
+    "Ei ole midagi väärt mainimist.",
+    "See pole tõsi.",
+    "Meil pole aega nüüd."
   ],
   "translation": [
-    "not",
-    "none",
-    "no"
+    "is not",
+    "are not",
+    "am not"
   ],
-  "context": "The word 'pole' in Estonian is commonly used as a negation, similar to the English words 'not', 'none', or 'no', and it is often used to indicate the absence or negation of something."
+  "context": "The word 'pole' is the negative form of the Estonian verb 'on' (is/are/am). It's used to express negation with singular and plural third person forms. 'Pole' is commonly used in everyday speech as a shortened form of 'ei ole', which literally means 'not is'. This contraction is very frequent in spoken Estonian and can be followed by adjectives, nouns, or other grammatical elements depending on what's being negated."
 }

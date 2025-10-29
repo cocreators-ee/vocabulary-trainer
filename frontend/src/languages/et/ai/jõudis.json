@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta jõudis kooli õigeaegselt.",
-    "Jõudsin tööle varakult.",
-    "Me jõudsime sinna enne südaööd."
+    "Jõudisin kohale õigel ajal.",
+    "Tema jõudis koju enne vihma.",
+    "Kes jõudis esimesena finišisse?"
   ],
   "translation": [
     "arrived",
-    "reached"
+    "reached",
+    "got to"
   ],
-  "context": "The word 'jõudis' is the third person singular form of the verb 'jõudma', which means to arrive or reach a place, and it is commonly used in Estonian to describe someone's arrival at a destination."
+  "context": "The word 'jõudis' is the past tense third person singular form of the Estonian verb 'jõuda', which means 'to arrive', 'to reach', or 'to get to'. It indicates that someone or something has successfully reached a destination. This is a common verb used in everyday language when talking about travel, completion of journeys, or achieving positions."
 }

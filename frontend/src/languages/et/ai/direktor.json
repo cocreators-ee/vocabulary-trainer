@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Direktor on võtnud otsuse.",
-    "See on direktori otsus.",
-    "Direktori abi on vajalik."
+    "Direktor kõneles töötajatega.",
+    "Meie direktor on väga kompetentne.",
+    "Kes on uus direktor?"
   ],
   "translation": [
     "director",
-    "principal"
+    "manager",
+    "head",
+    "chief"
   ],
-  "context": "The word 'direktor' in Estonian refers to a person who directs or manages an organization, institution, or project, similar to the English word 'director'."
+  "context": "The Estonian word 'direktor' means director or manager. It refers to a person who manages an organization, company, or department. This is a cognate with many other European languages including English, German, Russian and Scandinavian languages. In Estonian grammar, it follows normal noun declension patterns."
 }

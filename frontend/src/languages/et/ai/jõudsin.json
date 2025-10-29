@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jõudsin kooli õigeaegselt.",
-    "Ta jõudsime koju varakult.",
-    "Jõudsin ära enne kui vihm algas."
+    "Ma jõudsin kell 10.",
+    "Ta jõudis linna enne vihmasadu.",
+    "Me ei jõudnud bussile."
   ],
   "translation": [
-    "I arrived",
-    "I reached",
-    "I made it"
+    "reached",
+    "arrived",
+    "made it"
   ],
-  "context": "The word jõudsin is the first person singular form of the verb jõudma, which means to arrive or reach a place, and is commonly used in Estonian to indicate that someone has successfully gotten somewhere."
+  "context": "The word 'jõudsin' is the first person singular past tense form of the Estonian verb 'jõuda', meaning to reach, arrive, or make it somewhere. It indicates that someone successfully arrived at a destination or achieved something by a certain time."
 }

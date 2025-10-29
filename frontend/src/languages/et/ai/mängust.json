@@ -1,17 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "See naine mängust rõõmustab mind.",
-    "Meil on aega ainult mängusse.",
-    "Ta tundub, et sa oled liiga mängus.",
-    "Mängust sujuvad asjad väärsid end."
+    "Mängust jäi meile hea mälgus.",
+    "Laps laulis laulu mängust.",
+    "Ta sai teadmisi mängust."
   ],
   "translation": [
-    "game",
-    "play",
-    "from play",
-    "to be in the game (idiom)"
+    "from the game",
+    "from the play/game"
   ],
-  "context": "'mängust' is an Estonian word that typically translates to 'game' or 'play'. It can also refer to being involved in a situation as if it were a game, often used idiomatically. This term might be seen in contexts related to sports, games, or metaphorical situations where something feels playful or not serious."
+  "context": "The word 'mängust' is in the elative case (from-form) of the Estonian noun 'mäng', which means 'game' or 'play'. The ending '-st' indicates that something is coming from, out of, or about the game. It answers the question 'kust?' (where/from where?) in relation to games."
 }

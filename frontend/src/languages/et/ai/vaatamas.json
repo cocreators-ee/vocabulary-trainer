@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen vaatamas telerit.",
-    "Ta on alati vaatamas akna välja.",
-    "Vaatamas videot oli väga põnev."
+    "Vaatan teie aruannet vaatamas.",
+    "Me oleme hetkel vaatamas uut filmi.",
+    "Tüdrukud olid vaatamas linnumärgistajaid."
   ],
   "translation": [
+    "looking at",
     "watching",
-    "looking at"
+    "observing"
   ],
-  "context": "The word 'vaatamas' is a verb in Estonian that means to watch or look at something, and it is commonly used in everyday conversations to describe the act of observing or paying attention to an object, person, or activity."
+  "context": "The word 'vaatamas' is the elative case (from) of the Estonian verb 'vaatama', which means to look, watch, or observe. In the elative case, it indicates looking from something or someone. It's commonly used when referring to the act of watching or observing something, often with a sense of focus or attention."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma olen anname pärast kogukondlikku arutelu.",
-    "Ta ei tea, et me anname ta käest midagi ära.",
-    "Kas sa mõtlesid juba sellele, mida nad tulevad anname?"
+    "Me anname teile abi.",
+    "Nad annavad head tulemused.",
+    "Kas sa annad mulle raamatu?"
   ],
   "translation": [
-    "to give",
-    "give away (something)",
-    "present"
+    "we give",
+    "they give",
+    "do you give"
   ],
-  "context": "'Anname' is the first person plural form of the verb 'anna', meaning to give. It's commonly used in situations where a group gives something voluntarily or officially."
+  "context": "\"Anname\" is the 1st person plural present indicative form of Estonian verb \"anna\", which means \"to give\". It specifically translates to \"we give\" in English. The word follows the Estonian conjugation pattern where the ending changes based on the subject and tense."
 }

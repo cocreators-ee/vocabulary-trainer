@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Heida heitis oma poeg kodusse.",
-    "Ma hein tantsija vastu seina.",
-    "Ära heita mind ära!",
-    "Ta heis mänguneid maale."
+    "Ma heitan kivi.",
+    "Ta heitis kive.",
+    "Mead me heidame kuuli."
   ],
   "translation": [
-    "throw",
-    "to throw"
+    "to throw",
+    "to cast",
+    "to toss"
   ],
-  "context": "Used to describe the action of throwing an object. Can be used in both physical contexts like sports or casual situations, and metaphorical contexts such as 'he threw his son out of the house'."
+  "context": "The Estonian verb 'heita' means to throw or cast something. It is a first-conjugation verb that takes the -ta ending in its infinitive form. In present tense, it becomes 'heitan' (I throw), in past tense third person singular it's 'heitis' (he/she threw), and in first person plural present it's 'heidame' (we throw). The verb can be used for throwing objects like stones, balls, or casting fishing lines."
 }

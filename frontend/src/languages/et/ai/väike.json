@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Väike laps pani väikese lumi hoolikalt oma kättu.",
-    "Ta on siis kaks korda väiksem kui eelmine.",
-    "Minu uus kodu on väike ja lihtne."
+    "Ta on väike poiss.",
+    "Väike lapsed mängivad pargis.",
+    "Meil on väike koer."
   ],
   "translation": [
     "small",
-    "little"
+    "little",
+    "tiny"
   ],
-  "context": "The word 'väike' is used to describe something that has a small physical size or is minor in importance.  It can be applied to both animate and inanimate objects, with the form changing slightly depending on the grammatical case required by the sentence structure."
+  "context": "\"väike\" is an Estonian adjective meaning small or little. It's the comparative/superlative form of \"suur\" (big). In Estonian, adjectives must agree in number and case with the noun they modify. For example, \"väike poiss\" means 'small boy' (nominative singular), while \"väikesed lapsed\" would mean 'small children' (nominative plural)."
 }

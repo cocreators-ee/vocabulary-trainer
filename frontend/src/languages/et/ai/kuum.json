@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kuum",
-    "Kuumade päevade ajal tuleb palju joosta",
-    "Kuumuses ei ole midagi häda"
+    "Ilm on kuum.",
+    "Vesi oli kuum.",
+    "Päike on väga kuum."
   ],
   "translation": [
     "hot",
     "warm"
   ],
-  "context": "The word 'kuum' in Estonian means hot or warm, and it is commonly used to describe the temperature of something."
+  "context": "The Estonian word 'kuum' means 'hot' in English. It is used to describe high temperatures, whether referring to weather, water, or other objects that are warm to the touch. The adjective agrees with the noun it modifies in terms of number and case."
 }

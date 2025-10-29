@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minuga juhtus õnnetus eile.",
-    "Mis juhtus sinuga?",
-    "Ära lase sel juhtuda."
+    "Ei juhtu midagi.",
+    "Midagi ei juhtu.",
+    "Juhtub täna mingit erilist?"
   ],
   "translation": [
-    "happen",
-    "occur",
-    "take place"
+    "happens",
+    "occurs",
+    "takes place"
   ],
-  "context": "The word 'juhtu' in Estonian generally translates to 'happen', 'occur', or 'take place' in English. It describes an event coming into existence or occurring unexpectedly. It is a common verb used when discussing events, accidents, or situations."
+  "context": "The word 'juhtu' is the 3rd person singular past tense form of the Estonian verb 'juhtuma', which means to happen or occur. It's used to describe events that have taken place in the past. For example, 'Ei juhtu midagi' means 'Nothing happened.' The word belongs to the -ma-verb conjugation class in Estonian."
 }

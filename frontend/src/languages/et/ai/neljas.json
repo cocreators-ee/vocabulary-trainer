@@ -1,14 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen neljas päev järjest haige.",
-    "Ta on neljandas kohas edetabelis.",
-    "Meil on nelja inimese koosolek tänasel õhtul."
+    "Neljas on numbri neljää esindav number.",
+    "Meil on neljas klassiruum.",
+    "Ta on neljas laps peres."
   ],
   "translation": [
-    "fourth",
-    "quaternary"
+    "fourth"
   ],
-  "context": "The word 'neljas' is an ordinal number in Estonian, used to describe something that is in the fourth position or sequence, similar to how 'fourth' is used in English."
+  "context": "In Estonian, 'neljas' is the ordinal form meaning 'fourth'. It indicates position in a sequence rather than quantity. This word is used when referring to something that comes in fourth place or has the number four as its position identifier. For example, it could refer to the fourth person, room, item, or any element in a series where order matters."
 }

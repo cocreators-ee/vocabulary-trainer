@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma palusin talt abi, ütles ta.",
-    "Vajan abi!",
-    "Kas sa võid mulle abiga aidata?"
+    "Ma sain abiga teha ülesandeid.",
+    "Ta aitas mulle abiga.",
+    "Meie tiim sai edasi abiga."
   ],
   "translation": [
-    "help",
-    "assistance"
+    "with help",
+    "assistance",
+    "aid"
   ],
-  "context": "The word 'abiga' in Estonian translates to 'help' or 'assistance' in English. It is commonly used when requesting or offering help, similar to how those words are used in English."
+  "context": "The Estonian word 'abiga' is the adessive case form of the noun 'abi', which means 'help'. In the adessive case, it indicates accompaniment or instrumentality - meaning 'with help' or 'using assistance'. This grammatical case shows that someone or something is using help as a tool or companion to accomplish something."
 }

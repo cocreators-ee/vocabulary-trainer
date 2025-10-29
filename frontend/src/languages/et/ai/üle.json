@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen üle keskmise.",
-    "Ta on üle kaheksakümne.",
-    "Üle saja inimese osales konverentsil."
+    "Tuli üle tee.",
+    "Ta lendas üle järve.",
+    "Klass käis üle kogu aja."
   ],
   "translation": [
     "over",
+    "across",
     "above"
   ],
-  "context": "The word 'üle' in Estonian generally means over or above something, and is commonly used to describe physical location or quantity."
+  "context": "The Estonian word 'üle' is a preposition that indicates movement or position across, over, or above something. It's commonly used with the elative case to show when someone goes from one side to another of an area or object."
 }

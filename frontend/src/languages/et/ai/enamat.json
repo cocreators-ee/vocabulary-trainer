@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen enamat kui õnnelik",
-    "Ta on enamat kui lihtsalt hea",
-    "Nad on enamat kui sõbrad"
+    "Enamat ei ole vaja.",
+    "Ta tahab alati enamat.",
+    "Meie leiame alati enamat võimalusi."
   ],
   "translation": [
-    "more than",
-    "over"
+    "more",
+    "additional",
+    "extra"
   ],
-  "context": "The word enamat is used in Estonian to indicate something that is more than expected or desired, and can be translated to English as more than or over."
+  "context": "The word 'enamat' is the partitive case form of 'enam', which means 'more'. In Estonian, the partitive case often indicates an incomplete action or the object of an action. So 'enamat' can be translated as 'more' but with a nuance that it's some additional amount beyond what was already mentioned or expected."
 }

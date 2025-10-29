@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tema tuttav.",
-    "Tuttavad on huvitavad inimesed.",
-    "Ta on minu hea tuttav."
+    "Tema on tuttav meie koolis.",
+    "Mul on palju tuttavaid Tallinnas.",
+    "Ma olen tema tuttav alates lapsepõlvest."
   ],
   "translation": [
-    "acquaintance"
+    "acquaintance",
+    "familiar person",
+    "someone you know"
   ],
-  "context": "The word 'tuttav' is commonly used to refer to someone you know but are not particularly close to, similar to the English concept of an acquaintance."
+  "context": "The Estonian word 'tuttav' is a noun that refers to an acquaintance or someone you recognize but aren't necessarily close friends with. It can be used in singular form (tuttav) for one person, plural form (tutvad) for multiple people, and has the genitive case form 'tuttava'. The word conveys familiarity rather than intimacy - it's less personal than 'sõber' (friend)."
 }

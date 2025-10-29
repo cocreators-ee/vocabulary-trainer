@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hän hymyili iloisesti.",
-    "Ystävällinen hymyn himpun pihalla.",
-    "Kaikesta huolimatta hänellä oli lepoisa hymy kasvoillaan."
+    "Hymy on kaunis ilme.",
+    "Naamion hymy oli salaperäinen.",
+    "Hänellä oli leveä hymy suupielessä."
   ],
   "translation": [
-    "smile"
+    "smile",
+    "grin",
+    "beam"
   ],
-  "context": "A 'hymy' refers to the act of smiling or a smile itself in Finnish. It is commonly used when describing someone's expression."
+  "context": "The Finnish word 'hymy' means smile in English. It refers to the facial expression formed by flexing the muscles around one's mouth, often associated with happiness, friendliness, or amusement. In Finnish, 'hymy' is a common noun that can be used in various contexts to describe someone's smiling expression. The word can appear in different forms such as 'hymyn' (genitive case) and 'hymyllä' (inessive case), depending on how it's being used in a sentence."
 }

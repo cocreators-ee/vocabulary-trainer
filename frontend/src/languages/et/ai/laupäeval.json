@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen vaba laupäeval.",
-    "Ta on tööl laupäeval.",
-    "Me käime kinos laupäeval."
+    "Me kohtume laupäeval kell kümme.",
+    "Kas sa lähed laupäeval kinno?",
+    "Laupäeval on tavaliselt vaba päev."
   ],
   "translation": [
     "on Saturday",
-    "Saturday"
+    "at the weekend"
   ],
-  "context": "Laupäeval is an adverb in Estonian that means on Saturday or Saturday, and it is commonly used to specify the day of the week when something happens or will happen."
+  "context": "The word 'laupäeval' is an Estonian adverb that means 'on Saturday'. It's formed from 'laupäev' (Saturday) plus the '-l' suffix indicating location or time. This form typically indicates occurrence on a specific day, similar to how we say 'on Monday' in English."
 }

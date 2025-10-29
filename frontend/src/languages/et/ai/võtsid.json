@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Nad võtsid mind kaasa.",
-    "Ta võttis raamatu riiulilt.",
-    "Võtke see arvesse."
+    "Võtsid koha.",
+    "Mees võttis taskust raha.",
+    "Lapsed võtsid mänguasjad."
   ],
   "translation": [
     "took",
-    "accepted",
-    "captured"
+    "grabbed",
+    "seized"
   ],
-  "context": "The word 'võtsid' is the past tense plural form of the verb 'võtma', which means 'to take', 'to accept', or 'to capture' in Estonian. It’s a very common and versatile verb used in many contexts."
+  "context": "The word 'võtsid' is the past tense plural form of the Estonian verb 'võtma', which means 'to take'. It indicates that multiple people performed the action of taking something in the past. The verb can be used for physical taking (grabbing objects), metaphorical taking (taking opportunities, etc.), or abstract concepts like taking time or responsibility."
 }

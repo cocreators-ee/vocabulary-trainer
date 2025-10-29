@@ -1,15 +1,14 @@
 {
-  "confidence": 0.7,
   "understood": true,
   "sentences": [
-    "Hänen tähden\tsaadaan kartoitettua uusi alue.",
-    "Minun pitää saada se tehtyä huomenna ajoissa.",
-    "He saivat yllättäen voiton."
+    "Hän sai lahjan.",
+    "He saivat uudet autot.",
+    "Minä en saanut kirjaa."
   ],
   "translation": [
-    "(third person) of the verb 'saada' - past tense",
-    "to get, to receive",
-    "to succeed"
+    "got",
+    "received",
+    "obtained"
   ],
-  "context": "'sai' is a conjugated form of the Finnish verb 'saada', which means 'to get' or 'to receive'. It's used in third-person singular past tense for both men and women. The verb can mean different things depending on context: getting something, succeeding at doing something, or being given something."
+  "context": "The Finnish word 'sai' is the past tense third-person singular form of the verb 'saada', which means 'to get' or 'to receive'. It indicates that someone received or obtained something in the past. The verb changes its ending based on the subject and tense: 'sain' (I got), 'sait' (you got), 'sai' (he/she/it got), 'saimme' (we got), 'saitte' (you plural/formal got), 'sivat' (they got)."
 }

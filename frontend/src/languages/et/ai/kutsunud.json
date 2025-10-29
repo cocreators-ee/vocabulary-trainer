@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen teda kutsunud öölauale.",
-    "Ta on mind kutsunud koos olema.",
-    "Nad on mind korduvalt kutsunud abi saamiseks."
+    "Kutsunud sind homme kohtumisele.",
+    "Ta kutsus mind oma juubeliks pidu peale.",
+    "Meie kutsutakse igal aastal suve alguses festivalile."
   ],
   "translation": [
     "invited",
+    "summoned",
     "called"
   ],
-  "context": "The word 'kutsunud' is the past tense of the Estonian verb 'kutsuma', which means to invite or call someone. It is commonly used in formal and informal settings to convey the idea of requesting someone's presence or participation."
+  "context": "The word 'kutsunud' is the past tense (specifically, the perfect participle form) of the Estonian verb 'kutsuda', which means 'to invite', 'to summon', or 'to call'. In this form, it functions as an adjective meaning 'invited' or can be used with auxiliary verbs to form compound tenses. It agrees in number and gender with the subject of the sentence."
 }

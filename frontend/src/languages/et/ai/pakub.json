@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta pakub mulle abi",
-    "Firma pakub töökohti noortele inimestele",
-    "Pakub see võimalus arendada oma oskusi"
+    "Pakume meile head pakkumist.",
+    "Ta pakub mulle abi.",
+    "Mees pakub naistele lilli."
   ],
   "translation": [
     "offers",
     "provides",
-    "presents"
+    "gives"
   ],
-  "context": "The word 'pakub' is a verb that means to offer or provide something, and it is commonly used in Estonian to describe a situation where someone or something is giving or making something available to others."
+  "context": "The Estonian word 'pakub' is the third person singular form of the verb 'pakkuma', which means to offer, provide, or give something. It's commonly used when someone presents an option, service, or item to another person. The root 'pakk-' relates to packaging or presenting things."
 }

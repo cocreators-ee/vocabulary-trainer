@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on nimelt Mari",
-    "See on nimelt nii",
-    "Nimelt oli see hea"
+    "Tema nimelt on õpetaja.",
+    "Sinu nimelt otsin.",
+    "Kellel nimelt on võti?"
   ],
   "translation": [
-    "namely",
-    "specifically"
+    "by name",
+    "named",
+    "called"
   ],
-  "context": "The word 'nimelt' in Estonian is used to specify or clarify something, similar to the English words 'namely' or 'specifically'."
+  "context": "The Estonian word 'nimelt' is an adverb that means 'by name', 'named', or 'called'. It's used to specify someone's name or identity, often in contexts like introducing someone, asking for identification, or referring to a specific person by their name. The word derives from 'nimi' (name) and the suffix '-lt' indicating ablative case."
 }

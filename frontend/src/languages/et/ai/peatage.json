@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta peatas auto tee äärde.",
-    "Politsei peatas liikuse ülekäigurajal.",
-    "Peatage mind siin, palun."
+    "Töötajad peatavad masina tööd.",
+    "Mees peatas oma autõ.",
+    "Naised peatavad lapse mängu."
   ],
   "translation": [
     "to stop",
-    "halt",
-    "cease"
+    "to halt",
+    "to cease"
   ],
-  "context": "The word 'peatage' in Estonian is a verb that means 'to stop' or 'to halt'. It can be used to indicate stopping a vehicle, movement, or even asking someone to stop you at a certain location. It’s a common and versatile verb in everyday conversation."
+  "context": "The word 'peatage' is an Estonian verb meaning to stop or halt an action. It's the third person singular form (present tense) of the verb 'peata', which means to stop. The '-ge' suffix in this context indicates it's addressing multiple people formally, making it equivalent to 'you (plural/formal) stop'."
 }

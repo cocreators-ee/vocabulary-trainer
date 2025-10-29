@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Nesteen lämpötila on hyvin tärkeä.",
-    "Vesineste kiehuu nopeasti.",
-    "Liian paljon nestettä saattaa aiheuttaa vauriota."
+    "Neste on polttoliquid.",
+    "Minä ostin nestettä huoltamolta.",
+    "Auton tankki täytetään nesteellä."
   ],
   "translation": [
-    "fluid",
-    "liquid"
+    "fuel",
+    "liquid",
+    "petroleum"
   ],
-  "context": "The term 'neste' refers to a substance that is in liquid form and can flow easily. It is commonly used in scientific contexts or when describing the properties of materials, such as water or oil."
+  "context": "In Finnish, 'neste' is a noun that refers to fuel or liquid substances. It can specifically refer to petroleum products like gasoline, diesel, or other liquids used as fuel. The word comes from the verb 'nestyä' (to become liquid) and belongs to the declension class where it typically ends in '-e'. In compound words it often appears as 'neste-' prefix indicating something related to fluids or fuels."
 }

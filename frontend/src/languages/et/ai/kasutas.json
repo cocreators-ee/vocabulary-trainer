@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kasutasin seda raamatu lugemiseks.",
-    "Ta kasutab selle koha peale töötamiseks.",
-    "Nad kasutasid seda vahendi oma probleemi lahendamiseks."
+    "Ta kasutas võtit ukse avamiseks.",
+    "Meie eelkäija kasutas sama meetodit.",
+    "Kas sa oled kunagi kasutanud seda programmi?"
   ],
   "translation": [
     "used",
+    "employed",
     "utilized"
   ],
-  "context": "The word 'kasutas' is the past tense of the Estonian verb 'kasutama', which means to use something, and it is commonly used in sentences to describe the act of utilizing an object or a resource for a particular purpose."
+  "context": "The word 'kasutas' is the past tense third person singular form of the Estonian verb 'kasutama', which means 'to use'. It indicates that someone employed or utilized something in the past. The stem 'kasuta-' can be seen in related forms like 'kasutan' (I use) and 'kasutad' (you use)."
 }

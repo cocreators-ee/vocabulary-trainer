@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Valitsus peab järgima seadust.",
-    "Uue seaduse vastuvõtmine on vajalik.",
-    "Seaduste rikkumine toob kaasa karistuse."
+    "Seadused on vajalikud korra tagamiseks.",
+    "Keskkonna seadused aitavad kaasa looduskaitsele.",
+    "Põhiseaduse seadust ei tohi rikkuda."
   ],
   "translation": [
-    "law",
+    "laws",
     "legislation",
-    "statute"
+    "statutes"
   ],
-  "context": "The word 'seadust' in Estonian refers to a rule or set of rules established by an authority, used to govern a country or society. It is commonly used in discussions about legal matters, government policies, and regulations."
+  "context": "The Estonian word 'seadust' is the partitive form of 'seadus', meaning 'law' or 'statute'. The partitive case in Estonian indicates that something is being discussed, referred to, or measured. So 'seadust' would be used when talking about laws in general, referring to them as a group, or indicating some portion of laws. For example, 'Seadused on vajalikud korra tagamiseks' means 'Laws are necessary for maintaining order', where the partitive form indicates reference to the concept of laws in general."
 }

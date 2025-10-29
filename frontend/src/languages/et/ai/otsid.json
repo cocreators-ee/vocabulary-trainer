@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta otsib oma võtmeid.",
-    "Kas sa otsid tööd?",
-    "Politsei otsib kurjategijat."
+    "Otsin raamatut",
+    "Otsid sa mind?",
+    "Mida otsite?"
   ],
   "translation": [
-    "search",
-    "look for",
-    "seek"
+    "you are looking",
+    "you seek",
+    "you search"
   ],
-  "context": "The Estonian word 'otsid' is a verb that means to search for something or someone. It’s commonly used when someone is trying to find a lost object, a person, or even employment opportunities."
+  "context": "The word 'otsid' is the second person singular form of the Estonian verb 'otsima', which means 'to look for', 'to seek', or 'to search'. It's used when speaking to one person informally. The infinitive form is 'otsima', first person singular is 'otsin', and it can be conjugated for different tenses, persons, and numbers."
 }

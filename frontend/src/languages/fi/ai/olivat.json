@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "He olivat hyviä ystäviä.",
-    "Olivatko he täällä?",
-    "Tytöt olivat kauniita."
+    "He olivat kotona.",
+    "Olipa ihanaa kun he olivat yhdessä.",
+    "Missä te olit viime yönä?"
   ],
   "translation": [
-    "were"
+    "were",
+    "had been"
   ],
-  "context": "The word 'olivat' is the third person plural past tense of the verb 'olla', which means 'to be'. It is commonly used to describe a state or condition in the past, similar to how 'were' is used in English."
+  "context": "The Finnish word 'olivat' is the third person plural past tense form of the verbolla (to be). It corresponds to English 'they were' or 'they had been'. This form indicates that multiple people/things existed, were located somewhere, or were in a particular state in the past. The '-vat' ending is characteristic of the third person plural present/past indicative conjugation in Finnish."
 }

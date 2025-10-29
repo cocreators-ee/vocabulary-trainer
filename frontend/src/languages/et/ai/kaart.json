@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan kaardi",
-    "Kaart on laudal",
-    "Ta tegi uue kaardi"
+    "Ma olen võtnud kaarti.",
+    "Kas sa näed seda kaarti?",
+    "Kaardil on palveid."
   ],
   "translation": [
     "card",
-    "map"
+    "map",
+    "chart"
   ],
-  "context": "The word 'kaart' in Estonian can refer to a card, such as a playing card or a greeting card, or it can also mean a map, which is used for navigation purposes."
+  "context": "The Estonian word 'kaart' has multiple meanings depending on context. It can refer to a playing card, a map showing geographical locations, or a chart/graph with data visualization. The form of the word doesn't change significantly in different contexts, but its meaning is determined by what it refers to - whether it's something you play games with for entertainment, something that helps with navigation, or something that displays information visually."
 }

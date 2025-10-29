@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen sõjas osalenud.",
-    "Sõjas on palju inimesi hukkunud.",
-    "Ta läks sõjateenistusse."
+    "Kõik mehed olid sõjas.",
+    "Ta on olnud sõjas kaks korda.",
+    "Sõjas oleks raske elada."
   ],
   "translation": [
     "in war",
-    "at war"
+    "at war",
+    "during the war"
   ],
-  "context": "The word 'sõjas' is an inessive form of the Estonian word 'sõda', which means 'war'. It is commonly used to describe a situation where someone or something is in a state of war or conflict."
+  "context": "The Estonian word 'sõjas' is in the adessive case (ending -as/-äs) and means 'in war' or 'at war'. It indicates location or state during wartime. The root word 'sõda' means 'war', and the -s ending places it in the adessive case, which typically shows location where something is happening or a condition one is in."
 }

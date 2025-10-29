@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tunnen, et mul on õigus.",
-    "Tunded juba hirmu?",
-    "Ta tundis oma viga."
+    "Tunned midagi head.",
+    "Ta tunned väga hästi.",
+    "Me tunneme end kindlalt."
   ],
   "translation": [
     "feel",
-    "felt (past tense)",
-    "feeling"
+    "sense",
+    "perceive"
   ],
-  "context": "'tunned' means 'felt' in English. It is the past tense form of 'to feel'. Commonly used to describe a person's emotional or physical sensation in the past, such as felt pain, felt happy, etc."
+  "context": "The Estonian word 'tunded' is the plural form of 'tunne', which means feeling or sense. It's used to describe emotions, sensations, or perceptions that one experiences. The verb form would be 'tundma' (to feel/sense). In different contexts, it can refer to physical feelings, emotional states, or intuitive perceptions."
 }

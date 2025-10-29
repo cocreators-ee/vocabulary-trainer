@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tundis end külmalt",
-    "Külm vesi on hea joomiseks",
-    "Talvel on väga külm"
+    "külm ilma",
+    "külm vesi",
+    "Täna on külm"
   ],
   "translation": [
     "cold",
-    "cool"
+    "chilly",
+    "frosty"
   ],
-  "context": "The word 'külm' in Estonian means cold or cool, and it is commonly used to describe temperatures or feelings of chilliness."
+  "context": "The Estonian word 'külm' is an adjective that means 'cold'. It describes low temperature in weather, objects, or the feeling of coldness. In different contexts it can be translated as 'cold', 'chilly', or 'frosty'. When describing weather conditions like 'külm ilma' (cold weather), liquids like 'külm vesi' (cold water), or general sensations, this word is commonly used."
 }

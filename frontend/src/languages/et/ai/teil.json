@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen teil kaasa",
-    "Teil on üks võimalus",
-    " Teil võib olla õigus"
+    "Tere tulemast teie koju!",
+    "Teie arvamus on mulle väga oluline.",
+    "Kas teil on head päev?"
   ],
   "translation": [
-    "with you",
-    "you have",
-    "you may be right"
+    "your (formal/plural)",
+    "you (formal/plural)",
+    "yours"
   ],
-  "context": "The word 'teil' is a pronoun in Estonian that means 'you' in the plural form or as a polite way to address someone, and it is commonly used in sentences to refer to the person or people being spoken to."
+  "context": "The Estonian word 'teil' is the adessive case form of the pronoun 'teie', which means 'you' in a formal or plural context. It translates to English as 'with you' or indicates possession similar to 'your'. This form is used when something is located with or possessed by the person(s) being addressed formally or when speaking to multiple people."
 }

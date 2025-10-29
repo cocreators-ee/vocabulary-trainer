@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Oleme suhete lõpusse jäänud.",
-    "Sellel suhtel on palju probleeme.",
-    "Meie suhted pole kunagi hästi minna."
+    "Suhet on keeruline mõista.",
+    "Ta lahkus suhetest oma parima sõbraga.",
+    "Meil oli väga head suhet."
   ],
   "translation": [
     "relationship",
-    "connection"
+    "relations"
   ],
-  "context": "'suhet' means 'relationship' or 'connection'. It is commonly used to describe the nature of a bond between people, such as romantic relationships, friendships, family ties, and even business connections."
+  "context": "The word 'suhet' is the partitive singular form of the Estonian noun 'suhe'. It refers to a relationship or connection between people, entities, or concepts. In the partitive case, it often indicates an incomplete action or state, such as being in relationships, having relationships, or discussing relationships."
 }

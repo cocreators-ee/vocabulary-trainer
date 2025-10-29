@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minu vanaema elab maal",
-    "Vanaema tuli meile külla",
-    "Mu vanaema on väga armsa"
+    "vanaema elab Tallinnas.",
+    "vanaemad käivad poodi igapäevaselt.",
+    "vanaema on armastav ja hea südamega."
   ],
   "translation": [
     "grandmother",
-    "old woman"
+    "granny",
+    "grandma"
   ],
-  "context": "The word 'vanaema' refers to the mother of one's parent, typically a female ancestor in the second generation, and is commonly used to express affection or respect towards elderly women."
+  "context": "Vanaema is the Estonian word for grandmother or grandma. It's formed from 'vana' (old) + 'ema' (mother), literally meaning 'old mother'. In Estonian, this is the common term used to refer to one's maternal or paternal grandmother."
 }

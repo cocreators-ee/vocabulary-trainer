@@ -1,15 +1,16 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kinni peale, mu väike sõber! (Close it up, my little friend!)",
-    "Uksed kinni. (Doors closed.)",
-    "Broneerimisele on jäänud vaid paar kohta. Palun sulge enda maha. (Only a few seats are left for booking. Please book yourself in.)"
+    "Tegelikult sai kinni ühe kaupleja jaoks.",
+    "Ta oli täielikult kinni oma töösse.",
+    "Ma ei taha olla kinni."
   ],
   "translation": [
-    "tight",
-    "closed",
-    "fastened"
+    "caught",
+    "captured",
+    "stuck",
+    "trapped",
+    "busy"
   ],
-  "context": "Kinni is used to describe something being tightly shut or fastened, such as doors, windows, or other objects that can be opened and closed."
+  "context": "The Estonian word 'kinni' has multiple meanings depending on context. It can mean 'caught' or 'captured' when referring to being apprehended by authorities, or it can mean 'stuck' or 'trapped' when something cannot move freely. When used about a person's schedule, it means 'busy' or 'occupied'. The word functions as an adverb and doesn't change form for different cases."
 }

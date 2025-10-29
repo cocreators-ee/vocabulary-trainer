@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tegin talle mu kättesaadavaks.",
-    "See on minu suurim saavutus.",
-    "Mu isa on arst."
+    "Mu isa on õpetaja.",
+    "Muidugi võin aidata!",
+    "Mul on hea meel."
   ],
   "translation": [
     "my",
-    "mine",
-    "of mine"
+    "me"
   ],
-  "context": "The word 'mu' is a possessive pronoun in Estonian, equivalent to 'my' or 'mine' in English. It indicates ownership or belonging and is commonly used before nouns to show possession."
+  "context": "The word 'mu' is the possessive pronoun in Estonian that means 'my'. It's used to indicate possession or relationship, similar to how 'my' is used in English. This form is typically used with singular nouns that are in the nominative case."
 }

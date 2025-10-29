@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma töötan argipäeviti.",
-    "Ta töötab öösel.",
-    "Nad töötavad koolis."
+    "Ma töötan kontoris.",
+    "Töötame koos selles projektis.",
+    "Ta ei tööta tänavapühadel."
   ],
   "translation": [
-    "I work",
-    "He/She works",
-    "They work"
+    "work",
+    "am working",
+    "do work"
   ],
-  "context": "The word töötan is the first person singular form of the verb tööta, which means to work. It is commonly used in Estonian to describe someone's occupation or daily activities."
+  "context": "The Estonian word 'töötan' is the first person singular present tense form of the verb 'töötama', which means 'to work'. It indicates that the speaker currently performs work activities. The conjugation follows regular Estonian verb patterns where the ending '-tan' is added to the root 'töö-' (work) for first person singular present tense."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Se alkoi kun hän tuli kotiin.",
-    "Hän alkoi juosta nopeammin.",
-    "Kaikki alkoi siitä kun olimme lapsia."
+    "Talvi alkoi myöhään vuonna 2023.",
+    "Musiikki alkoi soimaan radiosta.",
+    "Koulutyö alkoi heti aamulla."
   ],
   "translation": [
     "began",
-    "started"
+    "started",
+    "commenced"
   ],
-  "context": "The word 'alkoi' is the third person singular form of the verb 'alkaa', which means to begin or start something. It is commonly used in Finnish sentences to indicate the starting point of an action or event."
+  "context": "The word 'alkoi' is the past tense third-person singular form of the Finnish verb 'alkaa', which means 'to begin' or 'to start'. It's used to indicate that something started happening in the past. The infinitive form 'alkaa' changes to 'alkoi' when conjugated for 'he/she/it' (hän/hänet) in the simple past tense."
 }

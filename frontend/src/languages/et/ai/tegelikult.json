@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegelikult ei oska seda teha",
-    "Tegelikult on see võimalik",
-    "Ma arvasin, et ta tegelikult ei tahagi seda teha"
+    "Tegelikult on see tähtis küsimus.",
+    " tegelikult ei tea ma seda vastust.",
+    " tegelikult peaksime sellega kiiremini hakkama."
   ],
   "translation": [
     "actually",
-    "in fact"
+    "in fact",
+    "really",
+    "truly"
   ],
-  "context": "The word 'tegelikult' is used to indicate that something is true or real, often contrasting with what was previously thought or said. It is commonly used in sentences to provide more accurate information or to correct someone's assumption."
+  "context": "The Estonian word 'tegelikult' is an adverb that means 'actually', 'in fact', or 'really'. It's used to emphasize the truth of a statement or to introduce something that might be contrary to expectations. The word comes from 'tegelik' meaning 'real' or 'actual' with the '-lt' suffix forming an adverb. In Estonian, it often appears at the beginning, middle, or end of sentences depending on what aspect is being emphasized."
 }

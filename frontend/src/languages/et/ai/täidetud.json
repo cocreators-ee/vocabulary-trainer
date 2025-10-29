@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tema nõu oli täidetud sõnu.",
-    "Täidetud kastidesse pani ta kaasaasemeid.",
-    "Kui sa oled tänane täidetud, siis saad mõista, et kõik on hästi."
+    "Töötuba on täidetud tööriistadega.",
+    "Naljakad hetked on meie elus täidetud naeruga.",
+    "Kõik kohad sellel lennukil olid täidetud."
   ],
   "translation": [
     "filled",
-    "full"
+    "full",
+    "occupied"
   ],
-  "context": "'täidetud' is an adjective in Estonian meaning 'filled' or 'complete,' commonly used to describe something that has been filled with a substance or completed as intended."
+  "context": "The word 'täidetud' is the past participle form of the verb 'täita', which means 'to fill'. It describes something that has been filled, occupied, or completed. In Estonian, this adjective agrees with the noun it modifies in gender and number, though in this case as a past participle it would typically be used after the noun. It can refer to physical containers being filled, spaces being occupied, or even abstract concepts like time being 'filled' with activities."
 }

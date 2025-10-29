@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta õpib ülikoolis.",
-    "Ülikoolis oli palju tudengeid.",
-    "Meil on plaan õppida ülikoolis."
+    "Tartu ülikoolis on palju õpilasi.",
+    "Õpetaja töötab Tallinna ülikoolis.",
+    "Üliõpilased käivad ülikoolis iga päev."
   ],
   "translation": [
     "at the university",
-    "in the university"
+    "in college"
   ],
-  "context": "The word \"ülikoolis\" is used to indicate that someone is studying or located at a university, it is an inessive form of the noun \"ülikool\", which means university."
+  "context": "The word 'ülikoolis' is an Estonian adessive case form of 'ülikool', meaning 'university'. The '-s' ending indicates location or place where something happens, equivalent to English prepositions like 'at' or 'in' when referring to a university setting. It answers the question 'where?' and indicates that someone is studying, working at, or located within a university environment."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nende inimeste vajavad kiiresti abi.",
-    "Vajavad me üksteist.",
-    "Ta vajab head õpetajat."
+    "Nad vajavad abi.",
+    "Lapsed vajavad rohkem magamist.",
+    "Meie vajame uut autot."
   ],
   "translation": [
     "need",
-    "require"
+    "require",
+    "have need of"
   ],
-  "context": "The word 'vajavad' is a verb that means to need or require something, it is commonly used in Estonian language to express the necessity of something."
+  "context": "The word 'vajavad' is the 3rd person plural present indicative form of the verb 'vajama', which means 'to need' or 'to require'. It is used when referring to what multiple people or things need. The root form is 'vaja' meaning 'need', and '-dav' indicates third person plural with present tense."
 }

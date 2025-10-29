@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei ole mult",
-    "Mult on must ja mulla lõhn",
-    "Ta tegi multist skulptuuri"
+    "Ma ei tea seda mult.",
+    "Kas sa tead seda mult?",
+    "Mul on küsimusi selle kohta mult."
   ],
   "translation": [
-    "dirt",
-    "soil"
+    "I don't know that",
+    "Do you know that",
+    "I have questions about that"
   ],
-  "context": "The word 'mult' in Estonian generally refers to soil or dirt, and it is commonly used in everyday conversations about gardening, construction, or environmental topics."
+  "context": "In Estonian, 'mult' is a colloquial/informal expression meaning 'that', used in questions and statements. It's commonly used in everyday speech to refer to something specific that has been previously mentioned or understood from context."
 }

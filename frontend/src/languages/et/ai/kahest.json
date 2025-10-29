@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli kahest kohta.",
-    "Kahest asjast oleneb kogu lugu.",
-    "Ma olen kahest mures."
+    "Kahest kolmest on kaks.",
+    "Ta valis kahest variandist ühe.",
+    "Me räägime kahest erinevast teemast."
   ],
   "translation": [
-    "of two",
-    "from two"
+    "from two",
+    "of the two",
+    "between the two"
   ],
-  "context": "The word 'kahest' in Estonian is a preposition that means 'of two' or 'from two', indicating the origin or composition of something, and it is commonly used to describe dualities or pairs."
+  "context": "The Estonian word 'kahest' is an inessive-elative form meaning 'from two' or 'of the two'. It's part of the dual number case system used when referring to exactly two items. This form indicates both location within two things and movement away from those two things."
 }

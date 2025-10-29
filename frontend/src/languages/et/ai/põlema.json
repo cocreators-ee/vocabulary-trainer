@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta otsustas põlema panna kõik dokumendid.",
-    "Põlemine on väga ohtlik.",
-    "Küsimus on selles, kas see põlema hakkab."
+    "Tuli põleb majas.",
+    "Poleks sa mind aidanud, oleksin praegu veel põlenud.",
+    "Ta on tuletõrjeürituse käigul õppinud, kuidas tulekahju ära põletada."
   ],
   "translation": [
     "to burn",
-    "burning",
-    "on fire"
+    "to be burning",
+    "to set fire to"
   ],
-  "context": "The word põlema is commonly used in Estonian to describe the act of something burning or being on fire, and can be used in various contexts such as describing a fire, warning about a potential hazard, or talking about a process that involves burning."
+  "context": "The Estonian word 'põlema' is a verb that means 'to burn' or 'to be burning.' It can describe something that is currently on fire (like Tuli põleb majas - The fire is burning in the house) or it can indicate having been burned due to lack of help (Poleks sa mind aidanud, oleksin praegu veel põlenud). In some contexts, it may also mean 'to set fire to' or 'to burn down.'"
 }

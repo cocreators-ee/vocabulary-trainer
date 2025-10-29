@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen varsti tagasi",
-    "Ta on varsti valmis",
-    "Me oleme varsti kodus"
+    "Varsti saab kevadtuuled.",
+    "Tuleme varsti tagasi.",
+    "Ma olen varsti lõpetamas tööd."
   ],
   "translation": [
     "soon",
-    "shortly"
+    "shortly",
+    "in a little while"
   ],
-  "context": "The word 'varsti' is commonly used in Estonian to indicate that something will happen or be done soon, and it can be translated to English as 'soon' or 'shortly'."
+  "context": "The Estonian word 'varsti' is an adverb that means 'soon', 'shortly', or 'in a little while'. It indicates that something will happen in the near future, though not necessarily immediately. This temporal adverb expresses anticipation of an upcoming event without specifying an exact time frame."
 }

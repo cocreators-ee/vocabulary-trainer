@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta astus sisse.",
-    "Astus talle appi.",
-    "Külaline astus uksest sisse."
+    "Esimene astus oli raske.",
+    "Ta astus tuppa vaikselt.",
+    "Ma olen juba astunud ettepoole."
   ],
   "translation": [
-    "step",
-    "stepped"
+    "stepped",
+    "entered",
+    "took a step"
   ],
-  "context": "The word 'astus' in Estonian means to step or take a step, and it is commonly used to describe the act of moving one's foot or taking a pace in a particular direction."
+  "context": "The Estonian word 'astus' is the third-person singular past tense form of the verb 'astuma', which means 'to step' or 'to enter'. It refers to an action where someone takes a step forward or enters into a space. The word can be used both literally (taking physical steps) and figuratively (entering a situation, taking initiative)."
 }

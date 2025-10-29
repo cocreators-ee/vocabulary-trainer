@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen poolest nõus",
-    "See on hea mõte poolest",
-    "Ta oli väsinud poolest"
+    "Kella poolest seitse on kohtumine.",
+    "Tööl olen poole päeva.",
+    "Jõulud algavad aasta poolest."
   ],
   "translation": [
-    "from the side",
-    "by half"
+    "half past",
+    "at half (hour)",
+    "in the middle of"
   ],
-  "context": "The word 'poolest' in Estonian is used to indicate something is done or seen from a particular side or perspective, or to show that something is partially completed."
+  "context": "The Estonian word 'poolest' is used to indicate time expressions meaning 'half past' or 'at half (hour)' when referring to clock times. It can also mean 'in the middle of' or 'throughout' a period of time. This word commonly appears with numbers to specify half-hour intervals on the clock, such as 'poolest seitse' (half past seven)."
 }

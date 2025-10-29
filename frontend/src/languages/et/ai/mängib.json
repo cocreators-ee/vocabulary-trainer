@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta mängib klaverit.",
-    "Ma olen näinud teda mängimas jalgpalli.",
-    "Laps mängib palliga."
+    "Laps mängib pargis.",
+    "Tädi mängib klaverit.",
+    "Kass mängib hiirega."
   ],
   "translation": [
     "plays",
-    "is playing"
+    "is playing",
+    "acts"
   ],
-  "context": "The word 'mängib' is a verb in Estonian that means to play, and it is commonly used to describe someone engaging in an activity for enjoyment or recreation."
+  "context": "The word 'mängib' is the 3rd person singular present tense form of the Estonian verb 'mängima', which means 'to play'. It can be used in various contexts: to describe children playing games, someone playing a musical instrument, or an actor performing on stage. The subject determines whether it refers to a boy/girl (laps), woman (tädi), cat (kass), etc."
 }

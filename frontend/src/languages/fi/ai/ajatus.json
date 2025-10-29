@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ajatus on tärkeä asia elämässä.",
-    "Hänellä oli hyvä ajatus siitä, miten tehdä se.",
-    "Ajatukseni ovat positiivisia tulevaisuudesta."
+    "Ajatus on mielen sisällä tapahtuva toiminta.",
+    "Minulla on hyvä ajatus huomiseksi.",
+    "Hänen ajatuksensa olivat hyvin epäselviä."
   ],
   "translation": [
     "thought",
     "idea",
     "notion"
   ],
-  "context": "The word 'ajatus' in Finnish refers to a thought or idea that comes to one's mind, and it is commonly used in everyday conversations to express opinions or views on various topics."
+  "context": "The Finnish word 'ajatus' is a noun that means thought, idea, or notion. It refers to something that exists in the mind - mental activity, consideration, or a concept formed by thinking. The word can be used for both fleeting thoughts and well-formed ideas. In different contexts it might refer to philosophical contemplation, practical suggestions, or cognitive processes."
 }

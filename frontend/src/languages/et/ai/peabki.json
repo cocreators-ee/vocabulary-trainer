@@ -1,15 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma pean tänasedel kodusse jääma.",
-    "Ta peab ise seda tehes.",
-    "Peavadki meie lähedaste inimeste heaolu eesmärgiks."
+    "Ta peabki tulema täna õhtul.",
+    "Peabki sa oleksid sellega nõus!",
+    "Meie peabki võtma kohe lahenduse."
   ],
   "translation": [
-    "must",
-    "have to",
-    "ought to"
+    "must also",
+    "has to as well",
+    "needs to too"
   ],
-  "context": "'peabki' is a form of the verb 'pida' which means must, have to, or ought to. It is used to express necessity or obligation in Estonian."
+  "context": "The word 'peabki' in Estonian is a combination of 'peab' (meaning 'must' or 'has to') and the particle 'ki' (which adds emphasis and means 'also', 'too', or 'as well'). It's used when someone has an obligation that also includes something additional. The word indicates necessity combined with additionality, often implying that something is required in addition to other requirements or expectations."
 }

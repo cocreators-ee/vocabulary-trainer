@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ütlen sulle tänased uudised.",
-    "Ta ütles mulle, et ta on valmis.",
-    "Nad ütlevad, et see on hea film."
+    "Ma ei ütle midagi.",
+    "Ta ütles, et tuleb homme.",
+    "Kas sa ütleksid mulle tõde?"
   ],
   "translation": [
     "say",
-    "tell"
+    "tell",
+    "speak"
   ],
-  "context": "The word \"ütlete\" is a verb in Estonian that means to say or tell something to someone. It is commonly used in everyday conversations to express thoughts or opinions."
+  "context": "The word 'ütlete' is the plural/formal 2nd person present indicative form of the verb 'ütlema', which means 'to say' or 'to tell'. It translates to 'you (plural/formal) say/tell'. This form is used when speaking respectfully to multiple people or a single person in a formal context."
 }

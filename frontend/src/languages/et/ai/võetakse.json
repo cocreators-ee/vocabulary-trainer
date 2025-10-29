@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma võtan raamatu.",
-    "Ta võttis oma õpetaja nõuanal.",
-    "Me võtame ühiselt otsuse."
+    "Võetakse kinni.",
+    "Kus võetakse?",
+    "Millised dokumendid võetakse kaasa?"
   ],
   "translation": [
-    "will be taken",
-    "is taken",
-    "to take"
+    "is taken/are taken",
+    "is being taken/are being being taken"
   ],
-  "context": "The word võetakse is the passive voice of the verb võtta, which means to take. It is commonly used in Estonian language to indicate that an action is being performed on something or someone."
+  "context": "The word 'võetakse' is the 3rd person singular/plural present passive form of the Estonian verb 'võtma'. It means 'to take', and in this form it indicates that something is being taken or received, typically without specifying who is doing the taking. This construction is commonly used when the agent (the one performing the action) is unknown, unimportant, or obvious from context."
 }

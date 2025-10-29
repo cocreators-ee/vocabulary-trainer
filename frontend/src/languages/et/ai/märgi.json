@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Märgin seda dokumenti.",
-    "Ta märkas tema juures.",
-    "See on hea märgi näide."
+    "See on märgi kõik oma nimekirja.",
+    "Kas sa oled unustanud märgi?",
+    "Me peame leidma märgi järgmiseks kohtumisele."
   ],
   "translation": [
     "sign",
     "mark",
-    "label"
+    "signature",
+    "token"
   ],
-  "context": "The word 'märgi' is commonly used in Estonian to refer to a sign, mark, or label, and it can be used in various contexts such as signing a document or labeling an object."
+  "context": "The Estonian word 'märgi' is the partitive form of 'märk', which means 'sign', 'mark', or 'signature'. In this case, it indicates that some portion of a sign/mark/signature/token is being referred to. The partitive case is used when talking about an indefinite quantity or part of something."
 }

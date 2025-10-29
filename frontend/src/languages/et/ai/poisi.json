@@ -1,11 +1,12 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on poisi sõnum."
+    "Poisi on tore poiss.",
+    "Ma nägin poisi täna koolis.",
+    "Poisi nimi on Jüri."
   ],
   "translation": [
-    "boy's"
+    "boy"
   ],
-  "context": "The word 'poisi' is the genitive singular form of 'poiss,' meaning 'boy.' It is commonly used to show possession or relation by a boy."
+  "context": "The Estonian word 'poisi' is in the elative case (from/away from case) of the noun 'pois', which means 'boy'. The elative case indicates movement away from or out of something, so 'poisi' can mean 'from a boy' or 'out of a boy' depending on context. It's formed by adding the suffix '-i' to the genitive stem."
 }

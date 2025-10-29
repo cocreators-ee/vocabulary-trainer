@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tänase päeva kõnelemed on väga olulised.",
-    "Ma olen tänaseks päevaks valmis.",
-    "Tänased uudised on väga huvitavad."
+    "Tänase päeva hommikul külastas meie kooli president.",
+    "Täna on tänase nädala esimene päev.",
+    "Meile antakse tänaseks õppeaastaks uued raamatud."
   ],
   "translation": [
     "today's",
     "of today"
   ],
-  "context": "The word 'tänase' is used in Estonian to indicate something that belongs to or is related to the current day, similar to how 'today's' is used in English."
+  "context": "The word 'tänase' is the genitive singular form of 'täna', which means 'today'. In Estonian, the genitive case is used to indicate possession or relationship, so 'tänase' translates to 'today's' or 'of today'. This form is commonly used when describing something that belongs to or relates to today."
 }

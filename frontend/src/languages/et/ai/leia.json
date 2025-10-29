@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma leian selle raamatu.",
-    "Ta leidis oma kodu.",
-    "Nad leidsid head restaurandi."
+    "Ma leian selle asja üles.",
+    "Leiame head lahenduse.",
+    "Kas sa leiad oma võtmed?"
   ],
   "translation": [
-    "find"
+    "find",
+    "discover",
+    "locate"
   ],
-  "context": "The word 'leia' is commonly used in Estonian to mean finding something or someone, and it can be used in different forms such as 'leian', 'leidis', 'leidsid'."
+  "context": "The word 'leia' is the imperative form of the Estonian verb 'leidma', which means 'to find'. It's used when telling someone to find something, similar to saying 'find!' or 'find it!' in English. In this form, it's a command directed at one person (singular informal)."
 }

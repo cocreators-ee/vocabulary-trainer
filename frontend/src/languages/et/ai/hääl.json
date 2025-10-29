@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta laulab häält.",
-    "Hääl on muusikas üks olulisemaid elemente.",
-    "Häälde andis tema talle kauniid pilte."
+    "Hääl on kõrge ja selge.",
+    "Me kuulsime häält põhjast.",
+    "Lapsed laulavad häält."
   ],
   "translation": [
     "voice",
-    "sound"
+    "sound",
+    "cry"
   ],
-  "context": "The word hääl in Estonian generally refers to a sound, especially one made by the human voice, and is commonly used in contexts related to music or speaking."
+  "context": "The word 'hääl' in Estonian means voice or sound. It can refer to a person's voice, an animal cry, or any audible sound. The word is typically in nominative singular form when referring to one voice/sound. In the examples provided: 1) A high and clear voice, 2) We heard a sound from the north, 3) Children are singing with loud voices."
 }

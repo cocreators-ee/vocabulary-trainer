@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma alustasin õpinguid varakult.",
-    "Ta alustas tööd uue firma juhina.",
-    "Nad alustasid koostööd teise ettevõttega."
+    "Ma alustasin tööd kell 8 hommikul.",
+    "Alustame sellest päevast!",
+    "Tema on juba alustanud uut projekti."
   ],
   "translation": [
-    "I started",
-    "began"
+    "started",
+    "began",
+    "commenced"
   ],
-  "context": "The word 'alustasin' is the first person singular form of the verb 'alustama', which means to start or begin something in Estonian. It is commonly used to describe the initiation of an action or activity."
+  "context": "The word 'alustasin' is the first-person singular past tense form of the Estonian verb 'alustama', which means 'to start' or 'to begin'. It specifically indicates that someone (I) started or began an action in the past. The '-sin' ending is a typical past tense marker for first person singular verbs in Estonian."
 }

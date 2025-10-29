@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kasvuston kasvoi nopeasti.",
-    "Kasvuston oli runsas.",
-    "Kasvuston leikkasi puutarhuri."
+    "Kasvusto on runsaasti erilaisia kasveja.",
+    "Tämä puutarha näyttää upealta kasvustonsa kanssa.",
+    "Luonnonkasvusto on tärkeä ekosysteemille."
   ],
   "translation": [
     "vegetation",
-    "foliage"
+    "plant community",
+    "flora"
   ],
-  "context": "The word kasvuston refers to the plant life or vegetation in a particular area, and is commonly used in Finnish to describe the natural environment."
+  "context": "The Finnish word 'kasvuston' is the partitive form of 'kasvusto', meaning vegetation or plant community. It refers to a collection of plants growing together in a particular area. The suffix '-n' indicates that it's in the partitive case, which often implies an unspecified amount or incomplete entity."
 }

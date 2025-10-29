@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta pakkus mulle abi.",
-    "Pakkusin talle kätte ja ta pakkus mulle omad.",
-    "Pakkuksid sa mulle kaasa?"
+    "Pakkus mulle oma tooli.",
+    "Ta pakkis headust naeratust.",
+    "Meie peremees pakub alati heaolu."
   ],
   "translation": [
     "offered",
-    "offering"
+    "suggested",
+    "proposed"
   ],
-  "context": "The word 'pakkus' is the simple past tense of the Estonian verb 'pakuma', which means to offer something to someone."
+  "context": "The word 'pakkus' is the past tense form of the Estonian verb 'pakuma', which means 'to offer' or 'to suggest'. It refers to the action of presenting something for consideration, giving someone a choice, or proposing an idea. In Estonian grammar, this would be the third-person singular past tense form of the verb."
 }

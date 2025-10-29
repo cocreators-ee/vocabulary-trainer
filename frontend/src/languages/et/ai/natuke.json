@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen natuke võõras.",
-    "Ta on natuke haige.",
-    "See on natuke keeruline."
+    "Ma natuke olen nõrgem.",
+    "Kas sa natuke saad aidata?",
+    "See oli natuke keeruline."
   ],
   "translation": [
-    "a little",
+    "a little bit",
+    "somewhat",
     "slightly"
   ],
-  "context": "The word 'natuke' is used in Estonian to indicate a small amount or degree of something, similar to the English words 'a little' or 'slightly'."
+  "context": "The word 'natuke' is an Estonian adverb that means 'a little bit', 'somewhat', or 'slightly'. It's used to modify verbs, adjectives, or other adverbs to indicate a small degree or amount. For example, in the first sentence 'Ma natuke olen nõrgem,' it modifies the verb 'olen' (am) to indicate that the speaker is a little weaker than usual. In Estonian grammar, this type of adverb typically doesn't change form based on gender or number."
 }

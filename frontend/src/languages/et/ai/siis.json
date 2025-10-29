@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma siis lähen kinno",
-    "Ta on siis tema",
-    "See oli siis nii"
+    "Siis on hea aeg minna puhkama.",
+    "Kui sa saabub siis, meie juba alustame.",
+    "Siin oli nii ilus, et tuli siis tagasi."
   ],
   "translation": [
     "then",
-    "so"
+    "at that time",
+    "in that case"
   ],
-  "context": "The word 'siis' in Estonian is a conjunction used to indicate a consequence or a conclusion, and it can be translated to English as 'then' or 'so', depending on the context."
+  "context": "The Estonian word 'siis' is an adverb meaning 'then' or 'at that time'. It's commonly used to indicate a point in time following something else mentioned. In the first sentence, it refers to a specific time when it would be good to go on vacation. The second example uses it as a reference to when someone arrives. The third example shows how it can also mean 'in that case' when referring back to a previous statement about a place being nice."
 }

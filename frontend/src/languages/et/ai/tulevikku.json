@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tulevikku suhtes optimist.",
-    "Tulevikku ei ole kindel.",
-    "Me peame muretsema tulevikku."
+    "Mida sa tead tulevikust?",
+    "Meie tulevikkus on hea.",
+    "Kuidas näeb välja sinu tulevikku?"
   ],
   "translation": [
-    "future",
-    "futurity"
+    "future (illative case)",
+    "into the future"
   ],
-  "context": "The word 'tulevikku' is the genitive form of the Estonian noun 'tulevik', which generally refers to a period of time that has not yet happened, and is commonly used when discussing upcoming events or situations."
+  "context": "The word 'tulevikku' is the Estonian word for 'future' in the illative case. The illative case indicates direction or movement towards something, so 'tulevikku' specifically means 'into the future'. It's used to express motion or direction toward the future time period."
 }

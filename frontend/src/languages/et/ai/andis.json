@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta andis mulle raamatuid.",
-    "Ma andsin talle kingituse.",
-    "Andis ta mulle abi?"
+    "Tüdruk andis koerale leiba.",
+    "Meie isa andis mulle raamatu.",
+    "Nad said kingituse ja nad andis see edasi."
   ],
   "translation": [
     "gave",
-    "donated",
+    "handed over",
     "provided"
   ],
-  "context": "The word 'andis' is the third person singular form of the verb 'anda', which means to give or provide something to someone."
+  "context": "The word 'andis' is the past tense third person singular form of the Estonian verb 'anda', which means 'to give'. It indicates that someone (he/she/it) performed the action of giving something to someone or something in the past. This is a common verb used in everyday communication for transferring objects, information, or gifts."
 }

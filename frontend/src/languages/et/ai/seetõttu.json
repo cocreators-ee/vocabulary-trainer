@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lähen kinno seetõttu, et mul on vaba aeg.",
-    "Ta otsustas mitte minna koos seetõttu, et tal oli halb meel.",
-    "Seetõttu, et ilm on hea, saame jalutada."
+    "Seetõttu olen ma väga rõõmus.",
+    "Me peame seetõttu kiirustama.",
+    "See ei ole tõene, seetõttu ei saa me seda teha."
   ],
   "translation": [
     "therefore",
-    "thus",
+    "so",
+    "that's why",
     "hence"
   ],
-  "context": "The word seetõttu is a conjunctive adverb in Estonian that is used to indicate a reason or explanation for something, similar to the English words therefore, thus, or hence."
+  "context": "Seetõttu is an Estonian conjunction used to indicate a consequence or result. It connects a cause with its effect, similar to 'therefore' or 'that's why' in English. The word breaks down as 'see-' (this/that) + '-tõttu' (because of/due to), literally meaning 'because of this'. It is commonly used at the beginning of sentences to introduce a conclusion based on previously stated information."
 }

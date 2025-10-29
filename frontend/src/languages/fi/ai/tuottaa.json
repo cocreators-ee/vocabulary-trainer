@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minun on pakko tuottaa enemmän työtä tänään.",
-    "Hänen yrityksensä tuottaa paljon voittoa.",
-    "Tuo laite ei tuottaa tarpeeksi sähköä."
+    "Minun täytyy tuottaa raportti viimeistään perjantaina.",
+    "Yritys pyrkii tuottaan laadukkaita tuotteita.",
+    "Uusi tehdas alkaa tuottaa sähköä jo ensi kuussa."
   ],
   "translation": [
-    "produce",
-    "generate",
-    "yield"
+    "to produce",
+    "to create",
+    "to generate",
+    "to yield"
   ],
-  "context": "The word 'tuottaa' is commonly used in Finnish to mean producing or generating something, such as goods, services, or energy. It can also be used in a more abstract sense to describe creating or yielding an idea or result."
+  "context": "The Finnish verb 'tuottaa' is a transitive verb meaning to produce, create, generate or yield something. It can refer to manufacturing goods, creating products, producing results, generating electricity, or yielding crops/profits. The word appears in various contexts including business, industry, and everyday life."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Virtaus on veden liike",
-    "Ilman virtaus aiheuttaa melua",
-    "Sähkövirtaus kulkee johtimessa"
+    "Virtaus on nesteiden tai kaasun liikettä.",
+    "Ilmavirrat tuovat viileää ilmaa huoneeseen.",
+    "Tämä joella on voimakas virtaus."
   ],
   "translation": [
     "flow",
     "current",
     "stream"
   ],
-  "context": "The word virtaus refers to the movement of a fluid, such as water or air, and can also be used to describe an electric current."
+  "context": "In Finnish, 'virtaus' is a noun that refers to the flow or movement of liquids or gases. It can describe water currents in rivers and oceans, air currents in the atmosphere, or any kind of fluid motion. The word comes from the verb 'virrata' which means 'to flow'. In technical contexts, it might be used in physics or engineering to describe fluid dynamics."
 }

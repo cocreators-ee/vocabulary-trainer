@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta varastas mu auto.",
-    "Varastas ta mu raamatud?",
-    "Olen näinud teda enne, kui ta varastas poest."
+    "Eesriie varastati kinost.",
+    "Kellelgi varastas taskust raha.",
+    "Poisike varastas suhkruhapuust maiustuse."
   ],
   "translation": [
     "stole",
-    "thief"
+    "took without permission"
   ],
-  "context": "The word 'varastas' is a verb in Estonian that means to steal or rob something, and it is commonly used in sentences to describe an act of theft."
+  "context": "The word 'varastas' is the past tense singular form of the Estonian verb 'varastama', which means 'to steal'. It indicates that someone stole something in the past. The word follows a subject-verb-object pattern typical in Estonian sentences."
 }

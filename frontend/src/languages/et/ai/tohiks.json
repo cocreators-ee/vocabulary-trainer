@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tohiksin sinda küsida ühte asja.",
-    "Sa tohiksid rohkem tööd teha.",
-    "Tohiks ma lahkuda?"
+    "Tohiks ta tulema täna õhtul.",
+    "Me peaksime minema, aga tohiks olla natuke hiljemem.",
+    "Kas sa tohiksid aidata mulle seda tööd?"
   ],
   "translation": [
-    "may",
     "should",
-    "might"
+    "ought to",
+    "might as well"
   ],
-  "context": "The word 'tohiks' expresses possibility or permission, similar to 'may', 'should', or 'might' in English. It is often used when asking for permission or suggesting a course of action."
+  "context": "The Estonian word 'tohiks' is the conditional mood form of the modal verb 'tõima', which means 'to ought/should'. It expresses what someone should or ought to do, often with a sense of obligation or suggestion. The conditional form indicates that this is not a firm requirement but rather a recommendation or possibility. In different contexts, it can translate to English as 'should', 'ought to', or 'might as well' depending on the nuance of the situation."
 }

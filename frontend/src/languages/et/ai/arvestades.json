@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma arvestan, et see on hea mõte.",
-    "Ta arvestas kogu aeg, et ei ole piisavalt raha.",
-    "Arvestades kõiki aspekte, otsustasime selle projekti algatada."
+    "Arvestades kõiki tegureid, me otsustasime edasi lükata.",
+    "Ta teeb head tööd arvestades oma noorust.",
+    "Arvestades praegust olukorda, oleme sunnitud muutuste tegemise."
   ],
   "translation": [
+    "taking into account",
     "considering",
-    "estimating",
-    "evaluating"
+    "bearing in mind"
   ],
-  "context": "The word 'arvestades' in Estonian means considering or taking something into account, and it is commonly used to describe the process of evaluating different factors before making a decision."
+  "context": "The word 'arvestades' is the elative case of the Estonian verb 'arvestama', meaning 'to take into account' or 'to consider'. It functions as an adverbial participle, used to introduce a condition or reason. In English, it's commonly translated as 'taking into account,' 'considering,' or 'bearing in mind.' The word typically appears at the beginning of a sentence in Estonian and introduces information that qualifies the main action."
 }

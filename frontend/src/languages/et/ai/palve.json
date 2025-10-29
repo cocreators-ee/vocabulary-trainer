@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tean, et minu palve on ilmalik.",
-    "Nende palved olid korduväsimust mõistma.",
-    "Ta tegi palve taotluse kohta.",
-    "Eile õhtul tegime me palverännak."
+    "Palve, aita mind üles otsima.",
+    "Ma saan palvete kaudu rohkem infot.",
+    "Tema on meie parim palve."
   ],
   "translation": [
     "request",
-    "prayer",
-    "plea"
+    "petition",
+    "plea",
+    "appeal"
   ],
-  "context": "The term 'palve' can be translated as a request or plea in general contexts, but it is most commonly used for religious prayer. It might also refer to the act of praying itself."
+  "context": "In Estonian, 'palve' is a noun that means a request, petition, plea, or appeal. It refers to an earnest or humble request for something, often made formally or respectfully. The word can be used in various contexts such as making requests for help, submitting petitions, or making appeals."
 }

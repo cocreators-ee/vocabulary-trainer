@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen selle sõnumi saatnud.",
-    "Sõnumit ei ole veel kätte saadud.",
-    "Ta sai sõnumi ja tegi kohe midagi."
+    "Saada sõnumi oma sõbrale.",
+    "Võta üles see sõnum.",
+    "Ma ei saanud sinu sõnumit."
   ],
   "translation": [
     "message",
-    "news"
+    "note",
+    "text"
   ],
-  "context": "The word sõnumi is a noun that refers to a message or news, and it is commonly used in Estonian language to convey information or updates."
+  "context": "The Estonian word 'sõnumi' is the genitive singular form of 'sõnum', which means message or note. It's commonly used to refer to a text message, note, or communication that someone has sent or received."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma kartn oäkki.",
-    "Tõesti ei kartsid sa seda teha?",
-    "Üli siis väheke kartuse heledus."
+    "Ma ei kartma koeri.",
+    "Ta kartab õhtut.",
+    "Kas sa kartad?"
   ],
   "translation": [
     "to fear",
-    "to be afraid of"
+    "to be afraid of",
+    "to dread"
   ],
-  "context": "'Kartma' means to fear or be afraid of something. It is commonly used in describing emotions, fears, anxieties."
+  "context": "The word 'kartma' is an Estonian verb that means 'to fear' or 'to be afraid of'. It is the infinitive form (dictionary form) of the verb. In different conjugations, it changes to show who is doing the fearing and when: kartan (I fear), kartad (you fear), kartab (he/she fears), kartame (we fear), kartate (you all fear),avad (they fear). The word can be used for both physical danger and emotional anxiety."
 }

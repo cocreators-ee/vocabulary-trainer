@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Politseinik külastas kooli.",
-    "Politseid võivad olla erinevad politseinikud.",
-    "Ta oli tuntud politseinik."
+    "Politseinik jõudis kohale paar minutaga.",
+    "Tema isa oli tuntud politseinik.",
+    "Politseil on palju häid politseinikke."
   ],
   "translation": [
     "police officer",
-    "policeman"
+    "policeman",
+    "cop"
   ],
-  "context": "The word 'politseinik' refers to a police officer or a law enforcement official in Estonia, and it is commonly used in formal and informal settings to describe someone who works in the police force."
+  "context": "The word 'politseinik' is an Estonian noun meaning a police officer. It refers to a person who works in law enforcement and maintains public order. The word can be used for both male and female officers, though there may be gender-specific variations like 'politseiohvitser'. In plural form it would be 'politseinikud'."
 }

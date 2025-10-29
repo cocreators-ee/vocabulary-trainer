@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta sobiks sellele tööle.",
-    "Sobiks see mulle?",
-    "See sobiks väga hästi."
+    "Tema sobiks hästi sellele ametikohale.",
+    "See väike auto sobiks meie perele täiuslikult.",
+    "Kas see värk sobiks sinu stiili?"
   ],
   "translation": [
-    "fits",
-    "is suitable"
+    "would suit",
+    "would fit",
+    "would be suitable for"
   ],
-  "context": "The word 'sobiks' is commonly used in Estonian to express that something or someone is fitting or suitable for a particular purpose or situation."
+  "context": "The word 'sobiks' is the conditional form (conditional mood) of the verb 'soma' or 'sobima', meaning 'to suit' or 'to fit'. In Estonian, it expresses what would be suitable or fitting in a hypothetical situation. This form is used when talking about possibilities or conditions that aren't certain but could happen."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olin seal",
-    "Sa olid väga hea",
-    "Me oleme õnnelikud, et te olid meiega"
+    "Tema oli hea õpetaja. Tema olnud hea õpetaja. Tema olemas olnud hea õpetaja."
   ],
   "translation": [
     "was",
     "were",
-    "been"
+    "has been",
+    "have been"
   ],
-  "context": "The word 'olid' is the past tense of the verb 'olema', which means 'to be'. It is commonly used to describe a state or condition in the past."
+  "context": "\"olid\" is the past tense form of the Estonian verb \"olema\" (to be). It specifically represents the simple past tense, equivalent to English \"was\" or \"were\". This word is used when describing a state that existed in the past but has now ended. For example, \"Tema oli hea õpetaja\" means \"He was a good teacher.\" The word can also appear in compound tenses like perfect tense with auxiliary verbs."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma saadan talle ema kirja",
-    "Ema on väga hea inimene",
-    "Ema armastab mind"
+    "Ema on hea kokk.",
+    "Mul on kaks ema: bioloogiline ja kasuema.",
+    "Tema ema oli arst."
   ],
   "translation": [
+    "mother",
     "mom",
-    "mother"
+    "mama"
   ],
-  "context": "The word ema is used to refer to one's mother or a female parent figure, similar to how it is used in English."
+  "context": "The Estonian word 'ema' means mother or mom in English. It's a feminine noun that refers to one's female parent. In Estonian grammar, it would be in the nominative case here as no suffixes are shown. The word can take different forms when declined for cases (genitive, partitive, etc.) and numbers (plural would be 'emad')."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähin kohti kodu",
-    "Ta sõitis kohti Tallinna",
-    "Me suundusime kohti mereäärset parki"
+    "Ta kõndis kohti linna keskust.",
+    "Auto sõitis otse kohti mäe otsa.",
+    "Meie teekond kulgeb kohti põhja."
   ],
   "translation": [
-    "toward",
-    "towards"
+    "towards",
+    "in the direction of",
+    "to"
   ],
-  "context": "The word 'kohti' in Estonian means 'toward' or 'towards' and is used to indicate direction or movement towards something."
+  "context": "The word 'kohti' is a postposition in Estonian that indicates movement or direction towards a specific destination. It functions similarly to prepositions like 'towards' or 'to' in English, but follows the noun it modifies rather than preceding it. This is a common feature of Estonian where many case markers and direction indicators are suffixes or follow words rather than being separate words."
 }

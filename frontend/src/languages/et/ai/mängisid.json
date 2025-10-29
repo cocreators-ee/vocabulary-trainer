@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lapsed mängisid pargis.",
-    "Nad mängisid jalgpalli.",
-    "Meie ei mänginud kunagi sellist mänge."
+    "Tüdrukud mängisid palli pargis.",
+    "Lapsed mängisid peopesu.",
+    "Mehed mängisid võrkpalli."
   ],
   "translation": [
     "played"
   ],
-  "context": "The word 'mängisid' is the third person plural past tense form of the verb 'mängima', which means to play."
+  "context": "The word 'mängisid' is the past tense plural form of the Estonian verb 'mängima', which means 'to play'. It specifically indicates that multiple people or subjects performed the action of playing in the past. This could refer to playing games, sports, musical instruments, or even acting in a performance context."
 }

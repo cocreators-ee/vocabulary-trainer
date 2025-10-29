@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ostsin lennukile kingapaeli.",
-    "Lennuki eest tasusin juba.",
-    "Tundub, et lennuk läbib veebahuvälja."
+    "Vaata lennuki lendavat!",
+    "Ma ostan uue lennuki.",
+    "Lennukit ei tohi kodanikuga kaasa viia."
   ],
   "translation": [
     "airplane",
-    "flight"
+    "plane",
+    "aircraft"
   ],
-  "context": "'lennukit' is the partitive singular form of 'lennuk', which means airplane or flight. It is commonly used with verbs indicating buying something for the plane (like food), paying for a ticket, or describing events happening to the aircraft."
+  "context": "The word 'lennukit' is the partitive case form of the Estonian noun 'lennuk', which means airplane or aircraft. The partitive case is used in Estonian to indicate incomplete action, indefinite quantity, or after certain verbs and prepositions. In this form, it would be used with expressions like 'buying an airplane' (ostan lennuki), looking at an airplane (vaata lennukit), or when referring to the concept of an aircraft in general."
 }

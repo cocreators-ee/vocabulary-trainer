@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Palun selgita lähemalt.",
-    "Vaata asja lähemalt.",
-    "Tohib küsida, kuidas see töötab vormistamisel lähemalt?"
+    "Vaata lähemalt seda joonist.",
+    "Selgita lähemalt oma plaani.",
+    "Ma vaatan selle asja lähemalt."
   ],
   "translation": [
-    "more",
-    "closer",
-    "in more detail"
+    "more closely",
+    "in more detail",
+    "closer"
   ],
-  "context": "'Lähemalt' is used to indicate something in greater detail or closer proximity."
+  "context": "The Estonian word 'lähemalt' is an adverb that means 'more closely' or 'in more detail'. It is derived from the root word 'lähedane' (near/close) with the comparative suffix '-em-' and the adverbial ending '-lt', forming a comparative degree adverb used to indicate examining something in greater proximity or with more thoroughness than before."
 }

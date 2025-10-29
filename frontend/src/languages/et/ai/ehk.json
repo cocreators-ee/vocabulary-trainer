@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei tea, ehk on see hea mõte",
-    "Ehk sa võid aidata mulle?",
-    "Ta ütles, et ehk läheb ta homme kinno"
+    "Ehk me peaksime minema nüüd.",
+    "Ehk see on parem variant.",
+    "Ma arvan, et ehk ta tuleb ka."
   ],
   "translation": [
-    "or",
+    "maybe",
     "perhaps",
-    "maybe"
+    "possibly"
   ],
-  "context": "The word 'ehk' in Estonian is used to express uncertainty or possibility, similar to the English words 'or', 'perhaps', or 'maybe'."
+  "context": "The Estonian word 'ehk' is a common adverb used to express uncertainty or possibility. It's similar to English words like 'maybe', 'perhaps', or 'possibly'. This word is typically placed at the beginning of a sentence or clause where it introduces a suggestion, alternative idea, or uncertain proposition. In spoken language, it's often pronounced with a slight emphasis on the first syllable when expressing genuine uncertainty."
 }

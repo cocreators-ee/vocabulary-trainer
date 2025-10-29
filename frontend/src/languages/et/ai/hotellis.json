@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hotellis on ilus vaade",
-    "Meie hotellis on palju üritusi",
-    "Ta töötab hotellis"
+    "Magen hotellis Tallinnas.",
+    "Töötasin hotellis kolm aastat.",
+    "Me peame ööbima hotellis peagi."
   ],
   "translation": [
     "in the hotel",
     "at the hotel"
   ],
-  "context": "The word 'hotellis' is used to indicate a location within or at a hotel, and it is commonly used in Estonian to describe activities or events taking place in a hotel setting."
+  "context": "\"Hotellis\" is the Estonian word for \"in/at the hotel.\" It's formed from the root word \"hotell\" (hotel) with the ending \"-is,\" which indicates location or place. This form shows that something is happening inside or at the location of a hotel. The word can appear in different cases depending on sentence structure, but this specific form (-is case) indicates location within a hotel facility."
 }

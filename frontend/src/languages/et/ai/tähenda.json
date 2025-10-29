@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahan seda sõna tähenda",
-    "See lause tähendab midagi muud",
-    "Tähenda see midagi"
+    "See sõna tähendab midagi.",
+    "Tähendasin seda valesti.",
+    "Mis see tähendab?"
   ],
   "translation": [
     "to mean",
-    "means",
-    "signify"
+    "to signify",
+    "to represent"
   ],
-  "context": "The word 'tähenda' in Estonian is commonly used to convey the meaning or interpretation of something, similar to the English words 'to mean' or 'signify'."
+  "context": "The Estonian verb 'tähenda' means 'to mean' or 'to signify'. It is used to indicate the meaning of something, what something represents, or to interpret information. This word can be used in various contexts such as explaining definitions, interpreting symbols, or understanding concepts."
 }

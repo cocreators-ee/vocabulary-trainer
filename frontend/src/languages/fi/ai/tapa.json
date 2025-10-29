@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Se on tapa jokaista viikonloppua",
-    "Tavat voivat olla hyviä tai huonoja",
-    "Meidän täytyy muuttaa tapamme"
+    "Tämä on hyvä tapa.",
+    "Hänellä on tapoja.",
+    "Minulla on tapa."
   ],
   "translation": [
-    "habit",
+    "manner",
+    "way",
     "custom",
-    "manner"
+    "habit"
   ],
-  "context": "The word 'tapa' in Finnish generally refers to a habit, custom, or manner of doing something, and it is commonly used in everyday conversations to describe someone's behavior or a common practice."
+  "context": "The Finnish word 'tapa' is a noun that primarily means manner or way of doing something. It can also refer to customs, habits, or ways of behaving. In its basic form, it's singular, but in the examples provided, we see different forms like 'tavat' (plural) and 'tapa-' (in compound words). The word is versatile and commonly used in everyday Finnish conversation."
 }

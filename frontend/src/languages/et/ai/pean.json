@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma pean seda tegema",
-    "Sa pead mind armastama",
-    "Ta peab kohe tulema"
+    "Ma pean minema koju.",
+    "Tema peab tulema homme.",
+    "Meie peame rääkima."
   ],
   "translation": [
     "must",
-    "have to"
+    "have to",
+    "need to"
   ],
-  "context": "The word 'pean' is a verb in Estonian that means to have to or must do something, often used to express obligation or necessity."
+  "context": "The Estonian word 'pean' is the first person singular present tense form of the modal verb 'pidama', which means 'to have to' or 'must'. It indicates obligation, necessity, or compulsion. In English, this would translate as 'I must' or 'I have to'. This verb is used when something is necessary or required."
 }

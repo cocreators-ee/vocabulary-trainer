@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma käin koos temaga.",
-    "Ta on käinud mujal.",
-    "Käidame teatrisse."
+    "Käi koju!",
+    "Ma ei käi koolis täna.",
+    "Tule käima meie juurde!"
   ],
   "translation": [
-    "went",
     "go",
-    "walk"
+    "walk",
+    "come over",
+    "visit"
   ],
-  "context": "The word käi is a verb in Estonian that means to go or walk, and it is commonly used to describe movement from one place to another."
+  "context": "The Estonian word 'käi' is the imperative form of the verb 'käia', which primarily means to go, walk, or come visit. It's used to give commands or suggestions about movement from one place to another. In different contexts it can mean 'go home,' 'don't go to school,' or 'come over/visit us.' This is a common everyday verb used for giving directions or invitations in Estonian."
 }

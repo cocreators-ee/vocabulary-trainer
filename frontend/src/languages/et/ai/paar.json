@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea paar.",
-    "Paar on ilus.",
-    "Nad on paar."
+    "Tema on paar minutit hiljaks jäänud.",
+    "Meie lähime paariks poiss ja tüdrukuna kohtingule.",
+    "See on ainult üks paljudest paariist."
   ],
   "translation": [
+    "couple",
     "pair",
-    "couple"
+    "few"
   ],
-  "context": "The word 'paar' is commonly used in Estonian to refer to two people who are together or a pair of things, similar to how 'pair' or 'couple' would be used in English."
+  "context": "In Estonian, 'paar' is a versatile word that can mean either 'couple' (when referring to two people in a relationship) or 'pair' (when referring to two items), and it can also mean 'a few' when used with numerals. The meaning depends on context - it can refer to romantic couples, pairs of objects like shoes or gloves, or indicate a small number of things."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma hoidsin teda käest.",
-    "Sa pead oma asju hoidma.",
-    "Hoidis sind hästi."
+    "Ta hoidis kõiki oma asju selles toas.",
+    "Meie pere hoidis palju ajaloolisi esemeid.",
+    "Kes tegelikult hoidis seda saladust?"
   ],
   "translation": [
-    "hold",
-    "keep",
-    "protect"
+    "held",
+    "kept",
+    "stored",
+    "maintained"
   ],
-  "context": "The Estonian word 'hoidis' is a verb that generally means to hold, keep, or protect something. It can also imply taking care of someone or something. The tense indicates past continuous action."
+  "context": "The word 'hoidis' is the past tense singular form of the Estonian verb 'hoidma', which means to hold, keep, store, or maintain. It indicates that someone performed the action of keeping or holding something in the past."
 }

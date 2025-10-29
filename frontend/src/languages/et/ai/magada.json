@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma magan väga hästi",
-    "Ta on maganud juba tunde",
-    "Laps magab oma voodis"
+    "Ma magan öösel.",
+    "Ta magas päeva jooksul.",
+    "Lapsed ei maga hästi.",
+    "Magasin kaua.",
+    "Me magasime nädalavahetustel."
   ],
   "translation": [
-    "sleep",
-    "to sleep"
+    "to sleep",
+    "sleeping"
   ],
-  "context": "The word 'magada' in Estonian means to sleep or be asleep, and it is commonly used in various contexts, such as describing someone's sleeping habits or the act of falling asleep."
+  "context": "The Estonian verb 'magada' means 'to sleep'. It is an infinitive form that indicates the action of sleeping. In different contexts, it can be conjugated to show who is sleeping (I sleep, you sleep, he/she sleeps, we sleep, they sleep) and when (present tense, past tense, future tense). For example, 'magan' means 'I sleep', 'maga' means '(you singular) sleep', 'mavad' means '(they) sleep'. The word can also be used in different tenses like 'magasin' meaning 'I slept' or 'sadan magama' meaning 'to go to sleep'."
 }

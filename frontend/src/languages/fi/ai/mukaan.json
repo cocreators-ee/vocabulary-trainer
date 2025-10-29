@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minua pyydettiin mukaan.",
-    "Hän kutsui meidät mukaan juhlaan.",
-    "Lähditkö ilman minua vai myöntäisit vaikka vain yhteen johonkin?"
+    "Minä tulen mukaan.",
+    "Hän menee mukaan.",
+    "He tulivat mukaan."
   ],
   "translation": [
-    "into",
     "along with",
-    "with"
+    "according to",
+    "following"
   ],
-  "context": "'mukaan' is a versatile word in Finnish used to express inclusion or accompaniment. It can mean 'into', 'with', or 'along with', depending on the context and sentence structure."
+  "context": "The Finnish word 'mukaan' is a postposition that typically means 'with', 'according to', or 'following'. It indicates accompaniment or agreement with something. In the examples provided, it's used in different contexts: 'Minä tulen mukaan' means 'I come along' or 'I join', 'Hän menee mukaan' means 'He goes along' or 'He joins', and 'He tulivat mukaan' means 'They came along' or 'They joined'."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen sinna sest ma armastan seda.",
-    "Ta tuli sinna sest ta tahab näha filmi.",
-    "Sest see on hea film, lähen kinno."
+    "Tule homme sest kell seitse.",
+    "Sest on hea ilm.",
+    "Me läheme kinno sest."
   ],
   "translation": [
     "because",
-    "since"
+    "since",
+    "as"
   ],
-  "context": "The word 'sest' in Estonian is a conjunction used to indicate the reason or explanation for something, similar to the English words 'because' or 'since'."
+  "context": "The Estonian word 'sest' is a conjunction that introduces clauses of reason or cause, similar to English 'because', 'since', or 'as'. It's used to explain why something is the case or to provide justification for an action or statement."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma kolisin uue korteri.",
-    "Kolisime linnast maale.",
-    "See oli raske kolis."
+    "Kolis uude korterisse.",
+    "Ta kolis ära.",
+    "Mees kolis naabri juurde."
   ],
   "translation": [
-    "move",
-    "relocate",
-    "transfer"
+    "moved",
+    "relocated"
   ],
-  "context": "The word 'kolis' in Estonian refers to the act of moving from one place to another, often a residence. It is commonly used when discussing changing homes or relocating to a new city or country."
+  "context": "The word 'kolis' is the past tense third person singular form of the Estonian verb 'kola', which means to move or relocate. It indicates that someone moved to a new location in the past. The root form 'kola' can be conjugated in different tenses and persons: kolan (I move), kolad (you move), kolab (he/she/it moves), kolame (we move), kolate (you plural move), kolavad (they move)."
 }

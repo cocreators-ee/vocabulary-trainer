@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Eesti riik on iseseisev",
-    "Riik annab toetust noortele ettevõtjatele",
-    "Ta töötab riigi ametnikuna"
+    "Eesti on väike riik.",
+    "Riigis on palu erinevaid linnu.",
+    "Mees töötab riigi eest."
   ],
   "translation": [
     "state",
-    "country",
-    "nation"
+    "country"
   ],
-  "context": "The word 'riik' in Estonian generally refers to a state or country, and is commonly used in contexts such as politics, governance, and national identity."
+  "context": "The Estonian word 'riik' is a noun that refers to a political state or country. It can be used in various contexts when talking about nations, governments, and political entities. In the examples provided, it's shown being used as a common noun in different grammatical cases - nominative case (riik), partitive case (riigis), and illative case (riigi)."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vajan abi",
-    "Ta on hea abi",
-    "Abi on vaja"
+    "Mul on vaja abi.",
+    "Palun aita mind.",
+    "Töökoht otsib uusi abilisi."
   ],
   "translation": [
     "help",
     "aid",
     "assistance"
   ],
-  "context": "The word 'abi' in Estonian generally refers to help or assistance, and it is commonly used in various contexts to ask for or offer support."
+  "context": "In Estonian, 'abi' is a noun that means help or assistance. It can be used in various contexts such as asking for help ('Mul on vaja abi' - I need help), providing aid ('Palun aita mind' - Please help me), or referring to assistants or helpers ('Töökoht ootsib uusi abilisi' - The workplace is looking for new assistants)."
 }

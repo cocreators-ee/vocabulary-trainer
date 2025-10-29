@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta pankas mind päris kõva.",
-    "Panka see pakk papptasu.",
-    "Ma panin panka jalga."
+    "Panka sõidavad meie perekonnaga.",
+    "Meil on vaja panka minna.",
+    "Kas sa käisid täna pangas?"
   ],
   "translation": [
-    "to hit",
-    "to punch"
+    "bank (institution)",
+    "to bank",
+    "banking"
   ],
-  "context": "The word 'panka' in Estonian means to hit or punch something or someone, and it is commonly used in a physical sense, such as in a fight or when playing contact sports. The example sentences demonstrate different forms of the word 'panka', including the verb 'pankas' meaning he/she/it hits, 'panka' as a noun referring to a blow, and 'panin' which is the first person singular past tense form meaning I hit."
+  "context": "The word 'panka' is the illative case form of the Estonian noun 'pank', which means 'bank' as in a financial institution. The illative case indicates movement towards or into something, so 'panka' specifically means 'into the bank' or 'to the bank'. It's used when talking about going to visit a bank for banking activities."
 }

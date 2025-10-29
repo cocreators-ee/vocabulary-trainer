@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen bussi peatuse lähedal.",
-    "Ta sai bussijuhiks.",
-    "Bussid sõidavad tihti."
+    "Buss sõidab mööda peatust.",
+    "Olen ootamas bussi number 5.",
+    "Bussid käivad kaks korda tunnis."
   ],
   "translation": [
     "bus"
   ],
-  "context": "The word \"buss\" refers to a large motor vehicle designed to carry passengers, typically along a fixed route. It is commonly used in Estonian to describe public transportation or a means of traveling by road."
+  "context": "The Estonian word 'buss' means 'bus' in English. It is a masculine noun in Estonian that refers to a large motor vehicle designed to carry passengers, typically along a fixed route. The word follows standard Estonian grammar patterns for nouns and can be declined in various cases (nominative, genitive, partitive, etc.) depending on its function in the sentence."
 }

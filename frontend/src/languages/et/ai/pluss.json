@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minu tulemus oli pluss kaheksa.",
-    "Tema meel on alati pluss.",
-    "Kui lisa sellele veel ühe plussi."
+    "Pluss kaks on viis.",
+    "Meie hinnete keskmiseks on pluss kolm.",
+    "Tema saatis meile pluss ühe kirja."
   ],
   "translation": [
     "plus",
-    "+"
+    "positive",
+    "additional",
+    "surcharge"
   ],
-  "context": "'pluss' means 'plus' in Estonian and is used in the context of addition, positive scores or approvals. It can be used as a noun or part of an expression indicating something added or positive."
+  "context": "In Estonian, 'pluss' is a loanword from English that functions as both an adjective and a noun. It's commonly used in mathematical contexts to mean the plus sign (+), but can also refer to something positive or additional. The word remains unchanged in different grammatical cases in its basic form."
 }

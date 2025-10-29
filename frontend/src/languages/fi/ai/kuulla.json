@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Kuulen sinun äänesi",
-    "Hän kuuli kaiken",
-    "Emme kuule mitään"
+    "Minun kuulla sinut.",
+    "Hän ei kuulla minua.",
+    "He kuulevat meidät."
   ],
   "translation": [
-    "hear",
-    "listen"
+    "to hear",
+    "to listen to"
   ],
-  "context": "The word 'kuulla' in Finnish means to hear or listen to something, and it is commonly used in various contexts such as listening to music, hearing a sound, or paying attention to someone's voice."
+  "context": "The Finnish verb 'kuulla' means 'to hear' or 'to listen to'. It's an active verb that indicates the action of perceiving sound through hearing. In different conjugations, it can appear as 'kuulen' (I hear), 'kuulet' (you hear/hear you), 'kuulee' (he/she/it hears), 'kuulumme' (we hear), 'kuulatte' (you all hear), and 'kuulevat' (they hear)."
 }

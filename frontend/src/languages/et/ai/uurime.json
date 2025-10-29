@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me uurime seda probleemi",
-    "Ta uuris küsimuse põhjalikult",
-    "Nende ülesanne on uurida juhtumit"
+    "Me uurime uut tehnoloogiat.",
+    "Tüdrukud uurima loodusmuseume.",
+    "Sa pead oma tunded uurima."
   ],
   "translation": [
     "investigate",
     "examine",
-    "inquire"
+    "research",
+    "explore"
   ],
-  "context": "The word 'uurime' is commonly used in Estonian to mean investigating or examining something, and it can be translated to English as 'to investigate', 'to examine', or 'to inquire'."
+  "context": "The Estonian word 'uurime' is the 1st person plural present indicative form of the verb 'uurida', which means to investigate, examine, research, or explore. It translates to 'we investigate/examine/research/explore' in English. The root 'uuri-' combined with the ending '-me' indicates the first person plural (we) subject performing the action in the present tense."
 }

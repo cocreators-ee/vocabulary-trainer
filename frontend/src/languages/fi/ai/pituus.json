@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Seinän pituus on neljä metriä.",
-    "Hirsipuun pituus oli viisi metriä.",
-    "Pöydän pituus on kolme metriä."
+    "Minun pituuteni on 175 senttimetriä.",
+    "Mikä on tämän huoneen pituus?",
+    "Auton pituus oli yli neljä metriä."
   ],
   "translation": [
     "length",
+    "height",
     "size"
   ],
-  "context": "The word 'pituus' in Finnish refers to the measurement or extent of something from one end to the other, and it is commonly used to describe the length of objects."
+  "context": "The Finnish word 'pituus' refers to measurement of length or height. It is a noun that indicates the extent of something from end to end, often used when measuring physical dimensions like human height, room dimensions, or object size."
 }

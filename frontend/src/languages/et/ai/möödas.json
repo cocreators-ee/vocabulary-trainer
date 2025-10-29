@@ -1,13 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mälestad ta meile mööduma.",
-    "Ta puhus läbi sõrmude, et meist kõikjal ei möödaas.",
-    "Minu juured ei lase mind sinna mööduda."
+    "Möödas oli hea päev.",
+    "Ta oli möödast mööda liikunud.",
+    "Kas sa oled möödas käinud?"
   ],
   "translation": [
-    "passed by"
+    "past",
+    "gone by",
+    "over",
+    "finished"
   ],
-  "context": "The Estonian word 'möödas' is used to express the idea of passing by or moving past something. It can be used in both literal and figurative contexts, indicating movement from one place to another without stopping."
+  "context": "The word 'möödas' is an Estonian adverb meaning something has passed or gone by. It indicates that a period of time, event, or opportunity has already occurred and is in the past. This word is often used to describe completed actions or things that are no longer current."
 }

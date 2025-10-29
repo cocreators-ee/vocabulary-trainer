@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mille vastu sa oled?",
-    "Kellest mille teada?",
-    "Milleks see on välja valmistatud?"
+    "Mille nimi on?",
+    "Olen küsitud, mille jaoks oled sa tulnud.",
+    "Ta oli nii hea milleni"
   ],
   "translation": [
-    "which",
-    "what",
-    "of which"
+    "for which",
+    "of what",
+    "to what extent"
   ],
-  "context": "The word 'mille' is used in Estonian to ask about the object or quality of something. It's similar to asking 'which' or 'what' but more specific when referring back to a previously mentioned noun."
+  "context": "In Estonian, 'mille' is the interrogative/indefinite pronoun form used to ask about purpose or reason. It's related to the question word 'millal' (when) and can be thought of as asking 'for what' or 'of what'. The word appears in questions seeking information about the reason, purpose, or extent of something."
 }

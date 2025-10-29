@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta langes lõksu.",
-    "Me panime talle lõksu ette.",
-    "See on ohtlik lõks."
+    "Ta lõi lõksu.",
+    "Vahistati kinni lõksu jäänud kurjategija.",
+    "Hunt oli vangis lõksus."
   ],
   "translation": [
     "trap",
     "snare",
-    "pitfall"
+    "catch"
   ],
-  "context": "The Estonian word 'lõksu' refers to a trap or snare, something designed to catch animals or people. It can also be used metaphorically to describe a difficult situation that someone has fallen into."
+  "context": "The Estonian word 'lõksu' is the partitive case form of the noun 'lõks', which means trap or snare. In partitive case, it indicates an incomplete action or partial object - so 'lõksu' would mean '(in)to a trap' or 'as a trap'. It's commonly used when referring to something being caught or trapped in a literal sense."
 }

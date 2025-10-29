@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta vaatas tagant õla üle.",
-    "Kass jooksis tooli tagant välja.",
-    "See juhtus aasta tagant."
+    "Ta jooksis tagasi tagant",
+    "Auto sõitis temalt tagant üle",
+    "Lapsed tulid tagant uksest"
   ],
   "translation": [
-    "behind",
     "from behind",
-    "after"
+    "backwards",
+    "rearward"
   ],
-  "context": "The Estonian word 'tagant' generally corresponds to the English prepositions 'behind', 'from behind', or 'after', indicating a position or time relative to something else. It often implies movement or origin from a rear location or a point in time following another."
+  "context": "In Estonian, 'tagant' is an adverb that means 'from behind' or 'backwards'. It indicates the direction from which something comes or moves. The word is used to describe movement or position relative to someone's back side or rear area."
 }

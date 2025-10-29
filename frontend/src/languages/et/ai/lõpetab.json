@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lõpetab kooli varakult.",
-    "Kui ta lõpetab töö, siis läheb koju.",
-    "Lõpetab see projekt tulemusena edu?"
+    "Ta lõpetab kooli aastal 2023.",
+    "Mees lõpetab töö kell viis.",
+    "Naised lõpetavad ürituse edukalt."
   ],
   "translation": [
     "finishes",
     "completes",
     "ends"
   ],
-  "context": "The word 'lõpetab' is a verb in Estonian that means to finish or complete something, and it is commonly used in everyday conversations to describe the act of bringing something to an end."
+  "context": "The word 'lõpetab' is the third-person singular present form of the Estonian verb 'lõpetama', which means to finish, complete or end something. It indicates that someone or something is currently in the process of bringing an activity or state to a conclusion."
 }

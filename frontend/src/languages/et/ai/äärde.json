@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elab äärde elanikega koos.",
-    "Äärde on palju aiandeid.",
-    "Meie äärde ei ole midagi erilist."
+    "Mõtlesin äärde.",
+    "Ta jooksis äärde.",
+    "Lapsed mängisid äärde."
   ],
   "translation": [
-    "edge",
-    "border",
-    "fringe"
+    "to the edge",
+    "at the edge"
   ],
-  "context": "The word äärde in Estonian refers to the edge or border of something, and it is commonly used to describe a location or a position at the boundary of an area."
+  "context": "The Estonian word 'äärde' is a directional case form (illative) of the noun 'ääre', which means 'edge'. It indicates movement toward or arrival at an edge. The illative case in Estonian shows motion towards something, so 'äärde' specifically means 'to the edge' or 'at the edge', indicating that someone or something has moved to a position at the edge of something."
 }

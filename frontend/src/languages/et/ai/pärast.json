@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen kinno pärast.",
-    "Ta on väsinud pärast pikka päeva.",
-    "Lahkuyme koju pärast seda."
+    "Pärast lõpetasin töö.",
+    "Me läheme pärast öösel kodusse.",
+    "Tuleb homme pärast lõuna."
   ],
   "translation": [
     "after",
-    "following"
+    "later"
   ],
-  "context": "The word 'pärast' is commonly used in Estonian to indicate a time or event that occurs after something else, similar to the English preposition 'after'."
+  "context": "The Estonian word 'pärast' is an adverb that means 'after' or 'later'. It typically indicates something occurs after a specified time or event. In the first example, it shows completion of work; in the second, it indicates a later evening return home; and in the third, it specifies coming back after lunch tomorrow."
 }

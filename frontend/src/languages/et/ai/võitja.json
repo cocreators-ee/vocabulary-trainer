@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on võitja",
-    "Võitja saab auhinna",
-    "Võitjad said tunnustuse"
+    "Võitja sai kuldmedali",
+    "Esimene võitjas on mees",
+    "Kelleks sa võitjad"
   ],
   "translation": [
     "winner",
-    "champion"
+    "champion",
+    "victor"
   ],
-  "context": "The word 'võitja' refers to a person or team that has won a competition, contest, or game, and is commonly used in sports and other competitive contexts to describe the successful participant."
+  "context": "The word 'võitja' is a masculine singular noun in Estonian that means 'winner', 'champion', or 'victor'. It refers to someone who has won a competition, contest, or achieved victory. The word comes from the verb 'võita' (to win), with the '-ja' suffix indicating an agent/doer - someone who performs the action of winning."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lukkus ukse",
-    "Lukku on vajalik turvalisuse tagamiseks",
-    "Ma otsin lukku, et mu ukse lukkuda"
+    "Lukku on laudal.",
+    "Võta lukku kaasa.",
+    "Nägin uut lukku poes."
   ],
   "translation": [
     "lock",
-    "to lock"
+    "latch",
+    "fastening"
   ],
-  "context": "The word 'lukku' in Estonian means to lock something or a lock itself, it is commonly used when talking about securing doors or other things that need to be closed and fastened."
+  "context": "The word 'lukku' in Estonian is an illative case form of the noun 'lukk', which means a lock or latch. The illative case indicates movement into or towards something, so 'lukku' specifically refers to 'into the lock' or 'to the lock'. It's used when referring to putting something into a lock position or moving toward a lock. This is different from the nominative form 'lukk' which simply means 'lock' as in an object."
 }

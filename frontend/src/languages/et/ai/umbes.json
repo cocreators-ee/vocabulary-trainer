@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen umbes kuue meetri kõrgusel.",
-    "Ta on umbes kaheksa aastat vana.",
-    "Meie oleme umbes samas vanuses."
+    "Ma olen umbes 30 aastane.",
+    "Tema tuleb umbes kell kolm.",
+    "See maksab umbes viie eurot."
   ],
   "translation": [
+    "approximately",
     "about",
-    "around",
-    "approximately"
+    "around"
   ],
-  "context": "The word 'umbes' in Estonian is used to indicate an approximation or a rough estimate of something, similar to how 'about' or 'around' are used in English."
+  "context": "The Estonian word 'umbes' is an adverb used to indicate approximation or uncertainty about quantity, time, or measurement. It functions similarly to English words like 'approximately', 'about', or 'around'. The word is invariable and does not change form based on gender or number."
 }

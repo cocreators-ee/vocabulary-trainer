@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sa leiate meid Camdeni turgudel.",
-    "Kõige parem koht, kust leiate need asjad, on Internet.",
-    "Ma tean, et teil on võimalus leiate need asjad mujalt."
+    "Leite meie uue restorani juurde.",
+    "Kas te leitate mind homsel?",
+    "Mida ta leitas?"
   ],
   "translation": [
-    "find",
-    "locate"
+    "you will find",
+    "you discover",
+    "you locate"
   ],
-  "context": "The word 'leiate' is the second person plural form of the verb 'leidma', which means to find or locate something in Estonian. It is commonly used in sentences where the subject is a group of people trying to discover or identify an object, location, or information."
+  "context": "The Estonian word 'leiate' is the second person plural/formal 'you' form of the verb 'leidma', which means 'to find'. It's commonly used in directions, questions about discovery, or when asking someone to locate something. The '-te' ending indicates it's addressed to multiple people or one person formally (using the polite/plural form)."
 }

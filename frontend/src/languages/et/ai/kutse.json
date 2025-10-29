@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma saanin kutse tantsueelamisse.",
-    "Tema süda oli valmis vastama kõrgliigale oleva kutsele.",
-    "Päikeseloojanguks antakse alati suuline kutse."
+    "Kutse on täna õhtul kell seitse.",
+    "Sa said kutse esitada kuni reede pärastlõunani.",
+    "Meil oli hea kutse külalise vastuvõtuks."
   ],
   "translation": [
     "invitation",
-    "call"
+    "summons",
+    "call",
+    "appeal"
   ],
-  "context": "A 'kutse' is a formal or informal invitation to an event or gathering. It can also refer to a call to action, such as receiving a divine calling."
+  "context": "The Estonian word 'kutse' is a noun that can mean invitation, summons, call, or appeal depending on the context. It refers to being invited or summoned somewhere, calling someone for something, or making an appeal. The word can be used in various forms such as kutse (nominative), kutsete (genitive plural), kutsele (allative), and others depending on grammatical case requirements."
 }

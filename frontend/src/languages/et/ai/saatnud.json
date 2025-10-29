@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen sellele mehele juba kirja saatnud.",
-    "Saatnud on palju aega selle projekti kallal.",
-    "Ta oli mulle pildi saatnud."
+    "Ta on saatnud kirja.",
+    "Me olemes saadetud teated vastu võtnud.",
+    "Nad olid juba saadetud kodusse."
   ],
   "translation": [
     "sent",
-    "forwarded",
-    "dispatched"
+    "dispatched",
+    "delivered"
   ],
-  "context": "The word 'saatnud' is the past active participle of the verb 'saata', meaning 'to send'. It indicates that someone has already sent something. In English, it’s commonly used to describe actions completed in the past, like ‘I have sent the email’ or ‘He had dispatched the package’."
+  "context": "Saatnud is the past tense, partitive form of the Estonian verb 'saata' which means 'to send'. It specifically refers to having completed the action of sending something in the past. The word follows Estonian grammar rules where it's formed by adding -tud suffix to the stem saat- and used with a direct object in the partitive case."
 }

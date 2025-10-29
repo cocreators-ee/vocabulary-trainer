@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Esimesest kätt saadud tulemus on alati huvitav.",
-    "Rohkematele meie teeme esimesest põhimõttest lähtuvalt.",
-    "See on juba esimesest silmapaistev."
+    "Tema on esimest korda Eestis.",
+    "Meie tulemused olid esimesed klassis.",
+    "Ta tuli esimestena finišisse."
   ],
   "translation": [
-    "from the first"
+    "first",
+    "from the first",
+    "of the first"
   ],
-  "context": "The word 'esimesest' is an Estonian phrase used to indicate something originating from or related to the first in a sequence or order."
+  "context": "The word 'esimest' is part of the Estonian comparative/superlative form, specifically being the elative case (exessive case) singular form of 'esimene', meaning 'first'. It indicates movement or origin from something that is first. The '-est' ending shows it's in the superlative/comparative degree, and this specific form typically means 'from the first' or 'of the first' depending on context."
 }

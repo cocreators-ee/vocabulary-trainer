@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kasutanud seda raamatut koolis.",
-    "Ta on kasutanud sama võtme aastaid.",
-    "Kasutanud materjalid olid kvaliteetsed."
+    "Ta on kasutanud seda arvutit varem.",
+    "Kas sa oled juba kasutanud uut tarkvara?",
+    "Meie firma on kasutanud sama meetodit kolm aastat."
   ],
   "translation": [
     "used",
     "utilized",
-    "applied"
+    "employed"
   ],
-  "context": "The word 'kasutanud' is the past participle form of the Estonian verb 'kasutama', which means to use or utilize something. It is commonly used in sentences to describe an action that has been completed in the past."
+  "context": "The word 'kasutanud' is the past tense (perfect form) of the Estonian verb 'kasutama', which means 'to use'. It follows the standard Estonian past tense conjugation pattern for regular -ma verbs. The form indicates that someone has used or utilized something at some point in the past."
 }

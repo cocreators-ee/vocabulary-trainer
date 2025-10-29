@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lõpetasin kooli.",
-    "Nad lõpetasid projekti.",
-    "Ta lõpetab töö varakult."
+    "Lõpetasid kooli?",
+    "Ta lõpetasid töö kell 5.",
+    "Meie lõpetasid projekt edukalt."
   ],
   "translation": [
     "finished",
     "completed",
     "ended"
   ],
-  "context": "The word 'lõpetasid' is the second person plural past tense form of the Estonian verb 'lõpetama', which means to finish or complete something. It is commonly used in sentences where the subject has finished an action, such as completing a project."
+  "context": "The word 'lõpetasid' is the second person plural past tense form of the verb 'lõpetama', which means to finish, complete or end. It corresponds to 'you (plural) finished/completed/ended'. The '-sid' ending indicates that this is the simple past tense for plural subjects (second person)."
 }

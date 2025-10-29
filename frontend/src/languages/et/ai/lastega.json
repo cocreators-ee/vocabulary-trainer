@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lastega koos.",
-    "Lapsed on lastega mängimas.",
-    "Lastega on raske kaubamajas käia."
+    "Tüdrukud mängisid lastega.",
+    "Poisid said kingitusi lastega.",
+    "Naised rääkisid lastega."
   ],
   "translation": [
-    "with children"
+    "with children",
+    "with kids",
+    "with boys/girls"
   ],
-  "context": "The word 'lastega' is an adverbial phrase in Estonian that means 'with children'. It is commonly used to describe a situation where someone is accompanied by children, often implying that they are responsible for taking care of them. For example, if someone says 'Ma olen lastega koos', it means 'I am with the children'."
+  "context": "The word 'lastega' is an Estonian instrumental plural form meaning 'with children'. It uses the genitive singular root 'laps' (child) with the instrumental case ending '-ga', indicating accompaniment or instrumentality. This form agrees in number and case with the subject of the sentence."
 }

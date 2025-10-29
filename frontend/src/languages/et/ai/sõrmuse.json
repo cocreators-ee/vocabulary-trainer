@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta kandis sõrmust parema käe sõrme",
-    "Sõrmuse võttis ta jalga",
-    "Ostsin talle ühe ilusa sõrmuse"
+    "Ta otsib oma sõrmust.",
+    "Selle sõrmuse väärtus on suur.",
+    "Me ostasime uue sõrmuse."
   ],
   "translation": [
-    "ring",
-    "finger ring"
+    "ring finger",
+    "signet ring",
+    "jewelry",
+    "band"
   ],
-  "context": "The word sõrmuse refers to a type of jewelry that is worn on the finger, typically made of metal or other materials and often featuring gemstones or other decorative elements."
+  "context": "The word 'sõrmuse' appears to be in the partitive case of the Estonian noun 'sõrmus', which means 'ring'. In Estonian, the partitive case is often used for objects that are being acted upon or when referring to a quantity of something. The basic form 'sõrmus' refers to a ring as jewelry, particularly a finger ring. It could refer to an engagement ring, wedding band, signet ring, or any type of finger ring."
 }

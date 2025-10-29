@@ -1,17 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kuskile saad puhkuseks?",
-    "Minu lõunaostus on kuskile.",
-    "Ära mine kuskile!",
-    "Ta ei tea, kuskile minna."
+    "Kuskile peame minema kiiresti.",
+    "Ta läks kuskile poe juurde.",
+    "Meie kodu on kuskil lähedal."
   ],
   "translation": [
-    "anywhere",
     "somewhere",
-    "to anywhere",
-    "to somewhere"
+    "to some place"
   ],
-  "context": "'Kuskile' is used to indicate a destination or direction without specifying exactly where. It can mean 'anywhere,' 'somewhere,' or 'to any place.' In Estonian, it's commonly used when the exact location isn't known or specified."
+  "context": "The word 'kuskile' is an Estonian adverbial form that means 'somewhere' or 'to some place'. It's the illative case of the pronoun 'kuskil' (indefinite location), indicating movement toward an unspecified location. The '-le' suffix in Estonian typically indicates direction or purpose when added to words."
 }

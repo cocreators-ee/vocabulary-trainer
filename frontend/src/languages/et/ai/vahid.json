@@ -1,14 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma ostsin vahetult uue vahid.",
-    "Vahid on huvitav aine, mida saab kasutada erinevates situatsioonides.",
-    "Ta õppis, et vahid tuleb hoida külma kohal."
+    "Vahid seisavad värava ees.",
+    "Mees vahib linna sissepääsu.",
+    "Poisid vahivad maja ümber."
   ],
   "translation": [
-    "medicine",
-    "medication"
+    "guards",
+    "to guard",
+    "doorman"
   ],
-  "context": "Vahid refers to medicine or medication in Estonian. It is commonly used when talking about taking pills or following a prescription from a doctor."
+  "context": "The word 'vahid' is the plural form of 'vahi', which means 'guard' or 'to guard'. In Estonian, '-d' is a common plural ending for nouns. When used as a noun, 'vahid' refers to multiple guards or doormen. When used as a verb (the root form would be 'vahima'), it means the action of guarding or watching over something."
 }

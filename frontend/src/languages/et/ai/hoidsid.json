@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma hoidsid teda käest.",
-    "Ta hoidsid mind armus.",
-    "Nad hoidsid meid kinni."
+    "Ta hoidis kõiki oma saladusi.",
+    "Meie hoidsime väga hästi koos.",
+    "Nad ei hoianud kunagi midagi meiega jagada."
   ],
   "translation": [
+    "kept",
     "held",
-    "kept"
+    "stored",
+    "preserved"
   ],
-  "context": "The word 'hoidsid' is the simple past tense of the Estonian verb 'hoidma', which means to hold or keep something or someone. It is commonly used in various contexts, such as holding an object, keeping a promise, or maintaining a position."
+  "context": "The word 'hoidsid' is the past tense (second person singular) form of the Estonian verb 'hoima', which means to keep, hold, store, or preserve. It indicates an action that was done in the past by someone addressing you directly (singular). The verb can refer to physically holding something, keeping information secret, storing items, or maintaining a state over time."
 }

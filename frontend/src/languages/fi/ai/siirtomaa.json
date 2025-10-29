@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Suomi oli Ruotsin siirtomaa.",
-    "Helsinki on entisen siirtomaan pääkaupunki.",
-    "Siirtomaavalta loppui Suomessa 1800-luvulla."
+    "Siirtomaat olivat aiemmin yleisiä Euroopan vahvistuessa.",
+    "Monet maat pyrkivät etsimään uusia siirtomaita 1700-luvulla.",
+    "Intian itsenäistyminen päätti brittien aikaa siirtomaana."
   ],
   "translation": [
     "colony",
-    "dependency"
+    "colonial territory"
   ],
-  "context": "A siirtomaa refers to a colony or dependency, which is a territory that is under the control of another country, often as a result of conquest or settlement. In Finnish history, Finland was once a colony of Sweden."
+  "context": "The Finnish word 'siirtomaa' refers to a colony or colonial territory that is governed by another, more powerful country. It comes from the components 'siirto-' meaning 'transfer' and '-maa' meaning 'land', literally referring to land transferred from one ruler to another. In historical context, it refers to territories conquered and ruled by European powers during the age of imperialism."
 }

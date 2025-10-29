@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
+    "Oletko kuollut?",
     "Hän on kuollut.",
-    "Kuolleiden kirja on vanha.",
-    "Lääkäri totesi potilaan kuolleen."
+    "Eläimet olivat jo kuollut."
   ],
   "translation": [
     "dead",
     "deceased"
   ],
-  "context": "The word kuollut is commonly used in Finnish to describe something or someone that has died or passed away, and it can be translated to English as dead or deceased."
+  "context": "The word 'kuollut' is the past participle of the verb 'kuolla', which means 'to die'. It's an adjective form that describes something as dead or deceased. In Finnish, adjectives inflect for case and number, so this is in the nominative singular form used to describe a subject."
 }

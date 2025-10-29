@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen siiski õppinud inglise keelt.",
-    "Ta on siiski hea inimene.",
-    "Siiski ei ole see nii lihtne."
+    "Tuleme siiski homme.",
+    "Oled ikkagi õigel teel, siiski on see raske ülesanne.",
+    "Kuigi ta oli väga väsinud, jõudis ta siiski lõpuni."
   ],
   "translation": [
+    "nevertheless",
+    "still",
     "however",
-    "though",
-    "yet"
+    "despite this"
   ],
-  "context": "The word 'siiski' is a conjunction used to indicate a contrast or an unexpected twist, similar to the English words 'however', 'though', or 'yet'."
+  "context": "The Estonian word 'siiski' is an adverb that means neverthelesss or still. It's used to introduce a contrasting idea or to emphasize something despite previous information or expectations. In the examples, it appears in different positions within sentences but consistently functions to show contrast or persistence."
 }

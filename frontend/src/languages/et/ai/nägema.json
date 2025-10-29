@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma näen seda filmi homme.",
-    "Ta nägi mind eile.",
-    "Nägema on üks meie parimaid võimalusi."
+    "Ma nägin eile teatris head filmi.",
+    "Sa näed selles toas midagi?",
+    "Meie lapsed ei näe hästi ilma prillideta."
   ],
   "translation": [
     "to see",
-    "sight",
-    "vision"
+    "to look at",
+    "to watch"
   ],
-  "context": "The word nägema is a verb in Estonian that means to see or to sight, and it is commonly used in sentences to describe the act of seeing or perceiving something."
+  "context": "The Estonian verb 'nägema' means 'to see' or 'to look' in English. It's a common verb used to describe the act of perceiving something visually. The word can be conjugated in different tenses: nägin (past), näed (present 2nd person), näevad (present plural). In Estonian, it requires the partitive case when indicating what is being seen, unlike English which typically uses the direct object."
 }

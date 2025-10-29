@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võttis deemoni kinni.",
-    "Deemonid on kurjad vaimud.",
-    "Ma olen deemoniga kohtunud."
+    "Deemon tuleb kohe.",
+    "Mul on deemonisüütav tunne.",
+    "Need on deemonite teod."
   ],
   "translation": [
     "demon",
+    "devil",
     "evil spirit"
   ],
-  "context": "The word 'deemon' in Estonian refers to a malevolent supernatural being, similar to the English concept of a demon, and is commonly used in religious or fantasy contexts to describe an evil entity."
+  "context": "The Estonian word 'deemon' is a masculine noun that means 'demon', 'devil', or 'evil spirit'. It refers to an evil supernatural being in various religious and mythological traditions. In Estonian, it follows the normal noun declension patterns for masculine nouns ending in -n."
 }

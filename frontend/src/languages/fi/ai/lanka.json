@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Seinän vieressä oli paksu lanka.",
-    "Hän otti langan ja alkoi neuloa.",
-    "Langan päässä oli solmu."
+    "Minulla on lankaa.",
+    "Käytän punaista lankaa.",
+    "Lanka päättyi kesken."
   ],
   "translation": [
-    "thread",
     "yarn",
-    "string"
+    "thread"
   ],
-  "context": "The word \"lanka\" in Finnish refers to a thin, flexible string or thread, often used for sewing, knitting, or other crafts. It can also refer to a wire or cord, especially one that is insulated or covered with a protective material."
+  "context": "The word 'lanka' in Finnish means yarn or thread. It refers to a thin string of material used for sewing, knitting, crocheting, or other crafts. The word can be used in different forms - it's the nominative singular form, and you would see different endings in cases like 'langassa' (in yarn), 'lankaan' (into yarn), etc."
 }

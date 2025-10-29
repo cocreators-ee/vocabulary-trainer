@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Hän lopettaa työnsä tänään.",
-    "Olen jo lopettanut opiskelun.",
-    "He lopettavat kaupankäynnin huomenna."
+    "Minun täytyy lopettaa tämä työ tänään.",
+    "Hän lopetti tupakoinnin viime vuonna.",
+    "Olemme päättäneet lopettaa yhteistyön."
   ],
   "translation": [
-    "stop",
-    "quit",
-    "finish"
+    "to finish",
+    "to end",
+    "to stop",
+    "to complete"
   ],
-  "context": "The word 'lopettaa' is commonly used in Finnish to mean stopping or quitting something, and it can be used in different forms to convey slightly different meanings, such as finishing a task or ending an activity."
+  "context": "The Finnish word 'lopettaa' is a verb that means to bring something to an end or conclusion. It can be translated as 'to finish', 'to end', 'to stop', or 'to complete'. The verb indicates the termination of an action, process, activity, or relationship. For example, one might use it when finishing work, ending a habit like smoking, or concluding a partnership. In Finnish grammar, it follows standard conjugation patterns for regular verbs."
 }

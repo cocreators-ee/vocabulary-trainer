@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän on varma voittajansa",
-    "Tämä on varma valinta",
-    "Varmaa on, että hän tulee"
+    "Olen varma, että hän tulee.",
+    "Hän on aina varma päätöksissään.",
+    "Varmaan hän tulee myöhässä."
   ],
   "translation": [
     "certain",
-    "sure"
+    "sure",
+    "confident"
   ],
-  "context": "The word 'varma' in Finnish means being certain or sure about something, and it is commonly used to express confidence or conviction in a particular outcome or decision."
+  "context": "The Finnish word 'varma' is an adjective that means certain, sure, or confident. It can be used to express confidence in something happening or certainty about a fact. In the first sentence, it's used as 'olen varma' meaning 'I am certain/sure'. In the second example, 'varma' describes someone who is decisive and firm in their decisions. The third example shows 'varmaan', which is an adverbial form of the word meaning 'probably' or 'surely', indicating likelihood rather than certainty."
 }

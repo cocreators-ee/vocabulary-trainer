@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma ei toita looma.",
-    "Toit on valmis",
-    "Toitu pärast tegevust"
+    "Ma toitu kodus.",
+    "Tema toitu õhtuti.",
+    "Me toitu koos perega."
   ],
   "translation": [
-    "food"
+    "I eat at home.",
+    "She eats in the evening.",
+    "We eat with family."
   ],
-  "context": "Word 'toitu' refers to food or eating in Estonian language."
+  "context": "The word 'toitu' appears to be a misspelling or incorrect form of the Estonian verb 'toida', which means 'to feed'. However, based on the provided example sentences and context, it seems this might be intended as the 1st person singular present tense of 'toitma' (to eat), but this is not standard Estonian. Standard Estonian for 'I eat' would be 'Ma söön', not 'Ma toitu'. There may be a regional dialect variation or an error in the source data."
 }

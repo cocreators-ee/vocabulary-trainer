@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Esimerkiksi auto on kallista",
-    "Hän antoi esimerkkejä elämästään",
-    "Tilanne ei ole esimerkillinen"
+    "Tämä on esimerkiksi hyvä kirja.",
+    "Hän puhui sujuvasti esimerkiksi japania.",
+    "Olemme käyneet monissa maissa, esimerkiksi Ranskassa ja Italiassa."
   ],
   "translation": [
     "for example",
+    "such as",
     "for instance"
   ],
-  "context": "The word is used to give an example or illustrate a point, and it is commonly used in everyday conversation to provide a specific case or illustration of a general statement."
+  "context": "The Finnish word 'esimerkiksi' is an adverb used to introduce examples or illustrations. It functions similarly to the English phrases 'for example', 'such as', or 'for instance'. The word literally means 'as an example' and is commonly used in both spoken and written Finnish to clarify a point by providing specific instances."
 }

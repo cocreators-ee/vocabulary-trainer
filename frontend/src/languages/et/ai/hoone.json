@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hoone on suur",
-    "Maja hoone on vanalinnas",
-    "Hoonele anti uus nimi"
+    "See on uus hoone.",
+    "Meie koolis on palju hoonet.",
+    "Hooned linna keskel on väga kõrged."
   ],
   "translation": [
     "building",
+    "structure",
     "house"
   ],
-  "context": "The word 'hoone' in Estonian refers to a building or a house, and it is commonly used in everyday language to describe various types of structures."
+  "context": "In Estonian, 'hoone' is a noun that refers to a building or structure. It's in the singular nominative form here. The word can refer to any type of building - houses, office buildings, schools, etc. In the examples: 1) 'See on uus hoone' means 'This is a new building.' 2) 'Meie koolis on palju hoonet' shows the partitive case ('hoonet') meaning 'There are many buildings in our school.' 3) 'Hooned linna keskel on väga kõrged' uses the plural form ('hooned') to mean 'Buildings in the city center are very tall.'"
 }

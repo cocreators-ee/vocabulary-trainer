@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma valetan suhtlema politseiga",
-    "Ta valetas kohe, kui ta näeb politseinikku",
-    "Valeta tähendab valede rääkimist"
+    "Ma ei valeta sulle.",
+    "Ta alati valetab oma töökohta.",
+    "Meil on õigus valeta, kui see aitab meid pääseda keerulisest olukorrast."
   ],
   "translation": [
     "to lie",
-    "to tell lies"
+    "to deceive",
+    "to tell a falsehood"
   ],
-  "context": "The word valeta in Estonian means to tell lies or to be dishonest, and it is commonly used in situations where someone is not telling the truth."
+  "context": "The Estonian word 'valeta' is the 3rd person singular present tense form of the verb 'valem', which means 'to lie'. It's used when someone tells an untruth or makes a false statement. The root form would be 'valema', and this is specifically the third person form - 'he/she lies'. In Estonian, verbs conjugate according to person and number, so 'valeta' specifically refers to what one person (singular) does in the present tense."
 }

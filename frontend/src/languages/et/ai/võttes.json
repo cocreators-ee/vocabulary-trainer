@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta võttis raamatu riiulilt.",
-    "Võttes arvesse ilmateadet, otsustasime jääda koju.",
-    "Politsei võttis kurjategija kinni."
+    "Võttes selle ettepaneku vastu, me alustame uut projekti.",
+    "Võttes aega otsustamiseks, saavutas parema tulemuse.",
+    "Tüdruk võtas raamatu kätte ja avas esimese lehe."
   ],
   "translation": [
     "taking",
-    "receiving",
-    "considering"
+    "by taking",
+    "with"
   ],
-  "context": "The word 'võttes' is the short form (participle) of the verb 'võtma', which means 'to take', 'to receive', or 'to consider'. It’s often used as part of a longer phrase to indicate an action being performed while something else happens, or a condition that is being taken into account."
+  "context": "The Estonian word 'võttes' is the elative case of the verb 'võtma', which means 'to take'. In this form, it functions as an adverbial participle expressing the manner or condition in which an action occurs. It can be translated into English as 'taking', 'by taking', or 'with', depending on context."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuid ei tea seda.",
-    "Kuid see on hea küsimus.",
-    "Kuidas kuid sellega toime tulla?"
+    "Kuidas sa oled?",
+    "Kuid me peaksime tegema?",
+    "Ta oli kuidagi nõutud."
   ],
   "translation": [
+    "however",
     "but",
-    "however"
+    "yet"
   ],
-  "context": "The word 'kuid' in Estonian is a conjunction used to indicate a contrast or unexpected turn of events, similar to the English words 'but' or 'however'."
+  "context": "The Estonian word 'kuid' is a conjunction that functions similarly to English words like 'however', 'but', or 'yet'. It's used to contrast ideas or introduce alternative perspectives in sentences. In the examples, it appears as 'kuidas' (how) when combined with question words, but in its basic form 'kuid' stands alone to connect contrasting thoughts."
 }

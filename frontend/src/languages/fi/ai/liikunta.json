@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Liikunta on tärkeää terveyden kannalta",
-    "Hän harrastaa liikuntaa vapaa-ajallaan",
-    "Liikuntatunteja pidetään kouluissa"
+    "Minä pidän liikunnasta.",
+    "Hän tekee liikuntaa joka päivä.",
+    "Liikunta on tärkeää terveydelle."
   ],
   "translation": [
     "exercise",
     "physical activity",
     "sports"
   ],
-  "context": "The word liikunta refers to physical activity or exercise, and is commonly used in the context of sports, fitness, and health."
+  "context": "The Finnish word 'liikunta' refers to physical exercise, sports activities, or any form of bodily movement that promotes health and fitness. It's a noun in the nominative case and is commonly used when talking about various forms of physical activity, from structured workouts to general movement that keeps people active."
 }

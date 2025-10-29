@@ -1,13 +1,12 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on kaksi koira.",
-    "Hänellä on kaksi lasta.",
-    "Heillä on kaksi autoa."
+    "Minulla on kaksi kissaa.",
+    "Kaksi päivää sitten tulin kaupunkiin.",
+    "Hän osti kaksi leipää."
   ],
   "translation": [
     "two"
   ],
-  "context": "The word 'kaksi' is a Finnish numeral that means the number two, and it is commonly used to count objects or people in everyday conversations."
+  "context": "The Finnish word 'kaksi' is a numeral meaning 'two'. It's the basic cardinal number for the quantity of two in Finnish. Like many other numerals, it has different forms depending on case and context, but the base form remains 'kaksi'. For example, in the genitive case it becomes 'kahden', as in 'kahden kissan' (of two cats)."
 }

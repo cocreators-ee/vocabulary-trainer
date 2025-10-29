@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olen kellegagi sõbrlikum kui kellegagi.",
-    "Kellegagi sa silmapaistvalt suheldes?",
-    "Tema ei tea kellegagi tegelikult rääkida."
+    "Kellegaga on ilus hommikuti.",
+    "Räägi kellegaga sõbralikult.",
+    "Ma olen kellegagi koos."
   ],
   "translation": [
-    "with whom",
-    "to who"
+    "with someone",
+    "together with someone"
   ],
-  "context": "The Estonian word 'kellegagi' is a question word used in sentences to ask about the person involved with an action, similar to 'with whom' or 'to who' in English. It's typically used in formal contexts and requires conjugation based on sentence structure."
+  "context": "The word 'kellegagi' is an Estonian adessive-illative case combination that means 'with someone'. It's formed from 'keegi' (someone) + '-ga' (adessive case suffix indicating accompaniment). This form indicates being together or in the company of another person."
 }

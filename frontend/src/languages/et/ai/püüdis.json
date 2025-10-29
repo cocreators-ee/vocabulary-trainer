@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta püüdis mind aidata.",
-    "Püüdsin teda kutsuda tagasi.",
-    "Me püüdsime teda veenda."
+    "Tema püüdis kala.",
+    "Ta püüdi varastama.",
+    "Me püüsid kohti leida."
   ],
   "translation": [
     "tried",
-    "attempted"
+    "attempted",
+    "sought"
   ],
-  "context": "The word püüdis is the simple past tense form of the Estonian verb püüdama, which means to try or attempt something. It is commonly used in sentences to describe an effort or endeavor to do something."
+  "context": "The word 'püüdis' is the past tense third person singular form of the Estonian verb 'püüdma', which means 'to try', 'to attempt', or 'to seek'. It indicates that someone made an effort to do something in the past, but does not specify whether they succeeded or failed."
 }

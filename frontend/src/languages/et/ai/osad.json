@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen lugenud osad raamatust.",
-    "Osad inimesed ei saa aru.",
-    "Ta on üks osadest, kes on sellele vastu."
+    "Osad õpilased on juba kodutööd lõpetanud.",
+    "Osa mees oli tähelepanuväärne oma osavusega.",
+    "Osakesed lendasid õhku plahvatuse järel."
   ],
   "translation": [
     "parts",
-    "some"
+    "shares",
+    "portions"
   ],
-  "context": "The word 'osad' in Estonian generally refers to parts or some things, and it is commonly used when describing portions of something or a group of people."
+  "context": "The Estonian word 'osad' is the plural form of the noun 'osa', meaning 'part'. In its plural form, it refers to multiple parts, shares, or portions. It can be used when discussing components of something, division of items, or allocation of resources among people."
 }

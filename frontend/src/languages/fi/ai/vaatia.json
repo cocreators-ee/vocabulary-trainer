@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun täytyy vaatia apua",
-    "Hän vaati rahaa",
-    "Vaatii paljon työtä"
+    "Minun vaatii suurempaa palkkaa.",
+    "Hän vaatii aina huomiota.",
+    "He vaativat lisää aikaa."
   ],
   "translation": [
     "to demand",
     "to require",
-    "to need"
+    "to insist on"
   ],
-  "context": "The word 'vaatia' in Finnish means to demand or require something, and it is commonly used in sentences where someone is asking for something or needing it."
+  "context": "The Finnish verb 'vaatia' means to demand, require, or insist on something. It's commonly used when someone is making a request that they consider necessary or essential. The word can be conjugated in different forms depending on the subject and tense - for example, 'vaatii' (he/she/it demands), 'vaadimme' (we demand), or 'vaativat' (they demand)."
 }

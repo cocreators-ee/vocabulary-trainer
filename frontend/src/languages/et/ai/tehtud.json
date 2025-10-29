@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen teinud seda tööd",
-    "Ta on tehtud hea töö",
-    "Nad on tehtud sama"
+    "See on tehtud.",
+    "Töö on tehtud.",
+    "Kõik on juba tehtud."
   ],
   "translation": [
     "done",
-    "made"
+    "completed",
+    "finished"
   ],
-  "context": "The word 'tehtud' is the past participle of the verb 'tegema', which means to do or make something, and it is commonly used to describe an action that has been completed."
+  "context": "The Estonian word 'tehtud' is the past participle form of the verb 'tegema', which means 'to do' or 'to make'. It functions as an adjective indicating that something has been completed, accomplished, or finished. In English, it corresponds to words like 'done', 'completed', or 'finished'. This form is commonly used in Estonian to indicate a completed action, similar to the past participle in English but often functioning more like a state descriptor."
 }

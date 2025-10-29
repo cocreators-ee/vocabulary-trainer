@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nad püüavad mind tappa.",
-    "Meie püüame aidata neid inimesi.",
-    "Ta püüab alati võita."
+    "Lapsed püüavad palli.",
+    "Meie püüame alati oma eesmärke saavutada.",
+    "Nad püüavad appi tulla."
   ],
   "translation": [
     "try",
-    "attempt"
+    "attempt",
+    "strive"
   ],
-  "context": "The word 'püüavad' is a verb that means to try or attempt something in Estonian. It is commonly used in sentences where the subject is making an effort to achieve a goal or complete a task."
+  "context": "The word 'püüavad' is the 3rd person plural present tense form of the Estonian verb 'püüdma', which means 'to try' or 'to attempt'. It's used when describing what people are currently trying to do."
 }

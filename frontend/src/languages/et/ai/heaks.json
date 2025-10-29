@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on hea palk.",
-    "Heaks olev inimene tundub rõõmus.",
-    "Oled sa hea?"
+    "See meeldis heaks.",
+    "Tegin selle heaks.",
+    "Sa ei tee seda heaks."
   ],
   "translation": [
-    "good (as an adjective)"
+    "good enough",
+    "sufficiently well",
+    "acceptable"
   ],
-  "context": "'hea' is an Estonian adjective meaning 'good'. It describes something positive or of high quality. Its comparative form is 'halvem' and superlative is 'parim', but they are not included here."
+  "context": "The Estonian word 'heaks' is the illative case (movement toward) form of 'hea', meaning 'good'. It's used to indicate something that becomes good or is made sufficient. In context, it often means 'good enough', 'sufficiently well', or 'acceptable'. This form shows movement toward a state of being good, so when you say 'tegin selle heaks' (I make this into good), it implies making something satisfactory or acceptable."
 }

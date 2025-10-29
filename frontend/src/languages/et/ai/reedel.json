@@ -1,13 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma lähen reedel kinosse.",
-    "Reedel on mu sünnipäev.",
-    "Kas sa oled reedel vaba?"
+    "Reedel on ilus päev.",
+    "Me lähme reedeli hommikul poodi.",
+    "Reedel tuleb töölt varakamalt lahti."
   ],
   "translation": [
     "Friday"
   ],
-  "context": "The word 'reedel' in Estonian directly translates to 'Friday' in English. It is used to indicate the day of the week, similar to its usage in English."
+  "context": "The word 'reedel' is the Estonian word for Friday, which refers to the fifth day of the week. In Estonia and other countries using the Gregorian calendar, it follows Thursday (neljapäev) and precedes Saturday (laupäev)."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen selle hetke oodanud.",
-    "Hetkel on ta väga kiire.",
-    "Sellel hetkel ei olnud mul midagi paremat teha."
+    "Ootan hetke.",
+    "Ta oli hetke nägemata.",
+    "Hetkel on ilus ilm."
   ],
   "translation": [
     "moment",
-    "instant"
+    "instant",
+    "second"
   ],
-  "context": "The word 'hetke' in Estonian refers to a brief period of time or a specific instant, and is commonly used to describe a situation or event that is happening at a particular point in time."
+  "context": "In Estonian, 'hetke' is the partitive case form of the word 'hetk', which means 'moment' or 'instant'. It's used to express a brief period of time. The partitive case in Estonian often indicates partialness, limitation or duration. So when someone says 'ootan hetke', they mean they are waiting for a moment/short while."
 }

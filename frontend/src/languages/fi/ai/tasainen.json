@@ -1,15 +1,16 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Hänellä on tasainen ääni.",
-    "Tie oli koko ajan tasainen.",
-    "Kuvan tausta oli täysin tasainen."
+    "Tämä lattia on tasainen.",
+    "Hän työskentelee tasaisella tahdilla.",
+    "Sinun pitäisi yrittää olla tasainen kaikessa tekemisessäsi."
   ],
   "translation": [
     "even",
-    "flat",
-    "level"
+    "level",
+    "smooth",
+    "steady",
+    "consistent"
   ],
-  "context": "'Tasainen' in Finnish is used to describe something that has no variation or irregularity, such as an even surface, a consistent voice, or a plain background. It can also mean 'steady' when referring to motion or sound."
+  "context": "The Finnish word 'tasainen' is an adjective that describes something as being even, level, smooth, steady or consistent. It can refer to physical surfaces (like a flat floor), regularity in actions (steady pace), or emotional consistency (staying calm and balanced). The word comes from the root 'tasa-' which relates to equality and uniformity."
 }

@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tüdrukut võivad olla väga ilusad.",
-    "Ma armastan tüdrukuid.",
-    "Tüdrukutele meeldib tantsida."
+    "Tüdrukut on meie klassis.",
+    "Ma nägin tüdrukut pargis.",
+    "Kes see tüdrukut?"
   ],
   "translation": [
-    "girls"
+    "girl (partitive case)",
+    "daughter (partitive case)"
   ],
-  "context": "The word 'tüdrukut' is the plural genitive form of the Estonian word 'tüdruk', which means girl. It is commonly used to refer to a group of girls or young women, and can be seen in sentences where the subject is related to these individuals."
+  "context": "The word 'tüdrukut' is the partitive form of the Estonian noun 'tüdruk', which means 'girl' or 'daughter'. In Estonian, the partitive case is used to indicate partialness, indefiniteness, or when an object is affected by some action. It's commonly used with certain verbs and in specific grammatical constructions."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks perega välja.",
-    "Meie perega on kõik hästi.",
-    "Kas sa oled oma perega rahul?"
+    "Tema sõitis perega linna.",
+    "Lapsed mängisid perega aias.",
+    "Meie käisime perega suvilas."
   ],
   "translation": [
-    "family",
-    "with family"
+    "with family",
+    "with the family"
   ],
-  "context": "The word 'perega' is the genitive case of 'perekond', meaning 'family'. It’s often used with prepositions like 'koos' (together) or 'läbi' (through) to indicate being with or relating to one's family. In English, it translates to 'with family' or simply refers to a familial connection."
+  "context": "In Estonian, 'perega' is the adessive case of the word 'pere' (family). The adessive case typically indicates accompaniment or association. When used with prepositions like 'koos' (together), it emphasizes doing something together with family members. It can be translated as 'with family' or 'with the family' in English."
 }

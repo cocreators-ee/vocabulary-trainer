@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See toimib hästi.",
-    "Ta on üks neist, kes toimib.",
-    "Kui see toimib, siis on kõik korras."
+    "See seade toimib korrektselt.",
+    "Arvuti ei toimi enam.",
+    "Kuidas see mehhanism toimib?"
   ],
   "translation": [
     "works",
-    "functions"
+    "functions",
+    "operates",
+    "is working"
   ],
-  "context": "The word 'toimib' is commonly used in Estonian to describe something that is functioning or working properly. It can be used in various contexts, such as describing a machine, a system, or a process."
+  "context": "The Estonian word 'toimib' is the third-person singular present tense form of the verb 'töötama', which means 'to work'. It describes when something functions, operates, or works properly. This can refer to machinery, systems, electronics, abstract concepts, or even people's abilities. The root word 'toim-' relates to functioning or operating."
 }

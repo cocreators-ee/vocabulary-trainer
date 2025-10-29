@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta on kogu riistadega varustatud.",
-    "Möödus mehe käest ja tõi endale kätt üks riist.",
-    "Riistadega töötamine nõuab tähelepanu."
+    "Lõuna-Eestis on palju head riista.",
+    "Metsamees otsib head riista jahiks.",
+    "Talvel on raske leida head riistat."
   ],
   "translation": [
-    "tool",
-    "instrument"
+    "wild game (animals)",
+    "game meat",
+    "venison"
   ],
-  "context": "Riista refers to a tool or an instrument, commonly used in the context of working with objects, fixing things, or using specific equipment for tasks."
+  "context": "In Estonian, 'riista' is the partitive form of 'rias', which refers to wild game animals or the meat from those animals. It's commonly used in hunting contexts and when talking about game meat for consumption. The word specifically denotes animals that are hunted for sport or food."
 }

@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mul on omad mured.",
-    "See on tema omad probleemid.",
-    "Meil on omad plaanid."
+    "Minul on omad lemmikloomad.",
+    "Tal on omaette toa.",
+    "Meie kodus on omad reeglid."
   ],
   "translation": [
     "own",
-    "ones",
-    "possessions"
+    "one's own"
   ],
-  "context": "The word 'omad' in Estonian translates to 'own' or 'one's' in English. It is used to indicate possession or belonging, similar to the possessive adjectives 'my', 'your', 'his', 'her', 'its', 'our', and 'their'. It can also refer to personal matters or plans."
+  "context": "The word 'omad' in Estonian is the genitive plural form of 'oma', which means 'own'. It indicates possession or belonging that is specific to someone. The genitive case shows that something belongs to 'of' someone, and the plural form suggests multiple items or characteristics that belong to a person."
 }

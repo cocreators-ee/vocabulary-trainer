@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tüdruk on ilus.",
-    "Tüdruku ei olnud kerge elu.",
-    "Ta oli tüdruk, kes armastas loodust."
+    "Tere tüdruku!",
+    "Kes on see ilus tüdruku?",
+    "Tüdruku, kas sa tahad minna kinno?"
   ],
   "translation": [
-    "girl",
-    "young woman"
+    "girl (inessive case)",
+    "to the girl",
+    "with the girl"
   ],
-  "context": "The word tüdruku is a genitive form of the Estonian word tüdruk, which means girl or young woman, and it is commonly used to refer to a female person in her teenage years or early twenties."
+  "context": "The word 'tüdruku' is the inessive case form of the Estonian noun 'tütar', meaning 'girl'. The inessive case indicates location within or inside something. It's used when saying things like 'Hello, girl!' or referring to being with a girl. This is one of the 14 grammatical cases in Estonian that show different relationships between nouns and other words in a sentence."
 }

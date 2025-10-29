@@ -1,14 +1,17 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Nemad lasevad kiiresti.",
-    "Lased lasevad vastu.",
-    "Meie ei lase meile kuuluda."
+    "Lapsed lasevad palli üles.",
+    "Purjed lasevad tuule läbi.",
+    "Kõrge temperatuuri tõttu lasevad metallid paremini elektrit."
   ],
   "translation": [
-    "shoot",
-    "fire"
+    "let",
+    "allow",
+    "permit",
+    "emit",
+    "release",
+    "discharge"
   ],
-  "context": "The word 'lasevad' is a verb in Estonian that means to shoot or fire something, often used in the context of guns or other projectiles."
+  "context": "The word 'lasevad' is the 3rd person plural present form of the Estonian verb 'lasma', which means 'to let, allow, permit'. In some contexts, it can also mean 'to emit, release or discharge' something. It's used when talking about what multiple people/things are currently letting, allowing, permitting, emitting, releasing or discharging."
 }

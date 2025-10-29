@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Külaline tuli meile külla.",
-    "Ta on hea külaline.",
-    "Külalisi ootame koos."
+    "Tuleme külalised koju.",
+    "Nad on head külalised.",
+    "Külastasime oma sõpru külalisena."
   ],
   "translation": [
-    "guest",
-    "visitor"
+    "guests",
+    "visitors"
   ],
-  "context": "The word 'külalisi' refers to a guest or visitor, and is commonly used in Estonian to describe someone who is visiting or attending an event."
+  "context": "The word 'külalisi' is the partitive plural form of the Estonian noun 'külaline', which means guest or visitor. The partitive case in Estonian is used to indicate an incomplete action, partial object, or when talking about a quantity of something that isn't a complete whole. In this case, 'külalisi' refers to guests/visitors without specifying exact numbers or implying they are the only ones."
 }

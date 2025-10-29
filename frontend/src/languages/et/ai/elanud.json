@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta on elanud siin oma elu kogu.",
-    "Meil on elanud see linn juba mitu aastat.",
-    "See perenaine on elanud üksinda palju aastaid."
+    "Olen elanud Tallinnas kümme aastat.",
+    "Ta on elanud välismaal pikemat aega.",
+    "Mees oli varem elanud väikeses külas."
   ],
   "translation": [
-    "lived"
+    "lived",
+    "has lived",
+    "had lived"
   ],
-  "context": "The word 'elanud' is the past participle of the verb 'elama', which means 'to live'. It is used to describe someone who has lived somewhere for some time or someone who has led a certain life. Commonly used in sentences where duration or experience of living is mentioned."
+  "context": "\"Elanud\" is the past participle form of the Estonian verb \"elama\", which means \"to live\" or \"to dwell\". It's used in perfect tense constructions to indicate that someone has lived somewhere for a period of time. The word can appear in different grammatical contexts - it might be part of the present perfect (olen elanud) or past perfect (oli elanud) tenses, depending on the auxiliary verb used with it."
 }

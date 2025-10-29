@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahan seda koera.",
-    "Tahan endale võtta selle raamatu.",
-    "Ta tahan minna kinno."
+    "Tahan õuna.",
+    "Ma tahan koju minna.",
+    "Tahame koos sööma."
   ],
   "translation": [
-    "want",
-    "wish"
+    "I want",
+    "I would like",
+    "I desire"
   ],
-  "context": "The word 'tahan' in Estonian means to want or wish for something, and it is commonly used in sentences to express desire or intention."
+  "context": "The Estonian word 'tahan' is the first person singular present tense form of the verb 'tahta', which means 'to want' or 'to wish'. It's commonly used to express desires, preferences, or requests. The word can be conjugated in different ways: 'tahame' for we/I want, 'tahad' for you want (singular), and 'tavad' for they/he/she wants."
 }

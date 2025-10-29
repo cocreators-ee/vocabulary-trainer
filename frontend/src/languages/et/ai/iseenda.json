@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean iseendale",
-    "Ta on iseendale kindel",
-    "Iseendale tundub see võimalik"
+    "Tema iseendas oli nähtavasti väga kurnatud.",
+    "Iseenda olles ta ei soovinud rääkida.",
+    "Need asjad on iseenda tähtsused."
   ],
   "translation": [
-    "myself",
-    "himself",
-    "herself"
+    "oneself",
+    "by oneself",
+    "self-contained",
+    "on one's own"
   ],
-  "context": "The word 'iseendale' is a reflexive pronoun in Estonian, used to indicate that the subject of the sentence is performing an action on themselves. It is commonly used in sentences where the subject is the one doing the action, and can be translated to English as 'myself', 'himself', or 'herself' depending on the context."
+  "context": "The Estonian word 'iseenda' is a reflexive pronoun that means 'oneself' or 'by oneself'. It emphasizes the subject doing something independently without external help. This compound word consists of 'ise-' (self) and '-enda', which forms a reflexive construction. It's used to highlight self-reliance, independence, or when someone is acting on their own behalf."
 }

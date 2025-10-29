@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma soovin seda raamatu.",
-    "Ta soovib mind tervitada.",
-    "Nad on alati soovinud rahu."
+    "Ma soovin head ööd.",
+    "Tema soovib koju minna.",
+    "Meie soovime õnnelikku elu."
   ],
   "translation": [
+    "want",
     "wish",
     "desire"
   ],
-  "context": "The word 'soovin' in Estonian means to wish or desire something, it is commonly used in sentences to express someone's wants or needs."
+  "context": "The word 'soovin' is the first-person singular present indicative form of the Estonian verb 'soovima', which means 'to want', 'to wish', or 'to desire'. It's used to express a personal desire, wish, or want in the present tense. In English, this would correspond to 'I want/wish/desire'."
 }

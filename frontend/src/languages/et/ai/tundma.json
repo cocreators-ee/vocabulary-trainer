@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tundnud sind juba ammu",
-    "Ta tunneb mind hästi",
-    "Me tundame üksteist"
+    "Ma tunnen seda inimest.",
+    "Teadus tundub väga huvitavale.",
+    "Ta ei tunda valu."
   ],
   "translation": [
     "to know",
-    "to feel"
+    "to feel",
+    "to recognize"
   ],
-  "context": "The word 'tundma' in Estonian means to know or feel someone or something, and it is commonly used in sentences to express familiarity or recognition."
+  "context": "The Estonian verb 'tundma' has multiple meanings depending on context. It can mean 'to know' (as in knowing a person or fact), 'to feel' (physical sensations or emotions), or 'to recognize/acknowledge'. The word is used in different tenses and forms: present form 'tunnan', negative 'ei tunna', etc."
 }

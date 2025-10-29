@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maailma on täis ohte.",
-    "Ta läks ohtu vastu.",
-    "Oht on suur sõnadega."
+    "See on ohtlik olukord.",
+    "Ta vältis ohte edukalt.",
+    "Ohtidest võib hoiduda ettevaatlikkusega."
   ],
   "translation": [
     "danger",
-    "peril"
+    "hazard",
+    "threat",
+    "risk"
   ],
-  "context": "The word 'oht' in Estonian refers to a situation or condition that poses a threat to someone's safety or well-being, and is commonly used to describe a risk or hazard."
+  "context": "The Estonian word 'oht' is a noun that means danger, hazard, threat, or risk. It refers to something that has the potential to cause harm, damage, or injury. In its basic form, it's an inflected noun that can appear in different cases depending on grammatical context - for example, in the genitive case as 'ohtu' meaning 'of danger', in the partitive case as 'ohte' meaning '(some) danger', and in the illative case as 'ohusse' meaning 'into danger'. The word is commonly used to describe situations that pose a risk or threat to safety, wellbeing, or success."
 }

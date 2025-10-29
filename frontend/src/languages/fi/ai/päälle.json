@@ -1,18 +1,16 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän laittoi takin päälle.",
-    "Aurinko paistoi jo päälle.",
-    "Mitä sinä olet tekemässä päälle?"
+    "Mennään päälle",
+    "Hän istui minun päälläni",
+    "Päivä oli lämmin ja aurinkoinen"
   ],
   "translation": [
+    "on top of",
+    "above",
     "on",
     "onto",
-    "over",
-    "upon",
-    "top",
-    "on top of"
+    "over"
   ],
-  "context": "The word 'päälle' is a versatile Finnish adverb and preposition that generally indicates being on, onto, or over something. It can also mean 'to turn on' (like a light) or be used to express doing something in addition to another activity."
+  "context": "The Finnish word 'päälle' is a versatile postposition that indicates location or movement on the surface of something. It can mean 'on', 'onto', 'on top of', or 'above'. When used with movement verbs, it often indicates direction towards a surface. For example, 'mennän päälle' means 'I go onto/on top of'. In the sentence 'Hän istui minun päälläni', it shows location ('He sat on me'). It can also be used in expressions like 'päivä oli lämmin ja aurinkoinen' (The day was warm and sunny) where it functions as part of adverbial constructions."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma leidsin oma võti",
-    "Ta leidis head töö",
-    "Nad leidsid endale uue kodu"
+    "Ma leidsin oma taskust võtmed.",
+    "Tema leiab alati head lahendusi probleemidele.",
+    "Meie leidsime uue kodu metsast."
   ],
   "translation": [
-    "find",
-    "discover"
+    "to find",
+    "to discover",
+    "to locate"
   ],
-  "context": "The word 'leida' is commonly used in Estonian to mean finding something or someone, and it can be translated to English as 'find' or 'discover'."
+  "context": "The Estonian verb 'leida' means to find, discover, or locate something. It is used when you have been searching for something and finally succeed in locating it, whether it's a physical object, a solution to a problem, or even information. The word can be conjugated into different tenses depending on the context (e.g., leidsin - I found, leiab - he/she/it finds)."
 }

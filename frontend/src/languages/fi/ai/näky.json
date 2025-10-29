@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Näky on kaunis.",
-    "Tämä näky on upea.",
-    "Hänellä on hyvä näky."
+    "Näkyni oli kaunis.",
+    "Tämä näky sai minut ajattelemaan.",
+    "Hän katsoi ikkunasta upeaa näkyä."
   ],
   "translation": [
     "sight",
-    "view"
+    "view",
+    "scene",
+    "vision"
   ],
-  "context": "The word näky refers to a visual perception or a beautiful view, and it is commonly used in Finnish to describe something that is pleasing to the eye."
+  "context": "The Finnish word 'näky' is a noun that refers to what one can see or observe with their eyes. It translates to English words like sight, view, scene, or vision. The word is typically in the singular nominative form and represents something visible that comes into one's field of vision."
 }

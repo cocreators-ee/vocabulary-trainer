@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli korraga uksest sisse.",
-    "Korraga oli tal palju tööd.",
-    "Korraga ei ole lihtne."
+    "Korraga said kaks inimest uksest välja.",
+    "Me peame tegema mitu asja korraga.",
+    "Ta rääkis kahte keelt korraga."
   ],
   "translation": [
-    "at once",
-    "suddenly"
+    "at the same time",
+    "simultaneously",
+    "together"
   ],
-  "context": "The word 'korraga' is commonly used in Estonian to indicate that something happens immediately or without delay, and it can also be translated to English as 'at once' or 'suddenly' depending on the context of the sentence."
+  "context": "The word 'korraga' in Estonian is an adverb that means 'at the same time' or 'simultaneously'. It's formed from the word 'kord' (meaning 'time' or 'occasion') with the suffix '-ga' which indicates accompaniment or association. This construction literally suggests something happening 'with a time' or in conjunction with itself, hence conveying simultaneity. The word is commonly used to describe actions occurring together or simultaneously."
 }

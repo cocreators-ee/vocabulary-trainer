@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta liigub kiiresti",
-    "Liiguvad inimesed on terved",
-    "Need esemed liiguvad üksteise suhtes"
+    "Auto liigub tänaval.",
+    "Kass aeglaselt liigub.",
+    "Ta liigub edasi järgmise juhtumiga."
   ],
   "translation": [
     "moves",
     "is moving",
-    "move"
+    "moving"
   ],
-  "context": "The word 'liigub' is a verb in Estonian that means to move or be in motion, and it is commonly used to describe the act of changing location or position."
+  "context": "The word 'liigub' is the third-person singular present form of the Estonian verb 'liikuma', which means 'to move'. It describes an ongoing action where someone or something is in motion. The '-b' ending indicates it's conjugated for the third person (he/she/it) and present tense."
 }

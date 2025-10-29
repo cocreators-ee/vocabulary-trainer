@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei rikkunud seda.",
-    "Rikkuda see on keelatud.",
-    "Ta ei rikku enam."
+    "Ta rikub reegleid.",
+    "Me ei tohi rikuda keskkonda.",
+    "See tegevus võib rikuda seadust."
   ],
   "translation": [
     "to break",
-    "to violate"
+    "to violate",
+    "to damage",
+    "to harm"
   ],
-  "context": "The word 'rikkuda' in Estonian means to break or violate something, often used in the context of rules, laws, or physical objects."
+  "context": "The Estonian word 'rikkuda' is a verb that means to break, violate, damage, or harm something. It can refer to physical destruction (breaking an object), rule violation (violating rules), environmental harm (damaging the environment), or legal transgression (breaking laws). The word carries connotations of causing disruption or negative consequences."
 }

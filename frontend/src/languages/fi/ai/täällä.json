@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Täällä on kaikki mitä tarvitsemme.",
-    "Hän asuu täällä läheisessä kaupungissa.",
-    "Voit jättää tavarat täällä ja hakea ne myöhemmin."
+    "Tulen tästä ja menen sinne.",
+    "Mikä täällä tapahtuu?",
+    "Me olemme nyt täällä."
   ],
   "translation": [
-    "here",
-    "in this place"
+    "here"
   ],
-  "context": "The word täällä is commonly used in Finnish to refer to a location or a place where something is happening or exists, similar to the English word 'here'."
+  "context": "The Finnish word 'täällä' means 'here'. It is an inessive case form of the pronoun 'tämä', meaning 'this'. The inessive case indicates location within something or somewhere. It answers the question 'where?' and is used when someone or something is physically present at a location."
 }

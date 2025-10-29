@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta teatas mulle, et see on viga.",
-    "Viga pole veel selged.",
-    "Kõik need vigadest tulenevad probleemid."
+    "See on väike viga.",
+    "Tegime vea arvutuses.",
+    "Vigade parandamine võtab aega."
   ],
   "translation": [
     "mistake",
-    "error"
+    "error",
+    "fault"
   ],
-  "context": "The word 'viga' in Estonian generally refers to a mistake or an error, and it is commonly used in various contexts to describe something that has gone wrong or is incorrect."
+  "context": "The Estonian word 'viga' is a noun that means mistake, error, or fault. It can be used in various contexts to refer to inaccuracies, blunders, or things that are done incorrectly. The word is in singular form and would typically have different endings when declined for cases (like genitive, partitive, etc.) or made plural."
 }

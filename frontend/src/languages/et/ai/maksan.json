@@ -1,14 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma maksin tänasöögu eest.",
-    "Ta ei maksis oma nõude eest.",
-    "Maksid sa juba?"
+    "Maksan arve ära täna.",
+    "Me maksame kõik koos.",
+    "Tema ei maksa midagi."
   ],
   "translation": [
-    "I will pay",
-    "I am going to pay"
+    "I pay",
+    "to pay",
+    "payment"
   ],
-  "context": "The word 'maksan' is the first person singular future tense of the Estonian verb 'maksta', which means to pay. It is commonly used in situations involving payment for goods or services, debts, or penalties."
+  "context": "The Estonian word 'maksan' is the first person singular form of the verb 'maksama', which means 'to pay'. It can refer to paying for something, making a payment, or settling a debt. The word belongs to the -ma infinitive verb group and follows regular conjugation patterns in Estonian."
 }

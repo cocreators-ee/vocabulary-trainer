@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hänellä oli kauniit kasvot",
-    "Kasvoni ovat väsyneet",
-    "Heidän kasvonsa olivat iloiset"
+    "Minulla on kauniit kasvot.",
+    "Hän pesi kasvonsa aamulla.",
+    "Lapset näyttivät kasvoillaan iloa."
   ],
   "translation": [
     "face",
-    "features",
-    "visage"
+    "faces"
   ],
-  "context": "The word 'kasvot' in Finnish refers to the face or facial features of a person, and it is commonly used in everyday conversations to describe someone's appearance or expressions."
+  "context": "The Finnish word 'kasvot' means face or faces and is always in the plural form in Finnish, even when referring to one person's face. It is a common noun used to refer to the front part of someone's head where features like eyes, nose, mouth, and cheeks are located."
 }

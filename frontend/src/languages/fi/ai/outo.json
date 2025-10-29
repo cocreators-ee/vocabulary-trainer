@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän oli outo tyyppi.",
-    "Outoa kyllä, hän ei ollut siellä.",
-    "Tämä on outo tapaus."
+    "Tämä on outo tapaus.",
+    "Hän tuntui oudolta.",
+    "Outo asia tapahtui yöllä."
   ],
   "translation": [
     "strange",
     "odd",
-    "weird"
+    "unusual",
+    "peculiar"
   ],
-  "context": "The word 'outo' is commonly used in Finnish to describe something or someone that is unusual or unconventional, often in a way that is perceived as intriguing or perplexing."
+  "context": "The Finnish word 'outo' is an adjective that means strange, odd, unusual, or peculiar. It's used to describe something or someone that seems abnormal, unfamiliar, or difficult to understand. The word can be modified for gender and number - 'outo' remains the same in basic form but would become 'oudon' in partitive case (e.g., 'outoa') or ' oudot' in plural nominative."
 }

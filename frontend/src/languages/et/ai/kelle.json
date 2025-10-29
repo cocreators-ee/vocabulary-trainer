@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tean, kelle see on.",
-    "Ta ütleb, et kelle poolel ta on.",
-    "Kellele see kuulub?"
+    "Kelle see on?",
+    "See kelle kohta räägime?",
+    "Kelle auto see on?"
   ],
   "translation": [
     "whose",
-    "who"
+    "of whom",
+    "to whom"
   ],
-  "context": "The word 'kelle' is a genitive form of the pronoun 'kes', meaning 'who' or 'whose', and it is used to indicate possession or relationship in Estonian."
+  "context": "The Estonian word 'kelle' is a question pronoun that means 'whose' or is used in questions about possession or association. It's the genitive case form of the interrogative pronoun 'kes' (who/whom). When asking 'kelle see on?', you're asking 'Whose is this?'. This word follows Estonian grammar rules where question words change form depending on their grammatical function in the sentence."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "See juht on väga kogemustega.",
-    "Juht ja sõbraidu olid juba varasti ootamas.",
-    "Ta õppis koolis juhtima."
+    "Tema on koolijuht.",
+    "Kes on selle ettevõtte juht?",
+    "Meil on uus juht."
   ],
   "translation": [
-    "driver",
     "leader",
-    "instructor"
+    "head",
+    "manager",
+    "chief"
   ],
-  "context": "The word 'juht' in Estonian is commonly used to denote someone who controls or directs something, such as a vehicle (driver), an organization (leader), or an educational activity (instructor)."
+  "context": "The Estonian word 'juht' is a noun that means leader, head, manager, or chief. It refers to someone who has authority and responsibility over an organization, department, group, or activity. The word can be used in various contexts such as organizational leadership (koolijuht - school principal), business management (ettevõtte juht - company manager), or general guidance (juht - leader/guide). It's a common Estonian word that appears frequently in both formal and informal contexts when discussing positions of authority."
 }

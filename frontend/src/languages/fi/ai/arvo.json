@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tämä on arvonnut koko elämän.",
-    "Hänellä on erinomainen arvovalmius.",
-    "Ettei meillä ole arvoa toisiamme kohtaan?"
+    "Arvo on tärkeä asia ihmiselämässä.",
+    "Minulla on suuri arvo sinulle.",
+    "Tämä teollisuudella on suuri taloudellinen arvo."
   ],
   "translation": [
     "value",
-    "worth"
+    "worth",
+    "esteem",
+    "respect"
   ],
-  "context": "'Arvo' refers to the value or worth of something, either in a monetary sense, or more abstractly as in moral worth. It can also be used about people's respect for each other."
+  "context": "In Finnish, 'arvo' means value or worth. It can refer to the importance or significance of something, both in terms of material and non-material aspects. The word can be used to describe monetary value (economic arvo), personal worth or dignity, or respect that someone deserves. As a noun, it often appears with possessive suffixes like 'arvoni' (my value) or 'arvon' (the value of)."
 }

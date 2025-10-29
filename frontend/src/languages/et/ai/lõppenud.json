@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kas tean, et kodus on midagi lõppenud?",
-    "Sellest lõppenud sündimusest ei saa mitte midagi.",
-    "Loomulikult on paljude hokimeeste karjäärid juba aastakümneid tagasi lõppenud."
+    "Tööd on lõppenud.",
+    "Näitus on lõppenud kolm päeva tagasi.",
+    "Lõppenud projekt nõuab juurdepääsu andmist."
   ],
   "translation": [
+    "finished",
+    "completed",
     "ended",
-    "finished"
+    "terminated"
   ],
-  "context": "'lõppenud' is the past participle of 'lõpetama', which means to end or finish. It's commonly used in describing that an event, action, or a period has concluded."
+  "context": "The word 'lõppenud' is the past participle form of the Estonian verb 'lõppema', which means 'to end' or 'to finish'. It describes something that has already reached its conclusion, whether it's a project, event, period of time, or activity. In Estonian grammar, this form agrees with the subject in gender and number when used predicatively, though as a past participle it can also function adjectivally to describe completed states."
 }

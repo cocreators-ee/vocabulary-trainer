@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma olen tegema kodutóäö.",
-    "Tegema on vaja palju jõudu.",
-    "Kas sa oled tegema midagi?"
+    "Tegemist on ilusa päevaga.",
+    "Ma tegin hommikul voodi ära.",
+    "Mis sa tegid eile?"
   ],
   "translation": [
-    "doing",
-    "making"
+    "to make",
+    "to do"
   ],
-  "context": "The word 'tegema' is an Estonian verb that translates to either 'doing' or 'making' in English. It denotes the performance of an action or the creation of something. In example sentences, it can be used to describe activities such as homework ('I am doing my homework'), physical effort ('Doing requires a lot of strength'), and asking about someone's activity ('Are you doing something?')."
+  "context": "The Estonian word 'tegema' is a verb that means 'to make' or 'to do'. It's one of the most frequently used verbs in Estonian and can be found in various contexts. In its basic form (infinitive), it appears as 'tegema'. When conjugated, it takes different forms: 'tegin' (I made/did), 'tegid' (you made/did), 'teeb' (he/she/it makes/does), etc. For example, 'Tegemist on ilusa päevaga' means 'It is a beautiful day', where 'tegemist' comes from the verb 'tegema' and indicates 'the matter of'. In another context, 'Ma tegin hommikul voodi ära' means 'I made my bed this morning'."
 }

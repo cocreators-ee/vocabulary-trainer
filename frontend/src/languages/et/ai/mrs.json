@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mrs. Smith on tantsis suure hooga.",
-    "Minu mrs ütles, et ma pean koristama oma toa.",
-    "See proua oli väga lahkelt."
+    "Mrs. Smith on kooli direktor.",
+    "Mul on kohtumine mrs Johnsoniga.",
+    "Kas te olete mrs Williams?"
   ],
   "translation": [
-    "Mrs.",
-    "Madam",
-    "Lady"
+    "madam",
+    "mistress",
+    "Mrs."
   ],
-  "context": "This is an abbreviation of 'madam' or 'mistress', used as a polite form of address for a woman. It’s often used before a married woman’s surname."
+  "context": "\"mrs\" on lühend inglise keelsest tiitlist Mrs., mida kasutatakse abielusnaiste kohta. See kirjutatakse tavaliselt punktiga järel (Mrs.) ja eelneb perekonnanimele, nagu ka inglise keeles. Näidetes on näha, kuidas seda tiitlit kasutatakse enne perekonjanimesid, sarnaselt inglise keelele."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on paigal ja ootab sind.",
-    "See paigas ei ole midagi erilist.",
-    "Pärast tormi oli kõik paigas."
+    "Ta jääks paigas.",
+    "Me peame hoidma kõik oma asjad paigas.",
+    "Laps ei tahtnud liikuda ja jäi paigas."
   ],
   "translation": [
-    "in place",
-    "on the spot",
-    "located"
+    "staying in place",
+    "remaining stationary",
+    "not moving"
   ],
-  "context": "The word 'paigas' in Estonian generally refers to a physical location or state of being situated somewhere. It can also mean 'in order' or 'settled', indicating that something is correctly positioned or arranged."
+  "context": "The word 'paigas' is an Estonian adverb that means 'in place' or 'stationary'. It's formed from the noun 'koht' (place) with the positional suffix '-as', and it indicates something or someone remaining in a fixed position without movement. In English, this corresponds to concepts like 'staying put,' 'remaining stationary,' or 'not moving.'"
 }

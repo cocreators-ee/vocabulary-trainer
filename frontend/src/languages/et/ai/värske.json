@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mind ei tea värskeid häirete kohta.",
-    "Värske sõrmeline on eriline kaubamärk.",
-    "Tema mõtlemine oli värske ja originaalne."
+    "Värske leib on parim hommikuti.",
+    "Me ostsid värske õuna poodist.",
+    "Ta joob värsku veega."
   ],
   "translation": [
     "fresh",
     "new",
-    "original (thoughts)"
+    "recent"
   ],
-  "context": "The Estonian word 'värske' primarily means 'fresh', often used to describe food or ideas. It can also mean 'new' in contexts like new products, and when referring to thoughts or approaches, it can imply something original."
+  "context": "The Estonian word 'värske' means 'fresh', 'new', or 'recent'. It's commonly used to describe food that hasn't been stored for long (like fresh bread, milk, vegetables), but can also refer to something new or recent in time. When modifying a noun, it typically appears in the same case as the noun, and when used with certain prepositions like 'ga' (with), it might change form slightly."
 }

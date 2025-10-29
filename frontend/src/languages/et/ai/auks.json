@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma leidsin auksi metsast",
-    "Auks on üldiselt haruldane",
-    "Ta avastas uue auksi"
+    "Auks on väärismetall.",
+    "Kulla ja hõbedaga võrreldes on auks vähem väärtuslik kuid ikkagi ilus metall.",
+    "Kellad tihti kasutavad roostevabast terasest ja kulda, aga mõned eelistavad ka auksi."
   ],
   "translation": [
     "gold",
-    "nugget"
+    "golden"
   ],
-  "context": "The word 'auks' in Estonian means gold or a nugget of gold, commonly used to refer to the precious metal or a small lump of it."
+  "context": "In Estonian, 'auks' is a masculine noun that means gold - the precious metal. It can refer to the element itself or things made of gold. The word comes from the same Germanic root as English 'gold'. In different contexts it might appear in compounds like 'kullane' (golden) when describing something golden-colored or having the quality of gold."
 }

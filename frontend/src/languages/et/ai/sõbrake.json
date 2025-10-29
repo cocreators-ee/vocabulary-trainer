@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olen sõbrakene sinuga.",
-    "Meil on palju sõbru.",
-    "Ta ei ole minu sõber."
+    "Tere, sõbrake!",
+    "Sõbrakesid on alati meeldivaid kohtumisi.",
+    "Kas sa tuled minu sõbrakese juurde?"
   ],
   "translation": [
-    "friend",
-    "friends"
+    "little friend",
+    "dear little one",
+    "sweetheart",
+    "buddy (diminutive)"
   ],
-  "context": "The word 'sõbrake' refers to friends or being friendly. It is commonly used in conversations about relationships and social interactions."
+  "context": "The word 'sõbrake' is a diminutive form of the Estonian word 'sõber' (friend). The '-ke' suffix in Estonian is commonly used to create affectionate or diminutive forms of nouns, similar to adding '-let', '-ling', or using terms like 'dear little one' in English. It conveys warmth and familiarity when referring to a friend, often used towards children, close friends, or someone you want to express fondness for. The word maintains the core meaning of 'friend' but adds an affectionate, diminutive quality."
 }

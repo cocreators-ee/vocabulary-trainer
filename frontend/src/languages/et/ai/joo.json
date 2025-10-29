@@ -1,13 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Joo siis midagi teist.",
-    "Ta jahutab, et sa joo täna üli.",
-    "Ei tea, miks sa ei joo teat käes."
+    "Ma joo vett.",
+    "Tema joob kohvi.",
+    "Meie joome piima."
   ],
   "translation": [
-    "you drink"
+    "drink"
   ],
-  "context": "Used to describe the action of drinking a beverage. It can be used in both literal and figurative contexts."
+  "context": "The word 'joo' is the 1st person singular present indicative form of the Estonian verb 'jooma', which means 'to drink'. It is used when the speaker is saying they are drinking something. The conjugation shows that it's specifically for one person (I) doing the action in the present tense."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta süüdistas mind valetamises.",
-    "Kohtu all olev mees süüdistati rahapesus.",
-    "Politsei süüdistab teda kuriteos."
+    "Politsei süüdistas meest varastamise eest.",
+    "Ta süüdistas oma sõpra reetmises.",
+    "Prokurör süüdistab neid müügipettuses."
   ],
   "translation": [
-    "accuse",
-    "blame",
-    "incriminate"
+    "to accuse",
+    "to blame",
+    "to charge"
   ],
-  "context": "The word \"süüdistada\" in Estonian means to accuse or blame someone for something, and it is commonly used in legal contexts to imply that someone is being formally charged with a crime."
+  "context": "The Estonian verb 'süüdistada' means to accuse, blame, or formally charge someone with a crime or wrongdoing. It's often used in legal contexts when someone is being formally accused of committing an offense. The word derives from the noun 'süüde' meaning guilt or fault."
 }

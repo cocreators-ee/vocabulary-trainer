@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen selle mõttes, et see on hea mõte.",
-    "Ta oli segaduses, kuid leidis vastuse oma mõttes.",
-    "Mõttes olid nad juba läinud."
+    "Ta mõttes on alati õige.",
+    "Mida sa sinu mõttes teed?",
+    "Sel mõttes oli ta väga hea mees."
   ],
   "translation": [
-    "in mind",
-    "in thought"
+    "in one's mind",
+    "thoughtfully",
+    "mentally"
   ],
-  "context": "The word 'mõttes' in Estonian is used to describe something that is being thought about or considered, often in the sense of being in one's mind or thoughts."
+  "context": "The Estonian word 'mõttes' is an adessive case form of the noun 'mõte', which means 'thought'. In this form, it functions as an adverb meaning 'in thought', 'mentally', or 'in someone's mind'. It indicates where something exists in a conceptual or mental sense rather than physically. The word can also convey a thoughtful manner or be used to specify whose thoughts are being referred to."
 }

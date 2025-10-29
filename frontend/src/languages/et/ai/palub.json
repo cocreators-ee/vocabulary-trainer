@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma palub seda toodet.",
-    "Ta palus mind aidata.",
-    "Nende palve ei võetud tõsiselt."
+    "Palun võta istekoht.",
+    "Aitäh palub.",
+    "Ta palub abi."
   ],
   "translation": [
-    "asks",
-    "requests",
-    "begs"
+    "please",
+    "ask",
+    "request"
   ],
-  "context": "The word 'palub' is a verb in Estonian that means to ask or request something from someone, and it can be used in different forms to convey various levels of politeness or urgency."
+  "context": "The word 'palub' is the third-person singular form of the verb 'paluma' in Estonian, meaning 'to ask' or 'to request'. When used with 'palun', it creates a polite request similar to 'please' in English. It's commonly used in various contexts from making simple requests to asking for help or information."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Meeste meeskonda on võitnud mitmel korral maailmameistrivõistlused.",
-    "Naiskonna meeskond oli väga hea.",
-    "Meeskondadel oli võrdne võimalus edasi jõuda."
+    "Tule meeskonda mängima!",
+    "Kas sa tahad meeskonnast lahkuda?",
+    "Meeskonna kapten oli väga hea juht."
   ],
   "translation": [
     "team",
-    "crew",
-    "squad"
+    "squad",
+    "crew"
   ],
-  "context": "The word 'meeskonda' in Estonian refers to a group of people working or playing together, similar to the English concept of a team or crew. It is commonly used in sports and professional contexts to describe a collective unit with a shared goal or purpose."
+  "context": "The Estonian word 'meeskonda' is the illative case of 'meeskond', which means 'team'. The illiative case indicates movement into or towards something, so 'meeskonda' specifically means 'into a team' or 'onto a team'. It's used when someone is joining or being added to a team. For example, in 'Tule meeskonda mängima!' (Come join the team to play!), it expresses inviting someone to become part of the team."
 }

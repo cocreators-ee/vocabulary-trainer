@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kolme aastat vana.",
-    "Tal on kolme poega.",
-    "Kolme nädala pärast saabuvad meie külalisteks."
+    "Kolme aasta pärast kolisime teise linna.",
+    "Ta oli kolmest lapsest kõige vanem.",
+    "Sain kolme eest hea hinne."
   ],
   "translation": [
     "three"
   ],
-  "context": "The word 'kolme' is an Estonian adjective and numeral that means three, it is commonly used to describe quantities or counts of objects or people in various situations."
+  "context": "The word 'kolme' is the partitive case of the Estonian number 'kolm', meaning 'of three' or 'from three'. In English, it translates to 'three'. It's used when referring to a quantity of something in partitive constructions. For example, 'kolme aasta pärast' means 'after three years' where 'kolme' is the partitive form indicating duration."
 }

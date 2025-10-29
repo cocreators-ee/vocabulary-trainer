@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on vana maja.",
-    "Vanad inimesed elavad seal.",
-    "Ta on väga vana mees."
+    "Vana mees istus pargis.",
+    "Ta on vana ja nõudlik.",
+    "Vanad sõbrad on alati head."
   ],
   "translation": [
-    "old"
+    "old",
+    "aged",
+    "elderly"
   ],
-  "context": "The word 'vana' is an adjective that means old or aged in English. It is commonly used to describe something or someone that has been existing for a long time, such as an old house, an old person, or an old tradition."
+  "context": "The Estonian word 'vana' is an adjective that means 'old' or 'aged'. It's used to describe people, objects, or concepts that have existed for a long time. The word can refer to the physical age of someone or something (like an old man - vana mees) or it can be used more abstractly (like old friends - vanad sõbrad). In Estonian adjectives typically agree with the noun they modify in number and case, so 'vana' would become 'vanad' for plural nouns."
 }

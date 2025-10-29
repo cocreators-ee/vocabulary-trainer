@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on avattava suu",
-    "Suu on auki",
-    "Hänen suussa on pala suklaata"
+    "Minulla on kylmä suu.",
+    "Suu on elin elimistössämme.",
+    "Puhu suullasi."
   ],
   "translation": [
-    "mouth"
+    "mouth",
+    "oral cavity",
+    "muzzle"
   ],
-  "context": "The word 'suu' refers to the opening in the human face used for eating, speaking, and breathing, and is commonly used in everyday conversation to describe this bodily feature."
+  "context": "The Finnish word 'suu' means 'mouth' in English. It refers to the oral cavity, or opening in the face through which food is consumed and speech is produced. In Finnish grammar, it's a common noun that doesn't change form for plural - it remains 'suu'. When combined with other words, it can form compounds like 'suukko' (kiss) or be used in expressions like 'suun kautta' (orally)."
 }

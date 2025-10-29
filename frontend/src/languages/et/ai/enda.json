@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen enda üksindus.",
-    "Ta on enda vastu armutu.",
-    "enda jaoks on oluline vabadus."
+    "Osta enda auto.",
+    "Ta tegi endale tööd.",
+    "Meie peame enda eest hoolt kandma."
   ],
   "translation": [
-    "myself",
-    "himself",
-    "herself"
+    "one's own",
+    "oneself",
+    "personal"
   ],
-  "context": "The word 'enda' is a reflexive pronoun in Estonian, used to refer to the subject of the sentence, similar to 'myself', 'himself', or 'herself' in English."
+  "context": "The Estonian word 'enda' is a reflexive pronoun and possessive adjective that means 'one's own' or 'oneself.' It is used to indicate that the subject of the sentence is also the object, referring back to the subject. When used as a possessive adjective, it shows possession by the subject themselves (e.g., 'end auto' = 'one's own car'). As a reflexive pronoun, it indicates that the action is performed by the subject on themselves (e.g., 'enda tööd teha' = 'to do work for oneself')."
 }

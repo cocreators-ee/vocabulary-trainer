@@ -1,15 +1,12 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Minu sõbra ütles, et tuleb homseks.",
-    "Ta on suurepärane sõber ja toetab mind alati.",
-    "Meie sõbralikku suhtumist hindavad kõik headustena."
+    "Sõpra on hea inimene.",
+    "Tema sõpra elab Tallinnas.",
+    "Mul on palju sõpru."
   ],
   "translation": [
-    "friend",
-    "comrade",
-    "fellow"
+    "friend"
   ],
-  "context": "The word 'sõbra' in Estonian refers to a close friend or companion. It is commonly used to describe someone you trust and spend time with."
+  "context": "The word 'sõpra' is the partitive form of the Estonian noun 'sõber', which means 'friend'. In Estonian, the partitive case is used to indicate partialness or indefiniteness. So 'sõpra' would translate to '(a) friend' or some friends, indicating that it's not specifying a particular friend but rather the concept of friendship in general or an unspecified number of friends."
 }

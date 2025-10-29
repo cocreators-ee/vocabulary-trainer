@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Pallime jalgpalli hommikul parkides.",
-    "Tema lemmikpallimisala on vaba maa.",
-    "Me pakkusime talle pallida koos meiega."
+    "Mängime palli.",
+    "Laps viskas palli.",
+    "Palli on kerge"
   ],
   "translation": [
-    "to play ball"
+    "ball",
+    "sphere",
+    "orb"
   ],
-  "context": "The verb 'palli' in Estonian translates to 'to play ball.' It is commonly used in the context of playing various types of ball games, such as football or basketball. The word can also be used more generally for any activity involving a ball."
+  "context": "In Estonian, 'palli' is the genitive singular form of the word 'pall', which means ball. It indicates possession or relationship to a ball - something belonging to a ball, made from a ball, or related to a ball in some way."
 }

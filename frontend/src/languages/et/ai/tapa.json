@@ -1,13 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tapin teda.",
-    "Kes tead, et kuidas inimesi tappa?",
-    "Ta jättis selle üles andma ja pani sind tapama."
+    "Tapa see kass.",
+    "Ma tapsin selle kassi.",
+    "Kass on tapetud."
   ],
   "translation": [
-    "kill"
+    "kill",
+    "murder",
+    "slaughter"
   ],
-  "context": "The word 'tapa' means to kill. It is commonly used as a verb to describe the act of causing someone's death intentionally or through action."
+  "context": "The Estonian word 'tapa' is a verb meaning to kill or murder. It can be used in various forms: 'tapa' (imperative/command form), 'tapma' (infinitive), 'tapan/tapad/tapab/tapame/tapate/tapavad' (present tense conjugations), and 'tapetud' (past participle/passive voice). It is commonly used in contexts like hunting, self-defense, or describing violent actions."
 }

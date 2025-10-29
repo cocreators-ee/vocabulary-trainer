@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vabandan tema ees.",
-    "Vabandage mind.",
-    "Ta vabandas oma eksituse eest."
+    "Vabandage!",
+    "Meie vabandame hilinemise eest.",
+    "Tere tulemast, vabandan et olen hilinenud."
   ],
   "translation": [
-    "excuse",
+    "excuse me",
+    "sorry",
     "apologize"
   ],
-  "context": "The word 'vabanda' in Estonian means to excuse or apologize for something, and it is commonly used in formal and informal settings to express regret or remorse for a mistake or wrongdoing."
+  "context": "The word 'vabanda' is the polite singular imperative form of the verb 'vabandama', meaning to apologize or excuse oneself. It is commonly used in formal situations to ask for forgiveness when making a mistake, arriving late, or interrupting someone's conversation. The plural form would be 'vabandage'."
 }

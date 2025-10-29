@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä vanha talo on ollut perheessämme vuosikymmenien ajan.",
-    "Vanhat kirjat ovat hyvin arvokkaita.",
-    "Hän on vanha ystäväni."
+    "Tämä on vanha talo.",
+    "Hän on vanha mies.",
+    "Vanhat ihmiset muistavat menneisyyden hyvin."
   ],
   "translation": [
     "old",
+    "elderly",
     "aged"
   ],
-  "context": "The word 'vanha' in Finnish means old or aged, and it is commonly used to describe something that has been existing for a long time or someone who is elderly."
+  "context": "The Finnish word 'vanha' is an adjective that means 'old' in English. It can be used to describe objects, buildings, people, or concepts that have existed for a long time. When referring to people, it typically indicates someone who is elderly or aged. The word changes form depending on the case and number - 'vanha' is the basic singular nominative form. In plural, it becomes 'vanhat'."
 }

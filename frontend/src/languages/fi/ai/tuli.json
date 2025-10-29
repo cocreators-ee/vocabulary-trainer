@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tuli palaa voimakkaasti.",
-    "Hän tuli juuri kotiin.",
-    "Palo tuli alkuperäisestä syystä."
+    "Tuli paloi metsässä.",
+    "Talossa on tulisija.",
+    "Tuliko hän huomenna?"
   ],
   "translation": [
     "fire",
-    "came"
+    "flame",
+    "came (past tense of tulla)"
   ],
-  "context": "The word 'tuli' in Finnish can be translated to English as 'fire' or 'came', depending on the context in which it is used. It is commonly used to describe something that is burning, or to indicate the arrival of someone or something."
+  "context": "The Finnish word 'tuli' has multiple meanings depending on context. Most commonly, it means 'fire' or 'flame.' It can also be the past tense form of the verb 'tulla,' which means 'to come.' The meaning is determined by whether it appears as a noun or in a verbal construction."
 }

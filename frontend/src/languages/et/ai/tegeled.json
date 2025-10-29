@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tegeled muusikaga.",
-    "Ta on tegeled õpingutega.",
-    "Nad on tegeled äriprojektiga."
+    "Ma tegelem muusikaga.",
+    "Ta tegeleb spordiga.",
+    "Meie kool tegeleb haridusega."
   ],
   "translation": [
-    "engaged",
-    "involved",
-    "occupied"
+    "deal with",
+    "be involved in",
+    "engage in"
   ],
-  "context": "The word 'tegeled' in Estonian generally means being busy or involved with something, often implying a sense of engagement or occupation with an activity, project, or task."
+  "context": "The word 'tegeled' is the 3rd person singular form of the verb 'tegelda' in Estonian. It means to be engaged in, deal with, or be occupied with something. This verb indicates ongoing activity or involvement in a particular field or task."
 }

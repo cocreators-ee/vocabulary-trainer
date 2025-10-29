@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma tundsin teda hästi.",
-    "Ta tundis end abit nõutuna.",
-    "Neil päevil tundsime me kõik suurt kurbust."
+    "Mul on head tunded sellest projektist.",
+    "Tunded näitavad positiivset suunda.",
+    "Oleme kogunud palju tundeid kasutajatelt."
   ],
   "translation": [
-    "felt",
-    "sensed",
-    "knew"
+    "feelings",
+    "emotions",
+    "senses",
+    "trends"
   ],
-  "context": "The word 'tunded' is the past tense, third-person singular form of the verb 'tunda', which means 'to feel', 'to sense', or 'to know' someone or something. It expresses a state of having an emotional or physical sensation, or being familiar with a person."
+  "context": "The Estonian word 'tunded' is the plural form of 'tund', which can refer to feelings/emotions, or trends/senses. It's commonly used when discussing emotional states, data trends, or sensory perceptions."
 }

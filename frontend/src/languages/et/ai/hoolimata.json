@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lähen sinna hoolimata ilmast",
-    "Hoolimata sellest, mis toimus, on see hea mõte",
-    "Ta tegutses hoolimata suurest ohtust"
+    "Hoolimata tekitatud segadusest, jäime sõprade juurde.",
+    "Ta hoolimata oma haigestumisest tööd jätkas.",
+    "Me ei peatu hoolimata äikest."
   ],
   "translation": [
+    "regardless",
     "despite",
-    "regardless of"
+    "without regard to"
   ],
-  "context": "The word hoolimata is used in Estonian to indicate that something happens or is done despite something else, often an obstacle or a challenging situation."
+  "context": "In Estonian, 'hoolimata' is an adverb that means 'regardless' or 'despite'. It's used to indicate that something happens or is true in spite of certain conditions or obstacles. The word often appears in constructions like 'hoolimata + elativ case' (e.g., 'hoolimata takistestests' - despite the obstacles). It can be followed by other words in the elative case to show what is being disregarded."
 }

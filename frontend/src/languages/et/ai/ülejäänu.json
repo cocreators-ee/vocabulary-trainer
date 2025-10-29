@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen ülejäänu koolist.",
-    "Ülejaanu ei ole hea.",
-    "Ta on ülejäänud meie vennaskonna seas."
+    "See on ülejäänud toiduaine.",
+    "Mulle jäi üle palju raha pärast reisi.",
+    "Ülejäänu kogus oli väike."
   ],
   "translation": [
     "remainder",
-    "residue",
-    "leftover"
+    "leftover",
+    "balance",
+    "surplus"
   ],
-  "context": "The word \"ülejäänu\" in Estonian refers to something that is left over or remaining after something has been removed or used, and it can be used in various contexts such as mathematics, chemistry, or everyday life."
+  "context": "The word 'üle_jä_a_nu' is an Estonian noun that means something that remains or left over after the main part has been used, removed, or accounted for. It can refer to leftover food, remaining money, surplus items, or balance of something."
 }

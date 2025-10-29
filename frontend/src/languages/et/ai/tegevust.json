@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tegevust alustanud.",
-    "Tegevust tuleb jätkata.",
-    "Tegevuse tulemus on positiivne."
+    "Kuidas tegevust alustada?",
+    "Meie ettevõtte tegevus on hea.",
+    "See projekt nõuab palju tegevust."
   ],
   "translation": [
     "activity",
-    "action"
+    "action",
+    "business",
+    "operation"
   ],
-  "context": "The word 'tegevust' in Estonian refers to an activity or action, and is commonly used to describe something that is being done or has been done."
+  "context": "The word 'tegevust' is the partitive case form of 'tegevus', which means activity, action, business, or operation. In Estonian, the partitive case typically indicates an incomplete action or partial object. So 'tegevust' would translate to 'activity/action' when it's the direct object in a sentence indicating some of or unspecified amount of activity."
 }

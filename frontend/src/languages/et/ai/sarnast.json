@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin sarnast toodet.",
-    "Sarnaste asjade leidmine on raske.",
-    "Ta tegi sarnast tüübist joonist."
+    "Sarnaselt teistega ta mõtleb alati enne rääkimist.",
+    "Neil on väga sarnased huvid muusikas.",
+    "Kaks pilti olid üsna sarnased."
   ],
   "translation": [
     "similar",
-    "alike"
+    "alike",
+    "comparable"
   ],
-  "context": "The word sarnast is an Estonian adjective that means similar or alike, used to describe things that have common characteristics or features."
+  "context": "The word 'sarnast' is an Estonian adverb meaning 'similarly' or 'like'. It's formed from the adjective 'sarnane' (similar) with the '-st' suffix, which typically forms comparative forms. This word is used to describe that something is done in a similar manner compared to others or that things resemble each other."
 }

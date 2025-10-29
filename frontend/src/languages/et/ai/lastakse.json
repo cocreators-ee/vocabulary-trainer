@@ -1,15 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "See tõde lastakse ruttu kaduma.",
-    "Usk lastakse lihtsalt kaduma.",
-    "Väärtus lastakse aja jooksul kaduma."
+    "Eestit lastakse palju külastajaid.",
+    "Maja lastakse uuesti ehitada.",
+    "Kodu lastakse müüa."
   ],
   "translation": [
-    "is lost",
-    "is let go",
-    "is given up"
+    "to be sold",
+    "to be leased/rented out",
+    "to let"
   ],
-  "context": "'Lastakse' is the third person singular form of 'lastma käes', meaning to lose or give up something. It's commonly used in contexts where something intangible like a truth, belief, or value is gradually being lost over time."
+  "context": "The word 'lastakse' is the 3rd person singular present passive form of the Estonian verb 'lastama', which means to sell, lease, or rent out property. In this form, it indicates that something is being actively sold or made available for rental/lease by someone."
 }

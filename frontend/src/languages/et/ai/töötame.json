@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Töötame sama hästi kodus kui kontoris.",
-    "Meie meeskond töötame koos juba mitu aastat.",
-    "Kui sa tõesti soovid, siis võime alates homme alustada ja hakata töötame."
+    "Me töötame kodus",
+    "Töötad sa täna?",
+    "Kes töötab poes?"
   ],
   "translation": [
     "we work",
-    "we are working"
+    "you work",
+    "who works"
   ],
-  "context": "'töötame' is the first person plural form of 'to work'. It can be used in both present simple and present continuous tenses. Commonly used to describe current work situations, job activities or professional collaborations between multiple people."
+  "context": "The word 'töötame' is the 1st person plural present tense form of the verb 'töötama', which means 'to work'. It translates to 'we work' in English. The root 'töö-' relates to labor, employment, or occupation, and '-tame' is the ending for 1st person plural present tense in Estonian verbs."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma saan seda teha.",
-    "Ta on saanud uue töö.",
-    "Kas sa saad mulle aita?"
+    "Saa mind siia!",
+    "Saab mind siia?",
+    "Ta sai hästi töö."
   ],
   "translation": [
-    "to get",
-    "to receive",
-    "can"
+    "let me go",
+    "may I go",
+    "he/she got well"
   ],
-  "context": "'Saa' in Estonian means to receive or obtain something, and it can also be used as 'can' or 'may' when expressing permission or ability."
+  "context": "The Estonian word 'saa' is a verb that can have multiple meanings depending on context. It appears to be in different forms: as an imperative form meaning 'let [someone] go' or '[someone] may go', and as a past tense form meaning '[subject] got/received'. The exact interpretation depends heavily on the grammatical person, tense, and context of use."
 }

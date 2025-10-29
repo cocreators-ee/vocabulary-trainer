@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma soovin seda kohta eemaldada.",
-    "Eemaldage see pilt sealt.",
-    "Kas sa tahad eemaldada selle faili?"
+    "Ma eemaldasin vanad asjad ühest toast.",
+    "Palun eemalda see laudette.",
+    "Ta eemaldab kõik ebavajaliku enne kolimist."
   ],
   "translation": [
-    "remove",
-    "delete",
-    "take away"
+    "to remove",
+    "to take away",
+    "to eliminate"
   ],
-  "context": "The word 'eemaldada' is commonly used in Estonian to mean removing or deleting something, and it can be used in various contexts such as removing an object, deleting a file, or taking something away."
+  "context": "The verb 'eemaldada' in Estonian means to remove or take something away from a place. It's used when you want to indicate that an object is being relocated, eliminated, or taken out of its current position. The word follows the standard Estonian conjugation pattern for -da verbs and can be used in various contexts such as cleaning, moving, or getting rid of unwanted items."
 }

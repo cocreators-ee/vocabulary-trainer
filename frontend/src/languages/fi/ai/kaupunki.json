@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Kaupunki on suuri paikka.",
-    "Hän asuu kaupungissa.",
-    "Kaupunkilaiset ovat ystävällisiä."
+    "Tämä on kaunis kaupunki.",
+    "Hän muutti suurempaan kaupunkiin.",
+    "Kävelimme keskustan läpi tässä kaupungissa."
   ],
   "translation": [
     "city",
     "town"
   ],
-  "context": "The word refers to a large human settlement, commonly known as a city or town in English, and is used to describe urban areas with a high concentration of people and infrastructure."
+  "context": "The Finnish word 'kaupunki' means city or town in English. It is a common noun used to refer to urban areas and settlements of significant size. In Finnish grammar, it follows the typical consonant gradation pattern - when adding suffixes that start with vowels, the 'k' changes to a softer sound (e.g., kaupungissa = in the city). The word can be declined into various cases depending on its grammatical function in a sentence."
 }

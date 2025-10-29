@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen kasvõi üks kord seal käinud.",
-    "Kasvõi see oleks hea algus.",
-    "Ta on kasvõi üks neist, kes seda teeb."
+    "Kasvõi homme saab ta koju tagasi.",
+    "Meil kasvõi vaja abi on.",
+    "Tule kasvõi kell seitse."
   ],
   "translation": [
-    "at least",
-    "at least one time"
+    "even if",
+    "at least"
   ],
-  "context": "The word 'kasvõi' is used to indicate a minimum amount or degree of something, and it can be translated to English as 'at least'."
+  "context": "The Estonian word 'kasvõi' is a conjunction used to introduce conditions or possibilities, similar to English expressions like 'even if' or 'at least'. It often appears in contexts where something might happen under certain circumstances or as a minimal requirement. The word can express both hypothetical situations and minimum thresholds."
 }

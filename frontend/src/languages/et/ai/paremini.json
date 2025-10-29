@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei oska paremini.",
-    "Ta võitis võistluse paremini kui eelmine aasta.",
-    "Me peame tegema paremini."
+    "Tema räägib paremini kui eelmisel korral.",
+    "Meie töötavad alati paremini koos.",
+    "Ta ongi paremini nüüd tervislikult."
   ],
   "translation": [
-    "better"
+    "better",
+    "more optimally",
+    "improved"
   ],
-  "context": "The word paremini is an adverb in Estonian that means to do something better or more skillfully, often implying an improvement over a previous attempt or performance."
+  "context": "The word 'paremini' is the comparative form of the Estonian adjective 'parem', meaning 'better'. It functions as an adverb in comparative constructions, indicating improvement or superiority compared to a previous state or alternative. In Estonian grammar, this follows the regular pattern for forming adverbs from positive adjectives by adding the -i suffix for comparatives."
 }

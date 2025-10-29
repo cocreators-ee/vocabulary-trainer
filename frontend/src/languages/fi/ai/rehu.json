@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minun on annettu rehu koiralle.",
-    "Rehut ovat tärkeitä eläimille.",
-    "Lypsyrehu on erityisesti valmistettu lehmille."
+    "Hevoset tarvitsevat hyvää rehua.",
+    "Maatalousyritys toimittaa rehua eläintiloille.",
+    "Lypsykarjan ruokintaan käytetään erilaista rehua kuin lihakarjan."
   ],
   "translation": [
-    "food",
+    "feed",
     "fodder",
-    "feed"
+    "forage"
   ],
-  "context": "The word 'rehu' in Finnish generally refers to food or fodder given to animals, and it is commonly used in contexts related to animal care and agriculture."
+  "context": "The Finnish word 'rehu' refers to animal feed or fodder used for feeding livestock. It's a common agricultural term that encompasses various types of food given to farm animals such as cattle, horses, sheep, and poultry. The word can be used in both singular form (rehu) and plural form (rehut)."
 }

@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta leidis pommi oma autos.",
-    "Pommid olid peidetud keldris.",
-    "Pomm plahvatas õhtul."
+    "Pommi oli peidetud autosse.",
+    "Politsei leidis pommi ja neutraliseeris selle.",
+    "Kõik olid hirmunud pommiohtude tõttu."
   ],
   "translation": [
-    "bomb"
+    "bomb",
+    "explosive device",
+    "bomb threat"
   ],
-  "context": "The word pommi refers to an explosive device designed to release a large amount of energy in a short time, often causing damage or destruction."
+  "context": "The Estonian word 'pommi' is the partitive form of 'pomm', which means 'bomb'. In this case, it's used to mean 'of a bomb' or 'related to bombs'. The partitive case in Estonian typically indicates partialness, but here it often appears with certain nouns when referring to specific instances or types of things. Pommi can refer to an actual explosive device, the concept of bombing, or bomb threats."
 }

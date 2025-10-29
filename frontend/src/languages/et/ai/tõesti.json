@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma tõesti arvan, et see on hea mõte.",
-    "Tõesti, tema on väga osav.",
-    "Ta ütles tõesti, et ei saa enam oodata."
+    "Tõesti on ilus päev.",
+    "Kas tõesti? See on uskumatu!",
+    "Ta tõesti ei tea midagi selle kohta."
   ],
   "translation": [
     "really",
-    "indeed",
-    "truly"
+    "truly",
+    "indeed"
   ],
-  "context": "The word 'tõesti' is an adverb in Estonian that is used to emphasize the truth or reality of something, similar to the English words 'really', 'indeed', or 'truly'."
+  "context": "The Estonian word 'tõesti' is an adverb that means 'really', 'truly', or 'indeed'. It's used to emphasize the truthfulness or certainty of a statement. In Estonian grammar, it doesn't change form based on gender or number since it's an adverb."
 }

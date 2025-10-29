@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ootan tulevikust.",
-    "Tulevikuks on palju plaane.",
-    "Me peame muretsema tuleviku pärast."
+    "Tulevik on täis võimalusi.",
+    "Me arutleme tuleviku plaane.",
+    "Kas sa näed oma tulevikut?"
   ],
   "translation": [
-    "future"
+    "future",
+    "the future time",
+    "prospects ahead"
   ],
-  "context": "The word 'tulevik' in Estonian refers to a period of time that has not yet happened, and is commonly used when talking about plans or predictions for what is going to happen next."
+  "context": "The Estonian word 'tulevik' means 'future' in English. It refers to the time that is yet to come, what will happen later or in upcoming days/months/years. This is a common noun used in everyday language when discussing plans, expectations, and predictions about what lies ahead."
 }

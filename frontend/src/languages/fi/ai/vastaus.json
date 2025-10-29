@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vastaus on helppo.",
-    "Hän antoi vastauksensa nopeasti.",
-    "Vastaukset olivat yhtenäisiä."
+    "Minulla ei ole vastaus tähän kysymykseen.",
+    "Odotan vastausta sähköpostiini.",
+    "Vastauksesi oli erittäin hyödyllinen."
   ],
   "translation": [
     "answer",
-    "response"
+    "response",
+    "reply"
   ],
-  "context": "The word 'vastaus' in Finnish refers to an answer or response given to a question, and it is commonly used in various contexts such as interviews, exams, or everyday conversations."
+  "context": "The Finnish word 'vastaus' means 'answer', 'response', or 'reply'. It is a noun that refers to the act of replying to something, such as a question, letter, or situation. In its basic form (nominative case), it can be used in various contexts where one needs to provide feedback or react to something said or asked."
 }

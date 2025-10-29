@@ -1,14 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "See on kohutavalt raske.",
-    "Ma mõistan seda kohutavalt halvasti.",
-    "Tema kohutavalt suurepärane suhtlemine meelitas kogu täiskasvanute rütme."
+    "Kohutavalt kallis see oli!",
+    "Ta tegi kohutavat teha.",
+    "Mees rääkis kohutavalt halvasti eesti keelt."
   ],
   "translation": [
-    "Terribly",
-    "Awfully"
+    "terribly",
+    "awfully",
+    "dreadfully",
+    "horribly"
   ],
-  "context": "The word 'kohutavalt' in Estonian is an adverb meaning terribly or awfully. It can be used to emphasize the intensity of a negative situation or feeling, but it might also carry connotations depending on context; for instance, it could imply something as being very good ('terribly good')."
+  "context": "The Estonian word 'kohutavalt' is an adverb derived from the adjective 'kohutav' (terrible, awful). It's used to modify verbs or other adverbs to indicate that something is done in a terrible, awful, or dreadful manner. The '-lt' ending is typical for Estonian adverbs and indicates the case ending used to form adverbs from adjectives."
 }

@@ -1,14 +1,15 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ta ütleb tõtt.",
-    "Ma ütlen sind vandenõusse.",
-    "Kas sa küsids, kui see on tõsi?",
-    "Ta ei ütle midagi."
+    "Ta ütleb tõsi.",
+    "Mis ta ütleb?",
+    "Ei tea, mida ta ütleb."
   ],
   "translation": [
-    "says"
+    "says",
+    "tells",
+    "states",
+    "speaks"
   ],
-  "context": "This is the third person singular form of 'to say' in present tense. It can be used to describe what someone says directly or indirectly."
+  "context": "The word 'ütleb' is the third person singular present indicative form of the Estonian verb 'ütelda', which means 'to say', 'to tell', or 'to speak'. It's used when someone (he/she/it) is saying something in the present tense. For example, 'Ta ütleb tõsi' means 'He/She says truthfully'. The word follows Estonian grammar rules where verbs change form based on person and number."
 }

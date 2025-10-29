@@ -1,13 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Minä olen iloinen.",
-    "Minä rakastan sinua.",
-    "Minä en usko siihen."
+    "Minä olen suomalainen.",
+    "Minä pidän koirista.",
+    "Mitä minä teen?"
   ],
   "translation": [
-    "I"
+    "I",
+    "me"
   ],
-  "context": "'Minä' is a personal pronoun used to refer to oneself in the first person singular. It is commonly used in statements or questions where one wants to express their own actions, feelings, or thoughts."
+  "context": "The Finnish word 'minä' is the first-person singular pronoun that corresponds to English 'I'. It is used when referring to oneself. In some contexts, it can also be translated as 'me', though this usage is less common and typically requires specific grammatical constructions."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Väed läksid lahingusse.",
-    "Ta juhtis vägesid edukalt.",
-    "Meie väed on tugevamad kui vaenlase omad."
+    "Väed saabusid lahinguväljale.",
+    "Maa väed olid valmis kaitsema oma piire.",
+    "Sõjaväes teenivad paljud mehed ja naised."
   ],
   "translation": [
+    "army",
     "troops",
-    "forces",
-    "army"
+    "forces"
   ],
-  "context": "The word 'väed' in Estonian refers to a body of soldiers or military forces. It is commonly used in contexts related to war, defense, and military operations."
+  "context": "The Estonian word 'väed' is the plural form of 'vägi', which means army, troops, or forces. It refers to organized military units or armed personnel when used in plural form. In Estonian, '-d' at the end of nouns typically indicates plural, so this would be equivalent to saying 'armies' or 'troops' in English."
 }

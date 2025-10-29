@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Igal päeval võin minna ujuma.",
-    "Ta on igal pool olnud.",
-    "See toimub igal aastal."
+    "Ig a hommikul tegin jooksu.",
+    "Me peame olema igal päeval täpsed ja ettenäguslikud.",
+    "Kas sa oled ikka veel selles asjas? Ig a poolt."
   ],
   "translation": [
     "every",
-    "each"
+    "each",
+    "all"
   ],
-  "context": "The word 'igal' in Estonian means every or each, and is commonly used to indicate something happens with every instance of something, such as every day."
+  "context": "The word 'igal' in Estonian is the illative case (direction into) of the pronoun 'iga', which means 'every' or 'each'. It indicates movement toward or inclusion within every instance. In the first sentence, it shows the direction of the morning run. In the second example, it emphasizes each day's requirement for precision and foresight. The third sentence demonstrates how 'igal' can be used to express support from all sides."
 }

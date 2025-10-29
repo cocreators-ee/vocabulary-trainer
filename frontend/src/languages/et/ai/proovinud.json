@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen proovinud seda enne.",
-    "Ta on proovinud mitmeid asju.",
-    "Nad on proovinud erinevaid meetodeid."
+    "Proovinud olen seda juba varem ära teinud.",
+    "Ta on proovinud palju erinevaid meetodeid.",
+    "Me oleme proovinud kõiki võimalusi."
   ],
   "translation": [
-    "tried",
-    "attempted"
+    "have tried",
+    "attempted",
+    "tested"
   ],
-  "context": "The word 'proovinud' is the past tense of the Estonian verb 'proovima', which means to try or attempt something. It is commonly used in sentences to describe an action that was attempted or tried in the past."
+  "context": "The word 'proovinud' is the Estonian past participle form of the verb 'proovima', which means 'to try'. It is formed by adding the -d suffix to the stem and indicates a completed action in the past. This form is typically used with the auxiliary verb 'olema' (to be) or sometimes with other verbs depending on context."
 }

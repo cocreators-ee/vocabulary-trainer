@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei nimeta seda kohta.",
-    "Ta ei tahtnud nimeta oma allikaid.",
-    "Nimeta see asutus."
+    "Tegelikult nimetas ta selle uueks nimeks.",
+    "Ei saa nimetada ühtegi head põhjust.",
+    "Kas teie saate nimetada kõiki meie töötajaid?"
   ],
   "translation": [
     "to name",
-    "mention"
+    "to call",
+    "to designate",
+    "to mention"
   ],
-  "context": "The word 'nimeta' in Estonian means to name or mention something, and it is commonly used in sentences where someone is referring to a person, place, or thing without directly stating its name."
+  "context": "The Estonian word 'nimeta' is an infinitive form of the verb meaning 'to name' or 'to call'. It can be used when assigning names to people, places, or things, as well as when referring to or mentioning something. The word comes from the root 'nimi' (name) with the '-ta' suffix indicating infinitive form."
 }

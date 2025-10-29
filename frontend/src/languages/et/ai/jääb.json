@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma jään täna öösel kodu",
-    "Ta on jäänud haigeks",
-    "Jääb alles üks võimalus"
+    "Jätab meid rahus.",
+    "Tema jääb homme kohtumisele.",
+    "Kodu jääb vanematele."
   ],
   "translation": [
-    "stays",
     "remains",
-    "is left"
+    "stays",
+    "is left",
+    "will be"
   ],
-  "context": "The word 'jääb' is a verb in Estonian that means to stay or remain in a place, and it can also be used to indicate that something is left over or remaining."
+  "context": "The word 'jääb' is the 3rd person singular form of the Estonian verb 'jääma'. It means 'to remain', 'to stay', or 'to be left'. This form is used when talking about what someone/something remains, stays, or will be. For example: 'Jätab meid rahus' (He/She leaves us in peace), 'Tema jääb homme kohtumisele' (He/She stays for tomorrow's meeting), 'Kodu jääb vanematele' (The house remains to the parents)."
 }

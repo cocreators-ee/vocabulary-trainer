@@ -1,16 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma lendan Eestist Hispaania poole.",
-    "Lende eile kooli.",
-    "Kas sa lennuks Soomes?",
-    "Minu ema juba läheb lennujaamasse.",
-    "Lendu pidi tõesti maksma."
+    "Me lendame homme Pariisi.",
+    "Lendame koos siin suvel.",
+    "Millal te lendate New Yorki?"
   ],
   "translation": [
-    "I fly",
-    "I am flying"
+    "fly",
+    "are flying",
+    "will fly"
   ],
-  "context": "The word 'lendame' is a first person plural form of the Estonian verb 'lendama', meaning to fly. It literally translates into English as 'we fly'. The usage might be in the context like \"Let's fly\" or \"We fly\", indicating either literal flight, such as traveling by airplane, or metaphorically flying on one's own."
+  "context": "The word 'lendame' is the 1st person plural present indicative form of the Estonian verb 'lennama', which means 'to fly'. It specifically means 'we are flying' or 'we will fly' depending on context. In Estonian, this is a regular verb conjugation where the root 'len-' plus the ending '-dame' indicates 1st person plural present tense."
 }

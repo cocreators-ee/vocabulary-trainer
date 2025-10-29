@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma seletan seda probleemi.",
-    "Ta seletas mulle kogu stsenaariumi.",
-    "Nende seletamine sellel teemal oli väga huvitav."
+    "Ma seletan selle probleemi.",
+    "Ta ei taha kuulata, kuidas ma seletan seda.",
+    "Me peame selgitama, miks ta ei seleta oma tegusid."
   ],
   "translation": [
     "explain",
-    "describe"
+    "describe",
+    "clarify"
   ],
-  "context": "The word 'seletan' is a verb in Estonian that means to explain or describe something, often used in formal or professional settings to provide detailed information about a topic."
+  "context": "'Seletan' is the first person singular form of the Estonian verb 'selgita' meaning 'to explain' or 'to clarify'. It comes from the root word 'selge' which means 'clear' in English. This verb is used when someone wants to make something understandable by providing information or details about it."
 }

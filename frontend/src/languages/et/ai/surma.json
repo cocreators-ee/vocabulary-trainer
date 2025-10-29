@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta surm on minu süü.",
-    "Surma põhjustas autoavarii.",
-    "Surmahuku oli tema perele väga raske."
+    "Surmaga küsimus on see, kas me peaksime loobuma sellest projektist.",
+    "Ta suri ära öösel haigusesse.",
+    "Pärast tema surma võtsid lapsed üle firma juhtimise."
   ],
   "translation": [
     "death",
-    "murder"
+    "dying",
+    "demise",
+    "fatality"
   ],
-  "context": "The word 'surma' in Estonian generally refers to death or murder, and it is often used in contexts where someone has died or been killed, either naturally or through violent means."
+  "context": "The word 'surma' is the partitive case form of the Estonian noun 'surm', which means 'death'. In this partitive form, it often appears in contexts where death is being discussed as a concept or object. For example, 'surmaga küsimus' means 'a question about death'. The word can also function adjectivally to indicate cause of death, as in 'ta suri haigusesse' (he died from illness), where the partitive indicates what caused the death."
 }

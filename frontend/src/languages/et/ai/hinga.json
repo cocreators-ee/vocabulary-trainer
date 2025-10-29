@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei saa hinga",
-    "Ta õpetas mind hingama",
-    "Hingamine on eluks vajalik"
+    "Hinga sügavalt.",
+    "Ta hingab kiiresti pärast jooksu.",
+    "Lapse hingamine on rahulik."
   ],
   "translation": [
-    "breathe",
-    "breath"
+    "to breathe",
+    "breathing"
   ],
-  "context": "The word 'hinga' in Estonian means to breathe, and it is commonly used in the context of taking air into the lungs or exhaling it, similar to the English word 'breathe'."
+  "context": "The Estonian word 'hinga' is the imperative form of the verb 'hingama', which means 'to breathe'. It's used as a command to someone to take a breath, often in situations where they need to calm down or compose themselves. The base form 'hingama' refers to the act of breathing in general, while 'hinga' specifically addresses someone directly telling them to breathe."
 }

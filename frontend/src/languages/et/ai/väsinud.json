@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen väsinud.",
-    "Ta on väsinud tööga.",
-    "Väsinud inimene vajab puhka"
+    "Olen väsinud pärast pikka tööpäeva.",
+    "Tüdruk oli väsinud ja tahtis magada.",
+    "Mees on väsinud ja tahab puhata."
   ],
   "translation": [
     "tired",
-    "exhausted",
-    "weary"
+    "weary",
+    "fatigued"
   ],
-  "context": "The word väsinud is an adjective in Estonian that means being physically or mentally tired, and it is commonly used to describe a state of exhaustion or fatigue."
+  "context": "The Estonian word 'väsinud' is the past participle form of the verb 'väsima', meaning 'to get tired' or 'to become weary'. It's an adjective that describes a state of being physically or mentally exhausted. This word is commonly used to describe someone who needs rest after exertion, work, or activity."
 }

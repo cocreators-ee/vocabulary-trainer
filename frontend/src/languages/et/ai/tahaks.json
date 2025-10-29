@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tahaksin minna koju",
-    "Ta tahab seda teha",
-    "Me tahame aidata"
+    "Tahaksin teada, mis kell on.",
+    "Ta tahaks sõita Tallinnasse.",
+    "Meie tahaksime jalutada mööda parki."
   ],
   "translation": [
     "would like to",
-    "want to"
+    "would want",
+    "wish"
   ],
-  "context": "The word 'tahaks' in Estonian is a verb form that expresses a desire or intention to do something, similar to the English phrase 'would like to' or 'want to'."
+  "context": "The Estonian word 'tahaks' is the 3rd person singular conditional form of the verb 'tahta', meaning 'to want' or 'to wish'. It expresses a desire, preference, or wish in the conditional mood. This form is used when someone else (he/she/it) would like to have something or do something."
 }

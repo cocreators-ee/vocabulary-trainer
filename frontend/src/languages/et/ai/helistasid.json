@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma helistasin talle eile.",
-    "Ta helistab mulle iga päev.",
-    "Nad helistasid meile homme."
+    "Helistasin sulle eile.",
+    "Ta helistas mulle kell kolm.",
+    "Me helistasime oma vanematele."
   ],
   "translation": [
-    "called",
-    "rang",
-    "phoned"
+    "called (by phone)",
+    "phoned",
+    "rang up"
   ],
-  "context": "The word 'helistasid' is the third person plural past tense form of the verb 'helistama', which means to call someone on the phone in Estonian. It is commonly used to describe the act of making a phone call to someone."
+  "context": "The word 'helistasid' is the past tense plural form of the Estonian verb 'helista', which means 'to call' or 'to telephone'. It specifically refers to making a phone call. The '-sid' ending indicates this is second person singular or third person plural past tense."
 }

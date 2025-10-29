@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ottelu oli tiukka ja jännittävä.",
-    "Hän on pelannut monia otteluita urallaan.",
-    "Tänään pelataan viimeinen ottelu kaudella."
+    "Tänään on suuri jalkapallo-ottelu.",
+    "Häviimme viimeisessä ottelussa niukasti.",
+    "Seuraava ottelu alkaa kello 19."
   ],
   "translation": [
     "match",
     "game",
-    "competition"
+    "contest"
   ],
-  "context": "The word 'ottelu' generally refers to a sporting event or contest, where two or more teams or individuals compete against each other, and it is commonly used in various contexts such as sports news, conversations about games, or discussions about competitive events."
+  "context": "Ottelu is a Finnish noun that refers to a competitive match, game, or contest between two parties. It's commonly used in sports contexts like football matches, tennis matches, or any kind of competitive encounter where teams or individuals compete against each other."
 }

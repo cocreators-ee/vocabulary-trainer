@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen viime päevadel väga haige olnud.",
-    "Ta on viimased kuud siin elanud.",
-    "Viimasel ajal on toimunud palju muutusi."
+    "Viimane päev oli põnev.",
+    "Olen viimase nädala jooksul palju tööd teinud.",
+    "Kas sa viimasel ajal midagi kuulsid?"
   ],
   "translation": [
     "last",
     "latest",
     "recent"
   ],
-  "context": "The word 'viime' in Estonian generally refers to something that is last or most recent in a sequence, and it can be used as an adjective to describe nouns or as an adverb to describe verbs."
+  "context": "The Estonian word 'viime' is the partitive singular form of 'viimane', which means 'last'. It appears to be used in contexts referring to something that occurred most recently or at the end of a sequence. The word can translate to English as 'last', 'latest', or 'recent' depending on the specific context in which it's used."
 }

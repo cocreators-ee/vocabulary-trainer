@@ -1,14 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Olen kindel, et saadate mulle tagasi.",
-    "Kas nad said teada sellest uudist?",
-    "Ta sai sõbralt tugeva toekanda."
+    "Annate mulle raamatu.",
+    "Te annaksite palun veini?",
+    "Annake mulle oma telefon."
   ],
   "translation": [
-    "you give",
-    "you all give"
+    "you give (singular/formal)",
+    "to give"
   ],
-  "context": "The word 'annate' is the second person plural form of the verb 'anna', meaning 'to give'. It's used when addressing a group or making a formal statement about giving something."
+  "context": "The word 'annate' is the formal/plural form of the verb 'anna' meaning 'give'. In Estonian, verbs have different forms depending on who is performing the action and whether it's formal or informal. The ending '-te' indicates that this is the 2nd person plural formal form (formal address to one person or addressing multiple people formally)."
 }

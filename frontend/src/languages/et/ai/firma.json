@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta töötab firma juures.",
-    "Firmal on mitmeid osakondi.",
-    "See firma asutati 1990ndatel."
+    "Minu firma töötab Tallinnas.",
+    "Ta asutas oma esimese firma kolmekümmend aastat tagasi.",
+    "Meie firma pakub kvaliteetset teenust."
   ],
   "translation": [
     "company",
-    "firm"
+    "firm",
+    "business"
   ],
-  "context": "The word 'firma' in Estonian refers to a company or firm, and is commonly used in business contexts to describe an organization or enterprise."
+  "context": "The word 'firma' in Estonian means company, firm, or business. It is a common noun used to refer to an organization that provides goods or services for profit. The word is of German origin and has been adopted into the Estonian language. In Estonian grammar, 'firma' follows normal noun patterns for cases and plural formation."
 }

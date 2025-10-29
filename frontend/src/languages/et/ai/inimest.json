@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Inimesed elavad erinevates maailmades.",
-    "Minu lemmikinimes on musta kilkviini.",
-    "Ta inimese teekond oli pikk ja raskene."
+    "Inimesed on loomad.",
+    "Kes see inimene?",
+    "Palun öelge mulle oma nimi ja isikukood."
   ],
   "translation": [
-    "people",
     "person",
-    "human"
+    "human being",
+    "individual"
   ],
-  "context": "'Inimest' is the illative plural form of 'inimene' which means person or human. It is used to indicate people in general, a group of individuals, or humanity as a whole."
+  "context": "The word 'inimest' appears to be the partitive case form of the Estonian noun 'inimene', which means 'person'. In Estonian, nouns have different cases depending on their grammatical function. The partitive case is often used to indicate an incomplete action or when referring to a quantity of something. 'Inimest' would translate to 'of a person' or '(some) person' in English."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on hea moodus.",
-    "Moodus oli väga halb.",
-    "Ma olen selles mooduses, et ei saa enam magada."
+    "Tema on heas mooduses.",
+    "Kuidas su moodus on?",
+    "Moodus oli hästi."
   ],
   "translation": [
     "mood",
-    "temper",
-    "state of mind"
+    "temperament",
+    "disposition"
   ],
-  "context": "The word 'moodus' in Estonian generally refers to a person's emotional state or mood at a particular time, and is commonly used in everyday conversations to describe how someone is feeling."
+  "context": "In Estonian, 'moodus' refers to a person's mood or emotional state. It can indicate someone's general disposition or temperament at a particular moment. The word is often used in contexts asking about how someone feels (e.g., 'Kuidas su moodus on?' means 'How are you feeling?') or describing someone's current emotional condition."
 }

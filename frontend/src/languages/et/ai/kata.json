@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga kata mees.",
-    "Ära ole nii kata!",
-    "See oli kate ja valelik."
+    "Katasid sa oma taskuräsi?",
+    "Tema katab laia haardega.",
+    "Meie peame kata ära see töö."
   ],
   "translation": [
-    "roof",
-    "edge",
-    "rim",
-    "border"
+    "to cover",
+    "to coat",
+    "to spread"
   ],
-  "context": "The Estonian word 'kata' can refer to a physical covering or edge, like the roof of a building. It can also be used figuratively to describe someone who is deceitful or sly, similar to saying they are ‘shady’ in English."
+  "context": "The Estonian word 'kata' is a verb that means to cover something with another substance or material. It can be used literally (covering a surface) or figuratively (coating, spreading). The root form is 'katama', and 'kata' appears in various conjugations depending on the subject and tense."
 }

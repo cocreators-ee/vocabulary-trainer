@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on õnnetu inimene.",
-    "Õnnetu juhtum leidis aset eile.",
-    "Õnnetuga ei saa midagi teha."
+    "Ta on õnnetu mees.",
+    "Õnnetud laps kaotas oma mänguasja.",
+    "See oli õnnete olukord."
   ],
   "translation": [
     "unhappy",
-    "unfortunate",
+    "sad",
     "miserable"
   ],
-  "context": "The word õnnetu is an adjective used to describe someone or something that is unhappy, unfortunate, or miserable. It can be used in various contexts to convey a sense of sadness or misfortune."
+  "context": "The word 'õnnetu' is an Estonian adjective meaning unhappy, sad, or miserable. It's the singular nominative form of the adjective. The base stem appears to be 'õnne-' with the suffix '-tu', which in Estonian typically forms adjectives describing a state or condition. When used for masculine subjects (like 'mees' - man), it remains 'õnnetu'. For feminine subjects, it would become 'õnnetud'. The plural form would be 'õnnetud' for all genders."
 }

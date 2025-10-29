@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Järve on ilus koht.",
-    "Ma elan järve ääres.",
-    "Järvel oli palju kalu."
+    "Järv on suur veekogum.",
+    "Me lähime järve äärde ujuma.",
+    "Kõik linnud lendavad üle järve."
   ],
   "translation": [
-    "lake"
+    "lake",
+    "body of water"
   ],
-  "context": "The word 'järve' is the genitive form of 'järv', which means lake in English, commonly used when describing a location near a body of water or referring to something belonging to the lake."
+  "context": "The word 'järve' is the genitive singular form of the Estonian noun 'järv', which means 'lake'. In genitive case, it typically indicates possession or association - something belonging to or related to a lake. For example, ' järve äärde' means 'to the edge of the lake'."
 }

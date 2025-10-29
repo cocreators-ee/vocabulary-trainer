@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma võin valida kas või teist.",
-    "Tahtsin öelda, et see on hea või halb asi.",
-    "Kas see on või ei ole oluline?"
+    "Tema tuleb homme või ülehomme.",
+    "Kas sa tahad kohvi või teed?",
+    "Võib-olla me peaksime minema."
   ],
   "translation": [
     "or",
-    "either"
+    "maybe",
+    "perhaps"
   ],
-  "context": "The word 'või' is a conjunction used to connect words or phrases that represent alternatives, similar to the English word 'or'."
+  "context": "The word 'või' in Estonian has multiple meanings depending on context. It most commonly functions as a conjunction meaning 'or', used to present alternatives or choices between options. For example, 'Kas sa tahad kohvi või teed?' means 'Do you want coffee or tea?'. In some contexts, especially with negation or uncertainty, 'või' can also mean 'maybe' or 'perhaps', expressing possibility or doubt. This dual usage is important to understand as Estonian uses this same word for both logical disjunction and probabilistic statements."
 }

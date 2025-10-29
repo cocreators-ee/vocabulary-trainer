@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lapsed mängivad pargis.",
-    "Mängivad lapsed on õnnelike vanematega.",
-    "Kaksikut mängivad sageli koos."
+    "Lapsed mängivad palli mänguväljakul.",
+    "Naised mängivad näitust teatris.",
+    "Mehed mängivad pokkeri õhtuti."
   ],
   "translation": [
     "play",
-    "are playing"
+    "are playing",
+    "perform"
   ],
-  "context": "The word 'mängivad' is the third person plural form of the verb 'mängima', which means to play. It is commonly used in sentences to describe people, usually children, who are engaged in playful activities."
+  "context": "The word 'mängivad' is the 3rd person plural present tense form of the Estonian verb 'mängima', which means 'to play'. In English, this would translate to 'they play' or 'are playing'. The word can be used for various activities including physical games (like sports), musical performances, or theatrical presentations. It's a very common verb in Estonian that covers multiple meanings of 'play' in English."
 }

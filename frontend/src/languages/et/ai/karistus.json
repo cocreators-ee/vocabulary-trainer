@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Karistus on väga raske",
-    "Ta sai karistuse kuriteo eest",
-    "Karistus võib olla erinev"
+    "Kuriteo eest määrati tal kaks aastat vanglakaristust.",
+    "See on karm karistus sellise väikese vea eest.",
+    "Karistused peaksid olema proportsionaalsed kuriteo tõsidusele."
   ],
   "translation": [
     "punishment",
     "penalty",
-    "sanction"
+    "sentence"
   ],
-  "context": "The word karistus refers to a punishment or penalty imposed for a crime or wrongdoing, and is commonly used in legal contexts to describe the consequences of breaking the law."
+  "context": "The Estonian word 'karistus' means punishment, penalty or sentence. It refers to a punitive measure imposed for wrongdoing, whether legal penalties for crimes or disciplinary measures for rule violations. The word can refer to various types of punishments including imprisonment (vanglakaristus), fines, or other sanctions."
 }

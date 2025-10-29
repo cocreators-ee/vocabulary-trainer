@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma avastasin uue restorani.",
-    "Ta avastas võtme.",
-    "Nad avastasid salajase koopa."
+    "Avastasin uue saare.",
+    "Ta avastas viga koodis.",
+    "Me avastasime üllatava tõsiasja."
   ],
   "translation": [
     "discovered",
-    "found"
+    "found out",
+    "uncovered"
   ],
-  "context": "The word 'avastasin' is the first person singular form of the verb 'avastama', which means to discover or find something. It is commonly used in Estonian to express the act of finding or discovering something new or unexpected."
+  "context": "The word 'avastasin' is the first-person singular past tense form of the Estonian verb 'avastama', which means to discover or find something. It indicates that the speaker performed an action of discovering something in the past."
 }

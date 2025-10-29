@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen minutiks kindel",
-    "Ta on minutiks üpris hea",
-    "Me oleme minutiks valmis"
+    "Kodanik saab sõita oma kodulinnani minutiks.",
+    "Ta läks poe minutiks.",
+    "Me jääme siia veel minutiks."
   ],
   "translation": [
-    "for a moment",
+    "for a minute",
+    "in a minute",
+    "briefly",
     "momentarily"
   ],
-  "context": "The word 'minutiks' in Estonian is used to describe something that lasts or is done for a brief moment, often translating to 'for a moment' or 'momentarily' in English."
+  "context": "The Estonian word 'minutiks' is the adessive case form of 'minute' (minut). It typically indicates duration or purpose, often translated as 'for a minute' in English. This form is commonly used to show how long an action will take or for what purpose someone goes somewhere. For example, 'sõita oma kodulinnani minutiks' means 'to drive to one's hometown for a minute', suggesting the journey will be brief."
 }

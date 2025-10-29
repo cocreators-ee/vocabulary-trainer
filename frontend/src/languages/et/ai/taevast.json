@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maailm on ilus taevast",
-    "Taevast tuleb meile palju head",
-    "Inimesed otsivad taevast jumalat"
+    "Tuli taevast.",
+    "Taevast tulevad head uudised.",
+    "Taevast on ilus päike."
   ],
   "translation": [
     "from heaven",
-    "heavenly"
+    "from the sky"
   ],
-  "context": "The word taevast is an adverb in Estonian that means something comes from or is related to heaven, often used in a religious or spiritual context to describe something as divine or sacred."
+  "context": "The word 'taevast' is the Estonian adessive case of 'taevas', meaning 'heaven' or 'sky'. It indicates location or origin - something coming from above, specifically from heaven or the sky. This grammatical form shows movement away from a higher position."
 }

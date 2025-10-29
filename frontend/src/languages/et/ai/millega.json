@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen millega rahul.",
-    "Ta pole millega eriti rahul.",
-    "Millega sa võid mind aidata?"
+    "Millega sa tood?",
+    "Sellega ma nõustun.",
+    "Kuidas sellega edasi minna?"
   ],
   "translation": [
     "with what",
-    "what with"
+    "with which",
+    "by means of"
   ],
-  "context": "The word 'millega' is an interrogative pronoun in Estonian, used to ask about the means or method by which something is done, and it can also be translated to English as 'with what' or 'what with', depending on the context of the sentence."
+  "context": "The word 'millega' is an interrogative pronoun in Estonian that means 'with what' or 'by means of'. It's formed from the question word 'mille' (what/which) and the adessive case ending '-ga', indicating association or instrumentality. This form is used when asking about the tool, method, or means by which something is done."
 }

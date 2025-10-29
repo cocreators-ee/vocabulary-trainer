@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma mäletan seda päeva hästi.",
-    "Ta mäletas kõiki sõpru, kes talle olid aidanud.",
-    "Mäletate veel neid aegu, kui me koos käisime?"
+    "Kas te mäletate seda päeva?",
+    "Mäletasime meie lapse sünnipäeva.",
+    "Ma ei mäleta tema nime."
   ],
   "translation": [
     "remember",
-    "recall"
+    "recall",
+    "memorize"
   ],
-  "context": "The word 'mäletate' is the second person plural form of the verb 'mäletama', which means to remember or recall something in Estonian. It is commonly used when asking someone if they remember a particular event, person, or thing."
+  "context": "The word 'mäletate' is the plural form of the verb 'mäletama' (to remember/recall) in Estonian. It specifically means 'you (plural/formal) remember'. The verb can be conjugated for different persons and tenses, as shown in the examples where we see present tense plural ('mäletate'), past tense plural ('mäletasime'), and negative form ('ei mäleta')."
 }

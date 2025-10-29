@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma töötan tööl.",
-    "Ta elab tööl.",
-    "Tööl on palju maju."
+    "Töötab töös",
+    "Tema töötab hoones",
+    "Me töötame firmas"
   ],
   "translation": [
+    "working",
     "at work",
-    "in the workplace"
+    "on duty"
   ],
-  "context": "The word tööl is used to describe something that is related to or happening at a place of work, similar to how we use 'at work' in English to indicate someone's location or activity during their job hours."
+  "context": "The Estonian word 'tööl' is an inessive case form of the word 'töö', meaning 'work'. It indicates location or state, specifically being at work or working. The '-l' ending shows that it's in the inessive case, which answers the question 'where?' - so this would mean 'at work'. It can indicate both physical presence at a workplace and the state of being engaged in work activities."
 }

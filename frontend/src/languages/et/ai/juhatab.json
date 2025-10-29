@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta juhatab meie firma.",
-    "Juhatab ta meid?",
-    "See juhatab meid edasi."
+    "Juhatab meie rühma.",
+    "Tema juhatab ettevõtet kolm aastat.",
+    "Kas sa juhavad lasteaiat?"
   ],
   "translation": [
     "leads",
-    "is leading"
+    "guides",
+    "conducts",
+    "directs"
   ],
-  "context": "The word 'juhatab' is a verb in Estonian that means to lead or guide someone or something, and it is commonly used in sentences to describe leadership or direction."
+  "context": "The word 'juhatab' is the 3rd person singular form of the Estonian verb 'juhatama', which means 'to lead', 'to guide', 'to conduct', or 'to direct'. It is used when someone (he/she/it) leads or guides others, an organization, a meeting, or an activity. The word follows Estonian conjugation patterns for regular verbs in the present tense."
 }

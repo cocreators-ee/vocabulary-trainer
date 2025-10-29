@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on väga näriline tüüp.",
-    "Ära ole nii näruline!",
-    "See tekitab närvi."
+    "Tuleb nr 3 bussi peatusest.",
+    "Meie asukoha number on nr 7.",
+    "Palun tulla vastuvõtule nr 5."
   ],
   "translation": [
     "number",
-    "nerve",
-    "annoyance"
+    "no.",
+    "numéro"
   ],
-  "context": "The Estonian word 'nr' is a colloquial shortening of the word 'närviline', which means nervous, agitated or irritating. It can also refer to someone who is annoying or gets on your nerves. In some contexts it can mean 'number' as well, but this usage is less common."
+  "context": "The Estonian word 'nr' is an abbreviation for 'number', used to indicate a numerical designation or reference number. It's commonly found in addresses, bus routes, room numbers, and other contexts where items need to be identified by sequence."
 }

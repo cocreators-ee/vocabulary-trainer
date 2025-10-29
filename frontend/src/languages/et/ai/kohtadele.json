@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta läks kohtadele ja vaatas ringi.",
-    "Meie plaan on minna kohtadele homme.",
-    "See kohtadele oli väga ilus."
+    "Mine kohtadele läheduses.",
+    "Tuleb minna kohtadele kiiresti.",
+    "Meil on külas kohtadele."
   ],
   "translation": [
-    "places",
-    "locations",
-    "spots"
+    "to places",
+    "to locations",
+    "to spots"
   ],
-  "context": "The word 'kohtadele' in Estonian refers to going to different places or locations, often for sightseeing or exploration. It implies a deliberate act of visiting various spots."
+  "context": "The word 'kohtadele' is the allative case of 'kohtad', which means 'places' or 'locations'. In Estonian grammar, the allative case indicates movement towards a location. So 'kohtadele' specifically means 'to places' or 'toward locations'. This form is used when indicating direction toward specific spots or destinations."
 }

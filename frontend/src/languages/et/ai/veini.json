@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan veini juua.",
-    "See vein on väga hea.",
-    "Nad tellisid veini restoranis."
+    "Ma ostsin veini poest.",
+    "Kas sa oled tõesti juba ära joonud kogu veini?",
+    "Pärast seda õhtust sööki meil peaks olema hea veini."
   ],
   "translation": [
-    "wine"
+    "wine",
+    "wines"
   ],
-  "context": "The word 'veini' in Estonian directly translates to 'wine' in English. It is commonly used to refer to the alcoholic beverage made from fermented grapes, and can be used in contexts related to dining, celebrations, or simply enjoying a drink."
+  "context": "The word 'veini' is the partitive case form of the Estonian noun 'viin', meaning wine. In Estonian, the partitive case is used to indicate an unspecified amount or partial quantity of something. So 'veini' means 'some wine' or 'wine (in general)'. This form is commonly used when talking about consuming or having wine without specifying a particular bottle or exact quantity."
 }

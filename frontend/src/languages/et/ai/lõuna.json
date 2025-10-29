@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lõuna on üks neljast põhiilmakaarest.",
-    "Ta elab Lõuna-Ameerikas.",
-    "Lõunapoolne tuul on soe."
+    "Lõuna on soe aeg.",
+    "Me lähme lõunale.",
+    "Tänavad on täis lõunas."
   ],
   "translation": [
-    "south"
+    "south",
+    "southern",
+    "noon"
   ],
-  "context": "The word 'lõuna' refers to the direction or location of south, and it is commonly used in Estonian to indicate a southern direction or region."
+  "context": "The Estonian word 'lõuna' has multiple meanings depending on context. It can mean 'south' as a direction (e.g., 'Lõuna-Aafrika' for South Africa), it can refer to the southern part of something, and it also means 'noon' or midday when referring to time. The word changes form in different cases - 'lõunasse' would be 'to the south', 'lõunal' means 'at noon'. This is a common Estonian word with both directional and temporal meanings."
 }

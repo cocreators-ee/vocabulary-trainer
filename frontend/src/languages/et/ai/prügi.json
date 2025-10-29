@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta viskas prügi üle võre.",
-    "Prügil on palju.",
-    "Ma ei taha olla prügimees."
+    "Meie prügi on täna ära viidud.",
+    "Kas te olete juba visanud oma prügikasti tühjaks?",
+    "Põrandal oli üsna palju prügi."
   ],
   "translation": [
+    "garbage",
     "trash",
+    "rubbish",
     "waste"
   ],
-  "context": "The word 'prügi' in Estonian refers to trash or waste, and it is commonly used to describe something that is unwanted or disposable."
+  "context": "The Estonian word 'prügi' refers to waste material, refuse, or unwanted items that are discarded. It is a common noun used in everyday contexts when talking about trash, garbage, or rubbish that needs to be disposed of."
 }

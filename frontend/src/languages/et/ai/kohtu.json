@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Kohus mõistis mehe süüdi.",
-    "Nad kaebasid kohtu otsuse edasi.",
-    "See on ebaõiglane kohtuotsus."
+    "Kohtu ees seisid kaks inimest.",
+    "Ta käis kohtus oma õiguste eest.",
+    "Kohtunik tegi otsuse kohtu saalis."
   ],
   "translation": [
     "court",
-    "justice",
-    "lawsuit"
+    "tribunal",
+    "judicial"
   ],
-  "context": "The word 'kohtu' in Estonian refers to a court of law, or the concept of justice. It is commonly used when discussing legal proceedings, judgements, and fairness."
+  "context": "In Estonian, 'kohtu' is the genitive case of the word 'koht', which means court or tribunal. It indicates possession or relationship to a court setting. The genitive case in Estonian typically answers the question 'whose?' or 'of what?'. So 'kohtu' can be translated as 'of the court' or related to the court. This form is commonly used when describing things that belong to, are part of, or relate to legal proceedings and judicial systems."
 }

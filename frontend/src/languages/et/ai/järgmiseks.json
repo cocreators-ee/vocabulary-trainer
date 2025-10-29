@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Järgmiseks me vajame rohkem andmeid.",
-    "Järgmiseks tuleb pühendada tähelepanu detailidele.",
-    "See on järgmiseks teema käsitlemise aeg."
+    "Järgmiseks palun võta istekoht.",
+    "Me peame järgmiseks arutama teist küsimust.",
+    "Kas sa oled valmis järgmiseks?"
   ],
   "translation": [
-    "Next",
-    "In the next place",
-    "Subsequently"
+    "next",
+    "following",
+    "after this"
   ],
-  "context": "'järgmiseks' is an Estonian adverb used to indicate something that comes or happens next in sequence. It can be translated as 'next', 'in the next place', or 'subsequently'. Commonly used in instructions, lists, and descriptions of processes."
+  "context": "The Estonian word 'järgmiseks' is an adverb that means 'next' or 'following'. It's formed from the root word 'järgmine' (meaning next/following) with the '-ks' suffix indicating a state or purpose. This word is commonly used to indicate what comes after something in sequence, such as when asking someone to take their turn next, referring to the following item on an agenda, or transitioning to the next task in a series."
 }

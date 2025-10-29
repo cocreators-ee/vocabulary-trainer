@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Me läksime peole.",
-    "See oli väga hea peo!",
-    "Ta armastas peol tantsida."
+    "Peol oli lõbus.",
+    "Tule meie peole!",
+    "Kus toimub see peo?"
   ],
   "translation": [
-    "party",
-    "celebration",
-    "gathering"
+    "at the party",
+    "to the party",
+    "party"
   ],
-  "context": "The word 'peo' in Estonian refers to a social gathering or celebration, similar to the English words 'party', 'celebration', or 'festivity'. It is commonly used to describe events with music, dancing, and socializing."
+  "context": "The word 'peol' is an Estonian inessive case form of the noun 'peo', which means 'party'. The inessive case indicates location or being inside something, so 'peol' translates to 'at the party' - indicating where something happens or someone is. It's used when talking about events happening during a party or when referring to being present at a gathering."
 }

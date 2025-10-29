@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma panin kirja lauale.",
-    "Ta pani mütsi peas.",
-    "Nad panid korralikult toa korra."
+    "Panid mind naerma.",
+    "Panid raamatu lauale.",
+    "Panid kõik ära."
   ],
   "translation": [
     "put",
-    "placed"
+    "placed",
+    "set down"
   ],
-  "context": "The word 'panid' is the second person plural past tense form of the Estonian verb 'panema', which means to put or place something somewhere."
+  "context": "The word 'panid' is the 2nd person plural form of the Estonian verb 'panna', which means to put, place, or set something somewhere. It's commonly used when telling someone (plural) to do an action involving placing objects in a location."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei kadunud",
-    "Ta kadus öösel",
-    "Kaduma minek on ohtlik"
+    "Kadusid teie võtmed?",
+    "Ta kulus eile.",
+    "Meie koer on kadunud."
   ],
   "translation": [
-    "get lost",
-    "disappear",
-    "lose one's way"
+    "to disappear",
+    "to get lost",
+    "vanish"
   ],
-  "context": "The word 'kaduda' in Estonian means to lose one's way or disappear, and it is commonly used to describe someone who has gone missing or cannot be found."
+  "context": "The Estonian word 'kaduda' is a verb that means to disappear or get lost. It can be used in various contexts such as objects going missing, people disappearing, or things vanishing from sight. The word belongs to the -da/-dA infinitive group of Estonian verbs and changes its ending depending on conjugation and tense."
 }

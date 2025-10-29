@@ -1,14 +1,13 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mehed söövad koos.",
-    "Neil ei meelast nappi, millel nad juba kõrvale pandud tükid söövad.",
-    "Kui sa ruttu ei minema peatada, siis neil on su kehakaal ka süsteemis ja need 100 grammi toitu, mida sa nii kaugele pakkuda juba pole, nad siin alles kahjuks söövad."
+    "Lapsed söövad hommikul.",
+    "Tema söövib hea toitu.",
+    "Nad söövad õhtuti koos."
   ],
   "translation": [
     "eat",
-    "devour"
+    "consume food"
   ],
-  "context": "'söövad' is the third person plural form of 'to eat'. It is used in everyday context to describe people or animals consuming food. In some contexts it can imply greedily eating (devouring)."
+  "context": "The word 'söövad' is the 3rd person plural present indicative form of the Estonian verb 'sööma', which means 'to eat'. It specifically refers to multiple people eating in the present tense. The root form 'söö-' relates to consumption of food, and '-vad' is the ending for 3rd person plural present tense conjugation."
 }

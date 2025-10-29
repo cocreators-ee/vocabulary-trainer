@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Juhid on võimul.",
-    "Ta on juht.",
-    "Juhid tegid oma töö."
+    "Juhtide koosolekul arutati ettevõtte tulevikku.",
+    "Meeskonna juhid said tunnustuse hea töö eest.",
+    "Linnapeaks sai üks linna juhte."
   ],
   "translation": [
     "leaders",
-    "guides"
+    "managers",
+    "heads"
   ],
-  "context": "The word 'juhid' refers to leaders or guides who direct or influence others, and it is commonly used in Estonian to describe individuals in positions of authority or those who provide guidance."
+  "context": "\"Juhid\" is the plural form of \"juht\" in Estonian. The word means \"leader\" and when used as a plural, it refers to multiple leaders or managers. It's commonly used in business contexts to refer to management teams or leadership positions, but can also be used more broadly for anyone who has a position of authority or leads others."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vähän ruokaa oli jäänyt pöydälle.",
-    "Hänellä on vähän rahaa taskussa.",
-    "Olemme vähän myöhässä."
+    "Vähän aikaa kului.",
+    "Hän on vähän nälkäinen.",
+    "Puhun vähän suomea."
   ],
   "translation": [
-    "a little",
+    "a little bit",
+    "some",
     "slightly",
     "somewhat"
   ],
-  "context": "The word 'vähän' is an adverb in Finnish that means 'a little' or 'slightly', and it is commonly used to indicate a small amount or degree of something."
+  "context": "The Finnish word 'vähän' is an adverb that means 'a little bit', 'some', or 'slightly'. It's used to indicate a small quantity, degree, or extent. It can modify verbs (e.g., puhun vähän - I speak a little), adjectives (e.g., nälkäinen vähän - a little hungry), and nouns. The word is commonly used in everyday Finnish conversation to express moderation or partial amounts."
 }

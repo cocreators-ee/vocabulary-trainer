@@ -1,13 +1,15 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Kasutada sait on lihtne.",
-    "Ta õppis keele kasutamist.",
-    "Ära kasuta seda sõna tänapäeval."
+    "Ma kasutan seda programmi igapäevaselt.",
+    "Kas sa kasutasid seda raamatust?",
+    "Meie kasutame seda tehnoloogiat aktiivselt."
   ],
   "translation": [
-    "use"
+    "use",
+    "utilize",
+    "employ",
+    "make use of"
   ],
-  "context": "To use something means to employ it for a purpose or to make it function as intended."
+  "context": "The word 'kasutada' is an Estonian verb that means 'to use' or 'to utilize'. It's a common verb used to indicate the action of employing something for a particular purpose. The word can be conjugated in different tenses and forms depending on the subject and context, such as kasutan (I use), kasutasid (you used), kasutame (we use)."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta lööb palli",
-    "Laps lööb kuuli",
-    "Jalgpallur lööb palli"
+    "Tema lööb vastu seina.",
+    "Mees lööb naeratusega.",
+    "Lapsed löövad mängu."
   ],
   "translation": [
-    "kick",
-    "hit",
-    "strike"
+    "hits",
+    "strikes",
+    "beats",
+    "punches"
   ],
-  "context": "The word 'lööb' is a verb in Estonian that means to kick or hit something, often used in the context of sports or physical activity."
+  "context": "The word 'lööb' is the 3rd person singular present form of the Estonian verb 'lõma', which means to hit, strike, beat, or punch. It refers to the action of making forceful contact with something, commonly used in contexts describing physical impact like someone hitting a wall, a man laughing heartily (metaphorically), or children playing games."
 }

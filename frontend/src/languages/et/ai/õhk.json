@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta astus õhku.",
-    "Õhk on täis müra.",
-    "Õhu temperatuur on külm."
+    "Õhk on väga puhas siin metsas.",
+    "Tahavad õhku hinge.",
+    "Puhasta õhk meie linnades."
   ],
   "translation": [
-    "air"
+    "air",
+    "atmosphere"
   ],
-  "context": "The word õhk refers to the invisible gaseous substance surrounding the earth, and is commonly used in Estonian to describe the atmosphere or air in a particular environment."
+  "context": "The Estonian word 'õhk' means 'air' or 'atmosphere'. It refers to the mixture of gases that we breathe, particularly oxygen and nitrogen. In Estonian, it can be used in both literal contexts (breathing air) as well as figurative contexts to refer to the general atmosphere or environment."
 }

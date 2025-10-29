@@ -1,15 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta teab väga hästi vene keelt.",
-    "Kas sa tead, kus on rongijaam?",
-    "Ma ei tea vastust sellele küsimusele."
+    "Ma tean sellest kõigest.",
+    "Te teate sedasi hästi.",
+    "Nad ei tea midagi selle kohta."
   ],
   "translation": [
-    "knows",
-    "know",
-    "aware"
+    "knows (3rd person singular)",
+    "is aware of"
   ],
-  "context": "The Estonian word 'teab' is a third-person singular present tense form of the verb 'teada', which means 'to know'. It’s commonly used to indicate that someone possesses knowledge or information about something. In English, it functions similarly to 'knows' or 'is aware'."
+  "context": "The word 'teab' is the 3rd person singular form of the Estonian verb 'teada', which means 'to know'. It corresponds to English verbs like 'knows' or 'is aware of'. In Estonian, this verb is used to express knowledge or awareness of something. The root verb 'teada' can be conjugated into different forms: tean (I know), tead (you know/sing.), teab (he/she/it knows), teame (we know), teate (you know/pl.), teavad (they know)."
 }

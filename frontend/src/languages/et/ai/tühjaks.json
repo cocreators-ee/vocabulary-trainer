@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tundsin end tühjaks",
-    "Ta on tühjaks jäänud",
-    "Tühjaks läbi süüa on vale"
+    "Ta tegi ruumi tühjaks.",
+    "Pärast lahkumist jäeti korter tühjaks.",
+    "Tühjaks jäänud hoone lammutati."
   ],
   "translation": [
     "empty",
-    "hollow"
+    "vacant",
+    "cleared out"
   ],
-  "context": "The word 'tühjaks' in Estonian means to feel empty or hollow, often used to describe a feeling of emotional emptiness or a lack of fulfillment."
+  "context": "The word 'tühjaks' is the elative case form of the Estonian adjective 'tühi' (empty). The elative case indicates movement out of or becoming something. So 'tühjaks' specifically means 'into empty space' or 'to become empty'. It's used when describing something that has been emptied, vacated, or cleared out."
 }

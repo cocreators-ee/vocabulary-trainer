@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän halusi puhtaita lakanoita.",
-    "Puhtaat vedet ovat tärkeitä ympäristölle.",
-    "Meillä on puhtaita pyyhkeitä."
+    "Minulla on puhtaita vaatteja.",
+    "Hän pesi kädet puhtaiksi.",
+    "Talossa oli todella puhtaita lattioita."
   ],
   "translation": [
-    "clean",
+    "clean (partitive plural)",
     "pure",
     "spotless"
   ],
-  "context": "The word 'puhtaita' is the plural partitive form of the adjective 'puhdas', meaning clean, pure or spotless. It describes something that is free from dirt, impurities, or contamination and is commonly used to describe physical objects, water, or abstract concepts like intentions."
+  "context": "The word 'puhtaita' is the partitive plural form of the Finnish adjective 'puhdas', meaning 'clean'. The '-ta/-tä' ending indicates partitive case, and the '-i-' ending with the extra '-a' suffix makes it plural. This form would be used when referring to clean things in a general sense or as objects of an action."
 }

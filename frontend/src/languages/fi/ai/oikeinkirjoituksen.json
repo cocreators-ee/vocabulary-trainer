@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Oikeinkirjoituksen opettaminen on tärkeää.",
-    "Hänen oikeinkirjoituksensa oli hyvä.",
-    "Opettaja korjasi oppilaiden oikeinkirjoitusta."
+    "Oikeinkirjoitus on tärkeä osa kielen hallitsemista.",
+    "Lasten oikeinkirjoituksen opettaminen vaatii kärsivällisyyttä.",
+    "Tämän sanan oikeinkirjoitus oli minulle vaikea."
   ],
   "translation": [
-    "correct spelling",
-    "orthography",
-    "spelling"
+    "spelling",
+    "orthography"
   ],
-  "context": "The word oikeinkirjoituksen refers to the correct spelling of words in the Finnish language, and it is commonly used in educational settings to teach students how to write words correctly."
+  "context": "Oikeinkirjoitus is a Finnish noun in the genitive case, meaning 'of spelling' or 'of orthography'. It refers to the correct way of writing words according to language rules. The word comes from 'oikea' (correct) and 'kirjoitus' (writing), with '-n-' as a connecting consonant and '-en' indicating possession in the genitive case."
 }

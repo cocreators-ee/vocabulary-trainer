@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma armastan sind.",
-    "Kas sa armastad mind?",
-    "Ta ei tea sinus."
+    "Sinus on kaunis linn.",
+    "Minu sinus on väga hea.",
+    "Ta elab sinuses."
   ],
   "translation": [
-    "you (object)",
-    "thee",
-    "sin"
+    "your",
+    "yours",
+    "thy"
   ],
-  "context": "The word 'sinus' in Estonian is a personal pronoun meaning 'you' when used as the object of a verb. It can also be an archaic form of 'thee'. The modern accusative/genitive form of 'you' is 'sind'."
+  "context": "The word 'sinus' in Estonian is a possessive pronoun meaning 'your' or 'yours'. It can be used to indicate possession or relationship, similar to the English possessive pronouns. In Estonian, like other Baltic-Finnic languages, possessive pronouns often take different forms depending on case and number."
 }

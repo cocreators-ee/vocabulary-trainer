@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Seekord oli see ilmselt liiga palju.",
-    "Ma olen seekord kindel, et see on õige.",
-    "Seekord ei ole mul võimalik minna."
+    "Seekord on ilus päev.",
+    "Seekord jäävad meie juurde ööbima.",
+    "Seekord ei saa ta tulla."
   ],
   "translation": [
     "this time",
-    "this time around"
+    "now",
+    "on this occasion"
   ],
-  "context": "The word 'seekord' is used in Estonian to refer to something happening at the present moment or during the current occasion, often implying a contrast with previous times."
+  "context": "The Estonian word 'seekord' is an adverb that means 'this time', 'now', or 'on this occasion'. It indicates a specific occurrence of something in contrast to previous occasions. The word combines 'see-' (this) with '-kord' (time/occasion), literally meaning 'this time'. It's commonly used to emphasize that something is happening now, as opposed to before, and can be used at the beginning or middle of sentences."
 }

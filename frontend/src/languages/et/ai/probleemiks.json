@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "See on suur probleemiks",
-    "Ta ütles, et see ei ole probleemiks",
-    "Probleemiks on see, et meil pole piisavalt raha"
+    "See on suur probleemiks meie projektile.",
+    "Rahapuudus muutus peamiseks probleemiks.",
+    "Keskkonnaprobleemiks võib olla õhusaaste."
   ],
   "translation": [
     "problem",
-    "issue"
+    "issue",
+    "difficulty"
   ],
-  "context": "The word 'probleemiks' in Estonian means something that is causing trouble or a difficulty and it is commonly used to describe a situation or a challenge that needs to be addressed."
+  "context": "The word 'probleemiks' is the Estonian inessive case form of 'probleem', meaning it indicates something becoming a problem or being problematic. It's formed by adding '-ks' to the root word, indicating transformation or state change. This form would be used when something turns into a problem for someone or something."
 }

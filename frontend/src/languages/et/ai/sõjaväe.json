@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Sõjaväe peamine ülesanne on riigi kaitse.",
-    "Ta astus sõjaväesse noore mehena.",
-    "Sõjaväelased osalevad sageli rahuvalvemissioonidel."
+    "Sõjaväe organisatsioon on keeruline.",
+    "Ta teenis sõjaväes kümme aastat.",
+    "Sõjaväe varustus oli hästi korraldatud."
   ],
   "translation": [
     "army",
-    "military"
+    "military",
+    "armed forces"
   ],
-  "context": "The word sõjaväe refers to the army or military in Estonian, and it is commonly used to describe the armed forces of a country."
+  "context": "The word 'sõjaväe' is an Estonian noun meaning 'army', 'military', or 'armed forces'. It refers to the organized armed forces of a country, including all branches of service. In Estonian grammar, it's a compound word formed from 'sõda' (war) and 'vägi' (force/strength). This word is in the singular nominative form. When used in different contexts, it can refer to the institution as a whole or the personnel who serve in the armed forces."
 }

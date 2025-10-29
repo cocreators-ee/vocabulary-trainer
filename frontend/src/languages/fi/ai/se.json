@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Se on sinun vastuulla.",
-    "Minä teen sen huomenna.",
-    "Ettei se ole oikein."
+    "Se on kaunis talo.",
+    "Se istuu tuolilla.",
+    "Näimme sen eilen."
   ],
   "translation": [
     "it",
     "that",
-    "this"
+    "he/she"
   ],
-  "context": "'se' is a pronoun in Finnish meaning 'it', 'that', or 'this'. It can refer to an object, situation, or concept previously mentioned or known from context. Commonly used to avoid repeating words."
+  "context": "The Finnish word 'se' is a demonstrative pronoun that means 'it', 'that', or can refer to 'he/she'. It's used to point to something previously mentioned or to identify an object. As a third-person singular pronoun, it has different forms depending on the gender and case of the noun it replaces: 'hän' for masculine/feminine subjects (meaning 'he/she'), and 'se' for inanimate objects and sometimes animals."
 }

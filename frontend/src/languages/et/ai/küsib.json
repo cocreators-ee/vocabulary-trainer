@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta küsib mind iga päev",
-    "Küsisin tema nime",
-    "Küsib, kas see on hea"
+    "Kas sa küsib mind?",
+    "Ta küsib teilt nime.",
+    "Miks ta alati küsib?"
   ],
   "translation": [
     "asks",
-    "is asking",
-    "will ask"
+    "inquires",
+    "questions"
   ],
-  "context": "The word kysib is a verb that means to ask something or someone, and it is commonly used in everyday conversations to inquire about information or request something."
+  "context": "\"Küsib\" is the third-person singular present tense form of the Estonian verb \"küsima\", which means \"to ask\". It is used when someone is asking or inquiring about something, typically directed at another person (you/he/she/they). The word follows Estonian conjugation patterns and would change form depending on the subject pronoun and tense."
 }

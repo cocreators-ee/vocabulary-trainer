@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Määratud ajal tuleb kohale.",
-    "Ta on määratud tööle.",
-    "See on määratud sümbol."
+    "Määratud aeg on kell 14:00.",
+    "Töö on määratud lõpetamiseks järgmise nädalani.",
+    "Sellel juhtumil on määratud range karistuse."
   ],
   "translation": [
-    "defined",
     "determined",
+    "specified",
+    "fixed",
     "designated"
   ],
-  "context": "The word 'määratud' in Estonian generally means something that has been defined, determined or designated, often referring to a specific purpose, role, or characteristic."
+  "context": "The Estonian word 'määratud' is the past participle form of the verb 'määrata', which means 'to determine', 'to specify', or 'to fix'. It describes something that has been set, defined, or established with certainty. The word can be used in various contexts to indicate that something has been clearly defined or predetermined."
 }

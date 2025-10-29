@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on paigal istunud terve päeva.",
-    "Paigal seistes tundsin end abituna.",
-    "Auto jäi paigal liiklusummikus."
+    "Ta oli paigal kogu päeva.",
+    "Lapsed peeti paigal tunni aja jooksul.",
+    "Me pidime olema paigal, et kuulata õpetaja"
   ],
   "translation": [
-    "in place",
-    "stationary",
-    "immobile",
-    "fixed"
+    "still",
+    "quiet",
+    "motionless",
+    "in place"
   ],
-  "context": "The word 'paigal' in Estonian generally means being in a fixed location or not moving. It can describe a physical state of stillness, or be used metaphorically to indicate a lack of progress."
+  "context": "The Estonian word 'paigal' is an adverb that describes being in one position without moving or making noise. It's used when someone needs to stay still, remain quiet, or keep in a particular spot for some period of time."
 }

@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen koju",
-    "Ta läks ära",
-    "Me lähsime kinno"
+    "Ma lähen koju.",
+    "Tüdruk läheb kooli.",
+    "Me läheme linna."
   ],
   "translation": [
-    "to go",
-    "to leave"
+    "go",
+    "leave",
+    "depart"
   ],
-  "context": "The word lähe is commonly used in Estonian to indicate movement away from a place or person, similar to the English words 'to go' or 'to leave'."
+  "context": "The Estonian word 'lähe' is the imperative singular form of the verb 'minema', which means 'to go'. It's used as a command or suggestion to someone (singular) to go somewhere. The base infinitive is 'minema', and it appears in different forms: lähen (I go), lähed (you go), läheme (we go), lähete (you all go), lähedavad (they go)."
 }

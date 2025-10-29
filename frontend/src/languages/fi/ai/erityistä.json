@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tämä on erityistä huomiota vaativaa",
-    "Hänellä on erityistä taitoa musiikin suhteen",
-    "Erityistä tukea tarvitsevat lapset"
+    "Erityistä huomiota kiinnitettiin turvallisuuteen.",
+    "Tämä on erityisen tärkeä kysymys.",
+    "Hän halusi tehdä erityistä ruokaa juhliin."
   ],
   "translation": [
     "special",
     "particular",
-    "exceptional"
+    "specific",
+    "unusual"
   ],
-  "context": "The word 'erityistä' in Finnish means something that is special or exceptional, often requiring particular attention or care."
+  "context": "The Finnish word 'erityistä' is the partitive singular form of the adjective 'erikoinen', meaning 'special', 'particular', or 'specific'. It's used to indicate something that stands out from the ordinary, has unique characteristics, or deserves special attention. The '-itä' ending indicates it's in the partitive case and singular number."
 }

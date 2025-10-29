@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin asukohta, kus võisin endale uue elukoha leida.",
-    "Asukoht on väga oluline, kui otsid kohta, kus elada.",
-    "Asukohta saab muuta, kui teed erinevaid valikuid."
+    "Kus on sinu asukoha?",
+    "Meie uue kodu asukoha valimine võttis aega.",
+    "Teada saada praegune asukoht."
   ],
   "translation": [
     "location",
-    "place",
-    "position"
+    "position",
+    "place"
   ],
-  "context": "The word asukohta refers to a location or place where something is situated, and it is commonly used in Estonian to describe the physical position of an object, person, or event."
+  "context": "The word 'asukohta' is the illative case singular form of the Estonian noun 'asukoht', meaning location or place. It indicates movement to or into a location, similar to saying 'to a location' in English. This grammatical case shows directionality - where something is being moved to or placed."
 }

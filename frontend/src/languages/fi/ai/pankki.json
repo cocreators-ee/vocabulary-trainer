@@ -1,13 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on tili pankissa.",
-    "Pankki on suljettu tänään.",
-    "Hän työskentelee pankkialalla."
+    "Mennään pankkiin tarkistamaan tilanne.",
+    "Suurin pankki Suomessa on Nordea.",
+    "Pankissa oli pitkä jonota."
   ],
   "translation": [
-    "bank"
+    "bank",
+    "financial institution"
   ],
-  "context": "The word 'pankki' refers to a financial institution where people can store and manage their money, similar to how it is used in English."
+  "context": "The Finnish word 'pankki' means 'bank'. It refers to a financial institution where people deposit money, take out loans, and manage their finances. In Finnish, 'pankki' is a common noun that can be used in various contexts related to banking services. The word doesn't change form when referring to different banks, though it can appear in different cases depending on the grammatical structure of the sentence."
 }

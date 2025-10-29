@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tuli hästi mööda teed.",
-    "Hästi tehtud töö on hea töö.",
-    "Ma olen väga hästi suhtlesin temaiga."
+    "Töö tehti hästi.",
+    "Temperatuur oli hästi mõõdetud.",
+    "Kunstnik on väga hästi tuntud."
   ],
   "translation": [
     "well",
+    "properly",
+    "correctly",
     "good",
     "fine"
   ],
-  "context": "The word hästi is commonly used in Estonian to mean something that is done well, good or fine. It can be used as an adverb to describe the manner of doing something."
+  "context": "\"Hästi\" is an Estonian adverb commonly used to mean 'well' or 'properly'. It describes actions that are done correctly or effectively. As with many adverbs in Estonian, it can be modified by other words like \"väga hästi\" (very well) for emphasis."
 }

@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Mul on palju kogemusi selle ala peal.",
-    "Ta jagas oma kogemusi meiega.",
-    "Kogemusi saadakse alles siis, kui midagi tegelikult teha hakatakse."
+    "Kulunud aastatel on kogunud palju kogemusi.",
+    "Noored inimesed otsivad esimestel töökohtadel kogemusi.",
+    "Tal on rohkem kogemusi kui teistel kandidaatidel."
   ],
   "translation": [
     "experiences",
-    "knowledge"
+    "experience"
   ],
-  "context": "The word 'kogemusi' in Estonian refers to experiences or knowledge gained through practice or encounters, and it is commonly used to describe someone's expertise or familiarity with a particular field or activity."
+  "context": "The word 'kogemusi' is the partitive plural form of 'kogemus', which means 'experience'. In Estonian, the partitive case is often used with countable nouns to indicate partial or indefinite quantity. So 'kogemusi' literally translates to 'of experiences' or '(some) experiences'. It's commonly used when referring to multiple instances of experience that are not being counted specifically."
 }

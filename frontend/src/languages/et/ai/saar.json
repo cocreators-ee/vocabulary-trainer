@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma elan saarel.",
-    "Saare rannal on palju kive.",
-    "Ta läks saarele suvel."
+    "Eesti suurim saar on Saaremaa.",
+    "Mere keskel paiknev saar oli ilus.",
+    "Paljud külastavad Eesti saari suvel."
   ],
   "translation": [
     "island"
   ],
-  "context": "The word 'saar' refers to a piece of land that is surrounded by water on all sides, and it is commonly used in Estonian to describe a geographical location or a place for relaxation."
+  "context": "The word 'saar' is an Estonian noun that means 'island'. It refers to a piece of land surrounded by water. In Estonian, it's used in both singular form as shown and has plural forms like 'saared' meaning 'islands'."
 }

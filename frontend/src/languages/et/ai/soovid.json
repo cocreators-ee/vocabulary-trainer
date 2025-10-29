@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma soovin õppida estooni keelt.",
-    "Ta soovib minuga abielluda.",
-    "Nende soovid on täitmata."
+    "Soovid kohtuda homme?",
+    "Ta ei tea, et sa soovid.",
+    "Mis sa soovid õhtul?"
   ],
   "translation": [
-    "wish",
-    "desire",
-    "want"
+    "want",
+    "would like to",
+    "desire"
   ],
-  "context": "The word 'soovid' in Estonian generally means a strong feeling of wanting something to happen or be the case, and it is commonly used in various contexts such as expressing one's own desires or wishes."
+  "context": "The word 'soovid' is the second person singular form of the Estonian verb 'soovima', which means 'to want' or 'to desire'. It's used when addressing someone directly (you) and indicates their wish or desire. In English, this would correspond to 'you want' or 'you would like to'."
 }

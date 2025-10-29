@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Hän mursi kätensä varren.",
-    "Puuhahti varsi poikki.",
-    "Tämä on ruusun varsi."
+    "Kasvin varsi on vihreä ja pitkä.",
+    "Puun varret kasvavat kohti taivasta.",
+    "Floristin varret ovat hyvin kauniit."
   ],
   "translation": [
     "stem",
-    "shank",
-    "handle",
-    "arm"
+    "stalk",
+    "shaft"
   ],
-  "context": "The Finnish word 'varsi' commonly refers to the stem of a plant, but can also mean the handle of an object or even the arm (of a person or chair). It describes something long and relatively thin that connects parts together."
+  "context": "The Finnish word 'varsi' means stem, stalk or shaft and refers to the main upright part of a plant or tree that supports leaves, flowers, or fruits. It can also refer to other elongated cylindrical structures like shafts."
 }

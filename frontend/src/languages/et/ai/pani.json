@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ta pani muudatusteks.",
-    "Pani see hästi valmis?",
-    "Miks nad pani nii kaugele?"
+    "Panin oma taskusse.",
+    "Ta pani lauale nõu.",
+    "Mina pasin end üles."
   ],
   "translation": [
-    "he put",
-    "it was put",
-    "they put"
+    "put",
+    "placed",
+    "set"
   ],
-  "context": "The word 'pani' is the past tense of the verb 'pandma', which means to put. It's used to describe placing or positioning something somewhere."
+  "context": "The word 'pani' is the past tense third person singular form of the Estonian verb 'panema', which means 'to put' or 'to place'. It indicates that someone (he/she/it) performed the action of putting something somewhere in the past."
 }

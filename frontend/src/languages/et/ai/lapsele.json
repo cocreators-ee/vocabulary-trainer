@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Lapsele meeldib mängida.",
-    "Ma ostan lapsele uue mänguasja.",
-    "See raamat on lapsele liiga raske."
+    " lapsele kingituseks",
+    " Annile lapsele",
+    " talle lapsele"
   ],
   "translation": [
     "to the child",
     "for the child",
-    "child"
+    "to a child"
   ],
-  "context": "The word 'lapsele' is a dative form of the noun 'laps', which means 'child' in Estonian, and it is commonly used to indicate that something is intended or given to a child."
+  "context": "The word 'lapsele' is an Estonian adessive case form of 'laps', which means 'child'. It indicates direction or destination - something going to or for a child. The '-le' ending is typical of the adessive case in Estonian, used to show movement towards or arrival at someone."
 }

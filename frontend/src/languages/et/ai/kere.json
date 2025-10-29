@@ -1,14 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema keha ei kiputanud enam.",
-    "Selle kehaga saab pildida vaid kogu kõrgeima asjakohasusega spetsialistide meeskond.",
-    "Kui mäss oli hukkunud, tekib tema kehal ilmselt veri."
+    "Kere on ilus ja tugev.",
+    "Lapsed mängisid keredega metsas.",
+    "Too mul oma kere!"
   ],
   "translation": [
     "body",
-    "corps"
+    "trunk",
+    "torso",
+    "main part"
   ],
-  "context": "The word 'kere' in Estonian translates to English as 'body'. It is used to refer to a person's physical body. In example sentences, it appears in contexts such as describing the movement of the body, the condition requiring expert care, and situations involving blood on the body after an injury."
+  "context": "The Estonian word 'kere' means body, trunk, torso or main part. It refers to the physical structure of something - for a person it's their torso/body, for an animal it might be its trunk or main body part, and for objects it can refer to the main structural component or frame."
 }

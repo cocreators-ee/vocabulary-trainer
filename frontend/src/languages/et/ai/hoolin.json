@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma hoolin sellest.",
-    "Ta ei hooli mingist probleemist.",
-    "Miks sa pole hoolis sinu eest?"
+    "Hoolin sind väga.",
+    "Ma ei hooli sellest.",
+    "Tema hoolib lapsest."
   ],
   "translation": [
-    "I care (about) / I am concerned"
+    "I care (about)",
+    "to care",
+    "mind"
   ],
-  "context": "The verb 'hoolin' is used in the first person form to express concern or care about something. It can be translated as 'I care (about)' or 'I am concerned'."
+  "context": "The word 'hoolin' is the first-person singular present tense form of the Estonian verb 'hoolima', which means 'to care'. It's used when someone wants to express that they have concern or interest in something or someone. For example, 'Hoolin sind väga' means 'I care about you very much'. The word can be translated as 'I care (about)' and is commonly used in everyday expressions of concern, importance, or attention."
 }

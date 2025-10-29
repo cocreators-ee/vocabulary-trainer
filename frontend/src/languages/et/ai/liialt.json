@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta üldiselt ei käi liialt palju väljas.",
-    "Kui sa liialt palju magad, siis sa võid ärgata ja tunda end väga halena.",
-    "Liialt suur annus võib olla kahjulik."
+    "Ta on liialt kurb.",
+    "Ta oli liialt kurt meie jaoks.",
+    "Ta on alati liialt otsustav."
   ],
   "translation": [
+    "too much",
     "excessively",
-    "too much"
+    "overly"
   ],
-  "context": "The word 'liialt' in Estonian means doing something to an excessive degree or beyond what is normal, often implying that this can have negative consequences."
+  "context": "The Estonian word 'liialt' is an adverb meaning 'too much', 'excessively', or 'overly'. It modifies verbs, adjectives, or other adverbs to indicate that something exceeds a normal or appropriate limit. For example, in the sentence 'Ta on liialt kurb', it means 'He/She is too sad'. The word comes from 'liiga' (too) and the suffix '-alt' which forms adverbs."
 }

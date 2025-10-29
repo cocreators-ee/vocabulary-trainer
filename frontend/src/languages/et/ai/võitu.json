@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võitis võitu",
-    "Võidu saavutamiseks tuleb palju tööd teha",
-    "Võit on meie eesmärk"
+    "Eile võeti võitu.",
+    "Ta on kogu elu olnud võitja, aga nüüd sai esimest korda võitu.",
+    "Võitu võidetakse tihti heade meeltega."
   ],
   "translation": [
     "victory",
+    "triumph",
     "win"
   ],
-  "context": "The word 'võitu' in Estonian means victory or win, it is commonly used to describe the act of achieving something or succeeding in a competition or challenge."
+  "context": "The Estonian word 'võitu' is the illative case form of the noun 'võit', which means victory, triumph, or win. The illative case in Estonian indicates movement into a place or attainment of something. So 'võitu' specifically refers to achieving victory or getting a win - it's the result of winning something."
 }

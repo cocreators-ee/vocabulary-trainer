@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kuulin seda eile.",
-    "Kuulu see hästi?",
-    "Ta on kuulnud selle enne."
+    "Kuuleme homme kohtumisel.",
+    "Ta kuulub meie gruppi.",
+    "Sinu ettepanek kuulub arutelu."
   ],
   "translation": [
-    "hear",
-    "listen"
+    "belongs to",
+    "is part of",
+    "falls under"
   ],
-  "context": "The word 'kuulu' in Estonian means to hear or listen to something, and it is commonly used in sentences to describe the act of perceiving sound."
+  "context": "The word 'kuulu' is the third-person singular form of the Estonian verb 'kuuluma', which means 'to belong to' or 'to be part of'. It indicates membership, inclusion, or categorization within a group, organization, category, or classification."
 }

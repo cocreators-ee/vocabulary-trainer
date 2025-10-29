@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Minulla on tarpeeksi rahaa.",
-    "Hänellä ei ollut tarpeeksi aikaa tehdä kaikkea.",
-    "Tarpeeksi hyvä ruoka on vaikea löytää."
+    "Hän teki töitä tarpeeksi hyvin.",
+    "Olemme saaneet tarpeeksi unta.",
+    "Sinun pitäisi syödä tarpeeksi ravintoa."
   ],
   "translation": [
     "enough",
-    "sufficiently"
+    "sufficiently",
+    "adequately"
   ],
-  "context": "The word 'tarpeeksi' in Finnish means having or being enough of something, it is commonly used to express that something is sufficient or adequate for a particular purpose or need."
+  "context": "The Finnish word 'tarpeeksi' is an adverb that means 'enough' or 'sufficiently'. It modifies verbs to indicate that something has been done in the proper degree, quantity, or quality. 'Tarpeeksi' comes from the root word 'tarpeellinen' (necessary, needed) and the '-ksi' suffix indicating transformation into a state or manner. When used before a verb, it indicates that an action has been performed sufficiently or to an adequate extent. It's often placed after the verb in Finnish sentences."
 }

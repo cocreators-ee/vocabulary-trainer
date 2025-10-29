@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ei tea midagi.",
-    "Ta teab midagi uut.",
-    "Mul on midagi plaanis."
+    "Midagi on vaja teha.",
+    "Ma ei tea midagi selle kohta.",
+    "Kas sa leidsid midagi?"
   ],
   "translation": [
     "something",
-    "anything"
+    "anything",
+    "a little bit",
+    "some"
   ],
-  "context": "The word 'midagi' in Estonian generally refers to something or anything, often used to indicate the existence of an unspecified thing or situation."
+  "context": "The Estonian word 'midagi' is an indefinite pronoun that functions as the partitive form of 'midagi'. It means 'something', 'anything', or 'some/a little bit'. This word is commonly used in questions, negative statements, and when referring to an unspecified amount or thing. In sentences, it often follows negation verbs or appears in interrogative contexts."
 }

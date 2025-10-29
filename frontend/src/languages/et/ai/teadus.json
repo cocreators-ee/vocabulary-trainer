@@ -1,14 +1,15 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Teadus on üks põhiline valdkond",
-    "Teadlaste teaduslikud saavutused on tunnustatud",
-    "Teaduse areng on olnud kiire"
+    "Teadus arengu võimaldab meil paremini mõista maailma.",
+    "See on tähtis teaduslik avastus.",
+    "Oleme huvitatud teadusest ja selle edendamisest."
   ],
   "translation": [
     "science",
-    "scholarship"
+    "knowledge",
+    "scholarship",
+    "learning"
   ],
-  "context": "The word 'teadus' refers to the systematic study of the structure and behavior of the physical and natural world through observation and experimentation, which is a fundamental field of human knowledge."
+  "context": "The word 'teadus' in Estonian refers to science or knowledge. It is a noun that represents systematic study and understanding of the natural world through observation, experimentation, and theoretical explanation. The term can encompass various scientific disciplines and the pursuit of knowledge in general."
 }

@@ -1,15 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minulla on paikka kaupungissa.",
-    "Tämä paikka on hyvin kätevä.",
-    "Paikat ovat varattu."
+    "Minulla on hyvä paikka stadionilla.",
+    "Tämä sopiva paikka tapahtumalle.",
+    "Löysin tyhjän paikan autosta."
   ],
   "translation": [
     "place",
+    "location",
     "spot",
-    "location"
+    "position",
+    "seat"
   ],
-  "context": "The word 'paikka' in Finnish refers to a location or a spot, and it is commonly used to describe a physical space or a position."
+  "context": "The Finnish word 'paikka' means place, location or spot. It can refer to physical locations like a seat in a stadium or a spot in a parking lot, as well as more abstract places suitable for events. It's a common noun that indicates where something is located or where something happens."
 }

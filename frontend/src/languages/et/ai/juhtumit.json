@@ -1,16 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Politsei uurib juhtumit.",
-    "See oli väga kummaline juhtum.",
-    "Juhtum lõppes õnnelikult."
+    "See on eriline juhtumit.",
+    "Meil oli palju juhtumit sel nädalal.",
+    "Kõik need juhtumit vajavad tähelepanu."
   ],
   "translation": [
-    "incident",
-    "case",
-    "event",
-    "occurrence"
+    "cases",
+    "instances",
+    "incidents"
   ],
-  "context": "The word 'juhtumit' in Estonian refers to an incident, case, event or occurrence. It is commonly used to describe something that happens, especially if it is unusual or requires investigation."
+  "context": "The word 'juhtumit' is the partitive case form of 'juhtum', which means 'case' or 'incident'. In Estonian, the partitive case often indicates partialness or indefiniteness. This form would typically be used when talking about specific instances or cases of something, often in contexts where you're discussing multiple examples or some (but not necessarily all) occurrences."
 }

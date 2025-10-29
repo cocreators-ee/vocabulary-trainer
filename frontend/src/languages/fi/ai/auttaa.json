@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän auttaa minua joka päivä.",
-    "Auttaisin sinua, mutta en ole varma miten.",
-    "He auttoivat meitä löytämään tien."
+    "Auttaisin mielelläni, mutta minulla on kiire.",
+    "Hän auttaa vanhaa naista kantamassa ostoskasseja.",
+    "Meidän täytyy auttaa heitä löytämään oikea ratkaisu."
   ],
   "translation": [
-    "help",
-    "assist"
+    "to help",
+    "to assist",
+    "to aid"
   ],
-  "context": "The word 'auttaa' is a verb in Finnish that means to help or assist someone, and it is commonly used in everyday conversations to offer or receive support."
+  "context": "The Finnish verb 'auttaa' means to help or assist someone. It's a common verb used in everyday situations when offering assistance to others. The word can be conjugated in various tenses and forms depending on the context, such as 'auttaisin' (conditional), 'auttaa' (present), 'auttoi' (past), etc."
 }

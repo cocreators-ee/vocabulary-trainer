@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Maatila on suuri tila.",
-    "Me ostimme maatilan viime vuonna.",
-    "Maatilalla oli paljon työtä."
+    "Minun isoisä omistaa maatilan.",
+    "Maatilalla on lehmiä ja sikoja.",
+    "He muuttivat uudelle maatilalle viime vuonna."
   ],
   "translation": [
     "farm",
-    "ranch",
-    "estate"
+    "agricultural estate"
   ],
-  "context": "A maatila is a type of farm or estate in Finland, often used to describe a large area of land used for agriculture or other purposes."
+  "context": "The Finnish word 'maatila' is a compound noun where 'maa' means 'land/soil' and '-tila' refers to a place or estate. It specifically denotes a farm or agricultural property, typically including buildings and land used for farming activities such as raising livestock or growing crops."
 }

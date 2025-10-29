@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Tema asjadest pole midagi kadunud.",
-    "Asjadest saab väga palju raha teenida.",
-    "Mõned asjadest on lihtsalt mässuks tehtud."
+    "Ta rääkis asjadest eelmisel nädalavahetusel.",
+    "Ma mõtlen kõik asjadest üle enne otsustamist.",
+    "Lapsed õpiti lugema ja arvutama asjadest."
   ],
   "translation": [
-    "of things",
-    "from things",
-    "regarding things"
+    "about things",
+    "regarding matters",
+    "concerning subjects"
   ],
-  "context": "'asjadest' is the inessive plural form of 'asi', which means 'thing'. It commonly appears in sentences where you are talking about being among or dealing with various things, like when discussing items, situations, or matters."
+  "context": "The Estonian word 'asjadest' is the elative plural form of 'asi', which means 'thing'. The '-dest' suffix indicates movement away from something, so it translates to 'from things/about things'. This form is used when talking about topics or matters that originate from or concern various subjects."
 }

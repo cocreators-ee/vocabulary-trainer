@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta hoolitseda laste eest.",
-    "Hoolitseda taimede eest on oluline.",
-    "Me hoolitseme koera eest."
+    "Hoolitsen lapse eest.",
+    "Ta hoolitseb oma vanemate eest.",
+    "Mees hoolitseb majapidamise eest."
   ],
   "translation": [
     "to take care of",
-    "to look after"
+    "to look after",
+    "to tend to"
   ],
-  "context": "The word 'hoolitseda' in Estonian means to take care of something or someone, and it is commonly used in contexts where responsibility and attention are required."
+  "context": "The Estonian verb 'hoolitseda' means to provide care, attention, or maintenance for someone or something. It's commonly used when talking about caring for people (children, elderly), pets, plants, household matters, or tending to specific responsibilities. The verb requires the preposition 'eest' (for/behind) in its grammatical structure."
 }

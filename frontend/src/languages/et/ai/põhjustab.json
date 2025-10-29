@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta põhjustab mulle palju probleeme.",
-    "See sündmus põhjustas suure skandaali.",
-    "Kliima soojenemine põhjustab jäätumise."
+    "See põhjustab probleeme.",
+    "Liigne stress põhjustab haigusi.",
+    "Vea tegemine võib põhjustada tagajärgi."
   ],
   "translation": [
     "causes",
+    "results in",
     "leads to"
   ],
-  "context": "The word 'põhjustab' in Estonian means to cause something to happen or exist, and it is commonly used in sentences to describe the reason or source of a problem or situation."
+  "context": "The Estonian word 'põhjustab' is the third person singular present form of the verb 'põhjustama', which means 'to cause' or 'to result in'. It describes something that brings about a particular effect, consequence, or result. The root 'põhjus' means 'reason' or 'cause', making this word literally mean 'causes' or 'results in'. This verb is commonly used when explaining the origin or reason behind various outcomes, effects, or consequences."
 }

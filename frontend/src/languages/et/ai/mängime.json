@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me mängime jalgpalli.",
-    "Nad mängivad päev otsa video",
-    "Lapsed mängisid õues."
+    "Mängime palli.",
+    "Meie mängime kõike peale teatrit.",
+    "Tüdrukud mängivad"
   ],
   "translation": [
-    "let's play",
-    "we are playing",
-    "to play"
+    "we play",
+    "are playing",
+    "will play"
   ],
-  "context": "The word 'mängime' is the first person plural form of the verb 'mängima', which means to play, and it is commonly used in Estonian to suggest or agree on playing a game or engaging in a fun activity together."
+  "context": "The word 'mängime' is the 1st person plural present indicative form of the Estonian verb 'mängima', which means 'to play'. It specifically refers to the action that we (the speaker and others) are currently performing or habitually perform. This can refer to playing games, sports, musical instruments, or participating in activities."
 }

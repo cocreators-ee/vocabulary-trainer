@@ -1,14 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta armastab mõlemaid lapsi.",
-    "Mõlemaid võimalusi tuleb kaaluda.",
-    "Mõlemaid parteide esindajad osalevad läbirääkimistel."
+    "Mõlemad poiss ja tüdruk tulid kooli.",
+    "Mõlemad mehed olid tänaval.",
+    "Mõlemaid lapsevanematuid küsiti arvamust."
   ],
   "translation": [
-    "both",
-    "either"
+    "both of them",
+    "the two of them"
   ],
-  "context": "The word mõlemaid is a pronoun in Estonian that means both or either, used to refer to two things or people, and it is commonly used in sentences to indicate that something applies to or involves both of them."
+  "context": "The word 'mõlemaid' is the partitive plural form of 'mõlemad', meaning 'both'. In Estonian, it's used to refer to both members of a pair when they are objects in a sentence. The partitive case here indicates that we're talking about or referring to both people/things."
 }

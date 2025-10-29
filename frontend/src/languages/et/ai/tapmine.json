@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tapmine on tappis või mürgitamise teel toime pandud kuritegu.",
-    "Tema tapmine oli üllatav sündmus.",
-    "Politsei uurib tapmise asjaolusid."
+    "Tapmine on kriminaalõiguslikud süüteo.",
+    "Tapmise eest võib saada vanglakaristuse.",
+    "Politsei uuris tapmist üksikasjalikult."
   ],
   "translation": [
     "killing",
     "murder",
     "homicide"
   ],
-  "context": "The word 'tapmine' refers to the act of killing or taking someone's life, often used in the context of a crime or a violent incident."
+  "context": "The word 'tapmine' in Estonian refers to the act of killing, murder, or homicide. It is a noun derived from the verb 'tappama' (to kill). In legal contexts, it specifically refers to unlawful killing that constitutes a criminal offense. The word can refer both to the general concept of killing and to specific criminal acts of murder."
 }

@@ -1,15 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa aru, mis puhul sa räägid.",
-    "Puhul, kui ta tuleb, helista mulle.",
-    "See on puhul, mida ma olen oodanud."
+    "Tööl puhul peaksid olema tähtsad.",
+    "Koolis puhul on olulised reeglid.",
+    "Sportlase elu puhul vajab palju distsipliini."
   ],
   "translation": [
-    "case",
-    "instance",
-    "respect"
+    "in the case of",
+    "regarding",
+    "as for",
+    "concerning"
   ],
-  "context": "The Estonian word 'puhul' is often used to indicate a specific situation, case, or instance. It’s similar to the English ‘in the case of’, ‘with regard to’, or ‘as regards’. It can also mean 'respect' in certain contexts."
+  "context": "Puhul is an Estonian postposition that indicates a topic or subject being discussed. It's similar to English expressions like 'in the case of,' 'regarding,' 'as for,' or 'concerning.' The word always follows the noun it modifies and typically introduces information about a specific subject or situation."
 }

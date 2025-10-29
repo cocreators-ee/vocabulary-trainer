@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma olin hiljuti haiglas ja mul oligi väga halb olla.",
-    "Kui sa ütled, et sa ei saa tulla, siis ongi nii.",
-    "Ta teadis juba ammu, et tal oligi õigus."
+    "Ta oli alati õige, oligi tema nõuanded tähtsad.",
+    "Ma ei tahtnud uskuda, kuid see oligi nii.",
+    "Kui sa tuled, siis ma olen seal, olgi mis tahes."
   ],
   "translation": [
-    "was",
-    "indeed",
-    "really"
+    "was indeed",
+    "actually was",
+    "truly was"
   ],
-  "context": "The Estonian word 'oligi' is a past tense form of the verb 'olema' (to be). It’s used to emphasize that something *was* indeed the case, often implying confirmation or acceptance. It can translate to ‘was’, ‘indeed was’, or ‘it really was’. It adds a sense of finality or emphasis to a statement about a past situation."
+  "context": "The Estonian word 'oligi' is a past tense form that combines the verb 'olema' (to be) with the particle '-gi', which adds emphasis or confirmation. It's used in the past perfect or simple past to indicate something that was indeed true, actually happened, or was confirmed to be the case. The word carries a sense of realization or acknowledgment of a fact that might have been previously uncertain or questioned."
 }

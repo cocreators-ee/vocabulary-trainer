@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta alustas tööd uues firmas.",
-    "Firma alustas tegevust homme.",
-    "Alustasime koostööd partneritega."
+    "Esimene mees alustas kõnest.",
+    "Naised alustasid tantsimisest.",
+    "Pärast lõunat alustame uue projekti."
   ],
   "translation": [
-    "began",
     "started",
-    "commenced"
+    "began"
   ],
-  "context": "The word 'alustas' is the simple past tense of the verb 'algama', which means to begin or start something. It is commonly used in Estonian to describe the initiation of an action or a process."
+  "context": "The word 'alustas' is the past tense third person singular form of the Estonian verb 'alustama', which means 'to start' or 'to begin'. It indicates that someone or something started an action in the past. The stem 'alus-' relates to foundation or base, and '-stas' is a typical ending for past tense in Estonian. This word follows regular conjugation patterns in Estonian."
 }

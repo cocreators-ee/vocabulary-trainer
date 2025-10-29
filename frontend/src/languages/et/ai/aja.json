@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma teen seda aja jooksul.",
-    "Tema elu hakanud aja sujuvalt minema.",
-    "Ära raiska oma aja täiesti ebatõhusalt."
+    "Tegin kõik aja jooksul.",
+    "Me saame selleks ajaks valmis.",
+    "Selles vanas ajas oli elamine keerulisem."
   ],
   "translation": [
     "time",
-    "period of time"
+    "period",
+    "era",
+    "age"
   ],
-  "context": "'Aja' refers to time in Estonian, commonly used in phrases related to duration, scheduling, or moments. It often appears in expressions involving the passage of time or specific time frames."
+  "context": "The word 'aja' in Estonian is the genitive case form of the word 'aeg', which means 'time'. In this form, it typically translates to English as 'of time', 'during', or can indicate possession or relationship with time. It appears in phrases like 'aja jooksul' (in the course of time), 'sel ajal' (at that time), and is used to express concepts related to temporal relationships."
 }

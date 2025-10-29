@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma kutsun sind koos olema",
-    "Kutsun mind igale neljapäeval",
-    "Ta kutsus mind tänavale"
+    "Kutsun sind homme kohtumisele.",
+    "Tema kutsub meid oma sünnipäevapeole.",
+    "Kas te tsite mind homseks?"
   ],
   "translation": [
-    "invite",
-    "call"
+    "I call/invite",
+    "to call",
+    "to invite"
   ],
-  "context": "The word 'kutsun' in Estonian means to invite or call someone, and it is commonly used in formal and informal settings to ask someone to join or participate in an event or activity."
+  "context": "The word 'kutsun' is the 1st person singular present tense form of the Estonian verb 'kutsuma', which means 'to call' or 'to invite'. It indicates that the speaker is currently performing the action of calling someone or inviting them somewhere."
 }

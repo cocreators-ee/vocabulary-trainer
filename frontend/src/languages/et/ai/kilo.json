@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma ostan kilo viili",
-    "Kilo põhku on palju",
-    "Ta kaalub ühe kilo"
+    "Ostsin kilo puuvilju.",
+    "Kui palju maksab üks kilo?",
+    "Mul on vaja kili suhkru."
   ],
   "translation": [
-    "kilo",
-    "kilogram"
+    "kilogram (kg)",
+    "thousand (colloquial)",
+    "kilo (unit of weight)"
   ],
-  "context": "The word 'kilo' is commonly used in Estonian to refer to a unit of weight, similar to the English term 'kilogram'. It is often used in everyday conversations when discussing food, products, or body weight."
+  "context": "The word 'kilo' is commonly used in Estonian as a colloquial term for 'kilogram', which is a unit of mass equal to 1000 grams. It can also be used informally to mean 'thousand'. In everyday conversation, it's the standard way people refer to kilograms when talking about weight, especially for groceries and other goods sold by weight."
 }

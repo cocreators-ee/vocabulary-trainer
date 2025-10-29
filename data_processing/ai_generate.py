@@ -8,7 +8,7 @@ from tqdm import tqdm
 from data_processing.ai import (
     get_ai_analyze_agent,
     get_ai_generate_agent,
-    has_good_analysis,
+    has_good_analysis, get_word_data,
 )
 from data_processing.settings import LANGUAGES_DST, conf
 from data_processing.utils import GenerateResponse, list_words
@@ -16,7 +16,7 @@ from data_processing.utils import GenerateResponse, list_words
 
 def print_output(elapsed: float, output: GenerateResponse):
     understood = "understood" if output.understood else "NOT understood"
-    print(f"({elapsed:.3f}s) (confidence {output.confidence:.2f}, {understood})")
+    print(f"({elapsed:.3f}s) ({understood})")
     if output.understood:
         print("In English: " + "; ".join(output.translation))
         print("")
@@ -49,11 +49,15 @@ def main():
 
     verbose = False
     check = False
+    regenerate = False
     skip = 0
 
     if "--check" in sys.argv:
         check = True
         analysis_agent = get_ai_analyze_agent()
+
+    if "--regenerate" in sys.argv:
+        regenerate = True
 
     if "--verbose" in sys.argv:
         verbose = True
@@ -99,17 +103,19 @@ def main():
                             print(f"{word} ", end="")
 
                         if is_word_defined(language_id, word):
-                            if not check:
+                            if regenerate:
+                                request["previous_analysis"] = get_word_data(language_id, word).model_dump()
+                            elif not check:
                                 if verbose:
-                                    print("... skipping")
+                                    print("... exists")
                                 break
-
-                            if has_good_analysis(language_id, word, analysis_agent):
+                            elif has_good_analysis(language_id, word, analysis_agent):
                                 if verbose:
-                                    print("... skipping")
+                                    print("... good enough")
                                 break
                             else:
                                 reprocessing = True
+                                request["previous_analysis"] = get_word_data(language_id, word).model_dump()
 
                         start = perf_counter()
                         result = agent.run_sync(prompt)

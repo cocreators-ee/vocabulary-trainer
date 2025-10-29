@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta on pandud oma südame asjale.",
-    "Meie plaanid on pandud paika.",
-    "Kõik kaardid on laudale pandud."
+    "Pandud põrandale",
+    "Ta on pandud vangi",
+    "Klaas on pandud lauale"
   ],
   "translation": [
-    "put",
     "placed",
-    "set",
+    "put",
+    "set down",
     "laid"
   ],
-  "context": "The Estonian word 'pandud' is the past passive participle of the verb 'panna', which means 'to put,' 'to place,' or 'to set.' It often implies something has been done *to* something else, or that a decision has been made and implemented. In English, it can be translated as 'put,' 'placed,' 'set,' or even 'laid' depending on the context."
+  "context": "The word 'pandud' is the past participle form of the Estonian verb 'panema', which means 'to put' or 'to place'. It indicates that something has been placed, set down, or put in a particular location or state. In different contexts, it can be translated as 'placed', 'put', 'set down', or 'laid'. This form is commonly used to describe the result of an action where someone has positioned something somewhere."
 }

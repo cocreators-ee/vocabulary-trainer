@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta seisa tooli peal.",
-    "Seisad mind ära.",
-    "Seisa lihtsalt seal."
+    "Ma pean seisma siin kuni sa tagasi tuled.",
+    "Kes tegelikult seisab meie ees?",
+    "Ta seisab endiselt oma positsioonil."
   ],
   "translation": [
-    "stand",
-    "stands"
+    "to stand",
+    "to be standing",
+    "to wait"
   ],
-  "context": "The word 'seisa' in Estonian means to stand or be in an upright position, and it is commonly used in various contexts such as giving orders or describing physical postures."
+  "context": "The Estonian verb 'seisa' is the 3rd person singular present form of the verb 'seisma', which means 'to stand'. It's used when someone or something is in a standing position, either physically waiting in place or metaphorically taking a stance on an issue. This verb can refer to both literal physical standing and figurative positioning on matters."
 }

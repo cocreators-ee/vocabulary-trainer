@@ -1,11 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on surnud"
+    "Ta on surnuks jäänud.",
+    "Autoõnnetuses sai ta surnuks.",
+    "Kass kukkus aknast ja jäi surnuks."
   ],
   "translation": [
-    "deceased"
+    "dead",
+    "to death"
   ],
-  "context": "The word surnuks is an adjective in Estonian that means deceased or dead."
+  "context": "The word 'surnuks' is an Estonian adverbial form that indicates the result or state of becoming dead. It's formed from the verb 'surema' (to die) and typically follows a main verb to express that someone has died as a result of some action."
 }

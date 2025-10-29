@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta õpib klassis.",
-    "Klassis oli palju õpilasi.",
-    "Õpetaja räägib klassis."
+    "Olen klassis.",
+    "Me töötame klassis.",
+    "Õpilased istuvad klassis."
   ],
   "translation": [
-    "in class",
-    "classroom"
+    "in the classroom",
+    "at school",
+    "in class"
   ],
-  "context": "The word 'klassis' is used to describe something that happens or exists within a classroom setting, indicating a location where students learn and interact with their teacher."
+  "context": "The word 'klassis' is an Estonian adessive case form of 'klass', meaning 'classroom' or 'class'. It indicates location - being inside or at a classroom/school setting. This is used when someone wants to express where they are located, specifically in relation to a classroom."
 }

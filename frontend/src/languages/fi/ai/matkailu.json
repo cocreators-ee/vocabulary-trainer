@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Matkailu on suosittua Suomessa",
-    "Hän työskentelee matkailualalla",
-    "Matkailijat tulivat kaupunkiin"
+    "Matkailu on suosittua kesäaikaan.",
+    "Tämä maa tarjoaa monipuolista matkailumahdollisuuksia.",
+    "Suomen talvimatkailu houkuttelee ulkomaisia turisteja."
   ],
   "translation": [
+    "travel",
     "tourism",
-    "traveling"
+    "travelling"
   ],
-  "context": "The word 'matkailu' generally refers to the activity of traveling for pleasure or business, and it is commonly used in contexts related to tourism and the travel industry."
+  "context": "Matkailu is a Finnish noun that refers to the activity of traveling or tourism. It comes from the verb 'matkata' (to travel) and the suffix '-lu', which indicates an activity or process. The word can refer to both the general concept of traveling as well as the tourism industry in Finland."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma otsin raamatut, millel on punane kaas",
-    "Ta tegi töö, millel polnud piiri",
-    "Küsimus, millel pole vastust"
+    "Millel on see mõte?",
+    "Millel oli viga?",
+    "Millel peaks keskenduma?"
   ],
   "translation": [
-    "on which",
-    "with which",
-    "that has"
+    "on what",
+    "with what",
+    "based on what"
   ],
-  "context": "The word 'millel' is a postposition in Estonian that indicates the object or thing on which something happens or exists."
+  "context": "The Estonian word 'millel' is an interrogative pronoun in the elative case, used to ask about something that serves as a basis, reason, or foundation. It literally means 'on what' or 'with what' and is commonly used to inquire about reasons, grounds, or foundations for statements or actions."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Vaatimus on selkeä ja ymmärrettävä",
-    "Vaatimukset ovat korkeat",
-    "Hänellä on erityinen vaatimus työlle"
+    "Vaatimus oli hyvin selkeä.",
+    "Hänellä on vaatimuksia yritystä kohtaan.",
+    "Tämä laatu ei täytä asiakkaan vaatimuksia."
   ],
   "translation": [
     "requirement",
     "demand",
     "claim"
   ],
-  "context": "The word vaatimus refers to a requirement or demand that needs to be met, often in a formal or official context, such as in business, law, or education."
+  "context": "The Finnish word 'vaatimus' is a noun that means requirement, demand, or claim. It refers to something that is required or demanded as necessary. The word can be used in various contexts such as business requirements, customer demands, or formal claims. In its different forms, it might appear as 'vaatimus' (singular), 'vaatimukset' (plural), or with possessive endings like 'vaatimukseni' (my requirement)."
 }

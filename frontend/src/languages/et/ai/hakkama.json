@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma ei saa sellega hakkama.",
-    "Sa saad sellega hästi hakkama!",
-    "Kas sa suudaksid selle ülesandega hakkama?"
+    "Ma hakkame homme kohtuma.",
+    "Ta hakkas tööd tegema kell kuus hommikul.",
+    "Meie hakkame uut projektiga alustama täna."
   ],
   "translation": [
-    "cope",
-    "manage",
-    "handle"
+    "to start",
+    "to begin",
+    "to commence"
   ],
-  "context": "The Estonian word 'hakkama' is commonly used to express the ability to cope with or manage a situation, task, or problem. It can also mean 'to succeed' or 'to get by'. It’s similar to saying ‘I can handle it’ in English."
+  "context": "The Estonian word 'hakkama' is a common verb that means 'to start' or 'to begin'. It's an infinitive form and is often used with the particle ' hakkama ' to express the beginning of an action. In conjugated forms, it appears as 'hakkan', 'hakkad', 'hakkab', etc., depending on the subject. It frequently indicates the initiation of activities or processes."
 }

@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastan palju muusikat",
-    "Ta on palju vanem kui mina",
-    "Palju õnne sulle!"
+    "Palju aegu!",
+    "Ta palub palju.",
+    "Mulle meeldib väga palju."
   ],
   "translation": [
     "much",
-    "many",
-    "a lot of"
+    "a lot",
+    "many"
   ],
-  "context": "The word 'palju' is commonly used in Estonian to express a large quantity or amount of something, similar to how 'much', 'many', or 'a lot of' would be used in English."
+  "context": "The word 'palju' is an Estonian adverb used to express quantity or degree. It typically translates to English words like 'much', 'a lot', or 'many'. In Estonian grammar, 'palju' is often used with singular nouns in the partitive case when referring to uncountable things (like time, effort) and can be used before plural countable nouns. For example, 'Palju aega!' means 'Much time!' while 'Palju õunu' would mean 'Many apples'. The word frequently appears in everyday expressions and questions about quantity."
 }

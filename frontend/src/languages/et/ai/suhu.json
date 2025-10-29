@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta suhu on väga kõrgel.",
-    "Suhu tõusis äkki.",
-    "Temperatuuri ja suhu vahel on suur erinevus."
+    "Tema on heas suhu.",
+    "Meil on hääd suhu.",
+    "Kui teie vajate abi, siis me oleme heas suhu."
   ],
   "translation": [
-    "body temperature",
-    "temperature"
+    "in good spirits",
+    "in a good mood",
+    "cheerfully"
   ],
-  "context": "The word 'suhu' in Estonian refers to body temperature or temperature in general, and it is commonly used in medical contexts to describe a person's physical condition."
+  "context": "The Estonian word 'suhu' is the illative case form of the word 'suhe', which means 'relationship' or 'condition'. In this context, 'suhu' is used idiomatically to mean being in a good state emotionally or mentally. It's similar to English expressions like 'in high spirits' or 'in good mood'. The illative case indicates movement into or direction towards something - so being 'in good suhu' means moving into or maintaining a positive emotional state."
 }

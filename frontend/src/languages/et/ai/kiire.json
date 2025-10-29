@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on kiire.",
-    "Kiired inimesed ei ole kunagi rahul.",
-    "Kui kiiresti sa saad selle tehtud?"
+    "Töö on väga kiire.",
+    "Kiired poisid jooksid läbi pargi.",
+    "Ta tegi kõiki töid kiiresti."
   ],
   "translation": [
-    "fast",
     "quick",
-    "swift"
+    "fast",
+    "rapid",
+    "hasty"
   ],
-  "context": "The word kiire is commonly used to describe something or someone that is moving or happening quickly, and it can also be used to express a sense of urgency or haste."
+  "context": "The Estonian word 'kiire' is an adjective that means quick, fast, or rapid. It describes something that moves with speed or happens in a short amount of time. In the examples, it's used to describe work as being very busy/fast (kiire), boys who are quick/fast (kiired), and actions done quickly/hastily (kiiresti - adverbial form)."
 }

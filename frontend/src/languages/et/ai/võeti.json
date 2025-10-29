@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võeti tööle",
-    "Firma võeti üle",
-    "Võeti vastu uus liige"
+    "Tema võeti vangi.",
+    "Lapsed võeti kooli.",
+    "Moodustati uus komitee, millele võiti vastutustundlik roll."
   ],
   "translation": [
     "was taken",
-    "taken over",
-    "adopted"
+    "were taken"
   ],
-  "context": "The word võeti is the passive voice of the verb võtta, which means to take or adopt something, and it is commonly used in Estonian language to describe an action that has been done to someone or something."
+  "context": "The word 'võeti' is the past tense (perfect) form of the Estonian verb 'võtma', which means 'to take'. It's used in singular or plural depending on the context, but appears to be in singular here. This word indicates that an action of taking something or someone occurred in the past."
 }

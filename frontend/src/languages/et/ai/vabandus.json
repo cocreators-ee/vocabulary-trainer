@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Vabandus, kuidas sa nimi tänapäeval lõpetad?",
-    "Vabandus, kas see on õiglane hind?",
-    "Vabandus, ma ei kuula."
+    "Vabandust!",
+    "Ma vajan vabandust.",
+    "Sa ei vaja vabandust."
   ],
   "translation": [
-    "excuse me"
+    "apology",
+    "excuse",
+    "pardon"
   ],
-  "context": "A common phrase used to get someone's attention or express that you didn't hear something clearly."
+  "context": "The word 'vabandus' is a noun in Estonian that refers to an apology or excuse. It's commonly used when someone wants to express regret for something they've done said or ask for forgiveness. The word can stand alone as 'Vabandust!' which means 'Sorry!' or 'Excuse me!'. In other forms, it can be part of longer sentences where someone is apologizing for an action or requesting forgiveness."
 }

@@ -1,14 +1,16 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Hän laittaa paitansa kaapista.",
-    "Laittaa auto talvikeksi varastoun.",
-    "Lapsi laittaa leluaan laukkuun."
+    "Minä laitoin kirjeen postilaatikkoon.",
+    "Hän laittaa kahvia aamuisin.",
+    "Meidän pitää laittaa ruokaa valmiiksi."
   ],
   "translation": [
     "to put",
-    "place"
+    "to place",
+    "to set",
+    "to make",
+    "to do"
   ],
-  "context": "The word 'laittaa' is commonly used in Finnish to describe the action of placing or putting something somewhere, similar to the English verb 'to put'."
+  "context": "The Finnish verb 'laittaa' is highly versatile and commonly used. It can mean 'to put/place/set' when referring to positioning objects, but it's also frequently used in the sense of 'to make/do', especially with food preparation (like 'make coffee' or 'cook'). In its conjugated form 'laitoin', it means 'I put/made'. The verb takes a direct object and is essential for everyday communication in Finnish."
 }

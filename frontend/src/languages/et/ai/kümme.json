@@ -1,13 +1,13 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Mul on kümme eurot taskus.",
-    "Kümme päeva pärast saabub talv.",
-    "Ta sai kümme punkti kümnest."
+    "Kümme minutit on jäänud.",
+    "Ostsin kümme õuna.",
+    "Tema on kümmend aastat vana."
   ],
   "translation": [
-    "ten"
+    "ten",
+    "10"
   ],
-  "context": "The word 'kümme' is an Estonian numeral that means the number ten, and it is commonly used in various contexts to express quantities or amounts."
+  "context": "The Estonian word 'kümme' is the numeral ten. It's used to express the quantity of 10. In Estonian, numerals can change form depending on case and context. For example, in the nominative case it remains 'kümme', but in other cases it may change (like 'kümmend' which appears in some constructions)."
 }

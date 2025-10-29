@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta võitleb kannatuste vastu.",
-    "Võitleb tema õiguste eest.",
-    "Meie kõik võitleme oma igapäevaste probleemidega."
+    "Ta võitleb eest oma õigusi.",
+    "Mees võitles vapralt vastu.",
+    "Naised võitlevad igapäevaselt mitme probleemiga."
   ],
   "translation": [
+    "fights",
     "struggles",
-    "fights"
+    "battles",
+    "contends"
   ],
-  "context": "The word võitleb is a verb in Estonian that means to struggle or fight, often used to describe someone's efforts to overcome difficulties or challenges."
+  "context": "The Estonian word 'võitleb' is the 3rd person singular present tense form of the verb 'võitelda', which means to fight or struggle. It describes someone who is actively engaged in conflict, whether physical battle, emotional struggle, or ongoing effort against difficulties. This versatile verb can be used in various contexts including physical fights, metaphorical battles, and persistent efforts."
 }

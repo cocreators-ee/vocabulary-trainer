@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen hea viisi",
-    "Ta laulab ilusa viisi",
-    "See on minu lemmikviis"
+    "See on viis meetrit pikk.",
+    "Ta laulis viis laulu.",
+    "Meil on vaja veel viis inimest."
   ],
   "translation": [
-    "tune",
-    "melody"
+    "five",
+    "number five",
+    "fifth"
   ],
-  "context": "The word viis in Estonian refers to a musical tune or melody, and is commonly used in music-related contexts."
+  "context": "In Estonian, 'viis' is the word for the number 5. It can be used as a numeral to indicate quantity or position. In examples above: 'viis meetrit' means 'five meters', 'viis laulu' means 'five songs', and 'viis inimest' means 'five people'. The word can also appear in different grammatical forms depending on context."
 }

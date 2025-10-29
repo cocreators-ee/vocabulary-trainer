@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Tuli on tulnud tagasi.",
-    "Ta tuli hommikul.",
-    "Tuleb tunda, et see on tuli."
+    "Tuli kogu õhtul.",
+    "Tulevad paljud inimesed peole.",
+    "Tulin varakult."
   ],
   "translation": [
     "fire",
-    "came"
+    "arrives",
+    "comes"
   ],
-  "context": "The word 'tuli' in Estonian can have multiple meanings, including 'fire' or 'came', depending on the context in which it is used."
+  "context": "The Estonian word 'tuli' has multiple meanings depending on context. As a noun, it means 'fire'. As a verb ( tulema - to come/arrive), the 3rd person singular form is 'tuli', meaning 'he/she/it comes/arrived' or 'they came'. The word can be used in present tense when referring to arrival or past tense with context indicating completed action."
 }

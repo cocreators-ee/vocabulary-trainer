@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on eri inimene.",
-    "Eri asjad on erinevad.",
-    "Eri liikmed on erinevatel positsioonidel."
+    "Teadused on eri ala.",
+    "Meil on eri arvamused selle kohta.",
+    "Lapsed on väga eri omadustega."
   ],
   "translation": [
     "different",
     "various",
-    "distinct"
+    "separate"
   ],
-  "context": "The word 'eri' in Estonian means different or various, and it is commonly used to describe things that are not the same or similar."
+  "context": "In Estonian, 'eri' is an adjective that means 'different', 'various', or 'separate'. It's used to indicate distinction between things or people. The word doesn't change form in different cases but can be combined with various suffixes to create related concepts like 'eriline' (special) or 'eraldada' (to separate)."
 }

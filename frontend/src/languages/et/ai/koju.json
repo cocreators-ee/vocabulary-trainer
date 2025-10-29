@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma lähen koju",
-    "Koju on hea tulla",
-    "Ta on juba koju jõudnud"
+    "Tule koju kell seitse.",
+    "Ma lähen homme koju.",
+    "Kas sa tuled meie koju?"
   ],
   "translation": [
-    "home"
+    "home",
+    "to home",
+    "homeward"
   ],
-  "context": "The word 'koju' is used to refer to one's home or the act of going home, and it is commonly used in everyday conversations in Estonian."
+  "context": "The Estonian word 'koju' is the illative case form of the word 'kodu', which means 'home'. In English, it translates to 'home', 'to home', or 'homeward'. It indicates movement toward a place that one considers home. This is directional motion - going somewhere as opposed to being at home."
 }

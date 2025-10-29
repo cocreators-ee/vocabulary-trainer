@@ -1,14 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen tulekul.",
-    "Ta on tulekul.",
-    "Nad on tulekul."
+    "Tulevad peatselt tulekule uued reeglid.",
+    "Meil on tulekul suur projekt.",
+    "Kõik on veel eelolevalt tulekul."
   ],
   "translation": [
-    "coming",
-    "on the way"
+    "coming up",
+    "approaching",
+    "imminent",
+    "forthcoming"
   ],
-  "context": "The word 'tulekul' in Estonian means something or someone is coming or on their way to a place, often used to indicate that an arrival is imminent."
+  "context": "The Estonian word 'tulekul' is an adjective that means 'coming', 'approaching', or 'in progress'. It's formed from the verb 'tulla' (to come) with the suffix '-kul' indicating ongoing action. This word describes something that is about to happen, in progress, or approaching in time. It can be used for events, periods of time, processes, or developments that are imminent or currently underway."
 }

@@ -1,13 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ankka ui järvenpinnalla.",
-    "Ankat lentävät etelään talveksi.",
-    "Hän piirsi ankan kuvan paperille."
+    "Minulla on kaksi ankkaa.",
+    "Ankat uivat joessa.",
+    "Se on iso ankka."
   ],
   "translation": [
     "duck"
   ],
-  "context": "The word 'ankka' refers to a type of waterbird, commonly known as a duck, and is used in Finnish to describe the animal in various contexts, such as its behavior or physical appearance."
+  "context": "The Finnish word 'ankka' means 'duck' in English. It's a common noun referring to the waterfowl bird. In Finnish, nouns have different cases and numbers, so you might see forms like 'ankat' (plural) or 'anhan' (partitive case)."
 }

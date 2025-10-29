@@ -1,14 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ta oli mõistlik inimene.",
-    "Mõistliku inimese peab olema selgelt määratletud eesmärk.",
-    "Mõistlikult suurt kiirust pole vaja."
+    "Mõistlik otsus.",
+    "Ta on mõistlik inimene.",
+    "See oli mõistlik küsimus."
   ],
   "translation": [
     "reasonable",
-    "sensible"
+    "sensible",
+    "logical"
   ],
-  "context": "The word 'mõistlik' in Estonian means reasonable or sensible, and it is commonly used to describe someone or something that is fair and rational."
+  "context": "The Estonian word 'mõistlik' is an adjective that means reasonable, sensible, or logical. It describes something that shows good judgment, common sense, or rational thinking. The word comes from the root 'mõistma' which means 'to understand'. When used to describe people, it indicates someone who has wisdom and good judgment. When describing decisions, actions, or statements, it refers to things that are well-considered and make sense."
 }

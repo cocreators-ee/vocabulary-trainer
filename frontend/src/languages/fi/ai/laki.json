@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Lakia ei saa koskaan ylittää.",
-    "Tuomari piti lain mukaista oikeutta.",
-    "He halusivat muuttaa lakiä viimeistään tänä vuonna."
+    "Suomessa on hyvä laki.",
+    "Lakia pitää noudattaa.",
+    "Tämä uusi laki astuu voimaan ensi vuonna."
   ],
   "translation": [
     "law",
-    "law's",
-    "the law"
+    "statute",
+    "legislation"
   ],
-  "context": "'Laki' refers to a legal statute or principle that must be followed. It is commonly used in discussions about governance, rights, and justice, indicating rules established by authority figures or institutions."
+  "context": "The Finnish word 'laki' means law or statute in English. It is a singular form noun that refers to legislation, rules, or regulations established by authorities. In Finnish grammar, it follows the normal declension patterns for common nouns of the type ending in -i."
 }

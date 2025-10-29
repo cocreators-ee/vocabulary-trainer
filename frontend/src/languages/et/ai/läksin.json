@@ -1,13 +1,13 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Olen juba läksin.",
-    "Kas sa ütlesid et sa läksin?",
-    "Ma ei läksin sinna."
+    "Läksin linna.",
+    "Meie läksime koju.",
+    "Ta läksid teatri."
   ],
   "translation": [
-    "went"
+    "went",
+    "have gone"
   ],
-  "context": "Läksin is the first person past tense of 'to go' in Estonian. It describes when someone went somewhere and it's often used in everyday contexts like leaving a place or arriving at a destination."
+  "context": "The word 'läksin' is the first-person singular past tense form of the Estonian verb 'minema', which means 'to go'. It indicates that the speaker has completed the action of going somewhere. The word follows Estonian conjugation patterns where the ending '-n' typically indicates first person singular in present and past tenses."
 }

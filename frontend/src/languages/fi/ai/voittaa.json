@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Minä voitan pelin",
-    "Hän voitti kilpailun",
-    "He voittavat aina"
+    "Minä voitan pelin.",
+    "Hän voi voittaa kilpailun.",
+    "Meitä ei voitettu viimeisessä ottelussa."
   ],
   "translation": [
     "to win",
-    "victory",
+    "defeat",
     "conquer"
   ],
-  "context": "The word voittaa is commonly used in Finnish to mean achieving success or emerging victorious in a contest, competition, or challenge."
+  "context": "The Finnish verb 'voittaa' means 'to win' in English. It is used to express victory over someone or something, such as winning a game, competition, battle, or overcoming an obstacle. The verb can be conjugated to different forms: 'voitan' (I win), 'voit' (you win singular informal), 'voi' (he/she/it wins), 'voimme' (we win), 'voitte' (you all/plural win), and 'ovat' (they win). In negative form, it becomes 'ei voitettu' (was not won/was defeated)."
 }

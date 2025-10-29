@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Teised inimesed võivad aidata.",
-    "Ta rääkis teistega.",
-    "Teised päevad olid vihmased."
+    "Teised inimesed tulevad ka.",
+    "Mõtlen teistele inimestele.",
+    "Tema rääkis teiste peale."
   ],
   "translation": [
+    "other",
     "others",
-    "other people"
+    "different"
   ],
-  "context": "The word 'teised' is used to refer to other people or things, and it is commonly used in Estonian language to indicate a distinction from oneself or one's own group."
+  "context": "The Estonian word 'teised' is the plural form of 'teine', meaning 'other' or 'different'. It refers to multiple other people, things, or entities that are different from the ones already mentioned or being discussed. In English, it can be translated as 'others', 'the others', or simply 'other' depending on context."
 }

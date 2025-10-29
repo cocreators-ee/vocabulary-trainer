@@ -1,14 +1,12 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Me kuulsime uudise varahommikul",
-    "Kuulsime tema jutustusi",
-    "Nad kuulsime koolis"
+    "Kuulsime uudiseid raadiost.",
+    "Me kuulsimes häält majast.",
+    "Tüdrukud kuulsimes laulma."
   ],
   "translation": [
-    "we heard",
     "heard"
   ],
-  "context": "The word kuulsime is the first person plural past tense form of the Estonian verb kuulma, which means to hear."
+  "context": "The word 'kuulsime' is the past tense plural form of the Estonian verb 'kulema', which means 'to hear'. It specifically translates to 'we heard' in English. The '-me' ending indicates first person plural (we) and the past tense form."
 }

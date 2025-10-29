@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma armastasin teda esimesest pilgust.",
-    "Armastuse puudus tema elus.",
-    "Ta otsis armastust kogu elu."
+    "Tema armastuse oli alati väga tugev.",
+    "Armastuse võim on imetegusid.",
+    "Me rääkisime armastusest pikalt."
   ],
   "translation": [
-    "love"
+    "love",
+    "affection",
+    "devotion"
   ],
-  "context": "The word 'armastuse' is the genitive form of the Estonian noun 'armastus', which refers to love as an emotion or feeling, and is commonly used in various contexts to express affection, attachment, or strong liking for someone or something."
+  "context": "The word 'armastuse' is the genitive case form of 'armastus', which means 'love'. In Estonian, the genitive case typically shows possession or indicates what something is about. So 'armastuse' can mean 'of love', 'about love', or 'love's'. It appears in contexts where we're talking about love as a concept or expressing qualities related to love."
 }

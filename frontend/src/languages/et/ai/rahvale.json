@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta rääkis rahvale.",
-    "Rahvas on üks tähtsamatest aspektidest ühiskonnas.",
-    "Rahvaga suhtlemine on oluline poliitikute jaoks."
+    "Rahvale meeldib see kontsert.",
+    "Teeme rahvale head.",
+    "Rahvale antakse ülevaade olukorrast."
   ],
   "translation": [
     "to the people",
-    "nation",
-    "public"
+    "for the people"
   ],
-  "context": "The word 'rahvale' is a dative form of the noun 'rahvas', which means 'people' or 'nation'. It is commonly used in Estonian to refer to a group of individuals, often in a more formal or general sense."
+  "context": "The word 'rahvale' is an Estonian adessive case form of the noun 'rahvas' (people). The adessive case typically indicates location 'at' or 'on', but can also indicate purpose, beneficiary, or target. In this context, it functions as a dative equivalent showing that something is done for or to benefit people. It's commonly used in contexts where services are provided, events are organized, or information is given specifically for the benefit of ordinary citizens."
 }

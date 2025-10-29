@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on varju inimese järel",
-    "Varjus oli külm",
-    "Päike paistis läbi varju"
+    "See kuupäev on varju all.",
+    "Ta istub varjus päikese eest.",
+    "Metsa sisse jõudes leidsid nad hea varju."
   ],
   "translation": [
     "shadow",
-    "shade"
+    "shade",
+    "protection from sunlight"
   ],
-  "context": "The word 'varju' generally refers to the darker area where something blocks the light from shining, similar to how we use 'shadow' or 'shade' in English."
+  "context": "The word 'varju' is the illative case form of the Estonian noun 'varj' which means shadow or shade. It indicates movement into a shadow or shade, meaning something like 'into the shadow' or 'into the shade'. This grammatical case shows direction and destination."
 }

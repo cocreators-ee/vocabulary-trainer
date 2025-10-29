@@ -1,15 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Mingis lõunatseb oma maja.",
-    "Tema perekonnas on mingisega seotud probleemid.",
-    "Eile kohtusin mingise ja tema sõbra."
+    "Tema käis mingis kohas",
+    "Me leidsime mingise asja",
+    "Mingisel päeval"
   ],
   "translation": [
-    "A man",
-    "Some man",
-    "He"
+    "in some",
+    "at some",
+    "of a certain kind"
   ],
-  "context": "The word 'mingis' refers to a male person, often used when the name is unknown or not specified. It can be translated as 'a man', 'some man', or just 'he'. It's commonly used in conversational Estonian to refer to men without using their actual names."
+  "context": "\"Mingis\" is an Estonian word that functions as an indefinite pronoun or adjective, meaning \"in some,\" \"at some,\" or \"of a certain kind.\" It's used when the speaker doesn't specify which exact place, thing, or time they are referring to. This form appears to be in the adessive case (-s ending), indicating location or association with something indefinite."
 }

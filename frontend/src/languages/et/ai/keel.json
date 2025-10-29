@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma räägin eesti keelt",
-    "Keel on väga oluline osa kultuurist",
-    "Tema emakeel on eesti keel"
+    "Keel on inimeste suulise kõne vahend.",
+    "Eesti keel on pärilik keel.",
+    "Tema ootas küsimustest keelt."
   ],
   "translation": [
-    "language",
     "tongue",
-    "speech"
+    "language"
   ],
-  "context": "The word 'keel' in Estonian generally refers to a language or the tongue, and it is commonly used in contexts where people discuss their native language or the language they speak."
+  "context": "The word 'keel' has two main meanings in Estonian: it can refer to the physical tongue (the organ in the mouth) or to a language system. As 'tongue', it's used when talking about anatomy, speech, or taste. As 'language', it refers to systems of communication like Eesti keel (Estonian language). The word is neutral and commonly used in both contexts."
 }

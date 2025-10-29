@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen puhkas",
-    "Puhkamine on vajalik",
-    "Töötan pühapäeviti puhka ajal"
+    "Tahan puhkada siin natuke.",
+    "Meie põhiliselt puhkame lõunaaja.",
+    "Kas sa võid veel natuke puhata?"
   ],
   "translation": [
     "rest",
-    "vacation",
-    "break"
+    "take a break",
+    "relax"
   ],
-  "context": "The word puhka is commonly used in Estonian to refer to a period of time when one is not working or is taking a break from their daily activities, and it can be translated to English as rest, vacation, or break."
+  "context": "The word 'puhka' is the imperative form of the Estonian verb 'pühkama', which means to rest, take a break, or relax. It's used when telling someone to rest or take a break. The root form 'pühkama' can be conjugated in various tenses and moods, with 'puhka' being specifically the command form (imperative) when addressing one person informally."
 }

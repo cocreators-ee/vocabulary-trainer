@@ -1,15 +1,15 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta tegi palu ametikohalt vabastamiseks.",
-    "Palu oli esitatud juba kuu aja eest.",
-    "Olen esitanud palu tööle võtmiseks."
+    "Palun tule lähemale.",
+    "Ma palume sind meilt ära tulla.",
+    "Kas sa võiksid paluda mulle aidata?"
   ],
   "translation": [
+    "please",
+    "ask",
     "request",
-    "petition",
-    "application"
+    "beg"
   ],
-  "context": "The word 'palu' in Estonian generally refers to a formal request or application, often submitted to an authority or institution, and is commonly used in official contexts."
+  "context": "The Estonian word 'palu' is a form of the verb 'paluma' (to ask/request/beg) and appears in various forms depending on context. In these examples, 'palun' means 'please', 'palume' means 'we ask/request', and 'paluda' means 'could you please'. It's commonly used to make polite requests or show politeness when asking for something."
 }

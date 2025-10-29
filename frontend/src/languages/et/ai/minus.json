@@ -1,16 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Ma teen seda minus soovi kohaselt.",
-    "Toode on saadaval ainult interneti liidese kaudu koos vajaliku minus toega.",
-    "Kui sul on minus sümboolne väärtus arvutuses, siis pead lisama märki '-'.",
-    "Ta lubas aidata mulle ilma midagi eest maksmata - see tähendab, et tegelesin kogu tööga eneseheadusest.",
-    "Mäletan alati oma vanude nõu antud minus sõnade kaudu."
+    "Minus on meie lapse nimi.",
+    "Mis on minus?",
+    "Minu laps on minus."
   ],
   "translation": [
-    "minus",
-    "without"
+    "my child",
+    "my kid",
+    "my son/daughter"
   ],
-  "context": "'Minus' in Estonian is primarily used as a preposition meaning 'without'. It can also be used in mathematical contexts to denote the negative sign or subtraction operation. Additionally, it might function as an adverbial particle indicating absence or negation."
+  "context": "In Estonian, 'minus' is a colloquial or informal term meaning 'my child' or 'my kid'. It's often used in speech when referring to one's own child, similar to how English speakers might say 'mine' when talking about their children. The word can be used for both sons and daughters regardless of gender."
 }

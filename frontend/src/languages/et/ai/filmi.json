@@ -1,14 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma vaatan filmi.",
-    "Filmi pealkiri on \"Koidula\".",
-    "See on hea film."
+    "Ta on filmi näitleja.",
+    "Me vaatame filmi hommikul.",
+    "Filmi tegemine on raske töö."
   ],
   "translation": [
     "movie",
     "film"
   ],
-  "context": "The word 'filmi' is the genitive form of the Estonian word for movie or film, and it is commonly used to refer to a motion picture or a cinematic work."
+  "context": "The Estonian word 'filmi' is the partitive case form of the noun 'film', meaning 'a movie' or 'a film'. In Estonian, nouns change their endings depending on grammatical case. The partitive case (-i ending) is used when referring to an indefinite amount of something, when talking about a portion of something, or in certain other grammatical contexts. It's commonly used with verbs like 'to watch' (vaatama), 'to see' (nägema), 'to make' (tegema), etc."
 }

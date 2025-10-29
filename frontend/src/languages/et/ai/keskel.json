@@ -1,15 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta elab keskel linna.",
-    "Hotell asub keskel vanalinna.",
-    "Keskel ööd on väga vaikne."
+    "Me oleme keskel linnas.",
+    "Ta elab keskel metsa.",
+    "Lähme keskel aeda."
   ],
   "translation": [
-    "in the middle",
-    "middle",
-    "center"
+    "in the middle of",
+    "in the center of",
+    "among"
   ],
-  "context": "The word 'keskel' in Estonian means in or at the center or middle of something, often referring to a physical location."
+  "context": "The Estonian word 'keskel' is an adverb that means 'in the middle of' or 'in the center of'. It indicates location within a surrounding area or space. This word doesn't change form based on gender or number, as it's an adverb rather than a noun or adjective."
 }

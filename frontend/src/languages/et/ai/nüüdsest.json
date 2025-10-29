@@ -1,12 +1,14 @@
 {
-  "confidence": 0.85,
   "understood": true,
   "sentences": [
-    "Ma teen nüüdsest alates midagi erilist."
+    "Nüüdsest peavad kõik toimetajad oma tööd kontrollima.",
+    "Alates nüüdsest on meil uus reegel.",
+    "Ta muutus nüüdsest palju vastutustundlikumaks."
   ],
   "translation": [
-    "since now",
-    "from now on"
+    "from now on",
+    "henceforth",
+    "starting now"
   ],
-  "context": "This word is used to indicate that something will happen or has happened from the current moment onward."
+  "context": "The Estonian word 'nüüdsest' is an adverb that means 'from now on' or 'beginning at this present time'. It's formed from the root word 'nüüd' meaning 'now' with the suffix '-sest' which indicates a temporal starting point. This word is used to indicate that something will change or apply beginning immediately from the current moment onward."
 }

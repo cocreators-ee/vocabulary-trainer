@@ -1,16 +1,15 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ta ütles mulle, et ta on õnnelik.",
-    "Sa ei saa seda öelda kellelegi!",
-    "Mis sa selle kohta ütled?"
+    "Tema said midagi huvitavat.",
+    "Selles said on kaks tuba.",
+    "Kas sa said sellest aru?"
   ],
   "translation": [
+    "said (from öelda)",
+    "told",
     "said",
-    "stated",
-    "mentioned",
-    "told"
+    "room"
   ],
-  "context": "The Estonian word 'ütles' is the past tense of the verb 'ütlema', meaning 'to say'. It’s commonly used to report what someone has said, similar to the English words ‘said’, ‘stated’, or ‘told’. It indicates a completed action of speaking."
+  "context": "In Estonian, 'said' is the past tense form of the verb 'öelda' meaning 'to say'. It's used to indicate that someone spoke or said something in the past. The word can also appear as part of compound words with different meanings - for example, in 'sais', it means room (as in a building), and in 'saia', it relates to bread/cake."
 }

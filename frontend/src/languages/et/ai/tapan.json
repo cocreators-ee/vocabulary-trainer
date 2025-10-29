@@ -1,15 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Tapan teda, et teha seda mitte.",
-    "Ta väitis, et ta tõesti tapas mehe mullu novembris.",
-    "Miks sa mind nii kord tapad?"
+    "Tapan uks.",
+    "Tapan aega.",
+    "Ta tappis kaksikõd."
   ],
   "translation": [
-    "kill",
-    "I killed you",
-    "you killed"
+    "I cover",
+    "I end/close",
+    "I finish"
   ],
-  "context": "The word 'tapan' in Estonian means to kill. It is commonly used as a verb in sentences where someone causes the death of another person or thing."
+  "context": "The word 'tapan' is the 1st person singular present indicative form of the Estonian verb 'tappa'. It means to cover, close, or finish/end something. In different contexts it can refer to covering a container with a lid, closing a door/window, or finishing completing a task or time period."
 }

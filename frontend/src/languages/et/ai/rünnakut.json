@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Rünnakut tuleb oodata.",
-    "Ta osaleb rünnakutel.",
-    "Rünnakute ajal peab olema ettevaatlik."
+    "Sellel rünnakul hukkus kümme inimest.",
+    "Vasturünnakud on vajalikud kaitsmiseks.",
+    "Kaitserünnak võib olla edukam kui puhas kaitse."
   ],
   "translation": [
-    "attacks",
-    "assaults"
+    "attack",
+    "assault",
+    "raid"
   ],
-  "context": "The word \"rünnakut\" is the plural form of the Estonian word \"rünnak\", which refers to an attack or assault, and is commonly used in military or aggressive contexts."
+  "context": "The word 'rünnakut' is the partitive case form of 'rünnak', which means 'attack'. In Estonian, the partitive case (-t ending) is used to indicate an incomplete action or the object being acted upon. So 'rünnakut' specifically refers to 'an attack' or 'attacks' as the direct object of a verb. It's commonly used in military contexts but can also refer to verbal attacks or other forms of aggression."
 }

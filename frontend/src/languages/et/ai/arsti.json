@@ -1,15 +1,13 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Arstid on hoidnud mind terveks",
-    "Ta on hea arst",
-    "Arstiabi on vajalik"
+    "Ma lähen arsti juurde.",
+    "Arst vaatas patsienti.",
+    "Kes on sinu arsti?"
   ],
   "translation": [
     "doctor",
-    "physician",
-    "medical doctor"
+    "physician"
   ],
-  "context": "The word 'arsti' refers to a medical professional who diagnoses and treats patients, often used in Estonian to address or refer to someone with a medical degree."
+  "context": "\"Arsti\" is the genitive singular form of the Estonian word \"arst\", which means \"doctor\" or \"physician\". In Estonian grammar, the genitive case typically indicates possession or relationship, so \"arsti\" can mean \"of a doctor,\" \"to a doctor,\" or \"from a doctor\" depending on the context. It's commonly used when saying you're going to see a doctor, referring to something belonging to a doctor, or indicating movement toward/from a doctor."
 }

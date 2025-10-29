@@ -1,13 +1,13 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
-    "Ma olen vampiir.",
-    "Ta on vampiiri filmis.",
-    "Vampiirid elavad öösi."
+    "Vampiirid on müstilised olendid.",
+    "Klassikaline vampiir kartab päikest.",
+    "Tegelik vampiir ei näe peeglist enda peegelpilti."
   ],
   "translation": [
-    "vampire"
+    "vampire",
+    "bloodsucker"
   ],
-  "context": "The word vampiir refers to a mythical creature that feeds on the blood of the living, often used in fiction and folklore."
+  "context": "The Estonian word 'vampiir' refers to a supernatural being that drinks blood, similar to the English concept of a vampire. It's used in folklore, literature, and popular culture to describe these mythical creatures that are often depicted as pale, immortal beings with fangs who feed on human blood."
 }

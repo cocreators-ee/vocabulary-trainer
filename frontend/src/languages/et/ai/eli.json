@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma olen eli.",
-    "Eli on hea mees.",
-    "Ta elab üksi."
+    "Eli oli õnnelik päev.",
+    "Minu nimi on Eli.",
+    "Tuli ja eli kodus."
   ],
   "translation": [
-    "is",
-    "lives"
+    "lived (past tense)",
+    "was alive (past tense)",
+    "existed"
   ],
-  "context": "The word 'eli' is a verb in Estonian that means to live or to reside, it is commonly used to describe someone's place of residence or their state of being alive."
+  "context": "The word 'eli' is the past tense form of the Estonian verb 'elama', which means 'to live' or 'to exist'. It's commonly used to describe what someone did in the past, similar to 'lived' or 'was alive' in English. In first person singular contexts, it can also be a given name."
 }

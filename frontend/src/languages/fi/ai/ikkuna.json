@@ -1,13 +1,14 @@
 {
-  "confidence": 0.9,
   "understood": true,
   "sentences": [
     "Ikkuna on auki.",
-    "Ikkunat ovat kiinni.",
-    "Tämä huoneessa on neljä ikkunaa."
+    "Katso ikkunasta ulos.",
+    "Sulje ikkuna, oletko nähnyt kissan?"
   ],
   "translation": [
-    "window"
+    "window",
+    "opening",
+    "aperture"
   ],
-  "context": "The word ikkuna refers to an opening in a building or vehicle for letting in light and air, typically fitted with glass."
+  "context": "The Finnish word 'ikkuna' primarily means window. It can refer to the glass opening in a wall that allows light and air to enter, or more broadly to any kind of opening or aperture. In its basic form, 'ikkuna' is an object noun that follows standard Finnish grammar rules for nouns."
 }

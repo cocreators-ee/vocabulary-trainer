@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ma tunneme seda.",
-    "Ta tunneb mind.",
-    "Nad tunnevad üksteist."
+    "Me tunneme head meeleolu.",
+    "Tunnemist on vaja selles olukorras.",
+    "Nad tunnevad kõike kaasa."
   ],
   "translation": [
-    "recognize",
-    "know"
+    "we feel",
+    "we sense",
+    "we perceive"
   ],
-  "context": "The word 'tunneme' is a verb in Estonian that means to recognize or know someone or something, and it is commonly used in sentences to express familiarity or understanding."
+  "context": "The Estonian word 'tunneme' is the 1st person plural present indicative form of the verb 'tundma', which means 'to feel', 'to sense', or 'to perceive'. It indicates that a group (including the speaker) currently experiences or senses something. The word derives from the Proto-Finnic root *tunne- meaning 'feeling' or 'sensation'. In Estonian grammar, this form follows the typical verb conjugation pattern for 1st person plural present tense verbs ending in -me."
 }

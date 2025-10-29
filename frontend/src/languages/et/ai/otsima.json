@@ -1,15 +1,14 @@
 {
-  "confidence": 0.95,
   "understood": true,
   "sentences": [
-    "Ma otsisin sind terves päeva.",
-    "Ta on pidevalt uut tööd otsima.",
-    "Politsei otsib tunnistajaid."
+    "Ma otsin oma võtmeid.",
+    "Kas sa otsid midagi?",
+    "Me otsisime head restorani."
   ],
   "translation": [
-    "searching",
-    "looking for",
-    "seeking"
+    "to look for",
+    "to search",
+    "to seek"
   ],
-  "context": "The word 'otsima' in Estonian means 'to search' or 'to look for' something. It is a very common verb used to indicate the act of trying to find someone or something, or seeking information."
+  "context": "The Estonian verb 'otsima' means to look for, search, or seek something. It is used when you are trying to find a person, object, place, or information. For example: 'Ma otsin oma võtmeid' (I am looking for my keys), 'Kas sa otsid midagi?' (Are you looking for something?), 'Me otsisime head restorani' (We were looking for a good restaurant)."
 }

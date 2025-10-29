@@ -1,13 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Jumal on hea.",
-    "Ma usun jumalat.",
-    "Jumal aitab meid."
+    "Jumal on olemas.",
+    "Kõik usuvad jumalasse.",
+    "Me palume Jumalt abi."
   ],
   "translation": [
-    "God"
+    "God",
+    "deity",
+    "divine being"
   ],
-  "context": "The word 'jumal' is commonly used in Estonian to refer to God or a higher power, and it can be found in various contexts, including religious and philosophical discussions."
+  "context": "The word 'jumal' in Estonian refers to God, deity, or a divine being. It is the singular form of the noun and represents a supreme power or spiritual entity that people may worship or believe in. In religious contexts, it can refer specifically to the Christian God, but can also be used more generally for any god-like figure or supernatural being."
 }

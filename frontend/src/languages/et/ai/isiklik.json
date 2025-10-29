@@ -1,14 +1,14 @@
 {
-  "confidence": 0.8,
   "understood": true,
   "sentences": [
-    "Ta on väga isiklik inimene.",
-    "Isiklik areng on tema elu peamine eesmärk.",
-    "Isiklike küsimustega tegeleb psühholoog."
+    "See on isiklik asi.",
+    "Tema on väga isiklikult seotud selle projektiga.",
+    "Ma soovin rääkida isiklikult."
   ],
   "translation": [
     "personal",
-    "private"
+    "private",
+    "individual"
   ],
-  "context": "The word 'isiklik' in Estonian generally refers to something that is related to or characteristic of a particular person, often implying a sense of privacy or individuality."
+  "context": "The Estonian word 'isiklik' means personal, private, or individual. It's an adjective that describes something related to a specific person rather than being general or public. The word comes from 'isik' which means 'person'. In Estonian adjectives need to agree in number and case with the noun they modify, so you might see forms like 'isikliku' (genitive singular) depending on context."
 }
