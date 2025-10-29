@@ -1,0 +1,1 @@
+const t=!0,e=["Tule minu juurde siin.","Siin on meie kodu.","Kuidas sa siin elad?"],n=["here"],s="The Estonian word 'siin' means 'here' in English. It is used to indicate location or presence at a particular place near the speaker.",i={understood:!0,sentences:e,translation:n,context:s};export{s as context,i as default,e as sentences,n as translation,t as understood};

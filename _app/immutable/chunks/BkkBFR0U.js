@@ -1,0 +1,1 @@
+const r=!0,e=["Yorgi sõitis Tallinna.","Tere tulemast, Yorgi!","Yorgi on hea mees."],o=["George","Jörg"],n="Yorgi is a proper name in Estonian, likely derived from the international names George or Jörg. It's used as a personal name for males.",s={understood:!0,sentences:e,translation:o,context:n};export{n as context,s as default,e as sentences,o as translation,r as understood};
