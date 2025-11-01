@@ -3,6 +3,7 @@ from time import perf_counter
 from rich import print
 
 from data_processing.ai import get_ai_analyze_agent, has_good_analysis
+from data_processing.dictionary import get_word_definitions
 from data_processing.settings import conf
 from data_processing.utils import list_words
 
@@ -21,8 +22,8 @@ def main():
             for word in list_words(language_id):
                 start = perf_counter()
                 print(f"{word} ", end="")
-
-                valid = has_good_analysis(language_id, word, agent)
+                definitions = get_word_definitions(word, language_id)
+                valid = has_good_analysis(language_id, word, definitions, agent)
                 elapsed = perf_counter() - start
 
                 if valid:

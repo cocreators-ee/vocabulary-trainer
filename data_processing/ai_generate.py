@@ -10,6 +10,7 @@ from data_processing.ai import (
     get_ai_generate_agent,
     has_good_analysis, get_word_data,
 )
+from data_processing.dictionary import get_word_definitions
 from data_processing.settings import LANGUAGES_DST, conf
 from data_processing.utils import GenerateResponse, list_words
 
@@ -87,6 +88,7 @@ def main():
                 word_progress.set_description(f"{word:<24}")
                 reprocessing = False
                 total_words += 1
+                definitions = get_word_definitions(word, language_id)
 
                 while True:
                     try:
@@ -95,6 +97,7 @@ def main():
                             "source_language": language,
                             "source_language_id": language_id,
                             word_prop: word,
+                            "dictionary_definitions": definitions
                         }
 
                         prompt = format_as_xml(request, root_tag="user")
@@ -109,7 +112,7 @@ def main():
                                 if verbose:
                                     print("... exists")
                                 break
-                            elif has_good_analysis(language_id, word, analysis_agent):
+                            elif has_good_analysis(language_id, word, definitions, analysis_agent):
                                 if verbose:
                                     print("... good enough")
                                 break

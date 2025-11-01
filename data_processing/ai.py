@@ -24,6 +24,7 @@ IMPORTANT:
 - You should explain the obvious components of the words, like when "ga" is used in Estonian word "õunaga" for "with", or how "mme" in the Finnish word "juhlamme" means "our". Make sure you consider when the word is e.g. in plural form and include an explanation of that and what it means for the analysis.
 - Use full and complete sentences in English for your responses, without placeholders, ellipsis or similar to indicate missing information.
 - You may be provided the result of previous analysis to consider when making your suggestion. They may help you understand the word in context, however they are not always correct so make sure to consider the validity of the previous translation attempt.
+- You will be provided dictionary definitions when available, you should strongly consider them.
 """
 
 ANALYZE_PROMPT = """
@@ -32,6 +33,8 @@ I have a list of words provided in a given source language. Each of those words 
 Please analyze the answer, and confirm if it has correctly identified the source language of the word as the given language, and provided relevant and valid answers to that word. Confirm the source word is used in the exact form given in at least one of the example sentences.
 
 We want to identify words which have a significantly invalid translation, examples, or context provided so we can re-process them. The data is used for educational purposes so it is important that you do not make mistakes, and will flag all invalid information.
+
+You will be provided dictionary definitions when available, you should strongly consider them when evaluating the answer.
 """
 
 
@@ -70,7 +73,7 @@ def is_word_defined(language_id: str, word: str) -> bool:
     return result_file.exists()
 
 
-def has_good_analysis(language_id: str, word: str, agent: Agent) -> bool:
+def has_good_analysis(language_id: str, word: str, definitions: dict, agent: Agent) -> bool:
     while True:
         try:
             if not is_word_defined(language_id, word):
