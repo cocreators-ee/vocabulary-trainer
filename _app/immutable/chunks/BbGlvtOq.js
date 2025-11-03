@@ -1,0 +1,1 @@
+const a=!0,e=["Muidugi teada!","Teda ei teada kuskilt.","Teada on et see on keeruline."],o=["of course","obviously","naturally","clearly"],t="The word 'teada' in Estonian is an adverb meaning 'of course', 'obviousl",n={understood:!0,sentences:e,translation:o,context:t};export{t as context,n as default,e as sentences,o as translation,a as understood};
