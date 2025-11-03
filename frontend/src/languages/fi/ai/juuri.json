@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Olen juuri saapunut kotiin.",
-    "Hän kirjoitti juuri viestinsä valmiiksi.",
-    "Juuri nyt tuli muistutus."
+    "Puu kasvaa juuri maassa.",
+    "Hänen hiusjuurensa ovat vahvat.",
+    "Juna lähtee juuri nyt."
   ],
   "translation": [
-    "just",
-    "exactly",
-    "precisely",
-    "right"
+    "root",
+    "base",
+    "origin",
+    "cause"
   ],
-  "context": "In Finnish, 'juuri' is an adverb that indicates exact timing or precise location. It functions similarly to English words like 'just', 'exactly', or 'precisely'. In its basic form, it can indicate something happening at this very moment (similar to 'just now'), being in the exact right place, or referring to something specific without approximation. The word doesn't change form as an adverb and maintains its meaning regardless of context."
+  "context": "The word 'juuri' in Finnish has multiple meanings, including root (of a plant), base, cause or origin. It can also refer to the mathematical concept of a root. The word declines depending on its grammatical case and number. For example, 'juuren' is the genitive singular form meaning 'of the root', while 'juuret' is the nominative plural meaning 'roots'. As an adverb it means 'just now' or 'exactly'."
 }

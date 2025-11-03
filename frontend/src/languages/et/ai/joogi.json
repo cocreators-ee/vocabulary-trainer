@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma ostsin uue joogi.",
-    "See on hea joogi hommikuti.",
-    "Joogi on külm."
+    "Tema on joogi.",
+    "Joogi peab olema pädev.",
+    "Kas sa oled see joogi?"
   ],
   "translation": [
-    "drink",
-    "beverage"
+    "a person who drinks",
+    "drinker",
+    "beverage user"
   ],
-  "context": "The Estonian word 'joogi' is the partitive form of the noun 'jook', which means 'drink' or 'beverage'. It's used when referring to an unspecified amount of a drink, or when talking about drinks in general. In English, it would correspond to saying 'some drink', 'a bit of drink', or simply referring to beverages in general."
+  "context": "The word 'joogi' is the genitive singular form of the Estonian noun 'jook', which means 'drink' or 'beverage'. As a genitive form, it indicates possession or relationship - so 'joogi' specifically means 'of a drink' or 'belonging to a drink'. However, based on the dictionary definition that mentions 'filos joogat rakendav isik' (a person who applies philosophy), and given its structure as a genitive form ending in '-i', it can also be interpreted as meaning 'of a drinker' - referring to someone associated with drinking or beverages. This form would typically modify another noun, such as 'joogi olemus' (the nature of a drink) or could be used adjectivally."
 }

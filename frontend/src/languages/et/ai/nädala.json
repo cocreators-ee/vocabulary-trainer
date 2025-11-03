@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Nädal algab esmaspäeval.",
-    "See on hea nädala.",
-    "Kas sa tead mis nädalal me oleme?"
+    "Esmaspäeva hommikul, õhtul.",
+    "Iga kuu esimene esmaspäev.",
+    "Vaba esmaspäev.",
+    "Jõuan Tallinna tagasi tuleval esmaspäeval."
   ],
   "translation": [
-    "week",
-    "weekly"
+    "Monday",
+    "first day of the week"
   ],
-  "context": "The word 'nädala' is the partitive case form of the Estonian noun 'nädal', which means 'week'. In Estonian, the partitive case is used to indicate partialness or indefiniteness. So 'nädala' can mean '(of) a week', 'some weeks', or be used in various contexts where the partitive case is required grammatically."
+  "context": "In Estonian, 'esmaspäev' literally means 'first day'. It refers to Monday, which is considered the first day of the workweek in Estonia and many other cultures. The word combines 'esimene' (first) with 'päev' (day). This term is commonly used when referring to schedules, workweeks, or planning activities that happen on Mondays."
 }

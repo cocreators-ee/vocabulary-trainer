@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Löytykö avaimet?",
-    "Minun lompakkoni löytyi takaa.",
-    "Puhelimeni ei löytynyt."
+    "Häneltä löytyi avain.",
+    "Kirja löytyi hyllystä.",
+    "Kadonneet lelut löytyivät lopulta."
   ],
   "translation": [
-    "found",
     "was found",
-    "located"
+    "found",
+    "discovered"
   ],
-  "context": "The word 'löytyi' is the past tense form of the Finnish verb 'löytää', which means 'to find'. It's commonly used when something has been discovered or located. This is a partitive singular form that indicates the action was completed in the past and the object was found."
+  "context": "The word 'löytyi' is the third-person singular past indicative form of the verb 'löytyä', which means 'to be found'. It translates to 'was found' or simply 'found' in English. The sentence structure indicates that something was discovered or located, and this form specifically refers to a single object being found."
 }

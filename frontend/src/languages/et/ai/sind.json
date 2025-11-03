@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ma nägin sind eile",
-    "Kas sa tunned sind hästi?",
-    "Sind vajab abi"
+    "Ma olen näinud sind eile",
+    "Kus sa oled? Ma ei tea, kuhu sind viidi",
+    "Kes on see, kes sind aitas?"
   ],
   "translation": [
-    "you (singular)",
-    "yourself",
-    "to you"
+    "you (singular object)",
+    "yourself (singular object)"
   ],
-  "context": "'Sind' is the Estonian accusative case form of 'sina', which means 'you'. It's used when the person being addressed is the direct object of a verb, meaning they are receiving the action directly. In English, this corresponds to 'you' as in 'I see you' or 'yourself'. This form is specifically for singular address."
+  "context": "'Sind' is the Estonian partitive singular form of the pronoun 'sina', which means 'you'. It is used as an object in sentences when referring to 'you' in the singular case. This is the accusative/partitive form that follows verbs like nägema (to see), teadma (to know), or aitama (to help)."
 }

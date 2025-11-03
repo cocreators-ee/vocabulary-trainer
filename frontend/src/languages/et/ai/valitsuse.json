@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Eesti valitsuse koosseis muutub sageli.",
-    "Meie arvamus on sama mis valitsuse oma.",
-    "Kas teate, kes kuulub praegusse valitsusesse?"
+    "Töötasu ei tohi olla alampalgast väiksem",
+    "Alampalk tõuseb, suureneb, väheneb mitmesaja krooni võrra",
+    "Talle makstakse, ta saab alampalka"
   ],
   "translation": [
-    "government's",
-    "of the government"
+    "minimum wage",
+    "lowest salary",
+    "base pay"
   ],
-  "context": "The word 'valitsuse' is the genitive singular form of the Estonian noun 'valitsus', which means 'government'. In this form, it indicates possession or association with the government, functioning similarly to the English possessive 's construction. It's commonly used when referring to actions, decisions, opinions belonging to or associated with a particular government."
+  "context": "The word 'valitsuse' is the genitive singular form of 'valitsus', which means 'government'. In this context from dictionary definitions, it appears to be referring to a minimum wage or lowest salary established by the government. The Estonian phrase 'kinnitatud palga alammäär, miinimumpalk' translates to 'approved salary lower limit, minimum wage', suggesting that 'valitsuse' here indicates something set or approved by the government."
 }

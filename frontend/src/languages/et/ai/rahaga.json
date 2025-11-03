@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta ostis raamatu rahaga.",
-    "Mul on piisavalt raha selleks.",
-    "Tema sai palju raha kingituseks."
+    "Teed lagunevad, sest maanteede ehitust alarahastatakse.",
+    "Alarahastatud tervishoiusüsteem on mure allikas.",
+    "Koolid ja kultuur vajavad rohkem raha, et mitte olla alarahastatud."
   ],
   "translation": [
-    "with money",
-    "using money"
+    "underfunded",
+    "poorly financed",
+    "insufficiently funded"
   ],
-  "context": "The word 'rahaga' is the Estonian instrumental case form of 'raha' (money), meaning 'with money' or 'using money'. It indicates that money is being used as a tool or instrument to perform an action. This grammatical case shows how something is used or by means of which something is done."
+  "context": "The word 'alahastatakse' is the 3rd person singular present form of the verb 'alarahastama', which means 'to underfund'. It refers to providing insufficient financial resources for something, typically public services like infrastructure, healthcare, education, or cultural institutions. When something is alarahastatud (underfunded), it lacks adequate funding to function properly, leading to problems such as deteriorating roads, inadequate healthcare systems, or struggling educational and cultural organizations."
 }

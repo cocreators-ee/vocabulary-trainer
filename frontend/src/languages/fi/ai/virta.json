@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Virtaa jokeen.",
-    "Joki virtaa pohjoiseen.",
-    "Sähkövirta on heikko."
+    "Kaasun virta pysähtyi putkistossa.",
+    "Soudimme veneellä virtaa ylöspäin.",
+    "Pattereista loppui virta."
   ],
   "translation": [
     "flow",
-    "current (of water/electricity)",
-    "stream"
+    "stream",
+    "current"
   ],
-  "context": "The Finnish word 'virta' means flow or current and is commonly used to describe the movement of liquids like rivers flowing, or electricity in electrical circuits. It can refer to both natural flows of water and artificial flows of electricity."
+  "context": "The Finnish word 'virta' can be translated to 'flow', 'stream', or 'current' in English. It refers to the movement of liquids, gases, or electricity. The word has multiple forms depending on grammatical case; for example, 'virran' is the genitive form meaning 'of the flow'.  It can also refer to a river, an electric current, or even energy/power in an informal sense. The plural form is 'virrat'."
 }

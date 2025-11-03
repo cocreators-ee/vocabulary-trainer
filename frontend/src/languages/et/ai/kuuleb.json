@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ei ole kuuleb.",
-    "Ta kuuleb hästi.",
-    "Me kuuleme alati."
+    "Tuleb kuuleb hästi.",
+    "Ta kuuleb kõik märkused.",
+    "Mees kuuleb rääkimist."
   ],
   "translation": [
     "hears",
-    "listens",
-    "is hearing"
+    "listens"
   ],
-  "context": "The word 'kuuleb' is the third person singular present form of the verb 'kuulama', which means 'to hear' or 'to listen'. In Estonian, '-b' suffix indicates third person singular (he/she/it) present tense. This form specifically refers to what someone hears or listens to in the current moment."
+  "context": "The word 'kuuleb' is the 3rd person singular present tense form of the Estonian verb 'kuulama', which means 'to hear' or 'to listen'. It indicates that someone (singular, he/she/it) currently hears or listens to something. This form agrees with a masculine or feminine third-person subject and follows regular Estonian conjugation patterns."
 }

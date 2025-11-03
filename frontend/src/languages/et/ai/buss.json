@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Buss sõidab mööda peatust.",
-    "Olen ootamas bussi number 5.",
-    "Bussid käivad kaks korda tunnis."
+    "Suured, uued, mugavad bussid.",
+    "Millal esimene, viimane, järgmine buss väljub, saabub?",
+    "Sõida viienda (liini) bussiga Kelluka peatusse."
   ],
   "translation": [
-    "bus"
+    "bus",
+    "coach",
+    "motor coach"
   ],
-  "context": "The Estonian word 'buss' means 'bus' in English. It is a masculine noun in Estonian that refers to a large motor vehicle designed to carry passengers, typically along a fixed route. The word follows standard Estonian grammar patterns for nouns and can be declined in various cases (nominative, genitive, partitive, etc.) depending on its function in the sentence."
+  "context": "The word 'buss' is an Estonian noun meaning a large motor vehicle designed for carrying passengers. It's the equivalent of English 'bus'. The dictionary shows it's derived from 'autobuss' and follows regular Estonian declension patterns with various grammatical cases. In everyday usage, it refers to public transportation vehicles like city buses, coaches, and other passenger transport vehicles."
 }

@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Mis te arvate sellest?",
-    "Kas sa arvad, et see on hea idee?",
-    "Naised arvavad erinevalt meestest."
+    "\"Mis sa sellest ettepanekust arvate?\"",
+    "\"Kuidas prouad ja preilid arvavad?\"",
+    "\"Arvatakse, et ta hukkus.\""
   ],
   "translation": [
     "think",
     "believe",
-    "suppose"
+    "suppose",
+    "guess",
+    "assume"
   ],
-  "context": "The word 'arvate' is the 2nd person plural form of the Estonian verb 'arvama', which means to think, believe, or suppose. It's used when addressing multiple people (you/think). In English, this would correspond to 'you all think' or 'y'all think'. The root word 'arva-' is related to thinking and forming opinions."
+  "context": "The word 'arvate' is the second-person plural present indicative form of the Estonian verb 'arvama'. It means to think, believe, suppose, guess or assume something that may not be completely certain. This form addresses a group of people (you/they) and is used when asking for opinions, expressing thoughts, or making assumptions about situations, events, or other people's views."
 }

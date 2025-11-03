@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Lennujaamas olen viimastel aastatel palju käinud.",
-    "Meie lennujaama läheduses on hea restoran.",
-    "Kõik reisijad peavad saabuma lennujaama kolm tundi enne lennuki starti."
+    "Lennujaamas avati uus terminal.",
+    "Reisisadama terminalid.",
+    "Kasutaja on terminali kaudu ühenduses keskarvuti või arvutivõrguga."
   ],
   "translation": [
-    "airport",
-    "air terminal"
+    "terminal",
+    "airport terminal"
   ],
-  "context": "The word 'lennujaama' is the partitive form of 'lennujaam', which means 'airport'. In Estonian, the partitive case is used to indicate partialness or limitation. The word combines 'lennu-' (from 'lend' meaning flight) and '-jaama' (meaning station), so literally it translates to 'flight station'. It refers specifically to an airport facility where flights operate."
+  "context": "The word 'lennujaama' in Estonian refers to an airport terminal, which is a specific building or facility at an airport where passengers check in for flights, go through security, and wait for their flights. It can also more broadly refer to any terminal or endpoint device connected to a computer system."
 }

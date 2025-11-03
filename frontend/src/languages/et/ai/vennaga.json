@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ma sõitsin vennaga poodi.",
-    "Tema elab oma venna lähedal.",
-    "Me käisime koos vennaga kinno."
+    "Esinen vennaga teatris.",
+    "Sõidame vennaga suvepuhkuseks.",
+    "Tegin koostööd vennaga projektis."
   ],
   "translation": [
-    "with my brother",
-    "with the brother"
+    "with brother",
+    "along with brother"
   ],
-  "context": "The Estonian word 'vennaga' is a combination of 'vend' (brother) and the adessive case ending '-ga', which means 'with'. It specifically indicates accompaniment or association with a brother. The adessive case in Estonian is used to show that something is done together with someone or something."
+  "context": "The word 'vennaga' is the comitative case form of 'vend' (brother) in Estonian. It means 'with brother' or 'along with brother', indicating accompaniment. The '-ga' suffix specifically indicates the comitative case, which shows that something is done together with someone or something."
 }

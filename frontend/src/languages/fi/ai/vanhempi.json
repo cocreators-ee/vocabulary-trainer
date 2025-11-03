@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minun vanhemmat ovat lääkärejä.",
-    "Hän on vanhempi kuin minä.",
-    "Vanhemmat lapset saavat enemmän vastuuta."
+    "Isä on vanhempi kuin äiti.",
+    "Hän on vanhempi veli.",
+    "Vanhemmat ovat huolissaan lapsistaan."
   ],
   "translation": [
-    "elder",
     "older",
-    "parents",
-    "senior"
+    "senior",
+    "parent"
   ],
-  "context": "The Finnish word 'vanhempi' has multiple related meanings depending on context. It can mean 'elder' or 'older' when referring to age comparison (comparative form of 'vanha' meaning old). When used in the plural form 'vanhemmat', it specifically means 'parents'. The comparative form is used for older siblings, family members, or people with more seniority or experience."
+  "context": "The word 'vanhempi' is a comparative adjective meaning 'older' or 'senior'. It can also refer to a parent. The word declines based on case and number, as shown in the dictionary definition. For example, 'vanhempani' means 'my parents', while 'vanhempaa' is the partitive singular form."
 }

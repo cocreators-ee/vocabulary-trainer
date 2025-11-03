@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Me arvame, et see on õige",
-    "Nad arvavad alati kõiki",
-    "Arvame, et peaksime minema"
+    "Me arvame, et see on õige vastus.",
+    "Kuidas te arvate selle kohta?",
+    "Nad ei arva, et see töötab."
   ],
   "translation": [
-    "think",
-    "believe",
-    "count",
-    "reckon"
+    "we think",
+    "we believe",
+    "we consider"
   ],
-  "context": "The Estonian word 'arvame' is the first-person plural present indicative form of the verb 'arvama', which means 'to think', 'to believe', or 'to count/reckon'. In English, it translates to 'we think', 'we believe', or 'we count'. This is a common way Estonians express their opinions or make calculations in group contexts."
+  "context": "The word 'arvame' is the first-person plural present indicative form of the Estonian verb 'arvama', meaning 'to think', 'to believe', or 'to consider'. It is used when the speaker includes themselves and others in expressing an opinion or belief. In English, this would correspond to 'we think', 'we believe', or 'we consider'."
 }

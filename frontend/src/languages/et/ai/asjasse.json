@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Ta on asjasse segatud.",
-    "Ei ole mind asjasse seotud.",
-    "Asjasse ei puutu."
+    "Tahteline, impulsiivne, vaistlik akt.",
+    "Kontrollkomisjoni aktis oli märgitud mitu olulist puudujääki.",
+    "Akti joonistama, maalima."
   ],
   "translation": [
-    "involved",
-    "concerned",
-    "related"
+    "act",
+    "action",
+    "document",
+    "legal instrument",
+    "statutory instrument"
   ],
-  "context": "The word 'asjasse' is the illative case of the Estonian noun 'asi', meaning 'thing' or 'matter'. In the illative case, it functions as an adverbial expression indicating involvement in something. It's commonly used to express being involved in matters, concerned with issues, or related to affairs."
+  "context": "The Estonian word 'akt' has multiple meanings depending on context: 1) An action or deed (military, political, intentional, etc.); 2) A legal document that fixes a juridical fact; 3) A file or folder containing documents related to a particular matter; 4) In art, a depiction of the nude human figure; 5) Historically/literarily, an act (as in a play). The word can refer to both concrete actions and formal documents recording those actions."
 }

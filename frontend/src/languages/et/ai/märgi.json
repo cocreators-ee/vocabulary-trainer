@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "See on märgi kõik oma nimekirja.",
-    "Kas sa oled unustanud märgi?",
-    "Me peame leidma märgi järgmiseks kohtumisele."
+    "Hirve laskmine on spordiala, mille puhul lastakse elusuuruse hirve kujutisega liikuva märgi pihta.",
+    "Sportlased treenivad täpselt sihtima liikuvale märgile.",
+    "Märk peab olema piisavalt suur, et laskja saaks selle tabada."
   ],
   "translation": [
-    "sign",
+    "target",
     "mark",
-    "signature",
-    "token"
+    "bullseye"
   ],
-  "context": "The Estonian word 'märgi' is the partitive form of 'märk', which means 'sign', 'mark', or 'signature'. In this case, it indicates that some portion of a sign/mark/signature/token is being referred to. The partitive case is used when talking about an indefinite quantity or part of something."
+  "context": "The word 'märgi' is the partitive form of 'märk' in Estonian. In this context, it refers to a moving target that shooters aim at during sport shooting competitions, specifically in the moose hunting discipline where they shoot at targets depicting life-sized moose images."
 }

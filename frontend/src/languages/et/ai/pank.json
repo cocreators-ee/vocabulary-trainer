@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Pank asub kesklinnas.",
-    "Meie pank on avatud kell 9-17.",
-    "Ma läksin pangaga raha võtma."
+    "Panga peakontor, harukontorid.",
+    "Tal on mitu tuhat dollarit pangas.",
+    "Avas pangas arve."
   ],
   "translation": [
     "bank (financial institution)",
-    "bench"
+    "bank (building)",
+    "bankroll",
+    "money pot"
   ],
-  "context": "The Estonian word 'pank' has two main meanings. It can refer to a financial institution/bank where people keep money, or it can mean a bench/seating furniture. The meaning depends on the context in which it is used."
+  "context": "The Estonian word 'pank' has multiple meanings. Primarily, it refers to a financial institution that performs monetary operations like credit, deposits, payments, and currency exchange - similar to banks in English. It can also refer to the physical building where this institution operates. In gambling contexts, 'pank' means a financial bet made at the start of a game or the money pot being played for. The word comes from Swedish/Low German 'bank'. Its grammatical forms include pank (nominative), panga (genitive), and panka (partitive)."
 }

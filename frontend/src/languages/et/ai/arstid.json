@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Arstid on meie tervise eest vastutavad.",
-    "Need arstid tegutsesid professionaalselt.",
-    "Arstid vajavad pidevalt uuendama oma teadmisi."
+    "Arstid töötavad haiglates.",
+    "Kõik arstid said koolitust uute meetodite kohta.",
+    "Arstid on olulised inimeste tervise eest."
   ],
   "translation": [
     "doctors",
-    "physicians"
+    "physicians",
+    "medical practitioners"
   ],
-  "context": "The word 'arstid' is the plural form of the Estonian noun 'arst', which means doctor or physician. It refers to multiple medical professionals who are responsible for treating patients and maintaining health."
+  "context": "The word 'arstid' is the plural form of the Estonian noun 'arst', meaning 'doctor'. It refers to multiple doctors or physicians as a group. The suffix '-id' indicates plurality in Estonian, similar to how we add '-s' or '-es' in English to make nouns plural."
 }

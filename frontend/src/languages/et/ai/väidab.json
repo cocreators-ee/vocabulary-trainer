@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta väidab, et ta on õige.",
-    "Väidame, et meie projekt on parim.",
-    "Esimene kandidaat väidab oma kogemusi."
+    "Täna väidab ta, et on õige.",
+    "Ta alati väidab oma seisukohti.",
+    "Meie professor väidab, et see teooria on tähtis."
   ],
   "translation": [
     "claims",
     "states",
-    "asserts",
-    "declares"
+    "asserts"
   ],
-  "context": "The Estonian word 'väidab' is the third person singular form of the verb 'väitma', which means 'to claim', 'to state', 'to assert', or 'to declare'. It is used when someone makes a statement that they believe to be true, often without providing immediate proof. This form would be used with he/she/it as the subject in present tense."
+  "context": "\"Väidab\" is the 3rd person singular present tense form of the Estonian verb \"väitma\", which means to claim, state, or assert. It's used when someone makes a statement or declaration about something they believe to be true."
 }

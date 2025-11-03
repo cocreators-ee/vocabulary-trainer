@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on täydellinen muoto.",
-    "Tämä auto on upea muodoltaan.",
-    "Muuttakaa muotoja tarpeen mukaan."
+    "Hänellä on hyvä muoto.",
+    "Tämä savi on helppo muotoilla haluttuun muotoon.",
+    "Rakennuksen muoto on hyvin moderni."
   ],
   "translation": [
-    "form",
     "shape",
-    "figure"
+    "form",
+    "figure",
+    "format",
+    "kind"
   ],
-  "context": "The Finnish word 'muoto' is a noun that refers to the external appearance or structure of something. It can mean form, shape, figure, or design depending on context. In its basic form (nominative singular), it's used to describe how something looks physically. The word doesn't change in meaning based on case alone but would have different forms in different grammatical cases - for example, 'muodon' in the genitive case would mean 'of the form'. This is a common Finnish noun that appears frequently when describing objects, people, or abstract concepts."
+  "context": "The word 'muoto' in Finnish translates to shape, form or figure in English. It can refer to the physical appearance of something, but also to a more abstract concept like the way something is organized or expressed. The word declines based on grammatical case, as shown in the dictionary definitions provided. For example, 'muodon' means 'of the shape', and 'muotoa' means 'shape (partitive)'."
 }

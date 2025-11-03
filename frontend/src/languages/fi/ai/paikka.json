@@ -1,16 +1,20 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on hyvä paikka stadionilla.",
-    "Tämä sopiva paikka tapahtumalle.",
-    "Löysin tyhjän paikan autosta."
+    "Puolustaa paikkaansa tarkoittaa palvella tarkoitusta tai olla hyödyllinen.",
+    "Sosiaalidemokraateilla on eduskunnassa 36 paikkaa, eli heillä on 36 paikkaa parlamentissa.",
+    "Minulla on paikat kipeänä viittaa siihen, että olen kipeä kaikkialla."
   ],
   "translation": [
     "place",
     "location",
     "spot",
+    "site",
+    "seat",
     "position",
-    "seat"
+    "job",
+    "post",
+    "patch"
   ],
-  "context": "The Finnish word 'paikka' means place, location or spot. It can refer to physical locations like a seat in a stadium or a spot in a parking lot, as well as more abstract places suitable for events. It's a common noun that indicates where something is located or where something happens."
+  "context": "The Finnish word 'paikka' is a versatile noun with many meanings. It can refer to a physical place or location, like a spot or site. However, it also has abstract meanings such as a seat (in politics), a job position, or even a patch on clothes. The word declines in number and case, meaning its form changes depending on how it's used in a sentence. For example, 'paikat' is the plural form of 'paikka', and can mean 'parts' or 'bones' as in 'Minulla on paikat kipeänä' (I am sore all over)."
 }

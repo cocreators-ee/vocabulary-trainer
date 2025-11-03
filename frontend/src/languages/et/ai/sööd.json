@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Sööd on valmis nüüd.",
-    "Ma olen söömises kaks tundi.",
-    "Kas sa sööd või mitte?"
+    "Hea sööd maitsev vürtsikas.",
+    "Halb sööd vilets kõrbenud ülesoolatud.",
+    "Sööd on juba laual."
   ],
   "translation": [
-    "eat",
     "food",
-    "meal"
+    "meal",
+    "dish"
   ],
-  "context": "The word 'sööd' is the partitive case form of the verb 'sööma' (to eat) in Estonian. It can also refer to food or meals in general, especially when talking about consuming them. The partitive case often indicates an incomplete action or object being acted upon."
+  "context": "The word 'sööd' appears to be the partitive case form of the Estonian noun 'söök', which means food or meal. In Estonian, the partitive case is commonly used for mass nouns like food, and it indicates an unspecified amount or partial quantity. The dictionary definition shows that 'söök' can refer to a specific meal (like breakfast, lunch, dinner) or food in general, and 'sööd' would be its partitive form used when referring to some amount of food without specifying the exact quantity."
 }

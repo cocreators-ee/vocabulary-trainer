@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Meil oli huvitav jutt.",
-    "Tuleb veel palju jutte.",
-    "Jutti võib-olla ka edasi jätkame."
+    "Meie vahel oli hea jutt.",
+    "Ta rääkis lõbusat juttu.",
+    "Kes on see jutt, mida kuulsid?"
   ],
   "translation": [
-    "talk",
     "conversation",
     "story",
-    "tale"
+    "talk"
   ],
-  "context": "The Estonian word 'jutt' is a versatile noun that can refer to either a conversation/talk or a story/tale. It's used in everyday situations for casual discussions and also when telling stories or narratives."
+  "context": "The Estonian word 'jutt' is a noun that means conversation, discussion, story, or talk. It can refer to both verbal conversations between people and stories/narratives being told. The word follows specific declension patterns in Estonian grammar with forms like genitive 'jutu', partitive 'juttu', plural nominative 'jutud', etc."
 }

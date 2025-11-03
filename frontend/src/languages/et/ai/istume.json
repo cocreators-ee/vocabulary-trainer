@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Me istume laual.",
-    "Kus me istume?",
-    "Tere tulemast, istuge siin!"
+    "Tule istume lauda koos.",
+    "Me istume teie külalised homme.",
+    "Kas teil on vaba koht kuhu me istume?"
   ],
   "translation": [
+    "let's sit",
     "we sit",
-    "we are sitting",
-    "let's sit down"
+    "are sitting"
   ],
-  "context": "The word 'istume' is the 1st person plural present indicative form of the Estonian verb 'istuma', which means 'to sit'. It specifically refers to 'we sit' or 'we are sitting' in English. The '-me' ending indicates it's first person plural (we) and the present tense. This would be used when referring to a group including the speaker that is currently seated or about to sit down."
+  "context": "The word 'istume' is the 1st person plural present indicative form of the Estonian verb 'istuma', which means 'to sit'. In this conjugated form, it translates to English as 'we sit' or 'we are sitting', and can also be used in an inclusive sense like 'let's sit' when addressing a group including oneself. This is formed from the root verb with the -me suffix indicating 1st person plural subject."
 }

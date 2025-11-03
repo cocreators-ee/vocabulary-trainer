@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Oikea vastaus on tämä.",
-    "Hänellä on oikeat mittasuhteet.",
-    "Tämä on oikein tehty."
+    "Minulla on oikea avain.",
+    "Oikea vastaus on kolme.",
+    "Onko tämä oikeaa maitoa?"
   ],
   "translation": [
-    "correct",
     "right",
-    "proper"
+    "correct",
+    "true",
+    "real",
+    "just",
+    "fair"
   ],
-  "context": "The Finnish word 'oikea' is an adjective that means correct, right, or proper. It can be used to describe something that is accurate, true, following the rules, or morally/ethically good. The word changes form depending on case and number - for example, in the nominative singular it's 'oikea', but becomes 'oikeat' in plural form."
+  "context": "The Finnish word 'oikea' is a versatile adjective with multiple meanings, including 'right' (opposite of left), 'correct', 'true', and 'real'. It can also mean 'just' or 'fair'. The word originates from Proto-Finnic *oikëda meaning 'straight'.  It declines based on case; the provided dictionary definitions show nominative, genitive, partitive, etc. forms for both singular and plural. Possessive forms are also available, indicating who owns something that is 'right' or 'correct'."
 }

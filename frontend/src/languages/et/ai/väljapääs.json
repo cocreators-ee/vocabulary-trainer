@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tule väljapääsu juurde.",
-    "Linnas on ainult üks väljapääs."
+    "Tulekahju korral on raske leida majast väljapääsu.",
+    "Venemaa otsis väljapääsu Läänemerele.",
+    "Kõik hakkasid väljapääsu poole liikuma."
   ],
   "translation": [
     "exit",
-    "outlet",
-    "egress"
+    "way out",
+    "escape route"
   ],
-  "context": "Väljapääs is an Estonian noun that means 'exit' or 'way out'. It refers to a path, doorway, or opening through which one can leave a place, such as a building, room, or area. The word consists of 'välja' meaning 'out' and 'pääs' meaning 'access', literally translating to 'out-access'. In Estonian grammar, it's in the singular nominative form here."
+  "context": "The Estonian word 'väljapääs' has two main meanings: 1) the act of exiting or getting out, referring to finding a way to leave a place (like during a fire), and 2) an exit point or passageway that allows for departure. It can also metaphorically mean a solution or escape from a difficult situation."
 }

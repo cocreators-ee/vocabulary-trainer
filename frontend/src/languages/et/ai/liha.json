@@ -1,13 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Mulle meeldib liha.",
-    "Osta palun kilo liha.",
-    "Väike lapsed ei tohi süüa liha."
+    "Liha on riknenud, halvaks läinud.",
+    "Kiskjad söövad peamiselt liha.",
+    "Meelalt võõrutas ta oma lihast ja luudest.",
+    "Hästi tumepunase lihaga söögipeet."
   ],
   "translation": [
     "meat",
-    "flesh"
+    "flesh",
+    "body tissue",
+    "physical substance"
   ],
-  "context": "The Estonian word 'liha' primarily means 'meat' in English, referring to the flesh of animals used as food. It can also refer to 'flesh' in a more general sense. The word is commonly used in everyday contexts when talking about purchasing, cooking, or consuming animal products."
+  "context": "The Estonian word 'liha' has multiple meanings depending on context. Primarily it means meat (as food), the flesh of animals or humans, the physical body as opposed to the soul, and in some contexts can refer to wooden structures or the interior part of fruits/vegetables. It's a versatile noun that appears in various compound words specifying types of meat (like 'kana liha' for chicken meat) or body parts ('rinnaliha' for breast muscle)."
 }

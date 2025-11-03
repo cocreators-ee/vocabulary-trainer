@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Käisin kontorisse hommikul.",
-    "Ta läks kontorisse tööle kell 9.",
-    "Me kohtume kontorisesse."
+    "Pärast seda viis mustas talaaris karjane oma leerilapsed kiriku kontorisse.",
+    "Poiss läks naabertallu karjaseks. Karjane ajas loomad karjamaale.",
+    "Hobuste juurde oli saadetud hobusekarjane."
   ],
   "translation": [
-    "into the office",
-    "to the office"
+    "office",
+    "study",
+    "workroom"
   ],
-  "context": "The Estonian word 'kontorisse' is an inessive case form of the noun 'kontor', meaning 'office'. The '-sse' suffix indicates motion into or direction towards a place. So 'kontorisse' means 'into the office' or 'to the office', indicating movement toward an office location."
+  "context": "The word 'kontorisse' is the Estonian inessive case form of 'kontor', meaning 'into the office'. It indicates movement into an office or work space. The word combines the root 'kontor' (from German/Kontor) with the inessive suffix '-sse' which means 'into'. This is commonly used when someone enters an office building, a specific office room, or any kind of workspace."
 }

@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Täällä on hyvä tuki.",
-    "Hän antaa minulle tuen.",
-    "He tarvitsevat tukea."
+    "Hän tarvitsi tukea selkäleikkauksen jälkeen.",
+    "Opettaja antoi oppilaille henkistä tukea.",
+    "Yritys sai valtion tukea uuden tehtaan rakentamiseen."
   ],
   "translation": [
     "support",
     "backing",
-    "assistance"
+    "aid",
+    "assistance",
+    "benefit",
+    "allowance"
   ],
-  "context": "The Finnish word 'tuki' is a noun meaning support or assistance. It refers to something that provides help, backing, or reinforcement. In its basic form, it's used in the nominative case. The word can be inflected for different cases: e.g., tuen (genitive), tukea (partitive), tukeen (illative), tuelle (allative), etc. It commonly appears in contexts where emotional support, financial backing, or structural reinforcement is being discussed."
+  "context": "The word 'tuki' in Finnish can have multiple meanings depending on the context. It most commonly refers to physical support, like a prop or crutch, but it also means emotional, financial, or political backing. It can even refer to social benefits or allowances provided by the government. The word declines based on case, as shown in the dictionary definition, and possessive forms exist to indicate who is providing or receiving the support."
 }

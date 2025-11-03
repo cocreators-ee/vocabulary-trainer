@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Töötaja teenib aastas 40 000 eurot.",
-    "Keskmine temperatuur on aastas umbes +8°C.",
-    "Lapsed käivad koolis aastas viie päeva nädalas."
+    "Ettevõte kalkuleerib aastas amortisatsiooni summa.",
+    "Iga aasta lõpus arvestatakse ümber aastas planeeritud kulud.",
+    "Majandusteave näitab, et firma kulutab aastas palju uusi tehnikat ostmisele."
   ],
   "translation": [
     "per year",
-    "annually"
+    "annually",
+    "yearly"
   ],
-  "context": "The word 'aastas' is an Estonian adverb that means 'per year' or 'annually'. It indicates frequency or rate over the course of a full year. In Estonian grammar, it's formed from the root word 'aasta' (year) with the '-s' suffix which typically denotes per-unit time expressions, similar to English constructions like 'per day', 'per hour', etc."
+  "context": "The word 'aastas' is an Estonian adverb that means 'per year' or 'annually'. It indicates something that happens, is calculated, or occurs on a yearly basis. In the provided dictionary definition, it's used in the context of depreciation calculations where the reduction amount (amortisatsiooni summa) is determined periodically per year."
 }

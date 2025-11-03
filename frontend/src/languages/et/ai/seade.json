@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "See on hea seade.",
-    "Mida see seade teeb?",
-    "Seaded on tähtsad."
+    "Palju sõltub probleemi, küsimuse, eesmärgi seadest.",
+    "Koori kavas on rahvalaule M. Saare seades.",
+    "Viiulipala seade klaverile."
   ],
   "translation": [
-    "device",
-    "setting",
     "arrangement",
-    "setup"
+    "setup",
+    "composition",
+    "setting",
+    "configuration"
   ],
-  "context": "In Estonian, 'seade' is a noun that refers to a device, setting, arrangement, or setup. It can be used to refer to physical devices (like machines or equipment), digital settings or configurations on computers/phones, or organizational arrangements. The word has a neuter gender in Estonian and typically follows the basic declension patterns for nouns ending in -e."
+  "context": "The Estonian word 'seade' has multiple related meanings: 1) The act of setting up or arranging something, as in the arrangement of a problem, question, or goal; 2) In music, it refers to an arrangement, adaptation, or orchestration of musical pieces for specific instruments, choirs, or ensembles. It can refer to both the process and result of arranging or setting things."
 }

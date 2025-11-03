@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä huone on neliön muotoinen.",
-    "Nelio senttimetriä on pieni mittayksikkö.",
-    "Laskimme alueen: se oli 25 neliömetriä."
+    "Huone on viisi neliötä.",
+    "Ostin uuden asunnon, jossa on 70 neliötä.",
+    "Pöydän pinta-ala on noin yksi neliö."
   ],
   "translation": [
     "square",
-    "squared",
-    "area unit"
+    "quadrate"
   ],
-  "context": "The Finnish word 'neliö' means 'square' as in a geometric shape with four equal sides and right angles. It can also refer to the squared unit of measurement (like square meters - neliömetri). In geometry, it describes anything having this shape or related to squares."
+  "context": "The word 'neliö' in Finnish means 'square'. It can refer to a geometric shape with four equal sides and right angles, or it can be used as a unit of area (similar to square meters). The declension shows that the word changes form depending on its role in the sentence – nominative for the subject ('neliö'), genitive showing possession ('neliön'), partitive indicating an incomplete quantity ('neliötä'), and so on. It also has different forms for singular ('neliö') and plural ('neliöt'). The possessive forms show who owns the square, with variations based on person (my, your, his/her/its) and number (singular or plural)."
 }

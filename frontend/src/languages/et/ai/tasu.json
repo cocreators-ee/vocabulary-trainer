@@ -1,16 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Tasu on makstud.",
-    "Maksan tasu eest teenust.",
-    "Tasuta toitu ei saa."
+    "Tuhande krooni suurune tasu.",
+    "Naabrimees teeb väikese tasu eest aia korda.",
+    "Ta ei võtnud abi eest mingit tasu."
   ],
   "translation": [
     "payment",
-    "fee",
-    "charge",
-    "salary",
-    "wage"
+    "wage",
+    "reward",
+    "recompense",
+    "compensation",
+    "fee"
   ],
-  "context": "The Estonian word 'tasu' refers to a payment, fee, charge, or compensation for goods/services rendered or work performed. It can indicate both payments made by someone (like paying for a service) and payments received (like salary). The word appears in various contexts - from everyday transactions ('makstan tasu eest') to more formal arrangements ('töötasu' meaning wages/salary)."
+  "context": "In Estonian, 'tasu' is a noun that can mean payment, wage, reward, or compensation for work or services. It refers to the money or material value received in exchange for labor, help, or some other contribution. The word can also be used metaphorically to mean revenge or retribution. It's commonly used in compound words like 'töötasu' (wage), 'päevatasu' (daily wage), or 'autasu' (reward)."
 }

@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on pieni lapsi.",
-    "Lapset leikkivät puistossa.",
-    "Hän rakastaa lapsiaan syvästi."
+    "Pieni lapsi leikkii hiekalla.",
+    "Äiti rakastaa lastaan kovasti.",
+    "Lapset ovat innoissaan joulusta."
   ],
   "translation": [
     "child",
-    "children",
     "kid",
-    "kids"
+    "offspring"
   ],
-  "context": "The word 'lapsi' means child or children in Finnish. It's a common noun referring to young human beings. In the examples, it appears in singular form ('lapsi', 'lapsiaan') and plural form ('lapset'), showing how it changes to indicate number. The possessive form 'lapsiaan' shows possession relationship with the subject 'hän' (he/she)."
+  "context": "The word 'lapsi' means 'child' in Finnish. It refers to a person who is below the age of adulthood, and can also refer to a daughter or son. The word declines based on grammatical case, as shown in the dictionary definition, with different forms for singular and plural (lapset). Possessive suffixes are also added to indicate ownership, like 'lapseni' meaning 'my child'. It is a common noun used in everyday language."
 }

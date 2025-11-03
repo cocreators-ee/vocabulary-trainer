@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema on nimega Kati.",
-    "Linnade seas oli Tallinna nimega linn pealinnaks.",
-    "See raamat on nimega \"Kevade\"."
+    "Asju tuleb õige nimega nimetada, tõtt ei pruugi karta.",
+    "Ta on meie töökoht nimega Tartu Ülikool.",
+    "Loomulikult nimega Eesti."
   ],
   "translation": [
+    "with the name of",
     "named",
-    "called",
-    "titled"
+    "called"
   ],
-  "context": "The Estonian word 'nimega' is a postposition that means 'with the name of' or 'named/called'. It's formed from 'nimi' (name) with the adessive case ending '-ga', meaning it literally translates to 'with name' but functions as an English equivalent of 'named' or 'called'. This word is typically used after a proper noun to specify what something is named, similar to how we use 'titled' for books or simply 'named' when introducing someone's identity."
+  "context": "The word 'nimega' is an Estonian form meaning 'with the name of' or 'named/called'. It's typically used to specify what something is called. In the example sentence 'Asju tuleb õige nimega nimetada, tõtt ei pruugi karta', it means that things should be called by their proper name without embellishment or evasion - essentially saying things directly and honestly."
 }

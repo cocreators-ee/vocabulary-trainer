@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ta vastas küsimusele.",
-    "Ma ei tea veel oma vastust.",
-    "Vastame homme kohtumisel."
+    "Ta arreteeriti valekaebuse põhjal.",
+    "Tahtis oma vihavaenlasele valekaebuse abil kätte maksta.",
+    "Kubjas tõstis härra ees talupoegade peale valekaebusi."
   ],
   "translation": [
-    "answer",
-    "reply",
-    "respond"
+    "false complaint",
+    "malicious accusation"
   ],
-  "context": "The Estonian word 'vasta' is a verb that means to answer, reply, or respond. It can be used in various conjugations depending on the subject and tense. For example, 'Ta vastas' (He/She answered), 'Ma vastan' (I answer), 'Me vastame' (We answer). The word is commonly used in everyday communication when responding to questions or statements."
+  "context": "The word 'vasta' in this Estonian context appears to be part of the compound word 'valekaebus', which means a false or malicious complaint. From the provided examples, we can see that it refers to making untrue accusations against someone with harmful intent. The word is used when someone files a complaint knowing that the facts presented are not true, often for revenge or personal gain."
 }

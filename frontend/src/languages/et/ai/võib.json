@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Võib tulla homme.",
-    "Tema võib olla kohal.",
-    "Ma ei tea, kas ta võib tulema."
+    "Tema võib tulla homme.",
+    "Võib-olla jõuame hiljem kohtuda.",
+    "See on väga hea võimalus."
   ],
   "translation": [
+    "can",
     "may",
     "might",
-    "can",
-    "could"
+    "possible"
   ],
-  "context": "The Estonian word 'võib' is a modal verb that indicates possibility or permission. It's the third person singular form of the verb 'võima', which means 'to be able to' or 'to have power'. In English, it translates to words like 'may', 'might', 'can', or 'could'. It can express what someone is able to do (ability), what might happen (possibility), or what is allowed (permission)."
+  "context": "The Estonian word 'võib' is the third-person singular present indicative form of the verb 'võima', which means 'to be able to' or 'to can'. It's used to express possibility, permission, or ability. As a modal auxiliary verb, it typically appears before another main verb to indicate that something is possible, allowed, or someone has the ability to do something."
 }

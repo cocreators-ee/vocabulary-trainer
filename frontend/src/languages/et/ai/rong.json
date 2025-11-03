@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Rong sõidab Tallinna Tartust.",
-    "Poodasime rongis ühte kohta.",
-    "Mingi rong oli hiljuti kohal."
+    "Rong on tühi, rahvast täis.",
+    "Rong saabub jaama, perrooni ette.",
+    "Pikk rong inimesi, autosid, sõidukeid."
   ],
   "translation": [
     "train",
-    "railway car"
+    "railway train",
+    "locomotive with carriages"
   ],
-  "context": "The Estonian word 'rong' refers to a train or railway car. It's a singular noun used to describe the entire train system as well as individual cars on a train. The word is commonly used in everyday conversation when talking about transportation, schedules, and travel by rail."
+  "context": "The Estonian word 'rong' primarily means a railway train consisting of a locomotive (motor or electric vehicle) and one or more coupled carriages used for transporting passengers or cargo. It can also refer metaphorically to a procession or line of people, vehicles, or objects moving in sequence. The word follows regular Estonian declension patterns with forms like 'rongi' (genitive), 'rongid' (plural nominative), and 'rongiga' (comitative/with)."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma lähen koju.",
-    "Tüdruk läheb kooli.",
-    "Me läkeme linna."
+    "'Hoiab oma pojukest nagu mädamuna 'õrnalt, nii et katki ei läheks'.",
+    "'Mädamuna' viljastamata munast tuleb haudumisel.",
+    "Purunenud mädamuna vastik lehk ja ta hoiab oma pojukest õrnalt, nii et katki ei läheks."
   ],
   "translation": [
-    "goes",
-    "is going",
-    "will go"
+    "does not break",
+    "won't break",
+    "should not break"
   ],
-  "context": "The word 'läheks' is the third-person singular form of the Estonian verb 'minema' (to go) in the conditional mood. It means 'would go', 'should go', or 'might go'. In conditional sentences, it expresses a hypothetical action that depends on some condition being met. For example: 'Kui sa tulksid siis ma läheks sinuga.' - 'If you came then I would go with you.'"
+  "context": "The word 'läheks' is the conditional form of the verb 'läheb' (from 'lähema' - to go/break). In this context, it's used in a negative construction meaning 'should not break' or 'won't break'. The phrase 'nii et katki ei läheks' means 'so that it doesn't break'. This appears to be describing how someone handles something fragile carefully so it won't break."
 }

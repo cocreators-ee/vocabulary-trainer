@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "See on mängu asi.",
-    "Lapsed armastavad mängu.",
-    "Ta otsib oma mängu."
+    "Mängu algas kell seitse.",
+    "Tulevane mängu on täna õhtul.",
+    "See on parim mängu, mida olen kunagi näinud."
   ],
   "translation": [
     "game",
-    "play",
-    "fun"
+    "match",
+    "play"
   ],
-  "context": "The Estonian word 'mängu' is the genitive singular form of the noun 'mäng', which means 'game'. It indicates possession or relationship to a game, similar to English possessive forms like 'of the game' or belonging to a game context. In Estonian grammar, the genitive case typically shows what something belongs to or originates from."
+  "context": "The Estonian word 'mängu' is the partitive case of the noun 'mäng', meaning 'game' or 'match'. It indicates an incomplete action or state - referring to some aspect of playing rather than a complete game. In the example sentences, it's used to refer to a starting time for a game, a future match, and describing what is considered the best/most interesting part of playing something."
 }

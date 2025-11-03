@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on dollarit.",
-    "Ta annab dollarit eest.",
-    "Mehhiko dollari on väärt rohkem kui USA dollarit."
+    "Mul on kolm dollarit.",
+    "Ta maksis kümme dollarit eest toitu.",
+    "Lapsed said kingituseks viis dollarit."
   ],
   "translation": [
+    "dollar (nominative case)",
     "dollars",
-    "dollar"
+    "100 dollars"
   ],
-  "context": "\"Dollarit\" is the partitive case form of \"dollar\" in Estonian, meaning \"dollars\" or \"some dollars\". It's used when referring to an unspecified quantity or amount of dollars. The word follows Estonian grammatical rules for loanwords from English, with the -it ending indicating the partitive case."
+  "context": "The word 'dollarit' is the partitive form of the Estonian noun 'dollar'. It means 'dollar(s)' and is used when referring to an unspecified or partial quantity of dollars. In the dictionary definition, it appears in the phrase 'sajadollarine' which literally means 'hundred-dollar' as in a hundred-dollar bill."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Perheeni on suuri.",
-    "Meidän perheessä on viisi jäsentä.",
-    "Hän rakastaa perhettään."
+    "Minulla on suuri perhe.",
+    "Isäni ja äitini ovat osa minun perhettäni.",
+    "Lapset ovat tärkeä osa perhettä."
   ],
   "translation": [
     "family",
     "household",
-    "relatives"
+    "kin"
   ],
-  "context": "The Finnish word 'perhe' means family. It's a common noun that refers to a group of people related by blood, marriage, or adoption who live together. In Finnish grammar, 'perhe' is in the basic nominative form (singular). When used in different contexts, it can refer to immediate family members, extended relatives, or household members depending on the context."
+  "context": "The word 'perhe' in Finnish means 'family'. It refers to a group of people related by blood, marriage, or adoption. The declension shows different forms depending on the grammatical case, indicating possession (my family, your family), location (in my family) and other relationships. For example, 'perheemme' means 'our family', where 'mme' indicates 'our'. It can also be used in plural form as 'perheet' which simply means families."
 }

@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä dokumentti sisältää tärkeitä tietoja.",
-    "Kirjat sisältävät paljon hyödyllistä luettavaa.",
-    "Paketit sisältävät erilaisia tuotteita."
+    "Elokuvassa sisältävät usein väkivaltaa.",
+    "Kirjat sisältävät paljon tietoa.",
+    "Nämä tiedostot sisältävät viruksia."
   ],
   "translation": [
     "contain",
-    "include",
-    "hold"
+    "include"
   ],
-  "context": "The Finnish word 'sisältävät' is the third-person plural present form of the verb 'sisältää'. It means 'contain', 'include', or 'hold' and refers to something having other things within it. This verb form is used when speaking about multiple subjects that currently contain/include/hold something."
+  "context": "The word 'sisältävät' is the third-person plural form of the verb 'sisältää', which means 'to contain' or 'to include'. It indicates that something holds or comprises other things. The -vät ending signifies a plural subject (they/those)."
 }

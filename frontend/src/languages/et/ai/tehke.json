@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tehke hästi!",
-    "Mis te tehete?",
-    "Kuidas te tehete?"
+    "Ärge tehke, kirjutage alpusi.",
+    ".. ja kuigi mamma Neider kui kristlik naisterahvas oli iga tühise uhkuse ja alpuse vastu .."
   ],
   "translation": [
-    "do",
-    "make",
-    "perform"
+    "avoid",
+    "refrain from",
+    "do not do"
   ],
-  "context": "'Tehke' is the plural form of the Estonian verb 'tule', which means 'to do' or 'to make'. It's used when addressing a group of people formally (second person plural). In English, it corresponds to commands like 'Do!' or questions like 'What are you doing?' when speaking to multiple people politely."
+  "context": "The word 'tehke' is the plural imperative form of the Estonian verb 'töötama' (to work/do). In this context, it's used as a negative command instructing people to avoid or refrain from doing something. The sentence structure shows it being used in an instructional or prohibitive sense."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Valo tuli huoneeseen.",
-    "Auringon valo läpi ikkunan.",
-    "Pimeässä tarvitaan enemmän valoa."
+    "Lampaalla on valo silmissään.",
+    "Huoneessa oli kirkas valo.",
+    "Autoissa on jarruvalo."
   ],
   "translation": [
     "light",
+    "illumination",
     "brightness"
   ],
-  "context": "The Finnish word 'valo' means light or brightness. It is a common noun used to refer to illumination, whether from natural sources like the sun or artificial sources like lamps. In Finnish grammar, it's an ordinary noun that doesn't have grammatical gender and follows standard noun declension patterns."
+  "context": "The Finnish word 'valo' means 'light'. It refers to visible electromagnetic radiation and can also describe a light source like a lamp or signal. The word declines based on case, as shown in the dictionary definitions provided. For example, 'valon' is the genitive form meaning 'of light', while 'valoa' is the partitive form often used for expressing an indefinite amount of light."
 }

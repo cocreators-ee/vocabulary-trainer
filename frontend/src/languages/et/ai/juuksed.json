@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tal on ilusad juuksed.",
-    "Lõigame lühemaks juukseid.",
-    "Ta värvis oma juuksete punaseks."
+    "Tal on pikad juuksed.",
+    "Tüdruk lõikas oma juukseid pealt ära.",
+    "Mees kammis oma juukseid."
   ],
   "translation": [
-    "hair"
+    "hair (plural form)",
+    "head hair",
+    "locks of hair"
   ],
-  "context": "The word 'juuksed' is the Estonian plural form of 'juuks', meaning hair. It refers to the strands that grow from the scalp and can be styled, cut, or colored. In Estonian, nouns have grammatical cases and numbers; 'juuksed' is specifically in the nominative plural case."
+  "context": "The Estonian word 'juuksed' is the nominative plural form of 'juus', meaning 'hair'. It refers to the collective strands of hair that grow on a person's head. This is used when talking about multiple hairs or someone's overall hairstyle, as opposed to referring to individual strands."
 }

@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä auto on punainen.",
-    "Punaisten kukkien kauneus kiehtoo minua.",
-    "Hänellä oli punainen mekko juhlissa."
+    "Hänellä on punainen auto.",
+    "Punainen väri on suosittu.",
+    "Ostin uuden punaisen paidan."
   ],
   "translation": [
-    "red"
+    "red",
+    "crimson",
+    "scarlet"
   ],
-  "context": "The Finnish word 'punainen' is an adjective that means 'red' in English. It's the basic color term for red and can be used to describe objects, people's clothing, or other attributes that are red in color. In these examples, it's used in singular nominative form to modify nouns like auto (car), kukkien (flowers - genitive plural), and mekko (dress)."
+  "context": "The word 'punainen' is a Finnish adjective meaning 'red'. It declines based on case and number, as shown in the dictionary definition. The combining form is 'puna-', while 'puna' can also be used as a noun.  It can refer to the color itself or objects that are red. In plural forms like 'punaiset', it refers to multiple red things, such as 'red lights'. It can also have political connotations referring to 'the Reds' in historical context."
 }

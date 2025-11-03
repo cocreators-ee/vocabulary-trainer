@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Sa otsisid vastust valesti.",
-    "Mul pole veel vastuse leidnud.",
-    "Vastus oli ebatäpne."
+    "Küsimus ja vastus.",
+    "Oodake vastust minu käest.",
+    "Ta andas kiire vastuse."
   ],
   "translation": [
     "answer",
-    "response",
-    "reply"
+    "response"
   ],
-  "context": "The word 'vastus' in Estonian is a noun meaning 'answer', 'response', or 'reply'. It's the singular nominative form. In different cases, it would change - for example, genitive case would be 'vastu', partitive 'vastust', etc. This word is commonly used when someone is looking for an answer to a question or waiting for a response."
+  "context": "The Estonian word 'vastus' is primarily used as a noun meaning 'answer' or 'response'. It can refer to verbal responses to questions, proposals, or opinions (short, detailed, oral, written), solutions to problems, results of tasks, and even mechanical components in some contexts. The word declines regularly in Estonian with various cases like nominative, genitive, partitive, etc."
 }

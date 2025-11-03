@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ma lubanud sulle ette tulla.",
-    "Ta on lubanud aidata meid.",
-    "Meie oleme lubanud tasuda tagasi."
+    "Ta on lubanud meile aitama.",
+    "Kas sa oled lubanud tulla homme?",
+    "Ma ei ole veel lubanud midagi.",
+    "Poisid olid lubanud saladuse hoidma."
   ],
   "translation": [
-    "promised",
-    "assured",
-    "guaranteed"
+    "has promised",
+    "have promised",
+    "had promised"
   ],
-  "context": "The word 'lubanud' is the past participle form of the Estonian verb 'lubama', which means to promise or assure. It indicates that someone has made a commitment or given their word about something they will do or not do."
+  "context": "The word 'lubanud' is the past tense (participle form) of the Estonian verb 'luba', which means 'to promise'. This is a common verb used to indicate that someone has made a commitment or given their word about something they will do in the future. The '-nud' ending indicates it's in the perfective aspect, suggesting the action of promising is completed but still relevant to the present."
 }

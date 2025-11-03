@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta vajab pistmist uuesti.",
-    "See on viimane pistmine.",
-    "Pistmine oli ebameeldiv."
+    "Mul pole sinuga asja.",
+    "Mis on temal sellega asja?",
+    "Kas ta käis niisama või oli tal asja ka?"
   ],
   "translation": [
-    "injection",
-    "prick",
-    "puncture",
-    "insertion"
+    "business, matter, affair, thing, issue, concern",
+    "matter, affair, business",
+    "reason, cause"
   ],
-  "context": "The word 'pistmist' is the elative case of 'pistmine', which means injection or prick. It indicates the state of having injected something, being in the process of injecting, or coming from an injection. In Estonian grammar, the elative case often expresses motion away from a place or origin, so this form suggests movement or action related to injections."
+  "context": "The word 'pistmist' appears to be a derivative form of the Estonian word 'asi', which has multiple meanings including: 1) object/thing/matter, 2) problem/issue/question, 3) situation/circumstance, 4) work/activity/task, and 5) business/concern. The '-mist' suffix suggests it's in an illative case (into something), so 'pistmist' likely means 'into the matter/business/affair'. In common usage, it appears in phrases like 'kellegagi/millegagi asja/pistmist' meaning 'to have business/to do with someone/something'."
 }

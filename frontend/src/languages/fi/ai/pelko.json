@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on pelkoa koiria kohtaan.",
-    "Pelkäämme pimeyttä.",
-    "Hän tunsi pelkoa ensimmäistä kertaa lentokoneessa."
+    "Hänen silmissään oli pelkoa.",
+    "Älä anna pelon hallita sinua.",
+    "Pelko lamautti hänet."
   ],
   "translation": [
     "fear",
-    "anxiety",
-    "dread"
+    "dread",
+    "fright",
+    "terror",
+    "anxiety"
   ],
-  "context": "The Finnish word 'pelko' means fear or anxiety in English. It is a noun that refers to the emotion of being afraid of something, often in anticipation of danger. The word can be used in various contexts - from everyday fears (like fear of dogs) to more serious anxieties."
+  "context": "The word 'pelko' in Finnish means fear or dread. It is a noun that declines based on case and possession, as shown in the dictionary definition. The base form 'pelko' refers to general fear, while different inflections indicate whose fear it is (e.g., 'pelkoni' - my fear) or where the fear exists (e.g., 'pelossa' - in fear). It can also be used in plural forms like 'pelot'. The suffix '-o' often marks nouns."
 }

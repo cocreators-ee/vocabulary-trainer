@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Sisesta numbri oma telefoninumbriga.",
-    "Kas sa tead seda numbri?",
-    "Mul on meeldejäänud see number."
+    "Ajakirja numbri ilmus tänavu.",
+    "Lahendasin matemaatika ülesande numbri kaks.",
+    "Tema sõnumi numbri oli saladus."
   ],
   "translation": [
-    "number",
-    "digit"
+    "of number",
+    "genitive singular of number"
   ],
-  "context": "The word 'numbri' is the partitive case form of the Estonian noun 'number', which means 'number' or 'digit'. In Estonian, nouns change their endings to indicate different grammatical cases. The partitive case ('-i' ending) typically indicates an incomplete action or what someone has/doesn't have. So 'numbri' would be used when you're talking about having a number, needing a number, or seeing a number (rather than the complete number itself)."
+  "context": "Numbri is the genitive singular form of the Estonian word 'number', meaning 'of number' or 'belonging to a number'. In English, this would be equivalent to saying something like 'the issue's content', 'a problem's solution', or 'the message's identification'. This grammatical case shows possession or relationship in Estonian."
 }

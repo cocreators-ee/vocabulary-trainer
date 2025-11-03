@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kangelane päästis linna.",
-    "Ta oli kangelane sõjas.",
-    "Meie kangelased on julged."
+    "Vabadussõja kangelased.",
+    "Kalevipoeg on meie muistne kangelane.",
+    "Ta oli selle päeva kangelane."
   ],
   "translation": [
     "hero",
-    "champion"
+    "champion",
+    "main character",
+    "protagonist"
   ],
-  "context": "The Estonian word 'kangelane' is a noun meaning 'hero'. It refers to someone who shows great courage and nobility, typically in dangerous or difficult situations. The word can be used for both male heroes (singular) and when referring to multiple heroes (plural: kangelased). In Estonian grammar, this follows the regular pattern where masculine nouns add '-d' to form the plural."
+  "context": "The word 'kangelane' in Estonian primarily means 'hero'. It can refer to a person who shows extraordinary courage or bravery, a central character in literature or other artistic works, or someone who stands out and attracts attention. The word has several compound forms like 'sõjakangelane' (war hero), 'rahvuskangelane' (national hero), 'filmikangelane' (movie hero/protagonist)."
 }

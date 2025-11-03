@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ta valetas mulle.",
-    "Sa ei taha valeta?",
-    "Meie laps valetas koolis."
+    "Valetas teda.",
+    "Ei ta ei valetanudki.",
+    "Meie valetasime koos."
   ],
   "translation": [
     "lied",
     "told a lie",
-    "fibbed"
+    "fibbed",
+    "fabricated"
   ],
-  "context": "The word 'valetas' is the past tense third person singular form of the verb 'valema', which means 'to lie' or 'to tell lies'. It indicates that someone lied in the past. The root 'vale-' relates to falsehoods, and the suffix '-tas' forms the past tense for third person singular."
+  "context": "The word 'valetas' is the past tense, singular form of the Estonian verb 'valema', which means to lie or tell falsehoods. It specifically refers to the act of lying in the third person singular (he/she lied) in the past tense. This verb is commonly used when someone intentionally tells something that is not true."
 }

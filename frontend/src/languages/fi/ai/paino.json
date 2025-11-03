@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on suuri paino sydämessäni.",
-    "Kirjan paino oli noin kilogramma.",
-    "Hän kantoi painoaan urheilukassissa."
+    "Pysäyttäkää paino!",
+    "Kirja on jo painossa.",
+    "Tykinkuula toimi hänellä graavilohen painona."
   ],
   "translation": [
     "weight",
-    "burden",
-    "load"
+    "press",
+    "sinker",
+    "stress"
   ],
-  "context": "The Finnish word 'paino' primarily means weight, referring to the heaviness of something. It can also be used metaphorically to describe a burden or load that someone carries, either physically or emotionally. As a noun, it's commonly used in everyday contexts when discussing physical measurements or emotional states."
+  "context": "The word 'paino' in Finnish can refer to several things, including physical weight (force due to gravity), a printing press, or a sinker used in fishing. It can also mean stress (though this usage is obsolete). The word declines based on grammatical case, as shown in the dictionary definitions, and possessive suffixes are added to indicate ownership. For example, 'painoni' means 'my weight'. The plural form is 'painot'."
 }

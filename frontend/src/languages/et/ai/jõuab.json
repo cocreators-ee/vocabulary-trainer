@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta jõuab homseks kodusse.",
-    "Poisid jõuavad mängima staadionile.",
-    "Auto jõuab perreni kell 15."
+    "Jõuab koju kell kuus.",
+    "Ta jõuab esimesena finishisse.",
+    "Kui ta jõuab siia, anna talle selle kiri."
   ],
   "translation": [
-    "arrives",
     "reaches",
-    "comes"
+    "arrives",
+    "gets to"
   ],
-  "context": "The word 'jõuab' is the third person singular present tense form of the Estonian verb 'jõudma', which means to arrive, reach, or come. It indicates that someone or something arrives at a destination in the present moment. The word can refer to people arriving somewhere (like home), coming for an activity (like playing on a stadium), or objects reaching a location (like a car arriving home)."
+  "context": "The Estonian word 'jõuab' is the 3rd person singular present tense form of the verb 'jõua', which means 'to reach' or 'to arrive'. It indicates that someone or something reaches a destination at a specific time. The root word 'jõud-' suggests achievement of arrival, and the suffix '-a' makes it a present tense verb ending for 3rd person singular subject."
 }

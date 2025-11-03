@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Poimi marjat puusta.",
-    "Hän poimi kukkia puutarhasta.",
-    "Olemme poimineet sieniä metsästä."
+    "Marjat poimin puutarhasta.",
+    "Poimin roskia rannalta.",
+    "Hän poimi tärkeimmät kohdat kirjasta."
   ],
   "translation": [
     "to pick",
     "to gather",
-    "to collect"
+    "to collect",
+    "to excerpt",
+    "to extract"
   ],
-  "context": "The Finnish verb 'poimia' means to pick, gather, or collect things like fruits, flowers, berries, or mushrooms. It typically involves selecting specific items from a larger group, often by hand. The word can be used in different tenses - for example, present tense 'poimi', past tense 'poimi', and the perfect form 'olemme poimineet' (we have picked). This verb is commonly used when talking about harvesting or collecting natural items."
+  "context": "The Finnish verb 'poimia' means to pick or gather something, often by hand. It can refer to physical objects like berries or trash, but also abstract things like information from a text. The word is conjugated and changes form depending on the tense and person (I pick, you pick, he/she picks etc.). For example, 'poimin' means 'I pick', while 'poimii' means 'he/she picks'. It can also be used in passive forms like 'poimitaan' which means 'is being picked'."
 }

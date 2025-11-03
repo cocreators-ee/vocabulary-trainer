@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Ta on minu nime.",
-    "Mis on sinu nimi?",
-    "Tema ei tea oma nime."
+    "Mönnikhuseni käsu all seisev salk oli .. nime poolest Rootsi kuninga teenistuses.",
+    ".. ja ilm peaaegu pilkaspime, sest lund oli ainult nime poolest."
   ],
   "translation": [
-    "name",
-    "names"
+    "genitive singular of nimi",
+    "partitive singular of nimi"
   ],
-  "context": "The word 'nime' is the partitive form of the Estonian noun 'nimi', which means 'name'. In Estonian, the partitive case is used to indicate an incomplete action or when something is being acted upon. Here, 'nime' would typically be used in contexts like 'I have a name' (Minul on nime) or when asking about someone's name in certain grammatical constructions."
+  "context": "The word 'nime' is a grammatical form in Estonian. It can be either the genitive singular or partitive singular form of the word 'nimi'. As genitive singular, it means 'of name' or 'by name'. As partitive singular, it functions as an adverbial phrase meaning 'in name only', 'formally', or 'on paper only' - indicating something exists merely in name rather than reality."
 }

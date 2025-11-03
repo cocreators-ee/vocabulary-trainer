@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Meid võõrastatakse meie majas.",
-    "Nägi mind ja läks minu juurde.",
-    "Tuleb meiega kohtuda."
+    "Meid aitama tuli.",
+    "Kes on meid aidanud?",
+    "Tuleb meeles pidada, et meid ootavad."
   ],
   "translation": [
-    "us"
+    "us (partitive case)",
+    "of us"
   ],
-  "context": "The word 'meid' is the partitive case of the Estonian pronoun 'me', which means 'we'. In the partitive case, it becomes 'meid' and translates to 'us' in English. This form is used when referring to people as objects of verbs or after certain prepositions."
+  "context": "In Estonian grammar, 'meid' is the partitive form of the pronoun 'meie', which means 'we'. The partitive case typically indicates that something is done to a portion of or in relation to the group. It's used when the action affects or relates to some members of the group 'we/us'."
 }

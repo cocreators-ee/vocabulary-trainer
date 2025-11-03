@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tule su juurde!",
-    "Kas sa tuled su kohta?",
-    "Su õpetaja on hea."
+    "Olen su sõber.",
+    "Tahan teada su nime.",
+    "Kas sa oled su kodu lähedal?"
   ],
   "translation": [
     "your",
-    "thy",
-    "thine"
+    "of you"
   ],
-  "context": "The Estonian word 'su' is the possessive pronoun meaning 'your' or 'thy'. It is used to show possession and typically appears before a noun. This form is used when addressing someone informally (singular). It's part of the genitive case in Estonian grammar."
+  "context": "The Estonian pronoun 'su' is the genitive singular form of 'sa' (you). It means 'your' or 'of you' and is used unstressed in sentences. When the pronoun needs to be emphasized, 'sinu' is used instead."
 }

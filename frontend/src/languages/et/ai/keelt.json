@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Töötan keelt.",
-    "Mul on hea keelt.",
-    "Kas sa räägid head keelt?"
+    "Kelle keelt käid?",
+    "Ma räägin keelt.",
+    "See on ilus keelt."
   ],
   "translation": [
+    "language (partitive singular)",
     "tongue",
-    "language"
+    "speech"
   ],
-  "context": "The word 'keelt' is the partitive singular form of the Estonian word 'keel', which can mean either 'tongue' or 'language'. It appears in contexts where you're talking about a tongue (as body part) or language as an abstract concept, and it's in the partitive case indicating partialness or indefinite quantity."
+  "context": "The word 'keelt' is the partitive singular form of the Estonian noun 'keel', which means either 'language' or 'tongue'. In this case, it indicates that something is being done with language or speech. The Wiktionary entry confirms that 'keelt' is specifically the partitive singular form, meaning it would be used when referring to some amount or aspect of language but not the entirety of it. For example, one might use 'keelt käid' (literally 'tongue walks/goes') which is an idiom for speaking."
 }

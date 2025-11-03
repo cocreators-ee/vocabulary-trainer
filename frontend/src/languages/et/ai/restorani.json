@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Restorani oksjon toimub tänaval",
-    "Me sööme restorani läheduses",
-    "Ta töötab restoranis"
+    "Restorani administraator vastutab igapäevase töö korraldamise eest.",
+    "Tartu kesklinnas asub hea restorani administraator.",
+    "Restorani administraatori peamine ülesanne on personali juhtimine."
   ],
   "translation": [
-    "restaurant",
-    "dining establishment",
-    "eatery"
+    "restaurant administrator",
+    "restaurant manager"
   ],
-  "context": "The word 'restorani' is the elative case (from/away from) form of the Estonian noun 'restoran', which means restaurant. The '-i' ending indicates this is the elative singular form, meaning 'from a restaurant' or 'out of a restaurant'. This form is used when indicating movement away from a location or origin from something."
+  "context": "The word 'restorani' is the Estonian genitive form of 'restoran', meaning 'of/for the restaurant'. When combined with 'administraator' (administrator), it forms a compound term referring to someone who manages the daily operations and practical work in a restaurant establishment. This includes personnel management, operational coordination, and overseeing regular activities within the restaurant."
 }

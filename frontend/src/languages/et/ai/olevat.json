@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta olevat tulemas homme.",
-    "Mis olevat sulle öelda?",
-    "Nad olevat juba kohal."
+    "Oleksin hea nägi olevat.",
+    "Ta ei tea, mis ta on tegelikult olevat.",
+    "See oli tõesti kena olevat."
   ],
   "translation": [
-    "is said to be",
-    "is supposed to be",
-    "apparently is"
+    "to be (quotative)",
+    "being",
+    "exist"
   ],
-  "context": "The Estonian word 'olevat' is the potential mood form of the verb 'olla' (to be). It expresses information that is not directly witnessed or known with certainty, but rather reported by others. This form is commonly used in spoken language when someone is repeating what they've heard from someone else, similar to saying 'is said to be', 'is supposed to be', or 'apparently' in English. The potential mood indicates uncertainty about the truth of the statement."
+  "context": "The Estonian word 'olevat' is the quotative/connegative form of the verb 'olema' (to be). It's used when reporting what someone said or thought about being in a certain state, often with verbs like 'nägema' (to see) or 'tahtma' (to want). This form creates distance from the statement and indicates reported speech or hypothetical situations."
 }

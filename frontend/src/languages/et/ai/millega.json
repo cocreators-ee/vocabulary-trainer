@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Millega sa tood?",
-    "Sellega ma nõustun.",
-    "Kuidas sellega edasi minna?"
+    "Millega sa tahad minna?",
+    "Mul on raamat millega ma loen.",
+    "See on asi millega me tegutseme."
   ],
   "translation": [
-    "with what",
     "with which",
-    "by means of"
+    "with whom",
+    "by means of which",
+    "whereby"
   ],
-  "context": "The word 'millega' is an interrogative pronoun in Estonian that means 'with what' or 'by means of'. It's formed from the question word 'mille' (what/which) and the adessive case ending '-ga', indicating association or instrumentality. This form is used when asking about the tool, method, or means by which something is done."
+  "context": "The Estonian word 'millega' is the comitative singular form of 'mis', meaning it indicates accompaniment or instrumentality. It translates to English phrases like 'with which,' 'with whom,' or 'by means of which.' This grammatical case is used when you want to express what something is done with or accompanied by. For example, if asking about someone's companion ('With whom are you going?'), you would use 'millega sa tahad minna?'"
 }

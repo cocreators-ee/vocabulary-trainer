@@ -1,12 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on kaks autod.",
-    "Tema ostis uued autod.",
-    "Meie pereil palju autod."
+    "Need autod on vanad ja vajavad remonti.",
+    "Teie firmal on väga hea autopark.",
+    "Autode arv linnas kasvab iga aastaga."
   ],
   "translation": [
-    "cars"
+    "cars",
+    "vehicles",
+    "automobiles",
+    "fleet of vehicles"
   ],
-  "context": "The word 'autod' is the plural form of the Estonian noun 'auto', which means 'car'. In Estonian, nouns decline in cases and have singular and plural forms. Here 'autod' specifically refers to multiple cars - it's the nominative/subject case plural form."
+  "context": "The word 'autod' is the plural form of 'auto' (car) in Estonian. It refers to multiple cars or automobiles. The dictionary definition shows it can also refer to a collection or fleet of vehicles, such as an organization's or business's car park/fleet. It comes from the root word 'auto' and the plural ending '-d'."
 }

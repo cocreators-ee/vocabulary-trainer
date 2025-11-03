@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Milline on sinu vastuse sellele küsimusele?",
-    "Ootan vastust oma kirjale.",
-    "Ta ei osanud anda head vastust."
+    "Mul on vastuse küsimusele.",
+    "Ootan suurt vastust oma palve peale.",
+    "Sa ei andnud mulle vastust telefoni teel."
   ],
   "translation": [
     "answer",
     "response",
     "reply"
   ],
-  "context": "The Estonian word 'vastuse' is the genitive case form of the noun 'vastus', which means 'answer', 'response', or 'reply'. In the genitive case, it indicates possession or relationship - so 'vastuse' can mean 'of an answer/response' or be used to show what belongs to an answer. It's commonly used in phrases like asking for someone's opinion on a question ('Milline on sinu vastuse sellele küsimusele?' means 'What is your answer to this question?')."
+  "context": "The word 'vastus' in Estonian is the singular nominative form of a noun that means 'answer', 'response', or 'reply'. It refers to the act of providing information or an answer to a question, request, or situation. The word can be used in various contexts such as responding to questions, answering phones, or giving feedback."
 }

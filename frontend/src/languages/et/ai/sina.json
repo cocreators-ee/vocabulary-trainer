@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Sina oled hea sõber.",
-    "Kas sina tahad minuga koos käia?",
-    "Tegin seda sinu jaoks."
+    "Sina ja mina koos peame otsustama.",
+    "Räägi sina.",
+    "Mida sina siin teed?"
   ],
   "translation": [
-    "you (singular informal)",
-    "thou"
+    "you (informal)",
+    "thou",
+    "thee"
   ],
-  "context": "The Estonian word 'sina' is the second-person singular pronoun used for addressing someone informally, similar to 'you' in English but specifically for a single person you have a familiar relationship with. It's the informal form of address, as opposed to 'teie' which is the formal/plural form. In Estonian, verb conjugation changes based on whether you're using 'sina' or another pronoun."
+  "context": "The Estonian word 'sina' is the second person singular informal pronoun, used to address someone familiarly or informally. It has various case forms including the short form 'sa' in non-nominative positions. This contrasts with the formal/plural 'teie'. The word can appear in different cases depending on its grammatical function: nominative (sina/sa), genitive (sinu/su), partitive (sind), illative (sinusse/susse), etc."
 }

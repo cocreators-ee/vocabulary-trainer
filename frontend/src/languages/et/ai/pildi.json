@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Pildi kvaliteet on hea.",
-    "Tegin pildi sellest vaatest.",
-    "Meil oli väga tore pidi."
+    "Pildi allkiri oli väga selge ja loetav.",
+    "Illustratsiooni allkiri kirjeldas detailidelt nähtavaid objekte.",
+    "Lugeja ootas pildi allkirja ette lugeda."
   ],
   "translation": [
-    "picture",
-    "image"
+    "caption",
+    "subtitle",
+    "heading"
   ],
-  "context": "The word 'pildi' is the partitive case form of the Estonian noun 'pilt', which means 'picture' or 'image'. In this case, it's used when referring to a picture in an incomplete or indefinite sense. For example, 'Tegin pildi sellest vaatest' means 'I made a picture of this view.'"
+  "context": "The word 'pildi' in Estonian is a genitive form that means 'of the picture/image'. When used as part of 'pildi allkiri', it functions as a prepositional phrase meaning 'under the picture' or 'at the bottom of the picture', referring to text, signatures, captions, or subtitles located beneath an image."
 }

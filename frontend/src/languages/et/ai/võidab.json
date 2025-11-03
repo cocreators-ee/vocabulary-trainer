@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Võidame meie meeskond!",
-    "Ta võidab alati kui ta on heas vormis.",
-    "Kas sa arvad, et tema võidab selle matši?"
+    "Võidame meie eesmärki.",
+    "Ta võidab alati.",
+    "Sportlased võidavad tihti."
   ],
   "translation": [
     "wins",
-    "winning",
-    "be victorious"
+    "defeats",
+    "beats",
+    "triumphs"
   ],
-  "context": "The word 'võidab' is the third person singular present form of the Estonian verb 'võitma', which means 'to win'. It describes an action where someone or something achieves victory in competition, game, contest, or achieves success in general. The verb follows standard Estonian conjugation patterns and can be used with different subjects to indicate who is winning."
+  "context": "The Estonian word 'võidab' is the third person singular present tense form of the verb 'võitma', which means 'to win' or 'to defeat'. It describes someone who is winning in a competition, battle, or achieving success. The root stem is 'või-' with '-dab' being the present tense suffix for third person singular."
 }

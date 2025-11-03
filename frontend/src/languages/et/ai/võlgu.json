@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Ma olen võlgu selle eest.",
-    "Tema on võlgu raha.",
-    "Me oleme võlgu palju asju."
+    "Kehvikud olid sunnitud toiduaineid poest raamatu peale, võlgu võtma.",
+    "Ta on sõbrale sada krooni võlgu.",
+    "Oli naabrile kunagi nahatäie võlgu jäänud."
   ],
   "translation": [
-    "owe",
-    "indebted to",
-    "in debt"
+    "in debt",
+    "on credit",
+    "unpaid",
+    "outstanding",
+    "undone"
   ],
-  "context": "The Estonian word 'võlgu' is an adverbial form derived from the verb 'võluma' (to owe). It indicates that someone owes something, typically money or a favor. When used with a genitive case noun following it (e.g., 'võlgu raha'), it means 'owe [something]'. In Estonian grammar, this construction follows the pattern of owing TO someone or something."
+  "context": "The Estonian word 'võlgu' is an adverb that can mean several related things: 1) on credit or by taking a loan (as in buying something on credit), 2) unpaid, outstanding, or not yet settled (referring to money owed), and 3) undone, incomplete, or unfulfilled (referring to tasks or responsibilities). It often indicates that something is either borrowed money waiting to be repaid or an obligation that hasn't been completed. The word comes from 'võlg' meaning debt."
 }

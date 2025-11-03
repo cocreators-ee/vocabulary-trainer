@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Uks on lukustatud.",
-    "Aken oli lukustatud ülesse.",
-    "Maja on täielikult lukustatud.",
-    "Lukustatud värava taga oli salajane ruum."
+    "Keerab ukse lukku.",
+    "Pane uks lukku.",
+    "See uis ei käigi lukku."
   ],
   "translation": [
     "locked",
-    "closed with a lock",
+    "fastened",
     "secured"
   ],
-  "context": "The word 'lukustatud' is the past participle form of the Estonian verb 'lukustama', which means to lock or secure something. It describes something that has been locked or secured with a physical lock, commonly used for doors, windows, gates, or other access points. The suffix '-tud' indicates this is in passive voice/voice form, meaning someone has performed the action of locking on the subject."
+  "context": "The Estonian word 'lukustatud' is the past participle form of 'lukustama', meaning 'to lock'. It describes something that has been placed in a locked or secured state. This word is commonly used when referring to doors, gates, cabinets, or containers that have been locked shut. The examples show typical usage where objects are put into a locked position."
 }

@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Olemme allekirjoittaneet uuden sopimuksen.",
-    "Tämä sopimus on voimassa vuoden ajan.",
-    "Heidän välillään oli virallinen sopimus."
+    "Teimme sopimuksen sen yrityksen kanssa.",
+    "Yritys rikkoi sopimuksen ehtoja.",
+    "Uusi työehtosopimus allekirjoitettiin."
   ],
   "translation": [
     "agreement",
     "contract",
-    "pact"
+    "arrangement",
+    "treaty",
+    "convention"
   ],
-  "context": "In Finnish, 'sopimus' is a noun that refers to an agreement or contract between parties. It can be used for both formal and informal agreements, legal contracts, pacts, or understandings. The word follows standard Finnish grammar rules with potential inflections depending on its role in the sentence (e.g., sopimuksessa = in the agreement, sopimukseen = into the agreement)."
+  "context": "Sopimus is a Finnish noun that translates to 'agreement', 'contract' or 'arrangement' in English. It refers to a formal understanding between two or more parties. The word comes from the verb 'sohia' meaning 'to settle, agree'.  The ending '-mus' turns the verb into a noun. You can see different forms of the word in the declension table provided, such as sopimuksen (genitive - of the agreement), sopimusta (partitive - some agreement) and sopimukseen (illative - to/into an agreement). The possessive forms also show variations like sopimukseni (my agreement) or sopimuksemme (our agreement)."
 }

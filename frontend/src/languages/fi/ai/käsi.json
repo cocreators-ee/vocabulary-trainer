@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on kaksi kättä.",
-    "Ota kätesi pois pöydältä.",
-    "Kädet ovat kylmät talvella."
+    "Minulla on käsi.",
+    "Hän loukkasi kätensä pelatessaan jalkapalloa.",
+    "Kädet ovat kylmät."
   ],
   "translation": [
     "hand",
-    "hands"
+    "arm"
   ],
-  "context": "The Finnish word 'käsi' means 'hand' in English. It's a common noun referring to the body part at the end of an arm. In its singular form, it refers to one hand ('käsi'), and in plural form as 'kädet', it refers to multiple hands."
+  "context": "The Finnish word 'käsi' refers to the hand or arm, and can sometimes refer to both. It declines in various forms depending on its grammatical role in a sentence, as shown in the declension table. The plural form is 'kädet'. Possessive forms also exist to indicate ownership (e.g., my hand - käteni)."
 }

@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ta kaotasid mängu.",
-    "Meie meeskond kaotasid võistluse.",
-    "Naised kaotasid esimese ringi."
+    "Kaotasite meeskonnaga.",
+    "Esimene poolaeg kaotati 0:1.",
+    "Tiim kaotasid kõik mängud."
   ],
   "translation": [
-    "lost",
-    "were defeated",
-    "failed to win"
+    "lost (plural)",
+    "defeated (plural)"
   ],
-  "context": "The word 'kaotasid' is the past tense plural form of the Estonian verb 'kaotama', which means 'to lose'. In this case, it specifically refers to a group (more than one person) that lost in the past. The '-sid' ending indicates past tense and plural subject."
+  "context": "The word 'kaotasid' is the plural past tense form of the verb 'kaotama', meaning 'to lose'. It specifically refers to multiple subjects who lost something in the past. In sports context, it would mean that a team or multiple players lost a game or match."
 }

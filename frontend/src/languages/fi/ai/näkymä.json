@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Kaunis näkymä avautui vuorelta.",
-    "Talon näkymä merelle on upea.",
-    "Hän ihaili järven näkymää."
+    "Rannalta avautui upea näkymä merelle.",
+    "Hotellihuoneesta oli kaunis näkymä kaupunkiin.",
+    "Vuorenhuipulta näkymä ulottui kilometrien päähän."
   ],
   "translation": [
     "view",
-    "sight",
-    "vista",
-    "prospect"
+    "outlook",
+    "prospect",
+    "scenery",
+    "sight"
   ],
-  "context": "The Finnish word 'näkymä' is a noun that refers to what can be seen from a particular place - the view, sight, or vista. It's derived from the verb 'nähdä' (to see) and indicates something that is visible or observable. The word can refer to physical views like landscapes as well as more abstract concepts of how things appear or seem."
+  "context": "The word 'näkymä' in Finnish means 'view', 'outlook', or 'prospect'. It refers to what you can see from a particular place. The ending '-mä' is a noun suffix.  It declines based on case, as shown in the dictionary definitions; for example, 'näkymän' is the genitive form (of the view), and 'näkymiä' is the partitive plural form (views). It can also be used to indicate possession, like 'näkymämme' meaning 'our view'."
 }

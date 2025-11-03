@@ -1,12 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Sana tarkoittaa sanaa.",
-    "Minulla on sanakirja.",
-    "Sanat ovat hauskoja."
+    "Tässä virkkeessä on viisi sanaa.",
+    "Emme sanoneet sanaakaan.",
+    "Luotan sanaasi."
   ],
   "translation": [
-    "word"
+    "word",
+    "saying",
+    "statement",
+    "promise"
   ],
-  "context": "The Finnish word 'sana' means 'word' in English. It is a common noun used to refer to a unit of language that has meaning and can be spoken or written. The word is used in various contexts when talking about vocabulary, definitions, or the concept of words themselves."
+  "context": "The Finnish word 'sana' translates to 'word' in English. It can refer to a unit of language, like in the sentence 'This sentence has five words'. However, it also carries the meaning of someone’s statement or promise, as seen in 'I'll take your word for it'. The word declines based on grammatical case; for example, 'sanan' is the genitive singular form ('of a word'), and 'sanat' is the nominative plural ('words')."
 }

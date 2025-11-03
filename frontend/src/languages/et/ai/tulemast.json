@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tulemasse!",
-    "Tere tulemast meie lauda.",
-    "Palun tulemasse kõige lähemale kohta."
+    "Tere tulemast!",
+    "Palun tulemajagga oma dokumente.",
+    "Lapsed tulemast kööki!"
   ],
   "translation": [
-    "Welcome",
-    "Come in",
-    "Please come"
+    "come (in)",
+    "enter",
+    "please come in",
+    "welcome"
   ],
-  "context": "The word 'tulemast' is an imperative form of the verb 'tulla' (to come) used as a polite invitation or welcome. It's commonly used when greeting guests and inviting them to enter a place, particularly in hospitality contexts like restaurants or homes. The '-mast' suffix indicates it's in the elative case, often used for directional movement out of something, but here functioning as an imperative command."
+  "context": "The word 'tulemast' is the elative form of the Estonian verb 'tulema', which means 'to come'. It's commonly used as a polite invitation to enter or welcome someone. The '-mast' ending indicates movement from somewhere, so it literally means 'come (from) here/there'. In everyday usage, it's equivalent to saying 'please come in' or 'welcome' when inviting people into a space."
 }

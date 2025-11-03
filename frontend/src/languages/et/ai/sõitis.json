@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta sõitis Tallinnast Tartusse.",
-    "Auto sõitis mööda teed.",
-    "Lapsed sõidavad bussiga kooli."
+    "Sõitis auto linna keskuse.",
+    "Ta sõitis jalgrattaga mööda teed.",
+    "Kass sõitis hiire järel."
   ],
   "translation": [
     "drove",
-    "traveled by vehicle",
-    "went by car"
+    "rode",
+    "traveled by vehicle"
   ],
-  "context": "'Sõitis' is the past tense third person singular form of the Estonian verb 'sõitma', which means 'to drive' or 'to travel by vehicle'. It specifically refers to movement in a motorized vehicle like a car, bus, train, etc. The word indicates completed action in the past, and when used with third person singular subject (ta - he/she), it shows someone drove or traveled somewhere."
+  "context": "The word 'sõitis' is the past tense form of the Estonian verb 'sõita', which means 'to drive', 'to ride', or 'to travel by a vehicle'. It specifically refers to movement using some form of transportation like a car, bicycle, motorcycle, etc. This is the third person singular past indicative form, used when describing what someone drove/rode/traveled in the past."
 }

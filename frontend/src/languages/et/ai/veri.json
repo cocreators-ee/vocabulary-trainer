@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Veri voolab haavast.",
-    "Punane veri on inimestel.",
-    "Temal oli palju verd jalgades."
+    "Inimese ja loomade veri on punane kehavedelik.",
+    "Sääsed imevad verd.",
+    "Tal on rahutu veres."
   ],
   "translation": [
-    "blood"
+    "blood",
+    "life force",
+    "temperament"
   ],
-  "context": "The Estonian word 'veri' means blood. It is used to refer to the red fluid that circulates in the bodies of humans and animals, carrying oxygen and nutrients to tissues and removing waste products. In Estonian grammar, 'veri' is a neuter noun."
+  "context": "The Estonian word 'veri' primarily means 'blood' in the physical sense, referring to the red fluid circulating in human and animal vessels. It extends metaphorically to represent life force, violence (in expressions like 'vägivald ja veri'), and temperament or character traits. The word has rich connotations across Estonian language and culture, from its literal physiological meaning to symbolic uses about heritage ('oma võõras veri' - one's own/foreign blood), emotional states ('rahutu veres' - restless temperament), and family lineage ('üks suguvõsa, üks veri' - one clan, one blood)."
 }

@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on kurssi maanantaisin.",
-    "Olen ilmoittautunut tälle kurssille.",
-    "Kurssi päättyi viime perjantaina."
+    "Minun pitää mennä ranskan kurssille.",
+    "Laiva muutti kurssiaan 15 astetta etelään päin.",
+    "Mikä on Yhdysvaltain dollarin kurssi tänään?"
   ],
   "translation": [
     "course",
-    "lesson",
     "class",
-    "lecture"
+    "rate",
+    "exchange rate"
   ],
-  "context": "The Finnish word 'kurssi' means course, lesson, class or lecture. It refers to a structured program of study or instruction in a particular subject area, typically offered as part of an educational curriculum at a school, university, or other institution. The word can be used for both individual classes and complete courses of study."
+  "context": "The Finnish word 'kurssi' can refer to a period of learning (like a French course), the direction of movement (a ship’s course), or a financial rate like an exchange rate. It declines based on grammatical case, as shown in the provided declension table; for example, 'kurssin' means 'of the course', and 'kursseja' means 'courses'. The plural form is 'kurssit'."
 }

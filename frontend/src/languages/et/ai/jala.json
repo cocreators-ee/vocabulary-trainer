@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema jala oli külm.",
-    "Tal on üks jala lühem kui teine.",
-    "Jalad olid täis liiva."
+    "Hakkasin jaamast jala astuma.",
+    "Läks jala Tartust Tallinna.",
+    "Kümme kilomeetrit jala minna."
   ],
   "translation": [
-    "leg",
-    "foot"
+    "on foot",
+    "walking",
+    "by walking"
   ],
-  "context": "The word 'jala' in Estonian is the genitive singular form of 'jalga', which means 'leg' or 'foot'. It indicates possession or relationship to a leg/foot. In the first sentence, it shows whose leg was cold; in the second, it refers to one's own leg being shorter than the other; and in the third, it describes legs being full of sand."
+  "context": "The Estonian word 'jala' is primarily used as an adverb meaning 'on foot' or 'walking'. It indicates that movement occurs without using any transportation vehicle, by one's own physical power through walking. This word can appear in various contexts such as starting a journey on foot (astuma), going somewhere by walking (läks jala), or measuring distance walked (kümme kilomeetrit jala minna)."
 }

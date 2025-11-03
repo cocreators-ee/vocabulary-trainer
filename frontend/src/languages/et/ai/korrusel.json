@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kodanik elas neljandal korrusel.",
-    "Ta tõi kingad üles viiesse korrusesse.",
-    "Me kohtume kolmandal korrusel kell 10."
+    "Meie korter asub teisel korrusel.",
+    "Ta töötab kolmandal korrusel kontoris.",
+    "Vestibüüli lähedal on liftišaak neljandal korrusel."
   ],
   "translation": [
     "on the floor",
-    "at the level",
-    "on the story"
+    "on storey",
+    "at the floor level"
   ],
-  "context": "The word 'korrusel' is an Estonian adessive case form of the noun 'korrus', meaning 'floor' or 'story' (of a building). The '-l' ending indicates location - it specifies where something is located. This case is commonly used to indicate position within a multi-story building."
+  "context": "The Estonian word 'korrusel' is an adessive case form of 'korrus', meaning it indicates location or position on a particular floor/storey. In this case, it shows that something exists or is located at a specific floor level in a building."
 }

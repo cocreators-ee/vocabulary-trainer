@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on head plaane selks nädalaks.",
-    "Meil plaanid järgmiseks aastaks.",
-    "Ta tegi üllatavaid plaane."
+    "Plaane on plaani osalised vorm.",
+    "Mul on kolm plaane sel nädalal.",
+    "Need plaane on tähtsad projektis."
   ],
   "translation": [
-    "plans",
-    "arrangements",
-    "intentions"
+    "plans (partitive plural form)",
+    "portions of a plan",
+    "parts of a plan"
   ],
-  "context": "The word 'plaane' is the partitive form of 'plaan' in Estonian. The partitive case typically indicates an incomplete action or object, so this would mean 'some plans' or 'planets' (in the sense of having plans but not necessarily completing all of them). It's used when talking about existing plans that exist in some quantity but haven't been completed yet."
+  "context": "The word 'plaane' is the partitive plural form of the Estonian noun 'plaan'. In Estonian grammar, the partitive case is used to indicate partiality or indefiniteness. So 'plaane' refers to portions or parts of plans, rather than complete plans themselves. This grammatical form is commonly used when talking about multiple incomplete plans or parts of planning work."
 }

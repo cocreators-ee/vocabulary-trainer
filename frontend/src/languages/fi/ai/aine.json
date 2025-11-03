@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä aine on vaarallinen.",
-    "Oppiminen uusista aineista on mielenkiintoista.",
-    "Kemiallinen koostumukseltaan tämä aine on monimutkainen."
+    "Hänen lempiaineensa on fysiikka.",
+    "Opiskelen tänään matematiikan ainetta.",
+    "Kirjoitin esseen aiheesta historia."
   ],
   "translation": [
-    "substance",
-    "material",
-    "subject (of study)",
-    "matter"
+    "matter",
+    "subject",
+    "discipline",
+    "essay",
+    "topic"
   ],
-  "context": "The Finnish word 'aine' has multiple meanings depending on context. It can refer to physical substances or materials, such as chemicals or compounds. In educational contexts, it means 'subject' like a field of study. As a singular noun, it refers to one substance/material/subject. When used in compound words, it often appears in the partitive form 'ainetta', indicating an unspecified amount of something."
+  "context": "The Finnish word 'aine' can refer to several concepts, including matter, material, substance, subject (as in an area of study), or essay. It declines based on case and possession, as shown in the dictionary definitions. For example, 'aineensa' means 'his/her subject'. The plural form is 'aineet'."
 }

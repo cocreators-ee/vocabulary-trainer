@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema nimel on kaks last.",
-    "Temanimeline koer istus aias.",
-    "Oleme selle nimel kokku tulnud."
+    "Ta on Eesti nimel esindanud oma peret.",
+    "Lahendus leiti teadlaste nimel.",
+    "See projekt käivitati presidendi nimel."
   ],
   "translation": [
     "in the name of",
     "on behalf of",
-    "called",
-    "named"
+    "by the authority of"
   ],
-  "context": "The Estonian word 'nimel' is an instrumental case form of the noun ' nimi', which means 'name'. It's used to indicate possession, agency, or purpose. Specifically, 'nimel' can mean 'in the name of', 'on behalf of', or be part of compound expressions meaning 'called' or 'named'. This grammatical construction shows how Estonian uses case endings rather than prepositions for certain relationships."
+  "context": "The Estonian word 'nimel' is an adessive case form of 'nimi' (name). It functions as a postposition meaning 'in the name of', 'on behalf of', or 'by the authority of'. This grammatical case indicates location or position, and when used with 'nimi', it specifies that something is being done under someone's name or authority. The word appears in formal contexts such as representation, authorization, or official actions."
 }

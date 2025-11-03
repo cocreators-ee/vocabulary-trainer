@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Hän oli peloissaan pimeässä.",
-    "Lapset olivat peloissaan ukkosmyrskyn aikana.",
-    "He olivat peloissaan uudesta koulusta."
+    "Hän oli aivan peloissaan.",
+    "Lapset olivat peloissaan pimeässä.",
+    "Älä ole peloissaan, minä olen täällä."
   ],
   "translation": [
     "afraid",
+    "terrified",
+    "frightened",
     "scared",
-    "terrified"
+    "worried"
   ],
-  "context": "The Finnish word 'peloissaan' is an adverbial form derived from the noun 'pelko' (fear). It's in the elative case ('-ssa' suffix), which indicates location or state. The construction follows the pattern where a noun becomes an adverb by adding '-ssa/-ssä'. When someone is 'peloissaan', they are experiencing fear, anxiety, or being scared of something specific. This form emphasizes their current emotional state of being afraid."
+  "context": "The word 'peloissaan' is a Finnish adverb meaning 'afraid', 'terrified', or 'frightened'. It is the inessive plural form of 'pelko' (fear) with a possessive suffix. The '-ssaan' ending indicates that someone *is* in a state of fear.  It can be used predicatively with the verb 'olla' (to be), as in 'Hän oli peloissaan' (He/She was afraid). It also has personal/possessive forms, indicating who is feeling the fear ('peloissani' - I am afraid, 'peloissanne' - you are afraid, etc.)."
 }

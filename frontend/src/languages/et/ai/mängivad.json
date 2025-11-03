@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Lapsed mängivad palli mänguväljakul.",
-    "Naised mängivad näitust teatris.",
-    "Mehed mängivad pokkeri õhtuti."
+    "mängivad marjast",
+    "mu soolikad mängivad marjast"
   ],
   "translation": [
-    "play",
     "are playing",
-    "perform"
+    "are making noise"
   ],
-  "context": "The word 'mängivad' is the 3rd person plural present tense form of the Estonian verb 'mängima', which means 'to play'. In English, this would translate to 'they play' or 'are playing'. The word can be used for various activities including physical games (like sports), musical performances, or theatrical presentations. It's a very common verb in Estonian that covers multiple meanings of 'play' in English."
+  "context": "The word 'mängivad' is the 3rd person plural present tense form of the Estonian verb 'mängima', meaning 'to play'. However, in this context from O. Luts's text, it appears to be used metaphorically to describe stomach noises or rumbling sounds when hungry, similar to how English might say 'my stomach is playing up' or 'making noise'. The sentence structure suggests the soolikad (stomachs) are 'playing' due to hunger."
 }

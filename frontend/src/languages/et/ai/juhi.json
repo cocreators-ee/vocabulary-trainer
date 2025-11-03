@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tema on juhi.",
-    "Juhi sõidab autoga.",
-    "Kes on juhi?"
+    "Juhi on meie kooli direktor.",
+    "Kõik juhtidest on kokku tulnud.",
+    "Ma rääkisin juhiga eelmisel nädalal."
   ],
   "translation": [
     "leader",
-    "driver",
-    "guide"
+    "manager",
+    "director",
+    "head",
+    "boss"
   ],
-  "context": "The Estonian word 'juhi' can have multiple meanings depending on context. It is the genitive case of 'juht', which means leader, driver, or guide. In the genitive form (ending -i), it indicates possession or relationship to something, similar to English possessive forms like 'leader's' or showing that someone is functioning in a leadership/driver/guide role."
+  "context": "The Estonian word 'juhi' is the genitive singular form of the noun 'juht', which means leader, manager, director, head, or boss. In the genitive case (possessive), it can mean 'of the leader/manager/director' or be used to indicate possession relationship with a leader figure. For example, 'juhi otsus' would mean 'the decision of the leader'. The word appears in educational contexts where it refers to school principals or administrative leaders."
 }

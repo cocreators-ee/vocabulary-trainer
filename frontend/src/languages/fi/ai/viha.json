@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on viha häntä kohtaan.",
-    "Hän tunsi syvää vihaa pettymyksestään.",
-    "Viha voi olla tuhoisa tunteena."
+    "Hän tunsi suurta vihaa pettymystä kohtaan.",
+    "Viha sumentaa järjen.",
+    "Isossa vihassa Ruotsin armeija hyökkäsi Suomeen."
   ],
   "translation": [
-    "hatred",
     "anger",
-    "resentment"
+    "fury",
+    "rage",
+    "hatred",
+    "wrath",
+    "ire"
   ],
-  "context": "The Finnish word 'viha' primarily means hatred or anger. It refers to a strong negative feeling toward someone or something, ranging from mild irritation to intense hatred. In different contexts, it can be translated as 'anger,' 'rage,' 'hostility,' or 'hatred.' The word is commonly used to describe emotions of displeasure, fury, or resentment towards others."
+  "context": "The word 'viha' in Finnish means anger, fury, rage, or hatred. It is a noun that declines based on case and number. The dictionary definitions show it can also refer to war (historical contexts like 'isoviha', meaning the Great Wrath), but this usage is less common now.  The partitive form ('vihaa') is often used when expressing anger *towards* something, using the preposition 'kohtaan'. You'll see different forms depending on who possesses the anger – my anger ('vihani'), your anger ('vihasi'), etc."
 }

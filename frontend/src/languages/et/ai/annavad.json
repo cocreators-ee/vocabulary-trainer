@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Kodanikud annavad maksu.",
-    "Lapsed annavad kingitusi emale.",
-    "Meie teeme koostööd ja me anname üksteisele abi."
+    "Mees ja naine annavad kingitusi lastele.",
+    "Lapsed annavad õpetajale tööd.",
+    "Tegelikult meie vanemad ei anna raha kõigile soovitele."
   ],
   "translation": [
     "give",
-    "provide",
-    "offer"
+    "provide"
   ],
-  "context": "The word 'annavad' is the 3rd person plural present form of the Estonian verb 'anna', which means 'to give'. It translates to English as they give/we give (depending on context). This verb indicates the action of providing something to someone or something else. In Estonian, this verb follows standard conjugation patterns with different forms for different persons and tenses."
+  "context": "The Estonian word 'annavad' is the third-person plural present indicative form of the verb 'andma', meaning 'to give'. It refers to what they (multiple people/things) are giving or providing in the current moment. The subject would be in the nominative case and plural number, indicating multiple givers."
 }

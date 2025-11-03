@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Me keskustelimme viikonlopusta.",
-    "Hän haluaa keskustella sinun kanssa.",
-    "Keskusteleeko hän suomeksi?"
+    "Me keskustelemme politiikasta.",
+    "Hän keskustelee pomo kanssa uudesta projektista.",
+    "Keskustelevatko he ratkaisusta?"
   ],
   "translation": [
-    "to discuss",
-    "to talk",
-    "to converse"
+    "discuss",
+    "talk",
+    "converse",
+    "negotiate"
   ],
-  "context": "The Finnish word 'keskustella' is a verb that means to have a discussion or conversation with someone. It's the infinitive form of the verb and belongs to the -lla/-llä conjugation class in Finnish. The word comes from 'keskus' (center) and indicates communication centered around specific topics."
+  "context": "The Finnish verb 'keskustella' means to discuss, talk about or converse on a topic. It is an intransitive verb, meaning it doesn’t take a direct object. The word stems from 'keskus', which relates to the center or focus of something.  The form 'keskustelevat' indicates the third-person plural present tense ('they discuss'). The suffix '-tella' is added to the stem to create the verb, and it can be conjugated in various tenses and moods as shown in the dictionary definition."
 }

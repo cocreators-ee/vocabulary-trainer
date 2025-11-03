@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "See on tüüpiline näide.",
-    "Mul on hea tüüp sõber.",
-    "Tema töö tüübistab kõik inimesed."
+    "Tüüpi masinate v. seadmete, hrl. jõumasina ja töömasina(te) ühend.",
+    "Mootor ja käigukast on auto agregaadid.",
+    "Traktoriga agregaadis olev vihmutusseade."
   ],
   "translation": [
-    "typical",
-    "type",
-    "kind",
-    "sort"
+    "unit",
+    "assembly",
+    "set",
+    "aggregation",
+    "combination"
   ],
-  "context": "The Estonian word 'tüüpi' appears to be the adessive case form of 'tüüp', which means 'type' or 'kind'. In the adessive case (ending -i), it would typically mean 'with type' or 'in terms of type'. However, without more context, this could also potentially represent a misspelling or variation of other words. The word is commonly used in Estonian to refer to categories or classifications of things."
+  "context": "In Estonian, 'tüüpi' is an instrumental case form that means 'of type' or 'as a type'. It's typically used to specify the kind or category of something. In technical contexts, it often appears in phrases like 'tüüpi masinate' meaning 'machines of a certain type'. This word form modifies nouns by indicating their classification or variety."
 }

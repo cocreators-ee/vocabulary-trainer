@@ -1,16 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ruumi on hea tööks.",
-    "See ruum on väga suur.",
-    "Maja koosneb mitmest ruumist."
+    "Ühel hetkel aeg ja ruum kadusid mu jaoks, olin väljaspool ruumi ja aega.",
+    "Väike, kitsas, madal, avar ruum.",
+    "Võtke end koomale, mul ei ole siin ruumi."
   ],
   "translation": [
-    "room",
     "space",
+    "room",
     "area",
-    "chamber",
-    "hall"
+    "chamber"
   ],
-  "context": "The word 'ruum' in Estonian refers to a room, space, or enclosed area. It can be used to describe any type of indoor space - from a single room in a house to larger halls or chambers. The word is commonly used when referring to the physical dimensions and boundaries of an enclosed space."
+  "context": "The Estonian word 'ruum' has multiple related meanings. It can refer to physical space or room (as in a building), the concept of space and time as dimensions, an area or region, volume or capacity, and is also used as a clipping for 'ruumimeeter' (cubic meter). The word functions as both a countable noun (rooms) and uncountable noun (space/area), with various compound forms indicating different types of spaces."
 }

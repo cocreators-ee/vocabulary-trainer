@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma aimugi, et ta tuleb homme.",
-    "Ta aimub alati oma tegemisi.",
-    "Meie plaanid aimuvad kuskil poolel teel."
+    "Ei ole halli aimugi.",
+    "Tema pole halli aimu.",
+    "Pole vähematki halli aimu."
   ],
   "translation": [
-    "I guess",
-    "I suppose",
-    "I reckon",
-    "I imagine"
+    "no idea at all",
+    "not the slightest clue",
+    "absolutely no notion"
   ],
-  "context": "The Estonian word 'aimugi' is a colloquial expression used to indicate uncertainty or approximation in speech. It functions as an adverb meaning roughly 'I guess', 'I suppose', or 'I imagine'. The word comes from the verb 'aima' (to aim, to guess) with the '-gi' suffix which adds emphasis. In Estonian conversation, it's commonly used when someone wants to express that they're not entirely certain about something but have a reasonable assumption based on available information."
+  "context": "The word 'aimugi' is an Estonian adverbial expression that intensifies negation. It's derived from 'aimu' (clue, notion) combined with the particle '-gi' (also/either), and used in negative contexts to mean 'not even a little bit', 'absolutely not at all'. This expression typically appears after the verb 'pole' (is/are not) or similar negations. It's commonly used in spoken Estonian to emphasize complete lack of knowledge, understanding, or awareness about something."
 }

@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Ta on tapnud mõrtsukas.",
-    "Poisid said tapetud.",
-    "Tapnud jänese nägi ta teel."
+    "Ta on tapnud inimese v. inimesi.",
+    "Seal on valatud inimverd 'tapetud inimesi'."
   ],
   "translation": [
-    "killed",
-    "slain"
+    "has killed (person/people)",
+    "murdered"
   ],
-  "context": "The word 'tapnud' is the past participle form of the Estonian verb 'tappa', which means 'to kill'. It indicates that someone or something has been killed in the past. The word can be used to describe the action itself (someone has killed) or the state resulting from the action (has been killed)."
+  "context": "The word 'tapnud' is the past participle form of the verb 'tappa', which means 'to kill'. In Estonian, it agrees with the subject and indicates that someone has killed a person or people. This word specifically refers to killing humans (as opposed to animals), as indicated by the dictionary definition mentioning 'inimveri' (human blood) and examples showing 'tapnud inimese v. inimesi' (has killed a person/people)."
 }

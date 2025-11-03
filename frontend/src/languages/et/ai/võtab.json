@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta võtab koha",
-    "Meie võtame kohti",
-    "Tema võttis koha"
+    "Võtab kirjuks lööb.",
+    "Silmad lähevad võtab kirjuks.",
+    "Sagin võtab silmad kirjuks."
   ],
   "translation": [
     "takes",
-    "taking",
-    "will take",
-    "took"
+    "is taking",
+    "to take"
   ],
-  "context": "The word 'võtab' is the third person singular form of the Estonian verb 'võtma', which means 'to take'. It's used in present tense to describe someone taking or getting something. The verb follows Estonian conjugation patterns where different forms change based on subject (I, you, he/she/it, we, you plural, they) and tense (present, past, future)."
+  "context": "The word 'võtab' is the third-person singular present indicative form of the Estonian verb 'võtma', which means 'to take'. It's used when referring to someone or something that takes or is currently taking an action. In some contexts, it can be part of expressions related to vision becoming blurry ('silmad võtab kirjuks' - eyes become blurry)."
 }

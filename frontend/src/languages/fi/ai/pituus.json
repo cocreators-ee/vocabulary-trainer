@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minun pituuteni on 175 senttimetriä.",
-    "Mikä on tämän huoneen pituus?",
-    "Auton pituus oli yli neljä metriä."
+    "Minun pituuteni on 180 senttimetriä.",
+    "Talon pituus oli noin kaksikymmentä metriä.",
+    "Meren itäinen pituus on merkitty kartalla."
   ],
   "translation": [
     "length",
     "height",
-    "size"
+    "longitude",
+    "distance"
   ],
-  "context": "The Finnish word 'pituus' refers to measurement of length or height. It is a noun that indicates the extent of something from end to end, often used when measuring physical dimensions like human height, room dimensions, or object size."
+  "context": "The word 'pituus' in Finnish refers to the measurement of something along its longest dimension. It can mean length (of an object), height (of a person), or longitude (in geography). The noun declines based on case, as shown in the dictionary definition, with different forms for singular and plural, and possessive suffixes indicating who owns the length being measured. For example, 'pituuteni' means 'my length/height'. The suffix '-uus' indicates a quality or state of being long."
 }

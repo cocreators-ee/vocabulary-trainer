@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tule linna kohtuma.",
-    "Me läheme linna keskusesse.",
-    "Mees tuli linnast."
+    "Riia linna näidatud - isegi korrapidaja kõrvad on punased.",
+    "Minu linnas on paluveerud.",
+    "Tallinna linna läheduses asub muuseum."
   ],
   "translation": [
-    "to the city",
-    "into the city"
+    "city",
+    "town"
   ],
-  "context": "The Estonian word 'linna' is the illative case (directional case) form of the word 'linn', which means 'city'. It indicates movement towards or into a city. In English, it translates to 'to the city' or 'into the city'. This form shows where someone or something is going - entering or heading toward an urban area."
+  "context": "'Linna' is the genitive, partitive, and illative singular form of 'linn', meaning 'city' or 'town'. In Estonian grammar, this ending indicates possession (genitive), an unspecified quantity (partitive), or movement toward a place (illative). For example, 'Tallinna linna' means 'to Tallinn city' indicating direction."
 }

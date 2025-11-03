@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ei tea, kuidas see maitseb.",
-    "Toiduained maitsevad erinevalt.",
-    "See keefir ei maitse hea."
+    "See maitseb hea.",
+    "Toit maitseb magusasti.",
+    "Ei maitse midagi spetsiaalset."
   ],
   "translation": [
-    "tastes"
+    "tastes",
+    "has a taste of",
+    "flavor"
   ],
-  "context": "The word 'maitseb' is the 3rd person singular present form of the Estonian verb 'maitsima', which means 'to taste'. It describes what food or drink tastes like from someone's perspective. In English, this would be translated as 'tastes' (singular) or 'taste' (plural)."
+  "context": "The word 'maitseb' is the third person singular form of the Estonian verb 'maitsima', which means 'to taste'. It describes what something tastes like or how it has a certain flavor. For example, 'See maitseb hea' means 'This tastes good', and 'Toit maitseb magusasti' means 'The food tastes sweetly'."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta tõi musta kassi tuppa.",
-    "Mustad hobused jooksid väljakul.",
-    "Linnud lendasid mustade pilvede vahel."
+    "Tuleb külla musta krunti noormees.",
+    "Nägin musta koera tänaval.",
+    "Ostsin musta värvi riideid."
   ],
   "translation": [
-    "black",
-    "dark",
-    "pitch-black"
+    "black (partitive singular)",
+    "black (genitive singular)",
+    "into black (illative singular)"
   ],
-  "context": "The word 'musta' is the partitive case singular form of the Estonian adjective 'must', meaning 'black'. It is used when referring to a black object or objects in an incomplete sense, often as the direct object of a verb. The word can describe both literal darkness/black color and metaphorical darkness (like evil or sadness)."
+  "context": "The Estonian word 'musta' has multiple grammatical functions depending on context. It can be the partitive singular form of 'must' meaning 'black', indicating an indefinite amount or object in part case. It can also be the genitive singular form, possession of something black. Additionally, it serves as the illative singular form, expressing movement into or towards something black. In the provided example sentence 'Tuleb külla musta krunti noormees,' 'musta' modifies 'krunti' (crude term) and is likely in genitive case indicating possession by the young man."
 }

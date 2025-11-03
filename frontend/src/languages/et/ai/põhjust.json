@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tegemist on põhjusega.",
-    "Ta tegi seda põhjustel.",
-    "Põhjus oli selge."
+    "Tüdruk talitas köögis ja poisski tegi sinna asja.",
+    "Ta tuli põhjust oma halendamiseks.",
+    "Põhjust miks ta hilines oli trafik."
   ],
   "translation": [
     "reason",
     "cause",
-    "ground"
+    "motivation",
+    "purpose"
   ],
-  "context": "The Estonian word 'põhjust' is the partitive form of the noun 'põhjus', which means 'reason' or 'cause'. It appears in contexts where we're talking about a reason in an incomplete or non-specified amount, often used with verbs that take the partitive case. The basic form 'põhjus' would be translated as 'a reason/the reason', while 'põhjust' is more like '(of) a reason' or some amount of reason."
+  "context": "The Estonian word 'põhjust' is an adessive case form that means 'because of', 'for the sake of', or 'due to'. It indicates the reason, cause, or purpose behind something. In the example sentence 'Tüdruk talitas köögis ja poisski tegi sinna asja,' it shows that both the girl and boy were acting for some specific reason or purpose in the kitchen."
 }

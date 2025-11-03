@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on muu asia.",
-    "Hän tulee toisesta maasta, kuin muut.",
-    "Muu osa talosta on remontoitu."
+    "Hän etsi jotain muuta syötävää.",
+    "Onko siellä ketään muuta?",
+    "Kirja on muuta laatua kuin tämä."
   ],
   "translation": [
     "other",
     "another",
-    "different",
     "else"
   ],
-  "context": "The Finnish word 'muu' is an adjective that means 'other', 'another', 'different', or 'else'. It's used to refer to something that is not the one already mentioned or different from what has been specified. In Finnish grammar, it's a declinable word that changes form based on case and number. For example, in the nominative singular it's 'muu', but in the plural form it becomes 'muut'. It can also appear in other cases like 'muun' (genitive singular) or 'muussa' (inessive singular)."
+  "context": "The word 'muu' in Finnish generally means 'other', 'another', or 'else'. It can function as a pronoun, determiner, and has various inflections depending on its grammatical case. As a pronoun it refers to someone or something else. The plural form is 'muut', meaning 'others'. It also appears in compound words like 'ilman muuta' (without fail) and 'muualle' (elsewhere)."
 }

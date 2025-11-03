@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Signaali ei ole selge.",
-    "Võta signaal vastu.",
-    "Oota signaali."
+    "Signaali dekodeerimine võtab aega.",
+    "Me peame signaali parandama.",
+    "Signaali tugevus oli nõrk."
   ],
   "translation": [
-    "signal"
+    "signal",
+    "signalling"
   ],
-  "context": "The word 'signaali' is the partitive case form of the Estonian noun 'signaal'. It means 'signal' in English and refers to a message conveyed by some means, often electronic or visual. In this form (partitive), it typically appears as an object indicating an unspecified or partial quantity of signals."
+  "context": "The Estonian word 'signaali' is the partitive case form of 'signaal', meaning 'signal'. It refers to a signal that is being acted upon or received. In technology and communication contexts, it commonly refers to electrical signals, radio signals, or data signals that need to be decoded or processed."
 }

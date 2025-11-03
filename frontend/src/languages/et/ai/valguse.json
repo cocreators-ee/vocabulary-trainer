@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Valgus paistab aknast.",
-    "Ta lõi valgust sisse.",
-    "Valguse puudumine oli probleem."
+    "Tuul on akende pealt.",
+    "Istusin toas akna all.",
+    "Akna taga keegi ronib sisse."
   ],
   "translation": [
-    "light"
+    "window",
+    "aperture",
+    "opening"
   ],
-  "context": "The word 'valguse' is the genitive case singular form of 'valgus', which means 'light'. In Estonian, the genitive case typically indicates possession or association with something. So 'valguse' would translate to 'of light' or 'with light' depending on context."
+  "context": "The word 'aknad' is the plural form of 'aken', meaning window. It refers to the framed glass openings in walls or ceilings that allow light and air into buildings, vehicles, etc., as well as the frames themselves. Windows can be high, spacious, wide, large, low, small, narrow, pointed-arched, round-arched, double-hung, opening inward/outward, corner windows facing garden/street, etc. The word is also used metaphorically for openings in computer displays (windows/icons) and figuratively for breaks between classes or gaps without plants in water bodies."
 }

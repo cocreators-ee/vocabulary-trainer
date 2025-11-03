@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema elab majas.",
-    "Lapsed mängivad majas.",
-    "Klassik on majas."
+    "Tere tulemast majas!",
+    "Kõik on korras majas.",
+    "Pesa asub puu otsas majas."
   ],
   "translation": [
+    "inside the house",
     "at home",
-    "in the house"
+    "in the building"
   ],
-  "context": "The Estonian word 'majas' is the adessive case form of 'maja', meaning 'house'. In adessive case, it indicates location or state, so it translates to 'at home' or 'in the house'. This form shows where something is located or happens."
+  "context": "The word 'majas' is the inessive singular form of 'maja' (house). In Estonian grammar, the inessive case indicates location inside or within something. So 'majas' specifically means 'inside the house' or 'at home'. It's used to indicate where someone or something is located - being inside a building or structure rather than outside."
 }

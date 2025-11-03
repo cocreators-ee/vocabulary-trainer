@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minun talo on suuri.",
-    "Talon ovi on auki.",
-    "Hän rakastaa asua omassa talossaan."
+    "Minulla on pieni punainen talo.",
+    "He ostivat uuden talon kaupungista.",
+    "Talossa asuu viisi ihmistä."
   ],
   "translation": [
     "house",
+    "home",
     "building",
-    "home"
+    "farmstead"
   ],
-  "context": "The Finnish word 'talo' means 'house' in English. It's a common noun that refers to a building where people live. The word is in the nominative singular form. In different contexts, it can refer to any type of building structure used as living quarters, from small houses to larger buildings. When used with possessive suffixes or in different cases, it changes form (e.g., 'talo' becomes 'talossa' - in the house, 'talon' - of the house)."
+  "context": "The Finnish word 'talo' most commonly means 'house', referring to a building used as a human dwelling. It can also refer more broadly to a farm or homestead, and even a company or workplace in certain contexts. The word declines based on case (nominative, genitive, etc.), and possessive suffixes are added to indicate ownership ('my house', 'your house' and so on).  The plural form is 'talot'. For example, 'talon' means 'of the house', while 'taloa' means 'some house'."
 }

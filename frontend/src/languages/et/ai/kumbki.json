@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kumbki meesest ei tulnud tööle.",
-    "Ei tea kumbki neist kaheksast linnast on parem.",
-    "Mõlemad ja kumbki on õigused vastused."
+    "Kumbki rühm koosnes kümnest inimesest.",
+    "Ma ei tunne kumbagi meest.",
+    "Kummasi käes oli tulijal kohver."
   ],
   "translation": [
-    "either",
-    "neither"
+    "either one of two",
+    "both (in affirmative contexts)",
+    "neither (in negative contexts)"
   ],
-  "context": "Kumbki is an Estonian pronoun that means 'either' or 'neither'. It's used to refer to one of two options when the specific choice isn't important or unknown. The word is typically used in negative contexts with verbs like 'ei' (not), indicating that neither option applies, or can be used more broadly for either of two alternatives."
+  "context": "Kumbki is a determinative pronoun used in Estonian when referring to two separate entities, people or things. In affirmative sentences it means 'both' (nii üks kui teine - one as well as the other), while in negative constructions it means 'neither' (ei see ega teine - not this and not that). It can be used both adjectivally and substantively, with various case forms like kummagi (genitive/illative), kummaski (inessive), etc."
 }

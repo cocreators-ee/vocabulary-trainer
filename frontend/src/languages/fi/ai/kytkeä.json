@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minun täytyy kytkeä tietokoneeseen.",
-    "Voisitko auttaa minua kytkemään printterin?",
-    "Tämä kaapeli ei kytkeydy oikein."
+    "Hän kytki tietokoneen päälle.",
+    "Voit kytkeä television antenniin.",
+    "Pitäisi kytkeä uusi lamppu."
   ],
   "translation": [
-    "to connect",
-    "to plug in",
-    "to link up"
+    "connect",
+    "hook up",
+    "switch on",
+    "turn on"
   ],
-  "context": "The Finnish verb 'kytkeä' means to physically or logically connect something, such as plugging in electronics, linking devices together, or establishing a connection between components. It can refer to electrical connections, computer networking, or even more abstract connections."
+  "context": "The Finnish verb 'kytkeä' means to connect, hook up or switch something on. It is a transitive verb, meaning it requires an object. The word can also mean to disconnect or decouple when used with the particle 'irti'.  It conjugates regularly and has various forms depending on tense and person, as shown in the dictionary definition. For example, 'kytken' means 'I connect', while 'olen kytkenyt' means 'I have connected'."
 }

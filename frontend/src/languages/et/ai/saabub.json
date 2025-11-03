@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Saabub homme kell kaks.",
-    "Tema saabub varsti.",
-    "Kes saabub täna õhtul?"
+    "Saabub homme",
+    "Ta saabub kolmest",
+    "Järgmine saabuv nädal"
   ],
   "translation": [
+    "is coming",
     "arrives",
-    "comes",
-    "is coming"
+    "approaching",
+    "upcoming"
   ],
-  "context": "The word 'saabub' is the third person singular present tense form of the Estonian verb 'saabuma', which means to arrive or to come. It describes when someone or something arrives at a destination, similar to how we say 'he/she/it comes' or 'he/she/it arrives' in English."
+  "context": "The word 'saabub' is the 3rd person singular present tense form of the verb 'saabuma', which means 'to come' or 'to arrive'. It indicates that someone or something is currently in the process of coming/arriving. This word belongs to a group of verbs with '-ub' suffix indicating ongoing action in present tense."
 }

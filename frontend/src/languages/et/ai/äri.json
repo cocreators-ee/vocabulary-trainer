@@ -1,14 +1,19 @@
 {
   "understood": true,
   "sentences": [
-    "Äri on hea.",
-    "Ma olen äris nädalavahetusest peale olnud.",
-    "See firma teeb head äri."
+    "Äri on seotud riskiga.",
+    "Ajab äri sakslastega.",
+    "Kui palju sellelt ärilt teenida võib?",
+    "Elektritarvete äri.",
+    "Hoone esimesel korrusel asuvad ärid ja söögikohad."
   ],
   "translation": [
     "business",
+    "trade",
     "commerce",
-    "trade"
+    "enterprise",
+    "dealings",
+    "commercial activity"
   ],
-  "context": "The Estonian word 'äri' means business, commerce, or trade. It is used to refer to commercial activities, enterprises, or the act of doing business. The word can be used in various contexts such as talking about one's own business activities ('olen äris olnud' - I have been in business), evaluating a company's performance ('teeb head äri' - does good business), or simply referring to business in general."
+  "context": "The Estonian word 'äri' has two main meanings: 1) Business activities aimed at profit, including buying and selling, trading, etc. - this can refer to the act of doing business or the state/profitability of a business; 2) A shop or service establishment. The word is used in various compound terms like 'narkoäri' (drug trade), 'relvaäri' (arms trade), and 'fotoäri' (photography business). In its declension forms, it can appear as ärid (plural nominative), äril (adessive), etc."
 }

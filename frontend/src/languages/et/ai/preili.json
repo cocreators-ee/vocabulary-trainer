@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Preili Kask käis täna poes.",
-    "Preili Smith on hea õpetaja.",
-    "Preili ja preili kohtusid kesklinnas."
+    "Noor kena preili.",
+    "Ta on juba päris preiliks sirgunud, näeb välja nagu preili.",
+    "Mida teile pakkuda, preili?",
+    "Preilid Roosinupud."
   ],
   "translation": [
-    "Miss",
-    "young lady"
+    "miss",
+    "unmarried woman",
+    "lady"
   ],
-  "context": "In Estonian, 'preili' is a polite term of address for an unmarried woman or young lady, similar to 'Miss' in English. It's used as a formal title before a surname when addressing someone directly, much like how we would say 'Miss Smith' in English."
+  "context": "The Estonian word 'preili' is a noun that has two main meanings: 1) An unmarried (young) woman or miss, often used as a form of address; 2) A lady, particularly referring to an upper-class woman. It's derived from the German word 'Fräulein'. The word can be used in compound nouns with various prefixes indicating different contexts (like kassapreili, kontoripreili). In its declension forms, it appears as 'preilid' in plural nominative case and 'preilit' in partitive singular."
 }

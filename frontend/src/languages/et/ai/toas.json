@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tööruumis on suur laud.",
-    "Maja koosneb kahest toast ja köögist.",
-    "Ta elab väikeses toas."
+    "Toas on palju mänguasju.",
+    "Tüdrukud mängivad toas nukke.",
+    "Meie lapse toas on väga ilus."
   ],
   "translation": [
-    "room",
-    "chamber",
-    "apartment"
+    "in the room",
+    "inside the room",
+    "within the room"
   ],
-  "context": "The word 'toas' is the inessive case of Estonian word 'toa', meaning 'in the room'. The inessive case indicates location inside something. It's formed by adding '-s' to the genitive form of 'toa'. In English, this would translate to expressions like 'in the room', but in Estonian grammar it becomes a separate form."
+  "context": "The word 'toas' is the inessive singular form of the Estonian noun 'tuba', meaning 'room'. The inessive case indicates location within or inside something. So 'toas' specifically means 'in the room' and shows that someone or something is located inside a room."
 }

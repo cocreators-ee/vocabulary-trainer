@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Hobused söövad heina.",
-    "Väikesed hobused mänguvad väljakul.",
-    "Hobused on tugevad loomad."
+    "Hobused on loomad.",
+    "Vanas linnas nägin väikseid hobuseid.",
+    "Lapsele meeldisid värsked hobused."
   ],
   "translation": [
-    "horses",
-    "equines"
+    "horses"
   ],
-  "context": "The word 'hobused' is the plural form of 'hobune', which means 'horse' in English. It refers to multiple horses, referring generally to the animal species. In Estonian, many nouns end with '-d' to indicate plurality, making this a clear example of how nouns are inflected for number."
+  "context": "The word 'hobused' is the plural form of the Estonian noun 'hobune', which means 'horse'. It refers to multiple horses. In Estonian, nouns have different forms for singular and plural, and 'hobused' specifically indicates more than one horse."
 }

@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Olukorra on vaja lahendada kõigepealt.",
-    "Millises olukorras me praegu oleme?",
-    "See oli raske olukorda."
+    "Olukorda on hädas.",
+    "Me peame olukorda parandama.",
+    "Kuidas me saame sellest olukorrast välja?"
   ],
   "translation": [
     "situation",
-    "condition",
-    "circumstances"
+    "circumstances",
+    "conditions",
+    "state of affairs"
   ],
-  "context": "The word 'olukorda' is the partitive case form of Estonian noun 'olukord', which means 'situation' or 'condition'. The partitive case in Estonian is often used to indicate that something belongs to, is about, or affects a situation. It's commonly used when talking about different states, conditions, or circumstances. In the examples provided, it shows how this form is used when discussing what needs to be resolved (the situation), asking about current conditions, or describing difficult circumstances."
+  "context": "The word 'olukorda' in Estonian is the partitive case form of 'olukord', which means situation, circumstances, or conditions. It's used when referring to a specific instance of a situation or state of affairs. The partitive case often indicates that something is being experienced or undergone, so 'olukorda' suggests being in or experiencing a particular situation."
 }

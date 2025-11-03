@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Võtan kohvi.",
-    "Ma võtan auto.",
-    "Ta ei võta toitu."
+    "Võtan dušši pärast trenni.",
+    "Ma võtan hommikuti dušši enne tööle minemist.",
+    "Tüdruk võtab tihti pikemat dušši."
   ],
   "translation": [
-    "take",
-    "get",
-    "accept"
+    "I take",
+    "I am taking"
   ],
-  "context": "The word 'võtan' is the first person singular present indicative form of the Estonian verb 'võtta', which means 'to take'. It indicates that someone (I) is performing the action of taking, getting, or accepting something. The conjugation follows regular Estonian verb patterns for the present tense."
+  "context": "The Estonian word 'võtan' is the first person singular present tense form of the verb 'võtma', which means 'to take'. In this context, it appears in the sentence structure 'võtan dušši' meaning 'I take a shower'. The word follows Estonian grammar where the action (taking) is conjugated for the speaker and object (shower) is in the partitive case."
 }

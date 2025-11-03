@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "See on suur lehm.",
-    "Ma olen külastanud farmi, kus palju lehmi.",
-    "Lehm sööb heina."
+    "Punane, kirju, must, nudi, sarvedega lehm.",
+    "Tiine, aher, lüpsja lehm.",
+    "Lehm annab piima, lüpsab."
   ],
   "translation": [
-    "cow"
+    "cow",
+    "female cattle",
+    "heifer"
   ],
-  "context": "The Estonian word 'lehm' means cow in English. It is a common noun referring to the female of cattle species that are raised for milk or meat production. In Estonian, it's a neuter noun following standard declension patterns."
+  "context": "The Estonian word 'lehm' primarily means a female cow (Bos primigenius taurus), specifically from the time of first calving onward. It refers to adult female cattle used for milk production. In derogatory contexts, it can refer to a fat or slovenly woman. The word follows specific declension patterns in Estonian grammar and has compound formations like 'piimalehm' (milk cow) and 'lüpsi-lehm' (milking cow)."
 }

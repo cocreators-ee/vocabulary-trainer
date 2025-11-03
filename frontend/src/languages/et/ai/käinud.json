@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Käisin eile pooleks päeva linnas.",
-    "Oleme käinud paljudes riikides.",
-    "Ta on juba käinud arstis."
+    "Käisime eile kinna käinud.",
+    "Ta on käinud paljudes riikides.",
+    "Me oleme käinud koos kolm aastat."
   ],
   "translation": [
-    "have been",
     "visited",
-    "gone",
-    "traveled"
+    "gone to",
+    "been to"
   ],
-  "context": "The Estonian word 'käinud' is the past participle form of the verb 'käima', which means to go, visit or travel. It indicates that someone has gone somewhere and returned back, expressing completed action in the present perfect tense."
+  "context": "The word 'käinud' is the past tense of the verb 'käima' which means 'to visit' or 'to go'. It is used to indicate that someone has been somewhere in the past. In Estonian, the '-d' ending indicates the past tense for third person singular (he/she/it) and plural forms."
 }

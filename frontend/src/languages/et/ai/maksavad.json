@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Maksavad arveid on tähtsad ettevõtte jaoks.",
-    "Töötajad maksavad maksu palgast.",
-    "Pangad maksavad intressi laenule."
+    "Telefoniabonendid maksavad iga kuu abonementmaksu.",
+    "Meie arved maksavad täna ära.",
+    "Mille eest sa maksad?"
   ],
   "translation": [
     "pay",
-    "paying"
+    "charge",
+    "subscription fee"
   ],
-  "context": "The word 'maksavad' is the 3rd person plural present form of the Estonian verb 'maksa', which means 'to pay'. It indicates that someone or something is paying in the current moment. The root 'maks-' relates to payment, and it's commonly used in contexts involving money transactions, bills, taxes, salaries, etc."
+  "context": "The word 'maksavad' is the third person plural form of the verb 'maksa', which means 'to pay'. In Estonian, it specifically refers to paying for something, such as subscription fees or charges. The word can be conjugated in different forms depending on tense and subject, with 'maksavad' being used when referring to multiple people or entities who are paying."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Sähköinen asiakirja on helppo tallentaa.",
-    "Sähköiset palvelut ovat yhä suositumpia.",
-    "Hän käyttää sähköistä maksujärjestelmää."
+    "Tämä on sähköinen auto.",
+    "Sähköinen postia tulee joka päivä.",
+    "Hänellä on sähköinen hammasharja."
   ],
   "translation": [
-    "electronic",
+    "electric",
+    "electrical",
     "digital"
   ],
-  "context": "The Finnish word 'sähköinen' is an adjective that means 'electronic' or 'digital'. It describes things that are related to, produced by, or operated by electricity or electronic technology. This term is commonly used in modern Finnish to refer to digital services, documents, systems and technologies."
+  "context": "The word 'sähköinen' is an adjective that means 'electric', 'electrical', or 'digital'. It is formed by adding the suffix '-inen' to the noun 'sähkö', which means electricity. The word declines based on case and number, as shown in the dictionary definition. For example, 'sähköiset' is the plural nominative form meaning 'electric'."
 }

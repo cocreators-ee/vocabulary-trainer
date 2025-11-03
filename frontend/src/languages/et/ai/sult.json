@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tere sult!",
-    "Kuidas läheb sult?",
-    "Sult on hea päev."
+    "Sõid sa sult?",
+    "Tule sult homseks.",
+    "Kuskilt tuli sult küsimus."
   ],
   "translation": [
-    "you (formal)",
-    "to you (formal)",
-    "your"
+    "from you (ablative singular)",
+    "(unstressed form of sinult)"
   ],
-  "context": "The word 'sult' is the Estonian formal singular pronoun in the genitive case, used to address someone formally with respect. It functions as the possessive form meaning 'of you' or 'to you' when speaking formally to one person. In English, this would correspond to 'your' or 'to you' in formal contexts."
+  "context": "The word 'sult' is the ablative singular form of the Estonian pronoun 'sa', meaning 'you'. It's used unstressed in sentences, while when stressed, the longer form 'sinult' is used. This case typically indicates movement away from or separation from the person being addressed."
 }

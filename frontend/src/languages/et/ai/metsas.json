@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Metsas on palu puid.",
-    "Olen metsas kaks päeva olnud.",
-    "Me lähime metsas jalutama."
+    "Metsas kasvavad erinevad taimeliigid.",
+    "Jooksime metsas ja leidsimes marju.",
+    "Päike paistis läbi puude metsas."
   ],
   "translation": [
     "in the forest",
-    "in woods"
+    "in woods",
+    "in the woods"
   ],
-  "context": "The word 'metsas' is an Estonian adessive case form of the noun 'mets', meaning 'forest'. The adessive case typically indicates location or state, so 'metsas' means 'in the forest' or 'in woods'. It's used to express where something is located physically - when someone or something is in a forest area."
+  "context": "The word 'metsas' is an Estonian inessive case form of 'mets', which means 'forest'. The inessive case indicates location inside or within something, so 'metsas' specifically means 'in the forest' or 'in the woods'. It answers the question 'where?' - indicating someone or something is located within a forest area."
 }

@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Räägitakse et tegu on headusega.",
-    "Meie koolis räägitakse palju keeli.",
-    "Kodus ei räägitakse nii tihti eesti keelt."
+    "Tänased ilmad on päikeselised.",
+    "Eile oli väga pilvine ilm.",
+    "Talvel saab halb ilma."
   ],
   "translation": [
-    "it is said",
-    "they say",
-    "one speaks"
+    "weather",
+    "climate conditions"
   ],
-  "context": "The Estonian word 'räägitakse' is the 3rd person plural present tense form of the verb 'rääkima' (to speak, to talk). It is commonly used in impersonal constructions where someone or something is mentioned as speaking. This form follows the passive voice pattern common in Estonian for expressing general statements about what people say or discuss."
+  "context": "The Estonian word 'ilm' means weather or atmospheric conditions. It can refer to general weather patterns, current weather conditions, or the climate of a particular region. In example sentences, it's used to describe sunny weather, cloudy weather, and winter weather conditions."
 }

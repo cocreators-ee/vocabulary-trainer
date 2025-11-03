@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema aadress on tänavanumbriga 15.",
-    "Me otsime tema aadressi.",
-    "Kas sa tead oma aadressi?"
+    "Kellele see kiri on adresseeritud?",
+    "Sisseastumisavaldused tuleb adresseerida vastuvõtukomisjonile.",
+    "Need sõnad, etteheited olid adresseeritud minule."
   ],
   "translation": [
-    "address",
-    "location"
+    "addressed to",
+    "directed at",
+    "aimed at"
   ],
-  "context": "The word 'aadressi' is the partitive case form of the Estonian noun 'aadress', which means 'address'. In this case, it's used to indicate that something belongs to or is associated with an address. The partitive case is commonly used in Estonian for partial objects or when referring to a specific instance of something."
+  "context": "The word 'aadressi' is the partitive case form of 'aadress' (address) in Estonian. It typically appears after verbs like 'adresseerima' (to address/direct). In the given context, it functions as an object indicating what is being addressed or directed - essentially meaning 'an address' but used with directional force to show that something is sent or aimed toward a specific destination or recipient."
 }

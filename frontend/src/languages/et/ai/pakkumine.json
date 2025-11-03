@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Pakkumine on tähtis äritegevuses.",
-    "Tere tulemast meie pakkumistele!",
-    "Selle pakkumise eest saad 20% allahindlust."
+    "Pakkumisest hoolimata ei võtnud ta raha vastu.",
+    "Ajalehekuulutuse peale tuli mitu pakkumist.",
+    "Töö|pakkumine oli väga atraktiivne.",
+    "Korterite |pakkumised on praegu madalad."
   ],
   "translation": [
     "offer",
     "proposition",
-    "proposal"
+    "bidding",
+    "tender",
+    "supply"
   ],
-  "context": "In Estonian, 'pakkumine' is a noun that refers to an offer, proposition, or proposal. It derives from the verb 'pakkuma' (to offer). The word can be used in various contexts such as business offers, special deals, proposals of marriage, or suggestions. It typically implies something being presented for consideration by another party."
+  "context": "The Estonian word 'pakkumine' primarily means 'offer' or 'proposition'. It can refer to various types of offers - from job offers and housing bids to economic supply. The word derives from the verb 'pakkuma' (to offer). In different contexts, it can mean bidding in auctions, tenders for contracts, or even the economic concept of supply exceeding demand."
 }

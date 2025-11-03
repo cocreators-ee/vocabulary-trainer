@@ -1,12 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kuningas käis lossis.",
-    "Tema oli hea kuningas.",
-    "Uus kuningas krooniti eile."
+    "Rootsi kuningas on Carlos XVI Gustav.",
+    "Ta krooniti kuningaks 1973. aastal.",
+    "Kuningate soost mees sai troonile."
   ],
   "translation": [
-    "king"
+    "king",
+    "monarch",
+    "ruler",
+    "chieftain"
   ],
-  "context": "The word 'kuningas' is the Estonian noun meaning 'king'. It refers to a male monarch who rules over a country or territory. In Estonian, it follows standard noun declension patterns for gender and case changes."
+  "context": "The Estonian word 'kuningas' primarily refers to the male head of state in a monarchy, but it also has broader metaphorical uses. It can mean an influential or prominent person (like 'king' in English expressions such as 'king of rock'), the largest and strongest animal (lion is called 'the king of animals'), or important things like diamonds being 'the king of minerals'. In card games, it's the highest value picture card, and in chess, it's the main piece that must be protected from checkmate."
 }

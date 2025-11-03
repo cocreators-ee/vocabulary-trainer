@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Max on minu sõber.",
-    "Ma olen Max ja õpin Tartu Ülikoolis.",
-    "Max võitis spordivõistluse."
+    "Sina hulgus! Sina kaabakas! Välja siit!",
+    "Ilma|hulgus",
+    "Hulgus inimene ta oli, kui ehitusbrigaadiga siiamaale sattus."
   ],
   "translation": [
-    "maximum",
-    "maximal"
+    "vagrant",
+    "tramp",
+    "wanderer",
+    "street person"
   ],
-  "context": "The Estonian word 'max' is used as a proper noun, specifically as a name. It appears to be the Estonian form of the name Max, which can also serve as an abbreviation for 'maximum' or 'maximal' in some contexts."
+  "context": "The Estonian word 'hulgur' means a vagrant or tramp - someone who wanders without a permanent home. It's often used in compound words to describe someone living outdoors (ilma|hulgus = outdoor vagrant, metsa|hulgus = forest vagrant) and can carry negative connotations when used as an insult."
 }

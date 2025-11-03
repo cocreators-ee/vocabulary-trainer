@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma valisin sinu jaoks sobivama variandi.",
-    "Ta on juba oma edasise tee valinud.",
-    "Me oleme koos head lahendused valinud."
+    "Ta ei valinud teed ega hoidunud porilompidest.",
+    "Ei valinud vastu ja pidi leppima olemasoluga.",
+    "Meie valisime selle tee."
   ],
   "translation": [
-    "chosen",
+    "chose",
     "selected",
     "picked"
   ],
-  "context": "'Valinud' is the past participle form of the Estonian verb 'valida', which means 'to choose', 'select', or 'pick'. It indicates that an action of choosing has been completed in the past. In Estonian, past participles are used to form perfect tenses and can also function as adjectives. The word agrees with the subject it refers to in terms of number (singular/plural) but not gender since Estonian doesn't have grammatical gender distinctions."
+  "context": "The word 'valinud' is the past tense/participle form of the Estonian verb 'valida', which means to choose, select or pick. It indicates that an action of choosing has already been completed in the past. In the provided dictionary example sentence 'Ta ei valinud teed ega hoidunud porilompidest,' we can see it used with a negative construction showing someone did not choose a particular path. This word specifically refers to the result of a selection process that has already occurred."
 }

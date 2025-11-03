@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Need on väga oluline.",
-    "Nead teavad kõik vastused.",
-    "Tule meiega need inimesed."
+    "Need on head uks.",
+    "Nende raamatud on laual.",
+    "Neid inimesi ma ei tunne."
   ],
   "translation": [
-    "they",
-    "those",
-    "these"
+    "these",
+    "those"
   ],
-  "context": "The word 'need' is a demonstrative pronoun in Estonian used to indicate or point out specific people, things, or ideas. It's the plural form that can mean both 'they', 'those', and 'these' depending on context. In first position it typically means 'these', while in second position it means 'those'. When used with verbs like 'teavad' (know), it functions as the subject pronoun 'they'."
+  "context": "The Estonian word 'need' is a demonstrative pronoun meaning 'these' or 'those'. It's the plural form of 'see' (that/those) and refers to things that are near to or distant from both speaker and listener. The word declines regularly in Estonian grammar, with different forms for cases like nominative (need), genitive (nende), partitive (neid), etc."
 }

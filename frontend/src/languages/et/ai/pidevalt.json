@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Pidevalt olen tööl.",
-    "Ta pidevalt nutab.",
-    "Me peame pidevalt liikuma."
+    "Vulkaan ei tegutse pidevalt.",
+    "Tuul puhus pidevalt idast.",
+    "Põhjaveevarud uuenevad pidevalt."
   ],
   "translation": [
     "constantly",
     "continuously",
-    "always"
+    "without interruption",
+    "regularly"
   ],
-  "context": "The Estonian word 'pidevalt' is an adverb that means constantly or continuously. It indicates something happening without interruption, regularly, or on a continuing basis. The word comes from the root 'pidev' (continuous) with the adverbial suffix '-lt'."
+  "context": "The Estonian adverb 'pidevalt' means continuously, constantly or without interruption. It describes something that happens regularly or persists over time without stopping. In the first dictionary definition, it indicates continuous action (like a volcano not acting continuously), persistent presence (wind blowing from the east constantly), or ongoing processes (groundwater resources renewing continuously). The second mathematical/physics definition uses it to mean gradually or smoothly changing quantities."
 }

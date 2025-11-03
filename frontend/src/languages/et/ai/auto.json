@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema ostis uue auto.",
-    "Auto parkimisel peab olema ettevaatlik.",
-    "Mul on vana auto."
+    "Ma ostan uue auto.",
+    "Auto on parklas.",
+    "Sõidame autoga linnast"
   ],
   "translation": [
     "car",
     "automobile",
-    "vehicle"
+    "motor vehicle"
   ],
-  "context": "The Estonian word 'auto' means car or automobile. It is a neuter gender noun that follows the standard declension pattern for Estonian nouns. In Estonian, 'auto' is commonly used to refer to any type of motor vehicle, whether it's a car, truck, or other automotive vehicle. The word appears in both singular and plural forms (autod) depending on context."
+  "context": "The Estonian word 'auto' refers to a car or automobile - a motor vehicle used for transportation of people and goods on roads and streets. It's a loanword from European languages meaning 'car'. The word follows regular Estonian noun declension patterns, with different forms like autosse (into the car), autost (from the car), autoga (with the car), etc."
 }

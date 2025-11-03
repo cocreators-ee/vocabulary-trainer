@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Kas saaksite aidata mind?",
-    "Saaksite te öelda mis kell on?",
-    "Saaksite palun tuua mulle veini?"
+    "Võid veel sattuda niisugusesse pigisse, et sa sellest välja ei rabelegi.",
+    "Ilma dokumentideta võib tee peal pigisse jääda.",
+    "..kuhu ta nüüd, öösel, enam läheb. Lihtsalt pigi. Ehk saaksite Ainole öömaja anda?"
   ],
   "translation": [
-    "could you",
-    "might you",
-    "would you be able to"
+    "could you please",
+    "would you mind"
   ],
-  "context": "The word 'saaksite' is the polite conditional form of the verb 'saama' (to get, to be able to). It's used when asking someone politely if they could or would be able to do something. This form shows respect and politeness in Estonian communication."
+  "context": "The word 'saaksite' is the conditional plural form of the verb 'saa', which means 'to get' or 'to receive'. In this context, it's used as a polite way to ask someone if they would be willing to do something. It can be translated as 'could you please' or 'would you mind' in English."
 }

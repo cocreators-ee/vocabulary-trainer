@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tänase õhtusööki söömiseks valmistasin pastat.",
-    "Meil oli hea õhtusöök restoranis eile.",
-    "Kas sa oled juba korraldanud õhtusöögi?"
+    "Tere õhtust!",
+    "Istuti õhtusööki.",
+    "Külastasid eile õhtusööki."
   ],
   "translation": [
+    "evening meal",
     "dinner",
-    "evening meal"
+    "supper"
   ],
-  "context": "The word 'õhtusööki' is the partitive case form of 'õhtusöök', which means dinner or evening meal. In Estonian, the partitive case often indicates a partial action or what something is made of/for. Here it shows what is being eaten for dinner."
+  "context": "The word 'õhtusööki' is a compound Estonian noun formed from 'õhtu-' (meaning evening) and 'söögi' (meaning food or meal). It literally translates to 'evening meal' and refers specifically to dinner or supper. In the dictionary entry, we can see it's derived from 'õhtune' (relating to evening) combined with the genitive case of söök (meal). The word is used when referring to eating a meal in the evening hours."
 }

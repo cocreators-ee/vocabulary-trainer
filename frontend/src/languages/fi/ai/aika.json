@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on aikaa kahvilassa.",
-    "Milloin sinulla on aikaa?",
-    "Käytämme aikaa hyödyllisesti."
+    "Se vaatii pitkän ajan.",
+    "Sinulla on minuutti aikaa vastata kysymyksiin.",
+    "Vanhat hyvät ajat ovat palanneet."
   ],
   "translation": [
     "time",
-    "period of time",
-    "opportunity"
+    "period",
+    "moment",
+    "season",
+    "appointment"
   ],
-  "context": "The Finnish word 'aika' means 'time' in English. It can refer to a specific period, duration, or opportunity. In its basic form, it's used to talk about temporal concepts like when something happens how long things take, or chances/opportunities that arise."
+  "context": "The Finnish word 'aika' most commonly translates to 'time' in English. It can refer to the general concept of time, a specific period or duration, a moment in time, or even a season.  It also has uses relating to appointments and scheduled events. The word declines based on grammatical case, as shown in the dictionary definition, which affects its meaning within a sentence. For example, 'ajan' is the genitive form, often indicating possession ('time of')."
 }

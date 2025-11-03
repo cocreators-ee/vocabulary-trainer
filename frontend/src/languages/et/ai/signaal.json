@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tuleb edastada signaal kiiresti.",
-    "Signaali vastuvõtja ei tööta korrektselt.",
-    "Arvuti saadab häirete signaale."
+    "Auto signaal häiris naabrit.",
+    "Raadiosaatja saatis tugeva signaali.",
+    "Poiss andis kätega signaali."
   ],
   "translation": [
     "signal",
-    "signaling"
+    "sign",
+    "cue"
   ],
-  "context": "The word 'signaal' is an Estonian noun that means 'signal'. It refers to a message or indication sent through some medium to convey information. In Estonian, it's commonly used in technical contexts like telecommunications, electronics, and computing, similar to how 'signal' is used in English."
+  "context": "The Estonian word 'signaal' primarily means a signal or sign used for transmitting messages, commands, or information. It can refer to optical, acoustic, electrical signals (like lights, sounds, radio waves), or any event that indicates something specific. In broader usage, it can also mean an indication or warning of some condition or situation."
 }

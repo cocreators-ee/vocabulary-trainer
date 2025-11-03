@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Sa oled hea sõber.",
-    "Täname sind aitamast!",
-    "Mida sa tahad?"
+    "Sa oled tore.",
+    "Mis sa teed?",
+    "Tere, sa!"
   ],
   "translation": [
     "you (singular)",
-    "thou",
-    "thee"
+    "thou"
   ],
-  "context": "The word 'sa' is the singular informal pronoun in Estonian, equivalent to English 'you' when addressing one person informally. It's used for friends, family members, and people you're on familiar terms with. In formal situations or when addressing multiple people, other forms are used. The word appears in different contexts such as questions, statements, and expressions of gratitude."
+  "context": "The Estonian word 'sa' is the second person singular pronoun meaning 'you'. It's used when addressing one person informally. This is the informal form of address, as opposed to the formal 'te' which would be used for polite address or when speaking to multiple people."
 }

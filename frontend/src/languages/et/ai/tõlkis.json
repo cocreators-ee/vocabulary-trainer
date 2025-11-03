@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Eesti keelest inglise keelde tõlkis raamatu.",
-    "Töötaja tõlkis dokumentidest kiiresti.",
-    "Ta on hea tõlkeagentuuris tõlkis."
+    "Tõlkis Mart Saar metsade kõnet laulude keelde.",
+    "Tõlgisin selle teksti inglise keelde.",
+    "Tõlkijat paluti tõlkida see dokument saksa keelde."
   ],
   "translation": [
     "translated",
-    "interpreter",
-    "translator"
+    "interpreter"
   ],
-  "context": "The word 'tõlkis' is the past tense form of the Estonian verb 'tõlkima', which means to translate. It refers to the action of translating text or speech from one language to another. In this case, it specifically indicates that someone performed the translation in the past."
+  "context": "The word 'tõlkis' is the past tense third person singular form of the Estonian verb 'tõlkima', which means 'to translate'. It refers to the action of converting text or speech from one language to another. In context, it can also refer to a translator or interpreter."
 }

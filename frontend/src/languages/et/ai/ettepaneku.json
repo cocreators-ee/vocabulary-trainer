@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on hea ettepaneku teile.",
-    "Ta tegi huvitava ettepaneku uuest projektist.",
-    "Kas teil on mõni ettepaneku meie kohtumiseks?"
+    "Riigikogu tegi ettepaneku uue seaduse vastuvõtmiseks.",
+    "Ettevõte tegi ettepaneku lepingu pikendamisest.",
+    "Minul on he ettepanek selle lahendamiseks."
   ],
   "translation": [
     "proposal",
     "suggestion",
-    "recommendation",
-    "offer"
+    "recommendation"
   ],
-  "context": "The word 'ettepaneku' is the partitive case form of 'ettepanek', which means a proposal or suggestion. In Estonian, the partitive case is used to indicate an object that is indefinite or partial. Here it functions as the direct object in sentences where someone makes or receives a proposal/suggestion."
+  "context": "The word 'ettepaneku' is the genitive singular form of 'ettepanek' in Estonian. It means 'of a proposal' or 'regarding a suggestion'. In the given dictionary definition, it refers specifically to acclamation - approval expressed by shouts of approval without voting. The word can be used for any kind of proposal or suggestion made formally or informally."
 }

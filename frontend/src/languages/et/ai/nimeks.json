@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema nimeks on Anna.",
-    "Mis sinu nimeks on?",
-    "Lapse nimeks sai Peeter."
+    "Pojale anti nimeks Jaan.",
+    "Lapsele pandi nimeks Katri.",
+    "Tema sai nimeks Mart."
   ],
   "translation": [
-    "name is",
+    "named as",
     "called",
-    "named"
+    "named after"
   ],
-  "context": "The word 'nimeks' is an Estonian word that means 'name is', 'called', or 'named'. It is used to identify what someone or something's name is, often in the pattern '[Subject] nimeks on [Name]' meaning '[Subject]'s name is [Name]', or '[Subject] nimeks sai/oleb/etc. [Name]' meaning '[Subject] got/was named/is called [Name]'. It can also be used as an alternative to 'nimeliselt' in some contexts."
+  "context": "The Estonian word 'nimeks' is a partitive form of the noun ' nimi' (name). It means 'as name' or 'for name', and is commonly used in constructions where someone is given or receives a specific name. This typically appears in passive voice constructions like 'anti nimeks' (was given as name) or 'panditi nimeks' (was set as name)."
 }

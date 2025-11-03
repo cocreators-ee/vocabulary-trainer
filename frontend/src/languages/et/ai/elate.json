@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Elate homme Tallinna.",
-    "Kus elate?",
-    "Milles elate?"
+    "Kuidas teie nüüd elate?",
+    "Elate hea elu?",
+    "Mida nad arvavad et te elate?"
   ],
   "translation": [
-    "you live",
-    "you reside",
-    "you are located"
+    "you (plural) live",
+    "you are living",
+    "you (all) live"
   ],
-  "context": "The word 'elate' is the formal/plural form of the Estonian verb 'ela', meaning 'to live'. In this case, it's specifically the second person plural present indicative form, used when addressing multiple people formally or when speaking to a group. It literally translates to 'you (plural/formal) live' or 'you are located/reside'."
+  "context": "The word 'elate' is the second-person plural present indicative form of the Estonian verb 'elama', which means 'to live'. It specifically refers to multiple people (the group being addressed) in the present tense. This is used when speaking directly to more than one person asking about their current state of living or existence."
 }

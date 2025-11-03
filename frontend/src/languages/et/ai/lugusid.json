@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lugusid on alati meeldejäävad.",
-    "Mul on palju lugusid jagada.",
-    "Kuulan mõnusaid lugusid õhtuti."
+    "Kogusin lugusid vanast Pearust.",
+    "Lugusid koguti nii meeste kui naiste ja laste poolt.",
+    "Ta kirjutas palju lugusid erinevate teemade kohta."
   ],
   "translation": [
     "stories",
-    "tales"
+    "tales",
+    "narratives"
   ],
-  "context": "The word 'lugusid' is the plural partitive form of 'lugu', which means 'story' or 'tale'. In Estonian, the '-sid' ending indicates that this is the partitive case in plural form. It's used when you're talking about stories in a general sense, multiple stories without specifying an exact number, or when referring to some/all stories within a larger context."
+  "context": "The word 'lugusid' is the partitive plural form of 'lugu', which means 'story' or 'tale'. It indicates multiple stories that were collected or gathered. In Estonian, the partitive case is used to express partiality or indefinite quantity, so 'lugusid' specifically refers to some stories or a number of stories without specifying an exact amount."
 }

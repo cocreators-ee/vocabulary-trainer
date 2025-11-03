@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tema saatis meile viis senti.",
-    "Selle eest sai ta kümme senti.",
-    "Ta ootas sente pärast teenust."
+    "Senti on eesliide mõõtühikute nimetustes.",
+    "Sentimeeter on üks senti meeter.",
+    "See on 100 senti meetrit."
   ],
   "translation": [
-    "cents"
+    "cent",
+    "one-hundredth part"
   ],
-  "context": "In Estonian, 'senti' is the singular form of the word for cents. It refers to one hundredth of a euro (€1 = 100 senti). The word is commonly used when talking about small amounts of money, prices, or change in Estonia."
+  "context": "Senti is an Estonian prefix used in measurement unit names that indicates the unit is 100 times smaller than the base unit. It's equivalent to 'centi-' in English and abbreviated as 'c'. For example, sentimeeter (centimeter) means one-hundredth of a meter."
 }

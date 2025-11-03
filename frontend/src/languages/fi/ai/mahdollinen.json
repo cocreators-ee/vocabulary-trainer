@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on mahdollinen ratkaisu ongelmaan.",
-    "Hän teki kaiken mahdollisen auttaakseen minua.",
-    "Onko tämä sinulle mahdollista?",
-    "Mahdollisuudet ovat pienet mutta olemassa."
+    "Onko tämä mahdollista?",
+    "Mahdollinen ratkaisu on harkittava.",
+    "Hänen tulevaisuutensa on vielä mahdollisten vaihtoehtojen varassa."
   ],
   "translation": [
     "possible",
-    "feasible",
-    "practicable"
+    "potential",
+    "feasible"
   ],
-  "context": "The Finnish word 'mahdollinen' is an adjective that means 'possible' or 'feasible'. It describes something that can exist, happen, or be done. The word comes from the root 'mahdollisuus' (possibility) and the adjectival suffix '-inen'. In Finnish grammar, it follows the usual inflection patterns for adjectives of type 2. When used in negative contexts with 'ei', it becomes 'mahdoton' (impossible)."
+  "context": "The word 'mahdollinen' is an adjective meaning possible, potential or feasible. It comes from the root 'mahto', which relates to ability and possibility. The ending '-llinen' is a common adjectival suffix in Finnish.  It declines based on case and number; for example, 'mahdolliset' is the plural nominative form, while 'mahdollista' is the partitive singular. Possessive forms also exist, like 'mahdollisemme' meaning 'our possible'. It can be used to describe something that *could* happen or a viable option."
 }

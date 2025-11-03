@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kõik on valmis.",
-    "Ma olen kõigega nõus.",
-    "Ta läheb kõikidesse kohtadesse."
+    "Kõik olid kohal.",
+    "Inimõigused on rahvusvahelised ja on kõigile ühised.",
+    "Ta jäi kõigele vaatamata oma arvamuse juurde."
   ],
   "translation": [
     "all",
-    "everything",
-    "everyone"
+    "everyone, everybody",
+    "everything"
   ],
-  "context": "The Estonian word 'kõik' is a versatile pronoun that can mean 'all', 'everything', or 'everyone'. It's used to refer to the entirety of something, people collectively, or as an indefinite pronoun meaning 'everything'. In its basic form it's used in nominative case, but it changes form based on grammatical context - for example 'kõigega' means 'with everyone/all' (essive case), and 'kõikidesse' means 'into all places' (illative plural)."
+  "context": "The Estonian word 'kõik' is a versatile pronoun and determiner with multiple meanings. In the plural form it means 'everyone' or 'everybody', referring to people collectively (e.g., 'kõigile ühised' - shared by everyone). In the singular form it means 'everything', referring to things or concepts as a whole (e.g., 'kõigele vaatamata' - despite everything). As a determiner, it means 'all' (e.g., 'kõik nõukogu liikmed' - all board members). It can also be used idiomatically at the end of sentences as an emphatic final particle similar to saying 'full stop' in English."
 }

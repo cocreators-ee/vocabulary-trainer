@@ -1,15 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Haara käsi!",
-    "Haarake enda eest kinni!",
-    "Haaramine on keelatud."
+    "Võrdhaarne kolmnurk on matemaatiliselt täpse nurga all kolmnurk.",
+    "Trapets võib olla võrdhaareline, kui selle küljed on võrdsed pikkusega.",
+    "Matemaatik uuris võrdhaarsete hulknurkade omadusi."
   ],
   "translation": [
-    "to grab",
-    "to seize",
-    "to hold",
-    "catch"
+    "isosceles",
+    "equilateral"
   ],
-  "context": "The word 'haara' in Estonian is the imperative form of the verb 'haardama', which means to grab, seize, or hold. It's used as a command telling someone to grab something or someone. The word can be seen as derived from the root 'haar-' which relates to grasping and holding actions."
+  "context": "Haara is Estonian for 'leg' or 'side', often used in mathematical contexts to describe geometric shapes with equal sides. The prefix 'võrd-' means 'equal', making 'võrdhaarne' mean 'with equal legs/sides'. This term is commonly used in geometry to describe triangles and other polygons where two or more sides are of equal length."
 }

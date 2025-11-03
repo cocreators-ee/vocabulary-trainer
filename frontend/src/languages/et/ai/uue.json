@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma ostan uue maja.",
-    "Tema ostis uue auto.",
-    "Meil on uue kodu."
+    "Aastavahetusel peetakse pidusid.",
+    "Ta loodab aastavahetusel saada uue korteri.",
+    "Uue aasta alguseks on paljud juba oma plaanid teinud."
   ],
   "translation": [
-    "new"
+    "new",
+    "fresh",
+    "novel"
   ],
-  "context": "The word 'uue' is the genitive singular form of the Estonian adjective 'uus', which means 'new'. It is used to indicate possession or relationship with a new object, typically appearing before nouns in the genitive case. For example, 'uue maja' means '(of) a new house' where 'uue' modifies 'maja' (house)."
+  "context": "The word 'uue' is the genitive singular form of the Estonian adjective 'uus'. It means 'of new', 'belonging to new', or 'related to new'. In the example sentences, it's used in contexts like getting a new apartment ('saada uue korteri') and the beginning of a new year ('uue aasta algus')."
 }

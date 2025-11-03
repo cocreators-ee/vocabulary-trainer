@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Jompikumpi kahdesta on hyvä.",
-    "Käytä jompikumpaa näistä kahdesta vaihtoehdosta.",
-    "Voit valita jompikumman tai molemmat."
+    "Jommankumman on pakko mennä.",
+    "Either one of the two has to go.",
+    "Jompikumpi teistä valehtelee.",
+    "Either one of you is lying.",
+    "Jommatkummat häät olivat upeat!",
+    "Both weddings were magnificent!"
   ],
   "translation": [
     "either one",
     "one or the other",
-    "any of two"
+    "any one of two"
   ],
-  "context": "Jompikumpi is a Finnish word that means 'either one' when choosing between two options. It's formed from 'jompikumpi' where 'jompi' comes from 'joka' (which/who) and '-kumpi' indicates choice between two things. The word is used when you want someone to select one option from a pair, but don't care which specific one they choose."
+  "context": "The word 'jompikumpi' means 'either one' or 'one or the other' of two options. It is formed by combining 'jompi' and 'kumpi', both related to choosing between alternatives. The word declines in both parts, meaning both 'jompi' and 'kumpi' change form depending on their grammatical role in a sentence. It can function as a determiner or pronoun, generally treated as singular except in the imperative mood. Plural forms exist for use with plural nouns, like 'jommatkummat häät' (either one of the weddings)."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Auto sõidab teel.",
-    "Poisid sõidavad jalgratastega.",
-    "Lennuk sõidab õhus."
+    "Võitja sõidab võistlusringi ümber.",
+    "Sportlane sõidab auringi peale võitu.",
+    "Ta sõidab rõõmuselt ringi."
   ],
   "translation": [
-    "drives",
-    "is driving",
-    "travels by"
+    "runs around",
+    "drives around",
+    "circles around"
   ],
-  "context": "The word 'sõidab' is the third person singular present tense form of the Estonian verb 'sõitma', which means 'to drive' or 'to travel'. It is used when referring to a single subject (he, she, it) that currently performs the action of driving or traveling."
+  "context": "The word 'sõidab' is the 3rd person singular present form of the verb 'soida', which means 'to drive' or 'to ride'. In this context, it specifically refers to a victory lap - when an athlete runs around the track/stadium after winning. It can be used for driving vehicles around in circles as well, but in sports contexts, especially with 'auringi' (victory lap), it means running/driving around the competition area in celebration of victory."
 }

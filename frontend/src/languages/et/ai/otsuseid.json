@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Võtsime mitu otsust.",
-    "Meie otsused olid õiged.",
-    "Kes tegi need otsused?"
+    "Parlamendiliikmete otsuseid mõjutati kuluaaripoliitikaga.",
+    "Ettevõtjad teevad lobitööd, et saada soovitud otsuseid.",
+    "Lobitöö on osavalt mõjutama riigiasutuste otsuseid."
   ],
   "translation": [
-    "decisions"
+    "decisions",
+    "rulings",
+    "judgments"
   ],
-  "context": "The word 'otsuseid' is the partitive plural form of the Estonian noun 'otsus', which means 'decision'. The suffix '-d' indicates it's in plural, and the ending '-id' shows it's in the partitive case. This form is typically used when referring to decisions as objects or when discussing multiple decisions without specifying the exact number."
+  "context": "The word 'otsuseid' is the partitive plural form of 'otsus', which means 'decision'. It refers to multiple decisions or rulings made by authorities, parliament members, or other decision-makers. In the context provided, it specifically relates to political lobbying where influential groups try to get favorable decisions from government bodies through various means like gifts, bribes, etc."
 }

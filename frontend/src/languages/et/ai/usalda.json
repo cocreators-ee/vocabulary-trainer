@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma tegin head tööd usaldusega.",
-    "Usaldate oma sõpru.",
-    "Tal on hea usalda."
+    "Ta on väga usaldamatu isik.",
+    "Selle usaldamatu käitumise tõttu kaotasime kõik raha.",
+    "Mul oli raske usaldada seda usaldamatut inimest."
   ],
   "translation": [
-    "trust",
-    "confidence",
-    "faith"
+    "untrustworthy",
+    "not to be trusted",
+    "undependable"
   ],
-  "context": "The Estonian word 'usalda' is a verb that means to trust or have faith in someone or something. It can be used in various contexts such as trusting people, relationships, abilities, or situations. The word derives from the root 'usald-' which relates to confidence and reliability."
+  "context": "The word 'usalda' (more specifically 'usaldamatu') is an adjective that means someone or something cannot be trusted, lacks trustworthiness, or is undependable. It describes a person or entity whose reliability and credibility are questionable, making others hesitant to confide in them or rely on their promises."
 }

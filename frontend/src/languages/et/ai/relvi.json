@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Relvi palun!",
-    "Kus on relvi?",
-    "Mul on relvi."
+    "Pani relvad maha.",
+    "Võitlemist lõpetama.",
+    "Alla andma."
   ],
   "translation": [
-    "weapons",
-    "arms",
-    "firearms"
+    "to lay down arms",
+    "to surrender",
+    "to give up"
   ],
-  "context": "The word 'relvi' is the partitive case of Estonian noun 'relv', which means 'weapon'. The partitive case indicates an object that is being possessed, requested, or exists in some quantity but not necessarily complete. In the examples: 'Relvi palun!' (Weapons please!), 'Kus on relvi?' (Where are the weapons?), and 'Mul on relvi.' (I have weapons)."
+  "context": "The Estonian word 'relvi' is an elative form of 'relv' meaning weapons/arms. It appears to be part of the verb phrase 'panna relvad maha' which means 'to lay down arms'. This expression signifies ceasing fighting, surrendering, or giving up in a conflict situation."
 }

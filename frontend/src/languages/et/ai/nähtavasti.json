@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Nähtavasti homme tuleb vihma.",
-    "Ta nähtavasti ei tulla täna õhtul.",
-    "Kas nähtavasti peaksime võtma vihmavarjude kaasa?"
+    "Nähtavasti see ei meeldinud talle.",
+    "Mees on nähtavasti purjus.",
+    "Kas ta sai pahaseks? – Nähtavesti."
   ],
   "translation": [
     "apparently",
+    "evidently",
+    "seemingly",
     "probably",
-    "it seems that",
     "likely"
   ],
-  "context": "The word 'nähtavasti' is an Estonian adverb that means 'apparently', 'probably', or 'it seems'. It's used to indicate something that appears to be true based on visible evidence or logical inference, though not with absolute certainty. This word expresses likelihood rather than definite knowledge."
+  "context": "Nähtavasti is an Estonian adverb used to express probability or likelihood. It indicates that something appears to be true based on visible evidence or reasonable inference, similar to how we use 'apparently' or 'probably' in English. It's often used when drawing conclusions from what can be seen or observed."
 }

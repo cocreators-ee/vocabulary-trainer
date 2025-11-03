@@ -1,12 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Valgus paistab aknast.",
-    "Põhjavalgus on hea tööks.",
-    "Linnas valgustati tänavad."
+    "Päikese ere valgus.",
+    "Tänavalaternate valgus suutis vaevu läbi tungida tihedast udust.",
+    "Sa oled mu silmade valgus."
   ],
   "translation": [
-    "light"
+    "light",
+    "illumination",
+    "brightness",
+    "radiance"
   ],
-  "context": "The Estonian word 'valgus' means 'light' in English. It refers to the illumination that allows us to see, whether from natural sources like the sun or artificial sources like lamps and street lights. The word is commonly used to describe both the physical phenomenon of light and the concept of lighting in various contexts."
+  "context": "The Estonian word 'valgus' primarily means light in the physical sense, referring to electromagnetic radiation that makes vision possible. It's commonly used for natural light (especially daylight) as well as artificial illumination from lamps and other sources. Figuratively, it can represent enlightenment, wisdom, goodness, or a positive perspective on things."
 }

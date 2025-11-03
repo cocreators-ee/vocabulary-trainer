@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Olen pidanud seda raamatut lugema.",
-    "Ta on pidanud koolis headeks õpilaseks.",
-    "Me oleme pidanud sellest projektist rääkima."
+    "Olen pidanud töötades sellel projektil.",
+    "Ta on pidanud palju õppima.",
+    "Me oleme pidanud koos käima."
   ],
   "translation": [
+    "have been obliged to",
     "have had to",
-    "must have",
-    "was supposed to",
-    "ought to"
+    "have needed to"
   ],
-  "context": "The Estonian word 'pidanud' is the past participle form of the verb 'pidama', which means 'to have to', 'must', or 'should'. It's used in combination with other verbs (usually in compound tenses) to express obligation, necessity, or what someone was supposed to do. The structure typically involves 'pidanud' + infinitive verb, similar to the English construction 'have/has/had to' + infinitive."
+  "context": "The word 'pidanud' is the past connegative form of the Estonian verb 'pidama', which means 'to have to' or 'must'. It's used with the auxiliary verb 'olema' (to be) in perfect tenses. In English, it translates to constructions like 'have been obliged to', 'have had to', or 'have needed to'. This form is commonly used when expressing obligation or necessity that occurred in the past but continues up to the present moment."
 }

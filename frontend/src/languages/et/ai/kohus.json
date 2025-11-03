@@ -1,16 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kohus otsustas küsimuse ära.",
-    "Meil on kohus teiste ees.",
-    "Kohused ja õigused tulevad koos."
+    "Poja kohus oli haige ema eest hoolitseda.",
+    "Peaminister on esialgu ühtlasi presidendi kohustes.",
+    "Andke keisrile, mis keisri kohus."
   ],
   "translation": [
-    "court",
-    "tribunal",
     "duty",
     "obligation",
-    "responsibility"
+    "requirement",
+    "court"
   ],
-  "context": "In Estonian, 'kohus' has two main meanings: 1) a court of law or tribunal where legal cases are heard and judgments are made, and 2) a duty, obligation, or responsibility that one has to fulfill. As a noun in nominative case, it can refer to either an institution (the court) or an abstract concept (duty/responsibility). In the legal context, it's used for judicial proceedings, while in everyday language, it often refers to moral or social obligations."
+  "context": "The Estonian word 'kohus' has two main meanings: 1) A moral or internal obligation to fulfill certain responsibilities (similar to English 'duty' or 'obligation'), as in a son's duty to care for his sick mother. 2) A judicial court or tribunal of justice, similar to the English word 'court'. The declension pattern differs between these two meanings - when meaning 'duty', it follows the ÕS type 9/katus pattern (genitive: kohuste), while when meaning 'court', it follows the liige pattern (genitive: kohtu)."
 }

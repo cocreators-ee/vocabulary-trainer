@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Aastal 2020 oli raske aasta kõigile.",
-    "Me lähime aastaks Itaaliasse.",
-    "Ta sündis aastal 1995."
+    "Tartu Ülikool asutati 1632. aastal.",
+    "Eesti iseseisvus taastati 1991. aastal.",
+    "Meeldejäävad sündmused toimusid 2020. aastal."
   ],
   "translation": [
     "in the year",
-    "during the year",
-    "in"
+    "during the year"
   ],
-  "context": "The Estonian word 'aastal' is the inessive case form of 'aasta' (year). It means 'in the year' or 'during the year' and is used when indicating that something happened within a specific year. This grammatical case shows location or time within something, hence why it's used for temporal references like years."
+  "context": "The word 'aastal' is the adessive singular form of Estonian noun 'aasta', meaning 'year'. It indicates when something happened, typically used with a specific year number to express 'in the year [number]'. This grammatical case (adessive) shows location or time relationship. The word appears in contexts like historical dates, anniversaries, and specifying particular years when events occurred."
 }

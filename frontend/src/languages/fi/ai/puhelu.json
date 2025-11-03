@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Odotan puhelua ystävältäni.",
-    "Sain tärkeän puhelun työpaikalta.",
-    "Hän teki minulle puhelun eilen illalla."
+    "Minulla on tärkeä puhelu huomenna.",
+    "Odotan soittoa, eli puhelua, illalla.",
+    "Puhelu katkesi kesken kaiken."
   ],
   "translation": [
-    "phone call",
     "call",
-    "telephone conversation"
+    "phone call",
+    "conversation",
+    "talk"
   ],
-  "context": "The Finnish word 'puhelu' is a noun that means 'phone call' or 'call'. It's the singular form of the noun and refers to an instance of using a telephone for communication. The word comes from the verb 'puhua' which means 'to speak'. In Finnish, '-lu' is a suffix often used to create nouns denoting actions or results of actions."
+  "context": "The word 'puhelu' in Finnish refers to a call or phone call. It can also mean conversation or talk, especially when used in compounds. The word declines based on case; for example, 'puhelun' means 'of the call', and 'puhelua' is partitive meaning 'a bit of a call'. You will often see it combined with other words to create more specific terms like 'matkapuhelu' (mobile call) or 'videopuhelu' (video call)."
 }

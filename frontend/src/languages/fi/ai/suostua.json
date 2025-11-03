@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Hän suostui auttamaan minua.",
-    "He eivät suostuneet tulemaan illalliselle.",
-    "Suostuitko katsomaan elokuvan meidän kanssa?"
+    "Hän ei suostunut tulemaan juhliin.",
+    "Suostuinko minä todella siihen?",
+    "Yritti saada minut suostumaan suunnitelmaansa."
   ],
   "translation": [
-    "to agree",
-    "to consent",
-    "to accept"
+    "agree",
+    "consent",
+    "comply",
+    "be willing"
   ],
-  "context": "The Finnish word 'suostua' is an intransitive verb that means to agree, consent, or accept something. It typically expresses someone's willingness to do or accept something voluntarily. The word changes form depending on the subject and tense: suostuu (he/she agrees), suostuivat (they agreed), suostuisin (I would agree). When used negatively with 'ei', it indicates refusal: ei suostunut (didn't want to/agree)."
+  "context": "The Finnish verb 'suostua' means 'to agree to', 'consent to', or 'be willing'. It is an intransitive verb, meaning it typically takes a complement indicating what one is agreeing *to*, often in the illative case. The form shown here is the infinitive.  It can also mean to accept or approve of something. The conjugation shows various tenses and moods, including present, past, conditional, imperative, and potential."
 }

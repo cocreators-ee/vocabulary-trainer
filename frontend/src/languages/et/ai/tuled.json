@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tuled siia kohe!",
-    "Kus tuled ära?",
-    "Meie tuled homme."
+    "Ma juba tuled koju.",
+    "Kas sa juba tuled homme?",
+    "Tuleksid juka nüüd."
   ],
   "translation": [
-    "you come",
-    "you arrive",
-    "you will come"
+    "already",
+    "now",
+    "by now",
+    "finally"
   ],
-  "context": "The word 'tuled' is the 2nd person plural present tense form of the verb 'tulla' meaning 'to come' or 'to arrive'. It indicates that a group of people are coming/arriving now or in the near future. The subject 'te' (you plural) is often omitted in Estonian as it's implied by the verb conjugation."
+  "context": "The word 'tuled' in Estonian can have multiple meanings. As a verb form, it is the second-person singular present form of 'tulema' meaning 'to come', so you come/you are coming. When used with 'juba' (already), as shown in the example sentences, it means someone has already arrived or will arrive soon. The word can also be the nominative plural form of 'tuli' (fire), but without context suggesting fire, the verb interpretation is more likely."
 }

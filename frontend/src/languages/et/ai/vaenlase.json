@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Vaenlane tuleb lähedale.",
-    "Me peame võitlema vaenlasega.",
-    "See on vaenlase plaan."
+    "Vaenlase ründas vaenlaste laeva.",
+    "Mereväelased valmistusid vaenlaste abordeerimiseks.",
+    "Laevad lähenesid vaenlaseni võitlusvalmis."
   ],
   "translation": [
-    "enemy",
-    "foe",
-    "adversary"
+    "enemy vessel",
+    "adversary ship",
+    "foreship",
+    "hostile ship"
   ],
-  "context": "The word 'vaenlase' is the genitive singular form of the Estonian noun 'vaenlane', which means 'enemy'. In Estonian, nouns have cases that show different grammatical relationships. The genitive case typically indicates possession or origin, but here it's used as the object form after certain verbs like 'võitlema' (to fight) or as part of a possessive construction. The root word 'vaenlane' refers to someone who is hostile or opposed to you - an enemy, foe, or adversary."
+  "context": "The word 'vaenlase' in Estonian refers to an enemy's ship or vessel, particularly in a naval combat context. It is used when referring to the target of an attack during boarding operations where one ship attacks another by lashing to its side to allow crew members to board and engage in combat. The term comes from 'vaenlane' (enemy) with the genitive case ending '-se', indicating possession or belonging - literally meaning 'of the enemy' or 'the enemy's'. In historical naval terminology, this specifically referred to enemy warships during sailing ship eras."
 }

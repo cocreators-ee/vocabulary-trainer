@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Pää on ihmisen päässä.",
-    "Minun pääni satuttaa.",
-    "Hänellä on suuri pää."
+    "Miehellä oli hattu päässään.",
+    "Pää on ihmisen kehon osa.",
+    "Hän on tämän organisaation pää."
   ],
   "translation": [
     "head",
+    "leader",
     "chief",
-    "main"
+    "end",
+    "tip"
   ],
-  "context": "In Finnish, 'pää' means head (the body part) but can also mean chief or main depending on context. It's a common noun that appears in various phrases and idioms. The word is used to refer to both the physical head of a person/animal and metaphorically as the beginning/start of something."
+  "context": "The Finnish word 'pää' has multiple meanings, including 'head' as a body part, 'leader' or 'expert', and 'end' or 'tip'. It can also refer to the front of something. The word declines through various cases depending on its usage in a sentence, indicating relationships like location ('on one's head') or possession ('my head')."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Paitsi minä, kaikki tulivat.",
-    "Hän osaa paitsi suomea myös ruotsia.",
-    "Tämä on paitsi kaunis myös käytännöllinen."
+    "Hän ei tullut juhliin paitsi Maija.",
+    "Paitsi että on kylmä, kaikki on hyvin.",
+    "Jääimme paitsi parhaista paikoista."
   ],
   "translation": [
-    "except for",
-    "apart from",
-    "besides"
+    "except",
+    "besides",
+    "unless"
   ],
-  "context": "The word 'paitsi' is a Finnish preposition used to indicate exclusion or exception. It typically means 'except for', 'apart from', or 'besides'. In Finnish sentence structure, 'paitsi' often appears before the noun/pronoun that is being excluded, and when it's used at the beginning of a clause with 'myös' (also/too), it creates a construction meaning 'not only... but also'."
+  "context": "The Finnish word 'paitsi' is an adverb that generally means 'except', 'other than', or 'besides'. It can also be used to express a condition like 'unless'. The word does not change form based on case, number or gender."
 }

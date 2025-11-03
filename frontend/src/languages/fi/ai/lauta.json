@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on uusi lautalla.",
-    "Poika istuu laudalla.",
-    "Laudat ovat puusta valmistettu."
+    "Pöydällä oli useita lautoja.",
+    "Rakennusmies käytti lautoja talon seinien rakentamiseen.",
+    "Hän tasapainotteli ponnahduslaudalla."
   ],
   "translation": [
     "board",
     "plank",
-    "table"
+    "surfboard",
+    "snowboard"
   ],
-  "context": "The Finnish word 'lauta' is a noun that typically refers to a board, plank, or table. It's most commonly used for flat, rectangular pieces of wood, but can also refer to tables in some contexts. The word can be found in various compound words and has different forms when declined: lauta (nominative), lautaa (partitive), laudalla (adessive), etc."
+  "context": "The Finnish word 'lauta' refers to a board, which is a long, wide and relatively thin piece of sawn timber. It can also refer to platforms used for various activities like chess (šakkilauta - chessboard), ironing (silityslauta - ironing board) or surfing (laine lauta - surf board). The word has different forms depending on the case; 'laudat' is the plural form, meaning boards. There are also more specific terms to describe the size of a board: anything narrower than 75mm is called 'rima', and thicker pieces are known as 'lankku' or 'parru'."
 }

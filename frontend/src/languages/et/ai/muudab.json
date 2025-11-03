@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Muudan oma plaani.",
-    "Ta muutis oma arvamust.",
-    "Meie muudame kodu."
+    "Muusikanootides see märk muudab kõrgenduse kehtetuks.",
+    "Komposiitor kasutas seda märki, et muudada teema rütmilist struktuuri.",
+    "See noodikirja märk muudab eelmise märgi toime ära."
   ],
   "translation": [
     "changes",
     "alters",
-    "modifies"
+    "modifies",
+    "makes invalid"
   ],
-  "context": "The word 'muudab' is the third person singular form of the Estonian verb 'muutma', which means 'to change'. It indicates that someone or something changes, alters, or modifies something. The verb is commonly used in everyday contexts to express transformation, modification, or alteration of plans, opinions, physical objects, situations, etc."
+  "context": "The word 'muudab' is the 3rd person singular present form of the Estonian verb 'muuda', which means 'to change' or 'to alter'. In music notation context, it specifically refers to a musical symbol that makes previous accidentals (sharps or flats) ineffective. It's an action word indicating transformation or modification of something."
 }

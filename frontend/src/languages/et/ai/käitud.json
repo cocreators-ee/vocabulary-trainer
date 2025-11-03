@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Käitus on heas korras.",
-    "Meil on vaja käida koos.",
-    "Käidu nüüd koju."
+    "Kuidas sa käitud nii!",
+    "Tegelikult kuidas me käime selles küsimuses?",
+    "Mis sa sellest ettepanekust käid?"
   ],
   "translation": [
-    "walk",
-    "go",
-    "visit"
+    "to think",
+    "to assume",
+    "to believe",
+    "to guess"
   ],
-  "context": "The word 'käitud' appears to be a misspelling or variant form of the Estonian verb 'käia', which means 'to go' or 'to walk'. In proper Estonian grammar, 'käida' is used for various meanings including walking, going somewhere, visiting places, or moving from one place to another. The word 'käitud' might be intended as a misspelling of the infinitive form 'käia', or possibly a dialectal variant. It's commonly used in phrases like käima (to go/walk) and käidud (past participle)."
+  "context": "The word 'käitud' is the 3rd person singular present indicative form of the Estonian verb 'kääma', which means 'to go'. However, based on the dictionary definitions provided for the related verb 'arvama', it appears there might be some confusion in the source data. The word 'käitud' as given would literally mean 'he/she/it goes', but the context and dictionary suggestions point to it being related to 'arvama' (to think/believe). This could potentially be a misspelling or confusion with similar-sounding words, but analyzing 'käitud' directly, it is the present tense conjugation of 'kääma' meaning 'to go/walk/move'."
 }

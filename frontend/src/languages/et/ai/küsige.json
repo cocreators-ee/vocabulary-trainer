@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Küsige palun meilt abi.",
-    "Kuidas küsida head nõu?",
-    "Palun küsige ülemuselt luba."
+    "Kas te olete sellega nõus?",
+    "Küsige vanematelt nõu.",
+    "Me olime kogu aeg ühes nõus."
   ],
   "translation": [
-    "ask",
-    "request",
-    "inquire"
+    "agreement",
+    "advice",
+    "consent",
+    "opinion"
   ],
-  "context": "The Estonian word 'küsige' is the plural imperative form of the verb 'küsidama', meaning to ask or request. It is used when addressing multiple people directly, telling them to ask something. The '-ge' ending indicates it's a plural command form. This would be used in formal instructions when speaking to a group, such as 'Please ask for help from us' or asking a group to inquire about permission."
+  "context": "\"Küsige\" is the imperative form of the Estonian verb \"küsima\", which means \"to ask\". However, based on the dictionary definitions provided, it appears that \"küsige\" may be referring to \"nõu\" (advice/opinion) rather than a direct translation of the word itself. The word \"küsige\" would literally mean \"ask\" or \"inquire\", but in context it seems to be connected with seeking advice or opinion. Estonian uses this form when directly addressing someone formally to ask for something, such as asking for advice (\"küsi nõu\") which would become \"küsige nõu\" when speaking to multiple people formally."
 }

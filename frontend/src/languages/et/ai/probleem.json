@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on väike probleem sellega ülesandega.",
-    "See tehnika lahendab meie suurima probleemi.",
-    "Probleemid võivad olla keerulised lahendada."
+    "Probleem on selles, et ta ei tule aega.",
+    "See on matemaatika probleem.",
+    "Meil pole rahaga probleeme."
   ],
   "translation": [
     "problem",
     "issue",
-    "difficulty"
+    "difficulty",
+    "challenge"
   ],
-  "context": "The Estonian word 'probleem' is a noun that means 'problem' in English. It refers to a difficult situation or matter that needs to be resolved. The word can be used in both singular and plural forms, with the plural being 'probleemid'. It's commonly used in everyday language when discussing challenges, obstacles, or things that need fixing."
+  "context": "The Estonian word 'probleem' is borrowed from German and means 'problem'. It refers to any complex question or situation that requires a solution, such as scientific issues, difficulties in daily life, challenges that need to be overcome. The word can be used in various contexts - technical problems, personal troubles, social issues, etc. In Estonian grammar, it follows the ÕS type 22e/riik declension pattern with length gradation."
 }

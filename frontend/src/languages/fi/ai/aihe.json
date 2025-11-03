@@ -1,15 +1,20 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on hyvä aihe esitelmää varten.",
-    "Tämä kirja käsittelee mielenkiintoista aihetta.",
-    "Mikä on tämän keskustelun aihe?"
+    "Olen yrittänyt, mutta hän vaihtaa aihetta koko ajan.",
+    "Neuvostoliitto sai Mainilan laukauksista aiheen hyökätä Suomeen vuonna 1939.",
+    "Onko sinulla jotain aihetta epäilyyn?"
   ],
   "translation": [
     "topic",
     "subject",
     "theme",
-    "matter"
+    "reason",
+    "cause",
+    "grounds",
+    "justification",
+    "motif",
+    "indication"
   ],
-  "context": "The Finnish word 'aihe' is a noun that means topic, subject, or theme. It's commonly used to refer to the main subject of discussion, writing, or thought. In different contexts, it can appear in various cases - for example, in the partitive case as 'aiketta' when referring to 'a topic', and in the genitive case as 'aiheen' meaning 'of a topic'."
+  "context": "The Finnish word 'aihe' has multiple meanings, including topic, subject, theme, reason, and cause. It can refer to the main point of discussion or the grounds for something. The word declines based on case; for example, 'aiheen' is the genitive form meaning 'of a topic', and 'aihetta' is the partitive form.  The suffix '-e' often indicates a reason or cause, while '-tta' can indicate a partial amount of the subject."
 }

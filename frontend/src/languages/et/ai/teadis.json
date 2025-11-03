@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Teenisin, et ta teadis vastust.",
-    "Teadsin alati, et meie jooksme võidu.",
-    "Kas sa teadist, mis kell on?"
+    "Teadis on informatikas ja bibliograafias vastus päringule.",
+    "Kasutaja soovis saada teadiseid kohe.",
+    "Telefoniteadis pakub kiiret juurdepääsu kontaktidele."
   ],
   "translation": [
-    "knew",
-    "was aware of",
-    "realized"
+    "answer",
+    "response",
+    "information",
+    "record"
   ],
-  "context": "'Teadis' is the past tense (3rd person singular) form of the Estonian verb 'teada', which means 'to know'. It specifically refers to knowledge or awareness that someone had in the past. The word indicates possession of information or understanding about something."
+  "context": "The word 'teadis' (singular form) means 'answer' or 'response' in Estonian, particularly used in information science and bibliography. It refers to a written or oral response to an inquiry. The plural form would be 'teadised'. This term is commonly used as a component in compound words like 'telefoniteadis' (telephone directory) or 'patentiteadis' (patent database)."
 }

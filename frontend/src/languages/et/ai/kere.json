@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Kere on ilus ja tugev.",
-    "Lapsed mängisid keredega metsas.",
-    "Too mul oma kere!"
+    "Kere jaguneb rindkereks ja kõhuks.",
+    "Kalamehed olid poolest kerest saadik märjad.",
+    "Laeva, paadi, purjeka kere."
   ],
   "translation": [
-    "body",
-    "trunk",
     "torso",
-    "main part"
+    "body (without head and limbs)",
+    "trunk",
+    "hull (of a ship/vehicle)",
+    "main structure"
   ],
-  "context": "The Estonian word 'kere' means body, trunk, torso or main part. It refers to the physical structure of something - for a person it's their torso/body, for an animal it might be its trunk or main body part, and for objects it can refer to the main structural component or frame."
+  "context": "The Estonian word 'kere' has multiple meanings. 1) In anatomy/human body context: it refers to the central part of the body, the torso or trunk - the body without head and limbs. It can also refer more generally to the whole body in everyday language. Example sentences show usage like 'Kere jaguneb rindkereks ja kõhuks' (The torso is divided into chest and abdomen) and 'Tal oli keret ja jõudu' (He had body and strength). 2) In technical context: it refers to the central/main structure of vehicles, buildings or objects that other parts are attached to. Examples include ships ('Laeva kere'), airplanes, automobiles, etc. This meaning can be seen in 'Laeva, paadi, purjeka kere'. The word also has a colloquial sense referring to the stomach or belly."
 }

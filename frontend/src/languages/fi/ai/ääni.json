@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kissa tekee kirkkaan äänen.",
-    "Mitkä ovat tämän lauseen äänet?",
-    "Minun suosikkiääni on piano."
+    "Maijalla on kaunis ääni.",
+    "Sairastuin ja minulta meni ääni.",
+    "Äänelle on erillinen kaapeli."
   ],
   "translation": [
     "sound",
     "voice",
-    "tone"
+    "audio",
+    "vote"
   ],
-  "context": "In Finnish, 'ääni' is a noun that can refer to different types of sounds or voices. It's the singular form and is commonly used to describe both natural sounds (like animal noises) and human speech/singing. The word can also be used in technical contexts to refer to audio frequencies or tones. When using this word, you might encounter it in its plural form 'äänet' which would mean 'sounds' or 'voices'."
+  "context": "The Finnish word 'ääni' has multiple meanings, including sound as a physical phenomenon, the voice of a person, audio signals, and a single vote in an election. It declines based on grammatical case, with different forms for singular and plural nouns, and possessive suffixes indicating who owns the 'voice' or 'sound'. The word can also refer to the ability to speak."
 }

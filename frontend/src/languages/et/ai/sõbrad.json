@@ -1,12 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Sõbrad tulevad homme külla.",
-    "Tema sõbrad on väga intelligentseid inimesi.",
-    "Kas sa tead, kuhu minavad meie sõbrad?"
+    "Sõbrad tulid külla.",
+    "Tema sõbrad on head inimesed.",
+    "Minu parimad sõbrad elavad Tallinnas."
   ],
   "translation": [
     "friends"
   ],
-  "context": "The word 'sõbrad' is the plural form of 'sõber', which means 'friend' in English. In Estonian, nouns have grammatical cases and numbers, and '-d' at the end indicates plural form. So 'sõbrad' specifically refers to multiple friends."
+  "context": "The word 'sõbrad' is the plural nominative form of the Estonian noun 'sõber', which means 'friend'. In Estonian, nouns change their endings to indicate different grammatical cases and numbers. The '-d' ending here indicates that this is a plural form in the nominative case (the basic, dictionary form)."
 }

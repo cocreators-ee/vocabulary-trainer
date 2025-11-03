@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on avain taloon.",
-    "Hän etsii avaintaan kaikkialta.",
-    "Talossa ei ole ovea ilman avainta."
+    "Minulla on avain.",
+    "Hän löysi avaimen lattialta.",
+    "Avain sopii lukkoon."
   ],
   "translation": [
     "key",
-    "solution",
-    "answer"
+    "code",
+    "pass"
   ],
-  "context": "The Finnish word 'avain' means key in English. It is a common noun that refers to an object used for opening locks or doors. In Finnish, it can also be used metaphorically to mean 'solution', 'answer', or 'clue'. The word is neuter in gender and follows regular declension patterns in Finnish grammar."
+  "context": "The Finnish word 'avain' translates to 'key' in English. It refers to a device designed to open and close locks, but can also have figurative meanings like a crucial step or solution. The word declines based on grammatical case, as shown in the dictionary definition, with different forms for singular and plural, possessive forms (my key, your key etc.), and various cases indicating location, direction, or relationship. It is related to the verb 'avata' meaning 'to open'. There are many compound words using 'avain', such as 'kaupungin avain' which means 'city key'."
 }

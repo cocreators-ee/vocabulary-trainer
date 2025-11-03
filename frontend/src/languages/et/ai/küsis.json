@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Küsin teilt, kas teil on vaja abi.",
-    "Ta küsiks mind koosolekule.",
-    "Me küsisime temalt nõuandeid."
+    "Ta küsis minult abi.",
+    "Mida sa küsisid?",
+    "Küsin sulle üks küsimus."
   ],
   "translation": [
-    "asked",
-    "inquired"
+    "asked"
   ],
-  "context": "\"küsis\" is the past tense form of the verb \"küsima\" in Estonian, which means \"to ask\". It's commonly used when referring to someone asking a question or requesting information in the past tense. The word follows Estonian grammar rules for past tense conjugation."
+  "context": "The word 'küsis' is the third-person singular past indicative form of the Estonian verb 'küsima', which means 'to ask'. It specifically refers to someone asking in the past tense. For example, if we say 'Ta küsis minult abi', it translates to 'He/She asked me for help'. This word represents a completed action where someone posed a question or requested something."
 }

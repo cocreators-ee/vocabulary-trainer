@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Lõigan leiba.",
-    "Ta lõikas paberit.",
-    "Meie lõigame seda köidet."
+    "Ma lõigan leiba.",
+    "Tema lõigas puidu ära.",
+    "Meie lõigame ketti saksiga."
   ],
   "translation": [
     "to cut",
-    "to divide",
+    "to slice",
+    "to chop",
     "to trim"
   ],
-  "context": "The Estonian verb 'lõigata' means to cut, slice, or divide something. It's a regular verb that can be used for cutting various materials like food, paper, wood, etc. The word follows standard Estonian conjugation patterns - in the first person singular present tense it becomes 'lõigan', and in other forms it changes accordingly."
+  "context": "The Estonian verb 'lõigata' means to cut, slice, chop or trim something. It's a transitive verb that requires an object - you need to specify what is being cut. The word can be used for cutting various materials like food (bread), wood, paper, metal chains, etc. In different tenses and conjugations it appears as lõigan (I cut), lõigad (you cut), lõigab (he/she/it cuts), lõigame (we cut), lõigate (you plural/formal cut), and lõivad (they cut)."
 }

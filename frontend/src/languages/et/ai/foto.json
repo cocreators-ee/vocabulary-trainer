@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma tegin uue foto eelmisel nädalavahetusel.",
-    "Kas sa näed seda fotosid meie perereisilt?",
-    "Võta palun parem foto sellest ilusast maastikust."
+    "See on hea foto.",
+    "Tegin mõned fotod matkast.",
+    "Fotol näeb ta väga rõõmsalt välja."
   ],
   "translation": [
+    "photograph",
     "photo",
-    "picture",
-    "photograph"
+    "picture"
   ],
-  "context": "The Estonian word 'foto' is a loanword from English/International, meaning 'photo' or 'picture'. It's used in the same contexts as in English - referring to photographs taken with cameras. The word is neutral and commonly used in everyday language. In Estonian, it follows similar grammatical patterns as other nouns, though it may be more frequently used without declension changes compared to native Estonian words."
+  "context": "The Estonian word 'foto' is a noun that means 'photograph' or 'photo'. It's borrowed from English and is commonly used in everyday language. The word follows regular Estonian declension patterns, with the genitive form being 'foto', partitive singular 'fotot', plural nominative 'fotod', and so on. It can refer to any kind of photograph - artistic, clear, blurry, black and white, color, enlarged, framed photos, etc."
 }

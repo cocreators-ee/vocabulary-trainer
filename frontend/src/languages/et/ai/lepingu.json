@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tegime lepingu ettevõttega.",
-    "Kas teil on selle lepinguga seotud küsimusi?",
-    "Lepingu tingimused on selged ja mõistlikud."
+    "Leidsin lepingu tingimused vastuvõetavaks.",
+    "Tema andis aktsepti lepingule kohe pärast seda, kui nägi tingimusi.",
+    "Aktsept ei saa kehtida ilma allkirjata."
   ],
   "translation": [
-    "agreement",
-    "contract",
-    "deal"
+    "acceptance",
+    "agreement to accept"
   ],
-  "context": "The Estonian word 'lepingu' is the partitive case form of 'lepik', which means agreement or contract. It's used when referring to an agreement in a partial sense or as the object of an action. In these examples, it appears as the direct object indicating that there is an existing agreement being discussed, referenced, or acted upon."
+  "context": "The word 'lepingu' is part of the term 'aktsepti lepingu' which refers to an acceptance agreement - a legal document where someone agrees to take on financial or other obligations (such as paying bills, redeeming a bill, fulfilling contract terms). It's related to the concept of 'aktsept' (acceptance) in commercial law. The word appears to be in the genitive case, indicating possession or relationship to the acceptance agreement."
 }

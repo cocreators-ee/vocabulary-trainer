@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tule külla homme!",
-    "Külalised tulid külla külastama.",
-    "Me ootame sind külla öösel."
+    "Tule külla!",
+    "Kas tulid külla?",
+    "Mina lähen külla."
   ],
   "translation": [
+    "to come to",
     "to visit",
-    "to come over",
-    "drop by"
+    "to go to someone's place"
   ],
-  "context": "The Estonian word 'külla' is an illative case form of the word 'koda', which means a dwelling, house or home. It indicates direction towards a place where someone lives. In English, it translates to phrases like 'to visit', 'to come over', or 'drop by'. The word shows movement toward someone's home for a visit."
+  "context": "The Estonian word 'külla' is an inessive case form of the noun 'küla', meaning village or homestead. It functions as a directional adverb indicating movement toward a village, home, or destination where someone lives. In usage, it often appears with the verb tule (come) to invite someone to visit one's place. The word belongs to the illative case category of Estonian grammar and indicates direction towards a location."
 }

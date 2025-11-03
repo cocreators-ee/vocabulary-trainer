@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kiskot olivat jäätävän kylmät.",
-    "Rautatie kiskoja kulkee kaupungin halki.",
-    "Minun täytyy vaihtaa vanha kisko uuteen."
+    "Juna kulkee kiskoilla.",
+    "Rakennetaan uusia kiskoja rautatieverkostoon.",
+    "Kiskojen kunnossapito on tärkeää turvallisuuden kannalta."
   ],
   "translation": [
     "rail",
     "track",
-    "bar",
-    "rod"
+    "bar"
   ],
-  "context": "The Finnish word 'kisko' translates to English as 'rail', 'track', or sometimes more generally as a rod or bar. It most commonly refers to railway tracks, the metal rails on which trains run. The word can also be used in other contexts where something has a long, narrow, straight shape similar to a rail or track."
+  "context": "The word 'kisko' in Finnish refers to a long piece of metal, most commonly used as a rail for railroads. It can also simply mean 'bar'. The word originates from the birchbark and has evolved over time to describe metal rails.  It declines based on grammatical case; the provided dictionary definitions show its various forms (nominative, genitive, partitive etc.) for both singular and plural, as well as possessive forms indicating who owns the rail ('my rail', 'your rail' etc.)."
 }

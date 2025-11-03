@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Kas sa näed seda kampi?",
-    "Tal on väga suur kamp.",
-    "Meie kamps olid täna head."
+    "Poiste, noorukite kamp.",
+    "Neljameheline, mõnemeheline kamp.",
+    "Kamp läks laiali."
   ],
   "translation": [
-    "hook",
-    "bend",
-    "curve",
-    "angle"
+    "group",
+    "gang",
+    "band",
+    "crew",
+    "team"
   ],
-  "context": "The Estonian word 'kamp' means hook, bend, curve, or angle. It refers to a curved shape or something that bends at an angle. The word can be used in various contexts - it could refer to a physical hook on a wall, a bent piece of wire, a curved road, or even the angle at which something is positioned. In Estonian grammar, 'kamp' follows standard declension patterns for masculine nouns."
+  "context": "In Estonian, 'kamp' refers to a group or gang of people who act together. It can be used for various types of groups - boys/gangs of young people, business associates, thieves, card players, etc. The word often implies a cohesive unit that moves and operates together. It can refer to both small groups (like 2-4 people) and larger gatherings."
 }

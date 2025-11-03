@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta läheb kabinetti tööle.",
-    "Kabineti uks on avatud.",
-    "Me kohtume kabinetis kolmest."
+    "Olen tööl oma kabinetti.",
+    "Professor palus mind oma kabinetti tulema.",
+    "Kõige vaiksem ruum oli kabinetti."
   ],
   "translation": [
-    "cabinet",
     "office",
-    "study room"
+    "study",
+    "room"
   ],
-  "context": "The word 'kabinetti' is the inessive case (inessive) form of the Estonian noun 'kabinet', which means a private room or office. The '-i' ending indicates location within something, so 'kabinetti' specifically means 'in the cabinet/office'. This is commonly used for offices where people work, particularly professionals like doctors, lawyers, or managers."
+  "context": "The word 'kabinetti' is the partitive case of the Estonian word 'kabinet', which means office, study, or room. In this form, it indicates being in an office or moving towards/into an office context. The dictionary definition shows usage in contexts like getting lost and ending up in someone's office ('Eksisin uksega ja sattusin võõrasse kabinetti'), suggesting it refers to a specific type of room or workspace."
 }

@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Poiss on hea õpilane.",
-    "See poiss käis koolis.",
-    "Meie klassis on kolm poissi."
+    "Poiss ja tüdruk.",
+    "Viieaastane vallatu poiss.",
+    "Peigmees oli pikk kena poiss."
   ],
   "translation": [
     "boy",
+    "son",
+    "young man",
     "lad",
-    "young man"
+    "helper",
+    "youth"
   ],
-  "context": "The Estonian word 'poiss' means boy in English. It is a masculine noun that refers to a male child or young person. In the examples, it's used in singular form as 'poiss' (a boy), and in plural form as 'poisse' (boys). The word follows typical Estonian grammatical patterns for nouns."
+  "context": "The Estonian word 'poiss' has multiple meanings depending on context. It primarily means 'boy' or 'male child', but can also refer to a young man, son, helper/attendant (historically), or be used as an interjection of surprise or admiration. The word is masculine in gender and follows regular Estonian declension patterns with forms like poisi (genitive), poisid (plural nominative), etc."
 }

@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Mõistad sa seda?",
-    "Ta mõistab matemaatikat hästi.",
-    "Me ei mõista seda keelt."
+    "Mõistad sa seda? (Do you understand this?)",
+    "Ta mõistab matemaatikat headasti. (He understands math very well.)",
+    "Kas teie lapsed mõistavad eesti keelt? (Do your children understand Estonian?)"
   ],
   "translation": [
-    "you understand",
-    "do you understand",
-    "he/she understands"
+    "understand",
+    "comprehend",
+    "grasp",
+    "realize"
   ],
-  "context": "The word 'mõistad' is the second person singular present form of the Estonian verb 'mõistma', which means 'to understand'. It's used when addressing one person informally, equivalent to English 'you understand' or in questions like 'Do you understand?'."
+  "context": "The word 'mõistad' is the 2nd person singular present tense form of the Estonian verb 'mõista', which means 'to understand'. It specifically addresses one person informally (you singular). The verb indicates comprehension, grasping a concept, or realizing something. This word belongs to the same word family as the adjective 'arukas' (intelligent/smart), suggesting that understanding is connected to intelligence or having good sense."
 }

@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Jah, jep!",
-    "Kas sa tuled? - Jep.",
-    "Olen nõus, jep!"
+    "Neil ep ole silmi, neil ep ole suud, nina ega kõrvu.",
+    ".. tegi kui ep oleks ta teda näinud ..",
+    "Siis ep Irma tuligi sellele targale mõttele."
   ],
   "translation": [
-    "yes",
-    "yeah",
-    "yup",
-    "okay"
+    "no",
+    "not",
+    "indeed",
+    "precisely",
+    "just"
   ],
-  "context": "The Estonian word 'jep' is an informal colloquial expression meaning 'yes', similar to English 'yeah' or 'yup'. It's commonly used in casual conversation as a shorter, more relaxed version of the formal 'jah' (yes). The word carries a friendly, informal tone and is often used in everyday speech among friends and acquaintances."
+  "context": "The Estonian word 'ep' is an adverb that can function both as a negation (meaning 'no' or 'not') and as an affirmation (meaning 'indeed', 'precisely', or 'just'). In negative constructions, it's used to deny something, similar to English 'no' or 'not'. In affirmative contexts, it serves to emphasize the truth of a statement, meaning something like 'indeed' or 'exactly'. Its dual nature makes it context-dependent in meaning."
 }

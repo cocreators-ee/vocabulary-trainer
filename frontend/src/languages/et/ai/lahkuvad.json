@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lahkuvad bussid sõidvad kell kuus.",
-    "Töötajad lahkuvad firmast lõunaajal.",
-    "Järeltulijad lahkuvad iseseisvalt."
+    "Linnud lahkuvad pesast varsti pärast munast koorumist.",
+    "Pesahülgajate pojad on koorumisel täiesti välja arenenud.",
+    "Need linnud on kuulsad oma pesahülgaja olemuse poolest."
   ],
   "translation": [
-    "departing",
-    "leaving",
-    "setting off"
+    "nest-leaving",
+    "precocial",
+    "nidifugous"
   ],
-  "context": "The word 'lahkuvad' is the 3rd person plural present indicative form of the Estonian verb 'lahkuma'. It means that a group of people or things are leaving, departing, or setting off from a location. The '-d' ending indicates third person plural (they), and this form would be used when talking about buses, trains, groups of people, etc. that are currently in the process of leaving."
+  "context": "The word 'lahkuvad' is the 3rd person plural present form of the verb 'lahkuma', meaning to leave or depart. In this zoological context, it specifically refers to birds whose young leave the nest shortly after hatching from their eggs. These are called 'nest-leavers' or 'precocial' birds in English. The term describes a developmental strategy where chicks are fully developed at hatching and can leave the nest immediately rather than remaining altricial (helpless)."
 }

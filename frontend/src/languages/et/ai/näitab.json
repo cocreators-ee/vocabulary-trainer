@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "See näitab hea tulemust.",
-    "Tema näitab alati head käitumist.",
-    "Lugu näitab, et tegemist on keerulisega."
+    "Laev rooliseadme näitur, mis näitab roolilehe asendit laeva pikitasandi suhtes.",
+    "See näitab kõike vajalikku infot.",
+    "Mees näitab oma arvamust selgelt."
   ],
   "translation": [
     "shows",
-    "displays",
     "indicates",
-    "demonstrates"
+    "displays"
   ],
-  "context": "The word 'näitab' is the 3rd person singular present form of the Estonian verb 'näidata', which means 'to show'. It can be used to indicate showing something physically, displaying information, or demonstrating a quality or characteristic. The root form 'näita-' relates to showing/revealing, and the suffix '-b' indicates the 3rd person singular present tense conjugation."
+  "context": "The word 'näitab' is the third-person singular present tense form of the Estonian verb 'näidata', which means 'to show' or 'to indicate'. It's used when someone or something displays information, reveals something, or points to something. In maritime contexts (as suggested by the dictionary definition), it specifically refers to instruments that display readings or positions."
 }

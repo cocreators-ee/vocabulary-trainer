@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta lõi uue nimekirja",
-    "Nimekiri on täielik",
-    "Kas sa oled näinud seda nimekirja?"
+    "Ta kandis oma nime üliõpilaste nimekirja.",
+    "Tema nimi on lisatud võistkonna nimekirja.",
+    "Lugege täielikku osalejate nimekirja."
   ],
   "translation": [
     "list",
-    "directory",
-    "inventory"
+    "register",
+    "record"
   ],
-  "context": "The word 'nimekirja' is the partitive case form of the Estonian noun 'nimekiri'. It means 'list' in English and refers to a written record or enumeration of items, names, or data. In this case, it's used when talking about some list (partitive case indicates an incomplete or unspecified object)."
+  "context": "The word 'nimekirja' is the illative case of 'nimekiri', meaning 'into a list' or 'onto a register'. In Estonian grammar, the illative case indicates movement into something or inclusion in something. This form suggests that someone or something has been added to or entered into a list or record. For example, when a student is registered at a university, their name would be 'added to the register' (nimekirja kandma)."
 }

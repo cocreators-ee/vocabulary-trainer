@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Me oleme koolis.",
-    "Me läheme linna.",
-    "Me ei tea vastust."
+    "Me lähme linna.",
+    "Me ei saa täna kohale.",
+    "Me oleme perekond."
   ],
   "translation": [
-    "we"
+    "we",
+    "us"
   ],
-  "context": "The Estonian word 'me' is a first-person plural pronoun that means 'we'. It's the subject form used when the speaker(s) are including themselves in the action or being described. This pronoun indicates two or more people including at least one speaker."
+  "context": "The Estonian pronoun 'me' is the short form of 'meie' and means 'we' in English. It's used as the first-person plural pronoun, referring to the speaker plus at least one other person. In declension, 'me' has forms like 'meid' (partitive), 'meile' (allative), 'meil' (adessive), and others depending on grammatical case requirements."
 }

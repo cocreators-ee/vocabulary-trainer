@@ -1,16 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tietokoneen pääte on rikki.",
-    "Ostin uuden päätteen puhelimeeni.",
-    "Talvipäivänseisauksen jälkeen päivät alkavat pidettyä."
+    "Tämä on viimeinen pääte tässä tiedostossa.",
+    "Ohjelman pääte oli virheellinen.",
+    "Hän opiskeli kielten sijapäätteitä."
   ],
   "translation": [
+    "end",
+    "ending",
     "terminal",
-    "end point",
-    "endpoint",
-    "connector",
-    "winter solstice"
+    "suffix"
   ],
-  "context": "The Finnish word 'pääte' has several meanings depending on context. As a noun, it can mean 'terminal' (like computer terminal), 'end point', or 'connector' (for electronic devices). In technical contexts, it refers to the end of something - either literally as an endpoint or electronically as a connector. Additionally, in astronomical terms, it can refer to the winter solstice when used in compounds like 'talvipäivänseisauspääte'. The word comes from the root 'pää-' meaning head/main/first, with the suffix '-te' indicating end result or completion."
+  "context": "The word 'pääte' in Finnish refers to the end or ending of something. It can be a physical end, like the end of a file, or a grammatical one, such as a suffix added to a word to change its meaning or function. The word declines based on case, and possessive suffixes can also be added. As shown in the dictionary definitions, it has many different forms depending on context."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta jagas oma saladusi teistele inimestele.",
-    "See mõjuvad hästi teistele lastel.",
-    "Me peame arvestama teiste soovidega."
+    "Teistele väidetele ei vaja selgitust.",
+    "Need teistele on matemaatikas põhilised tõed.",
+    "Väiteid kutsutakse ka teisteks."
   ],
   "translation": [
-    "to others",
-    "for other people",
-    "with other people"
+    "axiom",
+    "postulate",
+    "self-evident truth"
   ],
-  "context": "The Estonian word 'teistele' is the allative case of 'teised', meaning 'others'. It indicates movement towards or direction to other people. The ending '-le' marks the allative case in Estonian, similar to English prepositions like 'to' or 'for' when indicating destination or recipient."
+  "context": "The Estonian word 'teistele' refers to an axiom or postulate - a statement that is taken as true without proof and serves as a basis for other statements in a deductive theory. In mathematics and logic, these are fundamental truths from which other conclusions can be derived."
 }

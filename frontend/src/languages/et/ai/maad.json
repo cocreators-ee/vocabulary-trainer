@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Eestis on palu maad.",
-    "Maad on väga ilus riik.",
-    "Me armastame oma maad."
+    "Maa on sinine planeet kosmoses.",
+    "Kuu tiirleb ümber Maad.",
+    "Lõuna-Eesti maa on künklik ja kaunis."
   ],
   "translation": [
     "land",
-    "country",
+    "earth",
+    "ground",
     "soil"
   ],
-  "context": "The Estonian word 'maad' is the genitive singular form of 'maa', which means land, country, or soil. In the genitive case, it indicates possession or relationship to something - for example, 'Eestis on palu maad' means 'There is little land in Estonia'. It can refer to physical land/soil, a nation/country, or territory."
+  "context": "'Maad' is the partitive singular and nominative plural form of the Estonian word 'maa'. As a partitive singular, it can refer to 'some land', 'part of the earth', or 'portion of ground'. As a nominative plural, it means 'lands', referring to multiple plots of land or countries. The word 'maa' itself has extensive meanings including planet Earth, soil/ground, surface area, country, and territory."
 }

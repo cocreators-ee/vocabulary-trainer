@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Keri saab hooldust.",
-    "Me lähime Kerile.",
-    "Keri on väga ilus paik."
+    "Keri pael kerasse!",
+    "Lõng on keras.",
+    "Koerad tormasid kahe karvase kerana võõrale vastu."
   ],
   "translation": [
-    "a place name",
-    "Keri (island)"
+    "sphere",
+    "ball",
+    "round body",
+    "geometric sphere"
   ],
-  "context": "The word 'keri' is a proper noun in Estonian, specifically referring to Keri Island, which is located in the Gulf of Finland. It's used as a geographical place name and doesn't have a general meaning beyond this specific location."
+  "context": "The word 'keri' in Estonian refers to a sphere or ball shape. It's used both for physical objects (like balls, spheres) and as a metaphor for round things. In geometric terms, it specifically refers to the mathematical concept of a perfect sphere where all points are equidistant from the center. The word can be found in compound words like 'juustukera' (cheese ball), 'karvakera' (fur ball), or 'lõngakera' (ball of yarn). It's also used to describe someone curling up into a ball shape, as in animals curling up to sleep."
 }

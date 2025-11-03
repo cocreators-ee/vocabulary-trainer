@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on kiire.",
-    "Hänellä ei ole kiireitä.",
-    "Kiireinen päivä oli raskas."
+    "Meillä on kiire juniaan.",
+    "Tuotannossa tulee kiire, jos aiomme selvitä määräajassa.",
+    "Kaikilla näyttää olevan kiire samaan paikkaan."
   ],
   "translation": [
+    "hurry",
     "haste",
     "rush",
-    "urgency",
-    "hurry"
+    "busy"
   ],
-  "context": "The Finnish word 'kiire' is a noun that means 'haste,' 'rush,' or 'urgency.' It can refer to being in a hurry, having many tasks to complete quickly, or the pressure of time constraints. In Finnish, it's often used with the partitive case when referring to multiple instances (e.g., 'kiireitä' for 'many hastes/rushes'), and can also be adjectivally as 'kiireinen' meaning 'busy' or 'hectic.'"
+  "context": "The word 'kiire' in Finnish means hurry, haste or rush. It can be used as an uncountable noun to describe a state of being hurried, like saying 'We are in a hurry'. It can also refer to something that makes one busy. The word declines based on case, and has different forms for singular and plural, as well as possessive forms indicating who is in a hurry."
 }

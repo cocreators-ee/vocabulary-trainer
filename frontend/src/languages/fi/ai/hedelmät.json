@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ostan hedelmiä torilta.",
+    "Ostin paljon hedelmiä torilta.",
     "Hedelmät ovat terveellisiä ja maukkaita.",
-    "Suosikkini hedelmä on banaani."
+    "Lapsi söi kaikki hedelmät."
   ],
   "translation": [
-    "fruits"
+    "fruits",
+    "produce"
   ],
-  "context": "The Finnish word 'hedelmät' is the plural form of 'hedelmä', meaning 'fruit'. It refers to sweet, edible plant parts that contain seeds. In Finnish grammar, '-t' ending indicates plural, so 'hedelmät' specifically means multiple fruits rather than just one fruit."
+  "context": "The word 'hedelmät' is the plural nominative form of 'hedelmä', which means 'fruit'. The '-t' ending indicates that it is in the plural form, referring to multiple fruits. It translates directly to 'fruits' in English."
 }

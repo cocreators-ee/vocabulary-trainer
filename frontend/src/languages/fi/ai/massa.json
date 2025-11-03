@@ -1,16 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tällä massalla on paljon proteiinia.",
-    "Minulla on massa ruokaa kotona.",
-    "Hän työskentelee massaan liittyvässä työssä."
+    "Hän kantoi suuren massan kiviä.",
+    "Massa oli niin tiheää, ettei valo päässyt läpi.",
+    "Tutkijat analysoivat näytteen massaa."
   ],
   "translation": [
-    "amount",
-    "quantity",
     "mass",
-    "pile",
-    "lot"
+    "bulk",
+    "quantity",
+    "paste",
+    "pulp"
   ],
-  "context": "In Finnish, 'massa' is a noun that generally refers to an amount or quantity of something. It can be used for physical mass in scientific contexts, but more commonly it's used to describe a large quantity or pile of material goods. For example, it might refer to a large amount of food, materials, or substances. The word doesn't carry any negative connotations and is a neutral term describing quantity."
+  "context": "The Finnish word 'massa' refers to a quantity of matter cohering together to make one body, or a large amount of something. It can also refer to a soft mixture like paste or pulp. The word declines based on case, as shown in the dictionary definition, with different forms for singular and plural nouns, and possessive suffixes indicating who owns the mass. For example, 'massani' means 'my mass', while 'massoissani' means 'in my masses'. It can also be used to describe a large group of people, similar to 'the masses'."
 }

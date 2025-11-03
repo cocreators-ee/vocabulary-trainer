@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Lauda lauale.",
-    "Laual on toit.",
-    "Meie uus lauda on väga ilus."
+    "Sai vanamees oma kuus lauda, kuue laua vahele.",
+    "Pood müüb uusi lauadeid.",
+    "Meie praegune lauda on vana ja vajab asendamist."
   ],
   "translation": [
-    "table",
-    "desk"
+    "plank",
+    "board",
+    "table (in genitive singular of laud)",
+    "chest lid"
   ],
-  "context": "The word 'lauda' is the singular nominative form of 'laud', which means table or desk in Estonian. It's a common noun referring to a piece of furniture with a flat top and legs, used for various purposes like eating, working, or placing objects on."
+  "context": "The word 'lauda' has multiple meanings in Estonian. As the partitive singular and illative singular form of 'laud', it means plank/board or table. It can also be the genitive singular form of 'laut'. The dictionary definition shows its use in the context of a chest lid ('puusärgi, kirstu kohta'). In the example sentence 'Sai vanamees oma kuus lauda, kuue laua vahele,' it refers to getting six planks/boards for between six tables."
 }

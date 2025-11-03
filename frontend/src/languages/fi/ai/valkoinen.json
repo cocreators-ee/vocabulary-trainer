@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Valkoinen talo on Yhdysvaltain presidentin virka-asunto.",
-    "Minulla on valkoinen auto.",
-    "Talvi tuo usein valkoista lunta."
+    "Lumessa näkyi valkoisia jälkiä.",
+    "Hänellä oli valkoinen mekko päällään.",
+    "Taivaalla leijui valkoisia pilviä."
   ],
   "translation": [
     "white",
-    "color white"
+    "pale",
+    "fair",
+    "Caucasian"
   ],
-  "context": "The Finnish word 'valkoinen' is an adjective that means 'white' in English. It describes something as having the color of snow or milk. Like most Finnish adjectives, it has different forms depending on case and number - for example, 'valkoinen' is the nominative singular form, while plural would be 'valkoiset'. This word can be used to describe objects, animals, people, and abstract concepts in relation to their color."
+  "context": "The word 'valkoinen' is a Finnish adjective meaning 'white'. It can also refer to people with light-colored skin, in which case it translates to 'Caucasian'. The word declines based on grammatical case and number. For example, 'valkoiset' is the plural nominative form, meaning 'whites', while 'valkoisen' is the genitive singular, meaning 'of white'. The combining form of the word is 'valko-', which can be seen in compounds."
 }

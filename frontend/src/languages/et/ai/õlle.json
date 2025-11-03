@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on hea õlle.",
-    "Me ostisime õlle poest.",
-    "Kas sa soovid juua üks õlle?"
+    "Õllele lisati humalaid.",
+    "Agan leiva jätk, humal õlle jätk.",
+    "Ma ostsin uut head õlle."
   ],
   "translation": [
-    "beer"
+    "beer (genitive singular)",
+    "hops"
   ],
-  "context": "Õlle is the Estonian word for 'beer'. It's a singular form of the noun. In Estonian, it can be used with different cases depending on its function in a sentence - for example, 'õlle' (nominative), 'õllet' (genitive), etc. The word refers to the alcoholic beverage made from fermented grain."
+  "context": "The word 'õlle' is the genitive singular form of 'õlu', which means beer in Estonian. In the first dictionary definition, it appears to be used as a reference to hops (humal), but this seems to be an error based on the Wiktionary entry showing it's actually the genitive case of 'beer'. As the genitive singular, it would typically indicate possession or relationship to beer - for example, 'of beer' or related to beer. The word can appear in contexts like describing something that belongs to beer or is connected to beer."
 }

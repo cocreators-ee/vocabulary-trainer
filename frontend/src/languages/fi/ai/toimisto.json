@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on toimisto Helsingissä.",
-    "Toimistomme sijaitsee keskustassa.",
-    "Mennäänkö toimistoon huomenna?"
+    "Hän työskentelee toimistossa.",
+    "Tarvitsemme uuden toimiston kaupungin keskustaan.",
+    "Toimiston sihteeri vastasi puhelimeen."
   ],
   "translation": [
     "office",
-    "business office"
+    "bureau",
+    "agency"
   ],
-  "context": "The Finnish word 'toimisto' means 'office' or 'business office'. It refers to a place of business where work is conducted, typically for administrative, professional, or commercial activities. The word can be used to describe any type of workplace environment, from small offices to large corporate headquarters."
+  "context": "The word 'toimisto' in Finnish translates to 'office' in English. It refers to a building or room used for professional work. The word is derived from the root 'toimi', meaning chore, task, activity, and has various inflections depending on its grammatical role in a sentence, including singular and plural forms as well as different cases like nominative, genitive, partitive, etc. Possessive forms also exist to indicate ownership (e.g., my office, your office)."
 }

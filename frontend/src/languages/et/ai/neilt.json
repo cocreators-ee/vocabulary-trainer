@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mida sa teads neilt?",
-    "Me saame abi neilt.",
-    "Nad tulevad meile neilt."
+    "Neilt tulevad andmed on tähtsad.",
+    "Oleme saanud informatsiooni neilt.",
+    "Meil on vaja abi neilt."
   ],
   "translation": [
     "from them",
-    "from those people",
-    "from that group"
+    "from those people/places",
+    "from the source"
   ],
-  "context": "The Estonian word 'neilt' is the ablative case form of 'nemad' (they/them). It indicates motion away from or origin from a person or group. In English, this translates to 'from them' and shows where something came from or who provided something."
+  "context": "The word 'neilt' is an Estonian adessive-illative case form, likely derived from 'nemad' (they/those). It functions as a prepositional phrase indicating origin or source - something comes FROM someone/something. In astronomy context specifically refers to celestial bodies or sources of information/data."
 }

@@ -1,16 +1,22 @@
 {
   "understood": true,
   "sentences": [
-    "Tässä on tärkeä merkki.",
-    "Hän tekee eron merkki.",
-    "Auton takana oli merkki."
+    "Dollarin merkki tarkoittaa eri asioita eri ohjelmointikielissä.",
+    "$ on dollarin merkki USA:ssa ja joissakin muissa maissa.",
+    "Toivonkin että tapaamme pian haastattelun merkeissä."
   ],
   "translation": [
     "mark",
     "sign",
-    "symbol",
     "indication",
-    "badge"
+    "symbol",
+    "token",
+    "badge",
+    "brand",
+    "cue",
+    "omen",
+    "trace",
+    "circumstance"
   ],
-  "context": "In Finnish, 'merkki' is a noun that can refer to various types of marks, signs, symbols, or indications. It can be used for physical signs (like road signs), symbolic meanings, distinguishing features, or badges/insignia. The word is in the nominative singular form."
+  "context": "The Finnish word 'merkki' translates to 'mark', 'sign', or 'symbol' in English. It can refer to a written or graphical indication, like the dollar sign ($), but also more abstract concepts such as a characteristic feature or omen. The word declines based on grammatical case; for example, 'merkin' is the genitive form meaning 'of the mark'.  It can also be part of possessive forms, indicating ownership (e.g., 'merkkini' means 'my mark')."
 }

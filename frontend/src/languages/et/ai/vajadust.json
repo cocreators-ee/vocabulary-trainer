@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on suured vajadused",
-    "Temal on palju vajadusi",
-    "Meie vajadused erinevad"
+    "Kleit istub hästi, pole kuskilt liig ega napp.",
+    "Rookis vitsa küljest liiad lehed maha.",
+    "Paat oli liias lastis."
   ],
   "translation": [
-    "needs",
-    "requirements",
-    "demands"
+    "excessive",
+    "too much",
+    "surplus",
+    "superfluous"
   ],
-  "context": "The word 'vajadust' is the partitive singular form of 'vajadus', which means 'need' or 'requirement'. In Estonian, the partitive case is used to indicate partialness, indefiniteness, or an object that is being acted upon. The '-st' ending indicates it's in the partitive case and the word is singular."
+  "context": "The word 'liig' is an Estonian adjective that means something exceeds the normal measure, being excessive or surplus. It indicates when something goes beyond what is appropriate, necessary, or normal - whether talking about physical objects (like too long dress), quantities (excessive amount of something), or even abstract concepts (too much noise, too many requests). In different grammatical forms it can appear as 'liig', 'liiad' (plural), 'liias' (inessive case meaning 'in excess'), etc."
 }

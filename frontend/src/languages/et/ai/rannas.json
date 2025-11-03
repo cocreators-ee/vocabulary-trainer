@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Me oleme rannas.",
-    "Tüdrukud mängivad rannas.",
-    "Perekond käis rannas päevitamas."
+    "Möödusime rannas jalutades.",
+    "Tüdrukud mängivad rannas liiva ja veega.",
+    "Meil oli ilmne päev rannas."
   ],
   "translation": [
-    "at the beach",
-    "by the shore",
-    "on the coast"
+    "on the shore",
+    "by the water's edge",
+    "along the coastline"
   ],
-  "context": "The word 'rannas' is an Estonian inessive case form of 'rand' (beach/shore), indicating location or state being at/on the beach. It answers the question 'where?' and shows that someone or something is located at the seaside."
+  "context": "The Estonian word 'rannas' is an adessive case form of 'rand', meaning 'shore' or 'beach'. It indicates location - specifically being at, on, or by the shore/beach. The '-s' ending indicates the adessive case in Estonian, which typically means 'at/in/on' a place. In this context, it describes where an action is taking place."
 }

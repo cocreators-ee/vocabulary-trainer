@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Taskus on vaba koht.",
-    "Kas sa oled taskus?",
-    "Põrandale ei tohi taskusse jätta."
+    "Tuul vilistab taskus (raha puudumise, rahata oleku kohta).",
+    "Kaupa oli palju, aga ostjal vilistas tuul taskus.",
+    "Meil ei olnud piisavalt raha taskusesse minna kinno."
   ],
   "translation": [
-    "in the pocket",
-    "inside a pocket"
+    "without money",
+    "penniless",
+    "broke"
   ],
-  "context": "The word 'taskus' is the inessive case form of the Estonian noun 'tasku', which means 'pocket'. The suffix '-s' indicates location inside something. It's used when referring to something being located physically within a pocket."
+  "context": "'Taskus' is the inessive singular form of 'task', which means pocket. In Estonian, when someone says 'tuul vilistab taskus' (the wind whistles in the pocket), it's an idiomatic expression meaning to be without money or penniless. This expression conveys that one's pockets are empty and they have no money with them."
 }

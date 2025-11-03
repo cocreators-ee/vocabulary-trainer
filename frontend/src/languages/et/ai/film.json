@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Mulle meeldib filmid vaadata.",
-    "Täna õhtul olen näinud head filmi.",
-    "Kas sa leiad hea filmi?"
+    "Kinos jookseb praegu põnev film.",
+    "See näitleja on mänginud mitmes filmis.",
+    "Tõnu, tule ja vaata, mis mu filmil viga on."
   ],
   "translation": [
+    "motion picture",
     "movie",
     "film",
-    "cinema"
+    "cinematographic work",
+    "photographic film"
   ],
-  "context": "The word 'film' in Estonian means a movie or motion picture. It is borrowed directly from English and has the same meaning and spelling as the English word 'film'. In Estonian, it follows similar grammatical patterns where you can add endings to make different forms like filmis (in a film), filmid (films plural), etc."
+  "context": "The Estonian word 'film' has two main meanings: 1) photographic film - the physical medium used for photography, consisting of a thin flexible acetate cellulose base in strip or sheet form; 2) motion picture/cinematic work - a creative work intended for demonstration on screen (movie). The word can be modified by numerous prefixes to specify types of films such as 'animafilm' (animated film), 'dokumentaalfilm' (documentary film), 'komöödiafilm' (comedy film), etc."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kus on sinu asukoha?",
-    "Meie uue kodu asukoha valimine võttis aega.",
-    "Teada saada praegune asukoht."
+    "Meridiaani algasukohta Greenwichis on tähistatud monument.",
+    "Linnu asukoha määramisel kasutatakse GPS-i koordinaate.",
+    "Selle aia asukoht on päikesepoolne ja hea taimede kasvuks."
   ],
   "translation": [
     "location",
     "position",
     "place"
   ],
-  "context": "The word 'asukohta' is the illative case singular form of the Estonian noun 'asukoht', meaning location or place. It indicates movement to or into a location, similar to saying 'to a location' in English. This grammatical case shows directionality - where something is being moved to or placed."
+  "context": "The word 'asukohta' is the inessive case form of the Estonian noun 'asukoht', which means location or position. The '-ta' ending indicates that something is located inside or within a place. It refers to where something is situated physically, and is commonly used when talking about coordinates, positions on maps, or specific placements."
 }

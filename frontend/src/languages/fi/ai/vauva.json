@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on pieni vauva kotona.",
-    "Vauva nukkui pitkään tänä aamuna.",
-    "Millainen vauva sinulla on?"
+    "Äiti odottaa vauvaa.",
+    "Vauva itki nälkäänsä.",
+    "Isä kantoi vauvaa."
   ],
   "translation": [
     "baby",
     "infant",
-    "newborn"
+    "tot"
   ],
-  "context": "The Finnish word 'vauva' means baby or infant. It is commonly used to refer to young children, typically from birth up to about one year old. The word can be used in various contexts such as talking about a baby's needs, behavior, or characteristics."
+  "context": "The word 'vauva' in Finnish means 'baby'. It is an informal term for a very young child, and can also refer to baby animals. The word declines based on case; the provided dictionary definitions show how it changes depending on its grammatical role in a sentence. For example, 'vauvan' indicates the genitive case ('of the baby'), while 'vauvaa' is the partitive case. It also shows possessive forms like 'vauvani' (my baby) and plural forms such as 'vauvat' (babies)."
 }

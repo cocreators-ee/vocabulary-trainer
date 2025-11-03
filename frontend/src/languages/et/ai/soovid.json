@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Soovid kohtuda homme?",
-    "Ta ei tea, et sa soovid.",
-    "Mis sa soovid õhtul?"
+    "Soovid on meie põhilised eesmärkid.",
+    "Rahvaste soovid peaksid olema kuuldud.",
+    "Töölisklassi soovid ei pruugi kattuda juhtkonna omadega."
   ],
   "translation": [
-    "want",
-    "would like to",
-    "desire"
+    "wishes",
+    "desires",
+    "aspirations",
+    "demands"
   ],
-  "context": "The word 'soovid' is the second person singular form of the Estonian verb 'soovima', which means 'to want' or 'to desire'. It's used when addressing someone directly (you) and indicates their wish or desire. In English, this would correspond to 'you want' or 'you would like to'."
+  "context": "The word 'soovid' is the plural form of 'soov', meaning wishes, desires, aspirations, or demands. In Estonian grammar, this appears to be a noun that refers to collective wants, needs, or expectations - often used in social and political contexts when discussing different groups' desires within society. The dictionary definition mentions it relates to class interests and societal demands."
 }

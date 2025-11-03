@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on ympyrä paperilla.",
-    "Tämä ympyrä on täydellinen.",
-    "Ympyrät ovat geometrisia muotoja."
+    "Minä piirsin ympyrän paperille.",
+    "Tämä pöytä on pyöreä kuin ympyrä.",
+    "Hän juoksi ympyrää kentällä."
   ],
   "translation": [
-    "circle"
+    "circle",
+    "roundel",
+    "orb"
   ],
-  "context": "The Finnish word 'ympyrä' means 'circle' in English. It is a noun referring to the geometric shape that is perfectly round, with all points equidistant from the center point. In Finnish grammar, it's an inanimate object and follows normal inflection patterns for nouns."
+  "context": "The word 'ympyrä' in Finnish means 'circle'. It can also refer to a round shape or, less commonly, an orb. The word declines based on case, as shown in the dictionary definition, and possessive forms exist to indicate ownership. For example, 'ympyräni' means 'my circle'."
 }

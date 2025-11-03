@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Hän veloitti asiakkaalta korvauksen aiheutuneesta vahingosta.",
-    "Velvollisuuteni veloittaa minut auttamaan sinua.",
-    "Lääkärin lasku voi veloittaa satoja euroja."
+    "Minulta veloitettiin tilauksesta viisi euroa.",
+    "He veloittavat liikaa tästä palvelusta.",
+    "Voit veloittaa minulle laskun myöhemmin."
   ],
   "translation": [
     "to charge",
-    "to invoice",
-    "to require",
-    "to obligate"
+    "to debit",
+    "bill"
   ],
-  "context": "The Finnish word 'veloittaa' can be translated as 'to charge', 'to invoice', or 'to require/obligate'. It has multiple meanings depending on context - it can refer to billing someone for goods or services (like a doctor's bill), but it can also mean that something requires or obligates someone to do something. The word derives from the root 'velo-' which relates to obligation or debt, similar to how English words with 'debt' relate to financial obligations."
+  "context": "The Finnish verb 'veloittaa' means 'to charge' or 'to debit', typically referring to assigning a monetary cost to an account or requiring payment for goods or services. The object of the verb is the amount charged, and the payer can be expressed in the ablative case. It comes from the root word 'velka' meaning debt."
 }

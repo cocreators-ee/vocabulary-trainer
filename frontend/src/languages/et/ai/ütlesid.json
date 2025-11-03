@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tüdruk ütlesid, et ta tuleb homme.",
-    "Poiss ütlesid oma sõpradele saladust.",
-    "Lapsed ütlesid teistsuguse vastuse kui oodati."
+    "Mis sa ütlesid?",
+    "Kas Sa öeldsed midagi?",
+    "Tema ütlesid et tuleks hiljem."
   ],
   "translation": [
-    "said",
+    "said (informal)",
+    "spoke",
     "told"
   ],
-  "context": "The word 'ütlesid' is the past tense (2nd person plural) of the Estonian verb 'ütlema', which means 'to say' or 'to tell'. It specifically refers to what multiple people said in the past. The singular form would be 'ütles' for one person, and other forms include 'ütlen' (I say), 'ütled' (you say - singular), etc."
+  "context": "Ütlesid is the past tense form of the Estonian verb 'ütlema' which means 'to say' or 'to tell'. It appears in two forms: second-person singular informal address ('you said/spoke/told') and third-person plural ('they said/spoke/told'). This word specifically refers to completed actions in the past."
 }

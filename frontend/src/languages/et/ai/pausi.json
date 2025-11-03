@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Võtame pausi.",
-    "Ta tegi pausi rääkides.",
-    "Pausi ajal võis kohvi juua."
+    "Poisid otsustasid igavast tunnist pausi panna, aga asi ei õnnestunud.",
+    "Ta pani koolist lihtsalt pausi."
   ],
   "translation": [
     "pause",
-    "break",
-    "intermission"
+    "break from school"
   ],
-  "context": "The word 'pausi' is the partitive case form of the Estonian noun 'pauz', which means 'pause' or 'break'. In this form, it typically follows verbs like 'võtma' (to take) or appears in contexts where a pause or break is mentioned. The partitive case often indicates an incomplete action or object that exists but isn't fully specified."
+  "context": "The word 'pausi' is the genitive singular, partitive singular, and illative singular form of Estonian noun 'paus'. It can refer to a pause or break in general, but specifically in slang usage it means skipping school without a valid reason. In the example sentences, it shows boys deciding to take a break from boring class and someone simply taking time off from school."
 }

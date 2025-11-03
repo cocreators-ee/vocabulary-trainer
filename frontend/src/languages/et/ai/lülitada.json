@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tuleb lülitada arvuti.",
-    "Ma ei tea, kuidas seda lülitada.",
-    "Lülita valgus sisse."
+    "Minu arvuti lülitus välja üleöö.",
+    "Sa võid selle lüliti kätte.",
+    "See lülitus on kõrge tension."
   ],
   "translation": [
     "to switch",
-    "to turn on",
-    "to connect",
-    "to toggle"
+    "to toggle",
+    "to turn off/on"
   ],
-  "context": "The Estonian verb 'lülitada' means to switch, turn on, or connect something. It is commonly used for electrical devices, lights, and systems - essentially making them active or operational. The word can refer to physical switches as well as virtual connections like toggling settings in software."
+  "context": "The word 'lülitada' in Estonian means to switch, toggle, or turn something off or on. It's commonly used for electrical switches and controls. The word can be conjugated into different forms like 'lülitus' (switch) which refers to the device itself, and various verb tenses indicate when the action of switching occurs."
 }

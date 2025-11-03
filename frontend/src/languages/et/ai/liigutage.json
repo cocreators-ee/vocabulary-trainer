@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Liigutage oma istmeid.",
-    "Palun liigutage tagasi.",
-    "Ärge liigutage kinniseid esemeid."
+    "Liigutage end kiiremini, teie tukunuiad!",
+    "Mis sa istud nagu tukunui, tee ka midagi!",
+    "Poiss on nagu tukunui, ei saa sõnagi suust."
   ],
   "translation": [
     "move",
     "shift",
-    "adjust"
+    "stir"
   ],
-  "context": "The word 'liigutage' is the plural imperative form of the Estonian verb 'liigutama', which means to move or shift something. It's used when giving commands or requests to multiple people to move objects or themselves. The ending '-tage' indicates it's in the plural imperative mood, making it equivalent to English phrases like 'move (yourselves)' or 'shift'."
+  "context": "The Estonian word 'liigutage' is the plural imperative form of the verb 'liigutama', which means 'to move'. It's an instruction telling a group of people to move themselves quickly. In the context of the first example sentence, it appears with 'tukunuiad' (dopey/drowsy people) suggesting these people are being told to get moving despite their sluggish or dazed state."
 }

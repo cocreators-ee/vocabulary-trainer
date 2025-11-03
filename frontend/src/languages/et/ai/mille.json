@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mille nimi on?",
-    "Olen küsitud, mille jaoks oled sa tulnud.",
-    "Ta oli nii hea milleni"
+    "Mis see on? Mille see on?",
+    "Mille pärast sa tuled?",
+    "Mille jaoks otsid seda?"
   ],
   "translation": [
-    "for which",
-    "of what",
-    "to what extent"
+    "whose (genitive singular of mis)",
+    "to what purpose/for which reason",
+    "of what kind"
   ],
-  "context": "In Estonian, 'mille' is the interrogative/indefinite pronoun form used to ask about purpose or reason. It's related to the question word 'millal' (when) and can be thought of as asking 'for what' or 'of what'. The word appears in questions seeking information about the reason, purpose, or extent of something."
+  "context": "In Estonian, 'mille' is the genitive singular form of the interrogative pronoun 'mis'. It's used to ask questions about possession ('whose'), purpose ('for what reason'), or nature ('what kind'). This grammatical case indicates that something belongs to or is associated with what is being asked about. The word functions as an interrogative in questions seeking information about attributes, purposes, or origins."
 }

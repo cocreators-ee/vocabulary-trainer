@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ostin uuden pallon.",
-    "Putoi pallo puusta.",
-    "Lapset leikkivät pallolla."
+    "Lapsi potki palloa pihalla.",
+    "Jalkapallojoukkue harjoitteli pallon kanssa.",
+    "Pallo vieri aidan alle."
   ],
   "translation": [
     "ball",
-    "sphere"
+    "sphere",
+    "orb",
+    "globe"
   ],
-  "context": "The Finnish word 'pallo' means ball or sphere. It is a noun that refers to a round object, typically used in games (like soccer ball) or as a general term for any spherical shape. The word can be used with different cases depending on how it functions in the sentence - for example, 'pallolla' would mean 'with a ball' (essive case)."
+  "context": "The word 'pallo' in Finnish means ball, sphere or orb. It is a common noun and can refer to any spherical object, including those used in sports. The word declines based on case, as shown in the dictionary definitions provided. For example, 'pallon' indicates the genitive case (of the ball), while 'palloa' represents the partitive case (some ball)."
 }

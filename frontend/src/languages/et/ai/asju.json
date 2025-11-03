@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ta käis asju ostmisel.",
-    "Ma pean koristama oma asju.",
-    "Tema toas on palju asju."
+    "Ta on hea asjaajaja.",
+    "Kantseleisse vajatakse asjaajajat.",
+    "Ebapraktilisest inimesest pole asjaajajat."
   ],
   "translation": [
-    "things",
-    "items",
-    "belongings",
-    "stuff"
+    "organizer",
+    "administrator",
+    "secretary",
+    "person who handles tasks and matters"
   ],
-  "context": "'Asju' is the partitive form of 'asi' (thing) in Estonian. It's used when referring to things, items, belongings, or stuff in a general sense. The partitive case indicates an indefinite quantity or incomplete action, so 'asju' means some things/without specifying exact what things."
+  "context": "Asjaajaja is an Estonian noun meaning someone who manages affairs, handles administrative work, or organizes things. The word comes from 'asju' (affairs/matters) + 'aaja' (doer/handler), literally a 'handler of affairs'. It refers to practical people who are good at organization and taking care of tasks."
 }

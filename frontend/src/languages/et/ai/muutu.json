@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Muutus on see, mis toimub ühest olekust teise.",
-    "Klubi muutuste hõivates pole võimalik tagasi pöörduda.",
-    "Ta oli sunnitud oma plaane muutma."
+    "Elektrivool, mille tugevus ei muutu.",
+    "Voolu tugevus peab olema stabiilne ja mitte muutu.",
+    "Muutuv vool on vastand püsiva vooluga."
   ],
   "translation": [
     "change",
-    "to change",
-    "changing"
+    "vary",
+    "alter"
   ],
-  "context": "'Muutu' is the 3rd person singular present tense form of the Estonian verb 'muutuma', which means 'to change'. It's used when someone or something is changing in the present moment. The word comes from the root 'muut-' meaning 'change' and the suffix '-u' indicates it's in the present tense for a single subject."
+  "context": "The word 'muutu' is the third-person singular present form of the Estonian verb 'muutuma', which means 'to change', 'to vary', or 'to alter'. In electrical context, it's used to describe when a quantity (like electric current) does not change - as in 'ei muutu' meaning 'does not change'. The word can also be part of compound words like 'elektrivool' where it refers to constant or unchanging current."
 }

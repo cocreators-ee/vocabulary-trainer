@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä bitti on virheellinen.",
-    "Käytän bittiä tiedon tallentamiseen.",
-    "Mitkä ovat parhaat bitit ohjelmistokehityksessä?"
+    "Tietokone käsittelee tietoa bitteinä.",
+    "Lähetin viestin bitteinä verkossa.",
+    "Digitaalinen kuva koostuu monista biteistä."
   ],
   "translation": [
     "bit",
-    "binary digit"
+    "digital bit"
   ],
-  "context": "The Finnish word 'bitti' is a loanword from English, meaning either the binary digit (0 or 1) in computing contexts or referring to a small piece/part of something. In technology discussions, it specifically refers to the fundamental unit of information in digital systems."
+  "context": "The word 'bitti' in Finnish means 'bit' as in a unit of digital information. It is used in computing contexts to refer to the smallest unit of data, typically represented as 0 or 1. The declension shows that it can be singular or plural ('bitit'), and possessive forms exist for different people (my bit - 'bittini', your bit - 'bittisi' etc.)."
 }

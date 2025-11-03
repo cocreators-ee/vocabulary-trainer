@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tegin joone paberile.",
-    "Joon on sirge.",
-    "Võta üks joon siit."
+    "Must joon näitekraanil.",
+    "Joon tõmbas alluvate vahele selge piiri.",
+    "Auto on moodsa joonega."
   ],
   "translation": [
     "line",
-    "stroke",
-    "mark"
+    "trait",
+    "feature",
+    "characteristic"
   ],
-  "context": "In Estonian, 'joon' is a noun that means line, stroke, or mark. It refers to a straight line drawn or written, and can be used in various contexts such as drawing lines on paper, mathematical lines, or marks made by a writing instrument."
+  "context": "In Estonian, 'joon' is a versatile word with multiple meanings. Its primary meaning refers to a physical line - a narrow part of a surface that differs from the surroundings, such as a black line on screen or lines drawn by a pencil. It also has geometric meaning referring to one-dimensional shapes in mathematics. Beyond physical lines, it's used metaphorically for distinctive characteristics or features (both positive and negative), personality traits, or styles/qualities in behavior, design, and art. The word can describe physical boundaries, facial features, artistic elements, behavioral patterns, and even directional concepts. Its usage spans from concrete objects like drawing lines on paper to abstract qualities like national characteristics in music or personal attributes."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kas sa lähed meie kaarti?",
-    "Kaardi peamine eesmärk on korraldada üritust.",
-    "Meil on hea kaart selles linnas."
+    "Kes on eeskäsi? Eeskäsi võib võtta 6 tihi.",
+    "Kaardimängus osavõtja, kellel on õigus esimesena kaarti välja käia.",
+    "Ta oli mängis kaart."
   ],
   "translation": [
-    "to go/leave",
-    "card",
-    "map"
+    "card (partitive singular)",
+    "into the card (illative singular)",
+    "first hand in card games"
   ],
-  "context": "The word 'kaarti' in Estonian has multiple meanings depending on the context. When used as a verb form of 'karta', it means 'to go' or 'to leave'. When referring to physical objects, it can mean either a 'card' (like a playing card or business card) or a 'map'. The meaning is determined by the surrounding words and grammatical construction."
+  "context": "The Estonian word 'kaarti' has multiple grammatical forms. As a partitive singular of 'kaart', it means 'card' when referring to one unit among many or in an unspecified quantity. As an illative singular, it means 'into the card' indicating direction into something. In card game terminology specifically, it refers to the 'first hand' - the player who has the right to play first or take cards."
 }

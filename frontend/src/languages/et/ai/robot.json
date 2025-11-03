@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tark robot aitab meid igapäevastes töödes.",
-    "Roboteid kasutatakse tehasesi tootmiseks.",
-    "Vaimne võib tulla välja nagu robot."
+    "Robotid on tänapäeva tehnikas väga olulised.",
+    "See tööstusrobot võib töötööpäevas mitu tundi järjest.",
+    "Mõned inimesed kardavad, et robotid asendavad peagi kõiki töökohti."
   ],
   "translation": [
-    "robot",
     "automaton",
-    "mechanical device"
+    "machine",
+    "mechanical being"
   ],
-  "context": "In Estonian, 'robot' refers to a mechanical or virtual artificial agent that can perform tasks automatically. It's borrowed from English and has the same meaning as in English - a programmable machine capable of carrying out complex series of actions automatically. The word can be used in singular form (robot) or plural form (robodid)."
+  "context": "In Estonian, 'robot' refers to a programmable automatic machine that performs tasks replacing human movement, perception and thinking. It can also refer to an obedient, willing and unfeeling executor person who carries out their tasks mechanically without independent thought capacity. The term encompasses both the technical meaning of automated machines used in industry and daily life, as well as metaphorical usage for people who behave like machines without initiative or feeling."
 }

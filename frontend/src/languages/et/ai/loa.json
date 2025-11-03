@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on loa selleks.",
-    "Ta sai loa lahkuda varakult.",
-    "Kas teil on loa kasutada telefoni?"
+    "Ta sai loa kauba väljaveoks.",
+    "Päringu jaoks vajalik on loa vorm.",
+    "See dokument annab loa ehitustöödeks."
   ],
   "translation": [
-    "permission",
     "license",
-    "authorization"
+    "permit",
+    "permission"
   ],
-  "context": "In Estonian, 'loa' is the partitive form of the noun 'lood', which means permission or license. It indicates having some amount of permission to do something. This word follows the standard Estonian grammatical pattern where the nominative singular would be 'lood' and in this case appears in the partitive case."
+  "context": "The word 'loa' is the genitive singular form of the Estonian noun 'luba'. In English, it can be translated as 'license', 'permit', or 'permission'. The word typically refers to official authorization granted by a government agency for activities like exporting goods (as shown in the dictionary definition mentioning väljaveo/luba which means export license/permit), construction projects, or other regulated activities. As a genitive form, it indicates possession or relation - so phrases would include 'of the license' or 'the license's'."
 }

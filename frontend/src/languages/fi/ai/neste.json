@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Neste on polttoliquid.",
-    "Minä ostin nestettä huoltamolta.",
-    "Auton tankki täytetään nesteellä."
+    "Autossa on jarrunestettä.",
+    "Lääkäri otti näytteen ruumiinnesteestä.",
+    "Pöydällä oli lasi vettä ja pullo nestettä."
   ],
   "translation": [
-    "fuel",
     "liquid",
-    "petroleum"
+    "fluid",
+    "juice"
   ],
-  "context": "In Finnish, 'neste' is a noun that refers to fuel or liquid substances. It can specifically refer to petroleum products like gasoline, diesel, or other liquids used as fuel. The word comes from the verb 'nestyä' (to become liquid) and belongs to the declension class where it typically ends in '-e'. In compound words it often appears as 'neste-' prefix indicating something related to fluids or fuels."
+  "context": "The word 'neste' in Finnish translates to 'liquid' or 'fluid' in English. It can refer to any substance that flows freely, like water, oil, or even bodily fluids. The word declines based on case, as shown in the dictionary definition, and possessive forms exist to indicate ownership (e.g., 'my liquid', 'your liquid'). You will often see it used in compound words related to specific types of liquids such as 'jarruneste' which means brake fluid."
 }

@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "sataa lunta",
-    "sade tulee sataan",
-    "satoi vettä"
+    "Minulla on sata euroa.",
+    "Hän asuu sadan kilometrin päässä Helsingistä.",
+    "Sata vuotta tästä eteenpäin."
   ],
   "translation": [
-    "rain",
-    "pour down",
-    "precipitate"
+    "hundred",
+    "one hundred"
   ],
-  "context": "The Finnish word 'sata' is typically used in its third-person singular form 'sataa' to mean rain or precipitation. It's an impersonal verb that describes when it rains, similar to how English uses 'it rains'. The word can appear in various forms depending on context - as the infinitive 'sataa', past tense 'satoi', or with modifiers like 'sataen' (by raining)."
+  "context": "The Finnish word 'sata' primarily means 'hundred'. It is a numeral and can be used to express quantities. The word declines based on grammatical case, as shown in the dictionary definition, with different forms for singular ('sata') and plural ('sadat'). For example, 'sadan' is the genitive form meaning 'of hundred', while 'sataa' is the partitive form. It can also be used to indicate a number like 'one hundred'."
 }

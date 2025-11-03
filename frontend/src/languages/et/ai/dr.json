@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tema on doktor.",
-    "Dr. Smith külastas meid.",
-    "Olen dr. Jüri."
+    "Dr. Smith on arst.",
+    "Ta on drõinguse doktor.",
+    "Kutseliseks läks ta dr'iks."
   ],
   "translation": [
     "doctor",
-    "dr."
+    "PhD"
   ],
-  "context": "In Estonian, 'dr' is an abbreviation for 'doktor', meaning doctor or physician. It's used as a title before someone's name to indicate they have a doctoral degree or work in the medical profession."
+  "context": "The abbreviation 'dr' is commonly used in Estonian to refer to a doctor (medical professional) or someone with a doctoral degree (PhD). It's the shortened form of the full word 'doktor'. The usage depends on context - it can mean either medical doctor or academic PhD holder."
 }

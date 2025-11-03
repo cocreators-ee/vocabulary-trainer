@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on hea meel.",
     "Mulle meeldib see raamat.",
-    "Kas sa võiksid mulle aidata?"
+    "Mulge palun!",
+    "Mulle ei meeldi kala."
   ],
   "translation": [
     "to me",
-    "for me",
-    "me"
+    "for me"
   ],
-  "context": "The Estonian word 'mulle' is a pronoun in the allative case, derived from the personal pronoun 'minu' (my/me). It indicates that something is directed towards or intended for the speaker. In English, it translates to expressions like 'to me', 'for me', or simply 'me'. This form is commonly used with verbs of giving, speaking, or when indicating who benefits from an action."
+  "context": "Mulle is the allative singular form of 'mina' (I/me) in Estonian, meaning 'to me' or 'for me'. It indicates that something is directed toward or benefiting the speaker. This case is used when something is given to someone, shown to someone, or done for someone."
 }

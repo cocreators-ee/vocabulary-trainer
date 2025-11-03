@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ei valeta midagi.",
-    "Ta alati valetab oma kohtumistest.",
-    "Kas sa valetasid mulle?"
+    "Sa valetad!",
+    "Ära valeta mulle!",
+    "Kusti on suur meister valetama."
   ],
   "translation": [
     "to lie",
-    "to tell lies",
-    "to fib",
+    "to tell a falsehood",
     "to deceive"
   ],
-  "context": "The Estonian verb 'valetama' means to tell falsehoods or make statements that are not true. It's used when someone deliberately misrepresents the truth with intent to deceive. The word comes from the same root as 'vale' (false/untrue) and is commonly used in everyday situations ranging from minor fibs to serious deceptions."
+  "context": "The Estonian verb 'valetama' means to deliberately distort facts or tell an untruth. It is an intransitive verb that forms the da-infinitive 'valetada'. The word comes from 'vale' (false) + '-tama' (a verbal suffix). Examples show it can be used in various tenses and contexts, from simple accusations to descriptions of skilled liars or situations where one lies on behalf of others."
 }

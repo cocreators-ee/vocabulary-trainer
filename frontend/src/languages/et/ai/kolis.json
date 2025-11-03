@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kolis uude korterisse.",
-    "Ta kolis ära.",
-    "Mees kolis naabri juurde."
+    "Ta kolis alt 'vahetult alumiselt korruselt' üles.",
+    "Maa vabanes lume alt.",
+    "Laua, voodi alt."
   ],
   "translation": [
-    "moved",
-    "relocated"
+    "moved from lower floor",
+    "from below",
+    "from underneath"
   ],
-  "context": "The word 'kolis' is the past tense third person singular form of the Estonian verb 'kola', which means to move or relocate. It indicates that someone moved to a new location in the past. The root form 'kola' can be conjugated in different tenses and persons: kolan (I move), kolad (you move), kolab (he/she/it moves), kolame (we move), kolate (you plural move), kolavad (they move)."
+  "context": "The word 'kolis' is the past tense (3rd person singular) of the verb 'kola', which means to move or transfer. In this context specifically, it appears in the phrase 'kolis alt üles' meaning 'moved from below/ground floor up'. The adverb 'alt' indicates movement from a lower position or underneath something else."
 }

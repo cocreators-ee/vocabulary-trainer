@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Lämmön suuri on tänään.",
-    "Miten paljon lämpöä tämä laite tuottaa?",
-    "Kylmässä ilmassa on vähemmän lämpöä kuin kuumassa."
+    "Kylläpä tänään riittää lämpöä!",
+    "Minulla oli eilen illalla lämpöä.",
+    "Huoneenlämpö on miellyttävä."
   ],
   "translation": [
-    "heat",
     "warmth",
-    "temperature"
+    "heat",
+    "temperature",
+    "fever"
   ],
-  "context": "The Finnish word 'lämpö' means heat or warmth and refers to the thermal energy of a system. It is commonly used in everyday language to describe how hot something is, similar to how we use 'heat' or 'temperature' in English. The word can be found in various contexts such as weather descriptions ('lämmin ilma' - warm air), technical discussions about heat transfer, and expressions concerning physical warmth."
+  "context": "The word 'lämpö' refers to warmth or heat, and can also describe a mild fever or temperature. It is derived from the word 'lämpöinen', meaning pleasantly warm. The word declines in Finnish depending on its grammatical role in a sentence; for example, 'lämpöni' means 'my warmth'. You will often see it used to refer to physical heat, like room temperature ('huoneenlämpö'), but also bodily temperatures such as fever."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Sõidad hotelli ära.",
-    "Tere tulemast meie hotelli!",
-    "Hotellis on hea restoran."
+    "Saarik oli hea õpetaja, kuid halb administraator – direktoriks ta ei sobinud.",
+    "Võõrastemaja administraator.",
+    "Hotelliadministraator vastutab majapidamise korraldamise eest."
   ],
   "translation": [
-    "hotel",
-    "inn"
+    "administrator",
+    "manager (of hotel, restaurant, theater)",
+    "administrative official"
   ],
-  "context": "The word 'hotelli' is the Estonian translation for the English word 'hotel'. It refers to a commercial establishment that provides lodging, usually for short-term stays. In Estonian grammar, this appears to be in the partitive case (ending -i), which typically indicates an object or destination being referred to. The basic form would be 'hotell'."
+  "context": "The word 'hotelli' is the genitive case of 'hotell' in Estonian, meaning 'hotel'. In this context, it's part of the compound word 'hotelliadministraator', which refers to an administrator or manager specifically responsible for a hotel. This position handles the day-to-day practical operations and management of the establishment."
 }

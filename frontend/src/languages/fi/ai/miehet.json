@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Miehet ovat usein pidempiä kuin naiset.",
-    "Nämä miehet tulivat viime yönä kotiin.",
-    "Kuinka monta miestä tulee juhliin?"
+    "Nämä miehet ovat vahvoja.",
+    "Miehet puhuivat hiljaa.",
+    "Olen ylpeä näistä miehistä."
   ],
   "translation": [
     "men",
-    "males"
+    "gentlemen",
+    "guys"
   ],
-  "context": "\"Miehet\" is the plural form of the Finnish word \"mies\", which means \"man\" or \"male\". It refers to multiple men or males in general. The word follows Finnish grammar rules for pluralization, where the ending changes from singular to indicate more than one person."
+  "context": "The word 'miehet' is the nominative plural form of 'mies', which means 'man'. Therefore, 'miehet' translates to 'men' or 'gentlemen'. It is often used as a sign on restrooms for men. The word is declined based on case and number, but this is the basic plural form."
 }

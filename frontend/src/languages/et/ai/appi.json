@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tule appi!",
-    "Ta tuli appi.",
-    "Appi tuleks!"
+    "Läksime neile appi kartuleid võtma.",
+    "Tulge appi, aidake kastid sisse tõsta.",
+    "Appi! – Põleb!"
   ],
   "translation": [
-    "help",
     "to help",
-    "assistance"
+    "for assistance",
+    "in trouble",
+    "emergency",
+    "to the rescue"
   ],
-  "context": "The word 'appi' is the illative case of 'abi', which means 'help'. In Estonian, it's used to indicate movement towards or into a state. When someone says 'tule appi', they're saying 'come help'. It can also function as an adverb meaning 'to help' in various contexts."
+  "context": "In Estonian, 'appi' is an adverb that means 'to help' or 'for assistance.' It's often used when someone needs help in a situation of difficulty or emergency. The word can indicate coming to someone's aid physically (like helping carry items) or in an urgent situation (like calling for help during a fire). It appears as the illative singular form of the noun 'abi' (help)."
 }

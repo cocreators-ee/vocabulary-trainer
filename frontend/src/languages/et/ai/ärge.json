@@ -1,15 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ärge ärge!",
-    "Me ärgeme kohe.",
-    "Täname, ärge.",
-    "Ärge muretsi."
+    "Ärge tulge siia.",
+    "Ärge häirige teisi.",
+    "Ärge unustage oma ülesannet."
   ],
   "translation": [
     "don't",
-    "do not",
-    "please don't"
+    "do not"
   ],
-  "context": "In Estonian, 'ärge' is an imperative form used to give negative commands or requests. It's equivalent to saying 'don't' or 'do not' in English when addressing someone directly. This word is commonly used in polite refusals, warnings, or instructions to avoid doing something. When combined with a verb, it forms a negation in the imperative mood."
+  "context": "Ärge is the second-person plural imperative form of the Estonian negative verb 'ei', used to give commands or requests to a group of people, telling them NOT to do something. It functions as 'don't' in English when addressing multiple people."
 }

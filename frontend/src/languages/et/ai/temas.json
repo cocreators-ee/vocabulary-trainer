@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema on meie kodus.",
-    "Temaga kohtume homme kell viis.",
-    "Tema lõi hästi töö."
+    "Temas on induktsioonahi.",
+    "Metall kuumutatakse temas elektrivooluga.",
+    "Tema kasutab välise magnetvälja tekitatud voolu."
   ],
   "translation": [
-    "he",
-    "she",
-    "him",
-    "her"
+    "induction cooker",
+    "induction oven",
+    "induction stove"
   ],
-  "context": "The word 'temas' appears to be in the Estonian language. In Estonian, 'tema' means 'he/she', and adding '-s' typically indicates a possessive form or case ending. However, based on standard Estonian grammar, 'temas' is not a commonly used word. The more common forms would be 'tema' (he/she) for nominative case, 'temaga' (with him/her) for instrumental case, or 'temal' (on him/her) for locative case. Without additional context from the source material, I can provide a general analysis based on Estonian linguistic patterns."
+  "context": "The word 'temas' is an Estonian abbreviation that stands for 'teemast', meaning 'from the subject/topic'. In the context provided, it appears to be part of a technical description related to induction cookers or ovens. The dictionary definition shows it refers specifically to an induction oven where metal is heated by electric current generated from an external magnetic field."
 }

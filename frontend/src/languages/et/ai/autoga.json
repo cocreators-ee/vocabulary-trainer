@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Sõidin autoga linnast välja.",
-    "Ta viis laste autoga kooli.",
-    "Me saabusime autga kontorisse."
+    "Tund aega autoga ja olemegi kohal.",
+    "Sõidame autoga linnast mägedesse.",
+    "Kas sa tulid aut või autoga?"
   ],
   "translation": [
     "by car",
-    "with a car",
-    "using a car"
+    "with a car"
   ],
-  "context": "The word 'autoga' is an Estonian inessive case form of the noun 'auto' (car). The inessive case (-ga ending) indicates that something is done with or using the car. It answers the question 'how?' or 'with what?'. This grammatical case is used to express means, instrument, or accompaniment - essentially showing that an action was performed using a particular tool or vehicle."
+  "context": "The word 'autoga' is the Estonian instrumental case form of 'auto' (car). It means 'by car' or 'with a car', indicating the means of transportation. The '-ga' suffix at the end indicates the instrumental case, which in Estonian is used to show how something is done or what instrument/tool is being used."
 }

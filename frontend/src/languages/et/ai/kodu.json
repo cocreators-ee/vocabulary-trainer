@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Kodus on soe ja mugav.",
-    "Ta ostis uue kodu linna ääremaal.",
-    "Meie esimene kodu oli väike korter."
+    "Mugav, hubane, moodne, maitsekalt sisustatud kodu.",
+    "Ta kasvas üles kehvas paljulapselises kodus.",
+    "See on meie endine, uus, tulevane kodu."
   ],
   "translation": [
     "home",
-    "house",
-    "dwelling"
+    "household",
+    "dwelling",
+    "residence",
+    "abode"
   ],
-  "context": "The Estonian word 'kodu' means home or house and refers to one's place of residence. It can refer to the physical building where someone lives (like a house) or more broadly to the concept of home as a dwelling place. The word is in nominative singular form. In different contexts, it might be used to describe both permanent residences and temporary homes."
+  "context": "The Estonian word 'kodu' primarily means home or dwelling place. It refers to a person's permanent living space with furnishings and often includes the family living there. The word can also be used more broadly to mean homeland, a habitat for animals, or an establishment providing accommodation (like a sailors' home). In everyday usage, it commonly appears in phrases describing moving to/from home, staying at home, or maintaining one's household."
 }

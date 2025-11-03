@@ -1,13 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Vend on minu õemees.",
-    "Tal on kaks venda.",
-    "M vend käis poes."
+    "Peeter on Jüri vend.",
+    "Vend on õest noorem, vanem.",
+    "Ta on üks nutikas, asjalik, lahe, mõnus vend."
   ],
   "translation": [
     "brother",
-    "male sibling"
+    "guy",
+    "dude",
+    "fellow",
+    "chap"
   ],
-  "context": "In Estonian, 'vend' means brother and refers to a male sibling. It's the masculine form of the word for brother. The feminine equivalent is 'õde' (sister)."
+  "context": "In Estonian, 'vend' has multiple meanings: 1) A male sibling (brother), with genitive form 'venna'; 2) A general term for a man or young person, similar to 'guy' or 'dude' in English; 3) Someone from the same group or community, like a fellow countryman. The word can be used literally for family relationships or more casually as a general address to males."
 }

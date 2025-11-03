@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Naabrid on meiega head sõbrad.",
-    "Meie naabrid kolisid eile ära.",
-    "Tere tuleme uutele naabritele!"
+    "Naabrid on head mehed.",
+    "Mina ja naabrid käisime koos poodi.",
+    "Tere tulemast naabrite juurde!"
   ],
   "translation": [
     "neighbors",
-    "next-door neighbors"
+    "next-door neighbors",
+    "people who live nearby"
   ],
-  "context": "The Estonian word 'naabrid' is the plural form of 'naaber', meaning 'neighbor'. It refers to people who live next door or near you. In English, this translates to 'neighbors' or 'next-door neighbors'. The word '-id' at the end indicates it's in plural form, so when referring to multiple neighbors, Estonians use 'naabrid'."
+  "context": "The word 'naabrid' is the plural form of 'naaber' in Estonian. It refers to people who live near you, specifically your neighbors or next-door neighbors. In the example from the dictionary, 'naabrirahvast' means 'from among the neighbors/people nearby'. This word is commonly used when referring to multiple people living in proximity to each other."
 }

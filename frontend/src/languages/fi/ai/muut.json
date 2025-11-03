@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä muu on parempi.",
-    "Menneisyydessä oli paljon muita asioita.",
-    "Nämä ovat muita ihmisiä."
+    "Hän osti muita kirjoja.",
+    "Nämä ovat muita esimerkkejä.",
+    "Muut ihmiset odottavat."
   ],
   "translation": [
     "other",
-    "another",
-    "different"
+    "others"
   ],
-  "context": "'Muut' is the plural form of 'muu' in Finnish, meaning 'others', 'other things', or 'different ones'. It's used to refer to multiple items or people that are different from those previously mentioned. For example, 'muut ihmiset' means 'other people', and 'muut asiat' means 'other things'. The word appears in everyday Finnish conversation when distinguishing between different groups of objects, people, or concepts."
+  "context": "The word 'muut' is the nominative plural form of 'muu', meaning 'other'. It refers to people or things that are different from those already mentioned. In Finnish, nouns change their forms depending on their role in a sentence (case) and number (singular/plural). Here, 'muut' specifically means 'others' as it is in the plural nominative case."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kell on kolm.",
-    "Kell näitab kella kuut.",
-    "Millal kell on?"
+    "Ilusa kõlaga kell.",
+    "Raudteejaama, raekoja kell.",
+    "Kell on juba palju, täpselt kolm."
   ],
   "translation": [
+    "bell",
     "clock",
-    "watch",
     "time"
   ],
-  "context": "In Estonian, 'kell' means clock or watch. It's used to refer to the timekeeping device. The word can be used in different contexts - to talk about a physical clock/watch ('kell'), to ask what time it is ('millal kell on?'), or to say that something costs a certain amount of money (though this usage varies by region)."
+  "context": "The Estonian word 'kell' has multiple meanings. It can refer to a physical bell (a hollow metal object that makes sound), a clock or watch for telling time, the actual time shown by a clock, and colloquially it can mean balls/testicles in plural form. The word comes from Proto-Germanic meaning 'bell'. In different contexts, it appears as 'kell' (nominative singular), 'kella' (genitive/partitive form), or 'kellad' (plural)."
 }

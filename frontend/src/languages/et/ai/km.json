@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "See on 50 km pikk.",
-    "Linnad on teineteisest 100 km kaugusel.",
-    "Auto sõitis kiirusega 90 km/h."
+    "10 km kaugusel.",
+    "Saar on kuni 15 km lai.",
+    "15 km suusatamine."
   ],
   "translation": [
-    "kilometer",
-    "kilometers"
+    "kilometer"
   ],
-  "context": "In Estonian, 'km' is an abbreviation for 'kilomeeter', which means kilometer in English. It's used to measure distances and speeds. For example, when saying how far something is or the speed limit on a road."
+  "context": "The abbreviation 'km' stands for 'kilomeeter', which means kilometer in English. It is a unit of measurement used to express distance, equivalent to 1,000 meters. In the example sentences, it's used to indicate distances (10 kilometers away), dimensions (up to 15 km wide), and activities involving that distance (15 km skiing)."
 }

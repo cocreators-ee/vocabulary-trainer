@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on omena.",
-    "Syön omenoita joka päivä.",
-    "Omenat ovat hyviä."
+    "Minulla on punainen omena.",
+    "Hän söi omenan aamiaisella.",
+    "Omenat ovat herkullisia syksyllä."
   ],
   "translation": [
-    "apple",
-    "apples"
+    "apple"
   ],
-  "context": "The Finnish word 'omena' means 'apple' in English. It is a common noun referring to the fruit. In singular form, it's used as 'omena', and when pluralized, it becomes 'omenat'. The word follows standard Finnish grammar rules for nouns."
+  "context": "The word 'omena' in Finnish means 'apple'. It is a noun that declines based on case, as shown in the dictionary definition. The plural form is 'omenat'. The word can also have possessive forms depending on who owns the apple(s)."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minu perekonna nimi on Kask.",
-    "Ta on meie perekonna liige.",
-    "Perekonna koosolek toimub kell 18."
+    "Perekonna diagnoos oli viga.",
+    "Looduslooõpikus kirjeldatakse perekonda täpselt.",
+    "Arst tegi perekonna haiguse kindlaks."
   ],
   "translation": [
-    "family",
-    "household",
-    "kin"
+    "family (in biological classification)",
+    "genus",
+    "taxonomic group"
   ],
-  "context": "The word 'perekonna' is the genitive singular form of 'pere' (family) in Estonian. It means 'of the family' or belonging to the family, indicating possession or association. In English translations, it would typically be rendered as 'family's', indicating whose family it is."
+  "context": "In Estonian biology and taxonomy, 'perekonna' refers to a taxonomic rank above species but below order - essentially what would be called a 'family' or 'genus' in English biological classification. It's used to classify related species together based on shared characteristics."
 }

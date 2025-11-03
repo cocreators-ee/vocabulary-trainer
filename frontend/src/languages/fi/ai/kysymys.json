@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Mikä on tämä kysymys?",
+    "Opettaja kysyi oppilailta läksyt.",
     "Minulla on yksi kysymys sinulle.",
-    "Kysymykset ovat tärkeitä oppimisessa."
+    "Poliisi esitti epäillylle useita kysymyksiä."
   ],
   "translation": [
     "question",
-    "inquiry",
-    "query"
+    "issue",
+    "matter",
+    "problem"
   ],
-  "context": "The Finnish word 'kysymys' is a noun that means 'question' in English. It's the basic form of the word (nominative singular). In Finnish, questions are often formed with question words like 'mikä' (what), 'missä' (where), 'miten' (how), etc., but 'kysymys' itself refers to the concept of a question or inquiry. The plural form would be 'kysymykset'."
+  "context": "The word 'kysymys' is a Finnish noun that means 'question'. It can also refer to an issue, matter or problem. The word declines based on case and number, as shown in the dictionary definition. For example, 'kysymykseni' means 'my question', while 'kysymykset' means 'questions'."
 }

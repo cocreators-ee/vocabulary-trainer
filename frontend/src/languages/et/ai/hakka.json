@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Hakkame kohe minema.",
-    "Ta hakkas nutma.",
-    "Ma hakkan juba homme tööle."
+    "Hakka jooksma!",
+    "Tema hakkas tööd.",
+    "Me hakkame homme kolmapäeval uut projekt."
   ],
   "translation": [
-    "begin",
     "start",
+    "begin",
     "commence"
   ],
-  "context": "The Estonian word 'hakka' is a verb that means 'to begin', 'to start', or 'to commence'. It's commonly used to indicate the initiation of an action or process. In the first person singular form it becomes 'hakan', in first person plural 'hakkame', and when conjugated with third person subjects it takes '-b' as in ' hakkab'. This verb often appears with the particle 'juba' (already) or temporal adverbs to indicate when something starts."
+  "context": "The word 'hakka' is the present indicative connegative form of the verb 'hakkama' in Estonian. It means 'to start' or 'to begin' and is used when someone else starts doing something, often with an imperative sense. In the first person plural (me hakkame) it means 'we start/begin'."
 }

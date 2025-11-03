@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lendavad linnud on ilusad.",
-    "Nägin, kuidas lennukeid lendavad üle linna.",
-    "Põhjanael lendab öösöö."
+    "Lendavad putukad tekitavad suminalt heli.",
+    "Õhust kostis lendavate põrnikate sumin.",
+    "Mesilaste ühetooniline madal summise lendavad mesilased."
   ],
   "translation": [
-    "fly",
-    "flying"
+    "buzzing",
+    "humming",
+    "droning"
   ],
-  "context": "The word 'lendavad' is the 3rd person plural present tense form of the Estonian verb 'lennama', which means 'to fly'. It describes something (birds, planes, stars) that are currently in flight or moving through the air."
+  "context": "The word 'lendavad' is the plural nominative form of the present participle 'lenda-', meaning 'flying'. When combined with words like 'sumin' (buzzing/hum), it refers to flying insects that make a buzzing sound. The word specifically indicates multiple subjects in motion - flying creatures that produce sound."
 }

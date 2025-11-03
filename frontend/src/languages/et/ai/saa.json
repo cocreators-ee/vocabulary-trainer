@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Saa mind siia!",
-    "Saab mind siia?",
-    "Ta sai hästi töö."
+    "Tema jutust ei saa õiget otsa ega aru.",
+    "Ma ei saanud tükk aega otsa ega aru, mis oli juhtunud.",
+    "Ei saa selgust sellest asjast."
   ],
   "translation": [
-    "let me go",
-    "may I go",
-    "he/she got well"
+    "cannot make sense",
+    "cannot understand",
+    "cannot get to the bottom of"
   ],
-  "context": "The Estonian word 'saa' is a verb that can have multiple meanings depending on context. It appears to be in different forms: as an imperative form meaning 'let [someone] go' or '[someone] may go', and as a past tense form meaning '[subject] got/received'. The exact interpretation depends heavily on the grammatical person, tense, and context of use."
+  "context": "The word 'saa' in this context is part of the phrase 'ei saa otsa ega aru', which means someone cannot make sense of something or cannot understand it properly. It's often used when a person is confused about information they've received and can't comprehend the beginning (otsa) or the meaning (aru). This appears to be a colloquial expression in Estonian indicating confusion or inability to comprehend something."
 }

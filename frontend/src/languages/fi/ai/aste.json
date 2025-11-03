@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Lämpötila on plus kymmenen astetta.",
-    "Tänään on viisi astetta pakkasta.",
-    "Seuraavaksi käytämme asteita ja minuutteja."
+    "Opiskelija suoritti kurssin arvosanalla aste kolme.",
+    "Lämpötila on tänään -5 astetta.",
+    "Järven syvyys vaihtelee 10 metrin ja 20 asteen välillä."
   ],
   "translation": [
     "degree",
+    "stage",
     "step",
-    "grade",
-    "level"
+    "state",
+    "phase"
   ],
-  "context": "The Finnish word 'aste' primarily means 'degree' and is commonly used to measure temperature (e.g., astetta pakkasta = degrees of frost/cold), angles, or academic qualifications. It can also refer to a step or level in progression, similar to English 'step'. In academic contexts, it may refer to educational degrees like bachelor's or master's degrees."
+  "context": "The Finnish word 'aste' has multiple meanings, including degree (as in temperature or angle), stage, step, and state. It can refer to a specific point in a process or scale of values. The word is derived from the verb 'astua' meaning 'to step'.  It declines based on case; for example, 'asteen' is the genitive singular form ('of the degree')."
 }

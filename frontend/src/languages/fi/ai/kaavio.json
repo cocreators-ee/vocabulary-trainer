@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on kaavio talouskasvusta.",
-    "Kaaviot auttavat visualisoimaan dataa.",
-    "Piirrä kaavio prosessista."
+    "Opiskelija piirsi kaavion selittääkseen datan.",
+    "Yritys käytti Ganttin kaaviota projektin aikataulun visualisoimiseen.",
+    "Esityksessä näytettiin pylväskaavio myyntiluvuista."
   ],
   "translation": [
     "diagram",
+    "scheme",
     "chart",
     "graph"
   ],
-  "context": "The Finnish word 'kaavio' is a noun that refers to a graphical representation of information, typically used for organizing or displaying data in a structured visual format. It's commonly used in business, education, and technical contexts to show relationships between different elements over time or across categories."
+  "context": "The word 'kaavio' in Finnish translates to diagram, scheme or chart in English. It is used to visually represent information, data, or processes. The word declines based on grammatical case; the provided dictionary definitions show a full declension table for nominative, genitive, partitive and other cases, as well as possessive forms indicating who owns the diagram (my diagram, your diagram etc.).  The suffix '-io' is common in Finnish nouns."
 }

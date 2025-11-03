@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Lahkuge hea meelega.",
-    "Palun lahkuge kiiresti!",
-    "Me peame lahkuma, me lahkuge nüüd."
+    "Lahkuge siit jalamaid!",
+    "Tule jalamaid siia!",
+    "Taipasin seda jalamaid."
   ],
   "translation": [
-    "leave",
-    "depart",
-    "go away",
-    "exit"
+    "immediately",
+    "at once",
+    "without delay",
+    "right away"
   ],
-  "context": "The word 'lahkuge' is the formal plural imperative form of the verb 'lahkuma', meaning to leave or depart. It is used when addressing multiple people formally, telling them to leave a place. The '-ge' ending indicates it's in the second person plural (you all) imperative mood."
+  "context": "The word 'lahkuge' is the plural imperative form of the verb 'lahkuma', meaning to leave or depart. In this context, it's used as an order/instruction for multiple people to leave immediately. The associated adverb 'jalamaid' means 'immediately' or 'at once', so 'lahkuge jalamaid' is a command telling several people to leave right away without delay."
 }

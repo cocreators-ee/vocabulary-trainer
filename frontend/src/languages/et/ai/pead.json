@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema pead on suur.",
-    "Ma nägin tema peade palju.",
-    "Pead tuleb meie juurde öösel."
+    "Rändurid uinusid pead.",
+    "Pea need aastad ei lähe 'need aastad lähevad ruttu'.",
+    "Tõug juba kollane, ja kui pead vihma ei tule, ega ole ka sealt võtta midagi."
   ],
   "translation": [
-    "head",
-    "leader",
-    "boss"
+    "head (partitive singular of pea)",
+    "heads (nominative plural of pea)",
+    "must (second-person singular present indicative of pidama)"
   ],
-  "context": "The word 'pead' is the genitive singular form of 'pea', which means 'head'. In Estonian, it can also be used to refer to a leader or boss in certain contexts. The word appears to be in the genitive case (possessive/attributive form), indicating possession or relationship - as in 'his head' or 'of the head'. It's important to note that 'pead' specifically refers to one head, not multiple heads."
+  "context": "'Pead' has multiple meanings in Estonian depending on context. It can be the partitive singular form of 'pea' meaning head, or it can be the nominative plural form of 'pea' also meaning heads. Additionally, it is the second-person singular present indicative form of the verb 'pidama' which means to hold/must/should."
 }

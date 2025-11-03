@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tässä on uusi sarake tietokantataulussa.",
-    "Excel-tiedostossa on useita sarakkeita.",
-    "Lisää tämä teksti ensimmäiseen sarakkeeseen."
+    "Pöydällä on kolme sarakea kirjoja.",
+    "Tietokanta koostuu viidestä sarakkeesta tietoa.",
+    "Sarake oli täynnä virheitä."
   ],
   "translation": [
     "column",
-    "row"
+    "vertical line"
   ],
-  "context": "In Finnish, 'sarake' means column. It is a noun that refers to a vertical arrangement of items in a table or spreadsheet. The word does not change form for gender in Finnish as it's an inflected language where nouns decline based on case and number rather than gender."
+  "context": "The word 'sarake' in Finnish means 'column', referring to a vertical arrangement of data or objects. It can be used literally, like a column in architecture, or figuratively, such as a column in a table or database. The provided dictionary definitions show the declension of the word, indicating how it changes based on its grammatical role in a sentence. For example, 'sarakkeet' is the plural form meaning 'columns', and different forms are used to indicate possession ('sarakkeeni' - my column) or location ('sarakkeessa' - in the column)."
 }

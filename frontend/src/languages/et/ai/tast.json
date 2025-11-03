@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tast on hea meel.",
-    "Ma tast ei arva nii.",
-    "Kas sa tast mõtled?"
+    "Kes tahab kohvi?",
+    "Tahsin veel kooki.",
+    "Ta ei tahtnud maale elama minna."
   ],
   "translation": [
-    "from it",
-    "about it",
-    "of it"
+    "to want",
+    "to desire",
+    "to wish",
+    "intend"
   ],
-  "context": "The word 'tast' is an Estonian adessive case form of the demonstrative pronoun 'see', meaning 'it'. It functions as a postposition indicating origin or source, similar to English prepositions like 'from', 'about', or 'of'. In grammar terms, it's used with nouns and pronouns to show where something comes from or what it relates to."
+  "context": "The Estonian word 'tast' is the third-person singular form of the verb 'tahtma', which means 'to want' or 'to desire'. It indicates someone's desire, wish, or intention to do something or have something. The word can be used in various contexts: expressing personal desires (what someone wants), indicating necessity or requirement (something needs/wants to be done), showing inclination or tendency (things tending to happen), or even in negative constructions where something doesn't want to happen (referring to obstacles or difficulties)."
 }

@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Töölised viivad palju.",
-    "Naised viivad koos perega.",
-    "Lapsed viivad koolis."
+    "Pesu triikima.",
+    "Triigitud, triikimata pesu.",
+    "Vastane triikis viiki."
   ],
   "translation": [
-    "delay",
-    "postpone",
-    "wait"
+    "to iron",
+    "to smooth",
+    "to press",
+    "to draw",
+    "to force a draw (in chess)"
   ],
-  "context": "The word 'viivad' is the third person plural form of the Estonian verb 'viia', which means to delay, postpone or wait. It describes when a group of people (they) are delaying something or waiting for something."
+  "context": "The word 'viivad' is the 3rd person plural form of the verb 'triikima', which means to iron or smooth. In Estonian, when adding '-d' to a verb stem, it creates the present tense conjugation for 3rd person plural (they). So 'viivad' means 'they iron/smooth/press'. The word can refer to physically ironing clothes, smoothing surfaces, or in chess terminology, forcing a draw."
 }

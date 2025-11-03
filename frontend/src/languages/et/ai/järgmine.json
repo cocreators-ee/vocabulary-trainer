@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Järgmine kord näeme uuesti.",
-    "See on järgmine peatükk raamatus.",
-    "Kas sa tuled järgmisele päeval?"
+    "Järgmisel hetkel tuleb homme töö.",
+    "Ta on järjekorras järgmine.",
+    "Mida te tahate järgmiseks öelda?"
   ],
   "translation": [
     "next",
-    "following"
+    "following",
+    "subsequent"
   ],
-  "context": "The word 'järgmine' is an adjective in Estonian that means 'next' or 'following'. It's used to indicate something that comes after the current one in a sequence. The word appears in various contexts such as referring to the next time, the next chapter, or what follows in order."
+  "context": "The Estonian word 'järgmine' is an adjective that means 'next' or 'following'. It refers to something that comes immediately after something else in sequence. The word can be declined into various forms depending on its grammatical function in a sentence: järgmise (genitive), järgmist (partitive), järgmised (plural nominative), etc. It's commonly used when talking about time sequences, order of people or things, and upcoming events."
 }

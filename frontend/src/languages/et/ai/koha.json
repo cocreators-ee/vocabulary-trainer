@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minu koha on see laud.",
-    "Kas sa leiad oma koha?",
-    "See oli ilus koha."
+    "Võrgus oli kümmekond koha.",
+    "Me ostime kohad turult.",
+    "Kohad ujuvad jões."
   ],
   "translation": [
-    "place",
-    "location",
-    "spot"
+    "zander (fish)",
+    "pike-perch",
+    "freshwater fish"
   ],
-  "context": "In Estonian, 'koha' is the partitive form of the word 'koht', which means place or location. The partitive case indicates an incomplete object or partial aspect. So 'koha' can be used to refer to a place in contexts where it's not being referred to as a complete entity. For example, 'minu koha on see laud' means 'My place is this table.' The word appears feminine by its ending '-a', which is typical for the partitive case of feminine nouns in Estonian."
+  "context": "The word 'koha' in Estonian primarily refers to the zander, a freshwater fish species of the pike-perch family. It's a common fish found in both fresh and brackish waters. The word appears to be borrowed from Proto-Germanic through Proto-Finnic. In Estonian grammar, it follows declension patterns where the genitive form is 'koha', partitive is also 'koha', and plural forms include 'kohad' (nominative), 'kohasid' (partitive), etc."
 }

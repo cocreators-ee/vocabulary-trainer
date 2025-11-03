@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Töötan vastasel pool tänavat.",
-    "Vastasel nädalal saame kohtuda uuesti.",
-    "Poisil on vastasel pool nägu."
+    "Kummalgi vastasel on partii algul 20 kabendit.",
+    "Vene kabel mängib kummalgi vastasel partii algul 12 kabendit.",
+    "Mees ja naine võistlesid lauatennises, males ja kabes - vastasena üksteisele."
   ],
   "translation": [
-    "on the other side",
-    "opposite"
+    "opponent",
+    "adversary",
+    "the other player/participant"
   ],
-  "context": "The Estonian word 'vastasel' is the elative case (from where/away from) form of 'vastas', which means 'opposite'. It's used to indicate position or location away from something that is opposite. The root 'vastas-' indicates opposition, and the '-el' ending is the elative case marker. This word typically appears in spatial expressions indicating direction or location relative to an opposite position."
+  "context": "The Estonian word 'vastasel' is the elative case form of 'vaste', meaning 'opponent' or 'adversary'. In this context, it refers to the opposing player in a game. The word appears most commonly in descriptions of board games like checkers (kabe), where 'kummalgi vastasel' means 'each opponent has... at the beginning of the game'. The elative case indicates movement from or separation, so 'vastasel' can be understood as '[from] the opponent' or used to indicate which opponent is being referred to in a comparative sense."
 }

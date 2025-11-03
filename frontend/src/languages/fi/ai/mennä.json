@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minun täytyy mennä kotiin.",
-    "Hän menee kouluun joka aamu.",
-    "Mennään kahville!"
+    "Tie menee pellolle saakka.",
+    "Minulla menee ihan hyvin.",
+    "Menemme kahville."
   ],
   "translation": [
     "to go",
-    "to leave",
-    "to move forward"
+    "extend",
+    "proceed",
+    "doing"
   ],
-  "context": "The Finnish verb 'mennä' is an irregular verb that means 'to go'. It's one of the most common and essential verbs in Finnish. The infinitive form is 'mennä', which appears without personal endings. In present tense, it takes different forms depending on the subject: menen (I go), menet (you go/singular), menee (he/she/it goes), mennemme (we go), menette (you go/plural), menevät (they go). The verb is used to indicate movement from one place to another, similar to 'go' in English. It can also be used metaphorically for time passing or events happening."
+  "context": "The Finnish verb 'mennä' means 'to go'. It is an intransitive verb, meaning it doesn't take a direct object. It can also express how things are going for someone ('I'm doing quite well'). The word has many uses and conjugations, including expressing movement away from a point of reference, leading (of paths), or even taking time to complete something.  The form 'menemme' indicates 'we go'."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Oodake mind hommikul.",
-    "Palun oodake veidi aega.",
-    "Meie ootame teid, oodake palun."
+    "Oodake mind kodus.",
+    "Palun oodake veidi.",
+    "Meie peaksime rohkem aega ootama."
   ],
   "translation": [
-    "wait",
-    "please wait"
+    "wait for",
+    "await",
+    "expect"
   ],
-  "context": "The word 'oodake' is the plural second person imperative form of the verb 'ootama', which means 'to wait'. It's used when addressing multiple people and telling them to wait. The suffix '-ke' can be an affixative particle that softens the command, making it more polite or gentle."
+  "context": "The word 'oodake' is the second person plural form of the Estonian verb 'oota', which means 'to wait'. It's an imperative/command form used when addressing multiple people, telling them to wait. This comes from the dictionary entry for 'aeg' (time) where it specifically mentions 'Oodake, andke aega!' meaning 'Wait, give time!' The word is formed by adding the plural imperative ending '-ke' to the stem 'ooda-'. It's commonly used in situations where you're asking a group of people to wait for something or someone."
 }

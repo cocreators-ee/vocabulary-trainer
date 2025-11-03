@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on kipeä niska.",
-    "Hän nojasi niskallaan seinään.",
-    "Niskani jäätyi talvella."
+    "Hän hieroi niskansa kipeänä.",
+    "Niska oli jäykkä pitkän ajomatkan jälkeen.",
+    "Rakennuksen tukipalkki on vahva niska."
   ],
   "translation": [
     "neck",
-    "nape of the neck"
+    "nape",
+    "girder",
+    "beam"
   ],
-  "context": "The Finnish word 'niska' refers to the anatomical part of the body that connects the head to the shoulders, commonly translated as 'neck'. It can also specifically refer to the nape or back of the neck. In Finnish, it's a common noun and typically follows grammatical rules for consonant gradation in different forms."
+  "context": "The word 'niska' in Finnish can refer to the back of the neck, specifically the nape. It also has a secondary meaning as a girder or beam – a load-bearing horizontal support in a building. The word declines based on case; for example, 'niskan' is the genitive form (of the neck), and 'niskaa' is the partitive form.  The plural forms are 'niskat', with corresponding changes to other cases like 'niskojen' (genitive plural). Possessive suffixes also exist, such as 'niskani' meaning 'my neck'. The word can be used in various contexts, from describing physical discomfort ('hieroi niskansa' - rubbed his/her neck) to structural elements of buildings."
 }

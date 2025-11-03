@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on uusi päivä.",
-    "Kuinka päivää meni?",
-    "Huominen on toinen päivä."
+    "Siitä on nyt vuoden päivät.",
+    "Päivä paistaa.",
+    "vanhan kirjallisuuden päivät."
   ],
   "translation": [
     "day",
-    "daytime"
+    "sun",
+    "period of 24 hours"
   ],
-  "context": "The Finnish word 'päivä' means 'day' in English. It can refer to a 24-hour period of time from midnight to midnight, or it can mean daylight hours or daytime. In its basic form 'päivä', it's used to talk about days of the week, parts of the day, and general time periods."
+  "context": "The word 'päivä' in Finnish primarily means 'day'. It can refer to a calendar day, the period between sunrise and sunset, or even the sun itself. The word declines based on its grammatical case, which affects its meaning within a sentence. For example, the essive case is used when talking about what happened *on* some day(s).  The plural form 'päivät' is used for events lasting more than one day."
 }

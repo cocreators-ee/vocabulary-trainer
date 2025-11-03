@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema nimed on Eesti ja eestlane.",
-    "Kõik lapsed said oma nimed üles kirjutada.",
-    "Museumi eksponeeritud nimed olid täpselt need, mis oli vaja."
+    "Linna, valla auraamatus on kõige paremate töötajate nimed.",
+    "Medaliga lõpetanute nimed kanti kooli auraamatusse.",
+    "Seati sisse auraamatusse uusi nimede lisamiseks protseduur."
   ],
   "translation": [
-    "names",
-    "surnames",
-    "titles"
+    "honor book",
+    "record book",
+    "achievement record"
   ],
-  "context": "The word 'nimed' is the plural form of Estonian noun 'nimi', which means 'name'. In Estonian, nouns change their form based on case and number. 'Nimed' specifically refers to multiple names or surnames, commonly used when listing people's names or referring to several names collectively."
+  "context": "The Estonian word 'nimed' means 'names' but in this context, it specifically refers to entries or listings of names in an honor book (auraamat). An honor book is a special album or register where the achievements and accomplishments of collective groups are recorded, including the names of outstanding members and their photographs. This could include city/village honor books or school records for medal-winning graduates."
 }

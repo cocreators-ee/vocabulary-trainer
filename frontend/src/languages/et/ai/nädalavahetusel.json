@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Me lähme nädalavahetusel puhkama",
-    "Ta töötab igal nädalavahetusel",
-    "Kogu pere kohtub regulaarselt nädalavahetusel"
+    "Poiss käib igal nädalavahetusel kartimas.",
+    "Me peame kohtuma jõulude eelsel nädalavahetusel.",
+    "Kas sa lähed sellel nädalavahetusel meelelahutuskeskusse?"
   ],
   "translation": [
     "on the weekend",
-    "at weekends",
-    "during the weekend"
+    "at the weekend"
   ],
-  "context": "The Estonian word 'nädalavahetusel' is an adessive case form of 'nädalavahetus' (weekend). It literally means 'in/at on the time between weeks'. The '-l' ending indicates location or state, and it's used to indicate that something happens during the weekend period. This is a common construction in Estonian where temporal expressions use specific cases."
+  "context": "The word 'nädalavahetusel' is an Estonian adverbial form meaning 'on/at the weekend'. It's formed from 'nädalavahetus' (weekend) with the '-el' suffix indicating location or time. In the example sentence, it shows when the boy goes karting - every weekend."
 }

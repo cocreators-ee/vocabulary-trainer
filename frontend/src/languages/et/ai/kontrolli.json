@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kontrolli oma dokumentid enne lendu.",
-    "Palun kontrolli kellaaega.",
-    "Mees kontrollib arvet."
+    "Kontrolli oma põhjalikkust eneseunustuse vältimiseks.",
+    "Ärka kontrollist ja mäleta oma kohustused.",
+    "Peaksid oma kontrolli tagasi saama."
   ],
   "translation": [
     "check",
     "control",
-    "verify"
+    "verify",
+    "inspect"
   ],
-  "context": "\"Kontrolli\" is the imperative form of the Estonian verb \"kontrollima\", which means to check, control, or verify. It's used as a command or instruction telling someone to examine something carefully to ensure it's correct or meets certain standards."
+  "context": "The word 'kontrolli' in Estonian has multiple meanings depending on its grammatical form. As a noun, it is the genitive singular, partitive singular, or illative singular form of 'kontroll', meaning control or check. As a verb, it can be the present indicative connegative or second-person singular imperative form of 'kontrollima' (to check/control), often used as an instruction to someone to check something. In the context provided in the dictionary definition, it relates to self-control and avoiding moments of forgetfulness."
 }

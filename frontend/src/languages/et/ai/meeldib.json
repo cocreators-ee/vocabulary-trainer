@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Meeldib sulle see raamat?",
-    "Mul meeldiv on kuula muusikat.",
-    "Tüdrukule meeldib joonistada."
+    "Mul meeldib muusika.",
+    "Talle meeldib jalgpall.",
+    "Mulle ei meeldi lõuna."
   ],
   "translation": [
     "likes",
-    "pleases",
     "is pleasing to"
   ],
-  "context": "The Estonian word 'meeldib' is the 3rd person singular present form of the verb 'meelda', which means 'to like' or 'to please'. It's commonly used in everyday conversations to express that something is liked by someone. The structure typically follows 'Subject + meeldiv/pleasing to + Object', as seen in the examples where we ask if a book pleases/is liked by someone, or describe what activities are pleasing to people."
+  "context": "Meeldib is the third-person singular present indicative form of the Estonian verb 'meeldima', which means 'to like' or 'to be pleasing to'. It's commonly used to express that something is liked by someone, with the person being liked coming in the allative case (-le ending) and the thing being liked in the nominative case."
 }

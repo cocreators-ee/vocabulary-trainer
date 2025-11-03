@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minu nimi on Anna.",
-    "Mis on sinu nimi?",
-    "Nimedest meeldejäävaim oli tema."
+    "Poja nimi on Peeter, tütre nimi Mare.",
+    "Mis su nimi on?",
+    "Kas talu, maja on isa või poja nimel?"
   ],
   "translation": [
     "name",
-    "names"
+    "title",
+    "reputation"
   ],
-  "context": "The Estonian word 'nimi' means 'name' in English. It is a common noun used to refer to the name of a person, place, or thing. In its basic form 'nimi', it can be singular or plural depending on context, but typically appears as 'nimed' (names) when plural. For example, one might ask 'Mis on sinu nimi?' meaning 'What is your name?'. The word follows Estonian grammar patterns and is used in everyday conversations for introductions and identification."
+  "context": "The Estonian word 'nimi' primarily means 'name' and is a versatile noun used for personal names, titles of people or things, reputations, and can be used in various grammatical constructions. It has different forms including nominative (nimi), genitive (nime), partitive (nime), plural (nimed) among others. The word appears in compound words like 'eesnimi' (first name) and 'perekonnanimi' (family name)."
 }

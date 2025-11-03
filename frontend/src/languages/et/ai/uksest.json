@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tuli uksest.",
-    "Hääled tulid uksest.",
-    "Uksest paistab valgus."
+    "Kui õnnetus tuleb, siis tuleb uksest ja aknast.",
+    "Probleemid tulid uksest ja aknast.",
+    "Häda tuleb alati uksest ja aknast."
   ],
   "translation": [
-    "from the door",
-    "out of the door"
+    "from all directions",
+    "from everywhere",
+    "from every side"
   ],
-  "context": "The Estonian word 'uksest' is an elative case form of the noun 'uks', which means 'door'. The '-st' ending indicates that something comes from, originates from, or moves out of the door. It's used to indicate direction away from the door."
+  "context": "The word 'uksest' is the ablative case form of 'uks' (door) in Estonian, used to express movement or origin away from something. In this context, it's part of the idiom 'tuleb uksest ja aknast' which means 'comes from doors and windows' - an expression describing something (usually bad things like trouble or misfortune) coming at you from all directions or everywhere simultaneously."
 }

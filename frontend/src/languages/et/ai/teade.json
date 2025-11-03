@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Teade saabus homme hommikul.",
-    "Olen saanud teate kohtumisest.",
-    "Saada meile teade kui jõuad kohale."
+    "Teade loodusõnnetusest, surmast, nõupidamise kohta.",
+    "Kurb, hea, tähtis teade.",
+    "Ootab teateid otsingute käigu kohta."
   ],
   "translation": [
     "message",
+    "information",
     "notice",
-    "information"
+    "report"
   ],
-  "context": "The Estonian word 'teade' is a noun that means 'message', 'notice', or 'information'. It refers to a piece of communicated information, whether written or oral. The word can be used in various contexts such as receiving news, being informed about something, or sending communication to others."
+  "context": "In Estonian, 'teade' is a noun that refers to information or news communicated to someone. It can be translated as message, notice, report, or piece of information. The word has several compound forms with different prefixes like 'kiirteade' (quick message), 'salateade' (secret message), and 'valeteade' (false message). It can refer to written, oral, or formal notices about various events such as accidents, deaths, meetings, etc."
 }

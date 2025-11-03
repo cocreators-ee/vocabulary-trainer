@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minun isoisä omistaa maatilan.",
-    "Maatilalla on lehmiä ja sikoja.",
-    "He muuttivat uudelle maatilalle viime vuonna."
+    "Pohjois-Suomessa on monia maatiloja.",
+    "Isäni omistaa pienen maatilan maaseudulla.",
+    "He muuttivat kaupungista ostamaan maatilan."
   ],
   "translation": [
     "farm",
-    "agricultural estate"
+    "agricultural land",
+    "estate"
   ],
-  "context": "The Finnish word 'maatila' is a compound noun where 'maa' means 'land/soil' and '-tila' refers to a place or estate. It specifically denotes a farm or agricultural property, typically including buildings and land used for farming activities such as raising livestock or growing crops."
+  "context": "The word 'maatila' refers to a farm or an agricultural estate. It is composed of the words 'maa', meaning 'land', and 'tila', meaning 'tract' or 'stead'. The word can be in singular ('maatila') or plural ('maatilat') depending on how many farms are being discussed, as shown in the declension table provided. Possessive forms also exist to indicate ownership (e.g., 'maatilani' means 'my farm')."
 }

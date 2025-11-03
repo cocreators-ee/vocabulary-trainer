@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta on kuulus ajaloos.",
-    "Me õpime ajaloos palu asi.",
-    "Kes on tähtsaim isik ajaloos?"
+    "Eesti ajaloos oli keskaja oluline periood.",
+    "Eestis on palju muuseume, mis näitavad meie rahva ajaloos.",
+    "Tartu Ülikooli ajaloos on mitu tähtsat sündmust."
   ],
   "translation": [
     "in history",
+    "in the past",
     "historically"
   ],
-  "context": "The word 'ajaloos' is the inessive case form of the Estonian noun 'ajalugu', which means 'history'. The '-s' ending indicates location within or on something, so 'ajaloos' literally means 'in history' and is used to indicate that something exists, occurs, or is discussed within the context of historical events."
+  "context": "The word 'ajaloos' is the Estonian adessive case form of the noun 'aeg' meaning time, combined with the suffix '-lo-' which forms compound words related to time periods. When used as 'ajaloos', it means 'in history' or 'historically'. It indicates that something exists or happened within the context of historical time. The adessive case in Estonian typically answers the question 'millal?' (when?) but can also indicate location or context."
 }

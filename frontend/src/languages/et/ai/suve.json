@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Kevade järel tuleb suvi.",
-    "Suvel me käime tihti rannas.",
-    "See on ilus suvepäev."
+    "Suve on ilus aeg aastas.",
+    "See oli suve kuum päev.",
+    "Meil oli tore suve kokkutulemine."
   ],
   "translation": [
-    "summer",
-    "summertime"
+    "summer"
   ],
-  "context": "The word 'suve' is the genitive singular form of the Estonian noun 'suvi', which means 'summer'. In this genitive case, it typically indicates possession or relationship to summer. For example, in phrases like 'ilus suvepäev' (beautiful summer day), the genitive form connects the adjective to the season. The nominative singular form would be 'suvi'."
+  "context": "The word 'suve' is the genitive singular and partitive singular form of the Estonian noun 'suvi', which means 'summer'. In the genitive case, it would be used to indicate possession or relationship to summer (e.g., 'of summer'), while in the partitive case, it indicates a portion or partial aspect of summer. The dictionary definition also mentions July 25th as being related to mid-summer in Estonian folk calendar tradition."
 }

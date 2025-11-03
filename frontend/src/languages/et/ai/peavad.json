@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Naised peavad meeste abist.",
-    "Lapsed peavad kooli minema.",
-    "Meie peavad kohe lahkuma."
+    "Tüdrukud peavad koolis käima.",
+    "Nad peavad kodutööd tegema.",
+    "Lapsed peavad magama kell 10."
   ],
   "translation": [
     "must",
     "have to",
-    "need to"
+    "are obliged to",
+    "need"
   ],
-  "context": "The word 'peavad' is the 3rd person plural form of the Estonian verb 'pidama', which means 'to have to' or 'must'. It indicates obligation, necessity or requirement in the present tense. When used with a subject like 'nad' (they) or implied subjects like 'naised' (women), it expresses what those people are required to do."
+  "context": "The word 'peavad' is the third-person plural present indicative form of the Estonian verb 'pidama'. It means 'must', 'have to', or 'are obliged to'. This verb form indicates that a group of people (third person plural - they) have an obligation, necessity, or requirement to do something. In the example sentences, it shows that girls must go to school, they have to do homework, and children need to sleep at 10 o'clock."
 }

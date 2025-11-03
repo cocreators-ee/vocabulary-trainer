@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Üks kaks kolm.",
-    "Olen üks mees.",
-    "Tema on üks laps."
+    "Kaks pluss üks on kolm.",
+    "Selles majas elab ainult üks inimene.",
+    "Elas kord üks kuningas."
   ],
   "translation": [
-    "one",
-    "single",
-    "a/an"
+    "one"
   ],
-  "context": "The word 'üks' is the Estonian numeral for 'one'. It's used to count items or refer to a single entity. In Estonian, it doesn't change form based on gender like English 'a/an' does - it remains 'üks' in all contexts."
+  "context": "The Estonian word 'üks' is the numeral for 1. It can be used as a number (like in mathematical expressions), to indicate quantity (only one person lives there), or as an indefinite pronoun meaning someone/something (a certain king lived once). The word has various forms depending on grammatical case: nominative üks, genitive ühe, partitive üht/ühte, illative ühte, etc. It's a fundamental word in Estonian that serves both as the number 1 and as an indefinite reference to objects or people."
 }

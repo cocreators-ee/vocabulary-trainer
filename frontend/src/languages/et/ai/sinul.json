@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Sinu telefon on tore.",
-    "Kas sa näed sinu koera?",
-    "Tema kasvab oma lapsest."
+    "Sinul on hea jõhkam.",
+    "Talle anti kallis jõhkam.",
+    "Poiss sai head jõhkamid."
   ],
   "translation": [
-    "your",
-    "yours"
+    "joke",
+    "prank",
+    "trick"
   ],
-  "context": "\"Sinul\" is the Estonian word for 'your' or 'yours'. It is used to indicate possession or belonging related to a singular second person subject (informal 'you'). In Estonian, possessive pronouns change form depending on the case and number. \"Sinul\" specifically refers to the partitive case of the possessive pronoun \"sina\" (you)."
+  "context": "The word 'sinul' is the allative case form of 'sinu' (your) and means 'to you'. It's used to indicate movement toward or direction toward someone. In Estonian grammar, the allative case answers the question 'kuhu?' (where to?). So 'sinul' specifically indicates that something goes, happens, or is directed toward you."
 }

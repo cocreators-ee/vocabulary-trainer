@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Jäta see homseks.",
-    "Olen valmis homseks.",
-    "Soovi saab pakkuda ainult homseks."
+    "Kas sul homseks kirjutatavad v. õpitavad ülesanded on tehtud?",
+    "Tegin seda direktori, sõbra ülesandel korraldusel v. palvel.",
+    "Matemaatikas oli järgmiseks päevaks teha kaks ülesannet."
   ],
   "translation": [
-    "tomorrow for"
+    "assignments",
+    "tasks",
+    "exercises"
   ],
-  "context": "The Estonian word 'homseks' is used to indicate that something is intended or happening tomorrow. It can be part of a phrase like 'jäta see homseks' which means 'leave it for tomorrow'."
+  "context": "In Estonian, 'homseks' is an instrumental form of the word 'homme', which means 'for tomorrow'. When used with 'ülesanded' (assignments/tasks), it creates the phrase 'homseks kirjutatavad v. õpitavad ülesanded' meaning 'assignments to be written or learned for tomorrow'. This indicates tasks that need to be completed by the next day."
 }

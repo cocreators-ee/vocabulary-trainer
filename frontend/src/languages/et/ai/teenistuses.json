@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta on teenistuses Tallinna raekojas.",
-    "Ma töötan teenistuses alates jaanuarist.",
-    "Kõik ametnikud pidid olema teenistuses kell 9 hommikul."
+    "Ta on teenistuses kaks aastat.",
+    "Mees teenistuses oli väga sõbralik.",
+    "Pärast treeningut asus ta teenistuses."
   ],
   "translation": [
     "in service",
-    "on duty",
-    "at work",
-    "in position"
+    "in position",
+    "on duty"
   ],
-  "context": "The Estonian word 'teenistuses' is an adessive form of the noun 'teenistus', which means 'service' or 'duty'. It indicates that someone is currently in service, on duty, at their workplace, or holding a particular position. This form is commonly used when specifying where someone works or what role they are performing at a given moment."
+  "context": "The Estonian word 'teenistuses' is the inessive case (locative case) form of 'teenistus', which means 'service' or 'position'. It indicates that someone is currently serving in a particular role, holding a position, or on duty. This form is commonly used to describe employment status, military service, or any professional capacity where one is actively performing duties."
 }

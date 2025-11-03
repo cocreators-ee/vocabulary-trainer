@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Jää on vettä.",
-    "Talvella jää kovenee.",
-    "Auto jäi jään alle."
+    "Jää kelluu veden pinnalla.",
+    "Järvi on jäässä.",
+    "Kuiva jää on vaarallista."
   ],
   "translation": [
     "ice",
-    "freeze"
+    "freeze",
+    "stay"
   ],
-  "context": "The Finnish word 'jää' has two main meanings. As a noun, it means 'ice'. As a verb (infinitive form), it means 'to freeze'. In the examples, we see both uses: first as a noun referring to ice itself, then as a past tense verb indicating something froze in winter, and finally as a noun in the context of ice covering something. Finnish often has the same word for different parts of speech depending on context."
+  "context": "The word 'jää' in Finnish primarily means 'ice', referring to water in a solid state. It can also mean 'to freeze'. Additionally, it is the third-person singular present indicative form of the verb 'jäädä,' which means 'to stay.' The noun 'jää' declines with type 18/maa and has various forms depending on its grammatical case (nominative, genitive, partitive, etc.). It also has possessive forms indicating who owns the ice. There are many compound words using 'jää', such as 'ahtojää' meaning 'floe ice'. The word is related to similar words in other Finno-Ugric languages like Estonian 'jää' and Hungarian 'jég'."
 }

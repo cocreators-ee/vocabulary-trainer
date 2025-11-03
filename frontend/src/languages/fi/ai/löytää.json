@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minä löysin avaimeni sohvan alta.",
-    "Hän löysi kadonneen koiransa vihdoin.",
-    "Odotamme saapuvia vieraita ja heidän löytämistään."
+    "Minun täytyy löytää avaimeni.",
+    "Hän löysi uuden ystävän.",
+    "Löysimme ratkaisun ongelmaan."
   ],
   "translation": [
     "to find",
-    "to discover",
-    "to come across"
+    "discover",
+    "locate"
   ],
-  "context": "The Finnish verb 'löytää' means to find or discover something that was lost, missing, or previously unknown. It is used when you successfully locate something or someone after searching for them. This verb indicates the successful completion of a search and finding what was sought."
+  "context": "The Finnish verb 'löytää' means 'to find'. It is a transitive verb, meaning it takes an object. Importantly, it uses the elative case (or sometimes ablative) to indicate *where* something is found *from*, rather than simply *where* it is. For example, 'Löysin sen autotallista' translates literally as 'I found it from the garage'. The verb conjugates regularly and has various forms for different tenses and moods."
 }

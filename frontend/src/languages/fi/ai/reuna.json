@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Käytin kynän terävää reunaa paperin leikkaamiseen.",
-    "Talon reunoilla oli jäänne lumesta.",
-    "Reunaviivat auttavat hahmottamaan kuvan tasapainoa."
+    "Hän istui pöydän reunalla.",
+    "Reuna oli terävä ja vaarallinen.",
+    "Tuolin reuna on rikki."
   ],
   "translation": [
     "edge",
+    "brink",
+    "rim",
     "border",
-    "rim"
+    "fringe"
   ],
-  "context": "The Finnish word 'reuna' means edge, border, or rim. It refers to the outermost boundary or limit of something - whether it's a physical object like a table edge, geographical features like borders, or even abstract concepts in design where edges create structure and definition."
+  "context": "The word 'reuna' in Finnish means edge, brink, rim, border or fringe. It refers to the outer boundary line of something. The word declines based on case; for example, 'reunan' is the genitive form meaning 'of the edge', and 'reunoja' is the partitive plural form meaning 'some edges'. Possessive forms also exist, like 'reunani' which means 'my edge'."
 }

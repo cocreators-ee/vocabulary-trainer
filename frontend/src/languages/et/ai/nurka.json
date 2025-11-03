@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mängime nurka.",
-    "Nurgas on kaks tooli.",
-    "Lapsed jooksid nurgasse."
+    "Ja elurõõm hakkas temas morni tõsidust nurka suruma.",
+    "Surub vastase raudse loogika ning argumentidega nurka.",
+    "Tema istus toa nurka."
   ],
   "translation": [
     "corner",
-    "angle"
+    "angle",
+    "place"
   ],
-  "context": "The word 'nurka' is the partitive case form of the Estonian noun 'nurk', which means 'corner' or 'angle'. In Estonian, the partitive case is often used to indicate a partial object, location where something happens, or indefinite quantity. Here it indicates movement toward a corner or being in a corner."
+  "context": "The word 'nurka' is the partitive singular and illative singular form of the Estonian noun 'nurk'. As a partitive, it can mean 'of corner' or some corner, while as an illative it means 'into corner' or 'to a corner'. It refers to a physical corner of a room or space, or an angle in geometry. The word is commonly used when talking about movement toward corners or positioning things in corners."
 }

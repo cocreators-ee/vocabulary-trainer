@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Muuda oma parooli!",
-    "Kas sa suudad seda muuta?",
-    "Ta muutis oma plaane."
+    "Ratas liigub veel inertsi mõjul.",
+    "Ilmastiku inerts. Mõtete inerts.",
+    "Sõidab inertsi mõjul veel ühe peatuse."
   ],
   "translation": [
-    "change",
-    "modify",
-    "alter"
+    "inertia",
+    "tendency to remain unchanged",
+    "habit",
+    "routine"
   ],
-  "context": "The word 'muuda' is the imperative form (command) of the verb 'muutma', which means 'to change' or 'to modify'. It's used to tell someone to make a modification or alteration to something. In English, it would correspond to commands like 'Change!', 'Modify!', or 'Alter!'. The root word 'muuta' is in the basic form (infinitive) of the verb."
+  "context": "The word 'inerts' is a noun form meaning inertia or the property of maintaining uniform straight-line motion or rest until an external force changes that state. It can also refer metaphorically to a tendency to maintain one's current state, habits, or routines."
 }

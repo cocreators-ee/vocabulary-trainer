@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Piisa mulle kohe!",
-    "Ei piisaks üks kord?",
-    "Kuidas sa arvad, et piisab?"
+    "Mu jõud ei piisa kapi tõstmiseks.",
+    "Tema jõud ei piisa üleskäimiseks trepist.",
+    "Selle töö jaoks minu jõud ei piisa."
   ],
   "translation": [
-    "That's enough!",
-    "Would that be sufficient?",
-    "Do you think that's enough?"
+    "is not enough",
+    "is insufficient",
+    "does not suffice"
   ],
-  "context": "The word 'piisa' is an Estonian expression used to indicate sufficiency or adequacy. It can function as an interjection expressing satisfaction with the current amount, or it can be part of a question asking whether something would be sufficient. The root form suggests it relates to concepts of being enough or adequate."
+  "context": "In Estonian, 'piisa' is used as a verb that means something is sufficient or adequate. When used with the negative structure 'ei piisa', it means 'is not enough' or 'is insufficient'. The word indicates that someone lacks the necessary strength, ability, or capacity to accomplish a task. This construction often follows expressions of capability (like 'jõud' meaning strength/ability) and is commonly used in contexts where physical or mental effort is required but found lacking."
 }

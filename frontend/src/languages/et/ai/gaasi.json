@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tulekahju püsi gaasi tõttu.",
-    "Sellel õhul on maitset ja lõhna gaasi.",
-    "Auto kasutas rohkem gaasi kui eelmisel aastal."
+    "Gaasi nägemine on huvitav teaduslik fenomen.",
+    "Selleks et mõista gaasi spektreid, peame tundma füüsikat.",
+    "Aatomiline gaasi analüüs annab meile olulisi andmeid."
   ],
   "translation": [
     "gas",
-    "fumes"
+    "gaseous substance",
+    "vapor"
   ],
-  "context": "The Estonian word 'gaasi' is the partitive case form of 'gaas', meaning 'gas'. It's used to refer to an amount or portion of gas, typically in contexts like fuel, chemical gases, or fumes. The partitive case indicates that we're talking about some quantity of gas rather than the entire concept."
+  "context": "The word 'gaasi' is the genitive singular form of the Estonian noun 'gaas', which means 'gas'. In the context provided, it appears in phrases like 'aatomi|spekter füüs atomaarse gaasi v. auru spekter Vesiniku aatomispekter', which relates to atomic spectra and physics. This suggests specific usage in scientific contexts referring to gaseous substances or vapor spectra."
 }

@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Arvad sa, et see on tõene?",
-    "Kuidas arvad ta hakkab reageerima?",
-    "Ma ei tea, mida arvad."
+    "Mis sa sellest ettepanekust arvad?",
+    "Kus sa arvad oma olevat?",
+    "Ära arva, et ma ei tea kus sa olid!"
   ],
   "translation": [
-    "think",
-    "suppose",
-    "believe"
+    "you think",
+    "you suppose",
+    "you guess",
+    "you reckon"
   ],
-  "context": "The word 'arvad' is the second person singular form of the Estonian verb 'arvama', which means to think or suppose. It's used when addressing someone directly (you) and asking about their thoughts, opinions, or beliefs."
+  "context": "The word 'arvad' is the second-person singular present indicative form of the Estonian verb 'arvama'. It means 'to think', 'to suppose', 'to guess', or 'to reckon' - expressing a personal opinion, assumption, or subjective belief about something that may not be completely certain. In English, it corresponds to 'you think/suppose/guess/reckon' when addressing someone directly."
 }

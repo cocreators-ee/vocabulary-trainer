@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Keskus on avoinna arkisin kello 9–17.",
-    "Hän työskenteeli keskustan toimistossa.",
-    "Lähellä keskusta sijaitsee kauppakeskus."
+    "Hän asuu kaupungin keskuksessa.",
+    "Uusi ostoskeskus avattiin viime viikolla.",
+    "Päätös tehtiin hallintokeskuksessa."
   ],
   "translation": [
     "center",
+    "centre",
+    "core",
     "hub",
-    "central part",
-    "main office"
+    "focus"
   ],
-  "context": "The Finnish word 'keskus' is a noun that means 'center', 'hub', or 'central part'. It refers to the main point around which activities, services, or buildings are organized. In business contexts, it can mean 'headquarters' or 'main office'. The word appears in compound words like 'kauppakeskus' (shopping center) and 'keskustori' (town square)."
+  "context": "The word 'keskus' in Finnish means center, centre or core. It can refer to a physical location like the center of a city (kaupungin keskus), a building with a specific function such as a shopping center (ostoskeskus) or an administrative center (hallintokeskus). The word declines based on case; for example, 'keskuksessa' means 'in the center', and 'keskukseen' means 'to the center'. It can also be used in possessive forms like 'keskukseni' meaning 'my center'."
 }

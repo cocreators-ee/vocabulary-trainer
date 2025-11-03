@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma ei kedagi tundnud.",
-    "Ta rääkis kedagiga telefonil.",
-    "Kedagi pole siin."
+    "Kedagi ei tulnud kohale.",
+    "Keda tahad küsida?",
+    "Kes on kedagi?"
   ],
   "translation": [
     "anyone",
-    "anybody"
+    "somebody",
+    "someone"
   ],
-  "context": "The Estonian word 'kedagi' is the partitive case form of 'keegi', meaning 'someone' or anybody'. It is used when referring to an unspecified person in a non-specific way, typically in negative sentences or questions. The partitive case indicates that we are talking about some portion or instance of people rather than a specific individual."
+  "context": "The word 'kedagi' is the partitive case form of the Estonian pronoun 'keegi', meaning 'anyone' or 'somebody'. In Estonian, the partitive case is used to indicate an incomplete action, existence, or object. This form would be used when someone doesn't come, or asking about a person in a non-specific way, indicating that we're talking about some person (not necessarily all persons)."
 }

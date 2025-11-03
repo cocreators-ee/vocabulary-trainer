@@ -1,16 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Minä olen koulussa.",
-    "Hän on ystäväni.",
-    "Se on kaunis talo."
+    "Kissa on pöydällä.",
+    "Hän on opettaja.",
+    "Talo on punainen."
   ],
   "translation": [
-    "is",
-    "am",
-    "are",
-    "was",
-    "were"
+    "is"
   ],
-  "context": "The Finnish word 'on' is the third person singular form of the verb 'olla', which means 'to be'. It's used to indicate existence, identity, or state in the present tense. For example: 'Minä olen koulussa' (I am at school), 'Hän on ystäväni' (He/She is my friend), 'Se on kaunis talo' (It is a beautiful house)."
+  "context": "The Finnish word 'on' is a third-person singular indicative present form of the verb 'olla', which means 'to be'. It translates directly to 'is' in English. It is used to indicate existence or state of being. For example, 'Kissa on pöydällä' means 'The cat is on the table'."
 }

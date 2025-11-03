@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla kaksi jalkaa.",
-    "Jalan lihakset ovat väsyneet.",
-    "Jaloissa on paljon hermoja."
+    "Menin sinne jalan.",
+    "Hän loukkasi jalkansa juostessaan.",
+    "Pöydässä on neljä jalkaa."
   ],
   "translation": [
     "foot",
-    "leg"
+    "leg",
+    "shank"
   ],
-  "context": "The Finnish word 'jalka' can mean both 'foot' and 'leg' in English. In Finnish, it's a common noun that refers to the lower limb of humans or animals. It's an inflected word that changes form depending on its case - for example, 'jalassa' (in the foot/leg), 'jaloissa' (in the feet/legs), 'jalat' (feet/legs). The plural form 'jalat' is used when referring to both feet or legs. In anatomy and everyday conversation, this word covers what English speakers might distinguish between as feet (lower part) and legs (entire limb from thigh down)."
+  "context": "The Finnish word 'jalka' refers to the foot or leg, and can sometimes refer to both. It is a common noun with various inflections depending on its grammatical role in a sentence. The word also has meanings related to supporting structures like the base of furniture, or even pins in electronics.  It declines based on case, as shown in the provided declension table; for example 'jalan' is the genitive singular form meaning 'of the foot/leg'. There are also possessive forms indicating ownership, such as 'jalkani' (my foot/leg)."
 }

@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Palun jääte oma kohale.",
-    "Jäete palun oma istumiskohtadele.",
-    "Mida te soovite ette jätta?"
+    "Kas jääte, tulete ka arutelule?",
+    "Järgmisel nädalal jääte koos meiega seminarile.",
+    "Pärast loengut jäid üliõpilased veel kaua debatima."
   ],
   "translation": [
-    "stay",
-    "remain",
-    "leave behind"
+    "you (plural) will stay/remain",
+    "will you stay/remain"
   ],
-  "context": "The word 'jääte' is the plural second person imperative form of the verb 'jääma' in Estonian. It means 'stay!' or 'remain!' when used as a command to multiple people. In other contexts, it can also mean 'leave behind' depending on the sentence structure."
+  "context": "The word 'jääte' is the 2nd person plural future tense form of the Estonian verb 'jääma', meaning 'to stay', 'to remain', or 'to wait'. It's a question form asking if people will stay for an event or activity. In the dictionary example, it appears in the context asking 'Kas jääte, tulete ka arutelule?' which means 'Will you stay/come to the discussion/debate as well?'. The word is formed from the root verb 'jääma' with the 2nd person plural ending '-te' and future tense marker."
 }

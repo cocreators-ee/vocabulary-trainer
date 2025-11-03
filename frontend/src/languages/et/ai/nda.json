@@ -1,15 +1,14 @@
 {
-  "confidence": 0.6,
   "understood": true,
   "sentences": [
-    "Ma tean, et nda on väga halb mõte.",
-    "Ära tee ndat!",
-    "See nda oli lihtsalt kohutav."
+    "Ta on juba kaheksandat päeva haige.",
+    "Istusime kaheksandas reas.",
+    "See juhtus 8. novembril."
   ],
   "translation": [
-    "idea",
-    "thought",
-    "plan"
+    "eighth",
+    "8th",
+    "VIII"
   ],
-  "context": "The word 'nda' in Estonian is often used to express a bad idea or plan. It can be similar to saying 'that's a terrible thought!' or 'don't do that!' in English, and carries a negative connotation."
+  "context": "The word 'nda' is a suffix in Estonian that forms ordinal numbers, specifically the eighth position or number 8. It's used to indicate order rather than quantity (which would use 'kaheksa'). In the dictionary definition, it shows examples of its usage: 'Ta on juba kaheksandat päeva haige' (He has been sick for the eighth day), 'Istusime kaheksandas reas' (We sat in the eighth row), and 'See juhtus 8. novembril' (This happened on November 8th)."
 }

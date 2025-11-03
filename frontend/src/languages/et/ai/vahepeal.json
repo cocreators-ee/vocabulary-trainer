@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ta vahepeal ei tulnud tööle.",
-    "Me ootasime tunni aega ja siis lahkusime vahepeal.",
-    "Keskööl oli ta vahepeal magamas."
+    "\"Vahepeal, kui ma väljas käisin, oli keegi mu koha ära võtnud.\"",
+    "\"Ma lähen vahepeal koju, söön ja tulen siis tagasi.\"",
+    "\"Läks mööda paar päeva, vahepeal olime juba üksteisega tuttavaks saanud.\""
   ],
   "translation": [
-    "meanwhile",
     "in the meantime",
-    "during that time"
+    "meanwhile",
+    "between (time/period)",
+    "during (interval)"
   ],
-  "context": "The Estonian word 'vahepeal' is an adverb meaning 'meanwhile', 'in the meantime', or 'during that time'. It indicates something happening in between two points in time, similar to English expressions like while waiting for something else to happen."
+  "context": "The Estonian word 'vahepeal' is an adverb and postposition that means 'in between', 'during', or 'meanwhile'. It can be used to describe something happening during a certain period of time or between two points in time. As a postposition, it indicates location or position between two things. The word has temporal uses (what happens between two moments) and spatial uses (location between two objects)."
 }

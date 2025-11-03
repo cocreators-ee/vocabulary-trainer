@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tere päevaga!",
-    "Head ööd ja head päevaga.",
-    "Kohtume järgmisel päeval, hea päevaga!"
+    "Kalendriaasta on 365 päevaga.",
+    "Aasta kulub 365 päevaga.",
+    "See on tavaline aasta 365 päevaga."
   ],
   "translation": [
-    "good day",
-    "good afternoon",
-    "have a nice day"
+    "with 365 days",
+    "in 365 days"
   ],
-  "context": "The word 'päevaga' is an Estonian expression used as a greeting, similar to 'Good day' or 'Have a nice day' in English. It literally translates to 'with the/day' but functions as a polite daytime farewell or greeting. The expression combines 'päev' (day) with the adessive case ending '-ga', indicating accompaniment or association - essentially saying something like 'with a good day'. This is commonly used when parting ways during daylight hours, often as a standalone phrase to wish someone well for the remainder of their day."
+  "context": "The Estonian word 'päevaga' is an elative case form of 'päev' (day), meaning 'with days' or 'in terms of days'. When used with the number 365, it specifically means 'with 365 days' and refers to a common year as opposed to a leap year. It's used to describe the duration of a normal calendar year consisting of exactly 365 days."
 }

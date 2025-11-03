@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minun täytyy seisoa täällä.",
-    "He seisovat puistossa joka päivä.",
-    "Oletko koskaan seissyt tällä paikalla?"
+    "Hän oli seissyt tuolla kadulla.",
+    "Tehdas on seissyt kolme viikkoa.",
+    "Hänellä ei seissyt."
   ],
   "translation": [
-    "to stand",
-    "to be standing"
+    "stand",
+    "be standing still",
+    "halt"
   ],
-  "context": "The Finnish verb 'seistä' means to stand or to be in a standing position. It's the basic present tense form of the verb, and it follows conjugation patterns for -i-stem verbs in Finnish. The word is used when someone or something is upright on their feet rather than sitting or lying down."
+  "context": "The Finnish verb 'seistä' is an intransitive, defective verb that means 'to stand'. It is often used to indicate a state of being stationary or at a halt. The dictionary definitions show it can also have more specific meanings like 'have an erection', but the primary meaning relates to physical standing. Because it is defective, most forms are supplied by the synonymous verb 'seisoa'."
 }

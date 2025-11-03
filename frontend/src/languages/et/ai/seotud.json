@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Seotud on kaks inimest.",
-    "Ta oli seotud kuriteoga.",
-    "Põhjused on omavahel seotud."
+    "Ta on seotud ühe ameeriklasega.",
+    "Tüdrukul on juuksed paelaga taha seotud.",
+    "Mind ei seo nende inimestega miski."
   ],
   "translation": [
     "connected",
-    "related",
-    "bound"
+    "bound",
+    "tied",
+    "linked",
+    "associated"
   ],
-  "context": "The word 'seotud' is the past participle form of the Estonian verb 'siduda', which means 'to tie, to bind, or to connect'. It is used as an adjective to indicate that something is connected, related, bound, or linked together. In different contexts, it can describe relationships between people (connected), connections between events or things (related), or physical bindings (bound)."
+  "context": "The Estonian word 'seotud' is the past participle form of the verb 'siduma'. It has multiple meanings including: 1) physically connected or tied together with ropes, strings, etc.; 2) linked or associated with something/someone; 3) engaged or busy (with work); 4) bound by obligations or commitments. The word can refer to both physical connections and abstract relationships or associations."
 }

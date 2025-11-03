@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ma loen oma kirjad.",
-    "Kas sa oled saanud mulle kirjad?",
-    "Kirjad on postkast võetud."
+    "Saada mulle oma kirjad.",
+    "Ta on saanud palju kiru kodust.",
+    "Kõik kirjad olid postiti."
   ],
   "translation": [
     "letters",
-    "mails",
-    "correspondence"
+    "mail"
   ],
-  "context": "The word 'kirjad' is the plural form of the Estonian noun 'kiri', which means 'letter'. In this plural form, it refers to multiple letters or pieces of correspondence. The '-d' ending at the end of the word indicates that it's in the nominative plural case in Estonian."
+  "context": "The word 'kirjad' is the plural form of 'kiri', which means letters or mail in Estonian. It refers to written communications sent through postal services, personal correspondence between people. The suffix '-d' indicates plurality in Estonian, so while 'kiri' would be a single letter, 'kirjad' represents multiple letters or mail items."
 }

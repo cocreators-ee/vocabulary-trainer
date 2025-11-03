@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on laadukas tuote.",
-    "Olemme kehittämässä uutta tuotetta.",
-    "Tuotteemme ovat suosittu asiakkaiden keskuudessa."
+    "Viljelijät myyvät tuotteitaan torilla.",
+    "Olen kiinnostunut uusista tuotteista.",
+    "Tämä on laadukas tuote."
   ],
   "translation": [
     "product",
-    "item",
-    "goods"
+    "produce"
   ],
-  "context": "'Tuote' is a Finnish noun that means 'product' in English. It refers to an item or thing that has been manufactured, produced, or created for sale or use. In Finnish grammar, 'tuote' follows the standard noun declension patterns and can appear in various cases depending on its function in a sentence. When used in the nominative case (as shown in the examples), it typically refers to the product itself without any additional grammatical modifications."
+  "context": "The Finnish word 'tuote' means 'product'. It can refer to any tangible output or service intended for a customer. It is often used in the plural form, 'tuotteet', meaning 'products' or 'produce', especially in agricultural contexts. The word originates from the verb 'tuottaa', which means 'to produce'.  The ending '-e' indicates the nominative singular form of the noun."
 }

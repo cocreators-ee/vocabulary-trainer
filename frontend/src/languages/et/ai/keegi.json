@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Kas keegi on kodus?",
-    "Keegi ei tahtnud tulla.",
-    "Ma olen alati teie poole pöördunud, et keegi peaks teid aitama."
+    "Keegi koputas.",
+    "Kas täna käis keegi meil?",
+    "(Mitte) keegi ei tulnud appi."
   ],
   "translation": [
     "someone",
-    "anybody",
     "somebody"
   ],
-  "context": "The word 'keegi' is an indefinite pronoun in Estonian that refers to an unspecified person. It's commonly used when the identity of the person isn't important or known, similar to how we use 'someone', 'anybody', or 'somebody' in English."
+  "context": "The Estonian word 'keegi' is an indefinite pronoun used to refer to an unspecified or unknown person. It can mean 'someone' or 'somebody' in English. In affirmative sentences, it indicates an unidentified person (e.g., 'Someone knocked'). In negative sentences with 'mitte', it means 'no one' (e.g., '(Not) no one came to help'). The word has various case forms like genitive 'kellegi', partitive 'kedagi', etc. depending on its grammatical function in the sentence."
 }

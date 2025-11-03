@@ -2,13 +2,13 @@
   "understood": true,
   "sentences": [
     "Räägite palun aeglasemalt.",
-    "Kas te räägite eesti keelt?",
-    "Millal saab mees räägida?"
+    "Kas te ise seda nägite, et nii enesekindlalt räägite?",
+    "Mida nad ütlevad, et nii kõva häällega räägite?"
   ],
   "translation": [
-    "you speak (formal plural)",
-    "say",
-    "talk"
+    "you (plural) speak",
+    "you (plural) talk",
+    "you (plural) say"
   ],
-  "context": "The word 'räägite' is the formal second person plural form of the verb 'rääkima' in Estonian, meaning 'to speak'. It's used when addressing multiple people formally or respectfully. The '-te' suffix indicates the polite/formal address to a group. In English, this would be equivalent to 'you all speak' or simply 'you speak' in formal contexts."
+  "context": "The word 'räägite' is the second-person plural present indicative form of the Estonian verb 'rääkima', which means 'to speak' or 'to talk'. It specifically refers to a group of people currently speaking. The -te ending indicates that it's addressed to multiple people (you, you all), and it's in the present tense, indicating an ongoing action."
 }

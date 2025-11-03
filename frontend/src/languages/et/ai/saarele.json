@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Sõidame saarele homme.",
-    "Kalurid lähevad saarele öösel.",
-    "Lapsed tahavad minna saarele suvel."
+    "Saarlased käisid aeg-ajalt mandril.",
+    "Eesti asub mandri ääres.",
+    "Mandrite vahel on palju erinevusi."
   ],
   "translation": [
-    "to the island",
-    "onto the island",
-    "to an island"
+    "continent",
+    "mainland"
   ],
-  "context": "The Estonian word 'saarele' is the illative case form of 'saar' (island). It indicates movement toward or onto an island. The '-le' ending is a common illative case suffix in Estonian that shows direction towards a place. This form is used when someone or something is going to or arriving at an island."
+  "context": "The word 'saarele' is the allative case form of 'saar', meaning island. It indicates movement towards an island or location on an island. In contrast to mainland (mandri), it specifically refers to islands as distinct land masses surrounded by water."
 }

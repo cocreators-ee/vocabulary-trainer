@@ -1,14 +1,19 @@
 {
   "understood": true,
   "sentences": [
-    "Tere tulemast kaupadesse!",
-    "Me ostame palju kaupa.",
-    "See on hea kauba liik."
+    "Vihma sadas hoogude kaupa.",
+    "Teos ilmus annete kaupa.",
+    "Istub tundide kaupa harjutades klaveri taga."
   ],
   "translation": [
-    "goods",
-    "merchandise",
-    "products"
+    "in portions",
+    "in parts",
+    "by units",
+    "in batches",
+    "gradually",
+    "step by step",
+    "by means of",
+    "with the help of"
   ],
-  "context": "The word 'kaupa' in Estonian is the partitive form of 'kaub', which means goods, merchandise, or products. It's used to refer to items being bought, sold, or discussed as commercial products. The partitive case indicates an incomplete or indefinite quantity of something."
+  "context": "The Estonian word 'kaupa' is a postposition that can be used in several ways: 1) To indicate something happens in portions, parts, or units (e.g., 'hoogude kaupa' - in bursts/showers); 2) To emphasize quantity or duration when referring to equal units arranged in sequence (e.g., 'tundide kaupa' - hour by hour); 3) In an older sense meaning with the help of or by means of. It often combines with numbers or measurement words to form compounds like 'kilo kaupa', 'minuti kaupa', etc."
 }

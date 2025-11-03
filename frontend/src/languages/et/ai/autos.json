@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Autost on tore kiirus piirata.",
-    "Tema autos on hea muusika.",
-    "Me sõidame autos linnast eemale."
+    "Sõitsin autosse linna.",
+    "Auto seisab autos.",
+    "Kliimaautos on mugav炙malt soe."
   ],
   "translation": [
-    "in the car",
-    "by car"
+    "in a car",
+    "inside the car",
+    "in a vehicle"
   ],
-  "context": "The Estonian word 'autos' is an inessive case form of 'auto', meaning 'car'. It indicates location within or means of transportation using a car, similar to saying 'in the car' or 'by car' in English. The '-s' ending shows it's in the inessive case, which answers questions like 'where?'."
+  "context": "The word 'autos' is the inessive singular form of the Estonian noun 'auto', which means 'car'. Inessive case indicates location inside something, so 'autos' translates to 'in a car' or 'inside the car'. It's used when someone or something is located within a car."
 }

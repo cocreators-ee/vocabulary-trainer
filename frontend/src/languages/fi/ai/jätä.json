@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Jätä avaimet pöydälle.",
-    "En jäänyt kotiin viikonloppuna.",
-    "Jätän tämän tehtävään huomiseksi."
+    "Älä jätä minua!",
+    "Hän jätti avaimet pöydälle.",
+    "Jätä se rauhaan."
   ],
   "translation": [
-    "leave behind",
+    "leave",
     "abandon",
-    "let be",
-    "not stay"
+    "forget"
   ],
-  "context": "The Finnish word 'jätä' is an imperative form of the verb 'jättää', which means to leave something behind, abandon, or not take something with you. It's used when telling someone to leave something in a place. In other forms, it can mean to not stay (as in 'en jäänyt' - I didn't stay) or to postpone/leave for later (as in 'jätän tämän tehtävään huomiseksi' - I'll leave this task until tomorrow)."
+  "context": "The Finnish word 'jätä' is a verb form meaning 'to leave', 'to abandon', or 'to forget'. It is the second-person singular present active imperative connegative, which means it's used to tell someone not to do something – in this case, not to leave. The base form of the verb is 'jättää'."
 }

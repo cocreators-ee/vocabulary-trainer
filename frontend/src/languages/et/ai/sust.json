@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tule minu juurde siin.",
-    "Siin on meie kodu.",
-    "Kuidas sa siin elad?"
+    "Tule minu juurde sust.",
+    "Ta tuli minust ja läks sust.",
+    "Sellest aru saada ei saa sust."
   ],
   "translation": [
-    "here"
+    "from you",
+    "out of you",
+    "away from you"
   ],
-  "context": "The Estonian word 'siin' means 'here' in English. It is used to indicate location or presence at a particular place near the speaker."
+  "context": "The word 'sust' is the elative singular form of the Estonian pronoun 'sa' (you). In English grammar, this would correspond to cases where we use prepositions like 'from', 'out of', or 'away from' when referring to someone. This case indicates movement away from a person or source. The word is used unstressed in sentences; when stressed, the longer form 'sinust' is used instead."
 }

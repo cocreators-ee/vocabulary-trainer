@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Sa kirjutad kirja.",
-    "Tema kirjutab artikli.",
-    "Me kirjutame e-posti."
+    "Kirjutad mulle kirja?",
+    "Täna sa kirjutad esseed",
+    "Sa pead kõik õigetpidi kirjutada"
   ],
   "translation": [
-    "write (singular, you)",
-    "are writing",
-    "writes"
+    "you write",
+    "you are writing",
+    "do write"
   ],
-  "context": "The word 'kirjutad' is the present tense second person singular form of the Estonian verb 'kirjutama', which means 'to write'. It specifically refers to what 'you' are doing in the present moment. The word belongs to the -d conjugation pattern for regular verbs in Estonian, where the infinitive ends in '-ma' and the present tense second person singular adds '-d' to the verb stem."
+  "context": "The word 'kirjutad' is the second person singular present indicative form of the Estonian verb 'kirjutama', which means 'to write'. It specifically refers to what you (singular) are doing in the present moment - you write or you are writing. This form is used when addressing one person informally about their current action of writing."
 }

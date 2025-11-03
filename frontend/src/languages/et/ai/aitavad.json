@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mehed aitavad naistel.",
-    "Lapsed aitavad vanemaidel.",
-    "Kõik aitavad üksteist."
+    "Mina aitadin ja nad aitavad.",
+    "Tema aidatab alati.",
+    "Meie aitame oma vanemaid."
   ],
   "translation": [
     "help",
-    "assist"
+    "assist",
+    "aid"
   ],
-  "context": "The word 'aitavad' is the present tense plural form of the Estonian verb 'aitama', which means 'to help'. It translates to English as 'they help' or '[subject] help(s) [object]' depending on context. This third-person plural conjugation is used when referring to multiple people who are helping someone or something."
+  "context": "'Aitavad' is the third-person plural present indicative form of the Estonian verb 'aitama', which means 'to help' or 'to assist'. This form would be used when referring to multiple people (they) who are helping in the present tense. For example, 'Nad aitavad mind' means 'They help me'. The word comes from the same root as English words like 'aid' and shows how Estonian verbs have different forms for different subjects and tenses."
 }

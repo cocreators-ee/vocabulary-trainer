@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on paljon pisteitä tällä kurssilla.",
-    "Opiskelija sai täydet pisteet kokeestaan.",
-    "Pisteet päivitetään joka viikko."
+    "Hän keräsi paljon pisteet pelissä.",
+    "Mitä pisteet tästä tehtävästä?",
+    "Pisteet ovat tärkeät kilpailussa."
   ],
   "translation": [
     "points",
-    "scores",
-    "marks"
+    "scores"
   ],
-  "context": "The Finnish word 'pisteet' is the plural form of 'piste', which means a point or mark. It's commonly used in educational contexts to refer to scores, points, or grades that students earn on assignments and exams. The word can also be used more broadly to refer to dots, points on a map, or other small marks."
+  "context": "The word 'pisteet' is the nominative plural form of 'piste', which means 'point' or 'score'. The '-t' ending indicates that it is in plural form, referring to multiple points or scores. It is used when talking about the results or amounts of points earned in a game, competition, or assessment."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema neis oli väga ilus.",
-    "Meie neid on kodus.",
-    "Neid ei olnud enam saadaval."
+    "Neis on baktereid lagundav viirus.",
+    "Bakteriofaagid ehk neis on väga olulised mikrobioloogias.",
+    "Selliseid neis'e kasutatakse bakterite hävitamisel."
   ],
   "translation": [
-    "their",
-    "theirs"
+    "bacteriophage",
+    "bacterial virus",
+    "phage"
   ],
-  "context": "In Estonian, 'neis' is a possessive pronoun that means 'their' or 'theirs'. It belongs to the third person plural genitive case, indicating possession by multiple people. This form is used when referring to something belonging to them in Estonian grammar."
+  "context": "The word 'neis' is a shortened form of the Estonian word 'bakteriofaag' (bacteriophage). It refers to a virus that infects and destroys bacteria. The '-i' ending in 'bakteriofaag-i' indicates possession or relation, and when it becomes 'neis', it's an informal or abbreviated form commonly used in biological contexts to refer specifically to bacteriophages. Bacteriophages are important tools in microbiology for bacterial control and research."
 }

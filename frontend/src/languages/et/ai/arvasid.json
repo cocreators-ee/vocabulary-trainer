@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Arvasid sa, et ta tuli?",
-    "Ma ei arvanud seda.",
-    "Kas arvasid õigesti?"
+    "Arvasin et tuleb homme.",
+    "Mis sa arvasid?",
+    "Ta ei arvanud seda olevat tõsi."
   ],
   "translation": [
     "thought",
-    "believed",
-    "guessed"
+    "assumed",
+    "believed"
   ],
-  "context": "The word 'arvasid' is the past tense second person singular form of the Estonian verb 'arvama', which means 'to think, to believe, to guess'. It specifically refers to what someone thought or believed in the past. The stem 'arva-' indicates thinking or considering something, and '-sid' is the past tense suffix for the second person singular (you)."
+  "context": "The word 'arvasid' is the 2nd person singular past tense form of the Estonian verb 'arvama', which means to think, believe, or assume. It's commonly used when referring to what someone thought in the past. The base form 'arvama' conjugates as 'arvan' (I), 'arvad' (you), 'arvas' (he/she), 'arasime' (we), 'arasite' (you pl.), 'arasid' (they)."
 }

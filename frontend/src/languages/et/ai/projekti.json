@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on hea projekt.",
-    "Projekt valmis homseks.",
-    "Töötame uue projekti kallal."
+    "Projekti tegemine võtab aega.",
+    "Kas sa oled näinud seda projekti?",
+    "Projektis on palju olulisi detaile."
   ],
   "translation": [
-    "project",
-    "undertaking",
-    "venture"
+    "project's",
+    "of the project"
   ],
-  "context": "The word 'projekti' is the genitive case form of Estonian noun 'projekt'. In English, it means 'of project', 'project's', or can be translated as 'project' in certain contexts. It appears to be used here as the object of a sentence where it would mean 'a project' or 'the project' depending on context. This is a common word in Estonian referring to a planned undertaking, assignment, or piece of work."
+  "context": "The word 'projekti' is the genitive singular and partitive singular form of the Estonian noun 'projekt'. It means 'of the project' or 'project's' and indicates possession or relation to a project. In English, it would typically be translated as 'project's' when showing possession (e.g., 'the project's goal') or as 'of the project' when indicating something belongs to or is part of a project (e.g., 'parts of the project')."
 }

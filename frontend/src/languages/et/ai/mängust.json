@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mängust jäi meile hea mälgus.",
-    "Laps laulis laulu mängust.",
-    "Ta sai teadmisi mängust."
+    "Mängust väljumine oli raske.",
+    "Ta langes mängust välja peale esimest vastuolu.",
+    "Kas sa veel oled mängust väljas?"
   ],
   "translation": [
+    "out of the game",
     "from the game",
-    "from the play/game"
+    "outside the game"
   ],
-  "context": "The word 'mängust' is in the elative case (from-form) of the Estonian noun 'mäng', which means 'game' or 'play'. The ending '-st' indicates that something is coming from, out of, or about the game. It answers the question 'kust?' (where/from where?) in relation to games."
+  "context": "In Estonian, 'mängust' is an elative form of 'mäng', meaning 'game'. It indicates movement or position away from a game. This form shows that something has come out of the game context - either physically left the playing area, been eliminated/removed from participation in a game, or no longer belongs within the framework of a particular game or situation."
 }

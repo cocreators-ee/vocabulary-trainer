@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Minun suosikkivärini on sininen.",
-    "Tämä auto on upeassa värissä.",
-    "Mikä väri tämä on?"
+    "Hän valitsi punaisen värin suosikkivärikseen.",
+    "Talon väri oli kirkkaan keltainen.",
+    "Maalasin seinät upealla sinisellä värillä."
   ],
   "translation": [
     "color",
     "hue",
-    "shade"
+    "shade",
+    "tint",
+    "dye"
   ],
-  "context": "The Finnish word 'väri' means color in English. It is a common noun used to describe the quality of light reflected by an object, which produces the visual sensation. In Finnish grammar, it's a neuter gender word (vär-i). The plural form would be 'värit'."
+  "context": "The Finnish word 'väri' translates to 'color' in English. It can refer to the spectral composition of light, a particular set of colors, or even dye/pigment. The word declines based on case and number; for example, 'värini' means 'my color', while 'värit' means 'colors'. It is a common noun with many related terms like 'värillinen' (colored) and 'värikäs' (colorful)."
 }

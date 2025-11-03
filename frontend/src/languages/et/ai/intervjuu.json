@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Intervjuu oli väga huvitav.",
-    "Me tegime intervjuu presidendiga.",
-    "Kas sa oled kunagi osalenud televisioonintervjuus?"
+    "Minister andis ajakirjanikele intervjuu.",
+    "Õhtulehes ilmus intervjuu linna peaarhitektiga.",
+    "Minge proovige saada intervjuu laevaõnnetuse läbiteinud kaptenilt!"
   ],
   "translation": [
-    "interview"
+    "interview",
+    "questioning",
+    "discussion"
   ],
-  "context": "The word 'intervjuu' in Estonian is a noun that means an interview. It refers to a formal conversation between a journalist or researcher and someone they are asking questions, typically for the purpose of gathering information for publication, research, or broadcast. The word can be used in various contexts such as job interviews, media interviews, or research interviews."
+  "context": "Intervjuu is an Estonian noun meaning 'interview' or 'questioning'. It refers to a formal conversation between a journalist and someone newsworthy, often conducted for publication in newspapers, radio, or television. The word follows standard Estonian declension patterns with various cases like genitive intervjuude, partitive intervjuud/intervjuusid, etc."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Olete meie külalised.",
-    "Kus olete praegu?",
-    "Mida olete tegemas?"
+    "Olete heas tujus.",
+    "Te olete õigel ajal kohale jõudnud.",
+    "Olete kindlasti korralikult valmistunud eksamiks."
   ],
   "translation": [
-    "are (plural formal)",
-    "you are (formal)"
+    "you are (plural)",
+    "you have been",
+    "you exist"
   ],
-  "context": "The Estonian word 'olete' is the 2nd person plural formal present tense form of the verb 'olla' (to be). It translates to 'you are' in English, used when addressing multiple people formally. This is different from informal 'lete' which would be used for friends or family."
+  "context": "The Estonian word 'olete' is the second-person plural present indicative form of the verb 'olema', which means 'to be'. It specifically translates to 'you are' when addressing multiple people. This conjugation indicates that the action or state being described is currently happening in the present tense, and it's directed at a group of people (the formal/plural 'te')."
 }

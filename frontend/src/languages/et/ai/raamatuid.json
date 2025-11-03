@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma loen raamatuid.",
-    "Ta ostis kolm raamatuid.",
-    "Lapsed vaatavad pilte raamatuid."
+    "Lugejad võiv ise valida raamatuid riiulilt.",
+    "See on hea koht, kus saavad endale sobivaid raamatuid leida.",
+    "Raamatukogus paljud lapsed leiuvad oma meelepäraseid raamatuid."
   ],
   "translation": [
-    "books"
+    "books",
+    "volumes",
+    "tomes"
   ],
-  "context": "'Raamatuid' is the partitive plural form of the Estonian word 'raamat', which means 'book'. In Estonian, the partitive case is used to indicate an incomplete action or object. When combined with '-id' suffix (plural), it refers to multiple books in a context where you're talking about some books, reading books, buying books, etc. - essentially when the quantity isn't specified as complete or exact."
+  "context": "The word 'raamatuid' is the partitive plural form of the Estonian noun 'raamat', which means 'book'. The ending '-uid' indicates that this is the partitive case used with plural nouns. In Estonian, the partitive case is often used when talking about indefinite quantities or selections of things. Here it refers to multiple books that can be selected by readers from shelves in a library or bookstore context."
 }

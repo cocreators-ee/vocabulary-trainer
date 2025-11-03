@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Teda ei nähtud eile kodus.",
-    "Ma olen teda külastanud viimase kuue kuu jooksul.",
-    "Kas te olete seda inimest või tema kohta midagi kuulanud?"
+    "Temat teda vaatasid.",
+    "Meie kohtume ja läheme teda küsima.",
+    "Tema käitumist on keeruline mõista."
   ],
   "translation": [
-    "him",
-    "her"
+    "him/her/it (partitive case)",
+    "of him/her/it",
+    "concerning him/her/it"
   ],
-  "context": "The Estonian word 'teda' is a third person singular pronoun used to refer to someone who is not present or being discussed. It's the accusative/genitive form of the pronoun 'tema', meaning 'him/her'. In Estonian, this form is used for both masculine and feminine third person singular subjects in object position (when they are the object of a verb) or possession (genitive case)."
+  "context": "The Estonian word 'teda' is the partitive case form of the pronoun 'tema', which means 'he/she/it'. In English, it would translate to 'him/her/it (partitive case)' and typically appears in contexts where we talk about some aspect or partial reference to the person or thing. For example, in sentences like 'You watched him' (Temat teda vaatasid), the word 'teda' indicates that you were watching him/him as an object of action. The partitive case is commonly used with verbs indicating perception, desire, or other incomplete actions."
 }

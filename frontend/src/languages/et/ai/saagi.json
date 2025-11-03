@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Saagi mind hommikul üles.",
-    "Saad mind siit ära?",
-    "Me saime oma lapse kooli."
+    "Hea agrofoon annab hea saagi.",
+    "Halbal agrofoonil ei saa head saaki.",
+    "Põllukultuuride saagis varieerub vastavalt ilmastikule."
   ],
   "translation": [
-    "get",
-    "fetch",
-    "obtain"
+    "crop yield",
+    "harvest",
+    "produce",
+    "output"
   ],
-  "context": "The Estonian word 'saagi' is the 1st person singular past tense form of the verb 'saama' meaning 'to get', 'to fetch', or 'to obtain'. It appears to be in the perfective aspect, indicating that the action has been completed. This form would typically translate to English as 'I got', 'I fetched', or 'I obtained' depending on context."
+  "context": "The word 'saagi' appears to be a form of the Estonian word 'saak', which means harvest or crop yield. It refers to the amount or quality of agricultural produce obtained from cultivated land. In the context provided, it's used in relation to 'agrofoon' (agrophone - conditions for plant growth), indicating how different growing conditions affect the resulting harvest. The word can be singular and likely appears in the genitive case here ('saagi') showing possession or relationship to something."
 }

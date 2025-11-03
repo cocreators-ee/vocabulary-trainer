@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Temal on palju kogemusi.",
-    "Me räägime temaga tema probleemidest.",
-    "Tema naer on nakkav."
+    "Ta on kõrgem temal.",
+    "See auto on kiirem temal.",
+    "Tema lapsed on nutikamad temal."
   ],
   "translation": [
-    "his",
-    "him"
+    "than him",
+    "compared to him",
+    "more than he"
   ],
-  "context": "The word 'temal' is an Estonian instrumental case form that typically appears to be a variant of the instrumental case of 'tema' (he/him). In standard Estonian, the instrumental case of 'tema' would be 'temaga' meaning 'with him'. However, 'temal' could also be interpreted as a possessive form or dialectal variation. Given the context from movie subtitles, it might represent a specific grammatical construction used in spoken language."
+  "context": "'Temal' is the Estonian comparative form meaning 'than him' or 'compared to him'. It is used in comparative constructions when comparing someone/something else to a male person (tema - he/him). The word indicates that the subject has more of a certain quality than the male being compared to. This is part of Estonian case system where '-l' ending typically adds a locative or instrumental meaning, but here it's specifically used for comparison purposes."
 }

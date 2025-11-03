@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ütle mulle oma nimi.",
-    "Ta ütles, et tuleb homme.",
-    "Mis sa ütled?"
+    "Anna, jäta ütle mulle oma aadress.",
+    "Kuidas su aadress on?",
+    "Olen koolivenna aadressi unustanud."
   ],
   "translation": [
-    "say",
-    "tell"
+    "tell me",
+    "say to me"
   ],
-  "context": "The word 'ütle' is the imperative form of the verb 'ütelda', which means 'to say' or 'to tell'. It's used when giving a direct command to someone to speak. In Estonian, verbs change form depending on who is performing the action and when, but 'ütle' specifically addresses someone directly in the present tense."
+  "context": "The word 'ütle' is the imperative form of the Estonian verb 'ütelda', which means 'to tell' or 'to say'. In the given sentences, it's used in direct commands asking someone to provide information. It's a second-person singular command form (informal address)."
 }

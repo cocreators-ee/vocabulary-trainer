@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Töötan kontoris kella üheksani viieni.",
-    "Kontorid on suletud pühapäeviti.",
-    "Meie uus kontor asub kesklinnas."
+    "Mina töötan kontoris.",
+    "Ta peab käima kontoris hommikuti.",
+    "Kontoris on palju inimesi."
   ],
   "translation": [
-    "in the office",
-    "at work"
+    "in the office"
   ],
-  "context": "The word 'kontoris' is the Estonian inessive case form of 'kontor', meaning 'office'. It indicates location or state - being inside an office or at a workplace. This case form typically ends with '-s' and shows where something is located or takes place."
+  "context": "The word 'kontoris' is the Estonian locative case of 'kontor', meaning 'office'. The '-is' ending indicates location - it means 'in the office' or 'at the office'. This is a common way to express location in Estonian grammar."
 }

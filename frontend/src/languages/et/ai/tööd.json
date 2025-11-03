@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tema tööd on väga head.",
-    "Mul on palju tööd teha.",
-    "Õpilased tegid oma tööd hästi."
+    "Kellelgi on palju tööd tegemist.",
+    "Perenaisel on käed-jalad täis töid.",
+    "Mul endal on hädasti tööde tegemist."
   ],
   "translation": [
     "work",
-    "job",
-    "task",
-    "labor"
+    "tasks",
+    "chores",
+    "business"
   ],
-  "context": "The word 'tööd' is the plural form of 'töö' in Estonian, meaning work, job, task, or labor. It can refer to multiple pieces of work, various jobs, or tasks that need to be completed. In Estonian grammar, adding '-d' to a noun typically makes it plural, so tööd represents multiple works or jobs rather than a single one."
+  "context": "The word 'tööd' is the partitive singular and nominative plural form of the Estonian noun 'töö'. It can refer to work, tasks, chores, or business that needs to be done. In its plural form (nominative plural), it refers to multiple works or tasks. In the partitive singular case, it indicates an amount or portion of work."
 }

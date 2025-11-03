@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Unustasin meelestama.",
-    "Te unustasite võtmed autole.",
-    "Meie unustasime kohtumise."
+    "Unustasid oma võtmed?",
+    "Me unustasid selle kohtumise.",
+    "Ta unustasid meelde jätta oma kingad."
   ],
   "translation": [
     "forgot",
-    "have forgotten"
+    "did not remember",
+    "left out of mind"
   ],
-  "context": "The word 'unustasid' is the second person plural past tense form of the Estonian verb 'unustama', which means 'to forget'. It specifically refers to a group of people (you all) who forgot something in the past. The root verb 'unustama' can be conjugated for different persons and tenses: unustan (I forget), unustad (you singular forget), unustas (he/she/it forgot), etc."
+  "context": "The word 'unustasid' is the past tense plural form of the Estonian verb 'unustama', meaning 'to forget'. It specifically refers to a situation where multiple people forgot something in the past. The stem 'unust-' relates to forgetting or memory loss, and the suffix '-asid' indicates past tense and plural subject (you/they forgot)."
 }

@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Sinun täytyy tulla myöhemmin.",
-    "Olen iloinen sinusta.",
-    "Tämä on sinun talosi."
+    "Sinun äitisi on 45-vuotias.",
+    "Tämä kirja on sinun.",
+    "Sinun pitää tehdä tämä nyt."
   ],
   "translation": [
-    "your (singular informal)",
-    "you possessive singular"
+    "your",
+    "yours"
   ],
-  "context": "The Finnish word 'sinun' is the possessive form of the pronoun 'sinä' meaning 'you'. It's used to indicate that something belongs to or relates to the person being addressed in an informal way. In Finnish, possessive pronouns change depending on the relationship between the speaker and the listener (formal vs. informal) and number (singular vs. plural). 'Sinun' specifically indicates possession by a single person being spoken to informally."
+  "context": "The word 'sinun' is the genitive singular form of 'sinä', which means 'you'. It functions as a possessive pronoun, indicating ownership or association. The -si suffix denotes possession specifically related to 'you'. It can also be used in some dialects as an accusative singular, but this usage is dated and less common.  The word translates to 'your' or 'yours' in English."
 }

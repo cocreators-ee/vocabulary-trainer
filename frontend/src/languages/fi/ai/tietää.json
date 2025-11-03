@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tiedän vastauksen tähän kysymykseen.",
-    "Hän ei tiedä minun menneisyyttäni.",
-    "He tietävät kaiken siitä tapahtumasta."
+    "Minä tiedän hänen nimensä.",
+    "Tiedätkö missä kirjasto on?",
+    "Hän ei tiennyt vastausta."
   ],
   "translation": [
     "to know",
     "be aware of",
-    "have knowledge of"
+    "mean",
+    "spell"
   ],
-  "context": "The Finnish verb 'tietää' means 'to know' in English. It is used to express having information, awareness, or knowledge about something. This verb indicates a state of knowing rather than the process of learning or acquiring knowledge (which would use 'oppia'). 'Tietää' is conjugated according to person and number, like most Finnish verbs."
+  "context": "The Finnish verb 'tietää' means 'to know'. It is a transitive verb, meaning it takes a direct object. The English translation can be either 'to know' or 'to be aware of', depending on the context.  It can also mean 'to spell' or 'to signify'. The word has irregular past participle forms: 'tiennyt' is much more common than 'tietänyt'. The form 'tiesi' is the third-person singular past tense."
 }

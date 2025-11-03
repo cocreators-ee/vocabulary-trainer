@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Töötan haiglas.",
-    "Ta käib regulaarselt haiglas kontrollis.",
-    "Haiglas on hästi varustatud labor."
+    "Misin haiglas eile.",
+    "Töötan haiglas õena.",
+    "Haiglas on hea personali."
   ],
   "translation": [
-    "in hospital",
-    "at the hospital",
-    "in a medical facility"
+    "in the hospital",
+    "at the hospital"
   ],
-  "context": "The Estonian word 'haiglas' is an inessive case form of the noun 'haigla', meaning 'hospital'. The '-s' ending indicates location within something, so it translates to 'in hospital' or 'at the hospital'. This is the standard way to express being located inside a hospital building in Estonian."
+  "context": "The word 'haiglas' is the inessive case form of 'haigla', meaning 'hospital'. It indicates location within or at a place. This is a locative case in Estonian that shows where something happens or someone/something is located."
 }

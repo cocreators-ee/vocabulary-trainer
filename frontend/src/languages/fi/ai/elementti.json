@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tässä on yksi elementti tärkeästä kokonaisuudesta.",
-    "Kemiassa vesi on happea ja vetyä sisältävä elementti.",
-    "Suunnittelussa jokainen elementti tulee olla harmoniassa muiden kanssa."
+    "Uusi elementti lisättiin rakennukseen.",
+    "Talo on rakennettu elementeistä.",
+    "Elementin koko oli sopiva."
   ],
   "translation": [
     "element",
     "component",
-    "factor"
+    "module",
+    "section"
   ],
-  "context": "The Finnish word 'elementti' is a loanword from English 'element'. It refers to a basic constituent part of something larger, or one of the fundamental substances that make up matter. In different contexts, it can mean an individual component in a system, a chemical element, or a fundamental aspect or ingredient."
+  "context": "The Finnish word 'elementti' refers to a prefabricated component or section, often used in construction. It can also mean an abstract element as in a set of elements. The word declines based on case and number; the provided dictionary definitions detail these forms extensively, including possessive variations (e.g., 'elementtini' - my element).  The suffix '-ti' is typical for nouns in Finnish."
 }

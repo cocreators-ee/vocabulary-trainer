@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on hääd ühendust sinuga.",
-    "Teiega saame head ühendust.",
-    "Kas teil on head ühendust?"
+    "Haiged isoleeriti tervestest.",
+    "Nakkushaige laps tuleb isoleerida kas haiglasse või omaette ruumi.",
+    "Ta isoleeris enda terveks päevaks oma töötuppa."
   ],
   "translation": [
-    "contact",
-    "connection",
-    "communication"
+    "to isolate",
+    "separate",
+    "insulate"
   ],
-  "context": "The word 'ühendust' is the partitive case form of the Estonian noun 'ühendus', which means 'connection', 'contact', or 'communication'. In the partitive case, it often indicates partialness, ongoing action, or object status. It's commonly used in phrases about maintaining contact with someone, establishing connections, or referring to communication channels."
+  "context": "The word 'ühendust' appears to be a form of the Estonian verb 'ühendama', which means 'to connect'. However, based on the dictionary definitions provided for related words like 'isoleerima', there seems to be some confusion in the data. The dictionary shows definitions for 'isoleerima' (meaning 'to isolate'), but this doesn't match with what would typically be expected from 'ühendust', which derives from a root meaning 'connection'. Without more context, it's difficult to determine if this is an error in the data or if there's a specialized usage. Based on the word form 'ühendust', which appears to be partitive case of 'ühendus' (connection), it would typically relate to concepts like connection, contact, or link."
 }

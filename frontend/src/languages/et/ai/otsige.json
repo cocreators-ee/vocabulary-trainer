@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Otsige head kohta ööbimiseks.",
-    "Palun otsige oma nimesid sellelt listilt.",
-    "Kes teie perega otsite?"
+    "Otsige üles meie töökoja juhataja Järvak.",
+    "Vormistamise [tööle] teeme kaadrites ära."
   ],
   "translation": [
-    "search for",
     "look for",
-    "seek out"
+    "find"
   ],
-  "context": "The word 'otsige' is the plural imperative form of the verb 'otsima', which means 'to search' or 'to look for'. It's used when addressing multiple people directly, giving them an instruction to search or look for something. The root 'ots-' relates to searching or looking, and the '-i-' connects the stem to the ending, with '-ge' being the plural imperative suffix."
+  "context": "The word 'otsige' is the imperative plural form of the Estonian verb 'otsima', which means 'to look for' or 'to find'. In the provided example sentence, it appears in a context where someone is being asked to find the workshop manager. This is a directive instruction given to multiple people (the '-ge' ending indicates plural imperative)."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Täna õhtul meil on õhtusöök kodus.",
-    "Kas sa tuled ka õhtusöögile?",
-    "Õhtusöök oli väga hea."
+    "Õhtusöögiks pakuti kala.",
+    "Kutse pidulikule õhtusöögile.",
+    "Meil oli hea õhtusöök restoranis."
   ],
   "translation": [
     "dinner",
-    "evening meal"
+    "evening meal",
+    "supper"
   ],
-  "context": "The word 'õhtusöök' is a compound noun in Estonian. It consists of two parts: 'õhtu' (evening) and 'söök' (meal). This literally translates to 'evening meal'. In English, this would most commonly be referred to as 'dinner', which is typically the main evening meal in many cultures. The word specifically denotes a meal consumed in the evening or at night."
+  "context": "Õhtusöök is an Estonian noun that literally translates to 'evening food'. It refers specifically to the evening meal or dinner, which in many cultures is the main meal of the day. The word combines 'õhtu' (evening) and 'söök' (meal/food), making it a compound noun describing what is eaten in the evening hours."
 }

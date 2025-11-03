@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kõrgus mäe tipul on üle tuhande meetri.",
-    "Tolmu kõrgus õhus oli väga suur täna hommikul.",
-    "Lennuki kõrguse muutmine toimub automaatselt."
+    "Puu kõrgus on viis meetrit.",
+    "Lennuk lendab suures kõrguses.",
+    "Kõrgushüpete rekord on 2.36 meetrit."
   ],
   "translation": [
     "height",
     "altitude",
-    "elevation"
+    "high jump",
+    "majesty"
   ],
-  "context": "The Estonian word 'kõrgus' means height, altitude or elevation in English. It refers to the measurement of how high something is above a reference point. This can be used for physical heights of objects (like mountains, buildings), as well as altitude when referring to aircraft or geographical elevations."
+  "context": "The Estonian word 'kõrgus' has multiple meanings depending on context: it can refer to physical height or altitude (the distance from bottom to top, or from ground level), in athletics it means high jump, it can also refer to the towering heights of space/firmament, and historically it was used as a respectful term for monarchs and rulers. The word changes form based on case - e.g., genitive 'kõrguse', partitive 'kõrgust'."
 }

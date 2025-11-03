@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Kontrollime meie tegevuskava.",
-    "Peate kontrollima oma dokumente.",
-    "Kas sa kontrollisid juba selle aruande?"
+    "Revident kontrollis asutuse raamatupidamist.",
+    "Õpetaja kontrollis õpilaste koduseid tööd.",
+    "Arst kontrollib haige kopse, nägemist."
   ],
   "translation": [
     "to check",
+    "to inspect",
     "to verify",
-    "to inspect"
+    "to examine",
+    "to control"
   ],
-  "context": "The Estonian verb 'kontrollima' is an infinitive form that means to check, verify, or examine something. It's a common word used in everyday contexts when you need to ensure accuracy or proper functioning of something. The verb follows the regular conjugation pattern for -ma verbs in Estonian."
+  "context": "The Estonian verb 'kontrollima' has multiple related meanings: 1) to check or verify something against requirements or rules to determine if it's correct (like checking accounting, student homework, patient lungs); 2) to establish or determine something (like checking if a passport is present, checking someone's identity); 3) to control, have under one's influence, or maintain power over something (like controlling territory, an economy, or one's own emotions). It can be used in various contexts from formal inspections to personal verification exercises."
 }

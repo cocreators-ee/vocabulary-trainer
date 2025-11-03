@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on lopullinen versio raportista.",
-    "Olemme päässeet lopulliseen päätökseen.",
-    "Hän teki lopullisen valinnan."
+    "Päätös oli lopullinen.",
+    "Hän teki lopullisen valinnan.",
+    "Tutkimuksen tulokset ovat lopullisia."
   ],
   "translation": [
     "final",
     "ultimate",
-    "definitive"
+    "definitive",
+    "decisive"
   ],
-  "context": "The Finnish word 'lopullinen' is an adjective meaning 'final', 'ultimate', or 'definitive'. It refers to something that is last, conclusive, or brings a process to completion. The word comes from 'loppu' (end) plus the suffix '-inen' which indicates quality or state."
+  "context": "The word 'lopullinen' is an adjective meaning final, ultimate, or definitive. It indicates something that is conclusive and not subject to change. The -llinen suffix turns the noun 'loppu' (end) into an adjective.  It declines based on case and number; the provided dictionary definitions show nominative, genitive, partitive, and other cases for both singular and plural forms. Possessive forms are also available, indicating who owns something that is final."
 }

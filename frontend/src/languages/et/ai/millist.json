@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Millist raamatut sa otsid?",
-    "Millise auto soovite osta?",
-    "Millist teed peaksin minema?"
+    "Millist raamatut soovite lugeda?",
+    "Millist autot te olete ostmas?",
+    "Millist toitu me praegu sööme?"
   ],
   "translation": [
-    "which",
-    "what kind of",
-    "of what sort"
+    "which one",
+    "what kind of"
   ],
-  "context": "The word 'millist' is an interrogative pronoun in Estonian, specifically the partitive singular form. It's used to ask for specific information or choices among options, similar to asking 'which one?' or 'what kind?'. The '-st' ending indicates it's in the partitive case, which is commonly used with certain types of questions and negations."
+  "context": "The word 'millist' is the partitive singular form of interrogative pronoun 'milline', meaning 'which one' or 'what kind'. It's used when asking about a specific instance among many possibilities, and in Estonian it appears in the partitive case to indicate selection from multiple options. The dictionary shows it relates to rights/privileges ('eesõigused'), but this appears to be separate examples using that word rather than defining 'millist' itself."
 }

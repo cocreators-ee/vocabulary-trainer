@@ -2,12 +2,12 @@
   "understood": true,
   "sentences": [
     "Olen oodanud teid kolm minutit.",
-    "See kestab vaid ühe minuti.",
-    "Mitu minutit on kell?"
+    "Lõpetame selle minuti pärast.",
+    "Kui palju minutit on kell?"
   ],
   "translation": [
-    "minute (as in time)",
-    "minutes"
+    "minutes",
+    "minute"
   ],
-  "context": "The Estonian word 'minutit' is the partitive case form of the noun 'minut', which means 'minute'. The partitive case is commonly used with units of time, especially when referring to an unspecified or indefinite duration. It's similar to saying 'some minutes' or just 'minutes' in English without specifying an exact number."
+  "context": "The word 'minutit' is the partitive case of the Estonian word 'minut', which means 'minute'. In Estonian, nouns change their form depending on grammatical case and number. The partitive case (ending -t) is often used to indicate a portion or quantity of something, or in certain time expressions. Here it's used as a direct object following numbers indicating duration."
 }

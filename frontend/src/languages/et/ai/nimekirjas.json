@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ta oli nimekirjas.",
-    "Kõik osalejad on nimekirjas.",
-    "Palun kontrollige oma nimekirja."
+    "Töödejuhataja kiskus töötasust, palgast maha.",
+    "Vanad hooned kistakse maha ja ehitatakse uued asemele.",
+    "Kiskus nimekirjast mitu nime maha."
   ],
   "translation": [
-    "on the list",
-    "in the list",
-    "listed"
+    "take down",
+    "pull down",
+    "remove from list",
+    "cross off"
   ],
-  "context": "The Estonian word 'nimekirjas' is an adessive case form of the noun 'nimekiri', meaning 'list'. It indicates that someone or something is located on or included in a list. The -s at the end indicates the adessive case, which often translates to 'on/with/in' in English."
+  "context": "The word 'nimekirjas' appears to be in the instrumental case form of 'nimekiri' (list), meaning 'from the list'. In context, it indicates that something was removed or taken away from a list. For example, when someone 'takes names down from the list', they are removing those entries."
 }

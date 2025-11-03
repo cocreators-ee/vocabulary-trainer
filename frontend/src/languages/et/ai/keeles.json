@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Eestis räägitakse eesti keeles.",
-    "Ta osab vaid kahte keeles: eesti ja vene.",
-    "Kas sa saad aru selles keeles?"
+    "Meremeeles kasutatakse palju eriterminoloogiat.",
+    "Olen alustanud uue keele õppimist ja praegu räägin vaid ühte keeles.",
+    "See raamat on kirjutatud hea keelega."
   ],
   "translation": [
-    "in the language",
-    "in languages"
+    "in language",
+    "in a language",
+    "by means of language"
   ],
-  "context": "'Keeles' is an Estonian word that means 'in the language' or 'in languages'. It is in the partitive case, indicating that something exists within a specific language. In Estonian grammar, nouns change their form depending on the grammatical case required by the sentence structure. The base form of this word is 'keel', which means 'language'."
+  "context": "The word 'keeles' is the inessive case form of the Estonian noun 'keel', which means 'language'. The -s ending indicates location within or in something, so 'keeles' specifically means 'in language' or 'in a language'. It's used to indicate that someone is using, speaking, or expressing themselves through a particular language."
 }

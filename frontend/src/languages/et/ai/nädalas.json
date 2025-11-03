@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Töötan nädalas kolm päeva.",
-    "Koolis on palju tööd nädalas.",
-    "Me kohtume järgmisel nädalas."
+    "Nädalas on kolm päeva tööd ja kaks puhkust.",
+    "Töölt tulles käis nädalasi poe külas.",
+    "Kui oled nädalas, võid koju minna."
   ],
   "translation": [
     "during the week",
-    "in a week",
-    "weekly"
+    "on weekdays",
+    "in a working day"
   ],
-  "context": "The word 'nädalas' is an Estonian adverb that means 'during the week' or 'in a week'. It's formed from the root word 'nädala' (week) with the '-s' suffix indicating location or time. This form suggests something happening within the timeframe of a week rather than on specific days."
+  "context": "The Estonian word 'nädalas' is an adverb that refers to time during the week or on weekdays. It comes from the root word 'nädala' (week) with the '-s' suffix indicating location or time. In Estonian grammar, this form indicates temporal position within a week period rather than specifically weekends."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kissa on pitkällä pyrstöllä.",
-    "Lintu heilutti pyrstöään tuulessa.",
-    "Eläimen pyrstö oli väriltään ruskea."
+    "Linnulla on pitkä pyrstö.",
+    "Kalalla oli kaunis, hopeinen pyrstö.",
+    "Lentokoneen pyrstö vaurioitui laskeutumisen aikana."
   ],
   "translation": [
     "tail",
-    "rudder"
+    "rear end",
+    "afterpart"
   ],
-  "context": "In Finnish, 'pyrstö' means tail or rudder. It refers to the appendage at the rear of animals (like cats, dogs, birds) or the steering mechanism on boats/aircraft. The word can be used for both biological tails and mechanical rudders."
+  "context": "The Finnish word 'pyrstö' refers to the tail of an animal (bird or fish) or the tail section of an airplane. It can be translated as 'tail', 'rear end', or 'afterpart'. The word declines based on case, with different forms for singular and plural, and possessive suffixes indicating ownership. For example, 'pyrstön' is the genitive form meaning 'of the tail', while 'pyrstöni' means 'my tail'."
 }

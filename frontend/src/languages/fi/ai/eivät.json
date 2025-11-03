@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "He eivät tule huomenna.",
-    "Ei kukaan eivät tietänyt vastaukseen.",
-    "Lapset eivät halua mennä kouluun."
+    "He eivät puhu englantia.",
+    "Eivät he ole tulossa?",
+    "Minä en usko, että he eivät tiedä."
   ],
   "translation": [
-    "do not",
-    "does not",
-    "don't",
-    "doesn't"
+    "they do not",
+    "are not",
+    "don't"
   ],
-  "context": "'Eivät' is the 3rd person plural negative verb form in Finnish, equivalent to 'they do not/they don't'. It's used with plural subjects and follows the same conjugation pattern as other negated verbs in Finnish. The word is formed by adding the negative marker 'ei-' to the personal pronoun suffix for 3rd person plural."
+  "context": "The word 'eivät' is the third-person plural negative form of the verb 'ei', which means 'to be'. It translates to 'they do not' or 'are not' in English. It’s used to express negation for the pronoun 'he' (they) in a sentence."
 }

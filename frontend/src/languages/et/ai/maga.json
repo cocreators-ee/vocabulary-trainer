@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Maga hästi öösel.",
-    "Ta magab veel.",
-    "Lapsed on hea magajad."
+    "Ei maga öösel.",
+    "Laps ei maga hästi.",
+    "Tema ei maga kunagi."
   ],
   "translation": [
     "sleep",
-    "be asleep"
+    "be asleep",
+    "rest"
   ],
-  "context": "The word 'maga' is the basic form of the verb meaning 'to sleep' in Estonian. It's used to describe the action of sleeping or being in a state of sleep. In different conjugations, it can appear as 'magab' (he/she/it sleeps), 'magame' (we sleep), 'maga' (imperative: sleep!), etc."
+  "context": "'Maga' is the present indicative connegative form of the Estonian verb 'magama', which means to sleep. It is used in negative sentences and questions, similar to how English uses 'doesn't sleep' or 'don't sleep'. The connegative form in Estonian is formed by adding '-i' to the main verb stem when negated with 'ei'. So 'maga' specifically refers to not sleeping or being asleep in present tense."
 }

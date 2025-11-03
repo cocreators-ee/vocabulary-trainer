@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minun sydämeni on täynnä rakkautta.",
-    "Sydämesi on hyvänlaatuinen.",
-    "Hänellä on vahva sydän."
+    "Minulla on raskas sydän.",
+    "Sydämeni särkyi kun kuulin uutiset.",
+    "Lääkäri tutki hänen sydämensä."
   ],
   "translation": [
     "heart",
-    "center",
-    "core"
+    "core",
+    "feelings",
+    "emotions"
   ],
-  "context": "In Finnish, 'sydän' means 'heart' and can refer to either the physical organ or metaphorically to the center/core of something. It's a common noun in Finnish language that appears in various contexts, from medical descriptions to emotional expressions."
+  "context": "The word 'sydän' in Finnish means 'heart'. It can refer to the physical organ, but also figuratively to one’s feelings and emotions. The word declines based on case; for example, 'sydämen' is the genitive form meaning 'of the heart', and 'sydämeen' is the illative form meaning 'into the heart'. It can also be used in possessive forms like 'sydämeni' which means 'my heart'. The dictionary definitions show a wide range of compounds using this word, such as 'reaktorisydän' (reactor core) and 'sydänsairaus' (heart disease)."
 }

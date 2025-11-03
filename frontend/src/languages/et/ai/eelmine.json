@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Eelmine päev oli pikk",
-    "Ta meenutas eelmist aastat",
-    "Me arutasime eelmist juhtumit"
+    "Eelmisel hommikul saavisin ma head tulemused.",
+    "See on eelmine laulupidu, kus olen osalenud.",
+    "Olen võtnud osa kahest eelmisest koosolekust."
   ],
   "translation": [
     "previous",
-    "last",
     "former",
-    "preceding"
+    "last"
   ],
-  "context": "The Estonian word 'eelmine' is an adjective that means 'previous', 'last', or 'former'. It refers to something that came before in time or sequence. The word can be used for days, years, events, people, or any noun that has a preceding counterpart in a sequence."
+  "context": "The Estonian word 'eelmine' is an adjective that means something that occurred before the current moment in time. It refers to what came earlier or what existed prior to the present situation. The word changes form depending on its grammatical function - it has different endings for cases (nominative, genitive, partitive) and numbers (singular/plural). For example, 'eelmise' is the genitive singular form used with prepositions like 'varem enne' or in constructions showing time relationships."
 }

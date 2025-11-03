@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Millised on sinu lemmikvärvid?",
-    "Millised sa tunned selle kohta?",
-    "Millised asjad teevad õnnelikuks?"
+    "Millised numbrud võidavad loosimisel?",
+    "Võib-olla millised need ongi õiged vastused.",
+    "Ei tea täpselt millised asjad ta seal tegi."
   ],
   "translation": [
+    "which",
     "what kind of",
-    "which ones"
+    "such that"
   ],
-  "context": "The word 'millised' is the plural form of 'milline' in Estonian. It's used to ask questions about what type or which items/something refers to, functioning as an interrogative pronoun that means 'what kind of' or 'which ones'. The -d ending indicates it's in plural form and typically follows a verb or stands alone in questions."
+  "context": "The Estonian word 'millised' is an interrogative pronoun used to ask about or identify specific things, people, or characteristics. It functions similarly to English 'which' or 'what kind of'. In the context provided from the dictionary definition, it specifically refers to asking which numbers will win in a lottery drawing."
 }

@@ -2,13 +2,13 @@
   "understood": true,
   "sentences": [
     "Kuhu sa lähed?",
-    "Minu kodukoha nimi on Tallinn.",
-    "Ta ei tea kuhu ta peaks minema."
+    "Kuhu ta raamatu pani?",
+    "Läheksin siit ära, aga kuhu?"
   ],
   "translation": [
     "where",
     "to where",
-    "whither"
+    "into which place"
   ],
-  "context": "The Estonian word 'kuhu' is an interrogative adverb that means 'where' or 'to where'. It's used to ask about a location or destination. In Estonian grammar, it's formed by adding the allative case ending '-u' to the root 'koh-' (place/location). This makes it specifically indicate direction toward a place rather than just location like 'kus' (where)."
+  "context": "The Estonian word 'kuhu' is an interrogative and relative adverb meaning 'where' or 'to where'. It's used to ask about destination or direction of movement. As shown in the dictionary definitions, it functions as a question word asking 'to what place/destination' and can also introduce relative clauses indicating destination. In some expressions, it can refer to an unspecified place toward which movement is directed."
 }

@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Lattia on märkä.",
-    "Siirrä tuoli pois lattiasta.",
-    "Lattian puhdistaminen vaatii aikaa."
+    "Lattialla on pölyä.",
+    "Pesin lattian eilen.",
+    "Uusi aluslattia asennettiin."
   ],
   "translation": [
     "floor",
-    "ground",
-    "base"
+    "ground"
   ],
-  "context": "The Finnish word 'lattia' means floor in English. It refers to the surface on which one walks or stands inside a building. In Finnish grammar, it's a noun that follows normal declension patterns for common gender words (it doesn't have grammatical gender but declines similarly). When used in different cases, it can indicate location ('lattialla' - on the floor), destination ('lattialle' - to the floor), or other spatial relationships. The word is commonly used in everyday Finnish when talking about building interiors, cleaning, movement within rooms, and architectural descriptions."
+  "context": "The word 'lattia' in Finnish means 'floor'. It refers to the bottom surface of a room. The word declines based on case, and possessive suffixes can be added to indicate ownership. For example, 'lattiani' means 'my floor', and 'lattiamme' means 'our floor'."
 }

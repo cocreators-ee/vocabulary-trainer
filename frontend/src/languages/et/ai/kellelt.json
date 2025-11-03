@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Kellelt sa selle said?",
-    "Kellelt see meil tuli?",
-    "Mist kellelt ta võtsid need andmed?"
+    "Kellelt sa sellest teada said?",
+    "Ta küsis kellelt abi.",
+    "Ma ei tea, kellelt ta seda laenu võttis."
   ],
   "translation": [
     "from whom",
-    "from who",
-    "whom...from"
+    "whose"
   ],
-  "context": "The Estonian word 'kellelt' is an interrogative pronoun in the elative case, meaning it asks about the origin or source of something. It's formed from the stem 'kel-' (who/whom) with the '-lt' suffix indicating movement away from a location or person. This form is specifically used when asking who someone/something came from, who gave something, or who provided information."
+  "context": "The Estonian word 'kellelt' is an interrogative-adverbial form that means 'from whom' or 'whose'. It's used to ask about the source or origin of something, specifically asking which person something came from. This word follows the genitive case pattern and is commonly used in questions when you want to know who gave/sold/told/gave you something."
 }

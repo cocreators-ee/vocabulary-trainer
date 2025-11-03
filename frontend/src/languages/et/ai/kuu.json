@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kuu paistab öisel taevastel.",
-    "Kuu on Maa looduslik kaaslane.",
-    "Kuuvalgus heidab vari."
+    "Kuu paistab aknast sisse.",
+    "Aastas on kaksteist kuud.",
+    "Ta oli kolmandat kuud rase."
   ],
   "translation": [
-    "moon"
+    "moon",
+    "month",
+    "satellite"
   ],
-  "context": "The word 'kuu' in Estonian means moon. It's a common noun referring to Earth's natural satellite. In Estonian, it follows the grammatical rules for nouns and can be declined in different cases depending on its role in a sentence (e.g., nominative case 'kuu', genitive case 'koo', partitive case 'kuud'). The word is also used in compound words and expressions related to the moon or lunar phenomena."
+  "context": "The Estonian word 'kuu' has multiple meanings depending on context. It can refer to the Earth's moon (the celestial body), a month as a period of time, or any natural satellite of a planet in astronomical contexts. As the moon, it describes our natural satellite that orbits Earth and phases like waxing/waning moons. As 'month', it refers to calendar months or approximately 30-day periods."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Vajuta siia nuppu",
-    "Mida ta vajutas?",
-    "Tuleks vajutada kaks korda"
+    "Vajuta hiire parempoolset nuppu.",
+    "Palun vajuta seda nuppu.",
+    "Kas sa võiksid vajuta ekraanil?"
   ],
   "translation": [
+    "click",
     "press",
-    "push",
-    "click"
+    "push"
   ],
-  "context": "The word 'vajuta' is the imperative form (command) of the verb 'vajutama', which means to press, push or click. It's used when telling someone to perform an action on a button, key, or object that requires pressing with fingers."
+  "context": "The word 'vajuta' is the imperative form of the Estonian verb 'vajuma/vajutama', which means 'to press' or 'to push'. It's commonly used in digital contexts to instruct someone to click a button, mouse, or touchscreen. In the dictionary definition provided, it appears in the context computer usage: 'Vajuta hiire parempoolset nuppu' meaning 'Click the right mouse button'."
 }

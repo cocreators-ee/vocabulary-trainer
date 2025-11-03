@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Oma kodu on kõige ilusam.",
-    "Tema oma auto on punane.",
-    "Meie oma maja ehitame suvel."
+    "Linna tuleb siit oma 30 km.",
+    "Kala oli oma viis kilo raske.",
+    "Oma kümme meest võis seal küll olla kuni rohkem."
   ],
   "translation": [
-    "one's own",
-    "personal",
-    "own"
+    "own",
+    "at least",
+    "as much as",
+    "fully",
+    "completely"
   ],
-  "context": "In Estonian, 'oma' is a possessive pronoun that means 'one's own' or 'own'. It indicates possession in the third person but refers back to the subject of the sentence. For example, 'Oma kodu on kõige ilusam' means 'One's own home is the most beautiful.' The word 'oma' agrees with the noun it modifies in case and number."
+  "context": "The word 'oma' in Estonian has multiple meanings depending on context. It can be used as an adjective meaning 'own', and also as an adverb meaning 'at least', 'as much as', or emphasizing quantity with words like 'fully' or 'completely'. As shown in the dictionary examples, it's often used to emphasize amounts, distances, quantities or durations."
 }

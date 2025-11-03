@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lennukile tuli palju külastajaid.",
-    "Meie pere lendas lennukile Saksamaale.",
-    "Sellel lennukile on kõige mugavam istekoht."
+    "Check-in algab kaks tundi enne lennuki väljumist.",
+    "Lennukile registreerimiseks tuleb pöörduda check-in'i.",
+    "Hotell võib nõuda varajase check-in'i eest lisatasu."
   ],
   "translation": [
-    "on the airplane",
-    "onto the airplane",
-    "to the airplane"
+    "check-in",
+    "registration",
+    "counter"
   ],
-  "context": "The word 'lennukile' is an Estonian inessive-form noun that means 'on the airplane' or 'onto/to the airplane'. It's formed from the root word 'lennuk' (airplane) with the '-le' suffix, which indicates movement towards or location on something. The '-le' case is used to express direction toward or onto a surface, similar to English prepositions like 'to', 'onto', or 'on' when referring to transportation vehicles."
+  "context": "The word 'lennukile' is part of the phrase 'registreerimine lennukile', which means 'registration onto a plane'. It's used in the context of airport procedures where passengers register themselves for their flight. The word appears in dictionary definitions as part of this compound expression, indicating it refers to the process or location where one checks in for a flight."
 }

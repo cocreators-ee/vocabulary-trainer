@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma ostsin kaks autosid.",
-    "Autosid on heas seisukorras.",
-    "Kes nägi autosid eile?"
+    "Autosid müüakse heas seisukorras.",
+    "Vana autosid lammutatakse uute tootmiseks.",
+    "Töökodas lammutati mitmeid autosid."
   ],
   "translation": [
-    "cars (partitive)",
-    "vehicles (partitive)"
+    "cars",
+    "vehicles",
+    "automobiles"
   ],
-  "context": "The word 'autosid' is the partitive form of 'auto' (car/vehicle) in Estonian. The partitive case is used to indicate partialness or indefiniteness, and is commonly used with numbers less than one or when referring to objects in a general sense without specifying exact quantity. In this plural form, it would typically be used when talking about some cars or vehicles, but not all of them."
+  "context": "The word 'autosid' is the partitive plural form of 'auto' (car) in Estonian. In the partitive case, it indicates an unspecified quantity or incomplete action related to cars. It can refer to multiple cars without specifying exactly how many, and is often used when talking about actions performed on cars like dismantling, selling, or repairing them. The dictionary definition mentions a workshop where autosid are dismantled and their usable parts are traded."
 }

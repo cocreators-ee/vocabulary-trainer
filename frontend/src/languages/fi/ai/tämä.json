@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on kirja.",
-    "Näin tämän elokuvan eilen.",
-    "Pidän tästä paikasta."
+    "Mikä tämä on?",
+    "Tätä tehdessä ei kyllä tule syötyä.",
+    "Tämä oli mukava kuulla."
   ],
   "translation": [
     "this",
-    "these"
+    "that"
   ],
-  "context": "The Finnish word 'tämä' is a demonstrative pronoun that means 'this' when referring to something singular and nearby. It can also function as an adjective modifying nouns. The word has different forms depending on the case it's used in: tämä (nominative), tätä (partitive), tämän (genitive), etc. It's one of the most basic and frequently used words in Finnish for pointing out or identifying specific things or people."
+  "context": "The Finnish word 'tämä' is a demonstrative pronoun meaning 'this'. It can also refer to 'that', depending on the context.  It declines through various cases, as shown in the dictionary definition, and has different forms for singular and plural (nämä). The word indicates proximity; things considered nearby or proximal are referred to with 'tämä' while more distant things use other demonstratives like 'tuo'. It can also be used as a determiner meaning 'this'."
 }

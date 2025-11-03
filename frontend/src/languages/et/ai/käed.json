@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kaks käed on külmad.",
-    "Tema käed on väga töökas.",
-    "Lapsed mängivad oma kätega."
+    "käed jäävad lühikeseks",
+    "igalt poolt käed lühikeseks",
+    "käed on lühikesed"
   ],
   "translation": [
-    "hands"
+    "hands remain short",
+    "hands are short from all sides",
+    "are short-handed"
   ],
-  "context": "The word 'käed' is the plural form of 'käsi', which means 'hand' in English. In Estonian, nouns change their endings to indicate plurality, and '-d' is a common ending for plural nouns. This word specifically refers to hands (plural) rather than a single hand."
+  "context": "In Estonian, 'käed' (plural form of 'kätt' meaning hand) in the expression 'käed jäävad lühikeseks' means to be limited or restricted in resources, abilities, or influence. It's similar to English expressions like being 'short-handed' or having limited reach/ability. The phrase often describes situations where someone lacks sufficient power, resources, or capabilities to achieve something."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä lehti on uusi painatus.",
-    "Painatuksen laatu oli hyvä.",
-    "Hän työskentelee painatuksessa."
+    "Uusi kirja on painatus vuodelta 2023.",
+    "Tässä lehdessä on korkealaatuinen painatus.",
+    "Painatus oli virheetön."
   ],
   "translation": [
-    "printing",
     "print",
-    "printed material"
+    "printing",
+    "impression"
   ],
-  "context": "The Finnish word 'painatus' refers to the process of printing or printed materials. It is derived from the verb 'painaa' (to press/print) with the suffix '-us', which in Finnish often indicates a process or result. This noun typically describes the action of putting ink on paper through mechanical means, or it can refer to the printed products themselves."
+  "context": "The word 'painatus' in Finnish refers to the act or result of printing, such as a picture or text created by pressing ink onto a surface. It can also refer to an edition of a book or other publication. The word is declined based on case, with different forms indicating its role in a sentence (nominative, genitive, partitive etc.). For example 'painatukseni' means 'my print', and 'painatuksemme' means 'our print'. It belongs to the Kotus type 39/vastaus declension group."
 }

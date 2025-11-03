@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lähetyksemme on lähetetty.",
-    "Viesti on jo lähetetty.",
-    "Tiedosto on lähetetty."
+    "Kirje on jo lähetetty.",
+    "Olen lähettänyt sähköpostin.",
+    "Paketti lähetettiin eilen."
   ],
   "translation": [
     "sent",
     "dispatched",
-    "transmitted"
+    "shipped"
   ],
-  "context": "\"Lähetetty\" is the past participle of the Finnish verb \"lähettää\", which means \"to send\" or \"to dispatch\". It indicates that something has been sent, transmitted, or dispatched from one location to another."
+  "context": "The word 'lähetetty' is the past passive participle of the verb 'lähettää', which means 'to send'. It indicates that something *has been sent*. The form shows it can be declined in many different cases, depending on its role in a sentence. For example, 'lähetettyni' means 'having sent (by me)', and 'lähetettysi' means 'sent by you'."
 }

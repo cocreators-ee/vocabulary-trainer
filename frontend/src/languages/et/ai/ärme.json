@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ärmed on pikad.",
-    "Ta tõstis ärmeid üles.",
-    "Tal on suured ärmed."
+    "Ärme midagi!",
+    "Ärge kasutage seda programmi.",
+    "Ärme unusta meid."
   ],
   "translation": [
-    "arms (plural)",
-    "sleeves"
+    "don't (first-person plural)",
+    "do not (we)",
+    "let's not"
   ],
-  "context": "The word 'ärme' is the plural nominative form of Estonian noun 'ärm', which means 'arm'. It can refer to a person's arms or sleeves of clothing. In Estonian, like other Finno-Ugric languages, nouns have different cases and numbers. This is the plural form used when talking about multiple arms or sleeves in the subject position of a sentence."
+  "context": "Ärme is the first-person plural imperative form of the Estonian negative verb 'ei'. It functions as an imperative command telling a group including the speaker not to do something. The word combines the negative prefix 'är-' with the plural ending '-me', creating a 'let's not' or 'don't (we)' construction. This is used when the speaker includes themselves in the prohibition, equivalent to saying 'Let's not...' or 'We must not...'."
 }

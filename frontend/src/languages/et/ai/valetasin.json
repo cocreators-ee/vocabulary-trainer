@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ma valetasin sulle eile.",
-    "Ta valetasin alati tõde.",
-    "Meie laps valetasin koolis."
+    "Vahetasin kaks viiesendist kümnelise vastu.",
+    "Külalised said igale lauale kümnelisi koogi.",
+    "Tema rõõmsus oli kümeline ja meeldiv."
   ],
   "translation": [
-    "I lied",
-    "he/she lied",
-    "the child lied"
+    "ten",
+    "tenth",
+    "ten-unit",
+    "ten-piece"
   ],
-  "context": "The word 'valetasin' is the first person singular past tense form of the Estonian verb 'valema', which means 'to lie'. It specifically translates to 'I lied' in English. The '-sin' suffix indicates the first person singular (I) in past tense, while the root 'valeta-' comes from the verb meaning to tell falsehoods or not speak truthfully."
+  "context": "The word 'kümeline' is an adjective meaning 'ten' or 'tenth'. It can refer to something that has a value of ten units, such as coins (like the Estonian ten kroon coin), banknotes, or objects arranged in groups of ten. In some contexts, it can also describe something characterized by the number ten or composed of ten units. The word 'kümnelist' shown in the example is the partitive case form, which would be used when talking about a portion or quantity of these ten-unit items."
 }

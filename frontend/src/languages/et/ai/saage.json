@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Saage siin istuda.",
-    "Külalised saavad kohe kohale.",
-    "Lapsed saavad varsti kooli."
+    "Saage on toiduvalmistamisel tekkivad jäätmed.",
+    "Kokanduse käigus tekib palju saaget.",
+    "See recipe nõuab vähem saagmete kõrvaldamist."
   ],
   "translation": [
-    "may",
-    "can",
-    "be able to",
-    "get"
+    "sawdust",
+    "wood chips",
+    "waste material from sawing"
   ],
-  "context": "In Estonian, 'saage' is the plural formal imperative form of the verb 'sama', which means 'to get' or 'to be able'. It's used when giving permission or making requests to multiple people in a formal context. The word expresses the idea of allowing someone to do something or granting them access/permission."
+  "context": "Saage is the partitive plural form of 'saag' in Estonian, meaning waste material or byproducts generated during sawing processes, particularly related to woodworking or food preparation where cutting produces scraps and leftovers."
 }

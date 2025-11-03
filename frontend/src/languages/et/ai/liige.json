@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ta on organisatsiooni liige.",
-    "Selle klubiliikmed peavad maksma liikmemaksu.",
-    "Liikmed said teada uutest reeglitest."
+    "Liige on seltsi liige.",
+    "Ta oli noorte liikme komitee liige.",
+    "Kõik liikmed peavad maksma liikmemaksu."
   ],
   "translation": [
     "member",
-    "participant",
-    "component"
+    "part"
   ],
-  "context": "The Estonian word 'liige' can be translated as 'member' when referring to a person belonging to an organization or group, as 'participant' for someone taking part in activities, and as 'component' or 'element' when referring to parts of something. It's the basic form (nominative case) and appears in various contexts such as organizational membership, club participation, and technical components."
+  "context": "The Estonian word 'liige' is a noun that means 'member', referring to a person who officially belongs to a group or organization. It can refer to membership in various types of groups such as clubs, societies, committees, or organizations. The word follows the ÕS type 5 declension pattern with k-gradation, which affects its stem formation and endings in different grammatical cases."
 }

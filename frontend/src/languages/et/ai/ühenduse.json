@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ma võtsin sinuga ühendust.",
-    "Tööandja võtab teiega ühendust lähiaastatel.",
-    "Kas sa oled veel meiega ühenduses?"
+    "Telefonikeskus annab ühenduse automaatselt.",
+    "Olen oodanud ühendust teiega pikemat aega.",
+    "Võta ühendust meie klienditeenindusega."
   ],
   "translation": [
     "connection",
-    "contact",
     "link",
-    "union"
+    "contact",
+    "phone call"
   ],
-  "context": "The Estonian word 'ühenduse' is the genitive singular form of the noun 'ühendus', meaning connection, contact, link, or union. It's commonly used in contexts like establishing communication (taking connection), maintaining relationships (being in connection/link), or referring to physical connections between things."
+  "context": "The word 'ühenduse' is the genitive case of 'ühendus', meaning 'of connection' or 'for connection'. It refers to establishing a connection, link, or contact between two parties. In telecommunications context, it specifically means a phone call or telephone connection. The word can be used in various contexts such as making connections (ühenduse võtmine), waiting for connection (oodanud ühendust), or contacting someone (ühendus võtta)."
 }

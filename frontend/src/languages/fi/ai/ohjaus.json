@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Autojen ohjaus on tärkeä osa liikennettä.",
-    "Ohjaustanko auttaa kuljettajaa ohjaamaan autoa.",
-    "Tämä koneen ohjausjärjestelmä on hyvin kehittynyt."
+    "Elokuvaohjaaja antoi näyttelijöille ohjauksia kohtaukseen.",
+    "Lentäjä suoritti tarkan ohjauksen laskeutuessaan.",
+    "Opettaja antoi oppilaille henkilökohtaista ohjausta tehtävän tekemiseen."
   ],
   "translation": [
+    "direction",
+    "guidance",
     "steering",
     "control",
-    "guidance",
-    "direction"
+    "management"
   ],
-  "context": "In Finnish, 'ohjaus' is a noun that refers to the act of steering, controlling, or guiding something. It comes from the verb 'ohjata' (to steer/control). The word can be used in various contexts such as vehicle steering systems, control mechanisms in machinery, or general guidance and direction."
+  "context": "The Finnish word 'ohjaus' refers to the act of directing, guiding, or controlling something. It can apply to various contexts such as film direction, aviation (steering a plane), or providing guidance to someone. The word is derived from 'ohjata', meaning 'to steer, lead, direct'.  It has different forms depending on grammatical case; for example, 'ohjaukset' is the plural form, indicating multiple instances of direction or guidance."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on puoli leipää.",
-    "Odotan vain puolta tuntia.",
-    "Hän osti puolia kiloa omenoita."
+    "Hän jakoi omenan kahteen puoleen.",
+    "Puoli tuntia on lyhyt aika odottaa.",
+    "Kumman puolen valitset?"
   ],
   "translation": [
     "half",
-    "half a",
-    "30 minutes"
+    "side",
+    "aspect"
   ],
-  "context": "In Finnish, 'puoli' is a versatile word meaning 'half'. It's commonly used to indicate half of something - whether it's half an hour (puoli tuntia), half a kilogram (puolia kiloa), or half of any object. The word changes form depending on what follows it - typically becoming 'puolia' before certain nouns, especially when referring to weight measurements like kilo or gramm."
+  "context": "The Finnish word 'puoli' most commonly means 'half'. It can also refer to a side of something, or an aspect/feature. The word declines depending on its use in the sentence; it has separate forms for singular and plural usage. When referring to two halves, the plural form is used. For example, 'puolet' means 'halves'."
 }

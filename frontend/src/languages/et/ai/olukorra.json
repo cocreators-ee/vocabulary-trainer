@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Olukorra on keeruline.",
-    "Ta lahendas olukorra edukalt.",
-    "Me peame leidma parima lahendi olukorrale."
+    "Olukorra tõttu oli vaja teha otsus.",
+    "Me arutame praegust olukorda.",
+    "Ta tegi head tööd keerulises olukorras."
   ],
   "translation": [
     "situation",
-    "condition",
-    "circumstances"
+    "circumstances",
+    "condition"
   ],
-  "context": "The word 'olukorra' is the genitive singular form of the Estonian noun 'olukord', which means 'situation', 'condition', or 'circumstances'. In Estonian, the genitive case is used to indicate possession, relationship, or sometimes to specify something in relation to another element. Here it's likely being used with a verb like on (is), lahendas (solved), or leidma (to find)."
+  "context": "The word 'olukorra' is the translative case of 'olukord', which means 'situation' or 'conditions'. It's formed by adding '-a' to the genitive singular form, indicating movement to a state or condition. In Estonian grammar, the translative case often expresses becoming something or being in a particular state."
 }

@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Töö algas kell üheksa.",
-    "Mul on palju tööd.",
-    "Ta otsib uut tööd."
+    "Töö on vajalik elatise saamiseks.",
+    "Tal on palju tööd koolis lõpetada.",
+    "Meie töö sai täielikult valmis."
   ],
   "translation": [
     "work",
+    "labor",
     "job",
-    "labor"
+    "employment"
   ],
-  "context": "The Estonian word 'töö' means work or job. It can refer to employment, labor, or the act of working. In different contexts, it can be translated as 'work', 'job', or 'labor'. For example, it can refer to a person's employment ('ta on tööl' - he is at work), physical labor ('raske töö' - hard work), or the general concept of work in daily life."
+  "context": "In Estonian, 'töö' is a versatile word that primarily means work or employment. It can refer to any activity requiring mental or physical effort, the process of working, the result of one's labor (like an artwork or research), or even the functioning/operation of something (like machinery). The noun has specific declension patterns with different forms like 'tööd' in partitive and plural nominative, 'töösse' in illative case, etc. It can be combined with many prefixes to form compound words describing different types of work."
 }

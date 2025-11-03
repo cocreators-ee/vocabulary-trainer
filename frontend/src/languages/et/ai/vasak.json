@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema istub vasakul pool laua.",
-    "Vasak käsi on külm.",
-    "Auto sõidab vasakule."
+    "Vasak käsi on paremast käest nõrgem.",
+    "Istu minu vasakule poolele.",
+    "Jooks vasakult paremale."
   ],
   "translation": [
     "left",
-    "left-hand"
+    "left-hand",
+    "sinister"
   ],
-  "context": "The Estonian word 'vasak' means 'left' and is used to indicate the left side or direction. It can be an adjective describing something as being on the left, or it can function as a noun referring to the left side or the left hand. In example 1, it's used adjectivally to mean 'on the left side'. In example 2, it describes which hand is affected ('left hand'). In example 3, it indicates direction ('to the left')."
+  "context": "The Estonian word 'vasak' is an adjective that means 'left' as in the opposite of right. It's used to describe body parts (left hand, left foot), directions (turn left), sides (left side), and can also have political connotations referring to left-wing views or parties. In physical contexts, it refers to anything located on the heart/soul side when facing someone."
 }

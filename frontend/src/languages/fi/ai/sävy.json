@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä sävy sopii täydellisesti huoneeseen.",
-    "Värin sävy on kaunis.",
-    "Musiikissa oli hienovarainen sävy."
+    "Hänen äänensä sävy oli surullinen.",
+    "Maalauksessa on monia eri sävyjä sinisestä ja vihreästä.",
+    "Kirjoittajan sävy on usein ironinen."
   ],
   "translation": [
     "tone",
+    "hue",
     "shade",
-    "nuance"
+    "tint",
+    "tinge"
   ],
-  "context": "The Finnish word 'sävy' has multiple meanings depending on the context. It can refer to a tone (of voice), a shade or hue of color, or a nuance in music or expression. In general, it relates to subtle variations or qualities that characterize something."
+  "context": "The Finnish word 'sävy' refers to the tone of speech or writing, but can also mean hue or shade in relation to colors. It describes a characteristic related to light frequency that appears in color. The word declines based on case, as shown in the dictionary definitions provided; for example, 'sävyt' is the plural nominative form meaning 'tones', and 'sävyn' is the genitive singular form meaning 'of a tone'. Possessive forms also exist to indicate ownership, like 'sävyni' which means 'my tone'."
 }

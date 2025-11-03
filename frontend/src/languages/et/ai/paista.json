@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Päike paistab.",
-    "Paistab päike.",
-    "Taevas paistab sinine."
+    "Päike paistab taevas.",
+    "Homme peaks päike paistama.",
+    "Ilmaennustus ennustab päikese paistmist."
   ],
   "translation": [
-    "to shine (of the sun)",
-    "to show",
+    "to shine",
+    "to be shining",
     "to appear"
   ],
-  "context": "The word 'paista' is an Estonian verb that means 'to shine', typically used for the sun shining. It can also mean 'to show' or 'to appear'. In its basic form, it's in the 3rd person singular present tense. The first letter changes depending on conjugation - when starting a sentence with this word, it would be capitalized as 'Paistab'. This verb is often used to describe weather conditions or when something becomes visible."
+  "context": "The word 'paista' is an Estonian verb that means to shine or to be shining. It is most commonly used in reference to the sun shining, but can also refer to other things becoming visible or apparent. The verb is in its basic form here and would change depending on tense, mood, and subject agreement in actual usage."
 }

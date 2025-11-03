@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tere tulemast!",
-    "Tervist!",
-    "Kuidas tere?"
+    "Tere tulemast tervet!",
+    "Kõik on korras, meil on kõik terve.",
+    "See laps on täiesti terve ja energiline."
   ],
   "translation": [
-    "hello",
-    "greetings",
-    "welcome"
+    "healthy",
+    "sound",
+    "whole",
+    "well"
   ],
-  "context": "The word 'tervet' is related to greetings and salutations in Estonian. It appears to be part of the common greeting phrase 'tere', which means hello or welcome. The word 'tervist' (health) is also derived from this root, indicating a wishing of good health when greeting someone."
+  "context": "The word 'tervet' is the partitive singular form of the Estonian adjective 'terve'. It means healthy, sound, whole or well. In its partitive singular form, it's often used in expressions like 'tere tulemast tervet' (welcome/healthy arrival) as a greeting. The base form 'terve' describes something being healthy or whole in nature."
 }

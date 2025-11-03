@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Londonis on ilus linn.",
-    "Me peame minema Londonisse.",
-    "Kas sa oled kunagi käinud Londonis?"
+    "Eesti Vabariigi ajutine asjur Londonis.",
+    "Jaapani Helsingi saatkonna asjur.",
+    "Seal on vabu kirjutusmasinaid ja minu hea tuttav Kangur asjuriks."
   ],
   "translation": [
-    "in London"
+    "chargé d'affaires",
+    "diplomatic representative",
+    "envoy"
   ],
-  "context": "The word 'londonis' is the inessive case form of the proper noun 'London', indicating location within the city. In Estonian, the inessive case (-s ending) answers the question 'where?' and typically translates to 'in' + location name."
+  "context": "The word 'londonis' is the inessive case of 'London', meaning 'in London'. It's used here to specify the location where a diplomatic representative (asjur/chargé d'affaires) is serving. The inessive case indicates location within something."
 }

@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Astuge sisse.",
-    "Palun astuge oma kohta.",
-    "Kõik palun astuge ette."
+    "Palun astuge edasi!",
+    "Astume akna juurde.",
+    "Kui sa üle koera astud, astu ka üle saba."
   ],
   "translation": [
+    "step",
+    "go forward",
     "enter",
-    "go in",
-    "step forward"
+    "walk"
   ],
-  "context": "The word 'astuge' is the formal plural imperative form of the verb 'astuma', which means 'to step' or 'to enter'. It's used when giving a polite command to multiple people, meaning they should all step forward, go inside, or enter. This form includes the '-ge' suffix indicating it's addressed to more than one person, and carries the formal/polite register appropriate for addressing strangers or groups respectfully."
+  "context": "The word 'astuge' is the plural imperative form of the Estonian verb 'astuma', which means to step, walk, or go. The '-ge' suffix indicates it's a command directed at multiple people. It commonly appears in instructions and invitations for others to move forward or take steps."
 }

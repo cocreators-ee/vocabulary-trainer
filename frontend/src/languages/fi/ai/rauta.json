@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Rauta on metallia.",
-    "Ostin raudasta valmistetun tuotteen.",
-    "Tämä työkalu on tehty raudasta."
+    "Minulla on rautainen luja usko tulevaisuuteen.",
+    "Hän löysi vanhan raudan vintiltä.",
+    "Pojat leikkivät raudoilla pihalla."
   ],
   "translation": [
     "iron",
-    "steel"
+    "steel",
+    "metal",
+    "tool made of iron or steel"
   ],
-  "context": "The Finnish word 'rauta' is a noun that refers to iron, the metal element. It can also refer to steel or iron objects in general. In Finnish grammar, 'rauta' has different forms depending on case: nominative rauta, genitive raudan, partitive rautaa, etc."
+  "context": "The word 'rauta' in Finnish means 'iron'. It can refer to the metal itself, a tool made of iron or steel, or even be used figuratively. The word declines based on case, as shown in the dictionary definition, and has different forms depending on possession (my iron, your iron etc.). It is often found in compounds, describing things *made* of iron."
 }

@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Laev sõitis merel kiiresti.",
-    "Me ehitasime uue laeva.",
-    "Laevadel on palju ruumi reisijatele."
+    "Laevad sõidavad merel.",
+    "Purjelaev heiskas purjed üles.",
+    "Kapten juhtis laeva sadamasse."
   ],
   "translation": [
     "ship",
+    "vessel",
     "boat",
-    "vessel"
+    "watercraft"
   ],
-  "context": "The word 'laev' is an Estonian noun meaning ship or boat. It refers to a watercraft designed for transportation across water, typically larger than small boats. In Estonian grammar, this would be a common masculine noun in the nominative case."
+  "context": "The Estonian word 'laev' means ship or vessel - a large watercraft for carrying people or goods. It's derived from Proto-Germanic and is cognate with Finnish laiva. The word has various compound forms in Estonian like 'purje|laev' (sailing ship), 'auru|laev' (steamship), 'kauba|laev' (cargo ship), etc."
 }

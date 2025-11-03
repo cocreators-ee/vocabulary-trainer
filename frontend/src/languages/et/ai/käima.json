@@ -1,14 +1,19 @@
 {
   "understood": true,
   "sentences": [
-    "Ma käin poes.",
-    "Ta käis eile koos sõpradega.",
-    "Me käime igal reedel kinno."
+    "Miks sa kikivarvukil käid?",
+    "Ma lähen käin ära korra.",
+    "Pendel käib edasi-tagasi."
   ],
   "translation": [
-    "to go",
     "to walk",
-    "to visit"
+    "to go (habitually, regularly)",
+    "to move",
+    "to make a move",
+    "to work/run (for machines)",
+    "to happen/occur/go on",
+    "to date",
+    "to be suitable/fit/last/work"
   ],
-  "context": "The Estonian verb 'käima' is a frequentative verb that means 'to go', 'to walk', or 'to visit'. It indicates repeated, habitual action rather than a one-time event. Unlike the simple verb 'minema' (to go), which suggests movement from A to B without return, 'käima' implies going somewhere and typically coming back, often for a short duration or specific purpose. The verb is commonly used with the illative case (-sse) to indicate destination, such as 'käida poes' (go to the store)."
+  "context": "Käima is a versatile Estonian verb with multiple meanings depending on context. It can mean 'to walk' when referring to physical movement, but it also commonly means 'to go' (especially for habitual or regular trips), 'to move' (in games like chess or checkers), 'to work/run' (for machines), 'to happen/occur/go on', 'to date' (when used with the comitative case), and 'to be suitable/fit/last/work'. The verb shows extensive polysemy, connecting physical movement to more abstract concepts of regular activity, functionality, and occurrence."
 }

@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Olen selles küsimuses nädal aega töötanud.",
-    "Kui sa tahad, et me kohtume kell viis tundi õhtul.",
-    "See on esimene kord, et ma olen siin nädal tundi."
+    "Ööpäevas on 24 tundi.",
+    "Ladina keele, usuõpetuse tund.",
+    "Kätte on jõudnud tasumise tund."
   ],
   "translation": [
     "hour",
-    "time period",
-    "feeling",
-    "sense"
+    "lesson/class",
+    "time/moment"
   ],
-  "context": "The Estonian word 'tund' has multiple meanings. It can mean 'hour' (as in time measurement), a 'time period', or it can refer to feelings/senses like 'feeling' or 'sense'. For example, when referring to time: kell viis tundi = 5 o'clock; nädal aega = for a week's time. When referring to feelings: mul on hea tund = I have a good feeling."
+  "context": "The Estonian word 'tund' has three main meanings: 1) as a unit of time (60 minutes), 2) as an educational period or lesson, and 3) as a specific moment in time. It can refer to the 24-hour divisions of day/night, school class periods, or critical moments in life. The word declines regularly in Estonian with genitive 'tunni', partitive 'tundi'."
 }

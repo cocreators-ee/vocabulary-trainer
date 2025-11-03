@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Presidendi ametiaeg on viis aastat.",
-    "Külastame presidenti lossis.",
-    "Presidendi kõne meelitas palju tähelepanu."
+    "Presidendi ametikoht on kõrgeim riigiamet.",
+    "Asepresident presidendi puudumisel võtab üle tema kohustused.",
+    "Eesti presidendi valib rahvas otsestel valimistel."
   ],
   "translation": [
-    "president's (possessive)",
-    "of the president"
+    "vice president",
+    "deputy president",
+    "substitute president"
   ],
-  "context": "The word 'presidendi' is the Estonian genitive case form of 'president', meaning 'president's' or 'of the president'. It indicates possession or association with the president and is used to show that something belongs to, comes from, or relates to the president. This grammatical form is commonly used in Estonian to express relationships between nouns."
+  "context": "The word 'presidendi' in Estonian is the genitive case form of 'president', meaning 'of the president'. However, based on the dictionary definitions provided, it appears to be specifically used as a term for 'asepresident' which translates to vice president or deputy president. This would refer to someone who acts as a substitute or assistant to the president when needed."
 }

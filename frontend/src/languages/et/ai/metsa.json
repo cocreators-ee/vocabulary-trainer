@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Metsas on palu puuid.",
-    "Me lähime metsa jalutama.",
-    "Metsad olid kaunitse kõrged puud."
+    "Ta on natuke metsa poole.",
+    "Schmalhosen olnud hea parun. Teised saksad pidanud teda pisut metsa poole, võib-olla sellepärast, et ta saaremaa keelemurret püüdnud selgeks saada."
   ],
   "translation": [
-    "forest",
-    "woods"
+    "genitive singular of mets",
+    "partitive singular of mets",
+    "illative singular of mets"
   ],
-  "context": "In Estonian, 'metsa' is the translative case form of the word 'mets', which means forest or woods. The translative case indicates a change of state or location - so 'metsa' can mean 'into the forest' or 'to the woods'. It's used when talking about movement toward or becoming part of a forest/woods area."
+  "context": "The word 'metsa' appears to be the genitive, partitive, or illative singular form of the Estonian noun 'mets'. It's commonly used as a grammatical case marker rather than having its own independent meaning. In the example sentences, it's used with 'poole' (toward) in the expression 'metsa poole', which means 'toward the forest' or 'in the direction of the forest'. The word can also metaphorically mean being slightly confused or not entirely clear-headed ('nupust nikastanud, napakas, mitte päris täie aruga')."
 }

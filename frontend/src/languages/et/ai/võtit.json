@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ma leidsin võti uksest.",
-    "Tal on võti oma korteri ees.",
-    "Kas sa võiksid mulle anda võti?"
+    "Otsin oma võti ära.",
+    "Tal on mitu võtit taskus.",
+    "Võti on vaja ust avada."
   ],
   "translation": [
     "key",
     "keys"
   ],
-  "context": "The word 'võtit' is the partitive case form of the Estonian noun 'võti', which means 'key'. In Estonian, nouns change their endings based on grammatical cases. The partitive case (ending -it/-id) typically indicates that something is being referred to in an incomplete or unspecified manner, or as a direct object. So 'võtit' would translate to '(a) key' in English when used as the direct object of a verb."
+  "context": "The word 'võtit' is the partitive singular form of Estonian noun 'võti', which means 'key'. In Estonian, the partitive case is used to indicate partialness or indefiniteness. So 'võtit' would translate to '(a) key' in English, indicating one key but not specifying if it's the complete set or just a single key."
 }

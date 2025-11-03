@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kas sa kuuled häält?",
-    "Ta kutsus häält.",
-    "Mina ei kuule häält."
+    "Poiss murrab juba häält.",
+    "Laps ei saa veel häält murra.",
+    "Kes on praegu häält murranud?"
   ],
   "translation": [
-    "sound",
-    "voice",
-    "call"
+    "voice (partitive singular)",
+    "a voice (partitive singular)",
+    "the voice (partitive singular)"
   ],
-  "context": "The word 'häält' is the partitive case form of the Estonian noun 'hääl', which means 'sound' or 'voice'. In this form, it typically appears after verbs that take a partitive object, such as 'kuulema' (to hear). The partitive case in Estonian often indicates an incomplete action or what is being heard. For example, 'Kas sa kuuled häält?' means 'Do you hear sound/voice?' where the focus is on the perception of the voice/sound rather than a complete action."
+  "context": "'Häält' is the partitive singular form of the Estonian noun 'hääl', which means 'voice'. In Estonian, the partitive case indicates a partial or indefinite quantity of something. So when someone says 'poiss murrab juba häält', it means 'the boy already has a voice breaking' or 'the boy's voice is already changing/breaking'. This word form specifically refers to an incomplete or ongoing action related to one's voice, such as during puberty when the voice begins to change. The partitive case here emphasizes that this is a process that is happening but not yet complete."
 }

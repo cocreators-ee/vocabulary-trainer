@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Neli on paarisarv.",
-    "Mul on neli sõpra.",
-    "Lauas on neli tooli."
+    "Neli pluss kuus on kümme.",
+    "Laual on neli jalga ja vankril neli ratast.",
+    "Kell neli hommikul."
   ],
   "translation": [
-    "four"
+    "four",
+    "4"
   ],
-  "context": "The word 'neli' is the Estonian number four. It's a basic cardinal number used in counting and quantitative expressions. In Estonian, numbers are often declined based on case, but 'neli' as shown appears to be in its nominative form."
+  "context": "The Estonian word 'neli' is the cardinal number 4. It's used to count objects (e.g., neljast jalast - four legs), indicate time (e.g., kell neli - at four o'clock), and in mathematical expressions. The word has different grammatical forms depending on case, such as 'nelja' in genitive/illative cases."
 }

@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema kandis punase kleiti.",
-    "Punased lilled olid ilusad.",
-    "Ta värvis maja punaseks."
+    "Osta punase mehega kogu oma elu.",
+    "Punase tüdruk on heas mõttes hull.",
+    "Punase juured ulatuvad vanematesse."
   ],
   "translation": [
-    "red"
+    "red",
+    "the red one",
+    "of the red"
   ],
-  "context": "The word 'punane' is the basic form meaning 'red' in Estonian. The word given 'punase' appears to be in the elative case, which typically indicates motion out of or from something, so it would mean '(from) red' or could be part of a larger construction like 'punastest' (from red ones). However, on its own as shown, it's likely meant to represent the basic form meaning 'red'."
+  "context": "Punase is the genitive singular form of the Estonian adjective 'punane', which means 'red'. In genitive case, it indicates possession or association with something red. It can be translated as 'of the red' or simply 'red' depending on context. This form is used when modifying a noun that is in the genitive case."
 }

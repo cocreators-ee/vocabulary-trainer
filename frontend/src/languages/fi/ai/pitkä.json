@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on pitkä matka.",
-    "Hänellä on pitkät hiukset.",
-    "Pitkä päivä oli ohi."
+    "Pitkä keppi on maassa.",
+    "Siitä on pitkä aika kun näimme hänet viimeksi.",
+    "Hän on pitkä mies."
   ],
   "translation": [
     "long",
-    "tall",
-    "extended"
+    "tall"
   ],
-  "context": "The Finnish word 'pitkä' is an adjective that means 'long' in English. It can refer to physical length (a long road, tall height), duration of time (a long day), or extended periods. The word changes form depending on the case and gender it modifies - for example, 'pitkä' remains the same for masculine singular nominative but becomes 'pitkät' in plural form. It's a common adjective used to describe dimensions that extend significantly."
+  "context": "The word 'pitkä' in Finnish means 'long' or 'tall'. It is an adjective that declines based on case and number. The comparative forms are 'pidempi' or 'pitempi', and the superlative form is 'pisin'. As shown in the declension table, it changes its form depending on its role in a sentence. For example, 'pitkä keppi' means 'long stick', while 'pitkän aikaa' means 'a long time'."
 }

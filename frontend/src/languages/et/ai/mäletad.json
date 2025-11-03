@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mäletad veel seda päeva?",
-    "Kas sa mäletad meie esimest kohtumist?",
-    "Ta ei mälda oma lapsepõlve"
+    "Kas mäletad, mu arm?",
+    "Mäletad seda hetke?",
+    "Ei mäleta midagi"
   ],
   "translation": [
-    "remember",
-    "recall",
-    "memorize"
+    "you remember",
+    "do you remember",
+    "remembered"
   ],
-  "context": "The word 'mäletad' is the second person singular form of the verb 'mäletama', which means 'to remember' or 'to recall'. It is used when addressing someone directly (you) and asking if they remember something. The root word 'mäle-' relates to memory, and the '-tad' ending indicates second person singular present tense in Estonian."
+  "context": "The Estonian word 'mäletad' is the second person singular present form of the verb 'mäletama', which means 'to remember'. It is commonly used in everyday speech to ask someone if they recall something or to state that someone remembers something. The word appears to be conjugated for 'you' (singular) in the present tense."
 }

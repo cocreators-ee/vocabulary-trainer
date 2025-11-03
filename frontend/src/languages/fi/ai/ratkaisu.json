@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ratkaisu ongelmaan oli yksinkertainen.",
-    "Meidän täytyy löytää parempi ratkaisu tähän ongelmaan.",
-    "Tämä ei ole ainoa mahdollinen ratkaisu."
+    "Etsimme parasta ratkaisua tähän ongelmaan.",
+    "Hän löysi nerokkaan ratkaisun pulmaan.",
+    "Sodan lopullinen ratkaisu oli pitkä ja vaikea."
   ],
   "translation": [
     "solution",
     "answer",
-    "fix"
+    "resolution",
+    "settlement"
   ],
-  "context": "The Finnish word 'ratkaisu' is a noun that means 'solution', 'answer', or 'fix'. It's the singular form of the word and refers to a way to solve a problem, answer a question, or fix an issue. In different contexts, it can be used for solutions to mathematical problems, technical issues, interpersonal conflicts, or any situation requiring resolution."
+  "context": "The word 'ratkaisu' in Finnish means 'solution', 'answer', or 'resolution'. It refers to the way a problem is solved, a conclusion reached, or an agreement made. The word declines based on grammatical case, as shown in the dictionary definition, and can be possessive depending on who owns the solution (my solution, your solution etc.)."
 }

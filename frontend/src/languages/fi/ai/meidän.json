@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Meidän talo on suuri.",
-    "He auttavat meidän perhettämme.",
-    "Tämä on meidään kirjasto."
+    "Meidän äiti on 45-vuotias.",
+    "Tämä kirja on meidän.",
+    "Meidän pitää tehdä tämä nyt."
   ],
   "translation": [
     "our",
-    "of us",
-    "belonging to us"
+    "ours"
   ],
-  "context": "The Finnish word 'meidän' is a possessive pronoun meaning 'our' or 'of us'. It indicates possession or belonging and agrees with the noun it modifies in number (singular/plural) but not in gender. This form specifically shows possession by the inclusive 'we' group."
+  "context": "The word 'meidän' is a possessive pronoun in Finnish. It means 'our' or 'ours', and it is the genitive plural form of 'me' (we). The '-mme' suffix indicates possession by 'we'.  It can also be used to express obligation, as in 'Meidän pitää tehdä tämä nyt' which translates to 'We have to do this now'."
 }

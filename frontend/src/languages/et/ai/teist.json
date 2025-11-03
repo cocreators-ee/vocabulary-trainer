@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Teine pool on veel teist.",
-    "Tema käis teist korda linna.",
-    "Meil on veel teisi planeedeid uurida."
+    "Ma olen teist meelt sinuga.",
+    "Teine on parem variant, aga teist pole halb ka.",
+    "Kas sa tuled teise või jääd koju?"
   ],
   "translation": [
-    "other",
-    "another",
-    "second"
+    "second (partitive singular)",
+    "other (partitive singular)",
+    "from you (elative plural)",
+    "from roads/ways (elative plural)",
+    "from tea (elative plural)"
   ],
-  "context": "In Estonian, 'teist' is the partitive case form of 'teine', which means 'other', 'another', or 'second'. It's used to indicate an indefinite quantity of something other than what has been mentioned before. In English translations, it often corresponds to 'some other', 'some another', or simply 'other' depending on context."
+  "context": "The word 'teist' has multiple meanings in Estonian depending on context. As an adjective, it is the partitive singular form of 'teine', meaning either 'second' or 'other'. As a pronoun, it can also be the partitive singular of 'teine' meaning 'another'. Additionally, as a noun, it can function as the elative plural form of three different words: 'te' (you), giving meaning 'from you'; 'tee' (road/way), meaning 'from roads/ways'; and 'tee' (tea), meaning 'from tea'. The context determines which meaning is appropriate."
 }

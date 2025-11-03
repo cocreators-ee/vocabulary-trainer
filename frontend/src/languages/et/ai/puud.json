@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Puuviljad on head sinu terviseks.",
-    "Ma sõin puuvilju hommikul.",
-    "See marjane on üks meie lemmatud puuvilju."
+    "Osta üks puud rukist.",
+    "Vanamees kaalus üle seitsme puuda.",
+    "Nad on koos mitu puuda soola ära söönud."
   ],
   "translation": [
-    "fruits",
-    "fruit"
+    "pood (unit of weight)",
+    "40 pounds",
+    "weight unit"
   ],
-  "context": "The word 'puud' appears to be the partitive form of 'puuvili' which means fruit. In Estonian, the partitive case is commonly used with mass nouns or when referring to fruits in general. It can mean both 'fruits' (plural) or 'fruit' (uncountable concept)."
+  "context": "In Estonian, 'puud' is the partitive singular and nominative plural form of 'puu', which refers to a historical unit of weight used in Russia (including Estonia) equivalent to 16.381 kg or 40 pounds. It was commonly used to measure agricultural products like grain, flour, meat, and other commodities. The term also appears in expressions indicating long duration or shared experiences, as in 'nad on koos mitu puuda soola ära söönud' meaning they have been together for a long time and overcome difficulties together."
 }

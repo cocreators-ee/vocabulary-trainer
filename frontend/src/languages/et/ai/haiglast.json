@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Haiglas elab väike perenaine.",
-    "Meie naasmine haiglasse oli vajalik.",
-    "Töötaja lahkus haiglast kell viis."
+    "Tema on haiglasem kui eales varem.",
+    "See oli üsna haiglane olukord.",
+    "Haiglad mõtted võivad viia depressioonini."
   ],
   "translation": [
-    "from the hospital",
-    "out of the hospital"
+    "unhealthy",
+    "sickly",
+    "morbid",
+    "diseased"
   ],
-  "context": "The Estonian word 'haiglast' is an inessive case form (inessitive) of the noun 'haigla', which means 'hospital'. The '-st' ending indicates motion away from or out of a place. It functions as an adverbial phrase meaning 'from the hospital' or 'out of the hospital', indicating movement originating from that location."
+  "context": "The Estonian word 'haiglast' is the elative case form of 'haiglane', meaning 'from sick/unhealthy conditions'. It describes something that comes from or originates in an unhealthy state. This can refer to physical illness (unhealthy condition), moral corruption (morbid behavior), or social problems (unhealthy environment). The word captures the idea of emerging from a state of sickness, whether literal or figurative."
 }

@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Konsonantit ovat kielen äänteitä.",
-    "Suomen kielessä on 21 konsonanttia.",
-    "Tämä sana sisältää useita konsonantteja."
+    "Opettaja pyysi oppilaita tunnistamaan sanat konsonantti ja vokaali.",
+    "Konsonantti on äänne, joka muodostetaan kurkusta tai suusta ilman merkittävää ilmavirtausta.",
+    "Kirjoitustehtävässä piti eritellä sanat niiden alkukonsonantin perusteella."
   ],
   "translation": [
-    "consonant"
+    "consonant",
+    "letter"
   ],
-  "context": "The word 'konsonantti' is the Finnish term for a consonant. Consonants are speech sounds that are produced with some closure or narrowing in the vocal tract, such as /p/, /t/, /k/, /s/, etc., and they contrast with vowels which have relatively open vocal tracts."
+  "context": "The word 'konsonantti' in Finnish refers to a consonant, both as a sound and as a letter. It is derived from Latin through Swedish. The word declines based on case (nominative, genitive, partitive etc.) and possessor (my, your, his/hers etc.)."
 }

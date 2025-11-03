@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Olen kodus.",
-    "Tema on kodus tööl.",
-    "Kodus on häda."
+    "Teda öeldi selles toas ka vahel kodus käivat ja märulit tegevat.",
+    "Ma olen praegu kodus ja töötan.",
+    "Kas sa lähed täna kodus külastama oma vanemaid?"
   ],
   "translation": [
     "at home",
-    "in the house",
-    "indoors"
+    "in the house"
   ],
-  "context": "The Estonian word 'kodus' is an adessive case form of 'kodu' (home/house). It indicates location or state - being at home, in one's own house, or indoors. It answers the question 'where?' about a person's physical location relative to their home."
+  "context": "The word 'kodus' is the inessive singular form of 'kodu' (home). It indicates location or state - being at home, in one's residence. The suffix '-s' forms the inessive case, which typically means 'in' or 'at'. This word answers the question where? and expresses that someone is located physically inside their home."
 }

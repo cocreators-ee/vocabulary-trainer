@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma olen sinusse armunud.",
-    "Kas sa tunned sinusse?",
-    "Ta nägi mind sinusse."
+    "Sinusse ei puutu.",
+    "Milles asi seisab?",
+    "See ei puudu sinusse."
   ],
   "translation": [
-    "into you",
-    "towards you",
-    "to you"
+    "it does not concern you",
+    "it doesn't involve you",
+    "it's none of your business"
   ],
-  "context": "The word 'sinusse' is an Estonian preposition that indicates direction towards or into someone. It's formed from the pronoun 'sina' (you) with the illative case ending '-sse', meaning 'into'. This form shows movement toward or a state of being directed at the person addressed as 'you'."
+  "context": "'sinusse' is the illative case form of 'sina' (you), meaning 'into you'. In this context, it appears in the phrase 'ei puutu sinusse', which means 'does not concern you' or 'doesn't involve you'. This construction uses the partitive case after the verb 'puutuma' (to touch/concern) to indicate that something is outside one's sphere of interest or responsibility."
 }

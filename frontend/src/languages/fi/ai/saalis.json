@@ -1,15 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on saalis kala.",
-    "Metsästäjä sai suuren saaliin.",
-    "Saalisten hän näki uuden eläimen."
+    "Kettu raahasi saaliinsa pesään.",
+    "Metsästäjä näytti ylpeänä saalistaan.",
+    "Karhu sai hyvän saaliin lohesta."
   ],
   "translation": [
     "prey",
     "catch",
-    "spoils",
+    "kill",
+    "loot",
+    "plunder",
     "booty"
   ],
-  "context": "In Finnish, 'saalis' is a noun that refers to prey or catch in hunting contexts. It can also refer to spoils or booty obtained from hunting or other activities. The word comes from the verb 'saalistaa' (to hunt/predate) and represents what is caught or captured."
+  "context": "The word 'saalis' in Finnish refers to something that is obtained as a result of hunting or catching, like prey or a kill. It can also refer to loot or plunder. The word declines based on case and number; the provided dictionary definitions show various forms for singular and plural nouns, including genitive, partitive, illative cases, and different possessive forms indicating who owns the 'saalis'. For example, 'saaliinsa' means 'its prey', while 'saaliimme' means 'our prey'."
 }

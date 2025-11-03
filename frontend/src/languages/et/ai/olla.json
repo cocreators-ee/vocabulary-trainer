@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Olen kodus.",
-    "Ta on õpilane.",
+    "Olen heas tujus.",
+    "Tema oli kodus eile.",
     "Me oleme head sõbrad."
   ],
   "translation": [
-    "to be (present tense conjugation)",
-    "am/is/are",
-    "exists"
+    "to be",
+    "is",
+    "am",
+    "are",
+    "was",
+    "were"
   ],
-  "context": "The Estonian verb 'olla' is the present tense third person singular form of the main verb 'olema' which means 'to be'. It functions as an auxiliary verb and copula in Estonian, similar to English 'is', 'am', or 'are'. This form is used when referring to a single subject (third person) that exists or has certain qualities. The verb undergoes conjugation: 'olen' (I am), 'oled' (you are), 'on' (he/she/it is), 'oleme' (we are), 'olete' (you [plural] are), 'on' (they are)."
+  "context": "\"Olla\" is the Estonian verb \"to be\". It's used to express existence or a state of being, similar to English \"am/is/are/was/were\". In the examples shown: \"Olen heas tujus\" means \"I am in good mood\", \"Tema oli kodus eile\" means \"He/she was at home yesterday\", and \"Me oleme head sõbrad\" means \"We are good friends\"."
 }

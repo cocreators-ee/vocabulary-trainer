@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Aita mind palun!",
-    "Aitab küll.",
-    "Kas aitad mulle?"
+    "Aitame tal ööbida meie kodus.",
+    "Sa aitad mind alati, kui ma vajan abi.",
+    "Ei aita enam ussirohi ega püssirohi."
   ],
   "translation": [
-    "help",
-    "aid",
-    "assist"
+    "to help",
+    "to assist"
   ],
-  "context": "The word 'aita' is an Estonian verb meaning 'to help'. It's in the imperative form (command/request form) and would be used when asking someone for assistance. The present tense forms would include 'aidab' (he/she helps), ' aitad' (you help), etc. This is a very common word in everyday Estonian language."
+  "context": "The word 'aita' is an Estonian verb that means 'to help' or 'to assist'. It's the present indicative connegative form of the verb 'aitama' and also the second-person singular imperative form. In the example sentence 'Ei aita enam ussirohi ega püssirohi', it shows negative usage meaning 'doesn't help anymore' - literally referring to gunpowder or snake root not helping in desperate situations, indicating that nothing helps when things are really bad."
 }

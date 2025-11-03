@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Toiduained on tähtsad meie tervise jaoks.",
-    "Müük toiduaineid on minu põhitöö.",
-    "Kas te ostate kallisemaid või odavamaid toiduaineid?"
+    "Toiduained on olulised meie tervise jaoks.",
+    "Poodis müüakse mitmesuguseid toiduaineid.",
+    "Keegi ei peaks unustama toidupõhist ravimi võtmist."
   ],
   "translation": [
     "food",
-    "provisions",
-    "groceries",
-    "foodstuffs"
+    "nutrient",
+    "ingredient"
   ],
-  "context": "The word 'toidu' is the genitive singular form of the Estonian noun 'toit', which means 'food'. In this case, it functions as an adjectival modifier meaning 'of food' or 'related to food'. It's commonly used in compound words like 'toiduained' (food products) and 'toidupood' (food store)."
+  "context": "The word 'toidu' is the genitive singular form of the Estonian noun 'toit', meaning 'food'. In this case, it functions as an adjective or modifies other nouns to indicate something related to food. It appears in compound words like 'toiduained' (nutrients/foodstuffs) where it means 'of food' or 'related to food'. The word is commonly used when referring to nutrients, ingredients, or substances related to the food industry."
 }

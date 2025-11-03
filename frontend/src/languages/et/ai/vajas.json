@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta vajas abi.",
-    "Meil vajas rohkem aega.",
-    "Lapsed vajasid tähelepanu."
+    "Vajas doonorneeru ootejärjekord.",
+    "Diabeedihaige vajas siiratavat neeru.",
+    "Patsient vajas kiiresti uut neeru."
   ],
   "translation": [
-    "needed",
-    "required",
-    "demanded"
+    "needs",
+    "requires",
+    "wants"
   ],
-  "context": "The word 'vajas' is the past tense form of the Estonian verb 'vajama', which means to need or require. It indicates that something was necessary in the past context where it appears. In grammatical terms, this is a simple past tense (imperfect) form used in narrative contexts."
+  "context": "The word 'vajas' is the past tense form of 'vaja', meaning 'needed' or 'required'. It's commonly used in medical contexts to indicate what a patient needed, such as an organ transplant. In these examples, it refers to someone needing a kidney donation."
 }

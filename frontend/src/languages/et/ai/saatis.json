@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Saatis mulle kirja.",
-    "Ta saatis meile e-posti.",
-    "Kas sa said saadetud saatekirja?"
+    "Kivistes kohtades liikumist saatis alatasane maokõsin.",
+    "Vesipapp.",
+    "Tema käitumine oli täielikult alatasa ja enesekeskeine."
   ],
   "translation": [
-    "sent",
-    "dispatched",
-    "forwarded"
+    "low",
+    "humble",
+    "meek",
+    "submissive"
   ],
-  "context": "The word 'saatis' is the third-person singular past tense form of the verb 'saada', which means 'to send'. It refers to the action of sending something, typically written communication like letters or emails. The word indicates that someone (he/she/it) sent something in the past."
+  "context": "The word 'saatis' appears to be a form of the Estonian adjective 'alatasane', which means low, humble, meek, or submissive. It's used in contexts where someone is described as having a low position, being humble in demeanor, or showing subservience. The word seems to be conjugated or inflected based on context - here it appears in the partitive case 'saatis' modifying 'maokõsin' (snake-like movement)."
 }

@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Me kohtume pühapäeval kell kaks.",
-    "Tema meeldib minu lastele pühapäeval.",
-    "Pühapäeval on linnas alati palju inimesi."
+    "Pühapäeval käime kirikus.",
+    "Meil on pühapäev vaba päev.",
+    "Töötab pühapäeval kõik poed suletud."
   ],
   "translation": [
     "on Sunday",
-    "at Sunday"
+    "during Sunday"
   ],
-  "context": "The word 'pühapäeval' is the elative case of 'pühapäev', which means 'Sunday'. In Estonian, the elative case (-l ending) indicates movement away from something or location in/on something. Here it functions as an adverbial expression meaning 'on Sunday' or 'at Sunday', indicating when something happens."
+  "context": "The word 'pühapäeval' is the adessive case form of 'pühapäev', which means 'Sunday'. The '-l' ending indicates location or time when something happens, so it translates to 'on Sunday' or 'during Sunday'. It's used to indicate that an action takes place on Sunday."
 }

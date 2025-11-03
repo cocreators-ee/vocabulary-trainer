@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on uusi idea.",
-    "Ideasi miellyttää minua.",
-    "Hänellä on loistavia ideoita."
+    "Minulla on hyvä idea!",
+    "Onko sinulla ideoita?",
+    "Tämä on loistava idea!"
   ],
   "translation": [
     "idea",
+    "notion",
     "thought",
-    "notion"
+    "concept",
+    "plan"
   ],
-  "context": "The word 'idea' in Finnish is a loanword from English and means the same as it does in English - a thought, suggestion, or plan of action. It's commonly used in both formal and informal contexts to refer to creative thoughts, suggestions, or mental concepts."
+  "context": "The word 'idea' in Finnish refers to a thought, concept, or plan. It originates from Latin and Ancient Greek roots meaning 'notion' or 'pattern'. The word declines based on grammatical case, as shown in the dictionary definition, with different forms for singular and plural subjects and objects. For example, 'ideani' means 'my idea', while 'ideoitani' means 'my ideas'."
 }

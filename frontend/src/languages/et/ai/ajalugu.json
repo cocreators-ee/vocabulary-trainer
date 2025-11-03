@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Eesti ajalugu on pikk ja rikas.",
-    "Lugeme ajalugu koos.",
-    "Ta õpib ajalugu ülikoolis."
+    "Euroopa ajalugu on rikas ja mitmekülgne.",
+    "Ta õpib ülikoolis Eesti ajalugu.",
+    "Internetipangas saab vaadata rahaliste tehingute ajalugu."
   ],
   "translation": [
-    "history"
+    "history",
+    "the study of past events",
+    "record of actions"
   ],
-  "context": "The word 'ajalugu' in Estonian translates to 'history' in English. It is a feminine noun that refers to the study of past events, particularly human affairs and societies. The word can appear in different cases depending on its grammatical function in a sentence."
+  "context": "The Estonian word 'ajalugu' has multiple related meanings: 1) The process of development of society and nature (e.g., European history, Tallinn's history); 2) Distant past preserved in human consciousness (e.g., World War II battles have become history); 3) A science or subject dealing with the development of society (the study of history as a discipline); 4) In computing/banking, a list or record of performed actions/transactions. The word literally means 'time story' from components 'aja' (time) + 'lugu' (story), making it a calque of German Zeitgeschichte."
 }

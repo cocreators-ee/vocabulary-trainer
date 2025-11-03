@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Oma talo on suuri.",
-    "Sinun oma autosi on kaunis.",
-    "He omistavat oma kodin."
+    "Minulla on oma auto.",
+    "Tämä kirja on oma.",
+    "Omat lapset ovat tärkeitä."
   ],
   "translation": [
-    "one's own",
-    "my/your/his/her/our/their own"
+    "own",
+    "mine",
+    "belonging to me"
   ],
-  "context": "The Finnish word 'oma' is a possessive pronoun that means 'own' or 'one's own'. It indicates possession and shows something belongs to the subject of the sentence. In Finnish, this pronoun agrees in number with the noun it modifies (singular 'oma', pluralomat/omat)."
+  "context": "The word 'oma' in Finnish means 'own'. It is a possessive adjective indicating that something belongs to someone. It can also mean 'friendly' in a military context, referring to those on one’s own side. The word declines based on the person and number of the possessor, as shown in the dictionary definition. For example, 'omani' means 'my', 'omasi' means 'your', and 'omamme' means 'our'. It can also be used as a noun meaning 'friendlies'."
 }

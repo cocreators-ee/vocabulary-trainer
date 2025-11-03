@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minä pidän liikunnasta.",
-    "Hän tekee liikuntaa joka päivä.",
-    "Liikunta on tärkeää terveydelle."
+    "Hän harrastaa liikuntaa säännöllisesti.",
+    "Liikunta on tärkeää terveydelle.",
+    "Koulussa on paljon liikuntaa."
   ],
   "translation": [
     "exercise",
     "physical activity",
-    "sports"
+    "physical education"
   ],
-  "context": "The Finnish word 'liikunta' refers to physical exercise, sports activities, or any form of bodily movement that promotes health and fitness. It's a noun in the nominative case and is commonly used when talking about various forms of physical activity, from structured workouts to general movement that keeps people active."
+  "context": "The Finnish word 'liikunta' refers to exercise or physical activity. It can also mean physical education as a subject in school. The word declines based on case, with different forms indicating its role in a sentence – nominative for the subject, genitive showing possession, partitive expressing an incomplete amount, and so on. For example, 'liikuntani' means 'my exercise', while 'liikuntaa' is used when talking about doing some exercise."
 }

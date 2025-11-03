@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Pikad on kõige ilusamad aastaaegade.",
-    "Tema pikad olid väga ilusad ja siidised.",
-    "Meie pikkuses on palju pikemad kui eelmisel aastal."
+    "Poisil on pikad juhtmed.",
+    "Pikad jalad olid külmad.",
+    "Tema käed olid pikad ja õrnad."
   ],
   "translation": [
-    "long",
-    "tall",
-    "lengthy"
+    "long (plural)",
+    "tall (plural)"
   ],
-  "context": "The Estonian word 'pikad' is the plural form of the adjective 'pika', which means 'long' or 'tall'. In Estonian adjectives change their endings based on number (singular/plural) and case. Here, '-d' at the end indicates the nominative plural form. 'Pikad' can be used to describe something that has great length or height in a plural context - for example, describing multiple long objects like legs ('pikad jalad'), tall people ('pikad inimesed'), or lengthy periods of time ('pikad päevad')."
+  "context": "The word 'pikad' is the nominative plural form of the Estonian adjective 'pikk', meaning 'long' or 'tall'. In this form, it modifies plural nouns and agrees with them in case, number, and gender. For example, 'pikad juhtmed' means 'long wires/cables', where 'juhtmed' is the plural nominative of 'juhe' (wire/cable)."
 }

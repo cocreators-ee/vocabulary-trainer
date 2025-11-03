@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Põhjas on külm.",
-    "Minge põhja!",
-    "Tule põhjast tagasi."
+    "Enne palgapäeva on alati näpud põhjas.",
+    "..on sellel alles näpud põhjas, et looma poolmuidu ära andis.",
+    "Pärast suvist reisi oli ta kõik raha põhjas."
   ],
   "translation": [
-    "north",
-    "to the north",
-    "in the north"
+    "out of money",
+    "broke",
+    "without funds"
   ],
-  "context": "The word 'põhjas' is the inessive case form of the Estonian word 'põhi', meaning 'north'. In this case, it indicates location within or inside the north direction. It can be translated as 'in the north' or simply 'north' when used to describe a northern location."
+  "context": "The Estonian word 'põhjas' is an adverb that literally means 'north' but in this context it's used idiomatically to mean someone has no money - they are completely out of cash. It's similar to English expressions like being 'flat broke' or having their pockets empty. The expression comes from the idea of having nothing left, just as there's nothing beyond the north pole (the end of the world in ancient beliefs)."
 }

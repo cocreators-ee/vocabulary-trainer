@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ei tea oma asukoha täpset koordinaate.",
-    "Pakkusin tal endise asukoha juures peatuda.",
-    "Linnas on palju häid eluasemeid erinevates asukohtades."
+    "Ta ütles oma asukoha.",
+    "Mis on sinu praegune asukoha?",
+    "Lahkumisotsus ja uue asukoho valik."
   ],
   "translation": [
     "location",
-    "place",
+    "address",
     "position"
   ],
-  "context": "The word 'asukoha' is a genitive form of the noun 'asukoht', meaning 'location'. It indicates where something or someone is situated. In Estonian, this form typically shows possession or relationship to another noun - in this case, it means 'of location' or related to location."
+  "context": "The Estonian word 'asukoha' is derived from 'asukoht' (place, location) and the genitive case ending '-a'. It refers to a specific place or position where someone or something is located. In common usage, it often means physical address or location coordinates."
 }

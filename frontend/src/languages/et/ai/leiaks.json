@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ta leiaks alati head asju.",
-    "Meie leiaksid uue tee kodusse.",
-    "Kui sa tuleksid siis me leiaksid kohe lahenduse."
+    "Vargamäe jõe süvendamine on liiga suur ja kulukas töö, kui et see ministeeriumis pooldamist leiaks.",
+    "Elu on liiga lühike, kui et sellest veeta hetkegi igavuses ja ükskõiksuses.",
+    ".. noormees vandunud neiule: \"Ennem jooksku see järv kohalt ära, kui et ma sinu maha jätan.\""
   ],
   "translation": [
-    "would find",
-    "could find",
-    "might find"
+    "so that",
+    "in order that",
+    "only if",
+    "unless"
   ],
-  "context": "The word 'leiaks' is the conditional mood of the Estonian verb 'leida', which means 'to find'. In this form, it's used to express a hypothetical or possible action - something that would happen under certain conditions. The suffix '-ks' indicates the conditional form, and it can be translated as 'would find', 'could find', or 'might find' depending on the context. This is similar to how English uses modal verbs like 'would', 'could', or 'might' followed by a base verb to express hypothetical situations."
+  "context": "The Estonian word 'leiaks' is a form of the verb 'leia' (to find) used in conditional clauses. It appears specifically in constructions with 'kui et' (if only/that), introducing purpose or concessive clauses. The examples show it being used to express conditions that must be met for something else to happen - essentially meaning 'so that', 'in order that', or sometimes 'only if'. In the first example, it means 'would find approval'; in the second, it suggests 'were to spend time'; and in the third, it conveys 'I would leave you' under certain conditions."
 }

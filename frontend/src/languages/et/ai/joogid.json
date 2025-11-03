@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma ostsin mitu joogid kauplusest.",
-    "Tere! Millised on head joogid praeguses menüüs?",
-    "Lapsed armastavad värskete joogid joomist."
+    "Joogid on laual buffet'l.",
+    "Mulle meeldivad eriti kõvad joogid.",
+    "Kas sa soovid juua mingeid joogi?"
   ],
   "translation": [
     "drinks",
-    "beverages"
+    "beverages",
+    "liquids"
   ],
-  "context": "The word 'joogid' is the plural form of the Estonian noun 'jook', which means drink or beverage. In English, this translates to drinks or beverages. This form is used when referring to multiple types of drinks or various beverages in general."
+  "context": "The word 'joogid' is the plural form of the Estonian word 'jook', which means drinks or beverages. It refers to any liquid that people consume for drinking, such as water, juice, soda, alcohol, etc. In the context provided from the dictionary definition about buffet, it specifically mentions that both food and 'joogid' (drinks) are placed on the table for a self-service meal arrangement."
 }

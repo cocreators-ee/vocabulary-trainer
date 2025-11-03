@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kiirus on suurim probleemi linnas.",
-    "Sõiduki kiirus peab olema alla 50 km/h.",
-    "Mees tegi kiirust ja sai trahvi."
+    "Hämmastas tema liigutuste erakordne kiirus.",
+    "Rongi, raketi kiirus. Hääle, tuule, valguse kiirus.",
+    "Auto liikus kiirusega 90 km/h."
   ],
   "translation": [
     "speed",
     "velocity",
+    "rate",
     "pace"
   ],
-  "context": "The Estonian word 'kiirus' means speed or velocity. It refers to how fast something is moving, commonly used for vehicles, people walking, or the rate at which something happens. It can be both a noun and sometimes used in compound expressions."
+  "context": "The Estonian word 'kiirus' primarily means speed or velocity. It can refer to the physical speed of moving objects (like cars, trains, rockets), as well as the rate at which processes occur (such as working speed, reaction time, or growth rate). The word comes from the adjective 'kiire' meaning fast/quick and the suffix '-us', which forms abstract nouns. It has multiple grammatical forms including genitive 'kiiruse', partitive 'kiirust', and plural form 'kiirused'."
 }

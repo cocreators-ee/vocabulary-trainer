@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kelleks sa tahad sellest teha?",
-    "Miks sa oled kellekski?",
-    "Ta oli kellekski"
+    "Kelleks sa oled siin?",
+    "Selleks tööks vajame rohkem aega.",
+    "Milleks see kõik on vaja?"
   ],
   "translation": [
-    "to whom",
     "for whom",
-    "into what/whom"
+    "for what purpose",
+    "why"
   ],
-  "context": "The word 'kelleks' is an Estonian interrogative/indefinite pronoun that can function as either 'to whom' or 'for whom' depending on context. It's formed by adding the suffix '-ks' to the root 'kel-' (meaning 'who'). The '-ks' suffix typically indicates transformation, purpose, or destination in Estonian grammar."
+  "context": "\"kelleks\" is an Estonian interrogative word that means 'for whom' or 'for what purpose'. It's used to ask about the beneficiary, recipient, or reason behind something. This word appears in questions and can also be part of longer expressions asking about purposes or destinations."
 }

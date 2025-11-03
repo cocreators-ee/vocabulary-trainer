@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Vieläkö sinulla on kysymyksiä?",
-    "Hän ei vielä saapunut.",
-    "Vieläkö olet kotona?"
+    "Emme ole siellä vielä.",
+    "Vielä suurempi.",
+    "Hän on vielä siellä."
   ],
   "translation": [
-    "still",
     "yet",
-    "even"
+    "still",
+    "even",
+    "another",
+    "more"
   ],
-  "context": "The Finnish word 'vielä' is used as an adverb that can mean 'still', 'yet', or 'even'. It's often placed at the end of sentences in questions (with '-ko/kö' attached) and indicates continuation of a state, lack of completion, or surprise/emphasis. When used at the end of statements, it typically means 'still', while in questions it can ask if something is still true or not yet happened."
+  "context": "The Finnish word 'vielä' is an adverb with multiple meanings depending on the context. It can mean 'yet', indicating something hasn't happened up to this point, as in 'not yet'. It also translates to 'still', meaning something continues to be true or exist. Additionally, it can signify 'even' when emphasizing a comparison ('even larger').  It can also mean 'another' or 'more', and even 'once more'. The wiktionary definition notes that it is often used in negative sentences."
 }

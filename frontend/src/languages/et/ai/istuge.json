@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Palun istuge alla.",
-    "Võite istuda rõdul.",
-    "Lapsed istuvad klassis."
+    "Istuge maha ja rääkige üks jutt mis jutt.",
+    "Pange, pange ahtrid ankrusse istuge.",
+    "Kas sa võiksid palun istuge?"
   ],
   "translation": [
-    "sit down",
-    "take a seat"
+    "to sit down",
+    "take a seat",
+    "be seated"
   ],
-  "context": "The word 'istuge' is the 2nd person plural imperative form of the Estonian verb 'istuma', which means 'to sit'. It's used when addressing multiple people and telling them to sit down or take seats. The '-ge' ending indicates it's a command directed at a group of people. For example, 'Palun istuge alla' means 'Please sit down (all of you)'. This form is commonly used in formal settings when speaking to groups, such as classrooms, theaters, or meetings."
+  "context": "The Estonian word 'istuge' is the second person plural imperative form of the verb 'istuma' (to sit). It's used when telling a group of people to sit down or take seats. The dictionary definition shows it can also relate to anchoring ships ('ahtrit ankrusse panema'), but this appears to be a specific nautical usage that combines sitting with ship commands."
 }

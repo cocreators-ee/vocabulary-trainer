@@ -1,15 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on kesäkausi.",
-    "Talvikausi alkaa marraskuussa.",
-    "Kausi päättyy ensi viikolla."
+    "Kesällä on vilkas matkailukausi.",
+    "Hän valittiin toiselle toimikaudelle.",
+    "Tämä oli hänen paras kausi joukkueessa."
   ],
   "translation": [
     "season",
     "period",
     "term",
-    "course"
+    "age",
+    "epoch",
+    "series"
   ],
-  "context": "The Finnish word 'kausi' means season, period, term or course. It can refer to time periods like summer season, winter season, school terms, or other defined periods of time. In different contexts it might be used for sports seasons (jääkiekkokausi = ice hockey season), TV show seasons, or academic terms."
+  "context": "The word 'kausi' in Finnish refers to a period of time, like a season (summer, winter), a term of office for an elected official, or a series of episodes in a television show. It can also refer to an age or epoch in history or geology. The word declines based on grammatical case, as shown in the provided dictionary definitions, indicating possession and relationships within a sentence."
 }

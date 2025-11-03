@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Õhtu saabus kiiresti.",
-    "Me veedame õhtu koos perega.",
-    "Täna on ilus õhtu."
+    "Õhtu on ilus.",
+    "Meil oli hea õhtu koos perega.",
+    "Kell on seitsme eest õhtu."
   ],
   "translation": [
     "evening",
-    "night"
+    "dinner",
+    "west"
   ],
-  "context": "In Estonian, 'õhtu' means evening or night. It's typically used to refer to the time period from late afternoon until nighttime. The word is in nominative singular form here. In different grammatical cases it would change: for example, 'õhtul' (on/at/in the evening), 'õhtule' (to/towards the evening)."
+  "context": "The Estonian word 'õhtu' has multiple meanings depending on context. Primarily, it means 'evening' - the end of the day, typically from about six o'clock until bedtime. It can also refer to 'dinner' (food eaten in the evening) or 'west' (the arc of the sky where the sun sets). From an etymological perspective, it comes from Proto-Finnic *ëktago and is cognate with Finnish ehtoo and Votic ohtogo. The word follows regular Estonian declension patterns with different forms in various grammatical cases."
 }

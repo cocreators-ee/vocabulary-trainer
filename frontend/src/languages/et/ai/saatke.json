@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Palun saatke see kiri homme.",
-    "Ma olen saanud palju kirju, aga ma ei ole veel saadetud oma vastust.",
-    "Saatke meile teave kohe."
+    "Saatke kiri aadressil Tallinn, Sakala 3.",
+    "Saada mulle oma aadress palun.",
+    "Kas teate Jaani uut aadressi?"
   ],
   "translation": [
     "send",
     "mail",
-    "dispatch",
-    "forward"
+    "dispatch"
   ],
-  "context": "The word 'saatke' is the second person plural imperative form of the verb 'saata', which means 'to send'. It's used when speaking to a group of people and instructing them to send something. The ending '-ke' indicates the plural imperative form in Estonian."
+  "context": "The word 'saatke' is the second-person plural imperative form of the Estonian verb 'saada', which means 'to send'. It's used to give an instruction or request to multiple people, telling them to send something. In this context, it appears in the example sentence 'Saatke kiri aadressil Tallinn, Sakala 3.' meaning 'Send a letter to the address Tallinn, Sakala 3.'"
 }

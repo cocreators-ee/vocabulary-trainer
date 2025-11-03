@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kas sa võiksid mulle aidata selle küsimusega?",
-    "Mul on üks küsimus teie suhtes.",
-    "Vastake palun nendele küsimustele."
+    "Mul on küsimus.",
+    "Kas kõik said küsimusest aru?",
+    "Töö lõpetamine on vaid aja küsimus."
   ],
   "translation": [
     "question",
     "issue",
-    "matter"
+    "matter",
+    "problem"
   ],
-  "context": "The word 'küsimus' in Estonian is a noun that means 'question' or 'matter'. It's used when asking something, bringing up a topic for discussion, or referring to an issue that needs attention. The word follows standard Estonian grammar with potential case endings depending on its function in the sentence."
+  "context": "The Estonian word 'küsimus' primarily means 'question', but it can also refer to an issue, matter, or problem that needs consideration or resolution. It's commonly used in both everyday conversation and more formal contexts. When combined with time-related words, it indicates something is imminent or just a matter of time."
 }

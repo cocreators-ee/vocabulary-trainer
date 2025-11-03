@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma sõidan Tallinnasse.",
-    "Ta sõidab autoga.",
-    "Me lähme sõitma homseks."
+    "Ma sõidan Tallinna.",
+    "Tema sõidab autoga.",
+    "Meie sõidame bussiga."
   ],
   "translation": [
-    "drive",
-    "travel by vehicle"
+    "I drive",
+    "he/she/it drives",
+    "we travel by"
   ],
-  "context": "The word 'sõidan' is the first person singular present indicative form of the Estonian verb 'sõita', which means 'to drive' or 'to travel by a vehicle'. It's used when someone (I) is currently driving or traveling in a vehicle. The root 'sõit-' relates to movement, and this verb specifically refers to using some form of motorized transport rather than walking."
+  "context": "The word 'sõidan' is the 1st person singular present tense form of the Estonian verb 'sõitma', which means 'to travel', 'to go', or 'to drive'. It specifically refers to the action of moving from one place to another, and can be used for various modes of transportation including walking, driving, taking public transport, etc. In its present tense form, it indicates that the speaker is currently performing the action of traveling or going somewhere."
 }

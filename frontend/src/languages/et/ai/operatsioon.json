@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Operatsioon edukas.",
-    "Pidi tegema keerulise operatsiooni.",
-    "Kliinikul toimub suur operatsioon."
+    "Äriline operatsioon nõuab täpsust ja planeerimist.",
+    "Arst tegi keerulise südameoperatsiooni.",
+    "Tehniline operatsioon läks edukalt lõpuni."
   ],
   "translation": [
     "operation",
-    "procedure",
-    "surgery"
+    "surgical procedure",
+    "military operation",
+    "business transaction"
   ],
-  "context": "The Estonian word 'operatsioon' is a noun that refers to a medical procedure or surgical intervention. It can also refer more broadly to any operation, process, or action requiring organized execution. The word follows standard Estonian grammar rules and appears in both singular forms as shown."
+  "context": "In Estonian, 'operatsioon' is a versatile noun that can refer to several types of organized actions or procedures. It commonly means 'operation' in business contexts (like financial transactions), 'surgical procedure' in medical contexts, 'military operation' in military contexts, and more generally any planned activity with a specific goal. The word follows Estonian declension patterns and appears in compound forms like 'südameoperatsioon' (heart surgery) or 'äriline operatsioon' (business operation)."
 }

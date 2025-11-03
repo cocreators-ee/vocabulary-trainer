@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Tuleb nr 3 bussi peatusest.",
-    "Meie asukoha number on nr 7.",
-    "Palun tulla vastuvõtule nr 5."
+    "See on nr 1.",
+    "Telli meilt nr 2.",
+    "Kas sa tead nr 3?"
   ],
   "translation": [
-    "number",
-    "no.",
-    "numéro"
+    "number"
   ],
-  "context": "The Estonian word 'nr' is an abbreviation for 'number', used to indicate a numerical designation or reference number. It's commonly found in addresses, bus routes, room numbers, and other contexts where items need to be identified by sequence."
+  "context": "The Estonian abbreviation 'nr' stands for 'number', which is used to indicate numerical order or identification numbers in various contexts like ordering, listing, or identifying items."
 }

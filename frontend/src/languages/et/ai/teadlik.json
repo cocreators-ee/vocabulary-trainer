@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Olen teadlik sellest probleemist.",
-    "Ta on väga teadlik oma vastutusest.",
-    "Mees oli täiesti teadlik ohtudest."
+    "Teadlik kontroll oma liigutuste üle.",
+    "Oli oma vigadest teadlik.",
+    "Kas oled teadlik, et etendus jääb ära?"
   ],
   "translation": [
-    "aware",
     "conscious",
-    "cognizant"
+    "aware",
+    "knowledgeable",
+    "informed"
   ],
-  "context": "The Estonian word 'teadlik' is an adjective meaning 'aware' or 'conscious'. It describes someone who has knowledge of a situation, fact, or condition. The word comes from the root 'teada' (to know) and the suffix '-lik', which forms adjectives indicating a state or quality. When used with a person as subject, it indicates that they possess awareness or consciousness about something."
+  "context": "The Estonian word 'teadlik' is an adjective that means conscious or aware. It can describe someone who has knowledge or awareness of something specific (like their mistakes, a situation, or circumstances), or it can refer to intentional/purposeful actions. The word comes from 'teadvus' meaning consciousness and the suffix '-lik' indicating quality or state."
 }

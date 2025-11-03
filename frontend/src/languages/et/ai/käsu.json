@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Antud käsu kohaselt peaksid tööd lõpetama.",
-    "Käsu täitmine on kohustuslik.",
-    "Vastavalt sellele käsule tuleb muuta protseduure."
+    "Töötaja sai käsu alustada uut projekti.",
+    "Poliitik dekreteeris seaduse käega.",
+    "Bürokraat annab tihti käsu korras juhiseid."
   ],
   "translation": [
-    "command",
-    "order",
-    "instruction"
+    "to decree",
+    "to order",
+    "to command",
+    "to prescribe"
   ],
-  "context": "The Estonian word 'käsu' is the genitive singular form of 'käsk', which means command, order, or instruction. It indicates possession or relationship with a command - meaning 'of the command' or 'regarding the command'. In legal contexts it can refer to an official directive that must be followed."
+  "context": "The word 'käsu' in Estonian is the translative form of 'käsk' (command/order), meaning 'by means of a command' or 'in the manner of an order'. It's derived from the verb dekreteerima (to decree). In context, it indicates that something was done through or by means of a formal command or decree. The word carries connotations of officialdom and bureaucracy, as seen in the dictionary example mentioning bürokraatide (bureaucrats') tendency to issue such commands."
 }

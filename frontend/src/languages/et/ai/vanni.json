@@ -1,13 +1,14 @@
 {
-  "confidence": 1.0,
   "understood": true,
   "sentences": [
-    "Mõelge pärast vannit soojust.",
-    "Sul on erinevad voodid ja vannit paksuhallid.",
-    "Vanne oli nii väike et kui sa istud siis sulle tuleb jalga loka."
+    "Vannis, duši all kümblema.",
+    "Kümbleb iga päev basseinis, meres, jões.",
+    "Pääsuke kümbleb vees, varblane tolmus."
   ],
   "translation": [
-    "bathroom"
+    "to bathe",
+    "to swim",
+    "to soak"
   ],
-  "context": "'vanni' refers to a bathroom, typically in the context of personal hygiene or as part of a house. It may be used in describing where one goes to take a bath or shower."
+  "context": "The word 'vanni' appears to be a form of the Estonian verb 'kümmelda' which means 'to bathe', 'to swim', or 'to soak'. Based on the dictionary definitions, it's specifically related to bathing in water, whether in a shower (duši all), bath, pool, sea, river, or natural bodies of water. The word can refer both humans and animals bathing or swimming."
 }

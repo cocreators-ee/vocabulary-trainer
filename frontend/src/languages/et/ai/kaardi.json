@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kas sa võtad kaarti?",
-    "Meil on üks kaart sellest piirkonnast.",
-    "Mina tegin kaardi teie jaoks."
+    "Kaardi koostamiseks on vaja aega.",
+    "See kaardi näitab kõik vajalikud märgistused.",
+    "Lavastuse kaardi tegemine võtab nädala."
   ],
   "translation": [
-    "card",
-    "map"
+    "explanation",
+    "clarification",
+    "plan"
   ],
-  "context": "The word 'kaardi' is the genitive singular form of the Estonian noun 'kaar' in the context of 'kaar+d'. In this case, it functions as an object marker meaning 'of a card' or 'for a card'. It can refer to either playing cards or maps depending on context. The base form 'kaar' (card/map) becomes 'kaardi' when used with possessive structures or when indicating the direction/movement toward something."
+  "context": "The word 'kaardi' is the partitive case form of 'kaart', which refers to an explanation, clarification, or plan. In theatrical contexts, it specifically means a director's production plan. The dictionary definitions indicate it can mean a detailed explanation (especially of signs on a map) or a stage plan prepared by a director or stage manager."
 }

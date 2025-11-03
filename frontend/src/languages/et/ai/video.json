@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tegelane tegi videote esitluse.",
-    "Videojälgija ei olnud üllatunud.",
-    "Videopilt oli selge ja kvaliteetne."
+    "Vaata seda videot!",
+    "Tegin videopöördumise sõpradega.",
+    "Videosignaal oli häiretega."
   ],
   "translation": [
     "video",
-    "videotape"
+    "videotape",
+    "recording",
+    "moving image"
   ],
-  "context": "The word 'video' in Estonian is a loanword from English. It refers to a recording of moving images, typically produced by electronic means and displayed on screens. In Estonian, it's used similarly to English for referring to video content, videos, or videotapes."
+  "context": "The Estonian word 'video' comes from English and refers to moving images or recordings. It's used as a noun in Estonian with various grammatical forms (genitive video, partitive videot). The word appears in compound words like 'videosalvestatud' (videorecorded) and is commonly used in modern contexts for things like videosignaal (video signal), videofilm (videofilm), or videopöördumine (video call)."
 }

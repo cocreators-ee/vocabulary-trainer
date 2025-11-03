@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Kunagi ma ei peaks seda tegema.",
-    "Oled sa kunagi käinud Tallinnas?",
-    "Ta on kunagi öelnud et ta armastab sind."
+    "See võis kunagi varem nii olla.",
+    "Seletan sulle kunagi hiljem.",
+    "Ta ei tee seda kunagi."
   ],
   "translation": [
-    "never",
     "ever",
-    "at some time in the past"
+    "once",
+    "sometime",
+    "some day",
+    "one day"
   ],
-  "context": "The word 'kunagi' is an Estonian adverb that means 'never' or 'ever', and can also refer to some unspecified time in the past. It's commonly used with negative constructions (like 'ei peaks') to express something should never be done, or with questions about experiences ('käänud'). When used affirmatively, it may refer to an unspecified time in the past. The word doesn't change form based on gender, number, or case."
+  "context": "The Estonian adverb 'kunagi' has multiple meanings depending on context. It can mean 'ever' (in questions or negative statements), 'once' or 'sometime' in the past, or 'some day'/'one day' for future events. In affirmative sentences about the past, it indicates an unspecified time in history ('at some point'). When used with negation, it means 'never'. It can also be used in comparisons to emphasize something as being more extreme than ever before."
 }

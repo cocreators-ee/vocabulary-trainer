@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ema ja isa on lõuna ajal kodus.",
-    "Tema isa töötab pangas.",
-    "Lapsed küsivad isalt abi."
+    "Mis isa teeb?",
+    "Tema isal on hea töö.",
+    "Isal palub sind koju tulda."
   ],
   "translation": [
     "father",
     "dad",
     "papa"
   ],
-  "context": "The Estonian word 'isa' means father or dad. It's a masculine noun referring to one's male parent. In the examples provided, I've shown different cases: nominative case 'isa', genitive case 'isa', and partitive case 'isat'. The word follows Estonian grammar rules with declension changes depending on its grammatical function in the sentence."
+  "context": "The word 'isal' in Estonian means 'father' or 'dad'. It's the translative case of the word 'isa', which means father. The translative case in Estonian indicates a change of state or identity - it shows what something becomes or is transformed into. In this case, 'isal' would be used when someone or something is referred to as being 'in the role of' a father or 'as a father'."
 }

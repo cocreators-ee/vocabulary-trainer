@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Meillä on mahdollisuus voittaa tämä peli.",
-    "Tämä tarjoaa hänelle uuden mahdollisuuden.",
-    "Mahdollisuudet ovat nyt paremmat kuin koskaan."
+    "Sateen mahdollisuus huomenna on 30 %.",
+    "Meillä on 50 prosentin mahdollisuus voittaa.",
+    "Sekin on yksi mahdollisuus."
   ],
   "translation": [
     "possibility",
     "chance",
-    "opportunity"
+    "probability",
+    "likelihood",
+    "opportunity",
+    "choice"
   ],
-  "context": "The Finnish word 'mahdollisuus' refers to the state or fact of being possible, or something that may be done, achieved, or attained. It's a noun that can be translated as 'possibility', 'chance', or 'opportunity' in English. The word comes from the adjective 'mahdollinen' (possible) with the suffix '-uus' which forms abstract nouns. In Finnish grammar, it follows normal declension patterns for nouns ending in -us."
+  "context": "The word 'mahdollisuus' in Finnish translates to possibility, chance, or opportunity in English. It comes from the root 'mahdollinen', meaning possible. The noun declines based on case and number; for example, 'mahdollisuudet' is the plural nominative form.  The suffix '-uus' indicates a state or quality. You can see possessive forms like 'mahdollisuuteni' (my possibility) which further show how it changes depending on who possesses the opportunity."
 }

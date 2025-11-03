@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lennukis on palju inimesi.",
-    "Me lendame lennukis Prantsusmaale.",
-    "Tere tulemast lennukisse!"
+    "Lennukis on hea reisi lõpetada.",
+    "Kas sa oled kunagi lennukis käinud?",
+    "Me lendame täna lennukis."
   ],
   "translation": [
-    "in the airplane",
-    "on the plane",
-    "in the aircraft"
+    "on a plane",
+    "in an airplane",
+    "in an aircraft"
   ],
-  "context": "The word 'lennukis' is an Estonian adessive case form of 'lennuk', meaning airplane. The '-s' ending indicates location or place, so it translates to 'in the airplane' or 'on the plane'. This case is used when something is located on/in something else."
+  "context": "The word 'lennukis' is the inessive case (inessus) of the Estonian noun 'lennuk', which means 'airplane'. The '-s' ending indicates that something is inside or within something else. So 'lennukis' literally means 'in an airplane' and is used when someone wants to indicate location - being inside an aircraft during flight."
 }

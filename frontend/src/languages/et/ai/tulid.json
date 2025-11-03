@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tulid homme kell neli?",
-    "Kuhu sa tulid öösel?",
-    "Nad tulid koju hilja."
+    "Tulid homme koht?",
+    "Kust sa tulid?",
+    "Milleks tulid siia?"
   ],
   "translation": [
-    "came",
-    "arrived"
+    "you came",
+    "did you come"
   ],
-  "context": "The word 'tulid' is the past tense second person singular form of the Estonian verb 'tulla', which means 'to come'. It translates to 'you came' in English. This verb indicates movement toward the speaker or a location, commonly used when someone arrives at a place."
+  "context": "The word 'tulid' is the second-person singular past indicative form of the Estonian verb 'tulema', which means 'to come'. It specifically translates to 'you came' in English and is used when addressing one person (singular) who performed the action of coming in the past. In questions, it would be translated as 'did you come?'."
 }

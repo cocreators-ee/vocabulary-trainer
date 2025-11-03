@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ehdotan meille kahvia.",
-    "Hän ehdotti uutta ajankohtaa kokoukselle.",
-    "Mitä sinä ehdottaisit?",
-    "Minulle ehdotettiin uutta työpaikkaa."
+    "Hän ehdotti uutta suunnitelmaa.",
+    "Voit ehdottaa muutoksia esitykseen.",
+    "Opettaja ehdotti, että opiskelijat tekisivät enemmän harjoituksia."
   ],
   "translation": [
-    "to suggest",
-    "to propose",
-    "to offer"
+    "suggest",
+    "propose",
+    "nominate"
   ],
-  "context": "The Finnish verb 'ehdottaa' means to suggest, propose or offer something. It can be used in various contexts such as suggesting ideas (ehdotan ideoita), proposing times for meetings (ehdotti uutta ajankohtaa), or offering suggestions. The word follows the basic conjugation pattern of -aa ending verbs in Finnish: present tense 'ehdotan' (I suggest), third person singular 'ehdottaa' (he/she suggests), past tense 'ehdoin' (I suggested) etc."
+  "context": "The Finnish verb 'ehdottaa' means 'to suggest' or 'to propose'. It is a transitive verb that takes the allative case for the person being suggested to, and the translative case for what is being suggested as. The form 'ehdottavat' indicates the third-person plural present tense ('they suggest')."
 }

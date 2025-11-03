@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Raamatu ostmiseks läksin raamatupoodi.",
-    "See on põnev raamatu.",
-    "Ma loen seda raamatu igal hommikul."
+    "Raamatu lõpus on täissõnastik.",
+    "Lugesin raamatu läbi ja otsisin indeksist vastava lehekülje numbri.",
+    "Teoses on nii sisukui ka nimede register."
   ],
   "translation": [
-    "book",
-    "of the book"
+    "index",
+    "register",
+    "word list"
   ],
-  "context": "The word 'raamatu' is the genitive singular form of the Estonian noun 'raamat', which means 'book'. In English grammar, this corresponds to the possessive case or 'of the book'. It indicates that something belongs to a book or relates to a book in some way. For example, 'raamatu ostmine' means 'buying of the book' or 'the buying of the book', and 'põnev raamatu' could mean 'an exciting book' though this construction is less common than using the nominative form directly."
+  "context": "The Estonian word 'raamatu' refers to an index or register found at the end of a book, which helps readers find specific terms, concepts, or names. It's essentially a reference tool that organizes and lists important items from the text for easy lookup."
 }

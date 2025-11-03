@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Anti on hea mees.",
-    "Anti ja Mari sõidavad koos Tallinna.",
-    "Anti elab Tallinnas."
+    "Anti käis tööl büroos.",
+    "Büroo anti linnaelanikele informatsiooni.",
+    "Aadressbürool oli palju inimesi."
   ],
   "translation": [
-    "Andy",
-    "Anthony"
+    "provided",
+    "gave",
+    "offered"
   ],
-  "context": "\"Anti\" is an Estonian given name that serves as a diminutive or nickname for longer names like \"Andi\", \"Ando\", and \"Anton\". It's commonly used as a first name in Estonia, similar to how \"Andy\" is used in English-speaking countries. The name is typically capitalized when used as a proper noun but would be lowercase in contexts where it's not referring to a specific person."
+  "context": "The word 'anti' is a third-person singular form of the Estonian verb 'andma', which means 'to give' or 'to provide'. In this context, it appears to be used in reference to an address bureau (aadressibüroo) where information about residents' addresses was provided and given out to people."
 }

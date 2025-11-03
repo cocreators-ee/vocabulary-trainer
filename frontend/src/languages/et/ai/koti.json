@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Koti on ilus väike linn.",
-    "Meie kodu oli väga mugav.",
-    "Kas sa tahad minna koti poole?"
+    "Koti on kinniste osade lahtine äär.",
+    "Olen näinud kotisid, millel on ilusad koti.",
+    "Lund vajus nagu avatud kotisuu."
   ],
   "translation": [
-    "home",
-    "house",
-    "residence"
+    "opening/collar of a bag/container",
+    "top edge/opening"
   ],
-  "context": "In Estonian, 'koti' is the partitive form of the noun 'kodu', which means home or house. The partitive case typically indicates an incomplete action or partial object. In these examples, it can be used in contexts like 'going toward home' or referring to aspects related to one's dwelling."
+  "context": "Koti is the genitive singular form of 'kott', meaning 'bag' or 'container'. In Estonian, 'koti' specifically refers to the upper, open edge or collar of something like a bag. It's used to describe the opening part that can be held or opened, similar to how you might refer to the top rim or collar of a container."
 }

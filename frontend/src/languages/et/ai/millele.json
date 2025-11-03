@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Millele sa oot?",
-    "Kes küsib, millele vastata?",
-    "Ta ei tea, millele ta peab vastama."
+    "Millele on see ajalehepaber?",
+    "Selle pakke jaoks kasutati kvaliteetset millile.",
+    "Milliseid nõudeid esitatakse millele trükiks?"
   ],
   "translation": [
-    "to what",
-    "for what purpose",
-    "about what"
+    "newspaper paper",
+    "newsprint",
+    "paper for printing newspapers"
   ],
-  "context": "The Estonian word 'millele' is an interrogative pronoun in the allative case. It's formed by adding the allative ending '-le' to the stem 'mill-', which means 'what'. The word asks about direction, target, or purpose - essentially asking 'to what' or 'for what purpose'. It's used when you want to know the destination, recipient, or objective of something."
+  "context": "The Estonian word 'millele' is an instrumental case form of the noun 'millis', which refers to a type of paper specifically used for making or printing newspapers. In this context, it means 'for what kind of paper' or 'on what type of paper'. The instrumental case indicates the instrument or material that something is made from or on."
 }

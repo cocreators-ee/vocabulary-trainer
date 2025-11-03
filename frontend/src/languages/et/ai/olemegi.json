@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Olemegi koos selles projektis.",
-    "Töötabgi see hästi.",
-    "Kas sa oledgi kindel?"
+    "Tund aega autosõitu ja olemegi kohal. Mõned ei kannata hästi autosõitu.",
+    "Me oleme lõpuks jõudnud kohale ja nüüd olemegi turul.",
+    "Kaks tundi sõidame veel ja siis olemegi peresoodas."
   ],
   "translation": [
-    "indeed",
-    "really",
-    "actually",
-    "after all"
+    "we are already",
+    "we have arrived",
+    "we're here now"
   ],
-  "context": "The word 'olemegi' is a compound form in Estonian. It consists of 'oleme' (we are) + the particle 'gi' which adds emphasis or confirmation. The particle 'gi' typically means 'also', 'too', 'indeed', or 'really', and when added to verb forms, it adds emphasis or indicates that something is obvious or expected. In this case, 'olemegi' would be used with plural first person (we are) but the structure can be adapted for other persons as well. It's similar to adding 'actually' or 'indeed' in English to add emphasis to a statement."
+  "context": "The word 'olemegi' is a combination of Estonian verb 'olema' (to be) with the suffix '-me' (first person plural - we) and the particle 'gi' which adds emphasis, meaning 'already'. So it literally translates to 'we are already'. It's used when you want to emphasize that something has been accomplished or achieved, especially after some process or journey. The particle 'gi' at the end gives it an emphatic tone, similar to saying 'and now we're here!' or 'finally we've arrived!'"
 }

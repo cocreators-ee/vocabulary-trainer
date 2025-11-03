@@ -1,13 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tulevane aasta on 2024.",
-    "Eelmisel aastal käisime Soomes.",
-    "Paljud inimesed ootavad uut aastat pidu."
+    "1980. aasta",
+    "mis aastal sa sündinud oled?",
+    "poiss on juba seitse aastat vana"
   ],
   "translation": [
     "year",
-    "annum"
+    "solar year",
+    "calendar year",
+    "twelve-month period",
+    "age in years"
   ],
-  "context": "The word 'aasta' is the Estonian noun for 'year'. It can appear in different forms depending on grammatical case and number. In nominative singular it means 'a year', while in genitive singular ('aasta') it typically indicates possession or time reference. The word comes from Proto-Finnic origins and is used to refer to a period of 365/366 days."
+  "context": "The Estonian word 'aasta' primarily means 'year' and has multiple related meanings: 1) a time period of approximately 12 months, either as a calendar/solar year (365-366 days), or any 12-month period starting at any moment; 2) age in years when used with numbers indicating someone's age. The word can also be part of compound nouns to denote specific types of years (like 'õppeaasta' for academic year). In its plural form and certain cases, it can mean 'for years' or indicate ongoing periods."
 }

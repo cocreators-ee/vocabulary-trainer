@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tänav on täidetud autodega.",
-    "Me läheme mööda tänava.",
-    "Kaks poissi mängisid tänava keskel."
+    "Tänav on kitsas.",
+    "Kingsepatöökoda asub vanalinna kõige käidavamas tänavas.",
+    "Kolisime Rohelisse tänavasse."
   ],
   "translation": [
     "street",
-    "road",
-    "avenue"
+    "road"
   ],
-  "context": "The Estonian word 'tänav' translates to English words like 'street', 'road', or 'avenue'. It refers to a public thoroughfare in a town or city, typically with buildings on both sides. In Estonian grammar, 'tänav' follows the normal declension pattern for common nouns and would have different forms depending on case (nominative tänav, genitive tänava, partitive tänavat, etc.)."
+  "context": "The Estonian word 'tänav' means street or road. It refers to a path in urban areas that is typically bounded by buildings on both sides and may have sidewalks. The word can be found in various compound words like peatänav (main street), kõrvaltänav (side street), etc. The declension pattern shows it's a type 2 Estonian noun with genitive tänava, partitive tänavat, plural tänavad."
 }

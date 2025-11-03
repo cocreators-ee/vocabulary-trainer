@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Mamma on kodus.",
-    "Kas sa näed mammat?",
-    "Tere, mammakese!"
+    "Ega lapsed kõiki asju papadele-mammadele räägi.",
+    "See oli vist Merikese mamma.",
+    "Aga, mamma, Juulius on ju meil nagu oma inimene, kas pole nii?"
   ],
   "translation": [
-    "mommy",
-    "mama",
+    "mom",
     "mother"
   ],
-  "context": "The word 'mamma' is an informal term for mother in Estonian. It's commonly used by children to refer to their mother or as a term of endearment. The word can be declined in different cases - for example, the genitive form would be 'mamma'. It has a warm, affectionate connotation similar to 'mommy' in English."
+  "context": "Mamma is a colloquial term for mother or mom. It's an informal way to refer to one's mother, similar to how 'mama' or 'mom' are used in English. The word can be found in compound words like 'tite|mamma' (grandma), 'vana|mamma' (old grandma), and 'ämmamamma' (mother-in-law's mother). It shows affectionate and familiar usage rather than formal address."
 }

@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ema keeb head veini.",
-    "Me ostame veinid suppi.",
-    "Kas sa armastad punast veini?"
+    "Vein on alkohoolne jook, mis saadakse marja- või puuviljamahla kääritamisel.",
+    "Me ostsid pudeli head valget veini piduks.",
+    "See vein on pisut mõrkjas ja hapu."
   ],
   "translation": [
-    "wine"
+    "wine",
+    "alcoholic beverage from fermented fruit juice"
   ],
-  "context": "The Estonian word 'vein' means 'wine' in English. It is a loanword from German and refers to the alcoholic beverage made from fermented grapes. In Estonian grammar, 'vein' follows normal declension patterns for masculine nouns ending in -n."
+  "context": "The Estonian word 'vein' means wine, specifically an alcoholic beverage obtained by fermentation of berry or fruit juice. It can refer to different types such as white, red, rosé wines, and they are categorized by sweetness (dry, semi-dry, sweet). The word was borrowed from German during the 19th century, ultimately from Latin 'vīnum'. In Estonian grammar, it follows declension pattern with genitive form 'veini', partitive 'veini', and plural nominative 'veinid'."
 }

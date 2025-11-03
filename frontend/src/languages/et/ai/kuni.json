@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kuni homseni näeme uuesti.",
-    "Töö kestab kuni viieni.",
-    "Kui sa tuled siia, ootan sind kuni sa tulemas."
+    "Magasin, kuni mind äratadi.",
+    "Saadan sind kuni järgmise tänavanurgani.",
+    "Mäed on kuni kilomeeter kõrged."
   ],
   "translation": [
     "until",
+    "till",
     "up to",
-    "as far as"
+    "to"
   ],
-  "context": "The Estonian word 'kuni' is a preposition that indicates time or spatial limit. It means 'until', 'up to', or 'as far as'. In the examples provided, it's used in temporal contexts - indicating when something will happen or continue (example 1), specifying an endpoint for duration (example 2), and expressing how long someone will be waited for (example 3)."
+  "context": "The Estonian word 'kuni' is a versatile word that can function as a conjunction, preposition, or adverb. As a conjunction, it indicates the time until which an action continues (like 'until' or 'till'). As a preposition (with terminative case), it marks boundaries in space, time, quantity, or extent (like 'up to', 'to', 'till'). As an adverb, it emphasizes the limit of some phenomenon or situation. It can connect numbers to indicate ranges (e.g., 'viis kuni kümme' means 'five to ten') and can often be omitted without changing meaning because the terminative case already conveys the boundary concept."
 }

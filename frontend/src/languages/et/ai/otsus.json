@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Otsus on võetud.",
-    "Meie otsused muutuvad sageli.",
-    "Ta tegi kiire otsuse."
+    "Tegi oma otsuse teistele teatavaks.",
+    "Muutis oma esialgse otsuse.",
+    "Üksmeelne otsus oli edasi töötada."
   ],
   "translation": [
     "decision",
-    "resolution",
-    "judgment"
+    "judgment",
+    "resolution"
   ],
-  "context": "The word 'otsus' is an Estonian noun meaning a decision or resolution. It's the singular nominative form of the word. In Estonian, this would be used when referring to a single decision made by someone or some entity. The plural form would be 'otsused'."
+  "context": "The Estonian word 'otsus' is a noun that means a decision or judgment reached after careful consideration of circumstances and possibilities. It can refer to both personal decisions made after thinking through options, as well as official judgments or rulings. The word follows specific declension patterns in Estonian grammar (ÕS type 9/katus), with forms like genitive 'otsuse', partitive 'otsust', and plural nominative 'otsused'. It is commonly used in contexts ranging from everyday choices to formal resolutions made by groups or authorities."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Koera otsin",
-    "Tema koera ei ole veel leitud",
-    "Kas sa näed seda koera?"
+    "Tänane ilm ei kõlba koeralegi.",
+    "See jutt ei kõlba koera hänna allagi.",
+    "Koera võttis endaga kaasa."
   ],
   "translation": [
-    "dog",
-    "canine",
-    "hound"
+    "dog's",
+    "of a dog",
+    "to a dog"
   ],
-  "context": "The word 'koera' is the genitive singular form of the Estonian noun 'koer', which means 'dog'. In Estonian grammar, the genitive case often indicates possession or association. So 'koera' can mean 'of a dog', 'belonging to a dog', or simply be used in contexts where the genitive case is required by grammatical rules. It's commonly seen in phrases like 'koera otsin' (I'm looking for a dog) or when referring to something that belongs to a dog."
+  "context": "'Koera' is the genitive singular, partitive singular, and illative singular form of 'koer' (dog). It can mean 'dog's', 'of a dog', or 'to a dog' depending on the grammatical case. In the example sentences provided in the dictionary definitions, it appears as part of phrases where it functions in different ways - sometimes showing possession ('koera hänna allagi' meaning 'even under a dog's tail'), and other times indicating something is not suitable for dogs ('ei kõlba koeralegi' meaning 'isn't even suitable for dogs')."
 }

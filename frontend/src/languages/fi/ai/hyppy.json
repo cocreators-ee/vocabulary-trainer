@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minä tein hyvän hyppy uima-altaaseen.",
-    "Hän harjoittelee hyppyjä päivittäin.",
-    "Kengät olivat liian kovat hyppyyn."
+    "Hän teki pitkän hypyn.",
+    "Lapset leikkivät hyppyä pihalla.",
+    "Mäkihyppääjät valmistautuvat seuraavaan kilpailuun."
   ],
   "translation": [
     "jump",
     "leap",
-    "dive"
+    "hop",
+    "vault"
   ],
-  "context": "The Finnish word 'hyppy' is a noun that means jump or leap. It can refer to various types of jumps including diving, and is commonly used in sports contexts. The word appears in different forms like 'hyppy' (singular) and 'hyppyjä' (plural), with the ending '-jä' indicating plural form in Finnish."
+  "context": "The word 'hyppy' in Finnish refers to the act of jumping or hopping. It can also mean a leap, especially in sports contexts like gymnastics (where it translates to vault) or skiing (mäkihyppy = ski jump). The word declines based on grammatical case, as shown in the dictionary definition, indicating its role within a sentence. For example, 'hyppyni' means 'my jump', and 'hyppyjemme' means 'our jumps'. It can also refer to networking hops when talking about data packets."
 }

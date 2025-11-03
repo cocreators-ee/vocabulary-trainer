@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tere tulemast!",
-    "Kuidas läheb?",
-    "Mingi ilus päev!"
+    "Ma tean, et sa oled julm.",
+    "Ma sõitsin poodi, et viina osta.",
+    "On hea, et sa tulid."
   ],
   "translation": [
-    "hello",
-    "greetings",
-    "welcome"
+    "that",
+    "to",
+    "in order to",
+    "so that",
+    "as to"
   ],
-  "context": "The word 'tere' is a common Estonian greeting used to say hello or welcome. It's often combined with other words like 'tere tulemast' (you're welcome/welcome) or used as a standalone greeting. This informal expression reflects the friendly nature of Estonian social interactions."
+  "context": "The Estonian word 'et' is a highly versatile conjunction with multiple functions. It can introduce subordinate clauses expressing purpose ('to', 'in order to'), cause/effect relationships, indirect speech, and various other syntactic structures. In its most common uses, it appears as both an introductory particle for indirect statements (equivalent to English 'that') and as a marker of purpose or result clauses (similar to English 'so that' or 'to'). Its meaning is always context-dependent and can range from factual connections to expressing wishes, conditions, or temporal relationships."
 }

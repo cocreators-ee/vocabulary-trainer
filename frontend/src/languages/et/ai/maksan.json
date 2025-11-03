@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Maksan arve ära täna.",
-    "Me maksame kõik koos.",
-    "Tema ei maksa midagi."
+    "Maksan selle arve eest täna.",
+    "Ta maksab oma laenatud raha tagasi aegsasti.",
+    "Me peame maksma kõik võlad enne kuupäeva."
   ],
   "translation": [
-    "I pay",
     "to pay",
-    "payment"
+    "to make payment",
+    "to settle a debt"
   ],
-  "context": "The Estonian word 'maksan' is the first person singular form of the verb 'maksama', which means 'to pay'. It can refer to paying for something, making a payment, or settling a debt. The word belongs to the -ma infinitive verb group and follows regular conjugation patterns in Estonian."
+  "context": "The Estonian word 'maksan' is the first person singular present tense form of the verb 'maksama', which means 'to pay'. It's used when referring to oneself paying for something or making a payment. The word appears to be in error in the provided dictionary definitions (ekss), as those definitions are actually for the word 'jätma' meaning 'to leave' or 'to abandon'. Based on context and common Estonian vocabulary, 'maksan' clearly means 'I pay' rather than anything related to leaving things behind."
 }

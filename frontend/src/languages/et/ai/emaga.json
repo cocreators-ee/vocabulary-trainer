@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on emaga head suhted.",
-    "Laps käis emaga poes.",
-    "Tema rääkis emaga telefoni teel."
+    "Laps on emaga kaasas",
+    "Tema viib lapse emaga",
+    "Pere läheb emaga puhkama"
   ],
   "translation": [
     "with mother",
-    "with mom"
+    "along with mother",
+    "mother's company"
   ],
-  "context": "The word 'emaga' is an Estonian noun case form that means 'with mother/mom'. It's the comitative case (koosütlev kääne) of 'ema' meaning mother, and the suffix '-ga' indicates accompaniment or association - showing doing something together with someone. The word follows the pattern where 'ema' becomes 'emaga' when you want to express that an action is done together with one's mother."
+  "context": "The word 'emaga' is an Estonian adessive case form that means 'with mother' or 'in the company of mother.' It comes from the root word 'ema' (mother) and the '-ga' suffix which indicates accompaniment or association. This construction follows typical Estonian grammar where the adessive case shows location in proximity to something, but can also indicate possession or accompaniment."
 }

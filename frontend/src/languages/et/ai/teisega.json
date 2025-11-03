@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta tuleb teisega kohtumisele.",
-    "Kas sa tahad teisega suhelda?",
-    "Me läksime teisega kinno."
+    "Mis ühe käega annab, seda teisega võtab.",
+    "Ta pole sõnapidaja mees: mis ühe käega annab, seda teisega võtab.",
+    "Tema poolt antu tuleb alati tagasi võtta teisega."
   ],
   "translation": [
-    "with him/her/it",
-    "together with them"
+    "with the other hand",
+    "on the other hand",
+    "with the other one"
   ],
-  "context": "The word 'teisega' is a combination of the Estonian pronoun 'teie' (formal you/plural) and the adessive case suffix '-ga' meaning 'with'. It specifically means 'with you' in formal address or when referring to multiple people. This form shows the instrumental/comitative case used with the plural/formal pronoun, indicating accompaniment or association."
+  "context": "The Estonian word 'teisega' means 'with the other hand/on the other hand'. It's used to express contrast between two different actions or perspectives. The phrase 'mis ühe käega annab, seda teisega võtab' (what he gives with one hand, he takes back with the other) is a common idiom that illustrates this concept of contradictory behavior."
 }

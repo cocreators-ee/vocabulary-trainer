@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Vaata lennuki lendavat!",
-    "Ma ostan uue lennuki.",
-    "Lennukit ei tohi kodanikuga kaasa viia."
+    "Lennukit pöörleb kiiresti.",
+    "Väikse lennuki propeller on töös.",
+    "Sõidukil oli suur lennukit."
   ],
   "translation": [
-    "airplane",
-    "plane",
-    "aircraft"
+    "propeller",
+    "screw"
   ],
-  "context": "The word 'lennukit' is the partitive case form of the Estonian noun 'lennuk', which means airplane or aircraft. The partitive case is used in Estonian to indicate incomplete action, indefinite quantity, or after certain verbs and prepositions. In this form, it would be used with expressions like 'buying an airplane' (ostan lennuki), looking at an airplane (vaata lennukit), or when referring to the concept of an aircraft in general."
+  "context": "The word 'lennukit' is the illative singular form of 'lennuk' in Estonian, meaning a propeller or screw. It refers to the rotating device with blades that provides thrust for vehicles like airplanes and boats. In this case, it's specifically used as an object in sentences, indicating movement toward something."
 }

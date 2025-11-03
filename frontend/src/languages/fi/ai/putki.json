@@ -1,15 +1,18 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on putki vesijohtoverkossa.",
-    "Putki on tukkeutunut.",
-    "Puhelimen putki näyttää heikolta signaalin."
+    "Vesi putkessa on kylmää.",
+    "Uusi ohjelmaversio on putkessa.",
+    "Hänellä oli pitkä voittoputki."
   ],
   "translation": [
-    "pipe",
     "tube",
+    "pipe",
+    "duct",
     "conduit",
-    "channel"
+    "streak",
+    "bout",
+    "pipeline"
   ],
-  "context": "The Finnish word 'putki' means pipe, tube, conduit or channel. It refers to a cylindrical hollow object through which liquids, gases, electrical wires, or other substances can pass. In different contexts it could be a water pipe (vesiputki), drainage pipe (viemäriputki), exhaust pipe (pakoputki), or even a phone antenna/antenna tube."
+  "context": "The Finnish word 'putki' refers to a long, hollow object used for conveying fluids or solids. It can also mean a streak of successes or a period of continuous events. The word has various forms depending on the context and grammatical case, such as 'putket' (plural), 'putken' (genitive), and 'putkea' (partitive)."
 }

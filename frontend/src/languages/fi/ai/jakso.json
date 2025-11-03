@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Jakso on päätynyt.",
-    "Seuraava jakso alkaa kahdella minuutilla.",
-    "Viimeisin jakso oli erityisen hyvä."
+    "Opiskelen suomea kolmen kuukauden jaksolla.",
+    "Elämäni on ollut täynnä erilaisia jaksoja.",
+    "Sarjassa oli viisi jaksoa."
   ],
   "translation": [
-    "episode",
     "period",
-    "session",
-    "stage"
+    "episode",
+    "term",
+    "passage"
   ],
-  "context": "The Finnish word 'jakso' can refer to several related concepts. It commonly means 'episode' when talking about television series or chapters in a story. It also means 'period' as in a timeframe, like a historical period. In other contexts, it can mean 'session' (as in a meeting session) or 'stage' (as in a stage of development). The word is used with different meanings depending on the context - for television content, it's an episode; for time periods, it's a specific timeframe; and for events or processes, it might refer to a particular stage or session."
+  "context": "The Finnish word 'jakso' refers to a period of time, an episode (like in a TV series), or a term (as in a school term). It can also mean a passage of text. The word declines based on case, as shown in the dictionary definition, and can be possessive depending on who owns the 'jakso'. For example, 'jaksomme' means 'our period/episode'."
 }

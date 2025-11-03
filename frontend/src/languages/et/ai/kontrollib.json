@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kontrollib oma dokumente.",
-    "Politseinik kontrollib liiklust.",
-    "Arst kontrollib patsiendi vererõhku."
+    "Keskuses on liikluspolitsei kontrollpost.",
+    "Tänaval on sõjaväe kontrollpostid.",
+    "Väljapääsu juures asuvad turvakontrolli postid."
   ],
   "translation": [
-    "checks",
-    "examines",
-    "controls",
-    "verifies"
+    "checkpoint",
+    "control point",
+    "inspection post"
   ],
-  "context": "The word 'kontrollib' is the third person singular present form of the verb 'kontrollima', which means to check, examine, control, or verify. It refers to the action of inspecting something carefully to ensure it meets certain standards or requirements."
+  "context": "In Estonian, 'kontrollpost' refers to a checkpoint or control point where someone monitors or checks people, vehicles, or items. The word combines 'kontroll' (control/inspection) with 'post' (point/station). It commonly describes locations like military checkpoints, police inspection points, security screening areas, or traffic control stations where officials monitor and regulate access."
 }

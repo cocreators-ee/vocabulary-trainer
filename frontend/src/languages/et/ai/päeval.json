@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Töötan päeval.",
-    "Me kohtume päeval kell kaks.",
-    "Kodus on alati külm päeval."
+    "Töötab päeval kell kaheksa kuni viis.",
+    "Mõtle sellele öösel, mitte päeval.",
+    "Päeval on ilus käia parkis jalutamas."
   ],
   "translation": [
     "during the day",
-    "in the daytime",
-    "by day"
+    "in the daytime"
   ],
-  "context": "The word 'päeval' is an Estonian adessive case form of 'päev', which means 'day'. In adessive case, it indicates location or time 'on/at/with the day'. It's commonly used to specify that something happens during daylight hours rather than at night. The adessive case ending '-l' changes the noun to indicate being on or at the specified time."
+  "context": "The word 'päeval' is an Estonian adverb that means 'during the day' or 'in the daytime'. It's in the adessive case (illative or inessive form) of the noun 'päev', which means 'day'. This case form indicates location or time when something happens. The word shows how Estonian uses different grammatical cases to express temporal concepts - here the adessive case is used to specify when an action occurs rather than where it occurs."
 }

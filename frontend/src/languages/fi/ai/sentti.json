@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on sentti rahaa taskussa.",
-    "Hän käytti sentin ostamaan karamellin.",
-    "Lentolipun hinta oli sata senttiä."
+    "Hän maksoi tuotteen viidellä sentillä.",
+    "Taskussa oli vain muutama sentti.",
+    "Pituus mitattiin senteissä."
   ],
   "translation": [
     "cent",
-    "penny"
+    "penny",
+    "centi-"
   ],
-  "context": "The word 'sentti' is the Finnish term for a monetary unit equivalent to one hundredth of the main currency (like cent or penny in English). It's commonly used when talking about small amounts of money, similar to how we use cents or pennies in English-speaking countries."
+  "context": "The word 'sentti' in Finnish primarily means 'cent', as in one hundredth of a monetary unit like the euro or dollar. It can also refer to a coin worth one cent. Colloquially, it can even mean 'centimetre'. The declension shows how the word changes based on its grammatical role in a sentence – nominative 'sentti' is used for the subject, genitive 'sentin' indicates possession, partitive 'senttiä' represents an indefinite amount, and so on.  The possessive forms show who owns the cents (e.g., 'senttini' means 'my cents'). The word can be in singular or plural form ('sentit'), depending on the quantity being referred to."
 }

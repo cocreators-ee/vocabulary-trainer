@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kuuleme homme kohtumisel.",
-    "Ta kuulub meie gruppi.",
-    "Sinu ettepanek kuulub arutelu."
+    "Küsimus ei kuulu edasiarutamisele järgmisel istungjärgul.",
+    "See asi ei kuulu meie kompetentsi alla.",
+    "Töö ei kuulu nende vastutusalasse."
   ],
   "translation": [
-    "belongs to",
-    "is part of",
-    "falls under"
+    "does not belong to",
+    "is not part of",
+    "falls outside the scope of"
   ],
-  "context": "The word 'kuulu' is the third-person singular form of the Estonian verb 'kuuluma', which means 'to belong to' or 'to be part of'. It indicates membership, inclusion, or categorization within a group, organization, category, or classification."
+  "context": "The word 'kuulu' is a verb in Estonian that appears to be used in negative contexts (typically with 'ei' before it) to indicate that something does not belong to, is not part of, or falls outside the scope of something else. Based on the dictionary definition provided, it specifically relates to procedural rules where certain questions from one session do not carry over for discussion in the next session."
 }

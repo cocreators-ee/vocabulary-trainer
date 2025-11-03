@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Töötan korteris.",
-    "Meeldiv elada selles korteris.",
-    "Kas sa oled siin korteris?"
+    "Korteris oli hea ilm.",
+    "Ta elab korteris Tallinnas.",
+    "Meie uus korteris on suur ja mugav."
   ],
   "translation": [
-    "in an apartment",
-    "in a flat",
-    "in the apartment"
+    "in the apartment",
+    "in the flat",
+    "indoors"
   ],
-  "context": "The word 'korteris' is in the inessive case (local case 3) of the Estonian noun 'korter', meaning 'apartment'. The '-s' ending indicates location inside or within something. It answers the question 'where?' and describes being located inside an apartment."
+  "context": "The Estonian word 'korteris' is an inessive case form of the noun 'korteri', meaning 'apartment' or 'flat'. The '-is' ending indicates location inside something, so 'korteris' specifically means 'in the apartment/flat'. This is commonly used to indicate where someone lives or the location of activities happening indoors within a residential unit."
 }

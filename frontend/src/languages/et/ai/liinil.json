@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lennuk maandub liinil.",
-    "Pilet on saadaval sellele liinile.",
-    "Me teeme uue liini Tallinnasse."
+    "Bussid kurseerivad regulaarselt sellel liinil.",
+    "Kiirbussidega saab sõita samal liinil kui tavaliste bussidega.",
+    "See on uus liin, mis ühendab kaks linna."
   ],
   "translation": [
-    "on the line/line",
-    "on route/route",
-    "on flight path"
+    "to run (regularly)",
+    "to service",
+    "to operate"
   ],
-  "context": "The word 'liinil' is the Estonian inessive case form of 'liin', meaning 'on the line'. It indicates location on a specific route, line, or connection. This can refer to transportation routes (bus lines, flight paths), communication lines, or established connections between places."
+  "context": "The word 'liinil' is an Estonian adessive case form of 'liin', which means route or line. It indicates location ('on a route/line'). The dictionary definition shows it's used in the context of regular transportation services like buses and airplanes operating on specific routes between cities."
 }

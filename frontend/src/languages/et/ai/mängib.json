@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Laps mängib pargis.",
-    "Tädi mängib klaverit.",
-    "Kass mängib hiirega."
+    "Kõht mängib.",
+    "Minu kõht mängib tugevalt.",
+    "Pärast pikka näljaminekut mängis kõht."
   ],
   "translation": [
-    "plays",
-    "is playing",
-    "acts"
+    "rumbles",
+    "growls"
   ],
-  "context": "The word 'mängib' is the 3rd person singular present tense form of the Estonian verb 'mängima', which means 'to play'. It can be used in various contexts: to describe children playing games, someone playing a musical instrument, or an actor performing on stage. The subject determines whether it refers to a boy/girl (laps), woman (tädi), cat (kass), etc."
+  "context": "The Estonian word 'mängib' when used in the context of 'kõht' (stomach) means that the stomach is rumbling or growling, typically due to hunger. It's a personification where the stomach's sounds are described as if it were playing or making music."
 }

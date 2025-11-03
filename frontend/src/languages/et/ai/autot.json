@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on uus autot.",
-    "Kas sa oled näinud seda autot?",
-    "Meie naabril on hea autot."
+    "Ta ostis uue autot.",
+    "Ma nägin suurt autot tänaval.",
+    "Mul pole raha autot osta."
   ],
   "translation": [
-    "car",
-    "automobile",
-    "vehicle"
+    "car (partitive case)",
+    "automobile (partitive case)"
   ],
-  "context": "The word 'autot' is the partitive singular form of the Estonian noun 'auto', which means car or automobile. The partitive case is used to indicate an incomplete action, unspecified quantity, or when something is being possessed indirectly. In this form, it often appears in contexts where someone has a car, sees a car, or there's involvement with a car without specifying exact ownership or complete possession."
+  "context": "The word 'autot' is the partitive singular form of the Estonian noun 'auto', which means car or automobile. In Estonian, the partitive case is used to indicate partialness, indefiniteness, or when an object is being acted upon in some way. The '-t' ending indicates this is the partitive singular form."
 }

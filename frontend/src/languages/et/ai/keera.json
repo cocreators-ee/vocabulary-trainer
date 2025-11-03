@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Keera ringi!",
-    "Kas sa keerad ära?",
-    "Keera see kinnast!"
+    "Keera gaas kinni, supp on juba keenud.",
+    "Gaasi andma, lisama 'mootorsõidukit liikuma panema v. liikumiskiirust suurendama'.",
+    "Gaasi põhja vajutama 'mootorsõidukile suurimat liikumiskiirust andma'."
   ],
   "translation": [
-    "turn (something)",
-    "twist",
-    "rotate"
+    "turn off the gas",
+    "add gas/to accelerate a vehicle/increase speed",
+    "press the gas pedal to give maximum speed"
   ],
-  "context": "The Estonian word 'keera' is the imperative form of the verb 'keerama', which means to turn, twist or rotate something. It's used as a command to make someone perform an action of turning or twisting an object. The basic infinitive form would be 'keerama'. When conjugated for imperative mood (you), it becomes 'keera'."
+  "context": "The word 'keera' in Estonian is an imperative form meaning 'to turn'. When used with 'gaas' (gas), it forms the phrase 'keera gaas kinni' which means 'turn off the gas'. In driving contexts, it's part of expressions like 'gaasi andma' (adding gas) and 'gaasi põhja vajutama' (pressing the gas pedal). It can refer to both actual gas appliances and vehicle acceleration."
 }

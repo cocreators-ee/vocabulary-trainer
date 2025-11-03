@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Mennään pois täältä.",
-    "Hän otti kirjan pois pöydältä.",
-    "Laita tuoli pois käytävästä."
+    "Hän meni pois.",
+    "Ota vaatteet pois.",
+    "Kuudesta pois neljä on kaksi."
   ],
   "translation": [
     "away",
     "off",
-    "out"
+    "minus",
+    "take away"
   ],
-  "context": "The Finnish word 'pois' is an adverb that indicates movement away from a place or position, removal of something from somewhere, or separation. It's commonly used to indicate direction away from the speaker or current location, similar to English words like 'away', 'off', or 'out'."
+  "context": "The word 'pois' in Finnish is an adverb meaning 'away', 'off', or 'minus'. It indicates movement from a place, removal of something, or subtraction in mathematics. The word can also be used to soften the force of an imperative, similar to saying 'just' before a command. It comes from the root 'poikki-' and has various inflections depending on its grammatical case."
 }

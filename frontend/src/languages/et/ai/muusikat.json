@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mulle meeldib kuulda head muusikat.",
-    "Kas te teate, kus saab osta hea muusika?",
-    "See kontsert oli parim muusika, mida ma kunagi olen kuulanud."
+    "Noored käivad diskodel tantsimas.",
+    "Tüdrukud kuulavad põhiliselt diskot.",
+    "Kas sa lähid täna öösel diskole?"
   ],
   "translation": [
-    "music"
+    "disco",
+    "nightclub",
+    "dance party"
   ],
-  "context": "The word 'muusikat' is the partitive form of 'muusika', which means 'music' in English. In Estonian, the partitive case is often used when talking about indefinite quantities or uncountable nouns. So 'muusikat' would translate to 'some music' or refer to music as an object being acted upon (like hearing music, buying music)."
+  "context": "The word 'disko' is an Estonian noun that refers to a disco or nightclub, which is an entertainment event where recorded music is played and people dance to it. It can also refer specifically to a type of monotonous beat-based music on soul music basis. The word comes from English 'disco' and is commonly used in Estonia to describe places for dancing parties or the events themselves."
 }

@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Ta tahes minuga kohtuda",
-    "Tema tahes õppida eesti keelt",
-    "Me tahes teie aitamist"
+    "Tee mis tahes, mitte ei jõua.",
+    "See on tõsi, rääkigu nad mis tahes.",
+    "Ostan selle maali mis tahes hinna eest."
   ],
   "translation": [
-    "wants to",
-    "would like to",
-    "desires to"
+    "no matter what",
+    "any kind of",
+    "whatever",
+    "whichever",
+    "however"
   ],
-  "context": "The Estonian word 'tahes' is a form of the verb 'taha' meaning 'to want' or 'to desire'. It appears to be in a specific conjugated form that expresses willingness or desire. In the examples provided, it's used to indicate someone's desire or wish to do something. This could be part of the present tense conjugation of the verb 'taha' when used with third person subjects."
+  "context": "'tahes' is an Estonian adverb that forms indefinite expressions with words like 'ükskõik' (whoever, whatever) or other adverbs to indicate modification. It expresses the idea of 'no matter what', 'any kind of', or 'whatever'. It can be used in various constructions like 'mis tahes' (whatever), 'kes tahes' (whoever), 'millal tahes' (whenever), etc. The word is often paired with 'tahtmata' (unwillingly) to express inevitability, as in 'tahes või tahtmata' (willingly or unwillingly)."
 }

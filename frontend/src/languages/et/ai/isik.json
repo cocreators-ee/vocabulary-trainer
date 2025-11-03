@@ -1,14 +1,18 @@
 {
   "understood": true,
   "sentences": [
-    "See on isiklik teade.",
-    "Isikut tuvastatakse sõnumi järgi.",
-    "Meil on vaja teada tema isikuandmeid."
+    "Tähtis, tuntud, kõrgemalseisev, mõjukas isik.",
+    "President ja temaga kaasas olevad ametlikud isikud saabusid lennuväljale.",
+    "Kõrvalistel isikutel sisenemine keelatud!"
   ],
   "translation": [
     "person",
     "individual",
-    "entity"
+    "figure",
+    "entity",
+    "self",
+    "character",
+    "identity"
   ],
-  "context": "In Estonian, 'isik' means person or individual. It's a noun that refers to a single human being or entity. The word can be used in various contexts such as identification documents, personal matters, legal contexts, and when referring to someone specifically."
+  "context": "The Estonian word 'isik' has multiple meanings. It primarily means 'person' or 'individual' - a single human being or member of a group. It can also refer to important or influential people (figures), and in grammatical terms, it refers to the three persons (first person, second person, third person) in language. In legal contexts, it denotes rights-bearers (physical or juridical persons). The word derives from 'ise' (self) + '-k'. It declines regularly as a type 2/õpik noun with forms like isiku (genitive), isikut (partitive), etc."
 }

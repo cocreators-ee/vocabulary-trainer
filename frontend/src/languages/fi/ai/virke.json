@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on hyvin selkeä virke.",
-    "Kirjoitin pitkän ja monimutkaisen virkkeen.",
-    "Virke päättyi pisteen jälj."
+    "Minä kirjoitan pitkän virkkeen.",
+    "Tämä on hyvin yksinkertainen virke.",
+    "Opettaja korjasi oppilaiden virkkeet."
   ],
   "translation": [
     "sentence",
-    "clause"
+    "utterance"
   ],
-  "context": "In Finnish grammar, 'virke' refers to a sentence or clause - a grammatical unit that expresses a complete thought. It can be either a simple sentence with one independent clause or a complex sentence containing multiple clauses connected by conjunctions. The term encompasses both declarative sentences and other types of syntactical structures."
+  "context": "The word 'virke' in Finnish refers specifically to a complete sentence, ending with punctuation like a period, exclamation mark or question mark. It does not refer to parts of sentences (clauses) but the whole thing. The word can be inflected for number; 'virkkeet' is the plural form meaning 'sentences'. It also has possessive forms indicating who owns the sentence, such as 'virkkeeni' which means 'my sentence'."
 }

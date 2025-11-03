@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on pieni talo.",
-    "Pieni poika juoksi puistossa.",
-    "Minulla on pieni auto."
+    "Minulla on pieni koira.",
+    "Ostin pienen punaisen auton.",
+    "Pieni lapsi leikki puutarhassa."
   ],
   "translation": [
     "small",
-    "little"
+    "little",
+    "young"
   ],
-  "context": "The word 'pieni' is an adjective in Finnish that means 'small' or 'little'. It's the basic form (singular nominative) used to describe something as being small in size. In Finnish, adjectives change their endings based on the case and number of the noun they modify. For example: pieni (nom. singular), pienen (gen. singular), pienet (nom. plural)."
+  "context": "The word 'pieni' is a Finnish adjective that means small or little. It can also refer to something young, like a young child. The word declines depending on the case and number of the noun it modifies, as shown in the dictionary definition. For example, 'pienet' is the plural form meaning 'small ones'. You can see possessive forms such as 'pieneneni', which means 'my small one'."
 }

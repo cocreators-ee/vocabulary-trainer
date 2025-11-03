@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ma andsin talle hea vihje.",
-    "Ta ootas vihjet juhuslikest sündmustest.",
-    "Vihjed olid täpselt need, mida ta vajas."
+    "Noored said kuulda kahemõttelisi vihjeid.",
+    "See on otsene vihje ta minevikule.",
+    "Politsei sai vihje maksupettuse kohta."
   ],
   "translation": [
     "hint",
     "clue",
-    "indication"
+    "suggestion",
+    "reference"
   ],
-  "context": "The Estonian word 'vihje' is a noun that refers to a suggestion or piece of information that helps someone solve a problem or understand something better. It can be translated as 'hint', 'clue', or 'indication'. The word often appears in contexts where someone provides guidance or subtle direction without giving away the complete answer."
+  "context": "Vihje is an Estonian noun that means a hint, clue, suggestion or reference. It can refer to indirect statements, subtle indications, or pieces of information that suggest something without stating it directly. The word covers various contexts from casual suggestions to serious clues in investigations, and also has literary uses for references to other works."
 }

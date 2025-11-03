@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Yrityksellä on vahva pääoma.",
-    "Pääoman kasvattaminen vaatii aikaa ja strategiaa.",
-    "Sijoittaja etsii hyvää tuottoa pääomalleen."
+    "Pankki tarvitsee lisää pääomaa.",
+    "Sijoittajat etsivät tuottoisaa pääomaa.",
+    "Yrityksen pääoma on kasvanut viime vuonna."
   ],
   "translation": [
     "capital",
     "funds",
-    "assets"
+    "assets",
+    "principal"
   ],
-  "context": "In Finnish, 'pääoma' is a noun that refers to capital, funds, or assets. It's commonly used in financial and business contexts to denote the resources invested in a company or venture. The word comes from pää- (head/main) + oma (one's own), literally meaning 'one's main property'. In accounting and economics, it represents the money or other assets owned by an individual or organization that can be used for investment."
+  "context": "The word 'pääoma' in Finnish refers to capital, funds or assets – the financial resources available for use. It can also mean the principal amount of a loan or investment. The word is derived from 'pää' (head, top) and 'oma' (one’s own), suggesting something that belongs to someone as their core resource.  The declension shows it changes form depending on its role in a sentence; for example, 'pääoma' is the nominative singular form, while 'pääomat' is the nominative plural. The possessive forms indicate ownership ('pääomani' means 'my capital')."
 }

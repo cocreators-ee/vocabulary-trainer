@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tema poega on tubli õpilane.",
-    "Ma otsin oma poega linna tänavatel.",
-    "Poisid mängivad koos oma poega."
+    "Ta sõi ühe poega.",
+    "Võta endale poega!",
+    "Meie poes on hea poega."
   ],
   "translation": [
-    "son",
-    "of a son"
+    "son (partitive singular)",
+    "to son (illative singular)"
   ],
-  "context": "In Estonian, 'poega' is the partitive case form of the word 'poeg', which means 'son'. The partitive case in Estonian is used to indicate that something is being acted upon or affected by an action. So when you have 'poega', it typically follows a verb and indicates that someone's son is being referred to, as in 'I am looking for my son' (Ma otsin oma poega). It can also mean 'of a son' when used possessively."
+  "context": "The word 'poega' is the partitive singular form of 'poeg' (son), meaning 'one son' or referring to a son in an object context. It can also be the illative singular form, indicating movement toward a son or direction towards a son. The partitive case typically indicates an incomplete action or indefinite quantity, while the illative shows direction towards something."
 }

@@ -1,15 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tule lähete linnakese keskusse.",
-    "Läheteks oli kaks päeva.",
-    "Meil on lähetes palju tööd."
+    "Lähete kaasa?",
+    "\"Lähete kaasa?\" – \"Ei. Esiteks ei saa kolme kuud ära olla ja teiseks vajaksin puhkust ja rahu.\""
   ],
   "translation": [
-    "invitation",
-    "summons",
-    "call",
-    "notice"
+    "let's go",
+    "shall we go",
+    "are you going (to leave)?"
   ],
-  "context": "The Estonian word 'lähete' is a noun that means an invitation, summons, call or notice. It refers to something that calls someone to appear somewhere or attend something. The word appears in various contexts such as being invited to events, summoned for official purposes, or receiving a formal notification to be present at a specific place and time."
+  "context": "The word 'lähete' is the second-person plural present indicative form of the verb 'minema' (to go). It means 'you (plural) are going/leaving'. In the example sentence from Metsanurk, it's used as a question: \"Lähete kaapa?\" which means \"Are you coming along?\" or \"Shall we go?\""
 }

@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Taevas on pilves.",
-    "Pilved liiguvad taeva all.",
-    "Nägin väikseid pilveid."
+    "Taevas oli üleni, süngelt pilves.",
+    "Miks sul täna nägu nii pilves on?",
+    "Kogu kamp oli pilves."
   ],
   "translation": [
-    "in the clouds",
-    "cloudy",
-    "with clouds"
+    "cloudy (weather)",
+    "gloomy, sullen",
+    "in a group/flock",
+    "high/drugged"
   ],
-  "context": "The word 'pilves' is a locative case form of the Estonian noun 'pilv', meaning 'cloud'. In this case, it specifically means 'in the cloud/clouds' or indicates that something is located within clouds. This is an adessive/inessive case form in Estonian grammar."
+  "context": "The Estonian word 'pilves' has multiple meanings depending on context. As an adverb, it can describe weather as cloudy ('Taevas oli üleni, süngelt pilves'), express emotional states like gloominess or sulkiness ('Miks sul täna nägu nii pilves on?'), refer to being in a group or flock ('Kogu kamp oli pilves'), and colloquially indicate being high or drugged. It's the inessive singular form of 'pilv' (cloud) but functions primarily as an adverbial expression."
 }

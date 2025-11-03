@@ -1,12 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tere, olen James.",
-    "James käis eile poes.",
-    "Meie klassijuhendaja on James."
+    "Oo jamps, oo hullumeelne sonimine!",
+    "Tühi jamps. Mis jampsi sa ajad?",
+    "Ega sa jampsiks ole läinud?"
   ],
   "translation": [
-    "James"
+    "foolishness",
+    "nonsense",
+    "rubbish",
+    "confusion",
+    "absurdity"
   ],
-  "context": "The word 'james' is a proper noun in Estonian, specifically a name of English origin. It's used to refer to someone named James and functions the same way as it does in English-speaking countries. In Estonian grammar, names typically don't change form regardless of case or number - they remain 'James' whether referring to one person or multiple people."
+  "context": "The word 'jamps' in Estonian is a colloquial term that can refer to several related concepts: 1) foolish or absurd behavior, nonsense or rambling; 2) a confused or muddled state of mind; 3) something nonsensical or ridiculous. It's often used to describe someone acting foolishly or speaking nonsense. The word can be used as both a noun (jamps) and an adjective form (jampsiks)."
 }

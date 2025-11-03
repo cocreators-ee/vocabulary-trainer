@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on tärkeä kirje luettavana.",
-    "Lähetin kirjeen postitse eilen.",
-    "Hän sai kirjeen työkaveriltaan."
+    "Minulla on yksi kirje postilaatikossa.",
+    "Kirjoitin äidilleni pitkän kirjeen eilen.",
+    "Hän lähetti minulle surullisen kirjeen."
   ],
   "translation": [
     "letter",
-    "message",
+    "correspondence",
     "missive"
   ],
-  "context": "The Finnish word 'kirje' means 'letter' in English. It is a common noun used to refer to a written message sent through postal mail or other delivery systems. In Finnish, 'kirje' can be modified with different suffixes and prepositions to show possession, direction, or other grammatical relationships, such as 'kirjeen' (genitive form meaning 'of the letter') or 'kirjeeseen' (illative form meaning 'into a letter')."
+  "context": "The Finnish word 'kirje' means 'letter'. It refers to a written message. The word declines based on grammatical case, as shown in the dictionary definition, indicating its role in a sentence (nominative, genitive, partitive, etc.). There are also possessive forms showing who owns the letter (my letter, your letter, our letter, etc.)."
 }

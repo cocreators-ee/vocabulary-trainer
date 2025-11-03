@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Lilli on hea laps.",
-    "Lilli käis koolis.",
-    "Lilli luges raamatut."
+    "Aias kasvatame lilli.",
+    "Lilled õitsesid aias.",
+    "Kasvatab ilusaid lilli."
   ],
   "translation": [
-    "Lilly (female name)",
-    "Lily (flower)"
+    "flowers"
   ],
-  "context": "The word 'lilli' is an Estonian female name, equivalent to the English names Lilly or Lily. It can also refer to the lily flower in Estonian. As a proper noun/name, it would be capitalized as 'Lilli' when referring to a person named Lilli. In its common noun form, it refers to the beautiful flowering plant known as lily in English."
+  "context": "The word 'lilli' is the partitive plural form of Estonian noun 'lill', which means 'flower'. In Estonian, the partitive case is used to indicate partial or indefinite quantity. So 'lilli' would translate to 'flowers' (indefinite/unspecified quantity) in English."
 }

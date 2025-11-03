@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Minu arvuti on kiire.",
-    "Kas sa kasutad oma arvutit kodus?",
-    "Arvud töötavad automaatselt."
+    "Andmed sisestati arvutisse.",
+    "Töötab arvutiga.",
+    "Lapsed tahavad liiga palju arvutis mängima."
   ],
   "translation": [
     "computer",
-    "PC",
-    "electronic computer"
+    "calculating device"
   ],
-  "context": "The word 'arvuti' in Estonian means 'computer'. It is a common noun used to refer to electronic devices for processing data. The word comes from 'arvutama' (to calculate) + '-i', indicating an instrument or tool for calculations. This reflects the original purpose of computers as calculation devices."
+  "context": "The Estonian word 'arvuti' means 'computer' in English. It is a noun derived from the verb 'arvutama' (to calculate, compute) + the suffix '-i'. This word refers to any electronic device for processing digitally presented information, including desktop computers, laptops, and even calculators in some contexts. The word follows Estonian grammar with various case forms such as arvutit (partitive), arvutisse (illative), arvutis (inessive), etc."
 }

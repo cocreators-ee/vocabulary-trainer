@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "See on vaid kümme protsenti.",
-    "Ta sai kaheksa protsenti hääli.",
-    "Protsendid näitavad kasvu."
+    "Valimistest osavõtt oli peaaegu sajaprotsendiline.",
+    "Sajaprotsendiline näitlejanatuur.",
+    "Välimuselt sajaprotsendiline juut."
   ],
   "translation": [
+    "percentage",
     "percent"
   ],
-  "context": "The word 'protsenti' is the partitive form of 'protsent' in Estonian, meaning 'percent'. It's used when referring to a percentage of something or indicating an amount less than 100 percent. In English, it translates directly to 'percent' and follows numbers in the same way as in English."
+  "context": "The word 'protsenti' is the partitive singular form of 'protsent', meaning 'percentage' or 'percent'. It can also be used in compound words like 'sajaprotsendiline' (meaning 100% or complete/total). The dictionary shows examples where it's used to express completeness, such as 'sajaprotsendiline näitlejanatuur' (a complete acting nature) and 'välimuselt sajaprotsendiline juut' (completely Jewish in appearance), indicating totality rather than just a specific percentage."
 }

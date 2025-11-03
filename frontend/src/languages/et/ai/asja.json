@@ -1,15 +1,21 @@
 {
   "understood": true,
   "sentences": [
-    "Tegelikult on see hea asi.",
-    "Ma võtsin endale selle asja kaasa.",
-    "See oli väga huvitav asi."
+    "Tal on taskud igasuguseid asju täis.",
+    "See ei puutu asjasse.",
+    "Kuidas sa nii lihtsa asja peale ei tulnud!"
   ],
   "translation": [
-    "thing",
     "matter",
+    "thing",
+    "issue",
+    "subject",
+    "object",
     "affair",
-    "subject"
+    "case",
+    "business",
+    "concern",
+    "item"
   ],
-  "context": "In Estonian, 'asi' is a common noun that means 'thing', 'matter', or 'affair'. It's used to refer to objects, subjects of discussion, or general matters. The word can appear in different contexts - as an object (physical thing), as a topic (subject/matter), or as part of expressions indicating quality or importance ('hea asi' = good thing)."
+  "context": "Asja is the genitive singular and partitive singular form of the Estonian word 'asi'. It's a versatile word that can mean many things depending on context: a physical object or thing, an issue or matter to be discussed, a legal case, a business or affair, or the cause/reason for something. Asja appears in various compound words and is commonly used in everyday Estonian language."
 }

@@ -1,15 +1,18 @@
 {
   "understood": true,
   "sentences": [
-    "Yritys on menestynyt hyvin.",
-    "Uusi yritys aloitti toimintansa viime kuussa.",
-    "Monet ihmiset pelkäävät yrityksen epäonnistumista."
+    "Hän teki yrityksen päästä maaliin.",
+    "Yritys epäonnistui, mutta hän ei antanut periksi.",
+    "Uusi yritys perustettiin viime vuonna."
   ],
   "translation": [
-    "enterprise",
+    "attempt",
+    "effort",
+    "try",
+    "trial",
     "company",
     "firm",
-    "business"
+    "enterprise"
   ],
-  "context": "The Finnish word 'yritys' is a noun that primarily refers to an enterprise, company, firm, or business organization. It can also refer to an attempt, effort, or venture in more general contexts. The word often appears in discussions about entrepreneurship and commercial activities."
+  "context": "The word 'yritys' in Finnish can mean several things depending on the context. It most commonly translates to 'attempt', 'effort', or 'try'. However, it can also refer to a 'company' or 'firm', especially when discussing business ventures. The word declines based on grammatical case, as shown in the dictionary definitions, indicating possession and relationships with other words in the sentence. For example, 'yritykseni' means 'my attempt/company'."
 }

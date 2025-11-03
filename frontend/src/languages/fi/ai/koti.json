@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Koti on minun turvapaikkani.",
-    "Menemme kotiin illalla.",
-    "Minulla on pieni koti maaseudulla."
+    "Minä asun kotona.",
+    "Hän lähti kotiin.",
+    "Koti on paras paikka."
   ],
   "translation": [
     "home",
-    "house"
+    "house",
+    "residence"
   ],
-  "context": "The Finnish word 'koti' means home or house. It refers to a place where one lives, usually with emotional significance as a dwelling place and sanctuary. While 'talo' specifically refers to a building or house structure, 'koti' encompasses the concept of home including the feeling of belonging and comfort associated with it."
+  "context": "The word 'koti' in Finnish means 'home'. It refers to the place where someone lives, their house or dwelling. The word declines based on case, as shown in the dictionary definition, indicating its role in a sentence (nominative, genitive, partitive, etc.).  It can also be used possessively, like 'kotini' meaning 'my home'. The plural form is 'kodit'."
 }

@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Endaga on kõik korras.",
-    "Mul oli hea endaga kohtumine.",
-    "Ta rääkis endaga hästi."
+    "See keemilise reaktsiooni aktseptor võib endaga liita ioone.",
+    "Molekulid, mis saavad ühineda aatomitega, on head aktseptorid.",
+    "Aineosake, millel on vaba orbiit, toimib kui hea aktseptor."
   ],
   "translation": [
-    "with oneself",
-    "by oneself",
-    "oneself"
+    "acceptor"
   ],
-  "context": "The Estonian word 'endaga' is a reflexive form that indicates doing something by oneself or with oneself. It combines the reflexive pronoun 'enda' (oneself) with the adessive case ending '-ga' (meaning 'with'). This construction emphasizes that the action is performed without external assistance and highlights the self-referential nature of the activity."
+  "context": "In Estonian chemistry terminology, 'endaga' refers to an acceptor - a chemical particle that can join with ions, molecules, atoms, or atomic parts. It specifically describes substances like free-orbital atoms that can form electron pairs when bonding with other atoms."
 }

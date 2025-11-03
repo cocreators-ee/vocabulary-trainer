@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tytöt leikkivät pihalla.",
-    "Näin tytön koulussa tänään.",
-    "Tämä on uusi tyttö luokassamme."
+    "Pieni tyttö leikki puutarhassa.",
+    "Tyttö katsoi minua suurilla silmillään.",
+    "Hän on paras ystäväni, tyttö jonka tunnen paremmin kuin ketään muuta."
   ],
   "translation": [
-    "girl"
+    "girl",
+    "daughter"
   ],
-  "context": "The word 'tyttö' is the Finnish noun for a girl or young female. It's in the singular nominative form here. In Finnish, nouns have different cases and numbers, so this would change to 'tytöt' (plural) for multiple girls, or take other suffixes depending on the grammatical context needed."
+  "context": "The word 'tyttö' in Finnish means 'girl'. It is the nominative singular form of the noun. The plural form is 'tytöt'.  It comes from Proto-Finnic *tüttoi and is related to the word 'tytär', which means daughter. The possessive forms change depending on who owns the girl, for example 'tyttöni' means 'my girl'."
 }

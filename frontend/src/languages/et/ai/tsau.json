@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tsau! Kuidas sa oled?",
     "Tere tsau!",
-    "Sa tuled ikka tsau?"
+    "Nägin sind eile ja tegin tsau.",
+    "Tsau, kohtume homme!"
   ],
   "translation": [
-    "Hi",
-    "Hello",
-    "Hey"
+    "hello",
+    "hi",
+    "bye",
+    "goodbye"
   ],
-  "context": "The word 'tsau' is an informal greeting in Estonian used among friends and peers. It's similar to how English speakers might use 'hi', 'hello', or 'hey' in casual situations. The word can stand alone as a greeting or be combined with other words like 'tere tsau' for a more complete greeting."
+  "context": "The Estonian word 'tsau' is a colloquial greeting that functions as both a hello and goodbye. It's borrowed from Italian 'ciao' and represents an informal way to acknowledge someone when arriving or departing, similar to how 'hi/bye' works in English but used for both greetings."
 }

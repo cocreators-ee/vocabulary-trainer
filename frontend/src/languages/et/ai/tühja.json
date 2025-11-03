@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tühi laev läks merre.",
-    "Tühi ruum oli täis võimalusi.",
-    "Tühjad aknad näitasid tühja linna."
+    "Tühi tünn tümiseb.",
+    "Auto on tühjaks laaditud.",
+    "Pea on täis tühja tarkust."
   ],
   "translation": [
     "empty",
     "blank",
-    "void"
+    "vacant"
   ],
-  "context": "The word 'tühja' is the partitive singular form of the adjective 'tühi' in Estonian. It describes something that has been emptied or contains nothing, often used with nouns that are being emptied out of their contents or made void."
+  "context": "\"Tühja\" is the translative case of \"tühi\" in Estonian, meaning \"to become empty,\" \"to make empty,\" or \"into an empty state.\" It describes something that has been emptied out, made vacant, or transformed into a blank/empty condition. This form often appears with verbs indicating transformation (like 'laaditud' - loaded/emptied) or as part of expressions describing emptiness in containers, spaces, minds, etc."
 }

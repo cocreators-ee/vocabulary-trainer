@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Olen telefonis tööl.",
-    "Kas sa näed telefoni?",
-    "Telefonid on laual."
+    "Telefoni ostmiseks kulub aega.",
+    "Me ostsid telefoni uue kaamera eest.",
+    "Kas sa näed telefoni ekraanil midagi?"
   ],
   "translation": [
-    "telephone",
-    "phone"
+    "of the telephone",
+    "from the phone",
+    "to the phone"
   ],
-  "context": "The word 'telefoni' is the Estonian genitive case form of the noun 'telefon', meaning 'telephone'. In genitive case, it typically indicates possession or association, similar to English possessive forms like 'of the phone' or related expressions. It can be used in contexts where something belongs to a phone or is associated with it."
+  "context": "'Telefoni' is an Estonian word that functions as a case form of the word 'telefon' (telephone). Specifically, it can be used as the genitive singular ('of the telephone'), partitive singular ('from the phone'), or illative singular ('to the phone') form depending on the grammatical context in which it appears. In Estonian grammar, nouns change their endings to indicate different cases and relationships between words in a sentence."
 }

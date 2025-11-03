@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Kasvin varsi on vihreä ja pitkä.",
-    "Puun varret kasvavat kohti taivasta.",
-    "Floristin varret ovat hyvin kauniit."
+    "Puu kasvoi paksulla varsilla.",
+    "Hän tarttui kirveen varteen ja alkoi hakata puuta.",
+    "Potilaan käsivarressa oli murtuma."
   ],
   "translation": [
     "stem",
-    "stalk",
-    "shaft"
+    "handle",
+    "arm",
+    "shaft",
+    "leg"
   ],
-  "context": "The Finnish word 'varsi' means stem, stalk or shaft and refers to the main upright part of a plant or tree that supports leaves, flowers, or fruits. It can also refer to other elongated cylindrical structures like shafts."
+  "context": "The Finnish word 'varsi' has multiple meanings, including stem (of a plant), handle (of a tool), arm (of a human or object), shaft, and leg. It can refer to both physical parts of plants and animals, as well as components of objects. The word declines based on case, with different forms indicating its role in a sentence. For example, 'varren' is the genitive form meaning 'of the stem/handle/arm', while 'vartta' is the partitive form. It can also be used to indicate location or time along something ('matkan varrella' - along the road)."
 }

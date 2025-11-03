@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Auto vajab kütust.",
-    "Lisame tankimiseks kütust.",
-    "Kütushind on kõrge."
+    "Kütust oli vaja masina käivitamiseks.",
+    "Me peame kütust ostma enne reisi algust.",
+    "Kütushoidla on täis kütust."
   ],
   "translation": [
     "fuel",
-    "gasoline",
-    "petrol"
+    "petrol",
+    "gasoline"
   ],
-  "context": "The word 'kütust' is the partitive case form of Estonian noun 'kütus', which means fuel. In Estonian, the partitive case is often used to indicate an unspecified amount or partial quantity of something. So 'kütust' literally translates to 'of fuel' or some fuel. It's commonly used when talking about needing fuel, adding fuel, or referring to fuel in a non-specific quantity context."
+  "context": "The word 'kütust' is the partitive form of 'kütus', which means 'fuel'. It indicates an unspecified amount or portion of fuel. This Estonian word refers to combustible material used to produce energy, commonly referring to gasoline/petrol for vehicles but can also refer to other types of fuel. The -st ending indicates it's in the partitive case, meaning 'some fuel' or 'fuel (unspecified amount)'."
 }

@@ -1,15 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Menin kauppaan ostamaan leipää.",
-    "Kauppatori on Helsingin keskusaukio.",
-    "Tämä kauppa myy ekologisia tuotteita."
+    "Minä käyn kaupassa joka päivä.",
+    "Kauppa on auki kello 9-21.",
+    "Ostin uuden puhelimen kaupasta."
   ],
   "translation": [
     "shop",
     "store",
-    "market",
-    "business"
+    "trade",
+    "commerce",
+    "deal",
+    "transaction"
   ],
-  "context": "The Finnish word 'kauppa' has multiple related meanings. Most commonly, it refers to a physical retail establishment where goods are sold - equivalent to 'shop', 'store', or 'market'. It can also refer to the act of commerce or business in general. The word appears in various contexts including shopping locations ('kauppa'), market squares ('kauppatori'), and commercial activities."
+  "context": "The word 'kauppa' in Finnish can mean several things related to buying and selling. It commonly refers to a shop or store, but it can also refer to the act of trading or commerce itself. The plural form 'kaupat' is sometimes used informally for a single deal or transaction.  It comes from Proto-Finnic *kauppa, borrowed from Proto-Norse kaupa."
 }

@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Töötan haiglas.",
-    "Haiglus on kodus lähedal.",
-    "Meie uus haigla avas eile."
+    "Ta viidi haiglasse ravile.",
+    "Olin mitu kuud haiglas (ravil).",
+    "Lahkusin haiglast oma soovil."
   ],
   "translation": [
     "hospital",
-    "medical center"
+    "medical facility"
   ],
-  "context": "The Estonian word 'haigla' means hospital or medical center. It is a feminine noun in the nominative singular form. The root word 'haig-' relates to illness/health, and '-la' is a suffix that typically indicates a place where something happens, so 'haigla' literally refers to 'a place for illness/healing.'"
+  "context": "The Estonian word 'haigla' means a hospital or medical facility where sick people are examined and treated. It's derived from the root word 'haige' meaning 'sick, ill' with the suffix '-la'. The word follows standard Estonian declension patterns, changing form depending on grammatical case. For example, 'haiglasse' (illative) means 'to hospital', while 'haiglast' (elative) means 'from hospital'. Various compound forms exist for different types of hospitals like 'keskhaigla' (central hospital), 'lastehaigla' (children's hospital), and 'sõjaväehaigla' (military hospital)."
 }

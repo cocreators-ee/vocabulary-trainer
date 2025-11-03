@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Meeldiv on kuulda head muusikat.",
-    "Kas te armastate klassikalist või nüüdismuusikat?",
-    "Lapsed õpivad koolis muusikajuhendaja juhendamisel laulema."
+    "Muusika on meeldiv kunstiliik.",
+    "Klassikaline muusikat kuulda alati rõõmu annab.",
+    "Poiss õpib mängima muusikat klaveril."
   ],
   "translation": [
-    "music"
+    "music",
+    "musical art form",
+    "sound arrangement"
   ],
-  "context": "The Estonian word 'muusika' means music in English. It is the singular form of the noun and refers to art form that combines vocal or instrumental sounds to produce beauty of form, harmony, and emotional expression. In Estonian, it's a feminine noun ending with '-a', which is typical for many Estonian words."
+  "context": "Muusika is the Estonian word for 'music'. It refers to the art form whose artistic elements are created with sounds and perceived as sounds. The word can refer to music as an art form, musical works/compositions, or in everyday language specifically to instrumental music. In broader usage, it can also describe anything that resembles music or has a musical effect - such as 'the music of the waves' (lainete kohin on mere muusika)."
 }

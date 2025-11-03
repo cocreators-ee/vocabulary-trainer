@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    " homme on ilus päev.",
-    " homme meil on kohtumine.",
-    " homme hommikul külastame muuseumi."
+    "Homme on neljapäev.",
+    "Tule homme hommikul, õhtul jälle.",
+    "Homme sõidame linna."
   ],
   "translation": [
-    "tomorrow"
+    "tomorrow",
+    "next day",
+    "in the near future"
   ],
-  "context": "\"Homme\" is the Estonian word for \"tomorrow\". It's commonly used to refer to the day following today in everyday conversations and planning future activities. The word follows standard Estonian grammatical rules and appears in various contexts like weather forecasts, schedules, and general time references."
+  "context": "The Estonian word 'homme' is an adverb meaning 'tomorrow'. It indicates the day following today. The word can also be used more broadly to refer to the near future in some contexts, but primarily it means tomorrow as a specific day."
 }

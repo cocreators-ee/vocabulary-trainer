@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ma pidasin kohtumist kolleegiga.",
-    "Ta pidas oma sõnadel kindlalt.",
-    "Me pidame homme uuesti kogunemist."
+    "Pidasin oma teooriat ainuõigeks.",
+    "Pidasin seda lahendust ainuõigeks.",
+    "Pidasin selle otsuse ainuõigeks."
   ],
   "translation": [
-    "held",
-    "kept",
-    "maintained"
+    "considered correct",
+    "deemed right",
+    "held to be true",
+    "believed to be the only right"
   ],
-  "context": "The word 'pidasin' is the first person singular past tense form of the Estonian verb 'pida-' which means to hold, keep, or maintain. It indicates that someone performed an action of holding something (like a meeting), keeping their promise/word, or maintaining something in the past."
+  "context": "The word 'pidasin' is an Estonian verb in past tense form, meaning 'I held', 'I considered', or 'I deemed'. It appears here with the compound adverbial phrase 'ainuõigeks', which means 'as the only correct/right' or 'as absolutely true'. The expression 'pidasin midagi ainuõigeks' translates to 'I considered something as being absolutely right/the only correct way'. This construction uses the elative case ('-ks') after 'ainuõige' to express the state of considering something to be in a certain condition."
 }

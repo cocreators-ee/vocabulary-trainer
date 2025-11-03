@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Metsässä on paljon puita.",
-    "Olimme metsässä koko päivän.",
-    "Metsien suojeleminen on tärkeää."
+    "Minä kävelin metsässä.",
+    "Metsän eläimet ovat aktiivisia keväällä.",
+    "He rakensivat mökin syvälle metsään."
   ],
   "translation": [
     "forest",
-    "woods",
-    "woodland"
+    "woods"
   ],
-  "context": "The Finnish word 'metsä' means forest or woods in English. It is a common noun referring to an area covered with trees and vegetation, typically larger than just a few individual trees. In Finnish grammar, 'metsä' follows the regular declension pattern for consonant-stem nouns: metsä (nominative), metsän (genitive), metsään (illative), metsässä (inessive), etc. It can be used in various contexts to describe natural forested areas or metaphorically to represent wilderness, nature, or tranquility."
+  "context": "The word 'metsä' means forest or woods in Finnish. It refers to a large area covered with trees. The word declines based on grammatical case, as shown in the dictionary definition, and can also be used to refer to hunting (metsällä)."
 }

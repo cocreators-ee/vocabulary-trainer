@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Köögis on külm.",
-    "Tema töötab köögis.",
-    "Me sööme köögis."
+    "Tüdruk sai sööklasse köögiabiliseks.",
+    "Köökis oli väga täis.",
+    "Köögikohustused olid raskad."
   ],
   "translation": [
     "in the kitchen",
     "at the kitchen"
   ],
-  "context": "The word 'köögis' is an Estonian inessive case form of the noun 'köök' (kitchen), meaning it indicates location or being inside something. The suffix '-is' is added to show that someone or something is in the kitchen."
+  "context": "The word 'köögis' is an Estonian locative case form meaning 'in the kitchen' or 'at the kitchen'. It indicates location where something happens. This appears to be the inessive case (inside) of the noun 'köök' which means 'kitchen'. The '-s' ending typically indicates location within a space."
 }

@@ -1,20 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma ei taha teha seda enese.",
-    "Ta rääkis endaga nädalavahetuseks.",
-    "Me peame hoolitsema iseenda eest."
+    "Tüdruk kammib ennast.",
+    "Soojendasime end lõkke ääres.",
+    "Ta ei lase ennast petta."
   ],
   "translation": [
-    "oneself",
-    "myself",
-    "yourself",
-    "himself",
-    "herself",
-    "itself",
-    "ourselves",
-    "yourselves",
-    "themselves"
+    "self",
+    "own",
+    "-self"
   ],
-  "context": "The word 'enese' is the reflexive pronoun in Estonian, used to indicate that the subject of the sentence is also the object. It corresponds to English reflexive pronouns like 'myself', 'yourself', etc., and can change form based on the person and number of the subject."
+  "context": "The Estonian word 'enese' is a reflexive pronoun meaning 'self', 'own', or '-self'. It has no nominative form (the nominative is usually replaced by 'ise'). The word serves to extend verbs, referring back to the subject of an action. For example, it can be used as an object ('kammib ennast' - combs oneself), adverbially ('hindab end üle' - evaluates oneself excessively), or as a possessive attribute replacing 'oma' ('enda nime all välja' - under one's own name). The declension forms include genitive 'enese', partitive 'ennast', illative 'enesesse', etc., and some singular forms can also be used in plural."
 }

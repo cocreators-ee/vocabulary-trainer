@@ -1,15 +1,18 @@
 {
   "understood": true,
   "sentences": [
-    "Peremees on kodu omanik.",
-    "Tal oli hea peremees.",
-    "Kodu peremees võttis vastu külalisi."
+    "Saare talu, Aruvälja peremees.",
+    "Maja, suvila, paadi peremees.",
+    "Kodus olen ma ise enda peremees."
   ],
   "translation": [
     "owner",
+    "proprietor",
+    "landlord",
+    "head of household",
+    "boss",
     "master",
-    "host",
-    "boss"
+    "host"
   ],
-  "context": "The Estonian word 'peremees' is a masculine noun that typically refers to the owner or master of something, most commonly a house or home. It can also refer to a host who receives guests or a boss in a work context. The word conveys authority and responsibility over what one owns or controls."
+  "context": "The Estonian word 'peremees' has multiple related meanings. It literally combines 'pere' (family) and 'mees' (man), so it originally referred to the head of a household or family. Over time, its meaning expanded to include owners/proprietors of property (houses, farms, businesses), landlords, hosts who entertain guests, and bosses in employment contexts. In biology, it also refers to a host organism for parasites. The word is masculine in form but can refer to both men and women in certain professional contexts."
 }

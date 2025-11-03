@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Ma olen teiega heas ühenduses.",
-    "Saadke minuga ühendust.",
-    "See on hästi organiseeritud ühendus."
+    "Järvel on oja kaudu ühendus Väikese Emajõega.",
+    "Püüdsin helistada haiglasse, kuid ei saanud ühendust.",
+    "Tal oli ühendus allilmaga."
   ],
   "translation": [
     "connection",
-    "contact",
     "link",
-    "union"
+    "contact",
+    "union",
+    "association"
   ],
-  "context": "In Estonian, 'ühendus' is a noun that means connection, contact, link or union. It can refer to physical connections (like phone lines), social connections/contacts between people, links between things, or organizational unions. The word comes from the verb 'ühendama' meaning to connect or join."
+  "context": "The Estonian word 'ühendus' has multiple meanings depending on context. It can refer to physical connections between objects or places (like electrical connections or bridges), communication links (phone, radio), relationships between people, organizations or countries, or abstract concepts like associations and unions. The word comes from the verb 'ühendama' meaning 'to connect' and carries the '-us' suffix indicating a state or condition."
 }

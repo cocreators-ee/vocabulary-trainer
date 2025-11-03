@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lehmät ovat maaseudulla.",
-    "Minun lehmäni on hyvin kesy.",
-    "Lehmä tuottaa maitoa ja voi."
+    "Minulla on yksi lehmä.",
+    "Lehmät laiduntavat pellolla.",
+    "Isän lehmä tuotti paljon maitoa."
   ],
   "translation": [
     "cow",
-    "cattle",
-    "bovine"
+    "female bovine",
+    "heifer"
   ],
-  "context": "The Finnish word 'lehmä' refers to a female cow, typically one that is kept for milk production. It can refer to both an individual animal and in some contexts may be used more generally to mean cattle or bovines. The word follows the standard declension pattern for feminine nouns in Finnish."
+  "context": "The word 'lehmä' in Finnish means 'cow'. It refers specifically to the female of Bos primigenius taurus. The declension shows different forms depending on grammatical case, such as nominative (lehmä), genitive (lehmän/lehmien), and partitive (lehmää/lehmiä).  The possessive forms indicate ownership ('my cow' - lehmäni, 'your cow' - lehmäsi etc.). It can also refer to any female ruminant, like a doe (hirvi lehmä) but this is less common. The word is often found in compounds."
 }

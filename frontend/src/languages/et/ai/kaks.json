@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on kaks koera.",
-    "Kaks inimest jõudsid kohale.",
-    "Kaks tundi on veel aega."
+    "Kaks pluss kaks on neli.",
+    "Sain ülesande vastuseks kaks ja pool.",
+    "Tal olid kaasas kahed kindad."
   ],
   "translation": [
-    "two",
-    "both",
-    "a pair"
+    "two"
   ],
-  "context": "The Estonian word 'kaks' means 'two' in English. It is used as the basic cardinal number for two items or people. In Estonian grammar, it can also be used to indicate the dual form (referring to exactly two things), similar to how some other languages have specific dual pronouns or endings. The word doesn't change form when used with different cases - it remains 'kaks' regardless of whether it's in nominative, genitive, or other cases."
+  "context": "The Estonian word 'kaks' is the numeral for 'two'. It's a basic counting number used in mathematics, telling time, and specifying quantities. The word declines in various cases: nominative 'kaks', genitive 'kahe', partitive 'kaht/kahte', illative 'kahte/kahesse', etc. Examples include mathematical equations ('Kaks pluss kaks on neli' - Two plus two equals four), measurements ('Sain ülesande vastuseks kaks ja pool' - I got the answer to the task as two and a half), and quantities of objects ('Tal olid kaasas kahed kindad' - He/she had two pairs of gloves)."
 }

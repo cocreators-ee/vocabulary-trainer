@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ajoin autolla pohjoiseen.",
-    "Väsymyksen takia matka jatkui vain pohjoiseen.",
-    "He suuntasivat kohti pohjoista ja kulkivat pohjoiseen."
+    "Matkustamme pohjoiseen kesällä.",
+    "Tuuli puhaltaa pohjoiseen.",
+    "Hän muutti pohjoiseen etsimään rauhaa."
   ],
   "translation": [
-    "northward",
-    "towards the north",
-    "in a northerly direction"
+    "to the north",
+    "northward"
   ],
-  "context": "The Finnish word 'pohjoiseen' is an adverbial form that means 'toward the north' or 'northward'. It's formed from the noun 'pohjoinen' (north) by adding the suffix '-een', which indicates direction toward a place. This directional adverb is commonly used to indicate movement in a northern direction."
+  "context": "The word 'pohjoiseen' is the illative singular form of 'pohjoinen', which means 'north'. The illative case in Finnish indicates movement *into* a place. Therefore, 'pohjoiseen' specifically translates to 'to the north' or 'northward', indicating direction towards the north."
 }

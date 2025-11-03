@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Õnnetus juhtus tänaval.",
-    "Ta oli õnnetuse tunnistaja.",
-    "See oli suur õnnetus."
+    "Raske õnnetus juhtis teel.",
+    "Ta sai õnnetuses vigastada.",
+    "See oli suur liiklusõnnetus."
   ],
   "translation": [
-    "accident",
     "misfortune",
-    "calamity"
+    "accident",
+    "mishap"
   ],
-  "context": "The word 'õnnetus' is a noun in Estonian that refers to an unfortunate event, mishap, or disaster. It can be used for car accidents, personal tragedies, or general bad luck situations. The word has negative connotations and describes something undesirable that happened."
+  "context": "In Estonian, 'õnnetus' primarily refers to an unfortunate event or accident. It can mean a physical accident (like a traffic accident), but it also carries the meaning of misfortune or bad luck in more general contexts. The word is derived from 'õnn' (happiness) with a negative prefix, literally meaning 'un-happiness'. In compound words like 'liiklusõnnetus', it specifically refers to types of accidents."
 }

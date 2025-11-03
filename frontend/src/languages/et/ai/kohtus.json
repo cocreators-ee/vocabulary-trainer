@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kohtusime vanas sõprusega.",
-    "Me kohtusime tänaval.",
-    "Tema ja mina kohtusime restoranis."
+    "Ta tundis piinlikkust äriteenijaga kohtusest, aga püüdis oma tegu kõlblalt õigustada.",
+    "Mees ja naine said tuttavaks kohtus kaupluses.",
+    "Kohtus sõpradega oli alati rõõmsad hetked."
   ],
   "translation": [
-    "met",
-    "ran into",
-    "bumped into"
+    "meeting",
+    "encounter",
+    "rendezvous"
   ],
-  "context": "The word 'kohtus' is the past tense, third person singular form of the Estonian verb 'kohuda', which means to meet or encounter someone. It indicates that a meeting or encounter happened in the past, with the subject being 'he/she/it'. In English, this translates to 'met' when referring to a single person's action in the past."
+  "context": "The word 'kohtus' is the inessive case (locative case indicating location within) of the Estonian noun 'kohtumine', which means a meeting or encounter. It indicates where something happens, specifically that an action takes place at/in a meeting."
 }

@@ -1,13 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Pärast lõpetasin töö.",
-    "Me läheme pärast öösel kodusse.",
-    "Tuleb homme pärast lõuna."
+    "Ta jõudis pärast lõunat.",
+    "Me kohtume pärast tööd.",
+    "Seda juhtub sageli pärast vihma."
   ],
   "translation": [
     "after",
-    "later"
+    "afterwards",
+    "following",
+    "later",
+    "past",
+    "next"
   ],
-  "context": "The Estonian word 'pärast' is an adverb that means 'after' or 'later'. It typically indicates something occurs after a specified time or event. In the first example, it shows completion of work; in the second, it indicates a later evening return home; and in the third, it specifies coming back after lunch tomorrow."
+  "context": "Pärast is an Estonian adverb and postposition that means 'after', 'afterwards', 'following', 'later', 'past', or 'next'. It can be used to indicate time sequence (something happening after another event) or causation (due to, thanks to). As the elative singular of 'pära' meaning 'back/rear', it literally refers to what comes behind something else in temporal progression."
 }

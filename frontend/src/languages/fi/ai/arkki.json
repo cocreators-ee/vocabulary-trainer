@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on arkki paperia.",
-    "Arkki sisältää tärkeitä asiakirjoja.",
-    "Hän arkistoi dokumentin arkkiin."
+    "Hän kirjoitti tärkeät tiedot arkille.",
+    "Noah rakensi arkin pelastaakseen eläimet tulvasta.",
+    "Opettaja jakoi oppilaille paperiarkkeja.",
+    "Tutkijat löysivät liitonarkin rauniot.",
+    "He säilyttävät vanhoja asiakirjoja arkistossa, joka on täynnä arkkeja."
   ],
   "translation": [
-    "folder",
-    "file",
-    "envelope"
+    "sheet",
+    "paper",
+    "Noah's Ark",
+    "the Ark of the Covenant"
   ],
-  "context": "The Finnish word 'arkki' is a noun that refers to a container for holding papers or documents. It can be translated as 'folder', 'file', or 'envelope' in English, depending on the specific context of use. This word is commonly used when referring to physical containers used for organizing and storing paper documents."
+  "context": "The Finnish word 'arkki' means 'sheet', often referring to a sheet of paper. It can also refer to Noah’s Ark or the Ark of the Covenant, historical and religious objects. The word declines based on case; for example, 'arkin' is the genitive form meaning 'of the sheet'.  The plural form is 'arkit'. You can see the suffix '-i' added to indicate plurality."
 }

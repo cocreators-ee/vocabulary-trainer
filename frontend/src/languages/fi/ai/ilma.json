@@ -1,15 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ilma on kaunis tänään.",
-    "Mennään ulos hyvään ilmaan.",
-    "Ilmasto muuttuu nopeasti."
+    "Huomenna on aurinkoista ilmaa.",
+    "Tänään on todella kylmää ilmaa.",
+    "Ilma on raikasta ja puhdasta."
   ],
   "translation": [
     "air",
-    "weather",
-    "atmosphere",
-    "climate"
+    "weather"
   ],
-  "context": "In Finnish, 'ilma' is a noun that can refer to air (the substance we breathe), weather conditions, atmosphere, or climate. It's used in various contexts from describing the current day's weather to talking about the Earth's atmospheric conditions."
+  "context": "The Finnish word 'ilma' translates to 'air' or 'weather' in English. It can refer to the atmospheric air, but also to the general state of the weather conditions. The word declines based on case, as shown in the dictionary definition, and possessive forms exist to indicate ownership (e.g., my air, your air)."
 }

@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Kas sa tunned seda koodi?",
-    "Arvuti vajab head koodi töötamiseks.",
-    "See programm on kirjutatud hea koodiga."
+    "Kasutame morsekoodi sõnumite saatmiseks.",
+    "Programmeerija kirjutas efektiivse koodi.",
+    "See dokument on kodeeritud saladuskoodiga."
   ],
   "translation": [
-    "code",
-    "program code",
-    "source code"
+    "code"
   ],
-  "context": "The Estonian word 'kood' is a noun that directly corresponds to English words like 'code', 'program code', or 'source code'. In computing contexts, it refers to the written instructions and programming language text that make up computer programs. The word is used in technical discussions about software development, programming, and computer science."
+  "context": "The Estonian word 'kood' is borrowed from English and means 'code'. It refers to a system of symbols used for representing information in an abbreviated or secret form. This can include computer programming code, Morse code, genetic code (in biology), encryption codes, etc. The word follows regular Estonian declension patterns with genitive 'koodi', partitive 'koodi', and plural forms like 'koodid'."
 }

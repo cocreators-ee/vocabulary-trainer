@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Esimene aastast oli raske.",
-    "Töölt tulles me lähime alati kooli aastast peale.",
-    "Kaks aastat on möödunud esimesest aastast."
+    "Elatustase on aasta-aastalt tõusnud.",
+    "Vanaisa jääb aasta-aastalt hädisemaks."
   ],
   "translation": [
-    "from the year",
-    "since the year",
-    "out of the year"
+    "year by year",
+    "annually",
+    "from year to year"
   ],
-  "context": "The word 'aastast' is an Estonian postposition that indicates temporal origin or source. It's formed from the root word 'aasta' (year) with the '-st' suffix, which in Estonian typically denotes origin/source when used as a postposition. It translates to English phrases like 'from', 'since', or 'out of' but specifically referring to years or time periods. It answers questions like 'From what point in time?' or 'Since what year?'. The word is always lowercase unless it's the first word in a sentence, and it typically follows the noun phrase it modifies."
+  "context": "The word 'aastast' is an Estonian adverb derived from the noun 'aasta' (year). It indicates progression or change occurring on a yearly basis, showing continuous development over time. The form with repetition 'aasta-aastalt' emphasizes this gradual annual progression."
 }

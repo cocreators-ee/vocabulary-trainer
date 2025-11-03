@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tehingu täitmine võtab aega.",
-    "Me vaatlesime tehingu üksikasju.",
-    "Tehingu eest vastutab müüja."
+    "Tehingu sõlmimine võtab aega.",
+    "Kas te olete saanud meie tehingu kinnituskirja?",
+    "Sel päeval toimub suur tehing börsil."
   ],
   "translation": [
     "transaction",
     "deal",
-    "agreement",
-    "business"
+    "agreement"
   ],
-  "context": "The word 'tehingu' is the genitive singular form of the Estonian noun 'tehind', which means transaction, deal, agreement, or business. In this case, it's used to indicate possession or relation - something that belongs to or is associated with a transaction/deal. For example: 'Tehingu täitmine' means 'execution of the transaction'; 'tehingu üksikasju' means 'details of the transaction'; 'tehingu eest vastutab' means 'is responsible for the transaction'."
+  "context": "The word 'tehingu' is the genitive singular form of the Estonian noun 'tehing'. It means transaction, deal, or agreement and refers to a business or financial arrangement between parties. The -u ending indicates possession or relation to the transaction (e.g., 'of the transaction', 'regarding the transaction')."
 }

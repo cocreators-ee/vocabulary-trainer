@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tulen tästä ja menen sinne.",
-    "Mikä täällä tapahtuu?",
-    "Me olemme nyt täällä."
+    "He ovat täällä.",
+    "Missä olet? -- Täällä.",
+    "Olen ollut täällä koko päivän."
   ],
   "translation": [
-    "here"
+    "here",
+    "over here"
   ],
-  "context": "The Finnish word 'täällä' means 'here'. It is an inessive case form of the pronoun 'tämä', meaning 'this'. The inessive case indicates location within something or somewhere. It answers the question 'where?' and is used when someone or something is physically present at a location."
+  "context": "The word 'täällä' is a Finnish adverb meaning 'here' or 'over here'. It indicates a location, and as the dictionary definition explains, it often implies a less precise location than 'tässä'. The word comes from older forms related to 'this', similar to how 'tämä' means 'this'."
 }

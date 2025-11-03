@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on siniset silmät.",
-    "Hän katsoi minua silmiin.",
-    "Silmät ovat aistielimemme."
+    "Hän katsoi minua silmillään.",
+    "Silmä on ihmisen tärkeä elin.",
+    "Lapsella oli siniset silmät."
   ],
   "translation": [
     "eye",
-    "eyes"
+    "sight",
+    "vision"
   ],
-  "context": "The Finnish word 'silmä' means 'eye' or 'eyes' in English. It refers to the organs of sight in humans and animals. In Finnish, 'silmä' is typically used in the singular form when referring to one eye, but can also be used collectively for both eyes depending on context. The word has a basic vowel-final structure typical of Finnish nouns."
+  "context": "The Finnish word 'silmä' means 'eye'. It refers to the organ of vision. The word can also refer to a hole, like in a needle, or the center of a hurricane.  It declines based on case; for example, 'silmän' is the genitive form meaning 'of the eye', and 'silmiä' is the partitive plural form meaning 'eyes'. You can see possessive forms such as 'silmäni' (my eye) or 'silmämme' (our eyes)."
 }

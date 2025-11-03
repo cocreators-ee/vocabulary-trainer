@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Häired häirisid tööd.",
-    "Põhjustasid häireid.",
-    "See oli suur häire."
+    "Närvisüsteemi, kõrgema närvitalitluse, psüühika häired.",
+    "Kõlas häire. Häire peale jooksis rahvas kokku.",
+    "Automaatliin on töötanud seni ilma ühegi häireta."
   ],
   "translation": [
-    "disturbance",
+    "disruption",
     "interference",
-    "disruption"
+    "alarm",
+    "alert",
+    "disturbance"
   ],
-  "context": "The Estonian word 'häire' is a noun that refers to some kind of disturbance, interference or disruption. It can describe an unwanted interruption that affects the normal functioning of something - whether it's noise disturbing work, signal interference in communications, or any other kind of disruption to the regular course of events."
+  "context": "The Estonian word 'häire' has two main meanings: 1) A disruption, interference, or disturbance (often used in medical/technical contexts for problems with nerves, breathing, hearing, memory, etc.), and 2) An alarm or alert signal calling people together during emergencies. It can be found in compound words describing various types of disorders (like 'südamehäire' - heart disorder) or emergency alarms (like 'tulekahjuhäire' - fire alarm)."
 }

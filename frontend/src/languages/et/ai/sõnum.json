@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Sain talle sõnumi.",
-    "Saada mulle sõnum!",
-    "Võta ühendust meiega sõnumite kaudu."
+    "Head, halvad sõnumid.",
+    "Juhan saatis linnast sõnumi, et sõidab ära Rootsi.",
+    "Kas teoses leiduv sõnum ikka lugejani jõuab?"
   ],
   "translation": [
     "message",
-    "text message",
-    "note"
+    "news",
+    "information"
   ],
-  "context": "The Estonian word 'sõnum' is a noun that refers to a message or text message. It can be used in various contexts such as receiving messages ('Sain talle sõnumi'), sending messages ('Saada mulle sõnum!'), or communicating through messaging apps ('Võta ühendust meiega sõnumite kaudu'). The word is commonly used in everyday communication and has become even more prevalent with the rise of digital communication platforms."
+  "context": "In Estonian, 'sõnum' is a noun that primarily means 'message' or 'news'. It refers to any communication of information, whether through text (like mobile phone messages or computer communications), news reports, or general tidings. The word can be used in various contexts - from personal messages to news items in newspapers. In compound words like 'hädasõnum' (bad news) or 'välksõnum' (flash message), it maintains this core meaning of communicated information."
 }

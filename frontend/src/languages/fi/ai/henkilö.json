@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä henkilö on minun ystäväni.",
-    "Henkilö auttoi minua kadulla.",
-    "Olemme tavanneet monta tätä henkilöä."
+    "Poliisi epäilee henkilöä rikoksesta.",
+    "Tämä on tärkeä henkilö yritykselle.",
+    "Sama henkilö oli paikalla myös eilen."
   ],
   "translation": [
     "person",
     "individual",
-    "human being"
+    "figure",
+    "character"
   ],
-  "context": "The Finnish word 'henkilö' means person or individual. It's a common noun used to refer to any human being, whether male or female. The word is in the singular nominative form in these examples. When used in different grammatical cases or with plural forms, it would change (e.g., 'henkilön' for genitive case meaning 'of a person', 'henkilöt' for plural meaning 'persons')."
+  "context": "The word 'henkilö' in Finnish means 'person'. It refers to an individual with personhood. The word has different forms depending on the case, as shown in the declension table provided. For example, 'henkilön' is the genitive form meaning 'of a person', and 'henkilöä' is the partitive form.  The possessive forms also change based on who possesses the person (e.g., 'henkilöni' means 'my person'). The word can be used to refer to people in general, or specific individuals like prominent figures ('tärkeä henkilö') or suspects ('poliisi epäilee henkilöä rikoksesta')."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ohus on kodus.",
-    "Tänaval oli ohu all.",
-    "Poisid olid ohus."
+    "Ta elu on ohus.",
+    "Haiguse tõttu oli tema elu ohus.",
+    "Lapse elu oli suures ohus."
   ],
   "translation": [
-    "danger",
-    "threat",
-    "risk"
+    "in danger",
+    "at risk",
+    "in peril"
   ],
-  "context": "The word 'ohus' in Estonian is the singular nominative form of a noun meaning danger, threat, or risk. It can refer to physical danger, potential harm, or threatening situations. The word appears to be in its base form here and would change with different cases and numbers depending on how it's used in a sentence."
+  "context": "'Ohus' is the inessive singular form of the Estonian word 'oht', which means 'danger'. When used as 'ohus', it indicates that something is in a state of being within or surrounded by danger. It describes a situation where someone's life, safety, or well-being is threatened or at risk. This form typically follows the noun it modifies and creates the meaning 'in danger' or 'at risk'. For example, 'elu ohus' literally means 'life in danger', indicating that someone's life is at stake."
 }

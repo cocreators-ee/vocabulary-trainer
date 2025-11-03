@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta rikub reegleid.",
-    "Me ei tohi rikuda keskkonda.",
-    "See tegevus võib rikuda seadust."
+    "Tegelikult rikkuda on arvutiprogrammidesse tungimiseks kasutatav termin.",
+    "Hackerid proovivad tihti rikkuda süsteeme leida nõrkusi.",
+    "Rikunud turbarühma tarkvara leiavad varjatud lünki."
   ],
   "translation": [
-    "to break",
-    "to violate",
-    "to damage",
-    "to harm"
+    "to hack",
+    "to break into (computer systems)",
+    "to breach"
   ],
-  "context": "The Estonian word 'rikkuda' is a verb that means to break, violate, damage, or harm something. It can refer to physical destruction (breaking an object), rule violation (violating rules), environmental harm (damaging the environment), or legal transgression (breaking laws). The word carries connotations of causing disruption or negative consequences."
+  "context": "The word 'rikkuda' in Estonian is used to describe the act of breaking into computer systems or hacking programs. It refers to unauthorized access and modification of software systems, often for finding vulnerabilities or making changes without permission."
 }

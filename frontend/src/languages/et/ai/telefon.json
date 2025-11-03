@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Telefon ei tööta.",
-    "Mul on telefoni number.",
-    "Kas sa oled telefoninud?"
+    "Telefoniga rääkima.",
+    "Kodus mul telefoni pole.",
+    "Minu telefon on 233 75 45."
   ],
   "translation": [
-    "phone",
-    "telephone"
+    "telephone",
+    "phone"
   ],
-  "context": "The Estonian word 'telefon' means phone or telephone. It's a loanword from English/German and is used in the same contexts as English - for both mobile phones and landline telephones. The word can be declined in various cases: telefon (nominative), telefoni (genitive), telefonile (allative), etc."
+  "context": "The Estonian word 'telefon' means telephone or phone. It can refer to the communication system itself, the physical device used for making calls, the person's phone number, or as a component in compound words describing different types of telephones such as 'mobiiltelefon' (mobile phone) or 'nutitelefon' (smartphone). The word follows Estonian declension patterns with various case forms like telefoni (genitive), telefonis (inessive), etc."
 }

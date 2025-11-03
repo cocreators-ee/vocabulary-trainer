@@ -7,6 +7,7 @@ import requests
 from bs4 import BeautifulSoup, PageElement, NavigableString, Tag
 
 from data_processing.settings import LANGUAGES_SRC, conf
+from data_processing.utils import retry
 
 NO_RESULTS = "No definition found in dictionary."
 USER_AGENT = "curl/8.16.0"
@@ -68,6 +69,7 @@ def fetch_html(url: str) -> Optional[BeautifulSoup]:
     if DEBUG:
         if content_bypass.exists():
             content = content_bypass.read_text()
+            print(f"Reading {url} from file.")
 
     if not content:
         response = requests.get(url, headers={
@@ -140,6 +142,7 @@ def cleanup_html(container: BeautifulSoup | PageElement):
             del element["style"]
 
 
+@retry
 def ekss(word, language_id) -> Optional[str]:
     """
     Estonian dictionary
@@ -157,6 +160,8 @@ def ekss(word, language_id) -> Optional[str]:
         return NO_RESULTS
 
     answer = content.select_one(".tervikart")
+    if answer is None:
+        return NO_RESULTS
 
     # Find any data about "redirects"
     previous_p = [
@@ -178,7 +183,6 @@ def ekss(word, language_id) -> Optional[str]:
     cleanup_html(answer)
     answer.smooth()
     return html_to_text(answer)
-
 
 def wiktionary(word, language_id) -> Optional[str]:
     """
@@ -247,6 +251,15 @@ def wiktionary(word, language_id) -> Optional[str]:
     return text
 
 
+def manual_information(word, language_id) -> Optional[str]:
+    manual_dictionary = LANGUAGES_SRC / language_id / "manual"
+    manual_dictionary.mkdir(parents=True, exist_ok=True)
+    word_cache = manual_dictionary / f"{word}.txt"
+    if word_cache.exists():
+        return word_cache.read_text()
+    return None
+
+
 LANGUAGE_DICTS = {
     "fi": [wiktionary],
     "et": [ekss, wiktionary],
@@ -266,7 +279,13 @@ def get_word_definitions(word, language_id) -> dict[str, str]:
         answer = get_word_cache(word, language_id, dict_name)
         if answer is None:
             answer = dict_func(word, language_id)
+            if answer is None:
+                raise Exception(f"Failed to get {language_id} dictionary definition for {word} from {dict_name}")
             cache_word(word, language_id, dict_name, answer)
         result[dict_name] = answer
+
+    manual = manual_information(word, language_id)
+    if manual:
+        result["manual"] = manual
 
     return result

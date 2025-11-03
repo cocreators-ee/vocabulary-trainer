@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta tegi vea.",
-    "Tegime suuri vigu projektis.",
-    "Kas sa oled kogenud vigade parandamises?"
+    "Korrektuuri vee on musta värvi.",
+    "See trükivea parandasime kiiresti.",
+    "Tingmärk näitab vea asukohta."
   ],
   "translation": [
-    "error",
-    "mistake",
-    "fault",
-    "blunder"
+    "error mark",
+    "correction mark",
+    "proofreading mark"
   ],
-  "context": "The Estonian word 'vea' is the partitive form of the noun 'viga', which means 'error', 'mistake', or 'fault'. In Estonian, the partitive case is often used when talking about errors or mistakes that are made. The word can refer to small mistakes, blunders, or faults in various contexts such as work, studies, or everyday situations."
+  "context": "\"Vea\" is the genitive singular form of \"viga\" (meaning \"error\" or \"mistake\"). In Estonian, it's used to indicate possession or relationship - so \"vea\" means \"of error\" or \"belonging to an error.\" It appears in contexts like proofreading and printing where correction marks are needed to identify mistakes that need fixing."
 }

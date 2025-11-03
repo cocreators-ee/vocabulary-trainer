@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ootan vastust su küsimusele.",
-    "Sa saad oma vastust homme hommikul.",
-    "Palun kirjuta selge vastus."
+    "Ma ei rääkinud sellest Marile ega Miinale.",
+    "Poiste rõõmul polnud otsa ega äärt.",
+    "Ega see paha mõte ole!"
   ],
   "translation": [
-    "answer",
-    "response",
-    "reply"
+    "no",
+    "and not",
+    "not either",
+    "also not"
   ],
-  "context": "The word 'vastust' is the partitive case form of the Estonian noun 'vastus', which means 'answer'. The partitive case is used when referring to a portion, amount, or indefinite quantity of something. In this case, 'vastust' would be used when talking about an answer (indefinite or partial) rather than a specific, complete answer. It can also appear in various constructions like with prepositions indicating movement towards the answer."
+  "context": "The Estonian word 'vastust' appears to be a form of the negative connector 'ega', which is used to connect elements in negative sentences. Based on the dictionary definitions, 'ega' has multiple meanings: 1) it connects repeated elements in negative sentences meaning 'no also' or 'not either'; 2) it can mean 'and not' when connecting predicates; and 3) it appears as a negation at the beginning of sentences meaning something like 'of course not'. The word 'vastust' seems to be part of this same pattern, likely being an accusative singular form that connects with previous elements in a negative context."
 }

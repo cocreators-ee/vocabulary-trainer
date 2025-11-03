@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Öö on kuuvalguses.",
-    "Tuleb varsti öö.",
-    "Me oleme tegutsenud öösel."
+    "Tere ööd!",
+    "Head ööd soovima.",
+    "Suvi on lühikeste öodega."
   ],
   "translation": [
-    "night"
+    "night",
+    "darkness",
+    "evening"
   ],
-  "context": "The word 'öö' is the Estonian noun for 'night'. It's a common word used to refer to the period of darkness between sunset and sunrise. In Estonian grammar, it follows normal declension patterns with various cases like nominative (öö), genitive (ööd), partitive (ööd), etc."
+  "context": "The Estonian word 'öö' means 'night'. It refers to the dark period between evening and morning when people typically sleep. In Estonian, it's a common greeting at night (similar to 'good night' in English). The word changes form based on case - for example, 'ööd' is partitive/accusative, 'öösse' is illative, and so on. It has various compound forms like 'südaöö' (midnight), 'jõuluöö' (Christmas night), etc."
 }

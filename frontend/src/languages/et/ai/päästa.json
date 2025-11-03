@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Ta päästis lapse tulekahjust.",
-    "Me peame pääsema oma kodust.",
-    "Kas sa päästad mind?"
+    "Valge pääses musta mängijalt.",
+    "Ta ei suutnud päästa oma kuningat mattist.",
+    "Päästke mind sellest keerulisest olukorrast!"
   ],
   "translation": [
     "to save",
     "to rescue",
-    "to deliver from danger"
+    "to free from danger",
+    "to avoid defeat",
+    "to escape"
   ],
-  "context": "The Estonian verb 'päästa' means to save or rescue someone or something from danger, harm, or a difficult situation. It can be used for saving people from physical dangers (like fires), delivering them from troubles, or protecting them from various threats. The word belongs to the -da/-dä infinitive conjugation class and changes form depending on tense and subject."
+  "context": "In Estonian, 'päästa' means to save or rescue someone/something from danger, harm, or an undesirable situation. In chess context specifically, it refers to a player trying to save their king from checkmate (matti). The word can be used in various contexts - saving people from physical danger, rescuing objects from damage, avoiding defeat in games, or escaping difficult situations."
 }

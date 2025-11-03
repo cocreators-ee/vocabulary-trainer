@@ -1,14 +1,18 @@
 {
   "understood": true,
   "sentences": [
-    "Kas te peate minema?",
-    "Me peame kohtuma kell kolm.",
-    "Ta peab tulema homme."
+    "\"Noh, kas perenaine lubas?\" küsis noorhärra järgmisel õhtul. – \"Lubas küll, aga ..\"",
+    "\"Jajah, nojah, õige küll. Aga siis peate rikas inimene olema, kui nii palju raamatuid ostate.\"",
+    "Kes aga ette sattus, see kolki sai."
   ],
   "translation": [
-    "must",
-    "have to",
-    "need to"
+    "but",
+    "however",
+    "yet",
+    "still",
+    "only",
+    "just",
+    "merely"
   ],
-  "context": "In Estonian, 'peate' is the 2nd person plural present form of the verb 'pidama', which means 'to have to', 'must', or 'need to'. It indicates obligation or necessity in formal address (plural you). This form is used when speaking to multiple people formally."
+  "context": "The word 'peate' appears to be a variant or specific form of the Estonian conjunction 'aga', which primarily functions as a contrastive connector meaning 'but' or 'however'. In the given sentence \"Jajah, nojah, õige küll. Aga siis peate rikas inimene olema, kui nii palju raamatuid ostate.\", it seems to be used in combination with the verb 'pidama' (to have/need) as part of an expression meaning \"then you must be a rich person if you buy so many books.\" The word can also function adverbially to mean 'only', 'just', or 'merely'. It's commonly used for contrast between clauses, showing opposition or qualification of what was previously stated."
 }

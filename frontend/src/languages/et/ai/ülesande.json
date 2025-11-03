@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma olen täna ülesande ära teinud.",
-    "Õpetaja andis meile uue ülesande.",
-    "Kas sa oled veel oma ülesande lõpetanud?"
+    "Anete oli tööle täie hingega külge hakanud.",
+    "Ülesande kõrvalt või peale ei tohi unustada oma põhiülesannet.",
+    "Tegelikult on ülesanne määratud juba eelnevalt."
   ],
   "translation": [
-    "assignment",
     "task",
-    "problem",
-    "exercise"
+    "assignment",
+    "duty"
   ],
-  "context": "The Estonian word 'ülesande' is the partitive form of 'ülesanne', which means assignment or task. It refers to something that needs to be completed, particularly in an educational or work context. The partitive case here indicates that it's being referred to as an object - something that exists or is being discussed."
+  "context": "The Estonian word 'ülesande' is the genitive singular form of 'ülesanne', which means 'task', 'assignment', or 'duty'. In the dictionary definition provided, it appears in context 3 where it refers to a task that someone takes on ('millegi (töö, ülesande) kallale asuma' - to take on something (work, task)). This form would typically be used when indicating possession or relation to a task, such as 'the task of' or 'related to the assignment'. For example, in the sentence structure you might say 'ülesande täitmine' (fulfillment of the task)."
 }

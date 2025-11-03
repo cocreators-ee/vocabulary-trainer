@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta töötab riigis.",
-    "Riigis on palu huvitavaid kohti.",
-    "Meie elame väikeses riigis."
+    "Riigis oli suur aadlilipkond.",
+    "Varem olid riigid väeüksused.",
+    "Rootsi ajal moodustati erinevaid riige."
   ],
   "translation": [
+    "state/country in",
     "in the state",
-    "in the country",
-    "in the republic"
+    "within the country"
   ],
-  "context": "\"Riigis\" is the inessive case (location where) of \"riik\", which means \"state\" or \"country\". It indicates location within a state or country. The word shows how Estonian uses different cases to express spatial relationships, with the inessive case specifically showing being inside something."
+  "context": "The word 'riigis' is the inessive case form of 'riik', which means 'state' or 'country'. In Estonian grammar, the inessive case (-s ending) indicates location within something. So 'riigis' specifically means 'in the state' or 'in the country'. It's used to indicate where something is located geographically - within a particular nation-state."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Inimesed on head inimestega.",
-    "Kohtusime paljude heade inimestega.",
-    "Ta elab naabritega ja jagab elu teiste inimestega."
+    "Sain teavet sellest inimestega.",
+    "Kogu info jagati inimestega.",
+    "Rääkisin paljude inimestega."
   ],
   "translation": [
     "with people",
-    "together with people",
-    "among people"
+    "via people",
+    "through people"
   ],
-  "context": "The word 'inimestega' is the Estonian instrumental case form of 'inimesed' (people), meaning it indicates accompaniment or instrumentality - essentially showing that something is done 'with people'. The '-ga' suffix at the end transforms the nominative plural 'inimesed' into the instrumental plural form, indicating the action involves other people as instruments or companions."
+  "context": "The word 'inimestega' is the Estonian instrumental case form of 'inimene' (person), meaning 'with people' or 'via people'. It indicates that something was done using people as a means, intermediary, or instrument. For example, information might be obtained through someone (someone's help) or distributed among people. The suffix '-ga' transforms the genitive plural form into the instrumental case."
 }

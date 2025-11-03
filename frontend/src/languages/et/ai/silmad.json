@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Silmad on inimese peamised meeleelundid.",
-    "Tal oli ilusad sinised silmad.",
-    "Lapsed avasid oma suured silmad imestuseks."
+    "Silmad on inimese ja enamiku loomade nägemiselundid.",
+    "Kassi hiilgavad silmad muutuvad öösel valgeks.",
+    "Tal oli suured sinised silmad."
   ],
   "translation": [
     "eyes",
-    "eyeballs"
+    "vision organs",
+    "visual organs"
   ],
-  "context": "The word 'silmad' is the plural form of 'silma' (eye) in Estonian. It refers to the organs of sight on a person's face, used for vision and seeing. In Estonian grammar, this follows the regular declension pattern where words ending in -d typically indicate plural forms. The word can be used literally to refer to physical eyes or metaphorically in expressions about appearance or perception."
+  "context": "The word 'silmad' is the nominative plural form of the Estonian noun 'silm', which means eye or eyes. It refers to the paired visual organs in humans and most animals that enable sight. The singular form would be 'silm'. In Estonian grammar, this follows typical declension patterns for nouns ending in -d in their plural forms."
 }

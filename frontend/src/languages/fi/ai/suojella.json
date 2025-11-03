@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Meidän on suojeltava luontoa.",
     "Hän suojeli lasta vaaralta.",
-    "Tämä laki suojellaan perusoikeuksia."
+    "Poliisi suojeli mielenosoittajia väkivallalta.",
+    "Suojelemme ympäristöä saasteilta."
   ],
   "translation": [
     "protect",
-    "defend",
-    "shield"
+    "shelter",
+    "guard",
+    "defend"
   ],
-  "context": "The Finnish verb 'suojella' means to protect, defend or shield someone or something from harm, danger, or damage. It is often used in contexts of safeguarding nature, children, rights, or important values. The word can be conjugated into different forms like 'suojelen' (I protect), 'suojeltiin' (was protected), and 'suojellaan' (is/will be protected)."
+  "context": "The Finnish verb 'suojella' means 'to protect', 'to shelter', or 'to ward off'. It is a transitive verb, typically used when protecting something from an abstract threat. For concrete threats, the verb 'suojata' is more common. The word inflects based on tense and person, as shown in the dictionary definition.  The -ella ending indicates a continuous or habitual action."
 }

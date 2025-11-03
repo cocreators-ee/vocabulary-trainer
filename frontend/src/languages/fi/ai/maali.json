@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on kaunis maali.",
-    "Ostin uuden maalin talvivalmisteluihin.",
-    "Maalasin seinän valkoisella maalilla."
+    "Hän maalasi seinän valkoiseksi.",
+    "Jalkapalloilija teki upean maalin.",
+    "Ampumahiihtäjä tähtäsi tarkasti maaliin."
   ],
   "translation": [
     "paint",
-    "coating",
-    "varnish"
+    "target",
+    "goal"
   ],
-  "context": "The Finnish word 'maali' primarily refers to paint or coating used for painting surfaces. It can be used to describe the liquid substance applied to objects, walls, or other surfaces to color or protect them. The word is commonly used in both singular and plural forms, and it can refer to different types of paints such as wall paint, wood paint, or protective coatings."
+  "context": "The word 'maali' has two main meanings in Finnish. It can refer to physical paint, as in the substance used for coloring surfaces. It also means a goal or target, both literally (like in sports) and figuratively (an aim or objective). The word declines based on case, with different forms indicating its role in a sentence. For example, 'maalin' is the genitive form meaning 'of the paint/goal', while 'maaliin' indicates movement towards a goal ('to the goal')."
 }

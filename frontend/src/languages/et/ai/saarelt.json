@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tuli saarelt.",
-    "Lennuk saabus saarelt.",
-    "Kalurid tulid saarelt."
+    "Saarelt vaadatuna näeb mandrit.",
+    "Tõttasime saarelt mandrile.",
+    "Purilennuk lendab saarelt mandrini."
   ],
   "translation": [
-    "from the island"
+    "from the island",
+    "off the coast of the island"
   ],
-  "context": "The word 'saarelt' is an Estonian adessive case form of the word 'saar' (island). The ending '-lt' indicates the source or origin, meaning 'from'. So 'saarelt' specifically means 'from the island' and is used to indicate that someone or something comes from an island."
+  "context": "The word 'saarelt' is an Estonian adessive case form of 'saar' (island). It indicates movement or direction from a location on an island. The '-lt' suffix in Estonian typically indicates the ablative case, meaning 'from' a place. This prepositional/adverbial form is used to specify that something originates, comes from, or is viewed from the perspective of an island."
 }

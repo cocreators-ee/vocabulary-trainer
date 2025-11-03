@@ -1,16 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Kohal on vaba koht.",
-    "Tule homme kohale!",
-    "Meie oleme alati sinu kõrval kohal."
+    "Lennuk tegi linna kohal mitu tiiru.",
+    "Auto peatus aiavärava kohal.",
+    "Direktor oli terve päeva kohal."
   ],
   "translation": [
+    "above",
+    "over",
+    "nearby",
+    "at the location",
     "present",
-    "here",
-    "at the scene",
-    "in attendance",
-    "available"
+    "here"
   ],
-  "context": "The Estonian word 'kohal' is an adverb that means present, here, or at the scene. It indicates someone's presence in a particular location or situation. It can be used to indicate availability (being at work/on duty), physical presence in a place, or attendance at an event."
+  "context": "\"Kohal\" in Estonian has two main uses: as a postposition meaning 'above', 'over', or 'nearby' when indicating spatial relationship (something being at a higher level than something else), and as an adverb meaning 'present', 'at the location', or 'here' when referring to someone being in the expected place. It can also indicate arrival at a destination."
 }

@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tema on hea õpetaja.",
-    "Mida ta teeb? Tema töötab pangas.",
-    "Ma ei tea, kuidas tema elab."
+    "Tema on õpetaja.",
+    "Ta elab, sööb, magab.",
+    "Kas sul tast kahju pole?"
   ],
   "translation": [
-    "he/she/it",
-    "him/her/it"
+    "he/she",
+    "him/her"
   ],
-  "context": "The word 'tema' is the third-person singular pronoun in Estonian. It can mean 'he', 'she', or 'it' depending on the gender of the person being referred to. In sentences, it follows the same grammatical rules as English pronouns but is used consistently regardless of gender until context makes it clear which gender is being discussed."
+  "context": "The Estonian word 'tema' is a stressed form of the third person singular personal pronoun used to refer to someone who is neither the speaker nor the listener. It corresponds to English 'he/she' or 'him/her'. When unstressed, it shortens to 'ta'. The word has multiple case forms including temast (from him/her), talle (to him/her), tal (at/on him/her), etc., used depending on grammatical context."
 }

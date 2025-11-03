@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "See on väikse maja.",
-    "Ta ostis väikse auto.",
-    "Meie lapsed kasvavad väiksest lapsest suureks."
+    "Näib oma väikse edemusega rahul olevat.",
+    "Tollal ilmuvate raamatute enamikuga võrreldes on silmanähtav Suve Jaani tööde igatine edemus.",
+    "Väike laps jooksis pargis."
   ],
   "translation": [
     "small",
     "little",
-    "tiny"
+    "tiny",
+    "minor"
   ],
-  "context": "The word 'väikse' is the elative case of the Estonian adjective 'väike', meaning 'small' or 'little'. The elative case (-st) indicates movement away from something, so it literally means 'from a small one' or 'out of a small one'. It's used when indicating where something comes from in terms of size or when showing progression from a smaller state."
+  "context": "The word 'väikse' is the partitive singular form of the Estonian adjective 'väike', which means 'small' or 'little'. In this context, it's used to describe a small advantage or superiority ('edemuse'). The word indicates something that is minor in size, degree, or importance. It can be modified by different endings depending on the grammatical case and number."
 }

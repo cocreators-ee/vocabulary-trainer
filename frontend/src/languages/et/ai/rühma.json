@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tüdrukud rändasid grupis.",
-    "Meie rühm koosneb 10 liikmest.",
-    "Ta oli meie rühma juht."
+    "Rühma on tähtsal kohal organisatsioonis.",
+    "Meie rühma koosneb viieliikmest.",
+    "Ta kuulus ettevõtte juhtrühmast."
   ],
   "translation": [
     "group",
     "team",
-    "squad"
+    "unit"
   ],
-  "context": "The word 'rühma' is the partitive case form of the Estonian noun 'rühm'. In Estonian, nouns change their endings depending on grammatical case. The partitive case often indicates an incomplete action or partial object. 'Rühma' typically refers to a group, team, squad, or collection of people working together towards a common goal."
+  "context": "The word 'rühma' is the partitive case form of 'rühm', which means 'group' or 'team'. In Estonian grammar, the partitive case is used to indicate partialness or indefiniteness. So 'rühma' would translate as '(of) a group' or '(in) a group'. This form typically appears after prepositions like 'sees' (in), 'koos' (with/together with), or when indicating belonging to an organization."
 }

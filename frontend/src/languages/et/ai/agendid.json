@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Agendid on töötavad isikud.",
-    "Mehed said agendiks.",
-    "Naised olid agendid."
+    "Firma, kindlustusseltsi agent.",
+    "\"Singeri\" agendid müütasid õmblusmasinaid järelmaksuga.",
+    "Politsei, salapolitsei, ohranka agendid."
   ],
   "translation": [
-    "agents"
+    "agents",
+    "representatives",
+    "sales representatives"
   ],
-  "context": "The word 'agendid' is the plural form of the Estonian noun 'agent'. It refers to multiple agents or people who act on behalf of others, typically in professional contexts such as business, intelligence, or representation. The singular form would be 'agent', and when used in plural, it indicates more than one person serving in this capacity."
+  "context": "The Estonian word 'agendid' is the plural form of 'agent'. It refers to 1) company or institution representatives who perform their tasks or intermediaries (like insurance agents, sales agents), and 2) secret collaborators for intelligence services, police, etc. (spies, undercover agents). The word can be used in compound words like kaubaagent (trade agent), kindlustusagent (insurance agent), reklaamiagent (advertising agent), luureagent (intelligence agent), politseiagent (police agent), and topeltagent (double agent)."
 }

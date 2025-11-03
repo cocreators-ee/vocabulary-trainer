@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kõik numbrid on korras.",
-    "Tahame meie numbrid.",
-    "Need on head numbrid."
+    "Kogutud teoste esimene köide.",
+    "Raamatukogus on üle 100 000 köite.",
+    "Väitekiri on kahes köites."
   ],
   "translation": [
-    "numbers"
+    "volume",
+    "binding",
+    "cover"
   ],
-  "context": "The word 'numbrid' is the plural form of the Estonian word 'number', which means 'number' in English. It refers to multiple numerical values or digits. In Estonian, nouns change their endings based on number (singular/plural), and '-d' at the end indicates this is a plural noun."
+  "context": "In Estonian, 'köide' refers to a bound book or volume. It specifically means the physical binding of a book that gives it strength and form, as well as referring to a complete set of works published in multiple volumes. For example, when someone mentions 'A. H. Tammsaare \"Tõde ja õigus\" koosneb viiest köitest', they mean the work consists of five volumes. The word can also refer to the physical act of binding."
 }

@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Mind ei tea.",
-    "Tüdruk mind küsib.",
-    "Kus mind on?"
+    "Mind ei huvita see asi.",
+    "Tema põlgab mind täielikult.",
+    "Me peame võtma mind kaasa."
   ],
   "translation": [
-    "me"
+    "me",
+    "myself"
   ],
-  "context": "In Estonian, 'mind' is the partitive case of the personal pronoun 'mina', which means 'I'. The partitive case is used when the pronoun is the object of a verb or follows certain prepositions. It can be translated as 'me' in English contexts where it refers to oneself as an object."
+  "context": "The word 'mind' is the Estonian partitive singular form of 'mina', which means 'I'. In English, it translates to 'me' or 'myself'. It's used as an object pronoun when referring to oneself in the accusative case. For example, when saying someone doesn't care about something ('Mind ei huvita'), being taken somewhere ('Me peame võtma mind kaasa'), or when someone is despised by another ('Tema põlgab mind')."
 }

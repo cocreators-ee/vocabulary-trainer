@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Võtke palun istuda.",
-    "Võtke oma kohad ära.",
-    "Võtke endale aega."
+    "Võtke heaks või pange pahaks.",
+    "Kas võtke seda tõsiselt?",
+    "Palun võtke istmed."
   ],
   "translation": [
-    "take",
-    "get",
-    "accept"
+    "take it or leave it",
+    "accept or reject",
+    "receive"
   ],
-  "context": "The word 'võtke' is the plural imperative form of the Estonian verb 'võtta', which means 'to take'. It's used when addressing multiple people with an instruction or request. The '-ke' ending makes it polite and plural, similar to saying 'please take' in English to a group."
+  "context": "The word 'võtke' is the plural imperative form of Estonian verb 'võta' meaning 'to take'. It can be used in several contexts: 1) In the expression 'võtke heaks või pange pahaks' which means 'take it or leave it', expressing that the speaker doesn't care about the listener's attitude toward something. 2) As a command to receive or accept something, such as tickets, items, or opportunities. 3) To take physical objects, seats, or actions. The form indicates multiple people being addressed (formal/plural you)."
 }

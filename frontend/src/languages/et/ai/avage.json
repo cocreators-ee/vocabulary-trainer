@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Avage uks.",
-    "Palun avake aknad.",
-    "Tegelikult ei ole see avatud."
+    "Avasin uksi.",
+    "Pood avab kell 9 hommikul.",
+    "Me avasime uusi võimalusi."
   ],
   "translation": [
-    "open",
-    "unlock",
-    "start"
+    "to open",
+    "to begin",
+    "to start",
+    "to unlock"
   ],
-  "context": "The Estonian word 'avage' is an imperative form (command) of the verb 'avama', which means to open or unlock. It's used when giving direct commands to a group or someone you'd address formally. The singular formal form would be 'ava'. This word can refer to opening physical doors/windows, unlocking something, or starting/initiating activities."
+  "context": "The Estonian word 'avage' is the imperative form of 'avama', meaning 'to open'. It can refer to physically opening something like a door, window, or container, but also metaphorically means to begin/start something new, such as a season, event, or discussion. It's commonly used in commands and instructions."
 }

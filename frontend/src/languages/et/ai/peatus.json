@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Peatus on avatud kell 6.00 hommikust kuni 22.00 õhtuni.",
-    "Bussipeatus asub linna keskuses.",
-    "Palun öelge mulle lähim peatus."
+    "Autojuht tegi teeristil peatuse.",
+    "Väljusin trammist Kadrioru peatuses.",
+    "Sõitsime paar peatust edasi."
   ],
   "translation": [
     "stop",
-    "station",
-    "halt"
+    "halt",
+    "pause",
+    "station"
   ],
-  "context": "The word 'peatus' is an Estonian noun that means 'stop', 'station', or 'halt'. It typically refers to a bus stop, tram stop, or any kind of public transportation stopping point. In Estonian grammar, 'peatus' is in the singular nominative form here. The plural form would be 'peatused' (stops), and the genitive form would be 'peatuse' (of a stop). This word is commonly used when giving directions, discussing transportation schedules, or referring to public transit locations in Estonia."
+  "context": "In Estonian, 'peatus' is a versatile word that can refer to: 1) an act of stopping or pausing (like making a stop during travel), 2) the location where one stops (such as a bus stop, tram stop, etc.), or 3) in some contexts, a resting place. It's derived from 'peatama' meaning to stop. The word can be used both for temporary pauses and permanent stopping places. Related compound words include 'bussipeatus' (bus stop), 'trammi peatus' (tram stop), and 'raudteepeatus' (train station)."
 }

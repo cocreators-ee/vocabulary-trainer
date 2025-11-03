@@ -1,16 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Mieleni tekee kahvia.",
-    "Sinulla on hyvä mieli.",
-    "Hänellä on surullinen mieli."
+    "Hänellä on hyvä mieli.",
+    "Minulla ei ole mitään mielessäni.",
+    "Mieli tekee lähteä lomalle."
   ],
   "translation": [
     "mind",
-    "spirit",
+    "thought",
     "mood",
-    "feeling",
-    "temperament"
+    "sense",
+    "opinion",
+    "inclination"
   ],
-  "context": "The Finnish word 'mieli' is a versatile noun that can refer to the mind or spirit, but is also commonly used to describe one's mood, feeling, or emotional state. It's similar to how English uses both 'mind' and 'mood', with context determining which meaning is appropriate."
+  "context": "The word 'mieli' in Finnish has a broad meaning, encompassing concepts like mind, thought, mood, sense, opinion, and inclination. It can refer to the capability for rational thought, emotional state, or even what one desires. The word declines based on grammatical case, as shown in the dictionary definition, which affects its precise meaning within a sentence. For example, 'mielessä' means 'in mind', while 'mielen' is the genitive form often used to express possession or relation ('of the mind')."
 }

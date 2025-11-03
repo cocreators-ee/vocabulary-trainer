@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tema on mingit kõrget mees.",
-    "Mingit head sööki tänaks!",
-    "Mul on mingit häda."
+    "Mingit ainet kasutatakse tuumareaktorites.",
+    "Grafiit on hea mingit tuumareaktsioonide jaoks.",
+    "See seade toimib kui mingit neutroni liikumisel."
   ],
   "translation": [
-    "some kind of",
-    "some sort of",
-    "any"
+    "slowdown",
+    "brake",
+    "decelerator",
+    "moderator"
   ],
-  "context": "The word 'mingit' is the partitive case form of 'mingi', which means 'some' or 'any'. In Estonian, 'mingit' would be used to indicate an indefinite quantity or type of something. It's often used when referring to objects or concepts that are not specifically identified or named."
+  "context": "Mingit is an Estonian noun meaning 'slowdown' or 'brake'. It refers to a substance or device that slows down processes or movement. In nuclear physics context, it specifically refers to a neutron moderator (like graphite) used in nuclear reactors to slow down neutrons."
 }

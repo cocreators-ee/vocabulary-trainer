@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tartu kesklinnas on liikumisest keelatud.",
-    "Loomulikult me peame jätkama liikumist.",
-    "Ei saa lõpetada liikumist."
+    "Liikumist on vaja enne tööde alustamist.",
+    "Aeglaselt liikumist vaadati kõigalt pealt.",
+    "Töölised tegid aeglusat liikumist."
   ],
   "translation": [
-    "movement",
-    "motion",
-    "moving"
+    "slow movement",
+    "slowness",
+    "gradual motion"
   ],
-  "context": "The word 'liikumist' is the partitive case form of the Estonian noun 'liikumine', which means 'movement' or 'motion'. In English, it would be translated as 'movement,' 'motion,' or 'moving.' The partitive case in Estonian typically indicates an incomplete action, object, or something that doesn't have a complete whole. It is often used with negations and to indicate partial aspects of activities."
+  "context": "The word 'liikumist' is the partitive singular form of 'liikumine'. Based on dictionary definitions, it refers to slow or gradual movement. The root 'liikum-' relates to movement (motion), and the suffix '-ist' in this context indicates a slowing down process. It's often used to describe deliberate, unhurried movements as opposed to fast motion."
 }

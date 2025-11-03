@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Suomessa on hyvä laki.",
-    "Lakia pitää noudattaa.",
-    "Tämä uusi laki astuu voimaan ensi vuonna."
+    "Uusi laki tulee voimaan ensi vuonna.",
+    "Asianajaja tutki lain perusteellisesti.",
+    "Yrityksen on noudatettava lakia.",
+    "Laki kieltää syrjinnän."
   ],
   "translation": [
     "law",
+    "act",
     "statute",
-    "legislation"
+    "code"
   ],
-  "context": "The Finnish word 'laki' means law or statute in English. It is a singular form noun that refers to legislation, rules, or regulations established by authorities. In Finnish grammar, it follows the normal declension patterns for common nouns of the type ending in -i."
+  "context": "The word 'laki' in Finnish has multiple meanings, most commonly referring to a law or statute. It can also refer to the general concept of law as a system, or even a physical summit or ceiling depending on context. The declension patterns show how the word changes based on its grammatical role in a sentence (nominative, genitive, etc.).  The plural form 'lait' is used when referring to multiple laws."
 }

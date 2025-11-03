@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kas sa tead seda koodi?",
-    "Mul on saladuskoodi.",
-    "See kood on keeruline."
+    "Koodi on vaja selleks etotsida.",
+    "Ta ostis uue koodi oma töö jaoks.",
+    "Selles kodus on hästi koodi."
   ],
   "translation": [
     "code",
-    "cipher",
-    "key"
+    "coding",
+    "program"
   ],
-  "context": "The word 'koodi' is the partitive case form of 'kood', which means code or cipher. In Estonian, the partitive case is used to indicate a partial object, indefinite quantity, or when something is being acted upon. It often answers questions like 'what?', 'how much?', or 'which one?'."
+  "context": "The word 'koodi' is the genitive and partitive singular form of the Estonian noun 'kood', which means 'code'. In its various forms, it can refer to programming code, a coding system, or a program. The genitive form indicates possession (of code) while the partitive form indicates an unspecified amount or partial quantity (some code)."
 }

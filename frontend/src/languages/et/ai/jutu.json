@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Jutu lõpetas kohe kui saabus ema.",
-    "Me räägime jutu all väga naljakaid asju.",
-    "See oli pikk ja igav jutu."
+    "See etteheide polnud tõsiselt mõeldud, vaid niisama jutu jätkuks tehtud.",
+    "Me rääkisime pikalt ja lõpuks oli see ainult jutu jätkuks.",
+    "Tema kommentaar oli lihtsalt jutu jätkuks mitte midagi tõsiselt."
   ],
   "translation": [
-    "conversation",
-    "talk",
-    "chat",
-    "story"
+    "as a continuation of the talk",
+    "just for conversation's sake",
+    "merely to continue talking"
   ],
-  "context": "In Estonian, 'jutu' is a noun that refers to conversation, talk, or chat. It can also mean story depending on the context. The word appears in both singular and plural forms (jutud), and is commonly used when discussing social interactions, narratives, or discussions between people. When someone says 'rääkima jutu', it means to have a conversation."
+  "context": "The word 'jutu' is the genitive singular form of the Estonian noun 'jutt', which means 'talk' or 'conversation'. In this context, 'jutu jätkuks' is an idiomatic expression meaning 'as a continuation of the talk' or just for conversation's sake. It suggests that something was done merely to keep the conversation going rather than having any serious purpose."
 }

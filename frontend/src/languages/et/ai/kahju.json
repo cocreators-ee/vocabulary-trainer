@@ -1,16 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Kahju ette ei saa tagasi panna.",
-    "See on suur kahju kogu perele.",
-    "Ta tegi kahju oma mainele."
+    "Temast on rohkem kahju kui kasu.",
+    "Külm tegi õunapuudele kahju.",
+    "Mul on sinust südamest kahju."
   ],
   "translation": [
-    "damage",
     "harm",
+    "damage",
     "loss",
     "pity",
-    "shame"
+    "shame",
+    "sorry"
   ],
-  "context": "The Estonian word 'kahju' is a noun that refers to damage, harm, loss or regret. It can be used in various contexts such as physical damage, emotional harm, financial loss, or expressing regret about something unfortunate that happened. The word carries connotations of something negative or undesirable that has occurred."
+  "context": "The Estonian word 'kahju' is a versatile noun with multiple meanings. It can refer to physical damage or loss (like frost damaging apple trees), material/financial losses suffered by a company, emotional harm, or as an expression of sympathy/pity for others. The word also functions in common expressions of regret or apology (similar to saying 'too bad' or 'what a shame'). Its declension shows it belongs to two different noun types (ÕS type 16/pere and ÕS type 17/elu), both with similar forms but slightly different partitive cases."
 }

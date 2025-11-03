@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Väed saabusid lahinguväljale.",
-    "Maa väed olid valmis kaitsema oma piire.",
-    "Sõjaväes teenivad paljud mehed ja naised."
+    "Väed saabusid dessandiks.",
+    "Dessanti tegema.",
+    "Laevastik saatis dessandi maale."
   ],
   "translation": [
-    "army",
     "troops",
-    "forces"
+    "landing force",
+    "assault troops"
   ],
-  "context": "The Estonian word 'väed' is the plural form of 'vägi', which means army, troops, or forces. It refers to organized military units or armed personnel when used in plural form. In Estonian, '-d' at the end of nouns typically indicates plural, so this would be equivalent to saying 'armies' or 'troops' in English."
+  "context": "\"Väed\" is the nominative plural form of \"vägi\", meaning \"army\" or \"force\". In the context provided, it specifically refers to military forces used for a landing operation (dessant). The word appears in dictionary definitions describing military landings from sea or air onto enemy territory."
 }

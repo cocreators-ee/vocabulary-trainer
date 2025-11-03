@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Põleb ta kodus.",
-    "Aga põleb see ka?",
-    "Kuskil midagi põleb."
+    "Põleb maa.",
+    "Tal pole enam asu, maa põleb ta jalgade all.",
+    "Olukord on muutumas ohtlikuks."
   ],
   "translation": [
+    "burns",
     "is burning",
-    "burns"
+    "becomes dangerous/hot underfoot"
   ],
-  "context": "The word 'põleb' is the 3rd person singular present tense form of the Estonian verb 'põlema', which means 'to burn'. It describes something that is currently on fire or in the process of burning. This can refer to literal fires (like a candle, fire, or object burning) as well as metaphorical uses (like passion or anger burning)."
+  "context": "The Estonian word 'põleb' means 'burns' or 'is burning'. It is most commonly used to describe the ground becoming hot or burning, often metaphorically referring to a situation becoming dangerous or untenable. The phrase 'maa põleb jalgade all' literally means 'the ground burns underfoot', which can be both literal (actual fire) and figurative (a dangerous situation). This word is in the third person singular present tense form."
 }

@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Hän tilaa kahvia joka aamu.",
-    "Tilaan lehden postitse.",
-    "He tilasivat uuden sohvan kaupasta."
+    "Minulla ei ole tilaa.",
+    "Voisitko siirtää sen vähän tilaa?",
+    "Tarvitsen lisää tilaa."
   ],
   "translation": [
-    "order",
-    "subscribe",
-    "request",
-    "command"
+    "space",
+    "room",
+    "order"
   ],
-  "context": "The Finnish word 'tilaa' is the third-person singular form of the verb 'tilata'. It means to order, subscribe to something (like a magazine), request something, or give a command. The word can be used in various contexts from ordering food at a restaurant to subscribing to a service."
+  "context": "The word 'tilaa' is a versatile Finnish word that can function as both a noun and a verb. As a noun, it most commonly means 'space' or 'room', but it can also refer to an 'order' (as in placing an order). It appears here in the partitive singular form of 'tila'. As a verb, it is an inflection of 'tilata', meaning 'to order'. The provided dictionary definitions indicate that it can be used as the third-person singular present indicative, present active indicative connegative, and second-person singular present imperative/active imperative connegative forms."
 }

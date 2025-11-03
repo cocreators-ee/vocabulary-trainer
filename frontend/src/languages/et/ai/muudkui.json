@@ -1,14 +1,18 @@
 {
   "understood": true,
   "sentences": [
-    "Muudkui vaatas aknast välja.",
-    "Ta muudkui jõi hommikuti kohvi.",
-    "Lapsed muudkui mängisid aias."
+    "Kogu aeg muudkui tülitsevad.",
+    "Ei kusagil maad, muudkui lai veeväli ümberringi.",
+    "Ta on tore mees, muudkui elu on ta eraklikuks teinud."
   ],
   "translation": [
-    "just",
     "only",
-    "merely"
+    "just",
+    "merely",
+    "constantly",
+    "continuously",
+    "except for",
+    "but"
   ],
-  "context": "The Estonian word 'muudkui' is an adverb that means 'just', 'only', or 'merely'. It's used to indicate that something is done in a simple, uncomplicated way without additional complexity or elaboration. The word consists of 'muu' (other/another) and 'kui' (than/comparative), but as an adverb it functions similarly to English words like 'just', 'only', or merely'. It modifies verbs to show that the action is simple and straightforward."
+  "context": "The Estonian word 'muudkui' is an adverb and conjunction with multiple meanings: 1) It can indicate constant or continuous action (meaning 'always', 'constantly', 'continuously'), as in 'Kogu aeg muudkui tülitsevad' (They keep causing trouble all the time). 2) It can be used to exclude other possibilities (meaning 'only', 'just', 'merely'), as in 'Ei kusagil maad, muudkui lai veeväli ümberringi' (There's nowhere land, only a wide expanse of water all around). 3) It can function as a restrictive adverb (meaning 'but', 'however') or as a concessive conjunction introducing clauses that partially negate the previous statement."
 }

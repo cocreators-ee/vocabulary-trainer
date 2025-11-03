@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Udu tõusis järve kohal.",
-    "Pärast vihma oli õhus udu.",
-    "Hommikul nägin ma udu metsa servas."
+    "Öine udu lasi maha.",
+    "Sügisene udu hõljub järve kohal.",
+    "Udu tihenes ja nähtavus halvenes."
   ],
   "translation": [
     "fog",
     "mist",
-    "haze"
+    "haze",
+    "vapor"
   ],
-  "context": "The Estonian word 'udu' refers to fog or mist, which is a weather phenomenon consisting of tiny water droplets suspended in the air at ground level. It can be used both for natural atmospheric conditions and metaphorically to describe something that obscures vision or clarity."
+  "context": "The Estonian word 'udu' primarily means 'fog' or 'mist'. It refers to a collection of water droplets, ice crystals, or their mixture near the Earth's surface. The word can also be used metaphorically to describe confusion, obscurity, or vague memories ('mähkub uttu'). In astronomy, it can refer to nebulae ('udukogu'). The word has various compound forms specifying different types of fog such as 'hommiku udu' (morning mist), 'mere udu' (sea fog), etc."
 }

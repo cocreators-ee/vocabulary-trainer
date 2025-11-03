@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta on teelt ära kõndinud.",
-    "Me peame leidma teelt maha.",
-    "Lapsed jooksid teelt eemale."
+    "Olime teelt eksinud.",
+    "Võõrad eksib siia metsade taha harva.",
+    "Eksis mitu päeva mööda metsi."
   ],
   "translation": [
-    "from the road/path/street",
-    "off the road/path/street"
+    "from the road",
+    "off the path",
+    "astray"
   ],
-  "context": "The Estonian word 'teelt' is the elative case form of 'tee', which means 'road', 'path', or 'street'. The elative case in Estonian indicates movement away from something, so 'teelt' literally means 'from (the) road/path/street'. It's used to indicate that someone or something has moved off a road or path. For example, 'ta on teelt ära kõndinud' means 'he/she has walked off the road', and 'me peame leidma teelt maha' means 'we need to find it off the road'."
+  "context": "The word 'teelt' is an ablative singular form of the Estonian noun 'tee', meaning 'road' or 'path'. As an ablative case, it indicates separation, movement away from, or source. In this context, 'teelt' means 'from the road/path' and typically appears in expressions indicating someone has gone off course or deviated from their intended path."
 }

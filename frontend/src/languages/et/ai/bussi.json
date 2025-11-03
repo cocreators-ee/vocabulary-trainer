@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tulin bussiga tööle.",
-    "Bussid sõidavad igal pool linna.",
-    "Buss peatub järgmisel jaamal."
+    "Sõidame bussiga Tallinna.",
+    "Olen olnud paljudes bussides erinevates linnades.",
+    "See on hea buss."
   ],
   "translation": [
-    "bus (genitive case)",
-    "busses",
-    "public transportation vehicle"
+    "bus",
+    "coach"
   ],
-  "context": "The word 'bussi' is the genitive form of the Estonian noun 'buss', which means 'bus'. In Estonian, nouns have different cases that indicate grammatical function. The genitive case typically shows possession or relationship - 'of a bus', 'belonging to a bus', or simply indicates what mode of transport was used. For example, 'Tulin bussiga tööle' means 'I came to work by bus'."
+  "context": "Bussi is the partitive singular and genitive singular form of the Estonian noun 'buss'. As a genitive, it indicates possession or relationship (e.g., 'of the bus' or related to the bus). As a partitive, it indicates an unspecified quantity or partial amount of buses. The word 'buss' itself means 'bus' in English, referring to a vehicle for transporting passengers along a route."
 }

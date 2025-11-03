@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma võtsin pilti.",
-    "Ta tegi pildi meiega.",
-    "Meie vaimdavad pilti."
+    "Kirjelda ta välimust! Teda oli mulle kirjeldatud lüheldase kuivetu mehena.",
+    "Keegi ei osanud looma täpsemalt kirjeldada.",
+    "Autor kirjeldab merd väga tundeküllaselt."
   ],
   "translation": [
-    "picture (partitive case)",
-    "photo (partitive case)",
-    "image (partitive case)"
+    "to describe",
+    "depicting",
+    "portraying"
   ],
-  "context": "The word 'pilti' is the partitive form of the Estonian noun 'pilt', which means 'picture', 'photo', or 'image'. In Estonian, the partitive case is used to indicate an incomplete action, object, or state. When someone takes a photo (võtta pilt), they say 'võtan pilti' - taking picture (partitive). The word ends in '-i' which is typical for the partitive singular of Estonian nouns."
+  "context": "The word 'kirjeldama' in Estonian means 'to describe'. It is used when providing an account or depiction of someone or something, either orally or in writing. This verb appears in its partitive form 'pilti' in certain constructions where it functions as the object of another verb (in this case 'andma' - to give). The word can be used for detailed descriptions of people's appearances, events, scenes, or abstract concepts."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta sai viie punkti testist.",
-    "Meil on viie päeva aega.",
-    "Lapsele anti viie aastat."
+    "Ta on juba kahekümneviiene.",
+    "Võttis rahakotist kaks kahekümneviiest.",
+    "Ma ostasin viie krooni eest ära."
   ],
   "translation": [
-    "five",
-    "5"
+    "twenty-five",
+    "25",
+    "fifth"
   ],
-  "context": "\"Viie\" is the Estonian word for \"five\" or \"5\". It's the numeral form of five in Estonian and can be used to express quantities, ages, scores, and other numerical values. The word follows Estonian grammar rules and may need to change form depending on context (case, gender, etc.), but as given here it represents the basic numeral five."
+  "context": "The word 'viie' is the genitive singular form of the Estonian numeral 'viis'. It means 'of five' or 'belonging to five'. In compound numbers like 'kahekümneviiene' (twenty-five), it functions as part of ordinal and cardinal number constructions. As a standalone word, 'viie' can also mean 'fifth' in certain contexts."
 }

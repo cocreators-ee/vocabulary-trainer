@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kes sa oled? Ma kuulen sinu kõnet.",
-    "Mul on hea kõne ja selgelt öelda.",
-    "Ta oli väga ebamugavaga oma esimese avaliku kõnega."
+    "Kas sa kasutad kõnet oma kodus?",
+    "See telefon töötab ainult kõnet üle.",
+    "Kõnet on tänapäeval väga levinud tehnoloogia."
   ],
   "translation": [
-    "speech",
-    "talk",
-    "address"
+    "digital network",
+    "network",
+    "telecommunication system"
   ],
-  "context": "The Estonian word 'kõnet' is the partitive form of 'kõne', which means 'speech' or 'talk'. It indicates that the speech/talk is being addressed to someone or about something. This form would be used when you're talking about a specific instance of speech or address."
+  "context": "The word 'kõnet' is the partitive singular form of the Estonian noun 'kõne'. In this context, it refers to a digital telephone network that transmits images and data in digital signal format. It represents modern telecommunication technology where voice, visual content, and information are transmitted digitally rather than through traditional analog systems."
 }

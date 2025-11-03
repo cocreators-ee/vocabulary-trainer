@@ -1,12 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tema poja on koolis.",
-    "Nägin oma poja eile.",
-    "Pojad mängivad pargis."
+    "Ema poja magab rahulikult.",
+    "\"Tere,,\" ütles tädi.",
+    "Mida sina, poja, naistest tead!"
   ],
   "translation": [
-    "son"
+    "son (possessive form)",
+    "little boy",
+    "lad",
+    "young man"
   ],
-  "context": "The word 'poja' is the partitive case form of 'poeg', which means 'son' in Estonian. The partitive case is used when expressing partiality, indefiniteness, or when something is being acted upon. In these sentences, it indicates that we are talking about a son but not necessarily specifying which one or emphasizing the action performed on him."
+  "context": "Poja is the genitive singular form of 'poeg' which means son. It indicates possession or belonging - literally meaning 'of a son' or 'his/her son'. In examples, it can also be used as an affectionate term to address a young boy, similar to how we might say 'son', 'lad', or 'young man' in English when addressing someone directly."
 }

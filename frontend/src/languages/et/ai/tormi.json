@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tormi küsis mult abi.",
-    "Me kuulsime tormi eest peituda.",
-    "Tormid olid väga ohtlikud."
+    "Soldatid jooksid linnale, kindluse peale tormi.",
+    "Odavatele kaupadele joosti esialgu tormi.",
+    "Reporterid jooksid kuulsale sportlasele tormi."
   ],
   "translation": [
-    "storm",
-    "tempest"
+    "to rush",
+    "to charge",
+    "to storm",
+    "to run toward"
   ],
-  "context": "The word 'tormi' is the genitive singular form of 'torm', which means 'storm' in English. In Estonian, the genitive case typically indicates possession or relationship (meaning 'of storm' or 'belonging to a storm'). This form would be used when modifying nouns that belong to or are associated with storms. For example, 'Tormi küsis mult abi' means '[The] storm asked me for help' - here tormi modifies the verb 'küsis' (asked)."
+  "context": "The Estonian word 'tormi' is the adessive case form of 'torm', meaning 'storm'. However, in this context it functions as an adverbial expression meaning 'in a storming/charging manner' or 'with a rush'. It's used to describe running or charging toward something with great force and speed. The word appears in contexts like soldiers rushing toward a city or fortress, people running toward bargains, or reporters charging at a celebrity. It conveys the idea of moving quickly and forcefully toward a target."
 }

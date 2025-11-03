@@ -1,16 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä omaisuus on peritty sukupolvelta toiselle.",
-    "Hän lahjoitti merkittävän osan omaisuudesta hyväntekeväisyyteen.",
-    "Omaisuuuden hallinta vaatii asiantuntemusta ja huolellisuutta."
+    "Hänellä on paljon omaisuutta.",
+    "Omaisuus jaettiin perillisten kesken.",
+    "Pankki takasi lainan omaisuudella."
   ],
   "translation": [
     "property",
+    "possessions",
     "assets",
+    "estate",
     "wealth",
-    "fortune",
-    "estate"
+    "fortune"
   ],
-  "context": "The Finnish word 'omaisuus' refers to property, assets, wealth or fortune. It is a noun that typically denotes one's total possessions and valuables, including real estate, money, investments, and other tangible and intangible assets. The word can be used in various contexts such as inheritance (peritty omaisuus), personal wealth (oma omaisuus), or business assets (yrityksen omaisuus). It is commonly seen in financial discussions, legal matters, and estate planning."
+  "context": "The word 'omaisuus' refers to one's properties, possessions, assets or estate. It can also mean wealth or fortune. The word declines based on case and possession, as shown in the dictionary definition; for example, 'omaisuuden' is the genitive singular form meaning 'of property', while 'omaisuuteni' means 'my property'. The suffix '-uus' often indicates a state or quality, and here it’s attached to 'omainen' which relates to belonging. It can be used in both singular and plural forms ('omaisuus' vs. 'omaisuudet')."
 }

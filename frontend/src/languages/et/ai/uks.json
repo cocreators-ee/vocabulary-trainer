@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tule ukse juurde.",
-    "Avan uksed.",
-    "Uks on lahti."
+    "Uks on hoone sissepääsu sulgev tarind.",
+    "Paneelmaja uksed on tavaliselt metallist või puidust.",
+    "Meie majal on kolm ust ja kaks akent."
   ],
   "translation": [
-    "door"
+    "door",
+    "entrance"
   ],
-  "context": "The Estonian word 'uks' means 'door'. It's a common noun that refers to the entrance way into a building or room. In different contexts, it can appear in various forms such as 'ukse' (genitive case - of the door) or 'ukseid' (plural form - doors)."
+  "context": "In Estonian, 'uks' means a physical door that closes an entrance to a building or room. It can refer to the actual door structure or the opening it covers. The word has various forms depending on case: nominative 'uks', genitive 'ukse', partitive 'ust', illative 'uksesse', etc. Estonian uses different words for specific types of doors like 'auto|uks' (car door), 'kabiini|uks' (cabin door), or 'klaas|uks' (glass door). In figurative expressions, 'uks' can represent opportunities or access to something, as in 'avati ülikooli uksed' (the doors of university were opened) meaning gaining entry."
 }

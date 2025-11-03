@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Alkoholi on mürgine.",
-    "Pood müüb alkoholi.",
-    "Mingil juhul ei peaks alkoholi tarbima."
+    "Alkoholi kasutamiseks tuleb olla täisealine.",
+    "Me ostisime alkoholi jõulupiduks.",
+    "Alkoholi tarvitamine võib põhjustada tervisemuresid."
   ],
   "translation": [
-    "alcohol"
+    "alcohol",
+    "booze"
   ],
-  "context": "The word 'alkoholi' in Estonian means alcohol. It is a loanword from English/German and refers to the chemical substance ethanol that is found in alcoholic beverages. This noun is typically used in contexts discussing drinking, prohibition, health effects of alcohol consumption, or when referring to alcoholic products for sale."
+  "context": "The word 'alkoholi' is the partitive singular, genitive singular, and illative singular form of the Estonian noun 'alkohol'. It refers to alcohol as a substance or beverage. In different cases: - Genitive singular (whose/what alcohol): alkoholi - Partitive singular (some alcohol): alkoholi - Illative singular (into alcohol): alkoholi This is a common word in Estonian for referring to alcoholic beverages or the chemical substance alcohol, with all three grammatical cases having the same form in this instance."
 }

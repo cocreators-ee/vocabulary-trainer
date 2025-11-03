@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Sa valetasid talle.",
-    "Meie lapsevanemad valetasid meile.",
-    "Kas sa valetasid?"
+    "Pean nentima, et sa valetasid.",
+    "Ma ei usu, et ta on siin sest ta valetasid eile kohtumisest.",
+    "Kas sa tõesti valetasid mulle?",
+    "Ta alati valetasid kui oli tegemist rahaga."
   ],
   "translation": [
-    "you lied (singular)",
-    "they lied",
-    "did you lie?"
+    "you lied",
+    "you were lying",
+    "to lie (past tense)",
+    "falsehood"
   ],
-  "context": "The word 'valetasid' is the past tense plural form of the Estonian verb 'valema', meaning 'to lie'. It specifically refers to a situation where multiple people lied in the past. The root form 'vale-' relates to falsehoods or untruthfulness, which is common in many Indo-European languages."
+  "context": "The Estonian word 'valetasid' is the past tense second person singular form of the verb 'valetama', which means 'to lie'. It specifically addresses one person informally (you) and indicates that they lied in the past. This word appears in contexts where someone has not told the truth or provided false information. The dictionary entry shows it being used in a sentence where someone is acknowledging a falsehood: 'Pean nentima, et sa valetasid' which translates to 'I must admit/acknowledge that you lied.'"
 }

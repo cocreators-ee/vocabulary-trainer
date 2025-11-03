@@ -1,15 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Töö on segane ja ebamugav.",
-    "See päev oli väga segane minu jaoks.",
-    "Segane ilm tegi planeeringu keeruliseks."
+    "Teksti kiri on tuhmunud ja segane.",
+    "Mehe kõne läks järjest segasemaks.",
+    "Ta on ehmatusest hirmust murest segane."
   ],
   "translation": [
-    "confused",
-    "messy",
     "unclear",
-    "turbid"
+    "confused",
+    "muddled",
+    "turbid",
+    "addled",
+    "deranged"
   ],
-  "context": "The Estonian word 'segane' is an adjective that describes something as being confused, messy, unclear, or turbid. It can be used to describe mental confusion (a confused state of mind), physical messiness (something disorderly or untidy), lack of clarity (unclear situation), or physical opacity (turbid water). The word derives from the verb 'sega' meaning 'mixed', and '-ne' is a common adjectival suffix in Estonian."
+  "context": "The Estonian word 'segane' is an adjective with multiple meanings depending on context. It can mean unclear or confused when referring to information (like unclear instructions), muddled or turbid when describing visual appearance or liquids, and deranged or crazy when used for people's mental state. The comparative form is 'segasem' and it changes based on case - genitive 'segase', partitive 'segast'. It comes from the root verb 'segama' (to mix) plus the suffix '-ne'. Examples show its use in describing unclear writing, someone becoming more confused over time, and a person being overwhelmed with emotion."
 }

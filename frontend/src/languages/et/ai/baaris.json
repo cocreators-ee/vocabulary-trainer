@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Töötan baaris kell üheksa öösel.",
-    "Oleme baaris koos sõpradega.",
-    "Kas sa lähed meiega baaris peale tööd?"
+    "Töötan baaris kell 20:00 kuni 02:00.",
+    "Kõik head bändid esinevad just selles baaris.",
+    "Baaris on alati hea meel ja tore atmosfäär."
   ],
   "translation": [
-    "in the bar",
+    "in a bar",
     "at the bar"
   ],
-  "context": "The Estonian word 'baaris' is a locative case (inessive) form of the noun 'baar', which means 'bar'. It indicates location or where an action takes place, meaning 'in the bar' or 'at the bar'. The '-is' ending shows it's in the inessive case, used when something is inside a location."
+  "context": "The word 'baaris' is the inessive case form of the Estonian noun 'baar', meaning 'bar'. It indicates location within or at a bar establishment. Inessive case answers the question 'kus?' (where?). The dictionary definition mentions it refers to a female server/bartender working behind the bar counter serving guests."
 }

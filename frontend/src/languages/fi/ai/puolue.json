@@ -1,13 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Suomen suurin puolue on keskusta.",
-    "Hän kuuluu oppositioon edustamaansa puoluetta.",
-    "Uusi puolue perustettiin viime vuonna."
+    "Hän on mukana suurimmassa puolueessa.",
+    "Uusi puolue perustettiin viime vuonna.",
+    "Puolueen tavoitteena on parantaa koulutusta."
   ],
   "translation": [
     "party",
-    "political party"
+    "political party",
+    "faction",
+    "bloc",
+    "clique"
   ],
-  "context": "In Finnish, 'puolue' means a political party. It's a common word in political discussions and news about Finnish politics. The word is used when referring to organized groups that participate in elections and represent different ideologies or interests in the parliamentary system."
+  "context": "The word 'puolue' in Finnish refers to a political party or, more broadly, any faction or bloc with shared interests. It originates from the word 'side' and was coined in 1845 by August Ahlqvist. The word declines based on grammatical case, as shown in the dictionary definition, indicating its role within a sentence (nominative, genitive, partitive etc.).  It can also be used to describe possessive relationships ('my party', 'your party' and so on)."
 }

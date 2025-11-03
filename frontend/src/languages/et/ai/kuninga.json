@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kuningas istus troonil.",
-    "Kuninganna oli kuningaga koos lossis.",
-    "Lapsed õppisid kuninga ajaloolisest elust."
+    "Kuningas valitses oma alamaid.",
+    "Vana-Rooma riigi alamad pidid maksma makse keisrile.",
+    "Rootsi kuninga alla kuulusid palju Eesti alamaid."
   ],
   "translation": [
-    "king's (possessive form)",
-    "belonging to the king"
+    "subject",
+    "vassal",
+    "dependent",
+    "underling"
   ],
-  "context": "The word 'kuninga' is the genitive singular form of the Estonian noun 'kuningas', which means 'king'. In Estonian grammar, the genitive case indicates possession or relationship. So 'kuninga' specifically means 'of the king' or 'belonging to the king'. For example, 'kuninga kroon' would mean 'the king's crown'. The word shows how Estonian uses suffixes and grammatical cases to indicate relationships between nouns."
+  "context": "The word 'kuninga' is in the genitive case of 'kuningas' (king), meaning 'of the king' or 'belonging to the king'. In this form, it typically refers to subjects or vassals who are under the authority of a king. For example, 'Rootsi kuninga alamad' would mean 'subjects/vassals of the Swedish king'. It indicates possession or relationship - something that belongs to or is associated with the king."
 }

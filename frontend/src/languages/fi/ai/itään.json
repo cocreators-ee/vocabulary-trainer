@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Minun on pakko matkustaa itään.",
-    "Hän meni itään työnsä takia.",
-    "Suomi sijaitsee Euroopassa mutta osa siitä ulottuu itään."
+    "Hän matkusti itään.",
+    "Aurinko nousee idästä ja laskee länteen, mutta talvella se paistaa enemmän etelään kuin itään.",
+    "Tuuli puhalsi pohjoisesta itään."
   ],
   "translation": [
-    "east",
-    "to the east"
+    "to the east",
+    "eastward"
   ],
-  "context": "The Finnish word 'itä' means 'east', and when combined with the suffix '-ään' (allative case), it indicates movement or direction toward the east. This is directional language indicating where something is headed geographically."
+  "context": "The word 'itään' is the illative singular form of 'itä', which means 'east'. The illative case in Finnish indicates direction *into* something, so 'itään' specifically means 'to the east' or 'towards the east'. It’s used to express movement or direction in that direction."
 }

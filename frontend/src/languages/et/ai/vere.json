@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Vere voolab kätte.",
-    "Ta näeb vere peal.",
-    "Me ei pea verest hirmu tundma."
+    "Vere hübimist takistav aine on antikoagulant.",
+    " Vere koagulatsioon võib olla ohtlik.",
+    " Veri voolab kehasse."
   ],
   "translation": [
-    "blood"
+    "blood (genitive singular)",
+    "anticoagulant"
   ],
-  "context": "The word 'vere' in Estonian is the genitive singular form of the noun 'veri', meaning 'blood'. It's used to indicate possession or relationship, such as 'of blood' or 'with blood'. In the examples provided, it shows different contexts where this form might be used - describing blood flowing, seeing something on/with blood, and not being afraid of blood."
+  "context": "The word 'vere' is the genitive singular form of 'veri', which means 'blood'. In Estonian, genitive case indicates possession or relationship. When used in medical contexts like 'anti|koagulant keem med', it can refer to anticoagulants - substances that prevent blood coagulation or clotting."
 }

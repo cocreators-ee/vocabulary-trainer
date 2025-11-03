@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Musiikki on tärkeä osa minun elämääni.",
-    "Rakastan kuunnella musiikkia iltaisin.",
-    "Tämä konsertissa soi uutta suomalaista musiikkia."
+    "Tässä pelissä on todella hyvät musiikit.",
+    "Hän opiskelee musiikkia yliopistossa.",
+    "Musiikki rauhoittaa minua."
   ],
   "translation": [
-    "music"
+    "music",
+    "tune",
+    "melody"
   ],
-  "context": "The Finnish word 'musiikki' means music in English. It is a feminine noun that refers to the art form of combining vocal or instrumental sounds to produce beauty of form, harmony, and emotional expression. In Finnish, it's commonly used in various contexts such as listening to music (kuunnella musiikkia), describing different genres of music (suomalaista musiikkia - Finnish music), or expressing one's relationship with music as an important part of life."
+  "context": "The word 'musiikki' in Finnish means music. It is a noun that can be used to refer to vocal or instrumental sounds combined in such a way as to produce beauty of form, harmony, and expression of emotion. The dictionary definitions show it declines with type 5*A/risti kk-k gradation, meaning the nominative plural is 'musiikit' and genitive singular is 'musiikin'. It can also be used in possessive forms like 'musiikkini' (my music)."
 }

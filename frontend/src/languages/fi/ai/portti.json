@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Olemme portin edessä.",
-    "Portti on auki.",
-    "Tämä on vanha kaupungin portti."
+    "Uusi portti avattiin museoon.",
+    "Hän käveli portista sisään.",
+    "Tietokoneessa on useita portteja."
   ],
   "translation": [
     "gate",
     "door",
-    "entrance"
+    "portal",
+    "entryway",
+    "harbor"
   ],
-  "context": "The Finnish word 'portti' is a noun that means gate, door, or entrance. It can refer to an actual physical gate or doorway in a wall, fence, or building, but also metaphorically to the entrance of something like a website portal or any kind of entry point. In Finnish, it's a common noun with no specific grammatical gender, and would be declined in different cases depending on its role in a sentence."
+  "context": "The word 'portti' in Finnish translates to 'gate' or 'door' in English. It can refer to a physical gate or door, but also has meanings related to entry points in computing and networking (like a port on a computer), as well as metaphorical uses like an entryway or portal. The word declines based on case; for example, 'portin' is the genitive form meaning 'of the gate', while 'porttiin' indicates movement towards the gate ('to the gate'). It can also be used to indicate possession, such as 'porttini' which means 'my gate'."
 }

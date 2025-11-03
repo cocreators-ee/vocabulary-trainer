@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta müüb äri.",
-    "Mida ta müüb?",
-    "Meie müüme head tooteid."
+    "Müüb oma maja.",
+    "Pood müüb tooteid.",
+    "Kes müüb?"
   ],
   "translation": [
     "sells",
-    "is selling"
+    "is selling",
+    "sells"
   ],
-  "context": "The Estonian word 'müüb' is the third-person singular present tense form of the verb 'müüdama', which means 'to sell'. It indicates that someone or something currently performs the action of selling. This could be a person selling goods, a company selling products, or any entity engaged in selling activities in the present moment."
+  "context": "The Estonian word 'müüb' is the third person singular present tense form of the verb 'müüma', which means 'to sell'. It indicates that someone or something is currently in the process of selling items or property."
 }

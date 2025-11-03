@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on vaja abi.",
-    "Palun aita mind.",
-    "Töökoht otsib uusi abilisi."
+    "Vastastikune abi.",
+    "Kellelegi abi osutama, andma.",
+    "Naabrite abiga said kartulid võetud."
   ],
   "translation": [
     "help",
+    "assistance",
     "aid",
-    "assistance"
+    "support"
   ],
-  "context": "In Estonian, 'abi' is a noun that means help or assistance. It can be used in various contexts such as asking for help ('Mul on vaja abi' - I need help), providing aid ('Palun aita mind' - Please help me), or referring to assistants or helpers ('Töökoht ootsib uusi abilisi' - The workplace is looking for new assistants)."
+  "context": "The Estonian word 'abi' is a versatile noun that primarily means help or assistance. It can refer to various types of aid including material, financial, medical, and technical support. The word also has several grammatical forms: in genitive case it remains 'abi', in partitive form 'abisid', and can be used with the postposition 'abil' meaning 'with the help of'. Additionally, 'abi' can refer to an assistant or aide (like a minister's assistant), and can function as a postposition indicating means or agency. The word appears in compound terms like 'esmaabi' (first aid) and 'humanitaarabi' (humanitarian aid)."
 }

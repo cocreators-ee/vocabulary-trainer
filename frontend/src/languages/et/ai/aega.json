@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Olen olnud Tallinnas aega.",
-    "Kas sul on aega?",
-    "Tegin seda tööd tund aega."
+    "Treener võttis mängu jooksul kaks korda aja maha.",
+    "Meil on palju aega enne kohtumist.",
+    "Sellel ajal oli väga hea ilm."
   ],
   "translation": [
-    "time (in partitive case)",
-    "while",
-    "for some time"
+    "time",
+    "hour",
+    "occasion"
   ],
-  "context": "The word 'aega' is the partitive form of 'aeg', which means 'time'. It's used when talking about an amount or duration of time, as in 'how much time do you have?' or 'I've been here for a while.' In Estonian, this case form appears after prepositions like 'pärast' (after) and 'enne' (before), and is commonly used in questions asking about time availability."
+  "context": "'Aega' is the partitive singular form of the Estonian noun 'aeg', meaning 'time'. In this case, it functions as an object in sentences and often appears with verbs that measure or take time. It can refer to a duration of time, a specific hour, or an occasion/period when something happens."
 }

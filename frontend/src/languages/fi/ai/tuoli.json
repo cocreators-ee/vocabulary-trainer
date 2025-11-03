@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on uusi tuoli.",
-    "Tuolit ovat mukavia istua.",
-    "Pidän tästä tuolista."
+    "Minulla on yksi tuoli keittiössä.",
+    "Istun tuolilla ja luen kirjaa.",
+    "Hän rikkoi tuolin vahingossa."
   ],
   "translation": [
-    "chair"
+    "chair",
+    "seat",
+    "stool"
   ],
-  "context": "The word 'tuoli' is a Finnish noun meaning 'chair'. It refers to a piece of furniture designed for one person to sit on. In Finnish, nouns have different cases and can be pluralized - so you might see 'tuoleja' (partitive case) or 'tuolit' (nominative plural)."
+  "context": "The Finnish word 'tuoli' means 'chair'. It is a common noun and belongs to the 5th declension in Finnish grammar, which is called 'risti'. The plural form is 'tuolit'.  It can be inflected into various cases depending on its role in a sentence. For example, 'tuolin' indicates the genitive case (possessive), while 'tuolia' represents the partitive case."
 }

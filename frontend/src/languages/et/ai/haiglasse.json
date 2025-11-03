@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Misin haiglasse?",
-    "Tema läks haiglasse.",
-    "Patsiendid viidi haiglasse."
+    "Kiirabi toimetas haige haiglasse.",
+    "Ta viidi kiirabiga haiglasse.",
+    "Patsiendirakendus on haiglasse registreeritud."
   ],
   "translation": [
     "to the hospital",
-    "into hospital",
-    "to a hospital"
+    "into hospital"
   ],
-  "context": "The Estonian word 'haiglasse' is in the illative case, which indicates movement or direction toward something. It literally means 'into hospital/hospitalward' and is used when someone is going to be admitted to or taken to a hospital for medical treatment."
+  "context": "The word 'haiglasse' is an Estonian prepositional phrase meaning 'to the hospital' or 'into hospital'. It's formed from 'haigla' (hospital) with the illative case ending '-sse', indicating movement into a place. This construction is commonly used to express that someone is being taken to or admitted to a medical facility."
 }

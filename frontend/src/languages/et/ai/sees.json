@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Töökoht on sees.",
-    "Kodu on sees ja ilus.",
-    "Päike paistab läbi akna."
+    "See on kasti sees.",
+    "Selle aasta peaks projekt valmis saama.",
+    "Kas kann on sees?"
   ],
   "translation": [
     "inside",
     "in",
-    "within"
+    "during",
+    "with"
   ],
-  "context": "The Estonian word 'sees' is a preposition/adverb that indicates location inside something. It can be used to describe where someone or something is located in relation to an enclosed space, similar to English words like 'inside', 'in', or 'within'. For example, when saying 'Töökoht on sees,' it means 'The workplace is inside/in.' This word helps specify that the location is within boundaries rather than outside."
+  "context": "The word 'sees' is an Estonian postposition that means 'inside,' 'in,' or 'during.' It governs the genitive case. When used as an adverb, it can refer to electrical appliances being on (like a kettle). In some contexts, it also means 'with' when referring to being inside a state or condition."
 }

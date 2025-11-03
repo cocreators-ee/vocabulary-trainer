@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema on hea sõbra.",
-    "Mul on palju sõbreid.",
-    "Sellel sõbral oli sünnipäev."
+    "Käis sõpra, koolivenda matmas 'sõbra', koolivenna matusel'",
+    "Villem on juba matnud naise ja kaks poega"
   ],
   "translation": [
-    "friend"
+    "friend",
+    "companion",
+    "buddy",
+    "pal"
   ],
-  "context": "The Estonian word 'sõbra' is the singular nominative form of 'sõber', which means 'friend'. It follows the genitive case pattern where -a is added to indicate possession or relationship. In the examples, it shows how this form is used in different contexts - describing a good friend, talking about having many friends (where the plural would be 'sõbrad'), and indicating something belonging to or related to a friend."
+  "context": "The word 'sõbra' appears to be in the genitive case form of the Estonian noun 'sõber' which means 'friend'. In the example sentence 'Käis sõpra, koolivenda matmas', it's used as an object referring to a friend whose funeral is being attended. The -a ending indicates the partitive or genitive case in Estonian. This word denotes someone who is close and dear, like a companion or pal."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Arst tegi operatsiooni.",
-    "Kas sa lähed arsti juurde?",
-    "Mina olen arst."
+    "Arst on kõrgema meditsiinilise haridusega isik.",
+    "Läksin arsti juurde läbivaatusele.",
+    "Haigele kutsuti arst koju."
   ],
   "translation": [
     "doctor",
     "physician",
     "medical practitioner"
   ],
-  "context": "In Estonian, 'arst' is a noun that refers to a medical doctor or physician. It can be used for any type of doctor, including general practitioners and specialists. The word follows normal Estonian grammar rules - for example, it would become 'arsti' in the genitive case (of a doctor) or 'arsti' in partitive case (some doctor)."
+  "context": "The word 'arst' in Estonian means a medical doctor or physician. It refers to someone with higher medical education who has the right to practice their profession. The noun declines according to type 22e/riik conjugation in Estonian, with genitive form 'arsti', partitive 'arsti', and plural nominative 'arstid'. This word is commonly used for various types of doctors including specialized terms like hambaarst (dentist), lastearst (pediatrician), naistearst (gynecologist), etc."
 }

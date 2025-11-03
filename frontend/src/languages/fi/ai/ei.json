@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ei",
-    "Se ei ole totta.",
-    "Hän ei tule tänään."
+    "Hän ei ole kotona.",
+    "Etkö tiedä?",
+    "Älä koske siihen!"
   ],
   "translation": [
     "no",
     "not"
   ],
-  "context": "'Ei' is the Finnish word for 'no'. It's a simple negative response that can be used on its own or as part of longer sentences to negate verbs. When negating verbs, it typically comes before the verb in present tense constructions."
+  "context": "The Finnish word 'ei' is a negation verb meaning 'not'. It's used to negate verbs and statements. The indicative forms are 'en', 'et', 'ei', 'emme', 'ette', 'eivät' for the first, second, and third person singular and plural respectively. There's also an imperative form 'älä' (don't).  It often appears with a connegative form of the main verb. For example, 'Hän ei ole kotona' means 'She is not home'. It can also be used as an interjection meaning 'no'."
 }

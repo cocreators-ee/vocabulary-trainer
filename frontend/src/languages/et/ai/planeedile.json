@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Lennuk lendab planeedile.",
-    "Mees külastas planeedile.",
-    "Tüdruk uuris planeedile."
+    "Planeedile on vaja palju aega jõuda.",
+    "Me räägime planeedide uurimisest.",
+    "Päikesesüsteemis on kaheksa planeet."
   ],
   "translation": [
-    "to the planet"
+    "to the planet",
+    "onto the planet"
   ],
-  "context": "The word 'planeedile' is an Estonian word that functions as a positional case form, specifically the illative case. It indicates movement toward or destination at a planet. The base word is 'planeet' (planet), and the '-le' suffix transforms it into the illative case meaning 'to/into/toward the planet'. This case is used to express motion towards something."
+  "context": "The word 'planeedile' is in the Estonian locative case, meaning 'to the planet' or 'onto the planet'. It indicates direction towards a planet. The base form 'planeet' means planet in English."
 }

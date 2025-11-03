@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Kus on kooli kohta?",
-    "Mida sa tead sellest asjast kohta?",
-    "Pöörduge meist kohta."
+    "Puuduvad andmed tema edasise saatuse kohta.",
+    "Järve kohta on teab rahvas mitmeid muistendeid.",
+    "Keskmine piimatoodang lehma kohta.",
+    "Iga laua kohta on kaks tooli."
   ],
   "translation": [
     "about",
-    "concerning",
-    "regarding"
+    "per",
+    "for",
+    "throughout"
   ],
-  "context": "The word 'kohta' is an Estonian preposition that indicates the topic or subject matter being discussed. It's used to introduce what something is related to, similar to English 'about', 'concerning', or 'regarding'. In questions, it often follows interrogative words like 'kus' (where) when asking about locations of specific things."
+  "context": "The Estonian word 'kohta' is a postposition with multiple related meanings. It can indicate the object or subject of discussion (about), show distribution or ratio (per, for), or refer to time periods (throughout). In its different forms, it functions as partitive singular and illative singular of the noun 'koht'. Its usage varies from indicating what something relates to, showing calculations per unit, expressing relationships between people/things, and describing time frames."
 }

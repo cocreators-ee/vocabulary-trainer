@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kuvasi kauniita maisemia Suomesta.",
-    "Tämä on tärkeä kuva talon historiasta.",
-    "Minulla on valokuva äitistäni."
+    "Hän otti kuvan maisemasta.",
+    "Ostin uuden kameran ottaakseni parempia kuvia.",
+    "Kuva on kaunis ja värikäs."
   ],
   "translation": [
     "picture",
     "image",
-    "photograph"
+    "photograph",
+    "photo"
   ],
-  "context": "The Finnish word 'kuva' is a noun that means picture, image, or photograph. It can refer to any visual representation including paintings, drawings, photographs, or digital images. In its basic form it's 'kuva', and in the possessive form it becomes 'kuvani' (my picture), 'kuvasi' (your picture), etc. The word follows standard Finnish noun declension patterns."
+  "context": "The word 'kuva' in Finnish means picture, image or photograph. It can refer to a drawing, painting, or a captured moment with a camera. The word declines based on grammatical case; for example, 'kuvan' is the genitive form meaning 'of the picture', and 'kuvia' is the partitive plural form meaning 'pictures'.  The suffix '-nsa' indicates possession by a third person (his/her/its picture)."
 }

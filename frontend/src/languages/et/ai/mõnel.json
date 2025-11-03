@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mõnel päeval on ilus ilm.",
-    "Ta käis mõnel aastal Prantsusmaal.",
-    "Mõnel inimesel on eriline andekus."
+    "Mõnel päeval ei saa magada.",
+    "Mõnel korral tuleb olla ettevaatlik.",
+    "Mõnel aadressil on probleeme postiga."
   ],
   "translation": [
     "on some",
-    "to some people/occasions"
+    "in some cases",
+    "sometimes"
   ],
-  "context": "The Estonian word 'mõnel' is the partitive case of the pronoun 'mõni', meaning 'some'. It's used when referring to an unspecified or partial quantity of something. In English, it translates to phrases like 'on some' or 'to some people/occasions'. The partitive case indicates that we're talking about a portion or selection from a larger whole."
+  "context": "The word 'mõnel' is the elative case (fromative) of the demonstrative pronoun 'mõni', meaning 'some'. It indicates movement away from or out of something, and is used to show that something happens on some occasions, in some cases, or sometimes. The '-el' ending indicates the elative case number form."
 }

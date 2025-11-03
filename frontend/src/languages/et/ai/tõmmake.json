@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tõmmake selle aia uks lahti.",
-    "Palun tõmmake tooli lähemale.",
-    "Me tõmmame koos ära."
+    "Tõmmake jooned joonlauaga.",
+    "Tõmmake sirgejoone ekraanile.",
+    "Tõmmake ümbritsevaid jooni."
   ],
   "translation": [
-    "pull",
-    "draw",
-    "drag"
+    "draw lines",
+    "make strokes",
+    "sketch"
   ],
-  "context": "The Estonian word 'tõmmake' is the plural imperative form of the verb 'tõmmama', which means to pull, draw, or drag. It's used when giving an instruction or request to a group of people to perform the action of pulling something."
+  "context": "The Estonian word 'tõmmake' is the imperative form of the verb 'tõmma' which means to pull or draw. As an imperative, it's a command telling someone to draw something, typically lines or strokes. It often appears in contexts related to drawing, sketching, or creating marks on a surface."
 }

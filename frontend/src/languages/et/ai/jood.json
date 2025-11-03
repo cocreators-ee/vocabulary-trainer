@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Jood vett igal päeval.",
-    "Ta jood hommikuti kohvi.",
-    "Lapsed joovad piima."
+    "Haava ümbrust määriti joodiga.",
+    "Vajalik on joodiühendite kasutamine.",
+    "Jood on oluline element metabolismis."
   ],
   "translation": [
-    "drink"
+    "iodine",
+    "I"
   ],
-  "context": "The word 'jood' is an Estonian verb that means 'to drink'. It's the first-person singular form (I drink). The root verb is 'jooma', and 'jood' specifically refers to when 'I am drinking' or 'I drink'. In Estonian, verbs conjugate based on person and number, so this form would be used when speaking about oneself. Example: 'Jood vett igal päeval' means 'I drink water every day.'"
+  "context": "Jood is the Estonian word for the chemical element iodine. It's a halogen group non-metallic element with metallic luster that forms crystalline substances. In medical contexts, it's often used in the form of iodine tincture for disinfection (as mentioned in the dictionary example about applying iodine to wound areas). Iodine is an essential nutrient important for human metabolism."
 }

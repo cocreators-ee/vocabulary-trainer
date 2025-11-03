@@ -6,6 +6,7 @@
   import AI from "$assets/ai.svg?url"
 
   let {params} = $props()
+  let lang = $derived(params.lang)
 
   $effect(async () => {
     let word = undefined
@@ -13,7 +14,7 @@
       word = decodeURIComponent(page.url.hash.substring(1))
     }
 
-    await setLanguage(params.lang, word)
+    await setLanguage(lang, word)
   })
 
   $effect(async () => {

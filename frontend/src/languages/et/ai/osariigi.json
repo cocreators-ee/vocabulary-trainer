@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Eesti on väike osariik.",
-    "Lõuna-Carolina on üks Ameerika Ühendriikide osariike.",
-    "Mees valiti osariigi kuberneriks."
+    "Osariigi valitsus on vastutav kohalike asjade eest.",
+    "Ameerika Ühendriikides on 50 osariiki.",
+    "Meie linn kuulub Minnesota osariigi alla."
   ],
   "translation": [
-    "state",
-    "province"
+    "state government",
+    "federal state",
+    "administrative region"
   ],
-  "context": "The word 'osariigi' is the genitive singular form of 'osariik', which means 'state'. In Estonian, it's commonly used to refer to political or administrative divisions within a country. The genitive case indicates possession or relationship - so 'osariigi' could be translated as 'of the state', 'belonging to the state', or simply modify another noun to indicate it pertains to a particular state."
+  "context": "The word 'osariigi' is the genitive case form of 'osariik', which means 'state' in English. In Estonian, when we say 'osariigi' (genitive), it indicates possession or relationship to a state - similar to saying 'of the state' or 'belonging to the state'. This form is used when describing things that pertain to a state government or are associated with a particular state in a federal system like the United States. The word structure shows the genitive ending '-i' added to the root 'osariik', which follows Estonian grammatical rules for possession and relationship."
 }

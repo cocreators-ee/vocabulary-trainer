@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minu vanaisa elab Tallinnas.",
-    "Vanaisa on hea mees.",
-    "Vanad vanemad ja vanaisa käisid pargis."
+    "Vanaisa Henrik",
+    "Sai vanaisaks",
+    "Vanaisa ja lapselaps"
   ],
   "translation": [
     "grandfather",
-    "grandpa"
+    "paternal grandfather",
+    "maternal grandfather",
+    "ancestor"
   ],
-  "context": "The word 'vanaisa' is Estonian for grandfather or grandpa. It refers to the father of one's parent, typically the paternal grandfather. In Estonian, this is a common kinship term used to address or refer to one's grandfather. The plural form would be 'vanaisad'."
+  "context": "The Estonian word 'vanaisa' means grandfather. It is formed from 'vana' (old/elder) + 'isa' (father). This refers to a person's father's father or mother's father - either paternal or maternal grandfather. It can also be used as a respectful term of address for an older man, similar to 'sir'. Additionally in religious contexts, it can refer to God as the Heavenly Father."
 }

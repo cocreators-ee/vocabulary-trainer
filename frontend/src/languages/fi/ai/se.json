@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Se on kaunis talo.",
-    "Se istuu tuolilla.",
-    "Näimme sen eilen."
+    "Älä koske siihen!",
+    "Onko se hän, joka on ovella?",
+    "Se vaan lähti."
   ],
   "translation": [
-    "it",
     "that",
-    "he/she"
+    "it",
+    "he",
+    "she",
+    "one"
   ],
-  "context": "The Finnish word 'se' is a demonstrative pronoun that means 'it', 'that', or can refer to 'he/she'. It's used to point to something previously mentioned or to identify an object. As a third-person singular pronoun, it has different forms depending on the gender and case of the noun it replaces: 'hän' for masculine/feminine subjects (meaning 'he/she'), and 'se' for inanimate objects and sometimes animals."
+  "context": "The Finnish word 'se' is a demonstrative pronoun with multiple uses. It can mean 'that', 'it', or even 'he/she' in colloquial contexts. The form of the word changes depending on its grammatical case (nominative, genitive, etc.).  It also functions as a determiner meaning 'that'. In some dialects it is used as a personal pronoun instead of 'hän'."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minun täytyy odottaa minuutin.",
-    "Kello näyttää kymmenen minuuttia yli kolme.",
-    "Se kesti vain muutaman minuutin."
+    "Hän odotti minuutti toisensa jälkeen.",
+    "Peli päättyi vain minuutti sitten.",
+    "Tarkistan sähköpostini minuutin välein."
   ],
   "translation": [
     "minute",
-    "one minute"
+    "moment",
+    "instant"
   ],
-  "context": "The Finnish word 'minuutti' means 'minute' in English and refers to a unit of time equal to 60 seconds. It is commonly used when talking about durations, schedules, or timing in everyday situations. The word follows standard Finnish grammar rules and can be inflected for different cases and numbers."
+  "context": "Minuutti is the basic unit of time, equal to sixty seconds. It's used for measuring short durations and can be found in various contexts like waiting times or sports events. The word declines based on case, as shown in the dictionary definition, with different forms depending on its role in a sentence. For example, 'minuutin' is the genitive form meaning 'of the minute', while 'minuuttiin' is the illative form meaning 'to the minute'. It can also be possessive, like 'minuuttini' which means 'my minute'."
 }

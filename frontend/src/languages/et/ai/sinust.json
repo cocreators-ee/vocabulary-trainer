@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta arvab sinust.",
-    "Ma mõtlen sinust tihti.",
-    "Kas sa tunned sinust hästi?"
+    "Ma tuletan meelde sinust kõiki!",
+    "Räägin sinuga ja mõtlen sinust.",
+    "Tegin midagi sinust huvitavat."
   ],
   "translation": [
-    "from you",
     "about you",
+    "from you",
     "concerning you"
   ],
-  "context": "The Estonian word 'sinust' is the elative case form of 'sina' (you). It indicates movement or origin from someone, or can show concern about someone. This case is used when something comes out of, originates from, or is said about the person being addressed directly."
+  "context": "'Sinust' is the elative singular form of 'sina' (you) in Estonian. The elative case indicates movement from or origin, so it means 'from you', 'about you', or 'concerning you'. It's used when something comes out of, originates from, or is related to someone."
 }

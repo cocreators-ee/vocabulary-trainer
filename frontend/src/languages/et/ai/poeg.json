@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minu poeg on viieaastane.",
-    "Tal on kaks poega.",
-    "Poegasid õpetatakse käituma korrektselt."
+    "Martin on Andrese ja Maia poeg.",
+    "Koeral on pojad.",
+    "Tahtsin su kaktuselt poega võtta."
   ],
   "translation": [
     "son",
-    "boy"
+    "offspring",
+    "descendant"
   ],
-  "context": "The word 'poeg' is the nominative singular form of the Estonian noun meaning 'son'. It's a common kinship term referring to one's male child. In plural form, it becomes 'pojad', and in genitive case (possessive) it would be 'poja'. The word follows typical Estonian declension patterns for masculine nouns."
+  "context": "The Estonian word 'poeg' primarily means 'son' when referring to human male children. It can also mean 'offspring' or 'descendant' in the context of animals, and is used metaphorically for young plants or as poetic reference to representatives of a place, era, or nation. The word has several compound forms like 'esikpoeg' (first-born son) and 'õepoeg' (son of one's sister). In its genitive form 'poja', it appears in expressions indicating possession or relationship."
 }

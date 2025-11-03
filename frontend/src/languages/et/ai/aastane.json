@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta on viieaastane laps.",
-    "See kaheksa-aastane tüdruk oskab hästi lugeda.",
-    "Kümneaastane poiss mängis korvpalli."
+    "Aastane laps.",
+    "Laps saab aastaseks.",
+    "Müüa aastane mullikas."
   ],
   "translation": [
-    "-year-old",
-    "years of age"
+    "one-year-old",
+    "annual",
+    "year-long"
   ],
-  "context": "The suffix '-aastane' is used in Estonian to form adjectives indicating a person's or thing's age. It combines with numbers to mean 'X years old'. The structure typically places the number before '-aastane', making it similar to constructions like 'five-year-old' in English."
+  "context": "The Estonian word 'aastane' is an adjective that has multiple related meanings: 1) indicating age of one year (used for people or animals), 2) something lasting a full year or occurring annually, and 3) accumulated or obtained over the course of a year. The form changes depending on usage - it remains 'aastane' in nominative case but becomes 'aastaseks' when indicating becoming that age (as in 'laps saab aastaseks' meaning 'the child becomes one-year-old')."
 }

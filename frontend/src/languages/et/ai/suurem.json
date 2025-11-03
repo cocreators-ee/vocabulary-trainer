@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tema on suurem kui minu.",
-    "See on suurem maja.",
-    "Suured lapsed on alati heasid mängijad."
+    "Kas see maja on suurem kui teine?",
+    "Oleme suuremad kui olime eile.",
+    "Suurem osa inimestest nõustub sellega."
   ],
   "translation": [
     "bigger",
     "larger",
-    "greater"
+    "greater",
+    "more"
   ],
-  "context": "The word 'suurem' is the comparative form of the adjective 'suur' meaning 'big'. It is used to compare two things, indicating that one is bigger/larger/greater than another. In Estonian adjectives have three degrees: positive (suur - big), comparative (suurem - bigger), and superlative (suurim - biggest)."
+  "context": "'Suurem' is the comparative form of the adjective 'suur', meaning 'big' or 'large'. It literally translates to 'bigger', 'larger', or 'greater' in English. This word follows Estonian adjective declension patterns and can change its ending based on case, number, and grammatical function."
 }

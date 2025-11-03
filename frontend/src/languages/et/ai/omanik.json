@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Omanik on kohal.",
-    "See maja kuulub omanikule.",
-    "Milline on uue auto omanik?"
+    "Suure maavalduse, kaevanduste, karjade omanik.",
+    "Panga, vabriku omanikuks oli aktsiaselts.",
+    "Ta on paljude autasude, medalite, karikate omanik."
   ],
   "translation": [
     "owner",
     "proprietor",
-    "holder"
+    "possessor"
   ],
-  "context": "The Estonian word 'omanik' means owner or proprietor. It refers to the person who has legal ownership of something, such as property, a business, an object, or any item. The word is in nominative case here (subject form) and would change form depending on its grammatical role in a sentence. For example, it might become 'omanikku' (partitive case), 'omaniku' (genitive case), etc."
+  "context": "The Estonian word 'omanik' means owner or proprietor. It refers to someone who has legal ownership of something - whether it's property, objects, businesses, or abstract things like rights and responsibilities. The word follows the declension pattern for type 25 nouns in Estonian with length gradation. Its genitive form is 'omaniku', partitive is 'omanikku', and plural nominative is 'omanikud'. It can be used with various prefixes to specify different types of owners, such as 'automanik' (car owner), 'majamanik' (house owner), or 'pangamanik' (bank owner)."
 }

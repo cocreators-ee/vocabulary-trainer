@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Jõuan homme hommikul kell viis.",
-    "Kas te jõuate oma eesmärkidele?",
-    "Ma ei jõua täna kohtumisele ajaga."
+    "Jõuan Tallinna tagasi tuleval esmaspäeval.",
+    "Ma jõuan homme kolmeks.",
+    "Ta ei jõua kohale õigel ajal."
   ],
   "translation": [
-    "I manage",
-    "I reach",
-    "I succeed",
-    "I am able to"
+    "reach",
+    "arrive",
+    "get to",
+    "make it"
   ],
-  "context": "The word 'jõuan' is the first-person singular present tense form of the Estonian verb 'jõudma', which means 'to be able to', 'to manage', 'to reach', or 'to succeed'. It indicates capability or successful achievement. The stem changes in conjugation - from 'jõud-' to 'jõua-' before adding the personal ending '-n' for first person singular present tense."
+  "context": "The word 'jõuan' is the first person singular present tense form of the Estonian verb 'jõuda', which means 'to reach', 'to arrive', or 'to get to'. It indicates that the speaker will successfully arrive at a destination by a certain time. The dictionary example shows it being used in the context of returning to Tallinn on Monday ('esmaspäeval'), indicating completion of a journey."
 }

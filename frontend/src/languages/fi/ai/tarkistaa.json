@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Minun täytyy tarkistaa kalenterini.",
-    "Tarkista vielä kerran, että olet tehnyt kaiken tarvittavan.",
-    "Hän tarkisti sähköpostinsa ennen lähtöä."
+    "Minun täytyy tarkistaa sähköpostini.",
+    "Voit tarkistaa kellon ajan.",
+    "Hän tarkisti tiedot huolellisesti."
   ],
   "translation": [
-    "to check",
-    "to verify",
-    "to examine"
+    "check",
+    "inspect",
+    "verify",
+    "review",
+    "revise"
   ],
-  "context": "The Finnish word 'tarkistaa' is a verb that means to check, verify, or examine something carefully. It's commonly used when you need to confirm information, ensure accuracy, or look over details. The infinitive form ends in -aa, which is typical for Finnish first-conjugation verbs."
+  "context": "The Finnish word 'tarkistaa' means 'to check, inspect, verify, review or revise'. It is a transitive verb used when ensuring something is functioning properly or in the correct state. The word comes from the root 'tarkka', meaning precise or accurate, and adds the suffix '-istaa' which indicates a factitive aspect – causing something to become checked. For example, 'tarkistaa sanakirjasta' means 'to check from the dictionary'. It can be conjugated in various tenses and moods as shown in the provided definitions."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lapsed mängivad pargis.",
-    "Nägin palju laste tänaval.",
-    "Koolis on 50 laste."
+    "Vaimupuuetega laste õpetamiseks on vaja eriteadlikkust.",
+    "Abikooli suunatud lapsed saavad spetsiaalset tuge.",
+    "Mõnes piirkonnas kasutati terminit 'laste' kreekakatoliku koolide kohta."
   ],
   "translation": [
     "children",
-    "kids"
+    "pupils",
+    "students"
   ],
-  "context": "The word 'laste' is the partitive case form of the Estonian word 'laps', which means 'child'. In this partitive plural form, it indicates an unspecified or partial quantity of children. It's commonly used in contexts where you're talking about some children among many, or when referring to children as a general group without specifying exact numbers."
+  "context": "The word 'laste' is the genitive plural form of the Estonian word 'laps', meaning 'child'. It can be translated as 'children', 'pups', or 'students' in English. In the context provided, it refers to children with disabilities who are directed to special schools (abikooli suunatud lapsed) or students attending lower-level Greek Catholic schools in historical contexts."
 }

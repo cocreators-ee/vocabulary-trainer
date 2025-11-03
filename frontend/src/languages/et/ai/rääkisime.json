@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Me rääkisime eile hommikul.",
-    "Tüdrukud rääkisid telefonis kaua.",
-    "Mehed rääkisid meistrivõistlustest."
+    "Rääkisime talle augu pähe ja ta tuligi meie meeskonda üle.",
+    "Me rääkisime temaga pikalt tema uue töökohta.",
+    "Kes rääkisite eile sellest projektist?"
   ],
   "translation": [
-    "we talked",
-    "we spoke",
-    "we discussed"
+    "talked",
+    "spoke",
+    "conversed",
+    "discussed"
   ],
-  "context": "The word 'rääkisime' is the past tense, first person plural form of the Estonian verb 'rääkima', which means 'to talk' or 'to speak'. It specifically refers to a completed action in the past where multiple people (the speaker and others) were engaged in conversation. The '-me' ending indicates 'we' and the '-sime' ending indicates past tense."
+  "context": "The word 'rääkisime' is the past tense plural form of the verb 'räätta' in Estonian. It means we talked or we spoke. In the example from the dictionary, it's used in the context of 'augu pähe rääkima', which means to talk someone into doing something or persuade them through conversation."
 }

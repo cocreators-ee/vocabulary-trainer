@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on tärkeä merkityksessä.",
-    "Hän puhui asiasta merkityksessä.",
-    "Sanat saivat uuden merkityksen merkityksessä."
+    "Hänen mukaansa tässä asiassa ei ole mitään merkityksessä.",
+    "Olen samaa mieltä merkityksessä.",
+    "Tämä on tärkeää merkityksessä."
   ],
   "translation": [
-    "in significance",
-    "in meaning",
-    "in importance"
+    "in the meaning of",
+    "meaning"
   ],
-  "context": "The Finnish word 'merkityksessä' is an inessive case form of the noun 'merkitys', which means 'meaning' or 'significance'. The '-ssä' ending indicates location or state within something. So 'merkityksessä' literally translates to 'in meaning/significance' and is used when referring to something being significant, important, or meaningful in a particular context."
+  "context": "The word 'merkityksessä' is the inessive singular form of the noun 'merkitys', which means 'meaning'. The inessive case indicates location or being *in* something, so 'merkityksessä' translates to 'in the meaning of' or simply 'meaning' when used as a standalone concept. It describes that something holds true within a certain context or interpretation."
 }

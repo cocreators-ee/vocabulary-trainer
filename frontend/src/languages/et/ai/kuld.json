@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kuld on väärismetall.",
-    "Ta kandis kulda käes.",
-    "Mul oli päeval kuldne päev."
+    "Kulla ühendid, sulamid, leiukohad.",
+    "Vilgukivi läigib, hiilgab nagu kuld.",
+    "Sügislehtede kuld. Kased puistavad juba kulda."
   ],
   "translation": [
     "gold",
-    "golden"
+    "money",
+    "wealth"
   ],
-  "context": "The word 'kuld' is an Estonian noun meaning 'gold'. It refers to the precious metal gold. In different forms, it can appear as 'kulda' (partitive case, meaning 'some gold') or 'kuldne' (adjective form meaning 'golden')."
+  "context": "The word 'kuld' in Estonian is primarily used to refer to the precious metal gold, but it has several extended meanings including money/wealth and metaphorical uses for anything valuable or golden-colored. It's a masculine noun that declines according to type 22i/külm with d-gradation."
 }

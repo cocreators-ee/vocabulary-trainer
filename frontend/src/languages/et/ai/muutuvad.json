@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ilm muutub kevadel.",
-    "Tegelikud muutuvad nähtused.",
-    "Muutuvad tingimised nõuavad paindlikkust."
+    "Sirgjooned muutuvad kõverjoonteks.",
+    "Ilmad muutuvad kevadel.",
+    "Temperatuurid muutuvad ööpäeva jooksul."
   ],
   "translation": [
-    "changeable",
-    "variable",
-    "fluctuating"
+    "change",
+    "become",
+    "vary",
+    "transform"
   ],
-  "context": "The word 'muutuvad' is the third-person plural present indicative form of the Estonian verb 'muutuma', meaning 'to change'. It describes things that are in a state of changing or becoming different. This form would typically be used with subjects like ilm (weather), nähtused (phenomena), or tingimised (conditions) - something that is undergoing transformation or variation."
+  "context": "The word 'muutuvad' is the 3rd person plural present tense form of the Estonian verb 'muutuma', which means 'to change', 'to become', or 'to vary'. It describes something that is changing, becoming different, or transforming from one state to another. In physics contexts, it can refer to how straight lines transform into curved lines (as mentioned in the dictionary definition about aberration)."
 }

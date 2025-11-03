@@ -1,13 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on hyvä lause.",
-    "Kirjoitin pitkän lauseen.",
-    "Lauseiden ymmärtäminen tärkeää."
+    "Opettaja kirjoitti pitkän lauseen taululle.",
+    "Tämä on monimutkainen lause.",
+    "Voitko lukea tämän lauseen ääneen?"
   ],
   "translation": [
+    "clause",
     "sentence",
-    "clause"
+    "theorem",
+    "statement",
+    "proposition"
   ],
-  "context": "In Finnish, 'lause' means a sentence in grammar - a grammatical unit that expresses a complete thought. It can also refer to a clause when discussing sentence structure. The word is used similarly to English 'sentence' but with specific grammatical connotations in linguistic contexts."
+  "context": "The Finnish word 'lause' most commonly translates to 'sentence' or 'clause' in English, referring to a grammatically complete series of words. However, it can also mean 'theorem' or 'statement' in mathematical and logical contexts. The word declines based on grammatical case, as shown in the dictionary definitions, with different forms for singular and plural, and possessive suffixes indicating who owns the sentence (e.g., my sentence, your sentence)."
 }

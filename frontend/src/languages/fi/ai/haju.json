@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tuoksut ovat hyviä mutta haju on epämiellyttävä.",
-    "Haju tuli keittiöstä.",
-    "Mitään hajua ei ollut havaittavissa."
+    "Tunnen savun hajua.",
+    "Minulla ei ole hajuakaan, kuka sinä olet.",
+    "Haju oli voimakas ja epämiellyttävä."
   ],
   "translation": [
     "smell",
-    "odor",
+    "odour",
     "scent",
-    "fragrance"
+    "clue",
+    "idea"
   ],
-  "context": "The word 'haju' in Finnish means smell, odor, or scent. It's a noun that refers to the sensation produced by something that stimulates the olfactory organs. The word can be used for both pleasant and unpleasant smells - for example, 'hyvä haju' (good smell) versus 'paha haju' (bad smell). In different contexts, it could refer to natural scents like flowers or food aromas, as well as man-made fragrances."
+  "context": "The Finnish word 'haju' refers to a smell or odour. It is a neutral term, but can sometimes imply an unpleasant scent. The word has many grammatical forms depending on the case and possession, as shown in the declension table.  It can also mean 'clue' or 'idea', as in the phrase 'Minulla ei ole hajuakaan...' which translates to 'I have no idea...'. The suffix '-u' is part of the basic form of the word, and the plural forms are indicated by '-t' at the end of the nominative case."
 }

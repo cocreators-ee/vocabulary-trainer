@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on merkittävä tapahtuma kaupungissa.",
-    "Miten pääsen sinne tapahtumaan?",
-    "Tapahtumat järjestetään joka vuosi."
+    "Opiskelijat järjestivät koulussa suuren tapahtuman.",
+    "Konsertti oli ikimuistoinen tapahtuma kaikille osallistujille.",
+    "Poliisi tutkii yöllä tapahtunutta rikosta."
   ],
   "translation": [
     "event",
     "happening",
-    "occurrence"
+    "occurrence",
+    "incident"
   ],
-  "context": "The Finnish word 'tapahtuma' is a noun that means an event, happening, or occurrence. It's commonly used to refer to organized events like concerts, festivals, meetings, or other public gatherings. The word can be modified with case endings - for example, the genitive form would be 'tapahtuman', partitive 'tapahtumaa', and illative 'tapahtumaan'. When pluralized, it becomes 'tapahtumat'."
+  "context": "The word 'tapahtuma' refers to something that happens, an event or occurrence. It can be a prearranged social activity, like a concert, or simply something that takes place, such as a crime. The word is in the nominative singular form, meaning it describes one event.  The plural form 'tapahtumat' means multiple events. The suffix '-ma' indicates a noun formed from the verb 'tapahtua', which means 'to happen'. You can also see possessive forms like 'tapahtumani' (my event) or 'tapahtumamme' (our event), showing ownership."
 }

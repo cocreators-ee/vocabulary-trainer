@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä mittari on monipuolinen asteikko.",
-    "Asteikon perusteella voidaan arvioida tuloksen laatua.",
-    "Mikä on tämän testin hyväksyttävä asteikko?"
+    "Opettaja käytti aika-asteikkoa selittääkseen historian tapahtumia.",
+    "Sääennusteessa käytettiin Beaufortin asteikkoa tuulen voimakkuuden arviointiin.",
+    "Lämpötila mitattiin celsiusasteikolla."
   ],
   "translation": [
     "scale",
-    "range",
-    "spectrum",
-    "gradation"
+    "grading scale",
+    "index",
+    "range"
   ],
-  "context": "The Finnish word 'asteikko' means scale or range, referring to a series of ordered levels or values used for measurement, classification, or evaluation. It can be used in contexts like temperature scales (lämpötila-asteikko), rating scales (arviointiasteikko), or statistical ranges."
+  "context": "The word 'asteikko' in Finnish translates to 'scale' in English. It refers to an ordered numerical sequence used for measurement, or a system of ranking. The word is derived from 'aste' (degree) and '-ikko' (suffix denoting a thing or object).  It can be seen in various contexts like time scales ('aika-asteikko'), wind force scales ('Beaufortin asteikko') and temperature scales ('celsiusasteikko'). The noun declines based on case, as shown in the dictionary definition. For example 'asteikon' is the genitive singular form meaning 'of the scale'.  The possessive forms change depending on who owns the scale."
 }

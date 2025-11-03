@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Soovin sind külastada.",
-    "Tal on hea soov.",
-    "Meil on ühine soov."
+    "Ma soovin head ööd!",
+    "Tema soovib käia kinno.",
+    "Mis sa soovid?"
   ],
   "translation": [
-    "desire",
     "wish",
-    "want",
-    "request"
+    "desire",
+    "want"
   ],
-  "context": "The word 'soovi' is the partitive case form of 'soov', which means wish, desire, or want in English. It's used to express what someone desires or wants, often appearing with verbs like 'to want' or as an object indicating a wish."
+  "context": "The Estonian word 'soovi' is the partitive case form of the verb 'soovima', which means 'to wish' or 'to want'. It's used as an object in sentences where someone expresses a desire or wish about something. In these examples, we see it functioning as the direct object of the verbs indicating what someone wishes for or wants."
 }

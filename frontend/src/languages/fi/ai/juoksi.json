@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Hän juoksi nopeasti puistossa.",
-    "He juoksivat maratonin viime viikonloppuna.",
-    "Sinun pitäisi juosta hitaammin.",
-    "Minä juoksen joka aamu."
+    "Hän juoksi nopeasti.",
+    "Me juoksimme maratonin.",
+    "Koira juoksi puistossa."
   ],
   "translation": [
-    "run",
-    "ran"
+    "ran",
+    "jogged",
+    "sprinted"
   ],
-  "context": "The word 'juoksi' is the past tense form of the Finnish verb 'juosta', which means 'to run'. It describes an action that happened in the past. The stem 'juoks-' combined with the '-i' ending indicates third person singular past tense. In Finnish, verb conjugation changes based on person (I/you/he/she/we/they) and time (present/past/future)."
+  "context": "The word 'juoksi' is the third-person singular past indicative form of the verb 'juosta', which means 'to run'. It translates to 'ran' in English. The example sentences show it being used in different contexts, including 'he/she ran quickly', 'we ran a marathon', and 'the dog ran in the park'."
 }

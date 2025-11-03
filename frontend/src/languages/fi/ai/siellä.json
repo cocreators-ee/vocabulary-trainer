@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Siellä on kaunis puisto.",
-    "Mennäänkö sinne sielle?",
-    "He asuvat siellä."
+    "Me olimme siellä.",
+    "Olen käynyt siellä useita kertoja.",
+    "Mitä sinä teet siellä?"
   ],
   "translation": [
-    "there",
-    "in that place",
-    "over there"
+    "there"
   ],
-  "context": "The Finnish word 'siellä' is an adverb meaning 'there' in English. It's the illative case form of the pronoun 'se' (that) and indicates location or direction to a specific place away from both speaker and listener. It's commonly used when referring to places that are not near either the person speaking or the person being addressed."
+  "context": "The Finnish word 'siellä' is a locative adverb meaning 'there'. It indicates a location that isn’t specifically pointed out by the speaker. The Wiktionary definition notes it contrasts with 'tuolla', which implies a more specific, though still not directly indicated, location.  It comes from the adessive case of an older root word related to 'se' (it/that)."
 }

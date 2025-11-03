@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Teile on täna vaba päev.",
-    "Mida teile meeldib?",
-    "Töötajatele anti auhind."
+    "Minu teile täna midagi öelda tahan.",
+    "Kas sa teile tänasest päevast aru said?",
+    "Tema rääkis teile kõigest, mis juhtus."
   ],
   "translation": [
-    "to you (plural/formal)",
-    "for you (plural/formal)",
-    "to them",
-    "for them"
+    "to you (plural)",
+    "for you (plural)",
+    "toward you (plural)"
   ],
-  "context": "The Estonian word 'teile' is a dative case form used when addressing multiple people or showing respect to someone. It functions as both 'to you' and 'for you' in the plural/formal sense, similar to how French uses 'vous'. In some contexts, it can also mean 'to them' depending on the sentence structure."
+  "context": "The Estonian word 'teile' is the allative plural form of 'tee', which means 'road' or 'way'. In this grammatical case, it indicates movement toward or direction to a place. When used with pronouns like 'teie' (you/plural), it functions as an adverb meaning 'to you' or 'for you', indicating the recipient or target of an action in plural form."
 }

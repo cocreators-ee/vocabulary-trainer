@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kas sa kel?",
-    "Tema on kel.",
-    "Me oleme kõik kel."
+    "Kellel on see raamat?",
+    "Kel meile sobib see aeg?",
+    "Kellel õigus?"
   ],
   "translation": [
-    "what",
-    "which",
-    "who"
+    "whose",
+    "to whom",
+    "to which person/thing"
   ],
-  "context": "The word 'kel' appears to be an interrogative pronoun in Estonian. It seems to function similarly to English question words like 'what', 'which', or 'who'. In the sentences provided, it's used at the beginning of questions to ask about identities or characteristics of people."
+  "context": "In spoken Estonian, 'kel' is the shortened form of 'kellel'. It's an interrogative pronoun used to ask about possession or belonging (whose) or to indicate direction towards someone/something (to whom/to which). The full form 'kellel' would be more standard in written language, but 'kel' is commonly used in casual speech."
 }

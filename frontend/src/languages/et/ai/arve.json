@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Arve saabus täna.",
-    "Tegime suure arve restoranis.",
-    "Maksa palun see arve ära."
+    "Palun arve!",
+    "Kui suur teie arve tuli?",
+    "Avasin pangas arve."
   ],
   "translation": [
-    "bill",
-    "invoice",
-    "account"
+    "bill, invoice",
+    "account, bank account",
+    "track",
+    "(colloquial) problems/scores"
   ],
-  "context": "The Estonian word 'arve' can refer to a bill or invoice that needs to be paid, such as at a restaurant, store, or for services. It can also mean an account in the sense of financial records or statements."
+  "context": "The Estonian word 'arve' has multiple meanings depending on context. It can mean a bill or invoice (a document for goods/services), an account or bank account where money is kept, the act of keeping track or counting something, or colloquially refer to financial disputes or problems that need settling."
 }

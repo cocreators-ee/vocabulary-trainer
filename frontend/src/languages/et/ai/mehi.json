@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mehi on mees naisest.",
-    "Palju mehi tuleb tänavale.",
-    "Kaks meest istuvad kohvis."
+    "Mehi on linnas.",
+    "Varem oli rohkem mehi kui naisi.",
+    "Sellel töölõpul võib osaleda mitu mehi."
   ],
   "translation": [
-    "men",
-    "males"
+    "men (partitive plural)",
+    "males",
+    "guys"
   ],
-  "context": "The word 'mehi' is the plural form of 'mees' (man) in Estonian. It refers to multiple men or males. The singular form is 'mees', and when we add '-i' to it, it becomes the plural form indicating more than one man."
+  "context": "\"Mehi\" is the partitive plural form of the Estonian word \"mees\" (man/male). The partitive case in Estonian typically indicates an incomplete or indefinite quantity, so \"mehi\" would translate to \"some men\" or \"men\" when referring to a group without specifying the exact number. It's commonly used when talking about men in general, or an unspecified number of men."
 }

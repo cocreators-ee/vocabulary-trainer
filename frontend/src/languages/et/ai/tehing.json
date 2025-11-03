@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tehing oli edukas.",
-    "Mees tegi suuri tehinguid äris.",
-    "Kõik tehingud tuleb registreerida."
+    "Tehing sai teoks.",
+    "Ta tegi eduka tehingu.",
+    "Mulle pakuti mõtlemapanevat tehingut."
   ],
   "translation": [
     "transaction",
     "deal",
-    "business deal"
+    "business agreement",
+    "operation"
   ],
-  "context": "The word 'tehing' is a noun in Estonian that refers to a transaction or business deal. It's commonly used in financial, legal, and business contexts to describe an exchange of goods, services, or money. The word can be pluralized as 'tehingud', referring to multiple transactions or deals. In Estonian grammar, it follows standard noun declension patterns."
+  "context": "In Estonian, 'tehing' refers to a transaction, deal, or business operation that creates, changes, or terminates rights and obligations. It can be used in various contexts including financial transactions, business deals, legal agreements, and commercial exchanges. The word often appears in compound forms like 'ostu-müügi tehing' (purchase-sale transaction) and 'kinnisvara tehing' (real estate transaction)."
 }

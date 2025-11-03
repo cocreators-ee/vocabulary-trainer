@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kuud on meie naabri linn.",
-    "Naised külastasid kahte kuude jaoks.",
-    "Need kuud asuvad Eestis."
+    "Kuud on pikk aeg.",
+    "Ta kuulub nende organisatsiooni.",
+    "See projekt kestab kuud."
   ],
   "translation": [
     "months",
-    "months' (possessive)",
-    "moon"
+    "belongs to",
+    "lasts for months"
   ],
-  "context": "The word 'kuud' is the genitive plural form of the Estonian word 'kuu', which can mean either 'month' or 'moon'. In Estonian, the same root word is used for both concepts. The genitive case in Estonian typically indicates possession or association, so 'kuud' could translate to 'months' (possessive) when referring to something belonging to months, or it could simply be the plural form of 'month' depending on context. It can also refer to 'moons' as the plural form of 'moon'. The specific meaning would depend on the context in which it's used."
+  "context": "The word 'kuud' appears to be the plural form of 'kuu' which means 'month' in Estonian. It can also relate to 'kuulib' (belongs) and 'kestab kuud' (lasts for months), indicating duration over multiple months."
 }

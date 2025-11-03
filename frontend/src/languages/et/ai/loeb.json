@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Ta loeb raamatut.",
-    "Tüdrukud loevad palju.",
-    "Meie loeme koos."
+    "Arvuti loeb faili sisu.",
+    "Lugeja loeb raamatut ära.",
+    "Programm loeb kasutaja sisestust."
   ],
   "translation": [
-    "reads",
-    "is reading",
-    "performs the action of reading"
+    "reads"
   ],
-  "context": "The word 'loeb' is the third person singular present form of the Estonian verb 'lugema', which means 'to read'. It specifically refers to someone currently reading or who habitually reads. In Estonian, verbs conjugate based on person and number, so 'loeb' would be used for 'he/she/it reads' in English."
+  "context": "The word 'loeb' is the third person singular present form of the Estonian verb 'lugema', which means 'to read'. It describes an action where someone or something reads, processes, or interprets information. In the context given, it specifically refers to a computer's central processor reading machine code commands."
 }

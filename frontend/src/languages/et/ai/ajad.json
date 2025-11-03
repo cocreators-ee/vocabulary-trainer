@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ajad on head.",
-    "Täna on head ajad.",
-    "Millised ajad me praegu elame!"
+    "Ajad on täpsustatud.",
+    "Head ajad jahipidamiseks!",
+    "Need ajad sobivad hästi."
   ],
   "translation": [
     "times",
-    "periods",
-    "eras"
+    "dates",
+    "schedules"
   ],
-  "context": "The word 'ajad' is the plural form of 'aeg' (time) in Estonian. It refers to multiple time periods, times, or eras when things happen. It's used to talk about different moments or periods in history, daily life, or general temporal contexts."
+  "context": "\"ajad\" is the nominative plural form of \"aeg\" (time) in Estonian. It can refer to multiple time instances, schedules, or dates. In the context provided by the dictionary definition, it specifically relates to hunting times - the official temporal hunting schedule for a given year."
 }

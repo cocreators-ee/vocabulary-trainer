@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä tarkoittaa suuria muutoksia.",
-    "Mitä tämä sana tarkoittaa?",
-    "Hän ei ymmärtänyt, mitä se tarkoitti."
+    "Lapsille tarkoitettu ohjelma on hauska.",
+    "Tätä laitetta ei ole tarkoitettu ulkokäyttöön.",
+    "En tarkoittanut loukata ketään."
   ],
   "translation": [
-    "means",
-    "signifies",
-    "implies"
+    "to mean",
+    "intend",
+    "signify"
   ],
-  "context": "The Finnish word 'tarkoittaa' is a verb that means 'to mean' or 'to signify'. It's commonly used to explain the meaning of something, similar to English constructions like 'X means Y'. The word can appear in different forms such as present tense (tarkoittaa), past tense (tarkoitti), and negative forms (ei tarkoita)."
+  "context": "The Finnish word 'tarkoittaa' is a transitive verb that means 'to mean', 'intend', or 'signify'. It can also express the intention behind an action. The form 'tarkoittaa' is the third-person singular present indicative, but it comes from the root 'tarkka' meaning accurate and precise.  It often takes allative case for a person or beneficiary, illative for purpose, or translative with participles to express being something. For example, 'lapsille tarkoitettu ohjelma' means 'a program meant for children'. The word can be conjugated in various tenses and moods as shown in the dictionary definition."
 }

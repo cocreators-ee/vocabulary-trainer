@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Pinta on siisti.",
-    "Tämä pinta on pehmeä.",
-    "Pinnoilla on pinta."
+    "Veden pinta väreili kevyessä tuulessa.",
+    "Pöytä pitäisi pyyhkiä, koska sen pinta on likainen.",
+    "Nousta pintaan tarkoittaa nousta veden pinnalle."
   ],
   "translation": [
     "surface",
-    "area",
-    "top layer"
+    "skin",
+    "shell",
+    "exterior"
   ],
-  "context": "The Finnish word 'pinta' primarily means 'surface' or 'top layer'. It can refer to the physical surface of an object, such as the surface of a table or ground. As in the examples, it's used to describe characteristics like cleanliness ('siisti') and texture ('pehmeä'). The word is also used in compound words with '-pinta' meaning 'surface', and when pluralized (pinnoilla) means 'on surfaces'."
+  "context": "The Finnish word 'pinta' refers to the surface or outer side of something. It can be used literally for physical surfaces like water, tables, or skin, but also more abstractly. The word declines based on case, as shown in the provided dictionary definitions, affecting its meaning and usage within a sentence. For example, 'pintaan' means 'to the surface'.  The plural form is 'pinnat'."
 }

@@ -1,14 +1,23 @@
 {
   "understood": true,
   "sentences": [
-    "Olet väärässä.",
-    "Tämä on väärä vastaus.",
-    "Väärät tiedot aiheuttivat sekaannusta."
+    "Se on väärä puoli.",
+    "Jos haetaan Kustaa IV:ttä, niin Napoleon IV on väärempi vastaus kuin Kustaa III.",
+    "Annetuista vastauksista, väärin on Napoleon IV, joka ei edes ollut Ruotsin kuninkaita."
   ],
   "translation": [
     "wrong",
     "incorrect",
-    "false"
+    "false",
+    "erroneous",
+    "illegitimate",
+    "immoral",
+    "bad",
+    "unjust",
+    "crooked",
+    "bent",
+    "counterfeit",
+    "fake"
   ],
-  "context": "The Finnish word 'väärä' is an adjective that means wrong, incorrect, or false. It's used to describe something that is not right according to facts, rules, standards, or expectations. The word can be declined in different cases and numbers - here we see it in the nominative singular form ('väärä'), partitive singular form ('väärää' implied), and partitive plural form ('väärät')."
+  "context": "The Finnish word 'väärä' is an adjective that means wrong, incorrect or false. It can also refer to something being immoral, bad, or unjust. The word declines depending on its use in a sentence; for example, the superlative form 'väärin' means 'most incorrect'.  The suffix '-ä' indicates it is in the nominative singular form. You will often see this word used with the verb 'olla', meaning 'to be', as in 'Se on väärä puoli' (It is the wrong side)."
 }

@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tulete homme kohtumisel.",
-    "Kuhu tulete?",
-    "Palun tulege sisse."
+    "Kas jääte, tulete ka arutelule?",
+    "Tulete koos meiega arutama"
   ],
   "translation": [
-    "you come (plural formal)",
-    "you are coming (plural formal)",
-    "please come"
+    "come",
+    "arrive",
+    "appear"
   ],
-  "context": "The word 'tulete' is the plural formal imperative form of the verb 'tulla' (to come) in Estonian. It's used when addressing multiple people formally or respectfully, equivalent to 'please come' or 'you come'. This form shows both number (plural) and formality (formal address)."
+  "context": "The word 'tulete' is the plural form of the Estonian verb 'tulla', which means to come or arrive. In this context, it's used in a question asking whether someone will come or attend something."
 }

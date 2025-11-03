@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Me leidsime hea lahenduse sellele probleemile.",
-    "Sellel ülesannel pole veel lahendust.",
-    "Ta tegi õige lahenduse keerukas olukorras."
+    "Probleemile lahendust otsima.",
+    "Kuriteo lahendus tuli sealt, kust ei osatud oodatagi.",
+    "Maali kompositsiooniline lahendus on omapärane."
   ],
   "translation": [
     "solution",
-    "answer",
-    "resolution"
+    "resolution",
+    "answer to a problem",
+    "way out",
+    "exit strategy"
   ],
-  "context": "The Estonian word 'lahendus' is a noun that means 'solution', 'answer', or 'resolution'. It refers to the answer to a problem, puzzle, question, or conflict. The word comes from the verb 'lahendama' which means 'to solve'. In Estonian grammar, this word follows standard noun declension patterns and can appear in different cases depending on its grammatical function in a sentence."
+  "context": "In Estonian, 'lahendus' is a noun that primarily refers to a solution or resolution to a problem. It can be used in various contexts: 1) As the result of investigating an unclear or debatable issue; 2) As a creative, artistic, technical idea and its realization; 3) In mathematics as the answer to a problem or puzzle. The word derives from 'lahendama' (to solve/resolve). It can be found in compound words like hädalahendus (disaster solution), lõpp-lahendus (final solution), and põhi-lahendus (basic solution)."
 }

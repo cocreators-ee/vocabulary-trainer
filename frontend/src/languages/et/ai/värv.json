@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "See on ilus värv.",
-    "Laps segas värvid segajaga.",
-    "Müük lõpetati kõigi värvide pealt."
+    "Silmade, õite värv.",
+    "Kevadise looduse värsked värvid.",
+    "Rohelist peetakse lootuse värviks."
   ],
   "translation": [
     "color",
+    "colour",
     "paint"
   ],
-  "context": "In Estonian, 'värv' means color or paint. It's a common noun that can refer to the visual property of objects (color) or to pigments used for painting (paint). The word is in singular nominative form here."
+  "context": "The Estonian word 'värv' has three main meanings: 1) Color/colour - referring to visual properties perceived by the eye, 2) Paint - a liquid substance containing pigments for coloring surfaces, and 3) Tone/timbre - in relation to sound quality. It's derived from Middle Low German and is cognate with similar words in other Germanic languages like Finnish 'väri', Swedish 'färg', and German 'Farbe'. The word follows Estonian declension patterns with forms like 'värvi' (genitive), 'värvid' (plural nominative), and 'värve' (partitive)."
 }

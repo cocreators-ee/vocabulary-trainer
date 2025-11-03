@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Vanemad on kodus.",
-    "Minu vanemad tulevad külastama.",
-    "Tema vanemad töötavad haiglas."
+    "Vanemad kasvatasid üles viis poega.",
+    "Vana andis talu pojale üle.",
+    "Tule vana sülle!"
   ],
   "translation": [
-    "parents"
+    "parents (plural)",
+    "elder people",
+    "older generation"
   ],
-  "context": "The word 'vanemad' is the plural form of the Estonian noun 'vanem', which means 'parent'. It refers to both parents collectively - father and mother. In Estonian, like many other languages, nouns have different forms for singular and plural. 'Vanemad' specifically denotes multiple parents rather than just one."
+  "context": "\"Vanemad\" is the plural form of \"vanem\" in Estonian, meaning \"parents\" or \"elder people.\" It refers to older individuals who are parents or belong to an older generation. The word can be used both literally for one's own parents and more generally for elderly people. In Estonian grammar, this is a plural noun that follows the declension pattern for such words."
 }

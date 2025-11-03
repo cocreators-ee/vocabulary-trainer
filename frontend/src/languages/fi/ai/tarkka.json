@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on tarkka mittaus.",
-    "Olen erittäin tarkka työssäni.",
-    "Hän on tarkka muistamaan pienet yksityiskohdat."
+    "Hän on erittäin tarkka työssään.",
+    "Tarkka laskenta on tärkeää tässä projektissa.",
+    "Ole tarkkana liikenteessä!"
   ],
   "translation": [
-    "precise",
     "accurate",
-    "careful"
+    "precise",
+    "exact",
+    "careful",
+    "attentive"
   ],
-  "context": "The Finnish word 'tarkka' is an adjective that means precise, accurate, or careful. It describes something that is done with great attention to detail and without errors. When referring to people, it can describe someone who is meticulous and pays close attention to details. The word can be used in various contexts such as measurements (precise), work performance (accurate/careful), or observation skills (attentive)."
+  "context": "The word 'tarkka' is an adjective that means accurate, precise, or exact. It can also mean careful or attentive depending on the context. The word declines based on case and number; for example, 'tarkan' is the genitive singular form meaning 'of accurate', while 'tarkat' is the nominative plural form meaning 'accurate ones'.  The suffix '-mme' indicates 'our', as in 'tarkkamme' which means 'our accurate'."
 }

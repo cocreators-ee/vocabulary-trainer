@@ -1,16 +1,20 @@
 {
   "understood": true,
   "sentences": [
-    "Asia on tärkeä.",
-    "Asiat pitää järjestää.",
-    "Mitä asioita teet tänään?"
+    "Kuuntele, mitä minulla on asiaa.",
+    "Tämä ei ole sinun asiasi!",
+    "Mitä asiasi koskee?"
   ],
   "translation": [
     "matter",
     "issue",
-    "thing",
     "affair",
-    "subject"
+    "concern",
+    "business",
+    "subject",
+    "case",
+    "thing",
+    "errand"
   ],
-  "context": "The Finnish word 'asia' is a versatile noun that can mean matter, issue, thing, affair, or subject. It's commonly used to refer to various types of subjects or concerns in everyday conversation. The word can be found in different forms depending on context - for example, 'asiat' would be the plural form meaning 'matters' or 'things'."
+  "context": "The Finnish word 'asia' is a versatile noun that can mean matter, issue, affair, concern, business, subject, case or thing. It can also refer to an errand. The word has many different forms depending on the grammatical context, as shown in the declension table provided. For example, 'asioilla' means 'running errands'.  The genitive form 'asian' is used to indicate possession ('the matter of')."
 }

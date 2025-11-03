@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema läks majja.",
-    "Tema läks autoss e.",
-    "Tema läks linna."
+    "Kere jaguneb rindkereks ja kõhuks.",
+    "Ajas oma pika kere sirgu.",
+    "Pingutus võttis üle kere higiseks."
   ],
   "translation": [
-    "into",
-    "to the inside of"
+    "trunk",
+    "body (without head and limbs)",
+    "main part of vehicle/building/item"
   ],
-  "context": "The Estonian suffix '-sse' is a case ending that indicates motion into or towards something. It's part of the illative case, which answers the question 'where to?' or 'into what?'. This ending is added to nouns when indicating movement into a location or space."
+  "context": "The Estonian word 'kere' refers to 1) the trunk/main body of a living being, specifically the central part without head and limbs; 2) the main or central part of vehicles, buildings, or objects (like ship hulls); and colloquially it can refer to the stomach/belly. It's used in both biological contexts ('kere jaguneb rindkereks ja kõhuks' - the body divides into chest and abdomen) and mechanical/structural contexts."
 }

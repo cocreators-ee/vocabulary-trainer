@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tänavad on linna peamised liiklusteed.",
-    "Mees jooksis mööda tänavat kiiresti.",
-    "Lapsed mängisid tänaval päikesepaistelisel ilmal."
+    "Tänavat on vajalikud liikluse organiseerimiseks.",
+    "Auto sõitis tänavale.",
+    "Mängul oli selge tänavad."
   ],
   "translation": [
-    "streets",
-    "roadways",
-    "avenues"
+    "boundary line",
+    "border line",
+    "line"
   ],
-  "context": "The word 'tänavat' is the partitive case form of the Estonian noun 'tänav', which means 'street'. In Estonian, nouns change their endings to indicate grammatical cases. The partitive case (ending -t) typically indicates that something is being acted upon or exists in an incomplete manner. Here it shows movement along streets or location on/in streets."
+  "context": "The word 'tänavat' is the partitive form of 'tänava', which means a boundary line or border line. In Estonian, this refers to an imaginary line that divides spaces or areas, particularly in contexts like games (e.g., hopscotch) where lines mark boundaries for play."
 }

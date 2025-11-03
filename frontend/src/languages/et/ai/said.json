@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema said midagi huvitavat.",
-    "Selles said on kaks tuba.",
-    "Kas sa said sellest aru?"
+    "Ootame, kuni koorem pärale jõuab. Kas mu kiri on juba pärale jõudnud?",
+    "Kas jõudis pärale 'kas taipasid, said aru'!?"
   ],
   "translation": [
-    "said (from öelda)",
-    "told",
-    "said",
-    "room"
+    "to arrive",
+    "to reach (spatially)",
+    "to get to",
+    "to come"
   ],
-  "context": "In Estonian, 'said' is the past tense form of the verb 'öelda' meaning 'to say'. It's used to indicate that someone spoke or said something in the past. The word can also appear as part of compound words with different meanings - for example, in 'sais', it means room (as in a building), and in 'saia', it relates to bread/cake."
+  "context": "The word 'said' is the past tense form of the Estonian verb 'saama'. It specifically appears as either the second-person singular past indicative ('you got/arrived') or the third-person plural past indicative ('they got/arrived'). The dictionary shows it's used in contexts about reaching a destination or arriving somewhere, and can also be used more figuratively to mean understanding something (getting the point)."
 }

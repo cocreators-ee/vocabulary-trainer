@@ -1,22 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ei, ma ei taha.",
-    "Ei, see pole õige.",
-    "Kas sa ei tule?"
+    "Ma ei tee seda.",
+    "Kas sa tuled või ei?",
+    "Ei iialgi!"
   ],
   "translation": [
     "no",
     "not",
-    "don't",
-    "doesn't",
-    "isn't",
-    "aren't",
-    "won't",
-    "can't",
-    "couldn't",
-    "shouldn't",
-    "wouldn't"
+    "don't/doesn't"
   ],
-  "context": "The word 'ei' in Estonian is a negation particle used to form negative sentences. It corresponds to 'no' as an answer and functions as 'not' when placed before verbs or other words to negate them. It's one of the most fundamental particles in Estonian grammar, similar to 'ne' in Finnish."
+  "context": "The Estonian word 'ei' is a versatile negation particle that can function as both an interjection and an auxiliary verb. As an interjection, it means 'no' for direct answers or corrections. As an auxiliary verb, it's used to form negative sentences with verbs meaning 'not' - 'I don't know' would be 'Ma ei tea'. The word typically precedes the main verb in a sentence (except in some colloquial forms), and its usage is fundamental to Estonian grammar for negation."
 }

@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on küsimusi küsimustele.",
-    "Kas sa vastad kõigile küsimustele?",
-    "Õpilased esitasid palju küsimustele õpetajale."
+    "Küsimustele vastamiseks pead olema valmis.",
+    "Ta küsis küsimustele leidmist vastuseid.",
+    "Lapse küsimustele ei saa lihtsalt ignoreerida."
   ],
   "translation": [
-    "questions",
-    "inquiries",
-    "queries"
+    "for questions",
+    "to the questions"
   ],
-  "context": "'Küsimustele' is the allative case plural form of 'küsimused' (questions). In Estonian, the allative case (-le ending) indicates movement towards or direction to something. So 'küsimustele' means 'to questions' or 'toward questions'. It's used when you're moving toward questions, directing something to questions, or answering questions."
+  "context": "The word 'küsimustele' is the allative case plural form of 'küsimused' (questions), meaning 'to/for the questions'. In Estonian, the allative case (-le ending) indicates direction or destination - answering TO someone's questions or doing something FOR the questions. It answers the questions 'milleks?' (for what purpose?), 'mis otstarbel?' (for what reason?), and 'misjaoks?' (for what?)."
 }

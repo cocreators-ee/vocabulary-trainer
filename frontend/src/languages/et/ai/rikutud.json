@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta on rikutud.",
-    "Rikutud mees oli pärast õnnetust haiglas.",
-    "Lapsed näevad rikutud asju."
+    "Rikutud hammastes on valu.",
+    "Lapsel oli üks rikutud hammas.",
+    "Arst vaatas tema rikutuid hambaid."
   ],
   "translation": [
-    "damaged",
-    "broken",
-    "spoiled",
-    "corrupted"
+    "decayed",
+    "carious",
+    "cavity-filled"
   ],
-  "context": "The Estonian word 'rikutud' is an adjective that means damaged, broken, spoiled or corrupted. It is the plural nominative form of the adjective 'rikunud'. This word can describe physical objects that are no longer in good condition (like broken toys), spoiled food that has gone bad, or abstract concepts like corrupted systems or ruined relationships."
+  "context": "The Estonian word 'rikutud' is an adjective meaning 'decayed' or 'carious', referring to teeth that have been damaged by dental caries (cavities). It's the plural nominative form of 'rikutud'. In medical contexts, it specifically describes teeth affected by tooth decay or cavities. The word comes from the root 'rikuda' meaning 'to spoil' or 'to damage', so literally means 'spoiled' or 'damaged' when referring to teeth."
 }

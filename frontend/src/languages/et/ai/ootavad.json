@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Nad ootavad sind.",
-    "Meie ootame teid.",
-    "Tüdrukud ootavat bussi."
+    "Piletikassa ees oli pikk järjekord.",
+    "Sa mine ajalehte ostma, ma võtan seni poes järjekorra ära.",
+    "Ma käin korraks ära, hoia mulle järjekorda!"
   ],
   "translation": [
-    "await",
-    "expect",
-    "wait for"
+    "queue",
+    "line",
+    "order",
+    "sequence"
   ],
-  "context": "The word 'ootavad' is the 3rd person plural present tense form of the Estonian verb 'ootama', which means to wait, await, or expect. It specifically refers to what 'they' are doing - waiting/awaiting something or someone."
+  "context": "The word 'järjekord' means queue or line in English. It refers to a sequence of people waiting for something, such as standing in line at a ticket counter. The term can also refer to the order or sequence of events, operations, or items in a series."
 }

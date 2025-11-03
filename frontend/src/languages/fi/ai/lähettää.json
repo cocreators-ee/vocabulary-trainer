@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minä lähetän sinulle kirjeen.",
-    "Hän lähetti viestin ystävälleen.",
-    "Me olemme lähettäneet paketteja monille ihmisille."
+    "Minä lähetän kirjeen postitse.",
+    "He lähettävät paketin huomenna.",
+    "Yritys lähettää tuotteita ympäri maailmaa."
   ],
   "translation": [
     "to send",
-    "to dispatch",
-    "to transmit",
-    "to mail"
+    "dispatch",
+    "ship"
   ],
-  "context": "The Finnish verb 'lähettää' is a transitive verb that means to send, dispatch, or transmit something. It's commonly used for sending messages, packages, letters, emails, or other items from one person or place to another. The word can be conjugated in various tenses: lähetän (I send), lähetät (you send), hän lähettää (he/she sends), lähetämme (we send), lähetätte (you plural send), he lähettävät (they send). In the past tense, it would be lähetin (I sent), lähetit (you sent), and so on."
+  "context": "The Finnish verb 'lähettää' means 'to send'. It is a transitive verb, meaning it requires an object. The word comes from the Proto-Finnic root *läktettädäk and is related to the verb 'lähteä' (to leave).  It can also mean 'to dispatch', 'to ship', or even 'to transmit' in the context of signals like radio waves. The form 'lähettää' is the present tense, third-person singular indicative. You can see different forms in the example sentences, such as 'lähetän' (I send) and 'lähettävät' (they send)."
 }

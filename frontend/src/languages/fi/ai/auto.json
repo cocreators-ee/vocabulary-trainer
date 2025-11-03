@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on auto.",
-    "Autoni on punainen.",
-    "Auto seisoo autotallissa."
+    "Minulla on uusi auto.",
+    "Pysäköin autoni parkkihalliin.",
+    "Auto on punainen."
   ],
   "translation": [
     "car",
-    "automobile",
-    "vehicle"
+    "automobile"
   ],
-  "context": "The Finnish word 'auto' means 'car' or 'automobile'. It is a common noun used to refer to a motor vehicle, typically with four wheels and powered by an engine. In Finnish grammar, it's an inanimate object that follows the regular declension pattern for consonant-stem nouns."
+  "context": "The word 'auto' in Finnish means 'car' or 'automobile'. It is a noun of type 1/valo, which doesn’t undergo gradation. The word declines based on case and number; the provided dictionary definitions show nominative, genitive, partitive, and other cases for both singular and plural forms. Possessive forms are also included, indicating ownership (my car, your car, etc.). There are many synonyms in Finnish like 'kiesi', 'kosla' or 'pirssi'."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tegelikult väikest viga.",
-    "See on väikest tüüpi auto.",
-    "Ma ei tea väikest asja selle kohta."
+    "Väikest vihmavärava tuleb oodata.",
+    "Tuleks eelnevalt uurida väikeste ilmatingimusi.",
+    "Päikesepaistega võivad esineda mõned väikesed tormijuppud."
   ],
   "translation": [
-    "small",
-    "little",
-    "tiny"
+    "showers",
+    "isolated showers",
+    "brief heavy precipitation"
   ],
-  "context": "Väikest is the partitive singular form of the Estonian adjective 'väike', meaning 'small' or 'little'. It's used when referring to an unspecified amount of something small, or in contexts where the quantity isn't emphasized. In Estonian grammar, adjectives change their endings depending on case and number - here it's in the partitive case (which typically indicates incomplete action or indefinite quantity) and singular form."
+  "context": "Väikest is the partitive singular form of väike, meaning 'small' or 'brief'. In meteorological context, it refers to brief, isolated, and often heavy precipitation that affects a small area. This word describes localized weather phenomena like sudden downpours or showers rather than widespread rain systems."
 }

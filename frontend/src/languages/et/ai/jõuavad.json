@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Nad jõuavad homme kell kaks.",
-    "Tüdrukud jõuavad varakult õhtul.",
-    "Mehed jõuavad alles homseks."
+    "Nad jõuavad homme linna.",
+    "Lennukid jõuavad varsti.",
+    "Me jõuame siia kell 10."
   ],
   "translation": [
     "arrive",
     "reach",
-    "come"
+    "come",
+    "get to"
   ],
-  "context": "The word 'jõuavad' is the 3rd person plural present tense form of the Estonian verb 'jõua', which means to arrive, reach or come. It specifically refers to a group of people (they) arriving or reaching their destination in the present time."
+  "context": "The word 'jõuavad' is the third person plural present indicative form of the Estonian verb 'jõuda', which means 'to arrive', 'to reach', 'to come', or 'to get to'. It describes when people (or subjects) are arriving somewhere in the present moment. The root 'jõu-' relates to power/strength, suggesting the action of successfully reaching a destination through one's own strength or effort."
 }

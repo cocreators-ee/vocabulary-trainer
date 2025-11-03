@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kunst on ilu.",
-    "Tema armastab kunsti.",
-    "Me vaatame kunstimuuseumi."
+    "Kunsti on vajalik hinnang anda igale loomingu teosele.",
+    "Arvustus kunsti kohtas võib olla nii kiitva kui ka kriitilise.",
+    "Kunstnikud ootavad tihti professionaalset arvustust oma tööde kohta."
   ],
   "translation": [
-    "art"
+    "criticism",
+    "review",
+    "appraisal"
   ],
-  "context": "The word 'kunsti' appears to be an Estonian word related to art. In the provided examples, it seems to function in contexts where 'art' would be used in English. However, 'kunsti' specifically appears to be in a possessive or partitive form rather than the nominative case. The base word 'kunst' means 'art', and '-i' is likely an ending indicating possession (like English \"of art\" or \"in art\")."
+  "context": "The word 'kunsti' in the given context is part of the compound word 'arvustus kunsti kohta', which means a review or criticism about art. It appears to be an adessive case form related to kunst (art), indicating that something is 'about art' or 'concerning art'. The Estonian dictionary shows usage in contexts like reviews of literary works, plays, music, and other artistic productions."
 }

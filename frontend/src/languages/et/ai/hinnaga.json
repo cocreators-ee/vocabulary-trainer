@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Müük hinnaga",
-    "Kasutage seda toodet hinnaga 10 eurot.",
-    "Toodete hind on kõrge hinnaga."
+    "Müügihinnaga on kaup odavam.",
+    "See toode müüaksi heades hinnades.",
+    "Hinnaga võrdlemisel oli meie pakkumine kõige parem."
   ],
   "translation": [
-    "with price",
-    "priced at",
-    "with cost"
+    "at the price",
+    "with the price",
+    "for the price"
   ],
-  "context": "The Estonian word 'hinnaga' is the adessive case form of 'hinna', which means 'price'. The '-ga' suffix indicates 'with' or 'having', so 'hinnaga' translates to 'with price' or 'priced at'. It's used to indicate that something has a certain price or cost associated with it."
+  "context": "The word 'hinnaga' is in Estonian and means 'at the price', 'with the price', or 'for the price'. It's an adessive form of the noun 'hind', which means 'price'. The '-ga' suffix indicates accompaniment or instrumentality, so 'hinnaga' literally translates to 'with/at the price'. This construction is used when specifying the price at something is bought or sold. The dictionary entry mentions 'arbitraaži otsus' but this appears unrelated to our word as it's about a different concept (arbitration decision)."
 }

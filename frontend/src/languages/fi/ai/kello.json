@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kello on seinällä.",
-    "Minulla on uusi kello.",
-    "Kellot ovat tarkkoja."
+    "Kello on kahdeksan.",
+    "Paljonko kello on?",
+    "Hän tuli joka päivä kellon tarkkuudella."
   ],
   "translation": [
     "clock",
-    "watch",
-    "time"
+    "time",
+    "bell"
   ],
-  "context": "The Finnish word 'kello' means clock or watch and refers to a time-telling device. It can be used for both wall clocks (seinäkello) and wristwatches (rannekello). The word is in the nominative singular form here."
+  "context": "The Finnish word 'kello' can mean clock, time, or bell. It originates from Proto-Finnic *këllo and shares roots with German and Swedish words for 'bell'. The word is not inflected when used before a numeral (e.g., kello kahdeksan - eight o'clock).  It has various forms depending on grammatical case, as shown in the declension table provided. It can also refer to egg timers ('muna kello') or be used metaphorically for regularity."
 }

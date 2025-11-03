@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Olen osanud seda tööd varem ka.",
-    "Ta on osanud paljusid keeli õppida.",
-    "Meie kool oli osanedu parimate seas."
+    "Laps ei tundnud veel kella.",
+    "Mul on kella peale minek.",
+    "Meil käib kõik kella pealt."
   ],
   "translation": [
-    "been able to",
-    "managed to",
-    "succeeded in"
+    "time of day",
+    "hour",
+    "clock time"
   ],
-  "context": "The Estonian word 'osanud' is the past participle form of the verb 'osama', which means 'to be able to' or 'to manage'. It indicates that someone has had the ability or skill to do something successfully. This form is commonly used with auxiliary verbs like 'olema' (to be) to express completed actions where ability was involved."
+  "context": "The word 'osanud' is the partitive case form of 'osama', meaning 'to be able to' or 'to know how to'. In this context, it's used in the phrase 'ei osanud kellaaega lugeda' which means 'did not know how to read/clock time'. It indicates a lack of ability or knowledge related to telling time."
 }

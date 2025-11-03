@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Minä syön leivän joka aamu.",
-    "Hän söi kanaa eilen illalla.",
-    "He ovat jo syöneet päivällisen."
+    "Minä syön omenan.",
+    "Hän söi lounasta kahdessa.",
+    "Syömme illallista yhdessä."
   ],
   "translation": [
-    "to eat"
+    "to eat",
+    "eating"
   ],
-  "context": "The Finnish verb 'syödä' means 'to eat'. It is an irregular verb that changes its stem in different tenses. In the present tense, it becomes 'syo-' (minä syön - I eat), in the past tense it becomes 'söi-' (hän söi - he/she ate), and for perfect tense it uses the participle 'syönyt' (he ovat jo syöneet - they have already eaten). This verb is used to express the action of consuming food."
+  "context": "The Finnish verb 'syödä' means 'to eat'. It is a transitive verb, meaning it requires an object. The form provided here is the infinitive.  It conjugates based on person and tense as shown in the dictionary definition. For example, 'minä syön' means 'I eat', while 'olen syönyt' means 'I have eaten'."
 }

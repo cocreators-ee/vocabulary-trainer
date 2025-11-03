@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Meren kaukainen ranta oli kaunis.",
-    "Kaukainen tähti näytti himmeältä yöllä.",
-    "Hän muisti kaukaisen lapsuutensa."
+    "Minun lapsuudenkotini on kaukainen muisto. (My childhood home is a distant memory.)",
+    "Hän asuu kaukaisessa kylässä pohjoisessa. (He lives in a remote village in the north.)",
+    "Kaukaiset sukulaisemme kävivät meitä vierailulla. (Our distant relatives visited us.)"
   ],
   "translation": [
     "distant",
+    "faraway",
     "remote",
-    "faraway"
+    "far-off",
+    "far"
   ],
-  "context": "The Finnish word 'kaukainen' is an adjective that means something is distant, remote, or far away in terms of physical space or time. It can describe places that are far from the speaker's current location, objects that are at a distance, or memories/events that happened long ago. The word has both spatial and temporal connotations."
+  "context": "The word 'kaukainen' is an adjective meaning distant, faraway or remote. It declines based on case and number in Finnish grammar. The root 'kauko-' relates to distance, and '-inen' is a common adjectival suffix.  It can be used to describe physical locations (a far-off village) or abstract concepts like memories. The provided dictionary definitions show the various forms of the word including nominative plural ('kaukaiset') and genitive singular ('kaukaisen'). It also shows possessive forms, indicating who owns something that is distant."
 }

@@ -1,16 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Tema seisab kõrgel mäel.",
-    "Me seisime ootamas bussi peatuse juures.",
-    "Kes seisab ees?",
-    "Seis!"
+    "Kiireloomuline töö ei võimaldanud hetkelistki seisu.",
+    "Autojuht andis seisult gaasi ja sööstis paigast.",
+    "Masinate seisu ajal võeti einet."
   ],
   "translation": [
-    "stands",
-    "stand (third person singular)",
-    "stop",
-    "halt"
+    "position",
+    "state",
+    "status",
+    "situation",
+    "standing",
+    "stance"
   ],
-  "context": "The word 'seis' is the third person singular form of the Estonian verb 'seisma', which means 'to stand'. It's used when referring to someone or something standing in a particular position. In addition to its literal meaning of physical standing, it can also be used as a command to stop (similar to 'halt!' or 'stop!')."
+  "context": "The Estonian word 'seis' has multiple meanings depending on context. It can refer to a physical position or state (like a standing posture), the current status of something (financial, political, etc.), or a momentary pause in activity. In sports contexts, it can mean score or position in a game."
 }

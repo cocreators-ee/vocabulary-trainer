@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kaamera on töös.",
-    "Mul on uus kaamera.",
-    "Fotograaf seadis kaameral üles."
+    "Sündmuspaigal olid ka televisioonimehed oma kaameratega.",
+    "35-mm filmi kaamera.",
+    "Võttis kaamerast filmi välja."
   ],
   "translation": [
     "camera",
-    "camcorder"
+    "photographic camera",
+    "video camera"
   ],
-  "context": "The word 'kaamera' is Estonian for camera. It refers to a device used for capturing photographs or videos. In Estonian, it's a common loanword from European languages that entered the language through technological adoption. The word can be used in various contexts including photography equipment, video recording devices, and surveillance systems."
+  "context": "Kaamera is an Estonian noun meaning 'camera'. It refers to a device used for filming or taking photographs. The word comes from German 'Kamera' and follows the ÕS type 1/ohutu declension pattern without gradation. In singular nominative form it's 'kaamera', in plural nominative it becomes 'kaamerad'. Common compounds include digikaamera (digital camera), videokaamera (video camera), and fotokaamera (photo camera)."
 }

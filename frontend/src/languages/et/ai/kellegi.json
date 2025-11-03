@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "See on kellegi auto.",
-    "Ma olen tuttav kellegiga.",
-    "Ta rääkis kellegiga telefoni teel."
+    "Keegi koputas.",
+    "Räägiti, mida keegi suvel tegi.",
+    "(Mitte) keegi ei tulnud appi."
   ],
   "translation": [
     "someone's",
-    "of someone"
+    "of someone",
+    "belonging to somebody"
   ],
-  "context": "The Estonian word 'kellegi' is the elative case form of the pronoun 'keegi', meaning 'someone'. In this specific form, it functions as a possessive adjective indicating possession or association with an unspecified person. It translates to English phrases like 'someone's' or 'of someone', showing that something belongs to or relates to some unidentified individual."
+  "context": "Kellegi is the genitive case form of the Estonian pronoun 'keegi' (someone/somebody). In Estonian grammar, the genitive case typically indicates possession or belonging. So 'kellegi' means 'of someone', 'someone's', or 'belonging to somebody'. It shows that something belongs to or is associated with an unspecified person."
 }

@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mees lasti koera.",
-    "Naised lastid linnu.",
-    "Laps ei lasta mitte midagi."
+    "Lasti need kuulikeseid kinnisesse kasti.",
+    "Mees lastis oma hääle sellele kandidaadile.",
+    "Tulemus selgus pärast seda, kuidas häälte lugemisel lasti õigetele pooltele."
   ],
   "translation": [
-    "shot",
-    "fired (weapon)",
-    "released",
-    "let go"
+    "to cast",
+    "to vote",
+    "to ballot"
   ],
-  "context": "The Estonian word 'lasti' is the past tense singular form of the verb 'laskma', which means to shoot, fire a weapon, or release/let go. It follows the conjugation pattern where the third-person singular (-i ending) is used for both masculine and feminine subjects in the past tense."
+  "context": "The word 'lasti' is the past tense third-person singular form of the verb 'lastama', which means to cast or ballot. It specifically refers to the historical practice of voting by dropping balls (kuulikeseid) into a closed box. This was an early method of secret voting where voters would physically cast their votes by placing balls into containers."
 }

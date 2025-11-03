@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on pieni huone.",
-    "Huoneeni on siisti.",
-    "Kuinka monta huonetta tässä talossa on?"
+    "Minulla on yksi huone.",
+    "Huoneessa on suuri ikkuna.",
+    "Etsin uutta huonetta."
   ],
   "translation": [
     "room",
-    "chamber"
+    "chamber",
+    "apartment"
   ],
-  "context": "The Finnish word 'huone' means 'room' or 'chamber'. It is a common noun used to refer to an enclosed space within a building, typically with walls and often a door. In Finnish grammar, it's a neuter gender noun that can take various endings depending on case and number - for example, 'huonessa' (in the room), 'huoneesta' (from the room), 'huoneet' (rooms in plural form)."
+  "context": "The word 'huone' in Finnish means 'room'. It can also refer to a house or building, but is most commonly used for a separate part of a building enclosed by walls, a floor and a ceiling. The word declines based on case; for example, 'huoneen' is the genitive form meaning 'of the room', and 'huoneessa' means 'in the room'. It can also be used in possessive forms like 'huoneeni' which means 'my room'."
 }

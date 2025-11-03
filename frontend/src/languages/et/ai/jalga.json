@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tema jalga on haige.",
-    "Jalgu võib valu tunda.",
-    "Kaks jalga on vajalikud kõndimiseks."
+    "Selle asemel, et [poliitilisele] vastasele salaja jalga taha panna, tormab ta otse tulle!?",
+    "Ta jooksis kiiresti jalga.",
+    "Jalga on palju näha."
   ],
   "translation": [
-    "leg",
-    "foot",
-    "legs",
-    "feet"
+    "leg (partitive singular)",
+    "to the leg (illative singular)",
+    "(secretly) to harm someone",
+    "to stab in the back"
   ],
-  "context": "The word 'jalga' is the partitive case form of 'jalg', which means leg or foot in Estonian. The partitive case often indicates partial action, incomplete state, or object of an action. In this context, 'jalga' can be used when referring to a single leg/foot in certain grammatical constructions or when talking about legs/feet as objects or in incomplete states."
+  "context": "The Estonian word 'jalga' has multiple meanings depending on its grammatical form. As a partitive singular of 'jalg', it means 'leg'. As an illative singular, it means 'to the leg'. However, in certain contexts (like the dictionary example), it can also mean '(secretly) to harm someone' or 'to stab in the back', as in the expression 'salaja jalga taha panna' meaning to secretly do something bad to someone."
 }

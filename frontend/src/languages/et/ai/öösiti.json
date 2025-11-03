@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tööl käisin öösiti.",
-    "Öösiti tuli külaline.",
-    "Öösiti saabus meile uus postipakk."
+    "öösiti on juba öökülma.",
+    "on öösiti kodust ära.",
+    "päeval käib tööl, öösiti õpib."
   ],
   "translation": [
     "during the night",
-    "in the middle of the night",
-    "overnight"
+    "at night time",
+    "in the middle of the night"
   ],
-  "context": "The word 'öösiti' is an Estonian adverb that indicates something happening during nighttime hours. It's formed from the root word 'öö' (night) with the suffix '-s-', which typically denotes time or manner, and ending in '-i', which makes it an adverb. The word conveys action occurring late at night or overnight rather than specifically midnight."
+  "context": "The word 'öösiti' is an Estonian adverb meaning 'during the night' or 'at night time'. It's used to describe actions that occur during nighttime hours. The word comes from 'öö' (night) with the suffix '-siti', which indicates a period of time when something happens. This adverb is commonly used in everyday language to specify when activities take place after dark, as opposed to daytime."
 }

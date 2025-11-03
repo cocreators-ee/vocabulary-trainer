@@ -1,16 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kyllä, tulen huomenna.",
-    "Hän osaa suomea hyvin, kyllä hän osaa.",
-    "Onko tämä oikein? Kyllä, se on oikein."
+    "Minä kyllä menen kauppaan.",
+    "Kyllä, olen samaa mieltä.",
+    "Onko sinulla rahaa? Kyllä."
   ],
   "translation": [
     "yes",
-    "yeah",
-    "sure",
     "indeed",
-    "correctly"
+    "sure"
   ],
-  "context": "The Finnish word 'kyllä' is a common affirmative response equivalent to English 'yes'. It's used to confirm statements or answer questions in the affirmative. The word can also appear with emphasis as 'Kyllä!' when strongly agreeing or confirming something. In some contexts, it can function as an adverb meaning 'correctly' or 'properly', as in 'hän osaa kyllä suomea' (he certainly knows Finnish)."
+  "context": "The Finnish word 'kyllä' is a versatile term that functions as both an adverb and an interjection. As an adverb, it serves as an intensifier, similar to the English auxiliary 'do' in many cases ('I did go there'). It can also mean 'enough' or 'sufficiently', though this usage is archaic. More commonly, 'kyllä' is used as an interjection meaning 'yes'. While traditionally responses were given by repeating the verb (echo response), using 'kyllä' as a direct affirmation has become increasingly common, especially since the 20th century."
 }

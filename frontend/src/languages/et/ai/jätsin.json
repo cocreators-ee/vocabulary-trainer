@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Ma jätsin oma taskusse.",
-    "Ta jätsi meid ootama.",
-    "Meie jätsime selle tegemata."
+    "jätsin külla minemata.",
+    "Ma jätsin tööd tegemata.",
+    "Ta jätsi kõik oma asjad lahti."
   ],
   "translation": [
-    "left behind",
-    "forgot",
-    "abandoned"
+    "left",
+    "put aside",
+    "abandoned",
+    "neglected"
   ],
-  "context": "The word 'jätsin' is the first-person singular past tense form of the Estonian verb 'jätta', which means to leave something behind, to forget, or to abandon. It's commonly used when talking about leaving items somewhere, forgetting something, or intentionally abandoning a task or situation."
+  "context": "The word 'jätsin' is the first-person singular past tense form of the Estonian verb 'jätma', which means to leave, put aside, abandon, or neglect. It indicates that someone did something in the past and then left it as a result. In the example sentence 'jätsin külla minemata,' it specifically means I didn't go visit (someone) - literally 'left going unvisited'. The verb can be used with various objects to indicate leaving things undone, abandoned, or put aside."
 }

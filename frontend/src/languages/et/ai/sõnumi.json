@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Saada sõnumi oma sõbrale.",
-    "Võta üles see sõnum.",
-    "Ma ei saanud sinu sõnumit."
+    "Sa saad sõnumi homme hommikul.",
+    "Tema sai tähtsa sõnumi.",
+    "Sõnumid on juba saatnud."
   ],
   "translation": [
     "message",
-    "note",
-    "text"
+    "information"
   ],
-  "context": "The Estonian word 'sõnumi' is the genitive singular form of 'sõnum', which means message or note. It's commonly used to refer to a text message, note, or communication that someone has sent or received."
+  "context": "The Estonian word 'sõnumi' is the partitive case form of the noun 'sõnum', which means 'message' or 'information'. In this particular context, it appears to be related to digital authentication as shown in one dictionary definition mentioning 'digi|allkiri' (digital signature). The word can refer to any type of message or information being communicated."
 }

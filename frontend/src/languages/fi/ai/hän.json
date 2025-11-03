@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Hän tulee huomenna.",
-    "Hän on opettaja.",
-    "Minä ja hän kävelivät yhdessä."
+    "Hän sai mut uskomaan.",
+    "Hän sai mut toivomaan.",
+    "Hän on ystäväni."
   ],
   "translation": [
-    "he/she",
-    "him/her"
+    "he",
+    "she",
+    "they",
+    "one"
   ],
-  "context": "The Finnish pronoun 'hän' is the third person singular pronoun that can mean either 'he' or 'she' depending on the gender of the person being referred to. It's used as both a subject and object pronoun, replacing names when talking about someone else in the third person."
+  "context": "The Finnish word 'hän' is a third-person personal pronoun, meaning he, she, or they. It’s gender-neutral and refers specifically to people. However, in modern colloquial Finnish, 'se' is more commonly used for the third person, with 'hän' being reserved for specific contexts like indirect speech or when emphasizing who another speaker is talking about. The word declines based on case; for example, 'hänet' is the accusative form. It’s important to note that unlike first and second-person pronouns, 'hän' isn’t usually omitted even though the verb indicates person and number."
 }

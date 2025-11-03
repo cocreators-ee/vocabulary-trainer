@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Vajasin abi.",
-    "Ma vajasin rohkem aega.",
-    "Ta ei vajanud nõuandeid."
+    "Vajasin põhjalikke andmeid tema tegevuse kohta.",
+    "Pikk ja põhjalik arutlus.",
+    "Tunnistaja andis põhjalikke seletusi."
   ],
   "translation": [
-    "needed",
-    "required",
-    "wanted"
+    "detailed",
+    "thorough",
+    "comprehensive",
+    "in-depth"
   ],
-  "context": "The word 'vajasin' is the first person singular past tense form of the Estonian verb 'vajama', which means 'to need' or 'to require'. In English, it translates to 'I needed' or 'I required'. This form is used when referring to a past action where the speaker had a requirement or necessity for something. The word can express both physical needs and abstract requirements."
+  "context": "The word 'põhjalik' is an Estonian adjective that means detailed, thorough, comprehensive, or in-depth. It describes something that goes deeply into the essence of something, is precise down to fine details, complete and all-encompassing. This adjective can be used to modify nouns in different cases - in the examples provided, it appears in the partitive plural form 'põhjalikke' when modifying plural objects like 'andmed' (data), 'arutlus' (discussion), and 'seletused' (explanations)."
 }

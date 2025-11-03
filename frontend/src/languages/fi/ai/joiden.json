@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on talo, joiden ovet ovat siniset.",
-    "Autot, joiden moottorit ovat viallisia, on korjattava.",
-    "Miehet, joiden hatut ovat punaiset, tulevat tänne."
+    "Ihmiset, joiden autot varastettiin.",
+    "Talo, joiden ikkunat ovat rikki, näyttää hylätyltä.",
+    "Kirjat, joiden sivut ovat repeytyneet, eivät ole enää arvokkaita."
   ],
   "translation": [
     "whose",
-    "of which"
+    "of which",
+    "whom"
   ],
-  "context": "The word 'joiden' is a Finnish possessive pronoun in the plural form. It functions as the relative pronoun whose in English and connects a main clause to a subordinate clause that describes ownership or association. 'Joiden' is part of the declension pattern for the relative pronoun 'jonka' (whose/singular) where '-den' indicates possession by multiple entities. It's commonly used in written Finnish but less common in spoken language compared to simpler constructions."
+  "context": "The word 'joiden' is the genitive plural form of the relative pronoun 'joka', meaning 'who', 'which', or 'that'. It indicates possession or association in relation to a plural noun. In English, it often translates to 'whose' or 'of which'. The examples show its use with nouns like 'autot' (cars) and 'ikkunat' (windows), indicating that something belongs to or is associated with those items."
 }

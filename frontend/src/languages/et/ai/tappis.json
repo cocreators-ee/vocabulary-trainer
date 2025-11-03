@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tappis ta kodaniku.",
-    "Politsei tappis kurjategija.",
-    "Mees tappis teise mehe."
+    "Mees tappis teise mehe.",
+    "Tappis ta oma põgenemisel üksikul talumajal.",
+    "Politsei uurib, kes tappis mõrva."
   ],
   "translation": [
     "killed",
-    "murdered",
-    "slayed"
+    "murdered"
   ],
-  "context": "The word 'tappis' is the past tense singular form of the Estonian verb 'tapma', which means to kill. It indicates that someone (a male) committed an act of killing in the past. The subject would be in the nominative case, and this form specifically follows a 3rd person masculine subject."
+  "context": "The word 'tappis' is the past tense form of the Estonian verb 'tapma', which means to kill or murder. In this case, it appears in a narrative context describing someone taking another person's life. The dictionary definition suggests this is specifically used for killing people rather than animals (which would be 'tappa')."
 }

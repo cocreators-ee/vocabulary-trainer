@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Meillä on yhteinen harrastus.",
-    "Yhteiset arvot tärkeät perheessä.",
-    "Heidän yhteinen projektinsa oli menestys."
+    "Meillä on yhteinen asunto.",
+    "Meillä on paljon yhteisiä muistoja lapsuudesta.",
+    "Talon asukkailla on yhteinen pesutupa kellarissa."
   ],
   "translation": [
-    "common",
     "shared",
-    "joint"
+    "joint",
+    "common",
+    "mutual"
   ],
-  "context": "The Finnish adjective 'yhteinen' means common, shared or joint. It indicates something that belongs to multiple people or is used together by a group. The word can be inflected in different cases: yhteinen (nominative), yhteistä (partitive), yhdessä (inessive), yhteisestä (elative), etc. It's often used to describe shared interests, common properties, joint projects, or collective ownership."
+  "context": "The Finnish word 'yhteinen' means shared, joint, or common. It is an adjective that describes something belonging to or done by multiple people. The ending '-nen' indicates the form of the adjective and can change depending on the grammatical context (nominative singular, genitive plural etc.). For example, 'yhteisiä' is the partitive plural form meaning 'shared'.  The word is related to the verb 'yhdistää' which means 'to combine or unite'."
 }

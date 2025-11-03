@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Elämä on ihanaa.",
-    "Minulla on uusi elämä.",
-    "Hän nauttii elämästään."
+    "Elämä on lyhyt.",
+    "Hän nauttii elämästään täysin rinnoin.",
+    "Toivon sinulle pitkää ja onnellista elämää."
   ],
   "translation": [
-    "life"
+    "life",
+    "existence",
+    "living"
   ],
-  "context": "The Finnish word 'elämä' means 'life' in English. It is a common noun that refers to the state of being alive, human existence, or the period between birth and death. In Finnish, it's an inflected language with cases like elämässä (in life), elämän (of life), and elämään (to life)."
+  "context": "The word 'elämä' in Finnish means 'life'. It refers to the state of being alive, a period during which someone is or was alive, or simply existence. The word declines based on case, as shown in the dictionary definition, and can also be used in possessive forms to indicate whose life is being referred to (e.g., elämäni - my life)."
 }

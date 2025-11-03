@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Se on nopea auto.",
-    "Hän juoksee nopeasti.",
-    "Tämä liike on ollut erittäin nopea."
+    "Hän on todella nopea juoksija.",
+    "Auto oli erittäin nopea.",
+    "Nopea vastaus on tärkeä."
   ],
   "translation": [
     "fast",
     "quick",
-    "rapid"
+    "rapid",
+    "swift"
   ],
-  "context": "The Finnish word 'nopea' is an adjective meaning 'fast', 'quick', or 'rapid'. It describes something that has great speed. In the comparative form, it becomes 'nopeampi' (faster), and in the superlative form, 'nopein' (fastest). When used as an adverb to describe how quickly something happens, Finnish uses the adverbial form 'nopeasti'. For example, 'nopea auto' means a fast car, while 'juosta nopeasti' means to run quickly."
+  "context": "The Finnish word 'nopea' is an adjective that means fast, quick, or rapid. It declines based on the grammatical case and number (singular/plural). The form 'nopeat' is the plural nominative form meaning 'fast ones'.  The suffix '-a' often indicates partitive case, used for incomplete objects or ongoing actions. For example, 'nopeaa' means 'quickly'."
 }

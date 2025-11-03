@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "See on tüübi korralikult koostatud dokument.",
-    "Tema käitumine ei olnud eriti tüübi järgi.",
-    "Me peame leidma paremaid tüübi näiteid."
+    "Mustmullad jaotatakse alltüüpideks.",
+    "Tüübi määramine on oluline analüüsiks.",
+    "Selles tüübis esineb eripärasid."
   ],
   "translation": [
-    "type",
-    "kind",
-    "sort",
+    "subclass",
+    "subtype",
     "category"
   ],
-  "context": "The word 'tüübi' is the genitive singular form of the Estonian noun 'tüüp', which means 'type' or 'kind'. In this form, it typically follows a preposition like 'of' and indicates possession or association. For example, in the first sentence 'See on tüübi korralikult koostatud dokument', it means 'This is a document of/type proper composition'. The genitive case is commonly used in Estonian to express relationships between nouns."
+  "context": "The word 'tüübi' is the genitive singular form of 'tüüp', meaning 'type' or 'kind'. In Estonian, this form typically follows prepositions or expresses possession/relationship. It appears to be used in scientific or technical contexts to indicate categorization or classification within a broader category."
 }

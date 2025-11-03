@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Historia on mielenkiintoinen aine.",
-    "Minä opiskelen historiaa yliopistossa.",
-    "Tämä kirja kertoo Rooman historiasta."
+    "Tämä on mielenkiintoinen historia.",
+    "Opiskelen Suomen historiaa.",
+    "Kirjoitan esseen historian merkityksestä."
   ],
   "translation": [
     "history",
     "story",
-    "account of past events"
+    "past"
   ],
-  "context": "The Finnish word 'historia' is used to refer to the academic study of past events and also to mean story or narrative. It can be used in different forms: as a singular noun (historia), in partitive case (historiaa - meaning history as an object of study), and in elative case (historiasta - meaning from/about history)."
+  "context": "The word 'historia' in Finnish means 'history', 'story', or 'past'. It is a noun and does not change form based on case, as it ends in '-a' which is the nominative singular ending for many Finnish nouns. The plural form is 'historiat'."
 }

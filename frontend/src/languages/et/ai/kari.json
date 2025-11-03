@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Kas sa nägid kari üles?",
-    "Meie naabruses on väike kari.",
-    "Laps mängis kari küljes."
+    "Katsejaama kari.",
+    "Kari sööb niidul.",
+    "Hundid liiguvad sageli karjana."
   ],
   "translation": [
-    "cage",
-    "crate",
-    "basket",
-    "hamper"
+    "herd of cattle",
+    "flock of animals",
+    "group",
+    "reef"
   ],
-  "context": "The Estonian word 'kari' refers to a container or enclosure, typically made of wire, wood, or other materials. It can mean a cage for animals, a crate for storage or transport, a basket for carrying items, or a hamper for laundry. The word is used in various contexts depending on what type of container it refers to."
+  "context": "In Estonian, 'kari' has two main meanings: 1) A herd or flock of domesticated farm animals (especially cattle), as in 'karja pidama' (to tend a herd); and 2) A reef in water. As a noun, it declines with genitive 'karja' and partitive 'karja'. Examples include experimental station herds, grazing animals, and wild animal groups like wolves moving together."
 }

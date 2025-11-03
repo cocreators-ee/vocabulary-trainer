@@ -2,12 +2,13 @@
   "understood": true,
   "sentences": [
     "Ma olen õpetaja.",
-    "Ta oli hea sõber.",
-    "Nad on alati koos."
+    "Tal on hallid juuksed.",
+    "Metsas palju puusid."
   ],
   "translation": [
     "to be",
-    "is/are/am/was/were"
+    "to exist",
+    "to have"
   ],
-  "context": "The Estonian verb 'olema' is the equivalent of the English verb 'to be'. It's an irregular verb that changes its form depending on the subject and tense. In present tense, it conjugates as 'olen' (I am), 'oled' (you are), 'on' (he/she/it is), ' oleme' (we are), 'olete' (you plural/formal are), and 'on' (they are). In past tense, common forms include 'oli' (was/were) and 'olid' (were). This verb is fundamental in Estonian grammar as it's used for stating existence, identity, and characteristics."
+  "context": "The Estonian verb 'olema' is the most fundamental verb in Estonian, serving multiple functions including: 1) As a copula linking subject and complement (equivalent to English 'to be'), 2) To indicate existence or presence (similar to English 'there is/are'), 3) To express possession when used with certain cases (adessive for having something, inessive for features/capabilities), 4) As an auxiliary verb forming compound tenses. It's highly irregular and appears in numerous grammatical constructions."
 }

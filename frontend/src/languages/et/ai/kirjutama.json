@@ -1,12 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Ma olen kirjutama artiklit.",
-    "Ta ei ole veel alustanud kirjutama esseed.",
-    "Lapsed peavad kirjutama koolitööd."
+    "Ma olen kirjutamas essee.",
+    "Ta kirjutas eelmisel nädalal kiri.",
+    "Kas sa osad kirjutada?",
+    "Kirjutame koos laulu."
   ],
   "translation": [
-    "to write"
+    "to write",
+    "to send a letter",
+    "to compose (text, music)",
+    "to register"
   ],
-  "context": "The Estonian verb 'kirjutama' means 'to write'. It is an infinitive form of the verb and can be conjugated in various tenses. For example: kirjutan (I write), kirjutasin (I wrote), kirjutanud (have written). This is a common action verb used for writing texts, articles, letters, essays, and other written materials."
+  "context": "The Estonian verb 'kirjutama' is an infinitive form that means 'to write'. It has multiple uses including writing text or letters, composing music or literature, and registering information. The word follows regular Estonian conjugation patterns with the stem 'kirjuta-' and various personal endings depending on tense and mood."
 }

@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Paki mind sisse.",
-    "Tema paks on väga suur.",
-    "Kas sa saad mulle pakkida?"
+    "Paki sidumiseks vaja head nööri.",
+    "Võta see paki ära!",
+    "Tema oli pakkimisel kasutanud väga häid pakke."
   ],
   "translation": [
-    "put in",
-    "place inside",
-    "pack up",
-    "wrap"
+    "of a packet",
+    "package's",
+    "packaging"
   ],
-  "context": "The Estonian word 'paki' is the imperative form of the verb 'pakkima', meaning 'to put in' or 'to place inside'. It's used as a command to tell someone to put something into something else. The word can also be related to packaging concepts, as it comes from the same root as 'pakend' (package). In different contexts, it might refer to packing items, wrapping objects, or placing things within containers."
+  "context": "The word 'paki' is the genitive singular form of the Estonian noun 'pakk'. In English, it would translate to something like 'of a packet', 'package's', or 'packaging'. It indicates possession or association with packets/packages. For example, 'paki sidumiseks' means 'for tying/fastening the package'."
 }

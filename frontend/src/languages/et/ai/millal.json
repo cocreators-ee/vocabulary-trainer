@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Millal sa tuled?",
-    "Millal on meie kohtumine?",
-    "Ta küsis, millal peaksin tulema."
+    "Millal rong saabub?",
+    "Millal tehti Tartu rahu?",
+    "Küsi järele, millal avaldus anda."
   ],
   "translation": [
-    "when",
-    "at what time",
-    "how long"
+    "when"
   ],
-  "context": "The Estonian word 'millal' is an interrogative adverb used to ask about time or when something will happen. It corresponds directly to the English question words 'when' and 'at what time'. This word is commonly used in questions about scheduling, timing, or duration of events."
+  "context": "The Estonian word 'millal' is an adverb that functions as a question word asking about time. It corresponds to English 'when' and is used in various contexts: 1) In direct questions about specific times (e.g., when will the train arrive?), 2) To introduce temporal clauses showing when something happens, and 3) To refer to unspecified or indefinite times. The word has synonyms like 'kunas' but 'millal' is more commonly used as the standard interrogative adverb for asking about time."
 }

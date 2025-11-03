@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "See arv on suur.",
-    "Kas teil on telefoninumber?",
-    "Arvud olid täpsed."
+    "Arvud ühest kuni sajani.",
+    "Tallinna elanike arv on suur.",
+    "Leiame ruutjuure arvust 16."
   ],
   "translation": [
     "number",
+    "count",
     "figure",
-    "count"
+    "quantity"
   ],
-  "context": "The Estonian word 'arv' means number or figure. It can refer to a numerical value, a count of something, or a digit. In different contexts, it might be used for telephone numbers, mathematical figures, or quantities of items."
+  "context": "The Estonian word 'arv' has two main meanings: 1) a mathematical concept referring to an abstract entity used for counting, such as positive and negative numbers, integers, decimals, etc. 2) the grammatical category of number that indicates whether nouns refer to singular or plural objects. It can also be used more generally to mean 'quantity' or 'amount' when talking about counts of people, things, or events."
 }

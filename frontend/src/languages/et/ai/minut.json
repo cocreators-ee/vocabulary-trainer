@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma ootan minut.",
-    "Aitäh! See oli hea minut.",
-    "Kas sa tead, mis on minu nime?"
+    "Tunnis on 60 minutit.",
+    "Kell on kaheksa ja kolm minutit.",
+    "Hilinesin mõne minuti."
   ],
   "translation": [
-    "minute",
+    "minute (time unit)",
     "moment",
-    "my"
+    "short period of time"
   ],
-  "context": "The Estonian word 'minut' has multiple meanings depending on context. It can mean 'minute' as in a unit of time (60 seconds), or it can be the partitive case form of 'mina' meaning 'me/my'. In the first example, 'Ma ootan minut' uses it to mean 'I wait for a minute/moment'. The second example shows appreciation for a good moment/time. The third example demonstrates possessive usage as in 'my name' when combined with other words."
+  "context": "In Estonian, 'minut' is a noun that means a minute as a unit of time. It's equivalent to 1/60th of an hour or 60 seconds. The word can also refer to short periods of time or moments. In the dictionary, it's noted that in expressions like 'iga minut' (every minute) or 'viimane minut' (the last minute), it conveys urgency or critical timing. Estonian follows a declension pattern where 'minut' changes form depending on grammatical case - for example, genitive is 'minuti', partitive is 'minutit', etc."
 }

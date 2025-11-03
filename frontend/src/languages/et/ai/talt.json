@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Talt olen tänan teid.",
-    "Kas sa tuled meilt?",
-    "Ta põgenes alt meie kontrolli all."
+    "Talt võin küsida abi?",
+    "Ta rääkis talt hästi.",
+    "Kuidas sa telt said?"
   ],
   "translation": [
-    "from you",
     "from him/her",
-    "from it"
+    "off of him/her",
+    "out of him/her"
   ],
-  "context": "The word 'talt' is an Estonian adessive case form of the third person singular pronoun, used to indicate source or origin. It means 'from him', 'from her', or 'from it'. The adessive case in Estonian typically indicates location near something, but when combined with prepositions like 'saada' (to get/receive), it can indicate source."
+  "context": "The Estonian pronoun 'talt' is the ablative singular form of 'ta', meaning 'he/she'. It indicates movement away or separation from a person and translates to English phrases like 'from him/her', 'off of him/her', or 'out of him/her'. When used unstressed in sentences, it refers to third-person singular pronouns. The stressed form would be 'temalt' (ablative of 'tema')."
 }

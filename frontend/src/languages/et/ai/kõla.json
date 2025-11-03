@@ -1,16 +1,18 @@
 {
   "understood": true,
   "sentences": [
-    "Kõla on meeldiv.",
-    "See kõla hästi.",
-    "Mida see sõna tähendab?",
-    "Mul on hea kõla."
+    "Häälel on meeldiv kõla.",
+    "Poisi hääl kaotas kõla ja muutus kähisevaks sosinaks.",
+    "Luuletuse elujaatav kõla."
   ],
   "translation": [
     "sound",
     "tone",
     "echo",
-    "resonance"
+    "resonance",
+    "hearing",
+    "report",
+    "rumor"
   ],
-  "context": "The Estonian word 'kõla' means sound or tone. It can refer to the quality of a sound, an echo, or resonance. In different contexts it might be used to describe how something sounds (good kõla), the physical phenomenon of sound waves, or the lingering effect of a sound."
+  "context": "The Estonian word 'kõla' has multiple related meanings. It can refer to the quality or color of a sound (like how a voice sounds), meaning tone, resonance, or timbre. It also means the actual sound itself or collection of sounds like footsteps. Additionally, it can mean a report, rumor, or what something conveys as an impression or effect."
 }

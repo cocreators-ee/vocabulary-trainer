@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kas teil on küsimusi?",
-    "Mul on üks küsimus.",
-    "Meil oli palju küsimusi."
+    "Küsimusi esitatakse regulaarselt istungitel.",
+    "Palun vastake küsimusi meie klienditele.",
+    "Tegelased rääkisid palju küsimusi omavahel."
   ],
   "translation": [
     "questions",
-    "inquiries"
+    "inquiries",
+    "queries"
   ],
-  "context": "The word 'küsimusi' is the partitive plural form of 'küsimus', which means 'question' in Estonian. The partitive case is used to indicate partiality or indefiniteness, and when combined with plural, it can mean 'some questions' or 'questions (in general)'. This form is commonly used when asking if someone has questions or when referring to questions in an indefinite manner."
+  "context": "The word 'küsimusi' is the partitive plural form of the Estonian noun 'küsimus', which means 'question'. In Estonian, the partitive case often indicates partialness or indefiniteness. When used in plural as 'küsimusi', it typically refers to multiple questions without specifying an exact number, similar to how we might say 'some questions' or simply refer to questions in general in English. This form is commonly used when talking about asking questions, answering questions, or discussing various topics where questions are involved."
 }

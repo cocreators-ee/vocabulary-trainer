@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta on id.",
-    "Me oleme id.",
-    "Nad on id."
+    "Tal on ID-kaart.",
+    "Palun näita oma ID-d.",
+    "ID-de loend on ees."
   ],
   "translation": [
-    "they",
-    "those people"
+    "identification card",
+    "ID",
+    "personal identification"
   ],
-  "context": "The Estonian word 'id' is a third person plural pronoun meaning 'they' or 'those people'. It is used to refer to multiple persons or entities, typically as the subject of a sentence. In its base form without any suffixes or cases, it represents the nominative case used for subjects."
+  "context": "The word 'id' is an abbreviation for 'identiteediandmed' (identity data) and commonly refers to an identification document, specifically an ID card in Estonian. It's used both as a standalone term and combined with other words like 'ID-kaart' (ID card). The word is often abbreviated from its full form and can appear in singular or plural forms."
 }

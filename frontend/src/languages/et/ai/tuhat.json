@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tuhat on suur arv.",
-    "Meil oli tuhat külastajat festivalil.",
-    "Ta sai tuhat punkti testist."
+    "Oskab arvutada kuni tuhandeni.",
+    "Vabrikus töötab üle tuhande inimese.",
+    "Koolist koju on tal kõigest mõni tuhat sammu."
   ],
   "translation": [
-    "thousand"
+    "thousand",
+    "1000",
+    "one thousand"
   ],
-  "context": "The word 'tuhat' is the Estonian numeral for the number 1000 (one thousand). It is used in counting and to quantify large quantities. In Estonian, numerals like 'tuhat' can be combined with other words to express larger numbers or amounts, such as 'kaks tuhat' (two thousand) or 'mitu tuhat' (several thousand)."
+  "context": "The Estonian word 'tuhat' is the cardinal numeral for one thousand (1000). It's used in counting, to indicate quantities of 1000 items, and as a numerical value. The word has various grammatical forms including tuhande (partitive), tuhandet (genitive), and tuhanded (plural adjective form). It can be used literally in mathematical contexts ('can count up to a thousand'), for counting people or objects ('over a thousand people work at the factory'), metaphorically ('only a few thousand steps from school home'), and as part of compound words like 'aastatuhat' (millennium)."
 }

@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Ma olen eestlane.",
-    "Mis su nimi on?",
-    "Kas sa tuled homme?"
+    "Ma olen Eestlane.",
+    "Ma ei tea seda.",
+    "Ma tahan magada."
   ],
   "translation": [
-    "I",
-    "me"
+    "I"
   ],
-  "context": "The Estonian word 'ma' is the first-person singular pronoun meaning 'I' or 'me'. It's used to refer to oneself when speaking. In Estonian, this pronoun doesn't change based on gender, and it's typically written with a lowercase letter unless it begins a sentence."
+  "context": "The Estonian word 'ma' is the short form of the first person singular personal pronoun 'mina', meaning 'I'. It's used in unstressed positions within a sentence. When emphasis or stress is needed, the longer form 'mina' is typically used instead."
 }

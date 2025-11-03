@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minä tuon maitoa kaupasta.",
-    "Hän tuo kirjoja kouluun.",
-    "He tuovat kukkia juhlaan."
+    "Voitko tuoda kalenterin minulle?",
+    "Mikä sinut tänne toi?",
+    "Voisitko tuoda kaupasta maitoa?"
   ],
   "translation": [
     "to bring",
-    "to carry",
     "to fetch",
-    "to deliver"
+    "to get"
   ],
-  "context": "The Finnish verb 'tuoda' means to bring or carry something from one place to another. It is typically used when bringing items towards the speaker's location or a specific destination mentioned in context. The verb follows regular conjugation patterns: tuon (I bring), tuot (you bring), tuo (he/she/it brings), tuomme (we bring), tuotte (you plural bring), tuovat (they bring)."
+  "context": "The Finnish verb 'tuoda' means 'to bring'. It is a transitive verb, meaning it requires an object. A key aspect of this word is the directionality – the action implies movement *towards* the speaker or a reference point. This contrasts with 'viedä', which means 'to take away' and indicates movement *away* from the speaker. The word can also mean to supply or contribute, lead, guide, yield, produce, import, etc."
 }

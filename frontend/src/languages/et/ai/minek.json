@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Minek algab kell 8 hommikul.",
-    "Kas minek on veel võimalik?",
-    "Olen valmis minekuks."
+    "Kuhu minek? Tädi poole, arsti juurde, järvele, jalutama, eksamile minek.",
+    "Rongi, bussi minekuni on veel aega.",
+    "Isa oli enne minekut mitu kuud voodihaige."
   ],
   "translation": [
     "departure",
-    "leaving",
-    "exit"
+    "journey",
+    "movement",
+    "death",
+    "transition"
   ],
-  "context": "The Estonian word 'minek' is a noun that refers to the act of leaving, departing, or exiting from a place. It can be used in various contexts such as transportation schedules (when someone leaves), travel arrangements, or simply stating when someone is about to leave a location. The word comes from the verb 'minema' which means 'to go'. In Estonian grammar, it's formed by adding the '-k' suffix to the infinitive form of the verb."
+  "context": "The Estonian word 'minek' has multiple meanings depending on context. It can refer to the act of going or moving (departure, journey), leaving a place (leaving, departure), death (demise), transition into another state or condition, demand/popularity (demand, marketability), or progress/advancement (progress, success). The word appears in various compound forms indicating direction or purpose like 'koju minek' (going home) or 'sõtta minek' (going to war)."
 }

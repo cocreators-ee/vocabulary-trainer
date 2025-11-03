@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Suletud uks on lukustatud.",
-    "Tegelikult on see müügile sulgitud.",
-    "Hinnad olid kõrged ja turd oli täis, seega suleti sellel nädalavahetusel kaks peamist mängu."
+    "Uks on suletud.",
+    "Aknad olid suletud hommikul.",
+    "Laeval oli suletud uks."
   ],
   "translation": [
     "closed",
-    "shut",
-    "sealed"
+    "shut"
   ],
-  "context": "The word 'suletud' is the past participle form of the Estonian verb 'sulguma', which means 'to close' or 'to shut'. It describes something that has been closed or is in a closed state. This form is used to indicate that an action of closing has already occurred, similar to how '-ed' forms work in English for past actions."
+  "context": "The word 'suletud' is the past passive participle and also an adjective meaning 'closed' or 'shut'. It can be used to describe something that has been closed, such as doors, windows, or other openings. The word is indeclinable before a noun but can take various case endings when used independently."
 }

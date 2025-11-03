@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on erillinen huone.",
-    "Erilliset ovet johtavat pihaan.",
-    "Minulla on oma erillinen asunto."
+    "Opiskelija asui erillinen huoneessa.",
+    "Heidän mielipiteensä olivat täysin erilliset.",
+    "Yritys kehitti erillisen osaston tutkimusta varten."
   ],
   "translation": [
     "separate",
+    "distinct",
     "individual",
-    "distinct"
+    "detached",
+    "disjoint"
   ],
-  "context": "The Finnish word 'erillinen' is an adjective that means separate, individual, or distinct. It describes something that is set apart from others, not connected or combined with other things. The word can be used to describe physical spaces, objects, concepts, or entities that are independent or isolated in some way."
+  "context": "The word 'erillinen' is an adjective meaning separate, distinct, or individual. It describes something that is not connected to other things and exists on its own. The word declines based on case and number; the provided dictionary definitions show all forms of the word. For example, 'erilliset' is the plural nominative form, meaning 'separate ones'. The suffix '-inen' often indicates an adjective."
 }

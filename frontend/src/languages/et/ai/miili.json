@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kulunud miilid näitavad kogenust.",
-    "Auto läbis viis miili tunnis.",
-    "Vana tee oli kaheksa miili pikk."
+    "miili jooksja",
+    "veerandmailer",
+    "miili pikkus"
   ],
   "translation": [
-    "mile",
-    "miles"
+    "mile runner",
+    "quarter-miler",
+    "mile race"
   ],
-  "context": "In Estonian, 'miili' is the genitive singular form of 'miil', which means 'mile' (a unit of distance). It's used to indicate possession or quantity - so 'kulunud miilid' would mean 'worn miles' and 'viis miili' means 'five miles'. The word comes from English 'mile' and is commonly used when measuring distances, especially in contexts like car odometers, road signs, or when discussing travel distances."
+  "context": "In Estonian, 'miili' is related to English 'mail' but in the context of sports terminology, it specifically refers to a mile (the distance). It's commonly used in athletics for runners who specialize in middle-distance races, particularly the one-mile race. The word appears in compound forms like 'veerandmailer' (quarter-miler) which refers to someone who runs quarter-mile distances."
 }

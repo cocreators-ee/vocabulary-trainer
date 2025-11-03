@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tule meile reegleid!",
-    "Lapsed peavad õppima reegleid.",
-    "Mängureeglid on selged kõigile."
+    "Mängureeglid on selged ja lihtsad.",
+    "Koolis kehtivad ranged reegleid.",
+    "Põhiseaduse reegleid tuleb järgida."
   ],
   "translation": [
-    "rules"
+    "rules",
+    "regulations",
+    "norms"
   ],
-  "context": "The word 'reegleid' is the plural form of the Estonian noun 'reegel', which means 'rule'. It refers to regulations, guidelines, or principles that govern behavior or procedures in various contexts. The '-id' ending indicates plurality, so it specifically means 'rules' rather than a single rule."
+  "context": "The word 'reegleid' is the plural form of 'reegel' in Estonian, meaning 'rules', 'regulations', or 'norms'. It refers to established guidelines or principles that govern behavior, procedures, or systems. This word can be used in various contexts such as game rules (mängureeglid), school regulations (koolireegleid), or legal norms (õigusreegleid)."
 }

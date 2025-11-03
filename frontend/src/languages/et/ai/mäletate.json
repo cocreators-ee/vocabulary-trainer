@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kas te mäletate seda päeva?",
-    "Mäletasime meie lapse sünnipäeva.",
-    "Ma ei mäleta tema nime."
+    "Aga mäletate – siin oli kask nagu mürakas, kallakuti järve poole.",
+    "Mäletate meie eelmise kohtumise?",
+    "Kas te mälete seda päeva?"
   ],
   "translation": [
-    "remember",
-    "recall",
-    "memorize"
+    "you remember",
+    "do you recall",
+    "you know"
   ],
-  "context": "The word 'mäletate' is the plural form of the verb 'mäletama' (to remember/recall) in Estonian. It specifically means 'you (plural/formal) remember'. The verb can be conjugated for different persons and tenses, as shown in the examples where we see present tense plural ('mäletate'), past tense plural ('mäletasime'), and negative form ('ei mäleta')."
+  "context": "The word 'mäletate' is the second person plural form of the verb 'mäletama' (to remember) in Estonian. It is used when addressing multiple people and asking if they remember something. The dictionary example shows it being used as a question starter: 'Aga mäletate – siin oli kask nagu mürakas, kallakuti järve poole.' which translates to 'But you remember - here there was an ash tree like a rowan tree, leaning toward the lake.' The word can also appear in other forms depending on context, such as 'mälete' (singular informal) or 'mäletad' (singular formal)."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mingin baaris homme.",
-    "Me läheme baaris kohtuma sõpradega.",
-    "Baar oli täis inimesi."
+    "Mingi rõhuga baari.",
+    "See on üks baar.",
+    "Baari võib olla nii positiivne kui negatiivne."
   ],
   "translation": [
-    "bar",
-    "pub",
-    "tavern"
+    "millibar",
+    "bar (unit of pressure)",
+    "thousandth"
   ],
-  "context": "The word 'baari' is the genitive case of the Estonian word 'baar', which means a place where alcoholic beverages are served. The '-i' ending indicates possession or relationship, so 'baari' typically translates to 'of the bar,' 'in the bar,' or 'to the bar' depending on context. It's commonly used when indicating going to, being in, or talking about a specific bar."
+  "context": "The word 'baari' is the partitive singular, genitive singular, and illative singular form of the Estonian noun 'baar'. In Estonian grammar, these different cases are used to indicate grammatical relationships in sentences. As a measurement term, 'baari' refers to a millibar (mbar), which is a unit of pressure equal to one thousandth of a bar. It can also be found in meteorological contexts where atmospheric pressure is measured."
 }

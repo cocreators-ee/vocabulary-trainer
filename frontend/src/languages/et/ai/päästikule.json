@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Päästikule vajutasin kiiresti.",
-    "Ta oli valmis päästikule astuma.",
-    "Kõigepealt tuleb õppida kasutama päästikut ja siis päästikule."
+    "Peeter Olander laskis oma püssi nende peale lahti.",
+    "Aga küllap sa köstri käest hänna peale saad, kui siin lahti lased.",
+    "Laseb kisa, nutu, tönni lahti."
   ],
   "translation": [
-    "trigger",
-    "button",
-    "switch"
+    "to shoot",
+    "to release",
+    "to let go",
+    "to fire"
   ],
-  "context": "The word 'päästikule' is in the allative case, meaning it shows direction toward something. It's derived from 'päästik' (trigger/button) + '-le' (allative case ending). This form indicates movement or action directed toward a trigger or button. In Estonian grammar, this would be used when you're talking about moving toward or acting upon a trigger/button."
+  "context": "The word 'päästikule' is an Estonian adessive case form of the noun 'päästik', which means trigger. It indicates location or instrument, meaning 'on the trigger' or 'onto the trigger'. In context, it refers to pressing a trigger, typically on a firearm or similar device. The dictionary definitions show related forms like 'lahti laskma' meaning to shoot/release/fire, and examples using 'lahti lasta' in contexts involving weapons."
 }

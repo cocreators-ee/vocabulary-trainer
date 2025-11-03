@@ -1,16 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Sõit oli pikem kui eeldasin.",
-    "Meil on hea sõiduauto.",
-    "Ta läheb sõidule homme hommikul."
+    "Sõit läheb lahti, algab, jätkub.",
+    "Meil on pikk sõit ees.",
+    "Jalgratturite nelja päeva sõit."
   ],
   "translation": [
-    "journey",
-    "trip",
-    "ride",
-    "drive",
-    "transportation"
+    "ride; drive",
+    "journey, trip",
+    "race (with vehicles)"
   ],
-  "context": "The Estonian word 'sõit' primarily refers to a journey, trip, or ride. It can describe the act of traveling from one place to another, whether by car, bus, train, or other means of transportation. The noun form 'sõit' is neutral in gender and can be used in various contexts to describe both short distances like a quick drive to the store and longer journeys like road trips. When modified with adjectives or possessed forms, it can express different aspects of the journey such as duration, comfort, or purpose."
+  "context": "The Estonian word 'sõit' has multiple meanings depending on context. It can refer to the act of riding/driving a vehicle (as in 'auto lähenes pöörase sõiduga' - the car approached with a fast drive), a journey or trip ('meil on pikk sõit ees' - we have a long journey ahead), or a race in sports contexts ('jalgratturite nelja päeva sõit' - cyclists' four-day ride/race). The word is derived from the verb 'sõitma' (to travel/go) and its form changes depending on grammatical case, with genitive being 'sõidu', partitive 'sõitu', etc."
 }

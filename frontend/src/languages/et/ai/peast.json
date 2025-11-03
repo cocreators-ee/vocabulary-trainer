@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tegin selle peast meelde.",
-    "Ta ütles seda pealt ära.",
-    "Ma kuulsin seda suust."
+    "Viin on sul viimasegi aru peast võtnud.",
+    "Ma ei saanud unisest peast alguses aru, mis toimub.",
+    "Koolis pidime luuletusi peast lugema."
   ],
   "translation": [
-    "from memory",
-    "by heart",
     "from the head",
-    "orally"
+    "by heart",
+    "from memory"
   ],
-  "context": "The Estonian word 'peast' is an adverb that means 'from memory', 'by heart', or 'from the head'. It's used to indicate that something is being recalled without using written materials, or to specify that information comes from verbal communication rather than written sources. The word derives from the partitive case of ' pea' (head), indicating origin or source."
+  "context": "The word 'peast' in Estonian is used as both an elative case form of 'pea' (head) and as a postposition/adverb with multiple meanings. It can mean 'from the head,' 'by heart' when referring to memorized knowledge, or 'from memory.' The examples show it being used in different contexts - one showing confusion from being sleepy, another showing recitation of poems that must be memorized."
 }

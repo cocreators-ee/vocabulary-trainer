@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Tal on hea meel.",
-    "Tema talub hästi rõhku.",
-    "Oleme talunud mitmeid ebaõnnestumisi."
+    "Ta sammus minu ees.",
+    "Maja ees on aed.",
+    "Tal on suuri teeneid ühiskonna ees."
   ],
   "translation": [
-    "he/she/it has",
-    "endures/bears/suffers",
-    "has experienced"
+    "in front of",
+    "before (spatially)",
+    "in the presence of",
+    "towards",
+    "ahead of",
+    "facing"
   ],
-  "context": "The Estonian word 'tal' can function as a third person singular verb form meaning 'has' or 'possesses', but it also appears in compound verbs where it means 'to endure,' 'to bear,' or 'to suffer.' In its main usage as 'has,' it follows the subject and precedes the object. When used in compound forms like 'taluma' (to endure), it functions as a verbal component indicating endurance or tolerance of something difficult or unpleasant."
+  "context": "The Estonian word 'tal' is primarily used as a postposition (adessive case) to indicate location in front of something or someone, spatial or temporal position before something, or presence in front of. It can show physical positioning, chronological order, social hierarchy, or relationship to people and objects. When stressed, the more emphatic form 'temal' is used instead."
 }

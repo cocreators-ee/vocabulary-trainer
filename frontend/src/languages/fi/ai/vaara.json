@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on vaarallinen tilanne.",
-    "Lähdetkö minuun mukaan? Ei, se olisi liian suuri vaara.",
-    "Hän tunsi itsensä jatkuvassa vaarassa."
+    "Metsässä on vaara, ole varovainen.",
+    "Asetimme henkemme vaaraan pelastaaksemme hänet.",
+    "Vaarat ovat olemassa kaikissa urheilulajeissa."
   ],
   "translation": [
     "danger",
     "risk",
     "peril",
-    "hazard"
+    "hazard",
+    "jeopardy"
   ],
-  "context": "In Finnish, 'vaara' is a noun meaning danger or risk. It can refer to physical danger, potential harm, or risky situations. The word often appears in contexts where there's a threat of something bad happening. In the examples provided, it shows how 'vaara' can be used to describe dangerous situations, taking risks, and feeling endangered."
+  "context": "The word 'vaara' in Finnish means danger or risk. It can refer to a physical hazard, like a dangerous situation in the forest, or an abstract risk, such as putting one’s life at risk. The word declines based on case; for example, 'vaarassa' means 'in danger', and 'vaaran' is the genitive form meaning 'of danger'. It also has possessive forms to indicate who or what something is in danger of."
 }

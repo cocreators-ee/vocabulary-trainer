@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Ta vastas küsimusele.",
-    "Meie vastused olid erinevad.",
-    "Vastu võtmine oli vajalik."
+    "Vast ta võtab sind ka kaasa?",
+    "Kuraasi on tal vast enamgi kui sul.",
+    "Mul on pisut varusid, vast saame hakkama."
   ],
   "translation": [
-    "answer",
-    "response",
-    "reply"
+    "maybe",
+    "possibly",
+    "perhaps",
+    "recently",
+    "just now"
   ],
-  "context": "The Estonian word 'vast' can appear in different forms. As 'vastas', it means 'against' or 'opposite'. In the genitive case 'vasta', it means 'of an answer/response'. When used as part of compound words like 'vastuvõtma' (to receive), it indicates opposition or reception. The word relates to concepts of answering, responding, and opposing."
+  "context": "The Estonian word 'vast' is a versatile adverb with multiple meanings. It can indicate possibility or likelihood (similar to English 'maybe', 'possibly', 'perhaps'), often used when expressing uncertainty about an outcome. Additionally, it can mean 'recently', 'just now', or 'already', referring to something that happened very recently or occurred earlier than expected. The word appears in both contexts of probability and temporal reference."
 }

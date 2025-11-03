@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Raamatus on palju huvitavat lugemist.",
-    "Laps luges raamatus olevat juttu.",
-    "Meie kodus on vana raamatus."
+    "Raamatus on palju ilusaid initsiaale.",
+    "Initsiaalid paiknevad peatüki alguses.",
+    "Vana käsikiri on kaunistatud dekoratiivsete initsiaalidega."
   ],
   "translation": [
-    "in the book",
-    "from the book"
+    "initial",
+    "initiator",
+    "monogram"
   ],
-  "context": "The Estonian word 'raamatus' is an inessive case form of the noun 'raamat', meaning 'book'. The '-s' ending indicates location within something, so it translates to English as 'in the book' or 'from the book' depending on context. This case is used when indicating that something is located inside a book or when referring to contents originating from a book."
+  "context": "The word 'raamatus' is the partitive form of 'raamat', meaning 'in a book' or 'inside a book'. In this context, it appears to be describing decorative initials found within manuscripts and printed books. In older times, these were large ornamental capital letters at the beginning of chapters, sections, or articles that served as both decoration and markers for text divisions."
 }

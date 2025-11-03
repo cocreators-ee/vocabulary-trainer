@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema läks temasse.",
-    "Ta nägi temasse peegelduvat kuju.",
-    "Lapsed said temasse ujuma."
+    "Hoiad mind temasse.",
+    "Tema hoiab sind temasse.",
+    "Meie hoime teid temasse."
   ],
   "translation": [
     "into him/her/it",
-    "inside him/her/it"
+    "towards him/her/it",
+    "to him/her/it"
   ],
-  "context": "The word 'temasse' is an Estonian pronoun combination that means 'into him', 'into her', or 'into it'. It's formed from the pronoun 'tema' (he/she/it) + the illative case ending '-sse' which indicates direction into something. This construction shows movement toward or entry into a person."
+  "context": "The word 'temasse' is the illative case form of the Estonian pronoun 'tema', meaning 'him/her/it'. The illative case indicates movement into or towards something, so 'temasse' means 'into him/her/it' or 'towards him/her/it'. This form would typically be used after verbs expressing motion or direction towards a person. In Estonian grammar, the illative case answers the question 'kuhu?' (where to?)."
 }

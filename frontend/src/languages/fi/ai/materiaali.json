@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tässä on hyvä materiaalia projektia varten.",
-    "Tarvitsemme lisää materiaalia rakennukseen.",
-    "Käytämme erilaista materiaalia tuotteiden valmistuksessa."
+    "Opiskelija tarvitsee uutta materiaalia kurssille.",
+    "Tässä on tutkimusmateriaali aiheesta.",
+    "Rakennusyritys tilasi paljon materiaalia projektiin."
   ],
   "translation": [
     "material",
     "substance",
-    "matter"
+    "stuff",
+    "supply",
+    "content"
   ],
-  "context": "The Finnish word 'materiaali' means material or substance in English. It refers to the physical matter from which something is made or created. This can be raw materials for construction, substances used in manufacturing, or content/data for projects. The word is commonly used in various contexts including construction, manufacturing, education (teaching materials), and general discussions about physical substances."
+  "context": "The word 'materiaali' in Finnish translates to 'material' in English. It refers to the substance from which something is made or used, or a set of resources used for a specific purpose. The word declines based on grammatical case; for example, 'materiaali' is the nominative singular form, while 'materiaalit' is the nominative plural form. Possessive forms also exist, like 'materiaalini' (my material). It can refer to physical substances or more abstract content such as research material ('tutkimusmateriaali')."
 }

@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tule siia!",
-    "Mis tulevikku?",
-    "Ootan tulet."
+    "Tule!",
+    "Ma/sa/ta/me/te/nad ei tule.",
+    "Ära tule!"
   ],
   "translation": [
-    "come",
-    "future",
-    "fire"
+    "come (imperative)",
+    "don't come",
+    "second-person singular imperative form of tulema",
+    "present connegative form of tulema"
   ],
-  "context": "The word 'tule' is Estonian and has multiple meanings depending on context. As an imperative verb form of 'tulla' (to come), it means 'come'. In other contexts, it can mean 'future' or refer to actual fire. The exact meaning must be determined by the grammatical context in which it appears."
+  "context": "The word 'tule' in Estonian has multiple forms depending on its grammatical function. As a second-person singular imperative, it means 'Come!' - used when telling someone to approach or arrive. As a present connegative form, it's part of negative constructions meaning 'don't come'. This verb is from the infinitive 'tulema' (to come)."
 }

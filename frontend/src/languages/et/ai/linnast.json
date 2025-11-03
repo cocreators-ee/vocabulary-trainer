@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tulin linna linnast.",
-    "Möödusime linna linnast.",
-    "Ta kolis linna linnast."
+    "Märjamaa ja Kohila on alev.",
+    "Kui kirp kesklinnast hakkab hüppama, siis on ta alevisse jõudes elevant.",
+    "Töölised elavad töölisalevis."
   ],
   "translation": [
-    "from the city",
-    "out of the city"
+    "small town",
+    "borough",
+    "settlement",
+    "outskirts of a city"
   ],
-  "context": "The word 'linnast' is an Estonian postposition that means 'from the city' or 'out of the city'. It indicates movement away from a city or originating from a city. In Estonian grammar, this form shows elative case - motion out from something. The base word 'linn' means 'city', and '-st' is a suffix indicating source or origin."
+  "context": "The word 'alev' refers to a small settlement or town in Estonian that is larger than a village but smaller than a city. It can also refer to the outskirts or suburbs of a larger city. The term often describes places like Märjamaa and Kohila which are categorized as alevs rather than full cities. In compounds, it forms words like 'töölisalev' (workers' town/borough)."
 }

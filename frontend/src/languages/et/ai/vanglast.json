@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta vanglast koju tagasi.",
-    "Mees tuli vanglast vaba mehena.",
-    "Lapsed külastasid oma isa vanglast."
+    "Ta vabanes vanglast tähtaja eel.",
+    "Vanglast väljunud mees püüti uuesti kinni.",
+    "Kriminaalhooldus algas kohe peale vanglast vabanemist."
   ],
   "translation": [
     "from prison",
-    "out of jail",
-    "from the penitentiary"
+    "from jail",
+    "from detention"
   ],
-  "context": "The Estonian word 'vanglast' is an adessive case form of 'vangla' (prison). The '-st' suffix indicates movement away from a location or origin. It means 'from prison' and is used to indicate where someone came from or was released."
+  "context": "The word 'vanglast' is the elative case form of 'vangla' (prison/jail) in Estonian, indicating movement away from or out of a place. It means 'from prison' or 'from jail'. This form shows someone who has been released from incarceration and is now outside the prison facility."
 }

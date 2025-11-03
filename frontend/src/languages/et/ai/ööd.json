@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ööd on külmad.",
-    "Head ööd!",
-    "Talvel pikad ööd."
+    "Sellest tööst ei tea ma ööd ega päeva.",
+    "Mees on purjus ega tea ööd-ilma.",
+    "Sa ei jaga ju ööd ega ilma."
   ],
   "translation": [
-    "nights"
+    "nights",
+    "partitive singular of öö (night)",
+    "nominative plural of öö (night)"
   ],
-  "context": "The word 'ööd' is the plural genitive case form of the Estonian noun 'öö', meaning 'night'. In this form, it can be translated as 'of nights' or used in expressions about night times. It's commonly seen in phrases like 'head ööd' (good night) and descriptions of multiple nights or nighttime conditions."
+  "context": "The word 'ööd' is the partitive singular and nominative plural form of 'öö', which means 'night'. As a noun, it can refer to multiple nights or be used in various grammatical constructions. In the example sentences, it's used in phrases like 'ei tea ööd ega päeva' (doesn't know day from night) indicating confusion or disorientation, and 'ööd-ilma' which appears to mean without regard to day or night."
 }

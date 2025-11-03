@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Mõtlesin äärde.",
-    "Ta jooksis äärde.",
-    "Lapsed mängisid äärde."
+    "Esimesed asulad ehitati vee äärde.",
+    "Laev jõudis kai äärde.",
+    "Istuti lõkke äärde."
   ],
   "translation": [
-    "to the edge",
-    "at the edge"
+    "to the edge of something",
+    "next to something",
+    "towards something",
+    "beside something"
   ],
-  "context": "The Estonian word 'äärde' is a directional case form (illative) of the noun 'ääre', which means 'edge'. It indicates movement toward or arrival at an edge. The illative case in Estonian shows motion towards something, so 'äärde' specifically means 'to the edge' or 'at the edge', indicating that someone or something has moved to a position at the edge of something."
+  "context": "The Estonian word 'äärde' is a postposition (postp) that indicates movement towards or placement next to the edge of something. It can be translated as 'to the edge of', 'next to', 'towards', or 'beside'. This form appears in the genitive case and shows direction/approach to an edge - like going to the water's edge, a ship reaching the dock's edge, or sitting by the campfire's edge. It's commonly used with locations and objects to indicate proximity or approach to their boundaries."
 }

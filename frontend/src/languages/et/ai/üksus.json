@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Üksus on huvitav mõiste.",
-    "See üksus vajab tähelepanu.",
-    "Tegelikult, meie üksus on hea."
+    "Territoriaalne, administratiivne üksus.",
+    "Rahvas, hõim, sugukond on etnilised üksused.",
+    "Relvastatud üksus. Taktikaline üksus."
   ],
   "translation": [
     "unit",
     "entity",
-    "oneness",
-    "individuality"
+    "division"
   ],
-  "context": "The word 'üksus' in Estonian primarily means 'unit' or 'entity'. It can refer to a single item, group, or organizational component. The word derives from the numeral 'üks' which means 'one', so it carries the sense of singularity or individuality while also being used to denote organized groups as cohesive units."
+  "context": "In Estonian, 'üksus' is a noun that means 'unit', 'entity', or 'division'. It refers to an independent part of a whole, whether organizational (like administrative units, business units), military (like military divisions), or abstract (like dividing sentences into smaller units). The word can be used in various contexts including administration, military, organization, and classification systems."
 }

@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma sõidan Tallinna.",
-    "Tema sõitis koju.",
-    "Me oleme sõitmas metsa."
+    "Ma sõidan tööle igal hommikul.",
+    "Ta sõidab linna ostma toitu.",
+    "Sõida aeglasemalt - tee tähelepanu liiklusmärkidele!"
   ],
   "translation": [
-    "to travel",
-    "to go by vehicle",
     "to drive",
-    "to ride"
+    "to go by vehicle",
+    "to travel (by car/bus/etc.)"
   ],
-  "context": "The Estonian verb 'sõita' means to travel or move using some form of transportation. It is used when referring to going somewhere by car, bus, train, bicycle, or other vehicles. The verb changes form depending on the subject and tense - in present tense it would be 'sõidan' (I drive/go), past tense 'sõitis' (he/she/it went/drive), and with the '-mas' ending it indicates ongoing action like 'sõitmas' (traveling)."
+  "context": "The Estonian verb 'sõita' means to drive or to travel by vehicle. It is the da-infinitive form of 'sõitma'. This word specifically refers to movement using some kind of motorized transportation like a car, bus, train, etc., rather than walking. The verb can be conjugated in different tenses: sõidan (I drive), sõidab (he/she/it drives), sõidame (we drive), sõitate (you plural drive), and the imperative form 'sõida' means 'drive!' or 'go!'."
 }

@@ -1,3 +1,6 @@
+import time
+from functools import wraps
+
 from pydantic import BaseModel, Field
 
 from data_processing.settings import LANGUAGES_SRC
@@ -22,6 +25,31 @@ class AnalyzeResponse(BaseModel):
     valid: bool = Field(
         description="The translations, examples, and provided context are not significantly incorrect."
     )
+
+
+def retry(
+    fn,
+    retries=5,
+    delay=2
+):
+    @wraps(fn)
+    def _wrap(*args, **kwargs):
+        tries = retries
+        wait = delay
+
+        while tries > 0:
+            try:
+                return fn(*args, **kwargs)
+            except Exception as e:
+                if tries > 0:
+                    tries -= 1
+                    time.sleep(wait)
+                    wait *= 2
+                    print(e)
+                    continue
+                raise
+
+    return _wrap
 
 
 def list_words(language_id: str):

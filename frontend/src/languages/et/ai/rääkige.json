@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Rääkige palun aeglasemalt.",
-    "Mis te rääkite?",
-    "Rääkige oma arvamustest avatult."
+    "Rääkige julgesti!",
+    "Rääkige küll, kuid mitte liiga kõvasti.",
+    "Kas te rääkite eesti keelt?"
   ],
   "translation": [
+    "talk",
     "speak",
-    "talk"
+    "say"
   ],
-  "context": "The word 'rääkige' is the plural imperative form of the verb 'rääkima' which means to speak or talk. It is used when addressing multiple people and telling them to speak, either in a polite command (with 'palun' - please) or as a direct instruction."
+  "context": "The word 'rääkige' is the polite/formal plural imperative form of the Estonian verb 'rääkima', which means 'to talk' or 'to speak'. It's used when addressing multiple people formally, telling them to talk. The word ends in '-ge' which indicates it's in the 2nd person plural form (you all), and the imperative mood gives a command/request."
 }

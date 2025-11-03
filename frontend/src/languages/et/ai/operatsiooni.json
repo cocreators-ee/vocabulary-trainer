@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Arstid tegid edukalt operatsiooni.",
-    "Patsiendi seisukord pärast operatsiooni on stabiilne.",
-    "Operatsioon võtab tavaliselt paar tundi."
+    "Operatsiooni läbimiseks vajab ta aega taastumaks.",
+    "Arst tegeles patsiendi operatsiooniga edukalt.",
+    "Kliinikul on häiredest vaba operatsioonituba."
   ],
   "translation": [
     "operation",
-    "procedure",
-    "surgery"
+    "surgery",
+    "procedure"
   ],
-  "context": "The Estonian word 'operatsiooni' is the partitive case form of 'operatsioon'. It means 'operation', 'procedure', or 'surgery' and typically refers to a medical procedure where surgeons perform an operation on a patient. This form is used when the operation is the object of the verb, indicating that it is being undergone or performed."
+  "context": "The word 'operatsiooni' is the genitive case form of 'operatsioon' in Estonian, meaning operation or surgery. It indicates that something belongs to an operation or relates to it. In medical contexts, it specifically refers to surgical procedures. The genitive case shows possession or relationship, similar to saying 'of an operation' or related to an operation in English."
 }

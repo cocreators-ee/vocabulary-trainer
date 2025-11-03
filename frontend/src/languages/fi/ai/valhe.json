@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Valhe on väärä totuus.",
-    "Hän sanoi minulle valheen.",
-    "Lapsi valehteli ja tunnusti myöhemmin valheensa."
+    "Hän kertoi valheen.",
+    "Älä usko hänen valheitaan.",
+    "Valhe on aina väärin."
   ],
   "translation": [
     "lie",
     "falsehood",
-    "untruth"
+    "untruth",
+    "deception"
   ],
-  "context": "The Finnish word 'valhe' is a noun that means a lie or falsehood. It refers to an untrue statement made with the intention of deceiving someone. In Finnish grammar, it's in the nominative singular form here. The word can appear in different cases depending on how it's used in a sentence - for example, in partitive case ('valhetta' when talking about some lies) or genitive case ('valheen' indicating possession or relation to a lie)."
+  "context": "The word 'valhe' in Finnish means 'lie'. It is a noun that declines based on case, as shown in the dictionary definition. The plural form is 'valheet'. You can see possessive forms like 'valheeni' (my lie) and 'valheemme' (our lie)."
 }

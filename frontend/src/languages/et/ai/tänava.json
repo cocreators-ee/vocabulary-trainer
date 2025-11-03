@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tänav on täis inimesi.",
-    "Me käisime tänava äärtes.",
-    "Linnas on palju tänavaid."
+    "Tänava katteks valiti asfaltbetoon.",
+    "Vana tänava parandamiseks vajalikud materjalid on saadaval.",
+    "Uue tänava ehitamine nõuab täpselt planeerimist."
   ],
   "translation": [
-    "street",
-    "road"
+    "asphalt",
+    "pavement",
+    "road surface"
   ],
-  "context": "The word 'tänava' is the partitive case form of the Estonian word 'tänav', which means 'street'. In Estonian, the partitive case is used to indicate an incomplete action or to refer to a portion of something. When we see 'tänava', it typically appears in contexts where we're talking about being on a street, near a street, or referring to streets in some context that requires this grammatical form. For example, 'käisime tänava äärtes' means 'we walked along the edge of the street.'"
+  "context": "The word 'tänava' appears to be in the genitive case form of 'tänav', which means 'street'. In this context, it's used with 'katteks' (for covering) and refers to asphalt pavement or road surface material. The Estonian word indicates street-related construction materials, specifically asphalt that would be used for street paving or repairs."
 }

@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "See on võimalik lahendus.",
-    "Kas see on võimalik?",
-    "Meie võimalused piirduvad."
+    "Lugu tundus uskumatu, kuigi võimalik.",
+    "Mul pole enam võimalik oodata.",
+    "Vastas nii lahkelt kui vähegi võimalik."
   ],
   "translation": [
     "possible",
-    "feasible",
-    "doable"
+    "achievable",
+    "doable",
+    "feasible"
   ],
-  "context": "The word 'võimalik' is an adjective in Estonian that means something is possible or can be done. It indicates that a situation, action, or outcome has the potential to exist or occur within the realm of possibility. This word is commonly used when discussing options, feasibility, or potential outcomes."
+  "context": "The Estonian adjective 'võimalik' means something that can happen, is achievable, or doable. It's used to describe situations, events, or actions that are capable of happening or being done. The word comes from 'võima' (to be able) plus the suffix '-lik', and its opposite is 'võimatu' (impossible). In different grammatical forms, it can appear as võimalikku (partitive), võimaliku (genitive), võimalike (plural genitive), etc."
 }

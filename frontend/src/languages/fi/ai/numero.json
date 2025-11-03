@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minun numero on 555-1234.",
-    "Annan sinulle numeroni.",
-    "Onko tämä oikea numero?"
+    "Hevonen numero 34 voitti kilpailun.",
+    "Puhelinnumeroni on 050-1234567.",
+    "Tarkistusnumero varmistaa tuotteen aitouden."
   ],
   "translation": [
     "number",
     "digit",
-    "figure"
+    "numeral"
   ],
-  "context": "The Finnish word 'numero' means 'number' in English. It is used to refer to numerical values, digits, or figures. In everyday language, it's commonly used for phone numbers (puhelinnumero), house numbers (katunumero), and other numerical identifiers."
+  "context": "The Finnish word 'numero' generally refers to a digit or number used for sequencing, identification, or as part of a code. It is often used in contexts where the number doesn’t represent a quantity but rather a position or label, like phone numbers or product codes. In contrast, 'luku' is typically used when referring to a numerical value representing a count or amount. The word declines based on case and possession, as shown in the dictionary definitions."
 }

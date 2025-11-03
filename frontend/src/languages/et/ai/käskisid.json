@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Õpetaja käskis õpilikel istuda.",
-    "Vanemad käskisid lastel minema magama.",
-    "Politseinik käskis parkimise lõpetada."
+    "Tüdrukud käskisid tal väljast puid tuua.",
+    "Arst käskis haigel lamada.",
+    "Vürst käskis vangid üles puua."
   ],
   "translation": [
-    "ordered",
     "commanded",
-    "instructed"
+    "ordered",
+    "instructed",
+    "told"
   ],
-  "context": "The word 'käskisid' is the past tense plural form of the verb 'käskima', meaning to order, command or instruct someone to do something. It indicates that multiple people gave orders in the past."
+  "context": "The word 'käskisid' is the 3rd person plural past tense form of the Estonian verb 'käskima', which means to command, order, or instruct someone to do something. It implies issuing an authoritative instruction that others are expected to follow."
 }

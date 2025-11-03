@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma loen raamatut.",
-    "Ta ostis uue raamatu.",
-    "Meil on palju raamatu."
+    "Raamatut on vaja kergesse pappi köita.",
+    "Töötajad teevad raamatute kartoneerimist päevas.",
+    "See raamat on juba korralikult raamatut."
   ],
   "translation": [
-    "book",
-    "books"
+    "to cardboard",
+    "to cover with cardboard",
+    "to bind in light cardboard"
   ],
-  "context": "\"Raamatut\" is the partitive case form of \"raamat\" (book) in Estonian. The partitive case is used when we don't have a complete, whole object - it can indicate an incomplete action, some amount of something, or an object being acted upon without specifying the exact quantity. In this case, \"raamatut\" would be used with verbs like 'loen' (I read) to indicate reading some/a book, rather than reading all books or a complete set."
+  "context": "The word 'raamatut' is the partitive form of 'kartoneerima', which means to cover or bind something, particularly books, with lightweight cardboard. It refers to the process of protecting book covers with cardboard for durability and protection. The word appears in contexts where books are being processed or prepared for storage/shipping."
 }

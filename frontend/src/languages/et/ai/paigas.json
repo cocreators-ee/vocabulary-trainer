@@ -1,14 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Ta jääks paigas.",
-    "Me peame hoidma kõik oma asjad paigas.",
-    "Laps ei tahtnud liikuda ja jäi paigas."
+    "Kagu-Eestis vahelduvad metsaga kaetud kõrgendikud madalamate soiste ja liivaste paigastega.",
+    "See org on üks suuremaid paigas Eestis.",
+    "Metsaga kaetud kõrgendikud vahelduvad madalama soiste ja liivaste paigastega."
   ],
   "translation": [
-    "staying in place",
-    "remaining stationary",
-    "not moving"
+    "area",
+    "region",
+    "place",
+    "terrain",
+    "landform",
+    "landscape"
   ],
-  "context": "The word 'paigas' is an Estonian adverb that means 'in place' or 'stationary'. It's formed from the noun 'koht' (place) with the positional suffix '-as', and it indicates something or someone remaining in a fixed position without movement. In English, this corresponds to concepts like 'staying put,' 'remaining stationary,' or 'not moving.'"
+  "context": "The word 'paigas' is the inessive case (locative case) form of 'paik', meaning 'in a place/area'. It refers to a geographical feature or terrain type, particularly used for describing landscape units based on large surface forms such as valleys, hills, etc. In Estonian geography, it's commonly used when contrasting different types of terrain - like elevated areas covered with forests versus lower wetlands and sandy regions."
 }

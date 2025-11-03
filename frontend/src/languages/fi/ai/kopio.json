@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on kopio tästä asiakirjasta.",
-    "Hän teki kaksi kopiota muistiinpanoistaan.",
-    "Voitko tulostaa minulle kopion?"
+    "Minulla on kopio tästä sopimuksesta.",
+    "Voit tehdä kopion dokumentista tulostamalla sen.",
+    "Poliisi otti rikospaikan kopion valokuvana."
   ],
   "translation": [
     "copy",
-    "duplicate",
-    "reproduction"
+    "carbon copy"
   ],
-  "context": "The Finnish word 'kopio' is a noun that means 'copy' or 'duplicate'. It can refer to a reproduction of a document, image, or other material. The word follows standard Finnish grammar for nouns and can appear in different cases depending on its use in a sentence. For example, it might appear as 'kopiosta' (from the copy) or 'kopioihin' (to the copies)."
+  "context": "The word 'kopio' in Finnish means 'copy'. It can refer to a physical duplicate of something, like a document or photograph. It is also used in the context of telecommunications and email to mean a carbon copy. The noun declines based on case; for example, 'kopion' is the genitive singular form meaning 'of a copy', while 'kopiot' is the nominative plural form meaning 'copies'. Possessive forms exist as well, such as 'kopioni' which means 'my copy'."
 }

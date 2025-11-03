@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Ta töötab ajal.",
-    "Me kohtume homseks ajal.",
-    "Mis toimub praegu ajal?"
+    "Mängu ajal lõi ta värava.",
+    "Tööajal pole aega külastada sõpru.",
+    "Talveajal on lumesadu."
   ],
   "translation": [
-    "at the time",
-    "during",
-    "when"
+    "during"
   ],
-  "context": "The Estonian word 'ajal' is an adessive case form of the word 'aeg' (time). It functions as a temporal preposition or adverb meaning 'at the time,' 'during,' or 'when.' This form indicates that something happens at a specific point in time or during a particular period. The adessive case typically shows location on or at, but with time words it marks when an action occurs."
+  "context": "Ajal is an Estonian postposition (in the adessive case) that means 'during'. It is formed from the noun 'aeg' meaning 'time' and indicates when something happens or occurs. The word follows the event/activity it describes, such as 'mängu ajal' (during the game)."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lennuk lendab taevasse.",
-    "Meie lennuk oli hilinenud.",
-    "Vaata seda suurt lennuki!"
+    "Lennuki abil saab navigeerida täpselt.",
+    "Lennukis on näidatud õhurõhu muutused.",
+    "Meie lennuki oli täpne ja usaldusväärne."
   ],
   "translation": [
-    "airplane",
-    "plane",
-    "aircraft"
+    "flight indicator",
+    "artificial horizon",
+    "attitude indicator"
   ],
-  "context": "The word 'lennuki' is the partitive case form of 'lennuk', which means airplane or aircraft. In Estonian, the partitive case is often used when talking about objects in a general sense, or as objects of actions. It indicates an incomplete action or indefinite object."
+  "context": "Lennuki is an Estonian technical term referring to a flight indicator or artificial horizon device that shows the aircraft's pitch and bank angles. It's an instrument used in aviation for navigation and maintaining proper aircraft attitude."
 }

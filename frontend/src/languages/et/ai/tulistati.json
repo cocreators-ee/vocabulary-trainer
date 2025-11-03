@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Politseinik tulistati maha.",
-    "Kes tulistas selle mehe?",
-    "Tulistamine keelustati linnas."
+    "Sõdurid tulistasid musketitest.",
+    "Meie väed tulistasid vastase positsioone.",
+    "Tulistati mitu lasku."
   ],
   "translation": [
+    "fired",
     "shot",
-    "fired at",
-    "gunned down"
+    "discharged"
   ],
-  "context": "The word 'tulistati' is the past tense of the Estonian verb 'tulistama', which means to shoot or fire a gun. It indicates that someone was shot or fired upon in the past. This term is commonly used in contexts involving firearms, police actions, violence, or crime reporting."
+  "context": "The word 'tulistati' is the past tense (3rd person singular) of the Estonian verb 'tulista', which means to fire a weapon or shoot. It comes from the root word 'tuli' meaning fire, and is commonly used in contexts involving weapons like muskets mentioned in the dictionary definition. In the example sentence 'Sõdurid tulistasid musketitest,' it shows soldiers firing from muskets."
 }

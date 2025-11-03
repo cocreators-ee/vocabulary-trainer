@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on yksi koira.",
-    "Yksi päivä hän tuli kotiin myöhään.",
-    "Onko sinulla vielä yksi kysymys?"
+    "Minulla on yksi veli.",
+    "Ostin yhden omenan.",
+    "Yksi päivä päätin lähteä matkalle."
   ],
   "translation": [
     "one",
-    "a single",
-    "1"
+    "a",
+    "single"
   ],
-  "context": "The Finnish word 'yksi' is the basic numeral for the number one. It's used to count objects, people, or things. In Finnish grammar, it changes form depending on case - nominative (yksi), partitive (yhtä), genitive (yhden), etc. It can also be used as an adjective before a noun."
+  "context": "The Finnish word 'yksi' means 'one'. It is a cardinal number and can also function as an indefinite article, similar to 'a' or 'an' in English. The declension of the word changes depending on its grammatical case; for example, 'yhden' is the genitive form meaning 'of one', and 'yksiä' is the partitive plural form. It has many derived forms used as adjectives, adverbs, and nouns."
 }

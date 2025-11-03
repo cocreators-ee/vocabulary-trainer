@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Reeglid on selged kogu klassis.",
-    "Koolireeglid peavad olema järgitud alati.",
-    "Mängureeglid võivad erineda mängude vahel."
+    "Koolis kehtivad ranged reeglid.",
+    "Perekonna reeglid olid rangemad kui teiste omal.",
+    "Tööl tuleb järgida kindlaid reegleid."
   ],
   "translation": [
     "rules",
-    "regulations"
+    "regulations",
+    "norms",
+    "principles"
   ],
-  "context": "The Estonian word 'reeglid' means 'rules' in English and refers to established principles or guidelines that govern behavior, procedures, or activities. It is the plural form of 'reegel' (rule). In usage, it commonly appears in contexts like school rules (koolireeglid), game rules (mängureglid), or general regulations that need to be followed."
+  "context": "The Estonian word 'reeglid' is the plural form of 'reegel', which means 'rules'. It refers to established principles, guidelines, or regulations that govern behavior, procedures, or operations in various contexts such as schools, families, workplaces, and organizations. Reeglid can be formal rules written down as laws or informal norms followed by a community."
 }

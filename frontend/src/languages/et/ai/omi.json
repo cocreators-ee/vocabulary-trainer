@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema on minu omi.",
-    "Sinu omi on kallis.",
-    "Meie oma on head."
+    "Omi on oma osade kogum.",
+    "Meil oli oma häid omi.",
+    "Tema palus minult oma omi."
   ],
   "translation": [
-    "my own",
-    "one's own"
+    "parts",
+    "components",
+    "elements"
   ],
-  "context": "The Estonian word 'omi' is a possessive pronoun that means 'one's own' or 'my own'. It indicates possession in the first person singular (I/my) and refers to something that belongs to the speaker. This word follows the Estonian grammatical structure for possessives, which often uses suffixes rather than separate words like English does."
+  "context": "In Estonian, 'omi' is the partitive plural form of the word 'oma', which means 'own'. It refers to parts or components that belong to something. The word 'oma' itself indicates possession or ownership, so when used in its partitive plural form as 'omi', it suggests portions or elements that are associated with or belonging to a larger entity."
 }

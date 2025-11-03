@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Sõin autosse.",
-    "Tuleb autosse?",
-    "Auto parkisime autosse."
+    "Tuleb autosse!",
+    "Läksime autosse linna.",
+    "Pani asjad autosse."
   ],
   "translation": [
-    "into the car"
+    "into the car",
+    "into a vehicle"
   ],
-  "context": "The word 'autosse' is an Estonian adessive case form that means 'into the car'. It's formed by adding the '-sse' suffix to the root 'auto' (car). This indicates movement or direction into a location. The adessive case in Estonian shows the destination of motion."
+  "context": "The word 'autosse' is the illative case form of the Estonian noun 'auto', which means 'car'. The illative case indicates movement into or towards something. So 'autosse' specifically means 'into the car' or 'into a vehicle'. This is used when someone or something enters a car, for example when getting into a car to go somewhere."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Uks on avatud.",
-    "Müügiks avatud majad alustasid uut aastat.",
-    "See oli avatud kõigile."
+    "Ust avatud.",
+    "Müük avatud kell 9.00-18.00.",
+    "Ainult avatud akna all saab hästi hinge."
   ],
   "translation": [
     "open",
-    "opened"
+    "unlocked",
+    "accessible"
   ],
-  "context": "The Estonian word 'avatud' is the nominative singular form of an adjective meaning 'open'. It describes something that has been opened or is in an open state. In Estonian, adjectives change their endings based on case and number. The base form 'avatud' would typically be used to describe a masculine singular noun in the nominative case, but can also appear in other forms when declined for different cases or numbers."
+  "context": "The word 'avatud' is the passive past participle form of the Estonian verb 'avama'. It primarily means 'open' as a state that has been achieved through opening something. In English, it can be translated to 'open', 'unlocked', or 'accessible'. This form is used to describe things that have been opened and remain in an open state, such as doors being opened (ust avatud), shops being opened for business (müük avatud), or windows being left open (avatud akna). The comparative form is 'avatum' meaning 'more open'."
 }

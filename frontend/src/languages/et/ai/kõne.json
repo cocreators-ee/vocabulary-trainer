@@ -1,16 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Kõne on meie peamine vahend suhtlemisel.",
-    "Ta oli hea kõneleja ja meelitas kuulajaid oma sõnadega.",
-    "Meil on täna hommikul kõne direktoriga."
+    "Kes su kavalaid kõnesid usub!",
+    "Ta nõudis oma kõnes uuendusi.",
+    "Mul oli telefonikõne Tartuga."
   ],
   "translation": [
     "speech",
-    "talk",
+    "speaking",
+    "oration",
     "address",
-    "lecture",
-    "conversation"
+    "phone call"
   ],
-  "context": "In Estonian, 'kõne' is a noun that can refer to various types of spoken communication. It commonly means 'speech' or 'talk', and can be used for formal addresses, presentations, lectures, or general conversations. The word belongs to the declension class where it ends in '-e' in the nominative singular case."
+  "context": "The Estonian word 'kõne' has multiple meanings depending on context. It can refer to speech or speaking in general, an oral address or speech (like a public presentation), or a phone call. In grammar contexts, it can also refer to polarity (affirmative or negative). The word is used both literally for verbal communication and figuratively for expressions like 'the language of flowers' or 'the speech of weapons'."
 }

@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Talus on talu.",
-    "Talude põllumajandus arenes kiiresti.",
-    "Me ostime endale uue talu."
+    "Saare küla Alamaa talu.",
+    "Suur, väike, keskmine talu.",
+    "Otsustas talu rendile anda, ära müüa."
   ],
   "translation": [
     "farm",
-    "homestead",
-    "smallholding"
+    "farmstead"
   ],
-  "context": "The Estonian word 'talu' refers to a small farm or homestead, typically a family-owned agricultural property with land and buildings. It's commonly used in rural contexts and can refer to both traditional farms and smaller agricultural holdings. The word is used similarly to how 'farm' is used in English, but often implies a more intimate, family-run operation rather than large-scale commercial agriculture."
+  "context": "In Estonian, 'talu' refers to a small agricultural farm that includes land and the buildings on it. It can be described by size (suur/ väike - large/small), wealth (jõukas/vaene - rich/poor), and can have various purposes like dairy farming or tourism. The term encompasses not just the physical structures but also the agricultural operation as a whole."
 }

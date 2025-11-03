@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mulle meeldib mälu.",
-    "Tema on hea mäluuga.",
-    "Kas sa suudad meenutada seda oma mälust?"
+    "Aeg on mälust mõndagi kustutanud.",
+    "Mälu võib olla nii hea kui halb.",
+    "Ta ootas kaua ja tema mälu taas avanes."
   ],
   "translation": [
     "memory",
-    "reminiscence",
-    "recollection"
+    "recollection",
+    "storage capacity"
   ],
-  "context": "The Estonian word 'mälu' is a feminine noun that means memory or recollection. It can refer to the ability to remember things, a particular recollection, or mental faculties related to memory. The word is used in various contexts such as discussing good/bad memory abilities, recalling past events, or referring to stored information."
+  "context": "The Estonian word 'mälu' primarily means memory - both the human cognitive ability to remember things and the computer concept of storage/memory. It can refer to recollections stored in the mind, RAM in computing contexts, or the general capacity for storing information. The word has multiple grammatical forms including nominative (mälu), genitive (mälude), partitive (mälusid), and various other cases depending on how it's used in a sentence."
 }

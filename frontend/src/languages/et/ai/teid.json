@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tere teid!",
-    "Kuidas teid?",
-    "Teid ootame."
+    "Teid palume ootama.",
+    "Mul on teid vaja.",
+    "Kas sa tead teid?"
   ],
   "translation": [
-    "you (plural/formal)",
-    "y'all",
-    "your"
+    "you (plural)",
+    "yourselves (plural partitive)"
   ],
-  "context": "The Estonian word 'teid' is the partitive case form of the pronoun 'te', meaning 'you'. It's used when referring to multiple people or using formal address. In English, it translates to 'you' in contexts where the object is plural or formal. The partitive case often indicates partialness or indefiniteness, but with pronouns like 'teid', it typically functions as the accusative/object form."
+  "context": "The word 'teid' is the partitive plural form of the Estonian pronoun 'teie', which means 'you' (plural). It can be used as a direct object or to indicate possession in a plural context. In some contexts, it may also refer to paths or roads when derived from the noun 'tee' meaning 'path'."
 }

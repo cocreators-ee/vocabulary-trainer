@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Planeetta on pyöreä taivaankappale.",
-    "Maa on meidän kotiplaneetta.",
-    "Kökköröinen planeetta kiertää aurinkoa."
+    "Aurinko on tähti ja Maa on planeetta.",
+    "Tiedemiehet etsivät uusia planeettoja Linnunradasta.",
+    "Planeetan kiertorata on elliptinen."
   ],
   "translation": [
     "planet",
-    "planetary"
+    "world",
+    "globe"
   ],
-  "context": "The Finnish word 'planeetta' means 'planet'. It's a feminine noun in Finnish that refers to celestial bodies orbiting stars, particularly Earth when referring to our home planet. The term is used in astronomical contexts and everyday language when discussing planets."
+  "context": "The word 'planeetta' in Finnish means 'planet'. It refers to a celestial body moving in an orbit around a star. The word declines based on grammatical case, as shown in the dictionary definition, with different forms for singular and plural, nominative, genitive, partitive, and other cases. For example, 'planeetan' is the genitive form meaning 'of the planet', while 'planeettoja' is the partitive plural meaning 'planets'. The possessive forms also change depending on who owns the planet (e.g., 'planeettani' means 'my planet')."
 }

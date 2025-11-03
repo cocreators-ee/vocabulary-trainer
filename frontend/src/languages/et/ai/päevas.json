@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Töötan päevas kümme tundi.",
     "Päevas on ilus ilm.",
-    "Kõik lapsed mängivad päevas."
+    "Töötame päevas pikalt.",
+    "Kell lööb kolm päevas."
   ],
   "translation": [
+    "in a day",
     "during the day",
-    "in the daytime",
     "by day"
   ],
-  "context": "The Estonian word 'päevas' is an adessive case form of 'päev', which means 'day'. The '-s' ending indicates location or time when something happens. It translates to English expressions like 'during the day', 'in the daytime', or 'by day'. This form specifies that something occurs within the daylight hours, as opposed to at night."
+  "context": "The Estonian word 'päevas' is the inessive singular form of the noun 'päev', which means 'day'. In Estonian grammar, the inessive case indicates location within something. So 'päevas' literally translates to 'in a day' or 'during the day'. This form is used when you want to express that something happens within, during, or inside a day period."
 }

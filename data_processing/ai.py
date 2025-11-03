@@ -25,6 +25,7 @@ IMPORTANT:
 - Use full and complete sentences in English for your responses, without placeholders, ellipsis or similar to indicate missing information.
 - You may be provided the result of previous analysis to consider when making your suggestion. They may help you understand the word in context, however they are not always correct so make sure to consider the validity of the previous translation attempt.
 - You will be provided dictionary definitions when available, you should strongly consider them.
+- If a dictionary is labeled as being "manual", then that is some hand-written corrections to previous data and should take priority.
 """
 
 ANALYZE_PROMPT = """

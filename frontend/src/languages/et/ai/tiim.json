@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Meie tiim võitis turniiri.",
-    "Töötame heas tiimis.",
-    "Tiimi kapten oli väga juhtiv."
+    "Viieliikmeline tiim.",
+    "Juht ei usalda oma tiimi.",
+    "Meie tiim võitis kõik mängud."
   ],
   "translation": [
-    "team"
+    "team",
+    "work group"
   ],
-  "context": "The Estonian word 'tiim' means 'team' in English. It refers to a group of people working together towards a common goal, commonly used in sports, business, and organizational contexts. The word is borrowed from English and has the same spelling as the English word."
+  "context": "The Estonian word 'tiim' is a loanword from English meaning 'team'. It refers to a group of people working together towards a common goal. The word is commonly used in both sports and business contexts in Estonia, often maintaining the same spelling as in English but with Estonian grammar rules applied (e.g., adding -i for plural or possessive forms)."
 }

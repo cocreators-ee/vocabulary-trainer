@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on yksi gallona vettä.",
-    "Tarvitsen kaksi gallonaa maitoa.",
-    "Gallona on nestemäärän yksikkö."
+    "Hän osti kaksi gallonaa maitoa.",
+    "Auton polttoainetankkiin mahtuu 50 gallonaa bensiiniä.",
+    "Reseptissä tarvitaan puoli gallonaa vettä."
   ],
   "translation": [
-    "gallon"
+    "gallon",
+    "US gallon",
+    "imperial gallon"
   ],
-  "context": "The Finnish word 'gallona' is a loanword from English meaning 'gallon', which is a unit of volume measurement. It's commonly used to measure liquids like water, milk, or other beverages in Finland, particularly when referring to imperial gallons (approximately 4.546 liters) or US gallons (approximately 3.785 liters), depending on context."
+  "context": "The word 'gallona' in Finnish refers to a unit of volume, specifically the 'gallon'. It is borrowed directly from English. The noun declines according to the *koira* type with no gradation, meaning its forms change depending on its grammatical role in a sentence (nominative, genitive, partitive etc.).  The provided dictionary definitions show a comprehensive declension table for both singular and plural forms, as well as possessive suffixes indicating who owns the gallon(s). For example, 'gallonani' means 'my gallon', while 'galloniemme' means 'our gallon'. The word can be used to measure liquids like milk or fuel."
 }

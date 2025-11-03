@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on kaksi ankkaa.",
-    "Ankat uivat joessa.",
-    "Se on iso ankka."
+    "Minulla on yksi ankka.",
+    "Lapset ruokkivat ankkoja puistossa.",
+    "Ankan liha on hyvää."
   ],
   "translation": [
-    "duck"
+    "duck",
+    "domestic duck"
   ],
-  "context": "The Finnish word 'ankka' means 'duck' in English. It's a common noun referring to the waterfowl bird. In Finnish, nouns have different cases and numbers, so you might see forms like 'ankat' (plural) or 'anhan' (partitive case)."
+  "context": "The word 'ankka' in Finnish means 'duck'. It can refer to a domestic duck or simply a duck in general. The declension table shows how the word changes depending on its grammatical role in a sentence, such as nominative (subject), genitive (possession), and partitive (partial object). For example, 'ankan' is the genitive form meaning 'of the duck', while 'ankkoja' is the plural partitive form meaning 'some ducks'. The possessive forms indicate who owns the duck(s) – for instance, 'ankkani' means 'my duck'."
 }

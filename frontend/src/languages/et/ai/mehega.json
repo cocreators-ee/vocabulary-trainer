@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema tuleb mehega kohtuma.",
-    "Naised räägivad mehega sõprusest.",
-    "Laps näitas oma isa mehega."
+    "Vanasti olid põhilised metsatööriistad kirves ja kahemehega saag.",
+    "Tule mehega kaasa!",
+    "Sõitsin auto mehega."
   ],
   "translation": [
-    "with a man"
+    "with a man",
+    "together with a man",
+    "accompanied by a man"
   ],
-  "context": "The Estonian word 'mehega' is the elative case form of 'mees' (man), meaning 'from with a man' or more naturally 'with a man'. The '-ga' suffix indicates accompaniment or means in Estonian. It shows that someone is accompanying a man or doing something together with him."
+  "context": "Mehega is the comitative singular form of 'mees' (man) in Estonian, meaning 'with a man' or 'together with a man'. It indicates accompaniment or association and follows the noun it modifies. In the dictionary example, 'kahemehega saag' refers to a two-man saw used for cutting wood, where the comitative form connects the tool (saw) to being used by two men."
 }

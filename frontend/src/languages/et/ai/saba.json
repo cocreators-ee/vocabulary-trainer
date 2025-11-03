@@ -1,12 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Sina oled hea saba.",
-    "Loomal on pikk saba.",
-    "Kass värkis sabast."
+    "Koer liputas saba.",
+    "Tuli tükk aega sabas seista.",
+    "Põrsaste rõngas sabad."
   ],
   "translation": [
-    "tail"
+    "tail",
+    "queue",
+    "back part",
+    "rear"
   ],
-  "context": "In Estonian, 'saba' means 'tail'. It is a common noun used to refer to the tail of animals. The word can appear in different cases depending on its grammatical function in the sentence. For example: nominative case 'saba', genitive case 'saba', partitive case 'sabast', etc."
+  "context": "The Estonian word 'saba' primarily means 'tail' when referring to animals, but it has several extended meanings including the back part of objects, queues or lines, and can also be used adverbially meaning 'behind' or 'after'. It's a versatile noun with both literal and figurative uses in everyday Estonian."
 }

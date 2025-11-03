@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tema sünnipäevaks tegin kook.",
-    "Sünnipäevaks tuleb kingitus valida.",
-    "Meie pere tähistab sünnipäevaks pidu."
+    "Tule meie sünnipäevaks!",
+    "Kink see on minu sünnipäevaks?",
+    "Kas sa tulidki sünnipäevaks?"
   ],
   "translation": [
-    "for birthday",
-    "as a birthday present",
-    "by the birthday"
+    "by one's birthday",
+    "for the birthday"
   ],
-  "context": "The Estonian word 'sünnipäevaks' is an inessive case form of 'sünnipäev', which means 'birthday'. It indicates that something is done for, as, or by the time of someone's birthday. The ending '-ks' transforms it into a translative case, suggesting movement towards or purpose related to the birthday."
+  "context": "The Estonian word 'sünnipäevaks' is a translative case form of 'sünnipäev', meaning 'birthday'. The '-ks' suffix indicates that something is done or given 'for' or 'by' someone's birthday. It can mean either 'by one's birthday' (the time when an action happens) or 'for the birthday' (something intended for a birthday celebration)."
 }

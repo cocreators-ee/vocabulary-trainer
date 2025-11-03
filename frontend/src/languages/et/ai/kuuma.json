@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Kuum päev.",
-    "See on kuum tee.",
-    "Mul oli väga kuum."
+    "Teil ei ole kuuma ega külma, mis teised kaaskodanikud teie tõpratempude pärast kannatama peavad!",
+    "Ilm on täna väga kuum.",
+    "See suppi on külm, mitte kuum."
   ],
   "translation": [
     "hot",
-    "warm",
-    "heated"
+    "warm"
   ],
-  "context": "The word 'kuuma' is the elative case form of the Estonian adjective 'kuum', which means 'hot'. It is used to indicate movement from a hot state or position, and can be translated as 'from heat' or 'out of heat'. In everyday usage, it's commonly found in expressions describing temperature conditions."
+  "context": "The word 'kuuma' in Estonian is the partitive case form of the adjective 'kuum', meaning 'hot' or 'warm'. In the given sentence example, it's used in a negative construction to express indifference - someone doesn't care about hot or cold (meaning they don't mind either way). The word describes temperature or can metaphorically describe something as being exciting or popular."
 }

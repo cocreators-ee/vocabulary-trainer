@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ma ostsin õlut poest.",
-    "Kas sa jood õlut?",
-    "Õlu on hea koos grillitud lihaga."
+    "Tõi kannuga vett käte pesemiseks.",
+    "Mehed lõid kannud kokku ja jõid õlut.",
+    "Enne vagunisse ronimist võiks siiski mõned kannud teha."
   ],
   "translation": [
-    "beer"
+    "of beer",
+    "partitive of beer"
   ],
-  "context": "The word 'õlut' is the partitive case of the Estonian noun 'õlu', which means beer. The partitive case (-t ending) indicates an incomplete or indefinite amount, so it would translate to 'some beer' or just 'beer' in English depending on context. This form is commonly used when referring to drinking beer or having some beer."
+  "context": "The word 'õlut' is the partitive singular form of the Estonian noun 'õlu', which means 'beer'. In Estonian grammar, the partitive case indicates incomplete action or partial object. So when you say 'õlut', you're referring to some amount of beer (as in drinking it, having it, etc.) rather than referring to beer as a general concept."
 }

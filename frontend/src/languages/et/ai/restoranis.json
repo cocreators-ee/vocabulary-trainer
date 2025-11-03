@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Me sööme restoranis eile.",
-    "Tema töötab heas restoranis.",
-    "Kas te olete käinud selles restoranis?"
+    "Mõnus aeg veeta restoranis.",
+    "Töötan restoranis ootemeeskonnana.",
+    "Me kohtume restoranis kell seitse."
   ],
   "translation": [
-    "in a restaurant",
-    "at the restaurant"
+    "in the restaurant"
   ],
-  "context": "The word 'restoranis' is the Estonian inessive case form of 'restoran', meaning 'restaurant'. The '-s' ending indicates location within or at something, similar to English prepositions like 'in' or 'at'. This form is used when you want to express being located inside a restaurant or at a specific restaurant."
+  "context": "The word 'restoranis' is in the Estonian locative case (inessive case), indicating location within a place. It means 'in the restaurant'. The root word 'restoran' comes from French 'restaurant', and the suffix '-is' indicates being inside or at a location."
 }

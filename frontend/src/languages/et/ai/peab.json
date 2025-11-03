@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta peab kooli minema.",
-    "Mis ta peab tegema?",
-    "Meie peame homme tööd tegema."
+    "Tema peab kodutööd tegema.",
+    "Ma ei tea, kuidas ta seda teeb, aga ta peab selle ära tegema.",
+    "Kes peab selles kohustuslikku osalemist?"
   ],
   "translation": [
     "must",
     "has to",
-    "needs to",
-    "is obliged to"
+    "needs to"
   ],
-  "context": "The word 'peab' is the 3rd person singular form of the Estonian verb 'pidama', which means 'to have to', 'must', or 'is obliged to'. It indicates necessity, obligation or requirement. In different conjugations, it can appear as 'pean' (I), 'pead' (you), etc."
+  "context": "The Estonian word 'peab' is the third-person singular present indicative form of the verb 'pidama'. It means 'must', 'has to', or 'needs to' and indicates obligation, necessity, or requirement. This is used when talking about what someone (he/she/it) must do or needs to do in the present tense."
 }

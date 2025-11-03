@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on leipä kotona.",
-    "Syömme leivää päivälliseksi.",
-    "Leipä on Suomen suosituin ruoka-aine."
+    "Minä syön leipää aamiaiseksi.",
+    "Hän osti tuoretta leipää kaupasta.",
+    "Leipä on tärkeä osa suomalaista ruokavaliota."
   ],
   "translation": [
-    "bread"
+    "bread",
+    "loaf",
+    "sustenance"
   ],
-  "context": "The Finnish word 'leipä' means bread in English. It is a common food item that refers to various types of baked goods made from flour dough. In Finnish grammar, it follows the basic noun pattern where the nominative form ends with '-ä' and the partitive (object) form adds an extra '-a' becoming 'leivää'."
+  "context": "The word 'leipä' in Finnish means 'bread'. It can refer to bread as a foodstuff, any variety of bread, or even a loaf of bread. The word comes from Proto-Finnic *laipa and is related to Estonian 'leib' and Germanic words like German 'Laib' and English 'loaf'.  It declines based on case; the provided declension table shows how it changes in different grammatical contexts (nominative, genitive, partitive etc.). It can also be used figuratively to mean livelihood or sustenance. The possessive forms show ownership ('my bread', 'your bread' etc.)."
 }

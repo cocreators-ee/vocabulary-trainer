@@ -1,13 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Tallinn on Eesti pealinn.",
-    "Me lähme linna.",
-    "Linnas palju muuseume."
+    "Keskaegne, vana, uus, suur, väike linn.",
+    "Tartu on teaduse ja hariduse linn.",
+    "Noored kipuvad maalt linna, vanad jälle linnast maale (elama)."
   ],
   "translation": [
     "city",
-    "town"
+    "town",
+    "large settlement",
+    "fortified settlement",
+    "castle",
+    "fortress"
   ],
-  "context": "The Estonian word 'linn' means city or town. It can refer to urban settlements of various sizes, from small towns to large cities. In Estonian grammar, 'linn' is a common noun that follows the normal declension patterns for Estonian words."
+  "context": "The Estonian word 'linn' primarily means a city or town - a large settlement with its own administration and legal rights that serves as an economic and cultural center for the surrounding area. It can also refer to fortified settlements, castles, or fortresses in historical contexts. The word has different cases (like genitive 'linna', partitive 'linna') and is commonly used in compound words like 'kesklinn' (city center), 'pealinn' (capital city), and 'ülikoolilinn' (university town)."
 }

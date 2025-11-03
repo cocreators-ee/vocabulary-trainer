@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Teema on huvitav.",
-    "Milline teeme me praegu arutame?",
-    "Kas sa tunned seda teemat?"
+    "Seminari teemaks oli energiakriis.",
+    "See on artikli kirjutamiseks hea teema.",
+    "Kloonimine on praegu populaarne, kuum teema."
   ],
   "translation": [
-    "topic",
+    "theme",
     "subject",
-    "theme"
+    "topic"
   ],
-  "context": "In Estonian, 'teema' is a noun that refers to the main subject or topic being discussed. It can be used in various contexts such as classroom discussions, articles, conversations about specific subjects, or when introducing what will be talked about. The word remains the same regardless of case (nominative, genitive, etc.) but may change based on grammatical requirements within sentences."
+  "context": "The Estonian word 'teema' primarily means theme, subject, or topic - something that serves as the main focus for discussion, writing, music composition, or analysis. It can refer to the central idea of a book, article, musical piece, speech, or conversation. The word comes from Latin 'thema' and Ancient Greek 'théma'. In Estonian grammar, it follows declension patterns with forms like teemad (nominative plural), teemat (partitive singular), teemasse (illative), etc."
 }

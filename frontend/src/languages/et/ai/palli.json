@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Mängime palli.",
-    "Laps viskas palli.",
-    "Palli on kerge"
+    "Võta palli ja viska see väravasse.",
+    "Lapse käes oli väike palli.",
+    "Kas sa nägid seda palli?"
   ],
   "translation": [
-    "ball",
-    "sphere",
-    "orb"
+    "ball (genitive singular)",
+    "ball (partitive singular)"
   ],
-  "context": "In Estonian, 'palli' is the genitive singular form of the word 'pall', which means ball. It indicates possession or relationship to a ball - something belonging to a ball, made from a ball, or related to a ball in some way."
+  "context": "The word 'palli' is a grammatical form of the Estonian noun 'pall'. It appears in two main cases: 1) as the genitive singular form, meaning 'of the ball' or 'belonging to the ball', and 2) as the partitive singular form, which indicates an incomplete action or partial object. In the genitive case, it would be used when talking about something belonging to or associated with a specific ball. In the partitive case, it's often used when you're taking some of the ball, seeing some of the ball, or referring to the ball in an incomplete sense."
 }

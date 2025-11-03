@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Seinällä on kuva.",
-    "Talossa on monta seinää.",
-    "Naapurimme maalasi seinän punaiseksi."
+    "Minulla on seinät täynnä kirjoja.",
+    "Hän maalasi seinät valkoisiksi.",
+    "Rakennuksen seinät ovat hyvin vahvat."
   ],
   "translation": [
-    "wall"
+    "wall",
+    "side",
+    "partition"
   ],
-  "context": "The Finnish word 'seinä' means 'wall' in English. It's a common noun that refers to the vertical structures that enclose and define spaces. In Finnish, it follows standard noun inflection patterns with different cases for grammatical functions - for example, 'seinällä' (on the wall), 'seinää' (partitive case), and 'seinän' (genitive case)."
+  "context": "The word 'seinä' in Finnish means 'wall'. It refers to a substantial structure acting as a side or division in a building. The word declines based on case, and the provided dictionary definitions show various forms for singular and plural nouns, including genitive, partitive, illative cases, and possessive forms indicating ownership (my wall, your wall, etc.).  The 'seinä' can also refer to something figurative like an electrical mains when used in a phrase such as 'kytkin sen seinään', meaning 'I plugged it into the mains'."
 }

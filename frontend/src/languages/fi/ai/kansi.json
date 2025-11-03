@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kansi on veneen osa.",
-    "Tämä kansi on liian korkea.",
-    "Nousimme kannelle."
+    "Kirjan kansi on punainen.",
+    "Laivan kannella oli paljon ihmisiä.",
+    "Pöydän kansi on valmistettu puusta."
   ],
   "translation": [
-    "deck",
-    "floor",
-    "cover"
+    "lid",
+    "cover",
+    "deck"
   ],
-  "context": "The Finnish word 'kansi' refers to a deck or floor surface. It can be used for the deck of a ship, the floor of a building, or as a cover or lid over something. In different contexts, it may refer to the main floor level or a specific structural covering."
+  "context": "The word 'kansi' in Finnish can mean several things depending on the context, including lid, cover, or deck. It refers to a generally flat covering over something like a jar or box (lid/cover), the front and back of a book or magazine (cover), or the floor-like covering on a ship (deck). The word declines based on grammatical case; for example, 'kannen' is the genitive singular form meaning 'of the lid', and 'kansia' is the partitive plural form meaning 'some lids'. It can also refer to the table of a stringed instrument."
 }

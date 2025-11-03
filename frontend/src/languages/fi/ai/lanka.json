@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on lankaa.",
-    "Käytän punaista lankaa.",
-    "Lanka päättyi kesken."
+    "Minulla on punainen lanka.",
+    "Hän sitoi langat yhteen.",
+    "Lanka katkesi neuloessa."
   ],
   "translation": [
+    "thread",
     "yarn",
-    "thread"
+    "wire",
+    "strand"
   ],
-  "context": "The word 'lanka' in Finnish means yarn or thread. It refers to a thin string of material used for sewing, knitting, crocheting, or other crafts. The word can be used in different forms - it's the nominative singular form, and you would see different endings in cases like 'langassa' (in yarn), 'lankaan' (into yarn), etc."
+  "context": "The Finnish word 'lanka' refers to a twisted strand of fiber used for sewing, weaving, or knitting. It can also refer to metal wire or even an internet thread (as in a series of messages on a forum). The word declines based on grammatical case, as shown in the dictionary definitions, indicating its role in a sentence. For example, 'langan' is the genitive form meaning 'of the thread', and 'lankaa' is the partitive form."
 }

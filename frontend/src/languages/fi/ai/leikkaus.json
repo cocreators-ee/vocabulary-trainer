@@ -1,15 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Leikkaus on tehty sairaalassa.",
-    "Minulla oli leikkaus viime vuonna.",
-    "Lääkäri suositteli leikkauksen tekemistä."
+    "Lääkäri teki potilaalle leikkauksen.",
+    "Hän tarvitsi kiireellisen leikkauksen.",
+    "Leikkaus kesti kolme tuntia."
   ],
   "translation": [
+    "cut",
     "surgery",
     "operation",
-    "cutting",
-    "incision"
+    "editing",
+    "intersection",
+    "reduction"
   ],
-  "context": "The Finnish word 'leikkaus' primarily refers to a surgical operation or procedure. It can also refer to the act of cutting or making an incision. In medical contexts, it's commonly used when discussing planned surgeries and operations."
+  "context": "The word 'leikkaus' in Finnish refers to the act or result of cutting. It has a broad range of meanings, including physical cuts like surgical operations, but also abstract concepts such as reductions in economics or editing in film. The word is derived from the verb 'leikata', meaning 'to cut'.  The noun declines based on case; for example, 'leikkauksen' means 'of the cutting/surgery' (genitive), and 'leikkausta' means 'a cutting/surgery' (partitive). There are also possessive forms like 'leikkaukseni' which means 'my surgery'. The plural form is 'leikkaukset'."
 }

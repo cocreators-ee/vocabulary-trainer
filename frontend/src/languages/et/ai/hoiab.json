@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ta hoiab kotti.",
-    "Meie peremees hoiab linna.",
-    "Laps hoiab käes mänguasi."
+    "Laev hoiab purje alumist osa.",
+    "Tuul puhub laevale vasakult paremale halsil.",
+    "Pööras purjelaeva ühelt halsilt teisele."
   ],
   "translation": [
-    "holds",
     "keeps",
+    "holds",
     "maintains"
   ],
-  "context": "The word 'hoiab' is the third person singular present form of the Estonian verb 'hoida', which means to hold, keep, or maintain something. It describes the action of someone currently holding an object in their hands or keeping/something in a particular state."
+  "context": "The word 'hoiab' is the third person singular present form of the Estonian verb 'hoia', meaning 'to keep', 'to hold', or 'to maintain'. In nautical context, it specifically refers to how a ship maintains its position or course relative to the wind. For example, when describing how a ship keeps its sail taut against the mast or maintains a particular course in relation to the wind direction."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minekut ei saa peatada.",
-    "Päevane minek oli äge.",
-    "Alustasime hommikuse mineku."
+    "Kummist, niinest, kõrkjast jalamatt. Koridoris, välisukse ees oli jalamatt.",
+    "Jalamatti peab olema enne ruumi minekut.",
+    "Uue majaminekut on alustatud."
   ],
   "translation": [
     "departure",
-    "leaving",
-    "going away"
+    "exit",
+    "leaving"
   ],
-  "context": "The word 'minekut' is the partitive case form of Estonian noun 'minek', which means departure or leaving. The -t ending indicates it's in the partitive singular case, often used to express 'of a departure' or 'the act of departing'. This form commonly appears when talking about specific departures or the concept of leaving in general."
+  "context": "The word 'minekut' is the partitive case of 'minek', which means departure, exit, or leaving. In Estonian, the partitive case often indicates a partial object or ongoing action. The example sentence shows it used in the context of entering/exiting rooms - 'enne ruumi minekut' means 'before leaving the room'. This word is commonly used when talking about going somewhere, departing from a place, or leaving an area."
 }

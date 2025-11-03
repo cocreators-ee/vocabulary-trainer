@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Puu kasvab aedas.",
-    "See on suur puu.",
-    "Lapsed mänguvad puu all."
+    "Puu kasvab aeglaselt.",
+    "Väikesed puud istutati parki.",
+    "Metsas palju puid."
   ],
   "translation": [
-    "tree"
+    "tree",
+    "wood (material)",
+    "log (for fire)"
   ],
-  "context": "The word 'puu' is the Estonian word for 'tree'. It's a singular noun that refers to a woody perennial plant with a single trunk and branches. In Estonian grammar, it follows standard noun declension patterns in both singular and plural forms."
+  "context": "The Estonian word 'puu' has multiple meanings. It can refer to a tree as a living plant, wood as material, or logs used for firewood. As a noun, it follows specific declension patterns in Estonian with forms like 'puud' (plural nominative), 'puude' (genitive plural), and 'puid' (partitive/plural accusative). It's commonly used to describe both natural trees and wooden objects or materials."
 }

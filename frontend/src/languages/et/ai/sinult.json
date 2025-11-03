@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Sinult võtsid muld.",
-    "Ta ootas sinult vastust.",
-    "Miks sa ei tulnud sinult?"
+    "Ootasin sinult ehtsat sõprust.",
+    "Ta pisarad olid ehtsad, kuigi ta sõnad võisid võltsilt kõlada.",
+    "Need roosid pole ehtsad, vaid paberist."
   ],
   "translation": [
     "from you",
-    "of you",
-    "out of you"
+    "your"
   ],
-  "context": "The Estonian word 'sinult' is an elative case form of the personal pronoun 'sina' (you). It indicates movement or origin from someone, answering questions like 'kellelt?' (from whom?). This case is used when something comes out from someone or originates from them. The '-lt' ending is typical for elative case in Estonian."
+  "context": "The Estonian word 'sinult' is the elative case form of the pronoun 'sina', which means 'you'. It indicates motion or origin away from someone or something. In this context, it specifically means 'from you' and shows that something originates or comes from the person being addressed (you). The elative case typically answers questions like 'where from?' or 'from whom?'. So when we see 'sinult', it's indicating that something is coming from or originating from the listener."
 }

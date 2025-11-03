@@ -1,13 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Minä olen rikas.",
-    "Hän on varakas ja menestyvä.",
-    "Tämä yritys on erittäin rikas."
+    "Hän on erittäin rikas. (He is very rich.)",
+    "Talo oli täynnä rikkaita koristeita. (The house was full of rich decorations.)",
+    "Maa on rikas viljelysmaata. (The land is rich farmland.)"
   ],
   "translation": [
     "rich",
-    "wealthy"
+    "wealthy",
+    "opulent",
+    "well-off",
+    "affluent"
   ],
-  "context": "The Finnish word 'rikas' is an adjective meaning rich or wealthy. It describes someone or something that has a lot of money, property, or valuable possessions. The word can be used to describe people ('olen rikas' - I am rich), companies (yritys on rikas - the company is wealthy), or in general situations where wealth or abundance is being discussed."
+  "context": "The Finnish word 'rikas' means 'rich'. It is an adjective that describes someone or something having a lot of money, possessions, or valuable qualities. The word declines depending on the case and number (singular/plural). For example, 'rikkaan' is the genitive singular form meaning 'of rich', while 'rikkaat' is the nominative plural form meaning 'rich people'. It can also describe land being fertile or something having a lot of detail - e.g. 'idearikas' means 'full of ideas'."
 }

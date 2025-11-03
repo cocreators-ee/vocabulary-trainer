@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma saatsin kirja.",
-    "Ta saatis meile e-kirja.",
-    "Me saatsime pakki jõuludeks."
+    "Saatsin oma arvamuse teemale.",
+    "Ta saatis meile oma arvamuse kirjaga.",
+    "Saadetud arvamus oli väga detailne."
   ],
   "translation": [
-    "sent",
-    "mailed",
-    "dispatched"
+    "opinion",
+    "view",
+    "judgment"
   ],
-  "context": "The word 'saatsin' is the first person singular past tense form of the Estonian verb 'saata', which means 'to send'. It is used when referring to sending something by mail, email, or any other means of transmission in the past. The form indicates that the speaker performed the action of sending."
+  "context": "The Estonian word 'saatsin' is the past tense form of 'saata', meaning 'to send'. In this context, it's used in relation to opinions - sending or delivering an opinion. The dictionary shows examples like 'Saatsin väitekirja kohta oma arvamuse' (I sent my opinion on the thesis) and refers to expert, specialist, institution, commission written opinions."
 }

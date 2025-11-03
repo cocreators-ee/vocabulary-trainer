@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minun täytyy kertoa sinulle tärkeä asia.",
-    "Hän kertoi meille koko tarinan.",
-    "Kerro minulle, mitä tapahtui."
+    "Hän kertoi minulle tarinan.",
+    "Kertovatko he totuuden?",
+    "Minun täytyy kertoa sinulle jotain tärkeää."
   ],
   "translation": [
     "to tell",
-    "to narrate",
-    "to report"
+    "narrate",
+    "relate",
+    "inform"
   ],
-  "context": "The Finnish word 'kertoa' is a verb that means to tell or narrate something. It's commonly used when sharing information, telling stories, or reporting events. The word can be conjugated in various forms depending on the subject and tense - for example, 'kerroin' (I told), 'kerrot' (you tell), 'kertoo' (he/she/it tells)."
+  "context": "The Finnish verb 'kertoa' primarily means 'to tell'. It is a very common and versatile word. It can be used transitively with the allative case to indicate *who* is being told something ('kertoa jollekin', to tell someone). It also appears in many idiomatic expressions, such as 'Huhu kertoo...' (Rumour has it...). The form 'kertovat' is the 3rd person plural present tense, meaning 'they tell'.  The word originates from 'kerta' which means time or occasion and shares roots with words like 'recount' in English. It can also mean to multiply."
 }

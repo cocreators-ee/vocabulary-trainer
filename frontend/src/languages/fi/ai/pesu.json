@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minun täytyy tehdä pesu ennen lähtöä.",
-    "Pesu kone on rikki.",
-    "Hän osti uuden pesuaineen."
+    "Minun täytyy tehdä pesu ennen juhlia.",
+    "Hän kävi pesussa joka päivä.",
+    "Pyykinpesu on tylsää."
   ],
   "translation": [
+    "wash",
     "washing",
-    "laundry",
-    "cleaning"
+    "laundry"
   ],
-  "context": "The Finnish word 'pesu' is a noun that refers to the act of washing or cleaning. It can be used in various contexts such as laundry (pesukone = washing machine), general cleaning activities, or the process of washing something. The word comes from the verb pestä (to wash) and is commonly used in everyday Finnish language."
+  "context": "The word 'pesu' in Finnish refers to the act of washing, or laundry. It can be a noun meaning 'wash' or 'washing', and it is related to the verb 'pestä' which means 'to wash'. The word declines based on case, as shown in the dictionary definition, with different forms indicating who owns the laundry (e.g., 'pesuni' - my washing) or where something is being washed (e.g., 'pesussa' - in the laundry). It can also be used to describe specific types of washing like 'aamupesu' which means morning wash."
 }

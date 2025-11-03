@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on kaksi kissaa ja kolme koiraa.",
-    "Hänellä ei ole autoa.",
-    "Meillä on uusi talo."
+    "Huomenna on torstai.",
+    "Olen menossa tapaamiseen torstaina.",
+    "To on lyhenne sanasta torstai."
   ],
   "translation": [
-    "have/possess",
-    "own"
+    "Thursday"
   ],
-  "context": "The Finnish word 'to' is the third-person singular form of the verb 'olla' (to be), used to indicate possession or existence. When followed by a noun in the partitive case, it means someone has something - similar to the English structure 'someone has/has got'. The subject is indicated by the personal pronoun ending on the verb: hänellä = he/she has; minulla = I have; meillä = we have."
+  "context": "The word 'to' is an abbreviation of the Finnish word 'torstai', which means Thursday. It is used as a shortened form when referring to the day of the week."
 }

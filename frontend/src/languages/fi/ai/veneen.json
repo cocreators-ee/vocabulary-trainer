@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on uusi vene.",
-    "Veneessä oli paljon ihmisiä.",
-    "Ostimme veneen viime kesänä."
+    "Minulla on veneen avaimet.",
+    "Olen menossa veneen kanssa kalastamaan.",
+    "Veneen pohja oli rikki."
   ],
   "translation": [
-    "boat"
+    "of the boat",
+    "boat's"
   ],
-  "context": "The Finnish word 'veneen' is the partitive singular form of the noun 'vene', which means 'boat'. In Finnish, the partitive case is used to indicate an incomplete or partial object. So 'veneen' can be translated as '(a) boat' or '(some) boat' depending on context. It's commonly used when referring to a boat in various situations - having a boat, being in a boat, buying a boat, etc."
+  "context": "The word 'veneen' is the genitive singular form of the Finnish word 'vene', which means 'boat'. The genitive case in Finnish indicates possession or belonging. Therefore, 'veneen' translates to 'of the boat' or can indicate something belonging to the boat, like 'the boat's key'."
 }

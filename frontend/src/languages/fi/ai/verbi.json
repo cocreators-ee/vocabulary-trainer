@@ -1,12 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Verbit opetetaan koulussa.",
-    "Oikea verbin muoto on tärkeä.",
-    "Verbit voivat olla monimutkaisia."
+    "Opettaja selitti uuden verbin käytön.",
+    "Kirjoitin muistiin kaikki verbit listasta.",
+    "Hän opiskeli eri verbien taivutusmuotoja."
   ],
   "translation": [
-    "verb"
+    "verb",
+    "action word"
   ],
-  "context": "The word 'verbi' is a Finnish noun that means 'verb'. In Finnish grammar, it refers to words that express actions, states, or occurrences. Like in English, verbs are essential components of sentences as they indicate what the subject is doing or being. The form of the verb changes depending on tense (past, present, future), mood, person, and number."
+  "context": "The Finnish word 'verbi' means 'verb'. It is a noun that refers to an action or state of being. The word declines based on grammatical case, as shown in the dictionary definition, with different forms for singular and plural, nominative, genitive, partitive, and other cases. For example, 'verbi' is the nominative singular form, while 'verbit' is the nominative plural form. Possessive suffixes can also be added to indicate who owns or relates to the verb."
 }

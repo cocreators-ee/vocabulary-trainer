@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ma otsin infot selle kohta.",
-    "Kas sa saad mulle anda infot?",
-    "Selles dokumendis on palju infot."
+    "Google'i otsimootori abil Internetist mingit infot otsima.",
+    "Guugeldas viktoriini küsimusi, uue töötaja tausta.",
+    "Kui vastust ei tea, siis guugelda."
   ],
   "translation": [
-    "information",
-    "data",
-    "facts"
+    "to google",
+    "searching for information online"
   ],
-  "context": "The word 'infot' is the partitive form of 'info', which means information. In Estonian, the partitive case is often used when talking about amounts or portions of something. So 'infot' specifically refers to some amount or portion of information, rather than just general information in an abstract sense."
+  "context": "The word 'infot' is the partitive form of the Estonian word 'info', meaning 'information'. In these example sentences, it appears in contexts where someone is searching for or looking up specific information using Google or other internet search engines. The phrase 'mingit infot' translates to 'some information' and shows how this word functions as an object when talking about seeking knowledge online."
 }

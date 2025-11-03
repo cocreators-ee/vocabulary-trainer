@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Valed on kehtivad ainult teatud tingimustel.",
-    "Me peame kontrollima valesid andmeid.",
-    "Ta tegi valedeid järeldusi oma uurimusest."
+    "Vead on inimlikud.",
+    "Tegelikult tegid meie valed.",
+    "Kõik vead on parandatud."
   ],
   "translation": [
-    "false",
-    "invalid",
-    "incorrect"
+    "lies (plural)",
+    "falsehoods (plural)",
+    "untruths (plural)"
   ],
-  "context": "The word 'valed' is the plural form of the Estonian adjective 'vale', which means false, invalid, or incorrect. It describes something that is not true, accurate, or valid. In the examples provided, it's used to describe statements (kehtivad), data (andmeid), and conclusions (järeldusi) that are not correct."
+  "context": "The word 'valed' is the nominative plural form of 'vale' in Estonian, meaning 'lies' or 'falsehoods'. It refers to multiple false statements or untruthful claims. In the given dictionary definition, it appears in a sentence suggesting that if we gather together all our lies/falsities ('kui müttame ühte kõik valed'), we might also find truth."
 }

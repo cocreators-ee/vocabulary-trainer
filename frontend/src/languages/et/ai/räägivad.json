@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tüdrukud räägivad kodus.",
-    "Mehed räägivad tööl.",
-    "Lapsed ei räägi veel."
+    "Tüdrukud räägivad vabalt eesti keelt.",
+    "Lapsed räägivad mängu ajast.",
+    "Mehed räägivad spordist."
   ],
   "translation": [
     "talk",
-    "speak",
-    "say"
+    "speak"
   ],
-  "context": "The word 'räägivad' is the 3rd person plural present form of the Estonian verb 'rääkima', which means 'to talk', 'to speak', or 'to say'. It refers to when multiple people are talking/speaking. For example, in the first sentence 'Tüdrukud räägivad kodus' means 'The girls are talking at home.' The word is formed from the root verb 'rääkima' + '-gi-' (present tense marker) + '-vad' (3rd person plural ending)."
+  "context": "The word 'räägivad' is the third-person plural present indicative form of the Estonian verb 'rääkima', which means 'to talk' or 'to speak'. It specifically refers to a group of people (they) who are talking or speaking right now. The '-vad' ending indicates present tense and plural subject in Estonian conjugation."
 }

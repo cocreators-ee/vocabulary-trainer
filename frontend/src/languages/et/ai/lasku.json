@@ -1,15 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Tema laskus alla mäelt.",
-    "Lask oli ohtavalt pikk.",
-    "Peale lasku tuli uuesti üles."
+    "Sõdur tegi täpse lasku sihtmärkile.",
+    "Lasku oli nii kaugel, et me ei kuulnud paistet.",
+    "Laskejoon näitas lasku suunda."
   ],
   "translation": [
-    "descent",
-    "drop",
-    "fall",
-    "decline"
+    "shot",
+    "firing",
+    "bullet trajectory",
+    "line of fire"
   ],
-  "context": "The word 'lasku' is an Estonian noun that means descent, drop, fall, or decline. It's in the nominative case and can refer to physical movement downward (like falling from a height) or figurative decline in value, quality, etc. In context, it might describe someone sliding down a hill, a steep drop-off, or a decrease in something."
+  "context": "In Estonian, 'lasku' refers to a shot or firing from a firearm. It can also mean the bullet trajectory or line of fire. The word is related to military contexts and describes the action of shooting or the path that a projectile takes when fired."
 }

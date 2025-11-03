@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Hän on alhainen mies.",
-    "Minulla on alhainen verenpaine.",
-    "Alhaiset pilvet peittivät taivaan."
+    "Lämpötila on tänään alhainen.",
+    "Hinta oli yllättävän alhainen.",
+    "Alhaiset motivaatiot johtivat huonoihin tuloksiin."
   ],
   "translation": [
     "low",
-    "short (height)",
-    "inferior quality"
+    "humble",
+    "base",
+    "ignoble"
   ],
-  "context": "The Finnish word 'alhainen' is an adjective that primarily means 'low' or 'short'. It can refer to physical height (a short person), level/position (low blood pressure, low status), or quality (low quality). The form shown appears to be in nominative singular. In different contexts it might take different forms: alhainen (nom sing), alempi (comparative), alhaisin (superlative), or decline for case and number such as 'alhaista' (partitive) or 'alhaiset' (nominative plural)."
+  "context": "The word 'alhainen' is a Finnish adjective that means 'low'. It can refer to physical height or position, quantity, social status, or moral character. The form of the word changes depending on its role in the sentence; for example, 'alhaiset' is the plural form meaning 'low' (plural). It declines based on case, as shown in the dictionary definition."
 }

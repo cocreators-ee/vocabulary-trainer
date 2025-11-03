@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tema tööala on arhitektuur.",
-    "See ala vajab tähelepanu.",
-    "Loodusala on hästi kaitstud."
+    "Sellelt alalt on leitud palju rauda.",
+    "Ainuke ala, mis mind huvitab, on ajalugu.",
+    "Ei maksa ala kurta ega haliseda."
   ],
   "translation": [
     "area",
-    "field",
-    "domain",
-    "sphere"
+    "territory",
+    "region",
+    "field (working life/sciences)",
+    "branch (business)"
   ],
-  "context": "The Estonian word 'ala' is a noun that means an area, field, domain, or sphere. It can refer to different types of areas such as work fields (tööala), natural areas (loodusala), or general domains/areas of activity."
+  "context": "The Estonian word 'ala' is a versatile noun that can mean 'area', 'territory', or 'region' when referring to physical spaces. In professional contexts, it means 'field' as in areas of work or study (like 'ajalugu' - history). It can also refer to a 'branch' of business or industry. The word appears in different cases depending on grammatical function: nominative 'ala', genitive 'alade', partitive 'alu' or 'alasid', etc."
 }

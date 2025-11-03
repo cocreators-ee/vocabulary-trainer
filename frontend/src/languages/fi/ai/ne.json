@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä on ne kirjat.",
-    "Minä näin ne autot kadulla.",
-    "Ne ovat hyviä ystäviä."
+    "Tässä ne kirjat nyt ovat.",
+    "Ne ovat punaisia kirjoja.",
+    "Katso noita kirjoja, ne ovat hienoja."
   ],
   "translation": [
-    "those",
-    "they"
+    "they",
+    "those"
   ],
-  "context": "In Finnish, 'ne' is a demonstrative pronoun meaning 'those' when used to refer to things that are not near the speaker, and it's also the third-person plural pronoun meaning 'they'. It can be used for both inanimate objects and people. The word doesn't change form based on gender but does have different cases (like 'niin', 'näiden', etc.)."
+  "context": "The Finnish word 'ne' is a demonstrative pronoun that refers to things or animals. It is the plural form of 'se', meaning 'it' or 'that'.  It can be translated as 'they' or 'those'. The wiktionary definition indicates it’s used for objects not specifically pointed out by the speaker, and colloquially for people. The declension table shows how it changes based on grammatical case (nominative, genitive, etc.)."
 }

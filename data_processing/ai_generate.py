@@ -52,6 +52,12 @@ def main():
     check = False
     regenerate = False
     skip = 0
+    skip_until = None
+    languages = conf.LANGUAGES
+    language_words = {
+        lang: list_words(lang)
+        for lang in conf.LANGUAGES
+    }
 
     if "--check" in sys.argv:
         check = True
@@ -67,24 +73,48 @@ def main():
         skip_idx = sys.argv.index("--skip") + 1
         skip = int(sys.argv[skip_idx])
 
+    if "--skip-until" in sys.argv:
+        skip_until_idx = sys.argv.index("--skip-until") + 1
+        skip_until = sys.argv[skip_until_idx]
+
+    if "--language" in sys.argv:
+        language_idx = sys.argv.index("--language") + 1
+        languages = [sys.argv[language_idx]]
+
+    if "--word" in sys.argv:
+        word_idx = sys.argv.index("--word") + 1
+        language_words = {
+            lang: [sys.argv[word_idx]]
+            for lang in conf.LANGUAGES
+        }
+
     total_start = perf_counter()
     total_words = 0
     processed_words = 0
     reprocessed = 0
 
     try:
-        for language_id in conf.LANGUAGES:
+        for language_id in languages:
             language = conf.LANGUAGES[language_id]
             print(f" ----- {language} -----")
             print("")
 
-            word_list = list(list_words(language_id))
+            word_list = list(language_words[language_id])
             skip_words = min(len(word_list), skip)
             word_list = word_list[skip_words:]
             skip -= skip_words
+            smoothing = 1 if skip_until else 0.05
 
-            word_progress = tqdm(word_list, colour="green", smoothing=0.05)
+            word_progress = tqdm(word_list, colour="green", smoothing=smoothing)
             for word in word_progress:
+                if skip_until:
+                    if word == skip_until:
+                        skip_until = False
+                    else:
+                        continue
+                else:
+                    word_progress.smoothing = 0.05
+
                 word_progress.set_description(f"{word:<24}")
                 reprocessing = False
                 total_words += 1

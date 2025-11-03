@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Sivulla on paljon tietoa.",
-    "Lue tämä sivu huolellisesti.",
-    "Kirjansivut ovat kirjan etu- ja takakannet."
+    "Kirjassa on kolmesataa sivua.",
+    "Neliöllä on neljä sivua.",
+    "Hän käänsi kirjan sivua."
   ],
   "translation": [
-    "page (of a book/document)",
+    "page",
     "side",
-    "margin",
-    "edge"
+    "flank"
   ],
-  "context": "The Finnish word 'sivu' has several related meanings. Most commonly, it refers to a page of a document or book ('kirjan sivu'). It can also mean the side of something, such as the side of a building or object. In some contexts, it may refer to margins on a page or edges/sides of objects. The word is neutral in tone and widely used in everyday Finnish language."
+  "context": "The word 'sivu' in Finnish can mean 'page', referring to a sheet of paper within a book, or 'side', as in the edge of a shape. It can also refer to the flank of something, like a military formation or the side of the body. The word declines based on case, and possessive forms exist to indicate ownership."
 }

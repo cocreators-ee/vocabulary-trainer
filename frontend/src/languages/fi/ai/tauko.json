@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on tauko kello 12.",
-    "Tauko on tärkeä oppimisessa.",
-    "Pidämme lyhyen taukon kahvitauon ajaksi."
+    "Otamme lyhyen tauon ennen jatkamista.",
+    "Juhlamme tarvitsevat pienen tauon suunnittelussa.",
+    "Hän piti viikon tauon töistä."
   ],
   "translation": [
     "break",
     "pause",
-    "interval"
+    "rest",
+    "recess",
+    "hiatus"
   ],
-  "context": "The Finnish word 'tauko' is a noun that means break, pause, or interval. It refers to a period of rest or interruption in an activity. In different contexts, it can be used for work breaks (lunch break), school breaks between classes, or any temporary pause in ongoing activities."
+  "context": "The word 'tauko' in Finnish means a break, pause or rest. It can refer to an interruption in something like speech or work, or a musical rest. The word declines depending on its role in the sentence; for example, 'tauon' is the genitive form meaning 'of the break', and 'taukoa' is the partitive form often used when referring to taking a break. It can also be used in possessive forms like 'taukoni' (my break)."
 }

@@ -1,15 +1,17 @@
 {
   "understood": true,
   "sentences": [
-    "Ma pean lahendama matemaatika ülesande.",
-    "Kas sa oled juba valmis oma esitusega ülesannega?",
-    "Õpetaja andis meile kolm uut ülesannet kodutööks."
+    "Töörühma peamine ülesanne oli maavarade uurimine.",
+    "Matemaatikas oli järgmiseks päevaks teha kaks ülesannet.",
+    "Rahvusparkide esmaseks ülesandeks on looduse kaitsmine."
   ],
   "translation": [
     "task",
     "assignment",
-    "problem",
-    "exercise"
+    "duty",
+    "job",
+    "exercise",
+    "problem"
   ],
-  "context": "The Estonian word 'ülesanne' is a noun that refers to a task, assignment, problem, or exercise that someone needs to complete. It can be used in various contexts such as school assignments (like homework), work tasks, mathematical problems, or any kind of duty one has to fulfill. The word is commonly used in both educational and professional settings."
+  "context": "The Estonian word 'ülesanne' has three main meanings: 1) A task, duty, or job that one is obligated to perform; 2) An exercise or problem given to students in school (like homework); and 3) Purpose or objective. The word can be modified with prefixes like 'eri-' (special), 'pea-' (main/priestly), or 'salaülesanne' (secret assignment). It's commonly used in educational contexts, workplace settings, and when describing objectives or missions."
 }

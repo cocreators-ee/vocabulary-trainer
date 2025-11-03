@@ -1,17 +1,18 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä tyyppi on todella hauska.",
-    "Millainen tyyppi sinä olet?",
-    "Uusi tyyppi muutti naapurustoon."
+    "Matti on hyvä tyyppi.",
+    "Uusi naapurini on omituinen tyyppi.",
+    "Joku tyyppi kävi kysymässä sua."
   ],
   "translation": [
     "type",
     "kind",
-    "sort",
+    "character",
     "guy",
-    "person",
-    "character"
+    "chap",
+    "dude",
+    "person"
   ],
-  "context": "In Finnish, 'tyyppi' is a loanword from English that functions as both a noun and an adjective. As a noun, it means 'type', 'kind', or 'sort'. In colloquial usage, it's also commonly used to refer to a person, similar to how 'guy' or 'character' might be used in English. The word can appear in various contexts from technical descriptions (tyyppi - type) to casual references to people (tuo tyyppi - that guy)."
+  "context": "The word 'tyyppi' in Finnish generally translates to 'type', 'kind', or 'character' in English. It can also refer to a person, often used informally like 'guy' or 'chap'. The word has various grammatical forms depending on its role in the sentence, as shown in the declension table provided. For example, 'tyypit' is the plural form meaning 'types', and possessive forms indicate ownership (e.g., 'tyyppini' means 'my type')."
 }

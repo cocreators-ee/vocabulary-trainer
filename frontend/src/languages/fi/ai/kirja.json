@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Minulla on kirja.",
-    "Ostin uuden kirjan.",
-    "Luen kirjaa joka ilta."
+    "Luenan uuden kirjan.",
+    "Kirja on pöydällä.",
+    "Hän kirjoitti nimensä kirjaan."
   ],
   "translation": [
-    "book"
+    "book",
+    "volume",
+    "textbook"
   ],
-  "context": "The Finnish word 'kirja' means 'book' in English. It is a common noun referring to a written or printed work consisting of pages bound together. In Finnish, nouns have grammatical cases, so you might see different forms like 'kirja' (nominative), 'kirjan' (genitive), 'kirjaa' (partitive) depending on how it's used in the sentence."
+  "context": "The Finnish word 'kirja' means 'book'. It refers to a collection of sheets of paper bound together, containing printed or written material. The word can also refer to a long work fit for publication, or even a major division within such a work.  It declines based on case; the examples show nominative singular ('kirja'), accusative plural ('kirjat'), and partitive singular ('kirjaa')."
 }

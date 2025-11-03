@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Siit siia!",
-    "Tuli siit poolt.",
-    "Sa tuled siit!"
+    "Siit algavad meie maad.",
+    "Jaama on siit kaks kilomeetrit.",
+    "Me kolime siit varsti ära."
   ],
   "translation": [
     "from here",
-    "hence",
-    "thence"
+    "hence"
   ],
-  "context": "The Estonian word 'siit' is an adverb that indicates location or origin. It means 'from here' and is used to specify something originates from the current location or point of reference. The word can also be translated as 'hence' or 'thence' depending on context, but always refers to movement or direction away from the speaker's current position."
+  "context": "The Estonian adverb 'siit' is a proximal deictic word that points to a location near the speaker, indicating where something originates or comes from. It's used when referring to places close to the speaker as opposed to 'sealt' (from there) which refers to distant locations. 'Siit' can also indicate causation - showing what something results from."
 }

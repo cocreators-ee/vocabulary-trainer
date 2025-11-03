@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Palun võta istekoht.",
-    "Aitäh palub.",
-    "Ta palub abi."
+    "Emm, aita mind!",
+    "palub laps ema.",
+    "ema lõi kangakirjad nagu tema ilusama arvas, emm tegi poistele omamoodi."
   ],
   "translation": [
-    "please",
-    "ask",
-    "request"
+    "mother",
+    "mom",
+    "mommy"
   ],
-  "context": "The word 'palub' is the third-person singular form of the verb 'paluma' in Estonian, meaning 'to ask' or 'to request'. When used with 'palun', it creates a polite request similar to 'please' in English. It's commonly used in various contexts from making simple requests to asking for help or information."
+  "context": "The Estonian word 'emm' is an informal term for mother or mom. It's often used by children when addressing their mother or referring to her. In the dictionary definition, it appears in contexts like children calling for their mother ('Emm, aita mind!' - Mom, help me!) and being referred to as their mother's child ('palub laps ema' - the child asks the mother). It can also be used more broadly to refer to an older woman or grandmother (vanaema/vanamemm)."
 }

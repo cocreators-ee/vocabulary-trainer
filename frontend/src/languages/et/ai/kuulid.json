@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Kuulid, mis kell on?",
-    "Oled sa kuule nädalavahetuse plaane?",
-    "Ei ole kuuldud selliseid jutte."
+    "Kuulid on laskemoona osa.",
+    "Sõdur lasi kuule välja.",
+    "Püssis ei olnud kuule."
   ],
   "translation": [
-    "you heard",
-    "have you heard",
-    "it has not been heard"
+    "bullets",
+    "ammunition",
+    "cartridges"
   ],
-  "context": "The word 'kuulid' is the 2nd person plural past tense form of the Estonian verb 'kulema', meaning 'to hear'. In English, it translates to 'you heard' or 'have you heard' depending on context. It's commonly used in questions about information someone has received or in statements about what people have heard."
+  "context": "The word 'kuulid' is the plural form of 'kuli', meaning bullets or ammunition in Estonian. It refers to the small metal projectiles that are fired from firearms. This word specifically denotes the actual projectiles/bullets themselves, not the complete cartridge which includes casing and powder. In Estonian military context, 'kuulid' would be used when referring to the ammunition supply for rifles and pistols."
 }

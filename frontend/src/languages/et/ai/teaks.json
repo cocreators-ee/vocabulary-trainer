@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ma ei teaks täpselt kella.",
-    "Teaksid sa, kus ta elab?",
-    "Kes teaks seda vastust?"
+    "Kui teaks, kes ta on, küllap siis ehk võiks ta vanadusegi üles arvata.",
+    "Nüüd tuli huvitavam osa – hakati üles arvama, mida kumbki abielusse kaasa toob."
   ],
   "translation": [
-    "would know",
-    "might know",
-    "could know"
+    "to guess",
+    "to calculate",
+    "to figure out"
   ],
-  "context": "The word 'teaks' is the conditional mood (conditional I) form of the Estonian verb 'tema' meaning 'to know'. It's used in hypothetical or uncertain situations, similar to how we use 'would know', 'might know', or 'could know' in English. This form indicates a possibility rather than certainty about someone knowing something."
+  "context": "In Estonian, 'teaks' is the conditional form of the verb 'tõdelda' or related verbs. It means 'would know' or 'could guess'. In the provided examples, it's used in contexts where someone would be able to determine something if they knew certain information - such as guessing someone's age ('vanadusegi üles arvata') - figuring out what each person brings to a marriage."
 }

@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ootan oma sõnumit.",
-    "Kas sa said minu sõnumit?",
-    "Tema ei ole veel lugenud oma sõnumit."
+    "Tädi laseb teid kõiki tervitada.",
+    "Professor laseb teatada, et tema loeng jääb täna ära.",
+    "Las ta võtab mulle ka pileti."
   ],
   "translation": [
-    "message",
-    "note",
-    "communication"
+    "to allow",
+    "to let",
+    "to permit"
   ],
-  "context": "The word 'sõnumit' is the partitive case form of the Estonian noun 'sõnum', which means 'message'. In Estonian, nouns change their endings based on grammatical cases. The partitive case (-t ending) is often used to indicate an object that is being acted upon or exists in some quantity. So 'sõnumit' would translate to '(a) message' or '(some) messages' depending on the context."
+  "context": "The word 'sõnumit' is the partitive form of 'sõnum', which means 'message'. In these example sentences, it appears in a context where someone is sending or conveying a message through another person. The structure shows that one person allows/lets another person to deliver or pass on a message."
 }

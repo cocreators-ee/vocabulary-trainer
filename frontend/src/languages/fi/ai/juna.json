@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Juna saapuu asemalle viiden minuutin kuluttua.",
-    "Minä menen junalla Helsinkiin huomenna.",
-    "Junissa on usein ruokavaunuja ja vessat."
+    "Hän matkusti junalla Helsinkiin.",
+    "Juna oli myöhässä tunnin.",
+    "Odotimme junaa asemalla."
   ],
   "translation": [
     "train",
-    "railway train"
+    "railroad"
   ],
-  "context": "The Finnish word 'juna' means 'train' in English. It refers to a railway vehicle that runs on tracks and transports passengers or freight. In Finnish grammar, 'juna' is a common noun that follows the standard declension patterns for Finnish nouns. The plural form of 'juna' is 'junat', which would be used when referring to multiple trains."
+  "context": "The word 'juna' means 'train' in Finnish. It refers to a railroad vehicle used for transporting passengers or goods. The word originates from a Savonian dialectal term meaning 'line, queue', and was coined as the modern sense of 'train' in 1864.  It declines based on case; for example, 'junan' means 'of the train' (genitive), while 'junaa' is used when referring to the train as an object ('the train')."
 }

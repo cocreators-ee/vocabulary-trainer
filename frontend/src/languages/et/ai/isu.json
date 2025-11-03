@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Mul on suur isu magama.",
-    "Olen näljane ja mulle tuleb isu.",
-    "Pärast pikka jooksuringi tuli minule tugev isu."
+    "Isu õunte, maiustuste järele.",
+    "Mul on hea isu.",
+    "Hakkasin hea, suure, täie isuga sööma."
   ],
   "translation": [
-    "hunger",
     "appetite",
-    "craving"
+    "desire",
+    "craving",
+    "hunger",
+    "urge"
   ],
-  "context": "In Estonian, 'isu' is a noun that means hunger or appetite. It refers to the physical feeling of wanting food. The word can be used in various contexts - from everyday hunger to strong cravings for specific foods. In Estonian grammar, it's an inanimate noun and doesn't change form based on gender."
+  "context": "In Estonian, 'isu' primarily means appetite or desire for food. It can also refer to a general craving, urge, or interest in something. The word is commonly used to express hunger or the desire to eat, as well as metaphorical desires for activities or experiences. The declension shows it's type 17/elu with no gradation - genitive and partitive forms remain 'isu', while plural nominative becomes 'isud'. Common compound words include 'söögiisu' (food appetite) and 'hundisu' (wolf-like appetite)."
 }

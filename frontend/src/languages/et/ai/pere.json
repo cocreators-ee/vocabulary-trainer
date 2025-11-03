@@ -1,12 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Minu pere elab Tallinnas.",
-    "Tema pere on suur.",
-    "Meil on väike pere."
+    "Kolmeliikmeline, paljulapseline, lapserikas pere.",
+    "Elame sõbralikult nagu üks pere.",
+    "Sooaluse küla Mihkli pere."
   ],
   "translation": [
-    "family"
+    "family",
+    "household",
+    "farm (with its inhabitants)",
+    "group",
+    "colony (of bees)"
   ],
-  "context": "In Estonian, 'pere' means family. It is a singular noun referring to one's family unit or household. The word does not change form in different contexts - it remains 'pere' whether you're talking about your own family, someone else's family, or in general terms."
+  "context": "In Estonian, 'pere' has multiple related meanings. Most commonly it refers to a family or household group of people living together under one roof. It can also specifically mean a farm with its inhabitants, used historically when contrasting with the farm workers ('pererahvas'). The word extends to groups united by common interests (like theater troupe), families of animals, and even colonies of bees in a hive. Like many Estonian nouns, it declines regularly with partitive 'peret' and illative 'perre'."
 }

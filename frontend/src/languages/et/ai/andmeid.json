@@ -1,13 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Kogu andmeid on salvestatud.",
-    "Vajalikud andmed tuleb esitada homme.",
-    "Andmete analüüs näitas huvitavaid mustreid."
+    "Arvuti töötleb andmeid kiiresti.",
+    "Andmete kogumine on oluline protsess.",
+    "Süsteem vajab rohkem andmeid otsusteks tegemiseks."
   ],
   "translation": [
     "data",
     "information"
   ],
-  "context": "The word 'andmeid' is the partitive form of 'andmed', which means 'data' or 'information'. In Estonian, this represents data in an unspecified amount - similar to saying 'some data' or 'information' in English. The '-d' ending indicates it's in the partitive case, commonly used for objects that are being acted upon or exist in a non-complete quantity."
+  "context": "The word 'andmeid' is the partitive form of 'andmed', meaning 'data' or 'information' in English. In Estonian, the partitive case often indicates an incomplete amount or object that is being acted upon. So when we say 'töötlemiseks andmeid' (for processing data), it suggests we're dealing with some quantity of data without specifying exactly how much."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Täname, et aitasid meie projektis.",
-    "Kas sa aitasid tal kodutööd teha?",
-    "Nad ei aidanud mind eile."
+    "Aitasin vanakest trepist üles minnes kaenla alt.",
+    "Vanemad aitasid mul auto osta.",
+    "Kus viga näed laita, seal tule ja aita."
   ],
   "translation": [
-    "helped",
-    "assisted"
+    "help",
+    "assist",
+    "aid"
   ],
-  "context": "The Estonian word 'aitasid' is the past tense, second person singular form of the verb 'aidata', which means 'to help'. It specifically translates to 'you helped' in English. This form would be used when addressing one person informally about an action that happened in the past."
+  "context": "The word 'aitasid' is the past tense third person plural form of the Estonian verb 'aitama', which means to help or assist. It is commonly used when referring to multiple people who helped in the past, such as parents helping a child with something financial like buying a car, or physical assistance like helping an elderly person climb stairs."
 }

@@ -1,13 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Kes on see?",
-    "Kes tuleb homme?",
-    "Kest mõtleksid?"
+    "Kes seal on?",
+    "Kes need mehed on?",
+    "Kelle ülesandel sa seda teed?"
   ],
   "translation": [
-    "who",
-    "whom"
+    "who"
   ],
-  "context": "The Estonian word 'kes' is an interrogative pronoun used to ask about a person's identity. It corresponds to English 'who' or 'whom'. In questions, it typically appears at the beginning of the sentence when asking about someone's identity."
+  "context": "The Estonian word 'kes' is an interrogative pronoun meaning 'who'. It's used to ask about people or living beings. The word has various case forms depending on its grammatical function in a sentence: kelle (genitive), keda (partitive), kellesse (illative), etc. In addition to its primary use as a question word, it can also be used in relative clauses and with emotional emphasis in statements."
 }

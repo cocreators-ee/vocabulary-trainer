@@ -1,16 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Autolla on pitkä linja.",
-    "Seuraa yhtä linjaa koko matkan ajan.",
-    "Hän johti yrityksen uutta strategista linjaa."
+    "Hän odottaa bussia linjalla.",
+    "Tämä on raitiovaunulinja numero 3.",
+    "Yrityksen linja on keskittyä kestävään kehitykseen."
   ],
   "translation": [
     "line",
     "route",
-    "policy",
-    "strategy",
-    "course"
+    "policy"
   ],
-  "context": "The Finnish word 'linja' can function as both a noun and sometimes in compound words. As a noun, it primarily means 'line' (as in a physical line or mark), 'route' (as in a path to follow), 'policy', 'strategy', or 'course' (direction). It's commonly used in various contexts such as transportation (bus line, train line), strategic planning (company policy/strategy), and describing paths or directions. The word can appear in different forms like 'linja-' as a prefix meaning 'linear' or relating to lines."
+  "context": "The word 'linja' in Finnish can refer to a physical line, like a path or boundary. It also commonly means a route of transportation, such as a bus or tram line. Additionally, it can signify a policy or principle. The word declines based on grammatical case; for example, 'linjan' is the genitive form meaning 'of the line', and 'linjalla' indicates being 'on the line'. It also has plural forms like 'linjat'."
 }

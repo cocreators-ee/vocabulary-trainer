@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Hän oli koulussa.",
-    "Meillä oli hauska päivä.",
-    "Se oli kaunis näkymä."
+    "Hän oli sairas.",
+    "Eilen oli kylmä päivä.",
+    "Oli kiva tavata sinut."
   ],
   "translation": [
     "was",
-    "were",
-    "has been"
+    "were"
   ],
-  "context": "The Finnish word 'oli' is the past tense third-person singular form of the verb 'olla', which means 'to be'. It corresponds to English 'was' when referring to a single subject or entity. In Finnish, verbs conjugate for person and number, so while this specific form means 'was/were' in the simple past tense, other forms like 'olimme' (we were) or 'olivat' (they were) would be used for different subjects. This is one of the most fundamental verb forms in Finnish as it's used to express existence and states in the past."
+  "context": "The word 'oli' is the third-person singular past indicative form of the verb 'olla', which means 'to be'. It translates to 'was' in English. Because Finnish verbs conjugate based on person and tense, 'oli' specifically indicates that something *was* (singular subject) at some point in the past. The word can also translate to 'were' depending on context."
 }

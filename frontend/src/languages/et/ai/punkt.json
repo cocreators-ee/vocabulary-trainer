@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "See on tähtis punkt arutelus.",
-    "Ma olen sama meeli selles punktis.",
-    "Punkt number kolm on kõige olulisem."
+    "Etendus algas punkt kell seitse.",
+    "Minu kell on punkt viis.",
+    "Kaalun punkt 70 kilo."
   ],
   "translation": [
-    "point",
     "dot",
-    "period",
-    "full stop"
+    "point",
+    "article (of clothing)",
+    "item",
+    "period/full stop"
   ],
-  "context": "The Estonian word 'punkt' has multiple meanings depending on context. It can mean 'point' (as in a location or argument), 'dot' (punctuation mark like periods in decimal numbers), 'period/full stop' (the punctuation ending sentences). The word is commonly used in both mathematical contexts and everyday language to mark specific locations, arguments, or punctuation marks."
+  "context": "The Estonian word 'punkt' has multiple meanings depending on context. As an adverb, it means 'exactly' or 'precisely.' As a noun, it can mean a dot/point, article of clothing, item, or period/full stop in writing. It appears to function similarly to the English use of 'sharp' with time expressions (e.g., 'seven sharp')."
 }

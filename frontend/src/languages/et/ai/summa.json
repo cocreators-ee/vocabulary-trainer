@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Arvutage summa.",
-    "See on suurim summa selles plokis.",
-    "Maksa see summa alles homme."
+    "7 ja 5 summa on 12.",
+    "Ehitamiseks puudusid vajalikud summad.",
+    "Toetuseks määratud summad olid väikesed."
   ],
   "translation": [
     "sum",
-    "total amount",
-    "mathematical addition result"
+    "total",
+    "amount"
   ],
-  "context": "In Estonian, 'summa' is a feminine noun that means either the mathematical result of an addition operation or the total amount/price of something. It can be used in financial contexts to refer to sums of money, and in academic/mathematical contexts for calculation results."
+  "context": "The Estonian word 'summa' has two main meanings: 1) In mathematics, it refers to the result of addition (the sum of numbers), as in '7 ja 5 summa on 12' meaning '7 and 5 sum is 12'. 2) It can also refer to a monetary amount or sum of money, such as when discussing finances, loans, payments, or costs. The word follows standard Estonian noun declension patterns with forms like summat (partitive), summast (elative), etc."
 }

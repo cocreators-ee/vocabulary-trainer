@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Rongi peatus jaamas pool tundi hiljem.",
-    "Meil on rongi piletid järgmiseks hommikuks.",
-    "Rongi ootamine jaamas võtab kaua aega."
+    "Rongi koosseisu kuulus kaks vagunit.",
+    "Tallinna saabus rongi peavagun.",
+    "Me ootame rongi platvormil."
   ],
   "translation": [
-    "train",
-    "railway car",
-    "locomotive"
+    "train car",
+    "railroad car",
+    "wagon"
   ],
-  "context": "The word 'rongi' is the genitive singular form of the Estonian noun 'rong', which means train. In this case, it indicates possession or relationship to a train - something belonging to a train, related to a train, or concerning a train. For example, 'rongi peatus' means the train's stop or station stop."
+  "context": "In Estonian, 'rongi' is the genitive singular form of 'rong', meaning train or railroad. As a genitive case, it typically indicates possession or relationship - something belonging to the train or related to the train. In this context, it can refer specifically to train cars or wagons that are part of a train's composition. The dictionary definition confirms this usage as referring to cars/vaguns that can be attached to form a train."
 }

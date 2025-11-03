@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Tere teiega!",
-    "Mul on hea meel teiega kohtuda.",
-    "Kas sa tuled meiega?"
+    "Pagan temaga, las ootab!",
+    "Pagan sinuga, tule siis kaasa!",
+    "Võtke, pagan teiega!"
   ],
   "translation": [
-    "with you",
-    "together with you",
-    "along with you"
+    "with you (plural)",
+    "with him/her/it",
+    "with them",
+    "anyway",
+    "nevertheless"
   ],
-  "context": "The Estonian word 'teiega' is a translative case form of the pronoun 'teie', meaning it indicates accompaniment or association. It translates to English as 'with you' and is used when someone is accompanying or being associated with the person being addressed. The '-ga' ending in Estonian typically means 'with' or 'accompanied by'."
+  "context": "The word 'teiega' is a case form in Estonian that means 'with you' (plural formal). It's part of the adessive case used to indicate accompaniment or instrumentality. In expressions like 'Pagan teiega', it functions as an intensifier meaning 'anyway' or 'nevertheless' when used with dismissive or emphatic tone, similar to how 'for God's sake' might be used in English but without religious connotations."
 }

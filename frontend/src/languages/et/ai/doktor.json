@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tema on doktor.",
-    "Ta on tuntud arst ja doktor.",
-    "Kõik austavad seda doktorit."
+    "Ta on nüüd doktor ja professor.",
+    "Doktor Kallas, tuntud kirurg.",
+    "Doktor ütles, et haige paraneb hästi."
   ],
   "translation": [
-    "doctor",
-    "physician",
-    "Dr."
+    "doctor (person who has obtained a doctorate)",
+    "doctor (physician)",
+    "Dr. (title)"
   ],
-  "context": "The Estonian word 'doktor' means doctor or physician and is used to refer to a medical practitioner who has completed doctoral studies. It can be used as both a noun referring to the person's profession and as a title prefix before someone's name, similar to how it's used in English."
+  "context": "In Estonian, 'doktor' is a versatile word with two main meanings: 1) the highest academic degree awarded by universities, referring to someone who has earned a doctorate; 2) a physician or medical doctor, used as both a title and profession name. The word can function as a common noun when referring to people with doctoral degrees, or as a professional title for doctors. It follows Estonian grammatical patterns with specific case endings like 'doktorit' (partitive), 'doktori' (genitive), etc."
 }

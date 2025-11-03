@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Vanemad on lapsed ja lapsevanemad.",
-    "See on minu vanema õe raamat.",
-    "Temaga koos elab tema vanem vend."
+    "Vanem vend andis nooremale tuupi.",
+    "Klassi vanim õpilane.",
+    "Noorem, keskmine, vanem kooliiga."
   ],
   "translation": [
     "elder",
     "older",
-    "senior"
+    "senior",
+    "parent"
   ],
-  "context": "The word 'vanem' in Estonian means elder or older when used as an adjective, and can also refer to elders (parents) when used as a noun. It's the comparative form of 'vana' meaning old. In its plural form 'vanemad', it specifically refers to parents."
+  "context": "The word 'vanem' in Estonian has two main uses: 1) As an adjective meaning 'elder', 'older', or 'senior' when comparing age or position (comparative form of 'vana'). It can refer to people, animals, or objects that are older than others. 2) As a noun meaning 'parent' (father or mother). The word changes its form based on case and number in Estonian grammar."
 }

@@ -1,16 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tervis on hea, tundub, et oled täiesti hale.",
-    "Lapse olek oli hästi ja ta nägi väga halena.",
-    "Pärast haigust ta on jälle täielikult hale."
+    "Tegin hale juhtmeid.",
+    "Vaserooste on ohtlik metalli häving.",
+    "Paatina võib tekitada halbu terviseprobleeme."
   ],
   "translation": [
-    "healthy",
-    "well",
-    "in good health",
-    "fine",
-    "alright"
+    "galvanic corrosion",
+    "metal deterioration"
   ],
-  "context": "The Estonian word 'hale' is an adjective that describes a state of being healthy, well, or in good condition. It's commonly used to describe someone who has recovered from illness or is currently in good health. The word can be used for both people and animals when referring to their physical condition. For example, it might be said about someone after they've been sick but are now fully recovered. The opposite would be 'halb' (sick/ill)."
+  "context": "In Estonian, 'hale' appears to be a technical term referring to galvanic corrosion or metal deterioration. The word is used in metallurgical and engineering contexts to describe the process where metals degrade due to electrochemical reactions. This could refer specifically to vaserooste (galvanic corrosion) or paatina (metal deterioration/erosion)."
 }

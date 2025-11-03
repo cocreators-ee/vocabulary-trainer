@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "See on vahet.",
-    "Tuleb teha vahet.",
-    "Miks sa ei tee vahet?"
+    "vahet tegema - to differentiate",
+    "Toidukaupade hinnad on vööndite järgi diferentseeritud. - Food prices are differentiated by region.",
+    "Palk diferentseeritakse töö keerukusest sõltuvalt. - Salary is differentiated depending on the complexity of work."
   ],
   "translation": [
-    "change",
-    "substitution",
-    "exchange",
-    "difference"
+    "to differentiate",
+    "distinguish",
+    "discriminate"
   ],
-  "context": "The Estonian word 'vahet' is the partitive form of 'vahetus', which means change or substitution. It's used when referring to a change that needs to be made, an exchange, or a difference in various contexts."
+  "context": "In Estonian, 'vahet' appears as part of compound verbs like 'vahet tegema' (to differentiate) and is used in contexts where distinguishing between different categories, levels, or types is involved. It's commonly seen in mathematical contexts (finding derivatives) but also more generally in contexts like salary differentiation based on work complexity or pricing differentiated by region."
 }

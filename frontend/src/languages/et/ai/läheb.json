@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Lägeb homme kell seitse.",
-    "Kuidas lägeb teiega?",
-    "Mida sulle lägeb?"
+    "Minu sõber läheb koju.",
+    "Lapsed lähevad kooli hommikuti.",
+    "Tema läheb tööle kell kaheksa."
   ],
   "translation": [
     "goes",
     "is going",
-    "happens",
-    "turns out"
+    "leaves"
   ],
-  "context": "The Estonian word 'läheb' is the 3rd person singular present tense form of the verb 'minema' (to go). It can be used in various contexts: 1) To describe movement or travel - someone/something goes/is going somewhere, 2) To ask about how something or someone is doing (similar to English 'How's it going?'), 3) In questions asking what is happening with someone. The word changes form based on tense and subject."
+  "context": "The word 'läheb' is the third-person singular present indicative form of the Estonian verb 'minema', which means 'to go'. It's used when talking about someone (he/she/it) going or leaving in the present tense. For example, 'Minu sõber läheb koju' means 'My friend goes/is going home'. The word conjugates differently based on subject and tense - this specific form is for third person singular present."
 }

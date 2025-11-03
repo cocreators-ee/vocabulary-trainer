@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tämä makuu on kuiva.",
-    "Kuivat lehdet räsähtävät jalassa.",
-    "Hän kuivasi kätensä pyyhkeeseen."
+    "Hän kuivaa pyykkinsä parvekkeella.",
+    "Kirja on vielä kuiva sateesta huolimatta.",
+    "Kuiva heinä oli valmiina talveksi varastossa."
   ],
   "translation": [
     "dry",
-    "dried"
+    "arid",
+    "parched"
   ],
-  "context": "The Finnish word 'kuiva' is an adjective meaning 'dry'. It can be used to describe things that lack moisture or are not wet. The word changes form depending on the case and number it's in - for example, in the nominative singular it's 'kuiva', but in partitive singular it would be 'kuivaa'. It can also appear as 'kuivat' in the nominative plural form. This word is commonly used to describe weather conditions (dry weather), objects that are dry (dry clothes), or materials that have lost moisture (dry leaves)."
+  "context": "The Finnish word 'kuiva' means 'dry'. It is an adjective that describes something lacking moisture. The word can also be used as a verb meaning to dry something.  It declines based on case, with forms like 'kuivan' (genitive singular) and 'kuivat' (nominative plural). There are many possessive forms as well, such as 'kuivani' (my dry), 'kuivasi' (your dry), etc. The word has a wide range of uses, from describing weather to the state of objects."
 }

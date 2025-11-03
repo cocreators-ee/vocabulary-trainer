@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Autoni kuluminen näkyy renkaissa.",
-    "Tämä kulu on normaalia kuluminen.",
-    "Kuluminen tapahtuu hitaasti."
+    "Auton renkaiden kuluminen on normaalia käytössä.",
+    "Kuluminen johtaa lopulta osien vaihtoon.",
+    "Vanhojen kenkien kuluminen näkyy pohjissa."
   ],
   "translation": [
     "wear and tear",
-    "wearing down",
-    "degradation"
+    "wearing",
+    "attrition",
+    "depreciation",
+    "erosion"
   ],
-  "context": "The Finnish word 'kuluminen' is a noun that refers to the process of wearing out, deteriorating, or being worn down over time. It describes gradual deterioration or wear through use. The word comes from the verb 'kulia' (to wear/wear out) and the '-minen' suffix indicating an ongoing process or state."
+  "context": "The word 'kuluminen' refers to the process of something wearing down or deteriorating through use. It is a verbal noun derived from the verb 'kulua', which means 'to wear out'. The word can be inflected into different cases, as shown in the dictionary definition, indicating possession and grammatical role within a sentence. For example, 'kulumiset' is the plural nominative form, while 'kulumiseni' indicates 'my wearing'."
 }

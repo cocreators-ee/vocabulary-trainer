@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Minun luokkani on kolmas kerros.",
-    "Tule luokkaan, sinulla on puhelu.",
-    "Opettajamme tulee luokan jälkeen."
+    "Opiskelijat istuivat luokassa.",
+    "Hän on seitsemännellä luokalla.",
+    "Luokka oli täynnä oppilaita."
   ],
   "translation": [
-    "classroom",
+    "class",
     "grade",
-    "form"
+    "school class",
+    "category"
   ],
-  "context": "The Finnish word 'luokka' has multiple related meanings depending on context. It can refer to a physical classroom/school room where teaching takes place, the grade or form level in school (like 'third class'), or social groups/classes more generally."
+  "context": "The word 'luokka' in Finnish refers to a group of people or things sharing similar characteristics. It can mean a school class, a grade level in education, or a category in general. The word declines based on grammatical case, as shown in the provided dictionary definitions, indicating its role in a sentence (nominative, genitive, partitive, etc.)."
 }

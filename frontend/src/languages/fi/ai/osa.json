@@ -1,16 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Osaan suomea.",
-    "Minulla on osa-alueiden ymmärrys.",
-    "Tämä kirja on tärkeä osa kokoelmaamme."
+    "Koko Gallia on jaettu kolmeen osaan.",
+    "Suurimmalla osalla ystävistäni on auto.",
+    "Osa heistä oli eri mieltä."
   ],
   "translation": [
     "part",
+    "piece",
     "portion",
     "share",
-    "division",
-    "section"
+    "bit"
   ],
-  "context": "The Finnish word 'osa' is a noun that means 'part,' 'portion,' or 'share.' It refers to a division, section, or component of something larger. The word can be used in various contexts - from talking about parts of objects (like car parts) to abstract concepts like parts of knowledge, portions of food, or shares of ownership. In Finnish grammar, it's an inflectional noun that changes form based on case and number."
+  "context": "The Finnish word 'osa' translates to 'part', 'piece', or 'portion' in English. It can refer to a fraction of a whole, a distinct element of something larger, or an individual contribution. The word declines based on case and number; for example, 'osan' is the genitive singular form ('of the part'), while 'osat' is the nominative plural ('parts').  The suffix '-osa' can also be added to other words to indicate a component or section (e.g., 'pääosa' - main part/role)."
 }

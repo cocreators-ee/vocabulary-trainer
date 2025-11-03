@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Sodan aikana monet ihmiset joutuivat pakenemaan kodeistaan.",
-    "Maa oli pitkään rauhan jälkeen sodasta.",
-    "Sodat ovat usein kauhistuttavia kokemuksia."
+    "Venäjän ja Ukrainan välinen sota on jatkunut jo yli vuoden.",
+    "Hän osallistui talvisotaan vapaaehtoisena.",
+    "Rauhanneuvottelut ovat ainoa tapa lopettaa sota."
   ],
   "translation": [
     "war",
-    "armed conflict"
+    "conflict",
+    "hostilities",
+    "fighting"
   ],
-  "context": "The Finnish word 'sota' means war or armed conflict. It's a common noun that refers to large-scale organized violence between countries or groups. In Finnish, it can be used in different cases and forms such as the genitive form 'sodan' (of war) and plural form 'sodat' (wars)."
+  "context": "The word 'sota' in Finnish means 'war'. It refers to an armed conflict between different countries or groups. The word can also be used figuratively, for example, to describe a campaign against something or business competition.  It declines based on grammatical case; the provided dictionary definitions show the nominative and genitive forms ('sota', 'sodan') as well as plural forms ('sodat', 'sotien'). Possessive suffixes are also shown, indicating who owns or is associated with the war (e.g., 'sotamme' - our war)."
 }

@@ -1,13 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Miehet, jotka tulivat juhliin olivat myöhässä.",
-    "Naiset, joiden puvut olivat kauniit, saapuvi ensin.",
-    "Talo, jossa asun on vanha ja kallis."
+    "Ihmiset, jotka ovat täällä.",
+    "Ihmiset, jotka tapasin täällä.",
+    "Opiskelijat, jotka opiskelevat ahkerasti menestyvät."
   ],
   "translation": [
     "who",
-    "which"
+    "whom",
+    "which",
+    "that"
   ],
-  "context": "The Finnish word 'jotka' is a relative pronoun that means 'who' or 'which' in English. It's used to connect clauses and provide additional information about people or things. Specifically, 'jotka' is the plural form of the relative pronoun 'jonka', which corresponds to English 'that/which'. In Finnish grammar, relative pronouns agree in number with the noun they refer to - so 'jotka' is used when referring to multiple people or things (plural), while 'jonka' would be used for singular references."
+  "context": "The Finnish word 'jotka' is a nominative/accusative plural pronoun meaning 'who', 'whom', or 'which'. It is the plural form of 'joka'. The provided dictionary definitions show its declension in various grammatical cases, including genitive, partitive, illative, and possessive forms. For example, 'jotkamme' means 'our who/whom/which'."
 }

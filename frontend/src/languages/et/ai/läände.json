@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mine läände.",
-    "Läände on ilus linn.",
-    "Tema sõitis läände."
+    "Kruvid mutrid keeratakse kinni päripäeva.",
+    "Õllekapp käis meeste käes päripäeva ringi.",
+    "Tuule suund pöördus pisut päripäeva."
   ],
   "translation": [
-    "west",
-    "toward the west"
+    "clockwise",
+    "with the sun",
+    "in the direction of the sun's movement"
   ],
-  "context": "The Estonian word 'läände' is an adessive case form of the word 'lääs', which means 'west'. It indicates direction toward the west. The '-e ending shows it's in the adessive case, which typically expresses location on or at something, but can also indicate direction when used with verbs of motion."
+  "context": "Läände is an Estonian adverb that means 'clockwise' or 'in the direction of the sun's movement'. It refers to movement following the apparent path of the sun across the sky from east through south to west. This directional term is commonly used when describing rotational movements, such as tightening screws, arranging things in a circle, or wind directions."
 }

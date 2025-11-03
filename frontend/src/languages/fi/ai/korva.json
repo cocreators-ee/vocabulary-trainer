@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Korvasi ovat suuret.",
-    "Minulla on kipeä korva.",
-    "Hän kuuli äänen vain yhdellä korvalla."
+    "Minulla on korvat.",
+    "Hän kuuli kuiskeen korvalla.",
+    "Korvaan sattuu."
   ],
   "translation": [
     "ear",
-    "ear of corn"
+    "hearing",
+    "sense of hearing"
   ],
-  "context": "In Finnish, 'korva' means 'ear' (the body part) or 'ear of corn'. It can refer to the hearing organ on either side of the head, or to the grain ear of a corn plant. The word is in singular form here."
+  "context": "The Finnish word 'korva' means 'ear'. It refers to the organ of hearing. It can also figuratively mean the sense of hearing itself. The word declines based on case, as shown in the dictionary definition, and possessive forms exist to indicate ownership (my ear, your ear, etc.)."
 }

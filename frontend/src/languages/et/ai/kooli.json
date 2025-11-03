@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Mina lähen kooli.",
-    "Tüdruk jooksis kooli.",
-    "Meie käime kooli."
+    "Kooli lõpetamiseks vajalik on hea atestaat.",
+    "Ta sai kooli atestaadi suurepäraste tulemuste eest.",
+    "Atestaadid annavad ülevaate õpilase edasijõudmise kohta."
   ],
   "translation": [
-    "to school",
-    "at school"
+    "certificate",
+    "testament",
+    "attestation"
   ],
-  "context": "The Estonian word 'kooli' is the illative case of the noun 'kool', meaning 'school'. In Estonian, the illative case indicates movement towards a place or entering into a space. So 'kooli' specifically means 'to school' or 'at school' when referring to movement toward being in the school building or area."
+  "context": "The word 'kooli' in this context means 'school-related' or 'from school'. It's used here as part of the phrase 'kooli atestaat' which refers to a certificate issued by a school, such as a graduation certificate. The 'kooli' form is the genitive case of 'kool' (school), indicating that the certificate comes from or relates to the school."
 }

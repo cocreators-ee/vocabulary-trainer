@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tere hommikust!",
-    "Hommikust saabusid külalised.",
-    "Me kohtusime hommikust."
+    "Tuli hommikust kella kaheksa juures.",
+    "Päike tuli hommikust läbi akna.",
+    "Jõudsin hommikust tööle."
   ],
   "translation": [
-    "in the morning",
-    "from morning",
-    "since morning"
+    "from the morning",
+    "since morning",
+    "in the morning"
   ],
-  "context": "The Estonian word 'hommikust' is an inessive case form of the noun 'hommik', which means 'morning'. The '-st' ending indicates it's in the elative case, suggesting origin or source. It can mean 'from the morning', 'since morning', or be used to indicate a time period starting from morning."
+  "context": "The word 'hommikust' is an Estonian adverb that functions as the elative case form of 'hommik' (morning). It indicates movement from or origin in time - specifically 'from the morning' or 'since morning'. The '-st' ending is characteristic of the elative case in Estonian, which shows direction away from something. In this context, it's temporal rather than spatial, indicating when something started or came from."
 }

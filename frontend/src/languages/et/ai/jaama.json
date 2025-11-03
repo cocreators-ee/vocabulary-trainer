@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Jaamas olin viimati eelmisel nädalal.",
-    "Tuleme kohtuma jaama esimesel platvormil.",
-    "Jaamahoone on renoveeritud."
+    "Tallinnast Ülemisteni on vaid üks jaamavahe.",
+    "Sõita jäi veel paar jaamavahet.",
+    "Jaama lähedal peame peatuma."
   ],
   "translation": [
-    "station",
-    "depot",
-    "terminal"
+    "station (genitive singular)",
+    "station (partitive singular)",
+    "station (illative singular)"
   ],
-  "context": "The word 'jaama' is the genitive case form of the Estonian noun 'jaam'. In Estonian, the genitive case indicates possession or association. So 'jaama' means 'of station', 'from station', 'at station', or similar depending on context. It's used when the station is the object rather than the subject in a sentence."
+  "context": "The word 'jaama' is a grammatical form of the Estonian noun 'jaam'. It appears in three different cases: genitive singular, partitive singular, and illative singular. In context, it's often used to show possession or relationship with a train station - for example, 'jaama lähedal' means 'near the station'. The word can also appear as 'jaamavahe' (station interval/distance between stations) in compound words like the example sentence showing the distance between Tallinn and Ülemiste."
 }

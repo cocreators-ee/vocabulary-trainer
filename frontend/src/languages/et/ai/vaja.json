@@ -1,15 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Vajame abi.",
-    "Tal on vaja puhata.",
-    "Mul pole vajanud midagi."
+    "Põllule on kibedasti lisatööjõudu vaja.",
+    "Saame ise hakkama, abilisi pole vaja.",
+    "Meil oleks rohkem raha vaja, aga kust seda võtta?"
   ],
   "translation": [
-    "need",
-    "requirement",
-    "necessity",
-    "to need"
+    "needed",
+    "necessary",
+    "required"
   ],
-  "context": "The Estonian word 'vaja' is a noun that means 'need', 'requirement', or 'necessity'. It can also function as part of the verb construction 'on vaja' which means 'it is necessary' or 'one needs'. In its basic form, it expresses lack or necessity. The word often appears in constructions with the genitive case to indicate what is needed."
+  "context": "The Estonian word 'vaja' is an adverb that indicates a need or necessity for something. It's commonly used to express what is needed, required, or necessary in various contexts - from physical objects and people to actions and conditions. The word often appears after the noun it relates to (unlike English where 'needed' typically comes before). For example: 'tööjõudu vaja' means 'workforce is needed', 'abilisi pole vaja' means 'helpers are not needed'. It's a very common and essential word in Estonian daily language."
 }

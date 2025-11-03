@@ -1,14 +1,15 @@
 {
   "understood": true,
   "sentences": [
-    "Yhteensä viisi henkilöä oli paikalla.",
-    "Lasku yhteensä on 50 euroa.",
-    "Tässä on yhteensä kolme erilaista vaihtoehtoa."
+    "Opiskelijat keräsivät yhteensä 500 euroa hyväntekeväisyyteen.",
+    "Kustannukset olivat yhteensä noin 1000 dollaria.",
+    "Yhteensä viisi henkilöä loukkaantui onnettomuudessa."
   ],
   "translation": [
-    "in total",
     "altogether",
-    "combined"
+    "in total",
+    "combined",
+    "collectively"
   ],
-  "context": "The Finnish word 'yhteensä' is an adverb that means 'in total', 'altogether', or 'combined'. It's used to indicate the sum or total amount of something. The word consists of 'yhte-' (together) and '-ensä' (reflexive/possessive suffix), literally meaning 'for itself' - implying a complete count or sum."
+  "context": "The word 'yhteensä' is a Finnish adverb that means 'altogether', 'in total', or 'combined'. It indicates a sum or collection of things. The word is formed from 'yhteen' (together) and '-nsä', which adds the sense of 'all together'. It can be used to express the total amount of something, or to indicate that several things are being considered as one group."
 }

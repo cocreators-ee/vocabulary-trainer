@@ -1,14 +1,12 @@
 {
   "understood": true,
   "sentences": [
-    "Küsi tal temalt abi.",
-    "Ma küsin emalt, kuidas koogi valmistada.",
-    "Küsite meilt täiendavat informatsiooni?"
+    "Küsi mult abi, kui sul on mure.",
+    "Ma küsisin temalt, mis kell on.",
+    "Sa ei pea midagi küsima."
   ],
   "translation": [
-    "ask",
-    "inquire",
-    "request information"
+    "to ask"
   ],
-  "context": "The word 'küsi' is the second-person singular form of the verb 'küsima', which means 'to ask' in English. It's used when speaking directly to one person (informal you) to request information or something from them. The base form 'küsima' can be conjugated into different forms depending on who is asking and whether it's a formal or informal situation."
+  "context": "The Estonian word 'küsi' means 'to ask'. It is the imperative form (command) of the verb küsima. In the first sentence it's used in imperative to tell someone to ask for help, in the second as past tense küsisin meaning 'I asked', and in the third with negation ei pea meaning 'you don't need to ask'."
 }

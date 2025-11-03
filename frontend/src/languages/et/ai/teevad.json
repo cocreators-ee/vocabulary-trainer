@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tead teevad head tööd.",
-    "Lapsed teevad kodutöid.",
-    "Meie teevad koos jalgrattaga sõitu."
+    "Tead teie, mis kell on?",
+    "Teeme koostööd ettevõtetega.",
+    "Kes teeb need tööd?"
   ],
   "translation": [
-    "do",
-    "make",
-    "perform"
+    "they do/make",
+    "you (plural) do/make"
   ],
-  "context": "The Estonian word 'teevad' is the 3rd person plural present tense form of the verb 'tegema', which means 'to do'. It is used when talking about what a group of people or entities are doing in the present moment. This form follows the subject-verb-object structure common in Estonian sentences."
+  "context": "The word 'teevad' is the third-person plural present indicative form of the Estonian verb 'tegema', which means 'to make' or 'to do'. It can translate to English as 'they do' or 'they make' when referring to a third person (he/she/they), and also as 'you do' or 'you make' in formal address. The word follows the conjugation pattern where -ma verbs form their present tense by dropping the final -a and adding appropriate endings. In this case, -vad is added for third-person plural subjects."
 }

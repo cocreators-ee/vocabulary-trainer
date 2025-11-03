@@ -1,14 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Hoito on tärkeä osa terveydenhuoltoa.",
-    "Potilas tarvitsee säännöllistä hoitoa.",
-    "Eläinlääkärin antama hoito auttoi eläintä toipumaan."
+    "Lapsi tarvitsee hoitoa.",
+    "Hän käy säännöllisesti hammas hoidossa.",
+    "Potilas sai intensiivistä hoitoa."
   ],
   "translation": [
     "care",
     "treatment",
-    "handling"
+    "therapy",
+    "nursing",
+    "maintenance"
   ],
-  "context": "In Finnish, 'hoito' is a noun that refers to care, treatment, or handling. It's commonly used in medical contexts for healthcare and medical treatments, but can also refer to general care of people, animals, or things. The word comes from the verb 'hoitaa' (to take care of, to treat)."
+  "context": "The Finnish word 'hoito' refers to care, treatment, or therapy. It can describe the act of looking after someone in need, maintaining something, or a specific medical procedure. The word declines based on grammatical case; for example, 'hoidot' is the plural form meaning 'cares' or 'treatments'. Possessive forms also exist to indicate who is receiving or providing the care (e.g., 'hoitoni' means 'my care')."
 }

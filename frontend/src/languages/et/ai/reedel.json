@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Reedel on ilus päev.",
-    "Me lähme reedeli hommikul poodi.",
-    "Reedel tuleb töölt varakamalt lahti."
+    "reedene kontsert",
+    "reedesed tunnid, loengud",
+    "reedese päev"
   ],
   "translation": [
-    "Friday"
+    "occurring on Friday",
+    "happening on Friday",
+    "that takes place on Friday"
   ],
-  "context": "The word 'reedel' is the Estonian word for Friday, which refers to the fifth day of the week. In Estonia and other countries using the Gregorian calendar, it follows Thursday (neljapäev) and precedes Saturday (laupäev)."
+  "context": "The word 'reedel' is an Estonian adjective that means something happening or occurring specifically on Friday. It's formed from the noun 'reede' (Friday) and the suffix '-ne' which turns nouns into adjectives describing properties related to that noun. So anything described as 'reedel' or in plural form 'reedesed' refers to events, activities, or things that happen on Fridays."
 }

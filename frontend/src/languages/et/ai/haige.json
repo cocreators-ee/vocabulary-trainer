@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Haige laps peab puhkama.",
-    "Tema on haige ja ei saa tööle minna.",
-    "Kas sa oled haige?"
+    "Ta on raskesti haige.",
+    "Kopsud on haiged.",
+    "Lapsel on kõht haige."
   ],
   "translation": [
     "sick",
-    "ill",
-    "unwell"
+    "ill"
   ],
-  "context": "The word 'haige' is an Estonian adjective meaning 'sick' or 'ill'. It describes a person who is not well and may need rest or medical attention. In the first sentence, it's in nominative case modifying 'laps' (child). In the second sentence, it's used predicatively to describe someone's state. The third sentence shows it being used in question form. When using this word, remember that Estonian adjectives must agree with the noun they modify in number and case."
+  "context": "The Estonian word 'haige' has multiple meanings depending on its grammatical form. As an adjective, it means 'sick' or 'ill', referring to someone who is in poor health suffering from a disease (e.g., 'haige inimene' - sick person). In the partitive case, when combined with verbs like 'saama' (to get) or 'tegema' (to do), it means 'pain' or 'hurt' (e.g., 'põlv teeb haiget' - knee hurts). As a noun, 'haige' refers to a sick person. It can also be used figuratively in compound words to describe someone with an intense passion for something (e.g., 'raamatute haige' - book enthusiast/obsessed with books)."
 }

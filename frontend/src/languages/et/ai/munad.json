@@ -1,12 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Munad on hea toit.",
-    "Mul on munad külmikus.",
-    "Tema sööb mune hommikuti."
+    "Kalad munevad oma munadesse.",
+    "Merekalade munad on väikesed ja peened.",
+    "Lõigatud kalamari näeb välja nagu munad."
   ],
   "translation": [
-    "eggs"
+    "fish eggs",
+    "roe",
+    "caviar"
   ],
-  "context": "The word 'munad' is the plural form of the Estonian word 'muna', which means 'egg'. It refers to eggs as a food item or in general. In Estonian, nouns have different forms for singular and plural, and 'munad' specifically indicates multiple eggs."
+  "context": "In Estonian, 'munad' means fish eggs or roe. It refers to the eggs produced by fish in their ovaries, which can be eaten as food. The word is often used when referring to processed fish eggs like caviar or other forms of fish roe consumed as seafood."
 }

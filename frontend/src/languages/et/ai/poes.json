@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Tema poes on palju raamatuid.",
-    "Mees poes otsib head kingitust.",
-    "Lapsed käivad poes igal nädalavahetusel."
+    "Tuli poes käima.",
+    "Olen poes ostanud leiva.",
+    "Poes on avatud kell kuni seitse."
   ],
   "translation": [
     "in the store",
-    "at the shop",
-    "in the shop"
+    "at the shop"
   ],
-  "context": "The word 'poes' is the inessive case (location where something is) of the Estonian noun 'pood', which means 'shop' or 'store'. It indicates location inside a shop/store. The inessive case is formed by adding '-s' to the genitive stem."
+  "context": "The word 'poes' is the inessive singular form of the Estonian noun 'pood', which means 'store' or 'shop'. It indicates being inside a store or at a location. In this case, it specifically refers to being physically located within a commercial establishment where goods are sold."
 }

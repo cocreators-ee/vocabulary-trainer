@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Tüdrukut on meie klassis.",
-    "Ma nägin tüdrukut pargis.",
-    "Kes see tüdrukut?"
+    "Tüdrukut ei tohi käega katsuda!",
+    "Katsu, et sa kaod!",
+    "Poiss katsus tüdrukut suudelda."
   ],
   "translation": [
-    "girl (partitive case)",
-    "daughter (partitive case)"
+    "touch with hands (slightly)",
+    "fondle",
+    "handle"
   ],
-  "context": "The word 'tüdrukut' is the partitive form of the Estonian noun 'tüdruk', which means 'girl' or 'daughter'. In Estonian, the partitive case is used to indicate partialness, indefiniteness, or when an object is affected by some action. It's commonly used with certain verbs and in specific grammatical constructions."
+  "context": "The word 'tüdrukut' is the partitive singular form of 'tüdruk' meaning 'girl'. In this context, it appears in a phrase about fondling or touching girls/kids. The main verb here would be 'katsuda' which means to touch with hands/fingers. This usage describes inappropriate physical contact towards young girls."
 }

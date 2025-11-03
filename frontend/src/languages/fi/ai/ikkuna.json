@@ -1,14 +1,13 @@
 {
   "understood": true,
   "sentences": [
-    "Ikkuna on auki.",
-    "Katso ikkunasta ulos.",
-    "Sulje ikkuna, oletko nähnyt kissan?"
+    "Huoneessa on suuri ikkuna.",
+    "Avaa ikkuna, jotta ilma pääsee sisään.",
+    "Ikkunasta näkyy kaunis maisema."
   ],
   "translation": [
     "window",
-    "opening",
-    "aperture"
+    "pane"
   ],
-  "context": "The Finnish word 'ikkuna' primarily means window. It can refer to the glass opening in a wall that allows light and air to enter, or more broadly to any kind of opening or aperture. In its basic form, 'ikkuna' is an object noun that follows standard Finnish grammar rules for nouns."
+  "context": "The Finnish word 'ikkuna' means 'window'. It refers to an opening in a wall or roof for light and air. The word has cognates in other Finno-Ugric languages, potentially influenced by the Russian word for 'icon'.  It can also refer to a period of opportunity (figuratively) or an area on a computer screen (in modern usage). The plural form is 'ikkunat'."
 }

@@ -1,13 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Teie on tere tulemast!",
-    "Kas teie saavad aidata?",
-    "Teie peaksid olema tähelepanelikum."
+    "Töötate, joonistate.",
+    "Poisid, täna lähete teie poodi.",
+    "Teie Peetriga enam välja ei lähe."
   ],
   "translation": [
-    "you (formal/plural)",
-    "your (formal/plural)"
+    "you (plural/polite)",
+    "your",
+    "yours"
   ],
-  "context": "The Estonian word 'teie' is the formal plural second-person pronoun, equivalent to English 'you' when addressing multiple people formally or showing respect. It's used in situations where you would use 'vous' in French or 'Sie' in German - for formal relationships with individuals or when speaking to groups of people regardless of familiarity. Unlike the informal singular 'sina', 'teie' maintains distance and shows politeness."
+  "context": "The Estonian word 'teie' is a second person plural pronoun that can also be used as the polite singular form. It's equivalent to English 'you' when addressing multiple people or using formal address to one person. The short form is 'te'. This pronoun declines into various cases including nominative, genitive, partitive, illative, inessive, elative, allative, adessive, ablative, translative, terminative, essive, abessive, and comitative forms."
 }

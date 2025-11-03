@@ -1,15 +1,16 @@
 {
   "understood": true,
   "sentences": [
-    "Olen õpilane.",
-    "Ta on hea sõber.",
-    "Me oleme pere."
+    "Ole hea!",
+    "Tule ära ole!",
+    "Mis sa oled?"
   ],
   "translation": [
-    "am",
-    "is",
+    "be",
     "are",
-    "be"
+    "is",
+    "exist",
+    "stay"
   ],
-  "context": "The Estonian word 'ole' is a form of the verb 'olema' which means 'to be'. It's primarily used in present tense conjugations. In the first person singular, it becomes 'olen' (I am), and in the third person singular, it becomes 'on' (he/she/it is). The word 'ole' itself often appears as part of compound verb forms or questions. This is a fundamental verb in Estonian used to express existence or identity."
+  "context": "The word 'ole' is the second-person singular imperative form of the Estonian verb 'olema', which means 'to be'. It's used as a command or request, similar to 'be!' in English. In the present indicative connegative form, it can also appear with negation (ei ole) meaning 'is not' or 'are not'. The word is commonly used in everyday speech for commands like telling someone to be good ('Ole hea!') or asking what someone is ('Mis sa oled?')."
 }

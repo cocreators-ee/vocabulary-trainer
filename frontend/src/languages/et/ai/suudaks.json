@@ -1,14 +1,14 @@
 {
   "understood": true,
   "sentences": [
-    "Ma suudaksin aidata sind kodus.",
-    "Kas sa suudaksid tuua mulle veega?",
-    "Ta ei suudakski öelda, miks ta oli hilinen."
+    "Maa suudaks toita arvukamatki elanikkonda.",
+    "Suudad sa mind aidata?",
+    "Ta ei suuda seda teha üksi."
   ],
   "translation": [
-    "could",
     "would be able to",
-    "might manage"
+    "could manage",
+    "would suffice"
   ],
-  "context": "The word 'suudaks' is a conditional form of the verb 'suda', which means 'to be able to' or 'to manage'. It's used in hypothetical situations, expressing capability or possibility under certain conditions. This is similar to English modals like 'could' and 'would be able to' when discussing what might happen or what someone could do in a particular situation."
+  "context": "The word 'suudaks' is a conditional form of the Estonian verb 'suda', which means 'to be able to' or 'to manage'. In this context, it appears in the phrase 'suudaks toita' meaning 'would be able to feed/provide for'. It's used to express possibility or ability under certain conditions. The word is derived from 'suda' (to be able) + '-ks' (conditional suffix)."
 }
