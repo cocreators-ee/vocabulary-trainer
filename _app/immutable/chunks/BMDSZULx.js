@@ -1,0 +1,3 @@
+const n=!0,e=[`mitu ~ kümme tuult jalg(ad)e all
+ei tea, mis tulevik võib tuua, kuhu inimese
+viia.`,"Noorel inimesel on veel kümme tuult jalge all."],t=["to carry","to lead","to bring","to take"],o="The Estonian word 'viia' is a verb that means to carry, lead, bring or take something/someone from one place to another. It indicates movement of an object or person with the purpose of reaching a destination. In the given examples, it's used in the context where someone doesn't know what the future may bring or where life might lead them ('kuhu inimese viia' - where it will take a person).",i={understood:!0,sentences:e,translation:t,context:o};export{o as context,i as default,e as sentences,t as translation,n as understood};
